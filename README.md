@@ -40,15 +40,15 @@ This corpus is composed of 26w utterances both in Chinese and English. It provid
 
 Directory **xmlScript** stores the parsed scripts of the 4 TV series in XML format (in English). 
 
-<div align=center><img width="60%" height="60%" src="./pics/script.png"/></div>
+<div align=left><img width="60%" height="60%" src="./pics/script.png"/></div>
 
 Directory **withSpkr** stores the subtitles annotated with speaker tags and *uid* tags (en & zh parallel).
 
-<div align=center><img width="30%" height="30%" src="./pics/sub.png"/></div>
+<div align=left><img width="30%" height="30%" src="./pics/sub.png"/></div>
 
 Directory **extracted** stores the merged utterances extracted from the annotated subtitles (in Chinese).
 
-<div align=center><img width="80%" height="80%" src="./pics/ext.png"/></div>
+<div align=left><img width="80%" height="80%" src="./pics/ext.png"/></div>
 
 ### Acknowledgments
 
