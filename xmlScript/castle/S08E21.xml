@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+
+<scene id="1"><utterance uid="1-1"><speaker>ALEXIS CASTLE</speaker><content>Hmm. No sign of it letting up.</content></utterance>
+<utterance uid="1-2"><speaker>HAYLEY SHIPTON</speaker><content>We’ll just have to be late. Frankly, I’m in no rush to leave this party, thanks to your father’s excellent taste in scotch and daughters.</content></utterance>
+<utterance uid="1-3"><speaker>ALEXIS</speaker><content>Well, the man knows his stuff.</content></utterance>
+<utterance uid="1-4"><speaker>HAYLEY</speaker><content>Mmm.</content></utterance>
+</scene>
+
+<scene id="2"><utterance uid="2-1"><speaker>HAYLEY</speaker><content>Oh bugger! Come on.</content></utterance>
+<utterance uid="2-2"><speaker>ALEXIS</speaker><content>Must be the storm. Hold on, I know my dad keeps a flashlight here somewhere.</content></utterance>
+</scene>
+
+<scene id="3"><utterance uid="3-1"><speaker>ALEXIS</speaker><content>Did you hear that?</content></utterance>
+<utterance uid="3-2"><speaker>HAYLEY</speaker><content>Is someone trying to break in?</content></utterance>
+<utterance uid="3-3"><speaker>MAN</speaker><content>Finis omnium venit est.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>RICHARD CASTLE</speaker><content>So, the power is out, the phones are down. You know what that means? No late night calls from work to interrupt our game of naked Twister. Wait, why are you so dressed?</content></utterance>
+<utterance uid="4-2"><speaker>KATE BECKETT</speaker><content>I’ve got to go to the precinct.</content></utterance>
+<utterance uid="4-3"><speaker>CASTLE</speaker><content>What? Now? There’s – there’s nothing more romantic than a blackout.</content></utterance>
+<utterance uid="4-4"><speaker>BECKETT</speaker><content>Yeah, and nothing more deadly. You know as well as I do that as soon as the lights go out, bad things happen.</content></utterance>
+<utterance uid="4-5"><speaker>BECKETT</speaker><content>What the hell is that?</content></utterance>
+<utterance uid="4-6"><speaker>CASTLE</speaker><content>The panic signal from the PI office. I had it set up for when Alexis is there by herself.</content></utterance>
+<utterance uid="4-7"><speaker>CASTLE</speaker><content>No service.</content></utterance>
+<utterance uid="4-8"><speaker>BECKETT</speaker><content>This is Captain Beckett to central –</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>CASTLE</speaker><content>Alexis? What happened? You all right?</content></utterance>
+<utterance uid="5-2"><speaker>ALEXIS</speaker><content>Yeah. That guy broke in with an axe yelling something in Latin and then he just dropped dead.</content></utterance>
+<utterance uid="5-3"><speaker>CASTLE</speaker><content>What did he say?</content></utterance>
+<utterance uid="5-4"><speaker>ALEXIS</speaker><content>I don’t know. It all happened so fast.</content></utterance>
+<utterance uid="5-5"><speaker>BECKETT</speaker><content>Is that what he broke in with?</content></utterance>
+<utterance uid="5-6"><speaker>HAYLEY</speaker><content>Yep. Talk about crashing a party. Turns out it’s the fire axe from the downstairs lobby.</content></utterance>
+<utterance uid="5-7"><speaker>BECKETT</speaker><content>So our intruder must have grabbed it on his way up. But why? I mean, there’s easier ways to break into this office.</content></utterance>
+<utterance uid="5-8"><speaker>HAYLEY</speaker><content>Yeah, and more silent. He certainly wasn’t planning on sneaking up on anyone.</content></utterance>
+<utterance uid="5-9"><speaker>BECKETT</speaker><content>You get an ID on the guy?</content></utterance>
+<utterance uid="5-10"><speaker>HAYLEY</speaker><content>No, no wallet, and your portable fingerprint thingamajigy is down due to the weather.</content></utterance>
+<utterance uid="5-11"><speaker>LANIE PARISH</speaker><content>He bled to death from a wound on his left side. My guess is whatever he was stabbed with punctured his subclavian artery. After that he would have had thirty minutes to an hour, tops.</content></utterance>
+<utterance uid="5-12"><speaker>HAYLEY</speaker><content>Well, he came in here with this around … 9PM? He keeled over shortly thereafter.</content></utterance>
+<utterance uid="5-13"><speaker>BECKETT</speaker><content>So he must have been stabbed between 8 and 8:30. There’s a – there’s a hospital bracelet.  Our intruder’s name is G. Shaw and he was a patient at – Peakmore Psychiatric Facility?</content></utterance>
+<utterance uid="5-14"><speaker>CASTLE</speaker><content>Yikes.</content></utterance>
+<utterance uid="5-15"><speaker>HAYLEY</speaker><content>You know it?</content></utterance>
+<utterance uid="5-16"><speaker>CASTLE</speaker><content>It’s a psychiatric hospital for the criminally insane. Our axe wielding psycho is an escaped mental patient.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>KEVIN RYAN</speaker><content>The backup generator’s not working so well.</content></utterance>
+<utterance uid="6-2"><speaker>JAVIER ESPOSITO</speaker><content>Yeah, place like this you’d think would be state of the art.</content></utterance>
+<utterance uid="6-3"><speaker>CASTLE</speaker><content>We’re here about an escaped inmate. Just tried to kill two people with an axe?</content></utterance>
+<utterance uid="6-4"><speaker>SECURITY GUARD</speaker><content>Uh … wait here.</content></utterance>
+<utterance uid="6-5"><speaker>ESPOSITO</speaker><content>Yo. I’d try to escape too, if I lived here. Who knows what they’re doing to him back there.</content></utterance>
+<utterance uid="6-6"><speaker>CASTLE</speaker><content>Can’t be anything worse than what we did historically. Many cultures mistook mental illness for a sign of sorcery. Treatments ranged from, well, prayer to drilling holes in the skull to release the demons.</content></utterance>
+<utterance uid="6-7"><speaker>RYAN</speaker><content>Definitely a case of the cure being worse than the disease.</content></utterance>
+<utterance uid="6-8"><speaker>GUARD</speaker><content>The director’s coming out now.</content></utterance>
+<utterance uid="6-9"><speaker>ESPOSITO</speaker><content>Thanks, man.</content></utterance>
+<utterance uid="6-10"><speaker>CASTLE</speaker><content>No, he found us. But not before he was fatally stabbed.</content></utterance>
+<utterance uid="6-11"><speaker>MARTIN</speaker><content>That’s terrible. Gabriel Shaw’s been here at Peakmore for the last twenty years.</content></utterance>
+<utterance uid="6-12"><speaker>CASTLE</speaker><content>What’d he do?</content></utterance>
+<utterance uid="6-13"><speaker>MARTIN</speaker><content>He broke into the house of a man named Warren Crowne. Tried to kill him and his entire family.</content></utterance>
+<utterance uid="6-14"><speaker>CASTLE</speaker><content>Warren Crowne the philanthropist? I remember the headlines. Didn’t his attacker say he was some kind of avenging angel?</content></utterance>
+<utterance uid="6-15"><speaker>RYAN</speaker><content>The archangel Gabriel, the divine messenger. Catechism class.</content></utterance>
+<utterance uid="6-16"><speaker>MARTIN</speaker><content>Gabriel was convinced that he was on a mission from God to rid the world of evil. It was a mission that even twenty years of antipsychotic drugs and electroshock therapy could not dissuade him from.</content></utterance>
+<utterance uid="6-17"><speaker>ESPOSITO</speaker><content>Any idea who might have wanted him dead?</content></utterance>
+<utterance uid="6-18"><speaker>MARTIN</speaker><content>None. Gabriel’s contact with the outside world was virtually nil. His room’s down here.</content></utterance>
+<utterance uid="6-19"><speaker>RYAN</speaker><content>Any idea how he might have escaped?</content></utterance>
+<utterance uid="6-20"><speaker>MARTIN</speaker><content>Yes, he stole a keycard from one of our orderlies. Uh, we realized he was missing around noon today.</content></utterance>
+<utterance uid="6-21"><speaker>RYAN</speaker><content>Noon? Why the hell didn’t you call the police before?</content></utterance>
+<utterance uid="6-22"><speaker>MARTIN</speaker><content>We should have, I realize that now –</content></utterance>
+<utterance uid="6-23"><speaker>CASTLE</speaker><content>The man came to my office wielding an axe.</content></utterance>
+<utterance uid="6-24"><speaker>MARTIN</speaker><content>Which is why I sent out a group of orderlies looking for Gabriel. They searched all day and came back empty handed. Except …</content></utterance>
+<utterance uid="6-25"><speaker>RYAN</speaker><content>Except what?</content></utterance>
+<utterance uid="6-26"><speaker>MARTIN</speaker><content>One of the orderlies hasn’t come back yet. Dave Holmby. I – I tried calling him but the phones were out.</content></utterance>
+<utterance uid="6-27"><speaker>RYAN</speaker><content>Have Dave and Gabriel had any problems in the past?</content></utterance>
+<utterance uid="6-28"><speaker>MARTIN</speaker><content>They’ve had … issues, yes. In fact, it was Dave’s keycard that Gabriel stole.  But Dave’s been with us a long time. He’s not the type of person to kill anyone, if that’s what you’re thinking.</content></utterance>
+<utterance uid="6-29"><speaker>ESPOSITO</speaker><content>You sent an orderly out to recapture a violent, mentally unstable man. It’s possible he was trying to subdue Gabriel and things got out of control.</content></utterance>
+<utterance uid="6-30"><speaker>RYAN</speaker><content>So Dave stabs Gabriel and then loses him in the storm.</content></utterance>
+<utterance uid="6-31"><speaker>CASTLE</speaker><content>Guys, are you hearing that?</content></utterance>
+<utterance uid="6-32"><speaker>CASTLE</speaker><content>There’s something in here.</content></utterance>
+<utterance uid="6-33"><speaker>CASTLE</speaker><content>Might have told me about your rodent problem.</content></utterance>
+<utterance uid="6-34"><speaker>MARTIN</speaker><content>We don’t have one. Not usually.</content></utterance>
+<utterance uid="6-35"><speaker>CASTLE</speaker><content>Really?</content></utterance>
+<utterance uid="6-36"><speaker>RYAN</speaker><content>Must have been driven to higher ground by the storm. Is that a bible?</content></utterance>
+<utterance uid="6-37"><speaker>CASTLE</speaker><content>Yeah, but with drawings of demons. Page after page of them.</content></utterance>
+<utterance uid="6-38"><speaker>LANIE</speaker><content>Ryan? Javi? Anyone there?</content></utterance>
+<utterance uid="6-39"><speaker>RYAN</speaker><content>Yeah, Lanie, we’re here. Go ahead.</content></utterance>
+<utterance uid="6-40"><speaker>LANIE</speaker><content>Well, get your ass to the morgue. I found something disturbing.</content></utterance>
+<utterance uid="6-41"><speaker>CASTLE</speaker><content>Yeah well, that seems to be going around.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>CASTLE</speaker><content>So, what is so … whoa, is that blood?</content></utterance>
+<utterance uid="7-2"><speaker>BECKETT</speaker><content> Well, not according to Lanie.</content></utterance>
+<utterance uid="7-3"><speaker>RYAN</speaker><content>Then … what is it?</content></utterance>
+<utterance uid="7-4"><speaker>BECKETT</speaker><content>Some kind of ink. Lanie sent samples to the lab, but one thing that we do know is based on the writing there’s no way that Gabriel did this to himself.</content></utterance>
+<utterance uid="7-5"><speaker>ESPOSITO</speaker><content>So then, someone at the hospital.</content></utterance>
+<utterance uid="7-6"><speaker>BECKETT</speaker><content>Yeah, I called, and they said that he didn’t have any writing on him when he escaped this morning.</content></utterance>
+<utterance uid="7-7"><speaker>CASTLE</speaker><content>The roman numerals are bible verses and the words are all in Latin.  “Protect me, oh Lord, from the hands of the wicked.”</content></utterance>
+<utterance uid="7-8"><speaker>RYAN</speaker><content>That’s a prayer for salvation.</content></utterance>
+<utterance uid="7-9"><speaker>ESPOSITO</speaker><content>Sounds like he was scared. But of what?</content></utterance>
+<utterance uid="7-10"><speaker>LANIE</speaker><content>The mysteries don’t stop there.  When I conducted the autopsy I found that the wound had been inflicted by some kind of talon or claw.</content></utterance>
+<utterance uid="7-11"><speaker>RYAN</speaker><content>Like an animal?</content></utterance>
+<utterance uid="7-12"><speaker>LANIE</speaker><content>It gets even weirder. There was a strange substance inside the wound.</content></utterance>
+<utterance uid="7-13"><speaker>CASTLE</speaker><content>Let me guess: sulfur?</content></utterance>
+<utterance uid="7-14"><speaker>LANIE</speaker><content>Yeah. How’d you know?</content></utterance>
+<utterance uid="7-15"><speaker>CASTLE</speaker><content>Guys, isn’t it obvious? Latin prayers, a claw, sulfur, also known as brimstone?</content></utterance>
+<utterance uid="7-16"><speaker>ESPOSITO</speaker><content>Come on, Castle.</content></utterance>
+<utterance uid="7-17"><speaker>BECKETT</speaker><content>Castle, you don’t think that –</content></utterance>
+<utterance uid="7-18"><speaker>CASTLE</speaker><content>Oh, but I do. We all have our demons. But Gabriel was killed by his.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>BECKETT</speaker><content>What did I tell you? I mean, as soon as the lights go out bad things happen. You know, at least the precinct is on a backup generator because the rest of the city’s going to have intermittent power.  Today’s going to be hell.</content></utterance>
+<utterance uid="8-2"><speaker>CASTLE</speaker><content>That’s appropriate, since that’s the likely place our killer is from.  You know, do you think we’re going to need specialized equipment to catch this demon murderer? Something exorcism-esque?</content></utterance>
+<utterance uid="8-3"><speaker>BECKETT</speaker><content>There’s nothing supernatural about this case.</content></utterance>
+<utterance uid="8-4"><speaker>CASTLE</speaker><content>Our victim was stabbed with a brimstone covered claw. Or gored by a horn, perhaps. Now, what but a demon could do that?</content></utterance>
+<utterance uid="8-5"><speaker>BECKETT</speaker><content>Look, Ryan and Espo are bringing in Dave Holmby, our rogue orderly, and I am sure that they are going to get a very sane and grounded explanation as to why he killed Gabriel Shaw.</content></utterance>
+<utterance uid="8-6"><speaker>CASTLE</speaker><content>Seek the truth and thou shall be enlightened.</content></utterance>
+<utterance uid="8-7"><speaker>BECKETT</speaker><content>Is that scripture?</content></utterance>
+<utterance uid="8-8"><speaker>CASTLE</speaker><content>From the book of Castle.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>ESPOSITO</speaker><content>Hot damn, that was some storm.</content></utterance>
+<utterance uid="9-2"><speaker>RYAN</speaker><content>Seriously. Fit for neither man nor beast. I can only imagine how hard it was to track down an escaped mental patient in the middle of it?</content></utterance>
+<utterance uid="9-3"><speaker>ESPOSITO</speaker><content>Yeah, that was some Sherlock-level detective work, Dave. NYPD would be lucky to have someone like you.</content></utterance>
+<utterance uid="9-4"><speaker>RYAN</speaker><content>Mmm.</content></utterance>
+<utterance uid="9-5"><speaker>ESPOSITO</speaker><content>You know what we should do?</content></utterance>
+<utterance uid="9-6"><speaker>RYAN</speaker><content>Hmm?</content></utterance>
+<utterance uid="9-7"><speaker>ESPOSITO</speaker><content>Get him an application.</content></utterance>
+<utterance uid="9-8"><speaker>RYAN</speaker><content>Ooh, that’s a good idea.</content></utterance>
+<utterance uid="9-9"><speaker>RYAN</speaker><content>Oh, no, there’s that whole murder issue.</content></utterance>
+<utterance uid="9-10"><speaker>ESPOSITO</speaker><content>Right.</content></utterance>
+<utterance uid="9-11"><speaker>RYAN</speaker><content>Yep.</content></utterance>
+<utterance uid="9-12"><speaker>ESPOSITO</speaker><content>If only you wouldn’t have killed Shaw last night after you caught him. Not that I don’t sympathize, I mean, he stole your keycard.</content></utterance>
+<utterance uid="9-13"><speaker>RYAN</speaker><content>Yep.</content></utterance>
+<utterance uid="9-14"><speaker>ESPOSITO</speaker><content>You were probably going to get fired.</content></utterance>
+<utterance uid="9-15"><speaker>DAVE HOLMBY</speaker><content>Wait a minute, when I left Shaw he was still alive.</content></utterance>
+<utterance uid="9-16"><speaker>RYAN</speaker><content>Oh, so you admit to seeing him after he escaped?</content></utterance>
+<utterance uid="9-17"><speaker>DAVE</speaker><content>Yeah. I – look, he used to talk about this church on 87th Street. So I went up there. There he was, walking out. I grabbed him, I tried to drag him into my car, but –</content></utterance>
+<utterance uid="9-18"><speaker>RYAN</speaker><content>But what?</content></utterance>
+<utterance uid="9-19"><speaker>DAVE</speaker><content> He knew that I was … liberating meds from patients and selling them on the street.</content></utterance>
+<utterance uid="9-20"><speaker>ESPOSITO</speaker><content>Let me guess, he told you that if you took him back he was going to rat you out?</content></utterance>
+<utterance uid="9-21"><speaker>DAVE</speaker><content>I wish he said that. He promised he was going to out me no matter what.</content></utterance>
+<utterance uid="9-22"><speaker>RYAN</speaker><content> That sounds like even more of a motive to stab the guy.</content></utterance>
+<utterance uid="9-23"><speaker>DAVE</speaker><content>I swear, I let him go. He was alive at 4:30 yesterday and that was the last time I saw him.</content></utterance>
+<utterance uid="9-24"><speaker>RYAN</speaker><content>So why didn’t you go back to Peakmore? Why were you hiding out at your girlfriend’s apartment?</content></utterance>
+<utterance uid="9-25"><speaker>DAVE</speaker><content>I wasn’t hiding! I figured that Shaw was going to get caught sooner or later which meant that I was out of a job no matter what. So I said, screw it, might as well take the rest of the night off and … you know, spend some time with my girl.</content></utterance>
+<utterance uid="9-26"><speaker>ESPOSITO</speaker><content>All right, let’s pretend that that’s true. Why now? After twenty years of confinement why would Shaw decide to break out?</content></utterance>
+<utterance uid="9-27"><speaker>DAVE</speaker><content>All I know is that in the past few weeks he was really amped up.</content></utterance>
+<utterance uid="9-28"><speaker>RYAN</speaker><content>Why? Something happen to him?</content></utterance>
+<utterance uid="9-29"><speaker>DAVE</speaker><content>Not something. Someone. A visitor.</content></utterance>
+<utterance uid="9-30"><speaker>ESPOSITO</speaker><content>Who?</content></utterance>
+<utterance uid="9-31"><speaker>DAVE</speaker><content>I don’t know. But whoever it was really set Shaw off. I mean, he was already disturbed but after this guy came by he got even worse.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>ALEXIS</speaker><content>So I pulled the police file and court records for Shaw’s prosecution twenty years ago. And according to this, Shaw’s attack on the Crowne family was anything but random. He was working as a consultant for a PI named Noah Kramer.</content></utterance>
+<utterance uid="10-2"><speaker>HAYLEY</speaker><content>What kind of consultant?</content></utterance>
+<utterance uid="10-3"><speaker>ALEXIS</speaker><content>Spiritual. Kramer had been hired to investigate the Crowne family.</content></utterance>
+<utterance uid="10-4"><speaker>HAYLEY</speaker><content>Wait, wait. Why would a PI hire a spiritual consultant to help investigate a billionaire philanthropist?</content></utterance>
+<utterance uid="10-5"><speaker>HAYLEY</speaker><content>What?</content></utterance>
+<utterance uid="10-6"><speaker>ALEXIS</speaker><content>I know why Shaw came to this office. Twenty years ago this was Noah Kramer’s office.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>CASTLE</speaker><content>Ooh. Updating the murder board must mean Holmby’s alibi checked out?</content></utterance>
+<utterance uid="11-2"><speaker>RYAN</speaker><content>That it did.</content></utterance>
+<utterance uid="11-3"><speaker>CASTLE</speaker><content>Yes!</content></utterance>
+<utterance uid="11-4"><speaker>RYAN</speaker><content>Really?</content></utterance>
+<utterance uid="11-5"><speaker>CASTLE</speaker><content>Come on, I’m just excited to get off the whole orderly thing and onto the trail of the true killer. Which is most likely a road paved to hell, because we all know that’s where demons come from.</content></utterance>
+<utterance uid="11-6"><speaker>RYAN</speaker><content>Well, I will be sure to cross reference Shaw’s visitor against the list of fallen angels, okay?</content></utterance>
+<utterance uid="11-7"><speaker>CASTLE</speaker><content>Has Esposito gotten the visitor logs yet?</content></utterance>
+<utterance uid="11-8"><speaker>RYAN</speaker><content>Well, he’s trying, but the power outage is slowing everything down.  Something wrong?</content></utterance>
+<utterance uid="11-9"><speaker>CASTLE</speaker><content>Look at that.</content></utterance>
+<utterance uid="11-10"><speaker>RYAN</speaker><content>Yeah, looks just like a lens flare. Why?</content></utterance>
+<utterance uid="11-11"><speaker>CASTLE</speaker><content>There it is again.</content></utterance>
+<utterance uid="11-12"><speaker>RYAN</speaker><content>Weird.</content></utterance>
+<utterance uid="11-13"><speaker>CASTLE</speaker><content>That’s not –  – Hey.</content></utterance>
+<utterance uid="11-14"><speaker>ALEXIS</speaker><content>Dad, Hayley and I did some digging and twenty years ago Gabriel Shaw worked as a consultant for a PI named Noah Kramer who worked out of your office.</content></utterance>
+<utterance uid="11-15"><speaker>CASTLE</speaker><content>Then it’s possible that Shaw came there with the axe looking for Kramer.</content></utterance>
+<utterance uid="11-16"><speaker>HAYLEY</speaker><content>Well, it’s a nice theory, but Kramer’s long dead. He was killed in an accident a year and a half after Shaw was committed to Peakmore.</content></utterance>
+<utterance uid="11-17"><speaker>CASTLE</speaker><content>What kind of an accident?</content></utterance>
+<utterance uid="11-18"><speaker>ALEXIS</speaker><content>He was impaled by a pipe that fell at a construction site.</content></utterance>
+<utterance uid="11-19"><speaker>CASTLE</speaker><content>Okay. That’s horrible. But still, it’s possible that Shaw was delusional enough to believe that Kramer was still alive.</content></utterance>
+<utterance uid="11-20"><speaker>HAYLEY</speaker><content>Maybe. You know, Kramer’s wife and kids still live in the city. Perhaps they can shed some light on Shaw’s motives.</content></utterance>
+<utterance uid="11-21"><speaker>CASTLE</speaker><content>Give me an address for them.  Write this down.  Hang on, let me get a pen.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>SONDRA KRAMER</speaker><content>Gabriel Shaw is dead?</content></utterance>
+<utterance uid="12-2"><speaker>RYAN</speaker><content>Mmm.</content></utterance>
+<utterance uid="12-3"><speaker>SONDRA</speaker><content>We just saw him yesterday.</content></utterance>
+<utterance uid="12-4"><speaker>CASTLE</speaker><content>Where?</content></utterance>
+<utterance uid="12-5"><speaker>SONDRA</speaker><content>Well, he came by the house. He said he was released from Peakmore.</content></utterance>
+<utterance uid="12-6"><speaker>RYAN</speaker><content>What did he want?</content></utterance>
+<utterance uid="12-7"><speaker>MARSHALL KRAMER</speaker><content>He was looking for stuff he left with my dad twenty years ago.</content></utterance>
+<utterance uid="12-8"><speaker>CASTLE</speaker><content>What kind of stuff?</content></utterance>
+<utterance uid="12-9"><speaker>MARSHALL</speaker><content>I don’t know, I didn’t ask. We –  – we didn’t want anything to do with him. He ruined my dad’s life.</content></utterance>
+<utterance uid="12-10"><speaker>SONDRA</speaker><content>Marshall’s too young to remember, but he’s well aware of how Gabriel Shaw ruined our family. After Shaw attacked the Crownes my husband’s reputation was destroyed. Noah was shocked to think that a man he befriended could have hidden such … evil. Noah thought the work they did together was a mistake and thought it needed to be buried.</content></utterance>
+<utterance uid="12-11"><speaker>RYAN</speaker><content>So do you have anything of Shaw’s?</content></utterance>
+<utterance uid="12-12"><speaker>SONDRA</speaker><content>Oh, no. No. After my husband died I just couldn’t bear going into his office so I hired a company to sell off the furniture and just dump the rest. I told Shaw all of this before he left.</content></utterance>
+<utterance uid="12-13"><speaker>RYAN</speaker><content>What time was that?</content></utterance>
+<utterance uid="12-14"><speaker>MARSHALL</speaker><content>Around five o’clock.</content></utterance>
+<utterance uid="12-15"><speaker>CASTLE</speaker><content>That’s still three and a half hours before he met his murderer.</content></utterance>
+<utterance uid="12-16"><speaker>RYAN</speaker><content>Yeah.  Did he mention anything about where he was going next?</content></utterance>
+<utterance uid="12-17"><speaker>SONDRA</speaker><content>No, but he said something in Latin before he walked away.</content></utterance>
+<utterance uid="12-18"><speaker>CASTLE</speaker><content>Do you remember what that was? It could be very important.</content></utterance>
+<utterance uid="12-19"><speaker>SONDRA</speaker><content>Finis omnium …  I don’t know.</content></utterance>
+<utterance uid="12-20"><speaker>MARSHALL</speaker><content>- venit est.</content></utterance>
+<utterance uid="12-21"><speaker>CASTLE</speaker><content>Finis omnium venit est.</content></utterance>
+<utterance uid="12-22"><speaker>RYAN</speaker><content>The end is upon us.</content></utterance>
+<utterance uid="12-23"><speaker>CASTLE</speaker><content>The end is upon us.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>CASTLE</speaker><content>I know why Shaw came here wielding an axe last night.</content></utterance>
+<utterance uid="13-2"><speaker>HAYLEY</speaker><content>To commit unholy murder on two unbelievably exceptional women?</content></utterance>
+<utterance uid="13-3"><speaker>CASTLE</speaker><content>Close, but no. He was trying to get in there.</content></utterance>
+<utterance uid="13-4"><speaker>HAYLEY</speaker><content>The safe?</content></utterance>
+<utterance uid="13-5"><speaker>CASTLE</speaker><content>This was all dry-walled over when I rented the office. The contractors found it when I was doing the renovations. The landlord thought it had been removed, but clearly Noah Kramer walled it up before he died, intent on burying whatever he and Shaw were working on.</content></utterance>
+<utterance uid="13-6"><speaker>ALEXIS</speaker><content>That’s why Shaw grabbed the axe. To try and break into the safe.</content></utterance>
+<utterance uid="13-7"><speaker>HAYLEY</speaker><content>So what’s inside?</content></utterance>
+<utterance uid="13-8"><speaker>CASTLE</speaker><content>I don’t know.</content></utterance>
+<utterance uid="13-9"><speaker>HAYLEY</speaker><content>Wait a minute. You’ve never opened – why the hell not?</content></utterance>
+<utterance uid="13-10"><speaker>CASTLE</speaker><content>Schrödinger’s cat.</content></utterance>
+<utterance uid="13-11"><speaker>HAYLEY</speaker><content> Oh God, is this another one –</content></utterance>
+<utterance uid="13-12"><speaker>ALEXIS</speaker><content> Uh huh.</content></utterance>
+<utterance uid="13-13"><speaker>HAYLEY</speaker><content>- great.</content></utterance>
+<utterance uid="13-14"><speaker>CASTLE</speaker><content>No, no. It’s – look, if I opened it I was bound to be disappointed with whatever it was that was inside. If I never opened it, literally anything I imagined could be in there.</content></utterance>
+<utterance uid="13-15"><speaker>HAYLEY</speaker><content>So you chose fantasy over reality.</content></utterance>
+<utterance uid="13-16"><speaker>CASTLE</speaker><content>Well, duh.</content></utterance>
+<utterance uid="13-17"><speaker>ALEXIS</speaker><content>But we’re going to open it now, right?</content></utterance>
+<utterance uid="13-18"><speaker>CASTLE</speaker><content>Well, duh. When an axe-wielding psychopath is killed by a demon trying to get inside, clearly whatever’s in there is worth seeing. If only I knew someone who could crack a safe …</content></utterance>
+<utterance uid="13-19"><speaker>HAYLEY</speaker><content>It’s a Jefferson Titanium 500 vault.</content></utterance>
+<utterance uid="13-20"><speaker>CASTLE</speaker><content>Meaning?</content></utterance>
+<utterance uid="13-21"><speaker>HAYLEY</speaker><content>I need twenty eight minutes and a chocolate milkshake.</content></utterance>
+<utterance uid="13-22"><speaker>CASTLE</speaker><content>You’re kidding.</content></utterance>
+<utterance uid="13-23"><speaker>HAYLEY</speaker><content>Chocolate milkshake.</content></utterance>
+<utterance uid="13-24"><speaker>CASTLE</speaker><content>Chocolate milkshake.</content></utterance>
+<utterance uid="13-25"><speaker>ALEXIS</speaker><content>Chocolate milkshake.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>ESPOSITO</speaker><content>Captain.</content></utterance>
+<utterance uid="14-2"><speaker>BECKETT</speaker><content>Yeah?</content></utterance>
+<utterance uid="14-3"><speaker>ESPOSITO</speaker><content>According to Peakmore’s visitor’s logs, the person who came to see Shaw was named Dennis Wormwood.</content></utterance>
+<utterance uid="14-4"><speaker>BECKETT</speaker><content>Oh, good. Any luck finding him.</content></utterance>
+<utterance uid="14-5"><speaker>ESPOSITO</speaker><content>No, because it’s a fake name.</content></utterance>
+<utterance uid="14-6"><speaker>BECKETT</speaker><content>Okay, well, Peakmore must have security video. Pull the feed, see if you can ID him.</content></utterance>
+<utterance uid="14-7"><speaker>ESPOSITO</speaker><content>I did. Check this out.</content></utterance>
+<utterance uid="14-8"><speaker>BECKETT</speaker><content>Oh. That’s strange.</content></utterance>
+<utterance uid="14-9"><speaker>ESPOSITO</speaker><content>Creepy is more like it. So do you think Castle’s right about –</content></utterance>
+<utterance uid="14-10"><speaker>BECKETT</speaker><content>No, no, no. Don’t even add fuel to that fire. Whoever gave the fake name must have sabotaged the video in order to keep that visit a secret, which makes them look even more like our killer.</content></utterance>
+<utterance uid="14-11"><speaker>ESPOSITO</speaker><content>All right, I’ll keep digging.</content></utterance>
+<utterance uid="14-12"><speaker>BECKETT</speaker><content>Okay.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>CASTLE</speaker><content>Is this – this is – this is loud. I’m going to – </content></utterance>
+<utterance uid="15-2"><speaker>HAYLEY</speaker><content>Got it. Okay, it’s your last chance to let your imagination run wild.</content></utterance>
+<utterance uid="15-3"><speaker>CASTLE</speaker><content>I’m good.</content></utterance>
+<utterance uid="15-4"><speaker>ALEXIS</speaker><content>Uh, maybe we shouldn’t? Given the whole satanic escaped mental patient angle?</content></utterance>
+<utterance uid="15-5"><speaker>CASTLE</speaker><content>Alexis, we can’t let fear control our actions.</content></utterance>
+<utterance uid="15-6"><speaker>ALEXIS</speaker><content> Care to rethink that?</content></utterance>
+<utterance uid="15-7"><speaker>CASTLE</speaker><content>Here we go.</content></utterance>
+<utterance uid="15-8"><speaker>ALEXIS</speaker><content>What is it all?</content></utterance>
+<utterance uid="15-9"><speaker>CASTLE</speaker><content>Looks like … research.</content></utterance>
+<utterance uid="15-10"><speaker>ALEXIS</speaker><content>Into what?</content></utterance>
+<utterance uid="15-11"><speaker>CASTLE</speaker><content>The end of days. Which, according to this, is two days from now.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>RYAN</speaker><content>Man, I hate walls of crazy.</content></utterance>
+<utterance uid="16-2"><speaker>CASTLE</speaker><content>What if it’s not crazy? Shaw believed the apocalypse starts in two days.</content></utterance>
+<utterance uid="16-3"><speaker>ALEXIS</speaker><content>Then why did Shaw want to get back inside of here? What was he after?</content></utterance>
+<utterance uid="16-4"><speaker>HAYLEY</speaker><content>Yeah, that’s a good question. It’s insane to think that this has all been sitting right next to us all this time.</content></utterance>
+<utterance uid="16-5"><speaker>ALEXIS</speaker><content>It’s twisted. It looks like they were following this boy, Victor Crowne.</content></utterance>
+<utterance uid="16-6"><speaker>ESPOSITO</speaker><content>Wait, Crowne. That was the family that Shaw tried to murder twenty years ago.</content></utterance>
+<utterance uid="16-7"><speaker>RYAN</speaker><content>Yeah, I looked into them. Warren and Alice Crowne were the parents. They had a nine year old boy named Victor. What’s worse, after surviving Shaw’s attacks they were killed in a freak skiing avalanche and Victor became an orphan.</content></utterance>
+<utterance uid="16-8"><speaker>ALEXIS</speaker><content>Poor kid.</content></utterance>
+<utterance uid="16-9"><speaker>RYAN</speaker><content>Well, yes and no. They were billionaires. Victor stood to inherit the entire fortune.</content></utterance>
+<utterance uid="16-10"><speaker>CASTLE</speaker><content>Are you kidding me? Guys, tell me you’re seeing this. A targeted orphan, standing to inherit an empire, in the center of religious Armageddon plot? Hello? It’s The Omen. Shaw believed that Victor Crowne was the Antichrist.</content></utterance>
+<utterance uid="16-11"><speaker>ALEXIS</speaker><content>The – as in – </content></utterance>
+<utterance uid="16-12"><speaker>CASTLE</speaker><content>As in the personification of the devil, yes, dear. Yes. That’s why Shaw went after the Crownes. He was going after their son.</content></utterance>
+<utterance uid="16-13"><speaker>HAYLEY</speaker><content>Except that was a film.  Please don’t tell me you’re googling the Antichrist right now.</content></utterance>
+<utterance uid="16-14"><speaker>ALEXIS</speaker><content>I’m looking into Victor Crowne. He still lives here in New York.</content></utterance>
+<utterance uid="16-15"><speaker>ESPOSITO</speaker><content>If Shaw believed that Victor was some sort of devil maybe that’s why he escaped from that institution. So that he could finish his mission.</content></utterance>
+<utterance uid="16-16"><speaker>ALEXIS</speaker><content>According to this article, in two days Victor Crowne turns thirty and gains full control over his parents’ empire.</content></utterance>
+<utterance uid="16-17"><speaker>CASTLE</speaker><content>That’s it. Jesus began his ministry when he was thirty. Many people believe that the Antichrist will begin his reign on Earth at the same age. And once his ascension has started it cannot be stopped.  Guys, what if Victor Crowne is the Antichrist and Shaw isn’t crazy?</content></utterance>
+<utterance uid="16-18"><speaker>HAYLEY</speaker><content>No, Rick, he was very crazy. Remember, he tried to kill a child.</content></utterance>
+<utterance uid="16-19"><speaker>ESPOSITO</speaker><content>You know, we still haven’t accounted for all of Shaw’s time after he escaped. If he’s still obsessed with killing Victor there’s a chance he took a run at him last night.</content></utterance>
+<utterance uid="16-20"><speaker>ALEXIS</speaker><content>Except Victor is a full grown man now and able to defend himself.</content></utterance>
+<utterance uid="16-21"><speaker>ESPOSITO</speaker><content>If Victor stabbed Shaw in self-defense he might be too afraid to come forward.</content></utterance>
+<utterance uid="16-22"><speaker>RYAN</speaker><content>We need to talk to this guy.</content></utterance>
+</scene>
+
+<scene id="17"><utterance uid="17-1"><speaker>CASTLE</speaker><content>Come on. Half the city is blacked out but this place is lit up like a Christmas tree?</content></utterance>
+<utterance uid="17-2"><speaker>ESPOSITO</speaker><content>The lights probably run on generators.</content></utterance>
+<utterance uid="17-3"><speaker>CASTLE</speaker><content>Sure. Thermoelectric generators fueled by the flames of hell. Check this out, guys.  Look at this. Billionaire entrepreneur hell bent on saving the world with his water reclamation project? I’m sure.</content></utterance>
+<utterance uid="17-4"><speaker>RYAN</speaker><content>Castle, by all accounts Victor Crowne has helped millions of impoverished people by providing them with clean drinking water.</content></utterance>
+<utterance uid="17-5"><speaker>CASTLE</speaker><content>Or is he infecting us with it?</content></utterance>
+<utterance uid="17-6"><speaker>CASTLE</speaker><content>Ow.</content></utterance>
+<utterance uid="17-7"><speaker>ROLLINS</speaker><content>Gentlemen, follow me this way, please.</content></utterance>
+<utterance uid="17-8"><speaker>ESPOSITO</speaker><content>You stole this from the safe to protect yourself?</content></utterance>
+<utterance uid="17-9"><speaker>RYAN</speaker><content>Castle!</content></utterance>
+<utterance uid="17-10"><speaker>CASTLE</speaker><content>What? You guys have guns.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>VICTOR CROWNE</speaker><content>The NYPD. And Richard Castle, in the flesh.  I’m fans of you all.</content></utterance>
+<utterance uid="18-2"><speaker>CROWNE</speaker><content>Yikes. You got a shock. Don’t you hate when that happens? So, how can I help you fine gentlemen?</content></utterance>
+<utterance uid="18-3"><speaker>RYAN</speaker><content>Mr. Crowne, we just have some questions about this man.</content></utterance>
+<utterance uid="18-4"><speaker>CASTLE</speaker><content>I take it you recognize him.</content></utterance>
+<utterance uid="18-5"><speaker>CROWNE</speaker><content>Gabriel Shaw. Hard face to forget.</content></utterance>
+<utterance uid="18-6"><speaker>ESPOSITO</speaker><content>Have you seen him recently?</content></utterance>
+<utterance uid="18-7"><speaker>CROWNE</speaker><content>Okay, what’s this all about?</content></utterance>
+<utterance uid="18-8"><speaker>RYAN</speaker><content>Shaw’s dead. He escaped from Peakmore yesterday afternoon and was killed later that evening.</content></utterance>
+<utterance uid="18-9"><speaker>CASTLE</speaker><content>You seem pleased.</content></utterance>
+<utterance uid="18-10"><speaker>CROWNE</speaker><content>The man attacked my family, Mr. Castle. You can’t expect me to shed a tear over his demise. Twenty years this face has haunted me.</content></utterance>
+<utterance uid="18-11"><speaker>ESPOSITO</speaker><content>How’s that?</content></utterance>
+<utterance uid="18-12"><speaker>CROWNE</speaker><content>After his attack, my parents and I left the city. My parents perished in a freak accident on that trip.</content></utterance>
+<utterance uid="18-13"><speaker>CASTLE</speaker><content>You blame Shaw for their deaths.</content></utterance>
+<utterance uid="18-14"><speaker>CROWNE</speaker><content>He set those events in motion. That man forever cursed my life. But I’ve turned my pain into a blessing. Channeled all that negative energy into a plan for something good. A better world.  My clean water initiative. We’re launching a global network of offices in just a couple of days.</content></utterance>
+<utterance uid="18-15"><speaker>CASTLE</speaker><content>Oh, on your thirtieth birthday?</content></utterance>
+<utterance uid="18-16"><speaker>CROWNE</speaker><content>As it so happens, yes.</content></utterance>
+<utterance uid="18-17"><speaker>ESPOSITO</speaker><content>Well, I hate to have to ask you this, Mr. Crowne, but where were you last night?</content></utterance>
+<utterance uid="18-18"><speaker>CROWNE</speaker><content>Here. Working. Rollins can provide you with surveillance tapes, if you’d like to verify that.  We’re done here.</content></utterance>
+<utterance uid="18-19"><speaker>ROLLINS</speaker><content>Gentlemen.</content></utterance>
+<utterance uid="18-20"><speaker>CASTLE</speaker><content>What is that – something smells like –</content></utterance>
+<utterance uid="18-21"><speaker>CROWNE</speaker><content>Sulfur. We had an accident during a demonstration yesterday. I’m still working out the kinks.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>ROLLINS</speaker><content>Detectives, I burned those copies of our surveillance tapes.</content></utterance>
+<utterance uid="19-2"><speaker>RYAN</speaker><content>Thank you.</content></utterance>
+<utterance uid="19-3"><speaker>RYAN</speaker><content>Castle?</content></utterance>
+<utterance uid="19-4"><speaker>CASTLE</speaker><content>Geez!</content></utterance>
+<utterance uid="19-5"><speaker>ESPOSITO</speaker><content>What’s with you?</content></utterance>
+<utterance uid="19-6"><speaker>CASTLE</speaker><content>Look!  I’m marked for death!</content></utterance>
+<utterance uid="19-7"><speaker>ESPOSITO</speaker><content>What?</content></utterance>
+<utterance uid="19-8"><speaker>CASTLE</speaker><content>I’m marked for death.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>ESPOSITO</speaker><content>Bro, you have to stop watching these horror films.</content></utterance>
+<utterance uid="20-2"><speaker>CASTLE</speaker><content>That same slash of light appeared in the crime scene photos, okay? In the exact same place –</content></utterance>
+<utterance uid="20-3"><speaker>RYAN</speaker><content>Yeah –</content></utterance>
+<utterance uid="20-4"><speaker>CASTLE</speaker><content>- right across my neck. Now it’s showing up in the video feed? That’s live feed! That cannot be manipulated!</content></utterance>
+<utterance uid="20-5"><speaker>RYAN</speaker><content>Castle, all this stuff about omens and the antichrist …</content></utterance>
+<utterance uid="20-6"><speaker>ESPOSITO</speaker><content>You being marked for death –</content></utterance>
+<utterance uid="20-7"><speaker>RYAN</speaker><content>It’s all in your head.</content></utterance>
+<utterance uid="20-8"><speaker>ESPOSITO</speaker><content>- it’s all in your head.</content></utterance>
+<utterance uid="20-9"><speaker>CASTLE</speaker><content>Guys –</content></utterance>
+<utterance uid="20-10"><speaker>RYAN</speaker><content>Look out!</content></utterance>
+<utterance uid="20-11"><speaker>CASTLE</speaker><content>You were saying?</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>BECKETT</speaker><content>It was a frayed cable.</content></utterance>
+<utterance uid="21-2"><speaker>CASTLE</speaker><content>Yes, yes. I agree. If by “frayed cable” you mean Satan.</content></utterance>
+<utterance uid="21-3"><speaker>BECKETT</speaker><content>Look, Castle, don’t take this the wrong way, but you’re starting to sound crazy. And not your usual crazy. Next level nutter.</content></utterance>
+<utterance uid="21-4"><speaker>CASTLE</speaker><content>Beckett, listen to me. I looked into the cold, soulless eyes of Victor Crowne and let me tell you what I saw.  Evil.</content></utterance>
+<utterance uid="21-5"><speaker>BECKETT</speaker><content>Well, I looked into the surveillance tapes from Victor Crowne’s building and let me tell you what I saw. Victor Crowne, working, all night. He never left the building, Castle. He’s not our killer.</content></utterance>
+<utterance uid="21-6"><speaker>CASTLE</speaker><content> He’s not going to be bound by Earthly laws, Beckett. That’s demon 101.</content></utterance>
+<utterance uid="21-7"><speaker>ESPOSITO</speaker><content>Yo, Cap.  We’re still not having any luck finding out where Shaw was during that time of death window.</content></utterance>
+<utterance uid="21-8"><speaker>BECKETT</speaker><content>Well, someone must have seen him, so get unis to recanvass.</content></utterance>
+<utterance uid="21-9"><speaker>ESPOSITO</speaker><content>All right.</content></utterance>
+<utterance uid="21-10"><speaker>RYAN</speaker><content>Yo, I just got a call from Lanie. Uh, do you remember the Biblical verses painted all over our victim’s body? Well, the lab ran an analysis and the results are … odd. It’s a paste made from a mixture of olive oil, cassia, cinnamon, cymbopogon, and myrrh.</content></utterance>
+<utterance uid="21-11"><speaker>CASTLE</speaker><content>Cymbopogon and myrrh? I’ve seen this somewhere before, I swear it.</content></utterance>
+<utterance uid="21-12"><speaker>RYAN</speaker><content> All right.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>CASTLE</speaker><content>Hey, guys.</content></utterance>
+<utterance uid="22-2"><speaker>ALEXIS</speaker><content>Hey Dad. You wouldn’t believe some of the stuff we’re finding in here.</content></utterance>
+<utterance uid="22-3"><speaker>CASTLE</speaker><content>Did you find a recipe?</content></utterance>
+<utterance uid="22-4"><speaker>ALEXIS</speaker><content>Uh, for what? Antichrist cookies?</content></utterance>
+<utterance uid="22-5"><speaker>CASTLE</speaker><content>No.</content></utterance>
+<utterance uid="22-6"><speaker>CASTLE</speaker><content>Of course not. But – actually, I don’t even – no, all I know is I saw a letter in here that had a recipe on it with uh, olive oil, cassia, cinnamon, cymbopogon, and myrrh.</content></utterance>
+<utterance uid="22-7"><speaker>HAYLEY</speaker><content>Wait, wait, wait a minute. Why does that sound so familiar? Hold on, hold on, hold on. Um … yeah, here it is. Uh huh. It’s addressed to Gabriel Shaw from a Carl von Ecklund. Now, the letter goes on and on and on about anointing oil that was used in ancient times to prepare the righteous for battle against demons, and the ingredients include cymbopogon and myrrh. Okay, now listen to this part: “find me when it’s your turn to answer the call. I will prepare you for your battle against evil.”</content></utterance>
+<utterance uid="22-8"><speaker>ESPOSITO</speaker><content>Who was the guy who wrote that?</content></utterance>
+<utterance uid="22-9"><speaker>RYAN</speaker><content>Carl von Ecklund.</content></utterance>
+<utterance uid="22-10"><speaker>CASTLE</speaker><content>We really need to talk to this guy.</content></utterance>
+<utterance uid="22-11"><speaker>RYAN</speaker><content>Well, um … he’s dead, so unless you have a Ouija board around here it might be a bit of a challenge.</content></utterance>
+<utterance uid="22-12"><speaker>ALEXIS</speaker><content>How did he die?</content></utterance>
+<utterance uid="22-13"><speaker>RYAN</speaker><content>It looks like he had a fatal heart attack on December 13th, 1996.</content></utterance>
+<utterance uid="22-14"><speaker>HAYLEY</speaker><content>Ooh, that was just one month after this letter was written.</content></utterance>
+<utterance uid="22-15"><speaker>ESPOSITO</speaker><content>And a week after Gabriel Shaw was sent to Peakmore.</content></utterance>
+<utterance uid="22-16"><speaker>CASTLE</speaker><content>Wait a minute, if Shaw was institutionalized it’s possible he didn’t know Carl von Ecklund was dead.</content></utterance>
+<utterance uid="22-17"><speaker>ALEXIS</speaker><content>Which means, after he broke out he probably went to von Ecklund’s apartment to get prepared for his supposed demonic battle.</content></utterance>
+<utterance uid="22-18"><speaker>CASTLE</speaker><content>Ryan, who lives in von Ecklund’s apartment now?</content></utterance>
+<utterance uid="22-19"><speaker>RYAN</speaker><content>His son, Oscar. Looks like he moved in after his father died.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>CASTLE</speaker><content>Nice place. It’s very, um … eclectic.</content></utterance>
+<utterance uid="23-2"><speaker>OSCAR VON ECKLUND</speaker><content>Yeah, it’s creepy as all hell. But it’s my dad’s old stuff. I never had the heart to get rid of any of it.</content></utterance>
+<utterance uid="23-3"><speaker>CASTLE</speaker><content>So you didn’t follow in your father’s religious footsteps?</content></utterance>
+<utterance uid="23-4"><speaker>OSCAR</speaker><content> Oh, no. It’s all mumbo jumbo.</content></utterance>
+<utterance uid="23-5"><speaker>ESPOSITO</speaker><content>Twenty bucks?</content></utterance>
+<utterance uid="23-6"><speaker>OSCAR</speaker><content>Hey, man’s gotta eat, right? So I make a little money on the side, selling blessed crap to suckers. You know, blessed candles, blessed crosses …  Can I interest you in a blessed bracelet?</content></utterance>
+<utterance uid="23-7"><speaker>RYAN</speaker><content>No. But uh, we are interested in this man. Was he here last night?</content></utterance>
+<utterance uid="23-8"><speaker>OSCAR</speaker><content>Yeah. Around six. Gabriel something. He was looking for my old man.</content></utterance>
+<utterance uid="23-9"><speaker>CASTLE</speaker><content>He wanted your father to anoint him with the oil for spiritual battle.</content></utterance>
+<utterance uid="23-10"><speaker>OSCAR</speaker><content>How do you know that?</content></utterance>
+<utterance uid="23-11"><speaker>ESPOSITO</speaker><content>Did you anoint him, Oscar?</content></utterance>
+<utterance uid="23-12"><speaker>OSCAR</speaker><content>For fifty bucks? Hell yeah I did.  What? I was desperate. So I grabbed one of Pop’s old books and I whipped up a batch of the anointing oil and I uh, wrote some bible verses on him. It gave him great peace.</content></utterance>
+<utterance uid="23-13"><speaker>RYAN</speaker><content>Well, that peace didn’t last. The man’s dead.</content></utterance>
+<utterance uid="23-14"><speaker>OSCAR</speaker><content>Really? What happened to him?</content></utterance>
+<utterance uid="23-15"><speaker>CASTLE</speaker><content>He was murdered. By the spawn of Satan.</content></utterance>
+<utterance uid="23-16"><speaker>OSCAR</speaker><content> Is he serious?</content></utterance>
+<utterance uid="23-17"><speaker>ESPOSITO</speaker><content>Very.</content></utterance>
+<utterance uid="23-18"><speaker>ESPOSITO</speaker><content>So Oscar, did Gabriel Shaw tell you whether he was meeting anyone? Did he say where he was going?</content></utterance>
+<utterance uid="23-19"><speaker>OSCAR</speaker><content>No, he just thanked me and left.</content></utterance>
+<utterance uid="23-20"><speaker>ESPOSITO</speaker><content>What time did he leave?</content></utterance>
+<utterance uid="23-21"><speaker>OSCAR</speaker><content>A little after seven thirty.</content></utterance>
+<utterance uid="23-22"><speaker>CASTLE</speaker><content>That’s thirty minutes before Shaw was stabbed.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>CASTLE</speaker><content>Guys, we’re getting close.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>RYAN</speaker><content>Okay, so good and bad news. The good news is we found surveillance footage of Shaw in Oscar’s neighborhood and we were able to track him back to the location where he was stabbed.</content></utterance>
+<utterance uid="25-2"><speaker>CASTLE</speaker><content>You have a video of Gabriel Shaw’s murder?</content></utterance>
+<utterance uid="25-3"><speaker>ESPOSITO</speaker><content>Oh, yeah … uh … sort of.</content></utterance>
+<utterance uid="25-4"><speaker>BECKETT</speaker><content>Oh, this is where the bad news comes in.</content></utterance>
+<utterance uid="25-5"><speaker>RYAN</speaker><content>It appears that due to the thunderstorm none of the cameras are functioning properly.</content></utterance>
+<utterance uid="25-6"><speaker>BECKETT</speaker><content>What does that mean?</content></utterance>
+<utterance uid="25-7"><speaker>ESPOSITO</speaker><content>Uh, it’s just going to be sort of … odd.</content></utterance>
+<utterance uid="25-8"><speaker>CASTLE</speaker><content>Like odd, odd? Or work of the devil odd?</content></utterance>
+<utterance uid="25-9"><speaker>ESPOSITO</speaker><content>No, just odd odd, Castle.</content></utterance>
+<utterance uid="25-10"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+<utterance uid="25-11"><speaker>ESPOSITO</speaker><content>All right. Go ahead.</content></utterance>
+<utterance uid="25-12"><speaker>RYAN</speaker><content>Okay.</content></utterance>
+<utterance uid="25-13"><speaker>CASTLE</speaker><content>That … is a demon. You guys, you did it. You have video of Gabriel Shaw being killed by something not of this world.</content></utterance>
+<utterance uid="25-14"><speaker>BECKETT</speaker><content>All right, Castle. Easy. Look, guys, I – I know it’s late. But I need you to go down to that loading dock and see what you can find. Please?</content></utterance>
+<utterance uid="25-15"><speaker>RYAN</speaker><content> Yeah.</content></utterance>
+<utterance uid="25-16"><speaker>BECKETT</speaker><content>Thank you.</content></utterance>
+<utterance uid="25-17"><speaker>BECKETT</speaker><content> I’m going to go pack up. And um, Castle?  It’s just a glitch.</content></utterance>
+</scene>
+
+<scene id="26"><utterance uid="26-1"><speaker>CASTLE</speaker><content> “And the beast shall rise and appear as astute and miraculous. The leader comes into power on a platform of prosperity and peace.” Or in a nutshell, Victor Crowne.</content></utterance>
+<utterance uid="26-2"><speaker>CASTLE</speaker><content>Geez!</content></utterance>
+<utterance uid="26-3"><speaker>BECKETT</speaker><content>Gotcha.</content></utterance>
+<utterance uid="26-4"><speaker>CASTLE</speaker><content>Not funny, Beckett! I am being targeted by dark forces. I’m serious. I can feel it.</content></utterance>
+<utterance uid="26-5"><speaker>BECKETT</speaker><content>Okay, fine. Can you just … feel it in the morning? Because it’s late. Let’s go to bed.</content></utterance>
+<utterance uid="26-6"><speaker>CASTLE</speaker><content>Yeah. Just … give me a few minutes.</content></utterance>
+<utterance uid="26-7"><speaker>BECKETT</speaker><content>All right.</content></utterance>
+<utterance uid="26-8"><speaker>BECKETT</speaker><content>Boo!</content></utterance>
+<utterance uid="26-9"><speaker>CASTLE</speaker><content>Geez!</content></utterance>
+<utterance uid="26-10"><speaker>BECKETT</speaker><content>You’re so easy!</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>CASTLE</speaker><content>The angel dagger. Where have I seen –</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>CASTLE</speaker><content>Hey, Beckett.</content></utterance>
+<utterance uid="28-2"><speaker>BECKETT</speaker><content>Hey, where are you?</content></utterance>
+<utterance uid="28-3"><speaker>CASTLE</speaker><content>I’m at the PI office. I figured out why Shaw broke in here.</content></utterance>
+<utterance uid="28-4"><speaker>BECKETT</speaker><content>Really?</content></utterance>
+<utterance uid="28-5"><speaker>CASTLE</speaker><content>Yeah. He was looking for a weapon. It’s the only thing that can kill the Antichrist. It’s called the angel dagger.</content></utterance>
+<utterance uid="28-6"><speaker>BECKETT</speaker><content> Castle, would you please just –</content></utterance>
+<utterance uid="28-7"><speaker>CASTLE</speaker><content>Beckett, I’m serious. I found references to it on the internet. It was here. It’s been in the safe the whole time. It’s a blade, it was hidden in a –</content></utterance>
+<utterance uid="28-8"><speaker>CASTLE</speaker><content>Who’s there?</content></utterance>
+<utterance uid="28-9"><speaker>BECKETT</speaker><content>Who’s where?</content></utterance>
+<utterance uid="28-10"><speaker>BECKETT</speaker><content>Hello? Castle?</content></utterance>
+<utterance uid="28-11"><speaker>CASTLE</speaker><content> He’s here.</content></utterance>
+<utterance uid="28-12"><speaker>BECKETT</speaker><content>Who?</content></utterance>
+<utterance uid="28-13"><speaker>BECKETT</speaker><content>Castle?</content></utterance>
+<utterance uid="28-14"><speaker>BECKETT</speaker><content>Hello?</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>CASTLE</speaker><content>I saw his eyes. It was a demon.</content></utterance>
+<utterance uid="29-2"><speaker>BECKETT</speaker><content>Or someone with night vision goggles.</content></utterance>
+<utterance uid="29-3"><speaker>CASTLE</speaker><content>Beckett, how much proof do you need before you finally accept the fact that your husband has been marked for death?</content></utterance>
+<utterance uid="29-4"><speaker>BECKETT</speaker><content>Okay, if you had been marked for death then the demon would have killed you. Instead you were knocked out by a very human attacker who managed to run off with your … whatever dagger.</content></utterance>
+<utterance uid="29-5"><speaker>CASTLE</speaker><content>Angel dagger!</content></utterance>
+<utterance uid="29-6"><speaker>ALEXIS</speaker><content> Angel – angel dagger.</content></utterance>
+<utterance uid="29-7"><speaker>CASTLE</speaker><content>Angel dagger! Angel dagger. It’s something only a demon would want.</content></utterance>
+<utterance uid="29-8"><speaker>BECKETT</speaker><content>Look, if that’s true then why did the demon ransack your safe?</content></utterance>
+<utterance uid="29-9"><speaker>CASTLE</speaker><content>Hello? To look for other items with supernatural abilities. Is it –</content></utterance>
+<utterance uid="29-10"><speaker>RYAN</speaker><content>Hey … Castle. How’re you doing, buddy?</content></utterance>
+<utterance uid="29-11"><speaker>CASTLE</speaker><content>Well, boys, I looked into the eyes of the devil, so there’s that.</content></utterance>
+<utterance uid="29-12"><speaker>RYAN</speaker><content>Ah.</content></utterance>
+<utterance uid="29-13"><speaker>ESPOSITO</speaker><content>Did they check him for a concussion?</content></utterance>
+<utterance uid="29-14"><speaker>BECKETT</speaker><content>Ah, no. He’s fine. He’s just a little shaken. You guys got anything on the canvass?</content></utterance>
+<utterance uid="29-15"><speaker>ESPOSITO</speaker><content>Yeah, a bouncer who was working at a club across the alley from where Shaw’s stabbing took place saw a grey Explorer tear ass out of there.</content></utterance>
+<utterance uid="29-16"><speaker>BECKETT</speaker><content>All right, did you get the plates?</content></utterance>
+<utterance uid="29-17"><speaker>RYAN</speaker><content>Nope, and we don’t need them. Turns out there’s only one person in this case who has a grey Explorer.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>SONDRA</speaker><content>Oh yeah? Well a lot of people have that kind of SUV.</content></utterance>
+<utterance uid="30-2"><speaker>RYAN</speaker><content>Yes, but not a lot of people have the murder weapon in their garage. See, we got a search warrant for your place and uh … we found your garden claw.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>ESPOSITO</speaker><content>Oh, so that explains the claw-shaped wound on Shaw’s body. See, Castle? No demon.</content></utterance>
+<utterance uid="31-2"><speaker>CASTLE</speaker><content>Yeah? Then uh, why was there sulfur – i.e. brimstone – found in Shaw’s body?</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>RYAN</speaker><content>Our lab did an analysis of the murder weapon and not only did they find traces of Shaw’s blood on it, they also found particles of sulfuric gardening fertilizer which matches the sulfur we found in the wound.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>ESPOSITO</speaker><content>Anything else?</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>SONDRA</speaker><content>I was just trying to talk sense into him. But Shaw just started rambling about his mission to vanquish evil. He was the true evil.</content></utterance>
+<utterance uid="34-2"><speaker>BECKETT</speaker><content>If all you wanted to do was talk, then why did you bring the murder weapon?</content></utterance>
+<utterance uid="34-3"><speaker>SONDRA</speaker><content>I keep tools from my flower shop in my SUV. And … I don’t know, he just started going on and on. And I grabbed the claw –  – twenty years ago that man ruined my family. And I couldn’t let him do it all over again to us.</content></utterance>
+<utterance uid="34-4"><speaker>BECKETT</speaker><content>Mrs. Cramer, why did you break into your husband’s old office last night?</content></utterance>
+<utterance uid="34-5"><speaker>SONDRA</speaker><content>What are you talking about?</content></utterance>
+<utterance uid="34-6"><speaker>BECKETT</speaker><content>There’s no reason to lie now. We know you took the angel dagger.</content></utterance>
+<utterance uid="34-7"><speaker>SONDRA</speaker><content>What? I was home all night with my son.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>CASTLE</speaker><content>If she wasn’t the one who attacked me, who the hell did?</content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>ESPOSITO</speaker><content>Yo. Any evidence to help identify Castle’s demonic assailant?</content></utterance>
+<utterance uid="36-2"><speaker>HAYLEY</speaker><content>No. But Rick, whoever attacked you also took all of the files on the Crowne family.</content></utterance>
+<utterance uid="36-3"><speaker>CASTLE</speaker><content>That sneaky little devil.  It was Victor Crowne. He did this.</content></utterance>
+<utterance uid="36-4"><speaker>ALEXIS</speaker><content>How do you figure?</content></utterance>
+<utterance uid="36-5"><speaker>CASTLE</speaker><content>Well, clearly he’s trying to take possession of any weapon that could be used against him and erase any and all evidence of his true identity as the spawn of Satan.</content></utterance>
+<utterance uid="36-6"><speaker>RYAN</speaker><content>We already looked into Victor Crowne. He was out celebrating all night at a club for his thirtieth birthday.</content></utterance>
+<utterance uid="36-7"><speaker>CASTLE</speaker><content>Okay, who else is going to go to such lengths?</content></utterance>
+<utterance uid="36-8"><speaker>HAYLEY</speaker><content>Well, we don’t know, but they left a souvenir.  This was not in the original inventory of the safe’s contents.</content></utterance>
+<utterance uid="36-9"><speaker>ESPOSITO</speaker><content>Yo … that’s Oscar von Ecklund’s bracelet.</content></utterance>
+<utterance uid="36-10"><speaker>CASTLE</speaker><content>Why would he want the angel dagger?</content></utterance>
+<utterance uid="36-11"><speaker>RYAN</speaker><content>Because he was in on it the whole time. Do you remember the distorted image of Shaw’s mystery visitor at the psychiatric facility? Well, Vikram was able to clean it up.</content></utterance>
+<utterance uid="36-12"><speaker>ESPOSITO</speaker><content>He said he didn’t believe in all this religious stuff.</content></utterance>
+<utterance uid="36-13"><speaker>CASTLE</speaker><content>He lied. And you all know what that means.</content></utterance>
+<utterance uid="36-14"><speaker>ALEXIS</speaker><content>That he’s insane?</content></utterance>
+<utterance uid="36-15"><speaker>CASTLE</speaker><content>No, unlike Shaw he has all his faculties. But Oscar, like his father before him, is a true believer. He’s going to pick up where his old man left off. Complete the mission.</content></utterance>
+<utterance uid="36-16"><speaker>HAYLEY</speaker><content> Kill the antichrist.</content></utterance>
+<utterance uid="36-17"><speaker>CASTLE</speaker><content>Oscar’s going to assassinate Victor Crowne.</content></utterance>
+</scene>
+<scene id="37"><utterance uid="37-1"><speaker>ESPOSITO</speaker><content>Yo, Rollins, lock down the building and secure Victor Crowne.</content></utterance>
+<utterance uid="37-2"><speaker>ROLLINS</speaker><content>Whoa, whoa, whoa. What’s going on?</content></utterance>
+<utterance uid="37-3"><speaker>CASTLE</speaker><content>Your boss is in danger.</content></utterance>
+<utterance uid="37-4"><speaker>RYAN</speaker><content>Have you seen this man?</content></utterance>
+<utterance uid="37-5"><speaker>ROLLINS</speaker><content>That’s the notary who just showed up with legal documents for Mr. Crowne to sign.</content></utterance>
+<utterance uid="37-6"><speaker>RYAN</speaker><content>Did you give him access to Mr. Crowne?</content></utterance>
+<utterance uid="37-7"><speaker>ROLLINS</speaker><content>Yes, but not without an escort.  Berrea, come in.  Berrea, what’s your twenty?</content></utterance>
+<utterance uid="37-8"><speaker>CASTLE</speaker><content>Where did they go?</content></utterance>
+<utterance uid="37-9"><speaker>ROLLINS</speaker><content>Basement. We’re about to start a major renovation. Mr. Crowne’s down there alone, walking the site.</content></utterance>
+<utterance uid="37-10"><speaker>ESPOSITO</speaker><content>All right, let’s split up. You two go that way and we’ll go this way.</content></utterance>
+<utterance uid="37-11"><speaker>ROLLINS</speaker><content>Got it.</content></utterance>
+<utterance uid="37-12"><speaker>ESPOSITO</speaker><content>Somebody’s down.</content></utterance>
+<utterance uid="37-13"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+<utterance uid="37-14"><speaker>RYAN</speaker><content>He’s still alive.</content></utterance>
+<utterance uid="37-15"><speaker>ESPOSITO</speaker><content>All right. Castle, drag him upstairs to safety, all right?</content></utterance>
+<utterance uid="37-16"><speaker>CASTLE</speaker><content>Yeah.</content></utterance>
+<utterance uid="37-17"><speaker>CASTLE</speaker><content>Wait, me?</content></utterance>
+<utterance uid="37-18"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+<utterance uid="37-19"><speaker>CASTLE</speaker><content>By myself?</content></utterance>
+<utterance uid="37-20"><speaker>ESPOSITO</speaker><content>Yes!</content></utterance>
+<utterance uid="37-21"><speaker>CASTLE</speaker><content>Guys?</content></utterance>
+</scene>
+<scene id="38"><utterance uid="38-1"><speaker>CASTLE</speaker><content>Oscar! Oscar.</content></utterance>
+<utterance uid="38-2"><speaker>CROWNE</speaker><content>Castle! Do something!</content></utterance>
+<utterance uid="38-3"><speaker>CASTLE</speaker><content>Don’t do it.</content></utterance>
+<utterance uid="38-4"><speaker>OSCAR</speaker><content>He is the beast. The lawless one. The son of perdition.</content></utterance>
+<utterance uid="38-5"><speaker>CASTLE</speaker><content>All bad things. But “thou shalt not kill”, remember?</content></utterance>
+<utterance uid="38-6"><speaker>OSCAR</speaker><content>He isn’t human so it’s not murder.</content></utterance>
+<utterance uid="38-7"><speaker>CASTLE</speaker><content>Good luck selling that in a court of law.</content></utterance>
+<utterance uid="38-8"><speaker>OSCAR</speaker><content>Enough! I have to stop the end of days. I promised my father.</content></utterance>
+<utterance uid="38-9"><speaker>CASTLE</speaker><content>Don’t, Oscar! No!</content></utterance>
+<utterance uid="38-10"><speaker>OSCAR</speaker><content>What have you done? If I have to kill you first I will.</content></utterance>
+<utterance uid="38-11"><speaker>CASTLE</speaker><content>Oscar, look out!</content></utterance>
+<utterance uid="38-12"><speaker>ESPOSITO</speaker><content>Castle!</content></utterance>
+<utterance uid="38-13"><speaker>RYAN</speaker><content>Castle! Where are you?</content></utterance>
+<utterance uid="38-14"><speaker>CASTLE</speaker><content>Over here!</content></utterance>
+<utterance uid="38-15"><speaker>ESPOSITO</speaker><content>Are you okay?</content></utterance>
+<utterance uid="38-16"><speaker>CASTLE</speaker><content>Yeah. You?</content></utterance>
+<utterance uid="38-17"><speaker>ESPOSITO</speaker><content>Yeah.</content></utterance>
+<utterance uid="38-18"><speaker>CASTLE</speaker><content>Good.</content></utterance>
+<utterance uid="38-19"><speaker>RYAN</speaker><content>You okay?</content></utterance>
+<utterance uid="38-20"><speaker>CASTLE</speaker><content>Yeah, I’m still good. You?</content></utterance>
+<utterance uid="38-21"><speaker>RYAN</speaker><content>Yeah, I’m okay.</content></utterance>
+<utterance uid="38-22"><speaker>CASTLE</speaker><content>Okay.</content></utterance>
+<utterance uid="38-23"><speaker>CROWNE</speaker><content>Now that we all know you’re okay … could someone untie me?</content></utterance>
+<utterance uid="38-24"><speaker>CASTLE</speaker><content>Right. Sorry.</content></utterance>
+<utterance uid="38-25"><speaker>CROWNE</speaker><content>We’re lucky those pipes fell when they did, huh?</content></utterance>
+<utterance uid="38-26"><speaker>CASTLE</speaker><content>Yeah, lucky.</content></utterance>
+<utterance uid="38-27"><speaker>CROWNE</speaker><content>Thank you for saving me.</content></utterance>
+<utterance uid="38-28"><speaker>CASTLE</speaker><content>Just to be clear, you’re not really the antichrist, right?</content></utterance>
+<utterance uid="38-29"><speaker>CROWNE</speaker><content>I love your sense of humor. You saved my life. That means I owe you, so … whatever you want. Just ask. It’s yours. Okay?</content></utterance>
+<utterance uid="38-30"><speaker>CASTLE</speaker><content>Okay.</content></utterance>
+<utterance uid="38-31"><speaker>CASTLE</speaker><content>Did I just literally make a deal with the devil?</content></utterance>
+</scene>
+
+<scene id="39"><utterance uid="39-1"><speaker>RYAN</speaker><content>So Oscar’s on his way to Peakmore for a full psych evaluation.</content></utterance>
+<utterance uid="39-2"><speaker>BECKETT</speaker><content>Okay, well, let’s hope they can help him.</content></utterance>
+<utterance uid="39-3"><speaker>ESPOSITO</speaker><content>I wouldn’t hold my breath. They didn’t do so great with Shaw.</content></utterance>
+<utterance uid="39-4"><speaker>RYAN</speaker><content>Hey, boss. What’s your husband doing?</content></utterance>
+</scene>
+<scene id="40"><utterance uid="40-1"><speaker>BECKETT</speaker><content>Castle! This is getting out of hand.</content></utterance>
+<utterance uid="40-2"><speaker>CASTLE</speaker><content>I’m … still marked for death.</content></utterance>
+<utterance uid="40-3"><speaker>BECKETT</speaker><content>Ah. You’d think saving the antichrist would give you a pass.</content></utterance>
+<utterance uid="40-4"><speaker>CASTLE</speaker><content>You know, you mock but you’re going to miss me when I’m gone.</content></utterance>
+<utterance uid="40-5"><speaker>BECKETT</speaker><content>You’re not going anywhere.</content></utterance>
+<utterance uid="40-6"><speaker>CASTLE</speaker><content>How can you be so sure?</content></utterance>
+<utterance uid="40-7"><speaker>BECKETT</speaker><content>Take off your jacket.</content></utterance>
+<utterance uid="40-8"><speaker>CASTLE</speaker><content>I really don’t think this is the time –</content></utterance>
+<utterance uid="40-9"><speaker>BECKETT</speaker><content>Take off your jacket.</content></utterance>
+<utterance uid="40-10"><speaker>BECKETT</speaker><content>Okay, now take another selfie.</content></utterance>
+<utterance uid="40-11"><speaker>CASTLE</speaker><content>How –</content></utterance>
+<utterance uid="40-12"><speaker>BECKETT</speaker><content>The zipper on your chest pocket. It was catching the light causing a flare.</content></utterance>
+<utterance uid="40-13"><speaker>CASTLE</speaker><content>I’m not marked for death.</content></utterance>
+<utterance uid="40-14"><speaker>BECKETT</speaker><content>You sound disappointed there.</content></utterance>
+<utterance uid="40-15"><speaker>CASTLE</speaker><content>Are you kidding? I’m thrilled! Let’s celebrate! Naked Twister.</content></utterance>
+<utterance uid="40-16"><speaker>BECKETT</speaker><content>Actually, I had something else in mind.</content></utterance>
+</scene>
+<scene id="41"><utterance uid="41-1"><speaker>ALEXIS</speaker><content>We really could have done movie night at my place.</content></utterance>
+<utterance uid="41-2"><speaker>HAYLEY</speaker><content>No, no. We need to get rid of some of the bad vibes in here.</content></utterance>
+<utterance uid="41-3"><speaker>ALEXIS</speaker><content>So what are we watching? Romcom? Action comedy?</content></utterance>
+<utterance uid="41-4"><speaker>HAYLEY</speaker><content>Horror!</content></utterance>
+<utterance uid="41-5"><speaker>ALEXIS</speaker><content>You’re kidding.</content></utterance>
+<utterance uid="41-6"><speaker>HAYLEY</speaker><content>No! Oh, come on. We just survived the axe-man. A little Freddy/Jason action will be cathartic.</content></utterance>
+<utterance uid="41-7"><speaker>ALEXIS</speaker><content>All right, but if I can’t sleep tonight I’m kicking your ass in the morning.</content></utterance>
+<utterance uid="41-8"><speaker>HAYLEY</speaker><content>In your dreams.</content></utterance>
+<utterance uid="41-9"><speaker>ALEXIS</speaker><content>Hayley?</content></utterance>
+<utterance uid="41-10"><speaker>HAYLEY</speaker><content>Hmm?</content></utterance>
+<utterance uid="41-11"><speaker>HAYLEY</speaker><content>Run.</content></utterance>
+<utterance uid="41-12"><speaker>ALEXIS</speaker><content>Yeah.</content></utterance>
+<utterance uid="41-13"><speaker>CASTLE</speaker><content>That was genius.</content></utterance>
+<utterance uid="41-14"><speaker>CASTLE</speaker><content>Now can we play naked Twister?</content></utterance>
+</scene>
+</script>

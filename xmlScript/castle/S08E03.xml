@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>PETER GARBER</speaker><content>You got me. I give up.</content></utterance>
+</scene>
+
+<scene id="2"><utterance uid="2-1"><speaker>RICHARD CASTLE</speaker><content>Ooh… she’s finally here.</content></utterance>
+<utterance uid="2-2"><speaker>LUCY</speaker><content>Hello, I’m your new home operating system. My name is Lucy. What’s yours?</content></utterance>
+<utterance uid="2-3"><speaker>CASTLE</speaker><content>Uh, my name is Rick. Castle. And … and  … my wife just left me.</content></utterance>
+<utterance uid="2-4"><speaker>LUCY</speaker><content>Yikes. Sucks to be you, Rick.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>VIKRAM SINGH</speaker><content>Can’t you hit any harder than that?</content></utterance>
+<utterance uid="3-2"><speaker>VIKRAM</speaker><content>I’ll take that as a yes.</content></utterance>
+<utterance uid="3-3"><speaker>BECKETT</speaker><content>Listen, you can still back out. I can do this on my own.</content></utterance>
+<utterance uid="3-4"><speaker>VIKRAM</speaker><content>Not a chance. I’d be dead if not for you, which means I owe you. Besides, I always wanted to be a digital investigator for the NYPD.</content></utterance>
+<utterance uid="3-5"><speaker>BECKETT</speaker><content> It’s a real job, Vikram. You’ll be helping the Twelfth solve homicides.</content></utterance>
+<utterance uid="3-6"><speaker>VIKRAM</speaker><content>By day. By night I’ll wear a cape and track down the mysterious villain who sent a hit squad to kill us and scapegoat murdered Allison Hyde.</content></utterance>
+<utterance uid="3-7"><speaker>BECKETT</speaker><content>Would you take this seriously, please? I just blew out my marriage to go down this path.</content></utterance>
+<utterance uid="3-8"><speaker>VIKRAM</speaker><content>I’m sorry. Hell, I should be giving you the chance to back out.</content></utterance>
+<utterance uid="3-9"><speaker>BECKETT</speaker><content>No. If I don’t get justice for Rachel and for everyone else, no one will. We’ve just got to do this fast.</content></utterance>
+<utterance uid="3-10"><speaker>VIKRAM</speaker><content>Fast is the speed we can’t move. We need stealth.</content></utterance>
+<utterance uid="3-11"><speaker>BECKETT</speaker><content>If this takes any longer then Castle’s going to figure out what we’re doing.</content></utterance>
+<utterance uid="3-12"><speaker>VIKRAM</speaker><content>And if he does?</content></utterance>
+<utterance uid="3-13"><speaker>BECKETT</speaker><content>He’s going to step in. And he’s going to put himself in danger.</content></utterance>
+<utterance uid="3-14"><speaker>VIKRAM</speaker><content>Then make sure he stays away.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>KEVIN RYAN</speaker><content>Has Beckett told you anything about the breakup, yet?</content></utterance>
+<utterance uid="4-2"><speaker>JAVIER ESPOSITO</speaker><content>Not a word. You talk to Castle about it?</content></utterance>
+<utterance uid="4-3"><speaker>RYAN</speaker><content>No. And I left him a bunch of messages.</content></utterance>
+<utterance uid="4-4"><speaker>ESPOSITO</speaker><content>Shakes your faith. I guess nothing in life is permanent.</content></utterance>
+<utterance uid="4-5"><speaker>BECKETT</speaker><content>Tell that to the victim.</content></utterance>
+<utterance uid="4-6"><speaker>RYAN</speaker><content>Oh … hey. Captain Beckett. What brings you out into the field?</content></utterance>
+<utterance uid="4-7"><speaker>BECKETT</speaker><content>Work. What, do you think I’m going to be stuck in the office just because I’m Captain?</content></utterance>
+<utterance uid="4-8"><speaker>BECKETT</speaker><content>So who’s our fugitive?</content></utterance>
+<utterance uid="4-9"><speaker>ESPOSITO</speaker><content>No ID yet, but the jumpsuit is standard issue at Rikers - but they say that none of the prisoners have gone missing.</content></utterance>
+<utterance uid="4-10"><speaker>RYAN</speaker><content>We had them lock down the facility, but a fourteen thousand inmate headcount is going to take some time.</content></utterance>
+<utterance uid="4-11"><speaker>BECKETT</speaker><content>You run his prints?</content></utterance>
+<utterance uid="4-12"><speaker>RYAN</speaker><content>Yeah. So far nothing.</content></utterance>
+<utterance uid="4-13"><speaker>BECKETT</speaker><content> Nothing? The guy’s a convicted felon. His fingerprints are on file.</content></utterance>
+<utterance uid="4-14"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+<utterance uid="4-15"><speaker>ESPOSITO</speaker><content>Probably a glitch. You know those portable scanners. Sometimes they’re wonky.</content></utterance>
+<utterance uid="4-16"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+<utterance uid="4-17"><speaker>BECKETT</speaker><content>Is there any chance that this wasn’t a homicide?</content></utterance>
+<utterance uid="4-18"><speaker>LANIE PARISH</speaker><content>None. It took brute force to puncture the victim’s body with that branch. Someone had to shove him on to it.</content></utterance>
+<utterance uid="4-19"><speaker>BECKETT</speaker><content>So how does an escaped convict from Rikers Island end up in the middle of Central Park without anyone seeing him?</content></utterance>
+<utterance uid="4-20"><speaker>LANIE</speaker><content>It was late. Lividity puts the time of death between midnight and 2AM.</content></utterance>
+<utterance uid="4-21"><speaker>BECKETT</speaker><content>All right, keep running prints. I’m going to walk around and see what I can find.</content></utterance>
+<utterance uid="4-22"><speaker>LANIE</speaker><content>Hey. You didn’t call me back.</content></utterance>
+<utterance uid="4-23"><speaker>BECKETT</speaker><content>Yeah … yeah, sorry about that.</content></utterance>
+<utterance uid="4-24"><speaker>LANIE</speaker><content>Oh, that’s okay. But are you okay?</content></utterance>
+<utterance uid="4-25"><speaker>BECKETT</speaker><content>I’m fine.  I’m just a little lost and … taking some space so I can figure things out. I just hope that I haven’t hurt him too much.</content></utterance>
+<utterance uid="4-26"><speaker>LANIE</speaker><content>Girl, please. Castle is a grown-ass man and he knows that you love him very much. I’m sure he’s okay.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>CASTLE</speaker><content>I just – I don’t know what to do, Lucy.</content></utterance>
+<utterance uid="5-2"><speaker>LUCY</speaker><content>I’ve compiled a list of top ranked divorce attorneys.</content></utterance>
+<utterance uid="5-3"><speaker>CASTLE</speaker><content>No, I don’t want a divorce. I want my wife back. How do I do that?</content></utterance>
+<utterance uid="5-4"><speaker>LUCY</speaker><content>I don’t know. How’d you get her in the first place, Rick?</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>CASTLE</speaker><content>Has Beckett talked to you?</content></utterance>
+<utterance uid="6-2"><speaker>LANIE</speaker><content> Give us a minute.  You know better than to think I would betray her confidence.</content></utterance>
+<utterance uid="6-3"><speaker>CASTLE</speaker><content>Damn it, Lanie. Tell me. Why is Beckett keeping me in the dark?</content></utterance>
+<utterance uid="6-4"><speaker>LANIE</speaker><content>The man who went Houdini for two months last year?</content></utterance>
+<utterance uid="6-5"><speaker>CASTLE</speaker><content>Whoa, I didn’t Houdini. I was Houdini’ed.</content></utterance>
+<utterance uid="6-6"><speaker>LANIE</speaker><content>Doesn’t matter. When you came back she accepted you without question, so you can damn well give her some space now.</content></utterance>
+<utterance uid="6-7"><speaker>CASTLE</speaker><content>I can’t lose her.</content></utterance>
+<utterance uid="6-8"><speaker>LANIE</speaker><content>I know.</content></utterance>
+<utterance uid="6-9"><speaker>CASTLE</speaker><content>Is that from the Twelfth?</content></utterance>
+<utterance uid="6-10"><speaker>LANIE</speaker><content>Castle –</content></utterance>
+<utterance uid="6-11"><speaker>CASTLE</speaker><content>Escaped prisoner. Young, maybe 21? 22?  Was that – iron fence?</content></utterance>
+<utterance uid="6-12"><speaker>LANIE</speaker><content>Tree branch.</content></utterance>
+<utterance uid="6-13"><speaker>CASTLE</speaker><content>Ouch. Got an ID yet?</content></utterance>
+<utterance uid="6-14"><speaker>LANIE</speaker><content>I’m not telling you.</content></utterance>
+<utterance uid="6-15"><speaker>CASTLE</speaker><content>I’ve seen this devil before.</content></utterance>
+<utterance uid="6-16"><speaker>LANIE</speaker><content>Just … stop.  Working murders is not your job anymore.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>MARTHA RODGERS</speaker><content>He’s going to be an absolute wreck.</content></utterance>
+<utterance uid="7-2"><speaker>ALEXIS CASTLE</speaker><content>And it’s our job not to let him spin out. That’s what the CDRK is for.</content></utterance>
+<utterance uid="7-3"><speaker>MARTHA</speaker><content> Castle Depression Rescue Kit.</content></utterance>
+<utterance uid="7-4"><speaker>ALEXIS</speaker><content>Mmhmm. Video games, Sumatran civet coffee beans, enhanced Blu-rays of the original Twilight Zone, and … this.</content></utterance>
+<utterance uid="7-5"><speaker>MARTHA</speaker><content> 9-woof-woof?</content></utterance>
+<utterance uid="7-6"><speaker>ALEXIS</speaker><content>Uh huh. Puppies at your doorstep in thirty minutes or less.</content></utterance>
+<utterance uid="7-7"><speaker>MARTHA</speaker><content>Ah.</content></utterance>
+<utterance uid="7-8"><speaker>ALEXIS</speaker><content>Puppies.</content></utterance>
+<utterance uid="7-9"><speaker>CASTLE</speaker><content>Good morning, my lovelies. Isn’t it great to be alive?</content></utterance>
+<utterance uid="7-10"><speaker>MARTHA</speaker><content>Richard, are you feeling okay?</content></utterance>
+<utterance uid="7-11"><speaker>CASTLE</speaker><content>Never better. Because I know how to win Beckett back.</content></utterance>
+<utterance uid="7-12"><speaker>ALEXIS</speaker><content>Is she wanting to be won back?</content></utterance>
+<utterance uid="7-13"><speaker>CASTLE</speaker><content>When we first met, it was my roguish charm that caused Beckett to drop her guard. But it was my Sherlockian skills that made her fall in love with me. I just have to solve a few cases with her to show her together we are still magic.</content></utterance>
+<utterance uid="7-14"><speaker>MARTHA</speaker><content>Richard, you do know that you cannot just barge your way into the precinct and talk your way onto a case anymore.</content></utterance>
+<utterance uid="7-15"><speaker>CASTLE</speaker><content>I am a licensed private investigator. I don’t need a precinct to solve a case. Now, this tattoo was on the body of a dead convict found in Central Park. I know I’ve seen it somewhere before, but I just don’t know where.</content></utterance>
+<utterance uid="7-16"><speaker>ALEXIS</speaker><content>I do.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>RYAN</speaker><content>Hey, so Rikers completed their headcount. All inmates are accounted for.</content></utterance>
+<utterance uid="8-2"><speaker>BECKETT</speaker><content>So where’d the vic’s jumpsuit come from?</content></utterance>
+<utterance uid="8-3"><speaker>ESPOSITO</speaker><content>Costume shop. Our John Doe was not an inmate. He was a college student. Tattoo on his shoulder is the original mascot design of the Hudson U Red Devils. Now, I checked the college website.  Peter Garber, 21 years old, majoring in marketing.</content></utterance>
+<utterance uid="8-4"><speaker>RYAN</speaker><content>But that doesn’t explain the jumpsuit.</content></utterance>
+<utterance uid="8-5"><speaker>BECKETT</speaker><content>You guys, it’s October. Halloween’s basically a month long party in college.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>RYAN</speaker><content>Ah, the hallowed halls of academia. I remember them well.</content></utterance>
+<utterance uid="9-2"><speaker>ESPOSITO</speaker><content>More like the hallowed halls of crackheads at my schools.</content></utterance>
+<utterance uid="9-3"><speaker>BECKETT</speaker><content>Ah … head over to Peter’s frat house, interview his roommates. I’m going to break the bad news to the dean.</content></utterance>
+<utterance uid="9-4"><speaker>ESPOSITO</speaker><content>Right.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>BECKETT</speaker><content>Hi, I’m Captain Beckett. I need to speak with Dean Feller, please.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>DEAN CARLA FELLER</speaker><content>It would be nice to have a best-selling author on the faculty. Welcome to the Hudson family, Mr. Castle.</content></utterance>
+<utterance uid="11-2"><speaker>CASTLE</speaker><content>Oh, please, Dean Feller, call me Professor Castle.</content></utterance>
+<utterance uid="11-3"><speaker>CASTLE</speaker><content>Captain Beckett. Fancy seeing you here.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>BECKETT</speaker><content>Castle, I know what you’re doing.</content></utterance>
+<utterance uid="12-2"><speaker>CASTLE</speaker><content>Giving back to the community by molding young minds?</content></utterance>
+<utterance uid="12-3"><speaker>BECKETT</speaker><content>You’re not joining this case.</content></utterance>
+<utterance uid="12-4"><speaker>FELLER</speaker><content>Aren’t you two married?</content></utterance>
+<utterance uid="12-5"><speaker>CASTLE</speaker><content>Yes. We are. Dean Feller, meet Captain Beckett of the Twelfth Precinct.</content></utterance>
+<utterance uid="12-6"><speaker>BECKETT</speaker><content>Yes. And husband and wife need a moment in private.</content></utterance>
+<utterance uid="12-7"><speaker>CASTLE</speaker><content>Hold on –</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>CASTLE</speaker><content>Ah … it took me an hour to tie this.</content></utterance>
+<utterance uid="13-2"><speaker>BECKETT</speaker><content>You saw the tattoo at the morgue, didn’t you?</content></utterance>
+<utterance uid="13-3"><speaker>CASTLE</speaker><content>I saw Lanie at the morgue. I can’t recall if I saw other things on bodies with gruesome chest wounds.</content></utterance>
+<utterance uid="13-4"><speaker>BECKETT</speaker><content>Let me ask you, how large of a donation check did you write in order to become a professor?</content></utterance>
+<utterance uid="13-5"><speaker>CASTLE</speaker><content>Guest professor. Look, I have no desire to interfere with your case, but I can’t help it if my path crosses with yours while I’m teaching here.</content></utterance>
+<utterance uid="13-6"><speaker>BECKETT</speaker><content>Castle, I asked for time. Why can’t you give me that?</content></utterance>
+<utterance uid="13-7"><speaker>CASTLE</speaker><content>Because you need me.</content></utterance>
+<utterance uid="13-8"><speaker>BECKETT</speaker><content>I – I can’t do this right now.</content></utterance>
+<utterance uid="13-9"><speaker>CASTLE</speaker><content>Kate –</content></utterance>
+<utterance uid="13-10"><speaker>FELLER</speaker><content>I’m sorry to interrupt, but I really need to know why there are police on my campus.</content></utterance>
+<utterance uid="13-11"><speaker>BECKETT</speaker><content>A student of yours, Peter Garber, was found murdered in Central Park last night.</content></utterance>
+<utterance uid="13-12"><speaker>FELLER</speaker><content>That’s awful. He was a wonderful young man, a model student.  He won this year’s fellowship award.</content></utterance>
+<utterance uid="13-13"><speaker>BECKETT</speaker><content>Well, I’ll need access to all of his files, as well as a discreet room to interview his teachers and friends.</content></utterance>
+<utterance uid="13-14"><speaker>FELLER</speaker><content>Of course.</content></utterance>
+<utterance uid="13-15"><speaker>BECKETT</speaker><content>And as for you –  – Professor, this is a police investigation. Stay out of it.</content></utterance>
+<utterance uid="13-16"><speaker>CASTLE</speaker><content>She’s such a kidder.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>ESPOSITO</speaker><content>We got something.</content></utterance>
+<utterance uid="14-2"><speaker>ESPOSITO</speaker><content>What’s wrong?</content></utterance>
+<utterance uid="14-3"><speaker>BECKETT</speaker><content>Castle’s here.</content></utterance>
+<utterance uid="14-4"><speaker>BECKETT</speaker><content>He bought himself a Ph.D to get in on this case. You guys are not to work with him in any way, is that understood?</content></utterance>
+<utterance uid="14-5"><speaker>ESPOSITO</speaker><content>Yeah.</content></utterance>
+<utterance uid="14-6"><speaker>RYAN</speaker><content>Yes. Absolutely.</content></utterance>
+<utterance uid="14-7"><speaker>BECKETT</speaker><content>Okay, so what do we got?</content></utterance>
+<utterance uid="14-8"><speaker>RYAN</speaker><content>A suspect.</content></utterance>
+<utterance uid="14-9"><speaker>BECKETT</speaker><content>Yeah?</content></utterance>
+<utterance uid="14-10"><speaker>ESPOSITO</speaker><content>Peter was pledge master at the Beta Omega Rho fraternity house.</content></utterance>
+<utterance uid="14-11"><speaker>BECKETT</speaker><content>Let me guess, he hazed someone and they threatened revenge.</content></utterance>
+<utterance uid="14-12"><speaker>RYAN</speaker><content>The opposite, actually.  Scott Powell. Former Beta Omega. Scott terrorized a group of pledges, got one of them sent to the hospital, so Peter turned Scott in, got him booted from the frat.</content></utterance>
+<utterance uid="14-13"><speaker>BECKETT</speaker><content>Okay. Well, that sounds like motive. Let’s bring him in for questioning.</content></utterance>
+<utterance uid="14-14"><speaker>ESPOSITO</speaker><content>Yeah, that might not be the right approach.</content></utterance>
+<utterance uid="14-15"><speaker>RYAN</speaker><content>Scott’s dad is a defense attorney. When they tried to expel Scott, daddy threatened to sue.</content></utterance>
+<utterance uid="14-16"><speaker>ESPOSITO</speaker><content>So Scott’s not going to talk to us.</content></utterance>
+<utterance uid="14-17"><speaker>RYAN</speaker><content>Unless … we can get him to talk without realizing that he’s talking.</content></utterance>
+<utterance uid="14-18"><speaker>BECKETT</speaker><content> How … do you plan on doing that?</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>ESPOSITO</speaker><content>So how’s the talent in your marketing class?</content></utterance>
+<utterance uid="15-2"><speaker>RYAN</speaker><content>Oh, solid. Especially this hot blonde named Jenny.</content></utterance>
+<utterance uid="15-3"><speaker>ESPOSITO</speaker><content>Oh, for real?</content></utterance>
+<utterance uid="15-4"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+<utterance uid="15-5"><speaker>ESPOSITO</speaker><content>Hey, did you see that that frat boy got murdered last night in the park?</content></utterance>
+<utterance uid="15-6"><speaker>RYAN</speaker><content>Oh, yeah. Heard he got impaled. Uh … what … Peter uh … something. What house was he in?</content></utterance>
+<utterance uid="15-7"><speaker>ESPOSITO</speaker><content>I have no idea.</content></utterance>
+<utterance uid="15-8"><speaker>ESPOSITO</speaker><content>Hey, bro. You know what frat the dead dude’s from?</content></utterance>
+<utterance uid="15-9"><speaker>SCOTT POWELL</speaker><content>No, officer, I sure don’t.</content></utterance>
+<utterance uid="15-10"><speaker>ESPOSITO</speaker><content>What? We ain’t cops, man.</content></utterance>
+<utterance uid="15-11"><speaker>SCOTT</speaker><content>Dude, you look like you’re forty.</content></utterance>
+<utterance uid="15-12"><speaker>ESPOSITO</speaker><content>B*tch, please. I got carded last week.</content></utterance>
+<utterance uid="15-13"><speaker>SCOTT</speaker><content>Yeah, for your AARP card. And your partner’s growing ear hair in front of my eyes.</content></utterance>
+<utterance uid="15-14"><speaker>ESPOSITO</speaker><content>All right, funny man. We heard that you had a hate on for Peter Garber. So you want to tell us where you were last night?</content></utterance>
+<utterance uid="15-15"><speaker>SCOTT</speaker><content>No, but you can call my lawyer. He’s going to get a real kick out of you guys. Have a nice day.</content></utterance>
+<utterance uid="15-16"><speaker>SCOTT</speaker><content>Oh, and remember: fiber’s your friend.</content></utterance>
+<utterance uid="15-17"><speaker>RYAN</speaker><content>I don’t really have old man ear hair, do I?</content></utterance>
+<utterance uid="15-18"><speaker>CASTLE</speaker><content>Guys, you didn’t really think you could Jump Street the prime suspect, did you?</content></utterance>
+<utterance uid="15-19"><speaker>ESPOSITO</speaker><content>Castle, what are you doing here?</content></utterance>
+<utterance uid="15-20"><speaker>CASTLE</speaker><content>Ah, I heard about the Scott Powell hazing incident and I thought maybe I could offer the NYPD my PI services.</content></utterance>
+<utterance uid="15-21"><speaker>RYAN</speaker><content>No thanks.</content></utterance>
+<utterance uid="15-22"><speaker>CASTLE</speaker><content>Free of charge.</content></utterance>
+<utterance uid="15-23"><speaker>RYAN</speaker><content>No thanks.</content></utterance>
+<utterance uid="15-24"><speaker>CASTLE</speaker><content>All right, fine. I guess I’ll just use my newfound faculty privileges to talk to talk to Scott on my own. He’s got a contemporary lit class in forty five minutes and they have a very special guest speaker. A certain, ruggedly handsome, best-selling author.</content></utterance>
+<utterance uid="15-25"><speaker>ESPOSITO</speaker><content> He just might be the angle we need to get this guy Scott to talk.</content></utterance>
+<utterance uid="15-26"><speaker>RYAN</speaker><content>Beckett gave us a direct order.</content></utterance>
+<utterance uid="15-27"><speaker>ESPOSITO</speaker><content>Will she be more upset when she finds out Castle solved this case before us or when she finds out that we’ve been cooperating with him?</content></utterance>
+<utterance uid="15-28"><speaker>CASTLE</speaker><content>Perhaps my secret weapon is the loophole you’re looking for.</content></utterance>
+<utterance uid="15-29"><speaker>ESPOSITO</speaker><content>What secret weapon?</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>ALEXIS</speaker><content>Anybody sitting there?</content></utterance>
+<utterance uid="16-2"><speaker>SCOTT</speaker><content>Uh, you are.</content></utterance>
+<utterance uid="16-3"><speaker>ALEXIS</speaker><content>Thanks.</content></utterance>
+<utterance uid="16-4"><speaker>SCOTT</speaker><content>Yeah. Uh, I’m Scott.</content></utterance>
+<utterance uid="16-5"><speaker>ALEXIS</speaker><content>Clara.</content></utterance>
+<utterance uid="16-6"><speaker>SCOTT</speaker><content>So do you know anything about this Richard Castle guy?</content></utterance>
+<utterance uid="16-7"><speaker>ALEXIS</speaker><content>A little. He’s an irreverent crime novelist with a carefree spirit and a hatred of exclamation points.  Or so I hear.</content></utterance>
+<utterance uid="16-8"><speaker>SCOTT</speaker><content>Mmm. Well, I saw an interview with him a few years ago, he was trying way too hard to be cool.</content></utterance>
+<utterance uid="16-9"><speaker>ALEXIS</speaker><content>I’m sure he’s mellowed with age.</content></utterance>
+<utterance uid="16-10"><speaker>CASTLE</speaker><content>“To die, to sleep. To sleep, perchance to dream.”</content></utterance>
+<utterance uid="16-11"><speaker>ALEXIS</speaker><content> Or not.</content></utterance>
+<utterance uid="16-12"><speaker>CASTLE</speaker><content>“Aye, there’s the rub. For in this sleep of death what dreams may come?” William Shakespeare. The Bard. A man as intimate with violence and murder as any in history. Who can tell me the classic motivations for murder?</content></utterance>
+<utterance uid="16-13"><speaker>CASTLE</speaker><content>You. In the printed non-ironic tee. Beside the too-friendly blonde.</content></utterance>
+<utterance uid="16-14"><speaker>SCOTT</speaker><content>Me?</content></utterance>
+<utterance uid="16-15"><speaker>CASTLE</speaker><content>Yes. What might drive a person to murder?</content></utterance>
+<utterance uid="16-16"><speaker>SCOTT</speaker><content>I don’t know. Revenge?</content></utterance>
+<utterance uid="16-17"><speaker>CASTLE</speaker><content>Revenge. A man wronged, his reputation besmirched, so he strikes out in passion. Some might consider his actions justified.  What else might drive a person to kill?</content></utterance>
+<utterance uid="16-18"><speaker>SCOTT</speaker><content>Being forced to read one of your books?</content></utterance>
+<utterance uid="16-19"><speaker>SCOTT</speaker><content>Though that’s probably more of a motive for suicide.</content></utterance>
+<utterance uid="16-20"><speaker>CASTLE</speaker><content>And, uh, what was the last book you read? Zen and the Art of Hazing Hipsters?</content></utterance>
+<utterance uid="16-21"><speaker>SCOTT</speaker><content>No, I love how you come in here quoting Shakespeare like it’s just going to magically elevate that treadmill fiction you write.</content></utterance>
+<utterance uid="16-22"><speaker>CASTLE</speaker><content>Treadmill fict-  Get out. Now!</content></utterance>
+<utterance uid="16-23"><speaker>SCOTT</speaker><content>Works for me.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>ALEXIS</speaker><content>Are you okay?</content></utterance>
+<utterance uid="17-2"><speaker>SCOTT</speaker><content>What the hell? First the cops try and front me and then that clown.</content></utterance>
+<utterance uid="17-3"><speaker>ALEXIS</speaker><content>Cops?</content></utterance>
+<utterance uid="17-4"><speaker>SCOTT</speaker><content>A guy from my old frat got killed last night. Peter Garber. They think I hated him because he got me kicked out for hazing some newbies, but I spent the last semester trying to make amends.</content></utterance>
+<utterance uid="17-5"><speaker>ALEXIS</speaker><content>With Peter?</content></utterance>
+<utterance uid="17-6"><speaker>SCOTT</speaker><content>Yeah. I told him I was sorry, you know, and he said we were cool. Even asked me for a favor. Said he needed a quiet place to study away from the frat house. I work at Residential Housing, so –  – hooked him up with an empty apartment on the DL.</content></utterance>
+<utterance uid="17-7"><speaker>ALEXIS</speaker><content>Why didn’t you tell the cops?</content></utterance>
+<utterance uid="17-8"><speaker>SCOTT</speaker><content>My dad’s a lawyer. And he taught me, you never trust the police. Actually, you know, he also taught me that blondes are more fun.  What say we go out later? My crew and I found this great bar called Jake’s –</content></utterance>
+<utterance uid="17-9"><speaker>ALEXIS</speaker><content>I’d love to, but I’m actually getting fitted for an iron lung in the morning.  Bye.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>BECKETT</speaker><content>Okay, Vikram, what’ve you got?</content></utterance>
+<utterance uid="18-2"><speaker>VIKRAM</speaker><content>I might have identified Allison Hyde’s killer. Pulled footage from the hotel’s cameras around the time Hyde was killed. Managed to ID everyone except this guy.</content></utterance>
+<utterance uid="18-3"><speaker>BECKETT</speaker><content>Look, this doesn’t mean anything. There’s plenty of people who aren’t in our facial recognition database.</content></utterance>
+<utterance uid="18-4"><speaker>VIKRAM</speaker><content>I didn’t just use ours. Snuck into the NSA, ran it through their top secret database. It’s a civil liberties nightmare, but very comprehensive. Our well-dressed man is a total ghost. So, unless you know a ghostbuster we’re out of luck.</content></utterance>
+<utterance uid="18-5"><speaker>BECKETT</speaker><content> I might know somebody. He’s helped me out in the past. And he’s connected to this world. But he’s technically dead, which means you’re going to have to dig him up.</content></utterance>
+<utterance uid="18-6"><speaker>VIKRAM</speaker><content>Just to be clear, you mean he faked his own death and now he’s hiding under a new identity that you need me to uncover.</content></utterance>
+<utterance uid="18-7"><speaker>BECKETT</speaker><content> Yeah.</content></utterance>
+<utterance uid="18-8"><speaker>VIKRAM</speaker><content>Good. Because I’m not a huge fan of shoveling.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>ALEXIS</speaker><content>What are the odds Peter really wanted this apartment for studying?</content></utterance>
+<utterance uid="19-2"><speaker>RYAN</speaker><content>I’d say those odds are less than zero.</content></utterance>
+<utterance uid="19-3"><speaker>ESPOSITO</speaker><content>NYPD.</content></utterance>
+<utterance uid="19-4"><speaker>ESPOSITO</speaker><content>I thought Peter was majoring in marketing, not medieval torture.</content></utterance>
+<utterance uid="19-5"><speaker>ALEXIS</speaker><content>This stuff isn’t for torture. It’s a BDSM dungeon.</content></utterance>
+<utterance uid="19-6"><speaker>ALEXIS</speaker><content>What? I read 50 Shades and clearly, so had Peter.</content></utterance>
+<utterance uid="19-7"><speaker>CASTLE</speaker><content>Okay. I’m thinking this is a little less 50 Shades and more Fatal Attraction.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>CASTLE</speaker><content>So Peter and his bondage curious lover set up shop here to fulfill all their kinky fantasies.</content></utterance>
+<utterance uid="20-2"><speaker>ALEXIS</speaker><content>Mmm… role play. Perhaps convict and the wicked warden.</content></utterance>
+<utterance uid="20-3"><speaker>CASTLE</speaker><content>Anyway, Peter tries to break it off. The lover, spurned –  – flies into a murderous rage and then impales him in the park.</content></utterance>
+<utterance uid="20-4"><speaker>RYAN</speaker><content>All right, we need to figure out who Peter’s been … entertaining here. That means we need to start knocking on some doors, pulling surveillance footage –</content></utterance>
+<utterance uid="20-5"><speaker>ALEXIS</speaker><content>There’s an easier way. Frat boys love to kiss and tell. If anyone knows who Peter was involved with, it’ll be his brothers.</content></utterance>
+<utterance uid="20-6"><speaker>ESPOSITO</speaker><content>Yeah, but they weren’t exactly forthcoming when we interviewed the murder.</content></utterance>
+<utterance uid="20-7"><speaker>ALEXIS</speaker><content>That’s because you’re “the man”. But I’m not.</content></utterance>
+</scene>
+
+<scene id="21"><utterance uid="21-1"><speaker>ALEXIS</speaker><content>I’m in.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>CASTLE</speaker><content>She’s in.</content></utterance>
+<utterance uid="22-2"><speaker>RYAN</speaker><content>He heard.</content></utterance>
+<utterance uid="22-3"><speaker>ESPOSITO</speaker><content>You know this isn’t her first frat party, Castle.</content></utterance>
+<utterance uid="22-4"><speaker>CASTLE</speaker><content>You trying to make me feel better?</content></utterance>
+<utterance uid="22-5"><speaker>RYAN</speaker><content>You know, it’s understandable if you’re feeling a little overprotective, right now, with what’s been happening with Beckett.</content></utterance>
+<utterance uid="22-6"><speaker>CASTLE</speaker><content>What’s happening is I’m getting her back.</content></utterance>
+<utterance uid="22-7"><speaker>ESPOSITO</speaker><content>Are you sure this is the right way to do it? She was pretty clear that she did not want you working this case.</content></utterance>
+<utterance uid="22-8"><speaker>CASTLE</speaker><content>Working cases together is why she fell in love with me. That’s why I’m going to do whatever it takes to solve this case.</content></utterance>
+<utterance uid="22-9"><speaker>ESPOSITO</speaker><content>Including sending your daughter into a house full of drunken frat boys dressed like a slutty angel?</content></utterance>
+<utterance uid="22-10"><speaker>CASTLE</speaker><content>Open it. Open it.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>ALEXIS</speaker><content>So sad about Peter. Were you close with him?</content></utterance>
+<utterance uid="23-2"><speaker>ALEXIS</speaker><content>He was a hottie. I bet he had a lot of girlfriends, huh?</content></utterance>
+<utterance uid="23-3"><speaker>CASTLE</speaker><content>Hey. Hey, hey, hey. Her eyes are up here.</content></utterance>
+<utterance uid="23-4"><speaker>ALEXIS</speaker><content>What are you doing? I got this.</content></utterance>
+<utterance uid="23-5"><speaker>CASTLE</speaker><content>Do you? Because I’m hearing a whole lot of flirting and zero fact-finding on who Peter was dating.</content></utterance>
+<utterance uid="23-6"><speaker>CASTLE</speaker><content> Ew.</content></utterance>
+<utterance uid="23-7"><speaker>ALEXIS</speaker><content> Ew.</content></utterance>
+<utterance uid="23-8"><speaker>CASTLE</speaker><content>Old man? This old man is going to kick your ass.  At beer pong. Beer pong challenge, everyone!</content></utterance>
+<utterance uid="23-9"><speaker>ALEXIS</speaker><content>What exactly is your strategy?</content></utterance>
+<utterance uid="23-10"><speaker>CASTLE</speaker><content>To get any man to confide in you, you must first earn this respect. To do that I need to bro down.  Thank you. All right.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>RYAN</speaker><content>Ten bucks on Castle.</content></utterance>
+<utterance uid="24-2"><speaker>ESPOSITO</speaker><content>You’re on.</content></utterance>
+<utterance uid="24-3"><speaker>ESPOSITO</speaker><content>Hey Captain.</content></utterance>
+<utterance uid="24-4"><speaker>BECKETT</speaker><content>What are you doing here?</content></utterance>
+<utterance uid="24-5"><speaker>ESPOSITO</speaker><content> Canvassing.</content></utterance>
+<utterance uid="24-6"><speaker>RYAN</speaker><content> Surveillance.</content></utterance>
+<utterance uid="24-7"><speaker>ESPOSITO</speaker><content> Surveillance.</content></utterance>
+<utterance uid="24-8"><speaker>RYAN</speaker><content> Canvassing.</content></utterance>
+<utterance uid="24-9"><speaker>CASTLE</speaker><content>In your face, Frankenstein!</content></utterance>
+<utterance uid="24-10"><speaker>RYAN</speaker><content> We can explain.</content></utterance>
+<utterance uid="24-11"><speaker>BECKETT</speaker><content>I ask one thing of you guys.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>CASTLE</speaker><content>All right, all right.</content></utterance>
+<utterance uid="25-2"><speaker>CASTLE</speaker><content>Terrible thing about Peter. Wish I would have gotten to know him better.</content></utterance>
+<utterance uid="25-3"><speaker>CASTLE</speaker><content>You, uh … spoken to Julie? She must be devastated.</content></utterance>
+<utterance uid="25-4"><speaker>CASTLE</speaker><content>Isn’t that Peter’s girlfriend’s name?</content></utterance>
+<utterance uid="25-5"><speaker>CASTLE</speaker><content>Ohh, someone didn’t skip his lesson on subtext.</content></utterance>
+<utterance uid="25-6"><speaker>CASTLE</speaker><content>Thank you.</content></utterance>
+<utterance uid="25-7"><speaker>CASTLE</speaker><content>Oops.</content></utterance>
+<utterance uid="25-8"><speaker>BECKETT</speaker><content> Drink.</content></utterance>
+<utterance uid="25-9"><speaker>BECKETT</speaker><content>All right, party’s over.  Unless you want me to start checking IDs.</content></utterance>
+<utterance uid="25-10"><speaker>CASTLE</speaker><content>That was a nice shot. We should team up. We could pong hustle.</content></utterance>
+<utterance uid="25-11"><speaker>BECKETT</speaker><content>Castle, go home. You’re drunk.</content></utterance>
+<utterance uid="25-12"><speaker>CASTLE</speaker><content>I’m not drunk. Casing the crack.  Crack – crack – cracking the case.</content></utterance>
+<utterance uid="25-13"><speaker>BECKETT</speaker><content> You’re a lightweight.</content></utterance>
+<utterance uid="25-14"><speaker>ALEXIS</speaker><content>Come on, Dad.  Time to go.</content></utterance>
+<utterance uid="25-15"><speaker>CASTLE</speaker><content>Okay, angel. You’re driving.</content></utterance>
+<utterance uid="25-16"><speaker>BECKETT</speaker><content>I have a gun.</content></utterance>
+<utterance uid="25-17"><speaker>BECKETT</speaker><content>Beckett.</content></utterance>
+<utterance uid="25-18"><speaker>VIKRAM</speaker><content>It’s Vikram. I found your dead guy. Resurrected in New Jersey. And I know where you can find him.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>BECKETT</speaker><content>It’s been a long time.</content></utterance>
+<utterance uid="26-2"><speaker>BECKETT</speaker><content>Sorry to shake your snow globe, but you helped me once, when I was being framed for Vulcan Simmons’s murder, and I need your help again.</content></utterance>
+<utterance uid="26-3"><speaker>SMITH</speaker><content>Forget it. I paid all my debts.</content></utterance>
+<utterance uid="26-4"><speaker>BECKETT</speaker><content>This man killed an Assistant AG connected to Bracken’s dirty money scheme.</content></utterance>
+<utterance uid="26-5"><speaker>SMITH</speaker><content>I don’t know him.</content></utterance>
+<utterance uid="26-6"><speaker>BECKETT</speaker><content>He works for Bracken’s partner. Some mystery man or woman deep inside the CIA.</content></utterance>
+<utterance uid="26-7"><speaker>SMITH</speaker><content>Why can’t you just leave this alone?</content></utterance>
+<utterance uid="26-8"><speaker>BECKETT</speaker><content>I wasn’t built that way.</content></utterance>
+<utterance uid="26-9"><speaker>SMITH</speaker><content>Look, I’ve got a good thing here. A woman who loves me, a new life. I’m happy. You could be, too. You just have to let it go.</content></utterance>
+<utterance uid="26-10"><speaker>BECKETT</speaker><content> I can’t.</content></utterance>
+<utterance uid="26-11"><speaker>SMITH</speaker><content>What makes you think the drug shipments stopped with Vulcan Simmons’s death? Every narcotic has a signature, a fingerprint, if you will. You find his? Pick up the trail.</content></utterance>
+<utterance uid="26-12"><speaker>BECKETT</speaker><content>Thank you.</content></utterance>
+<utterance uid="26-13"><speaker>SMITH</speaker><content>Don’t. You’re going to get yourself killed.  Come on, boy.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>MARTHA</speaker><content>Ah. You’re getting too old for drinking games, kiddo.</content></utterance>
+<utterance uid="27-2"><speaker>CASTLE</speaker><content>It was for the case.</content></utterance>
+<utterance uid="27-3"><speaker>MARTHA</speaker><content>The one that Katherine keeps throwing you off of?</content></utterance>
+<utterance uid="27-4"><speaker>CASTLE</speaker><content>I didn’t win her love overnight the first time. I’m making progress.</content></utterance>
+<utterance uid="27-5"><speaker>MARTHA</speaker><content>Oh.</content></utterance>
+<utterance uid="27-6"><speaker>CASTLE</speaker><content>Hey. Where are we on Peter’s faculty girlfriend?</content></utterance>
+<utterance uid="27-7"><speaker>ALEXIS</speaker><content>Dr. Barbara Lillstrom, head of the psych department at Hudson U, top of her class at Harvard Med School. She was advising Peter’s senior thesis.</content></utterance>
+<utterance uid="27-8"><speaker>CASTLE</speaker><content>And they had an illicit student-faculty relationship. One that ended ugly once he rejected her. Only I’m betting Peter was expecting a bad grade, not impalement.</content></utterance>
+<utterance uid="27-9"><speaker>ALEXIS</speaker><content>I contacted the psych department. Lillstrom’s been out all week.</content></utterance>
+<utterance uid="27-10"><speaker>CASTLE</speaker><content>She could be on the run.</content></utterance>
+<utterance uid="27-11"><speaker>ALEXIS</speaker><content>If she is, she didn’t run far. Or at least her phone didn’t. Her cell signal went dead yesterday but it last pinged off a tower outside of a tenantless building here.</content></utterance>
+<utterance uid="27-12"><speaker>CASTLE</speaker><content>That’s four blocks away from where Peter was killed.</content></utterance>
+<utterance uid="27-13"><speaker>MARTHA</speaker><content>You know, if you want to curry favor with Katherine after last night’s little debacle you might tell her about this.</content></utterance>
+<utterance uid="27-14"><speaker>CASTLE</speaker><content>No, first we’ll confirm Lillstrom is there. Then we’ll call in the cavalry.</content></utterance>
+</scene>
+
+<scene id="28"><utterance uid="28-1"><speaker>ALEXIS</speaker><content>Times like this I wish you were more comfortable carrying a gun on your person, not just in your desk.</content></utterance>
+<utterance uid="28-2"><speaker>CASTLE</speaker><content>A good PI relies on his wits first, bullets second.</content></utterance>
+<utterance uid="28-3"><speaker>ALEXIS</speaker><content>After your wits.</content></utterance>
+<utterance uid="28-4"><speaker>CASTLE</speaker><content> What was that?</content></utterance>
+<utterance uid="28-5"><speaker>CASTLE</speaker><content>That explains Peter’s prison jumpsuit.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>GUARD</speaker><content>Don’t move.</content></utterance>
+<utterance uid="29-2"><speaker>CASTLE</speaker><content>Easy there, fella. Unless you’re a New York Yankee, quit trying to steal second base.</content></utterance>
+<utterance uid="29-3"><speaker>GUARD</speaker><content>Watch your mouth.</content></utterance>
+<utterance uid="29-4"><speaker>CASTLE</speaker><content>I’m just saying, buy me a drink first.</content></utterance>
+<utterance uid="29-5"><speaker>GUARD</speaker><content>Take this. Here, open four.</content></utterance>
+<utterance uid="29-6"><speaker>ALEXIS</speaker><content>What?</content></utterance>
+<utterance uid="29-7"><speaker>GUARD</speaker><content>I have to warn the warden.</content></utterance>
+<utterance uid="29-8"><speaker>ALEXIS</speaker><content>What kind of prison is this?</content></utterance>
+<utterance uid="29-9"><speaker>CASTLE</speaker><content>Take a look around. Notice any similarities between the guards and the inmates?</content></utterance>
+<utterance uid="29-10"><speaker>ALEXIS</speaker><content>Wait, they are all my age.</content></utterance>
+<utterance uid="29-11"><speaker>CASTLE</speaker><content>Exactly. And I’m betting they’re all Hudson University students. They’re doing a reenactment of the Stanford Prison Experiment.</content></utterance>
+<utterance uid="29-12"><speaker>ALEXIS</speaker><content>That thing from the 70s? Where they studied the psychological effects of making students pretend to be prisoners and guards?</content></utterance>
+<utterance uid="29-13"><speaker>CASTLE</speaker><content>Makes sense. Dr. Lillstrom is head of the psych department. Who else is going to have the kind of pull to put something like this together? Maybe Peter Shawshank'ed his way out of here.</content></utterance>
+<utterance uid="29-14"><speaker>EMILY</speaker><content>Peter? He actually escaped?</content></utterance>
+<utterance uid="29-15"><speaker>CASTLE</speaker><content>You know Peter?</content></utterance>
+<utterance uid="29-16"><speaker>EMILY</speaker><content>He was in your cell. But one day we woke up and he was just gone.</content></utterance>
+<utterance uid="29-17"><speaker>CASTLE</speaker><content>What did the guard say?</content></utterance>
+<utterance uid="29-18"><speaker>EMILY</speaker><content>They freaked. How’d he get out of his cell? But we – we didn’t know if they were just messing with our heads, because that’s what they do here.</content></utterance>
+<utterance uid="29-19"><speaker>ALEXIS</speaker><content>Did you volunteer for this?</content></utterance>
+<utterance uid="29-20"><speaker>EMILY</speaker><content>I needed the money. But now I just want to go home.</content></utterance>
+<utterance uid="29-21"><speaker>CASTLE</speaker><content>Wait a minute. You mean, there’s no panic button? There’s no safety mechanism if you want to quit?</content></utterance>
+<utterance uid="29-22"><speaker>EMILY</speaker><content>There was a white flag but they removed it when Peter was demoted.</content></utterance>
+<utterance uid="29-23"><speaker>ALEXIS</speaker><content>Peter was a guard before he was an inmate?</content></utterance>
+<utterance uid="29-24"><speaker>EMILY</speaker><content>Head guard. Recruited by Warden Lillstrom. But he was nice to us. I think that’s why Lillstrom turned on him. She made Peter an inmate, forced him to sit in a chair.</content></utterance>
+<utterance uid="29-25"><speaker>CASTLE</speaker><content>What chair are we talking about?</content></utterance>
+<utterance uid="29-26"><speaker>EMILY</speaker><content>Our daily interrogations. We’re strapped to a chair. Lillstrom flashes images in our eyes, over and over. All these strange lights.</content></utterance>
+<utterance uid="29-27"><speaker>ALEXIS</speaker><content>What does Lillstrom want to know?</content></utterance>
+<utterance uid="29-28"><speaker>EMILY</speaker><content>Our secrets. The darker the better. It’s like she’s sliding around your brain, peeking into your soul.</content></utterance>
+<utterance uid="29-29"><speaker>CASTLE</speaker><content>Hey. Come open this cell.</content></utterance>
+<utterance uid="29-30"><speaker>CASTLE</speaker><content>And I give the grades. You saw my faculty ID. So here’s the pop quiz: failure to open this cell will cause an oh so disastrous end to your academic career. True or false?</content></utterance>
+<utterance uid="29-31"><speaker>ALEXIS</speaker><content>Hey. Hers too.</content></utterance>
+<utterance uid="29-32"><speaker>CASTLE</speaker><content>Take us to Dr. Lillstrom. Right now.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>BARBARA LILLSTROM</speaker><content>Damn right we do. Years of planning, of research, ruined! Do you have an idea of the damage you’ve caused?</content></utterance>
+<utterance uid="30-2"><speaker>CASTLE</speaker><content>Ask me if I care. We’re here investigating Peter’s murder.</content></utterance>
+<utterance uid="30-3"><speaker>EMILY</speaker><content>Peter’s dead?</content></utterance>
+<utterance uid="30-4"><speaker>LILLSTROM</speaker><content>Look, he broke out. That’s not my responsibility. New York’s a dangerous town.</content></utterance>
+<utterance uid="30-5"><speaker>CASTLE</speaker><content>We know all about your relationship with Peter.</content></utterance>
+<utterance uid="30-6"><speaker>LILLSTROM</speaker><content>I’m the advisor on his thesis.</content></utterance>
+<utterance uid="30-7"><speaker>CASTLE</speaker><content>You advised him on a lot more than that. You were having an affair.</content></utterance>
+<utterance uid="30-8"><speaker>LILLSTROM</speaker><content>Excuse me?</content></utterance>
+<utterance uid="30-9"><speaker>CASTLE</speaker><content>We found your little sex dungeon. And the messages you wrote on the mirror. Peter broke up with you, didn’t he? So you punished him the only way you knew how. By making him your prisoner. Then he escaped. Is that when you decided that he had to die, Doctor?</content></utterance>
+<utterance uid="30-10"><speaker>GUARD</speaker><content>You killed Peter?</content></utterance>
+<utterance uid="30-11"><speaker>LILLSTROM</speaker><content>It’s not true. Any of it.</content></utterance>
+<utterance uid="30-12"><speaker>CASTLE</speaker><content>You’re coming with me.</content></utterance>
+<utterance uid="30-13"><speaker>LILLSTROM</speaker><content>What?</content></utterance>
+<utterance uid="30-14"><speaker>CASTLE</speaker><content>You open those cells, but no one leaves here until I return with the police.</content></utterance>
+<utterance uid="30-15"><speaker>LILLSTROM</speaker><content>Do not listen to him.</content></utterance>
+<utterance uid="30-16"><speaker>CASTLE</speaker><content>Oh, and um …  you’re indoors and it’s dark, so take off the sunglasses. You look stupid.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>CASTLE</speaker><content>Yet another case closed courtesy of Richard Castle Investigations.</content></utterance>
+<utterance uid="31-2"><speaker>BECKETT</speaker><content>Um … who is this woman? And are you in handcuffs?</content></utterance>
+<utterance uid="31-3"><speaker>LILLSTROM</speaker><content>This man abducted me.</content></utterance>
+<utterance uid="31-4"><speaker>CASTLE</speaker><content>It’s not an abduction. It’s a citizen’s arrest. Please get it straight. Beckett, please meet Dr. Lillstrom. She was Peter’s teacher. With benefits. The real kinky kind, too. But when Peter ended their trysts she locked him up in a secret underground prison experiment. You’re welcome, honey.</content></utterance>
+<utterance uid="31-5"><speaker>BECKETT</speaker><content>You went to an underground prison?  Alone?</content></utterance>
+<utterance uid="31-6"><speaker>CASTLE</speaker><content>No, not alone. I had Alexis with me.</content></utterance>
+<utterance uid="31-7"><speaker>BECKETT</speaker><content> Oh, well, since you had backup. Are you kidding, Castle? Your daughter?</content></utterance>
+<utterance uid="31-8"><speaker>CASTLE</speaker><content>When you say it in that tone I sound like a bad parent. Regardless, Dr. Lillstrom is a suspect. Trust me.</content></utterance>
+<utterance uid="31-9"><speaker>BECKETT</speaker><content>Fine.</content></utterance>
+<utterance uid="31-10"><speaker>BECKETT</speaker><content>Thanks.  There’s protocol, you know that. If you had a lead you should’ve called us.</content></utterance>
+<utterance uid="31-11"><speaker>CASTLE</speaker><content>Oh, believe me, I wanted to. But they locked us up in a cell.</content></utterance>
+<utterance uid="31-12"><speaker>BECKETT</speaker><content>No, I mean, you should have called us bef- wait, they locked you up?  You know what? Never mind. I don’t want to know. Just go find Ryan and Espo and take them to the prison.</content></utterance>
+<utterance uid="31-13"><speaker>LILLSTROM</speaker><content>That man is insane. I’m innocent.</content></utterance>
+<utterance uid="31-14"><speaker>BECKETT</speaker><content>If he says you’re a suspect, then trust me. You are far from innocent. Let’s go.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>CASTLE</speaker><content>Right this way, guys.</content></utterance>
+<utterance uid="32-2"><speaker>CASTLE</speaker><content>Oh no. Oh no, no, no, no.</content></utterance>
+<utterance uid="32-3"><speaker>CASTLE</speaker><content>I told them to stay.</content></utterance>
+<utterance uid="32-4"><speaker>ESPOSITO</speaker><content>They’re not dogs, Castle. They’re college kids. What’d you expect?</content></utterance>
+<utterance uid="32-5"><speaker>RYAN</speaker><content>This place has been completely cleared out. Dr. Lillstrom must have had a contingency plan.</content></utterance>
+<utterance uid="32-6"><speaker>CASTLE</speaker><content>They took all the evidence. And I let it happen. All because I wanted to impress Beckett.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>CASTLE</speaker><content>Sorry, Beckett. I screwed up.</content></utterance>
+<utterance uid="33-2"><speaker>BECKETT</speaker><content>Yeah, you did.</content></utterance>
+<utterance uid="33-3"><speaker>CASTLE</speaker><content>And I jeopardized the entire case.</content></utterance>
+<utterance uid="33-4"><speaker>BECKETT</speaker><content>Again, yes.</content></utterance>
+<utterance uid="33-5"><speaker>BECKETT</speaker><content>But you know what? If it wasn’t for you then we’d still be thinking that Peter’s prison uniform was a Halloween costume.</content></utterance>
+<utterance uid="33-6"><speaker>ESPOSITO</speaker><content>So I’ve been digging into Dr. Lillstrom. Did you know for the past decade she’s been contracting with the army working psy-ops?</content></utterance>
+<utterance uid="33-7"><speaker>CASTLE</speaker><content>Wait a minute. The Navy funded the first, the original, Stanford Prison Experiment. Maybe the Army is behind Dr. Lillstrom’s modern day incarnation.</content></utterance>
+<utterance uid="33-8"><speaker>ESPOSITO</speaker><content>That would explain how the place was scrubbed so quickly.</content></utterance>
+<utterance uid="33-9"><speaker>BECKETT</speaker><content>Now why would the military be interested in a bunch of college students playing prison?</content></utterance>
+<utterance uid="33-10"><speaker>ESPOSITO</speaker><content>Well, the government’s in need of new counter-terrorism techniques aimed at the millennial generation. How to get into the minds of young terrorists and break them.</content></utterance>
+<utterance uid="33-11"><speaker>BECKETT</speaker><content>And what better source of lab rats than the millennials here at home.</content></utterance>
+<utterance uid="33-12"><speaker>ESPOSITO</speaker><content>But we’ll never get those surveillance tapes back. So how do we prove that Lillstrom left the prison to kill Peter after he escaped?</content></utterance>
+<utterance uid="33-13"><speaker>BECKETT</speaker><content>We need a confession.</content></utterance>
+<utterance uid="33-14"><speaker>CASTLE</speaker><content>Well, the doc likes mind games, right?</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>LILLSTROM</speaker><content>Charge me or let me go.</content></utterance>
+<utterance uid="34-2"><speaker>BECKETT</speaker><content>Which sounds better, “negligent infliction of emotional distress” or “gross psychological abuse”?</content></utterance>
+<utterance uid="34-3"><speaker>LILLSTROM</speaker><content>What are you doing?</content></utterance>
+<utterance uid="34-4"><speaker>BECKETT</speaker><content>I’m writing an email to the Hud U faculty. I figured I’d let everyone know that you were conducting an unauthorized experiment with members of the student body secretly funded by the US military.</content></utterance>
+<utterance uid="34-5"><speaker>LILLSTROM</speaker><content>I’d love to see you prove it. Especially because every participating student signs a non-disclosure agreement.</content></utterance>
+<utterance uid="34-6"><speaker>BECKETT</speaker><content>Oh. Well then, I suppose you won’t mind if I send this.</content></utterance>
+<utterance uid="34-7"><speaker>LILLSTROM</speaker><content>Wait! Wait.  What will it take for you not to tell anyone at Hudson about this?</content></utterance>
+<utterance uid="34-8"><speaker>BECKETT</speaker><content>The truth.</content></utterance>
+<utterance uid="34-9"><speaker>LILLSTROM</speaker><content>Do I have your word, Captain?</content></utterance>
+<utterance uid="34-10"><speaker>BECKETT</speaker><content>Hud U will never hear from me.</content></utterance>
+<utterance uid="34-11"><speaker>LILLSTROM</speaker><content>Okay. I didn’t kill Peter and I wasn’t sleeping with him.</content></utterance>
+<utterance uid="34-12"><speaker>BECKETT</speaker><content>That’s all you’ve got?  Well then, I’m sending it.</content></utterance>
+<utterance uid="34-13"><speaker>LILLSTROM</speaker><content>Look, it’s the truth! The night Peter escaped I wasn’t even at the prison.</content></utterance>
+<utterance uid="34-14"><speaker>BECKETT</speaker><content>Then where were you?</content></utterance>
+<utterance uid="34-15"><speaker>LILLSTROM</speaker><content>A pipe burst in my apartment. I was dealing with it all night. Check with my doorman. But if you’re thinking whoever was having an affair with Peter killed him? I might be able to help.</content></utterance>
+<utterance uid="34-16"><speaker>BECKETT</speaker><content>Now we’re talking.</content></utterance>
+<utterance uid="34-17"><speaker>LILLSTROM</speaker><content>My study deals with extracting secrets from unwilling subjects.</content></utterance>
+<utterance uid="34-18"><speaker>BECKETT</speaker><content>And Peter revealed that he was having an affair?  So who was he sleeping with?</content></utterance>
+<utterance uid="34-19"><speaker>LILLSTROM</speaker><content>Someone on that list.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>BECKETT</speaker><content>Dean Feller, I’m sure you know why you’re here.</content></utterance>
+<utterance uid="35-2"><speaker>FELLER</speaker><content>Actually, I don’t.</content></utterance>
+<utterance uid="35-3"><speaker>RYAN</speaker><content>Well, we found the studio apartment.</content></utterance>
+<utterance uid="35-4"><speaker>FELLER</speaker><content>I don’t – I don’t know what that is.</content></utterance>
+<utterance uid="35-5"><speaker>RYAN</speaker><content>Really? Because we showed your photo to the neighbors. They were able to tell us that –</content></utterance>
+<utterance uid="35-6"><speaker>FELLER</speaker><content>Okay. Look, Peter stood me up a couple of nights in a row. And I was hurt. So I wrote him a message.</content></utterance>
+<utterance uid="35-7"><speaker>BECKETT</speaker><content>Peter stood you up because he was trapped inside of Dr. Lillstrom’s prison experiment.</content></utterance>
+<utterance uid="35-8"><speaker>FELLER</speaker><content>What prison experiment?</content></utterance>
+<utterance uid="35-9"><speaker>BECKETT</speaker><content>Peter told you about the hell that he was stuck in. Phone records show that you received a collect call from a pay phone near the crime scene.</content></utterance>
+<utterance uid="35-10"><speaker>FELLER</speaker><content>Yes, Peter called me. He was panicked. He told me to pick him up at the park and he would explain everything, but he never said anything about a prison. He never showed.</content></utterance>
+<utterance uid="35-11"><speaker>BECKETT</speaker><content>Did Peter tell you that Dr. Lillstrom extracted the secret of your affair? Is that why you killed him?</content></utterance>
+<utterance uid="35-12"><speaker>RYAN</speaker><content>Because he was the only one who could verify the truth?</content></utterance>
+<utterance uid="35-13"><speaker>FELLER</speaker><content>What? I didn’t kill Peter. I want a lawyer. Right now.</content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>CASTLE</speaker><content>You’re not buying this, are you? No confession, no smoking gun. It’s just … not clean.</content></utterance>
+<utterance uid="36-2"><speaker>BECKETT</speaker><content>Well, that’s how homicides are sometimes. You know that.</content></utterance>
+<utterance uid="36-3"><speaker>CASTLE</speaker><content>Yeah, but something’s still bothering me. There’s a part of the mystery that hasn’t been solved yet. We’re missing part of the story.</content></utterance>
+<utterance uid="36-4"><speaker>BECKETT</speaker><content>And how do you suggest we find it?</content></utterance>
+<utterance uid="36-5"><speaker>CASTLE</speaker><content>Same way we always do. We start at the beginning. Back at the prison.</content></utterance>
+<utterance uid="36-6"><speaker>BECKETT</speaker><content>You just want an excuse to get me alone.</content></utterance>
+<utterance uid="36-7"><speaker>CASTLE</speaker><content>No, Beckett, I just want the truth. What really happened to Peter that night?</content></utterance>
+</scene>
+<scene id="37"><utterance uid="37-1"><speaker>CASTLE</speaker><content>Peter was placed in this cell.</content></utterance>
+<utterance uid="37-2"><speaker>BECKETT</speaker><content>And then he escaped.</content></utterance>
+<utterance uid="37-3"><speaker>CASTLE</speaker><content>Yeah. But how? They said one morning he was just gone.</content></utterance>
+<utterance uid="37-4"><speaker>BECKETT</speaker><content>So what are you thinking? How Peter escaped had something to do with who killed him?</content></utterance>
+<utterance uid="37-5"><speaker>CASTLE</speaker><content>Only one way to figure it out.</content></utterance>
+<utterance uid="37-6"><speaker>CASTLE</speaker><content>And guess what? We’re going to figure it out together.</content></utterance>
+</scene>
+<scene id="38"><utterance uid="38-1"><speaker>CASTLE</speaker><content>You’re not going to get a signal.</content></utterance>
+<utterance uid="38-2"><speaker>BECKETT</speaker><content>You trapped me in here on purpose.</content></utterance>
+<utterance uid="38-3"><speaker>CASTLE</speaker><content>No, I didn’t. But since you brought it up, tell me. Why do you feel trapped in our marriage?</content></utterance>
+<utterance uid="38-4"><speaker>BECKETT</speaker><content>I don’t.</content></utterance>
+<utterance uid="38-5"><speaker>CASTLE</speaker><content>Then why did you leave?</content></utterance>
+<utterance uid="38-6"><speaker>BECKETT</speaker><content>It’s complicated.</content></utterance>
+<utterance uid="38-7"><speaker>CASTLE</speaker><content>So is breaking out of a prison, so we’ve got some time.</content></utterance>
+<utterance uid="38-8"><speaker>BECKETT</speaker><content>You know, we’re not having this conversation. I asked you for space and you literally lock me up in a jail cell.</content></utterance>
+<utterance uid="38-9"><speaker>CASTLE</speaker><content>Okay, whoa, whoa, whoa. Okay. Okay. You can – I’ll give you space. I’ll give you space.</content></utterance>
+<utterance uid="38-10"><speaker>BECKETT</speaker><content>You know, it would be just my luck it would ricochet and hit you and then I’d have two murders to contend with.</content></utterance>
+<utterance uid="38-11"><speaker>CASTLE</speaker><content>Well, look. Relax. Peter broke out of here, so so can we. Probably.</content></utterance>
+<utterance uid="38-12"><speaker>BECKETT</speaker><content>You’re right. I mean, we’ve been stuck in worse places together before.</content></utterance>
+<utterance uid="38-13"><speaker>CASTLE</speaker><content>I like that word. Together. So what happened, Kate? What did I do wrong?</content></utterance>
+<utterance uid="38-14"><speaker>BECKETT</speaker><content>Castle, this one’s not about you. It’s on me. I love you. I always will.</content></utterance>
+<utterance uid="38-15"><speaker>CASTLE</speaker><content>Then let’s work it out. Therapy. Counseling. Whatever it takes.</content></utterance>
+<utterance uid="38-16"><speaker>BECKETT</speaker><content>I – I just can’t.</content></utterance>
+<utterance uid="38-17"><speaker>CASTLE</speaker><content>Why?</content></utterance>
+<utterance uid="38-18"><speaker>BECKETT</speaker><content>Huh.</content></utterance>
+<utterance uid="38-19"><speaker>CASTLE</speaker><content>Huh what?</content></utterance>
+<utterance uid="38-20"><speaker>BECKETT</speaker><content>Before this place was a prison cell it was an office building, right?</content></utterance>
+<utterance uid="38-21"><speaker>CASTLE</speaker><content>Yeah.</content></utterance>
+<utterance uid="38-22"><speaker>BECKETT</speaker><content>Take a look up.</content></utterance>
+<utterance uid="38-23"><speaker>BECKETT</speaker><content>I bet you that’s how Peter got out. Come on, Castle.</content></utterance>
+<utterance uid="38-24"><speaker>BECKETT</speaker><content>Uh, this is when you boost me up.</content></utterance>
+<utterance uid="38-25"><speaker>CASTLE</speaker><content>Um … right. Ready?</content></utterance>
+<utterance uid="38-26"><speaker>BECKETT</speaker><content>Got it.</content></utterance>
+<utterance uid="38-27"><speaker>CASTLE</speaker><content>You’re doing great, honey. Not to rush you, but …</content></utterance>
+<utterance uid="38-28"><speaker>BECKETT</speaker><content>Wait a minute. Something’s not right here. How did Peter reach the vent from inside the cell?</content></utterance>
+<utterance uid="38-29"><speaker>CASTLE</speaker><content> It was a two man job.</content></utterance>
+<utterance uid="38-30"><speaker>BECKETT</speaker><content> It was a two man job.</content></utterance>
+<utterance uid="38-31"><speaker>CASTLE</speaker><content>Two prisoners escape but only one was missing. Which means –</content></utterance>
+<utterance uid="38-32"><speaker>BECKETT</speaker><content> The killer came back!</content></utterance>
+<utterance uid="38-33"><speaker>CASTLE</speaker><content> – the killer came back!</content></utterance>
+<utterance uid="38-34"><speaker>BECKETT</speaker><content>I’ll open the door.</content></utterance>
+</scene>
+<scene id="39"><utterance uid="39-1"><speaker>RYAN</speaker><content>Thanks for coming down to the station, Emily. We just have a few questions about the prison experiment.  And how you helped Peter escape from it.</content></utterance>
+<utterance uid="39-2"><speaker>EMILY</speaker><content>What are you talking about?</content></utterance>
+<utterance uid="39-3"><speaker>ESPOSITO</speaker><content>Well, Peter reached through the bars and he hoisted you up and you both escaped. Didn’t you?</content></utterance>
+<utterance uid="39-4"><speaker>RYAN</speaker><content>And then you killed Peter in the park. And then returned to the prison. To your cell. The perfect alibi.</content></utterance>
+<utterance uid="39-5"><speaker>EMILY</speaker><content>That’s ridiculous. Why would I kill him?</content></utterance>
+<utterance uid="39-6"><speaker>RYAN</speaker><content>Emily, we know about the scholarship. You needed it to stay in school.</content></utterance>
+<utterance uid="39-7"><speaker>EMILY</speaker><content>Yeah, but he won fair and square.</content></utterance>
+<utterance uid="39-8"><speaker>RYAN</speaker><content>We know that’s not true. Peter won that scholarship because he was having an affair with the dean.</content></utterance>
+<utterance uid="39-9"><speaker>ESPOSITO</speaker><content>And then when you found out about it in the prison you took your revenge.</content></utterance>
+<utterance uid="39-10"><speaker>EMILY</speaker><content>It wasn’t me.</content></utterance>
+<utterance uid="39-11"><speaker>ESPOSITO</speaker><content>Stop lying, Emily!</content></utterance>
+<utterance uid="39-12"><speaker>EMILY</speaker><content>It wasn’t! It was a different me. That experiment messed with my head. After we escaped I just – snapped. It was so unfair. I had worked so hard, did everything right. When Peter ran into the park I went after him. Then I saw that tree branch. Why did I do that?</content></utterance>
+</scene>
+<scene id="40"><utterance uid="40-1"><speaker>VIKRAM</speaker><content>Thanks for meeting me.</content></utterance>
+<utterance uid="40-2"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="40-3"><speaker>VIKRAM</speaker><content>I finished piecing this together for our investigation.</content></utterance>
+<utterance uid="40-4"><speaker>VIKRAM</speaker><content>You’re having second thoughts, aren’t you?</content></utterance>
+<utterance uid="40-5"><speaker>BECKETT</speaker><content>Yeah, I just knew that this was going to be tough. I didn’t think it was going to be like this.</content></utterance>
+<utterance uid="40-6"><speaker>VIKRAM</speaker><content>No, I get it. I do. But maybe we need to stop before we start. Beckett, I’ll follow your lead.</content></utterance>
+<utterance uid="40-7"><speaker>VIKRAM</speaker><content>What should we do?</content></utterance>
+<utterance uid="40-8"><speaker>BECKETT</speaker><content>Let’s get to work.</content></utterance>
+</scene>
+
+<scene id="41"><utterance uid="41-1"><speaker>CASTLE</speaker><content>That is … fifty year old scotch.</content></utterance>
+<utterance uid="41-2"><speaker>ALEXIS</speaker><content>Yeah. I bought a case of it.</content></utterance>
+<utterance uid="41-3"><speaker>CASTLE</speaker><content>Alexis, that’s expensive.</content></utterance>
+<utterance uid="41-4"><speaker>ALEXIS</speaker><content>Relax, Dad. The company paid for it.</content></utterance>
+<utterance uid="41-5"><speaker>CASTLE</speaker><content>Oh. Okay – wait. That means I paid for it.</content></utterance>
+<utterance uid="41-6"><speaker>ALEXIS</speaker><content>To closing the case.</content></utterance>
+<utterance uid="41-7"><speaker>CASTLE</speaker><content>To generous expense accounts.</content></utterance>
+<utterance uid="41-8"><speaker>ALEXIS</speaker><content>So … any progress with Beckett?</content></utterance>
+<utterance uid="41-9"><speaker>CASTLE</speaker><content>You know, at the prison we uh … sort of had a moment.</content></utterance>
+<utterance uid="41-10"><speaker>ALEXIS</speaker><content>Really?</content></utterance>
+<utterance uid="41-11"><speaker>CASTLE</speaker><content>Yeah. I think my plan is working. I mean, it has to, right?</content></utterance>
+<utterance uid="41-12"><speaker>CASTLE</speaker><content>Um … you know what? We’re going to start a tradition. For when we solve a case together.</content></utterance>
+<utterance uid="41-13"><speaker>ALEXIS</speaker><content>I don’t smoke. And neither do you.</content></utterance>
+<utterance uid="41-14"><speaker>CASTLE</speaker><content>Who said anything about smoking?</content></utterance>
+<utterance uid="41-15"><speaker>THE END</speaker><content>CASTLE</content></utterance>
+</scene>
+</script>

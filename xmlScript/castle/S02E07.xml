@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+<scene id="1"><utterance uid="1-1"><speaker>ACT ONE</speaker><content/></utterance>
+<utterance uid="1-2"><speaker>CASTLE</speaker><content>Hey. What's wrong?</content></utterance>
+<utterance uid="1-3"><speaker>ALEXIS</speaker><content>Dad, they're saying she's dead.</content></utterance>
+<utterance uid="1-4"><speaker>CASTLE</speaker><content>Who's dead?</content></utterance>
+<utterance uid="1-5"><speaker>ALEXIS</speaker><content>Hayley Blue. The Gawker website just posted it.</content></utterance>
+<utterance uid="1-6"><speaker>CASTLE</speaker><content>Oh, the girl from the band you like?</content></utterance>
+<utterance uid="1-7"><speaker>ALEXIS</speaker><content>They say they found her body in an alley in Chelsea.</content></utterance>
+<utterance uid="1-8"><speaker>CASTLE</speaker><content>Oh, angel, are you sure it's not just a rumor? I mean, those gossip blogs, they don't really check facts.</content></utterance>
+<utterance uid="1-9"><speaker>ALEXIS</speaker><content>They were right when they said Hayley was breaking up the band to go solo.</content></utterance>
+<utterance uid="1-10"><speaker>CASTLE</speaker><content>Look, if there was any truth to it, I'm sure Detective Beckett would've called by now.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>PERLMUTTER</speaker><content>Broken neck. At least that's my prelim. No wallet, no phone, do ID.</content></utterance>
+<utterance uid="2-2"><speaker>CASTLE</speaker><content>She doesn't need ID.</content></utterance>
+<utterance uid="2-3"><speaker>PERLMUTTER</speaker><content>You know her?</content></utterance>
+<utterance uid="2-4"><speaker>BECKETT</speaker><content>Are you sure it's her?</content></utterance>
+<utterance uid="2-5"><speaker>CASTLE</speaker><content>That's Hayley Blue. I took Alexis to see her band, The Blue Pill, last year. What happened?</content></utterance>
+<utterance uid="2-6"><speaker>PERLMUTTER</speaker><content>Well, it looks like she was killed off-site, then brought here and staged.</content></utterance>
+<utterance uid="2-7"><speaker>BECKETT</speaker><content>Time of death?</content></utterance>
+<utterance uid="2-8"><speaker>PERLMUTTER</speaker><content>Uh, I'd say between midnight and 3 a.m., give or take.</content></utterance>
+<utterance uid="2-9"><speaker>BECKETT</speaker><content>Do you guys hear that?</content></utterance>
+<utterance uid="2-10"><speaker>CASTLE</speaker><content>What?</content></utterance>
+<utterance uid="2-11"><speaker>BECKETT</speaker><content>The song. It's playing again.</content></utterance>
+<utterance uid="2-12"><speaker>BECKETT</speaker><content>It's on repeat. "Here, Kitty, Kitty" by The Blue Pill. It's one of hers.</content></utterance>
+<utterance uid="2-13"><speaker>CASTLE</speaker><content>Well, that's gotta be a message, right?</content></utterance>
+<utterance uid="2-14"><speaker>BECKETT</speaker><content>All right, have CSU bag this. Check the body. Fibers, prints, the whole works. Guy could've tossed the body in a dumpster, instead he hangs her from a fire escape. He is sending a message.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>MONTGOMERY</speaker><content>It's about time you got back. We've got a very persistent citizen waiting to ask you some questions.</content></utterance>
+<utterance uid="3-2"><speaker>CASTLE</speaker><content>Alexis, what are you doing here? How come you're not at school?</content></utterance>
+<utterance uid="3-3"><speaker>ALEXIS</speaker><content>Oh, I have study hall first period. Dad, is it true?</content></utterance>
+<utterance uid="3-4"><speaker>CASTLE</speaker><content>Uh, yeah, sweetie. I'm afraid so.</content></utterance>
+<utterance uid="3-5"><speaker>ALEXIS</speaker><content>What happened? Was it the drugs?</content></utterance>
+<utterance uid="3-6"><speaker>BECKETT</speaker><content>Doesn't look like it. Why? Did she have a drug problem?</content></utterance>
+<utterance uid="3-7"><speaker>ALEXIS</speaker><content>Well, she used to. She went to rehab three months ago, after her friends found her choking on her own...</content></utterance>
+<utterance uid="3-8"><speaker>CASTLE</speaker><content>Okay! You know... You know what, I think it's time we reset the parental controls on your computer.</content></utterance>
+<utterance uid="3-9"><speaker>ALEXIS</speaker><content>Please. I had to set the parental control on your computer, remember?</content></utterance>
+<utterance uid="3-10"><speaker>CASTLE</speaker><content>Speaking of which...</content></utterance>
+<utterance uid="3-11"><speaker>ALEXIS</speaker><content>No!</content></utterance>
+<utterance uid="3-12"><speaker>ESPOSITO</speaker><content>Beckett.</content></utterance>
+<utterance uid="3-13"><speaker>BECKETT</speaker><content>Yeah?</content></utterance>
+<utterance uid="3-14"><speaker>ESPOSITO</speaker><content>Street was negative for cameras. We got a dozen shoeprints off the alley, size five through eleven. Checked her DMV records online. She moved from the address they had listed three months ago.</content></utterance>
+<utterance uid="3-15"><speaker>BECKETT</speaker><content>That was about the same time that Hayley went into rehab.</content></utterance>
+<utterance uid="3-16"><speaker>RYAN</speaker><content>But check this out. I ran a search for that song on Hayley's iPod, "Here, Kitty, Kitty". Look what popped up.</content></utterance>
+<utterance uid="3-17"><speaker>HAYLEY BLUE</speaker><content>"I can see the writing 'cause I wrote it on the wall."</content></utterance>
+<utterance uid="3-18"><speaker>BECKETT</speaker><content>A music video?</content></utterance>
+<utterance uid="3-19"><speaker>RYAN</speaker><content>See if this looks familiar.</content></utterance>
+<utterance uid="3-20"><speaker>HAYLEY BLUE</speaker><content>"You can't conquer every vibe just because I'm open wide. You can't catch me, though you try. You can kiss this goodbye."</content></utterance>
+<utterance uid="3-21"><speaker>ALEXIS</speaker><content>Is that how you found her?</content></utterance>
+<utterance uid="3-22"><speaker>BECKETT</speaker><content>Does that mean anything to you?</content></utterance>
+<utterance uid="3-23"><speaker>ALEXIS</speaker><content>Yeah. Hayley wrote this song about some obsessed fan who was stalking her.</content></utterance>
+<utterance uid="3-24"><speaker>BECKETT</speaker><content>Do you know who he was?</content></utterance>
+<utterance uid="3-25"><speaker>ALEXIS</speaker><content>Wait. There might be something in the song. Play it again.</content></utterance>
+<utterance uid="3-26"><speaker>HAYLEY BLUE</speaker><content>"It's okay to want me, but you want nothing else. Sitting back and plotting is a crime in itself."</content></utterance>
+<utterance uid="3-27"><speaker>MONTGOMERY</speaker><content>"Sitting back and plotting." Sounds like she though he was dangerous.</content></utterance>
+<utterance uid="3-28"><speaker>ALEXIS</speaker><content>Yeah. Listen. Here's the part.</content></utterance>
+<utterance uid="3-29"><speaker>HAYLEY BLUE</speaker><content>"Does 50 feet or less mean anything to you at all?"</content></utterance>
+<utterance uid="3-30"><speaker>ESPOSITO</speaker><content>"50 feet or less."</content></utterance>
+<utterance uid="3-31"><speaker>BECKETT</speaker><content>She got a restraining order against him. All right, run it and get me a name.</content></utterance>
+<utterance uid="3-32"><speaker>CASTLE</speaker><content>And you will go off to school.</content></utterance>
+<utterance uid="3-33"><speaker>ALEXIS</speaker><content>But I was just helpful.</content></utterance>
+<utterance uid="3-34"><speaker>CASTLE</speaker><content>Yes, but if I let you out of class every time you were helpful, you'd never go.</content></utterance>
+<utterance uid="3-35"><speaker>ALEXIS</speaker><content>But I won't be able to focus on school today. I just can't concentrate.</content></utterance>
+<utterance uid="3-36"><speaker>CASTLE</speaker><content>Which will make you just like all the other kids in your class.</content></utterance>
+<utterance uid="3-37"><speaker>ALEXIS</speaker><content>Dad.</content></utterance>
+<utterance uid="3-38"><speaker>CASTLE</speaker><content>I am serious, or I will call the truant officer.  Do you still have truant officers?</content></utterance>
+<utterance uid="3-39"><speaker>MONTGOMERY</speaker><content>Budget cuts.</content></utterance>
+<utterance uid="3-40"><speaker>CASTLE</speaker><content>You're so lucky.</content></utterance>
+<utterance uid="3-41"><speaker>ESPOSITO</speaker><content>Found your stalker. Franco Marquez, aka Frankie Markie. Hayley filed half a dozen complaints against him. It says here that he even tried to break into her apartment. And when she filed against him, he showed up in court and called her a...</content></utterance>
+<utterance uid="3-42"><speaker>ESPOSITO</speaker><content>B-I-T-C-H.</content></utterance>
+<utterance uid="3-43"><speaker>CASTLE</speaker><content>She can spell, Detective.</content></utterance>
+<utterance uid="3-44"><speaker>RYAN</speaker><content>Probably better than you.</content></utterance>
+<utterance uid="3-45"><speaker>MONTGOMERY</speaker><content>Bring him in.</content></utterance>
+<utterance uid="3-46"><speaker>CASTLE</speaker><content>And you, to school.</content></utterance>
+<utterance uid="3-47"><speaker>ALEXIS</speaker><content>Fine.</content></utterance>
+<utterance uid="3-48"><speaker>CASTLE</speaker><content>Thank you.</content></utterance>
+<utterance uid="3-49"><speaker>CASTLE</speaker><content>What?</content></utterance>
+<utterance uid="3-50"><speaker>BECKETT</speaker><content>Nothing. It's just, I'm so used to you acting like a 12-year-old all the time, it's kind of refreshing to see you as a father.</content></utterance>
+<utterance uid="3-51"><speaker>CASTLE</speaker><content>Makes you want me, right?</content></utterance>
+<utterance uid="3-52"><speaker>BECKETT</speaker><content>And there's the 12-year-old again.</content></utterance>
+<utterance uid="3-53"><speaker>CASTLE</speaker><content>Who're you calling?</content></utterance>
+<utterance uid="3-54"><speaker>BECKETT</speaker><content>Alison King Rehab Center. It where all the stars go to clean up. Figured Hayley must've given them her home address on her exit interview. If Hayley cleaned up, that's where she would have gone.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>BECKETT</speaker><content>Mrs. Busch, the rehab center said that you and your husband paid for her treatment and that she moved in with you after she left the facility.</content></utterance>
+<utterance uid="4-2"><speaker>BREE BUSCH</speaker><content>Yeah. She'd become like family.</content></utterance>
+<utterance uid="4-3"><speaker>CASTLE</speaker><content>Do all record producers pay for their artists to go to rehab?</content></utterance>
+<utterance uid="4-4"><speaker>IAN BUSCH</speaker><content>No. Most just score them drugs and then look the other way. Manager gets them some pot so they can relax. The producer gets them some blow so they can... So they can work. Then someone gets them heroin. By the time we got to Hayley, she was already hooked. We told her our door was always open if she wanted to get clean.</content></utterance>
+<utterance uid="4-5"><speaker>BREE BUSCH</speaker><content>She was always better than that band. She was the talent. When they finally broke up, she wanted off the drugs. So we took her in.</content></utterance>
+<utterance uid="4-6"><speaker>IAN BUSCH</speaker><content>She was ready.</content></utterance>
+<utterance uid="4-7"><speaker>BREE BUSCH</speaker><content>She was recording again. And to be killed by a fan...</content></utterance>
+<utterance uid="4-8"><speaker>BECKETT</speaker><content>Actually, we don't know for sure that it was Franco.</content></utterance>
+<utterance uid="4-9"><speaker>IAN BUSCH</speaker><content>You don't?</content></utterance>
+<utterance uid="4-10"><speaker>BECKETT</speaker><content>No.</content></utterance>
+<utterance uid="4-11"><speaker>IAN BUSCH</speaker><content>But you weren't there in the middle of the night when she was waking up screaming, terrified that something like this was gonna happen.</content></utterance>
+<utterance uid="4-12"><speaker>BREE BUSCH</speaker><content>We were supposed to protect her. We should've tried harder to find her.</content></utterance>
+<utterance uid="4-13"><speaker>BECKETT</speaker><content>To find her?</content></utterance>
+<utterance uid="4-14"><speaker>IAN BUSCH</speaker><content>Last Monday, she didn't show up at the studio for a session. When we got home, she was gone. So were her clothes, her watch, her jewelry. Anything she could sell. We figured...</content></utterance>
+<utterance uid="4-15"><speaker>CASTLE</speaker><content>She'd relapsed.</content></utterance>
+<utterance uid="4-16"><speaker>BREE BUSCH</speaker><content>We tried calling her, but her cell phone was disconnected. It, you know... It wasn't like her to just disappear. Something spooked her.</content></utterance>
+<utterance uid="4-17"><speaker>CASTLE</speaker><content>Did Hayley have any family?</content></utterance>
+<utterance uid="4-18"><speaker>BREE BUSCH</speaker><content>Yeah, a sister, Sky.</content></utterance>
+<utterance uid="4-19"><speaker>BECKETT</speaker><content>Do you know where we could find her?</content></utterance>
+<utterance uid="4-20"><speaker>IAN BUSCH</speaker><content>Wherever she is, she probably has a needle in her arm. When Hayley got out of rehab, all she could talk about was saving Sky.</content></utterance>
+<utterance uid="4-21"><speaker>BREE BUSCH</speaker><content>Not that Sky wanted saving, after what Hayley did to her.</content></utterance>
+<utterance uid="4-22"><speaker>BECKETT</speaker><content>What did Hayley do to her?</content></utterance>
+<utterance uid="4-23"><speaker>BREE BUSCH</speaker><content>She got famous.</content></utterance>
+<utterance uid="4-24"><speaker>BECKETT</speaker><content>Oh. Excuse me.</content></utterance>
+<utterance uid="4-25"><speaker>BECKETT</speaker><content>Beckett.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>ESPOSITO</speaker><content>Our fanatic fan is rabbiting. A neighbor saw him leaving with a backpack this morning. From the looks of his place, he left in a hurry.</content></utterance>
+<utterance uid="5-2"><speaker>BECKETT</speaker><content>Any idea where he was going?</content></utterance>
+<utterance uid="5-3"><speaker>ESPOSITO</speaker><content>Yeah, away. He also charged a bus ticket at Port Authority this morning.</content></utterance>
+<utterance uid="5-4"><speaker>RYAN</speaker><content>He's headed upstate. Bus pulled out five minutes ago.</content></utterance>
+<utterance uid="5-5"><speaker>ESPOSITO</speaker><content>You hear that?</content></utterance>
+<utterance uid="5-6"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>BECKETT</speaker><content>All right, got it.</content></utterance>
+<utterance uid="6-2"><speaker>BECKETT</speaker><content>Hands where I can see them, now!</content></utterance>
+<utterance uid="6-3"><speaker>ESPOSITO</speaker><content>Nobody move!</content></utterance>
+<utterance uid="6-4"><speaker>BECKETT</speaker><content>Franco Marquez, you're under arrest for the murder of Hayley Blue.</content></utterance>
+<utterance uid="6-5"><speaker>ESPOSITO</speaker><content>Get up.</content></utterance>
+<utterance uid="6-6"><speaker>FRANCO MARQUEZ</speaker><content>No! Easy! Easy, man. You're hurting me.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>FRANCO MARQUEZ</speaker><content>You guys are so stupid! I loved Hayley. She was my soul mate! Why would I kill her?</content></utterance>
+<utterance uid="7-2"><speaker>BECKETT</speaker><content>Why did you run?</content></utterance>
+<utterance uid="7-3"><speaker>FRANCO MARQUEZ</speaker><content>Huh! When I heard how you found her, I knew what you'd think. "She wrote a song about me, so of course I must've k..."</content></utterance>
+<utterance uid="7-4"><speaker>BECKETT</speaker><content>Where were you after midnight last night?</content></utterance>
+<utterance uid="7-5"><speaker>FRANCO MARQUEZ</speaker><content>She played a set at The Bitter End last night. A brand new song. It was like a total surprise. Like, there was no e-mail blast or nothing, so I wasn't there.</content></utterance>
+<utterance uid="7-6"><speaker>BECKETT</speaker><content>I asked you where you were, not where you weren't.</content></utterance>
+<utterance uid="7-7"><speaker>FRANCO MARQUEZ</speaker><content>Someone recorded the concert and posted it online. It's gone totally viral already. So, that's where I was. At home in my room, listening to Hayley's final show.</content></utterance>
+<utterance uid="7-8"><speaker>CASTLE</speaker><content>You say "final show" like you knew it was gonna be her last.</content></utterance>
+<utterance uid="7-9"><speaker>FRANCO MARQUEZ</speaker><content>I did know. So did Hayley. She knew last night she was gonna die. Listen.</content></utterance>
+<utterance uid="7-10"><speaker>FRANCO MARQUEZ</speaker><content>Her new song.</content></utterance>
+<utterance uid="7-11"><speaker>HAYLEY BLUE</speaker><content>"The hands we're dealt will never disappear. Death, she grows near."</content></utterance>
+<utterance uid="7-12"><speaker>FRANCO MARQUEZ</speaker><content>"Death, she grows near." She knew he was gonna kill her last night. And he knew he could frame me when he did.</content></utterance>
+<utterance uid="7-13"><speaker>BECKETT</speaker><content>Who are you talking about?</content></utterance>
+<utterance uid="7-14"><speaker>FRANCO MARQUEZ</speaker><content>I know I'm not supposed to, but... The restraining order... I followed her. I came around the corner, he was yelling at her. He said he was going to kill her.</content></utterance>
+<utterance uid="7-15"><speaker>BECKETT</speaker><content>Who said? Franco, who did you see?</content></utterance>
+<utterance uid="7-16"><speaker>FRANCO MARQUEZ</speaker><content>Zack Metzger. Her guitarist.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>ESPOSITO</speaker><content>Zack Metzger, guitar god. Juvie records are sealed, but he's got half a dozen priors as an adult. A couple of them are domestic assaults, too. Apparently, he likes to hit women.</content></utterance>
+<utterance uid="8-2"><speaker>CASTLE</speaker><content>Look at this guy. If I was a woman, I'd just hit him back. Does he look like a killer to you?</content></utterance>
+<utterance uid="8-3"><speaker>BECKETT</speaker><content>Everybody looks like a killer to me, Castle. Job requirement.</content></utterance>
+<utterance uid="8-4"><speaker>CASTLE</speaker><content>Do I look like a killer to you?</content></utterance>
+<utterance uid="8-5"><speaker>BECKETT</speaker><content>Yes. You kill my patience.</content></utterance>
+<utterance uid="8-6"><speaker>RYAN</speaker><content>Hey. So... I just took a report from the receiving officer at the 20th Precinct. He recognized Hayley from the news.</content></utterance>
+<utterance uid="8-7"><speaker>BECKETT</speaker><content>And?</content></utterance>
+<utterance uid="8-8"><speaker>RYAN</speaker><content>He says Hayley showed up at their door to file a report the day she went missing.</content></utterance>
+<utterance uid="8-9"><speaker>CASTLE</speaker><content>About what?</content></utterance>
+<utterance uid="8-10"><speaker>RYAN</speaker><content>He doesn't know. She asked to speak with a detective. By the time the receiving officer found one, she'd skipped out.</content></utterance>
+<utterance uid="8-11"><speaker>ESPOSITO</speaker><content>There's only one reason you go to the cops, to report a crime.</content></utterance>
+<utterance uid="8-12"><speaker>BECKETT</speaker><content>Or to get help because you think you're in danger.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>ZACK</speaker><content>Careful with that guitar when you put that away. We heard about what happened to Hayley. It sucks, right?</content></utterance>
+<utterance uid="9-2"><speaker>CASTLE</speaker><content>Can I get you a tissue?</content></utterance>
+<utterance uid="9-3"><speaker>BECKETT</speaker><content>We have a witness who saw you guys fighting.</content></utterance>
+<utterance uid="9-4"><speaker>ZACK</speaker><content>So?</content></utterance>
+<utterance uid="9-5"><speaker>BECKETT</speaker><content>So, she's dead now.</content></utterance>
+<utterance uid="9-6"><speaker>ZACK</speaker><content>Well, I didn't kill her.</content></utterance>
+<utterance uid="9-7"><speaker>CASTLE</speaker><content>You sure about that? You sure you didn't get a little high, maybe pull a Hulk smash on your band mate?</content></utterance>
+<utterance uid="9-8"><speaker>ZACK</speaker><content>Yeah. Yeah, I'm sure.</content></utterance>
+<utterance uid="9-9"><speaker>BECKETT</speaker><content>Where were you between midnight and 3 a.m. on Sunday night?</content></utterance>
+<utterance uid="9-10"><speaker>ZACK</speaker><content>We had a gig. Gillespie's sweet sixteen over on 82nd. We finished around 1:30. We packed up and we were out by two. Me and Nick shared a cab to Williamsburg. I paid with a credit card. Are we done?</content></utterance>
+<utterance uid="9-11"><speaker>CASTLE</speaker><content>Wow. Sweet sixteen parties. When Hayley was with the band, weren't you opening for P!nk?</content></utterance>
+<utterance uid="9-12"><speaker>ZACK</speaker><content>What do you guys want me to say, okay? She screwed all of us when she had her little meltdown and decided to go solo. Do I hate her? Yes. Did I kill her? No.</content></utterance>
+<utterance uid="9-13"><speaker>BECKETT</speaker><content>What'd you guys fight about?</content></utterance>
+<utterance uid="9-14"><speaker>ZACK</speaker><content>Her being a selfish *****. She found out that we were holding auditions for her replacement, and she had those d-bag producers send us a cease-and-resist letter.</content></utterance>
+<utterance uid="9-15"><speaker>CASTLE</speaker><content>Or a cease-and-desist letter.</content></utterance>
+<utterance uid="9-16"><speaker>ZACK</speaker><content>We made the reputation for the name Blue Pill, but she owned it. So, what? She has a meltdown and disappears off the map, a-- and we can't use our own damn name? Hell, we can't even get arrested now.</content></utterance>
+<utterance uid="9-17"><speaker>CASTLE</speaker><content>Poor choice of words.</content></utterance>
+<utterance uid="9-18"><speaker>BECKETT</speaker><content>Beckett. Okay.  Hayley's sister is on her way to the morgue to identify the body. Don't leave town.</content></utterance>
+<utterance uid="9-19"><speaker>CASTLE</speaker><content>But feel free to bathe.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>SKY</speaker><content>Who's stupid now, huh?</content></utterance>
+<utterance uid="10-2"><speaker>PERLMUTTER</speaker><content>Yeah, we need security down here right away.</content></utterance>
+<utterance uid="10-3"><speaker>SKY</speaker><content>You are! Who's the dead one?</content></utterance>
+<utterance uid="10-4"><speaker>BECKETT</speaker><content>What's going on in there?</content></utterance>
+<utterance uid="10-5"><speaker>PERLMUTTER</speaker><content>Hayley Blue's sister, Sky, is having a very emotional reaction to her sister's death.</content></utterance>
+<utterance uid="10-6"><speaker>SKY</speaker><content>Look at me when I'm talking to you! Who's dead now, huh? You are!</content></utterance>
+<utterance uid="10-7"><speaker>BECKETT</speaker><content>Sky?</content></utterance>
+<utterance uid="10-8"><speaker>SKY</speaker><content>Ow. What do you want? 'Cause I'm talking to my sister.</content></utterance>
+<utterance uid="10-9"><speaker>BECKETT</speaker><content>I'm Detective Kate Beckett. I'd like to ask you a few questions, if that's okay.</content></utterance>
+<utterance uid="10-10"><speaker>SKY</speaker><content>You're a cop?</content></utterance>
+<utterance uid="10-11"><speaker>BECKETT</speaker><content>Yeah. Is that a knife?</content></utterance>
+<utterance uid="10-12"><speaker>SKY</speaker><content>Am I breaking the law?</content></utterance>
+<utterance uid="10-13"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="10-14"><speaker>SKY</speaker><content>Bad?</content></utterance>
+<utterance uid="10-15"><speaker>BECKETT</speaker><content>Pretty bad.</content></utterance>
+<utterance uid="10-16"><speaker>SKY</speaker><content>Do you wanna know a secret? I think I might have killed her.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>BECKETT</speaker><content>How did you kill her?</content></utterance>
+<utterance uid="11-2"><speaker>SKY</speaker><content>I told her to do the world a favor and drop dead. And then she did. It's funny, she usually doesn't listen to me.</content></utterance>
+<utterance uid="11-3"><speaker>CASTLE</speaker><content>Why would you tell her to drop dead? She's your sister.</content></utterance>
+<utterance uid="11-4"><speaker>SKY</speaker><content>She was an ass.</content></utterance>
+<utterance uid="11-5"><speaker>BECKETT</speaker><content>When did you see her last?</content></utterance>
+<utterance uid="11-6"><speaker>SKY</speaker><content>I don't know, Wednesday, Thursday. What day is it today?</content></utterance>
+<utterance uid="11-7"><speaker>BECKETT</speaker><content>Where'd you see her?</content></utterance>
+<utterance uid="11-8"><speaker>SKY</speaker><content>She found me selling a bracelet that she bought me for my birthday.</content></utterance>
+<utterance uid="11-9"><speaker>BECKETT</speaker><content>Do you know where she was staying?</content></utterance>
+<utterance uid="11-10"><speaker>SKY</speaker><content>No. Not since she left Bree and Ian's, the Church of Holier-Than-Thou. She said she was going off the grid. She didn't even have a phone. Secret Agent Clean-and-Sober Hayley Blue.</content></utterance>
+<utterance uid="11-11"><speaker>BECKETT</speaker><content>Why'd she leave their place?</content></utterance>
+<utterance uid="11-12"><speaker>SKY</speaker><content>She always leaves.</content></utterance>
+<utterance uid="11-13"><speaker>CASTLE</speaker><content>You said she was looking for you last week.</content></utterance>
+<utterance uid="11-14"><speaker>SKY</speaker><content>Yeah, she had something to tell me. Something important.</content></utterance>
+<utterance uid="11-15"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="11-16"><speaker>SKY</speaker><content>I don't know, 'cause I told her to go screw herself. I mean, I really don't need her trying to fix me or trying to save me, or making promises that she knew she wasn't going to be able to keep.</content></utterance>
+<utterance uid="11-17"><speaker>CASTLE</speaker><content>What promises would she make?</content></utterance>
+<utterance uid="11-18"><speaker>SKY</speaker><content>She said that I could come back. She said that we were gonna be a team. But I had to get clean. "You gotta clean up, baby girl. You're gonna end up dead." Hmm. Thus, irony. How was I supposed to get clean when she couldn't even do it?</content></utterance>
+<utterance uid="11-19"><speaker>BECKETT</speaker><content>Wait a minute, she was using again?</content></utterance>
+<utterance uid="11-20"><speaker>SKY</speaker><content>Yeah. She was with Tony the day after I saw her.</content></utterance>
+<utterance uid="11-21"><speaker>BECKETT</speaker><content>Who's Tony?</content></utterance>
+<utterance uid="11-22"><speaker>SKY</speaker><content>My dealer. She was handing him a wad of cash.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>CASTLE</speaker><content>I was just thinking, if she was using again, that would explain why she left her producers, but not why she was killed, who killed her, or why she went to the police.</content></utterance>
+<utterance uid="12-2"><speaker>CASTLE</speaker><content>What I just said was not confusing enough for your face to do what it's doing.</content></utterance>
+<utterance uid="12-3"><speaker>BECKETT</speaker><content>That was Perlmutter. The tox results just got back from the lab. There were no drugs in Hayley's system. She was 100% clean and sober.</content></utterance>
+<utterance uid="12-4"><speaker>CASTLE</speaker><content>Then why was she giving a wad of cash to Tony the drug dealer?</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>TONY</speaker><content>She didn't want drugs. She wanted a gun.</content></utterance>
+<utterance uid="13-2"><speaker>CASTLE</speaker><content>A gun?</content></utterance>
+<utterance uid="13-3"><speaker>TONY</speaker><content>And not a punkass .22, either. A .38. She wanted to put a hole in a brother. Seeing as she's dead, I say I did the right thing at the time. The girl was scared.</content></utterance>
+<utterance uid="13-4"><speaker>BECKETT</speaker><content>Of what?</content></utterance>
+<utterance uid="13-5"><speaker>TONY</speaker><content>Didn't say, and I didn't ask. She just wanted the gun.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>BECKETT</speaker><content>Are you sure?</content></utterance>
+<utterance uid="14-2"><speaker>PERLMUTTER</speaker><content>You telling me how to do my job?</content></utterance>
+<utterance uid="14-3"><speaker>BECKETT</speaker><content>No, Perlmutter, I'm not trying to tell you how to do your job, I just...</content></utterance>
+<utterance uid="14-4"><speaker>PERLMUTTER</speaker><content>Good, 'cause that's all you get.</content></utterance>
+<utterance uid="14-5"><speaker>BECKETT</speaker><content>Hello? He just hung up on me.</content></utterance>
+<utterance uid="14-6"><speaker>CASTLE</speaker><content>There's a reason he hangs out with dead people. So, what did he say?</content></utterance>
+<utterance uid="14-7"><speaker>BECKETT</speaker><content>He identified the lipstick that was used to paint a smile on Hayley's face as Daniella Bolan's Velvet Kiss lipstick, Lava Red.</content></utterance>
+<utterance uid="14-8"><speaker>CASTLE</speaker><content>Yes, but what about the gun? What'd he say about the gun?</content></utterance>
+<utterance uid="14-9"><speaker>BECKETT</speaker><content>Oh. Thought you'd never ask. They found gunpowder residue on Hayley's hands.</content></utterance>
+<utterance uid="14-10"><speaker>CASTLE</speaker><content>So not only did she buy a gun, but she used it. But why didn't we find it?</content></utterance>
+<utterance uid="14-11"><speaker>BECKETT</speaker><content>That's because we didn't find her where she was killed. So, someone attacked her, someone that she was afraid of. She tries to shoot them. And in the struggle, the assailant breaks her neck, drags her down an alleyway, and hangs her upside down, paints a smile on her face, which apparently was a lot like a music video that has nothing to do with our murder.</content></utterance>
+<utterance uid="14-12"><speaker>CASTLE</speaker><content>You thought you sounded so smart when you started that sentence, didn't you?</content></utterance>
+<utterance uid="14-13"><speaker>BECKETT</speaker><content>Okay, Mr. Mystery-Writer-Man, what's your bestselling theory?</content></utterance>
+<utterance uid="14-14"><speaker>CASTLE</speaker><content>I'm gonna go with the butler.</content></utterance>
+<utterance uid="14-15"><speaker>BECKETT</speaker><content>The butler?</content></utterance>
+<utterance uid="14-16"><speaker>CASTLE</speaker><content>That's who we always go with when we run out of ideas. How about Alexis?</content></utterance>
+<utterance uid="14-17"><speaker>BECKETT</speaker><content>Oh, Alexis.</content></utterance>
+<utterance uid="14-18"><speaker>CASTLE</speaker><content>She's perfect. She's peripheral to the case, we don't suspect her, she has no alibi...</content></utterance>
+<utterance uid="14-19"><speaker>BECKETT</speaker><content>Okay, I'll tell you what. Why don't you go home and question her, and if she breaks, call me.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>CASTLE</speaker><content>Hey. If you killed someone, you would tell me, right?</content></utterance>
+<utterance uid="15-2"><speaker>ALEXIS</speaker><content>Of course. I'd need help hiding the body.</content></utterance>
+<utterance uid="15-3"><speaker>CASTLE</speaker><content>That's my girl.</content></utterance>
+<utterance uid="15-4"><speaker>MARTHA</speaker><content>Hi, darling.</content></utterance>
+<utterance uid="15-5"><speaker>CASTLE</speaker><content>Did you get my text?</content></utterance>
+<utterance uid="15-6"><speaker>ALEXIS</speaker><content>Yeah. Did you really meet the rest of The Blue Pill?</content></utterance>
+<utterance uid="15-7"><speaker>CASTLE</speaker><content>Yes, I did. And all I can say is, admire them from afar. What are you listening to?</content></utterance>
+<utterance uid="15-8"><speaker>MARTHA</speaker><content>It's Hayley's last performance. Oy! She hasn't stopped listening to it all night. It's called Threshold.</content></utterance>
+<utterance uid="15-9"><speaker>CASTLE</speaker><content>Oh, yeah. Sounds pretty. Little creepy, though.</content></utterance>
+<utterance uid="15-10"><speaker>MARTHA</speaker><content>Very creepy.</content></utterance>
+<utterance uid="15-11"><speaker>ALEXIS</speaker><content>How's it creepy?</content></utterance>
+<utterance uid="15-12"><speaker>CASTLE</speaker><content>"Death, she grows near"? It's kind of like Final Destination, but in song form.</content></utterance>
+<utterance uid="15-13"><speaker>ALEXIS</speaker><content>She doesn't mean "death" death.</content></utterance>
+<utterance uid="15-14"><speaker>CASTLE</speaker><content>Well, what other kinds of deaths are there?</content></utterance>
+<utterance uid="15-15"><speaker>ALEXIS</speaker><content>Allegorical, metaphorical, symbolic, spiritual, emotional, sexual...</content></utterance>
+<utterance uid="15-16"><speaker>CASTLE</speaker><content>Gah! Okay, okay, that's quite enough. I think I'm paying far too much for her education.</content></utterance>
+<utterance uid="15-17"><speaker>ALEXIS</speaker><content>I think this one's symbolic. Hayley was into all sorts of new age-y imagery. Uh... numerology, astrology, tarot. And in tarot, the Death card doesn't symbolize dying. It symbolizes transformation, change. Listen.</content></utterance>
+<utterance uid="15-18"><speaker>HAYLEY BLUE</speaker><content>"The hands we're dealt will never disappear..."</content></utterance>
+<utterance uid="15-19"><speaker>ALEXIS</speaker><content>"The hands we're dealt," like she's having her cards read. "Death grows near" means change is coming.</content></utterance>
+<utterance uid="15-20"><speaker>MARTHA</speaker><content>Oh, oh! That reminds me of sitting around with Lisa Olsen, trying to decode The Beatles' lyrics, spinning the record backwards and to see if, uh, "Paul was dead."</content></utterance>
+<utterance uid="15-21"><speaker>CASTLE</speaker><content>And who could forget the countless hours I spent pondering the lyrics to Van Halen's Hot for Teacher? Mmm.</content></utterance>
+<utterance uid="15-22"><speaker>CASTLE</speaker><content>Sound like a drama is afoot. Who kissed whom at which bleachers?</content></utterance>
+<utterance uid="15-23"><speaker>ALEXIS</speaker><content>No. It's the official Blue Pill website. There's a new thread talking about the band getting back together?</content></utterance>
+<utterance uid="15-24"><speaker>CASTLE</speaker><content>What?</content></utterance>
+<utterance uid="15-25"><speaker>ALEXIS</speaker><content>Look at this.</content></utterance>
+<utterance uid="15-26"><speaker>CASTLE</speaker><content>"Sky Blue is supposed to take Hayley's place as lead singer." "This is all but a done deal." "I heard they're starting rehearsals right away." "OMG, OMG, OMG."</content></utterance>
+<utterance uid="15-27"><speaker>ALEXIS</speaker><content>Look at this one. "A source at John McGinnis Management confirmed it when I called. The Blue Pill is definitely getting back together."</content></utterance>
+<utterance uid="15-28"><speaker>CASTLE</speaker><content>"A Hayley Blue Tribute Tour."</content></utterance>
+<utterance uid="15-29"><speaker>ALEXIS</speaker><content>I thought you said Hayley wouldn't let the band have the name back.</content></utterance>
+<utterance uid="15-30"><speaker>CASTLE</speaker><content>She wouldn't.</content></utterance>
+<utterance uid="15-31"><speaker>ALEXIS</speaker><content>Then how can they use it?</content></utterance>
+<utterance uid="15-32"><speaker>CASTLE</speaker><content>Well, Hayley is dead, and Sky's her only family. If Hayley owned the name, then it would go to Sky.</content></utterance>
+<utterance uid="15-33"><speaker>ALEXIS</speaker><content>You don't think Sky killed her own sister.</content></utterance>
+<utterance uid="15-34"><speaker>CASTLE</speaker><content>Sky is 100 pounds dripping wet. The only neck she could break is her own.</content></utterance>
+<utterance uid="15-35"><speaker>CASTLE</speaker><content>"John McGinnis Management"? Who's John McGinnis?</content></utterance>
+<utterance uid="15-36"><speaker>ALEXIS</speaker><content>Hayley's old manager. She fired him when she got clean. She didn't say his name, but in her interview in Spin last month, she pretty much implied that he's the one that got her hooked to begin with.</content></utterance>
+<utterance uid="15-37"><speaker>CASTLE</speaker><content>If the band got back together, he's have the most to gain.</content></utterance>
+<utterance uid="15-38"><speaker>MARTHA</speaker><content>Now, does that man look like a killer to you?</content></utterance>
+<utterance uid="15-39"><speaker>CASTLE</speaker><content>Everybody looks like a killer to me. It's a job requirement.</content></utterance>
+<utterance uid="15-40"><speaker>ALEXIS</speaker><content>You didn't say that about Sky.</content></utterance>
+<utterance uid="15-41"><speaker>CASTLE</speaker><content>Just let me have this moment.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>JOHN MCGINNIS</speaker><content>I told you, Sunday night I was in Philly scouting a band. I hit a motel. I watched a little pay-per-view and I went to bed, which may say something about my taste, but it does not make me a criminal.</content></utterance>
+<utterance uid="16-2"><speaker>BECKETT</speaker><content>But your rap sheet does.</content></utterance>
+<utterance uid="16-3"><speaker>BECKETT</speaker><content>Six counts of misdemeanor possession, two counts of felony possession with the intent to distribute.</content></utterance>
+<utterance uid="16-4"><speaker>CASTLE</speaker><content>What do you do, McGinnis? Give them a little taste? Make them need you? Make them depend on you?</content></utterance>
+<utterance uid="16-5"><speaker>JOHN MCGINNIS</speaker><content>You wanna know what I do? I make things happen. When I met Hayley and her sister, they were playing open mics at coffee houses in the East Village. Who do you think got her a vocal coach? Who paid for her stylist? I took a third-rate, a third-rate Miley Cyrus and turned her into the next Gwen Stefani. And right before my payoff, she walks away. I... I never...</content></utterance>
+<utterance uid="16-6"><speaker>CASTLE</speaker><content>And since she owned the band name, your hands were tied. But now that she's dead, all you needed to do was rope in Sky.</content></utterance>
+<utterance uid="16-7"><speaker>JOHN MCGINNIS</speaker><content>Look. The way I see it, the band gets back together, everybody makes a lot of money, everybody's happy.</content></utterance>
+<utterance uid="16-8"><speaker>BECKETT</speaker><content>Except for Hayley. Because she's dead.</content></utterance>
+<utterance uid="16-9"><speaker>JOHN MCGINNIS</speaker><content>Which will no doubt help us sell lots of tickets when the band goes back on tour.</content></utterance>
+<utterance uid="16-10"><speaker>BECKETT</speaker><content>Is that why you killed her?</content></utterance>
+<utterance uid="16-11"><speaker>JOHN MCGINNIS</speaker><content>Now, I know my rights here and I'm done talking. You think you've got a case, arrest me. I would love to have that kind of publicity.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>CASTLE</speaker><content>I never fully appreciated the nuances of the word "skeevy" until just now.</content></utterance>
+<utterance uid="17-2"><speaker>BECKETT</speaker><content>Hey, Ryan, did you get the phone records for John McGinnis and McGinnis Management?</content></utterance>
+<utterance uid="17-3"><speaker>RYAN</speaker><content>Yeah, I just got them.</content></utterance>
+<utterance uid="17-4"><speaker>CASTLE</speaker><content>You don't think he did it?</content></utterance>
+<utterance uid="17-5"><speaker>BECKETT</speaker><content>He challenged me to arrest him. He's probably screwed and figures bluffing is his best bet. Ryan, let's cross-reference his calls with our hit list. Find out if he was in contact with anyone from Hayley's inner circle.</content></utterance>
+<utterance uid="17-6"><speaker>CASTLE</speaker><content>What about him being in Philadelphia?</content></utterance>
+<utterance uid="17-7"><speaker>BECKETT</speaker><content>With the right connections you can kill with a phone call.</content></utterance>
+<utterance uid="17-8"><speaker>RYAN</speaker><content>Yeah, right here. Looks like the day before Hayley died, McGinnis put in a 10-minute phone call to Zack, the guitarist.</content></utterance>
+<utterance uid="17-9"><speaker>BECKETT</speaker><content>He hasn't represented the band in months.</content></utterance>
+<utterance uid="17-10"><speaker>CASTLE</speaker><content>Why would he call Zack the day before Hayley died?</content></utterance>
+<utterance uid="17-11"><speaker>BECKETT</speaker><content>Let's go find out.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>ZACK</speaker><content>What is your problem, you freak? You are completely mental!</content></utterance>
+<utterance uid="18-2"><speaker>SKY</speaker><content>Who the hell do you think you are, loser?</content></utterance>
+<utterance uid="18-3"><speaker>ZACK</speaker><content>Don't you walk away! I'm talking to you!</content></utterance>
+<utterance uid="18-4"><speaker>SKY</speaker><content>Get the hell away from me! You touch me again, and I swear to God, I will kill you!</content></utterance>
+<utterance uid="18-5"><speaker>BECKETT</speaker><content>Hey! Hey, hey! Hey, it's okay.</content></utterance>
+<utterance uid="18-6"><speaker>ZACK</speaker><content>Screw you, you stupid *****!</content></utterance>
+<utterance uid="18-7"><speaker>CASTLE</speaker><content>Zack!</content></utterance>
+<utterance uid="18-8"><speaker>SKY</speaker><content>Stop!</content></utterance>
+<utterance uid="18-9"><speaker>BECKETT</speaker><content>Hey, Sky.</content></utterance>
+<utterance uid="18-10"><speaker>SKY</speaker><content>No, leave me alone!</content></utterance>
+<utterance uid="18-11"><speaker>CASTLE</speaker><content>What did you do to her?</content></utterance>
+<utterance uid="18-12"><speaker>ZACK</speaker><content>Nothing, man! She attacked me! We were riffing on one of Hayley's songs. One minute, she's singing along, the next minute, she goes postal, starts telling me I'm stealing from Hayley! She's crazy!</content></utterance>
+<utterance uid="18-13"><speaker>CASTLE</speaker><content>It doesn't look good, Zack. Beating up one Blue, killing another.</content></utterance>
+<utterance uid="18-14"><speaker>ZACK</speaker><content>Look, I already told you guys...</content></utterance>
+<utterance uid="18-15"><speaker>BECKETT</speaker><content>Sit down! Sit! Now talk.</content></utterance>
+<utterance uid="18-16"><speaker>ZACK</speaker><content>I already told you guys, I didn't kill Hayley. Okay? I was at the birthday gig, remember?</content></utterance>
+<utterance uid="18-17"><speaker>BECKETT</speaker><content>Right. The Gillespies' sweet sixteen. You took three half-hour breaks in between sets, during which no one remembers seeing you. You could have easily slipped away and killed Hayley.</content></utterance>
+<utterance uid="18-18"><speaker>ZACK</speaker><content>Nobody saw me because I didn't want to spark up a pipe in front of a bunch of teenagers.</content></utterance>
+<utterance uid="18-19"><speaker>CASTLE</speaker><content>Well, your innate sense of decency is inspiring.</content></utterance>
+<utterance uid="18-20"><speaker>BECKETT</speaker><content>Why did you talk to John McGinnis the day before Hayley was killed?</content></utterance>
+<utterance uid="18-21"><speaker>ZACK</speaker><content>He's my manager! Is that a crime?</content></utterance>
+<utterance uid="18-22"><speaker>BECKETT</speaker><content>Ex-manager. He let all you guys go after Hayley disbanded the group. So, why did he call you, Zack? I'll tell you why. You both needed to get rid of Hayley to get the band name back. And he called with a plan.</content></utterance>
+<utterance uid="18-23"><speaker>ZACK</speaker><content>Okay, look, fine. He had a plan, but it wasn't to kill Hayley. He wanted to find Sky.</content></utterance>
+<utterance uid="18-24"><speaker>BECKETT</speaker><content>Why?</content></utterance>
+<utterance uid="18-25"><speaker>ZACK</speaker><content>He heard that Sky and Hayley were talking again. He wanted me to grease her wheels a bit.</content></utterance>
+<utterance uid="18-26"><speaker>CASTLE</speaker><content>Oh, what, with your vast array of charms?</content></utterance>
+<utterance uid="18-27"><speaker>ZACK</speaker><content>McGinnis wanted me to give her dope, and have her talk to Hayley, and get the band name back. He knew that the only way to get to Hayley was through Sky. So, I got her wasted, okay? A little too wasted. And I went to go see Hayley myself.</content></utterance>
+<utterance uid="18-28"><speaker>BECKETT</speaker><content>You saw Hayley the night that she was killed? You should've told us that, Zack.</content></utterance>
+<utterance uid="18-29"><speaker>ZACK</speaker><content>What, make me look even more guilty to you guys? No. I watch TV, I know how the jury works. These are the little things that get you convicted.</content></utterance>
+<utterance uid="18-30"><speaker>CASTLE</speaker><content>So does lying to cops.</content></utterance>
+<utterance uid="18-31"><speaker>BECKETT</speaker><content>Keep going. Spill it.</content></utterance>
+<utterance uid="18-32"><speaker>ZACK</speaker><content>She was at a coffee house. She was writing songs again. E-- everything was fine until her phone rang.</content></utterance>
+<utterance uid="18-33"><speaker>BECKETT</speaker><content>What happened?</content></utterance>
+<utterance uid="18-34"><speaker>ZACK</speaker><content>She freaked. She hit "ignore," but every time she did, it just rang again. And every time it rang, she just flipped out even more.</content></utterance>
+<utterance uid="18-35"><speaker>CASTLE</speaker><content>You have any idea who it was?</content></utterance>
+<utterance uid="18-36"><speaker>ZACK</speaker><content>Yeah. Because they called so many times, I saw the caller ID. It scared me when I saw it, too. It said it was Death calling.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>CASTLE</speaker><content>I thought she didn't have a phone.</content></utterance>
+<utterance uid="19-2"><speaker>BECKETT</speaker><content>She probably had a pay-as-you-go plan, paid cash, and gave the phone company false information.</content></utterance>
+<utterance uid="19-3"><speaker>CASTLE</speaker><content>Well, that makes sense if she was hiding from Death and trying to stay off the grid, like Sky said.</content></utterance>
+<utterance uid="19-4"><speaker>BECKETT</speaker><content>Okay, so obviously, there's a human being at the other end of the phone. And whoever it is probably tracked her down and then killed her. So, who had the dubious distinction of being known by Hayley as Death?</content></utterance>
+<utterance uid="19-5"><speaker>CASTLE</speaker><content>Okay, well, how does the song go? "Death, she grows near." She. Death is a woman.</content></utterance>
+<utterance uid="19-6"><speaker>BECKETT</speaker><content>Okay. Following you so far...</content></utterance>
+<utterance uid="19-7"><speaker>CASTLE</speaker><content>Okay. Alexis says that Hayley liked to draw from tarot cards in her writing. And in tarot cards, Death isn't death. Death means "change."</content></utterance>
+<utterance uid="19-8"><speaker>BECKETT</speaker><content>Okay, so she wasn't hiding from death, she was hiding from change.</content></utterance>
+<utterance uid="19-9"><speaker>CASTLE</speaker><content>She hated Obama.</content></utterance>
+<utterance uid="19-10"><speaker>BECKETT</speaker><content>Who is the embodiment of change? What woman represented the biggest change is Hayley's life? The one who sent her to rehab. The one who saved her life.</content></utterance>
+<utterance uid="19-11"><speaker>CASTLE</speaker><content>Bree Busch? Why would Hayley's producer want to hurt her?</content></utterance>
+<utterance uid="19-12"><speaker>BECKETT</speaker><content>I don't know, but it's worth a shot.</content></utterance>
+<utterance uid="19-13"><speaker>CASTLE</speaker><content>Are you crying?</content></utterance>
+<utterance uid="19-14"><speaker>BECKETT</speaker><content>Shh. Stay here.</content></utterance>
+<utterance uid="19-15"><speaker>BECKETT</speaker><content>Hey.</content></utterance>
+<utterance uid="19-16"><speaker>SKY</speaker><content>I was singing her words. I could hear her voice. I could feel her like she was here.</content></utterance>
+<utterance uid="19-17"><speaker>BECKETT</speaker><content>That's because your sister was strong. You thought that she was using again, but she wasn't. She was clean.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>CASTLE</speaker><content>I wish there was something we could do. Can't we send her to rehab or something?</content></utterance>
+<utterance uid="20-2"><speaker>BECKETT</speaker><content>No one can help her until she's ready to get clean.</content></utterance>
+<utterance uid="20-3"><speaker>RYAN</speaker><content>So, I called in the warrants you wanted on Bree Busch. Phone records are gonna take a day, but her credit card puts her in the city at 10:48. Now, I checked her interview notes, she said she was at home in Brooklyn at ten.</content></utterance>
+<utterance uid="20-4"><speaker>BECKETT</speaker><content>Where was she at 10:48?</content></utterance>
+<utterance uid="20-5"><speaker>RYAN</speaker><content>At a pharmacy at 12th and 19th.</content></utterance>
+<utterance uid="20-6"><speaker>CASTLE</speaker><content>That's three blocks from the crime scene.</content></utterance>
+<utterance uid="20-7"><speaker>ESPOSITO</speaker><content>Yeah. Made me wonder what she was shopping for, so I called the store. They faxed over a receipt.</content></utterance>
+<utterance uid="20-8"><speaker>BECKETT</speaker><content>Bottle of water, energy bar, and a tube of Daniella Bolan Velvet Kiss Lava Red lipstick.</content></utterance>
+<utterance uid="20-9"><speaker>CASTLE</speaker><content>That's the same lipstick used to paint a smile on Hayley's face.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>BREE BUSCH</speaker><content>Okay. It's true. I saw her the night she died.</content></utterance>
+<utterance uid="21-2"><speaker>BECKETT</speaker><content>Why didn't you tell us that before?</content></utterance>
+<utterance uid="21-3"><speaker>BREE BUSCH</speaker><content>She had called the studio earlier that day. She spoke to my assistant, Kelly, okay? She said she wanted to come by and pick up some stuff she'd left behind, a guitar and some pedals.</content></utterance>
+<utterance uid="21-4"><speaker>BECKETT</speaker><content>That's how you got her new number.</content></utterance>
+<utterance uid="21-5"><speaker>BREE BUSCH</speaker><content>I called her back immediately. You know, I kept calling, just... She wouldn't pick up. I must've left half a dozen messages. So finally, I-- I, you know, left her a message saying, "Come by tonight," you know, "Someone'll be here to give you your stuff." And I didn't tell her it was going to be me, so she showed.</content></utterance>
+<utterance uid="21-6"><speaker>BECKETT</speaker><content>What time was that?</content></utterance>
+<utterance uid="21-7"><speaker>BREE BUSCH</speaker><content>About eleven. Anyway, I-- I said, "I'm not gonna give you your stuff unless you tell me what was going on," you know. Well, she wouldn't even look at me. You have to understand, I had put so much money into this record. If she didn't finish it, I was gonna lose this studio. So I had to get her to stay, right? She was using anyway.</content></utterance>
+<utterance uid="21-8"><speaker>CASTLE</speaker><content>You offered her drugs.</content></utterance>
+<utterance uid="21-9"><speaker>BREE BUSCH</speaker><content>A bag. I offered her a bag. I said, "There's plenty more where that came from." I-- I would have gotten her help after she finished. I couldn't let her walk away.</content></utterance>
+<utterance uid="21-10"><speaker>BECKETT</speaker><content>Yeah, well, here's the thing, Mrs. Busch. Hayley was clean when she died. She wasn't using.</content></utterance>
+<utterance uid="21-11"><speaker>BREE BUSCH</speaker><content>Well, I know that now. I-- I mean, she opened up her jacket and showed me what was tucked inside. A gun. Well, she had a gun. And she said, "I would rather put a bullet in my brain than to be using again."</content></utterance>
+<utterance uid="21-12"><speaker>BECKETT</speaker><content>Let me make sure I'm getting this right. You lured Hayley here under false pretenses, offered her drugs, got into a heated argument, and you're telling me that she walked out of that door alive?</content></utterance>
+<utterance uid="21-13"><speaker>CASTLE</speaker><content>When did you replace the panel on this baffle?</content></utterance>
+<utterance uid="21-14"><speaker>BREE BUSCH</speaker><content>Well, I don't think it's ever been replaced.</content></utterance>
+<utterance uid="21-15"><speaker>CASTLE</speaker><content>Yeah, it has. It's newer than the other ones.</content></utterance>
+<utterance uid="21-16"><speaker>BREE BUSCH</speaker><content>Could you be careful, please? that's expensive equipment.</content></utterance>
+<utterance uid="21-17"><speaker>BECKETT</speaker><content>Castle, what are you doing?</content></utterance>
+<utterance uid="21-18"><speaker>CASTLE</speaker><content>Apparently, I'm uncovering a bullet hole.</content></utterance>
+<utterance uid="21-19"><speaker>BECKETT</speaker><content>Judging from the diameter of the hole, it's a .38.</content></utterance>
+<utterance uid="21-20"><speaker>CASTLE</speaker><content>That gunpowder residue on Hayley's hand? This is where the gun was fired.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>BREE BUSCH</speaker><content>I have no idea how that bullet hole got there.</content></utterance>
+<utterance uid="22-2"><speaker>BECKETT</speaker><content>You and Hayley fought. You knew that if she walked out of that door, you would never see her again, and so you grabbed her from behind. She pulled out a gun. It scared you, so you held her tight. A shot went off, you held her tighter still. And before you even knew what happened, she stopped struggling. You broke her neck without realizing it.</content></utterance>
+<utterance uid="22-3"><speaker>BREE BUSCH</speaker><content>That's not what happened. That's not what happened at all.</content></utterance>
+<utterance uid="22-4"><speaker>BECKETT</speaker><content>If it was an accident, if it was an act of self-defense, you're gonna make this all easier on yourself just by telling us the truth.</content></utterance>
+<utterance uid="22-5"><speaker>MONTGOMERY</speaker><content>She's gonna do 20 years instead of pleading out and doing five.</content></utterance>
+<utterance uid="22-6"><speaker>CASTLE</speaker><content>Guilty conscience or lousy lawyer?</content></utterance>
+<utterance uid="22-7"><speaker>IAN BUSCH</speaker><content>Bree, please. I can't lose you for 20 years.</content></utterance>
+<utterance uid="22-8"><speaker>BREE BUSCH</speaker><content>I can't lie! I didn't hurt her! That's not what happened.</content></utterance>
+<utterance uid="22-9"><speaker>MONTGOMERY</speaker><content>Guess it's up to the lawyers now.</content></utterance>
+<utterance uid="22-10"><speaker>BREE BUSCH</speaker><content>That's not what h...</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>BECKETT</speaker><content>You going home to tell Alexis the news?</content></utterance>
+<utterance uid="23-2"><speaker>CASTLE</speaker><content>I just thought I'd go for a walk.</content></utterance>
+<utterance uid="23-3"><speaker>BECKETT</speaker><content>Any place in particular?</content></utterance>
+<utterance uid="23-4"><speaker>CASTLE</speaker><content>It kills me thinking about her out there alone.</content></utterance>
+<utterance uid="23-5"><speaker>BECKETT</speaker><content>Come on. I'll drive.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>BECKETT</speaker><content>Sky?</content></utterance>
+<utterance uid="24-2"><speaker>CASTLE</speaker><content>Sky?  Are you sure Zack said she was crashing here?</content></utterance>
+<utterance uid="24-3"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="24-4"><speaker>BECKETT</speaker><content>It's over there.</content></utterance>
+<utterance uid="24-5"><speaker>BECKETT</speaker><content>Sky. Sky! Hey, you okay? Can you hear me? How much did you take?</content></utterance>
+<utterance uid="24-6"><speaker>SKY</speaker><content>McGinnis gave us a signing bonus. He told us a place we could fix for cheap. I couldn't do it. Bo, Hayley didn't want me to.</content></utterance>
+<utterance uid="24-7"><speaker>SKY</speaker><content>I'm clean. She's gonna help me, right? Wherever she is, she's looking out for me, right?</content></utterance>
+<utterance uid="24-8"><speaker>BECKETT</speaker><content>She's already doing it.</content></utterance>
+<utterance uid="24-9"><speaker>CASTLE</speaker><content>Come on. Let's get you out of here.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>ALEXIS</speaker><content>Is Sky going to be okay?</content></utterance>
+<utterance uid="25-2"><speaker>CASTLE</speaker><content>I think so. The worst part is over. Now she just has to figure out the rest of her life.</content></utterance>
+<utterance uid="25-3"><speaker>ALEXIS</speaker><content>And Hayley? The whole thing was just some stupid accident? It's just so pointless.</content></utterance>
+<utterance uid="25-4"><speaker>CASTLE</speaker><content>I know. Sometimes when we lose an artist we like, it's kind of like losing a friend. You know, I remember when John Lennon died, I didn't leave my room for a week.</content></utterance>
+<utterance uid="25-5"><speaker>ALEXIS</speaker><content>She was only 25. I can't help but think about all the songs she won't write, that we won't get to hear now. And all because her producer thought she was back on drugs. Why would she even think that?</content></utterance>
+<utterance uid="25-6"><speaker>CASTLE</speaker><content>You know, when people we care about suddenly turn against us, we can come up with all sorts of reasons to explain it. Who know what really happened? Well, that's it for me. You staying up?</content></utterance>
+<utterance uid="25-7"><speaker>ALEXIS</speaker><content>Is it okay? I just want to listen a little longer.</content></utterance>
+<utterance uid="25-8"><speaker>CASTLE</speaker><content>Of course.</content></utterance>
+<utterance uid="25-9"><speaker>ALEXIS</speaker><content>"I can explain if you're listening"</content></utterance>
+<utterance uid="25-10"><speaker>CASTLE</speaker><content>"I can explain if you're listening."</content></utterance>
+<utterance uid="25-11"><speaker>ALEXIS</speaker><content>What, Dad?</content></utterance>
+<utterance uid="25-12"><speaker>CASTLE</speaker><content>She wrote that song a week before she died, after she left her producers and went to the cops. Maybe she was trying to tell us what was going on. "Locked up in silence, a living hell."</content></utterance>
+<utterance uid="25-13"><speaker>ALEXIS</speaker><content>Rehab?</content></utterance>
+<utterance uid="25-14"><speaker>CASTLE</speaker><content>Or her producers?</content></utterance>
+<utterance uid="25-15"><speaker>ALEXIS</speaker><content>"The loving hand that saved me."</content></utterance>
+<utterance uid="25-16"><speaker>CASTLE</speaker><content>Her producers. Bree and Ian? Wait.</content></utterance>
+<utterance uid="25-17"><speaker>CASTLE</speaker><content>What is she saying there, "Its darkness" or "His darkness"?</content></utterance>
+<utterance uid="25-18"><speaker>HAYLEY BLUE</speaker><content>"I never asked or wanted to... you stepped across my threshold. How could you?"</content></utterance>
+<utterance uid="25-19"><speaker>CASTLE</speaker><content>"You stepped across my threshold. How could you?"</content></utterance>
+<utterance uid="25-20"><speaker>ALEXIS</speaker><content>Oh, God, Dad. Does that mean what I think it means?</content></utterance>
+<utterance uid="25-21"><speaker>CASTLE</speaker><content>It means we have the wrong killer.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>BECKETT</speaker><content>The identity of her killer is in the song?</content></utterance>
+<utterance uid="26-2"><speaker>CASTLE</speaker><content>It's right there. Listen.</content></utterance>
+<utterance uid="26-3"><speaker>BECKETT</speaker><content>I know. I already heard it. Don't you think that if Hayley knew who was going to kill her, she would've tried to prevent the murder?</content></utterance>
+<utterance uid="26-4"><speaker>CASTLE</speaker><content>It never made sense until now. Why would she up and disappear when everything seemed to be going so well? It's in the words. She even says it. "I can explain if you're listening."</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>BREE BUSCH</speaker><content>Just like that, I'm free to go?</content></utterance>
+<utterance uid="27-2"><speaker>BECKETT</speaker><content>Just like that. We need to sign a few release forms, if you don't mind.</content></utterance>
+<utterance uid="27-3"><speaker>IAN BUSCH</speaker><content>I can't believe it. Thank God.</content></utterance>
+<utterance uid="27-4"><speaker>BREE BUSCH</speaker><content>Thank you so much. Does this mean you found the real killer?</content></utterance>
+<utterance uid="27-5"><speaker>BECKETT</speaker><content>We're about to make an arrest.</content></utterance>
+<utterance uid="27-6"><speaker>BREE BUSCH</speaker><content>That's great.</content></utterance>
+<utterance uid="27-7"><speaker>CASTLE</speaker><content>You know, what's even better is that it was Hayley herself who led us to her killer.</content></utterance>
+<utterance uid="27-8"><speaker>BREE BUSCH</speaker><content>How'd she do that?</content></utterance>
+<utterance uid="27-9"><speaker>CASTLE</speaker><content>Her last song. The one that was playing the night she died. It's all over the web. You know the one.</content></utterance>
+<utterance uid="27-10"><speaker>HAYLEY BLUE</speaker><content>"Inside this life, under a spell"</content></utterance>
+<utterance uid="27-11"><speaker>CASTLE</speaker><content>Mmm. It's the lyrics that really get me, so many layers. It took me a few listens to get to the bottom of them.</content></utterance>
+<utterance uid="27-12"><speaker>BECKETT</speaker><content>Mmm-hmm. First time I heard it, I thought it was about going into rehab.</content></utterance>
+<utterance uid="27-13"><speaker>IAN BUSCH</speaker><content>It is. It's about coming from a dark place and having the courage to get on with your life.</content></utterance>
+<utterance uid="27-14"><speaker>CASTLE</speaker><content>Different dark place. Listen, this is the part that gives it away.</content></utterance>
+<utterance uid="27-15"><speaker>HAYLEY BLUE</speaker><content>"I never asked or wanted to. You stepped across my threshold. How could you?"</content></utterance>
+<utterance uid="27-16"><speaker>BREE BUSCH</speaker><content>I don't understand.</content></utterance>
+<utterance uid="27-17"><speaker>CASTLE</speaker><content>Somebody crossed over her threshold. She didn't want him to.</content></utterance>
+<utterance uid="27-18"><speaker>BECKETT</speaker><content>Someone forced himself on her.</content></utterance>
+<utterance uid="27-19"><speaker>IAN BUSCH</speaker><content>You're getting all that from a song?</content></utterance>
+<utterance uid="27-20"><speaker>CASTLE</speaker><content>Well, there's other places where it's more overt. But if you listen to the words, analyze them, it's all there. Father figure, betrayal, violation. It's truly awful.</content></utterance>
+<utterance uid="27-21"><speaker>BREE BUSCH</speaker><content>Why didn't she say anything? Ian, did she ever say anything to you?</content></utterance>
+<utterance uid="27-22"><speaker>IAN BUSCH</speaker><content>No. No, she didn't.</content></utterance>
+<utterance uid="27-23"><speaker>BECKETT</speaker><content>You told your husband about arguing with Hayley the night she was killed, didn't you?</content></utterance>
+<utterance uid="27-24"><speaker>BREE BUSCH</speaker><content>Yes. He was there when I got home from the studio. I told him the whole thing. I was so upset, I took a sleeping pill to get some rest.</content></utterance>
+<utterance uid="27-25"><speaker>CASTLE</speaker><content>That's when you borrowed your wife's cell phone and her brand new lipstick. It's a good thing we'd subpoenaed your wife's phone records when I had this whole crazy lyric idea. Otherwise, we might've missed out on those texts you sent Hayley.</content></utterance>
+<utterance uid="27-26"><speaker>BREE BUSCH</speaker><content>What texts?</content></utterance>
+<utterance uid="27-27"><speaker>BECKETT</speaker><content>Text message from your phone at 11:52. "Ian told me the whole thing. We have to talk right away. Meet me at the studio."</content></utterance>
+<utterance uid="27-28"><speaker>BREE BUSCH</speaker><content>I never sent that text.</content></utterance>
+<utterance uid="27-29"><speaker>BECKETT</speaker><content>11:54, "I'm so sorry for what he did to you. I'm leaving him. Please come talk to me." And then finally at 11:56, a reply from Hayley. "See you there."</content></utterance>
+<utterance uid="27-30"><speaker>BREE BUSCH</speaker><content>What did you do?</content></utterance>
+<utterance uid="27-31"><speaker>CASTLE</speaker><content>"The loving hand that saved me held too tight." He pretended to be you. 'Cause he was the one who forced himself on Hayley. He was afraid she was gonna talk. So he pretended. By the time Hayley realized it was Ian waiting for her at the office, it was too late.</content></utterance>
+<utterance uid="27-32"><speaker>BREE BUSCH</speaker><content>Ian? Ian!</content></utterance>
+<utterance uid="27-33"><speaker>IAN BUSCH</speaker><content>I didn't force myself on Hayley. She seduced me. From the time she moved in, the way she talked to me, the way she touched me. And now, after all we'd done for her, she was gonna make up this lie to destroy our marriage and ruin our-- our business? No.</content></utterance>
+<utterance uid="27-34"><speaker>CASTLE</speaker><content>So, you snapped her neck. The gun didn't do her any good, did it? You were too strong. Just like the night when you assaulted her. You killed her. And you almost got away with it. But Hayley wouldn't shut up, would she?</content></utterance>
+<utterance uid="27-35"><speaker>BECKETT</speaker><content>That's pretty smart, staging the crime scene like the stalker video, making it look like someone else did it.</content></utterance>
+<utterance uid="27-36"><speaker>BREE BUSCH</speaker><content>She loved you like a father. The way she looked up to you, it made me love you more. Look at me!</content></utterance>
+<utterance uid="27-37"><speaker>IAN BUSCH</speaker><content>I'd like a lawyer now.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>BECKETT</speaker><content>Bree turned on her husband the moment she found out what he had done to Hayley. Needless to say, she's filed for divorce.</content></utterance>
+<utterance uid="28-2"><speaker>CASTLE</speaker><content>It's no wonder Hayley couldn't tell Bree why she ran away.</content></utterance>
+<utterance uid="28-3"><speaker>BECKETT</speaker><content>You see, she didn't have anyone to talk to, so she did the one thing that she could. She wrote about it.</content></utterance>
+<utterance uid="28-4"><speaker>CASTLE</speaker><content>You know, it kind of reminds me of when I wrote When It Comes To Slaughter. It was at a time in my life when I was just, I was trying to work through... Not important.</content></utterance>
+<utterance uid="28-5"><speaker>MONTGOMERY</speaker><content>So, is he pleading out?</content></utterance>
+<utterance uid="28-6"><speaker>BECKETT</speaker><content>Oh, he can try. Perlmutter ran his coat and found the same gunpowder residue that he found on Hayley. He's going away for a long time.</content></utterance>
+<utterance uid="28-7"><speaker>MONTGOMERY</speaker><content>Good. Nice job, both of you.</content></utterance>
+<utterance uid="28-8"><speaker>BECKETT</speaker><content>So what are you gonna tell Alexis?</content></utterance>
+<utterance uid="28-9"><speaker>CASTLE</speaker><content>What I always tell her. The truth.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>SKY</speaker><content>Hayley Maria Blue, we love and miss you. This one's for you.</content></utterance>
+</scene>
+</script>

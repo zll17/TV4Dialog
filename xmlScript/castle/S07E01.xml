@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>KATE BECKETT</speaker><content>Castle!</content></utterance>
+<utterance uid="1-2"><speaker>JAVIER ESPOSITO</speaker><content>Stay back! There’s nothing you can do.</content></utterance>
+<utterance uid="1-3"><speaker>MARTHA RODGERS</speaker><content>Oh my God!</content></utterance>
+<utterance uid="1-4"><speaker>BECKETT</speaker><content> Castle.</content></utterance>
+<utterance uid="1-5"><speaker>BECKETT</speaker><content>It’s empty.  He’s not here. He’s not in the car!</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>ESPOSITO</speaker><content>You’re sure he’s not in the car?</content></utterance>
+<utterance uid="2-2"><speaker>BECKETT</speaker><content>Even with a fire that hot there’d still be a body. He’s gotta be nearby.</content></utterance>
+<utterance uid="2-3"><speaker>MARTHA</speaker><content>You really think he –</content></utterance>
+<utterance uid="2-4"><speaker>BECKETT</speaker><content>He’s here. He has to be. We have to start a search.</content></utterance>
+<utterance uid="2-5"><speaker>RYAN</speaker><content>We could use more men.</content></utterance>
+<utterance uid="2-6"><speaker>BECKETT</speaker><content>Sergeant.  I’m Detective Beckett, NYPD. The man that was in that car is one of our own. We need to scrub every inch of this area.</content></utterance>
+<utterance uid="2-7"><speaker>SERGEANT TAGGERT</speaker><content>I’ll get my men on it.</content></utterance>
+<utterance uid="2-8"><speaker>RYAN</speaker><content>You have search and rescue dogs?</content></utterance>
+<utterance uid="2-9"><speaker>TAGGERT</speaker><content>I’ll call them in.</content></utterance>
+<utterance uid="2-10"><speaker>RYAN</speaker><content>Okay.</content></utterance>
+<utterance uid="2-11"><speaker>BECKETT</speaker><content>I need to help them.</content></utterance>
+<utterance uid="2-12"><speaker>ESPOSITO</speaker><content>You’re no use to anyone dressed like that. We’ll get started here. You go change.</content></utterance>
+<utterance uid="2-13"><speaker>MARTHA</speaker><content>Come on. Let’s get you into some other clothes.</content></utterance>
+<utterance uid="2-14"><speaker>BECKETT</speaker><content>Okay, I’ll be right back.</content></utterance>
+<utterance uid="2-15"><speaker>RYAN</speaker><content>All right, I’m going to search up near the road. Maybe Castle managed to bail out before the bar crashed.</content></utterance>
+<utterance uid="2-16"><speaker>ESPOSITO</speaker><content>All right. We’ll start on the car, see if we can tell what happened and where he went.</content></utterance>
+<utterance uid="2-17"><speaker>RYAN</speaker><content>All right.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>TAGGERT</speaker><content>Airbag went off. It only activates when someone’s in that seat, so your man was definitely at the wheel.</content></utterance>
+<utterance uid="3-2"><speaker>ESPOSITO</speaker><content>Yeah, but if he walked away, where is he and why isn’t he picking up?</content></utterance>
+<utterance uid="3-3"><speaker>TAGGERT</speaker><content>Maybe his phone’s damaged. Or he’s disoriented. I’ve seen it before. But if he left this vehicle there’s going to be tracks or a blood trail.</content></utterance>
+<utterance uid="3-4"><speaker>ESPOSITO</speaker><content>Hello?</content></utterance>
+<utterance uid="3-5"><speaker>RYAN</speaker><content>Hey, Javi. Walk to the back of Castle’s car.</content></utterance>
+<utterance uid="3-6"><speaker>ESPOSITO</speaker><content>What for?</content></utterance>
+<utterance uid="3-7"><speaker>RYAN</speaker><content>Just do it, okay? Check the passenger rear side. Tell me what you see?</content></utterance>
+<utterance uid="3-8"><speaker>ESPOSITO</speaker><content>It looks like it took a hit on the right side. Busted the tail light.</content></utterance>
+<utterance uid="3-9"><speaker>RYAN</speaker><content>That’s because Castle got bumped by another car and run off the road. I’ve got debris up here.</content></utterance>
+<utterance uid="3-10"><speaker>ESPOSITO</speaker><content>All right. Call local CSU. Maybe those pieces can help us ID that car.</content></utterance>
+<utterance uid="3-11"><speaker>TAGGERT</speaker><content>Detective. I think I’ve got something.  Tracks. Going from the car up to the road. Water washed part of the trail but it looks like three people.</content></utterance>
+<utterance uid="3-12"><speaker>ESPOSITO</speaker><content>Three people? That can’t be right.</content></utterance>
+<utterance uid="3-13"><speaker>TAGGERT</speaker><content>See the two troughs in the dirt?  Made by heels from a pair of shoes.</content></utterance>
+<utterance uid="3-14"><speaker>ESPOSITO</speaker><content>So he was run off the road and dragged from the car? Castle got grabbed.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="4-2"><speaker>RYAN</speaker><content>Had Taggert set up road blocks to stop and search every vehicle.</content></utterance>
+<utterance uid="4-3"><speaker>ESPOSITO</speaker><content>We figured that the car that ran Castle into the ditch may be the same car he’s in now.</content></utterance>
+<utterance uid="4-4"><speaker>BECKETT</speaker><content>Did we get a description?</content></utterance>
+<utterance uid="4-5"><speaker>ESPOSITO</speaker><content>Not yet, but CSU thinks the side marker glass up ahead came from a GM. Local PD’s canvassing to see if anyone saw any vehicles leaving the area.</content></utterance>
+<utterance uid="4-6"><speaker>BECKETT</speaker><content>What about Castle’s cell phone?</content></utterance>
+<utterance uid="4-7"><speaker>ESPOSITO</speaker><content>His provider says it’s shut off.</content></utterance>
+<utterance uid="4-8"><speaker>RYAN</speaker><content>Contacted the FBI to see if it can be turned on remotely. It’s a long shot, but you never know.</content></utterance>
+<utterance uid="4-9"><speaker>BECKETT</speaker><content>What else?</content></utterance>
+<utterance uid="4-10"><speaker>ESPOSITO</speaker><content>Kate. Everything that can be done is being done.</content></utterance>
+<utterance uid="4-11"><speaker>BECKETT</speaker><content>Espo, don’t tell me that. They took him. I need to do something.</content></utterance>
+<utterance uid="4-12"><speaker>ESPOSITO</speaker><content>Then tell us about that phone call you got.</content></utterance>
+<utterance uid="4-13"><speaker>RYAN</speaker><content>Was he nervous? Did he indicate in any way he was being followed?</content></utterance>
+<utterance uid="4-14"><speaker>BECKETT</speaker><content>No. He was just – normal.  He was normal.</content></utterance>
+<utterance uid="4-15"><speaker>ESPOSITO</speaker><content>Hey. Sergeant Taggert may have a witness. Guy runs a fruit stand up the road.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>CAL HARPER</speaker><content>Yeah, I definitely saw a Mercedes go by around the time you’re talking. Uh … bronze colored.</content></utterance>
+<utterance uid="5-2"><speaker>ESPOSITO</speaker><content>That’s Castle’s car.</content></utterance>
+<utterance uid="5-3"><speaker>BECKETT</speaker><content>What about any cars after that?</content></utterance>
+<utterance uid="5-4"><speaker>CAL</speaker><content>Uh. Let’s see. There was a Volkswagen Bug, a Ferrari, an SUV.</content></utterance>
+<utterance uid="5-5"><speaker>ESPOSITO</speaker><content> No one’s going to run him off the road with a Bug or a Ferrari.</content></utterance>
+<utterance uid="5-6"><speaker>BECKETT</speaker><content>Talk to me about that SUV.</content></utterance>
+<utterance uid="5-7"><speaker>CAL</speaker><content>It was an Escalade. Black, with tinted windows and chrome wheels.</content></utterance>
+<utterance uid="5-8"><speaker>ESPOSITO</speaker><content>How is it you happen to remember it so clearly?</content></utterance>
+<utterance uid="5-9"><speaker>CAL</speaker><content>Because I saw it twice. It passed heading north and he flew by again, maybe ten minutes later.</content></utterance>
+<utterance uid="5-10"><speaker>BECKETT</speaker><content>They were headed south, off of Long Island.  With Castle.</content></utterance>
+<utterance uid="5-11"><speaker>TAGGERT</speaker><content>I’ll put out an APB on the Escalade.</content></utterance>
+<utterance uid="5-12"><speaker>ESPOSITO</speaker><content>I’m going to call state police, have them set up checkpoints at every road heading off of Long Island.</content></utterance>
+<utterance uid="5-13"><speaker>RYAN</speaker><content>Getting Castle off of the island may not be the plan.  The Feds just called. They were able to remotely activate Castle’s phone for a few seconds.</content></utterance>
+<utterance uid="5-14"><speaker>BECKETT</speaker><content>Did they get a location?</content></utterance>
+<utterance uid="5-15"><speaker>RYAN</speaker><content>Yep. He’s still on the island. According to his GPS, he was in Medford.</content></utterance>
+<utterance uid="5-16"><speaker>BECKETT</speaker><content>How far is Medford from here?</content></utterance>
+<utterance uid="5-17"><speaker>TAGGERT</speaker><content>Not far the way I’m going to drive.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>RYAN</speaker><content>It says Castle’s GPS puts him about a hundred feet into this junkyard.</content></utterance>
+<utterance uid="6-2"><speaker>TAGGERT</speaker><content>State police is ten minutes out. They want you to wait for backup.</content></utterance>
+<utterance uid="6-3"><speaker>BECKETT</speaker><content>Not a chance in hell.</content></utterance>
+<utterance uid="6-4"><speaker>RYAN</speaker><content>It’s right over there. 85 feet and closing.</content></utterance>
+<utterance uid="6-5"><speaker>ESPOSITO</speaker><content>Which way?</content></utterance>
+<utterance uid="6-6"><speaker>RYAN</speaker><content>Other side of this car carrier, I think.  60 feet now.</content></utterance>
+<utterance uid="6-7"><speaker>BECKETT</speaker><content>There. Black Escalade.</content></utterance>
+<utterance uid="6-8"><speaker>RYAN</speaker><content>Yeah. That’s ground zero for Castle’s GPS.</content></utterance>
+<utterance uid="6-9"><speaker>ESPOSITO</speaker><content>So he’s in there?</content></utterance>
+<utterance uid="6-10"><speaker>BECKETT</speaker><content>No.</content></utterance>
+<utterance uid="6-11"><speaker>BECKETT</speaker><content>Stop! Do not move!</content></utterance>
+<utterance uid="6-12"><speaker>BECKETT</speaker><content>Stop!</content></utterance>
+<utterance uid="6-13"><speaker>RYAN</speaker><content>Freeze!</content></utterance>
+<utterance uid="6-14"><speaker>ESPOSITO</speaker><content>On the ground, now!</content></utterance>
+<utterance uid="6-15"><speaker>BECKETT</speaker><content>What have you done?  What have you done?</content></utterance>
+<utterance uid="6-16"><speaker>RYAN</speaker><content>Beckett, we got him.</content></utterance>
+<utterance uid="6-17"><speaker>ESPOSITO</speaker><content>Beckett, stop.</content></utterance>
+<utterance uid="6-18"><speaker>BECKETT</speaker><content>No! No!</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>BECKETT</speaker><content>Gary Duffin. You’re no stranger to rooms like this. But this time it’s different.  This time, your only option is give me answers.</content></utterance>
+<utterance uid="7-2"><speaker>GARY DUFFIN</speaker><content>And what if I don’t?</content></utterance>
+<utterance uid="7-3"><speaker>BECKETT</speaker><content>You were at the junkyard when that SUV came in. Who was in it?</content></utterance>
+<utterance uid="7-4"><speaker>GARY</speaker><content>You know what? I want a lawyer.</content></utterance>
+<utterance uid="7-5"><speaker>BECKETT</speaker><content>You’re a low-level dirtbag, Gary. You’re not a criminal mastermind, so start talking.  Who was in the car? Who had you crush it?</content></utterance>
+<utterance uid="7-6"><speaker>BECKETT</speaker><content>Was Castle in the car?  Was he in the car? Was he alive?</content></utterance>
+<utterance uid="7-7"><speaker>GARY</speaker><content>Ah! You’re going to break my finger.</content></utterance>
+<utterance uid="7-8"><speaker>BECKETT</speaker><content>And then after that there’s nine more, so tell me what I want to know. Start talking.</content></utterance>
+<utterance uid="7-9"><speaker>GARY</speaker><content>I’ve got nothing to say.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>BECKETT</speaker><content>What? What is it?</content></utterance>
+<utterance uid="8-2"><speaker>ESPOSITO</speaker><content>Forensics came back on the SUV. There was no blood or tissue. Castle wasn’t inside.</content></utterance>
+<utterance uid="8-3"><speaker>BECKETT</speaker><content>Okay. So he’s still out there.</content></utterance>
+<utterance uid="8-4"><speaker>BECKETT</speaker><content>Which means they crushed the car to cover their tracks. Okay, get CSU to sweep for DNA and prints. And let’s move Gary Duffin to a holding cell.</content></utterance>
+<utterance uid="8-5"><speaker>ESPOSITO</speaker><content>So you can do what to him?  I was watching. Getting booted of the force is not going to help anything.</content></utterance>
+<utterance uid="8-6"><speaker>BECKETT</speaker><content>Espo, he knows who took Castle.</content></utterance>
+<utterance uid="8-7"><speaker>ESPOSITO</speaker><content>Well, he’s never going to give them up. Whoever they are, he’s way more afraid of them than he is of you.</content></utterance>
+<utterance uid="8-8"><speaker>BECKETT</speaker><content> Fine. We’ll try another angle. For now.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>RYAN</speaker><content>Thanks.  So, we are dead-ended on the SUV. Ran the VIN number. It turns out that it was stolen from a long term parking lot near JFK with conveniently lousy video surveillance.</content></utterance>
+<utterance uid="9-2"><speaker>BECKETT</speaker><content> Okay. Let’s dig deeper into our car-crusher, Gary Duffin. Look into his background, his known associates. That might lead us to whoever took Castle.</content></utterance>
+<utterance uid="9-3"><speaker>ESPOSITO</speaker><content>We’re on it.</content></utterance>
+<utterance uid="9-4"><speaker>CAPTAIN VICTORIA GATES</speaker><content>Detective. Do you have a moment?</content></utterance>
+<utterance uid="9-5"><speaker>BECKETT</speaker><content>Yes, sir.</content></utterance>
+<utterance uid="9-6"><speaker>GATES</speaker><content>How are you holding up?</content></utterance>
+<utterance uid="9-7"><speaker>BECKETT</speaker><content> I’m fine.</content></utterance>
+<utterance uid="9-8"><speaker>GATES</speaker><content>I truly can’t imagine what you’re going through. How you can focus at a time like this.</content></utterance>
+<utterance uid="9-9"><speaker>BECKETT</speaker><content>Ah, sir, please don’t take me off of this case.</content></utterance>
+<utterance uid="9-10"><speaker>GATES</speaker><content>Oh, I won’t. Unless you give me cause to. You keep doing what you’re doing.</content></utterance>
+<utterance uid="9-11"><speaker>BECKETT</speaker><content> Okay. Thank you.</content></utterance>
+<utterance uid="9-12"><speaker>GATES</speaker><content>And you should know, we’re using every resource that we have to find Mr. Castle. Including calling in the FBI. There’s a Special Agent Connors waiting to speak with you.</content></utterance>
+<utterance uid="9-13"><speaker>BECKETT</speaker><content>Sir, with all due respect, I’m under the gun here. I don’t have time to bring the FBI up to speed.</content></utterance>
+<utterance uid="9-14"><speaker>SPECIAL AGENT CONNORS</speaker><content>I’m already up to speed, Detective. I just have a few questions.</content></utterance>
+<utterance uid="9-15"><speaker>GATES</speaker><content>Kate, they can help.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>CONNORS</speaker><content>I understand investigating this case puts you in a terribly difficult position.</content></utterance>
+<utterance uid="10-2"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="10-3"><speaker>CONNORS</speaker><content>But I need to talk to you about Mr. Castle. Outside of his family, you’re the one who knew him best.</content></utterance>
+<utterance uid="10-4"><speaker>BECKETT</speaker><content>Yeah well, he didn’t have any problems with gambling, money, drugs -  – affairs, so we can skip all of that.</content></utterance>
+<utterance uid="10-5"><speaker>CONNORS</speaker><content>I understand he was headed to the Hamptons when he was abducted.</content></utterance>
+<utterance uid="10-6"><speaker>BECKETT</speaker><content>Yeah. For our wedding.</content></utterance>
+<utterance uid="10-7"><speaker>CONNORS</speaker><content>Who knew he was making that drive?</content></utterance>
+<utterance uid="10-8"><speaker>BECKETT</speaker><content>The wedding guests. Um … catering staff.</content></utterance>
+<utterance uid="10-9"><speaker>CONNORS</speaker><content>I’ll need their names.</content></utterance>
+<utterance uid="10-10"><speaker>BECKETT</speaker><content>I’ve got a list. But they’re all friends and family.</content></utterance>
+<utterance uid="10-11"><speaker>CONNORS</speaker><content>Still. </content></utterance>
+<utterance uid="10-12"><speaker>BECKETT</speaker><content>Agent Connors, do you think that this could be a ransom kidnapping?</content></utterance>
+<utterance uid="10-13"><speaker>CONNORS</speaker><content>If it is, we’ll be ready. It’s standard protocol to set up a trap and trace in Mr. Castle’s loft. In the event the kidnappers call. We’ll also monitor family cell phones.</content></utterance>
+<utterance uid="10-14"><speaker>BECKETT</speaker><content>You sound like you don’t expect those phones to ring.  Agent Connors, do you know something that I don’t?</content></utterance>
+<utterance uid="10-15"><speaker>CONNORS</speaker><content>I just keep coming back to how much easier it would have been to grab Castle in the city. Instead they took him on Long Island. Just as he was about to get married. To you.</content></utterance>
+<utterance uid="10-16"><speaker>BECKETT</speaker><content>Do you think that this has something to do with me?</content></utterance>
+<utterance uid="10-17"><speaker>CONNORS</speaker><content>You and Mr. Castle worked a lot of cases together. Could someone you went after have taken revenge?</content></utterance>
+<utterance uid="10-18"><speaker>BECKETT</speaker><content>Yeah. A lot of people.</content></utterance>
+<utterance uid="10-19"><speaker>CONNORS</speaker><content>Okay. Well, I’ll start by taking a run at Gary Duffin. You go through your case files, come up with a list of potential suspects. Keep me apprised at what you find.</content></utterance>
+<utterance uid="10-20"><speaker>BECKETT</speaker><content>As long as you do the same.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>ALEXIS</speaker><content> He’ll come back.</content></utterance>
+<utterance uid="11-2"><speaker>MARTHA</speaker><content>Of course he will, darling. Your father will be home before you know it.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>BECKETT</speaker><content>Thanks.</content></utterance>
+<utterance uid="12-2"><speaker>ESPOSITO</speaker><content>We’ll find him.</content></utterance>
+<utterance uid="12-3"><speaker>BECKETT</speaker><content>So, was Agent Connors able to get anything out of Duffin?</content></utterance>
+<utterance uid="12-4"><speaker>ESPOSITO</speaker><content>Not a word, so he went back to FBI HQ.  Are those the perps you think might have made a move on Castle?</content></utterance>
+<utterance uid="12-5"><speaker>BECKETT</speaker><content>Yeah. Starting with Senator Bracken.</content></utterance>
+<utterance uid="12-6"><speaker>ESPOSITO</speaker><content>You think Bracken’s behind this?</content></utterance>
+<utterance uid="12-7"><speaker>BECKETT</speaker><content>Well, we’ve ruined his life and had him sent to prison. Taking Castle down on his way to our wedding would be just like him. Or like 3XK, for that matter, or Mickey Barbossa, or any of the other dozens of people we’ve had put away over the last few years. I mean, it could be any of them. Or none of them.</content></utterance>
+<utterance uid="12-8"><speaker>ESPOSITO</speaker><content>Hey. We’re going to figure this out, okay?  Kate. Don’t get lost in worst case scenarios. When Alexis was taken, it tied back to Castle’s dad. Maybe he’s mixed up in this and if he is, he’s going to look out for his son.</content></utterance>
+<utterance uid="12-9"><speaker>RYAN</speaker><content>Except … this is shaping up to be more mob related.</content></utterance>
+<utterance uid="12-10"><speaker>BECKETT</speaker><content>What makes you say that?</content></utterance>
+<utterance uid="12-11"><speaker>RYAN</speaker><content>I ran Gary Duffin’s cell records. Right before he crushed that SUV he got a call from a Jersey mobster.</content></utterance>
+<utterance uid="12-12"><speaker>ESPOSITO</speaker><content>That must be the guy who ordered Gary to squash that car. And why he’s so scared to talk.</content></utterance>
+<utterance uid="12-13"><speaker>BECKETT</speaker><content>Who was this mobster?</content></utterance>
+<utterance uid="12-14"><speaker>RYAN</speaker><content>One Vincent Cardano.</content></utterance>
+<utterance uid="12-15"><speaker>BECKETT</speaker><content>Vinnie Cardano? I – I’ve met him. Castle knows him.</content></utterance>
+<utterance uid="12-16"><speaker>RYAN</speaker><content>Was there ever a problem between them?</content></utterance>
+<utterance uid="12-17"><speaker>BECKETT</speaker><content>Yeah. There was.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>VINNY CARDANO</speaker><content>No, there wasn’t, trust me. Things were simpatico with me and Castle. Fact is, it pains my soul that Rick is missing. What can I do to help?</content></utterance>
+<utterance uid="13-2"><speaker>BECKETT</speaker><content>I was there the night that you got angry with him and stormed out.</content></utterance>
+<utterance uid="13-3"><speaker>CARDANO</speaker><content>He near accused me of murder. He impugned my integrity. But we made our peace ages ago over a nice bottle of Valpolicella.</content></utterance>
+<utterance uid="13-4"><speaker>BECKETT</speaker><content>Then why did you call Gary Duffin earlier today? Was it to tell him to destroy a certain SUV?</content></utterance>
+<utterance uid="13-5"><speaker>CARDANO</speaker><content>What’s a SUV got to do with this?</content></utterance>
+<utterance uid="13-6"><speaker>BECKETT</speaker><content>It was involved in Castle’s abduction.</content></utterance>
+<utterance uid="13-7"><speaker>CARDANO</speaker><content>This I did not know.</content></utterance>
+<utterance uid="13-8"><speaker>RYAN</speaker><content>But you did have Gary crush that car?</content></utterance>
+<utterance uid="13-9"><speaker>CARDANO</speaker><content>We’re entering into a gray area here.</content></utterance>
+<utterance uid="13-10"><speaker>BECKETT</speaker><content>You’re an accessory to kidnapping. There’s nothing gray about that.</content></utterance>
+<utterance uid="13-11"><speaker>CARDANO</speaker><content>I’m telling you, Kate. I did not have Rick grabbed!</content></utterance>
+<utterance uid="13-12"><speaker>BECKETT</speaker><content>Then stop playing games and tell me why did you have the car crushed?  Vinny, you said that you wanted to help him. This is your chance.</content></utterance>
+<utterance uid="13-13"><speaker>CARDANO</speaker><content> Okay, listen. On occasion clients might need to make a vehicle disappear. And for 10 grand such a thing can be handled.</content></utterance>
+<utterance uid="13-14"><speaker>BECKETT</speaker><content>What was the name of the client?</content></utterance>
+<utterance uid="13-15"><speaker>CARDANO</speaker><content>No names came up. He called me in the morning, he said the right things, we struck a deal. But I never met the man. It was all anonymous.</content></utterance>
+<utterance uid="13-16"><speaker>RYAN</speaker><content>Then how did you get paid?</content></utterance>
+<utterance uid="13-17"><speaker>CARDANO</speaker><content>We used a drop. The client left a bag full of cash in a dumpster on the Lower East Side. Right after the SUV got turned into a panini.</content></utterance>
+<utterance uid="13-18"><speaker>RYAN</speaker><content>After? What happens if you crush the car and then you don’t get your money?</content></utterance>
+<utterance uid="13-19"><speaker>CARDANO</speaker><content> That does not happen.</content></utterance>
+<utterance uid="13-20"><speaker>BECKETT</speaker><content>Where exactly is this dumpster?</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>TORY ELLIS</speaker><content>Based on what Cardano said, this is the drop point.</content></utterance>
+<utterance uid="14-2"><speaker>ESPOSITO</speaker><content>Now what are we looking at here? This is not street cam footage.</content></utterance>
+<utterance uid="14-3"><speaker>TORY</speaker><content>There’s no coverage in the area, but after a rash of break-ins one of the buildings installed hidden cameras and I was able to tap in.  This is in the time window when the drop should have taken place.</content></utterance>
+<utterance uid="14-4"><speaker>RYAN</speaker><content>We get eyes on Cardano’s client, we can get a real lead on who took Castle.</content></utterance>
+<utterance uid="14-5"><speaker>BECKETT</speaker><content>There. Go back.</content></utterance>
+<utterance uid="14-6"><speaker>RYAN</speaker><content>That’s him. That’s the client dropping off the cash.</content></utterance>
+<utterance uid="14-7"><speaker>ESPOSITO</speaker><content>I’ll set up a canvass. Someone had to see where this guy came from or where he went.</content></utterance>
+<utterance uid="14-8"><speaker>BECKETT</speaker><content>Wait. Freeze that. Zoom in.</content></utterance>
+<utterance uid="14-9"><speaker>RYAN</speaker><content>It can’t be.</content></utterance>
+<utterance uid="14-10"><speaker>ESPOSITO</speaker><content>It is. That’s Castle. He’s the one who dropped off the cash?</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>TORY</speaker><content>Do you want me to run it again?</content></utterance>
+<utterance uid="15-2"><speaker>BECKETT</speaker><content>I – need to get some air.</content></utterance>
+<utterance uid="15-3"><speaker>RYAN</speaker><content>Yeah Tory, run it one more time, please.</content></utterance>
+<utterance uid="15-4"><speaker>ESPOSITO</speaker><content>What are you going to see that you didn’t see before?</content></utterance>
+<utterance uid="15-5"><speaker>RYAN</speaker><content> Maybe we missed something.</content></utterance>
+<utterance uid="15-6"><speaker>ESPOSITO</speaker><content>Yeah, we missed something. Castle’s in on this. He planned the whole thing.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>RYAN</speaker><content>Maybe it isn’t really him. Just think about it. 3XK, he used a lookalike to try and frame him for murder, a guy with Castle’s face.</content></utterance>
+<utterance uid="16-2"><speaker>BECKETT</speaker><content>No, no, Kevin, it wasn’t just his face. It was his clothes, it was his movements, his body. It was him, on his own, just hours after he was supposedly abducted.</content></utterance>
+<utterance uid="16-3"><speaker>RYAN</speaker><content>Beckett, this doesn’t make any sense. He wouldn’t do that. Not Castle.</content></utterance>
+<utterance uid="16-4"><speaker>BECKETT</speaker><content>Look into Castle, okay? Find out what he did, who he talked to just before he went missing. And um … brief Agent Connors.</content></utterance>
+<utterance uid="16-5"><speaker>RYAN</speaker><content>What are you going to do now?</content></utterance>
+<utterance uid="16-6"><speaker>BECKETT</speaker><content> I’m going to talk to his family.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>ALEXIS</speaker><content>And these images were taken after the accident, the car fire?</content></utterance>
+<utterance uid="17-2"><speaker>BECKETT</speaker><content>Yes.</content></utterance>
+<utterance uid="17-3"><speaker>MARTHA</speaker><content>So he’s alive! He’s not being held captive by God knows who.</content></utterance>
+<utterance uid="17-4"><speaker>ALEXIS</speaker><content>Wait, are you saying Dad was run off the road by an SUV and after that he paid to have it crushed?</content></utterance>
+<utterance uid="17-5"><speaker>BECKETT</speaker><content>It looks that way, yeah.</content></utterance>
+<utterance uid="17-6"><speaker>MARTHA</speaker><content>Well that’s ridiculous. Why on Earth would he do such a thing?</content></utterance>
+<utterance uid="17-7"><speaker>BECKETT</speaker><content>Was he going through anything that I didn’t know about?</content></utterance>
+<utterance uid="17-8"><speaker>MARTHA</speaker><content>Like what?</content></utterance>
+<utterance uid="17-9"><speaker>BECKETT</speaker><content>Pressure that he was under. That he kept to himself.</content></utterance>
+<utterance uid="17-10"><speaker>ALEXIS</speaker><content>Of course not. Right, Gram?</content></utterance>
+<utterance uid="17-11"><speaker>MARTHA</speaker><content>No, no, no, no. I would have noticed.</content></utterance>
+<utterance uid="17-12"><speaker>BECKETT</speaker><content>And what about the wedding? Did he have any misgivings?</content></utterance>
+<utterance uid="17-13"><speaker>MARTHA</speaker><content>Misgivings? Katherine, that was the farthest thing from his mind. He couldn’t wait to be married to you.</content></utterance>
+<utterance uid="17-14"><speaker>ALEXIS</speaker><content>You don’t think he’d just walk away, do you?</content></utterance>
+<utterance uid="17-15"><speaker>BECKETT</speaker><content>No.</content></utterance>
+<utterance uid="17-16"><speaker>MARTHA</speaker><content>Then what’s going on here?</content></utterance>
+<utterance uid="17-17"><speaker>BECKETT</speaker><content>I don’t know. There’s gotta be another explanation.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>AGENT CONNORS</speaker><content>I don’t think there is. The video clearly shows Castle out in the world, not under duress. It changes the dynamics of the case.</content></utterance>
+<utterance uid="18-2"><speaker>BECKETT</speaker><content>No, this is still a kidnapping. That video could be a fake. All it shows is Castle throwing away a bag. That could have been shot a month ago.</content></utterance>
+<utterance uid="18-3"><speaker>CONNORS</speaker><content>It wasn’t. Our tech team analyzed the footage. It’s authentic.  Were you aware he withdrew a large sum just before he disappeared?</content></utterance>
+<utterance uid="18-4"><speaker>BECKETT</speaker><content>Yes. It was for our honeymoon.</content></utterance>
+<utterance uid="18-5"><speaker>CONNORS</speaker><content>Vinny Cardano turned over the ten thousand dollars that was left in the dumpster. It’s the same money that Castle withdrew.</content></utterance>
+<utterance uid="18-6"><speaker>BECKETT</speaker><content>That’s not possible.</content></utterance>
+<utterance uid="18-7"><speaker>CONNORS</speaker><content>That’s because you’re locked into your own version of events, but Detective, I can show you those bills. The matching serial numbers.</content></utterance>
+<utterance uid="18-8"><speaker>BECKETT</speaker><content>There’s something else going on. There has to be.</content></utterance>
+<utterance uid="18-9"><speaker>CONNORS</speaker><content>It all lines up. Right down to the fact that Castle knew Cardano, knew that he could make cars vanish.</content></utterance>
+<utterance uid="18-10"><speaker>BECKETT</speaker><content>So, what? He went through this charade to stage his own disappearance? Why?</content></utterance>
+<utterance uid="18-11"><speaker>CONNORS</speaker><content>People are complex. Maybe he had a breakdown. Or a personal crisis. And maybe there’s a secret side to the man that nobody knows. Including you.</content></utterance>
+<utterance uid="18-12"><speaker>BECKETT</speaker><content>Look, Agent Connors, I know that there are a lot of unanswered questions here. But you cannot stop looking for him.</content></utterance>
+<utterance uid="18-13"><speaker>CONNORS</speaker><content>We’ll follow every lead to the end. But once those leads dry up, we have to scale back our investigation.</content></utterance>
+<utterance uid="18-14"><speaker>BECKETT</speaker><content>I will find Castle, with or without the FBI.</content></utterance>
+<utterance uid="18-15"><speaker>CONNORS</speaker><content>You’re assuming he wants to be found.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>BECKETT</speaker><content>My name is Detective Kate Beckett, I’m calling from the New York Homicide division …  … calling to see if there was any recent activity …  … you had a gentleman named Richard Castle check into your hotel within the last …  … about six foot two…  … take a look at local airlines, gas stations …  … traffic cam …  … traffic footage in the Hamptons, anything you can get me. Thank you.</content></utterance>
+<utterance uid="19-2"><speaker>NEWS REPORTER</speaker><content>… Richard Castle’s mysterious disappearance, FBI agents left the NYPD’s 12th Precinct …</content></utterance>
+<utterance uid="19-3"><speaker>BECKETT</speaker><content>Hey Merc, can you put me into the French consulate?  … calling from the United States, yes …  … yes, je suis…  … in regards to a Richard Castle.</content></utterance>
+<utterance uid="19-4"><speaker>BECKETT</speaker><content>Okay, anything coming out of the Hamptons? …  … for the past two weeks …  … okay, I’ll look for it in my email …  … no, I need it right away.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>COAST GUARD SHIP</speaker><content>This is the United States Coast Guard. Please respond if you are in distress or need assistance.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>ESPOSITO</speaker><content>He was found adrift 80 miles off the coast of Delaware by a Coast Guard cutter that was out there mapping the currants.</content></utterance>
+<utterance uid="21-2"><speaker>RYAN</speaker><content>The Captain recognized who he was and had him airlifted here.</content></utterance>
+<utterance uid="21-3"><speaker>BECKETT</speaker><content>What was he doing in the middle of the Atlantic ocean?</content></utterance>
+<utterance uid="21-4"><speaker>RYAN</speaker><content>Yeah, especially in a dinghy with three bullet holes in it.</content></utterance>
+<utterance uid="21-5"><speaker>BECKETT</speaker><content>He was shot?</content></utterance>
+<utterance uid="21-6"><speaker>ESPOSITO</speaker><content>The Captain said no, but the doctors here won’t give us any updates on his condition.</content></utterance>
+<utterance uid="21-7"><speaker>BECKETT</speaker><content>Where are Martha and Alexis?</content></utterance>
+<utterance uid="21-8"><speaker>ESPOSITO</speaker><content>They’re in a patrol car on their way here now.</content></utterance>
+<utterance uid="21-9"><speaker>BECKETT</speaker><content>Okay.</content></utterance>
+<utterance uid="21-10"><speaker>ESPOSITO</speaker><content>Kate?</content></utterance>
+<utterance uid="21-11"><speaker>BECKETT</speaker><content>I’m fine.  I just never thought I’d see him again.</content></utterance>
+<utterance uid="21-12"><speaker>BECKETT</speaker><content> Castle. Hey. It’s me.</content></utterance>
+<utterance uid="21-13"><speaker>ALEXIS</speaker><content>Dad?</content></utterance>
+<utterance uid="21-14"><speaker>MARTHA</speaker><content>Richard, darling.</content></utterance>
+<utterance uid="21-15"><speaker>ALEXIS</speaker><content>What’s wrong with him?</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>MARTHA</speaker><content>Uh huh.</content></utterance>
+<utterance uid="22-2"><speaker>ALEXIS</speaker><content>Why hasn’t he regained consciousness?</content></utterance>
+<utterance uid="22-3"><speaker>MARTHA</speaker><content>We’d like to stay with him, keep him company, if that’s all right.</content></utterance>
+<utterance uid="22-4"><speaker>MARTHA</speaker><content>Thank you.</content></utterance>
+<utterance uid="22-5"><speaker>LANIE PARISH</speaker><content>Kate!  How is he?</content></utterance>
+<utterance uid="22-6"><speaker>BECKETT</speaker><content>He’s stable, but he’s still unconscious.</content></utterance>
+<utterance uid="22-7"><speaker>LANIE</speaker><content>So we still don’t know what happened to him?</content></utterance>
+<utterance uid="22-8"><speaker>BECKETT</speaker><content>No.</content></utterance>
+<utterance uid="22-9"><speaker>LANIE</speaker><content>Well if there’s anything that I can do –</content></utterance>
+<utterance uid="22-10"><speaker>BECKETT</speaker><content>Actually, yeah. I need you to take a look at him.</content></utterance>
+<utterance uid="22-11"><speaker>LANIE</speaker><content>You do know living patients aren’t my thing, right?</content></utterance>
+<utterance uid="22-12"><speaker>BECKETT</speaker><content>No, Lanie, look. I don’t want you to treat him. I want you to look at him as if it was a case. See if you can find any evidence of where he’s been and what he’s been through.</content></utterance>
+<utterance uid="22-13"><speaker>LANIE</speaker><content>I’ll see what I can do.</content></utterance>
+<utterance uid="22-14"><speaker>BECKETT</speaker><content>Okay.</content></utterance>
+<utterance uid="22-15"><speaker>LANIE</speaker><content>All right.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>RYAN</speaker><content>I’m with Beckett. I never thought that we’d see Castle again.</content></utterance>
+<utterance uid="23-2"><speaker>ESPOSITO</speaker><content> Still. Where’s he been?</content></utterance>
+<utterance uid="23-3"><speaker>RYAN</speaker><content>You saw those bullet holes. Maybe he used the boat to escape from whoever abducted him.</content></utterance>
+<utterance uid="23-4"><speaker>ESPOSITO</speaker><content>The guy faked his own kidnapping and then ran off. Now how could he do that to Beckett?</content></utterance>
+<utterance uid="23-5"><speaker>RYAN</speaker><content>As long as we’ve known him? Worked with him? Don’t you think Castle deserves the benefit of the doubt?</content></utterance>
+<utterance uid="23-6"><speaker>BECKETT</speaker><content>You guys, none of us knows the truth about Castle. Not yet. And Espo, you know what? If you’re wrong, then he was a victim, so instead of us just standing around, waiting for him to wake up, why don’t we start by figuring out who owns that dinghy.</content></utterance>
+<utterance uid="23-7"><speaker>RYAN</speaker><content>I’m already on it. The boat had expired tags registered to a Curtis Holt of Savannah, Georgia.</content></utterance>
+<utterance uid="23-8"><speaker>ESPOSITO</speaker><content>We called Holt. He said that he sold it over a year ago at a garage sale. He can’t recall who he sold it to.</content></utterance>
+<utterance uid="23-9"><speaker>BECKETT</speaker><content>Okay. Check his story. Find the current owner. We find the owner, we’ll find out where Castle was coming from. In the meantime I’ll talk to the ship’s captain and see if he can tell us anything else.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>CAPTAIN MUNDY</speaker><content>Based on Mr. Castle’s condition, I’m guessing he’d been in that vessel four or five days.</content></utterance>
+<utterance uid="24-2"><speaker>BECKETT</speaker><content>Okay, could the dinghy have come from a larger boat?</content></utterance>
+<utterance uid="24-3"><speaker>MUNDY</speaker><content>Not likely. See, it has fenders, or pads to protect the paint. And the position of the fenders points to it being moored at a dock.</content></utterance>
+<utterance uid="24-4"><speaker>BECKETT</speaker><content>Is there any way to know where that dock is?</content></utterance>
+<utterance uid="24-5"><speaker>MUNDY</speaker><content>I can give you my best guess. The dinghy had a six horse motor, two hours’ worth of fuel, if the tanks were full. After it ran dry it drifted for four or five days. So based on wind and current vectors it probably launched somewhere between Rhode Island and southern Maine.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>ESPOSITO</speaker><content>It looks like we caught a break. It turns out that sky blue dinghy was a standard white when it came out of the factory.</content></utterance>
+<utterance uid="25-2"><speaker>BECKETT</speaker><content>And how does that help us?</content></utterance>
+<utterance uid="25-3"><speaker>ESPOSITO</speaker><content>Well, the previous owner pimped it out. He added custom fishing rod holders and painted it sky blue.</content></utterance>
+<utterance uid="25-4"><speaker>RYAN</speaker><content>Making it a relative rarity in the world of dinghies.</content></utterance>
+<utterance uid="25-5"><speaker>ESPOSITO</speaker><content>So going off what the captain told you, we put out a BOLO on all sky blue dinghies, to all law enforcement along the coast from Rhode Island to Maine.</content></utterance>
+<utterance uid="25-6"><speaker>RYAN</speaker><content>We got a hit. A park ranger in Gloucester, Massachusetts recalled seeing it at a private dock.</content></utterance>
+<utterance uid="25-7"><speaker>ESPOSITO</speaker><content> This is a satellite photo off the web taken a month ago. This is the private dock that the ranger was talking about.</content></utterance>
+<utterance uid="25-8"><speaker>BECKETT</speaker><content>And there’s a sky blue dinghy.</content></utterance>
+<utterance uid="25-9"><speaker>RYAN</speaker><content>Complete with custom fishing rod holders, just like the boat Castle was found in.</content></utterance>
+<utterance uid="25-10"><speaker>BECKETT</speaker><content>Okay, so this looks like a mobile home. Does the dock belong to it?</content></utterance>
+<utterance uid="25-11"><speaker>ESPOSITO</speaker><content>It’s all part of the same property.  Owned by one Henry Jenkins. Whatever’s going on with Castle, this is where he came from. And this guy must be involved.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>BECKETT</speaker><content>Thanks for holding down the fort, Sergeant Simms.</content></utterance>
+<utterance uid="26-2"><speaker>SERGEANT SIMMS</speaker><content>All I did was hang around and watch a mobile home. What’s this about?</content></utterance>
+<utterance uid="26-3"><speaker>ESPOSITO</speaker><content>It’s about the owner, Henry Jenkins. Do you know him?</content></utterance>
+<utterance uid="26-4"><speaker>SIMMS</speaker><content>No, we don’t get over here too much. Whoever he is, he’s not home. I didn’t see any signs of life.</content></utterance>
+<utterance uid="26-5"><speaker>BECKETT</speaker><content>Okay, well, we’ll take it over from here.</content></utterance>
+<utterance uid="26-6"><speaker>SIMMS</speaker><content>I’m a radio call away if you need me.</content></utterance>
+<utterance uid="26-7"><speaker>BECKETT</speaker><content>Thank you.</content></utterance>
+<utterance uid="26-8"><speaker>RYAN</speaker><content>It looks like Henry Jenkins scrubbed himself off the web. All Tory can find out is what we already know. He runs a private security firm in Boston.</content></utterance>
+<utterance uid="26-9"><speaker>ESPOSITO</speaker><content>We still don’t know what kind of security we’re talking. Mall cops or military contractor?</content></utterance>
+<utterance uid="26-10"><speaker>BECKETT</speaker><content>Either way that would give him access to firearms, which could explain the bullet holes in the boat.</content></utterance>
+<utterance uid="26-11"><speaker>ESPOSITO</speaker><content>Yeah, but what’s the link between him and Castle? Why would he be mixed up with this guy?</content></utterance>
+<utterance uid="26-12"><speaker>BECKETT</speaker><content>It’s Lanie. She may have something. Stand by.</content></utterance>
+<utterance uid="26-13"><speaker>LANIE</speaker><content>Kate, I talked Castle’s doctor into letting me look him over, and I came across a few … strange things.</content></utterance>
+<utterance uid="26-14"><speaker>BECKETT</speaker><content>Strange how?</content></utterance>
+<utterance uid="26-15"><speaker>LANIE</speaker><content>No trace evidence on Castle’s clothes, but I did find a key sewn into the lining of his pants.</content></utterance>
+<utterance uid="26-16"><speaker>BECKETT</speaker><content>What kind of a key?</content></utterance>
+<utterance uid="26-17"><speaker>LANIE</speaker><content>I’m not sure. But it has 38 stamped on it. Does that mean anything to you?</content></utterance>
+<utterance uid="26-18"><speaker>BECKETT</speaker><content>No.</content></utterance>
+<utterance uid="26-19"><speaker>LANIE</speaker><content>Okay. Then there’s his blood work. I found antibodies to dengue fever. That means Castle was exposed to the virus within the last two months.</content></utterance>
+<utterance uid="26-20"><speaker>BECKETT</speaker><content>Wait, isn’t dengue fever tropical?</content></utterance>
+<utterance uid="26-21"><speaker>LANIE</speaker><content>Yeah. It’s mostly found in Latin America, Africa, and Asia.</content></utterance>
+<utterance uid="26-22"><speaker>BECKETT</speaker><content>That doesn’t make any sense.</content></utterance>
+<utterance uid="26-23"><speaker>LANIE</speaker><content>Neither does the bullet wound I found. Castle was grazed across the ribs.</content></utterance>
+<utterance uid="26-24"><speaker>BECKETT</speaker><content>Oh, that makes a little bit more sense. There were bullet holes on the boat.</content></utterance>
+<utterance uid="26-25"><speaker>LANIE</speaker><content>But this wound was mainly healed. He was shot a few weeks ago.</content></utterance>
+<utterance uid="26-26"><speaker>BECKETT</speaker><content>A few weeks ago? Are you sure?</content></utterance>
+<utterance uid="26-27"><speaker>LANIE</speaker><content>Maybe even longer. Kate, what the hell was Castle mixed up in?</content></utterance>
+<utterance uid="26-28"><speaker>RYAN</speaker><content> Beckett! I just saw the curtain move. Someone’s in there.</content></utterance>
+<utterance uid="26-29"><speaker>BECKETT</speaker><content> I’ll call you back.</content></utterance>
+<utterance uid="26-30"><speaker>BECKETT</speaker><content>Let’s go.</content></utterance>
+<utterance uid="26-31"><speaker>ESPOSITO</speaker><content>Did you get eyes on anyone?</content></utterance>
+<utterance uid="26-32"><speaker>RYAN</speaker><content>Negative.</content></utterance>
+<utterance uid="26-33"><speaker>ESPOSITO</speaker><content>On the ground!</content></utterance>
+<utterance uid="26-34"><speaker>RYAN</speaker><content>Put your hands where I can see them. Now! Now! Now!</content></utterance>
+<utterance uid="26-35"><speaker>ESPOSITO</speaker><content>What’s in the bags?</content></utterance>
+<utterance uid="26-36"><speaker>HENRY JENKINS</speaker><content>Trash! Trash! I was taking out the trash!</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>BECKETT</speaker><content>Talk to me about Richard Castle.</content></utterance>
+<utterance uid="27-2"><speaker>JENKINS</speaker><content>I’m telling you, I don’t know the guy. I mean, I’ve never even heard of him.</content></utterance>
+<utterance uid="27-3"><speaker>ESPOSITO</speaker><content>There’s no sign that anyone else has been here.</content></utterance>
+<utterance uid="27-4"><speaker>JENKINS</speaker><content>That’s because no one comes here but me. This is my weekend place.</content></utterance>
+<utterance uid="27-5"><speaker>BECKETT</speaker><content>This is your boat, correct?</content></utterance>
+<utterance uid="27-6"><speaker>JENKINS</speaker><content>It would appear to be.</content></utterance>
+<utterance uid="27-7"><speaker>BECKETT</speaker><content>If you don’t know Mr. Castle then how did he end up in this boat in the middle of the ocean?</content></utterance>
+<utterance uid="27-8"><speaker>JENKINS</speaker><content>I have no idea. But I did notice that it was missing when I came up here a few days ago.</content></utterance>
+<utterance uid="27-9"><speaker>ESPOSITO</speaker><content>So your boat was missing and you didn’t report that?</content></utterance>
+<utterance uid="27-10"><speaker>JENKINS</speaker><content>Well, I never use the damn thing. I mean, I don’t even know why I bought it. I just figured it came unmoored or got stolen.</content></utterance>
+<utterance uid="27-11"><speaker>RYAN</speaker><content>Who would steal a dinghy?</content></utterance>
+<utterance uid="27-12"><speaker>JENKINS</speaker><content> Well, there was a man who was hanging around down by the beach.</content></utterance>
+<utterance uid="27-13"><speaker>BECKETT</speaker><content>A man? Describe him.</content></utterance>
+<utterance uid="27-14"><speaker>JENKINS</speaker><content>Um… late 30s, I would guess. Tall, brown hair, big build.  Yeah, that’s definitely him.</content></utterance>
+<utterance uid="27-15"><speaker>BECKETT</speaker><content>He was on the beach? What was he doing?</content></utterance>
+<utterance uid="27-16"><speaker>JENKINS</speaker><content>Camping.</content></utterance>
+<utterance uid="27-17"><speaker>BECKETT</speaker><content>Camping?</content></utterance>
+<utterance uid="27-18"><speaker>RYAN</speaker><content>That can’t be right.</content></utterance>
+<utterance uid="27-19"><speaker>JENKINS</speaker><content>He was in a tent. He seemed to be minding his own business and it was on state land, so I just left him alone.</content></utterance>
+<utterance uid="27-20"><speaker>BECKETT</speaker><content>Ryan, would you finish taking Mr. Jenkins' statement?</content></utterance>
+<utterance uid="27-21"><speaker>BECKETT</speaker><content>Where exactly was this man?</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>ESPOSITO</speaker><content>That’s the dock where the dinghy was tied up.</content></utterance>
+<utterance uid="28-2"><speaker>BECKETT</speaker><content>These are Castle’s shoes.</content></utterance>
+<utterance uid="28-3"><speaker>BECKETT</speaker><content>This is Castle’s watch.</content></utterance>
+<utterance uid="28-4"><speaker>ESPOSITO</speaker><content>Newspapers, dating back two months. Clothes, supplies … he has everything here. He could have walked up to that trailer and made a phone call. He never did.</content></utterance>
+<utterance uid="28-5"><speaker>ESPOSITO</speaker><content>What?</content></utterance>
+<utterance uid="28-6"><speaker>ESPOSITO</speaker><content>Castle’s wedding tux?</content></utterance>
+<utterance uid="28-7"><speaker>BECKETT</speaker><content>Castle’s awake.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>MARTHA</speaker><content>It’s wonderful news. The doctor just told me Richard will make a full recovery.  Oh, I am so relieved. Oh, and I was right there when Richard started to wake up. First thing he did was ask for you.</content></utterance>
+<utterance uid="29-2"><speaker>BECKETT</speaker><content>Did he say where he had been?</content></utterance>
+<utterance uid="29-3"><speaker>MARTHA</speaker><content>We don’t know what he’s been through, so perhaps that question can wait.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>RICHARD CASTLE</speaker><content>Hey.</content></utterance>
+<utterance uid="30-2"><speaker>BECKETT</speaker><content>Hey.</content></utterance>
+<utterance uid="30-3"><speaker>CASTLE</speaker><content>Just so you know, the doctor said that kissing will speed my recovery.</content></utterance>
+<utterance uid="30-4"><speaker>BECKETT</speaker><content>Kissing can wait, Castle.</content></utterance>
+<utterance uid="30-5"><speaker>CASTLE</speaker><content>Right. Sorry. I guess I put a little kink in our wedding plans.</content></utterance>
+<utterance uid="30-6"><speaker>BECKETT</speaker><content>Is that supposed to be a joke?</content></utterance>
+<utterance uid="30-7"><speaker>CASTLE</speaker><content>What do you mean?</content></utterance>
+<utterance uid="30-8"><speaker>BECKETT</speaker><content>I mean, tell me what happened.</content></utterance>
+<utterance uid="30-9"><speaker>CASTLE</speaker><content>I was on my way to the wedding and this black SUV –</content></utterance>
+<utterance uid="30-10"><speaker>BECKETT</speaker><content>No, no. After that.</content></utterance>
+<utterance uid="30-11"><speaker>CASTLE</speaker><content>After the accident?</content></utterance>
+<utterance uid="30-12"><speaker>BECKETT</speaker><content>Yes, after the accident.</content></utterance>
+<utterance uid="30-13"><speaker>CASTLE</speaker><content> I was here.</content></utterance>
+<utterance uid="30-14"><speaker>BECKETT</speaker><content>No, before here, Castle. You were found in a boat at sea. A boat that you apparently stole?</content></utterance>
+<utterance uid="30-15"><speaker>CASTLE</speaker><content>What are you talking about? A boat? No, I was in a crash. With a black SUV. And then I woke up here.</content></utterance>
+<utterance uid="30-16"><speaker>BECKETT</speaker><content>No, tell me what happened in between.</content></utterance>
+<utterance uid="30-17"><speaker>CASTLE</speaker><content>Nothing! I mean, I – I don’t know. I was unconscious.</content></utterance>
+<utterance uid="30-18"><speaker>BECKETT</speaker><content>So the black SUV and waking up here. That’s all you remember?</content></utterance>
+<utterance uid="30-19"><speaker>CASTLE</speaker><content>Yes, right. Why?</content></utterance>
+<utterance uid="30-20"><speaker>BECKETT</speaker><content>You’ve been missing for two months.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>BECKETT</speaker><content>What do you think is going on with him?</content></utterance>
+<utterance uid="31-2"><speaker>BECKETT</speaker><content>So is is possible that he underwent trauma and he’s blocking it out?</content></utterance>
+<utterance uid="31-3"><speaker>ALEXIS</speaker><content>Maybe his memory will come back once he’s had some time to readjust.</content></utterance>
+<utterance uid="31-4"><speaker>MARTHA</speaker><content>Then what he needs, maybe, is to get back to his life, his routine, the people who love him. Can’t we just take him home?</content></utterance>
+<utterance uid="31-5"><speaker>MARTHA</speaker><content>Of course, of course. Thank you very much.</content></utterance>
+<utterance uid="31-6"><speaker>BECKETT</speaker><content>Dr. Swann? What do you think is really behind all of this?</content></utterance>
+<utterance uid="31-7"><speaker>BECKETT</speaker><content>But what?</content></utterance>
+<utterance uid="31-8"><speaker>BECKETT</speaker><content>So you think that he could be pretending not to remember?</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>CASTLE</speaker><content>To say I owe you an apology seems an understatement.</content></utterance>
+<utterance uid="32-2"><speaker>BECKETT</speaker><content>I don’t want an apology, Castle. I just want to understand.</content></utterance>
+<utterance uid="32-3"><speaker>CASTLE</speaker><content>You know me, Kate. I wouldn’t just leave.</content></utterance>
+<utterance uid="32-4"><speaker>BECKETT</speaker><content>There’s evidence. We found the place where you were staying.</content></utterance>
+<utterance uid="32-5"><speaker>CASTLE</speaker><content>Where?</content></utterance>
+<utterance uid="32-6"><speaker>BECKETT</speaker><content>What difference does it make?</content></utterance>
+<utterance uid="32-7"><speaker>CASTLE</speaker><content>Because I want to go there. Maybe it will help me remember. Whatever happens, I need answers. And so do you.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>RYAN</speaker><content>I don’t get it. How could Castle just leave and go camping?</content></utterance>
+<utterance uid="33-2"><speaker>ESPOSITO</speaker><content>What happened to giving him the benefit of the doubt?</content></utterance>
+<utterance uid="33-3"><speaker>RYAN</speaker><content>Beckett asked me to have CSU take a look at the contents of the tent. Javi, you were right. Castle’s fingerprints were all over the newspaper. All that stuff. Hair, DNA. I can’t explain that away. Not this time.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>CASTLE</speaker><content>It kind of reminds me of the Hamptons, or Maine, but I’m pretty sure I’ve never been here.</content></utterance>
+<utterance uid="34-2"><speaker>BECKETT</speaker><content>Okay, this is it. This is where your tent was.</content></utterance>
+<utterance uid="34-3"><speaker>CASTLE</speaker><content> No, none of this looks familiar.</content></utterance>
+<utterance uid="34-4"><speaker>BECKETT</speaker><content>Castle, just tell me the truth. You owe me that much.</content></utterance>
+<utterance uid="34-5"><speaker>CASTLE</speaker><content>I am telling you the truth. I was not here.</content></utterance>
+<utterance uid="34-6"><speaker>BECKETT</speaker><content>Well, your clothes were here. Your watch was here. Your tuxedo. The one that you were going to wear when you married … me.</content></utterance>
+<utterance uid="34-7"><speaker>CASTLE</speaker><content>It must have been planted here. You know, along with –</content></utterance>
+<utterance uid="34-8"><speaker>BECKETT</speaker><content>Nothing was planted, Castle. It was you. It was your DNA, your prints.</content></utterance>
+<utterance uid="34-9"><speaker>CASTLE</speaker><content>It must have been a mistake at the lab. There have been numerous cases –</content></utterance>
+<utterance uid="34-10"><speaker>BECKETT</speaker><content>I believed in you. I – I convinced myself that the evidence didn’t matter, that everything that seemed so obvious couldn’t possibly be true. I was searching for you. I didn’t even know if you were alive, or if you were dead, and you were right here, right where you wanted to be.</content></utterance>
+<utterance uid="34-11"><speaker>CASTLE</speaker><content>I promise you. I did not pitch a tent here. I could not have.</content></utterance>
+<utterance uid="34-12"><speaker>BECKETT</speaker><content>I saw it for myself, Castle.</content></utterance>
+<utterance uid="34-13"><speaker>CASTLE</speaker><content>I would not camp in this spot. Not after the research I did on Tropical Storm.</content></utterance>
+<utterance uid="34-14"><speaker>BECKETT</speaker><content>I can’t even do this with you.</content></utterance>
+<utterance uid="34-15"><speaker>CASTLE</speaker><content>Hey, wait. Listen.</content></utterance>
+<utterance uid="34-16"><speaker>BECKETT</speaker><content>You never wrote a book called Tropical Storm, Castle.</content></utterance>
+<utterance uid="34-17"><speaker>CASTLE</speaker><content>Kate, wait.</content></utterance>
+<utterance uid="34-18"><speaker>CASTLE</speaker><content>Listen. I started the book. I threw it out. It was … supervillain controls the weather … it was – it was terrible. But the research I did on catastrophic storms stuck with me, leaving me with an irrational but overpowering fear of tsunamis.</content></utterance>
+<utterance uid="34-19"><speaker>BECKETT</speaker><content>You bought a beach house in the Hamptons.</content></utterance>
+<utterance uid="34-20"><speaker>CASTLE</speaker><content>Yeah, on the inland side. Not on the ocean side.</content></utterance>
+<utterance uid="34-21"><speaker>CASTLE</speaker><content>Kate. I would never camp here. I would go for higher ground.</content></utterance>
+<utterance uid="34-22"><speaker>BECKETT</speaker><content> Castle … there was a witness.</content></utterance>
+<utterance uid="34-23"><speaker>CASTLE</speaker><content>What witness?</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>MAN</speaker><content>Can I help you?</content></utterance>
+<utterance uid="35-2"><speaker>BECKETT</speaker><content>Yeah. NYPD.  I’m here to see Henry Jenkins.</content></utterance>
+<utterance uid="35-3"><speaker>MAN</speaker><content>Well, I’m Henry Jenkins.</content></utterance>
+<utterance uid="35-4"><speaker>BECKETT</speaker><content>I’m sorry. I was here yesterday and I met a different Henry Jenkins.</content></utterance>
+<utterance uid="35-5"><speaker>MAN</speaker><content>What do you mean? I’m Henry Jenkins, and I haven’t been here in months.</content></utterance>
+</scene>
+
+<scene id="36"><utterance uid="36-1"><speaker>BECKETT</speaker><content>We ran prints and passport. He is definitely the real Henry Jenkins.</content></utterance>
+<utterance uid="36-2"><speaker>CASTLE</speaker><content>Which means the first guy was a fake Jenkins. Also a liar.</content></utterance>
+<utterance uid="36-3"><speaker>ESPOSITO</speaker><content>But he matched the DMV photo.</content></utterance>
+<utterance uid="36-4"><speaker>CASTLE</speaker><content>That’s because his photo got switched. When we called the DMV, they realized their system had been hacked two days ago, right after the news broke that I’d been found.</content></utterance>
+<utterance uid="36-5"><speaker>RYAN</speaker><content>What about all your stuff in the tent?</content></utterance>
+<utterance uid="36-6"><speaker>BECKETT</speaker><content>Well, it looks like it was all set up in order to create a false trail.</content></utterance>
+<utterance uid="36-7"><speaker>ESPOSITO</speaker><content>So why don’t you remember anything?</content></utterance>
+<utterance uid="36-8"><speaker>CASTLE</speaker><content>These people have managed to make it look like I staged my own abduction. They hacked the DMV, they provided a false Jenkins who pointed you to doctored evidence that I’d gone camping. Whoever they are? They have unlimited resources. Maybe the kind of resources that would allow them to alter someone’s memory.</content></utterance>
+<utterance uid="36-9"><speaker>ESPOSITO</speaker><content>What about the money?</content></utterance>
+<utterance uid="36-10"><speaker>CASTLE</speaker><content>What money?</content></utterance>
+<utterance uid="36-11"><speaker>ESPOSITO</speaker><content>We have you on video dropping off ten thousand dollars in a dumpster. After you were taken.</content></utterance>
+<utterance uid="36-12"><speaker>CASTLE</speaker><content>I can’t explain the money. Yet. But I will, and fake Jenkins was part of the setup. So whoever he is, he’s somehow in the middle of this.</content></utterance>
+</scene>
+
+<scene id="37"><utterance uid="37-1"><speaker>MARTHA</speaker><content>Here you go, darling.</content></utterance>
+<utterance uid="37-2"><speaker>CASTLE</speaker><content>Thank you, Mother. And let me just say, in the immortal words of Dorothy, there’s no place like home.</content></utterance>
+<utterance uid="37-3"><speaker>ALEXIS</speaker><content>Here’s what I don’t get. Why would someone do this to you, Dad? Where did you actually go for two months?</content></utterance>
+<utterance uid="37-4"><speaker>CASTLE</speaker><content>Well, those answers lie within the vast, insidious conspiracy behind all of this. The tangled web that I fully intend to untangle.</content></utterance>
+<utterance uid="37-5"><speaker>MARTHA</speaker><content>Enough of that. I’d like to propose a toast. To safe returns.</content></utterance>
+<utterance uid="37-6"><speaker>ALEXIS</speaker><content>And to no more departures.</content></utterance>
+<utterance uid="37-7"><speaker>CASTLE</speaker><content>And to my amazing mother, my wonderful daughter, and the love of my life.</content></utterance>
+<utterance uid="37-8"><speaker>BECKETT</speaker><content>And to coming home.</content></utterance>
+</scene>
+<scene id="38"><utterance uid="38-1"><speaker>BECKETT</speaker><content>We’ll find out what happened.</content></utterance>
+<utterance uid="38-2"><speaker>CASTLE</speaker><content>I know. I was just thinking … I feel like I just wore this yesterday. That we slept in this bed last night. But for you it must seem like a lifetime ago.</content></utterance>
+<utterance uid="38-3"><speaker>BECKETT</speaker><content>Yeah, it does.</content></utterance>
+<utterance uid="38-4"><speaker>CASTLE</speaker><content>How did you not lose hope?</content></utterance>
+<utterance uid="38-5"><speaker>BECKETT</speaker><content>I did lose hope, you know. But I – I would get it back. Developed rituals in order to hang on to it.</content></utterance>
+<utterance uid="38-6"><speaker>CASTLE</speaker><content>Like what?</content></utterance>
+<utterance uid="38-7"><speaker>BECKETT</speaker><content>It’s … stupid. It really doesn’t matter.</content></utterance>
+<utterance uid="38-8"><speaker>CASTLE</speaker><content>No, I’d like to know.</content></utterance>
+<utterance uid="38-9"><speaker>BECKETT</speaker><content>I would stare at your photo on the murder board. And I started thinking that if I would look at it long enough every day, that that would keep you alive.</content></utterance>
+<utterance uid="38-10"><speaker>CASTLE</speaker><content>I guess it worked.</content></utterance>
+<utterance uid="38-11"><speaker>BECKETT</speaker><content>And then I had this thing about your chair.</content></utterance>
+<utterance uid="38-12"><speaker>CASTLE</speaker><content>My chair at the precinct?</content></utterance>
+<utterance uid="38-13"><speaker>BECKETT</speaker><content>I wouldn’t let anyone touch it. And the night janitor came by, he tried to move the chair, and I freaked out. I almost shot him.</content></utterance>
+<utterance uid="38-14"><speaker>CASTLE</speaker><content>I am so sorry. For everything that I put you through.</content></utterance>
+<utterance uid="38-15"><speaker>BECKETT</speaker><content>It’s not your fault, you know, you went through stuff, too, so …</content></utterance>
+<utterance uid="38-16"><speaker>CASTLE</speaker><content>Well, it’s not the same. I can’t remember. Though I do know I missed you terribly. Because there’s no way I wouldn’t.</content></utterance>
+<utterance uid="38-17"><speaker>CASTLE</speaker><content>We can’t just, um… pick up where we left off, can we? As if nothing happened.</content></utterance>
+<utterance uid="38-18"><speaker>BECKETT</speaker><content> No.</content></utterance>
+<utterance uid="38-19"><speaker>CASTLE</speaker><content>We’ll get there. We’ll find our way home.</content></utterance>
+</scene>
+</script>

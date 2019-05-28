@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+
+<scene id="1"><utterance uid="1-1"><speaker>MYRNA RAMSEY</speaker><content>Mr. McHugh. Mrs. McHugh. Your support has helped us make this a world class institution. We have such amazing plans for the new season. I’ll have Mr. Hayes tell you all about the exciting exhibits still available for sponsorship.</content></utterance>
+<utterance uid="1-2"><speaker>MYRNA</speaker><content> Where is he?</content></utterance>
+<utterance uid="1-3"><speaker>MYRNA</speaker><content> Go get him.</content></utterance>
+<utterance uid="1-4"><speaker>MYRNA</speaker><content> I’m sure Mr. Hayes will be here any second.</content></utterance>
+<utterance uid="1-5"><speaker>ALYSSA</speaker><content> Myrna is freaking out, Owen. Where is Mr. Hayes?</content></utterance>
+<utterance uid="1-6"><speaker>OWEN</speaker><content>He’s not in the West Gallery. I’m about to look in the men’s room. Just keep looking for him.</content></utterance>
+<utterance uid="1-7"><speaker>ALYSSA</speaker><content>Uh, excuse me.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>MARTHA RODGERS</speaker><content>Darling.</content></utterance>
+<utterance uid="2-2"><speaker>RICHARD CASTLE</speaker><content>One second. I’m just about to toss a guy off the Brooklyn Bridge.</content></utterance>
+<utterance uid="2-3"><speaker>MARTHA</speaker><content>Oh, I am sure that … Carter Damien would appreciate a short reprieve.</content></utterance>
+<utterance uid="2-4"><speaker>CASTLE</speaker><content>Too late. He just went kersplat.  Now… how can I help you?</content></utterance>
+<utterance uid="2-5"><speaker>MARTHA</speaker><content>I’ve invited my acting class to come here Friday night to do the Nora scenes from A Doll’s House.</content></utterance>
+<utterance uid="2-6"><speaker>CASTLE</speaker><content>Thank you for the warning, I will make myself scarce.</content></utterance>
+<utterance uid="2-7"><speaker>MARTHA</speaker><content>No, no, no, darling. This class could really benefit from your perspective, as a, as a writer. No, you definitely should be here.</content></utterance>
+<utterance uid="2-8"><speaker>CASTLE</speaker><content>Mother, what’s going on?</content></utterance>
+<utterance uid="2-9"><speaker>MARTHA</speaker><content>There’s a lovely girl in the class –</content></utterance>
+<utterance uid="2-10"><speaker>CASTLE</speaker><content>Oh.</content></utterance>
+<utterance uid="2-11"><speaker>MARTHA</speaker><content>And I just thought maybe –</content></utterance>
+<utterance uid="2-12"><speaker>CASTLE</speaker><content>Oh Mother, you’re not trying to fix me up again. Haven’t you learned your lesson after the last fiasco?</content></utterance>
+<utterance uid="2-13"><speaker>MARTHA</speaker><content>Fiasco? You married her.</content></utterance>
+<utterance uid="2-14"><speaker>CASTLE</speaker><content>Yes, and how did that marriage end?</content></utterance>
+<utterance uid="2-15"><speaker>MARTHA</speaker><content>Honey, I am just trying to help you. You have to admit that your social life has been a bit anemic as of late.</content></utterance>
+<utterance uid="2-16"><speaker>CASTLE</speaker><content>And now I want to throw myself off the Brooklyn Bridge.</content></utterance>
+<utterance uid="2-17"><speaker>MARTHA</speaker><content>Ah, darling. All you have been doing for the last few months is writing and working with Beckett. Now, I think a fix up is in order. Unless …</content></utterance>
+<utterance uid="2-18"><speaker>CASTLE</speaker><content>Unless?</content></utterance>
+<utterance uid="2-19"><speaker>MARTHA</speaker><content>You have some reason for not putting yourself out there.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>KATE BECKETT</speaker><content>Getting ready for your close up, Castle?</content></utterance>
+<utterance uid="3-2"><speaker>CASTLE</speaker><content>No, just trying to discern the hidden meaning. Is it about the rise of technology, rampant narcissism, or did someone just have a lot of extra TVs?</content></utterance>
+<utterance uid="3-3"><speaker>BECKETT</speaker><content>Well, sometimes you don’t need to know what it’s about. Sometimes it’s just … art.</content></utterance>
+<utterance uid="3-4"><speaker>CASTLE</speaker><content>Why Detective Beckett, how existential of you. Let me guess. Art theory in college?</content></utterance>
+<utterance uid="3-5"><speaker>BECKETT</speaker><content>No. The closest I came to taking an art class was posing for one, as a model.</content></utterance>
+<utterance uid="3-6"><speaker>CASTLE</speaker><content>Wait .. .posing in…?</content></utterance>
+<utterance uid="3-7"><speaker>BECKETT</speaker><content>Not a stitch.</content></utterance>
+<utterance uid="3-8"><speaker>JAVIER ESPOSITO</speaker><content>Meet Brian Hayes. 39. Executive director of the museum.</content></utterance>
+<utterance uid="3-9"><speaker>CASTLE</speaker><content>Looks like somebody gave him liberty and gave him death.</content></utterance>
+<utterance uid="3-10"><speaker>BECKETT</speaker><content>Any idea when this happened?</content></utterance>
+<utterance uid="3-11"><speaker>ESPOSITO</speaker><content>Hayes was last seen at 10:00 by a Myrna Ramsey, museum’s development director. His body was discovered at 10:21, so the killer must have struck sometime within that window.</content></utterance>
+<utterance uid="3-12"><speaker>BECKETT</speaker><content>Killing him during the gala. That’s pretty ballsy.</content></utterance>
+<utterance uid="3-13"><speaker>ESPOSITO</speaker><content>My money’s on he walked in on the other crime being committed here tonight.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>MYRNA</speaker><content>It’s called the Fist of Capitalism, a searing indictment of our consumer driven culture.</content></utterance>
+<utterance uid="4-2"><speaker>CASTLE</speaker><content> Somebody stole the Fist of Capitalism? Anyone check up the ass of socialism?</content></utterance>
+<utterance uid="4-3"><speaker>BECKETT</speaker><content>How much was it worth, Mrs. Ramsey?</content></utterance>
+<utterance uid="4-4"><speaker>MYRNA</speaker><content>Fifty million. The diamonds alone were worth thirty.</content></utterance>
+<utterance uid="4-5"><speaker>MYRNA</speaker><content>The Fist was on loan to us. Mr. Hayes assured the owners it would be safe.</content></utterance>
+<utterance uid="4-6"><speaker>BECKETT</speaker><content>You know, I noticed that you have cameras, so there’s obviously a security system. Why wasn’t the alarm triggered?</content></utterance>
+<utterance uid="4-7"><speaker>MYRNA</speaker><content>It should have been, the moment anyone stepped into this room. My security team is trying to determine why it wasn’t.</content></utterance>
+<utterance uid="4-8"><speaker>BECKETT</speaker><content>Okay, well, we’ll need a list of all the people who attended the gala along with the videos from the cameras.</content></utterance>
+<utterance uid="4-9"><speaker>MYRNA</speaker><content>Of course.</content></utterance>
+<utterance uid="4-10"><speaker>BECKETT</speaker><content>We’ll also need to talk to whoever found the body.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>ALYSSA</speaker><content>I can’t believe this. This is the worst day of my life.</content></utterance>
+<utterance uid="5-2"><speaker>KEVIN RYAN</speaker><content>Were you close to Mr. Hayes, Alyssa?</content></utterance>
+<utterance uid="5-3"><speaker>ALYSSA</speaker><content>We worked together. I helped him curate this exhibit. He was a lovely man and very supportive of young artists like me.</content></utterance>
+<utterance uid="5-4"><speaker>RYAN</speaker><content>Oh, so you’re an artist?</content></utterance>
+<utterance uid="5-5"><speaker>ALYSSA</speaker><content>This is my day job. Art is my passion. Mr. Hayes even put one of my sculptures in the exhibit.</content></utterance>
+<utterance uid="5-6"><speaker>RYAN</speaker><content>Did Mr. Hayes have any family?</content></utterance>
+<utterance uid="5-7"><speaker>ALYSSA</speaker><content>A mother in .. Idaho, I think?</content></utterance>
+<utterance uid="5-8"><speaker>RYAN</speaker><content>So … Mr. Hayes was supposed to work the crowd tonight, right? What do you think he was doing over here?</content></utterance>
+<utterance uid="5-9"><speaker>ALYSSA</speaker><content>I know he was worried about the Fist of Capitalism. Especially with the gala, and the people, and all the distractions.</content></utterance>
+<utterance uid="5-10"><speaker>RYAN</speaker><content>Wait. Are you saying he was worried someone might steal the Fist?</content></utterance>
+<utterance uid="5-11"><speaker>ALYSSA</speaker><content>Ever since I got here. He even reviewed the security video of the Fist, going back two weeks to when we first put it on display. I thought he was being paranoid, but .. I guess he knew something I didn’t.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>CASTLE</speaker><content>Fifty million dollars. That’s why Hayes was AWOL from the gala. He came to check on the Fist.</content></utterance>
+<utterance uid="6-2"><speaker>BECKETT</speaker><content>But the thief was already on his way out with it.</content></utterance>
+<utterance uid="6-3"><speaker>CASTLE</speaker><content>Through this gallery, which put him on a collision course with Hayes.</content></utterance>
+<utterance uid="6-4"><speaker>BECKETT</speaker><content>So Hayes confronts him, they struggle, and Hayes gets pushed into the spikes.</content></utterance>
+<utterance uid="6-5"><speaker>CASTLE</speaker><content>And at that moment, our thief becomes a killer.</content></utterance>
+<utterance uid="6-6"><speaker>BECKETT</speaker><content>A killer who gains access to the museum through the gala.</content></utterance>
+<utterance uid="6-7"><speaker>SERENA KAYE</speaker><content>That’s not likely. All arriving guests were screened at two security checkpoints and then greeted by board members who knew them personally. Odds are, the thief came in through the roof. An air vent, probably, and then disabled the alarms.</content></utterance>
+<utterance uid="6-8"><speaker>BECKETT</speaker><content>I’m sorry, who are you?</content></utterance>
+<utterance uid="6-9"><speaker>SERENA</speaker><content>I’m Serena Kaye, the museum’s insurance investigator.</content></utterance>
+<utterance uid="6-10"><speaker>BECKETT</speaker><content>So if the thief got in through the vent, how did he get out?</content></utterance>
+<utterance uid="6-11"><speaker>SERENA</speaker><content>The loading bay. The guards there checked everyone entering, but they didn’t check people leaving. Plus, the bay was full of catering vans. He could have just had one waiting for him and just blended right in.</content></utterance>
+<utterance uid="6-12"><speaker>CASTLE</speaker><content>Oh, she’s good.</content></utterance>
+<utterance uid="6-13"><speaker>BECKETT</speaker><content>At theory. But what about proof?</content></utterance>
+<utterance uid="6-14"><speaker>SERENA</speaker><content>I don’t need proof to know that I’m right. It’s my job. And, I can help you with yours.</content></utterance>
+<utterance uid="6-15"><speaker>BECKETT</speaker><content>How so?</content></utterance>
+<utterance uid="6-16"><speaker>SERENA</speaker><content>I get a 1% finders fee for recovering stolen objects. I want that Fist. You want your murderer. We have common goals. I could consult on your case and share my insight.</content></utterance>
+<utterance uid="6-17"><speaker>CASTLE</speaker><content>You know, that is an intriguing idea.</content></utterance>
+<utterance uid="6-18"><speaker>BECKETT</speaker><content>No, thank you, that won’t be necessary.</content></utterance>
+<utterance uid="6-19"><speaker>SERENA</speaker><content>Well, you can’t blame a girl for trying. Mr. Castle, Detective Beckett.</content></utterance>
+<utterance uid="6-20"><speaker>CASTLE</speaker><content>You know, we really could have used her. She has valuable assets.</content></utterance>
+<utterance uid="6-21"><speaker>CASTLE</speaker><content>Not those kind.</content></utterance>
+<utterance uid="6-22"><speaker>BECKETT</speaker><content>Castle, she’d just get in the way.</content></utterance>
+<utterance uid="6-23"><speaker>CASTLE</speaker><content>Really. And what if she’s on to something?</content></utterance>
+<utterance uid="6-24"><speaker>BECKETT</speaker><content> Ryan, check and see if all the catering vans are accounted for and interview all the catering staff. See if anyone saw anything unusual in the loading bay.</content></utterance>
+<utterance uid="6-25"><speaker>CASTLE</speaker><content> Now, was that so hard?</content></utterance>
+</scene>
+
+<scene id="7"><utterance uid="7-1"><speaker>CASTLE</speaker><content>So for reasons unknown, Hayes thought someone might swipe the Fist of Capitalism. We don’t know why, but he goes to check on it and ends up paying for it with his life.</content></utterance>
+<utterance uid="7-2"><speaker>BECKETT</speaker><content>Yeah, except as it turns out, that’s not what the security video shows.</content></utterance>
+<utterance uid="7-3"><speaker>CASTLE</speaker><content>What does it show?</content></utterance>
+<utterance uid="7-4"><speaker>BECKETT</speaker><content>The Fist, sitting there, undisturbed, in the gallery. The thief tapped into the camera lines and rigged a prerecorded loop. There’s no prints, but CSU did find what they think is hair gel.</content></utterance>
+<utterance uid="7-5"><speaker>CASTLE</speaker><content>Hair gel? Where would they find that?</content></utterance>
+<utterance uid="7-6"><speaker>BECKETT</speaker><content>In the air duct.</content></utterance>
+<utterance uid="7-7"><speaker>CASTLE</speaker><content>In the air duct! That’s what Serena –</content></utterance>
+<utterance uid="7-8"><speaker>BECKETT</speaker><content>It’s a lucky guess.</content></utterance>
+<utterance uid="7-9"><speaker>RYAN</speaker><content>So was the call on the loading bay.</content></utterance>
+<utterance uid="7-10"><speaker>BECKETT</speaker><content>What do you mean?</content></utterance>
+<utterance uid="7-11"><speaker>RYAN</speaker><content>Two of the caterers recall seeing a blue Astro van parked there, the same color as the catering vans, but without the company logo.</content></utterance>
+<utterance uid="7-12"><speaker>CASTLE</speaker><content>Imagine that.</content></utterance>
+<utterance uid="7-13"><speaker>BECKETT</speaker><content>Did we get a description on anyone in the van?</content></utterance>
+<utterance uid="7-14"><speaker>RYAN</speaker><content>No, but I put an APB out on it.</content></utterance>
+<utterance uid="7-15"><speaker>CAPTAIN GATES</speaker><content>Beckett!</content></utterance>
+<utterance uid="7-16"><speaker>RYAN</speaker><content>Oh great, what did you do now?</content></utterance>
+<utterance uid="7-17"><speaker>BECKETT</speaker><content>Shut up.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>GATES</speaker><content>Detective, I believe you’ve met Serena Kaye.</content></utterance>
+<utterance uid="8-2"><speaker>SERENA</speaker><content>Hello again.</content></utterance>
+<utterance uid="8-3"><speaker>BECKETT</speaker><content>What are you doin’ … here?</content></utterance>
+<utterance uid="8-4"><speaker>GATES</speaker><content>Ms. Kaye has presented me with a very compelling proposal.</content></utterance>
+<utterance uid="8-5"><speaker>BECKETT</speaker><content>Yeah, I am familiar with her proposal.</content></utterance>
+<utterance uid="8-6"><speaker>GATES</speaker><content>Difference is, I like what I heard.</content></utterance>
+<utterance uid="8-7"><speaker>BECKETT</speaker><content>Captain Gates, I –</content></utterance>
+<utterance uid="8-8"><speaker>GATES</speaker><content>She has expertise which she can bring to bear as a consultant on this case.</content></utterance>
+<utterance uid="8-9"><speaker>BECKETT</speaker><content> Sir, I prefer working with my team.</content></utterance>
+<utterance uid="8-10"><speaker>GATES</speaker><content>Which includes a consultant with no expertise in anything? Serena will be a value add, for a change.</content></utterance>
+<utterance uid="8-11"><speaker>SERENA</speaker><content>I look forward to working with you.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>BECKETT</speaker><content>I will give you this, you’ve got some gigantic balls.</content></utterance>
+<utterance uid="9-2"><speaker>SERENA</speaker><content>What I said about the thief, did I turn out to be right?</content></utterance>
+<utterance uid="9-3"><speaker>SERENA</speaker><content>I’m about results, Detective. This is the best way for both of us to get what we want. Think of it as a merger.</content></utterance>
+<utterance uid="9-4"><speaker>BECKETT</speaker><content>More like a hostile takeover. I’ll have Detective Ryan bring you up to speed.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>RYAN</speaker><content>He bypassed security cameras here, and here. Then, near as we can figure, he left via the loading bay in a blue van.</content></utterance>
+<utterance uid="10-2"><speaker>RYAN</speaker><content>And, uh, that’s … pretty much where we are.</content></utterance>
+<utterance uid="10-3"><speaker>CASTLE</speaker><content>What about the security footage that Hayes was looking at from two weeks ago? If the killer had cased out the exhibit, maybe he’s on that video.</content></utterance>
+<utterance uid="10-4"><speaker>RYAN</speaker><content>Hmm. Well, see, that - that’s the problem, because security downloads all the footage into flash drives and Hayes checked out one of the flash drives but now, it’s missing. It wasn’t in his office and it wasn’t on his body, either.</content></utterance>
+<utterance uid="10-5"><speaker>CASTLE</speaker><content>Maybe the killer took it. Because he’s on it.</content></utterance>
+<utterance uid="10-6"><speaker>RYAN</speaker><content>Hmm.</content></utterance>
+<utterance uid="10-7"><speaker>SERENA</speaker><content>So what’s our next move?</content></utterance>
+<utterance uid="10-8"><speaker>BECKETT</speaker><content>Major case squad sent in a list of all of the fences that might be interested in a piece like the Fist, and so we are looking into that, now.</content></utterance>
+<utterance uid="10-9"><speaker>SERENA</speaker><content>The Fist is too hot to handle now that there’s a body on it, so the thief may try to fence off the diamonds, but he won’t do business with anyone on that list. Anyone on it is yesterday’s news.</content></utterance>
+<utterance uid="10-10"><speaker>BECKETT</speaker><content>Well, do you have a better idea?</content></utterance>
+<utterance uid="10-11"><speaker>ESPOSITO</speaker><content>Yo, guys, I found something. I was going over security –</content></utterance>
+<utterance uid="10-12"><speaker>CASTLE</speaker><content>Oh, Detective Esposito, this is Serena Kaye. She’s with us.</content></utterance>
+<utterance uid="10-13"><speaker>ESPOSITO</speaker><content>Okay.  Anyhow, uh, we found these clamped to the wires on the security system. It basically cancels out the alarm signals before they reach the computer. It’s called an ISI or –</content></utterance>
+<utterance uid="10-14"><speaker>SERENA</speaker><content>An inductive signal interrupter.</content></utterance>
+<utterance uid="10-15"><speaker>SERENA</speaker><content>It’s custom made. I recognize it.</content></utterance>
+<utterance uid="10-16"><speaker>BECKETT</speaker><content>From where?</content></utterance>
+<utterance uid="10-17"><speaker>SERENA</speaker><content>From a report I read. On the 1992 Vermeer theft in Brussels. The same thief used these to steal a dozen other paintings. These are his signature. I know who took the Fist. It’s Falco.</content></utterance>
+<utterance uid="10-18"><speaker>BECKETT</speaker><content>Falco what? Does he have a last name?</content></utterance>
+<utterance uid="10-19"><speaker>SERENA</speaker><content>No one knows. He’s never been caught. He’s never even been photographed. He’s a top art thief in Europe, though he hasn’t worked in years. Rumor was he’d gone out of the game.</content></utterance>
+<utterance uid="10-20"><speaker>CASTLE</speaker><content>Well, nothing like fifty million dollars to pull you out of retirement.</content></utterance>
+<utterance uid="10-21"><speaker>SERENA</speaker><content>Now that we have some direction, I can get us some leads.</content></utterance>
+<utterance uid="10-22"><speaker>BECKETT</speaker><content>Great. Let’s go.</content></utterance>
+<utterance uid="10-23"><speaker>SERENA</speaker><content>You can’t come.</content></utterance>
+<utterance uid="10-24"><speaker>BECKETT</speaker><content>I’m sorry, you might have misunderstood the word ‘consultant’. This is my case.</content></utterance>
+<utterance uid="10-25"><speaker>SERENA</speaker><content>The people there won’t talk to cops. But they’ll talk to me.</content></utterance>
+<utterance uid="10-26"><speaker>BECKETT</speaker><content>Where are you going?</content></utterance>
+<utterance uid="10-27"><speaker>CASTLE</speaker><content>Uh … I’m not a cop either …</content></utterance>
+<utterance uid="10-28"><speaker>CASTLE</speaker><content>… so …</content></utterance>
+<utterance uid="10-29"><speaker>BECKETT</speaker><content>Fine.</content></utterance>
+<utterance uid="10-30"><speaker>ESPOSITO</speaker><content>She’s with us?</content></utterance>
+<utterance uid="10-31"><speaker>BECKETT</speaker><content>Let’s get in touch with Interpol. I want to find out everything we can about Falco.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>SERENA</speaker><content>You’re an interesting man, Mr. Castle. Crime fighter by day, mystery writer by night.</content></utterance>
+<utterance uid="11-2"><speaker>CASTLE</speaker><content>You’re pretty interesting yourself. So, we meeting a secret informant?</content></utterance>
+<utterance uid="11-3"><speaker>SERENA</speaker><content>Oh. I guess Beckett doesn’t just keep you around for your good looks.</content></utterance>
+<utterance uid="11-4"><speaker>SERENA</speaker><content>This place is as infamous as it is anonymous.</content></utterance>
+<utterance uid="11-5"><speaker>FINN</speaker><content>Serena. Why you been such a stranger? You don’t love me no more?</content></utterance>
+<utterance uid="11-6"><speaker>SERENA</speaker><content>Ah, Finn. I’ve been busy.</content></utterance>
+<utterance uid="11-7"><speaker>FINN</speaker><content>Busy with what? Jason Bateman over here?</content></utterance>
+<utterance uid="11-8"><speaker>CASTLE</speaker><content>Hey, that got me out of a speeding ticket once.</content></utterance>
+<utterance uid="11-9"><speaker>SERENA</speaker><content>Finn. This is time sensitive. We can play catch up later. Right now I need to know if anyone is moving D-flawless diamonds. A lot of them.</content></utterance>
+<utterance uid="11-10"><speaker>FINN</speaker><content>Time frame?</content></utterance>
+<utterance uid="11-11"><speaker>SERENA</speaker><content>They might have hit the market as early as last night.</content></utterance>
+<utterance uid="11-12"><speaker>FINN</speaker><content>These babies hot?</content></utterance>
+<utterance uid="11-13"><speaker>CASTLE</speaker><content>Like a supernova.</content></utterance>
+<utterance uid="11-14"><speaker>FINN</speaker><content>Can’t help ya.</content></utterance>
+<utterance uid="11-15"><speaker>FINN</speaker><content>Well, you know, there was a guy. Who came my way a few days ago and … real cagey like. Tried to take my temp on a piece of art covered with a crapload of D-flawless d’s.</content></utterance>
+<utterance uid="11-16"><speaker>SERENA</speaker><content>Hmm.</content></utterance>
+<utterance uid="11-17"><speaker>FINN</speaker><content>Yeah. Some sort of marble hand or something.</content></utterance>
+<utterance uid="11-18"><speaker>SERENA</speaker><content>This guy. What’d he look like?</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>ESPOSITO</speaker><content>Serena was right. Falco’s a badass. Look how fat his Interpol file is.</content></utterance>
+<utterance uid="12-2"><speaker>ESPOSITO</speaker><content>He boosted a Renoir from Pushkin in ’96 and a Monet in ’99, always using an ISI.</content></utterance>
+<utterance uid="12-3"><speaker>BECKETT</speaker><content>Doesn’t look like Falco’s killed anybody before.</content></utterance>
+<utterance uid="12-4"><speaker>ESPOSITO</speaker><content>First time for everything, I guess.</content></utterance>
+<utterance uid="12-5"><speaker>BECKETT</speaker><content>Yeah, especially when Hayes stood between him and fifty million.</content></utterance>
+<utterance uid="12-6"><speaker>ESPOSITO</speaker><content>Though according to Interpol, Falco doesn’t steal for himself. He’s more of a gun for hire. Someone wants a Picasso? He boosts it for them.</content></utterance>
+<utterance uid="12-7"><speaker>BECKETT</speaker><content>Which gives us a second path to our killer. If we can’t find Falco, then we look for whoever hired him to steal the Fist.</content></utterance>
+<utterance uid="12-8"><speaker>JOY MCHUGH</speaker><content>I’ll tell you who hired him. Anton McHugh. My son of a b*itch husband.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>JOY</speaker><content>The Fist belongs to me and Anton. We loaned it to the museum from our collection.</content></utterance>
+<utterance uid="13-2"><speaker>BECKETT</speaker><content>Why would your husband steal it?</content></utterance>
+<utterance uid="13-3"><speaker>JOY</speaker><content>To screw me over.</content></utterance>
+<utterance uid="13-4"><speaker>ESPOSITO</speaker><content>Right. But you said that he owns it.</content></utterance>
+<utterance uid="13-5"><speaker>JOY</speaker><content>He owns half of it.</content></utterance>
+<utterance uid="13-6"><speaker>BECKETT</speaker><content>You were going through a divorce.</content></utterance>
+<utterance uid="13-7"><speaker>JOY</speaker><content>Oh, we keep up appearances. Mostly because neither of us will give up the Fifth Avenue apartment.  But this? This time Anton has hit a new low.</content></utterance>
+<utterance uid="13-8"><speaker>BECKETT</speaker><content>So then you’re fighting over the Fist?</content></utterance>
+<utterance uid="13-9"><speaker>JOY</speaker><content>I think it should stay in the museum. It’s a work of art. It should be enjoyed by the public.</content></utterance>
+<utterance uid="13-10"><speaker>ESPOSITO</speaker><content>Right, but your husband’s not on board.</content></utterance>
+<utterance uid="13-11"><speaker>JOY</speaker><content>There’s an understatement. At our last meeting with our divorce attorneys, he screamed at me that he would get the Fist back by any means necessary.</content></utterance>
+<utterance uid="13-12"><speaker>BECKETT</speaker><content>Yeah, but saying that he wanted the Fist doesn’t mean that he necessarily hired someone to steal it.</content></utterance>
+<utterance uid="13-13"><speaker>JOY</speaker><content>Yes, it does. Because he’s tried to steal it before.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>BECKETT</speaker><content>Mr. McHugh, a curious incident happened two weeks ago when the Fist of Capitalism was on its way to the museum. Two men claiming to be from the moving company tried to intercept it.</content></utterance>
+<utterance uid="14-2"><speaker>ANTON MCHUGH</speaker><content>My understand is that was a bit of a mix up.</content></utterance>
+<utterance uid="14-3"><speaker>BECKETT</speaker><content>Now, there were no charges filed, but both men had long criminal histories.</content></utterance>
+<utterance uid="14-4"><speaker>ANTON</speaker><content>I had nothing to do with this. Never even so much as made contact with them.</content></utterance>
+<utterance uid="14-5"><speaker>RYAN</speaker><content>Interestingly, your divorce lawyer did. Made lots of phone calls to the men right before this mix up.</content></utterance>
+<utterance uid="14-6"><speaker>BECKETT</speaker><content>Where’s Falco?</content></utterance>
+<utterance uid="14-7"><speaker>ANTON</speaker><content>Who?</content></utterance>
+<utterance uid="14-8"><speaker>BECKETT</speaker><content>After your first failed attempt to steal the Fist you decided to hire a better class of thief. Unfortunately, he ended up killing Brian Hayes in the process.</content></utterance>
+<utterance uid="14-9"><speaker>RYAN</speaker><content>Which makes you an accessory to murder.</content></utterance>
+<utterance uid="14-10"><speaker>ANTON</speaker><content>What? You’re out of your mind. Wait a second. I bet Joy’s behind this.</content></utterance>
+<utterance uid="14-11"><speaker>BECKETT</speaker><content>Trust me, Mr. McHugh, your divorce is going to be the least of your problems if you don’t tell us where Falco is.</content></utterance>
+<utterance uid="14-12"><speaker>ANTON</speaker><content>I’d never heard of any Falco and I didn’t take the Fist, all right? Truth is, I didn’t even want the damn thing. I just wanted Joy to think I wanted it.</content></utterance>
+<utterance uid="14-13"><speaker>BECKETT</speaker><content>And why is that?</content></utterance>
+<utterance uid="14-14"><speaker>ANTON</speaker><content>I thought if I made Joy think it meant something to me, she’d give me the vineyard in Napa.</content></utterance>
+<utterance uid="14-15"><speaker>ANTON</speaker><content>Now that it’s gone, that bag of botox is going to clean me out.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>RYAN</speaker><content>So what do you think? You believe him?</content></utterance>
+<utterance uid="15-2"><speaker>BECKETT</speaker><content>Well, you know, either way we don’t have enough to subpoena McHugh’s financials to uh …</content></utterance>
+<utterance uid="15-3"><speaker>SERENA</speaker><content>Doesn’t look like Falco is working with McHugh.</content></utterance>
+<utterance uid="15-4"><speaker>BECKETT</speaker><content>Well who was he working with?</content></utterance>
+<utterance uid="15-5"><speaker>CASTLE</speaker><content>The museum’s director. Brian Hayes.</content></utterance>
+<utterance uid="15-6"><speaker>BECKETT</speaker><content>Our victim?</content></utterance>
+<utterance uid="15-7"><speaker>CASTLE</speaker><content>A man matching Hayes’ description met with Serena’s contact a few days ago asking about D-flawless diamonds.</content></utterance>
+<utterance uid="15-8"><speaker>RYAN</speaker><content>So Hayes was in on the theft? He must have hired Falco to steal the Fist.</content></utterance>
+<utterance uid="15-9"><speaker>CASTLE</speaker><content>Yeah, only Falco decided to keep it.</content></utterance>
+<utterance uid="15-10"><speaker>SERENA</speaker><content>So he murdered Hayes.</content></utterance>
+<utterance uid="15-11"><speaker>BECKETT</speaker><content>If Hayes was a coconspirator, that might lead us to Falco.  Let’s take a look at his um, financials –</content></utterance>
+<utterance uid="15-12"><speaker>RYAN</speaker><content>The usual.</content></utterance>
+<utterance uid="15-13"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="15-14"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+<utterance uid="15-15"><speaker>SERENA</speaker><content>I’ll work on some of my other sources, see if we can get a line on him.</content></utterance>
+<utterance uid="15-16"><speaker>CASTLE</speaker><content>Ooh! Another jaunt into Manhattan’s seedy underbelly? Count me in.</content></utterance>
+<utterance uid="15-17"><speaker>SERENA</speaker><content>Sorry. No need for Guy Friday on this one. I’ll just be making phone calls. Boring stuff. But I’ll catch you later?</content></utterance>
+<utterance uid="15-18"><speaker>CASTLE</speaker><content>Catch me any time.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>MARTHA</speaker><content>Really? An insurance investigator.</content></utterance>
+<utterance uid="16-2"><speaker>CASTLE</speaker><content>A sexy insurance investigator. I think she’d make a great character for my next book.</content></utterance>
+<utterance uid="16-3"><speaker>MARTHA</speaker><content>Well… you seem rather taken with her.</content></utterance>
+<utterance uid="16-4"><speaker>CASTLE</speaker><content>I find her … impressive.</content></utterance>
+<utterance uid="16-5"><speaker>MARTHA</speaker><content>What’s she like?</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>BECKETT</speaker><content>She’s an uncooperative, cocky, stubborn, know it all.</content></utterance>
+<utterance uid="17-2"><speaker>DR CARTER BURKE</speaker><content>But she is good at her job?</content></utterance>
+<utterance uid="17-3"><speaker>BECKETT</speaker><content>Well, Castle seems to think so.</content></utterance>
+<utterance uid="17-4"><speaker>BURKE</speaker><content>And that bothers you?</content></utterance>
+<utterance uid="17-5"><speaker>BECKETT</speaker><content>Yes, of course it bothers me.</content></utterance>
+<utterance uid="17-6"><speaker>BURKE</speaker><content>Why?</content></utterance>
+<utterance uid="17-7"><speaker>BECKETT</speaker><content>Because he’s supposed to be …</content></utterance>
+<utterance uid="17-8"><speaker>BURKE</speaker><content>Be what?</content></utterance>
+<utterance uid="17-9"><speaker>BECKETT</speaker><content>My partner!  I mean, he’s supposed to be on my team. He’s not supposed to be all smitten.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>CASTLE</speaker><content>Smitten? Mother, I think intrigued is a better word.</content></utterance>
+<utterance uid="18-2"><speaker>MARTHA</speaker><content>So, what’s our next move?</content></utterance>
+<utterance uid="18-3"><speaker>CASTLE</speaker><content>Move?</content></utterance>
+<utterance uid="18-4"><speaker>MARTHA</speaker><content>Oh Richard, honestly. Beckett has made it plain that she’s not available, for now. And now you’ve met this woman, she’s smart, she’s incredibly attractive, you’re intrigued by her … why not ask her out?</content></utterance>
+<utterance uid="18-5"><speaker>CASTLE</speaker><content>It’s … complicated.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>BURKE</speaker><content>Why is it complicated?</content></utterance>
+<utterance uid="19-2"><speaker>BECKETT</speaker><content>You know why it’s complicated.</content></utterance>
+<utterance uid="19-3"><speaker>BURKE</speaker><content>Only what you’ve told me.  Kate. What are you really scared of? That he won’t wait for you? Or that he will?</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>CASTLE</speaker><content>Hey.</content></utterance>
+<utterance uid="20-2"><speaker>BECKETT</speaker><content>Hey. I figured that you were with Serena.</content></utterance>
+<utterance uid="20-3"><speaker>CASTLE</speaker><content>No, she had a meeting with her bosses this morning.</content></utterance>
+<utterance uid="20-4"><speaker>BECKETT</speaker><content>Oh, so you already saw her this morning.</content></utterance>
+<utterance uid="20-5"><speaker>CASTLE</speaker><content>No, she texted me. Oh … you thought that we were …</content></utterance>
+<utterance uid="20-6"><speaker>BECKETT</speaker><content>Yeah, I mean, you know, it’s pretty obvious that she really likes you, so…</content></utterance>
+<utterance uid="20-7"><speaker>CASTLE</speaker><content>It is?</content></utterance>
+<utterance uid="20-8"><speaker>BECKETT</speaker><content>Mmhmm.</content></utterance>
+<utterance uid="20-9"><speaker>CASTLE</speaker><content>So then, you think I should … pursue it?</content></utterance>
+<utterance uid="20-10"><speaker>BECKETT</speaker><content>You know, I mean, suit yourself.</content></utterance>
+<utterance uid="20-11"><speaker>ESPOSITO</speaker><content>Yo. That uh, getaway van that the thief used? It was dumped in an alley in Queens.</content></utterance>
+<utterance uid="20-12"><speaker>BECKETT</speaker><content>Any prints?</content></utterance>
+<utterance uid="20-13"><speaker>ESPOSITO</speaker><content>Nope, wiped clean. Very professional. But CSU did find traces of that hair gel on the headrest. They’re trying to ID the manufacturer.</content></utterance>
+<utterance uid="20-14"><speaker>RYAN</speaker><content>Hey, Beckett! Got that stuff on Hayes. All during the past year the guy shelled out some major cash to pay for his mother’s long term care bills. Financially the man was deep under water.</content></utterance>
+<utterance uid="20-15"><speaker>CASTLE</speaker><content>Well, probably thought the Fist was his only solution.</content></utterance>
+<utterance uid="20-16"><speaker>RYAN</speaker><content>They also found some suspicious emails on his laptop, stuff about the museum’s security system. Tech traced them to an anonymous account.</content></utterance>
+<utterance uid="20-17"><speaker>CASTLE</speaker><content>Falco knows how to cover his tracks.</content></utterance>
+<utterance uid="20-18"><speaker>RYAN</speaker><content>One of them mentions a meeting the day before the heist.</content></utterance>
+<utterance uid="20-19"><speaker>BECKETT</speaker><content>So if we can figure out where they met, it might lead us to Falco’s identity.</content></utterance>
+<utterance uid="20-20"><speaker>RYAN</speaker><content>I’m guessing it took place sometime between 12 and 2PM, since that’s the only time Hayes left the museum.</content></utterance>
+<utterance uid="20-21"><speaker>ESPOSITO</speaker><content>Wait a minute. I’ve got something on his phone records for that day. 11:06AM he made a 1 minute phone call to Escana’s restaurant.</content></utterance>
+<utterance uid="20-22"><speaker>CASTLE</speaker><content>He was making reservations. How much you want to bet it was for two? Him and Falco.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>HOSTESS</speaker><content>Sure. I remember Mr. Hayes. Three days ago. They sat in a corner booth.</content></utterance>
+<utterance uid="21-2"><speaker>BECKETT</speaker><content>So he was here with someone?</content></utterance>
+<utterance uid="21-3"><speaker>HOSTESS</speaker><content>Definitely. The two of them were having a real intense conversation.</content></utterance>
+<utterance uid="21-4"><speaker>BECKETT</speaker><content>Do you remember what this person looked like?</content></utterance>
+<utterance uid="21-5"><speaker>HOSTESS</speaker><content>Uh, she was tall, blonde, gorgeous.</content></utterance>
+<utterance uid="21-6"><speaker>BECKETT</speaker><content>Wait, Hayes was here with a woman?</content></utterance>
+<utterance uid="21-7"><speaker>HOSTESS</speaker><content>That’s right. She was in her 30s, but still really hot.</content></utterance>
+<utterance uid="21-8"><speaker>CASTLE</speaker><content>Wait a minute.  Did she look like this.</content></utterance>
+<utterance uid="21-9"><speaker>HOSTESS</speaker><content>Yeah, that’s her.</content></utterance>
+<utterance uid="21-10"><speaker>BECKETT</speaker><content>It’s Serena.</content></utterance>
+<utterance uid="21-11"><speaker>BECKETT</speaker><content>She’s our thief.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>RYAN</speaker><content> No, no, thank you.</content></utterance>
+<utterance uid="22-2"><speaker>RYAN</speaker><content>Hey, just got off with the insurance agency. Guess what Serena did before she worked for them?</content></utterance>
+<utterance uid="22-3"><speaker>CASTLE</speaker><content>Kindergarten teacher.</content></utterance>
+<utterance uid="22-4"><speaker>ESPOSITO</speaker><content>Art thief.</content></utterance>
+<utterance uid="22-5"><speaker>RYAN</speaker><content>Alleged art thief.</content></utterance>
+<utterance uid="22-6"><speaker>ESPOSITO</speaker><content>Whatever.</content></utterance>
+<utterance uid="22-7"><speaker>RYAN</speaker><content>Suspected of pulling off some major jobs between ’01 and ’06. Prado, Uffizi, Houston, but they could never pin anything on her.</content></utterance>
+<utterance uid="22-8"><speaker>BECKETT</speaker><content>Well, how the hell did she end up working insurance?</content></utterance>
+<utterance uid="22-9"><speaker>ESPOSITO</speaker><content>About five years ago she went to the company and said she wanted to make good. Even told them where they were going wrong with their security.</content></utterance>
+<utterance uid="22-10"><speaker>BECKETT</speaker><content>Let me guess. She told them that they should all work together.</content></utterance>
+<utterance uid="22-11"><speaker>CASTLE</speaker><content>Well, at least she’s consistent.</content></utterance>
+<utterance uid="22-12"><speaker>BECKETT</speaker><content>And nostalgic. Looks like she’s up to her old tricks again.</content></utterance>
+<utterance uid="22-13"><speaker>RYAN</speaker><content>Only now she’s added a new one. Murder.</content></utterance>
+<utterance uid="22-14"><speaker>BECKETT</speaker><content>That’s why she knew how the thief got into the museum. She was the thief.</content></utterance>
+<utterance uid="22-15"><speaker>ESPOSITO</speaker><content>And then she partnered up with us to steer us to the mythical Falco.</content></utterance>
+<utterance uid="22-16"><speaker>CASTLE</speaker><content>She played me.</content></utterance>
+<utterance uid="22-17"><speaker>BECKETT</speaker><content>Don’t worry, Castle. You’re not the only one.</content></utterance>
+<utterance uid="22-18"><speaker>GATES</speaker><content>She’s in on it?</content></utterance>
+<utterance uid="22-19"><speaker>BECKETT</speaker><content>Uh… we’re not exactly sure, sir, but the evidence suggests –</content></utterance>
+<utterance uid="22-20"><speaker>GATES</speaker><content>I want her in custody, Detective. Now.</content></utterance>
+<utterance uid="22-21"><speaker>BECKETT</speaker><content>Our case is circumstantial.</content></utterance>
+<utterance uid="22-22"><speaker>GATES</speaker><content>Get something concrete. I will not have this department publicly humiliated.</content></utterance>
+<utterance uid="22-23"><speaker>BECKETT</speaker><content>Yes, sir.</content></utterance>
+<utterance uid="22-24"><speaker>BECKETT</speaker><content>So where is she now?</content></utterance>
+<utterance uid="22-25"><speaker>CASTLE</speaker><content>At her hotel.</content></utterance>
+<utterance uid="22-26"><speaker>CASTLE</speaker><content>She invited me for a drink.</content></utterance>
+<utterance uid="22-27"><speaker>ESPOSITO</speaker><content>Did she? Doesn’t look like she’s in a rush to leave town.</content></utterance>
+<utterance uid="22-28"><speaker>CASTLE</speaker><content>Well – </content></utterance>
+<utterance uid="22-29"><speaker>BECKETT</speaker><content>Well then, we press our one advantage. She doesn’t know we’re on to her. So we make a run on her without her finding out.</content></utterance>
+<utterance uid="22-30"><speaker>RYAN</speaker><content>How’re we going to do that?</content></utterance>
+<utterance uid="22-31"><speaker>BECKETT</speaker><content>Simple.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>BECKETT</speaker><content>Castle asks her out on a date.</content></utterance>
+<utterance uid="23-2"><speaker>CASTLE</speaker><content>I do?</content></utterance>
+<utterance uid="23-3"><speaker>BECKETT</speaker><content>It’s what you wanted, isn’t it? All you have to do is keep her out of her room. And take her to the restaurant at the hotel.</content></utterance>
+<utterance uid="23-4"><speaker>BECKETT</speaker><content>Then, just show her a good time. And while you keep her occupied, we get into her room.</content></utterance>
+<utterance uid="23-5"><speaker>CASTLE</speaker><content>So what am I doing on this date? Am I supposed to trip her up? Get her to break?</content></utterance>
+<utterance uid="23-6"><speaker>BECKETT</speaker><content>No, just stall her. Make some jokes. The important thing is to keep her out of her hotel room so we can search it.</content></utterance>
+<utterance uid="23-7"><speaker>BECKETT</speaker><content>So what do you say, Castle? Think you can charm her for an hour?</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>CASTLE</speaker><content>Are you serious?</content></utterance>
+<utterance uid="24-2"><speaker>SERENA</speaker><content>Absolutely. I was going to give you one more day.</content></utterance>
+<utterance uid="24-3"><speaker>CASTLE</speaker><content>And then you were going to ask me out yourself.</content></utterance>
+<utterance uid="24-4"><speaker>SERENA</speaker><content>Mmhmm. Well, I’m a woman who believes in going after what she wants.</content></utterance>
+<utterance uid="24-5"><speaker>CASTLE</speaker><content>I can see that.</content></utterance>
+<utterance uid="24-6"><speaker>SERENA</speaker><content>Besides, I didn’t really make it a secret that I was attracted to you, and I could tell you felt the same way about me.</content></utterance>
+<utterance uid="24-7"><speaker>CASTLE</speaker><content>Well, looks like neither one of us is very good at keeping secrets.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>ESPOSITO</speaker><content>Nothing so far. You find anything?</content></utterance>
+<utterance uid="25-2"><speaker>BECKETT</speaker><content>No.</content></utterance>
+<utterance uid="25-3"><speaker>ESPOSITO</speaker><content>Hmm. You really want to nail this chick, don’t you?</content></utterance>
+<utterance uid="25-4"><speaker>BECKETT</speaker><content>Yeah, well, it’s what we do, isn’t it? Catch bad guys?</content></utterance>
+<utterance uid="25-5"><speaker>ESPOSITO</speaker><content>Yeah, but … seems like it might be about more than that.</content></utterance>
+<utterance uid="25-6"><speaker>BECKETT</speaker><content>Just keep looking, ‘kay?</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>CASTLE</speaker><content>So, why chose to be an insurance investigator? It’s really not something most little girls aspire to be when they grow up.</content></utterance>
+<utterance uid="26-2"><speaker>SERENA</speaker><content>It’s a … recent career change.</content></utterance>
+<utterance uid="26-3"><speaker>CASTLE</speaker><content>Really? What did you do before?</content></utterance>
+<utterance uid="26-4"><speaker>SERENA</speaker><content>Actually, I was a thief.</content></utterance>
+<utterance uid="26-5"><speaker>CASTLE</speaker><content>Get out.</content></utterance>
+<utterance uid="26-6"><speaker>SERENA</speaker><content>Well, that’s what the museums like to call me. I prefer to think of myself as an art retriever.</content></utterance>
+<utterance uid="26-7"><speaker>CASTLE</speaker><content>What’s the difference?</content></utterance>
+<utterance uid="26-8"><speaker>SERENA</speaker><content>Well, the pieces I took had already been stolen from their rightful owners. Taken by Nazis, despots, governments. Just because a piece is in a museum doesn’t mean it belongs there.</content></utterance>
+<utterance uid="26-9"><speaker>CASTLE</speaker><content>Seriously.</content></utterance>
+<utterance uid="26-10"><speaker>SERENA</speaker><content>I specialized in returning art to their rightful owners, starting with a small Rembrandt an SS officer took from my grandfather.</content></utterance>
+<utterance uid="26-11"><speaker>CASTLE</speaker><content>So you were kind of like the female Indiana Jones, only without the hat and whip.</content></utterance>
+<utterance uid="26-12"><speaker>SERENA</speaker><content>Well, without the hat.</content></utterance>
+<utterance uid="26-13"><speaker>CASTLE</speaker><content> It’s getting hot in here.</content></utterance>
+</scene>
+
+<scene id="27"><utterance uid="27-1"><speaker>SERENA</speaker><content>I have an idea.  Why don’t we skip dessert?</content></utterance>
+<utterance uid="27-2"><speaker>CASTLE</speaker><content>Oh well, what’s the rush? I hear the strawberry shortcake here is excellent.</content></utterance>
+<utterance uid="27-3"><speaker>SERENA</speaker><content>Wouldn’t you rather come up to my room for a drink?</content></utterance>
+<utterance uid="27-4"><speaker>CASTLE</speaker><content>The uh … strawberries are… supposed to be … really fresh.</content></utterance>
+<utterance uid="27-5"><speaker>SERENA</speaker><content>Well, great. We can order them from room service. With extra whipped cream.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>BECKETT</speaker><content>I think I found something. It’s a message between Serena and a bunch of fences. Guess who’s trying to sell D-flawless diamonds.</content></utterance>
+<utterance uid="28-2"><speaker>ESPOSITO</speaker><content>I think I found something, too. The tools of the trade.  As well as an ISI.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>SERENA</speaker><content>There it is. The Skyline Suite.</content></utterance>
+<utterance uid="29-2"><speaker>BECKETT</speaker><content>Hey!</content></utterance>
+<utterance uid="29-3"><speaker>SERENA</speaker><content>What? What are you doing here?</content></utterance>
+<utterance uid="29-4"><speaker>BECKETT</speaker><content>Arresting you for theft.  And murder.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>BECKETT</speaker><content>Wait. So now you’re telling me that you don’t believe she’s in on this?</content></utterance>
+<utterance uid="30-2"><speaker>CASTLE</speaker><content>Why would she tell me she’s a thief? Why offer that up?</content></utterance>
+<utterance uid="30-3"><speaker>BECKETT</speaker><content>Because she’s feeding you just enough truths so that swallowing the lies is easier.</content></utterance>
+<utterance uid="30-4"><speaker>CASTLE</speaker><content>I don’t think she’s behind this.</content></utterance>
+<utterance uid="30-5"><speaker>BECKETT</speaker><content>Yeah, well, you’re thinking with the wrong body part.</content></utterance>
+<utterance uid="30-6"><speaker>CASTLE</speaker><content>It was only a kiss. I was doing what you told me to – keeping her occupied. I was trying to give you enough time so that you could search her room.</content></utterance>
+<utterance uid="30-7"><speaker>BECKETT</speaker><content>Yes! The room! The room where we found the suitcase and the email, which all stands as evidence against her right now.</content></utterance>
+<utterance uid="30-8"><speaker>CASTLE</speaker><content>I just think we should give her a chance to explain.</content></utterance>
+<utterance uid="30-9"><speaker>BECKETT</speaker><content>We? No, there is no way we’re going into the interrogation together.</content></utterance>
+<utterance uid="30-10"><speaker>BECKETT</speaker><content>I’m sorry, Castle. But right now, based on this conversation and your behavior in the hotel, it is obvious that you have been compromised.</content></utterance>
+<utterance uid="30-11"><speaker>CASTLE</speaker><content>I was just trying to do –</content></utterance>
+<utterance uid="30-12"><speaker>CASTLE</speaker><content> – what you asked.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>CASTLE</speaker><content>I thought I’d sit this one out.</content></utterance>
+<utterance uid="31-2"><speaker>BECKETT</speaker><content>I gotta hand it to you. This whole long con you’ve got going? It’s impressive.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>BECKETT</speaker><content>Cozying up to insurance agencies, telling them that you want to go straight, all the while waiting for your next score.</content></utterance>
+<utterance uid="32-2"><speaker>SERENA</speaker><content>What are you talking about?</content></utterance>
+<utterance uid="32-3"><speaker>BECKETT</speaker><content>The only catch was that you knew you needed Hayes, but you knew you couldn’t get away with it if you let him live, so you insinuated yourself into my investigation to cover your tracks.</content></utterance>
+<utterance uid="32-4"><speaker>SERENA</speaker><content>And here I thought Rick was the only writer on your team.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>RYAN</speaker><content>Rick? Are you guys on a first name basis, now?</content></utterance>
+<utterance uid="33-2"><speaker>ESPOSITO</speaker><content>Well, he was making out with her in the hotel hallway.</content></utterance>
+<utterance uid="33-3"><speaker>CASTLE</speaker><content>Beckett told me to stall her.</content></utterance>
+<utterance uid="33-4"><speaker>ESPOSITO</speaker><content>She also tell you to use tongue?</content></utterance>
+<utterance uid="33-5"><speaker>BECKETT</speaker><content>I don’t need to spin stories. I’ve got you meeting Brian Hayes the day before the heist.</content></utterance>
+<utterance uid="33-6"><speaker>SERENA</speaker><content>Yes, to go over security for the gala. He was concerned.</content></utterance>
+<utterance uid="33-7"><speaker>BECKETT</speaker><content>Concerned? He was involved.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>SERENA</speaker><content>I didn’t know that it was all an act at the time.</content></utterance>
+<utterance uid="34-2"><speaker>BECKETT</speaker><content>If that meeting was so innocent, then why didn’t you tell us about it before?</content></utterance>
+<utterance uid="34-3"><speaker>SERENA</speaker><content>Because it’s not like I’m particularly proud of the fact that I didn’t figure out what he was up to. If I had, then the sculpture wouldn’t have been stolen and he might still be alive.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>RYAN</speaker><content>Man, she’s really selling the ‘thief with a heart of gold’ act.</content></utterance>
+<utterance uid="35-2"><speaker>CASTLE</speaker><content>Maybe it’s not an act.</content></utterance>
+<utterance uid="35-3"><speaker>ESPOSITO</speaker><content>She is being really calm in there.</content></utterance>
+<utterance uid="35-4"><speaker>RYAN</speaker><content>Yeah, strangely calm. Maybe she didn’t do it. Either that, or she’s a psychopath , in which case, you sure can pick ‘em.</content></utterance>
+<utterance uid="35-5"><speaker>BECKETT</speaker><content>We found the tools that you used to break into the museum: rope, grappling hook, lock picks.</content></utterance>
+<utterance uid="35-6"><speaker>SERENA</speaker><content>I specialize in recovery. The insurance agencies don’t care how I get the pieces back, just that I do.</content></utterance>
+<utterance uid="35-7"><speaker>BECKETT</speaker><content>So basically you’re still a thief.</content></utterance>
+<utterance uid="35-8"><speaker>SERENA</speaker><content>Recovery.</content></utterance>
+<utterance uid="35-9"><speaker>BECKETT</speaker><content>And what part of recovery involves selling D-flawless diamonds on the black market?</content></utterance>
+<utterance uid="35-10"><speaker>SERENA</speaker><content>Falco may try to move those stones. I was trying to flush out his possible fences. Listen, I’ve done my homework on you, Detective. I know that you’re a smart, methodical cop with great instincts. And those instincts are telling you right now that I’m innocent. For some reason, you’re ignoring them. Why is that?</content></utterance>
+<utterance uid="35-11"><speaker>BECKETT</speaker><content>Ms. Kaye, your job Is recovery, as you call it. My job is to solve this homicide.</content></utterance>
+<utterance uid="35-12"><speaker>SERENA</speaker><content>Then why don’t you put aside your personal agenda and ask me for my alibi so we can more on with this investigation. For the record, I was in a business meeting with my bosses when I got the call. If you want to check.</content></utterance>
+<utterance uid="35-13"><speaker>BECKETT</speaker><content>If you’re telling the truth, then why have you been going behind our backs?</content></utterance>
+<utterance uid="35-14"><speaker>SERENA</speaker><content>Because in my experience the police just get in the way. My job is to recover the sculpture, not play nice. But you’re right. I’ve been treating this like a regular case, and it’s not, so I promise, from here on out, no more secrets.</content></utterance>
+<utterance uid="35-15"><speaker>BECKETT</speaker><content>That won’t be necessary. We won’t be working together anymore.</content></utterance>
+<utterance uid="35-16"><speaker>SERENA</speaker><content>Would it change your mind if I told you I know who Falco is?</content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>SERENA</speaker><content>What you’re watching right now is security footage from the museum exhibit two weeks ago.</content></utterance>
+<utterance uid="36-2"><speaker>BECKETT</speaker><content>You stole Hayes’ flash drive? That’s why it went missing?</content></utterance>
+<utterance uid="36-3"><speaker>CASTLE</speaker><content>Remember, you’re trying to get us to trust you.</content></utterance>
+<utterance uid="36-4"><speaker>SERENA</speaker><content> At least I meant it when I kissed you.  It wouldn’t have done you any good. You wouldn’t have known what to look for.</content></utterance>
+<utterance uid="36-5"><speaker>SERENA</speaker><content>See that guy right there? He’s casing the joint.</content></utterance>
+<utterance uid="36-6"><speaker>CASTLE</speaker><content>How can you tell?</content></utterance>
+<utterance uid="36-7"><speaker>SERENA</speaker><content>Trust me, I can tell.</content></utterance>
+<utterance uid="36-8"><speaker>BECKETT</speaker><content>So you’re saying that’s –</content></utterance>
+<utterance uid="36-9"><speaker>SERENA</speaker><content>Falco.</content></utterance>
+<utterance uid="36-10"><speaker>BECKETT</speaker><content>Well why didn’t you tell us this before?</content></utterance>
+<utterance uid="36-11"><speaker>SERENA</speaker><content>I just didn’t get a chance to show you.</content></utterance>
+<utterance uid="36-12"><speaker>BECKETT</speaker><content>I guess you were busy.</content></utterance>
+<utterance uid="36-13"><speaker>CASTLE</speaker><content>Okay, okay. Perhaps we can just focus on getting this guy.</content></utterance>
+<utterance uid="36-14"><speaker>BECKETT</speaker><content>Well, how’s this supposed to help? We don’t even know his real name. Well, the only thing we can do is send photos to TSA and put out an APB. Otherwise, without more information it’s not going to do us any good.</content></utterance>
+<utterance uid="36-15"><speaker>ESPOSITO</speaker><content>What if I could tell you what hotel she was staying at? The gel in the vents and on the headrest of the van? CSU identified it as a proprietary formula made exclusively for the Wessex Hotel.</content></utterance>
+<utterance uid="36-16"><speaker>CASTLE</speaker><content>There’s only one in the city.</content></utterance>
+<utterance uid="36-17"><speaker>BECKETT</speaker><content>Let’s get the photos out to the hotel employees. If one of them recognizes him, we’ve got him.</content></utterance>
+<utterance uid="36-18"><speaker>ESPOSITO</speaker><content>Right on.</content></utterance>
+</scene>
+
+<scene id="37"><utterance uid="37-1"><speaker>ESPOSITO</speaker><content>Hello, Falco.</content></utterance>
+</scene>
+<scene id="38"><utterance uid="38-1"><speaker>WILLIAM HOLT</speaker><content>Falco? I’ve got no idea what you’re talking about. My name is Holt. William Holt.</content></utterance>
+<utterance uid="38-2"><speaker>BECKETT</speaker><content>Yes, William Holt. British passport, you just got into town two weeks ago. You also happened in Bilbao ten years ago when the Pissarro went missing. And then in Berlin fifteen years ago when that El Greco disappeared.</content></utterance>
+<utterance uid="38-3"><speaker>HOLT</speaker><content>Don’t know anything about that.</content></utterance>
+<utterance uid="38-4"><speaker>BECKETT</speaker><content>Drop the act, Falco. We’ve got a video of you casing the museum two weeks ago.  That is you, isn’t it?</content></utterance>
+<utterance uid="38-5"><speaker>HOLT</speaker><content>Whenever I come into a new town I always take time out to admire the city’s treasures. Is that a crime?</content></utterance>
+<utterance uid="38-6"><speaker>CASTLE</speaker><content>No, no. But sneaking back in and stealing them is.</content></utterance>
+<utterance uid="38-7"><speaker>BECKETT</speaker><content>Look familiar?  It was used to disarm the security systems in the museum. They also found matching ones in Bilbao and Berlin.</content></utterance>
+<utterance uid="38-8"><speaker>HOLT</speaker><content>If you say so. I, for one, have never seen anything like that.</content></utterance>
+<utterance uid="38-9"><speaker>BECKETT</speaker><content>The hotel that you’re staying at, it’s nice, isn’t it?</content></utterance>
+<utterance uid="38-10"><speaker>BECKETT</speaker><content>They even have their very own exclusive hair products.</content></utterance>
+<utterance uid="38-11"><speaker>CASTLE</speaker><content>Hair products that left a trace in the air duct system. And by the way, uh, hair gel? Not very manly.</content></utterance>
+<utterance uid="38-12"><speaker>HOLT</speaker><content>Hundreds of people are staying at my hotel. And I’m pretty sure you didn’t find prints on that  so, what exactly were you planning to book me on?</content></utterance>
+<utterance uid="38-13"><speaker>HOLT</speaker><content>This Falco person you’re chasing? Are you sure he’s your guy? From what I know about him, he’s no murderer. He might not be as involved as you think.</content></utterance>
+</scene>
+<scene id="39"><utterance uid="39-1"><speaker>SERENA</speaker><content>He’s trying to tell us something.</content></utterance>
+<utterance uid="39-2"><speaker>BECKETT</speaker><content>Yeah, to politely go to hell.</content></utterance>
+<utterance uid="39-3"><speaker>SERENA</speaker><content>No, he went out of his way to tell us he’s not the murderer.</content></utterance>
+<utterance uid="39-4"><speaker>BECKETT</speaker><content>Well, most people do that in the room.  CSU come back with anything from the hotel?</content></utterance>
+<utterance uid="39-5"><speaker>RYAN</speaker><content>Nothing. No equipment, no Fist.</content></utterance>
+<utterance uid="39-6"><speaker>CASTLE</speaker><content> What are you thinking?</content></utterance>
+<utterance uid="39-7"><speaker>SERENA</speaker><content>He knows something. But he can’t tell us without admitting he was there. Let me talk to him.</content></utterance>
+<utterance uid="39-8"><speaker>BECKETT</speaker><content>You’re kidding, right? He’s a suspect and you’re not even a cop.</content></utterance>
+<utterance uid="39-9"><speaker>SERENA</speaker><content>No, I’m a thief. Like him. He’ll talk to me.</content></utterance>
+</scene>
+<scene id="40"><utterance uid="40-1"><speaker>HOLT</speaker><content>Whoa. Bad cop struck out, good cop gets a turn?</content></utterance>
+<utterance uid="40-2"><speaker>SERENA</speaker><content>I’m not a cop.</content></utterance>
+<utterance uid="40-3"><speaker>HOLT</speaker><content>Well then, who are you?</content></utterance>
+<utterance uid="40-4"><speaker>SERENA</speaker><content>Mmm… that depends on who you ask. I’m Der Geist in Zurich, Pantera in Spain. Police Nationale know me as Gaston. But you … probably know me as Jackal.</content></utterance>
+<utterance uid="40-5"><speaker>HOLT</speaker><content>The Prado? ’07? Are you saying that was you?</content></utterance>
+<utterance uid="40-6"><speaker>SERENA</speaker><content>Mmhmm.</content></utterance>
+<utterance uid="40-7"><speaker>HOLT</speaker><content>How did you get by the sound sensors?</content></utterance>
+<utterance uid="40-8"><speaker>SERENA</speaker><content>I had the Russian build me a wave cancellation box. Heard he built one for you for the Boston job.</content></utterance>
+<utterance uid="40-9"><speaker>HOLT</speaker><content>That’s no easy exit, Prado. How did you get the piece out?</content></utterance>
+<utterance uid="40-10"><speaker>HOLT</speaker><content>Hmm.  The guard was so busy checking out my assets that he didn’t notice me cut the trip wire on the Goya’s back. I came in later on the skyline and whipped it right out.</content></utterance>
+<utterance uid="40-11"><speaker>HOLT</speaker><content>I’ll be damned.</content></utterance>
+<utterance uid="40-12"><speaker>HOLT</speaker><content>But now you’re here, working with the cops. So you must have got caught.</content></utterance>
+<utterance uid="40-13"><speaker>SERENA</speaker><content>Uh uh. I got smart. One day you realize that you, or someone else, is going to get hurt.</content></utterance>
+<utterance uid="40-14"><speaker>HOLT</speaker><content>I didn’t kill him.</content></utterance>
+<utterance uid="40-15"><speaker>SERENA</speaker><content>But you were there.</content></utterance>
+</scene>
+<scene id="41"><utterance uid="41-1"><speaker>CASTLE</speaker><content> Think she’ll get him to talk?</content></utterance>
+<utterance uid="41-2"><speaker>BECKETT</speaker><content>Who knows, Castle. Maybe she’ll kiss it out of him.</content></utterance>
+</scene>
+<scene id="42"><utterance uid="42-1"><speaker>HOLT</speaker><content>I wasn’t hired to steal the Fist. My contact told me I was being paid to test their security for vulnerabilities. I was to break in, disable the alarm, and walk out undetected all before 10PM. And for my trouble I got $200 grand in advance.</content></utterance>
+<utterance uid="42-2"><speaker>SERENA</speaker><content>Who hired you?</content></utterance>
+<utterance uid="42-3"><speaker>HOLT</speaker><content>Oh, church and state, love. Everything goes through a third party, you know that. Safer that way.</content></utterance>
+<utterance uid="42-4"><speaker>SERENA</speaker><content>Mmm, yeah, until you get set up. The real thief needed you to disable the alarms.</content></utterance>
+<utterance uid="42-5"><speaker>HOLT</speaker><content>Yeah, apparently.</content></utterance>
+<utterance uid="42-6"><speaker>SERENA</speaker><content>What’d you see?</content></utterance>
+<utterance uid="42-7"><speaker>HOLT</speaker><content>Nothing at first. I mean, it all went too easy. I got halfway back to the loading bay when it hit me. I mean, I had already disabled the alarms, right? And it was just … sitting there.</content></utterance>
+<utterance uid="42-8"><speaker>SERENA</speaker><content>You went back for the Fist?</content></utterance>
+<utterance uid="42-9"><speaker>HOLT</speaker><content>Well, there’s an awful lot of temptation, fifty mil. When I got back to the room there was a woman walking toward the Fist. So I got the bloody hell out of there.</content></utterance>
+<utterance uid="42-10"><speaker>SERENA</speaker><content>This woman. What did she look like?</content></utterance>
+<utterance uid="42-11"><speaker>HOLT</speaker><content>I barely got a glimpse. All I can say for sure is she was wearing a black dress.</content></utterance>
+</scene>
+<scene id="43"><utterance uid="43-1"><speaker>SERENA</speaker><content>C’mon, Beckett. He’s got no reason to lie.</content></utterance>
+<utterance uid="43-2"><speaker>BECKETT</speaker><content>He’s a thief. He’s got plenty of reasons to lie.</content></utterance>
+<utterance uid="43-3"><speaker>SERENA</speaker><content>Not about this. He knows you’ve got nothing on him. All he’d have to do is wait and you’d have to release him.</content></utterance>
+<utterance uid="43-4"><speaker>CASTLE</speaker><content>If Falco is telling the truth, and with Hayes’ money trouble, the $200 thousand payment to Falco rules him out.</content></utterance>
+<utterance uid="43-5"><speaker>BECKETT</speaker><content>Well then, why would he go to the bar asking about fencing diamonds?</content></utterance>
+<utterance uid="43-6"><speaker>SERENA</speaker><content>Because he was paranoid someone was trying to steal the Fist.</content></utterance>
+<utterance uid="43-7"><speaker>CASTLE</speaker><content>Not paranoid. Right. Which means our killer is probably whoever Falco saw going into the room with the Fist.</content></utterance>
+<utterance uid="43-8"><speaker>SERENA</speaker><content>And when Hayes got in the way she spiked him.</content></utterance>
+<utterance uid="43-9"><speaker>BECKETT</speaker><content>Did he say anything about what the woman looked like?</content></utterance>
+<utterance uid="43-10"><speaker>SERENA</speaker><content>Just that she was wearing a black dress.</content></utterance>
+<utterance uid="43-11"><speaker>BECKETT</speaker><content>There were over 200 people at that gala and half of those women were wearing black.</content></utterance>
+<utterance uid="43-12"><speaker>SERENA</speaker><content>And more importantly, if she didn’t leave by the loading dock then how did she get the Fist out of the museum?</content></utterance>
+<utterance uid="43-13"><speaker>BECKETT</speaker><content>Yeah. How did she?</content></utterance>
+</scene>
+<scene id="44"><utterance uid="44-1"><speaker>CASTLE</speaker><content>She waits for Falco to finish disabling the system and then she comes in through the gala.</content></utterance>
+<utterance uid="44-2"><speaker>BECKETT</speaker><content>And with the alarm system deactivated, she grabs the Fist. But Hayes is paranoid about security, so he comes in to check on the exhibit. He catches her and she’s forced to kill him.</content></utterance>
+<utterance uid="44-3"><speaker>SERENA</speaker><content>Now she’s in a hurry to leave before someone discovers her with the Fist and the body.</content></utterance>
+<utterance uid="44-4"><speaker>CASTLE</speaker><content>But she can’t take it out through the gala without being spotted.</content></utterance>
+<utterance uid="44-5"><speaker>BECKETT</speaker><content>And she can’t take it through the loading bay without one of the catering staff noticing her dressed in black.</content></utterance>
+<utterance uid="44-6"><speaker>SERENA</speaker><content>Well, those are the only two exits. And both of those choices leave too much to chance. She would have easily gotten caught.</content></utterance>
+<utterance uid="44-7"><speaker>BECKETT</speaker><content>So she can’t take it through the gala and she can’t take it through the loading bay. How the hell did she get it out of here?</content></utterance>
+<utterance uid="44-8"><speaker>CASTLE</speaker><content>Maybe she didn’t.</content></utterance>
+<utterance uid="44-9"><speaker>BECKETT</speaker><content>What do you mean?</content></utterance>
+<utterance uid="44-10"><speaker>CASTLE</speaker><content>What I mean is …</content></utterance>
+<utterance uid="44-11"><speaker>MYRNA</speaker><content>What are you doing?</content></utterance>
+<utterance uid="44-12"><speaker>CASTLE</speaker><content>It never left the museum.</content></utterance>
+<utterance uid="44-13"><speaker>MYRNA</speaker><content>Mr. Castle!</content></utterance>
+<utterance uid="44-14"><speaker>CASTLE</speaker><content>Looks like I broke this case wide open.</content></utterance>
+</scene>
+<scene id="45"><utterance uid="45-1"><speaker>ALYSSA</speaker><content>You needed to see me, Detective?</content></utterance>
+<utterance uid="45-2"><speaker>BECKETT</speaker><content>Yes. We need to talk to you about your installation.</content></utterance>
+<utterance uid="45-3"><speaker>ALYSSA</speaker><content>Oh my God, what happened?</content></utterance>
+<utterance uid="45-4"><speaker>CASTLE</speaker><content>It’s a new interpretation I’m working on. I call it ‘busted’.</content></utterance>
+<utterance uid="45-5"><speaker>ALYSSA</speaker><content>It’s ruined. Who the hell did this?</content></utterance>
+<utterance uid="45-6"><speaker>BECKETT</speaker><content>More to the point, who put the Fist in it?</content></utterance>
+<utterance uid="45-7"><speaker>ALYSSA</speaker><content>The Fist was in it?</content></utterance>
+<utterance uid="45-8"><speaker>CASTLE</speaker><content>That way the thief didn’t have to worry about smuggling it out. She just could simply rejoin the party.</content></utterance>
+<utterance uid="45-9"><speaker>ALYSSA</speaker><content>She?</content></utterance>
+<utterance uid="45-10"><speaker>BECKETT</speaker><content>We know that whoever stole the Fist was a woman wearing a black dress. The same woman that killed Mr. Hayes.</content></utterance>
+<utterance uid="45-11"><speaker>CASTLE</speaker><content>If I remember correctly, you were wearing a black dress that night.</content></utterance>
+<utterance uid="45-12"><speaker>ALYSSA</speaker><content>So was every woman in here.</content></utterance>
+<utterance uid="45-13"><speaker>CASTLE</speaker><content>Yes, but only one of them knew that there was a compartment inside that piece nearby. It was a perfect plan … until Brian Hayes showed up and saw you.</content></utterance>
+<utterance uid="45-14"><speaker>ALYSSA</speaker><content>It … it wasn’t me.  I swear.</content></utterance>
+<utterance uid="45-15"><speaker>BECKETT</speaker><content>You mean it wasn’t just you. You didn’t have the money to pay Falco, but you did use your position to place the piece in the exhibit.</content></utterance>
+<utterance uid="45-16"><speaker>ALYSSA</speaker><content>I didn’t place anything. That piece was selected by the board, just like all the art in here.</content></utterance>
+<utterance uid="45-17"><speaker>CASTLE</speaker><content>Yes, and when the exhibit was done, it would come back to you, only worth about fifty million more.</content></utterance>
+<utterance uid="45-18"><speaker>ALYSSA</speaker><content>No, it wasn’t coming back to me. I sold it last week. It was going to –</content></utterance>
+<utterance uid="45-19"><speaker>ALYSSA</speaker><content>Oh my God.</content></utterance>
+</scene>
+<scene id="46"><utterance uid="46-1"><speaker>JOY</speaker><content>I found Alyssa’s work compelling. I’m not sure why I’m having to justify my taste in art.</content></utterance>
+<utterance uid="46-2"><speaker>BECKETT</speaker><content>Because this particular piece just happened to have a bronze Fist in it.</content></utterance>
+<utterance uid="46-3"><speaker>JOY</speaker><content>You found my Fist.</content></utterance>
+<utterance uid="46-4"><speaker>BECKETT</speaker><content>Yes, right where you put it.</content></utterance>
+<utterance uid="46-5"><speaker>BECKETT</speaker><content>You know, right about now is where you should be thinking about whether pushing Hayes was an accident or not. Because that’s going to make a 30 year difference in your prison sentence.</content></utterance>
+<utterance uid="46-6"><speaker>JOY</speaker><content>You think I did that to Brian Hayes?</content></utterance>
+<utterance uid="46-7"><speaker>BECKETT</speaker><content>Now we’ve obtained a warrant for your financials, and we will find evidence of the $200 thousand you paid William Holt, also known as Falco, to disable security at the museum.</content></utterance>
+<utterance uid="46-8"><speaker>JOY</speaker><content>I’m sorry dear, you’ve lost me.</content></utterance>
+<utterance uid="46-9"><speaker>BECKETT</speaker><content>CSU found your fingerprints all over the Fist.</content></utterance>
+<utterance uid="46-10"><speaker>JOY</speaker><content>Of course they did. It belongs to me.</content></utterance>
+<utterance uid="46-11"><speaker>BECKETT</speaker><content>Bloody fingerprints. His blood. Your prints.</content></utterance>
+<utterance uid="46-12"><speaker>BECKETT</speaker><content>It’s over. You killed a man, Mrs. McHugh.</content></utterance>
+<utterance uid="46-13"><speaker>JOY</speaker><content>You don’t understand. My husband was going to take it away. I just took what was rightfully mine. Brian Hayes just showed up out of nowhere. He saw me with the Fist in my hands. What was I supposed to do?</content></utterance>
+<utterance uid="46-14"><speaker>BECKETT</speaker><content>You know what’s ironic? Your husband would have let you have the Fist. He didn’t even want it.</content></utterance>
+</scene>
+<scene id="47"><utterance uid="47-1"><speaker>BECKETT</speaker><content>The DA said that her husband called several times begging to testify against her.</content></utterance>
+<utterance uid="47-2"><speaker>SERENA</speaker><content>When can I collect the Fist? The insurance agency is asking.</content></utterance>
+<utterance uid="47-3"><speaker>BECKETT</speaker><content>Oh, well, it’s in evidence. Once the case is resolved, they’ll release it.</content></utterance>
+<utterance uid="47-4"><speaker>SERENA</speaker><content>I want to thank you. I couldn’t have done this without you. I’m really grateful.</content></utterance>
+<utterance uid="47-5"><speaker>BECKETT</speaker><content>So does that mean that you’re cutting me in on the finder’s fee?</content></utterance>
+<utterance uid="47-6"><speaker>SERENA</speaker><content>I’m not that grateful.</content></utterance>
+<utterance uid="47-7"><speaker>BECKETT</speaker><content>Well, I uh …</content></utterance>
+<utterance uid="47-8"><speaker>BECKETT</speaker><content>I think we all ended up with what we wanted.</content></utterance>
+<utterance uid="47-9"><speaker>SERENA</speaker><content>Yeah.</content></utterance>
+<utterance uid="47-10"><speaker>BECKETT</speaker><content>Um, you know, after you and Castle went on that date –</content></utterance>
+<utterance uid="47-11"><speaker>SERENA</speaker><content>More like a sting.</content></utterance>
+<utterance uid="47-12"><speaker>BECKETT</speaker><content>He never thought that you were involved. He believed in you, even when I didn’t.</content></utterance>
+<utterance uid="47-13"><speaker>SERENA</speaker><content>Why are you telling me this?</content></utterance>
+<utterance uid="47-14"><speaker>BECKETT</speaker><content>It just … I think that you should know what kind of person you’re dealing with.</content></utterance>
+<utterance uid="47-15"><speaker>CASTLE</speaker><content>Here we are, ladies.</content></utterance>
+<utterance uid="47-16"><speaker>BECKETT</speaker><content>Thank you.</content></utterance>
+<utterance uid="47-17"><speaker>SERENA</speaker><content>Thank you.</content></utterance>
+<utterance uid="47-18"><speaker>CASTLE</speaker><content>Anything wrong?</content></utterance>
+<utterance uid="47-19"><speaker>BECKETT</speaker><content>Uh, no. I should, um … I’m just going to go and file some stuff.</content></utterance>
+<utterance uid="47-20"><speaker>SERENA</speaker><content>Uh, and I’m - I’m going to go back to my hotel.</content></utterance>
+<utterance uid="47-21"><speaker>SERENA</speaker><content>I would ask you to come but, it’s like I said. I don’t steal things that belong to someone else.</content></utterance>
+<utterance uid="47-22"><speaker>BECKETT</speaker><content>You guys didn’t go out?</content></utterance>
+<utterance uid="47-23"><speaker>CASTLE</speaker><content>No.</content></utterance>
+<utterance uid="47-24"><speaker>BECKETT</speaker><content>Why?</content></utterance>
+<utterance uid="47-25"><speaker>CASTLE</speaker><content>Because I can’t afford it.  The museum just slapped me with a bill for the exhibit I broke.</content></utterance>
+<utterance uid="47-26"><speaker>BECKETT</speaker><content>Whoa!</content></utterance>
+<utterance uid="47-27"><speaker>CASTLE</speaker><content>I know! You’d think they’d cut me some slack after the whole ‘helping to solve the murder’ thing.</content></utterance>
+<utterance uid="47-28"><speaker>BECKETT</speaker><content>I guess the least the NYPD could do is take you out for a hamburger.</content></utterance>
+<utterance uid="47-29"><speaker>CASTLE</speaker><content>I accept.</content></utterance>
+<utterance uid="47-30"><speaker>BECKETT</speaker><content>Let’s go.</content></utterance>
+<utterance uid="47-31"><speaker>CASTLE</speaker><content>I could put Alexis through college on this.</content></utterance>
+<utterance uid="47-32"><speaker>BECKETT</speaker><content>Yeah, and med school.</content></utterance>
+<utterance uid="47-33"><speaker>CASTLE</speaker><content>Thank God I’m rich.</content></utterance>
+<utterance uid="47-34"><speaker>THE END</speaker><content>CASTLE</content></utterance>
+</scene>
+</script>

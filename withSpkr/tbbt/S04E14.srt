@@ -1,0 +1,2260 @@
+1
+00:00:03,700 --> 00:00:04,620
+<2-16,Sheldon>晚上好
+<2-16,Sheldon>Good evening.
+
+2
+00:00:04,620 --> 00:00:08,320
+<5-12,Penny>我是你们的客座讲师  谢尔顿·库珀博士
+<5-12,Penny>I'm your guest lecturer, Dr. Sheldon Cooper.
+
+3
+00:00:12,850 --> 00:00:16,260
+<5-12,Penny>我还等着掌声呢
+<5-12,Penny>I was expecting applause,
+
+4
+00:00:16,260 --> 00:00:20,170
+<1-1,Sheldon>不过"王八之气"震慑后的安静也挺好的
+<1-1,Sheldon>but I suppose stunned silence is equally appropriate.
+
+5
+00:00:20,170 --> 00:00:23,030
+<1-1,Sheldon>我之所以今晚愿意来给你们上课
+<1-1,Sheldon>I agreed to speak to you this evening,
+
+6
+00:00:23,030 --> 00:00:26,470
+<1-1,Sheldon>是因为有人告诉我你们是这所学校里的
+<1-1,Sheldon>because I was told that you're the best and the brightest
+
+7
+00:00:26,470 --> 00:00:29,610
+<1-1,Sheldon>博士生中最优秀最聪明的
+<1-1,Sheldon>of this university's doctoral candidates.
+
+8
+00:00:29,610 --> 00:00:30,910
+<1-1,Sheldon>当然  这就像是说
+<1-1,Sheldon>Hmm. Of course, that's like saying
+
+9
+00:00:30,910 --> 00:00:34,530
+<1-1,Sheldon>你们是氢原子中最重要的电子一样
+<1-1,Sheldon>you are the most important electron in a hydrogen atom.
+
+10
+00:00:38,370 --> 00:00:39,020
+<1-1,Sheldon>因为  你们想啊
+<1-1,Sheldon>'Cause, you see,
+
+11
+00:00:39,020 --> 00:00:43,160
+<1-1,Sheldon>氢原子只有一个电子
+<1-1,Sheldon>there's only one electron in a hydrogen atom.
+
+12
+00:00:46,280 --> 00:00:48,170
+<1-1,Sheldon>这也算最优秀最聪明啊  我的老天爷
+<1-1,Sheldon>Best and brightest, my sweet patootie.
+
+13
+00:00:48,170 --> 00:00:49,780
+<1-1,Sheldon>好吧  开始上课
+<1-1,Sheldon>All right, let's begin.
+
+14
+00:00:49,780 --> 00:00:52,050
+<1-1,Sheldon>请举手告诉我  在座的哪位
+<1-1,Sheldon>Show of hands, who here is familiar
+
+15
+00:00:52,050 --> 00:00:55,240
+<1-1,Sheldon>对拓扑绝缘体的概念比较熟悉
+<1-1,Sheldon>with the concept of topological insulators?
+
+16
+00:00:55,900 --> 00:00:57,750
+<1-1,Sheldon>别自欺欺人了
+<1-1,Sheldon>Don't kid yourselves.
+
+17
+00:00:59,870 --> 00:01:02,470
+<1-1,Sheldon>我又看到了一条谢尔顿课上的学生的微博
+<1-1,Sheldon>I found another tweet from a student at Sheldon's lecture.
+
+18
+00:01:02,470 --> 00:01:04,980
+<2-1,Leonard>"库珀博士选择的话题相当无聊
+<2-1,Leonard>"Dr. Cooper has taken a relatively boring subject
+
+19
+00:01:04,980 --> 00:01:07,970
+<2-1,Leonard>并且他成功地升级到了令人无法忍受的地步
+<2-1,Leonard>and managed to make it completely insufferable.
+
+20
+00:01:09,330 --> 00:01:11,730
+<2-1,Leonard>另外  他看起来像只大昆虫"
+<2-1,Leonard>Plus, he looks like a giant insect."
+
+21
+00:01:12,730 --> 00:01:14,050
+<2-2,Howard>听着  听听这条
+<2-2,Howard>Look. Listen to this one.
+
+22
+00:01:14,050 --> 00:01:17,310
+<2-2,Howard>"爱因斯坦的理论是不是揭示了为什么
+<2-2,Howard>"Does Einstein's theory explain why time flies
+
+23
+00:01:17,310 --> 00:01:18,660
+<2-2,Howard>当你快乐时时间飞逝
+<2-2,Howard>when you're having fun,
+
+24
+00:01:18,660 --> 00:01:20,550
+<2-2,Howard>而当你听库珀博士说话时
+<2-2,Howard>but when you're listening to Dr. Cooper,
+
+25
+00:01:20,550 --> 00:01:22,590
+<2-2,Howard>时间就慢得要命"
+<2-2,Howard>it falls out of the sky, dead?"
+
+26
+00:01:23,420 --> 00:01:24,640
+<2-3,Raj>有人拍了照
+<2-3,Raj>Ooh, somebody took pictures
+
+27
+00:01:24,640 --> 00:01:26,750
+<2-3,Raj>还上传到了Flickr上
+<2-3,Raj>and uploaded them to their Flickr account.
+
+28
+00:01:28,150 --> 00:01:29,170
+<2-4,Leonard>哇
+<2-4,Leonard>Wow.
+
+29
+00:01:29,170 --> 00:01:30,670
+<2-4,Leonard>你要怎么做才能让整个演讲大厅里的人
+<2-4,Leonard>How do you get an entire lecture hall
+
+30
+00:01:30,670 --> 00:01:32,850
+<2-4,Leonard>同时冲你竖中指啊
+<2-4,Leonard>to flip you off at the same time?
+
+31
+00:01:33,750 --> 00:01:34,820
+<2-5,Howard>显然啊  如果你是谢尔顿的话
+<2-5,Howard>Apparently, if you're Sheldon,
+
+32
+00:01:34,820 --> 00:01:36,810
+<2-5,Howard>你需要做的只是转个身而已
+<2-5,Howard>all you need to do is turn your back.
+
+33
+00:01:38,030 --> 00:01:39,850
+<2-6,Penny>莱纳德  你家Wi-Fi坏了吗
+<2-6,Penny>Hey, Leonard, is your Wi-Fi down?
+
+34
+00:01:39,850 --> 00:01:40,770
+<2-6,Penny>我连不上啊
+<2-6,Penny>I can't get on.
+
+35
+00:01:40,770 --> 00:01:42,350
+<2-7,Leonard>哦  谢尔顿把密码改了
+<2-7,Leonard>Oh, Sheldon changed the password.
+
+36
+00:01:42,350 --> 00:01:44,860
+<2-7,Leonard>现在是"佩妮是个蹭网的"
+<2-7,Leonard>It's now "Penny is a freeloader."
+
+37
+00:01:45,980 --> 00:01:47,340
+<2-7,Leonard>别加空格
+<2-7,Leonard>No spaces.
+
+38
+00:01:47,340 --> 00:01:49,160
+<2-8,Penny>多谢  你们在干嘛呢
+<2-8,Penny>Thanks. What are you guys doing?
+
+39
+00:01:49,160 --> 00:01:50,830
+<2-9,Leonard>谢尔顿今晚在学校里上课
+<2-9,Leonard>Sheldon gave a lecture at the university tonight.
+
+40
+00:01:50,830 --> 00:01:51,990
+<2-9,Leonard>我们在看评论
+<2-9,Leonard>We're reading the reviews.
+
+41
+00:01:51,990 --> 00:01:53,600
+<2-10,Penny>他表现如何啊
+<2-10,Penny>Oh. How'd he do?
+
+42
+00:01:53,600 --> 00:01:55,510
+<2-11,Howard>想象一下"兴登堡"号飞艇爆炸加上切尔诺贝利核泄漏
+<2-11,Howard>Well, picture the Hindenburg meets Chernobyl
+
+43
+00:01:55,510 --> 00:01:58,350
+<2-11,Howard>加上三里岛核泄漏再加上《电子世界争霸战2》
+<2-11,Howard>meets Three Mile Island meets Tron 2.
+
+44
+00:01:59,330 --> 00:02:00,470
+<2-12,Penny>有那么糟啊
+<2-12,Penny>That bad, huh?
+
+45
+00:02:00,470 --> 00:02:03,190
+<2-13,Leonard>念一下这个女生的微博
+<2-13,Leonard>Read this woman's tweet.
+
+46
+00:02:03,980 --> 00:02:05,190
+<2-14,Penny>"听库珀博士讲课
+<2-14,Penny>"Listening to Dr. Cooper
+
+47
+00:02:05,190 --> 00:02:07,440
+<2-14,Penny>让我又想自残了"
+<2-14,Penny>has made me want to start cutting myself again""
+
+48
+00:02:07,440 --> 00:02:08,930
+<2-15,Leonard>是吧
+<2-15,Leonard>Yeah.
+
+49
+00:02:10,940 --> 00:02:14,070
+<2-16,Sheldon>晚上好  莱纳德  霍华德  拉杰
+<2-16,Sheldon>Good evening, Leonard, Howard, Raj,
+
+50
+00:02:14,070 --> 00:02:15,410
+<2-16,Sheldon>蹭网的
+<2-16,Sheldon>freeloader.
+
+51
+00:02:17,160 --> 00:02:18,710
+<2-17,Howard>课上得怎么样啊
+<2-17,Howard>So, how'd the lecture go?
+
+52
+00:02:18,710 --> 00:02:21,440
+<2-18,Leonard>一言以蔽之  大获全胜啊
+<2-18,Leonard>In a word, triumphant.
+
+53
+00:02:22,640 --> 00:02:24,510
+<2-19,Leonard>真的吗  大获全胜
+<2-19,Leonard>Really? Triumphant?
+
+54
+00:02:24,510 --> 00:02:26,870
+<2-20,Sheldon>可不是吗  你们真该亲眼看看那群孩子
+<2-20,Sheldon>Oh, yes, you should have seen those young people.
+
+55
+00:02:26,870 --> 00:02:30,450
+<2-20,Sheldon>求知若渴  贪婪地聆听我的教诲
+<2-20,Sheldon>Thirsty for knowledge, drinking in my wisdom.
+
+56
+00:02:30,450 --> 00:02:32,820
+<2-20,Sheldon>我今天也许改变了不少人的人生
+<2-20,Sheldon>I may have changed a few lives today.
+
+57
+00:02:34,220 --> 00:02:36,540
+<2-21,Penny>求你让我告诉他吧
+<2-21,Penny>Oh, please let me tell him.
+
+58
+00:02:37,120 --> 00:02:39,430
+<2-22,Leonard>我不知道行不行啊  我答应了霍华德的
+<2-22,Leonard>I don't know, I kind of promised Howard.
+
+59
+00:02:40,000 --> 00:02:40,870
+<2-23,Sheldon>告诉我啥
+<2-23,Sheldon>Tell me what?
+
+60
+00:02:40,870 --> 00:02:42,580
+<2-24,Howard>其实呢  我们应该一起分享这一刻
+<2-24,Howard>Actually, we should all share the moment.
+
+61
+00:02:42,580 --> 00:02:44,120
+<2-24,Howard>拉杰  你来吧
+<2-24,Howard>Raj, if you would.
+
+62
+00:02:46,660 --> 00:02:49,650
+<2-25,Sheldon>关于我的课的微薄啊
+<2-25,Sheldon>Oh, tweets about my lecture.
+
+63
+00:02:55,180 --> 00:02:56,960
+<2-25,Sheldon>这条很不公平
+<2-25,Sheldon>That's rather unfair.
+
+64
+00:02:57,880 --> 00:02:59,820
+<2-25,Sheldon>这条太伤人了
+<2-25,Sheldon>That's downright cruel.
+
+65
+00:02:59,820 --> 00:03:02,010
+<2-25,Sheldon>而且  昆虫都有六条腿
+<2-25,Sheldon>Plus, insects have six legs.
+
+66
+00:03:03,400 --> 00:03:06,320
+<2-25,Sheldon>我不是很清楚"KMN"这个缩写是啥意思
+<2-25,Sheldon>Yeah, I'm not familiar with the acronym "KMN""
+
+67
+00:03:06,320 --> 00:03:09,790
+<2-26,Leonard>根据语境  我们觉得是"快杀了我吧"
+<2-26,Leonard>From the context, we think it means "kill me now."
+
+68
+00:03:13,020 --> 00:03:17,100
+<2-27,Sheldon>我觉得每个人都有权表达自己的观点
+<2-27,Sheldon>Well, I suppose everyone's entitled to their own opinion.
+
+69
+00:03:17,100 --> 00:03:19,230
+<2-27,Sheldon>我还是去睡觉吧
+<2-27,Sheldon>I think I'll turn in.
+
+70
+00:03:20,760 --> 00:03:23,310
+<2-27,Sheldon>反正我也不想教那群榆木脑袋了
+<2-27,Sheldon>I didn't want to teach those poopy heads, anyway.
+
+71
+00:03:26,470 --> 00:03:28,920
+<2-28,Howard>顺便说一句  我觉得这句话是达斯·维达
+<2-28,Howard>FYI, I think that's what Darth Vader said
+
+73
+00:03:28,920 --> 00:03:31,920
+<2-28,Howard>在建造死星之前说的
+<2-28,Howard>just before he started building the Death Star.
+
+74
+00:03:50,200 --> 00:03:52,900
+<2-28,Howard>生活大爆炸
+<2-28,Howard>第四季第十四集
+
+75
+00:03:58,320 --> 00:03:59,630
+<3-1,Howard>谢尔顿还在郁闷吗
+<3-1,Howard>Sheldon still moping?
+
+76
+00:03:59,630 --> 00:04:01,300
+<3-2,Leonard>是啊  好奇怪  就算他一开始就不想
+<3-2,Leonard>Yeah, it's weird. Even though he didn't want
+
+77
+00:04:01,300 --> 00:04:02,650
+<3-2,Leonard>给这帮学生上课
+<3-2,Leonard>to give the lecture in the first place,
+
+78
+00:04:02,650 --> 00:04:05,100
+<3-2,Leonard>被他们拒绝还是打击挺大的
+<3-2,Leonard>being rejected by those students really hit him hard.
+
+79
+00:04:05,100 --> 00:04:06,510
+<3-3,Raj>这感觉我深有体会
+<3-3,Raj>I know the feeling.
+
+80
+00:04:06,510 --> 00:04:08,260
+<3-3,Raj>就好像无意中走进了一家同性恋酒吧
+<3-3,Raj>It's like accidentally walking into a gay bar
+
+81
+00:04:08,260 --> 00:04:10,260
+<3-3,Raj>然后发现没人对你有兴趣
+<3-3,Raj>and then having no one hit on you.
+
+82
+00:04:17,770 --> 00:04:20,430
+<3-3,Raj>这  这是我一个朋友的经历
+<3-3,Raj>It-It happened to a friend of mine.
+
+83
+00:04:22,420 --> 00:04:23,750
+<3-4,Bernadette>你们还好吗
+<3-4,Bernadette>Are you guys doing okay?
+
+84
+00:04:23,750 --> 00:04:25,070
+<3-5,Howard>莱纳德和我还好
+<3-5,Howard>Leonard and I are fine,
+
+85
+00:04:25,070 --> 00:04:28,130
+<3-5,Howard>但我觉得拉杰现在真的急需一位小妞
+<3-5,Howard>but I think Raj needs to meet a girl really soon.
+
+86
+00:04:29,110 --> 00:04:30,290
+<3-6,Bernadette>这不是什么难事
+<3-6,Bernadette>Well, that shouldn't be too hard.
+
+87
+00:04:30,290 --> 00:04:31,730
+<3-6,Bernadette>他这么可爱
+<3-6,Bernadette>He's such a cutie.
+
+88
+00:04:31,730 --> 00:04:33,480
+<3-7,Raj>谢谢夸奖  但是"可爱"是形容小兔子的
+<3-7,Raj>Thank you, but "cute" is for bunnies.
+
+89
+00:04:33,480 --> 00:04:35,270
+<3-7,Raj>我想要能吸引异性
+<3-7,Raj>I want to be something with sex appeal,
+
+90
+00:04:35,270 --> 00:04:38,120
+<3-7,Raj>就像  就像拉布拉多犬一样
+<3-7,Raj>like... like a labradoodle.
+
+91
+00:04:40,250 --> 00:04:42,370
+<3-8,Howard>拉布拉多犬
+<3-8,Howard>Labradoodle?
+
+92
+00:04:42,370 --> 00:04:45,460
+<3-9,Leonard>我们估计得从头考虑你的问题了
+<3-9,Leonard>We might be starting to zero in on your problem.
+
+93
+00:04:45,880 --> 00:04:46,920
+<3-10,Bernadette>别听他们的
+<3-10,Bernadette>Don't you listen to them.
+
+94
+00:04:46,920 --> 00:04:48,780
+<3-10,Bernadette>你对异性有足够的吸引力
+<3-10,Bernadette>You've got plenty of sex appeal.
+
+95
+00:04:48,780 --> 00:04:49,790
+<3-11,Raj>你真这么觉得吗
+<3-11,Raj>You really think so?
+
+96
+00:04:49,790 --> 00:04:51,830
+<3-12,Bernadette>是啊  你好性感哦
+<3-12,Bernadette>Yeah. You're a hottie.
+
+97
+00:04:51,830 --> 00:04:53,340
+<3-13,Raj>谢谢  伯纳黛特
+<3-13,Raj>Well, thanks, Bernadette.
+
+98
+00:04:55,730 --> 00:04:56,760
+<3-13,Raj>顺便告诉你们
+<3-13,Raj>And just for the record,
+
+99
+00:04:56,760 --> 00:04:58,250
+<3-13,Raj>拉布拉多犬是防过敏的
+<3-13,Raj>labradoodles are hypo-allergenic,
+
+100
+00:04:58,250 --> 00:05:02,190
+<3-13,Raj>这对于那些深受动物毛屑困扰的人来说很性感
+<3-13,Raj>which is a very sexy quality to those troubled by animal dander.
+
+101
+00:05:05,700 --> 00:05:07,340
+<4-1,Amy (on webcam, with an undersea background)>你觉得怎么样
+<4-1,Amy (on webcam, with an undersea background)>So, what do you think?
+
+102
+00:05:09,900 --> 00:05:13,150
+<4-2,Sheldon>很炫的视觉效果  但是我还是不高兴
+<4-2,Sheldon>It's a charming illusion, but it does not cheer me up.
+
+103
+00:05:13,150 --> 00:05:15,010
+<4-3,Amy>就算我这么做都没用吗
+<4-3,Amy>Not even when I do this?
+
+104
+00:05:21,440 --> 00:05:23,230
+<4-4,Sheldon>没用
+<4-4,Sheldon>No.
+
+105
+00:05:23,950 --> 00:05:27,020
+<4-5,Amy>这是我搞怪的压箱底招了
+<4-5,Amy>Well, that was the last arrow in my quiver of whimsy.
+
+106
+00:05:28,050 --> 00:05:30,250
+<4-6,Sheldon>你知不知道  教书是我自从1989年3月
+<4-6,Sheldon>Do you realize that teaching is the first thing
+
+107
+00:05:30,250 --> 00:05:32,420
+<4-6,Sheldon>做引体向上失败以后
+<4-6,Sheldon>I've failed at since my ill-fated attempt
+
+108
+00:05:32,420 --> 00:05:35,520
+<4-6,Sheldon>搞砸的第一件事
+<4-6,Sheldon>to complete a chin-up in March of 1989?
+
+109
+00:05:36,240 --> 00:05:37,540
+<4-7,Amy>如果这次丢人的经历
+<4-7,Amy>If this humiliating experience
+
+110
+00:05:37,540 --> 00:05:38,720
+<4-7,Amy>真的让你很困扰的话
+<4-7,Amy>is really troubling you,
+
+111
+00:05:38,720 --> 00:05:40,580
+<4-7,Amy>我们还是有办法解决的
+<4-7,Amy>there are things we could do about it.
+
+112
+00:05:40,580 --> 00:05:42,110
+<4-8,Sheldon>比如
+<4-8,Sheldon>For instance?
+
+113
+00:05:42,110 --> 00:05:43,680
+<4-9,Amy>首先想到的
+<4-9,Amy>Well, the first thing that comes to mind
+
+114
+00:05:43,680 --> 00:05:45,060
+<4-9,Amy>就是隔离你大脑里
+<4-9,Amy>is isolating the part of your brain
+
+115
+00:05:45,060 --> 00:05:48,220
+<4-9,Amy>负责存储记忆的部分  然后用激光切掉它
+<4-9,Amy>where the memory is stored and destroying it with a laser.
+
+116
+00:05:49,000 --> 00:05:51,440
+<4-10,Sheldon>嗯  不行
+<4-10,Sheldon>Hmm, no.
+
+117
+00:05:51,440 --> 00:05:52,510
+<4-10,Sheldon>你一不留神
+<4-10,Sheldon>One slip of the hand,
+
+118
+00:05:52,510 --> 00:05:54,640
+<4-10,Sheldon>我就只能坐在工程学院里
+<4-10,Sheldon>and suddenly I'm sitting in the Engineering Department,
+
+119
+00:05:54,640 --> 00:05:57,250
+<4-10,Sheldon>和沃罗威茨一起捣鼓些小玩意儿了
+<4-10,Sheldon>building doodads with Wolowitz.
+
+120
+00:05:57,950 --> 00:05:59,360
+<4-10,Sheldon>好吧
+<4-10,Sheldon>All right.
+
+121
+00:05:59,360 --> 00:06:01,770
+<4-11,Amy>你有没有考虑过提高你的社交技能呢
+<4-11,Amy>Have you considered improving your socialization skills,
+
+122
+00:06:01,770 --> 00:06:02,430
+<4-11,Amy>好让你
+<4-11,Amy>thus allowing you
+
+123
+00:06:02,430 --> 00:06:04,630
+<4-11,Amy>更有效地和别人交流
+<4-11,Amy>to communicate more effectively with other people?
+
+124
+00:06:04,630 --> 00:06:06,010
+<4-12,Sheldon>这难道不是他们的负担吗
+<4-12,Sheldon>Isn't that their burden?
+
+125
+00:06:06,010 --> 00:06:08,530
+<4-12,Sheldon>我一直都是瞩目的焦点
+<4-12,Sheldon>I'm the one with something interesting to say.
+
+126
+00:06:09,510 --> 00:06:11,370
+<4-13,Amy>没错  但是从本质上来讲
+<4-13,Amy>Fair enough, but in its essence,
+
+127
+00:06:11,370 --> 00:06:13,150
+<4-13,Amy>教书是一门表演艺术
+<4-13,Amy>teaching is a performance art.
+
+128
+00:06:13,150 --> 00:06:14,530
+<4-13,Amy>在教室这一范例中
+<4-13,Amy>In the classroom paradigm,
+
+129
+00:06:14,530 --> 00:06:16,880
+<4-13,Amy>教师有交流的责任
+<4-13,Amy>the teacher has the responsibility to communicate,
+
+130
+00:06:16,880 --> 00:06:19,780
+<4-13,Amy>也有娱乐和吸引学生的责任
+<4-13,Amy>as well as entertain and engage.
+
+131
+00:06:19,780 --> 00:06:22,380
+<4-14,Sheldon>我感觉你在循循善诱啊
+<4-14,Sheldon>I sense that you're trying to slow-walk me to an epiphany.
+
+132
+00:06:22,380 --> 00:06:24,710
+<4-14,Sheldon>你为何不直奔主题呢
+<4-14,Sheldon>Would you mind very much jumping to it?
+
+133
+00:06:25,460 --> 00:06:28,340
+<4-15,Amy>也许你该考虑一下学学表演
+<4-15,Amy>Perhaps you should consider taking acting lessons.
+
+134
+00:06:28,340 --> 00:06:30,190
+<4-15,Amy>学表演
+<4-15,Amy>Acting lessons.
+
+135
+00:06:30,190 --> 00:06:32,070
+<4-15,Amy>有意思
+<4-15,Amy>Interesting.
+
+136
+00:06:32,070 --> 00:06:34,290
+<4-16,Sheldon>如果我能表现得好像我关心我的学生们
+<4-16,Sheldon>It might help if I could act as though I care
+
+137
+00:06:34,290 --> 00:06:37,190
+<4-16,Sheldon>在意他们学没学会  没准儿还有点儿用
+<4-16,Sheldon>about my students and whether or not they learn.
+
+138
+00:06:39,970 --> 00:06:41,400
+<5-1,Sheldon>佩妮
+<5-1,Sheldon>Penny.
+
+139
+00:06:41,400 --> 00:06:44,130
+<5-1,Sheldon>佩妮  佩妮
+<5-1,Sheldon>Penny. Penny.
+
+140
+00:06:45,700 --> 00:06:46,730
+<5-2,Penny>干嘛
+<5-2,Penny>What?
+
+141
+00:06:46,730 --> 00:06:49,540
+<5-3,Sheldon>你是个"演员"  对吧
+<5-3,Sheldon>You're an "actress," correct?
+
+142
+00:06:50,310 --> 00:06:51,920
+<5-4,Penny>我不是"演员"
+<5-4,Penny>I'm not an "actress."
+
+143
+00:06:51,920 --> 00:06:53,740
+<5-4,Penny>我就是演员
+<5-4,Penny>I'm an actress.
+
+144
+00:06:55,130 --> 00:06:55,830
+<5-4,Penny>好吧
+<5-4,Penny>All right.
+
+145
+00:06:55,830 --> 00:06:57,780
+<5-4,Penny>你是个演员
+<5-4,Penny>You're an actress.
+
+146
+00:06:59,350 --> 00:07:00,850
+<5-5,Sheldon>我需要你教教我
+<5-5,Sheldon>I need you to teach me.
+
+147
+00:07:00,850 --> 00:07:02,150
+<5-6,Penny>你想上一节表演课
+<5-6,Penny>You want an acting lesson?
+
+148
+00:07:02,150 --> 00:07:05,300
+<5-7,Sheldon>没准儿得两节  我想学精一点儿
+<5-7,Sheldon>Perhaps two. I'd like to master the craft.
+
+149
+00:07:06,430 --> 00:07:08,640
+<5-8,Penny>你怎么忽然想到这个的
+<5-8,Penny>Okay, where is this coming from?
+
+150
+00:07:08,640 --> 00:07:11,800
+<5-9,Sheldon>有人建议我说  表演技巧
+<5-9,Sheldon>It has been suggested to me that acting techniques
+
+151
+00:07:11,800 --> 00:07:13,920
+<5-9,Sheldon>能够提高我的教学水平
+<5-9,Sheldon>could improve my lecturing, at which,
+
+152
+00:07:13,920 --> 00:07:16,280
+<5-9,Sheldon>如果有人相信那些微博和博客的话
+<5-9,Sheldon>if certain tweets and blogs are to be believed,
+
+153
+00:07:16,280 --> 00:07:17,780
+<5-9,Sheldon>我貌似"不很擅长教学"
+<5-9,Sheldon>I "suck the big one."
+
+154
+00:07:19,430 --> 00:07:20,950
+<5-10,Penny>啊  我都看过了  写得很好玩
+<5-10,Penny>Yeah, I saw those. They were funny.
+
+155
+00:07:20,950 --> 00:07:23,500
+<5-10,Penny>我还打印了一些出来  贴在冰箱上了
+<5-10,Penny>I printed a few out and put 'em on my fridge.
+
+156
+00:07:24,460 --> 00:07:26,030
+<5-11,Sheldon>那咱们什么时候开始上课
+<5-11,Sheldon>So, when could we start?
+
+157
+00:07:26,030 --> 00:07:27,430
+<5-12,Penny>好吧  先把话说清楚了
+<5-12,Penny>Okay, just to be clear.
+
+158
+00:07:27,430 --> 00:07:30,100
+<5-12,Penny>你找我帮忙是因为我会一些
+<5-12,Penny>You are asking me for help because I know something
+
+159
+00:07:30,100 --> 00:07:33,190
+<5-12,Penny>你这位聪慧的谢尔顿·库珀博士不会的东西
+<5-12,Penny>that the brilliant Dr. Sheldon Cooper doesn't.
+
+160
+00:07:33,900 --> 00:07:36,490
+<5-13,Sheldon>你这样解释也行
+<5-13,Sheldon>I suppose that's one way to look at it.
+
+161
+00:07:37,170 --> 00:07:39,590
+<5-14,Penny>我认为这是唯一的解释了
+<5-14,Penny>I think it's the only way to look at it.
+
+162
+00:07:40,060 --> 00:07:41,340
+<5-15,Sheldon>你到底帮不帮我嘛
+<5-15,Sheldon>Are you going to help me or not?
+
+163
+00:07:41,340 --> 00:07:43,630
+<5-16,Penny>考虑看看  我只是比较享受这段前戏
+<5-16,Penny>Probably. I'm just enjoying the foreplay.
+
+164
+00:07:44,910 --> 00:07:47,520
+<5-16,Penny>这是不是就意味着你不会再嘲笑我的演艺事业了
+<5-16,Penny>Does this mean you are done mocking my acting career?
+
+165
+00:07:47,520 --> 00:07:50,120
+<5-17,Sheldon>真不好意思  我以为你由演员
+<5-17,Sheldon>Oh, I'm sorry, I thought making the transition
+
+166
+00:07:50,120 --> 00:07:52,040
+<5-17,Sheldon>转变为表演课老师
+<5-17,Sheldon>from actor to acting teacher
+
+167
+00:07:52,040 --> 00:07:53,460
+<5-17,Sheldon>就已经意味着
+<5-17,Sheldon>was the signal that one's career
+
+168
+00:07:53,460 --> 00:07:55,700
+<5-17,Sheldon>你的事业走到了尽头了
+<5-17,Sheldon>had reached the end of the road.
+
+169
+00:07:57,570 --> 00:07:58,330
+<5-18,Penny>算了吧
+<5-18,Penny>Forget it.
+
+170
+00:07:58,330 --> 00:08:00,210
+<5-19,Sheldon>我付你四十美金
+<5-19,Sheldon>I'll pay you $40.
+
+171
+00:08:00,690 --> 00:08:02,810
+<5-20,Penny>周六早上九点  带现金来
+<5-20,Penny>Saturday, 9:00 a.m. Bring cash.
+
+172
+00:08:05,540 --> 00:08:06,960
+<6-1,Howard>拉杰  我有好消息要宣布
+<6-1,Howard>Raj, I have amazing news!
+
+173
+00:08:06,960 --> 00:08:07,760
+<6-2,Raj>什么好消息
+<6-2,Raj>What?
+
+174
+00:08:07,760 --> 00:08:09,040
+<6-3,Howard>以色列的魏茨曼研究所刚刚通知我
+<6-3,Howard>I just got offered a fellowship
+
+175
+00:08:09,040 --> 00:08:11,210
+<6-3,Howard>他们给我提供了学术奖学金邀我过去
+<6-3,Howard>at the Weitzmann Institute in Israel.
+
+176
+00:08:11,210 --> 00:08:13,050
+<6-4,Raj>-伙计  这太棒了  -就是
+<6-4,Raj>- Dude, that's incredible!  - I know.
+
+177
+00:08:13,050 --> 00:08:16,140
+<6-5,Howard>唯一的问题是  我得离开两年
+<6-5,Howard>The only thing is, I'm gonna be gone for two years.
+
+178
+00:08:16,140 --> 00:08:17,940
+<6-6,Raj>我会想你的
+<6-6,Raj>Aw, I'm gonna miss you.
+
+179
+00:08:17,940 --> 00:08:18,920
+<6-6,Raj>你跟他一起去吗
+<6-6,Raj>Are you going with him?
+
+180
+00:08:18,920 --> 00:08:20,530
+<6-7,Bernadette>我得留在这上学
+<6-7,Bernadette>I have to stay here for school.
+
+181
+00:08:20,530 --> 00:08:22,670
+<6-8,Howard>我们就是来找你谈这件事的
+<6-8,Howard>That's what we're here to talk to you about.
+
+182
+00:08:22,670 --> 00:08:26,100
+<6-8,Howard>你知道  伯纳黛特也是有需求的
+<6-8,Howard>You see, Bernadette has needs.
+
+183
+00:08:28,690 --> 00:08:30,560
+<6-9,Raj>什么需求
+<6-9,Raj>What kind of needs?
+
+184
+00:08:30,560 --> 00:08:32,380
+<6-10,Howard>性需求
+<6-10,Howard>Sexual needs.
+
+185
+00:08:33,320 --> 00:08:34,570
+<6-11,Bernadette>大部分都还比较正常
+<6-11,Bernadette>Most of them regular,
+
+186
+00:08:34,570 --> 00:08:37,020
+<6-11,Bernadette>但也有些比较狂野的
+<6-11,Bernadette>some of them kind of messed up.
+
+187
+00:08:40,280 --> 00:08:41,740
+<6-12,Howard>所以  我不在的时候
+<6-12,Howard>So, while I'm gone,
+
+188
+00:08:41,740 --> 00:08:44,670
+<6-12,Howard>就得靠你来满足她了
+<6-12,Howard>you're going to have to satisfy her.
+
+189
+00:08:45,650 --> 00:08:47,320
+<6-13,Bernadette>你同意吗
+<6-13,Bernadette>What do you say?
+
+190
+00:08:48,340 --> 00:08:50,530
+<6-14,Raj>乐意之至
+<6-14,Raj>I say okey-dokey.
+
+191
+00:08:56,990 --> 00:08:59,410
+<6-15,Howard (to the real Raj who is daydreaming)>你这么认真地想什么呢
+<6-15,Howard (to the real Raj who is daydreaming)>What ya thinking so hard about?
+
+192
+00:08:59,410 --> 00:09:02,340
+<6-16,Raj>我只是在想我绝对不是同性恋
+<6-16,Raj>Just that I'm definitely not gay.
+
+193
+00:09:10,100 --> 00:09:11,580
+<6-16,Raj>佩妮
+<6-16,Raj>Penny!
+
+194
+00:09:11,580 --> 00:09:13,780
+<7-1,Sheldon>佩妮  佩妮
+<7-1,Sheldon>Penny! Penny!
+
+195
+00:09:14,540 --> 00:09:15,370
+<7-2,Penny>出什么事了
+<7-2,Penny>What's wrong?
+
+196
+00:09:15,370 --> 00:09:17,540
+<7-3,Sheldon>没事  我在演戏而已
+<7-3,Sheldon>Nothing. I was acting.
+
+197
+00:09:19,540 --> 00:09:20,700
+<7-4,Penny>你在演戏
+<7-4,Penny>You were acting.
+
+198
+00:09:20,700 --> 00:09:23,110
+<7-5,Sheldon>没错  我为了今天要上的课做了很多预习
+<7-5,Sheldon>Yes. In preparation for today's studies,
+
+199
+00:09:23,110 --> 00:09:25,610
+<7-5,Sheldon>我读了斯坦尼斯拉夫斯基的《演员的准备》
+<7-5,Sheldon>I read Stanislavski's An Actor Prepares,
+
+201
+00:09:25,610 --> 00:09:27,510
+<7-3,Sheldon>斯特拉·阿德勒的《演戏的技术》
+<7-3,Sheldon>Stella Adler's The Technique of Acting,
+
+202
+00:09:27,510 --> 00:09:29,260
+<7-4,Penny>犹他·哈根的《尊重表演艺术》
+<7-4,Penny>Uta Hagen's Respect for Acting,
+
+203
+00:09:29,260 --> 00:09:32,450
+<7-5,Sheldon>和亨利·温克勒的《欸, 我是演员》
+<7-5,Sheldon>and Henry Winkler's Ayyy, I'm an Actor.
+
+204
+00:09:33,630 --> 00:09:34,470
+<7-6,Penny>真不错
+<7-6,Penny>Well, good for you.
+
+205
+00:09:34,470 --> 00:09:35,810
+<7-6,Penny>进来吧
+<7-6,Penny>Come on in.
+
+206
+00:09:36,400 --> 00:09:37,660
+<7-7,Sheldon>我们怎么开始
+<7-7,Sheldon>How shall we begin?
+
+207
+00:09:37,660 --> 00:09:39,050
+<7-8,Penny>我认为我们可以
+<7-8,Penny>Well, I thought we'd start
+
+208
+00:09:39,050 --> 00:09:41,570
+<7-8,Penny>先做一些基础的动作练习
+<7-8,Penny>with some basic movement exercises.
+
+209
+00:09:41,570 --> 00:09:43,440
+<7-8,Penny>就是稍微热热身
+<7-8,Penny>You know, get our bodies warmed up a little.
+
+210
+00:09:43,440 --> 00:09:44,300
+<7-9,Sheldon>好吧
+<7-9,Sheldon>All right.
+
+211
+00:09:44,300 --> 00:09:45,590
+<7-10,Penny>我想让你放松
+<7-10,Penny>So I just want you to relax
+
+212
+00:09:45,590 --> 00:09:47,750
+<7-10,Penny>随意的扭动一下身体
+<7-10,Penny>and kind of move around in the space.
+
+213
+00:09:47,750 --> 00:09:50,820
+<7-10,Penny>你觉得怎么自然就怎么来
+<7-10,Penny>You know, just do whatever feels natural.
+
+214
+00:09:58,340 --> 00:09:59,420
+<7-10,Penny>谢尔顿
+<7-10,Penny>Sheldon?
+
+215
+00:09:59,420 --> 00:10:02,270
+<7-11,Sheldon (doing nothing)>你说让我觉得怎么自然就怎么来
+<7-11,Sheldon (doing nothing)>You said to do whatever feels natural.
+
+216
+00:10:02,270 --> 00:10:04,130
+<7-11,Sheldon (doing nothing)>我这样就挺自然的
+<7-11,Sheldon (doing nothing)>This feels natural.
+
+217
+00:10:04,800 --> 00:10:05,590
+<7-11,Sheldon (doing nothing)>肯定比你在做的那些动作
+<7-11,Sheldon (doing nothing)>Certainly more natural
+
+218
+00:10:05,590 --> 00:10:07,000
+<7-11,Sheldon (doing nothing)>要自然得多
+<7-11,Sheldon (doing nothing)>than what you're doing.
+
+219
+00:10:07,790 --> 00:10:08,760
+<7-12,Penny>拜托  你得配合我
+<7-12,Penny>Come on, you got to work with me.
+
+220
+00:10:08,760 --> 00:10:10,900
+<7-12,Penny>我们要跟我们的身体建立联系
+<7-12,Penny>We need to get connected with our bodies.
+
+221
+00:10:10,900 --> 00:10:13,480
+<7-13,Sheldon>佩妮  我和我的身体
+<7-13,Sheldon>Penny, my body and I have a relationship
+
+222
+00:10:13,480 --> 00:10:15,690
+<7-13,Sheldon>在双方都很酷并且保持一定距离的情况下
+<7-13,Sheldon>that works best when we maintain a cool,
+
+223
+00:10:15,690 --> 00:10:17,910
+<7-13,Sheldon>才能运作的最好
+<7-13,Sheldon>wary distance from each other.
+
+224
+00:10:20,610 --> 00:10:23,130
+<7-14,Penny>好吧  就当咱们已经热过身了吧
+<7-14,Penny>All right, let's just say we've warmed up.
+
+225
+00:10:23,130 --> 00:10:24,650
+<7-15,Sheldon>你是"老师"  你说了算
+<7-15,Sheldon>You're the "teacher" .
+
+226
+00:10:26,470 --> 00:10:28,700
+<7-16,Penny>好吧  你要是想跟你的学生
+<7-16,Penny>Okay. One of the things that might help you
+
+227
+00:10:28,700 --> 00:10:30,090
+<7-16,Penny>建立沟通  其中一个有效的办法
+<7-16,Penny>in connecting with your students
+
+228
+00:10:30,090 --> 00:10:32,350
+<7-16,Penny>就是要自然一些
+<7-16,Penny>is being a little more spontaneous.
+
+229
+00:10:32,350 --> 00:10:34,100
+<7-16,Penny>所以咱们试试即兴表演怎么样
+<7-16,Penny>So why don't we try some improvisation?
+
+230
+00:10:34,100 --> 00:10:35,240
+<7-17,Sheldon>当然好啦  反正
+<7-17,Sheldon>Why not? It seems like
+
+231
+00:10:35,240 --> 00:10:37,770
+<7-17,Sheldon>你整个教学过程也都是在即兴表演
+<7-17,Sheldon>you're improvising your entire curriculum.
+
+232
+00:10:39,960 --> 00:10:42,690
+<7-18,Penny>这主要练习的就是倾听和反应能力
+<7-18,Penny>This is all about listening and responding.
+
+233
+00:10:42,690 --> 00:10:43,350
+<7-19,Sheldon>明白
+<7-19,Sheldon>Gotcha.
+
+234
+00:10:43,350 --> 00:10:44,460
+<7-20,Penny>我要创造一个角色
+<7-20,Penny>I'm going to create a character
+
+235
+00:10:44,460 --> 00:10:46,570
+<7-20,Penny>和一个场景  你准备好了就加入我的表演
+<7-20,Penny>and a situation, and you just jump in when you feel it.
+
+236
+00:10:46,570 --> 00:10:48,050
+<7-22,Penny>-好的  -那开始了
+<7-22,Penny>- All right.  - All right.
+
+237
+00:10:48,260 --> 00:10:49,560
+<7-23,Sheldon>开拍
+<7-23,Sheldon>Action.
+
+238
+00:10:52,280 --> 00:10:53,810
+<7-24,Penny>好吧  这不是在演电影
+<7-24,Penny>Okay, it's not a movie.
+
+239
+00:10:53,810 --> 00:10:55,900
+<7-24,Penny>这只是即兴表演  所以用不着叫"开拍"
+<7-24,Penny>It's improv. So no one calls "action" .
+
+240
+00:10:55,900 --> 00:10:58,000
+<7-25,Sheldon>你还真教了我点东西呢
+<7-25,Sheldon>Hey, you taught me something.
+
+241
+00:10:58,910 --> 00:11:00,610
+<7-25,Sheldon>谁能想到会有这么一天
+<7-25,Sheldon>Who would have thought it?
+
+242
+00:11:02,690 --> 00:11:04,250
+<7-25,Sheldon>好吧
+<7-25,Sheldon>Okay.
+
+243
+00:11:04,250 --> 00:11:05,750
+<7-26,Penny>不  货还没送到呢
+<7-26,Penny>Uh, no, the shipment has not arrived,
+
+244
+00:11:05,750 --> 00:11:06,940
+<7-26,Penny>我真的很急着要那批鞋子
+<7-26,Penny>and I really need those shoes.
+
+245
+00:11:06,940 --> 00:11:08,340
+<7-26,Penny>那可是我卖的最好的货
+<7-26,Penny>They are my biggest seller.
+
+246
+00:11:08,340 --> 00:11:10,500
+<7-26,Penny>没错  六到十码的女鞋
+<7-26,Penny>Yes, ladies sizes six through ten.
+
+247
+00:11:10,500 --> 00:11:11,530
+<7-26,Penny>谢谢  抱歉
+<7-26,Penny>Thank you. Oh, sorry.
+
+248
+00:11:11,530 --> 00:11:13,660
+<7-26,Penny>我得挂了  有客人上门了  再见
+<7-26,Penny>I have to go. I have a customer. Bye-bye.
+
+249
+00:11:14,270 --> 00:11:15,800
+<7-26,Penny>有什么可以帮到你的吗
+<7-26,Penny>Hi. Can I help you?
+
+250
+00:11:15,800 --> 00:11:18,480
+<7-27,Sheldon>请给我来一杯冻酸奶  谢谢
+<7-27,Sheldon>I'd like a frozen yogurt, please.
+
+251
+00:11:22,360 --> 00:11:23,920
+<7-28,Penny>酸奶
+<7-28,Penny>Yogurt?
+
+252
+00:11:24,560 --> 00:11:25,280
+<7-30,Penny>好吧  没问题
+<7-30,Penny>Okay, sure.
+
+253
+00:11:25,280 --> 00:11:29,210
+<7-30,Penny>还好我们又卖鞋又卖酸奶
+<7-30,Penny>Luckily, we sell both shoes and yogurt here.
+
+254
+00:11:30,610 --> 00:11:32,170
+<7-31,Sheldon>是吗
+<7-31,Sheldon>You do?
+
+255
+00:11:33,440 --> 00:11:35,060
+<7-32,Penny>是啊  你抬头看看我们的招牌
+<7-32,Penny>Yes. Look up at the sign,
+
+256
+00:11:35,060 --> 00:11:38,640
+<7-32,Penny>你还要记着  即兴表演就是要说是
+<7-32,Penny>and remember, improv is always about saying yes.
+
+257
+00:11:38,640 --> 00:11:40,290
+<7-32,Penny>好吧
+<7-32,Penny>All right.
+
+258
+00:11:40,720 --> 00:11:42,470
+<7-32,Penny>是耶
+<7-32,Penny>Yes.
+
+259
+00:11:43,670 --> 00:11:45,330
+<7-33,Sheldon>我看到招牌了
+<7-33,Sheldon>I see a sign.
+
+260
+00:11:45,330 --> 00:11:49,500
+<7-33,Sheldon>上面写着"卡马里奥州精神病院"
+<7-33,Sheldon>It says "Camarillo State Mental Hospital" .
+
+261
+00:11:50,920 --> 00:11:52,210
+<7-34,Penny>什么
+<7-34,Penny>What?
+
+262
+00:11:52,210 --> 00:11:54,330
+<7-35,Sheldon>只有这个理由才能解释
+<7-35,Sheldon>It's the only explanation I can come up with
+
+263
+00:11:54,330 --> 00:11:57,690
+<7-35,Sheldon>你怎么会认为自己又卖鞋又卖酸奶
+<7-35,Sheldon>for why you think you sell shoes and yogurt.
+
+264
+00:11:58,690 --> 00:11:59,510
+<7-36,Penny>好吧  这样好了
+<7-36,Penny>Okay, you know what?
+
+265
+00:11:59,510 --> 00:12:01,920
+<7-36,Penny>咱们换个即兴表演的主题
+<7-36,Penny>Let's just try a different improv. Uh..
+
+266
+00:12:01,920 --> 00:12:04,190
+<7-36,Penny>这次咱俩演两个
+<7-36,Penny>Oh, this time we will be two winos
+
+267
+00:12:04,190 --> 00:12:06,290
+<7-36,Penny>住在高速公路天桥下的酒鬼好了
+<7-36,Penny>living under a freeway overpass.
+
+268
+00:12:06,290 --> 00:12:08,490
+<7-37,Sheldon>我们都可以用道具了
+<7-37,Sheldon>Oh, and we're going to use props?
+
+269
+00:12:08,490 --> 00:12:10,030
+<7-38,Penny>必须的
+<7-38,Penny>You bet.
+
+270
+00:12:12,500 --> 00:12:14,050
+<7-38,Penny>我也是有梦想的  知道吗
+<7-38,Penny>I had dreams, you know.
+
+271
+00:12:14,050 --> 00:12:15,540
+<7-38,Penny>我想出名
+<7-38,Penny>I was gonna be famous.
+
+272
+00:12:15,540 --> 00:12:17,190
+<7-38,Penny>让我家乡的人都看看  我也能出人头地
+<7-38,Penny>Show everybody back home I could be someone.
+
+273
+00:12:17,190 --> 00:12:18,630
+<7-38,Penny>可你看看我现在这样
+<7-38,Penny>Now look at me.
+
+274
+00:12:20,350 --> 00:12:21,570
+<7-38,Penny>喝点吗
+<7-38,Penny>Want some?
+
+275
+00:12:21,910 --> 00:12:23,800
+<7-39,Sheldon>你有冻酸奶吗
+<7-39,Sheldon>You have any frozen yogurt?
+
+276
+00:12:28,750 --> 00:12:29,620
+<8-1,Leonard>我还是不明白
+<8-1,Leonard>I'm still not adjusted
+
+277
+00:12:29,620 --> 00:12:32,600
+<8-1,Leonard>幻想频道怎么会是这样拼写
+<8-1,Leonard>to how the SyFy channel spells their name now.
+
+279
+00:12:32,600 --> 00:12:35,130
+<8-2,Raj>S-y-F-y  那就成"饭想"了
+<8-2,Raj>S-y-F-y. That's "siffy" .
+
+280
+00:12:41,990 --> 00:12:43,320
+<8-3,Leonard (phone rings)>喂
+<8-3,Leonard (phone rings)>Hello?
+
+281
+00:12:45,480 --> 00:12:47,490
+<8-3,Leonard (phone rings)>天啊  他没事吧
+<8-3,Leonard (phone rings)>Oh, my God! Is he okay?
+
+282
+00:12:47,490 --> 00:12:49,500
+<8-5,Leonard>-出什么事了  -等一下  等一下
+<8-5,Leonard>- What happened?  - Hang on. Hang on.
+
+283
+00:12:51,460 --> 00:12:52,900
+<8-5,Leonard>好的  谢谢
+<8-5,Leonard>Okay, thank you.
+
+284
+00:12:53,790 --> 00:12:56,100
+<8-5,Leonard>霍华德骑摩托车的时候被一辆卡车给撞了
+<8-5,Leonard>Howard was on his scooter, and got hit by a truck.
+
+285
+00:12:56,100 --> 00:12:58,100
+<8-5,Leonard>他现在情况危殆
+<8-5,Leonard>He's in critical condition.
+
+286
+00:12:58,100 --> 00:12:59,980
+<8-6,Raj>不
+<8-6,Raj>Oh, no!
+
+287
+00:13:02,580 --> 00:13:03,620
+<8-7,Bernadette>你们听说了吗
+<8-7,Bernadette>Did you hear?
+
+288
+00:13:03,620 --> 00:13:05,170
+<8-7,Bernadette>太可怕了
+<8-7,Bernadette>Isn't it terrible?
+
+289
+00:13:05,170 --> 00:13:06,180
+<8-8,Leonard>你见到他了吗
+<8-8,Leonard>Have you seen him?
+
+290
+00:13:06,180 --> 00:13:07,970
+<8-9,Bernadette>他们不让我进去
+<8-9,Bernadette>They wouldn't let me in.
+
+291
+00:13:07,970 --> 00:13:10,530
+<8-9,Bernadette>我的霍霍呀
+<8-9,Bernadette>Oh, my Howie.
+
+292
+00:13:10,920 --> 00:13:14,380
+<8-10,Leonard>不会有事的  不会有事的
+<8-10,Leonard>It'll be okay. It'll be okay.
+
+293
+00:13:14,380 --> 00:13:15,810
+<8-10,Leonard>不会有事的
+<8-10,Leonard>It'll be okay.
+
+294
+00:13:15,810 --> 00:13:17,700
+<8-10,Leonard>不会有事的
+<8-10,Leonard>It'll be okay.
+
+295
+00:13:20,920 --> 00:13:22,320
+<8-11,Raj>是霍华德
+<8-11,Raj>It's Howard.
+
+296
+00:13:23,480 --> 00:13:25,040
+<8-11,Raj>喂  霍华德
+<8-11,Raj>Howard, hello.
+
+297
+00:13:25,040 --> 00:13:27,090
+<8-12,Howard>拉杰  是你吗
+<8-12,Howard>Raj, is that you?
+
+298
+00:13:28,170 --> 00:13:30,100
+<8-13,Raj>是的  我就在这  兄弟  你还好吗
+<8-13,Raj>Yeah, I'm right here, buddy. How are you?
+
+299
+00:13:30,100 --> 00:13:31,830
+<8-14,Howard>听我说
+<8-14,Howard>Shh, shh. Listen to me.
+
+300
+00:13:31,830 --> 00:13:33,470
+<8-14,Howard>我撑不过了
+<8-14,Howard>I'm not gonna make it.
+
+301
+00:13:33,470 --> 00:13:34,480
+<8-15,Raj>不  不  不  别这么说
+<8-15,Raj>No, no, no, don't say that.
+
+302
+00:13:34,480 --> 00:13:35,950
+<8-15,Raj>你会没事的
+<8-15,Raj>You're going to be all right.
+
+303
+00:13:35,950 --> 00:13:39,350
+<8-16,Howard>拉杰  我时间不多了  好好听我说
+<8-16,Howard>Raj, I don't have time. Now, pay attention.
+
+304
+00:13:39,350 --> 00:13:43,360
+<8-16,Howard>我最后的愿望就是你要好好照顾伯纳黛特
+<8-16,Howard>My last wish is that you look after Bernadette.
+
+305
+00:13:43,360 --> 00:13:45,770
+<8-17,Raj>当然了  当然了
+<8-17,Raj>Of course, of course.
+
+306
+00:13:47,430 --> 00:13:50,120
+<8-17,Raj>不过你说"照顾"是指
+<8-17,Raj>Now when you say "look after", you mean...
+
+307
+00:13:50,630 --> 00:13:52,040
+<8-18,Bernadette>性方面的
+<8-18,Bernadette>Sexually.
+
+308
+00:13:52,040 --> 00:13:54,890
+<8-19,Raj>对不起  伯纳黛特  我得听他亲口说出来
+<8-19,Raj>Excuse me, Bernadette. I have to hear it from him.
+
+309
+00:13:56,130 --> 00:13:58,010
+<8-18,Bernadette>性需求
+<8-18,Bernadette>Sexually.
+
+310
+00:13:58,760 --> 00:14:00,310
+<8-21,Raj>哦了  保重啦
+<8-21,Raj>Got it. Take care.
+
+311
+00:14:02,040 --> 00:14:02,940
+<8-21,Raj>我别无选择
+<8-21,Raj>I guess I have no choice
+
+312
+00:14:02,940 --> 00:14:04,740
+<8-21,Raj>只能在余生  一而再再而三
+<8-21,Raj>but to make sweet, guilt-free love to you
+
+313
+00:14:04,740 --> 00:14:06,990
+<8-21,Raj>毫无罪恶地跟你享受甜蜜爱欲
+<8-21,Raj>over and over again for the rest of my life.
+
+314
+00:14:06,990 --> 00:14:08,810
+<8-22,Bernadette>这也是我亲耳所闻的
+<8-22,Bernadette>That's how I heard it.
+
+315
+00:14:15,450 --> 00:14:17,270
+<8-23,Leonard (out of Raj’s daydream)>又或者可以取名为"幻仙"
+<8-23,Leonard (out of Raj’s daydream)>Or it could be "sy-fee."
+
+316
+00:14:17,560 --> 00:14:18,680
+<8-24,Raj>你说什么
+<8-24,Raj>What?
+
+317
+00:14:18,680 --> 00:14:21,430
+<8-25,Leonard>S-y-F-y. "幻仙"
+<8-25,Leonard>S-y-F-y. "Sy-fee."
+
+318
+00:14:21,430 --> 00:14:23,050
+<8-26,Raj>好吧
+<8-26,Raj>Oh, right.
+
+319
+00:14:23,050 --> 00:14:24,580
+<8-26,Raj>给力
+<8-26,Raj>Good one.
+
+320
+00:14:27,150 --> 00:14:29,440
+<9-1,Penny>对了  你有时间看一遍我给你的那部电影吗
+<9-1,Penny>So, did you get a chance to go over the scene I gave you?
+
+321
+00:14:29,440 --> 00:14:31,880
+<9-2,Sheldon>看了  但是我不喜欢
+<9-2,Sheldon>Yes. I didn't care for it.
+
+322
+00:14:34,010 --> 00:14:37,430
+<9-3,Penny>《朱门巧妇》可是美国经典中的经典
+<9-3,Penny>Okay, Cat on a Hot Tin Roof is an American classic.
+
+324
+00:14:37,430 --> 00:14:38,870
+<9-4,Sheldon>传奇汉堡也是
+<9-4,Sheldon>So is the McRib sandwich.
+
+325
+00:14:38,870 --> 00:14:40,490
+<9-4,Sheldon>可我照样也不喜欢它
+<9-4,Sheldon>I don't care for that, either.
+
+326
+00:14:43,540 --> 00:14:46,500
+<9-5,Penny>好吧  那在场景学习方面  你到底想怎么做
+<9-5,Penny>Fine. What would you rather do as a scene study?
+
+327
+00:14:46,500 --> 00:14:47,960
+<9-6,Sheldon>很高兴你能这么问
+<9-6,Sheldon>I'm glad you asked.
+
+328
+00:14:47,960 --> 00:14:49,330
+<9-6,Sheldon>我擅自把我
+<9-6,Sheldon>I took the liberty
+
+329
+00:14:49,330 --> 00:14:52,340
+<9-6,Sheldon>十岁那年写的《星际迷航》同人小说
+<9-6,Sheldon>of adapting a Star Trek fan fiction novella
+
+330
+00:14:52,340 --> 00:14:56,010
+<9-6,Sheldon>改编成一部独幕剧
+<9-6,Sheldon>I wrote when I was ten into a one-act play.
+
+331
+00:14:57,050 --> 00:14:59,850
+<9-7,Penny>而你觉得比田纳西·威廉姆斯写的强多了
+<9-7,Penny>And you think it's better than Tennessee Williams?
+
+333
+00:15:00,140 --> 00:15:03,250
+<9-8,Sheldon>为什么不留给后代去决定呢
+<9-8,Sheldon>Why don't we leave that for future generations to decide?
+
+334
+00:15:04,400 --> 00:15:06,930
+<9-9,Penny>《那些谢尔顿未曾到过的地方》
+<9-9,Penny>Where No Sheldon Has Gone Before.
+
+335
+00:15:07,670 --> 00:15:10,960
+<9-10,Sheldon>这个故事是发生在东德克萨斯州
+<9-10,Sheldon>It's the story of a young boy who is transported
+
+336
+00:15:10,960 --> 00:15:13,550
+<9-10,Sheldon>在愚昧无知的边远地区  一个少年郎
+<9-10,Sheldon>from the ignorant backwoods of East Texas
+
+337
+00:15:13,550 --> 00:15:15,120
+<9-10,Sheldon>被送到二十三世纪
+<9-10,Sheldon>to the 23rd Century,
+
+338
+00:15:15,120 --> 00:15:19,720
+<9-10,Sheldon>在那里  他的聪明才智不仅为人赏识  而且被人盛赞
+<9-10,Sheldon>where his genius is not only appreciated, but celebrated.
+
+339
+00:15:20,460 --> 00:15:22,600
+<9-11,Penny>杀了我吧
+<9-11,Penny>KMN...
+
+340
+00:15:23,630 --> 00:15:25,520
+<9-12,Sheldon>现在  在这场关键的戏里
+<9-12,Sheldon>Now, in this pivotal scene,
+
+341
+00:15:25,520 --> 00:15:29,170
+<9-12,Sheldon>你扮演的谢尔顿的母亲  与星际联邦的特使
+<9-12,Sheldon>Sheldon's mother, played by you, argues with an emissary
+
+342
+00:15:29,170 --> 00:15:32,240
+<9-12,Sheldon>斯波克先生发生争吵  而斯波克先生
+<9-12,Sheldon>of the United Federation of Planets, Mr. Spock,
+
+343
+00:15:32,240 --> 00:15:34,470
+<9-12,Sheldon>则由我来生动的展现
+<9-12,Sheldon>the role I will bring to life.
+
+344
+00:15:35,560 --> 00:15:37,740
+<9-13,Penny>好吧  这样也行  但咱们先试试
+<9-13,Penny>Okay, that's fine, but let's try
+
+345
+00:15:37,740 --> 00:15:39,710
+<9-13,Penny>让你脱离你的舒适区
+<9-13,Penny>and get you out of your comfort zone.
+
+346
+00:15:39,710 --> 00:15:41,390
+<9-14,Sheldon>为什么咱们要这么做
+<9-14,Sheldon>Why would we want to do that?
+
+347
+00:15:41,390 --> 00:15:43,670
+<9-14,Sheldon>"舒适区"之所以这么叫  是有原因的
+<9-14,Sheldon>It's called "the comfort zone" for a reason.
+
+348
+00:15:44,370 --> 00:15:46,660
+<9-15,Penny>这么做的原因是让你放松点儿
+<9-15,Penny>Okay, the whole point of this is to loosen you up a little,
+
+349
+00:15:46,660 --> 00:15:49,070
+<9-15,Penny>所以我觉得你应该扮演母亲的角色
+<9-15,Penny>so I'm thinking you'll play the role of your mother,
+
+350
+00:15:49,070 --> 00:15:52,420
+<9-15,Penny>而我负责来生动展现斯波克先生
+<9-15,Penny>and I will bring life to Mr. Spock.
+
+351
+00:15:58,310 --> 00:15:59,340
+<9-16,Sheldon>我没听错吧
+<9-16,Sheldon>I'm sorry.
+
+352
+00:15:59,340 --> 00:16:01,060
+<9-16,Sheldon>由你来演斯波克
+<9-16,Sheldon>You'll be Spock?
+
+353
+00:16:01,060 --> 00:16:03,460
+<9-17,Penny>这才符合逻辑[Spock 台词]
+<9-17,Penny>It's only logical.
+
+354
+00:16:06,610 --> 00:16:07,830
+<9-18,Sheldon>很好
+<9-18,Sheldon>Very well.
+
+355
+00:16:08,270 --> 00:16:09,380
+<9-18,Sheldon>我来叙述一下背景
+<9-18,Sheldon>I'll set the scene.
+
+356
+00:16:09,380 --> 00:16:10,640
+<9-19,Penny>好的
+<9-19,Penny>All right.
+
+357
+00:16:11,190 --> 00:16:12,520
+<9-19,Penny>东德克萨斯州
+<9-19,Penny>"East Texas.
+
+358
+00:16:12,520 --> 00:16:14,510
+<9-20,Sheldon>一个温暖的夏夜
+<9-20,Sheldon>"A warm summer night.
+
+359
+00:16:14,510 --> 00:16:16,090
+<9-20,Sheldon>一个女人  玛丽
+<9-20,Sheldon>"A woman, Mary,
+
+360
+00:16:16,090 --> 00:16:17,800
+<9-20,Sheldon>站在阳台上
+<9-20,Sheldon>"stands on a porch.
+
+361
+00:16:17,800 --> 00:16:21,920
+<9-20,Sheldon>从远处传来  火车孤独的汽笛声
+<9-20,Sheldon>In the distance, we hear a lonesome train whistle..."
+
+362
+00:16:22,800 --> 00:16:25,330
+<9-20,Sheldon>知了单调的嗡嗡声
+<9-20,Sheldon>"The droning buzz of cicadas..""
+
+363
+00:16:26,610 --> 00:16:29,090
+<9-20,Sheldon>一只土狼冲着月亮嗷嚎
+<9-20,Sheldon>"A coyote howls at the moon,
+
+364
+00:16:29,090 --> 00:16:32,110
+<9-20,Sheldon>吓唬着四面八方心灵脆弱的少年郎
+<9-20,Sheldon>frightening sensitive young boys everywhere."
+
+365
+00:16:33,610 --> 00:16:34,870
+<9-20,Sheldon>在丛林之外
+<9-20,Sheldon>"Out in the woods,
+
+366
+00:16:34,870 --> 00:16:36,380
+<9-21,Penny>-一只猫头鹰发出毛骨悚然的尖叫声  -够了够了
+<9-21,Penny>- an owl screeches..." - Okay, okay.
+
+367
+00:16:36,380 --> 00:16:38,650
+<9-21,Penny>我懂了  你的背景叙述得很清楚了
+<9-21,Penny>We get it. You set the scene.
+
+368
+00:16:38,650 --> 00:16:39,930
+<9-22,Sheldon>呜呼
+<9-22,Sheldon>Hoo!
+
+369
+00:16:41,560 --> 00:16:43,690
+<9-23,Penny>快念你母亲角色的台词吧
+<9-23,Penny>Now just read your mother's line.
+
+370
+00:16:46,280 --> 00:16:47,660
+<9-23,Penny>"谢利
+<9-23,Penny>"Shelly!
+
+371
+00:16:47,660 --> 00:16:50,360
+<9-24,Sheldon>谢利  我跟你说过多少遍了
+<9-24,Sheldon>"Shelly, how many times have I told you
+
+372
+00:16:50,360 --> 00:16:54,670
+<9-24,Sheldon>别把你的实验工具放在阳台"
+<9-24,Sheldon>"not to leave your sciencey stuff out on the porch?
+
+373
+00:16:54,670 --> 00:16:55,530
+<9-24,Sheldon>"天啊
+<9-24,Sheldon>"Goodness,
+
+374
+00:16:55,530 --> 00:16:58,000
+<9-24,Sheldon>我永远都不懂这孩子"
+<9-24,Sheldon>"I'll never understand that boy.
+
+375
+00:16:58,000 --> 00:17:00,710
+<9-24,Sheldon>"不过再次声明  我是宗教迷
+<9-24,Sheldon>"But then again, I'm a religious nut,
+
+376
+00:17:00,710 --> 00:17:04,500
+<9-24,Sheldon>我的心灵已经把太多东西拒之门外了"
+<9-24,Sheldon>and my mind is closed to so many things."
+
+378
+00:17:09,180 --> 00:17:12,050
+<9-25,Penny>"斯波克呼叫进取号  发送成功"
+<9-25,Penny>"Spock to Enterprise. Transport successful."
+
+379
+00:17:12,050 --> 00:17:14,310
+<9-26,Sheldon>"荣耀归于上天
+<9-26,Sheldon>"Glory be to Heaven,
+
+380
+00:17:14,310 --> 00:17:18,000
+<9-26,Sheldon>某种不知名物体突然出现"
+<9-26,Sheldon>"some sort of creature just manifested out of thin air.
+
+381
+00:17:18,000 --> 00:17:20,580
+<9-26,Sheldon>"乔治  把你那装满威士忌的百事可乐罐放下
+<9-26,Sheldon>"George, put down that Pepsi can full of bourbon
+
+382
+00:17:20,580 --> 00:17:23,230
+<9-26,Sheldon>有时间做模作样  还不如赶紧把抢抗上呢"
+<9-26,Sheldon>that ain't foolin' no one, and get your shotgun!"
+
+383
+00:17:24,620 --> 00:17:26,370
+<9-27,Penny>"向你问候  玛丽·库珀
+<9-27,Penny>"Greetings, Mary Cooper.
+
+384
+00:17:26,370 --> 00:17:28,080
+<9-27,Penny>我是斯波克"
+<9-27,Penny>I am Spock."
+
+385
+00:17:31,360 --> 00:17:33,420
+<9-28,Sheldon>抱歉  我还是接受不了
+<9-28,Sheldon>I'm sorry. I just don't buy it.
+
+386
+00:17:34,510 --> 00:17:36,020
+<9-29,Penny>别停  继续演
+<9-29,Penny>Just keep going!
+
+387
+00:17:37,340 --> 00:17:40,930
+<9-30,Sheldon>"天啊  你的突然出现吓坏我了"
+<9-30,Sheldon>"Oh, my, your sudden appearance startles me."
+
+388
+00:17:40,930 --> 00:17:42,900
+<9-31,Penny>"我们在遥远的二十三世纪里
+<9-31,Penny>"We have been monitoring your son Sheldon
+
+389
+00:17:42,900 --> 00:17:44,690
+<9-31,Penny>一直密切关注着你的儿子  谢尔顿"
+<9-31,Penny>"from the 23rd Century, and
+
+390
+00:17:44,690 --> 00:17:46,490
+<9-31,Penny>"我们认为他现在已经够格
+<9-31,Penny>"we have determined that he is now ready
+
+391
+00:17:46,490 --> 00:17:47,520
+<9-31,Penny>加入我们的行列"
+<9-31,Penny>"to join us.
+
+392
+00:17:47,520 --> 00:17:49,560
+<9-31,Penny>"他独一无二的聪明才智  是能给我们
+<9-31,Penny>"His unique genius is our best hope
+
+393
+00:17:49,560 --> 00:17:52,830
+<9-31,Penny>广阔而混乱的星系  带来和平的最大希望"
+<9-31,Penny>for bringing peace to a vast and troubled galaxy."
+
+394
+00:17:52,830 --> 00:17:54,450
+<9-32,Sheldon>"我懂"
+<9-32,Sheldon>"I understand.
+
+395
+00:17:55,070 --> 00:17:56,220
+<9-32,Sheldon>"谢利
+<9-32,Sheldon>"Oh, Shelly?
+
+396
+00:17:56,220 --> 00:17:59,000
+<9-32,Sheldon>有个男人说要把你带去未来
+<9-32,Sheldon>"A man's here to take you away to the future!
+
+397
+00:17:59,000 --> 00:18:01,070
+<9-33,Penny>收拾的时候  记得带上干净的内裤哦"
+<9-33,Penny>Be sure to pack clean underwear."
+
+398
+00:18:02,380 --> 00:18:04,100
+<9-33,Penny>好  很好  咱们再试试最后那段台词
+<9-33,Penny>Okay, okay, let's try that last line again,
+
+399
+00:18:04,100 --> 00:18:06,790
+<9-33,Penny>这次你可以试着稍微带点哽咽
+<9-33,Penny>and this time, maybe try choking up a little.
+
+400
+00:18:06,790 --> 00:18:07,640
+<9-34,Sheldon>为毛
+<9-34,Sheldon>Why?
+
+401
+00:18:07,640 --> 00:18:09,290
+<9-35,Penny>你都快失去自己儿子了
+<9-35,Penny>Well, you're losing your son.
+
+402
+00:18:09,290 --> 00:18:11,790
+<9-36,Sheldon>没错  但是他将要去一个更好的地方
+<9-36,Sheldon>Yes, but he's going to a better place
+
+403
+00:18:11,790 --> 00:18:14,560
+<9-36,Sheldon>在那里他不会被人打击得  那么厉害
+<9-36,Sheldon>where he won't get beat up... so much.
+
+404
+00:18:15,020 --> 00:18:16,160
+<9-37,Penny>拜托啦  试着按我说的演一把
+<9-37,Penny>All right, come on, just try it my way.
+
+405
+00:18:16,160 --> 00:18:17,930
+<9-37,Penny>假装你很舍不得他走
+<9-37,Penny>Pretend you're sad to see him go.
+
+406
+00:18:17,930 --> 00:18:19,140
+<9-37,Penny>我会带你入戏的
+<9-37,Penny>I'm gonna lead you in.
+
+407
+00:18:20,440 --> 00:18:22,570
+<9-37,Penny>"他独一无二的聪明才智  是能给我们
+<9-37,Penny>"His unique genius is our best hope
+
+408
+00:18:22,570 --> 00:18:26,010
+<9-38,Sheldon>广阔而混乱的星系  带来和平的最大希望"
+<9-38,Sheldon>for bringing peace to a vast and troubled galaxy."
+
+409
+00:18:27,620 --> 00:18:31,140
+<9-38,Sheldon>-该你了  -抱歉  即使你演技浮夸了点
+<9-38,Sheldon>- That's your cue. - I'm sorry. I just love that line.
+
+410
+00:18:32,160 --> 00:18:34,100
+<9-38,Sheldon>但我依然爱这句台词爱到死
+<9-38,Sheldon>Even the way you do it.
+
+411
+00:18:35,310 --> 00:18:36,220
+<9-39,Penny>算了  快点  快点
+<9-39,Penny>All right, come on, come on.
+
+412
+00:18:36,220 --> 00:18:37,190
+<9-39,Penny>放点真感情进去
+<9-39,Penny>Put some real emotion into it.
+
+413
+00:18:37,190 --> 00:18:38,040
+<9-39,Penny>此处省略23个字
+<9-39,Penny>Blah-blah, blah, blah...
+
+414
+00:18:38,040 --> 00:18:40,180
+<9-39,Penny>从"带来和平的最大希望"  开始
+<9-39,Penny>"vast and troubled galaxy." Go.
+
+415
+00:18:41,730 --> 00:18:42,940
+<9-40,Sheldon>"谢利
+<9-40,Sheldon>"Oh, Shelly?
+
+416
+00:18:42,940 --> 00:18:46,010
+<9-40,Sheldon>有个男人说要把你带去未来
+<9-40,Sheldon>A man's here to take you away to the future""
+
+417
+00:18:49,940 --> 00:18:52,310
+<9-40,Sheldon>收拾的时候  记得带上干净的内裤哦"
+<9-40,Sheldon>"Be sure to pack clean underwear."
+
+418
+00:18:52,840 --> 00:18:54,560
+<9-41,Penny>很好很好  做得不错
+<9-41,Penny>That's good. That's good. That's good.
+
+419
+00:18:56,220 --> 00:18:59,020
+<9-42,Sheldon>妈咪  你为什么哭
+<9-42,Sheldon>Mommy, why are you crying?
+
+420
+00:18:59,020 --> 00:19:01,370
+<9-42,Sheldon>因为我会很想你  谢利豆
+<9-42,Sheldon>'Cause I'm gonna miss you, Shelly-bean,
+
+421
+00:19:01,370 --> 00:19:03,870
+<9-42,Sheldon>即使你总是吓死我
+<9-42,Sheldon>even though you creep the bugeeses out of me.
+
+422
+00:19:04,930 --> 00:19:07,170
+<9-43,Penny>好  我猜现在开始即兴表演了
+<9-43,Penny>Okay, I guess we're improvising now.
+
+423
+00:19:07,170 --> 00:19:08,210
+<9-43,Penny>对不起
+<9-43,Penny>I'm sorry.
+
+424
+00:19:08,210 --> 00:19:09,420
+<9-44,Sheldon>这不能怪我
+<9-44,Sheldon>It's not my fault.
+
+425
+00:19:09,420 --> 00:19:11,250
+<9-44,Sheldon>我只是太过聪明了
+<9-44,Sheldon>I'm just incredibly smart,
+
+426
+00:19:11,250 --> 00:19:14,170
+<9-44,Sheldon>而这里的每一个人  都蠢得跟一坨大便一样
+<9-44,Sheldon>and everyone around here is dumber than a bag of rocks.
+
+427
+00:19:14,870 --> 00:19:16,680
+<9-44,Sheldon>又来了  你怎么又哭上了
+<9-44,Sheldon>Oh, now, don't you start crying.
+
+428
+00:19:16,680 --> 00:19:17,940
+<9-44,Sheldon>你快上那艘破飞船
+<9-44,Sheldon>You get in that spaceship.
+
+429
+00:19:17,940 --> 00:19:19,870
+<9-44,Sheldon>妈咪去赌场要迟到了
+<9-44,Sheldon>Mommy's late for Indian bingo.
+
+430
+00:19:22,950 --> 00:19:24,690
+<9-45,Penny (on phone)>库珀太太  我是佩妮
+<9-45,Penny (on phone)>Mrs. Cooper, hey, it's Penny.
+
+431
+00:19:24,690 --> 00:19:26,780
+<9-45,Penny (on phone)>我想我让你儿子崩溃了
+<9-45,Penny (on phone)>Yeah, I think I broke your son.
+
+432
+00:19:27,410 --> 00:19:28,290
+<9-45,Penny (on phone)>等等
+<9-45,Penny (on phone)>Hey, hold on.
+
+433
+00:19:28,290 --> 00:19:29,550
+<9-45,Penny (on phone)>你妈咪的电话
+<9-45,Penny (on phone)>Talk to your mother.
+
+434
+00:19:30,070 --> 00:19:32,050
+<9-46,Sheldon>妈咪  我爱你
+<9-46,Sheldon>Mommy, I love you.
+
+435
+00:19:32,600 --> 00:19:35,250
+<9-46,Sheldon>拜托别让斯波克把我带去未来
+<9-46,Sheldon>Don't let Spock take me to the future!
+
+436
+00:19:42,900 --> 00:19:43,660
+<9-46,Sheldon>拉杰
+<9-46,Sheldon>Hey, Raj,
+
+437
+00:19:43,660 --> 00:19:45,170
+<10-1,Bernadette>我知道你在刻意避开我和霍华德
+<10-1,Bernadette>I know you've been avoiding me and Howard,
+
+438
+00:19:45,170 --> 00:19:47,230
+<10-1,Bernadette>除非你告诉我  你的小脑袋到底在想什么
+<10-1,Bernadette>and I'm not leaving until you tell me what's going on
+
+439
+00:19:47,230 --> 00:19:49,220
+<10-1,Bernadette>否则我是不会走的
+<10-1,Bernadette>inside that little head of yours.
+
+440
+00:19:58,540 --> 00:20:00,140
+<10-2,Raj (singing)>* 就象狂野的大象 *
+<10-2,Raj (singing)>* Like the wild elephant *
+
+441
+00:20:00,140 --> 00:20:02,930
+<10-2,Raj (singing)>* 我要大声宣告我对你的爱 *
+<10-2,Raj (singing)>* I am trumpeting my love for you *
+
+442
+00:20:02,930 --> 00:20:04,460
+<10-3,Bernadette (singing)>* 就像隐藏的鲜花 *
+<10-3,Bernadette (singing)>* Like a hidden flower *
+
+443
+00:20:04,460 --> 00:20:07,400
+<10-3,Bernadette (singing)>* 我香甜的芬芳要开启你全新的视觉 *
+<10-3,Bernadette (singing)>* My sweet fragrance comes into view *
+
+444
+00:20:16,050 --> 00:20:20,510
+<10-4,Raj (singing)>* 我的心好比正午的太阳  为你而炙热发烫 *
+<10-4,Raj (singing)>* My heart burns for you like the sun at noon *
+
+445
+00:20:20,510 --> 00:20:24,760
+<10-5,Bernadette (singing)>* 我的心好比热情的沙漠  迎接你这场及时雨*
+<10-5,Bernadette (singing)>* My desert welcomes you like the rainy monsoon *
+
+446
+00:20:24,760 --> 00:20:27,050
+<10-6,Raj (singing)>* 你是我的小心肝 *
+<10-6,Raj (singing)>* You are my heart *
+
+447
+00:20:27,050 --> 00:20:29,210
+<10-6,Raj (singing)>* 主宰我的小宇宙 *
+<10-6,Raj (singing)>* My universe *
+
+448
+00:20:29,210 --> 00:20:31,470
+<10-6,Raj (singing)>* 你是我的小心肝 *
+<10-6,Raj (singing)>* You are my heart *
+
+449
+00:20:31,470 --> 00:20:33,610
+<10-11,Chorus of everyone in cafeteria (singing)>* 主宰我的小宇宙 *
+<10-11,Chorus of everyone in cafeteria (singing)>* My universe *
+
+450
+00:20:33,610 --> 00:20:36,030
+<10-11,Chorus of everyone in cafeteria (singing)>* 主宰我的小宇宙 *
+<10-11,Chorus of everyone in cafeteria (singing)>* My universe *
+
+451
+00:20:36,030 --> 00:20:38,120
+<10-11,Chorus of everyone in cafeteria (singing)>* 你是我的小心肝 *
+<10-11,Chorus of everyone in cafeteria (singing)>* You are my heart *
+
+452
+00:20:38,120 --> 00:20:40,370
+<10-11,Chorus of everyone in cafeteria (singing)>* 主宰我的小宇宙 *
+<10-11,Chorus of everyone in cafeteria (singing)>* My universe *
+
+453
+00:20:40,370 --> 00:20:42,510
+<10-6,Raj (singing)>* 你是我的小心肝 *
+<10-6,Raj (singing)>* You are my heart *
+
+454
+00:20:42,510 --> 00:20:44,740
+<10-11,Chorus of everyone in cafeteria (singing)>* 主宰我的小宇宙 *
+<10-11,Chorus of everyone in cafeteria (singing)>* My universe *
+
+455
+00:20:44,740 --> 00:20:46,930
+<10-6,Raj (singing)>* 你是我的小心肝 *
+<10-6,Raj (singing)>* You are my heart *
+
+456
+00:20:46,930 --> 00:20:49,100
+<10-11,Chorus of everyone in cafeteria (singing)>* 主宰我的小宇宙 *
+<10-11,Chorus of everyone in cafeteria (singing)>* My universe *
+
+457
+00:20:49,100 --> 00:20:52,890
+<10-11,Chorus of everyone in cafeteria (singing)>* 主宰我的小宇宙 *
+<10-11,Chorus of everyone in cafeteria (singing)>* My universe *
+
+458
+00:21:00,460 --> 00:21:03,730
+<10-12,Raj (out of daydream)>撇开宝莱坞式歌舞不说  哥绝对不是小基佬
+<10-12,Raj (out of daydream)>Dance number aside, I'm so not gay.
+

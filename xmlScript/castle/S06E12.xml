@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>OPERATOR</speaker><content>911, what’s your emergency?</content></utterance>
+<utterance uid="1-2"><speaker>OPERATOR</speaker><content>Hello? Is there anybody there? Do you need assistance? Are you in danger?</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>KATE BECKETT</speaker><content>Castle, what if it rains?</content></utterance>
+<utterance uid="2-2"><speaker>RICHARD CASTLE</speaker><content>On our wedding day?</content></utterance>
+<utterance uid="2-3"><speaker>BECKETT</speaker><content>Mmhmm.</content></utterance>
+<utterance uid="2-4"><speaker>CASTLE</speaker><content>That’s supposed to be good luck. But we’ll find a venue that has an indoor area, just in case.</content></utterance>
+<utterance uid="2-5"><speaker>BECKETT</speaker><content>Even if we find the perfect place it’s not going to be available until at least October.</content></utterance>
+<utterance uid="2-6"><speaker>CASTLE</speaker><content>October. Harvest season. Perfect.</content></utterance>
+<utterance uid="2-7"><speaker>BECKETT</speaker><content>Perfect, except if you want my dad to walk me down the aisle. He’s going to be in Europe on the research project.</content></utterance>
+<utterance uid="2-8"><speaker>CASTLE</speaker><content>Oh. Fine. We’ll have a winter wedding.</content></utterance>
+<utterance uid="2-9"><speaker>BECKETT</speaker><content>Did we say we wanted to do it outside?</content></utterance>
+<utterance uid="2-10"><speaker>CASTLE</speaker><content>Right. Yeah. Frostbite isn’t very festive. How about we get hitched … uh … spring of next year?</content></utterance>
+<utterance uid="2-11"><speaker>BECKETT</speaker><content>And what if I want to get married sooner?</content></utterance>
+<utterance uid="2-12"><speaker>CASTLE</speaker><content>Who could blame you?</content></utterance>
+<utterance uid="2-13"><speaker>MARTHA RODGERS</speaker><content>You two are so adorable.</content></utterance>
+<utterance uid="2-14"><speaker>BECKETT</speaker><content>You know what? Maybe we can find a venue for this summer.</content></utterance>
+<utterance uid="2-15"><speaker>CASTLE</speaker><content>You want to have a wedding in the middle of a New York summer?</content></utterance>
+<utterance uid="2-16"><speaker>BECKETT</speaker><content> No. You’re right.  Oh, I know. September! It’s not too hot, it’s not too cold. It’s right in the goldilocks zone. It’s perfect.</content></utterance>
+<utterance uid="2-17"><speaker>CASTLE</speaker><content>It is, except I’ll be out of town every weekend on my book signing tour. So unless we get married on a Monday, September’s going to be tough.</content></utterance>
+<utterance uid="2-18"><speaker>MARTHA</speaker><content> A little unsolicited advice –</content></utterance>
+<utterance uid="2-19"><speaker>CASTLE</speaker><content>Do you give another kind?</content></utterance>
+<utterance uid="2-20"><speaker>MARTHA</speaker><content>In life, there is no such thing as a perfect time for anything.</content></utterance>
+<utterance uid="2-21"><speaker>CASTLE</speaker><content>I’m sorry, that’s advice how?</content></utterance>
+<utterance uid="2-22"><speaker>MARTHA</speaker><content> Don’t wait. Hell, just go down to city hall right now. You love each other. Stop talking about it. Just do it.</content></utterance>
+<utterance uid="2-23"><speaker>BECKETT</speaker><content>We’ll find a …</content></utterance>
+<utterance uid="2-24"><speaker>CASTLE</speaker><content>Let’s keep looking.</content></utterance>
+<utterance uid="2-25"><speaker>BECKETT</speaker><content>… yeah.</content></utterance>
+<utterance uid="2-26"><speaker>BECKETT</speaker><content>Beckett.</content></utterance>
+</scene>
+
+<scene id="3"><utterance uid="3-1"><speaker>BECKETT</speaker><content>I don’t know, Castle. Maybe we’re being too ambitious. Maybe we should consider the spring of next year.</content></utterance>
+<utterance uid="3-2"><speaker>CASTLE</speaker><content>I thought you didn’t want to wait that long?</content></utterance>
+<utterance uid="3-3"><speaker>BECKETT</speaker><content>No, I just –  – I want to be flexible.</content></utterance>
+<utterance uid="3-4"><speaker>CASTLE</speaker><content>You already are flexible.  You see what I did there?</content></utterance>
+<utterance uid="3-5"><speaker>JAVIER ESPOSITO</speaker><content>What’s so funny?</content></utterance>
+<utterance uid="3-6"><speaker>CASTLE</speaker><content>Well actually, did you know Beckett can lift her –</content></utterance>
+<utterance uid="3-7"><speaker>BECKETT</speaker><content>No.  Nothing.  Hello. Nothing.</content></utterance>
+<utterance uid="3-8"><speaker>CASTLE</speaker><content>I’ll tell you later.</content></utterance>
+<utterance uid="3-9"><speaker>BECKETT</speaker><content>No.</content></utterance>
+<utterance uid="3-10"><speaker>CASTLE</speaker><content>No.</content></utterance>
+<utterance uid="3-11"><speaker>ESPOSITO</speaker><content>Well, our victim is a Ted Rollins. He was shot twice in the chest. He was 20 years old, lived alone, and worked part time at a secondhand record store.</content></utterance>
+<utterance uid="3-12"><speaker>BECKETT</speaker><content>So how does a 20 year old who sells used records for a living own a place like this?</content></utterance>
+<utterance uid="3-13"><speaker>ESPOSITO</speaker><content>It’s just one of the many things that don’t add up here.</content></utterance>
+<utterance uid="3-14"><speaker>CASTLE</speaker><content>Like why he’s soaking wet?</content></utterance>
+<utterance uid="3-15"><speaker>LANIE PARISH</speaker><content>The killer left Ted Rollins’ body in the shower. When officers arrived the water was still going.</content></utterance>
+<utterance uid="3-16"><speaker>BECKETT</speaker><content>And who called them in?</content></utterance>
+<utterance uid="3-17"><speaker>ESPOSITO</speaker><content>That’s a good question. At 11:50 uniforms responded to a 911 call made from the victim’s cell phone.</content></utterance>
+<utterance uid="3-18"><speaker>LANIE</speaker><content>But the time of death is between 8 and 11, so there’s no way Ted could have placed that call.</content></utterance>
+<utterance uid="3-19"><speaker>CASTLE</speaker><content>So the killer shot him … and then called 911?</content></utterance>
+<utterance uid="3-20"><speaker>LANIE</speaker><content>Except our victim was not shot in this apartment.</content></utterance>
+<utterance uid="3-21"><speaker>BECKETT</speaker><content>And how do we know that?</content></utterance>
+<utterance uid="3-22"><speaker>LANIE</speaker><content>Because he has exit wounds in his back, but there are no bullets in the bathroom or anywhere else in the apartment. Plus lividity indicates the body was moved.</content></utterance>
+<utterance uid="3-23"><speaker>BECKETT</speaker><content>Okay, so then the killer put him in the shower to wash off the trace evidence from the original crime scene.</content></utterance>
+<utterance uid="3-24"><speaker>LANIE</speaker><content>And it almost worked, except for this. Grease here, with the tiny red specks. Water didn’t get that out. It’s on his knees and his elbows. I’m thinking he fell when he got shot and landed in that stuff.</content></utterance>
+<utterance uid="3-25"><speaker>BECKETT</speaker><content>Okay. Get this material to CSU. See if they can tell us where he was killed.</content></utterance>
+<utterance uid="3-26"><speaker>ESPOSITO</speaker><content>I don’t get it. Why would the killer risk moving the body back here from the crime scene?</content></utterance>
+<utterance uid="3-27"><speaker>CASTLE</speaker><content>Sounds like a case of Weekend At Bernie’s gone wrong.  No. No, wait. That would mean there’s such a thing as Weekend At Bernie’s gone right.</content></utterance>
+<utterance uid="3-28"><speaker>BECKETT</speaker><content>Wait a minute. These two shoelaces are tied differently.</content></utterance>
+<utterance uid="3-29"><speaker>CASTLE</speaker><content>That is odd.</content></utterance>
+<utterance uid="3-30"><speaker>CASTLE</speaker><content>This is even more odd.</content></utterance>
+<utterance uid="3-31"><speaker>BECKETT</speaker><content>What are you doing?</content></utterance>
+<utterance uid="3-32"><speaker>CASTLE</speaker><content>Looks like Ted’s got a secret compartment. And what’s a secret compartment without a secret?  A laptop. The key to our mystery and the identity of our killer may lie within that device.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>TECH AGENT TORI</speaker><content>Well if it does, I can’t get to it. Honestly I’ve never seen anything like this before.</content></utterance>
+<utterance uid="4-2"><speaker>BECKETT</speaker><content>So what are we looking at here?</content></utterance>
+<utterance uid="4-3"><speaker>TORI</speaker><content>A very high level encryption program.</content></utterance>
+<utterance uid="4-4"><speaker>ESPOSITO</speaker><content>One you can’t crack?  C’mon genius girl, I thought you were the best.</content></utterance>
+<utterance uid="4-5"><speaker>TORI</speaker><content>I am. It’s just whoever designed this is –  – better. But give me some time, let me see what I can do.</content></utterance>
+<utterance uid="4-6"><speaker>ESPOSITO</speaker><content>All right.</content></utterance>
+<utterance uid="4-7"><speaker>CASTLE</speaker><content>Anyone else wondering what a record store clerk is doing with this kind of technology?</content></utterance>
+<utterance uid="4-8"><speaker>BECKETT</speaker><content>Espo, did you contact next of kin?</content></utterance>
+<utterance uid="4-9"><speaker>ESPOSITO</speaker><content>Yeah. Ted’s father and little brother. They’re on their way down.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>BECKETT</speaker><content>Mr. Rollins, when you spoke with our son did he seem worried or scared about anything?</content></utterance>
+<utterance uid="5-2"><speaker>ESPOSITO</speaker><content>Maybe you could help us with something else. We found a laptop in one of the floorboards at Ted’s place with a highly sophisticated encryption system. Either one of you know what it was doing there?</content></utterance>
+<utterance uid="5-3"><speaker>BECKETT</speaker><content>What is it?</content></utterance>
+<utterance uid="5-4"><speaker>GRANT</speaker><content>More like a genius.</content></utterance>
+<utterance uid="5-5"><speaker>GRANT</speaker><content>He’d call it ‘pulling a Robin Hood’. Because he would steal from the rich and give to the poor.</content></utterance>
+<utterance uid="5-6"><speaker>ESPOSITO</speaker><content>The poor being Ted?</content></utterance>
+<utterance uid="5-7"><speaker>ESPOSITO</speaker><content>So how much did he end up stealing?</content></utterance>
+<utterance uid="5-8"><speaker>ESPOSITO</speaker><content>Whoa.</content></utterance>
+<utterance uid="5-9"><speaker>BECKETT</speaker><content>Is there anything to indicate that he went back to committing identity theft?</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>ESPOSITO</speaker><content>Okay, so let’s just say he went back to stealing identities. Does that explain why he was killed? Yeah, people get pissed about getting their identities stolen, but normally they report it to the police.</content></utterance>
+<utterance uid="6-2"><speaker>BECKETT</speaker><content>Well maybe he stole from the kind of people that don’t report to the police.</content></utterance>
+<utterance uid="6-3"><speaker>BECKETT</speaker><content>Hey! Look who’s back from paternity leave.</content></utterance>
+<utterance uid="6-4"><speaker>BECKETT</speaker><content>So how’s Sarah Grace?</content></utterance>
+<utterance uid="6-5"><speaker>KEVIN RYAN</speaker><content>Oh, man. I tell you. She is just my perfect little angel.</content></utterance>
+<utterance uid="6-6"><speaker>BECKETT</speaker><content>Oh, she’s so cute. Wow.</content></utterance>
+<utterance uid="6-7"><speaker>ESPOSITO</speaker><content>Yeah.</content></utterance>
+<utterance uid="6-8"><speaker>BECKETT</speaker><content>Is it me … or does she look a lot like ESPOSITO?</content></utterance>
+<utterance uid="6-9"><speaker>ESPOSITO</speaker><content>Yeah, she does.</content></utterance>
+<utterance uid="6-10"><speaker>BECKETT</speaker><content>Wow.</content></utterance>
+<utterance uid="6-11"><speaker>RYAN</speaker><content>Really, Beckett? I expected that from jackass, but not from you.  Anyway, I got that CSU report back. It looks like Ted might have been killed in an auto body shop.</content></utterance>
+<utterance uid="6-12"><speaker>ESPOSITO</speaker><content>Did he even own a car?</content></utterance>
+<utterance uid="6-13"><speaker>RYAN</speaker><content>No, but they identified that sludge on Ted’s clothes as hydraulic fluid mixed with red paint flecks. Now the paint is urethane based with high levels of volatile organic compounds, so it’s most likely from a car painted prior to the 1990s.</content></utterance>
+<utterance uid="6-14"><speaker>BECKETT</speaker><content>Okay, canvass the auto shops near Ted’s place. Maybe he was seen at one of them.</content></utterance>
+<utterance uid="6-15"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+<utterance uid="6-16"><speaker>CASTLE</speaker><content>Hey, Beckett. We’ve got something.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>CASTLE</speaker><content>Now, Ted’s laptop is like Fort Knox on steroids, but Tori found some unscrambled artifacts in the registry to a service set identifier.  I don’t know what that means either, but she got really excited about it.</content></utterance>
+<utterance uid="7-2"><speaker>TORI</speaker><content>And here’s why. Yesterday at 7:19PM Ted connected to a dedicated server of a private computer network. I traced the network. It belongs to … Universal Banking Solutions. They’re based in Chicago, but have satellite offices all over the world, including Manhattan, which is where Ted connected.</content></utterance>
+<utterance uid="7-3"><speaker>CASTLE</speaker><content>Now, according to the website, Universal Banking Solutions handles strategic and tactical procurements for international clients.</content></utterance>
+<utterance uid="7-4"><speaker>BECKETT</speaker><content>And what does that mean?</content></utterance>
+<utterance uid="7-5"><speaker>CASTLE</speaker><content>I – I don’t know. I’m just reading the screen there.</content></utterance>
+<utterance uid="7-6"><speaker>BECKETT</speaker><content>Okay, so what did Ted do when he connected to the server?</content></utterance>
+<utterance uid="7-7"><speaker>TORI</speaker><content>It’s impossible to tell. He could have sent an email or accessed the website.</content></utterance>
+<utterance uid="7-8"><speaker>BECKETT</speaker><content>Or he hacked it.</content></utterance>
+<utterance uid="7-9"><speaker>TORI</speaker><content>That too. Whatever he did, that was the last time this laptop was used before he died.</content></utterance>
+<utterance uid="7-10"><speaker>BECKETT</speaker><content>Okay, so who runs the Manhattan office?</content></utterance>
+<utterance uid="7-11"><speaker>TORI</speaker><content>Anderson Cross.</content></utterance>
+<utterance uid="7-12"><speaker>BECKETT</speaker><content>All right, let’s see if Mr. Cross knows what Ted was up to.</content></utterance>
+</scene>
+
+<scene id="8"><utterance uid="8-1"><speaker>BECKETT</speaker><content>I don’t know, Castle. Maybe your mom’s right. I think eloping is a great idea. There’s no planning, no lists. All we do is we just get married.</content></utterance>
+<utterance uid="8-2"><speaker>CASTLE</speaker><content>Beckett, I promise you. There is a perfect date for our perfect wedding and we will find it. Trust me.</content></utterance>
+<utterance uid="8-3"><speaker>BECKETT</speaker><content> I do.</content></utterance>
+<utterance uid="8-4"><speaker>CASTLE</speaker><content>Oh, wedding humor. Nice.</content></utterance>
+<utterance uid="8-5"><speaker>BECKETT</speaker><content>We need to speak with Anderson Cross.</content></utterance>
+<utterance uid="8-6"><speaker>RECEPTIONIST</speaker><content>Let me see if he’s available.</content></utterance>
+<utterance uid="8-7"><speaker>CASTLE</speaker><content>Excuse me.</content></utterance>
+<utterance uid="8-8"><speaker>CASTLE</speaker><content>Castle.</content></utterance>
+<utterance uid="8-9"><speaker>ANDERSON CROSS</speaker><content>Richard, something is about to happen. But you cannot react.</content></utterance>
+<utterance uid="8-10"><speaker>CASTLE</speaker><content>I’m sorry, who is this?</content></utterance>
+<utterance uid="8-11"><speaker>CROSS</speaker><content>Lives are at stake. Don’t react.</content></utterance>
+<utterance uid="8-12"><speaker>RECEPTIONIST</speaker><content>I’m sorry, Mr. Cross isn’t picking up.  Oh, here he is. Mr. Cross, these people are here to see you.</content></utterance>
+<utterance uid="8-13"><speaker>CROSS</speaker><content>Hello there. I’m Anderson Cross.</content></utterance>
+<utterance uid="8-14"><speaker>BECKETT</speaker><content> Hi, I’m Detective Kate Beckett, NYPD.</content></utterance>
+<utterance uid="8-15"><speaker>CROSS</speaker><content>Detective Beckett, so nice to meet you.</content></utterance>
+<utterance uid="8-16"><speaker>BECKETT</speaker><content>And uh … this is Richard Castle.</content></utterance>
+<utterance uid="8-17"><speaker>CROSS</speaker><content>Sorry, I didn’t get the name.</content></utterance>
+<utterance uid="8-18"><speaker>CASTLE</speaker><content>Uh … Richard. Richard Castle.</content></utterance>
+<utterance uid="8-19"><speaker>CROSS</speaker><content>So why don’t we go into the conference room where we can talk?</content></utterance>
+<utterance uid="8-20"><speaker>BECKETT</speaker><content>Yes.</content></utterance>
+<utterance uid="8-21"><speaker>CASTLE</speaker><content> Dad?</content></utterance>
+<utterance uid="8-22"><speaker>CROSS</speaker><content> Not a word.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>CROSS</speaker><content>So I don’t mean to rush us, but I do have an appointment in a few minutes.</content></utterance>
+<utterance uid="9-2"><speaker>BECKETT</speaker><content>Actually this won’t take very long, Mr. Cross.  Um, do you know a man named Ted Rollins?</content></utterance>
+<utterance uid="9-3"><speaker>CROSS</speaker><content>No, I – I don’t believe I do. Why?</content></utterance>
+<utterance uid="9-4"><speaker>BECKETT</speaker><content>He was murdered last night.</content></utterance>
+<utterance uid="9-5"><speaker>CROSS</speaker><content>Oh. Okay. I’m not sure what that has to do with me.</content></utterance>
+<utterance uid="9-6"><speaker>BECKETT</speaker><content>Well, we believe that he tried to access your network yesterday evening around 7:19. Do you have any idea why he would do that?</content></utterance>
+<utterance uid="9-7"><speaker>CROSS</speaker><content>Well, as a matter of fact, I just a report from my IT people saying that someone tried to hack into our system … around about that time.</content></utterance>
+<utterance uid="9-8"><speaker>BECKETT</speaker><content>And what exactly does your company do?</content></utterance>
+<utterance uid="9-9"><speaker>CROSS</speaker><content>Well, we basically handle multi0million dollar currency transactions for banks, international businesses, foreign countries, and the like.</content></utterance>
+<utterance uid="9-10"><speaker>CASTLE</speaker><content>Maybe Ted was trying to tap in and steal from one of those transactions.</content></utterance>
+<utterance uid="9-11"><speaker>CROSS</speaker><content>Well if he did, he was quite unsuccessful.</content></utterance>
+<utterance uid="9-12"><speaker>BECKETT</speaker><content>Has anyone tried to hack into your company’s network before?</content></utterance>
+<utterance uid="9-13"><speaker>CROSS</speaker><content>Oh yes. But we have quite a robust firewall system. It’s never been breached.</content></utterance>
+<utterance uid="9-14"><speaker>BECKETT</speaker><content>Um, well, would you mind giving me copies of your incursion reports, along with the ones from last night?</content></utterance>
+<utterance uid="9-15"><speaker>CROSS</speaker><content>Of course. I’ll send them right over to you.</content></utterance>
+<utterance uid="9-16"><speaker>BECKETT</speaker><content>Okay. Thank you. Thanks for your time.</content></utterance>
+<utterance uid="9-17"><speaker>BECKETT</speaker><content>I’m sorry, Mr. Cross, uh … have we ever met before?</content></utterance>
+<utterance uid="9-18"><speaker>CROSS</speaker><content>I don’t believe we have.</content></utterance>
+<utterance uid="9-19"><speaker>BECKETT</speaker><content>Really? Because you just seem so familiar.</content></utterance>
+<utterance uid="9-20"><speaker>CROSS</speaker><content>Really?</content></utterance>
+<utterance uid="9-21"><speaker>BECKETT</speaker><content>Uh huh.</content></utterance>
+<utterance uid="9-22"><speaker>CROSS</speaker><content>I have one of those faces.</content></utterance>
+<utterance uid="9-23"><speaker>BECKETT</speaker><content> Um, Lanie’s got something for us. We should go.</content></utterance>
+<utterance uid="9-24"><speaker>CASTLE</speaker><content>Great.</content></utterance>
+<utterance uid="9-25"><speaker>BECKETT</speaker><content>Thank you.</content></utterance>
+<utterance uid="9-26"><speaker>CROSS</speaker><content>Not at all.  My pleasure.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>LANIE</speaker><content>Okay, so I may know why one of Ted’s shoes was tied differently. The killer was looking for something.</content></utterance>
+<utterance uid="10-2"><speaker>BECKETT</speaker><content>In his shoes?</content></utterance>
+<utterance uid="10-3"><speaker>LANIE</speaker><content>Yep. At the time of his death, Ted had a coin in his right sock. Due to rigor mortis an impression remained, including these faint markings. You see that?</content></utterance>
+<utterance uid="10-4"><speaker>BECKETT</speaker><content>Yeah. Wow.</content></utterance>
+<utterance uid="10-5"><speaker>BECKETT</speaker><content>Hey, Castle. You with us?</content></utterance>
+<utterance uid="10-6"><speaker>CASTLE</speaker><content>Yeah. Yeah.  Of course.</content></utterance>
+<utterance uid="10-7"><speaker>BECKETT</speaker><content>Uh, let me get this straight. So after Ted was shot, the killer took off the shoe and sock, took the coin, and put the shoe and sock back on?</content></utterance>
+<utterance uid="10-8"><speaker>CASTLE</speaker><content>It must have been a valuable coin.</content></utterance>
+<utterance uid="10-9"><speaker>LANIE</speaker><content>Actually, it wasn’t. I did some enhancement and based on the coin’s diameter and the markings, we’ve identified it as an Iranian rial. Worth less than a penny.</content></utterance>
+<utterance uid="10-10"><speaker>BECKETT</speaker><content>Wow, an Iranian rial, huh?</content></utterance>
+<utterance uid="10-11"><speaker>BECKETT</speaker><content>Castle? No theories on international intrigue or covert espionage?</content></utterance>
+<utterance uid="10-12"><speaker>CASTLE</speaker><content>We really don’t have the information to speculate at this point.</content></utterance>
+<utterance uid="10-13"><speaker>BECKETT</speaker><content>Okay.  Were you able to narrow down where Ted was killed?</content></utterance>
+<utterance uid="10-14"><speaker>LANIE</speaker><content>No, but I did check his stomach contents and I can tell you this: approximately 15 minutes before his death Ted at clams and funnel cake. Can you believe that? Ugh.</content></utterance>
+<utterance uid="10-15"><speaker>BECKETT</speaker><content>Lanie, you slice open dead people for a living and you’re grossed out by that?</content></utterance>
+<utterance uid="10-16"><speaker>LANIE</speaker><content>Even I have my limits.</content></utterance>
+<utterance uid="10-17"><speaker>BECKETT</speaker><content> Okay, fine. Clams and funnel cake. That sounds like he had amusement park food.</content></utterance>
+<utterance uid="10-18"><speaker>CASTLE</speaker><content>Right. And the hydraulic fluid and red paint on Ted’s clothes? He was at an amusement park and I can tell you which one.</content></utterance>
+<utterance uid="10-19"><speaker>LANIE</speaker><content>How?</content></utterance>
+<utterance uid="10-20"><speaker>CASTLE</speaker><content>Well, as a connoisseur of carnie food, there’s only one amusement park that has both fried clams and funnel cake and that park is – Coney Island.</content></utterance>
+<utterance uid="10-21"><speaker>BECKETT</speaker><content>- Coney Island.</content></utterance>
+<utterance uid="10-22"><speaker>LANIE</speaker><content>Okay, you two creep me out when you do that shared brain thing.</content></utterance>
+<utterance uid="10-23"><speaker>CASTLE</speaker><content>Uh, I – hey, I forgot I – have to –  – drop by my publisher’s. We’re going to look at the – at least, there’s another – for the Derrick Storm novels, there’s the gallery …</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>RYAN</speaker><content> Okay, thanks.  Hey, Beckett! The head of Coney Island’s maintenance staff said that they only place there would be hydraulic and paint is the repair facility under the rollercoaster.</content></utterance>
+<utterance uid="11-2"><speaker>BECKETT</speaker><content>Okay, let’s have park security check it out for us.</content></utterance>
+<utterance uid="11-3"><speaker>RYAN</speaker><content>They have. And they found blood.</content></utterance>
+</scene>
+
+<scene id="12"><utterance uid="12-1"><speaker>BECKETT</speaker><content>Well, this is definitely where Ted was killed.</content></utterance>
+<utterance uid="12-2"><speaker>RYAN</speaker><content>Why here? What was he up to?</content></utterance>
+<utterance uid="12-3"><speaker>ESPOSITO</speaker><content>Yo. Funnel cake vendor remembers seeing Ted. Said he got his food and walked in this direction.</content></utterance>
+<utterance uid="12-4"><speaker>BECKETT</speaker><content>Was he with anyone?</content></utterance>
+<utterance uid="12-5"><speaker>ESPOSITO</speaker><content>Not that he saw.</content></utterance>
+<utterance uid="12-6"><speaker>RYAN</speaker><content>The killer must have followed him.</content></utterance>
+<utterance uid="12-7"><speaker>BECKETT</speaker><content>Or maybe they came here to meet.</content></utterance>
+<utterance uid="12-8"><speaker>ESPOSITO</speaker><content>Then why wouldn’t the killer leave the body here? Why would he drag it all the way back to Manhattan, to the victim’s own apartment?</content></utterance>
+<utterance uid="12-9"><speaker>RYAN</speaker><content>To throw us off his trail.</content></utterance>
+<utterance uid="12-10"><speaker>BECKETT</speaker><content>Or maybe the killer didn’t want us to find the crime scene because there’s something here that ties him to the murder. Do they have security cameras here?</content></utterance>
+<utterance uid="12-11"><speaker>ESPOSITO</speaker><content>Just that one covering the south entrance.</content></utterance>
+<utterance uid="12-12"><speaker>BECKETT</speaker><content>Okay, let’s talk to park security, get them to give us the surveillance footage.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>CASTLE</speaker><content>Oh.  There you go.</content></utterance>
+<utterance uid="13-2"><speaker>HOMELESS GUY</speaker><content>God bless you, man.</content></utterance>
+<utterance uid="13-3"><speaker>CASTLE</speaker><content>Yeah.</content></utterance>
+<utterance uid="13-4"><speaker>CROSS</speaker><content>Sit behind me.</content></utterance>
+<utterance uid="13-5"><speaker>CASTLE</speaker><content>I never thought I’d see you again.</content></utterance>
+<utterance uid="13-6"><speaker>CROSS</speaker><content>Ted Rollins, your victim. What have you learned?</content></utterance>
+<utterance uid="13-7"><speaker>CASTLE</speaker><content> What have I learned? I’m sorry, until a year ago I had no idea who you were and now you come out of the blue and the only thing you have to say is ‘what have you learned’? How about ‘hello son. How’ve you been?’</content></utterance>
+<utterance uid="13-8"><speaker>CROSS</speaker><content>You’re getting emotional. Now’s not the time.</content></utterance>
+<utterance uid="13-9"><speaker>CASTLE</speaker><content>Really?  Because it’s been about 40 years, so when would be a good time?</content></utterance>
+<utterance uid="13-10"><speaker>CROSS</speaker><content>With what I do? Never. Or did you forget what happened in Paris?</content></utterance>
+<utterance uid="13-11"><speaker>CASTLE</speaker><content>No. How could I forget?</content></utterance>
+<utterance uid="13-12"><speaker>CROSS</speaker><content>Then stop acting like you did. You know what I do, you know who I am. I let my guard down, people die.</content></utterance>
+<utterance uid="13-13"><speaker>CASTLE</speaker><content>People like Ted?  So who was he really? Who killed him?</content></utterance>
+<utterance uid="13-14"><speaker>CROSS</speaker><content>You need to tell me what you know.</content></utterance>
+<utterance uid="13-15"><speaker>CASTLE</speaker><content>You don’t trust me.</content></utterance>
+<utterance uid="13-16"><speaker>CROSS</speaker><content>Trust kills faster than bullets. There’s a storm coming and if I don’t stop it a lot more people are going to die. Just tell me what you know.</content></utterance>
+<utterance uid="13-17"><speaker>CASTLE</speaker><content>Um … he was shot at Coney Island under the rollercoaster. There was a coin in his sock. An Iranian rial.</content></utterance>
+<utterance uid="13-18"><speaker>CROSS</speaker><content>Do you have the coin?</content></utterance>
+<utterance uid="13-19"><speaker>CASTLE</speaker><content>No. The killer took it. Why would he do that? What does that mean?</content></utterance>
+<utterance uid="13-20"><speaker>CROSS</speaker><content>It means I’ve gotta go. If there’s any update, text me. Say you need to meet and I’ll be back here within 30 minutes. Don’t tell anyone about this. About me. Not even your fiancée.</content></utterance>
+<utterance uid="13-21"><speaker>CASTLE</speaker><content> How did you know we were engaged?</content></utterance>
+<utterance uid="13-22"><speaker>CROSS</speaker><content>I may not be good at it, but I am still your father. Now, keep your mouth shut and try not to get us both killed.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>BECKETT</speaker><content>What’s wrong? You don’t like the artwork for your graphic novel?</content></utterance>
+<utterance uid="14-2"><speaker>CASTLE</speaker><content>Oh, no, no. It’s great. It’s good. It’s um, -  So we were right about Coney Island, huh?</content></utterance>
+<utterance uid="14-3"><speaker>BECKETT</speaker><content>Yes. One mystery solved, only it’s led us to a few new ones. Like what was Ted doing there in the first place.</content></utterance>
+<utterance uid="14-4"><speaker>CASTLE</speaker><content>Yeah. It’s weird.</content></utterance>
+<utterance uid="14-5"><speaker>BECKETT</speaker><content>It’s more than weird. Something bigger’s going on here, don’t you think?</content></utterance>
+<utterance uid="14-6"><speaker>ESPOSITO</speaker><content>Hey guys.  Come check this out.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>ESPOSITO</speaker><content>This is surveillance from the security camera at the entrance of the rollercoaster repair yard. Ted enters alone at 8:47PM.</content></utterance>
+<utterance uid="15-2"><speaker>CASTLE</speaker><content>Did anyone enter prior to that?</content></utterance>
+<utterance uid="15-3"><speaker>TORI</speaker><content>Nope. But about 15 minutes later at 9:04PM someone does.</content></utterance>
+<utterance uid="15-4"><speaker>BECKETT</speaker><content>Wait. Zoom in and freeze it.</content></utterance>
+<utterance uid="15-5"><speaker>BECKETT</speaker><content>That’s Anderson Cross. Oh, my God. He’s our killer.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>BECKETT</speaker><content>This whole time it was Anderson Cross. So Ted must have hacked into his system and he decided to take matters into his own hands.</content></utterance>
+<utterance uid="16-2"><speaker>CASTLE</speaker><content> But that doesn’t seem likely. I mean, he … really doesn’t seem the type.</content></utterance>
+<utterance uid="16-3"><speaker>BECKETT</speaker><content>Castle, what are you taking about? He lied to us. He told us he didn’t know Ted, and there he is at the crime scene.</content></utterance>
+<utterance uid="16-4"><speaker>CASTLE</speaker><content>We don’t actually see him commit murder. There’s a number of entrances to that area but there’s only one camera. It just –  – may not be what it seems.</content></utterance>
+<utterance uid="16-5"><speaker>ESPOSITO</speaker><content>So what, he just happened to be there two hours after Ted hacked his company?</content></utterance>
+<utterance uid="16-6"><speaker>CASTLE</speaker><content> I – see – Anderson Cross as the killer? It’s the obvious choice.</content></utterance>
+<utterance uid="16-7"><speaker>ESPOSITO</speaker><content>Well, that’s usually what happens when all the evidence points to a suspect.</content></utterance>
+<utterance uid="16-8"><speaker>BECKETT</speaker><content>We have to get him down here. Pull up everything you can on his company.</content></utterance>
+<utterance uid="16-9"><speaker>TORI</speaker><content>This makes no sense.</content></utterance>
+<utterance uid="16-10"><speaker>ESPOSITO</speaker><content>What?</content></utterance>
+<utterance uid="16-11"><speaker>TORI</speaker><content>It’s gone. The site’s disappeared. Actually, not just the site. We have no trace of the company.</content></utterance>
+<utterance uid="16-12"><speaker>BECKETT</speaker><content> Find Anderson Cross. Now.</content></utterance>
+<utterance uid="16-13"><speaker>BECKETT</speaker><content>Who the hell is this guy? He’s obviously not a banker.  I know why he looks so familiar.</content></utterance>
+<utterance uid="16-14"><speaker>CASTLE</speaker><content>Where are you going?</content></utterance>
+<utterance uid="16-15"><speaker>BECKETT</speaker><content>To check something.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>CASTLE</speaker><content>Pick up, pick up.</content></utterance>
+<utterance uid="17-2"><speaker>CROSS</speaker><content>Leave a message.</content></utterance>
+<utterance uid="17-3"><speaker>ESPOSITO</speaker><content>Castle.</content></utterance>
+<utterance uid="17-4"><speaker>CASTLE</speaker><content>Geez!</content></utterance>
+<utterance uid="17-5"><speaker>ESPOSITO</speaker><content>Man, bro. Why are you so jumpy?</content></utterance>
+<utterance uid="17-6"><speaker>CASTLE</speaker><content>Dude, I’m not. I’m just –</content></utterance>
+<utterance uid="17-7"><speaker>ESPOSITO</speaker><content>Well, you will be once you hear what we found. C’mon.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>ESPOSITO</speaker><content>This guy, Anderson Cross, is like a villain out of one of your books. His office was cleared out like he knew we were coming.</content></utterance>
+<utterance uid="18-2"><speaker>CASTLE</speaker><content>There wasn’t a trace of him?</content></utterance>
+<utterance uid="18-3"><speaker>ESPOSITO</speaker><content>Nothing. Even his receptionist. She was hired from a temp agency. Just started working yesterday. She doesn’t know jack.</content></utterance>
+<utterance uid="18-4"><speaker>RYAN</speaker><content>Neither does the building manager. He said that Cross rented the place from him last month, paid for a year’s lease with a cashier’s check so it’s totally untraceable.</content></utterance>
+<utterance uid="18-5"><speaker>ESPOSITO</speaker><content>Yeah. Whoever this guy is, he’s in a different league.</content></utterance>
+<utterance uid="18-6"><speaker>BECKETT</speaker><content>We’ve crossed paths before.</content></utterance>
+<utterance uid="18-7"><speaker>CASTLE</speaker><content>What do you mean?</content></utterance>
+<utterance uid="18-8"><speaker>BECKETT</speaker><content>Check this out.  Remember this guy? Alexis’s kidnapping last year.</content></utterance>
+<utterance uid="18-9"><speaker>RYAN</speaker><content>Damn, that’s right. Uh … witnesses kept seeing him pop up at locations associated with her abduction.</content></utterance>
+<utterance uid="18-10"><speaker>ESPOSITO</speaker><content>At each one of those locations there was a dead body.</content></utterance>
+<utterance uid="18-11"><speaker>BECKETT</speaker><content>So I sent the video surveillance to a friend of mine in the AG’s office and he got a hit. Now he couldn’t get into details, but he did say that this guy is a former CIA operative.</content></utterance>
+<utterance uid="18-12"><speaker>CASTLE</speaker><content>Wait a minute. Former?</content></utterance>
+<utterance uid="18-13"><speaker>BECKETT</speaker><content>Yeah. He, uh … he was disowned for an unauthorized assassination. He was sentenced to life, broke out, killed three guys in the process. This guy’s wanted by our government. Now my friend said the rumor is he’s working as a hitman. And if we get eyes on him the AG’s office wants us to call them so they can send in a strike team.</content></utterance>
+<utterance uid="18-14"><speaker>RYAN</speaker><content>Why would a guy like this want to kill Ted Rollins?</content></utterance>
+<utterance uid="18-15"><speaker>ESPOSITO</speaker><content>More than that, how are we going to find a former spy? He spent a lifetime covering his tracks.</content></utterance>
+<utterance uid="18-16"><speaker>BECKETT</speaker><content>Yeah, but Ted hasn’t. And somehow they’re connected.</content></utterance>
+<utterance uid="18-17"><speaker>RYAN</speaker><content>So we should see if Hansel left any breadcrumbs towards our suspect.</content></utterance>
+<utterance uid="18-18"><speaker>BECKETT</speaker><content>We need to retrace every one of Ted’s footsteps. Our killer knew him well enough to know where he lived. I mean, they had to have had previous contact.</content></utterance>
+<utterance uid="18-19"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+<utterance uid="18-20"><speaker>BECKETT</speaker><content>Castle, did you ever see this man in Paris?</content></utterance>
+<utterance uid="18-21"><speaker>CASTLE</speaker><content> Not that I can remember.  Why don’t you text me those sketches? I’ll have Alexis come over, see if she recognizes him.</content></utterance>
+<utterance uid="18-22"><speaker>BECKETT</speaker><content>You want me to come along?</content></utterance>
+<utterance uid="18-23"><speaker>CASTLE</speaker><content>Uh, no. No, no. I’ll – uh … call you.</content></utterance>
+<utterance uid="18-24"><speaker>BECKETT</speaker><content>Are you okay?</content></utterance>
+<utterance uid="18-25"><speaker>CASTLE</speaker><content>Yeah.</content></utterance>
+</scene>
+
+
+<scene id="19"><utterance uid="19-1"><speaker>ESPOSITO</speaker><content>So I’m coming up with a bunch of nothing. You?</content></utterance>
+<utterance uid="19-2"><speaker>RYAN</speaker><content>Check it out. It’s a printout of Ted’s metro card. Check out how he got to Coney Island yesterday.</content></utterance>
+<utterance uid="19-3"><speaker>ESPOSITO</speaker><content>He swiped his card at the 33rd and Park Avenue South station.  Probably took the 6 to the M train. So?</content></utterance>
+<utterance uid="19-4"><speaker>RYAN</speaker><content>So look at his swipes for the past two weeks.</content></utterance>
+<utterance uid="19-5"><speaker>ESPOSITO</speaker><content>He kept going back and forth to that subway stop at 33rd and Park.</content></utterance>
+<utterance uid="19-6"><speaker>RYAN</speaker><content>Exactly. And he didn’t work, live, or know anyone in that area.</content></utterance>
+<utterance uid="19-7"><speaker>ESPOSITO</speaker><content>All right. Let’s get up there and see what he was doing.</content></utterance>
+<utterance uid="19-8"><speaker>RYAN</speaker><content>All right.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>MARTHA</speaker><content>Ah, Richard! You’re home early. Care for a glass of liquefied heaven? Good for your hair, good for your teeth –</content></utterance>
+<utterance uid="20-2"><speaker>MARTHA</speaker><content>Richard, what is it?</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>CASTLE</speaker><content>Of course I believed him. Because he’s my father.</content></utterance>
+<utterance uid="21-2"><speaker>MARTHA</speaker><content>Especially after Paris. Why wouldn’t you?</content></utterance>
+<utterance uid="21-3"><speaker>CASTLE</speaker><content>But he used me. To stay ahead of the investigation. To know when to make a run for it. If he’s innocent, why didn’t he show up at the park?</content></utterance>
+<utterance uid="21-4"><speaker>MARTHA</speaker><content>Richard, look.  The only thing we really know about him is that we don’t know him. Me, I had one night with him. You, a day in Paris. Lean on the people you trust. Call Katherine. Tell her what’s going on.</content></utterance>
+<utterance uid="21-5"><speaker>MARTHA</speaker><content>I’ll get that.</content></utterance>
+<utterance uid="21-6"><speaker>CASTLE</speaker><content>And what if he’s telling the truth?</content></utterance>
+<utterance uid="21-7"><speaker>MARTHA</speaker><content> And what if he isn’t?</content></utterance>
+<utterance uid="21-8"><speaker>CROSS</speaker><content>Hello, Martha. It’s been awhile, huh?</content></utterance>
+<utterance uid="21-9"><speaker>MARTHA</speaker><content>What the hell are you doing here?</content></utterance>
+<utterance uid="21-10"><speaker>CROSS</speaker><content>Sorry to miss our meeting, but I was a little busy getting shot.</content></utterance>
+<utterance uid="21-11"><speaker>MARTHA</speaker><content>Oh, my God … come in.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>CROSS</speaker><content>You look good.</content></utterance>
+<utterance uid="22-2"><speaker>MARTHA</speaker><content>Yeah well, you’ve looked better.</content></utterance>
+<utterance uid="22-3"><speaker>MARTHA</speaker><content> Sorry.</content></utterance>
+<utterance uid="22-4"><speaker>CASTLE</speaker><content>Okay, I boiled everything, just like you said. But I have to warn you, my only other experience with surgery involved a board game and a guy whose nose lit up when I made a mistake.</content></utterance>
+<utterance uid="22-5"><speaker>CROSS</speaker><content>Did you bring the booze?</content></utterance>
+<utterance uid="22-6"><speaker>CASTLE</speaker><content>Yeah, no., right here. You want something to dull the pain?</content></utterance>
+<utterance uid="22-7"><speaker>CROSS</speaker><content>No. I want you to steady your nerves. Take a swig.</content></utterance>
+<utterance uid="22-8"><speaker>CASTLE</speaker><content>Good idea.</content></utterance>
+<utterance uid="22-9"><speaker>MARTHA</speaker><content>Okay.</content></utterance>
+<utterance uid="22-10"><speaker>CROSS</speaker><content>Okay, now, make an incision through the wound, about an inch long.</content></utterance>
+<utterance uid="22-11"><speaker>MARTHA</speaker><content>Here you go.</content></utterance>
+<utterance uid="22-12"><speaker>CASTLE</speaker><content>Okay. About an inch.</content></utterance>
+<utterance uid="22-13"><speaker>CASTLE</speaker><content>Okay.</content></utterance>
+<utterance uid="22-14"><speaker>CROSS</speaker><content>Okay, now here comes the fun part. Carefully, and I do mean carefully, pull the slug out.</content></utterance>
+<utterance uid="22-15"><speaker>CROSS</speaker><content>But do me a favor. Try not to make my nose light up, all right?</content></utterance>
+<utterance uid="22-16"><speaker>CASTLE</speaker><content>Right.</content></utterance>
+<utterance uid="22-17"><speaker>CASTLE</speaker><content>I think I have it. Got it.</content></utterance>
+<utterance uid="22-18"><speaker>CASTLE</speaker><content>I don’t got it. Sorry.</content></utterance>
+<utterance uid="22-19"><speaker>MARTHA</speaker><content>Careful, Richard.</content></utterance>
+<utterance uid="22-20"><speaker>CROSS</speaker><content>Now that you know how not to do it, why don’t you try the other one?</content></utterance>
+<utterance uid="22-21"><speaker>CASTLE</speaker><content>Right.</content></utterance>
+<utterance uid="22-22"><speaker>MARTHA</speaker><content>Okay, let me just get you, here. </content></utterance>
+<utterance uid="22-23"><speaker>CASTLE</speaker><content>Thank you. Okay.</content></utterance>
+<utterance uid="22-24"><speaker>CASTLE</speaker><content>I think I have it. All right …  … I have it.</content></utterance>
+<utterance uid="22-25"><speaker>MARTHA</speaker><content>Bravo!</content></utterance>
+<utterance uid="22-26"><speaker>CROSS</speaker><content>Real good.</content></utterance>
+<utterance uid="22-27"><speaker>CASTLE</speaker><content>Here we go.</content></utterance>
+<utterance uid="22-28"><speaker>CROSS</speaker><content>Martha, hand me the needle and thread.</content></utterance>
+<utterance uid="22-29"><speaker>MARTHA</speaker><content>Uh … here it is.  There we go.  You’ve stitched yourself up before, I take it?</content></utterance>
+<utterance uid="22-30"><speaker>CROSS</speaker><content>At least this time I’ve got a needle.</content></utterance>
+<utterance uid="22-31"><speaker>CASTLE</speaker><content>So you want to tell us how you got shot?</content></utterance>
+<utterance uid="22-32"><speaker>CROSS</speaker><content>Not particularly.</content></utterance>
+<utterance uid="22-33"><speaker>CASTLE</speaker><content>What about the three guards you murdered while escaping from prison? You want to tell us about that?</content></utterance>
+<utterance uid="22-34"><speaker>CROSS</speaker><content>Don’t believe everything you read.</content></utterance>
+<utterance uid="22-35"><speaker>CASTLE</speaker><content>So you didn’t kill them?</content></utterance>
+<utterance uid="22-36"><speaker>CROSS</speaker><content>I work outside the system, which means I needed an effective cover. Hired assassin, wanted by Uncle Sam? Opens a lot of doors.</content></utterance>
+<utterance uid="22-37"><speaker>BECKETT</speaker><content>Castle?</content></utterance>
+<utterance uid="22-38"><speaker>CASTLE</speaker><content>Crap.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>BECKETT</speaker><content>Hey. So I thought I’d see if Alexis remembers anything more about the man from the sketches.</content></utterance>
+<utterance uid="23-2"><speaker>CASTLE</speaker><content>Yeah, about the man in the sketches - … um, there’s something you should know about him.</content></utterance>
+<utterance uid="23-3"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="23-4"><speaker>CASTLE</speaker><content>He’s your future father-in-law.</content></utterance>
+<utterance uid="23-5"><speaker>CROSS</speaker><content>Nice to see you again, Kate.</content></utterance>
+<utterance uid="23-6"><speaker>MARTHA</speaker><content> Katherine. I want to say this isn’t what it looks like, but it is.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>CASTLE</speaker><content>I was going to tell you, I swear.</content></utterance>
+<utterance uid="24-2"><speaker>BECKETT</speaker><content>When? After you patched him up? Sent him on his merry way? He is wanted by the government. You are harboring a fugitive!</content></utterance>
+<utterance uid="24-3"><speaker>CASTLE</speaker><content>That’s just his cover.</content></utterance>
+<utterance uid="24-4"><speaker>BECKETT</speaker><content>And you know that how? Because he told you?</content></utterance>
+<utterance uid="24-5"><speaker>CASTLE</speaker><content>Because of Paris and because he’s my father.</content></utterance>
+<utterance uid="24-6"><speaker>BECKETT</speaker><content>He is not your father. He made that choice a long time ago. This man is my suspect. Now you know what I have to do, right?</content></utterance>
+<utterance uid="24-7"><speaker>CROSS</speaker><content>Boy, she is a spitfire, this one.</content></utterance>
+<utterance uid="24-8"><speaker>CROSS</speaker><content>I’m glad we’re on the same side.</content></utterance>
+<utterance uid="24-9"><speaker>BECKETT</speaker><content>Who says we’re on the same side?</content></utterance>
+<utterance uid="24-10"><speaker>MARTHA</speaker><content>Sorry, he wouldn’t stay put.</content></utterance>
+<utterance uid="24-11"><speaker>CROSS</speaker><content>Richard, I need you laptop. Now.</content></utterance>
+<utterance uid="24-12"><speaker>CASTLE</speaker><content>Right.</content></utterance>
+<utterance uid="24-13"><speaker>BECKETT</speaker><content>No, the only thing that you are getting is a ride to my precinct in handcuffs.</content></utterance>
+<utterance uid="24-14"><speaker>CROSS</speaker><content>You’re not going to arrest me.</content></utterance>
+<utterance uid="24-15"><speaker>BECKETT</speaker><content>Really? Why?</content></utterance>
+<utterance uid="24-16"><speaker>CROSS</speaker><content>Because you want answers. And if you take me in you’re not going to get any. The Feds will swoop in, you won’t have anything, and I’ll have lost valuable time. You want Ted’s killer? So do I. But there’s a hell of a lot more at stake than murder.</content></utterance>
+<utterance uid="24-17"><speaker>BECKETT</speaker><content>Then you’re going to have to tell me what it is.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>CROSS</speaker><content>There was a massive breach at the CIA. Someone hacked the files containing the identities of our deep operatives.</content></utterance>
+<utterance uid="25-2"><speaker>CASTLE</speaker><content>Do you know who?</content></utterance>
+<utterance uid="25-3"><speaker>CROSS</speaker><content>No. But it was an inside job at the highest level. That’s why they called me. Because I’m outside. My orders were to find the mole and recover the files.</content></utterance>
+<utterance uid="25-4"><speaker>BECKETT</speaker><content>What does any of this have to do with Ted?</content></utterance>
+<utterance uid="25-5"><speaker>CROSS</speaker><content>Ted was one of my best guys. I recruited him to help me find Gemini.</content></utterance>
+<utterance uid="25-6"><speaker>MARTHA</speaker><content>Gemini?</content></utterance>
+<utterance uid="25-7"><speaker>CROSS</speaker><content>Code name for the mole. He was planning on selling the DCO list. But we couldn’t find him. If these files get out the consequences will be very real. Then yesterday we had a breakthrough. Ted identified the buyer and he signaled me to meet to tell me who it was. But –</content></utterance>
+<utterance uid="25-8"><speaker>CASTLE</speaker><content>But Gemini got there first. He killed Ted.</content></utterance>
+<utterance uid="25-9"><speaker>CROSS</speaker><content>Leaving me SOL. Until you told me about the Iranian rial.</content></utterance>
+<utterance uid="25-10"><speaker>BECKETT</speaker><content> You – you told him about the rial?</content></utterance>
+<utterance uid="25-11"><speaker>CROSS</speaker><content>Ted left that as a failsafe message about the buyer.</content></utterance>
+<utterance uid="25-12"><speaker>CASTLE</speaker><content>Right. It’s old school spy craft. But Gemini knows all the old tricks so he took that coin to throw you off his scent.</content></utterance>
+<utterance uid="25-13"><speaker>CROSS</speaker><content>Yeah. Once I found out the Iranians were involved I traced Ted’s trail back to an apartment on East 38th Street across from the Iranian mission. Only Gemini got there ahead of me.</content></utterance>
+<utterance uid="25-14"><speaker>CASTLE</speaker><content>And he ambushed you.</content></utterance>
+<utterance uid="25-15"><speaker>CROSS</speaker><content>From a rooftop across the way. As soon as I opened the door all hell broke loose.  But I’m good at hell.</content></utterance>
+<utterance uid="25-16"><speaker>CROSS</speaker><content>And I made my way back to the car but he was right on my tail. I had to drive right into the East River just to get away from him.</content></utterance>
+<utterance uid="25-17"><speaker>BECKETT</speaker><content>Look, this is an incredible story and I can see where Castle gets his talent, but that doesn’t mean any of what you said is true.</content></utterance>
+<utterance uid="25-18"><speaker>CROSS</speaker><content>You don’t believe me?</content></utterance>
+<utterance uid="25-19"><speaker>BECKETT</speaker><content> Uh uh.</content></utterance>
+<utterance uid="25-20"><speaker>CROSS</speaker><content>Well, turn on the news.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>NEWSCASTER</speaker><content>A high speed car chase rocked the neighborhood of Murray Hill just hours ago. According to multiple reports, the pursuit began with gunshots at an apartment on East 38th Street, where two unidentified men were involved in a gun battle.</content></utterance>
+<utterance uid="26-2"><speaker>BECKETT</speaker><content>That doesn’t prove anything.</content></utterance>
+<utterance uid="26-3"><speaker>BECKETT</speaker><content>Beckett.</content></utterance>
+<utterance uid="26-4"><speaker>ESPOSITO</speaker><content>So, whatever our boy Ted was into, it’s all some crazy ass spy stuff.</content></utterance>
+<utterance uid="26-5"><speaker>BECKETT</speaker><content>What makes you say that?</content></utterance>
+<utterance uid="26-6"><speaker>ESPOSITO</speaker><content>Well, have you heard about that car chase in Murray Hill? Well, we’re at the epicenter. It’s a shot up apartment at 38th and 3rd. That’s where it all started. According to the super, Ted Rollins rented this place two weeks ago.</content></utterance>
+<utterance uid="26-7"><speaker>RYAN</speaker><content>By the looks of the equipment, he was hacking again.</content></utterance>
+<utterance uid="26-8"><speaker>BECKETT</speaker><content>Hacking who?</content></utterance>
+<utterance uid="26-9"><speaker>RYAN</speaker><content>I don’t know. He’s got a pretty sophisticated Wi-Fi sniffer here, so he must have been intercepting internet traffic from someone.</content></utterance>
+<utterance uid="26-10"><speaker>CASTLE</speaker><content>The Iranian mission across the street.</content></utterance>
+<utterance uid="26-11"><speaker>BECKETT</speaker><content>What exactly did Ted intercept?</content></utterance>
+<utterance uid="26-12"><speaker>RYAN</speaker><content>I don’t know. Someone stole the hard drive.</content></utterance>
+<utterance uid="26-13"><speaker>CROSS</speaker><content>Can I borrow your laptop now?</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>CASTLE</speaker><content>These are communications to and from the Iranian mission.</content></utterance>
+<utterance uid="27-2"><speaker>CROSS</speaker><content>Yep.</content></utterance>
+<utterance uid="27-3"><speaker>BECKETT</speaker><content>That’s incredibly illegal.</content></utterance>
+<utterance uid="27-4"><speaker>CROSS</speaker><content>Yep.  Okay, here. He’d flagged this one. It’s an anonymous email from Izad Larjani. He’s part of Vivak, Iran’s CIA.</content></utterance>
+<utterance uid="27-5"><speaker>CASTLE</speaker><content> “FC – payment received. Central Library Reading Room. Tomorrow, 5PM. Network name ‘Kingfish’.” This was sent yesterday.</content></utterance>
+<utterance uid="27-6"><speaker>CROSS</speaker><content> Which means its’ going down today.</content></utterance>
+<utterance uid="27-7"><speaker>BECKETT</speaker><content>He’s sending the DCO list over a secured Wi-Fi connection in –  – roughly 30 minutes.</content></utterance>
+<utterance uid="27-8"><speaker>CASTLE</speaker><content>Central Library’s a perfect location. It’s public, uh, there’s lots of people on laptops.</content></utterance>
+<utterance uid="27-9"><speaker>CROSS</speaker><content>Gemini never has to meet with his buyer face to face.</content></utterance>
+<utterance uid="27-10"><speaker>CASTLE</speaker><content>Wi-Fi signals max out at about 200 feet indoors. He and the buyer would have to be in the building at the same time.</content></utterance>
+<utterance uid="27-11"><speaker>MARTHA</speaker><content>Given everything that happened, why would he still go through with the exchange?</content></utterance>
+<utterance uid="27-12"><speaker>CROSS</speaker><content>FC means final communication. All links have been severed. If Gemini pulls out, he has no way to tell his buyer. He will do anything in his power to make the transfer.  I’ve gotta go. I’ve gotta stop this.</content></utterance>
+<utterance uid="27-13"><speaker>MARTHA</speaker><content>Are you crazy? We just pulled a bullet out of you! Can’t you call someone?</content></utterance>
+<utterance uid="27-14"><speaker>CROSS</speaker><content>This mission does not exist. I don’t exist. There’s no one to call?</content></utterance>
+<utterance uid="27-15"><speaker>BECKETT</speaker><content>Don’t you have backup?</content></utterance>
+<utterance uid="27-16"><speaker>CROSS</speaker><content>I am the backup.</content></utterance>
+<utterance uid="27-17"><speaker>CASTLE</speaker><content>You’re in no condition –</content></utterance>
+<utterance uid="27-18"><speaker>CROSS</speaker><content>You don’t understand! This list cannot get out into the open.</content></utterance>
+<utterance uid="27-19"><speaker>BECKETT</speaker><content>Then we’ll go.  Castle’s right. You’re in no condition. And if we stop him then we all get what we want.</content></utterance>
+</scene>
+
+<scene id="28"><utterance uid="28-1"><speaker>CROSS</speaker><content>Let’s run this, just so we know we’re all on the same page. Richard, what do you do?</content></utterance>
+<utterance uid="28-2"><speaker>CASTLE</speaker><content>As soon as the Kingfish network goes online, I log in, I download the list.</content></utterance>
+<utterance uid="28-3"><speaker>CROSS</speaker><content>You don’t just log in. You’ve got to be first.</content></utterance>
+<utterance uid="28-4"><speaker>CASTLE</speaker><content> Right.</content></utterance>
+<utterance uid="28-5"><speaker>MARTHA</speaker><content>But why does he have to be first?</content></utterance>
+<utterance uid="28-6"><speaker>CASTLE</speaker><content>Because it locks out the Iranians from downloading the list.</content></utterance>
+<utterance uid="28-7"><speaker>BECKETT</speaker><content>Right, and while Castle is downloading I’ll track the signal using the Wi-Fi analyzer on my phone.</content></utterance>
+<utterance uid="28-8"><speaker>MARTHA</speaker><content>You can find a spy on your phone?</content></utterance>
+<utterance uid="28-9"><speaker>CASTLE</speaker><content>Mother, there’s an app for everything now.</content></utterance>
+<utterance uid="28-10"><speaker>CROSS</speaker><content>Now Kate, remember, if you don’t have a tactical advantage just get eyes on him. He’s CIA. If you can describe him I can find him.</content></utterance>
+<utterance uid="28-11"><speaker>BECKETT</speaker><content>Okay. Right. It’s almost five. We should go.</content></utterance>
+<utterance uid="28-12"><speaker>CROSS</speaker><content>Richard. This means a lot, kid.</content></utterance>
+<utterance uid="28-13"><speaker>CASTLE</speaker><content>Thanks.</content></utterance>
+<utterance uid="28-14"><speaker>BECKETT</speaker><content>Martha, I’m going to need –</content></utterance>
+<utterance uid="28-15"><speaker>MARTHA</speaker><content>I know. He’s not going anywhere.</content></utterance>
+<utterance uid="28-16"><speaker>BECKETT</speaker><content>Okay.</content></utterance>
+<utterance uid="28-17"><speaker>MARTHA</speaker><content>If anything happens to them –</content></utterance>
+<utterance uid="28-18"><speaker>CROSS</speaker><content>He’s a smart kid. And she’s good at what she does. No, they’ll be fine.  I promise.</content></utterance>
+<utterance uid="28-19"><speaker>MARTHA</speaker><content>Forgive me, but your promises don’t mean very much.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>BECKETT</speaker><content>Gemini could be any one of these people.</content></utterance>
+<utterance uid="29-2"><speaker>CASTLE</speaker><content>All right. Scanning for Wi-Fi signals.</content></utterance>
+<utterance uid="29-3"><speaker>BECKET</speaker><content>I don’t see Kingfish.</content></utterance>
+<utterance uid="29-4"><speaker>CASTLE</speaker><content>Maybe we’re too late.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>CROSS</speaker><content>You still play?</content></utterance>
+<utterance uid="30-2"><speaker>MARTHA</speaker><content>No, not so much anymore.</content></utterance>
+<utterance uid="30-3"><speaker>CROSS</speaker><content>A shame. You were good.</content></utterance>
+<utterance uid="30-4"><speaker>CROSS</speaker><content>That was a hell of a night.</content></utterance>
+<utterance uid="30-5"><speaker>MARTHA</speaker><content>Hell of a night.</content></utterance>
+<utterance uid="30-6"><speaker>CROSS</speaker><content>You remember the song you played?  My Funny Valentine?</content></utterance>
+<utterance uid="30-7"><speaker>MARTHA</speaker><content>It was a long time ago.</content></utterance>
+<utterance uid="30-8"><speaker>MARTHA</speaker><content>Oh, oh, oh. You need to lie down.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>MARTHA</speaker><content>All right. I am calling an ambulance for you.</content></utterance>
+<utterance uid="31-2"><speaker>CROSS</speaker><content>No, no.  It’s just that my blood sugar’s low. You got any juice.</content></utterance>
+<utterance uid="31-3"><speaker>MARTHA</speaker><content>Uh … yes.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>CASTLE</speaker><content>5:04. We blew it.</content></utterance>
+<utterance uid="32-2"><speaker>BECKETT</speaker><content>Did we? Or did we just get played?  Look Castle, I know he’s your father. But what if there’s an ulterior motive to all of this?</content></utterance>
+<utterance uid="32-3"><speaker>BECKETT</speaker><content>Kingfish is online. Go.</content></utterance>
+<utterance uid="32-4"><speaker>CASTLE</speaker><content>Okay … T, hashtag, less than, L –</content></utterance>
+<utterance uid="32-5"><speaker>BECKETT</speaker><content>Uppercase L.</content></utterance>
+<utterance uid="32-6"><speaker>CASTLE</speaker><content>Oh, capital L …</content></utterance>
+<utterance uid="32-7"><speaker>BECKETT</speaker><content>We’ve gotta get on before the buyer. C’mon.</content></utterance>
+<utterance uid="32-8"><speaker>CASTLE</speaker><content>I’m in.  Downloading the file, slowest speed possible. That gives you … less than three minutes.</content></utterance>
+<utterance uid="32-9"><speaker>BECKETT</speaker><content>Okay, you stay here. You tell me how much time I have.</content></utterance>
+<utterance uid="32-10"><speaker>BECKETT</speaker><content>Can you hear me?</content></utterance>
+<utterance uid="32-11"><speaker>CASTLE</speaker><content>Yeah. I can hear you.</content></utterance>
+<utterance uid="32-12"><speaker>BECKETT</speaker><content>Signal’s getting stronger.</content></utterance>
+<utterance uid="32-13"><speaker>BECKETT</speaker><content>You’ve got two minutes, 47 seconds left.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>MARTHA</speaker><content>Oh no.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>CASTLE</speaker><content>You’ve got under 2 minutes.</content></utterance>
+<utterance uid="34-2"><speaker>BECKETT</speaker><content>All right, Castle. I’m at the stairs and the signal’s gotten weak again. Did I pass him?</content></utterance>
+<utterance uid="34-3"><speaker>CASTLE</speaker><content>Wait a minute.  Wait. We are demonstrating two dimensional thinking here, like Khan in Star Trek 2: Wrath of Khan.</content></utterance>
+<utterance uid="34-4"><speaker>BECKETT</speaker><content>Khan didn’t realize that the Enterprise was below him.</content></utterance>
+<utterance uid="34-5"><speaker>CASTLE</speaker><content>Right. So if we are the Enterprise that means Gemini is –</content></utterance>
+<utterance uid="34-6"><speaker>BECKETT</speaker><content>He’s above us.</content></utterance>
+<utterance uid="34-7"><speaker>CASTLE</speaker><content>Exactly.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>CASTLE</speaker><content>Oh, this is so not the time, Mother.</content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>CASTLE</speaker><content>A minute fifteen left.</content></utterance>
+<utterance uid="36-2"><speaker>BECKETT</speaker><content>Castle, I’m in the book stacks. I’m close.</content></utterance>
+</scene>
+<scene id="37"><utterance uid="37-1"><speaker>CASTLE</speaker><content>All right, less than a minute. Be careful.</content></utterance>
+</scene>
+<scene id="38"><utterance uid="38-1"><speaker>CASTLE</speaker><content> Mom!</content></utterance>
+</scene>
+<scene id="39"><utterance uid="39-1"><speaker>CASTLE</speaker><content>Do you see him? Is he there?</content></utterance>
+<utterance uid="39-2"><speaker>CASTLE</speaker><content>Beckett?</content></utterance>
+<utterance uid="39-3"><speaker>BECKETT</speaker><content>Oh no.</content></utterance>
+<utterance uid="39-4"><speaker>CASTLE</speaker><content>What?</content></utterance>
+<utterance uid="39-5"><speaker>BECKETT</speaker><content>Oh, Castle. He set up some kind of a relay system. Gemini could be anywhere.</content></utterance>
+<utterance uid="39-6"><speaker>CASTLE</speaker><content>What?  Hang on, something’s wrong.</content></utterance>
+<utterance uid="39-7"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="39-8"><speaker>CASTLE</speaker><content>The download is complete, but this is – this is not a CIA list. This is – this is a phone book.</content></utterance>
+<utterance uid="39-9"><speaker>TONY BLAINE</speaker><content>Richard Castle? Wow. </content></utterance>
+<utterance uid="39-10"><speaker>BECKETT</speaker><content>Castle.</content></utterance>
+<utterance uid="39-11"><speaker>BLAINE</speaker><content>I am so sorry to bother you, sir, but I’m like, your number one fan. Can I get an autograph?</content></utterance>
+<utterance uid="39-12"><speaker>CASTLE</speaker><content>Actually, this is really not a great time.</content></utterance>
+<utterance uid="39-13"><speaker>BECKETT</speaker><content>What are you talking about?</content></utterance>
+<utterance uid="39-14"><speaker>BECKETT</speaker><content>Castle?</content></utterance>
+<utterance uid="39-15"><speaker>BECKETT</speaker><content>Castle? Are you there?</content></utterance>
+<utterance uid="39-16"><speaker>CASTLE</speaker><content>That was you at the park, wasn’t it? Dressed as a homeless guy. You’re Gemini.</content></utterance>
+<utterance uid="39-17"><speaker>BLAINE</speaker><content>Let’s go. Nice and quiet.</content></utterance>
+</scene>
+
+<scene id="40"><utterance uid="40-1"><speaker>BLAINE</speaker><content>The man who sent you, who is he?</content></utterance>
+<utterance uid="40-2"><speaker>CASTLE</speaker><content>Look, I don’t know what you’re talking about.</content></utterance>
+<utterance uid="40-3"><speaker>BLAINE</speaker><content>I saw you in the park with him. Is he CIA?</content></utterance>
+<utterance uid="40-4"><speaker>CASTLE</speaker><content>The phone book. You knew not to send the real list because you were trying to draw him into the open.</content></utterance>
+<utterance uid="40-5"><speaker>BLAINE</speaker><content>That’s right. Looks like he was smart enough to send someone expendable.  All right, mystery writer, tell me a story. Who’s your handler? What’s his name? Where is he?</content></utterance>
+<utterance uid="40-6"><speaker>CASTLE</speaker><content>Why should I tell you? You’re just going to kill me anyway.</content></utterance>
+<utterance uid="40-7"><speaker>BLAINE</speaker><content>Yeah, but I can kill you slow or I can kill you fast. It’s up to you.</content></utterance>
+<utterance uid="40-8"><speaker>CROSS</speaker><content>You all right?</content></utterance>
+<utterance uid="40-9"><speaker>CASTLE</speaker><content>Me? You’re – you’re the one that was shot.</content></utterance>
+<utterance uid="40-10"><speaker>CROSS</speaker><content>It wasn’t the first time.</content></utterance>
+<utterance uid="40-11"><speaker>CASTLE</speaker><content>I’ll go call an ambulance.</content></utterance>
+<utterance uid="40-12"><speaker>CROSS</speaker><content>Don’t bother.</content></utterance>
+<utterance uid="40-13"><speaker>BLAINE</speaker><content>No! No, wait!</content></utterance>
+<utterance uid="40-14"><speaker>CASTLE</speaker><content>Why would you do that?</content></utterance>
+<utterance uid="40-15"><speaker>CROSS</speaker><content>That was the mission. That’s what I do.</content></utterance>
+<utterance uid="40-16"><speaker>CASTLE</speaker><content>How did you even find me?</content></utterance>
+<utterance uid="40-17"><speaker>CROSS</speaker><content>Your left coat pocket.</content></utterance>
+<utterance uid="40-18"><speaker>CASTLE</speaker><content>What is this? Is this some kind of GPS locator? How did you -?  The hug. You slipped this on me.</content></utterance>
+<utterance uid="40-19"><speaker>CROSS</speaker><content>I needed to keep tabs on you.</content></utterance>
+<utterance uid="40-20"><speaker>CASTLE</speaker><content> Yeah, to use me as bait!</content></utterance>
+<utterance uid="40-21"><speaker>CROSS</speaker><content>Well after the shootout at the apartment, I knew I was blown. But I still had to recover this list.</content></utterance>
+<utterance uid="40-22"><speaker>CASTLE</speaker><content>So to keep the upper hand you let Beckett and me walk into a trap. We could have been killed.</content></utterance>
+<utterance uid="40-23"><speaker>CROSS</speaker><content>I would never let anything happen to you two.</content></utterance>
+<utterance uid="40-24"><speaker>CASTLE</speaker><content> The way you never let anything happen to Ted?</content></utterance>
+<utterance uid="40-25"><speaker>CROSS</speaker><content>There are reasons I have to do, Richard. One day you’ll understand. Hum? Now, get Beckett. Let her know we have our killer.</content></utterance>
+</scene>
+<scene id="41"><utterance uid="41-1"><speaker>BECKETT</speaker><content>Oh, Castle! What happened?</content></utterance>
+<utterance uid="41-2"><speaker>CASTLE</speaker><content>C’mon. Gemini’s down here.</content></utterance>
+<utterance uid="41-3"><speaker>BECKETT</speaker><content>Okay.</content></utterance>
+</scene>
+<scene id="42"><utterance uid="42-1"><speaker>CASTLE</speaker><content>No. No, no, no, no. He was here. He was here just a minute ago. And of course he took the body.</content></utterance>
+<utterance uid="42-2"><speaker>BECKETT</speaker><content>But left Gemini’s weapon.</content></utterance>
+</scene>
+<scene id="43"><utterance uid="43-1"><speaker>RYAN</speaker><content>That gun was a ballistics match to the one that killed Ted. And it’s registered to Tony Blaine.</content></utterance>
+<utterance uid="43-2"><speaker>ESPOSITO</speaker><content>We searched his place. Found clothes that tested positive for Ted’s blood. Blaine’s killer.</content></utterance>
+<utterance uid="43-3"><speaker>BECKETT</speaker><content>But who is he?</content></utterance>
+<utterance uid="43-4"><speaker>ESPOSITO</speaker><content>He’s a researcher at a government think tank.</content></utterance>
+<utterance uid="43-5"><speaker>RYAN</speaker><content>Yeah, but what a researcher at a government think tank is doing is doing involved in all this, we have no idea.</content></utterance>
+<utterance uid="43-6"><speaker>BECKETT</speaker><content>Yeah, we may never know.</content></utterance>
+<utterance uid="43-7"><speaker>ESPOSITO</speaker><content>Well, hold on. We’ve got a BOLO out on him and we’re monitoring his credit cards. We’ll find him.</content></utterance>
+<utterance uid="43-8"><speaker>RYAN</speaker><content>And when we do maybe he can tell us who this Anderson Cross is.</content></utterance>
+<utterance uid="43-9"><speaker>BECKETT</speaker><content> Yeah. Maybe. All right. Great job, guys.</content></utterance>
+<utterance uid="43-10"><speaker>ESPOSITO</speaker><content>Thanks.</content></utterance>
+<utterance uid="43-11"><speaker>BECKETT</speaker><content>Well, it looks like the CIA wrapped all this up in a neat package.</content></utterance>
+<utterance uid="43-12"><speaker>CASTLE</speaker><content>Yeah. With a bow courtesy of my father.</content></utterance>
+<utterance uid="43-13"><speaker>BECKETT</speaker><content>At least Ted’s killer was brought to justice, you know? In a way.</content></utterance>
+<utterance uid="43-14"><speaker>CASTLE</speaker><content>Blaine killed Ted but left his body at Coney Island. It was my father that moved the body. Now he could have put it anywhere, but he took it to Ted’s apartment. Now do you know why?</content></utterance>
+<utterance uid="43-15"><speaker>BECKETT</speaker><content>To bring him into our jurisdiction.</content></utterance>
+<utterance uid="43-16"><speaker>CASTLE</speaker><content>He wanted us to catch the case so he could work me for information.</content></utterance>
+<utterance uid="43-17"><speaker>BECKETT</speaker><content>Well maybe he was just looking for a reason to see you again and this was his way.</content></utterance>
+<utterance uid="43-18"><speaker>CASTLE</speaker><content>I keep making the mistake of thinking he’s family. But he’s not.  You are.</content></utterance>
+<utterance uid="43-19"><speaker>CASTLE</speaker><content>September.</content></utterance>
+<utterance uid="43-20"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="43-21"><speaker>CASTLE</speaker><content>We’re getting married in September. It won’t be too hot, it won’t be too cold. It’s in the goldilocks zone. It’s perfect.</content></utterance>
+<utterance uid="43-22"><speaker>BECKETT</speaker><content>Wait a minute, Castle. What about your book tour?</content></utterance>
+<utterance uid="43-23"><speaker>CASTLE</speaker><content>Screw it.  September.</content></utterance>
+<utterance uid="43-24"><speaker>BECKETT</speaker><content>Okay.</content></utterance>
+</scene>
+<scene id="44"><utterance uid="44-1"><speaker>CASTLE</speaker><content>Hello, Mother.</content></utterance>
+<utterance uid="44-2"><speaker>MARTHA</speaker><content> Well that was fun. Ugh. What a day.  You know, for years I wondered if your father was the one who got away. Well now I finally know.</content></utterance>
+<utterance uid="44-3"><speaker>CASTLE</speaker><content>He was never worth your time.</content></utterance>
+<utterance uid="44-4"><speaker>MARTHA</speaker><content>Oh yes he was. First time I met him he gave me the greatest gift of my life. You. And now after all these years he’s given me another one. Closure. Though ­–  – what about you, kiddo? How are you?</content></utterance>
+<utterance uid="44-5"><speaker>CASTLE</speaker><content> I don’t know.</content></utterance>
+<utterance uid="44-6"><speaker>MARTHA</speaker><content>Think we’ll ever see him again?</content></utterance>
+<utterance uid="44-7"><speaker>CASTLE</speaker><content>I wish I knew.</content></utterance>
+<utterance uid="44-8"><speaker>THE END</speaker><content>CASTLE</content></utterance>
+</scene>
+</script>

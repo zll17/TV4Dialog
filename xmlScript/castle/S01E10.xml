@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+
+<scene id="1"><utterance uid="1-1"><speaker>CASTLE</speaker><content>Well, this one's a little less made-up. The victim is the mother of the detective I’ve been following around.</content></utterance>
+<utterance uid="1-2"><speaker>CASTLE</speaker><content>The case has been cold ten years. I just figured, since you're the best forensic pathologist in the city, maybe you could catch something they missed.</content></utterance>
+<utterance uid="1-3"><speaker>CASTLE</speaker><content>Astronomical, I know. But I’d appreciate it if you took a look.</content></utterance>
+<utterance uid="1-4"><speaker>CASTLE</speaker><content>Of course not. Thanks again.</content></utterance>
+<utterance uid="1-5"><speaker>CASTLE</speaker><content>I appreciate it.</content></utterance>
+<utterance uid="1-6"><speaker>MARTHA</speaker><content>What was Dr. Death doing here?</content></utterance>
+<utterance uid="1-7"><speaker>CASTLE</speaker><content>Just a little consulting.</content></utterance>
+<utterance uid="1-8"><speaker>MARTHA</speaker><content>It sounded to me like you were looking into Detective Beckett's mother's murder.</content></utterance>
+<utterance uid="1-9"><speaker>CASTLE</speaker><content>Must you always eavesdrop?</content></utterance>
+<utterance uid="1-10"><speaker>MARTHA</speaker><content>I wasn't eavesdropping. I happened to walk by your office door. I live here, too, you know.</content></utterance>
+<utterance uid="1-11"><speaker>CASTLE</speaker><content>Yes. I'm aware.</content></utterance>
+<utterance uid="1-12"><speaker>MARTHA</speaker><content>So does she know you're poking into her mother's case?</content></utterance>
+<utterance uid="1-13"><speaker>CASTLE</speaker><content>What's the sense in telling her until I find something new?</content></utterance>
+<utterance uid="1-14"><speaker>MARTHA</speaker><content>Well, you ever stop to think you're invading her privacy?</content></utterance>
+<utterance uid="1-15"><speaker>CASTLE</speaker><content>I'm not poking through her underwear drawer. I'm investigating her mother's murder.</content></utterance>
+<utterance uid="1-16"><speaker>MARTHA</speaker><content>You are digging up her past, darling, without her permission. Now you either tell her or leave it alone.</content></utterance>
+<utterance uid="1-17"><speaker>ALEXIS</speaker><content>Oh, my gosh, dad! Dad, dad, dad!</content></utterance>
+<utterance uid="1-18"><speaker>CASTLE</speaker><content>What is it?</content></utterance>
+<utterance uid="1-19"><speaker>ALEXIS</speaker><content>He asked me! Dad, he asked me!</content></utterance>
+<utterance uid="1-20"><speaker>CASTLE</speaker><content>Who asked you?</content></utterance>
+<utterance uid="1-21"><speaker>ALEXIS</speaker><content>Owen. But I told him I had to ask you. But you'll say yes, right? 'Cause I told him yes. But you have to say yes, so say yes!</content></utterance>
+<utterance uid="1-22"><speaker>CASTLE</speaker><content>Yes?</content></utterance>
+<utterance uid="1-23"><speaker>ALEXIS</speaker><content>Yes!</content></utterance>
+<utterance uid="1-24"><speaker>CASTLE</speaker><content>What am I saying yes to?</content></utterance>
+<utterance uid="1-25"><speaker>ALEXIS</speaker><content>The Junior-Senior prom.</content></utterance>
+<utterance uid="1-26"><speaker>CASTLE</speaker><content>Whoa, whoa, whoa, whoa, whoa. You are not a junior nor a senior.</content></utterance>
+<utterance uid="1-27"><speaker>ALEXIS</speaker><content>True, but Owen’s a junior.</content></utterance>
+<utterance uid="1-28"><speaker>CASTLE</speaker><content>Owen? I thought you said he was only 15.</content></utterance>
+<utterance uid="1-29"><speaker>CASTLE</speaker><content>Yeah, he skipped a grade. But he's so cute, dad. Please, please, please.</content></utterance>
+<utterance uid="1-30"><speaker>CASTLE</speaker><content>If I say yes, will you promise to stay up past your bed time, have a good time?</content></utterance>
+<utterance uid="1-31"><speaker>ALEXIS</speaker><content>Yes!</content></utterance>
+<utterance uid="1-32"><speaker>CASTLE</speaker><content>Not - Not too good a time.</content></utterance>
+<utterance uid="1-33"><speaker>ALEXIS</speaker><content>Dad, all we've done is hold hands.</content></utterance>
+<utterance uid="1-34"><speaker>CASTLE</speaker><content>Ew, okay, please. Don't need details. Just...</content></utterance>
+<utterance uid="1-35"><speaker>ALEXIS</speaker><content>So I can go?</content></utterance>
+<utterance uid="1-36"><speaker>CASTLE</speaker><content>Of course you can go.</content></utterance>
+<utterance uid="1-37"><speaker>ALEXIS</speaker><content>Oh! I love you. Oh! I'm gonna need a dress.</content></utterance>
+<utterance uid="1-38"><speaker>MARTHA</speaker><content>Of course.</content></utterance>
+<utterance uid="1-39"><speaker>ALEXIS</speaker><content>A beautiful dress. A dress, a dress, a dress! Thanks, dad! </content></utterance>
+<utterance uid="1-40"><speaker>MARTHA</speaker><content>So do you like this... Owen?</content></utterance>
+<utterance uid="1-41"><speaker>CASTLE</speaker><content>I don't know. I haven't met him.</content></utterance>
+<utterance uid="1-42"><speaker>MARTHA</speaker><content>You are letting her go out with someone that you've never met? What kind of a father are you?</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>BECKETT</speaker><content>I'm not running a background check on your daughter's date.</content></utterance>
+<utterance uid="2-2"><speaker>CASTLE</speaker><content>Oh, come on. She says he's quiet, he keeps to himself, and he lives with his parents. Tell me that doesn't sound like a serial killer to you.</content></utterance>
+<utterance uid="2-3"><speaker>ESPOSITO</speaker><content>Who's a serial killer?</content></utterance>
+<utterance uid="2-4"><speaker>BECKETT</speaker><content>Castle's daughter Alexis got invited to prom.</content></utterance>
+<utterance uid="2-5"><speaker>CASTLE</speaker><content>It's her first real date.</content></utterance>
+<utterance uid="2-6"><speaker>RYAN</speaker><content>And you're worried he's a serial killer? You should be more worried he's a teenage boy.</content></utterance>
+<utterance uid="2-7"><speaker>CASTLE</speaker><content>Ah, he's only 15.</content></utterance>
+<utterance uid="2-8"><speaker>RYAN</speaker><content>Between satellite TV and the internet, 15's the new 25.</content></utterance>
+<utterance uid="2-9"><speaker>ESPOSITO</speaker><content>Dude's right. I was 15 once.</content></utterance>
+<utterance uid="2-10"><speaker>RYAN</speaker><content>Still are.</content></utterance>
+<utterance uid="2-11"><speaker>ESPOSITO</speaker><content>If I had a daughter her age, I'd never let her out of the house.</content></utterance>
+<utterance uid="2-12"><speaker>CASTLE</speaker><content>Thanks, guys.</content></utterance>
+<utterance uid="2-13"><speaker>RYAN</speaker><content>Mm-hmm. Car was towed in a few hours ago - parking violations. When the attendant went to look for the VIN number, he found the vic slumped over with a bag on his head.</content></utterance>
+<utterance uid="2-14"><speaker>CASTLE</speaker><content>Six parking tickets and a tow sticker, and no one bothers to look inside?</content></utterance>
+<utterance uid="2-15"><speaker>ESPOSITO</speaker><content>Tinted windows, sunshade on the windshield.</content></utterance>
+<utterance uid="2-16"><speaker>CASTLE</speaker><content>You'd think someone would try to at least look inside.</content></utterance>
+<utterance uid="2-17"><speaker>BECKETT</speaker><content>Yeah, welcome to New York. You got an I.D.?</content></utterance>
+<utterance uid="2-18"><speaker>ESPOSITO</speaker><content>Yeah, Dr. Joshua Leeds, 37. According to the business cards in his wallet, he's a plastic surgeon. The car is also registered to him as well.</content></utterance>
+<utterance uid="2-19"><speaker>BECKETT</speaker><content>Any money in the wallet?</content></utterance>
+<utterance uid="2-20"><speaker>ESPOSITO</speaker><content>Yeah, couple of hundred bucks.</content></utterance>
+<utterance uid="2-21"><speaker>BECKETT</speaker><content>Well, I guess we can rule out robbery.</content></utterance>
+<utterance uid="2-22"><speaker>CASTLE</speaker><content>A plastic bag and duct tape - Not a very efficient way to kill someone.</content></utterance>
+<utterance uid="2-23"><speaker>BECKETT</speaker><content>No, but it's very personal. All right, find and notify next of kin. Let's see how long he's been missing.</content></utterance>
+<utterance uid="2-24"><speaker>LANIE</speaker><content>From the state of decay, I’d say about a week.</content></utterance>
+<utterance uid="2-25"><speaker>RYAN</speaker><content>That matches the date on the first parking ticket.</content></utterance>
+<utterance uid="2-26"><speaker>LANIE</speaker><content>Preliminary cause of death indicates asphyxiation, but I’ll run toxicology just in case.</content></utterance>
+<utterance uid="2-27"><speaker>ESPOSITO</speaker><content>That bag's pretty thin. Why wouldn't he just rip it off?</content></utterance>
+<utterance uid="2-28"><speaker>BECKETT</speaker><content>He must've been restrained.</content></utterance>
+<utterance uid="2-29"><speaker>LANIE</speaker><content>That's only half the story. His fingernails were removed. And each finger presents signs of having been broken premortem.</content></utterance>
+<utterance uid="2-30"><speaker>BECKETT</speaker><content>Broken?</content></utterance>
+<utterance uid="2-31"><speaker>LANIE</speaker><content>If I had to guess, I’d say our doctor was tortured before he was killed.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>ESPOSITO</speaker><content>His fiancée, Courtney Mordant. She reported him missing a week ago.</content></utterance>
+<utterance uid="3-2"><speaker>BECKETT</speaker><content>C.S.U. Have any luck with the car?</content></utterance>
+<utterance uid="3-3"><speaker>ESPOSITO</speaker><content>They're running prints, testing fibers. We should have results by tomorrow.</content></utterance>
+<utterance uid="3-4"><speaker>BECKETT</speaker><content>All right, thanks.</content></utterance>
+<utterance uid="3-5"><speaker>ESPOSITO</speaker><content>Mm-hmm.</content></utterance>
+<utterance uid="3-6"><speaker>BECKETT</speaker><content>Ms. Morantz, I’m Kate Beckett. I'm the detective working on your fiancé's case... I'm very sorry about your loss. I was wondering if I could take a moment of your time.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>COURTNEY MORANTZ</speaker><content>I knew it. When he didn't come home, I just felt it.</content></utterance>
+<utterance uid="4-2"><speaker>CASTLE</speaker><content>How long were you engaged?</content></utterance>
+<utterance uid="4-3"><speaker>COURTNEY MORANTZ</speaker><content>Almost a year. We were gonna get married next month, at the Gardens. What did they want, money?</content></utterance>
+<utterance uid="4-4"><speaker>BECKETT</speaker><content>It doesn't appear to be a robbery.</content></utterance>
+<utterance uid="4-5"><speaker>COURTNEY MORANTZ</speaker><content>Then why?</content></utterance>
+<utterance uid="4-6"><speaker>BECKETT</speaker><content>Was Josh involved in anything that might've brought him into contact with criminal elements?</content></utterance>
+<utterance uid="4-7"><speaker>COURTNEY MORANTZ</speaker><content>No. No, not my Josh. That's just not who he was.</content></utterance>
+<utterance uid="4-8"><speaker>CASTLE</speaker><content>On the day he disappeared, did you notice anything different about him?</content></utterance>
+<utterance uid="4-9"><speaker>COURTNEY MORANTZ</speaker><content>Uh, different?</content></utterance>
+<utterance uid="4-10"><speaker>BECKETT</speaker><content>Did he seem worried or scared or distracted?</content></utterance>
+<utterance uid="4-11"><speaker>COURTNEY MORANTZ</speaker><content>He was fine. I mean, we were gonna meet, because we were gonna go taste some cakes. When he didn't show, I called the office and they said he'd left, so I called his cell phone, but he didn't pick up.</content></utterance>
+<utterance uid="4-12"><speaker>CASTLE</speaker><content>If his office was in Midtown, do you have any idea why his car would be found on 133rd Street?</content></utterance>
+<utterance uid="4-13"><speaker>COURTNEY MORANTZ</speaker><content>133rd Street? He'd never go that far north. He always took the Midtown tunnel to the l.I.E. And if he was gonna be late, he'd call. He'd always call. He'd always let me know.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>BECKETT</speaker><content>Anything on the canvass?</content></utterance>
+<utterance uid="5-2"><speaker>RYAN</speaker><content>Nada. Locals only remember seeing the car after the tickets. No security cameras on the street.</content></utterance>
+<utterance uid="5-3"><speaker>ESPOSITO</speaker><content>Fiancée's story checks out. Cake shop confirms she was there waiting.</content></utterance>
+<utterance uid="5-4"><speaker>RYAN</speaker><content>Heading to meet his fiancée at a cake shop in Great Neck, how'd he wind up dead on a street in Harlem?</content></utterance>
+<utterance uid="5-5"><speaker>CASTLE</speaker><content>Well, maybe he had secrets even his fiancée didn't know about. Like maybe he secretly made a living out of using his surgeon skills to harvest organs off of tourists for the black market organ trade. Whoa, that was a good one. I'm writing that down.</content></utterance>
+<utterance uid="5-6"><speaker>BECKETT</speaker><content>So instead of making up stories, we are going to establish a timeline. When did he get his first ticket?</content></utterance>
+<utterance uid="5-7"><speaker>ESPOSITO</speaker><content>Last Wednesday morning.</content></utterance>
+<utterance uid="5-8"><speaker>BECKETT</speaker><content>Okay, so you guys go to the Midtown garage where he kept his car, and we'll hit his office.</content></utterance>
+<utterance uid="5-9"><speaker>ESPOSITO</speaker><content>Cool.</content></utterance>
+<utterance uid="5-10"><speaker>BECKETT</speaker><content>Okay.</content></utterance>
+<utterance uid="5-11"><speaker>CASTLE</speaker><content>Hey, can I ask you something?</content></utterance>
+<utterance uid="5-12"><speaker>BECKETT</speaker><content>Since when do you ask permission to ask questions?</content></utterance>
+<utterance uid="5-13"><speaker>CASTLE</speaker><content>It's about your mother's case.</content></utterance>
+<utterance uid="5-14"><speaker>CASTLE</speaker><content>Have you ever thought about... reopening it?</content></utterance>
+<utterance uid="5-15"><speaker>BECKETT</speaker><content>What are you doing?</content></utterance>
+<utterance uid="5-16"><speaker>CASTLE</speaker><content>Nothing. I just thought if we worked together -</content></utterance>
+<utterance uid="5-17"><speaker>BECKETT</speaker><content>No.</content></utterance>
+<utterance uid="5-18"><speaker>CASTLE</speaker><content>I have resources.</content></utterance>
+<utterance uid="5-19"><speaker>BECKETT</speaker><content>Castle, you touch my mom's case, and you and I are done. Do you understand?</content></utterance>
+<utterance uid="5-20"><speaker>CASTLE</speaker><content>Okay.</content></utterance>
+<utterance uid="5-21"><speaker>CASTLE</speaker><content>Why don't you want to investigate it?</content></utterance>
+<utterance uid="5-22"><speaker>BECKETT</speaker><content>Same reason a recovering alcoholic doesn't drink. You don't think I haven't been down there? You don't think I haven't memorized every line in that file? My first three years on the force, every off-duty moment was spent looking for something someone missed. It took me a year of therapy to realize if I didn't let it go, it was gonna destroy me. And so I let it go. </content></utterance>
+<utterance uid="5-23"><speaker>CASTLE</speaker><content>Sorry. I didn't know.</content></utterance>
+<utterance uid="5-24"><speaker>BECKETT</speaker><content>Yeah, well, now you do.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>BECKETT</speaker><content>Well, this must be the place.</content></utterance>
+<utterance uid="6-2"><speaker>CASTLE</speaker><content>Hmm?</content></utterance>
+<utterance uid="6-3"><speaker>BECKETT</speaker><content>What is it with men and boobs, anyway?</content></utterance>
+<utterance uid="6-4"><speaker>CASTLE</speaker><content>It's biological. We can't help it.</content></utterance>
+<utterance uid="6-5"><speaker>BECKETT</speaker><content>But doesn't it bother you that they're so obviously not real?</content></utterance>
+<utterance uid="6-6"><speaker>CASTLE</speaker><content>Santa's not real. We still love opening his presents.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>ASSISTANT JULIA</speaker><content>It wasn't like him to disappear. I think that, deep down, we all knew that, um, that something was wrong.</content></utterance>
+<utterance uid="7-2"><speaker>BECKETT</speaker><content>Did he seem agitated at all?</content></utterance>
+<utterance uid="7-3"><speaker>JULIA</speaker><content>No, I mean, it was pretty much business as usual.</content></utterance>
+<utterance uid="7-4"><speaker>ASSISTANT MARIO</speaker><content>Except for the wedding. We were trying to clear his schedule for the honeymoon.</content></utterance>
+<utterance uid="7-5"><speaker>BECKETT</speaker><content>When was the last time you saw him?</content></utterance>
+<utterance uid="7-6"><speaker>JULIA</speaker><content>Last Tuesday. He was on his way to meet his fiancée.</content></utterance>
+<utterance uid="7-7"><speaker>CASTLE</speaker><content>What time did he leave the office?</content></utterance>
+<utterance uid="7-8"><speaker>JULIA</speaker><content>Um...</content></utterance>
+<utterance uid="7-9"><speaker>MARIO</speaker><content>Around 5:30.</content></utterance>
+<utterance uid="7-10"><speaker>JULIA</speaker><content>Yeah.</content></utterance>
+<utterance uid="7-11"><speaker>ASSISTANT MAGGIE</speaker><content>When I called at 6:00, he was fine. He said he was in traffic at the tunnel.</content></utterance>
+<utterance uid="7-12"><speaker>BECKETT</speaker><content>He'd left Manhattan then.</content></utterance>
+<utterance uid="7-13"><speaker>CASTLE</speaker><content>Why would he come back?</content></utterance>
+<utterance uid="7-14"><speaker>BECKETT</speaker><content>Did Dr. Leeds have any enemies, anyone that he had operated on who had had complications or a bad experience?</content></utterance>
+<utterance uid="7-15"><speaker>JULIA</speaker><content>None of his patients had complications.</content></utterance>
+<utterance uid="7-16"><speaker>MARIO</speaker><content>That doesn't mean that they were always happy. Cosmetic surgery is about self-image. For some people, it changes their lives. For others, nothing's ever enough.</content></utterance>
+<utterance uid="7-17"><speaker>BECKETT</speaker><content>Did any of his patients ever threaten him?</content></utterance>
+<utterance uid="7-18"><speaker>JULIA</speaker><content>One. Jacey Goldberg. She was a patient of Dr. Leeds until about three months ago.</content></utterance>
+<utterance uid="7-19"><speaker>CASTLE</speaker><content>What happened?</content></utterance>
+<utterance uid="7-20"><speaker>JULIA</speaker><content>She wanted a face-lift.</content></utterance>
+<utterance uid="7-21"><speaker>BECKETT</speaker><content>So?</content></utterance>
+<utterance uid="7-22"><speaker>MARIO</speaker><content>So she already had three, and Dr. Leeds refused to perform the operation.</content></utterance>
+<utterance uid="7-23"><speaker>CASTLE</speaker><content>So what'd she do?</content></utterance>
+<utterance uid="7-24"><speaker>JULIA</speaker><content>She sued him. It was thrown out of court, of course.</content></utterance>
+<utterance uid="7-25"><speaker>MAGGIE</speaker><content>That's when the threats started.</content></utterance>
+<utterance uid="7-26"><speaker>CASTLE</speaker><content>Oh.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>MONTGOMERY</speaker><content>At the very least, she should be arrested for violating the laws of nature.</content></utterance>
+<utterance uid="8-2"><speaker>ESPOSITO</speaker><content>Check this out - Jacey Goldberg’s husband Jack had her committed to Bellevue a month ago for psychiatric treatment for her little obsession.</content></utterance>
+<utterance uid="8-3"><speaker>RYAN</speaker><content>Guess who testified in support of her commitment?</content></utterance>
+<utterance uid="8-4"><speaker>BECKETT</speaker><content>Dr. Joshua Leeds.</content></utterance>
+<utterance uid="8-5"><speaker>RYAN</speaker><content>Mm-hmm. Mandatory 1-month treatment program. She was released last week.</content></utterance>
+<utterance uid="8-6"><speaker>ESPOSITO</speaker><content>Three days before our doctor went missing.</content></utterance>
+<utterance uid="8-7"><speaker>CASTLE</speaker><content>Mentally unstable plastic surgery chick. That is way better than harvesting organs.</content></utterance>
+<utterance uid="8-8"><speaker>MONTGOMERY</speaker><content>Get her in here.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>RYAN</speaker><content>Wow.</content></utterance>
+<utterance uid="9-2"><speaker>ESPOSITO</speaker><content>Look at her. How can anyone do that to themselves?</content></utterance>
+<utterance uid="9-3"><speaker>CASTLE</speaker><content>Right? It's like she escaped from The Island Of Dr. Moreau.</content></utterance>
+<utterance uid="9-4"><speaker>BECKETT</speaker><content>Come on, guys, she's not an animal. She's a human being.</content></utterance>
+<utterance uid="9-5"><speaker>CASTLE</speaker><content>Yeah, I know, but... Wait, are you being sincere or quoting The Elephant Man?  Oh. Saucy.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>BECKETT</speaker><content>Mrs. Goldberg, I’m Detective Beckett. This is Richard Castle, a consultant with the department.</content></utterance>
+<utterance uid="10-2"><speaker>BECKETT</speaker><content>Mrs. Goldberg, are you familiar with a plastic surgeon named Dr. Joshua Leeds?</content></utterance>
+<utterance uid="10-3"><speaker>BECKETT</speaker><content>You recently sued him for malpractice.</content></utterance>
+<utterance uid="10-4"><speaker>BECKETT</speaker><content>"For refusing to perform elective cosmetic surgery, specifically a face-lift, facial implants and liposuction."</content></utterance>
+<utterance uid="10-5"><speaker>CASTLE</speaker><content>Dr. Leeds didn't seem to think so.</content></utterance>
+<utterance uid="10-6"><speaker>CASTLE</speaker><content>Well, if you wanted the surgery so badly, why didn't you just see another lips?  Doc-Doctor.</content></utterance>
+<utterance uid="10-7"><speaker>CASTLE</speaker><content>So you threatened to ruin him.</content></utterance>
+<utterance uid="10-8"><speaker>BECKETT</speaker><content>Is that why you killed him?</content></utterance>
+<utterance uid="10-9"><speaker>CASTLE</speaker><content>Dr. Leeds was murdered last week.</content></utterance>
+<utterance uid="10-10"><speaker>BECKETT</speaker><content>A couple of days after you were released from the psychiatric treatment facility that Leeds helped commit you to. That's motive and opportunity, counselor.</content></utterance>
+<utterance uid="10-11"><speaker>BECKETT</speaker><content>Then I suppose you won't mind telling me where you were last Tuesday night.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>MONTGOMERY</speaker><content>So where was she?</content></utterance>
+<utterance uid="11-2"><speaker>BECKETT</speaker><content>She was... in the hospital.</content></utterance>
+<utterance uid="11-3"><speaker>MONTGOMERY</speaker><content>Getting more surgery?</content></utterance>
+<utterance uid="11-4"><speaker>BECKETT</speaker><content>Yep.</content></utterance>
+<utterance uid="11-5"><speaker>MONTGOMERY</speaker><content>What's she got left to operate on?</content></utterance>
+<utterance uid="11-6"><speaker>MONTGOMERY</speaker><content>Oh, no.</content></utterance>
+<utterance uid="11-7"><speaker>BECKETT</speaker><content>Oh, yes.</content></utterance>
+<utterance uid="11-8"><speaker>MONTGOMERY</speaker><content>Seriously? What could they possibly do down there?</content></utterance>
+<utterance uid="11-9"><speaker>BECKETT</speaker><content>Well, apparently, quite a lot.</content></utterance>
+<utterance uid="11-10"><speaker>MONTGOMERY</speaker><content>Ugh. But if Leeds had a reputation of turning people away, maybe there's someone else out there he pissed off.</content></utterance>
+<utterance uid="11-11"><speaker>BECKETT</speaker><content>Yeah, Esposito and Ryan are already looking through the patient list, but the C.S.U. came back clean from the car. It would be almost impossible for a run-of-the-mill revenge murderer to be that invisible.</content></utterance>
+<utterance uid="11-12"><speaker>MONTGOMERY</speaker><content>You thinking it's professional?</content></utterance>
+<utterance uid="11-13"><speaker>BECKETT</speaker><content>I don't know. Mrs. Goldberg had enough money to pay someone to do it, and her surgery is a pretty convenient alibi. But torture and suffocation? That doesn't seem like the work of a disgruntled trophy wife turning 50.</content></utterance>
+<utterance uid="11-14"><speaker>MONTGOMERY</speaker><content>A surgeon with broken fingers? That's someone sending a message.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>ALEXIS</speaker><content>What do you think?</content></utterance>
+<utterance uid="12-2"><speaker>CASTLE</speaker><content>You look beautiful.</content></utterance>
+<utterance uid="12-3"><speaker>ALEXIS</speaker><content>Dad, you say that about every dress. Don't you think this makes my skin look pasty?</content></utterance>
+<utterance uid="12-4"><speaker>CASTLE</speaker><content>Sweetheart, I want you to know, no matter how you think you look, you are perfect exactly the way you are.</content></utterance>
+<utterance uid="12-5"><speaker>ALEXIS</speaker><content>You're not helping.</content></utterance>
+<utterance uid="12-6"><speaker>MARTHA</speaker><content> Oh, God. No. Hideous.</content></utterance>
+<utterance uid="12-7"><speaker>ALEXIS</speaker><content>Thank you.</content></utterance>
+<utterance uid="12-8"><speaker>MARTHA</speaker><content>Here. Try this. All right. Good color for you.</content></utterance>
+<utterance uid="12-9"><speaker>CASTLE</speaker><content>What are you doing?</content></utterance>
+<utterance uid="12-10"><speaker>MARTHA</speaker><content>What?</content></utterance>
+<utterance uid="12-11"><speaker>CASTLE</speaker><content>"You look hideous"? Are you trying to give her body-image issues?</content></utterance>
+<utterance uid="12-12"><speaker>MARTHA</speaker><content>Oh. News flash - She already has body-image issues. It's an intrinsic part of being a woman. Every woman in the world has some part of herself that she absolutely hates. Her hands are too small, her feet are too big, her hair's too straight, too curly, her ears stick out, her -  Oh, God - Her butt's too flat, her nose is too big, and, you know, nothing you can say will change how we feel. What men don't understand is, the right clothes, the right shoes, the right makeup just - It - It hides the flaws we think we have. They make us look beautiful to ourselves. That's what makes us look beautiful to others.</content></utterance>
+<utterance uid="12-13"><speaker>CASTLE</speaker><content>Used to be... All she needed to feel beautiful was a pink tutu and a plastic tiara.</content></utterance>
+<utterance uid="12-14"><speaker>MARTHA</speaker><content>We spend our whole lives trying to feel that way again.</content></utterance>
+<utterance uid="12-15"><speaker>MARTHA</speaker><content>Oh.</content></utterance>
+<utterance uid="12-16"><speaker>ALEXIS</speaker><content>What do you think?</content></utterance>
+<utterance uid="12-17"><speaker>CASTLE</speaker><content>I think it's you.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>RYAN</speaker><content>Staff just went through all the files. No other red flags. Any dark secrets in here?</content></utterance>
+<utterance uid="13-2"><speaker>ESPOSITO</speaker><content>Yeah... Dr. Leeds had a weakness.  Energy bars. He volunteered at Doctors International, did pro bono work. The guy's a Boy Scout. Hell, he didn't even have any porn on his computer.</content></utterance>
+<utterance uid="13-3"><speaker>RYAN</speaker><content>That's weird.</content></utterance>
+<utterance uid="13-4"><speaker>ESPOSITO</speaker><content>I know. You know what he had in his locked desk drawer?</content></utterance>
+<utterance uid="13-5"><speaker>RYAN</speaker><content>A fifth of scotch?</content></utterance>
+<utterance uid="13-6"><speaker>ESPOSITO</speaker><content>Check book. The guy locked up his check book.</content></utterance>
+<utterance uid="13-7"><speaker>RYAN</speaker><content>What about these folders? </content></utterance>
+<utterance uid="13-8"><speaker>ESPOSITO</speaker><content>Wedding stuff - Tux deposits, catering invoices.</content></utterance>
+<utterance uid="13-9"><speaker>RYAN</speaker><content>Maybe some angry couple killed him for their wedding venue, hmm?</content></utterance>
+<utterance uid="13-10"><speaker>ESPOSITO</speaker><content>It's as good a theory as any.</content></utterance>
+<utterance uid="13-11"><speaker>RYAN</speaker><content> Hey. These aren't all wedding files.</content></utterance>
+<utterance uid="13-12"><speaker>ESPOSITO</speaker><content>That's odd. All the patient information is blacked out.</content></utterance>
+<utterance uid="13-13"><speaker>RYAN</speaker><content>Maybe Dr. Leeds has a secret after all.</content></utterance>
+<utterance uid="13-14"><speaker>JULIA</speaker><content>It's his handwriting, but... I've never seen this file before.</content></utterance>
+<utterance uid="13-15"><speaker>ESPOSITO</speaker><content>Can you identify that patient?</content></utterance>
+<utterance uid="13-16"><speaker>JULIA</speaker><content>Not from his notes. Just that it was a male, 55 years old.</content></utterance>
+<utterance uid="13-17"><speaker>RYAN</speaker><content>How about this kind of procedure?</content></utterance>
+<utterance uid="13-18"><speaker>JULIA</speaker><content>This is impossible. I'm his primary nurse. I run his surgical team. He never operates without me.</content></utterance>
+<utterance uid="13-19"><speaker>ESPOSITO</speaker><content>Apparently, he did.</content></utterance>
+<utterance uid="13-20"><speaker>JULIA</speaker><content>Mario, check on Dr. Leeds' calendar. What do you have for March 18th?</content></utterance>
+<utterance uid="13-21"><speaker>MARIO</speaker><content>He... was supposed to be down at Mercy attending a panel on reconstructive surgery.</content></utterance>
+<utterance uid="13-22"><speaker>JULIA</speaker><content>Why would he lie? Why would he operate without me?</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>ESPOSITO</speaker><content>According to the hospital, the procedure lasted nine hours. Neither the assisting nor the anaesthesiologist were with the hospital. Both were brought in by Dr. Leeds. Neither of his regulars.</content></utterance>
+<utterance uid="14-2"><speaker>MONTGOMERY</speaker><content>A 9-hour mystery operation he didn't want his own people to know about.</content></utterance>
+<utterance uid="14-3"><speaker>BECKETT</speaker><content>The hospital must've had some record of the patient.</content></utterance>
+<utterance uid="14-4"><speaker>RYAN</speaker><content>Get this - The hospital can't find the file. It's like it never happened.</content></utterance>
+<utterance uid="14-5"><speaker>CASTLE</speaker><content>Who did you talk to?</content></utterance>
+<utterance uid="14-6"><speaker>RYAN</speaker><content>Patient information.</content></utterance>
+<utterance uid="14-7"><speaker>CASTLE</speaker><content>Well... that was your first mistake. If you want to find someone at a hospital who had a treatment there, there's only one department to go to where nothing ever falls through the cracks.  Billing. Someone had to pay for it, right?</content></utterance>
+<utterance uid="14-8"><speaker>BECKETT</speaker><content> Thank you. No, I appreciate it.  Well, it looks like our mystery patient's hospital bills were paid promptly and in full.</content></utterance>
+<utterance uid="14-9"><speaker>CASTLE</speaker><content>By whom?</content></utterance>
+<utterance uid="14-10"><speaker>BECKETT</speaker><content>Wire transfer. Esposito.</content></utterance>
+<utterance uid="14-11"><speaker>ESPOSITO</speaker><content>Yeah.</content></utterance>
+<utterance uid="14-12"><speaker>BECKETT</speaker><content>See what you can find on this account number.</content></utterance>
+<utterance uid="14-13"><speaker>ESPOSITO</speaker><content>All right.</content></utterance>
+<utterance uid="14-14"><speaker>BECKETT</speaker><content> So did Alexis find a dress yet?</content></utterance>
+<utterance uid="14-15"><speaker>CASTLE</speaker><content>Yeah, yeah. A cute one, too. Boy. I can't believe my little girl's going to prom. My only comfort now is the long-standing tradition of torturing the boyfriend.</content></utterance>
+<utterance uid="14-16"><speaker>BECKETT</speaker><content>What do you mean?</content></utterance>
+<utterance uid="14-17"><speaker>CASTLE</speaker><content>You know, the time-honored hazing that goes on in those few moments we share, where he and I are alone just before my daughter descends the stairs.</content></utterance>
+<utterance uid="14-18"><speaker>RYAN</speaker><content>I remember the terror of meeting my date's old man.</content></utterance>
+<utterance uid="14-19"><speaker>CASTLE</speaker><content>What did he do?</content></utterance>
+<utterance uid="14-20"><speaker>RYAN</speaker><content>Checked my wallet for condoms, showed me his gun collection. My hands were shaking so bad, I could barely put on the corsage.</content></utterance>
+<utterance uid="14-21"><speaker>CASTLE</speaker><content> What'd your dad do?</content></utterance>
+<utterance uid="14-22"><speaker>BECKETT</speaker><content>I... I don't know. I was in my room.</content></utterance>
+<utterance uid="14-23"><speaker>CASTLE</speaker><content>How was your date when you finally came out?</content></utterance>
+<utterance uid="14-24"><speaker>BECKETT</speaker><content>You know, actually, now that you mention it, he looked terrified. And this whole time, I thought he was scared of me.</content></utterance>
+<utterance uid="14-25"><speaker>CASTLE</speaker><content>Nope. And now it's my turn.</content></utterance>
+<utterance uid="14-26"><speaker>RYAN</speaker><content>What are you planning?</content></utterance>
+<utterance uid="14-27"><speaker>CASTLE</speaker><content>Something befitting the name of Castle.</content></utterance>
+<utterance uid="14-28"><speaker>ESPOSITO</speaker><content>Yo, you're never gonna believe this.</content></utterance>
+<utterance uid="14-29"><speaker>BECKETT</speaker><content>What'd you find?</content></utterance>
+<utterance uid="14-30"><speaker>ESPOSITO</speaker><content>That account the money was wired from? It belongs to the U.S. Attorney's office. Whatever the procedure was, Uncle Sam paid for it.</content></utterance>
+<utterance uid="14-31"><speaker>CASTLE</speaker><content>I guess we can rule out boob job.</content></utterance>
+<utterance uid="14-32"><speaker>RYAN</speaker><content>Why would the D.O.J. pay for a cosmetic procedure?</content></utterance>
+<utterance uid="14-33"><speaker>BECKETT</speaker><content>There's only one reason. To change someone's identity.</content></utterance>
+<utterance uid="14-34"><speaker>ESPOSITO</speaker><content>So you think the guy was in witness protection?</content></utterance>
+<utterance uid="14-35"><speaker>CASTLE</speaker><content>If Dr. Leeds was tortured, I think our killer is trying to find this guy.</content></utterance>
+<utterance uid="14-36"><speaker>BECKETT</speaker><content>Then we better find him first.</content></utterance>
+<utterance uid="14-37"><speaker>CASTLE</speaker><content>How do you find someone who's in witness protection?</content></utterance>
+<utterance uid="14-38"><speaker>BECKETT</speaker><content>We ask the people who are protecting him.</content></utterance>
+<utterance uid="14-39"><speaker>RYAN</speaker><content>Ask "Hard Candy"? Good luck.</content></utterance>
+<utterance uid="14-40"><speaker>CASTLE</speaker><content>Hard - Hard Candy?</content></utterance>
+<utterance uid="14-41"><speaker>ESPOSITO</speaker><content>Assistant U.S. Attorney Candace Robinson. She makes mobsters cry.</content></utterance>
+<utterance uid="14-42"><speaker>CANDACE ROBINSON</speaker><content>I'm sorry, detective, but you must know that information on a protected witness is confidential. Whether or not you have proof that we employed Dr. Leeds or whether or not you have proof that an operation took place is irrelevant.</content></utterance>
+<utterance uid="14-43"><speaker>BECKETT</speaker><content>Not to my victim, it's not. Not to his family, and certainly not to his fiancée. They were planning a life together that they will never have.</content></utterance>
+<utterance uid="14-44"><speaker>BECKETT</speaker><content>Ms. Robinson, doesn't it matter to you that the man that you employed was killed and whoever murdered him might be looking for your witness?</content></utterance>
+<utterance uid="14-45"><speaker>CASTLE</speaker><content>So what now?</content></utterance>
+<utterance uid="14-46"><speaker>BECKETT</speaker><content>This witness of theirs is key. Without knowing who he is or who's after him, there's no way of getting to the next step.</content></utterance>
+<utterance uid="14-47"><speaker>CASTLE</speaker><content>There's another way we could figure out who that witness is.</content></utterance>
+<utterance uid="14-48"><speaker>BECKETT</speaker><content>Yeah? How?</content></utterance>
+<utterance uid="14-49"><speaker>CASTLE</speaker><content>Candace Robinson’s office deals almost exclusively with organized crime.</content></utterance>
+<utterance uid="14-50"><speaker>BECKETT</speaker><content>So?</content></utterance>
+<utterance uid="14-51"><speaker>CASTLE</speaker><content>So what if we ask the other side?</content></utterance>
+<utterance uid="14-52"><speaker>BECKETT</speaker><content>You want to ask the mob who the witness is?</content></utterance>
+<utterance uid="14-53"><speaker>CASTLE</speaker><content>Clearly, they already know who he is if they're trying to kill him. Like you said, he's got to be a significant witness in a pretty big case.</content></utterance>
+<utterance uid="14-54"><speaker>BECKETT</speaker><content>So what do we do, hop in the car, drive down to the Bada Bing?</content></utterance>
+<utterance uid="14-55"><speaker>CASTLE</speaker><content>I know a guy. He owes me a favor.</content></utterance>
+<utterance uid="14-56"><speaker>BECKETT</speaker><content>You "know a guy"? What is this, a Mamet play?</content></utterance>
+<utterance uid="14-57"><speaker>CASTLE</speaker><content>From the early days of Derrick Storm. He's a capo with one of the families. He's actually pretty nice.</content></utterance>
+<utterance uid="14-58"><speaker>BECKETT</speaker><content>For a criminal.</content></utterance>
+<utterance uid="14-59"><speaker>CASTLE</speaker><content>I'm just saying, maybe he knows something. Maybe he can tell us something the feds won't. I keep forgetting you read plays.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>CASTLE</speaker><content>Oh! Whoa! I'm-I'm a friend! I'm a friend.</content></utterance>
+<utterance uid="15-2"><speaker>SAL</speaker><content>Take him out back. Kill him.</content></utterance>
+<utterance uid="15-3"><speaker>CASTLE</speaker><content>Sal, whoa! Oh! Sal! Whoa, you're go - It's - It's me, buddy.</content></utterance>
+<utterance uid="15-4"><speaker>SAL</speaker><content>Vito! Vito, wait! Vito, wait! Hold up. I was just messing with him.  Sorry, man.</content></utterance>
+<utterance uid="15-5"><speaker>CASTLE</speaker><content>Not funny, Sal.</content></utterance>
+<utterance uid="15-6"><speaker>SAL</speaker><content>Oh, you're right. No, it wasn't funny. It was frickin' hilarious!  Richard frickin' Castle - Master of the macabre. Ha. What brings you down off your cloud of money?</content></utterance>
+<utterance uid="15-7"><speaker>CASTLE</speaker><content> Thank you.</content></utterance>
+<utterance uid="15-8"><speaker>SAL</speaker><content>The guy you're talkin' about - He worked for the Spolano family. Jimmy "The Rat" Moran. He was an underboss. He was a favorite of the old man's, but he got squeezed out by junior when the old man bit it. Rumor has it that he turned state's a few months ago, and the Spolanos are running scared. Apparently, Moran’s got it all - bills of lading, calendars, ledgers, the whole shooting match. Enough to take down all the top guys.</content></utterance>
+<utterance uid="15-9"><speaker>CASTLE</speaker><content>Well, no wonder he wanted to change his face.</content></utterance>
+<utterance uid="15-10"><speaker>SAL</speaker><content>Hey, if they got to the surgeon, it's only a matter of time before they get to him.</content></utterance>
+<utterance uid="15-11"><speaker>CASTLE</speaker><content>When I wrote Storm Warning -</content></utterance>
+<utterance uid="15-12"><speaker>SAL</speaker><content>Oh, I love that book.</content></utterance>
+<utterance uid="15-13"><speaker>CASTLE</speaker><content>Thank you.</content></utterance>
+<utterance uid="15-14"><speaker>SAL</speaker><content>Mm-hmm.</content></utterance>
+<utterance uid="15-15"><speaker>CASTLE</speaker><content>You told me that certain mob hit men have signature styles or weapons.</content></utterance>
+<utterance uid="15-16"><speaker>SAL</speaker><content>That's right.</content></utterance>
+<utterance uid="15-17"><speaker>CASTLE</speaker><content>Okay, well, this killer used a plastic bag with duct tape to suffocate his victim. Does that sound like anyone you know?</content></utterance>
+<utterance uid="15-18"><speaker>SAL</speaker><content>You'd have to ask the Spolanos about that one.</content></utterance>
+<utterance uid="15-19"><speaker>CASTLE</speaker><content>Yeah, I don't think they'd like that.</content></utterance>
+<utterance uid="15-20"><speaker>SAL</speaker><content>Heh. Probably not. I bet you I know somebody else who might know.</content></utterance>
+<utterance uid="15-21"><speaker>CASTLE</speaker><content>Who?</content></utterance>
+<utterance uid="15-22"><speaker>SAL</speaker><content>Jimmy The Rat.</content></utterance>
+<utterance uid="15-23"><speaker>ESPOSITO</speaker><content> Jimmy "The Rat" Moran, a.k.a Jimmy Pretty. He's been linked to gambling, loan sharking and extortion schemes.</content></utterance>
+<utterance uid="15-24"><speaker>RYAN</speaker><content>You know, you want a guy to be loyal, you probably shouldn't nickname him "The Rat."</content></utterance>
+<utterance uid="15-25"><speaker>BECKETT</speaker><content>Okay, let's start off by digging up all known associates of the Spolano family.</content></utterance>
+<utterance uid="15-26"><speaker>RYAN</speaker><content>Yeah, sure, and while we're at it, we'll just bang our heads against a brick wall, you know, just for fun.</content></utterance>
+<utterance uid="15-27"><speaker>ESPOSITO</speaker><content> Professional hits are the hardest to close. Because of the anonymous nature of the murders, the usual rules like motive and relationship to victim don't apply.</content></utterance>
+<utterance uid="15-28"><speaker>BECKETT</speaker><content>We need to talk to Moran. Gotta see what he knows.</content></utterance>
+<utterance uid="15-29"><speaker>ESPOSITO</speaker><content>Yeah.</content></utterance>
+<utterance uid="15-30"><speaker>CASTLE</speaker><content>What makes you think your friend "Hard Candy" is going to cooperate with you now?</content></utterance>
+<utterance uid="15-31"><speaker>BECKETT</speaker><content>You have your sources. I have mine.</content></utterance>
+<utterance uid="15-32"><speaker>CASTLE</speaker><content>Oh, it's not your ex-boyfriend, is it? Mr. FBI - Tall, brooding and judgmental?</content></utterance>
+<utterance uid="15-33"><speaker>BECKETT</speaker><content>Why, yes, in fact, it is. Is that a problem?</content></utterance>
+<utterance uid="15-34"><speaker>CASTLE</speaker><content>No. Not for me. But then again, I’m not the one he's trying to get back together with.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>WILL</speaker><content>Well, this is a nice surprise.</content></utterance>
+<utterance uid="16-2"><speaker>BECKETT</speaker><content>Yeah? Hopefully, this is a nice surprise as well. </content></utterance>
+<utterance uid="16-3"><speaker>WILL</speaker><content>Sprinkles. Am I really that predictable?</content></utterance>
+<utterance uid="16-4"><speaker>BECKETT</speaker><content>Well, maybe I just know you too well. I mean, we did date once.</content></utterance>
+<utterance uid="16-5"><speaker>WILL</speaker><content>Yeah. </content></utterance>
+<utterance uid="16-6"><speaker>BECKETT</speaker><content>Oh, no, thanks. I don't eat sprinkles anymore.</content></utterance>
+<utterance uid="16-7"><speaker>WILL</speaker><content>Right. So, Kate, is this the part where you ask me to bend the rules to help you on your case?</content></utterance>
+<utterance uid="16-8"><speaker>BECKETT</speaker><content>Am I really that predictable?</content></utterance>
+<utterance uid="16-9"><speaker>WILL</speaker><content>Maybe I just know you too well. What do you need?</content></utterance>
+<utterance uid="16-10"><speaker>BECKETT</speaker><content>I wanna talk to Jimmy Moran.</content></utterance>
+<utterance uid="16-11"><speaker>WILL</speaker><content>Jimmy Moran the mobster?</content></utterance>
+<utterance uid="16-12"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="16-13"><speaker>WILL</speaker><content>What makes you think I can help with that?</content></utterance>
+<utterance uid="16-14"><speaker>BECKETT</speaker><content>The FBI and the U.S. Attorney's office have him in witness protection.</content></utterance>
+<utterance uid="16-15"><speaker>WILL</speaker><content>And you know this how?</content></utterance>
+<utterance uid="16-16"><speaker>BECKETT</speaker><content>Word on the street.</content></utterance>
+<utterance uid="16-17"><speaker>WILL</speaker><content>Look, even if it's true, I don't work organized crime cases.</content></utterance>
+<utterance uid="16-18"><speaker>BECKETT</speaker><content>Oh, come on, Will, you and I both know how this works. You reach out to the agent in charge, he talks to the A.U.S.A. running the case, and then I get to talk to Jimmy Moran.</content></utterance>
+<utterance uid="16-19"><speaker>WILL</speaker><content>And I do this for you why?</content></utterance>
+<utterance uid="16-20"><speaker>BECKETT</speaker><content>All right, let me put this another way. The Spolanos know that Jimmy is cooperating with the government. We know that they want him dead because they murdered the surgeon you feds hired to change his face. You guys put that doctor in harm's way, so you're doing it for him, not for me.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>CASTLE</speaker><content> This is it. Don't be nervous.</content></utterance>
+<utterance uid="17-2"><speaker>ALEXIS</speaker><content>Dad! No! No severed heads.</content></utterance>
+<utterance uid="17-3"><speaker>CASTLE</speaker><content>That's - I - It's time-honored.</content></utterance>
+<utterance uid="17-4"><speaker>MARTHA</speaker><content>No! Richard... really.</content></utterance>
+<utterance uid="17-5"><speaker>ALEXIS</speaker><content>Take it off. Come on.</content></utterance>
+<utterance uid="17-6"><speaker>CASTLE</speaker><content>Fine.</content></utterance>
+<utterance uid="17-7"><speaker>ALEXIS</speaker><content>Hi.</content></utterance>
+<utterance uid="17-8"><speaker>OWEN</speaker><content>Hi. Wow, you look, uh, really nice.</content></utterance>
+<utterance uid="17-9"><speaker>ALEXIS</speaker><content>Thanks. You, too.</content></utterance>
+<utterance uid="17-10"><speaker>CASTLE</speaker><content>Baby, find the lens.</content></utterance>
+<utterance uid="17-11"><speaker>ALEXIS</speaker><content>Dad.</content></utterance>
+<utterance uid="17-12"><speaker>CASTLE</speaker><content>Shh. Pretend I’m not here.</content></utterance>
+<utterance uid="17-13"><speaker>MARTHA</speaker><content>Oh...</content></utterance>
+<utterance uid="17-14"><speaker>ALEXIS</speaker><content>Uh, dad, gram, this is Owen.</content></utterance>
+<utterance uid="17-15"><speaker>OWEN</speaker><content>Hi.</content></utterance>
+<utterance uid="17-16"><speaker>MARTHA</speaker><content>Delighted.</content></utterance>
+<utterance uid="17-17"><speaker>CASTLE</speaker><content>Hi. A pleasure.</content></utterance>
+<utterance uid="17-18"><speaker>MARTHA</speaker><content>Oh, don't they look adorable? And... a corsage.</content></utterance>
+<utterance uid="17-19"><speaker>OWEN</speaker><content>Oh, uh, here. It, uh, it goes on your wrist.</content></utterance>
+<utterance uid="17-20"><speaker>ALEXIS</speaker><content>Oh, okay. Oh, thanks.</content></utterance>
+<utterance uid="17-21"><speaker>MARTHA</speaker><content>Oh... It's beautiful.</content></utterance>
+<utterance uid="17-22"><speaker>ALEXIS</speaker><content>Uh, ready? Yeah.</content></utterance>
+<utterance uid="17-23"><speaker>CASTLE</speaker><content>Yeah, okay. Whoa, whoa, wait, wait, wait. Whoa, that's it? I don't even get a chance to ask him if he's killed a man?</content></utterance>
+<utterance uid="17-24"><speaker>ALEXIS</speaker><content>Dad, he hasn't, but I might.</content></utterance>
+<utterance uid="17-25"><speaker>CASTLE</speaker><content>All right, get outta here. Don't do anything I would do.</content></utterance>
+<utterance uid="17-26"><speaker>MARTHA</speaker><content>Bye! Enjoy yourselves.</content></utterance>
+<utterance uid="17-27"><speaker>CASTLE</speaker><content>Have fun! Goodbye!</content></utterance>
+<utterance uid="17-28"><speaker>MARTHA</speaker><content>Oh... oh...</content></utterance>
+<utterance uid="17-29"><speaker>CASTLE</speaker><content>My little girl - She's all grown-up.</content></utterance>
+<utterance uid="17-30"><speaker>MARTHA</speaker><content>Yeah, well, at least one of you is. A severed head?</content></utterance>
+<utterance uid="17-31"><speaker>CASTLE</speaker><content>Ooh, I was just getting started, too. I was gonna break into my Chris Walken.  Whoa. Tell me, little man... Have you ever been to prison?</content></utterance>
+<utterance uid="17-32"><speaker>MARTHA</speaker><content>Very funny, very funny. But leave the acting to me, honey.</content></utterance>
+<utterance uid="17-33"><speaker>CASTLE</speaker><content> Hi. Detective Beckett. I'm so glad you called. Regale me.</content></utterance>
+<utterance uid="17-34"><speaker>BECKETT</speaker><content>Castle?</content></utterance>
+<utterance uid="17-35"><speaker>CASTLE</speaker><content>It’s my Chris Walken. What do you think?</content></utterance>
+<utterance uid="17-36"><speaker>BECKETT</speaker><content>Uh... needs work.</content></utterance>
+<utterance uid="17-37"><speaker>CASTLE</speaker><content>Well, in - In all fairness, part of it's visual.</content></utterance>
+<utterance uid="17-38"><speaker>BECKETT</speaker><content>Listen, Sorenson's onboard. He pulled some strings and got someone at the U.S. Attorney's office to cave.</content></utterance>
+<utterance uid="17-39"><speaker>CASTLE</speaker><content>He's gonna let you question Moran.</content></utterance>
+<utterance uid="17-40"><speaker>BECKETT</speaker><content>But we gotta be there in an hour. Are you in?</content></utterance>
+<utterance uid="17-41"><speaker>CASTLE</speaker><content> Am I in? Is the Pope Catholic?</content></utterance>
+<utterance uid="17-42"><speaker>CASTLE</speaker><content>It'll grow on you.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>CASTLE</speaker><content>Seriously, a parking garage?</content></utterance>
+<utterance uid="18-2"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="18-3"><speaker>CASTLE</speaker><content>It's... pretty cliché.</content></utterance>
+<utterance uid="18-4"><speaker>BECKETT</speaker><content>Yeah, well, no one said that the feds were original.</content></utterance>
+<utterance uid="18-5"><speaker>CASTLE</speaker><content>Yeah, next thing you'll tell me, they'll be pulling up in a black Suburban with tinted windows.</content></utterance>
+<utterance uid="18-6"><speaker>CASTLE</speaker><content>Oh, someone's been watching way too many Bruckheimer films.</content></utterance>
+<utterance uid="18-7"><speaker>BECKETT</speaker><content> The NYPD thanks you for your cooperation.</content></utterance>
+<utterance uid="18-8"><speaker>WILL</speaker><content>Want me to watch the monkey?</content></utterance>
+<utterance uid="18-9"><speaker>BECKETT</speaker><content>That's okay. Monkey comes with me.</content></utterance>
+<utterance uid="18-10"><speaker>WILL</speaker><content>Suit yourself.</content></utterance>
+<utterance uid="18-11"><speaker>CASTLE</speaker><content>Hey, I really like your car. It's very nondescript.</content></utterance>
+<utterance uid="18-12"><speaker>BECKETT</speaker><content>Mr. Moran, I’m detective Beckett. This is Richard Castle.</content></utterance>
+<utterance uid="18-13"><speaker>MORAN</speaker><content>Richard Castle, like the novelist?</content></utterance>
+<utterance uid="18-14"><speaker>CASTLE</speaker><content>Exactly like.</content></utterance>
+<utterance uid="18-15"><speaker>MORAN</speaker><content>I thought you guys were cops.</content></utterance>
+<utterance uid="18-16"><speaker>BECKETT</speaker><content>He's consulting on the case.</content></utterance>
+<utterance uid="18-17"><speaker>MORAN</speaker><content>Well, look, I already told the feds everything I know. You want info on the Spolanos, ask them.</content></utterance>
+<utterance uid="18-18"><speaker>BECKETT</speaker><content>Actually, we're not here about the Spolanos. We're here about Dr. Leeds, the man who operated on you.</content></utterance>
+<utterance uid="18-19"><speaker>MORAN</speaker><content>What about him?</content></utterance>
+<utterance uid="18-20"><speaker>CASTLE</speaker><content>He was found murdered last week.</content></utterance>
+<utterance uid="18-21"><speaker>MORAN</speaker><content>Murdered? The doc was murdered?</content></utterance>
+<utterance uid="18-22"><speaker>CASTLE</speaker><content>Asphyxiated. They duct taped a plastic bag over his head.</content></utterance>
+<utterance uid="18-23"><speaker>BECKETT</speaker><content>We believe the Spolanos may have been involved.</content></utterance>
+<utterance uid="18-24"><speaker>MORAN</speaker><content>"May have been"? "May have been"?!</content></utterance>
+<utterance uid="18-25"><speaker>BECKETT</speaker><content>Given how Leeds was killed and given your knowledge of the organization, we were hoping that you would be able to help identify the -</content></utterance>
+<utterance uid="18-26"><speaker>MORAN</speaker><content>Hey! Hey!</content></utterance>
+<utterance uid="18-27"><speaker>WILL</speaker><content> What's wrong?</content></utterance>
+<utterance uid="18-28"><speaker>MORAN</speaker><content>Get me out of here!</content></utterance>
+<utterance uid="18-29"><speaker>BECKETT</speaker><content>We can help, Mr. Moran. We can find the guys who did this, but you have to let me know if there was anyone in the Spolano family that kills this way.</content></utterance>
+<utterance uid="18-30"><speaker>MORAN</speaker><content>Yeah, yeah, there is. Me. The duct tape, the bag - That was my M.O. Don't you get it? They're sending a message to me, and if they got to the doc... Take me back! Now!</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>RYAN</speaker><content>Hey, how'd it go?</content></utterance>
+<utterance uid="19-2"><speaker>BECKETT</speaker><content>Oh, do the words "unmitigated disaster" mean anything?</content></utterance>
+<utterance uid="19-3"><speaker>ESPOSITO</speaker><content>What happened?</content></utterance>
+<utterance uid="19-4"><speaker>CASTLE</speaker><content>We scared a key witness in a huge federal case so bad that now he won't testify.</content></utterance>
+<utterance uid="19-5"><speaker>RYAN</speaker><content>Oh, is that all?</content></utterance>
+<utterance uid="19-6"><speaker>MONTGOMERY</speaker><content>Beckett. Just got a call from D.O.J.</content></utterance>
+<utterance uid="19-7"><speaker>BECKETT</speaker><content>Sir, I can explain-</content></utterance>
+<utterance uid="19-8"><speaker>MONTGOMERY</speaker><content>No, no. It's - It's Sorenson. On the way back to the FBI safe house with Moran, someone pulled up next to 'em and opened fire. He was in the back with the witness. They both were shot.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>MONTGOMERY</speaker><content>Car was a late-model sedan with dealer plates. The guy pulls up at a light with a mask on, blew the tires, starts shootin' at the back of the vehicle.</content></utterance>
+<utterance uid="20-2"><speaker>CASTLE</speaker><content>I thought the glass would be bulletproof.</content></utterance>
+<utterance uid="20-3"><speaker>ESPOSITO</speaker><content>They used cop killers - Teflon rounds. Went right through the door.</content></utterance>
+<utterance uid="20-4"><speaker>BECKETT</speaker><content>He's still in surgery. Moran's gonna be okay, though.</content></utterance>
+<utterance uid="20-5"><speaker>CASTLE</speaker><content>You want to talk?</content></utterance>
+<utterance uid="20-6"><speaker>BECKETT</speaker><content>There's nothing to talk about. I'm the one who pushed for it, and I’m the one who got Will involved.</content></utterance>
+<utterance uid="20-7"><speaker>CASTLE</speaker><content>There's no way you could have known this was gonna happen.</content></utterance>
+<utterance uid="20-8"><speaker>BECKETT</speaker><content>Are you sure about that? Because their vehicle was attacked leaving our meet.</content></utterance>
+<utterance uid="20-9"><speaker>CASTLE</speaker><content>So?</content></utterance>
+<utterance uid="20-10"><speaker>BECKETT</speaker><content>So we were followed. Someone who knew about the investigation found out about the meet. We led them to Moran. So yeah, I should've known. And if I were a better cop, I would've.</content></utterance>
+<utterance uid="20-11"><speaker>CASTLE</speaker><content>You think this is your fault? Yeah, you pushed for it, not because it's your job, but because you care. Most people come up against a wall, they give up. Not you. You don't let go. You don't back down. That's what makes you extraordinary.</content></utterance>
+<utterance uid="20-12"><speaker>RYAN</speaker><content>He's gonna make it. He's gonna be okay.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>OWEN</speaker><content>I, uh, I had a good time.</content></utterance>
+<utterance uid="21-2"><speaker>ALEXIS</speaker><content>Me, too.</content></utterance>
+<utterance uid="21-3"><speaker>OWEN</speaker><content>Uh... good night.</content></utterance>
+<utterance uid="21-4"><speaker>ALEXIS</speaker><content>Night.</content></utterance>
+<utterance uid="21-5"><speaker>CASTLE</speaker><content>Did you have fun?</content></utterance>
+<utterance uid="21-6"><speaker>ALEXIS</speaker><content>As a matter of fact, I did. This dating thing is kind of nice.</content></utterance>
+<utterance uid="21-7"><speaker>CASTLE</speaker><content>How was Owen? Don't worry. I closed my eyes for the kissing part.</content></utterance>
+<utterance uid="21-8"><speaker>ALEXIS</speaker><content>Yeah, me, too. You know you didn't have to wait up.</content></utterance>
+<utterance uid="21-9"><speaker>CASTLE</speaker><content>That's my job. I wait up. I make sure you're all right. But tonight I realized I'm not going to be doing it for much longer.</content></utterance>
+<utterance uid="21-10"><speaker>ALEXIS</speaker><content>Dad.</content></utterance>
+<utterance uid="21-11"><speaker>CASTLE</speaker><content>A couple years, you're gonna go off to college, you're gonna get married, you're gonna have kids, and I’m only gonna see you on holidays. Until some gold digger steals all my money, but then I get to move in with you.</content></utterance>
+<utterance uid="21-12"><speaker>ALEXIS</speaker><content>Wow. I feel like I just lost 30 years of my life.</content></utterance>
+<utterance uid="21-13"><speaker>CASTLE</speaker><content>That's how it happens. One day you're in tutus, and the next day you're... Too old for severed heads.</content></utterance>
+<utterance uid="21-14"><speaker>ALEXIS</speaker><content>Dad, don't worry. No matter how old I get, I'll always be your little girl.</content></utterance>
+<utterance uid="21-15"><speaker>CASTLE</speaker><content>Promise?</content></utterance>
+<utterance uid="21-16"><speaker>ALEXIS</speaker><content>Promise.</content></utterance>
+<utterance uid="21-17"><speaker>CASTLE</speaker><content>Thank you.</content></utterance>
+<utterance uid="21-18"><speaker>ALEXIS</speaker><content>Now go to bed.</content></utterance>
+<utterance uid="21-19"><speaker>CASTLE</speaker><content>Okay.</content></utterance>
+</scene>
+
+<scene id="22"><utterance uid="22-1"><speaker>RYAN</speaker><content>Desk officer said she came in at 4:00 this morning. She's been at the board ever since.</content></utterance>
+<utterance uid="22-2"><speaker>ESPOSITO</speaker><content>She called us in at 6:00 A.M. To recheck every person we talked to on the case.</content></utterance>
+<utterance uid="22-3"><speaker>RYAN</speaker><content>And she's had, like, nine double espressos.</content></utterance>
+<utterance uid="22-4"><speaker>CASTLE</speaker><content>Hey. Been reading on the internet about this new thing called "sleep." Supposed to be real good for you.</content></utterance>
+<utterance uid="22-5"><speaker>BECKETT</speaker><content>Ssssh. Sssh.</content></utterance>
+<utterance uid="22-6"><speaker>CASTLE</speaker><content>When I gave you that little speech last night, I really didn't mean for you to go all Beautiful Mind on me.</content></utterance>
+<utterance uid="22-7"><speaker>BECKETT</speaker><content>It wasn't anyone at the U.S. Attorney's office. They wouldn't need us to find him. So it had to be someone that we talked to.</content></utterance>
+<utterance uid="22-8"><speaker>CASTLE</speaker><content>You don't think it was my mafia connection?</content></utterance>
+<utterance uid="22-9"><speaker>BECKETT</speaker><content>If he's in a rival family, then they would want Moran alive to testify because if the feds take down the Spolanos, then the other families can take over their territories. No, we are looking for someone who had access to the doctor before we got the case.</content></utterance>
+<utterance uid="22-10"><speaker>CASTLE</speaker><content>So that leaves the fiancée and his staff.</content></utterance>
+<utterance uid="22-11"><speaker>RYAN</speaker><content>Yeah, except the fiancée is clean, alibied and accounted for last night. Phone records don't indicate any calls to unknown numbers.</content></utterance>
+<utterance uid="22-12"><speaker>CASTLE</speaker><content>I thought you already ran his staff up.</content></utterance>
+<utterance uid="22-13"><speaker>ESPOSITO</speaker><content>We did, and there were no records of anything that indicate ties to organized crime.</content></utterance>
+<utterance uid="22-14"><speaker>BECKETT</speaker><content>What about last night?</content></utterance>
+<utterance uid="22-15"><speaker>ESPOSITO</speaker><content>Maggie Dowd was at dinner with friends. Mario Guerrero worked late packing patient files, and the senior nurse, Julia Hammond, claims she was home alone.</content></utterance>
+<utterance uid="22-16"><speaker>BECKETT</speaker><content>What was Mario doing packing patient files last night?</content></utterance>
+<utterance uid="22-17"><speaker>ESPOSITO</speaker><content>They're closing up shop. Patient files are all going to new doctors.</content></utterance>
+<utterance uid="22-18"><speaker>BECKETT</speaker><content>It's just, doesn't that seem like a weird thing to be doing on a Friday night?</content></utterance>
+<utterance uid="22-19"><speaker>RYAN</speaker><content>Yeah, well, when you're low man on the totem pole, that's what life is like. People think they can call you in to work at 6:00 A.M.  on a Saturday.</content></utterance>
+<utterance uid="22-20"><speaker>BECKETT</speaker><content>Julia Hammond and Maggie Dowd - How long did they work for Dr. Leeds?</content></utterance>
+<utterance uid="22-21"><speaker>ESPOSITO</speaker><content>Uh, Hammond was with him ten years. Maggie came on a few months back. Why?</content></utterance>
+<utterance uid="22-22"><speaker>BECKETT</speaker><content>Because our low man on the totem pole Mario Guerrero started working for the doctor about a month ago.</content></utterance>
+<utterance uid="22-23"><speaker>RYAN</speaker><content>We checked him. We even called his nursing school. He's clean.</content></utterance>
+<utterance uid="22-24"><speaker>BECKETT</speaker><content>Check again. They can't all be clean. </content></utterance>
+<utterance uid="22-25"><speaker>CASTLE</speaker><content>Where are you going?</content></utterance>
+<utterance uid="22-26"><speaker>BECKETT</speaker><content>To see if Mario was actually at the office Friday night.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>JULIA</speaker><content>Detective. Is everything okay?</content></utterance>
+<utterance uid="23-2"><speaker>BECKETT</speaker><content>Mario, I need you to come with me.</content></utterance>
+<utterance uid="23-3"><speaker>MARIO</speaker><content>Why?</content></utterance>
+<utterance uid="23-4"><speaker>BECKETT</speaker><content>We need to ask you some questions.</content></utterance>
+<utterance uid="23-5"><speaker>MARIO</speaker><content>Did I do something wrong?</content></utterance>
+<utterance uid="23-6"><speaker>BECKETT</speaker><content> Beckett.</content></utterance>
+<utterance uid="23-7"><speaker>ESPOSITO</speaker><content> It's Maggie.</content></utterance>
+<utterance uid="23-8"><speaker>BECKETT</speaker><content> What?</content></utterance>
+<utterance uid="23-9"><speaker>ESPOSITO</speaker><content>Maggie. We double-checked everything, even called the nursing schools again. This time we had 'em send pictures, and the one of Maggie...  It's a different girl.</content></utterance>
+<utterance uid="23-10"><speaker>BECKETT</speaker><content> It's Maggie.  Where's Maggie Dowd?</content></utterance>
+<utterance uid="23-11"><speaker>JULIA</speaker><content>She didn't come in today. Why?</content></utterance>
+<utterance uid="23-12"><speaker>CASTLE</speaker><content> Detective?</content></utterance>
+<utterance uid="23-13"><speaker>BECKETT</speaker><content>Is Dr. Leeds affiliated with St. Marcus Hospital?</content></utterance>
+<utterance uid="23-14"><speaker>JULIA</speaker><content>Yeah. That's where we do our procedures.</content></utterance>
+<utterance uid="23-15"><speaker>CASTLE</speaker><content>If she has a hospital I.D.-</content></utterance>
+<utterance uid="23-16"><speaker>BECKETT</speaker><content>She can finish the job.</content></utterance>
+<utterance uid="23-17"><speaker>CASTLE</speaker><content> You're off the hook... But don't leave town.</content></utterance>
+<utterance uid="23-18"><speaker>GUARD</speaker><content>Oh. Room's restricted. Need to see your I.D.</content></utterance>
+<utterance uid="23-19"><speaker>MAGGIE</speaker><content>Sure.</content></utterance>
+<utterance uid="23-20"><speaker>GUARD</speaker><content> You have a Maggie Dowd on your list?</content></utterance>
+<utterance uid="23-21"><speaker>FEMALE GUARD</speaker><content>She's on the roster. You can let her through.</content></utterance>
+<utterance uid="23-22"><speaker>MAGGIE</speaker><content>I gotta say, Jimmy, you're a hard man to find. Took me weeks to even find out that you changed your face.  Sodium thiopental. It's what they use in lethal injections. It's not as much fun as a plastic bag... But it does the trick.  Oh, and, uh, I got a message from Junior, Jimmy. . He says, "Go to hell."</content></utterance>
+<utterance uid="23-23"><speaker>BECKETT</speaker><content>Hi. You're under arrest for the murder of Dr. Leeds and the attempted murder of Jimmy Moran.</content></utterance>
+<utterance uid="23-24"><speaker>MAGGIE</speaker><content>You're too late.</content></utterance>
+<utterance uid="23-25"><speaker>CASTLE</speaker><content>Oh, no. Oh, God.  Oh, don't worry. It's not attached to anything. It's like we knew you we were coming.</content></utterance>
+<utterance uid="23-26"><speaker>BECKETT</speaker><content>Attempted murder of a federal witness - What's that going for these days?</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>BECKETT</speaker><content>She's all yours.</content></utterance>
+<utterance uid="24-2"><speaker>MONTGOMERY</speaker><content>Looks like you managed to set things right with the U.S. Attorney's office.</content></utterance>
+<utterance uid="24-3"><speaker>BECKETT</speaker><content>She turned state's. When Moran recovers, the feds will have two witnesses against the Spolanos.</content></utterance>
+<utterance uid="24-4"><speaker>MONTGOMERY</speaker><content>But only Maggie back there can link them to murder.</content></utterance>
+<utterance uid="24-5"><speaker>BECKETT</speaker><content>Oh, but her real name is Carla Dante. The call her "Carla Coldblood." She's been killing for the family for five years now. When Jimmy dropped the dime, the Spolanos sent their best.</content></utterance>
+<utterance uid="24-6"><speaker>MONTGOMERY</speaker><content>Lady hit man - A real blow for women's rights. And the real Maggie Dowd?</content></utterance>
+<utterance uid="24-7"><speaker>BECKETT</speaker><content>Works for a hospital in Seattle. She had no idea that they had stolen her identity. Carla even pulled a recommendation off of a job-hunting site in order to apply for the position with Leeds. Originally she thought she was gonna get a photograph of Moran, and when she couldn't, she went after Leeds.</content></utterance>
+<utterance uid="24-8"><speaker>MONTGOMERY</speaker><content>And then when Leeds didn't talk, she killed him. But why stay around the office?</content></utterance>
+<utterance uid="24-9"><speaker>BECKETT</speaker><content>If she left before Leeds' body was found, it would have looked suspicious, and she probably didn't think he'd be sitting around for a week. Then we showed up, and she waited to see how far we'd get.</content></utterance>
+<utterance uid="24-10"><speaker>MONTGOMERY</speaker><content>That's good work, detective. Very good work.</content></utterance>
+<utterance uid="24-11"><speaker>BECKETT</speaker><content>Thank you, sir. You know, sir, I never thought that I would be saying this, but... I don't think I could have done it without Castle.</content></utterance>
+<utterance uid="24-12"><speaker>MONTGOMERY</speaker><content>Where is Castle, anyway?</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>CASTLE</speaker><content>Yeah.</content></utterance>
+<utterance uid="25-2"><speaker>CASTLE</speaker><content>What about these?</content></utterance>
+<utterance uid="25-3"><speaker>CASTLE</speaker><content>This is sounding less like a random killing, more like a targeted murder.</content></utterance>
+<utterance uid="25-4"><speaker>CASTLE</speaker><content>Were they related?</content></utterance>
+<utterance uid="25-5"><speaker>MARTHA</speaker><content>You have to tell her, you know.</content></utterance>
+<utterance uid="25-6"><speaker>CASTLE</speaker><content>Do you know what this would do to her?</content></utterance>
+<utterance uid="25-7"><speaker>MARTHA</speaker><content>You have information that could lead to her mother's killer. You can't keep that from her.</content></utterance>
+<utterance uid="25-8"><speaker>CASTLE</speaker><content>I know. But she said if I opened the file, that we'd be through.</content></utterance>
+<utterance uid="25-9"><speaker>MARTHA</speaker><content>It doesn't matter. She has to know.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>WILL</speaker><content>No, you didn't. Stop making me laugh.</content></utterance>
+<utterance uid="26-2"><speaker>BECKETT</speaker><content>Oh, come on. It's not like you've been shot or something.</content></utterance>
+<utterance uid="26-3"><speaker>WILL</speaker><content>I thought you were over sprinkles.</content></utterance>
+<utterance uid="26-4"><speaker>BECKETT</speaker><content>Maybe not.</content></utterance>
+<utterance uid="26-5"><speaker>WILL</speaker><content>Mm.</content></utterance>
+<utterance uid="26-6"><speaker>WILL</speaker><content>It's the writer monkey. What is he still doing here? Haven't you finished your book yet?</content></utterance>
+<utterance uid="26-7"><speaker>CASTLE</speaker><content>Last chapter.  Do you have a sec?</content></utterance>
+<utterance uid="26-8"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="26-9"><speaker>WILL</speaker><content>Watch it, Kate. He likes you.</content></utterance>
+<utterance uid="26-10"><speaker>BECKETT</speaker><content> You'll have to forgive him. He is heavily medicated.</content></utterance>
+<utterance uid="26-11"><speaker>BECKETT</speaker><content>You look awfully serious. Is everything okay?</content></utterance>
+<utterance uid="26-12"><speaker>CASTLE</speaker><content>Take a seat.</content></utterance>
+<utterance uid="26-13"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="26-14"><speaker>CASTLE</speaker><content>Sit down.</content></utterance>
+<utterance uid="26-15"><speaker>BECKETT</speaker><content>Castle, what's going on?</content></utterance>
+<utterance uid="26-16"><speaker>CASTLE</speaker><content>It's about your mother.</content></utterance>
+</scene>
+</script>

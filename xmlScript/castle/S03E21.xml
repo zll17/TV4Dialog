@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>CASTLE</speaker><content>"As he saw the dark figure approaching, he rose up for a better view, little knowing he was heading for his doom."</content></utterance>
+<utterance uid="1-2"><speaker>MARTHA</speaker><content>Ooh.</content></utterance>
+<utterance uid="1-3"><speaker>ALEXIS</speaker><content>Wow.</content></utterance>
+<utterance uid="1-4"><speaker>CASTLE</speaker><content>I know, right? Oh, and listen to this? "To my mentor, Richard Castle, without whose support and guidance this book never would have seen the light of day."</content></utterance>
+<utterance uid="1-5"><speaker>MARTHA</speaker><content>All you did was give Alex Conrad a few notes on his manuscript and send it to your publisher. He was the one who wrote the book.</content></utterance>
+<utterance uid="1-6"><speaker>CASTLE</speaker><content>Mm. That's your version. In my version, I gently fostered the glowing embers of talent, fanning them into a literary wildfire. He's gonna be in town and asked to get together with me. He wants to learn more about my writing process.</content></utterance>
+<utterance uid="1-7"><speaker>MARTHA</speaker><content>And by "process" you mean your procrastination until the very last second.</content></utterance>
+<utterance uid="1-8"><speaker>ALEXIS</speaker><content>And then writing out of a desperate panic in a caffeine-induced haze?</content></utterance>
+<utterance uid="1-9"><speaker>MARTHA</speaker><content>That one?</content></utterance>
+<utterance uid="1-10"><speaker>CASTLE</speaker><content>No, not that one. The one where I find authenticity by doing hands-on research with the NYPD. So, I'm having Alex meet me at the precinct later on today.</content></utterance>
+<utterance uid="1-11"><speaker>MARTHA</speaker><content>Beckett'll be thrilled with that.</content></utterance>
+<utterance uid="1-12"><speaker>CASTLE</speaker><content>Beckett? I'm sure she won't mind.</content></utterance>
+<utterance uid="1-13"><speaker>ALEXIS</speaker><content>You haven't told her yet?</content></utterance>
+<utterance uid="1-14"><speaker>CASTLE</speaker><content>I am sure she will be fine with it.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>BECKETT</speaker><content>Fine with it? Why would I be fine with it?</content></utterance>
+<utterance uid="2-2"><speaker>CASTLE</speaker><content>Okay, I'm sorry. Come on, he's a writer. How much trouble could he possibly be? So is that a yes? Is-- is that a no?</content></utterance>
+<utterance uid="2-3"><speaker>BECKETT</speaker><content>Hey, Lanie.</content></utterance>
+<utterance uid="2-4"><speaker>LANIE</speaker><content>Hey.</content></utterance>
+<utterance uid="2-5"><speaker>BECKETT</speaker><content>Who's this?</content></utterance>
+<utterance uid="2-6"><speaker>LANIE</speaker><content>Zack Lindsey, stand out on the UNY swim team. Or he was before he drowned.</content></utterance>
+<utterance uid="2-7"><speaker>CASTLE</speaker><content>How does a champion swimmer drown?</content></utterance>
+<utterance uid="2-8"><speaker>LANIE</speaker><content>He had help.</content></utterance>
+<utterance uid="2-9"><speaker>BECKETT</speaker><content>Burns?</content></utterance>
+<utterance uid="2-10"><speaker>LANIE</speaker><content>From a caustic substance. Someone put a rag to his face soaked in the stuff. He passed out from the fumes, then was dumped in the pool to drown. Based on water and body temp, I'd say between one and five this morning.</content></utterance>
+<utterance uid="2-11"><speaker>BECKETT</speaker><content>And what was the substance?</content></utterance>
+<utterance uid="2-12"><speaker>LANIE</speaker><content>I won't know till I get him back to the shop.</content></utterance>
+<utterance uid="2-13"><speaker>BECKETT</speaker><content>Who found him?</content></utterance>
+<utterance uid="2-14"><speaker>RYAN</speaker><content>Zack's teammates, when they showed up for 6 a.m. swim practice.</content></utterance>
+<utterance uid="2-15"><speaker>BECKETT</speaker><content>All right, let's talk to his teammates, find out if anyone had it in for Zack, and let's figure out where they were between 1 and 5 a.m. I'll go talk to Zack's coach.</content></utterance>
+<utterance uid="2-16"><speaker>COACH ROME</speaker><content>It just doesn't seem real, seeing him lying there like that.</content></utterance>
+<utterance uid="2-17"><speaker>CASTLE</speaker><content>What was he doing here so late?</content></utterance>
+<utterance uid="2-18"><speaker>COACH ROME</speaker><content>Training. Couldn't keep that kid out of the pool. Two weeks ago, he got food poisoning right before a meet. Sick as a dog, just puking his guts out. I told him to withdraw, but he toughed it out. Won all his events. That was Zack. He was gonna be the next Rob Tredwyck or Michael Phelps.</content></utterance>
+<utterance uid="2-19"><speaker>BECKETT</speaker><content>Did he have any personal problems?</content></utterance>
+<utterance uid="2-20"><speaker>COACH ROME</speaker><content>He was a kid from Bensonhurst, you know. It got him a partial scholarship, but he lived on his own all the way out there because it's all he could afford.</content></utterance>
+<utterance uid="2-21"><speaker>CASTLE</speaker><content>What about his parents?</content></utterance>
+<utterance uid="2-22"><speaker>COACH ROME</speaker><content>His Dad's gone. His, uh, mom had to move to Atlantic City for work. I-- promised I was gonna look out for him.</content></utterance>
+<utterance uid="2-23"><speaker>BECKETT</speaker><content>What about the swim team? There must have been some rivalries there.</content></utterance>
+<utterance uid="2-24"><speaker>COACH ROME</speaker><content>He and Brian Morris were our two best chances to win the tournament this week, but there was no bad blood. Not with Brian or anyone on the team.</content></utterance>
+<utterance uid="2-25"><speaker>BECKETT</speaker><content>Okay, I'm still gonna need a team roster and a list of all the people who had access to this pool.</content></utterance>
+<utterance uid="2-26"><speaker>COACH ROME</speaker><content>Excuse me.</content></utterance>
+<utterance uid="2-27"><speaker>BECKETT</speaker><content>Mm-hmm.</content></utterance>
+<utterance uid="2-28"><speaker>CASTLE</speaker><content>This is why Alexis is never going to college.</content></utterance>
+<utterance uid="2-29"><speaker>ESPOSITO</speaker><content>Hey. You want to hear something crazy?</content></utterance>
+<utterance uid="2-30"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="2-31"><speaker>ESPOSITO</speaker><content>I was talking to the night janitor. He was here till 1:30 last night, but he saw Zack with another guy.</content></utterance>
+<utterance uid="2-32"><speaker>BECKETT</speaker><content>Do we have a name?</content></utterance>
+<utterance uid="2-33"><speaker>ESPOSITO</speaker><content>We have a picture, too. "Rocket" Rob Tredwyck.</content></utterance>
+<utterance uid="2-34"><speaker>PHOTOGRAPHER</speaker><content>Give us a big smile, mate. Yeah, like that. You love this man. You want him.</content></utterance>
+<utterance uid="2-35"><speaker>BECKETT</speaker><content>That's funny. I want him, too.</content></utterance>
+<utterance uid="2-36"><speaker>BECKETT</speaker><content>How did you know him?</content></utterance>
+<utterance uid="2-37"><speaker>CASTLE</speaker><content>He was really that good?</content></utterance>
+<utterance uid="2-38"><speaker>CASTLE</speaker><content>Sounds like you were kind of a mentor to him.</content></utterance>
+<utterance uid="2-39"><speaker>BECKETT</speaker><content>So, what were you doing at the pool last night?</content></utterance>
+<utterance uid="2-40"><speaker>CASTLE</speaker><content>Why is that?</content></utterance>
+<utterance uid="2-41"><speaker>CASTLE</speaker><content>Where do babies come from?</content></utterance>
+<utterance uid="2-42"><speaker>BECKETT</speaker><content>And how did she handle that?</content></utterance>
+<utterance uid="2-43"><speaker>BECKETT</speaker><content>Do you remember her name?</content></utterance>
+<utterance uid="2-44"><speaker>BECKETT</speaker><content>And what time did you leave the pool last night?</content></utterance>
+<utterance uid="2-45"><speaker>BECKETT</speaker><content>And where were you between 1 and 5 a.m.?</content></utterance>
+<utterance uid="2-46"><speaker>PHOTOGRAPHER</speaker><content>We're ready for you, Rocket.</content></utterance>
+<utterance uid="2-47"><speaker>CASTLE</speaker><content>What were you looking at?</content></utterance>
+<utterance uid="2-48"><speaker>BECKETT</speaker><content>Nothing.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>LORRAINE DINOVI</speaker><content>First day I put him in the pool, he was two years old. Took to it like a fish. Do you have kids?</content></utterance>
+<utterance uid="3-2"><speaker>MONTGOMERY</speaker><content>Two daughters and a son.</content></utterance>
+<utterance uid="3-3"><speaker>LORRAINE DINOVI</speaker><content>It's what we do for them, right? When his dad left and I was feeling lower than dirt, you know what he told me? He said, "I'm gonna be someone one day for you, ma. So you can walk down the street and be proud." Who did this? Who killed my son?</content></utterance>
+<utterance uid="3-4"><speaker>MONTGOMERY</speaker><content>We're doing everything we can to find out. Ms. Dinovi, what can you tell me about Bridget McManus?</content></utterance>
+<utterance uid="3-5"><speaker>LORRAINE DINOVI</speaker><content>Her and Zack have been an item since high school. What's this got to do with Bridget?</content></utterance>
+<utterance uid="3-6"><speaker>MONTGOMERY</speaker><content>Maybe nothing. We're just checking everywhere. Did he mention anything else? Any trouble he might be in?</content></utterance>
+<utterance uid="3-7"><speaker>LORRAINE DINOVI</speaker><content>Zack knew what trouble was. He'd want no part of it. Even coming out of our neighborhood, Zack was gonna make it. My baby, he was going to make it.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>BECKETT</speaker><content>Captain.</content></utterance>
+<utterance uid="4-2"><speaker>MONTGOMERY</speaker><content>Zack's mom.</content></utterance>
+<utterance uid="4-3"><speaker>BECKETT</speaker><content>Anything about the girlfriend?</content></utterance>
+<utterance uid="4-4"><speaker>MONTGOMERY</speaker><content>Not that she knows of. She seemed to think everything was okay.</content></utterance>
+<utterance uid="4-5"><speaker>RYAN</speaker><content>Uh, then there was a lot he wasn't sharing. Check out the text messages that Bridget fired off to Zack on the night he was killed.</content></utterance>
+<utterance uid="4-6"><speaker>CASTLE</speaker><content>Ooh. Not a lot of LOLs in there.</content></utterance>
+<utterance uid="4-7"><speaker>BECKETT</speaker><content>"Zack, if you leave me, I swear to God, I'll kill you."</content></utterance>
+<utterance uid="4-8"><speaker>CASTLE</speaker><content>She has a way with words.</content></utterance>
+<utterance uid="4-9"><speaker>BECKETT</speaker><content>And a record to go with it.</content></utterance>
+<utterance uid="4-10"><speaker>RYAN</speaker><content>Disorderly conduct. Mostly minor stuff. Uniforms are bringing her in now.</content></utterance>
+<utterance uid="4-11"><speaker>MONTGOMERY</speaker><content>It says here she's five foot two. You really think she could overpower Zack?</content></utterance>
+<utterance uid="4-12"><speaker>RYAN</speaker><content>Uh, no, but her brothers could. In grand Irish tradition, she has four of them, each over six feet. Each with his own claim to fame. Assault.</content></utterance>
+<utterance uid="4-13"><speaker>CASTLE</speaker><content>Ooh.</content></utterance>
+<utterance uid="4-14"><speaker>RYAN</speaker><content>Ag assault.</content></utterance>
+<utterance uid="4-15"><speaker>CASTLE</speaker><content>Bad.</content></utterance>
+<utterance uid="4-16"><speaker>RYAN</speaker><content>ADW.</content></utterance>
+<utterance uid="4-17"><speaker>CASTLE</speaker><content>Eee.</content></utterance>
+<utterance uid="4-18"><speaker>RYAN</speaker><content>Battery.</content></utterance>
+<utterance uid="4-19"><speaker>CASTLE</speaker><content>Mmm.</content></utterance>
+<utterance uid="4-20"><speaker>RYAN</speaker><content>Assault on a city employee parking enforcement.</content></utterance>
+<utterance uid="4-21"><speaker>CASTLE</speaker><content>Doesn't count.</content></utterance>
+<utterance uid="4-22"><speaker>MONTGOMERY</speaker><content>Easy.</content></utterance>
+<utterance uid="4-23"><speaker>RYAN</speaker><content>Dude.</content></utterance>
+<utterance uid="4-24"><speaker>CASTLE</speaker><content>Uh-- just jokes!</content></utterance>
+<utterance uid="4-25"><speaker>BECKETT</speaker><content>All right, find out where her brothers were between 1 and 5 a.m. Castle and I'll talk to Bridget. Thank you, sir.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>BRIDGET MCMANUS</speaker><content>Kill him? I've loved Zack Lindsey since the 9th grade.</content></utterance>
+<utterance uid="5-2"><speaker>BECKETT</speaker><content>You have a funny way of showing it.</content></utterance>
+<utterance uid="5-3"><speaker>BRIDGET MCMANUS</speaker><content>I was pissed. For five years I cooked his steamed chicken breast, I put his pasta in the Tupperware at four in the morning, I kept him company at the gym, and then he tells me, "Sorry, Bridge, I can't have any other voices in my head." Like, suddenly, I'm a distraction! Like, suddenly, I'm not good enough for Colorado Springs?</content></utterance>
+<utterance uid="5-4"><speaker>CASTLE</speaker><content>So, you threatened to kill him unless he took you back?</content></utterance>
+<utterance uid="5-5"><speaker>BRIDGET MCMANUS</speaker><content>That's how I talk, okay? But there was something going on. And it had nothing to do with swimming.</content></utterance>
+<utterance uid="5-6"><speaker>BECKETT</speaker><content>What do you mean?</content></utterance>
+<utterance uid="5-7"><speaker>BRIDGET MCMANUS</speaker><content>Lately, he'd been stressed, secretive. Add that to him saying, "This is my time," and the way those rich college girls looked at him, I wasn't born yesterday, I can do the math.</content></utterance>
+<utterance uid="5-8"><speaker>BECKETT</speaker><content>You thought there was someone else.</content></utterance>
+<utterance uid="5-9"><speaker>BRIDGET MCMANUS</speaker><content>Oh, yeah. So, I followed him out of his apartment the other night, ready to fight some queen ***** from Connecticut for what's mine. Only, it wasn't another girl.</content></utterance>
+<utterance uid="5-10"><speaker>BECKETT</speaker><content>Well, who was it?</content></utterance>
+<utterance uid="5-11"><speaker>BRIDGET MCMANUS</speaker><content>I don't know. Some scary looking guy. They met under the El and they went at it. Yelling and screaming. I couldn't tell about what, though, 'cause the guy had, like, an accent.</content></utterance>
+<utterance uid="5-12"><speaker>CASTLE</speaker><content>What kind of accent? Spanish? Asian? Russian?</content></utterance>
+<utterance uid="5-13"><speaker>BRIDGET MCMANUS</speaker><content>Do I look like I work at the U.N.? Not Brooklyn. Okay?</content></utterance>
+<utterance uid="5-14"><speaker>CASTLE</speaker><content>Okay. No, um...</content></utterance>
+<utterance uid="5-15"><speaker>BRIDGET MCMANUS</speaker><content>Anyways, I asked Zack about it afterwards and he said it was nothing. But it wasn't.</content></utterance>
+<utterance uid="5-16"><speaker>BECKETT</speaker><content>Do you think you could describe this guy to our sketch artist?</content></utterance>
+<utterance uid="5-17"><speaker>BECKETT</speaker><content>So, Lanie confirmed no drug in his system, performance enhancing or otherwise. And, from the high levels of chloride ion in his blood, she is sure that the burns came from chlorine.</content></utterance>
+<utterance uid="5-18"><speaker>CASTLE</speaker><content>Hmm. So, our heavily accented killer rendered Zack unconscious with a chlorine soaked rag.</content></utterance>
+<utterance uid="5-19"><speaker>BECKETT</speaker><content>We don't know that he's the killer.</content></utterance>
+<utterance uid="5-20"><speaker>CASTLE</speaker><content>Is this the face of an innocent man? He had a heated argument with our victim the night before he was killed.</content></utterance>
+<utterance uid="5-21"><speaker>BECKETT</speaker><content>And what would his motive be, exactly?</content></utterance>
+<utterance uid="5-22"><speaker>CASTLE</speaker><content>He-- it--</content></utterance>
+<utterance uid="5-23"><speaker>ESPOSITO</speaker><content>I may have a line on that. I'm looking at Zack's financials. The guy only had a partial scholarship, he still paid for most of his tuition, book, and living expenses, all without taking student loans. He didn't have a job, and his mom was just squeaking by.</content></utterance>
+<utterance uid="5-24"><speaker>CASTLE</speaker><content>And NCAA rules preclude him from receiving any financial assistance from outside his family.</content></utterance>
+<utterance uid="5-25"><speaker>ESPOSITO</speaker><content>So, where did he get that money?</content></utterance>
+<utterance uid="5-26"><speaker>CASTLE</speaker><content>You think maybe he borrowed money from the wrong guys to finance his dream?</content></utterance>
+<utterance uid="5-27"><speaker>ESPOSITO</speaker><content>And when he couldn't make the payments, they came after him.</content></utterance>
+<utterance uid="5-28"><speaker>CASTLE</speaker><content>That would explain the argument.</content></utterance>
+<utterance uid="5-29"><speaker>BECKETT</speaker><content>We don't even know that there was an argument. And the only evidence we have is a sketch of a man that Bridget claims she saw.</content></utterance>
+<utterance uid="5-30"><speaker>ESPOSITO</speaker><content>All right. Thanks.  Uniforms just got to Zack's place. Looks like it's been tossed.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>CASTLE</speaker><content>This place looks like my first apartment. We used to have cockroach races. Wonder if that's how Kafka got the idea. Looks like Zack didn't do his chores.</content></utterance>
+<utterance uid="6-2"><speaker>BECKETT</speaker><content>Zack was killed and then his place gets trashed? Not a coincidence.</content></utterance>
+<utterance uid="6-3"><speaker>CASTLE</speaker><content>You think maybe this was part of a debt collection effort?</content></utterance>
+<utterance uid="6-4"><speaker>BECKETT</speaker><content>Well then, why'd they leave the TV and the laptop?</content></utterance>
+<utterance uid="6-5"><speaker>CASTLE</speaker><content>Or the medical supplies. Dental pick. You think plaque slows you down in the water?</content></utterance>
+<utterance uid="6-6"><speaker>BECKETT</speaker><content>They were looking for something specific. You don't rip through a mattress unless you've run out of places to look. Maybe they didn't find what they were looking for.</content></utterance>
+<utterance uid="6-7"><speaker>CASTLE</speaker><content>Maybe it's still here, but it's just too well hidden.</content></utterance>
+<utterance uid="6-8"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="6-9"><speaker>BECKETT</speaker><content>Medication?</content></utterance>
+<utterance uid="6-10"><speaker>CASTLE</speaker><content>Only one thing I know of comes in little bottles like that. Anabolic steroids.</content></utterance>
+<utterance uid="6-11"><speaker>BECKETT</speaker><content>Zack's clean. Why would he have steroids?</content></utterance>
+<utterance uid="6-12"><speaker>CASTLE</speaker><content>Maybe he's not as clean as we thought.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>LANIE</speaker><content>Yep. It's steroids, all right.</content></utterance>
+<utterance uid="7-2"><speaker>BECKETT</speaker><content>I thought you said Zack wasn't using steroids.</content></utterance>
+<utterance uid="7-3"><speaker>LANIE</speaker><content>The tests wouldn't pick up stuff like this.</content></utterance>
+<utterance uid="7-4"><speaker>CASTLE</speaker><content>Why not?</content></utterance>
+<utterance uid="7-5"><speaker>LANIE</speaker><content>It's loaded with masking agents and designed to beat the tests. Virtually untraceable unless you look for it specifically.</content></utterance>
+<utterance uid="7-6"><speaker>BECKETT</speaker><content>So, he was using.</content></utterance>
+<utterance uid="7-7"><speaker>LANIE</speaker><content>Nope. I went back and tested for this, too. Your boy is steroid free.</content></utterance>
+<utterance uid="7-8"><speaker>BECKETT</speaker><content>Well, if he wasn't using steroids, then what was he doing with them?</content></utterance>
+<utterance uid="7-9"><speaker>CASTLE</speaker><content>Virtually undetectable? Where does a drug like that come from?</content></utterance>
+<utterance uid="7-10"><speaker>LANIE</speaker><content>There's been some talk about a new "beat the test" performance enhancing drug being developed somewhere in eastern Europe.</content></utterance>
+<utterance uid="7-11"><speaker>CASTLE</speaker><content>Eastern Europe. Home of the hard to identify accent.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>BECKETT</speaker><content>Given how great everyone says Zack was, this whole steroids thing just doesn't make sense.</content></utterance>
+<utterance uid="8-2"><speaker>CASTLE</speaker><content>Well, we know he needed the money. If he wasn't using, maybe he was dealing.</content></utterance>
+<utterance uid="8-3"><speaker>ESPOSITO</speaker><content>Well, it definitely would have given him the cash he needed to make ends meet.</content></utterance>
+<utterance uid="8-4"><speaker>BECKETT</speaker><content>Yeah, but he only had a couple of vials.</content></utterance>
+<utterance uid="8-5"><speaker>CASTLE</speaker><content>Maybe he was low on inventory. And the man Zack was arguing with, our secretive Slav, he was the distributor.</content></utterance>
+<utterance uid="8-6"><speaker>BECKETT</speaker><content>If there even was a man. For all we know, Bridget was lying.</content></utterance>
+<utterance uid="8-7"><speaker>RYAN</speaker><content>Well, she wasn't lying about her brothers. Talked to all four of them, one Irishman to another, and another. Anyway, they alibied out. They were in New Paltz when Zack was killed.</content></utterance>
+<utterance uid="8-8"><speaker>BECKETT</speaker><content>All of them?</content></utterance>
+<utterance uid="8-9"><speaker>RYAN</speaker><content>Mm.</content></utterance>
+<utterance uid="8-10"><speaker>BECKETT</speaker><content>For what?</content></utterance>
+<utterance uid="8-11"><speaker>RYAN</speaker><content>They were at a sporting event of, uh, sorts.</content></utterance>
+<utterance uid="8-12"><speaker>BECKETT</speaker><content>Which was?</content></utterance>
+<utterance uid="8-13"><speaker>RYAN</speaker><content>Leprechaun toss. Don't ask. Anyway, the, uh, older brother, he got first place.</content></utterance>
+<utterance uid="8-14"><speaker>RYAN</speaker><content>Oh, man.</content></utterance>
+<utterance uid="8-15"><speaker>CASTLE</speaker><content>Well, the merits of Irish culture aside -</content></utterance>
+<utterance uid="8-16"><speaker>RYAN</speaker><content>Hey.</content></utterance>
+<utterance uid="8-17"><speaker>CASTLE</speaker><content>Sorry. Perhaps this suggests that Bridget was telling the truth about our elusive Estonian.</content></utterance>
+<utterance uid="8-18"><speaker>RYAN</speaker><content>I'll run the sketch past Narco and Vice, see if they recognize him.</content></utterance>
+<utterance uid="8-19"><speaker>BECKETT</speaker><content>Okay, and check if Zack was on their radar. And, Esposito, can you talk to Zack's teammates about the steroids, find out what they knew?</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>AARON CHOI</speaker><content>Zack would never touch steroids. None of us would.</content></utterance>
+<utterance uid="9-2"><speaker>ESPOSITO</speaker><content>Mm-hmm. Look, the fact of the matter is, Zack was clean. But we found steroids at his place. We're just trying to figure out why.</content></utterance>
+<utterance uid="9-3"><speaker>BRIAN MORRIS</speaker><content>Are you saying you think Zack was a dealer?</content></utterance>
+<utterance uid="9-4"><speaker>AARON CHOI</speaker><content>Look, it's not enough that he's dead? Now you got to drag him through the mud. Let me tell you something about Zack Lindsey. He was the heart and soul of this team. He was a person we wanted to be. So, if you found drugs, they were there for another reason.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>CASTLE</speaker><content>Whatever the reason, he was up to something. And statements from three of his neighbors say that he was going out and staying out all night.</content></utterance>
+<utterance uid="10-2"><speaker>BECKETT</speaker><content>Yes, to the pool to train. We already know that.</content></utterance>
+<utterance uid="10-3"><speaker>CASTLE</speaker><content>Except half the time he was leaving without his gym bag. So, where was he going?</content></utterance>
+<utterance uid="10-4"><speaker>BECKETT</speaker><content>I'm hoping that you're asking that just for effect, because you already have an answer.</content></utterance>
+<utterance uid="10-5"><speaker>CASTLE</speaker><content>I-- I got nothing.</content></utterance>
+<utterance uid="10-6"><speaker>ALEX CONRAD</speaker><content>Maybe you're looking at it wrong. Maybe the steroids have nothing to do with his murder. Maybe they're your red herring.</content></utterance>
+<utterance uid="10-7"><speaker>CASTLE</speaker><content>Alex, so glad you made it. Alex Conrad, please meet Detective Beckett. Detective Beckett, Alex Conrad, my protégé.</content></utterance>
+<utterance uid="10-8"><speaker>BECKETT</speaker><content>Nice to meet you.</content></utterance>
+<utterance uid="10-9"><speaker>ALEX CONRAD</speaker><content>It's a real pleasure, Detective. I have read Heat Wave and Naked Heat so many times, I feel like I know you. The piercing intelligence, the self-assured beauty.</content></utterance>
+<utterance uid="10-10"><speaker>BECKETT</speaker><content>Oh, um, thank you. Uh, so what were you saying about the steroids?</content></utterance>
+<utterance uid="10-11"><speaker>ALEX CONRAD</speaker><content>Well, nothing, really. I was just looking at the board and I noticed that this swimmer kid, he's caught between two worlds. Now, if I were writing the story, the steroids would just be a red herring and the real killer would be someone from the old neighborhood. Uh, yeah, but that's just me. Clearly I'm new at this.</content></utterance>
+<utterance uid="10-12"><speaker>CASTLE</speaker><content>Alex, don't worry. It takes years of experience.</content></utterance>
+<utterance uid="10-13"><speaker>BECKETT</speaker><content>No. No, you're right. We don't have any proof that this has anything to do with the steroids. We've just been assuming. We do need to look into Zack's old neighborhood as well.</content></utterance>
+<utterance uid="10-14"><speaker>ALEX CONRAD</speaker><content>Seriously, I was helpful?</content></utterance>
+<utterance uid="10-15"><speaker>BECKETT</speaker><content>Yes. Yes, you were.</content></utterance>
+<utterance uid="10-16"><speaker>CASTLE</speaker><content>Yes, but you probably have lots of questions, so we should get going.</content></utterance>
+<utterance uid="10-17"><speaker>ALEX CONRAD</speaker><content>Hey. Uh, if it's not overstepping, uh, just in the interest of keeping it real, I was wondering if I could ask you a few questions for the case I'm coming up with for Seriously Dead.</content></utterance>
+<utterance uid="10-18"><speaker>BECKETT</speaker><content>Why don't you just give me a buzz when the two of you are done.</content></utterance>
+<utterance uid="10-19"><speaker>ALEX CONRAD</speaker><content>I mean, if it's okay with you.</content></utterance>
+<utterance uid="10-20"><speaker>CASTLE</speaker><content>Why wouldn't it be okay?</content></utterance>
+<utterance uid="10-21"><speaker>BECKETT</speaker><content>Okay.</content></utterance>
+<utterance uid="10-22"><speaker>ALEX CONRAD</speaker><content>Okay.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>CASTLE</speaker><content>It's so not okay. After everything I've done for him, he goes and tries to steal my muse.</content></utterance>
+<utterance uid="11-2"><speaker>ALEXIS</speaker><content>Muse thievery. What's the punishment for that? Five to ten in mythology jail?</content></utterance>
+<utterance uid="11-3"><speaker>CASTLE</speaker><content>Yes. You laugh. Go ahead. Laugh all you want. But now I finally know what Obi-wan Kenobi felt like when Darth Vader turned on him.</content></utterance>
+<utterance uid="11-4"><speaker>ALEXIS</speaker><content>No.</content></utterance>
+<utterance uid="11-5"><speaker>CASTLE</speaker><content>I should've seen this coming. You know what they're calling him down at Black Pawn Publishing?</content></utterance>
+<utterance uid="11-6"><speaker>ALEXIS</speaker><content>Alex Conrad.</content></utterance>
+<utterance uid="11-7"><speaker>CASTLE</speaker><content>The next Richard Castle.</content></utterance>
+<utterance uid="11-8"><speaker>MARTHA</speaker><content>Oh.</content></utterance>
+<utterance uid="11-9"><speaker>CASTLE</speaker><content>Yes. I thought it was a compliment. But no. He's trying to replace me.</content></utterance>
+<utterance uid="11-10"><speaker>MARTHA</speaker><content>What are you going to do?</content></utterance>
+<utterance uid="11-11"><speaker>CASTLE</speaker><content>I am going onto richardcastle.net. I am going to remove my glowing review of Dead Serious and replace it with cover art for Heat Rises. That ungrateful little weasel.</content></utterance>
+<utterance uid="11-12"><speaker>ALEXIS</speaker><content>Dad, you ever think that maybe you're overreacting a teensy bit? You ever think that, maybe he admires you so much that spending time with Beckett is to understand you better?</content></utterance>
+<utterance uid="11-13"><speaker>CASTLE</speaker><content>Don't confuse me with your reasonableness.</content></utterance>
+<utterance uid="11-14"><speaker>ALEXIS</speaker><content>I'm just saying, maybe he's not the nefarious muse-snatcher you think he is. Maybe you should give him a chance.</content></utterance>
+<utterance uid="11-15"><speaker>CASTLE</speaker><content>Maybe you're right.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>BECKETT</speaker><content>Okay, great. Thank you for your cooperation.</content></utterance>
+<utterance uid="12-2"><speaker>BECKETT</speaker><content>Thank you. So, Bridget McManus says Zack didn't really run with the Bensonhurst crowd anymore, but she did give me a list of all his old neighborhood buddies.</content></utterance>
+<utterance uid="12-3"><speaker>ESPOSITO</speaker><content>Oh, how about I run it down?</content></utterance>
+<utterance uid="12-4"><speaker>BECKETT</speaker><content>Yeah, great.</content></utterance>
+<utterance uid="12-5"><speaker>ESPOSITO</speaker><content>Yeah.</content></utterance>
+<utterance uid="12-6"><speaker>CASTLE</speaker><content>Muffins.</content></utterance>
+<utterance uid="12-7"><speaker>BECKETT</speaker><content>Mm-hmm. Alex Conrad sent them to me.</content></utterance>
+<utterance uid="12-8"><speaker>CASTLE</speaker><content>Alex.</content></utterance>
+<utterance uid="12-9"><speaker>CASTLE</speaker><content>"Thanks for last night." I guess you two got together last night.</content></utterance>
+<utterance uid="12-10"><speaker>BECKETT</speaker><content>Yeah. We talked about procedure.</content></utterance>
+<utterance uid="12-11"><speaker>CASTLE</speaker><content>Oh. So, nothing special.</content></utterance>
+<utterance uid="12-12"><speaker>BECKETT</speaker><content>Well, I don't know. He said he was going to use it all for his next book. He said, next time he wants to talk about cases.</content></utterance>
+<utterance uid="12-13"><speaker>CASTLE</speaker><content>Next time?</content></utterance>
+<utterance uid="12-14"><speaker>RYAN</speaker><content>So, something came up on our victim. Not sure what to make of it.</content></utterance>
+<utterance uid="12-15"><speaker>BECKETT</speaker><content>About steroids?</content></utterance>
+<utterance uid="12-16"><speaker>RYAN</speaker><content>No.</content></utterance>
+<utterance uid="12-17"><speaker>CASTLE</speaker><content>About our mysterious Moldavian?</content></utterance>
+<utterance uid="12-18"><speaker>RYAN</speaker><content>No, not that either. Vice and Narcotics struck out on Zack and the sketch, but I ran Zack's fingerprints through the unsolved latent database, his prints match a set found on a car stolen in Queens two weeks ago.</content></utterance>
+<utterance uid="12-19"><speaker>BECKETT</speaker><content>Who's the owner?</content></utterance>
+<utterance uid="12-20"><speaker>CASTLE</speaker><content>A Patricia Farrell.</content></utterance>
+<utterance uid="12-21"><speaker>BECKETT</speaker><content>Name doesn't ring a bell.</content></utterance>
+<utterance uid="12-22"><speaker>CASTLE</speaker><content>I think I know what these are about.</content></utterance>
+<utterance uid="12-23"><speaker>CASTLE</speaker><content>Yeah, it's a-- a video I saw on an underground website awhile ago.</content></utterance>
+<utterance uid="12-24"><speaker>BECKETT</speaker><content>Not surprising.</content></utterance>
+<utterance uid="12-25"><speaker>CASTLE</speaker><content>Just watch. Here.</content></utterance>
+<utterance uid="12-26"><speaker>BECKETT</speaker><content>So, that's how Zack made tuition and rent all without a job.</content></utterance>
+<utterance uid="12-27"><speaker>CASTLE</speaker><content>Oh, Zack had a job, all right. He was a car thief.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>CASTLE</speaker><content>Now we know how Zack made his money. While he was out all night he was playing Grand Theft Auto.</content></utterance>
+<utterance uid="13-2"><speaker>ESPOSITO</speaker><content>Yeah, the live action version.</content></utterance>
+<utterance uid="13-3"><speaker>BECKETT</speaker><content>Maybe he boosted the wrong car and got in trouble with the people he was working with.</content></utterance>
+<utterance uid="13-4"><speaker>CASTLE</speaker><content>Our lethal Lithuanian, perhaps?</content></utterance>
+<utterance uid="13-5"><speaker>ESPOSITO</speaker><content>Guess again, bro. I ran the names of Zack's pals from Bensonhurst . One of them has a prior for auto theft. Thomas Marcone.</content></utterance>
+<utterance uid="13-6"><speaker>BECKETT</speaker><content>Tommy Marcone? Bridget said that that was Zack's best friend in high school.</content></utterance>
+<utterance uid="13-7"><speaker>ESPOSITO</speaker><content>Well, lots of car thieves run in pairs.</content></utterance>
+<utterance uid="13-8"><speaker>BECKETT</speaker><content>Let's go to Bensonhurst.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>BECKETT</speaker><content>That's it. Scanlon's bar, Tommy Marcone's unofficial hangout.</content></utterance>
+<utterance uid="14-2"><speaker>CASTLE</speaker><content>Looks like the neighborhood is mourning their local hero.</content></utterance>
+<utterance uid="14-3"><speaker>BECKETT</speaker><content>Yeah, well, at this point I'm not sure that's what he was.</content></utterance>
+<utterance uid="14-4"><speaker>CASTLE</speaker><content>Man born into hardship struggles to reach for something greater, only he can't escape the demons of his past. It's Oedipus. It's The Godfather. The Beverly Hillbillies.</content></utterance>
+<utterance uid="14-5"><speaker>CASTLE</speaker><content>Well, it wasn't that funny.</content></utterance>
+<utterance uid="14-6"><speaker>BECKETT</speaker><content>No, I'm sorry. I just got a message.</content></utterance>
+<utterance uid="14-7"><speaker>CASTLE</speaker><content>From who? Conrad? It is, isn't it? What'd he say?</content></utterance>
+<utterance uid="14-8"><speaker>BECKETT</speaker><content>Nothing. He was just seeing what time we can meet up tonight.</content></utterance>
+<utterance uid="14-9"><speaker>CASTLE</speaker><content>And that made you laugh?</content></utterance>
+<utterance uid="14-10"><speaker>BECKETT</speaker><content>Yeah. He's funny.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>BECKETT</speaker><content>Tommy Marcone. NYPD.</content></utterance>
+<utterance uid="15-2"><speaker>TOMMY MARCONE</speaker><content>You got the wrong guy.</content></utterance>
+<utterance uid="15-3"><speaker>BECKETT</speaker><content>Remember when?</content></utterance>
+<utterance uid="15-4"><speaker>BECKETT</speaker><content>You're still on probation, aren't you? Got a couple questions about Zack Lindsey's murder.</content></utterance>
+<utterance uid="15-5"><speaker>TOMMY MARCONE</speaker><content>Why you gotta sweat me in front of the whole bar?</content></utterance>
+<utterance uid="15-6"><speaker>BECKETT</speaker><content>What do you want me to do? Take you downtown? I know that the two of you were stealing cars together.</content></utterance>
+<utterance uid="15-7"><speaker>TOMMY MARCONE</speaker><content>You can't prove that.</content></utterance>
+<utterance uid="15-8"><speaker>BECKETT</speaker><content>I know that the two of you were friends. I know that I've got Zack's prints on a stolen car, and I also know that you have priors.</content></utterance>
+<utterance uid="15-9"><speaker>CASTLE</speaker><content>And since you two were friends, we thought maybe you'd care that Zack's laying on a slab and thought you might want to help him.</content></utterance>
+<utterance uid="15-10"><speaker>TOMMY MARCONE</speaker><content>He's dead. Ain't nothing I can do now.</content></utterance>
+<utterance uid="15-11"><speaker>BECKETT</speaker><content>Why don't you tell me where you were between 1 and 5 a.m. the night of the murder.</content></utterance>
+<utterance uid="15-12"><speaker>TOMMY MARCONE</speaker><content>You're wasting your time.</content></utterance>
+<utterance uid="15-13"><speaker>CASTLE</speaker><content>You ever see this man?</content></utterance>
+<utterance uid="15-14"><speaker>TOMMY MARCONE</speaker><content>No. And your watch is too expensive for cops. So, Detective, who's this guy?</content></utterance>
+<utterance uid="15-15"><speaker>CASTLE</speaker><content>Just a guy buying a round for the house.</content></utterance>
+<utterance uid="15-16"><speaker>BECKETT</speaker><content>Tommy, if you know something, you should talk.</content></utterance>
+<utterance uid="15-17"><speaker>CASTLE</speaker><content>Hey, everybody! A round for the house in memory of Zack Lindsey!</content></utterance>
+<utterance uid="15-18"><speaker>BARTENDER</speaker><content>Zack was a great kid. Everybody around here loved him. Tommy included.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>ESPOSITO</speaker><content>Well, the guy in the sketch is definitely Jimmy Lennon. Grand theft auto, conspiracy to sell stolen vehicles, assault, assault with a deadly weapon. He immigrated to the U.S when he was 28, but he was born Janusz Lenedovsky, in Minsk, Belarus.</content></utterance>
+<utterance uid="16-2"><speaker>CASTLE</speaker><content>Belarus. I knew it. That's right next to Lithuania.</content></utterance>
+<utterance uid="16-3"><speaker>ESPOSITO</speaker><content>Says here that he owns a auto repair shop on Avenue U. Watch your backs on this one. This guy's dangerous.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>JIMMY LENNON</speaker><content>Come on, man.</content></utterance>
+<utterance uid="17-2"><speaker>BECKETT</speaker><content>Jimmy Lennon. NYP-- hey!</content></utterance>
+<utterance uid="17-3"><speaker>ESPOSITO</speaker><content>Hey!</content></utterance>
+<utterance uid="17-4"><speaker>BECKETT</speaker><content>Round up the others, call Burglary Auto.</content></utterance>
+<utterance uid="17-5"><speaker>RYAN</speaker><content>Hey, hey! NYPD!</content></utterance>
+<utterance uid="17-6"><speaker>JIMMY LENNON</speaker><content>It's clean business. I fix these cars.</content></utterance>
+<utterance uid="17-7"><speaker>BECKETT</speaker><content>Really? I bet the people who own them would be surprised to hear that. Now, I want to know about Zack Lindsey.</content></utterance>
+<utterance uid="17-8"><speaker>JIMMY LENNON</speaker><content>I know nothing.</content></utterance>
+<utterance uid="17-9"><speaker>BECKETT</speaker><content>Not the best three words to have falling out of your mouth, Jimmy.</content></utterance>
+<utterance uid="17-10"><speaker>CASTLE</speaker><content>I was half expecting Moose and Squirrel.</content></utterance>
+<utterance uid="17-11"><speaker>BECKETT</speaker><content>You're going to jail. How long depends on you.</content></utterance>
+<utterance uid="17-12"><speaker>JIMMY LENNON</speaker><content>Jail in your country is vacation.</content></utterance>
+<utterance uid="17-13"><speaker>BECKETT</speaker><content>Then I will make it very difficult. Here's what I think. I think that Zack stole cars for you, but he had bigger plans and he told you he wanted out. You were worried he couldn't keep his mouth shut. So, you threatened him and told him there's no walking out of this. And when he didn't change his mind, you followed him to the pool and you killed him. Is there anything you want to add to that? You should help yourself, Jimmy. This is your last chance.</content></utterance>
+<utterance uid="17-14"><speaker>CASTLE</speaker><content>Swim for gold.</content></utterance>
+<utterance uid="17-15"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="17-16"><speaker>CASTLE</speaker><content>There's a car over there with the license plate SWM4GLD.</content></utterance>
+<utterance uid="17-17"><speaker>CASTLE</speaker><content>Ho, ho, ho!</content></utterance>
+<utterance uid="17-18"><speaker>BECKETT</speaker><content>This car is registered to a Brian Morris of Greenwich, Connecticut.</content></utterance>
+<utterance uid="17-19"><speaker>CASTLE</speaker><content>Brian Morris. That's one of Zack's teammates. It's his main rival. So, either Brian needed his engine rebuilt or...</content></utterance>
+<utterance uid="17-20"><speaker>BECKETT</speaker><content>Or this car is stolen. So, why would Zack steal Brian's car?</content></utterance>
+<utterance uid="17-21"><speaker>CASTLE</speaker><content>I don't know. But I know why it gave Brian a motive for murder. Those steroids we found in Zack's apartment that he wasn't taking? Maybe...they're Brian's.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>TOMMY MARCONE</speaker><content>Why you got me in here? I didn't do nothing wrong.</content></utterance>
+<utterance uid="18-2"><speaker>BECKETT</speaker><content>No? Zack's rival on the swim team, Brian Morris, we found his Stingray at the chop shop. The one you stole.</content></utterance>
+<utterance uid="18-3"><speaker>TOMMY MARCONE</speaker><content>I don't even know what that means.</content></utterance>
+<utterance uid="18-4"><speaker>BECKETT</speaker><content>Zack's prints were on it, and so were yours. So, stop playing around.</content></utterance>
+<utterance uid="18-5"><speaker>CASTLE</speaker><content>Why did you boost the car?</content></utterance>
+<utterance uid="18-6"><speaker>TOMMY MARCONE</speaker><content>Because Brian Morris is a silver spoon licking punk. He hated Zack for being a better swimmer. Two weeks ago, he spikes Zack's pre-game meal to make him sick. Zack won the meet anyway. Didn't take him long to figure out it was Brian, though.</content></utterance>
+<utterance uid="18-7"><speaker>CASTLE</speaker><content>So, you took the car out of revenge?</content></utterance>
+<utterance uid="18-8"><speaker>TOMMY MARCONE</speaker><content>SWM4GLD? Vanity plates? I mean, can you get anymore douchey? Brian's up in Greenwich with his own training pool, private coaches, whatever he needs. Meanwhile, Zack's stuck here boosting cars just so he can eat 'cause he can't take a nickel of outside money or else he's done.</content></utterance>
+<utterance uid="18-9"><speaker>CASTLE</speaker><content>How'd you find the steroids?</content></utterance>
+<utterance uid="18-10"><speaker>TOMMY MARCONE</speaker><content>You always search a car. You never want more than you bargained for.</content></utterance>
+<utterance uid="18-11"><speaker>CASTLE</speaker><content>Like a dead mobster in the trunk.</content></utterance>
+<utterance uid="18-12"><speaker>TOMMY MARCONE</speaker><content>Stuff happens. We searched the car like always, Zack found a bag underneath the seat, and he knew right then and there Brian was juicing.</content></utterance>
+<utterance uid="18-13"><speaker>BECKETT</speaker><content>Did Zack have any plans for this information?</content></utterance>
+<utterance uid="18-14"><speaker>TOMMY MARCONE</speaker><content>Well, yeah, he hadn't figured that out yet. It was kind of a big deal, you know? I told him he should turn that cheating bastard, Brian, in. Get his ass banged.</content></utterance>
+<utterance uid="18-15"><speaker>CASTLE</speaker><content>Guess he never got the chance.</content></utterance>
+<utterance uid="18-16"><speaker>TOMMY MARCONE</speaker><content>I guess not.</content></utterance>
+<utterance uid="18-17"><speaker>BECKETT</speaker><content>Zack was supposed to be your friend, Tommy. Why didn't you tell us this from the start?</content></utterance>
+<utterance uid="18-18"><speaker>TOMMY MARCONE</speaker><content>I don't know. Maybe I was scared.</content></utterance>
+<utterance uid="18-19"><speaker>BECKETT</speaker><content>All right. Stick around. I'm not done with you.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>BECKETT</speaker><content>You recognize this, Brian?</content></utterance>
+<utterance uid="19-2"><speaker>LAWYER</speaker><content>If it's gonna be adversarial from the outset -</content></utterance>
+<utterance uid="19-3"><speaker>BECKETT</speaker><content>How is this for adversarial, Counselor? Zack Lindsey was killed after he found a cash of illegal steroids in your client's car.</content></utterance>
+<utterance uid="19-4"><speaker>LAWYER</speaker><content>A car he apparently stole.</content></utterance>
+<utterance uid="19-5"><speaker>BECKETT</speaker><content>And, oddly enough, your son never ever reported that.</content></utterance>
+<utterance uid="19-6"><speaker>MONTGOMERY</speaker><content>She's like a tiger in there. I never get tired of watching her.</content></utterance>
+<utterance uid="19-7"><speaker>BECKETT</speaker><content>Why is that?</content></utterance>
+<utterance uid="19-8"><speaker>CASTLE</speaker><content>Me neither.</content></utterance>
+<utterance uid="19-9"><speaker>MONTGOMERY</speaker><content>Seems like Alex Conrad feels the same way.</content></utterance>
+<utterance uid="19-10"><speaker>BRIAN CONRAD</speaker><content>...didn't know it was gone.</content></utterance>
+<utterance uid="19-11"><speaker>BECKETT</speaker><content>A classic car worth over 70 grand goes missing, and you are telling me that you had no idea it was gone.</content></utterance>
+<utterance uid="19-12"><speaker>BRIAN CONRAD</speaker><content>Why would I? I barely even drive it.</content></utterance>
+<utterance uid="19-13"><speaker>BECKETT</speaker><content>You knew that car was stolen. You didn't want police to recover it in case they found more of these.</content></utterance>
+<utterance uid="19-14"><speaker>BENJAMIN MORRIS</speaker><content>You have no proof of that. Zack could have planted steroids in Brian's car.</content></utterance>
+<utterance uid="19-15"><speaker>BECKETT</speaker><content>But he didn't. You know, I think that Zack confronted you about those steroids and you knew if he reported you, you could kiss your Olympic dreams goodbye, and so you killed him. Brian? You killed Zack. And then you broke into his apartment and tried to cover your tracks.</content></utterance>
+<utterance uid="19-16"><speaker>BRIAN CONRAD</speaker><content>To my recollection, at no point did Zack Lindsey and I discuss any performance enhancing substance. And I have no idea who killed him.</content></utterance>
+<utterance uid="19-17"><speaker>BECKETT</speaker><content>Not a gold medal performance, Brian. Where were you between 1 and 5 a.m. the night of the murder?</content></utterance>
+<utterance uid="19-18"><speaker>BENJAMIN MORRIS</speaker><content>We've been over all this. I was at the practice pool at my parents' house.</content></utterance>
+<utterance uid="19-19"><speaker>LAWYER</speaker><content>This DVD is from a camera mounted above the training pool. It has the date and time running in the corner.</content></utterance>
+<utterance uid="19-20"><speaker>BECKETT</speaker><content>Easily altered.</content></utterance>
+<utterance uid="19-21"><speaker>LAWYER</speaker><content>Furthermore, his family and staff also swear Brian was at home, and I have affidavits.</content></utterance>
+<utterance uid="19-22"><speaker>BECKETT</speaker><content>I'm sure you do.</content></utterance>
+<utterance uid="19-23"><speaker>LAWYER</speaker><content>So, unless you're charging my client, we're done here.</content></utterance>
+<utterance uid="19-24"><speaker>BENJAMIN MORRIS</speaker><content>My son will go to the Olympics, and no one's going to derail that, Detective.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>CASTLE</speaker><content>Well, Brian had means, he had motive. That's at least two. But what about opportunity?</content></utterance>
+<utterance uid="20-2"><speaker>MONTGOMERY</speaker><content>Well, clearly, his father would do whatever it takes to cover for him so he can keep on swimming.</content></utterance>
+<utterance uid="20-3"><speaker>BECKETT</speaker><content>Well, with the kind of team Brian had, there's no way we'll be able to prove that he was at the UNY pool.</content></utterance>
+<utterance uid="20-4"><speaker>CASTLE</speaker><content>Maybe because he wasn't. Look what kind of guy Brian is. Pampered, protected, dominated by his father? This is not a man of action.</content></utterance>
+<utterance uid="20-5"><speaker>BECKETT</speaker><content>So, what are you suggesting?</content></utterance>
+<utterance uid="20-6"><speaker>CASTLE</speaker><content>That he's not the kind of guy to get his hands dirty.</content></utterance>
+<utterance uid="20-7"><speaker>MONTGOMERY</speaker><content>Maybe Daddy cleaned up his mess.</content></utterance>
+<utterance uid="20-8"><speaker>CASTLE</speaker><content>Or he hired someone to do it for him.</content></utterance>
+<utterance uid="20-9"><speaker>BECKETT</speaker><content>Ryan, can you look into the Morrises' financials? Look for large payments made around the time of the murder. Especially cash withdrawals.</content></utterance>
+<utterance uid="20-10"><speaker>RYAN</speaker><content>Already on it. The dad is a hedge fund manager. So, you practically need an MBA to follow the money. But, there was something about the kid. There was a bond.</content></utterance>
+<utterance uid="20-11"><speaker>CASTLE</speaker><content>As in bail bond?</content></utterance>
+<utterance uid="20-12"><speaker>RYAN</speaker><content>As in savings bond. Three days after Brian's car was stolen, he cashed in a savings bond in the amount of $25,000.</content></utterance>
+<utterance uid="20-13"><speaker>MONTGOMERY</speaker><content>That's enough to hire a hit man.</content></utterance>
+<utterance uid="20-14"><speaker>CASTLE</speaker><content>Especially in today's competitive job market.</content></utterance>
+<utterance uid="20-15"><speaker>ESPOSITO</speaker><content>Did Brian Morris cash that bond at Greenwich Federal Bank?</content></utterance>
+<utterance uid="20-16"><speaker>RYAN</speaker><content>As a matter of fact, he did. What do you got?</content></utterance>
+<utterance uid="20-17"><speaker>ESPOSITO</speaker><content>We just searched Thomas Marcone's place, found tools of the auto theft trade, but we also found this.</content></utterance>
+<utterance uid="20-18"><speaker>BECKETT</speaker><content>That looks like 25 grand.</content></utterance>
+<utterance uid="20-19"><speaker>ESPOSITO</speaker><content>And guess where it's from?</content></utterance>
+<utterance uid="20-20"><speaker>CASTLE</speaker><content>Greenwich Federal Bank.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>TOMMY MARCONE</speaker><content>I didn't kill Zack.</content></utterance>
+<utterance uid="21-2"><speaker>BECKETT</speaker><content>Tommy, it seems like every time you open your mouth, another lie falls out.</content></utterance>
+<utterance uid="21-3"><speaker>TOMMY MARCONE</speaker><content>But I'm not lying.</content></utterance>
+<utterance uid="21-4"><speaker>BECKETT</speaker><content>Then why did you take 25 grand from Brian Morris?</content></utterance>
+<utterance uid="21-5"><speaker>CASTLE</speaker><content>A man you characterized as a cheating bastard, as I recall.</content></utterance>
+<utterance uid="21-6"><speaker>TOMMY MARCONE</speaker><content>Okay, I may have gotten Zack killed, but not the way you think.</content></utterance>
+<utterance uid="21-7"><speaker>CASTLE</speaker><content>It was blackmail. You blackmailed Brian Morris.</content></utterance>
+<utterance uid="21-8"><speaker>TOMMY MARCONE</speaker><content>Him being on steroids, I figured that knowledge was worth something.</content></utterance>
+<utterance uid="21-9"><speaker>BECKETT</speaker><content>Was Zack in on this?</content></utterance>
+<utterance uid="21-10"><speaker>TOMMY MARCONE</speaker><content>He would've kicked my ass up and down 18th Avenue if he found out.</content></utterance>
+<utterance uid="21-11"><speaker>BECKETT</speaker><content>And been justified.</content></utterance>
+<utterance uid="21-12"><speaker>TOMMY MARCONE</speaker><content>Look, Brian didn't know me. And I figured, he wouldn't pay if he got blackmailed by some anonymous mook.</content></utterance>
+<utterance uid="21-13"><speaker>BECKETT</speaker><content>So, you pretended to be Zack.</content></utterance>
+<utterance uid="21-14"><speaker>TOMMY MARCONE</speaker><content>I used the library computer and Zack's e-mail account. I e-mailed Brian saying I had his 'roids and I was going to rat him out unless he put 25 grand into a paper bag and left it underneath the bench at the quad. When the coast was clear, I picked it up. I never meant for anyone to get hurt. I'd like that phone call now.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>BECKETT</speaker><content>Okay. So, Zack stole Brian's stash and, because of Tommy, Brian thought that Zack was blackmailing him. Brian's motive just keeps getting stronger and stronger.</content></utterance>
+<utterance uid="22-2"><speaker>CASTLE</speaker><content>Almost like it's on steroids.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>MONTGOMERY</speaker><content>Ms. Dinovi--</content></utterance>
+<utterance uid="23-2"><speaker>LORRAINE DINOVI</speaker><content>Tommy Marcone called, said you had him in here. He said Brian Morris killed my son.</content></utterance>
+<utterance uid="23-3"><speaker>MONTGOMERY</speaker><content>No, we don't know all that. We just know he's a person of interest.</content></utterance>
+<utterance uid="23-4"><speaker>LORRAINE DINOVI</speaker><content>So, why didn't you arrest him?</content></utterance>
+<utterance uid="23-5"><speaker>MONTGOMERY</speaker><content>We don't have enough to hold him.</content></utterance>
+<utterance uid="23-6"><speaker>LORRAINE DINOVI</speaker><content>And he's the son of a millionaire. I bet that doesn't hurt either.</content></utterance>
+<utterance uid="23-7"><speaker>MONTGOMERY</speaker><content>Around here, it's about the evidence, no how fat someone's wallet is.</content></utterance>
+<utterance uid="23-8"><speaker>LORRAINE DINOVI</speaker><content>Yeah, well, I live in the real world, and I know that boy's family, and they're gonna do whatever it takes to protect him because they can. Captain, Zack's all I had.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>BECKETT</speaker><content>We can't figure out if Brian is connected to the murder until we find the real killer.</content></utterance>
+<utterance uid="24-2"><speaker>MONTGOMERY</speaker><content>Then you're gonna have to dig deeper. If Brian and his family are involved, then there's got to be a connection, and I want it found.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>BECKETT</speaker><content>All right, great. Thank you.  Struck out again. The Morrises' house in Connecticut is gated and the security company says that nobody left the night of the murder. These guys have everything covered.</content></utterance>
+<utterance uid="25-2"><speaker>CASTLE</speaker><content>Hmm.</content></utterance>
+<utterance uid="25-3"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="25-4"><speaker>CASTLE</speaker><content>Zack's e-mail account, the one Tommy used to ask Brian for a donation, the blackmail message was sent at 3:02 p.m. You think that would have caused a flurry of telephone calls, but he only made one call right after. 3:19.</content></utterance>
+<utterance uid="25-5"><speaker>BECKETT</speaker><content>That's the father's office in New York. Do we have the dad's records?</content></utterance>
+<utterance uid="25-6"><speaker>RYAN</speaker><content>Yeah, got it right here. Starting at 3:21 p.m., Benjamin Morris made about a dozen phone calls, all to the same 212 number.</content></utterance>
+<utterance uid="25-7"><speaker>BECKETT</speaker><content>Run it.</content></utterance>
+<utterance uid="25-8"><speaker>ESPOSITO</speaker><content>It's a Dr. Rex Calabro, he's got a sports medicine practice. He's got a lot of big time athletes as clients.</content></utterance>
+<utterance uid="25-9"><speaker>BECKETT</speaker><content>So, Benjamin Morris finds out that his son is being blackmailed and the one phone call he makes is to Dr. Calabro? The only reason that that would make sense is if--</content></utterance>
+<utterance uid="25-10"><speaker>CASTLE</speaker><content>Dr. Calabro knew about the steroids. Maybe even supplied them.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>BECKETT</speaker><content>And what about Brian Morris? Is he a patient of yours?</content></utterance>
+<utterance uid="26-2"><speaker>BECKETT</speaker><content>His father called you seven times in a two hour period on Tuesday. What did the two of you talk about?</content></utterance>
+<utterance uid="26-3"><speaker>BECKETT</speaker><content>Dr. Calabro, your clientele is mostly high profile athletes. How fast do you think they'll abandon ship once they find out you were talking with us about steroids?</content></utterance>
+<utterance uid="26-4"><speaker>CASTLE</speaker><content>I'm guessing fast. And when they find out it's steroids and murder, it'll jump to light speed.</content></utterance>
+<utterance uid="26-5"><speaker>BECKETT</speaker><content>I think that it would be in your best interests to help us. Tell us what you and Benjamin Morris talked about.</content></utterance>
+<utterance uid="26-6"><speaker>CASTLE</speaker><content>And, point of fact, Brian was your patient, but I'm guessing his father was not. So, confidentiality really doesn't apply. How's this? Hypothetically, why would an over-bearing father of a steroid-using swimmer call you?</content></utterance>
+<utterance uid="26-7"><speaker>CASTLE</speaker><content>Worried his son would test positive.</content></utterance>
+<utterance uid="26-8"><speaker>BECKETT</speaker><content>And what else might have come up?</content></utterance>
+<utterance uid="26-9"><speaker>CASTLE</speaker><content>Hypothetically.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>ESPOSITO</speaker><content>I'll get a warrant, check Calabro's office for steroids.</content></utterance>
+<utterance uid="27-2"><speaker>BECKETT</speaker><content>You won't find any. Benjamin called him to concoct a strategy to protect Brian's eligibility. This is damage control, not murder.</content></utterance>
+<utterance uid="27-3"><speaker>ESPOSITO</speaker><content>Well, it looks like the strategy went into effect. Brian quit the swim team. Said he injured his shoulder.</content></utterance>
+<utterance uid="27-4"><speaker>CASTLE</speaker><content>No swim team, no drug testing.</content></utterance>
+<utterance uid="27-5"><speaker>BECKETT</speaker><content>Mm.</content></utterance>
+<utterance uid="27-6"><speaker>RYAN</speaker><content>So, I checked Lanie's report on the steroids against the file I got from Vice. They intercepted a shipment of similar steroids that came to New York from a lab in Romania.</content></utterance>
+<utterance uid="27-7"><speaker>BECKETT</speaker><content>So, let's look into Brian's life, see if there's any connection to Romania. If we can find a connect, then hopefully we'll be able to find Zack's killer.</content></utterance>
+<utterance uid="27-8"><speaker>ALEX CONRAD</speaker><content>Kate, you ready?</content></utterance>
+<utterance uid="27-9"><speaker>BECKETT</speaker><content>Yeah. Um, let me just go get my purse.</content></utterance>
+<utterance uid="27-10"><speaker>CASTLE</speaker><content>You guys are going out again tonight?</content></utterance>
+<utterance uid="27-11"><speaker>ALEX CONRAD</speaker><content>What can I say? She's a wealth of information. You are lucky to have her.</content></utterance>
+<utterance uid="27-12"><speaker>CASTLE</speaker><content>Yeah. Yeah, I am. Too bad about tonight, though.</content></utterance>
+<utterance uid="27-13"><speaker>ALEX CONRAD</speaker><content>Too bad, how?</content></utterance>
+<utterance uid="27-14"><speaker>CASTLE</speaker><content>Well, it's poker night. Lehane and Connelly are in town, I thought you might want to join us, but if you have plans...</content></utterance>
+<utterance uid="27-15"><speaker>ALEX CONRAD</speaker><content>No way. You're-- you're inviting me to your mystery writer's poker night?</content></utterance>
+<utterance uid="27-16"><speaker>CASTLE</speaker><content>Come on, you're a mystery writer now, right?</content></utterance>
+<utterance uid="27-17"><speaker>ALEX CONRAD</speaker><content>Yeah, but those guys are legendary. I mean, those guys...</content></utterance>
+<utterance uid="27-18"><speaker>CASTLE</speaker><content>Yeah, they are. Ah, well, if you're unavailable.</content></utterance>
+<utterance uid="27-19"><speaker>CASTLE</speaker><content>Three. Two. One.</content></utterance>
+<utterance uid="27-20"><speaker>ALEX CONRAD</speaker><content>Whoa, wait, wait, wait.</content></utterance>
+<utterance uid="27-21"><speaker>CASTLE</speaker><content>Bingo.</content></utterance>
+<utterance uid="27-22"><speaker>ALEX CONRAD</speaker><content>Hang on a second.</content></utterance>
+<utterance uid="27-23"><speaker>CASTLE</speaker><content>Oh, yeah. They're gonna love you.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>CASTLE</speaker><content>Gentlemen.</content></utterance>
+<utterance uid="28-2"><speaker>MICHAEL CONNELLY</speaker><content>This the new guy?</content></utterance>
+<utterance uid="28-3"><speaker>CASTLE</speaker><content>Alex Conrad, Michael Connelly, Dennis Lehane.</content></utterance>
+<utterance uid="28-4"><speaker>ALEX CONRAD</speaker><content>It's really awesome to meet you guys. I am a, uh, huge fan.</content></utterance>
+<utterance uid="28-5"><speaker>MICHAEL CONNELLY</speaker><content>It's not a book signing, kid. We're here to play poker.</content></utterance>
+<utterance uid="28-6"><speaker>ALEX CONRAD</speaker><content>All right.</content></utterance>
+<utterance uid="28-7"><speaker>CASTLE</speaker><content>Ah, oh! Whoa, whoa, whoa!</content></utterance>
+<utterance uid="28-8"><speaker>MICHAEL CONNELLY</speaker><content>Uh!</content></utterance>
+<utterance uid="28-9"><speaker>CASTLE</speaker><content>That's Cannell's seat.</content></utterance>
+<utterance uid="28-10"><speaker>ALEX CONRAD</speaker><content>Oh.</content></utterance>
+<utterance uid="28-11"><speaker>DENNIS LEHANE</speaker><content>That's the rule. We lose a member, nobody sits there for a year.</content></utterance>
+<utterance uid="28-12"><speaker>ALEX CONRAD</speaker><content>Sorry.</content></utterance>
+<utterance uid="28-13"><speaker>DENNIS LEHANE</speaker><content>So, we were just talking about our books becoming movies. Michael had Lincoln Lawyer, I had Shutter Island, Ricky has Heat Wave.</content></utterance>
+<utterance uid="28-14"><speaker>MICHAEL CONNELLY</speaker><content>So, what about your book, kid? They gonna make it into a movie?</content></utterance>
+<utterance uid="28-15"><speaker>ALEX CONRAD</speaker><content>Oh, uh...not yet.</content></utterance>
+<utterance uid="28-16"><speaker>MICHAEL CONNELLY</speaker><content>So, Ricky, what's going on with the dead swimmer?</content></utterance>
+<utterance uid="28-17"><speaker>CASTLE</speaker><content>Treading water. Dennis, your bet.</content></utterance>
+<utterance uid="28-18"><speaker>ALEX CONRAD</speaker><content>Well, it reads like a crime of passion to me. I bet the girlfriend did it.</content></utterance>
+<utterance uid="28-19"><speaker>MICHAEL CONNELLY</speaker><content>The girlfriend? You're kidding, right? You can move through the girlfriend no later than page 50.</content></utterance>
+<utterance uid="28-20"><speaker>DENNIS LEHANE</speaker><content>Yeah, the woman scorned is like the oldest rodeo clown in the book. Is he...serious?</content></utterance>
+<utterance uid="28-21"><speaker>CASTLE</speaker><content>Oh, he's Dead Serious.</content></utterance>
+<utterance uid="28-22"><speaker>ALEX CONRAD</speaker><content>Well, you know, I just thought--</content></utterance>
+<utterance uid="28-23"><speaker>MICHAEL CONNELLY</speaker><content>How many books have you written?</content></utterance>
+<utterance uid="28-24"><speaker>ALEX CONRAD</speaker><content>Just the one.</content></utterance>
+<utterance uid="28-25"><speaker>DENNIS LEHANE</speaker><content>And this-- and this one book made you, like, a crime solving genius, did it?</content></utterance>
+<utterance uid="28-26"><speaker>MICHAEL CONNELLY</speaker><content>You know what I did after I wrote my first novel? I shut up and I wrote twenty-three more.</content></utterance>
+<utterance uid="28-27"><speaker>DENNIS LEHANE</speaker><content>I can tell you, a case like this, guilty party is usually the guy with the biggest secret.</content></utterance>
+<utterance uid="28-28"><speaker>MICHAEL CONNELLY</speaker><content>You know, Dennis is right. Aside from Brian, who has the most to lose if this steroid use gets out?</content></utterance>
+<utterance uid="28-29"><speaker>CASTLE</speaker><content>You know, I think I might just know.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>COACH ROME</speaker><content>This is ridiculous. I was in my apartment in faculty housing that night. You can just ask around.</content></utterance>
+<utterance uid="29-2"><speaker>BECKETT</speaker><content>We know you were in your apartment that night.</content></utterance>
+<utterance uid="29-3"><speaker>COACH ROME</speaker><content>Okay. So then, why am I here?</content></utterance>
+<utterance uid="29-4"><speaker>BECKETT</speaker><content>Do you know what this is, Coach?</content></utterance>
+<utterance uid="29-5"><speaker>COACH ROME</speaker><content>Oh, yeah. Everybody in my business does. But nobody on my team takes that stuff.</content></utterance>
+<utterance uid="29-6"><speaker>CASTLE</speaker><content>Brian Morris does.</content></utterance>
+<utterance uid="29-7"><speaker>COACH ROME</speaker><content>That's not true.</content></utterance>
+<utterance uid="29-8"><speaker>BECKETT</speaker><content>Apparently this is his steroid of choice. It comes from Romania. I understand you've been to Romania four times in the past two years.</content></utterance>
+<utterance uid="29-9"><speaker>COACH ROME</speaker><content>My wife's family is from Bucharest.</content></utterance>
+<utterance uid="29-10"><speaker>BECKETT</speaker><content>So, you're trying to tell me it's just a coincidence?</content></utterance>
+<utterance uid="29-11"><speaker>COACH ROME</speaker><content>Yeah.</content></utterance>
+<utterance uid="29-12"><speaker>BECKETT</speaker><content>So, if I search your apartment and your office, you're telling me that I wouldn't find any of these vials.</content></utterance>
+<utterance uid="29-13"><speaker>COACH ROME</speaker><content>You don't understand. Brian Morris was a lock to win it all. He had the body, he had the talent, the money to make himself the best. He's the reason I came to coach at UNY. But last year Brian peaked. Started fading at the ends of races and, from out of nowhere, Zack became the guy to beat.</content></utterance>
+<utterance uid="29-14"><speaker>CASTLE</speaker><content>So, you decided to give Brian an extra boost, so he could catch up with Zack.</content></utterance>
+<utterance uid="29-15"><speaker>COACH ROME</speaker><content>Brian's father came to me. He asked if there was anything more I could do. He said he'd donate millions to the program if that answer was yes.</content></utterance>
+<utterance uid="29-16"><speaker>CASTLE</speaker><content>Yeah, but it wasn't just about the money, was it? Every coach knows he has to hitch his wagon to a star. In fact, you'd done it before with somebody very special.</content></utterance>
+<utterance uid="29-17"><speaker>BECKETT</speaker><content>Before going to UNY, you were coaching in Wilmington.</content></utterance>
+<utterance uid="29-18"><speaker>COACH ROME</speaker><content>That's right. So?</content></utterance>
+<utterance uid="29-19"><speaker>CASTLE</speaker><content>You ever give that same boost to your swimmers there? They keep those old samples, don't they?</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>BECKETT</speaker><content>Actually, we think we caught a break.</content></utterance>
+<utterance uid="30-2"><speaker>BECKETT</speaker><content>Mm-hmm.</content></utterance>
+<utterance uid="30-3"><speaker>CASTLE</speaker><content>Yes. It is. Well, for everyone except you.</content></utterance>
+<utterance uid="30-4"><speaker>CASTLE</speaker><content>Drop the act, Rob. We know how you got to be "the Rocket." Coach Rome told us about how he gave you rocket fuel back in Wilmington. It didn't stop until you went all the way.</content></utterance>
+<utterance uid="30-5"><speaker>BECKETT</speaker><content>Yeah, but they weren't testing for the right thing. We checked your blood samples from the last gold medal race you won against the designer steroids that Zack found in Brian's car. It came back positive.</content></utterance>
+<utterance uid="30-6"><speaker>BECKETT</speaker><content>And then, off of that, we got a warrant to your hotel room where we found a shirt with chlorine on it. Pure chlorine. The kind that killed Zack. We're waiting for DNA tests results right now.</content></utterance>
+<utterance uid="30-7"><speaker>BECKETT</speaker><content>And it was packed there. You could've easily slipped out and come back without anyone noticing.</content></utterance>
+<utterance uid="30-8"><speaker>CASTLE</speaker><content>Because when Zack found steroids in Brian's car, he was conflicted about what to do. So, he sought counsel from the one guy he knew he could trust. Captain America. Chest full of medals. Guy on the cereal box. Only, you realized Coach Rome had given Brian the same steroids he had given to you.</content></utterance>
+<utterance uid="30-9"><speaker>BECKETT</speaker><content>And you knew that, if Zack talked, you would be found out.</content></utterance>
+<utterance uid="30-10"><speaker>CASTLE</speaker><content>They'd erase your name from the record books. They'd take away all your medals. You would lose everything. And there's no way you were gonna let that happen.</content></utterance>
+<utterance uid="30-11"><speaker>BECKETT</speaker><content>Turn around. Take a long look, Rob. Where you're going, I don't think they have pools.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>CASTLE</speaker><content>You know, it is ironic. The one man Zack thought he could trust, his mentor, turned out to be his killer.</content></utterance>
+<utterance uid="31-2"><speaker>BECKETT</speaker><content>Yeah, speaking of mentor, I heard that you guys were pretty hard on Conrad last night.</content></utterance>
+<utterance uid="31-3"><speaker>CASTLE</speaker><content>Hard on him? No, no. It was just a little friendly hazing.</content></utterance>
+<utterance uid="31-4"><speaker>BECKETT</speaker><content>To hear him describe it, it sounds like someone was trying to teach him a lesson.</content></utterance>
+<utterance uid="31-5"><speaker>CASTLE</speaker><content>What? Why would I want to do that?</content></utterance>
+<utterance uid="31-6"><speaker>BECKETT</speaker><content>Because you didn't want him to spend time with me.</content></utterance>
+<utterance uid="31-7"><speaker>CASTLE</speaker><content>That is completely--</content></utterance>
+<utterance uid="31-8"><speaker>BECKETT</speaker><content>True?</content></utterance>
+<utterance uid="31-9"><speaker>CASTLE</speaker><content>Yes. Fine. It's true. I'm jealous. There, I said it. I-- I want you all to myself, and to have you spending time with another writer, that upsets me, and if-- If that makes me petty, so be it. Guilty as charged.</content></utterance>
+<utterance uid="31-10"><speaker>BECKETT</speaker><content>Actually, I kind of think it's sweet.</content></utterance>
+<utterance uid="31-11"><speaker>CASTLE</speaker><content>You do?</content></utterance>
+<utterance uid="31-12"><speaker>BECKETT</speaker><content>I do. And that's why you don't have to worry about me hanging around with Conrad anymore. From now on, I am a one writer girl.</content></utterance>
+<utterance uid="31-13"><speaker>CASTLE</speaker><content>I do feel kind of bad. He is my mentee, after all. He really didn't do anything wrong.</content></utterance>
+<utterance uid="31-14"><speaker>BECKETT</speaker><content>I wouldn't feel so bad.</content></utterance>
+<utterance uid="31-15"><speaker>RYAN</speaker><content>And then he said, "They used to do this to me for talking in class."</content></utterance>
+<utterance uid="31-16"><speaker>RYAN</speaker><content>Hey. Since, uh, we, uh, closed the case, I figured we'd take Conrad on a little field trip up to Rikers.</content></utterance>
+<utterance uid="31-17"><speaker>ALEX CONRAD</speaker><content>Yeah, I have a pretty heavy prison scene in Seriously Dead and I want to get all the facts right.</content></utterance>
+<utterance uid="31-18"><speaker>CASTLE</speaker><content>Will you still send me your writer's draft?</content></utterance>
+<utterance uid="31-19"><speaker>ALEX CONRAD</speaker><content>Yes. As soon as I change the killer.</content></utterance>
+<utterance uid="31-20"><speaker>CASTLE</speaker><content>Girlfriend?</content></utterance>
+<utterance uid="31-21"><speaker>ALEX CONRAD</speaker><content>Rookie mistake.</content></utterance>
+<utterance uid="31-22"><speaker>BECKETT</speaker><content>It's nice to meet you, Alex.</content></utterance>
+<utterance uid="31-23"><speaker>ALEX CONRAD</speaker><content>You, too.</content></utterance>
+<utterance uid="31-24"><speaker>RYAN</speaker><content>Come on.</content></utterance>
+<utterance uid="31-25"><speaker>ESPOSITO</speaker><content>So...a dude can be a muse, right bro? I mean, it's not weird or anything. Is it?</content></utterance>
+<utterance uid="31-26"><speaker>CASTLE</speaker><content>No, it's not weird.</content></utterance>
+<utterance uid="31-27"><speaker>BECKETT</speaker><content>No. Mm-mm.</content></utterance>
+<utterance uid="31-28"><speaker>ESPOSITO</speaker><content>Nah. Yeah.</content></utterance>
+<utterance uid="31-29"><speaker>CASTLE</speaker><content>That's a little weird.</content></utterance>
+<utterance uid="31-30"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="31-31"><speaker>CASTLE</speaker><content>Thank you.</content></utterance>
+<utterance uid="31-32"><speaker>BECKETT</speaker><content>Always.</content></utterance>
+</scene>
+</script>

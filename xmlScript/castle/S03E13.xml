@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+
+<scene id="1"><utterance uid="1-1"><speaker>DETECTIVE KATE BECKETT</speaker><content>Beckett.</content></utterance>
+<utterance uid="1-2"><speaker>DETECTIVE JOHN RAGLAN</speaker><content>Detective Beckett?</content></utterance>
+<utterance uid="1-3"><speaker>BECKETT</speaker><content>Yeah?</content></utterance>
+<utterance uid="1-4"><speaker>RAGLAN</speaker><content>This is John Raglan. I was the lead investigator on your mother’s homicide twelve years ago.</content></utterance>
+<utterance uid="1-5"><speaker>BECKETT</speaker><content>I remember you, Detective Raglan.</content></utterance>
+<utterance uid="1-6"><speaker>RAGLAN</speaker><content>Listen, I... We need to talk about your mother’s case. There’s something you don’t know. There’s a coffee shop at Fourth and Main. Meet me there in an hour. Just you, no cops.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>RICHARD CASTLE</speaker><content>Beckett.</content></utterance>
+<utterance uid="2-2"><speaker>BECKETT</speaker><content>Hey.</content></utterance>
+<utterance uid="2-3"><speaker>CASTLE</speaker><content>Come on in.</content></utterance>
+<utterance uid="2-4"><speaker>BECKETT</speaker><content>Can we talk for a second?</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>BECKETT</speaker><content>That’s him.</content></utterance>
+<utterance uid="3-2"><speaker>RAGLAN</speaker><content>Lady, what part of "no cops" didn’t you understand?</content></utterance>
+<utterance uid="3-3"><speaker>BECKETT</speaker><content>He’s not a cop.</content></utterance>
+<utterance uid="3-4"><speaker>RAGLAN</speaker><content>Well who the hell is he then?</content></utterance>
+<utterance uid="3-5"><speaker>BECKETT</speaker><content>He’s someone I trust.</content></utterance>
+<utterance uid="3-6"><speaker>WAITRESS</speaker><content>More coffee?</content></utterance>
+<utterance uid="3-7"><speaker>RAGLAN</speaker><content>Thank you.</content></utterance>
+<utterance uid="3-8"><speaker>BECKETT</speaker><content>Tell me what I don’t know about my mom’s murder.</content></utterance>
+<utterance uid="3-9"><speaker>RAGLAN</speaker><content>Everybody drinks their coffee out of cardboard cups these day. Or those plastic travel mugs, but there’s something about the way ceramic warms your hands that…  It’s weird,  the things you notice. I just got the long face from the doc. Lymphoma. Six months.</content></utterance>
+<utterance uid="3-10"><speaker>BECKETT</speaker><content>Sorry to hear about that.</content></utterance>
+<utterance uid="3-11"><speaker>RAGLAN</speaker><content>Every year around the holidays they, they run that Christmas Carol on local TV. When I was a kid I remember that Jacob Marley scared the hell out of me. Forced to drag that, that chain around in the next world.</content></utterance>
+<utterance uid="3-12"><speaker>CASTLE</speaker><content>"I wear the chain I forged in life."</content></utterance>
+<utterance uid="3-13"><speaker>RAGLAN</speaker><content>"I made it link by link." I hid a lot of sins behind my badge, and now I gotta carry 'em. But your mother’s case, that one weighs a ton.</content></utterance>
+<utterance uid="3-14"><speaker>BECKETT</speaker><content>Why? Because you wrote it off as random gang violence when you knew it wasn’t?</content></utterance>
+<utterance uid="3-15"><speaker>RAGLAN</speaker><content>I did what I was told. And I kept quiet because I was afraid. About a year ago there was a hostage standoff at your precinct. You killed a hit man named Dick Coonan. It was a big deal in the papers. People noticed.</content></utterance>
+<utterance uid="3-16"><speaker>BECKETT</speaker><content>Who hired Coonan to kill my mom?</content></utterance>
+<utterance uid="3-17"><speaker>RAGLAN</speaker><content>You need some context here. This thing started about nineteen years ago, back before I even knew who Johanna Beckett was. Nineteen years ago I made a bad mistake. And that started the dominoes falling, and one of them was your mother.</content></utterance>
+<utterance uid="3-18"><speaker>BECKETT</speaker><content>Everybody on the ground, now. Back away from the window, away from the window.</content></utterance>
+<utterance uid="3-19"><speaker>CASTLE</speaker><content>You’re hit.</content></utterance>
+<utterance uid="3-20"><speaker>BECKETT</speaker><content>I’m fine, it’s not my blood.  One Lincoln Forty, I have shots fired on Fourth and Main. I need backup and an ambulance.</content></utterance>
+<utterance uid="3-21"><speaker>DISPATCH</speaker><content>One Lincoln Forty, repeat your last transmission, you’re broken  One Lincoln Forty, repeat.</content></utterance>
+<utterance uid="3-22"><speaker>BECKETT</speaker><content>Castle?</content></utterance>
+<utterance uid="3-23"><speaker>DISPATCH</speaker><content>Dispatch to One Lincoln Forty, repeat. Dispatch to One Lincoln Forty, One Lincoln Forty, are you there?</content></utterance>
+<utterance uid="3-24"><speaker>BECKETT</speaker><content>One Lincoln Forty, please be advised this is now a homicide.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>CAPTAIN ROY MONTGOMERY</speaker><content>Retired NYPD cop gunned down in front of one of my people, which means I’m gonna have to do a damn press conference. Tell me you didn’t come down here without backup?</content></utterance>
+<utterance uid="4-2"><speaker>BECKETT</speaker><content>Sir, I…</content></utterance>
+<utterance uid="4-3"><speaker>DETECTIVE KEVIN RYAN</speaker><content>We were backing her, Captain.</content></utterance>
+<utterance uid="4-4"><speaker>DETECTIVE JAVIER ESPOSITO</speaker><content>Yeah we were uh, just down the block when it happened.</content></utterance>
+<utterance uid="4-5"><speaker>MONTGOMERY</speaker><content>Yeah, uh huh. The hell am I gonna do with you?</content></utterance>
+<utterance uid="4-6"><speaker>BECKETT</speaker><content>You’re gonna let me work this case.</content></utterance>
+<utterance uid="4-7"><speaker>MONTGOMERY</speaker><content>You’re too close to it, it’s all over your face. You’re thinking, what was Raglan going to tell me before he died? When you should be thinking how you're gonna catch the guy that killed him.</content></utterance>
+<utterance uid="4-8"><speaker>BECKETT</speaker><content>Sir. Raglan was killed because he was going to tell me something about my mother’s case. Nobody knows it better than I do.</content></utterance>
+<utterance uid="4-9"><speaker>MONTGOMERY</speaker><content>Yeah, but I know you. You’re gonna want to pick up those scissors and run around the house with them. But I’m telling you now, walk, don’t run. Go where the evidence leads, not the other way round. Do you read me?</content></utterance>
+<utterance uid="4-10"><speaker>BECKETT</speaker><content>Yes, sir. Loud and clear.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>CRIME SCENE TECH</speaker><content>Found a bullet embedded in the booth. Three three eight Magnum, fairly exotic anti-personnel round.</content></utterance>
+<utterance uid="5-2"><speaker>BECKETT</speaker><content>Can you show me the trajectory?</content></utterance>
+<utterance uid="5-3"><speaker>CRIME SCENE TECH</speaker><content>Yeah. It’s right over here.</content></utterance>
+<utterance uid="5-4"><speaker>BECKETT</speaker><content>All right. I make the building across the street, fourth floor. Esposito?</content></utterance>
+<utterance uid="5-5"><speaker>ESPOSITO</speaker><content>Yeah I’ll lock it down. Somebody had to've seen something in there.</content></utterance>
+<utterance uid="5-6"><speaker>BECKETT</speaker><content>Ryan, I am betting that Raglan’s murderer followed him here, can you check with his neighbors? See if anyone was hanging around his place this morning?</content></utterance>
+<utterance uid="5-7"><speaker>RYAN</speaker><content>You got it.</content></utterance>
+<utterance uid="5-8"><speaker>BECKETT</speaker><content>Thanks.  Hey.</content></utterance>
+<utterance uid="5-9"><speaker>CASTLE</speaker><content>Hey.</content></utterance>
+<utterance uid="5-10"><speaker>BECKETT</speaker><content>You good?</content></utterance>
+<utterance uid="5-11"><speaker>CASTLE</speaker><content>Yeah. I think I got it all off my hands.</content></utterance>
+<utterance uid="5-12"><speaker>BECKETT</speaker><content>It’s different when it happens right in front of you. Close enough to watch the lights go out.</content></utterance>
+<utterance uid="5-13"><speaker>CASTLE</speaker><content>Yeah. When I saw the blood on your shirt I thought you’d been shot.</content></utterance>
+<utterance uid="5-14"><speaker>BECKETT</speaker><content>Um. I’m gonna go to the Twelfth. How ‘bout I drop you off, your place?</content></utterance>
+<utterance uid="5-15"><speaker>CASTLE</speaker><content>Not a chance.</content></utterance>
+<utterance uid="5-16"><speaker>BECKETT</speaker><content>OK.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>ESPOSITO</speaker><content>Yo. So I checked out the fourth floor. There’s no prints, no casings, no witnesses, but the good news is, it’s a secure building. The only way in or out is through the lobby. Nobody gets through the lobby turnstiles without a key card.</content></utterance>
+<utterance uid="6-2"><speaker>CASTLE</speaker><content>So our shooter had a card?</content></utterance>
+<utterance uid="6-3"><speaker>ESPOSITO</speaker><content>Yeah, they’re sending over list of all their employees. We’re also downloading surveillance video from the lobby.</content></utterance>
+<utterance uid="6-4"><speaker>RYAN</speaker><content>Hey. So I, ah, talked to the neighbors. Raglan was a widower, no next of kin that I could find. Super said he didn’t really have visitors. Except every once in a while his buddy would come over and watch a Yankee game. Gary McCallister, Raglan’s old academy classmate.</content></utterance>
+<utterance uid="6-5"><speaker>BECKETT</speaker><content>Get a hold of McCallister, see if he’ll come in. I wanna talk to him.</content></utterance>
+<utterance uid="6-6"><speaker>ESPOSITO</speaker><content>You got it.</content></utterance>
+<utterance uid="6-7"><speaker>BECKETT</speaker><content>Nineteen years ago.</content></utterance>
+<utterance uid="6-8"><speaker>CASTLE</speaker><content>What’s that?</content></utterance>
+<utterance uid="6-9"><speaker>BECKETT</speaker><content>Raglan started telling us something that happened nineteen years ago. My mom’s murder was twelve years ago, it’s not making any sense.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>BECKETT</speaker><content>When was the last time you saw John Raglan?</content></utterance>
+<utterance uid="7-2"><speaker>BECKETT</speaker><content>What else did he tell you?</content></utterance>
+<utterance uid="7-3"><speaker>BECKETT</speaker><content>Raglan was helping me with a, uh, cold case that I was working on. I believe he was killed to keep him quiet. Look, Raglan seemed to think the case had something to do with something he did nineteen years ago. What was he into back then?</content></utterance>
+<utterance uid="7-4"><speaker>BECKETT</speaker><content>I’m not trying to tarnish Raglan’s memory. I’m trying to find his murderer.</content></utterance>
+<utterance uid="7-5"><speaker>BECKETT</speaker><content>With who?</content></utterance>
+<utterance uid="7-6"><speaker>CASTLE</speaker><content>Vulcan Simmons?</content></utterance>
+<utterance uid="7-7"><speaker>BECKETT</speaker><content>He runs half the drug trade in New York.</content></utterance>
+<utterance uid="7-8"><speaker>CASTLE</speaker><content>And then he wasn’t?</content></utterance>
+<utterance uid="7-9"><speaker>BECKETT</speaker><content>Assault, attempted murder, extortion, possession with intent, witness intimidation. It looks like it just dries up. Nobody’s booked him in years.</content></utterance>
+<utterance uid="7-10"><speaker>CASTLE</speaker><content>So what does that mean, he found religion?</content></utterance>
+<utterance uid="7-11"><speaker>ESPOSITO</speaker><content>Means he got smart. Swimming in deeper waters.</content></utterance>
+<utterance uid="7-12"><speaker>RYAN</speaker><content>Guess he’s come a long way since Washington Heights.</content></utterance>
+<utterance uid="7-13"><speaker>BECKETT</speaker><content>Wait, what? You said Washington Heights?</content></utterance>
+<utterance uid="7-14"><speaker>RYAN</speaker><content>Back in the day Simmons used to run the drug trade in Washington Heights.</content></utterance>
+<utterance uid="7-15"><speaker>BECKETT</speaker><content>My mom and a group of her colleagues, they put together this campaign called 'Take Back the Neighborhood.' They were trying to get drug dealers off the streets in Washington Heights.</content></utterance>
+<utterance uid="7-16"><speaker>RYAN</speaker><content>With Simmons running all the dope in that neighborhood, that campaign would have cost him. That hit man Coonan, we know that he was into dope, maybe that’s how Simmons got in contact with him?</content></utterance>
+<utterance uid="7-17"><speaker>CASTLE</speaker><content>So Simmons hires Coonan to kill them all, including your mother, and pays his old friend Raglan to write off their homicides as random gang violence. There would have been no way to trace the murders back to him.</content></utterance>
+<utterance uid="7-18"><speaker>BECKETT</speaker><content>Until Raglan threatens to reveal his role in the conspiracy and Simmons has him silenced.</content></utterance>
+<utterance uid="7-19"><speaker>ESPOSITO</speaker><content>We’ll have him in the box before lunch.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>VULCAN SIMMONS</speaker><content>They’ve painted since I was last in here. You’d have been about sixteen, wrestling some pimply kid in the back of his daddy’s wagon. Wondering if you were going to give it to him or not.</content></utterance>
+<utterance uid="8-2"><speaker>CASTLE</speaker><content>Hey, that’s enough.</content></utterance>
+<utterance uid="8-3"><speaker>SIMMONS</speaker><content>He’s sweet on you, makes him brave.</content></utterance>
+<utterance uid="8-4"><speaker>BECKETT</speaker><content>What was your association with Detective John Raglan?</content></utterance>
+<utterance uid="8-5"><speaker>BECKETT</speaker><content>There is no statute of limitations on murder, Mr Simmons.</content></utterance>
+<utterance uid="8-6"><speaker>SIMMONS</speaker><content>And here begins what is known as the initial confrontation. During this phase of the interrogation, the interrogator may invade the suspect's personal space in order to increase his discomfort.  You want to invade my personal space?</content></utterance>
+<utterance uid="8-7"><speaker>BECKETT</speaker><content>Look at me. Twelve years ago Johanna Beckett led a big 'take back the neighborhood' campaign in Washington Heights.</content></utterance>
+<utterance uid="8-8"><speaker>CASTLE</speaker><content>And that must have pissed you off.</content></utterance>
+<utterance uid="8-9"><speaker>SIMMONS</speaker><content>And this would be theme development. Presenting the crime through the eyes of a suspect.</content></utterance>
+<utterance uid="8-10"><speaker>BECKETT</speaker><content>Johanna Beckett was murdered, along with two of her colleagues. They were professional hits carried out on your orders, and you had your pet homicide detective John Raglan bury them.  Look at her face. Tell me you don’t remember her.</content></utterance>
+<utterance uid="8-11"><speaker>SIMMONS</speaker><content>You know, Detective Beckett, I think I do remember her. Bled out in an alley like the trash she was.</content></utterance>
+<utterance uid="8-12"><speaker>BECKETT</speaker><content>Mr. Simmons, you better watch…</content></utterance>
+<utterance uid="8-13"><speaker>SIMMONS</speaker><content>Rich ***** from uptown on safari in the Heights. Somebody should have warned her not to feed or tease the animals.</content></utterance>
+<utterance uid="8-14"><speaker>BECKETT</speaker><content>You…</content></utterance>
+<utterance uid="8-15"><speaker>SIMMONS</speaker><content>If they had she might not have gotten eaten. From what I hear though, huh, she was pretty tasty.</content></utterance>
+<utterance uid="8-16"><speaker>CASTLE</speaker><content>Whoa - Beckett…</content></utterance>
+<utterance uid="8-17"><speaker>BECKETT</speaker><content>Back off, Castle. Remember your old life, Vulcan…</content></utterance>
+<utterance uid="8-18"><speaker>SIMMONS</speaker><content>Huh...</content></utterance>
+<utterance uid="8-19"><speaker>BECKETT</speaker><content>Savor it, because I am going to take it all away.</content></utterance>
+<utterance uid="8-20"><speaker>ESPOSITO</speaker><content>Stand down.</content></utterance>
+<utterance uid="8-21"><speaker>RYAN</speaker><content>Beckett, that’s enough.</content></utterance>
+<utterance uid="8-22"><speaker>ESPOSITO</speaker><content>Stand down.</content></utterance>
+<utterance uid="8-23"><speaker>SIMMONS</speaker><content> Oh you want some too? Come on.</content></utterance>
+<utterance uid="8-24"><speaker>ESPOSITO</speaker><content>That’s enough.</content></utterance>
+<utterance uid="8-25"><speaker>MONTGOMERY</speaker><content>I have to kick that son of a ***** loose now, you realise that.</content></utterance>
+<utterance uid="8-26"><speaker>BECKETT</speaker><content>Sir, you heard him, he as much as confessed to the murder.</content></utterance>
+<utterance uid="8-27"><speaker>MONTGOMERY</speaker><content>Come on, he was playing you. And you let him get under your skin, acting like a damn rookie. We’ve got nothing to tie him to Raglan’s murder or to your mother's. You’re off this case.</content></utterance>
+<utterance uid="8-28"><speaker>BECKETT</speaker><content>No sir, you can’t do that, not now.</content></utterance>
+<utterance uid="8-29"><speaker>MONTGOMERY</speaker><content>I just did.</content></utterance>
+<utterance uid="8-30"><speaker>BECKETT</speaker><content>No.</content></utterance>
+<utterance uid="8-31"><speaker>MONTGOMERY</speaker><content>I just did. Now you go home.</content></utterance>
+<utterance uid="8-32"><speaker>CASTLE</speaker><content>Beckett. Kate.</content></utterance>
+<utterance uid="8-33"><speaker>MONTGOMERY</speaker><content>You too, Castle, clear out.</content></utterance>
+<utterance uid="8-34"><speaker>CASTLE</speaker><content>What did I do?</content></utterance>
+<utterance uid="8-35"><speaker>MONTGOMERY</speaker><content>I don’t need you playing Nancy Drew on this.  As of this moment you two are running point on Raglan’s homicide.</content></utterance>
+<utterance uid="8-36"><speaker>ESPOSITO</speaker><content>Ah, Captain, my partner and I don’t wish to be insubordinate…</content></utterance>
+<utterance uid="8-37"><speaker>RYAN</speaker><content>We’ll respectfully decline the assignment.</content></utterance>
+<utterance uid="8-38"><speaker>MONTGOMERY</speaker><content>What does it say on my badge?</content></utterance>
+<utterance uid="8-39"><speaker>ESPOSITO</speaker><content>Captain.</content></utterance>
+<utterance uid="8-40"><speaker>MONTGOMERY</speaker><content>Now read the fine print. It says get your ass out there and solve Raglan’s murder before I bust you both back down to traffic.</content></utterance>
+<utterance uid="8-41"><speaker>RYAN</speaker><content>Yes, sir.</content></utterance>
+<utterance uid="8-42"><speaker>ESPOSITO</speaker><content>Yes, sir.</content></utterance>
+<utterance uid="8-43"><speaker>MONTGOMERY</speaker><content>You wanna help her? Find that shooter, solve the damn case.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>MARTHA RODGERS</speaker><content>What if it had been you?</content></utterance>
+<utterance uid="9-2"><speaker>CASTLE</speaker><content>I didn’t know you were home.</content></utterance>
+<utterance uid="9-3"><speaker>MARTHA</speaker><content>I heard about the shooting on the news. It could have been you, you know that, don’t you?</content></utterance>
+<utterance uid="9-4"><speaker>CASTLE</speaker><content>Yeah, but I’m fine, it wasn’t me.</content></utterance>
+<utterance uid="9-5"><speaker>MARTHA</speaker><content>Richard, this isn’t one of your books. You don’t know the ending, you were just lucky yesterday.</content></utterance>
+<utterance uid="9-6"><speaker>CASTLE</speaker><content>You’re overreacting, Mother. Where is this coming from?</content></utterance>
+<utterance uid="9-7"><speaker>MARTHA</speaker><content>How the hell can you ask me something like that? Think about how much you love Alexis, and that is how much I love you, and don’t you dare ask me where this is coming from. You have gotten through most of your life on your wit and charm and no small amount of talent, but that is the real world out there. And you can’t charm your way out of a bullet.</content></utterance>
+<utterance uid="9-8"><speaker>CASTLE</speaker><content>You think I should quit?</content></utterance>
+<utterance uid="9-9"><speaker>MARTHA</speaker><content>I think you should be honest with yourself about why you are doing this. You have written twenty-two novels before you met her and you didn’t need to spend every day at a police station in order to finish them.</content></utterance>
+<utterance uid="9-10"><speaker>CASTLE</speaker><content>It’s not about the books any more.</content></utterance>
+<utterance uid="9-11"><speaker>ESPOSITO</speaker><content>So you think Simmons hired the sniper?</content></utterance>
+<utterance uid="9-12"><speaker>RYAN</speaker><content>Find the sniper, we can ask him. I figured he’d have to disassemble his rifle, right? Break his weapon down to a less conspicuous shape in order to get it through the lobby, something fit inside of a briefcase.</content></utterance>
+<utterance uid="9-13"><speaker>ESPOSITO</speaker><content>Everyone in that lobby is carrying a damn briefcase.</content></utterance>
+<utterance uid="9-14"><speaker>RYAN</speaker><content>Huh, you should be a detective. We can’t come up empty on this one.</content></utterance>
+<utterance uid="9-15"><speaker>ESPOSITO</speaker><content>I know, bro.</content></utterance>
+<utterance uid="9-16"><speaker>RYAN</speaker><content>Oh, that wasn’t an accident.</content></utterance>
+<utterance uid="9-17"><speaker>ESPOSITO</speaker><content>He just lifted her key card. So much for the card telling us who the sniper was.</content></utterance>
+<utterance uid="9-18"><speaker>RYAN</speaker><content>Wait a minute… he’s not wearing gloves.</content></utterance>
+<utterance uid="9-19"><speaker>ESPOSITO</speaker><content>So what? He didn’t touch any printable surfaces.</content></utterance>
+<utterance uid="9-20"><speaker>RYAN</speaker><content>Yeah but he touched her. We can print a dead body, right? So why can’t we print a live one?</content></utterance>
+<utterance uid="9-21"><speaker>ESPOSITO</speaker><content>She’s probably showered by now.</content></utterance>
+<utterance uid="9-22"><speaker>RYAN</speaker><content>Not necessarily, it’s Saturday, it’s barely afternoon. Come on.</content></utterance>
+<utterance uid="9-23"><speaker>BECKETT</speaker><content>Hey, Castle.</content></utterance>
+<utterance uid="9-24"><speaker>CASTLE</speaker><content>Hey. Where’s Josh?</content></utterance>
+<utterance uid="9-25"><speaker>BECKETT</speaker><content>Oh, he’s in Africa, he’s saving the world.</content></utterance>
+<utterance uid="9-26"><speaker>CASTLE</speaker><content>Ahhh, I brought you some…I just thought, after everything that… you might want… here. </content></utterance>
+<utterance uid="9-27"><speaker>BECKETT</speaker><content>Thank you. That’s really sweet. You wanna come in?</content></utterance>
+<utterance uid="9-28"><speaker>CASTLE</speaker><content>Sure. Wow, nice. You know, I was thinking on the way over here. All the best cops, Dirty Harry, Cobra, guy from Police Academy who makes the helicopter noises. They all have one thing in common.</content></utterance>
+<utterance uid="9-29"><speaker>BECKETT</speaker><content>Plucky sidekick?</content></utterance>
+<utterance uid="9-30"><speaker>CASTLE</speaker><content>That and they do their very best work after they’ve been booted off a case.</content></utterance>
+<utterance uid="9-31"><speaker>BECKETT</speaker><content>Is that what you came all the way over here to tell me?</content></utterance>
+<utterance uid="9-32"><speaker>CASTLE</speaker><content>Montgomery booted us off the Raglan murder, but he didn’t say anything about your mother's case, did he? Here’s my plan… I sneak back into the station, wearing a hat. Montgomery always takes a coffee break fifteen minutes after the hour. I get your mother’s file, wearing soft shoes, the south entrance … what?</content></utterance>
+<utterance uid="9-33"><speaker>BECKETT</speaker><content>Come on Castle, I’ve gotta show you something.</content></utterance>
+<utterance uid="9-34"><speaker>CASTLE</speaker><content>You know sometimes I forget you live with this every day. Josh know about this?</content></utterance>
+<utterance uid="9-35"><speaker>BECKETT</speaker><content>No.</content></utterance>
+<utterance uid="9-36"><speaker>CASTLE</speaker><content>When did you start?</content></utterance>
+<utterance uid="9-37"><speaker>BECKETT</speaker><content>Over the summer, when you were in the Hamptons.</content></utterance>
+<utterance uid="9-38"><speaker>CASTLE</speaker><content>And how far have you gotten?</content></utterance>
+<utterance uid="9-39"><speaker>BECKETT</speaker><content>Well, aside from my mom, there was also Diane Cavanaugh, Jennifer Stewart. They volunteered for her from time to time for the justice initiative, and the fourth victim was Scott Murray. He was a document clerk at the court house. You know, Castle, up until today I’d always run this with the theory that they got killed because of a legal case they were working on. My mom requested a court file just before she was murdered. And that file went missing.</content></utterance>
+<utterance uid="9-40"><speaker>CASTLE</speaker><content>Well, your mom must have had personal papers? Appointment book? Something that could tell you what she was working on before she died.</content></utterance>
+<utterance uid="9-41"><speaker>BECKETT</speaker><content>I went through all of that nine years ago, there’s nothing.</content></utterance>
+<utterance uid="9-42"><speaker>CASTLE</speaker><content>Yeah, well, a lot's happened since then. Maybe you missed something?</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>RYAN</speaker><content>Unbelievable.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>TECH GUY</speaker><content>Looks like we got a lift.</content></utterance>
+<utterance uid="11-2"><speaker>ESPOSITO</speaker><content>Thank you.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>BECKETT</speaker><content>There’s nothing in her appointment book, not that I can make sense of anyway. She had her own system, my dad and I could never figure it out.</content></utterance>
+<utterance uid="12-2"><speaker>CASTLE</speaker><content> Ahhh, you were adorable. Did your mom take these?</content></utterance>
+<utterance uid="12-3"><speaker>BECKETT</speaker><content>Yeah, about three weeks before she died.</content></utterance>
+<utterance uid="12-4"><speaker>BECKETT</speaker><content>Trust me, Castle, it was not pretty.</content></utterance>
+<utterance uid="12-5"><speaker>CASTLE</speaker><content>Well, now I have to see it. Hmmmm.</content></utterance>
+<utterance uid="12-6"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="12-7"><speaker>CASTLE</speaker><content>Uh… there’s twenty-four exposures on this roll and there’s only twenty pictures.</content></utterance>
+<utterance uid="12-8"><speaker>BECKETT</speaker><content>What is it?</content></utterance>
+<utterance uid="12-9"><speaker>CASTLE</speaker><content>An empty street?</content></utterance>
+<utterance uid="12-10"><speaker>BECKETT</speaker><content>Castle, this is where my mom was murdered. I don’t understand, I mean these pictures were developed a week before she was killed.</content></utterance>
+<utterance uid="12-11"><speaker>CASTLE</speaker><content>Why would she be taking photos of that alley?</content></utterance>
+<utterance uid="12-12"><speaker>BECKETT</speaker><content>I dunno, I always just thought it was just a convenient place for the killer to attack. I mean it was dark, it was secluded…</content></utterance>
+<utterance uid="12-13"><speaker>CASTLE</speaker><content>What if there is more to it than that? What if she was looking into something that happened in that alley when they killed her?</content></utterance>
+<utterance uid="12-14"><speaker>BECKETT</speaker><content>Well, I’d have to go into the old archives and reports, and Captain Montgomery won’t let me back in the precinct right now.</content></utterance>
+<utterance uid="12-15"><speaker>CASTLE</speaker><content>I’ll go.</content></utterance>
+<utterance uid="12-16"><speaker>RYAN</speaker><content>Hal Lockwood. Male, white, thirty two. Record’s clean. According to this Lockwood’s never had as much as a traffic citation. Credit history only goes back about two years.</content></utterance>
+<utterance uid="12-17"><speaker>ESPOSITO</speaker><content>Gotta be a cover ID.</content></utterance>
+<utterance uid="12-18"><speaker>RYAN</speaker><content>Huh, his credit card's active. Shows Lockwood checked into a corporate suite in midtown right now.</content></utterance>
+<utterance uid="12-19"><speaker>RYAN</speaker><content>Clear. Looks like we just missed him.</content></utterance>
+<utterance uid="12-20"><speaker>ESPOSITO</speaker><content>Yo. Look at this. He’s been watching her.</content></utterance>
+<utterance uid="12-21"><speaker>MONTGOMERY</speaker><content>Ryan and Esposito traced your sniper to a corporate suite in midtown. He’s been on you since Raglan’s murder. This isn’t just a kook with a deer rifle and a copy of Catcher in the Rye. This guy’s a professional, highly trained and well funded, maybe part of a team.</content></utterance>
+<utterance uid="12-22"><speaker>BECKETT</speaker><content>Sir, we gotta let Castle know.</content></utterance>
+<utterance uid="12-23"><speaker>MONTGOMERY</speaker><content>He does. He’s back at the Twelfth; I caught him in the men’s room poking through some old reports. You want to tell me about that?</content></utterance>
+<utterance uid="12-24"><speaker>BECKETT</speaker><content>You really wanna know?</content></utterance>
+<utterance uid="12-25"><speaker>MONTGOMERY</speaker><content>Listen, I’m going to have to put a detail on you. But I need you to stay home.</content></utterance>
+<utterance uid="12-26"><speaker>BECKETT</speaker><content>This sniper is after me, the safest place in the city is the Twelfth. You gotta let me have this, Roy. Let me come back and work on my mom’s case.</content></utterance>
+<utterance uid="12-27"><speaker>MONTGOMERY</speaker><content>No. I’m sorry. Absolutely not.</content></utterance>
+<utterance uid="12-28"><speaker>RYAN</speaker><content>CSU analyzed the capsules we found in Lockwood’s suite. Found they contain a highly concentrated form of an anti-anxiety drug called Prozapam.</content></utterance>
+<utterance uid="12-29"><speaker>ESPOSITO</speaker><content>That fits. A good sniper fires between heartbeats. Magnum Special Forces, some of the guys would use anti-anxiety meds to slow down their heart rate, gives them more time to shoot.</content></utterance>
+<utterance uid="12-30"><speaker>RYAN</speaker><content>These didn’t come from any commercial lab. They were hand ground by someone on the street, someone very good with chemicals.</content></utterance>
+<utterance uid="12-31"><speaker>ESPOSITO</speaker><content>Someone like Vulcan Simmons.</content></utterance>
+<utterance uid="12-32"><speaker>RYAN</speaker><content>I thought the same thing, but check this out. Dealers sometimes use symbols like these to mark their product. These symbols don’t belong to Simmons, they’re the brand of a street pharmacist in SoHo named Chad Rodrick.</content></utterance>
+<utterance uid="12-33"><speaker>ESPOSITO</speaker><content>Chad Rodrick. You must be one lucky guy. You’ve been arrested for possession of pseudophedrine, possession of forged triplicate prescriptions, and the manufacture of a controlled substance. But never convicted.</content></utterance>
+<utterance uid="12-34"><speaker>CHAD RODRICK</speaker><content>Those are all misunderstandings. I’m just a college student... with my father's lawyer on speed dial.</content></utterance>
+<utterance uid="12-35"><speaker>RYAN</speaker><content>You know why you’re here?</content></utterance>
+<utterance uid="12-36"><speaker>CHAD</speaker><content>No, but I’m going to guess it has something to do with class resentment.  I bet it’s a special treat for you to interrogate above your station.</content></utterance>
+<utterance uid="12-37"><speaker>RYAN</speaker><content>You’re here because you sold these to him. But we're not dope cops, Chad, so these we don’t care about. Him, we want.</content></utterance>
+<utterance uid="12-38"><speaker>CHAD</speaker><content>I’m afraid I can’t help you. You guys can’t arrest me, you don’t have proof of anything.</content></utterance>
+<utterance uid="12-39"><speaker>RYAN</speaker><content>Oh, we’re not going to arrest you Chad, we’re just going to detain you for a while, in lockup.</content></utterance>
+<utterance uid="12-40"><speaker>ESPOSITO</speaker><content>Yeah, we’ve got a parolee in there. Sex offender. Six one, couple of bills and change. They call him 'Peppermint.' And he’d just love to meet a handsome young man of your station.</content></utterance>
+<utterance uid="12-41"><speaker>RYAN</speaker><content>We know you sold custom blend Prozapam which is a controlled substance, but we’re running a special today. All we want to know is where we can find him.</content></utterance>
+<utterance uid="12-42"><speaker>ESPOSITO</speaker><content>Or… you can go to lockup and meet your new friend.</content></utterance>
+<utterance uid="12-43"><speaker>CHAD</speaker><content>Listen. I sold those two weeks ago, but not to him. I’ve never seen this guy before in my life.</content></utterance>
+<utterance uid="12-44"><speaker>RYAN</speaker><content>Who brought the pills?</content></utterance>
+<utterance uid="12-45"><speaker>CHAD</speaker><content>Jolene. She’s one of my regulars.</content></utterance>
+<utterance uid="12-46"><speaker>RYAN</speaker><content>Tell me about her.</content></utterance>
+<utterance uid="12-47"><speaker>CHAD</speaker><content>Blonde, thirties, I think she lives somewhere in Brooklyn.</content></utterance>
+<utterance uid="12-48"><speaker>ESPOSITO</speaker><content>Last name.</content></utterance>
+<utterance uid="12-49"><speaker>CHAD</speaker><content>I don’t know. She just shows up when she wants something. I swear, I don’t even know how to get hold of her.</content></utterance>
+<utterance uid="12-50"><speaker>CASTLE</speaker><content>You talked to Montgomery?</content></utterance>
+<utterance uid="12-51"><speaker>BECKETT</speaker><content>Yeah. Castle, there’s something I need you to do.</content></utterance>
+<utterance uid="12-52"><speaker>CASTLE</speaker><content>Name it.</content></utterance>
+<utterance uid="12-53"><speaker>BECKETT</speaker><content>Go home.</content></utterance>
+<utterance uid="12-54"><speaker>CASTLE</speaker><content>Forget it. 'Fear does not exist in this dojo'.</content></utterance>
+<utterance uid="12-55"><speaker>BECKETT</speaker><content>Look, I signed up for this when I put that badge on, you didn’t. It’s not your fight.</content></utterance>
+<utterance uid="12-56"><speaker>CASTLE</speaker><content>The hell it isn’t. I don’t hang around you just to annoy you. I don’t ride up to murder scenes in the middle of the night to satisfy some morbid curiosity. If that’s all this was, then I would have quit a long time ago.</content></utterance>
+<utterance uid="12-57"><speaker>BECKETT</speaker><content>Then why do you keep coming back, Rick?</content></utterance>
+<utterance uid="12-58"><speaker>CASTLE</speaker><content>Look, I may not have a badge - unless you count the chocolate one Alexis gave me for my birthday - but I’ll tell you this. Like it or not, I’m your plucky sidekick.</content></utterance>
+<utterance uid="12-59"><speaker>BECKETT</speaker><content>Plucky sidekick always gets killed.</content></utterance>
+<utterance uid="12-60"><speaker>CASTLE</speaker><content>Partner, then.</content></utterance>
+<utterance uid="12-61"><speaker>BECKETT</speaker><content>OK. What’d you find?</content></utterance>
+<utterance uid="12-62"><speaker>CASTLE</speaker><content>You remember what Raglan said back at the coffee shop about this thing going back nineteen years?</content></utterance>
+<utterance uid="12-63"><speaker>BECKETT</speaker><content>Uh huh.</content></utterance>
+<utterance uid="12-64"><speaker>CASTLE</speaker><content>Turns out before your mother, there was another murder in this alley, back when it was the back entrance to a club called Sons of Palermo. It was an old Mafia hang out.</content></utterance>
+<utterance uid="12-65"><speaker>BECKETT</speaker><content>I didn’t know this was a club.</content></utterance>
+<utterance uid="12-66"><speaker>CASTLE</speaker><content>Well, it got shut down years before your mother was killed, after an FBI agent by the name of Bob Armund  was killed in the alley behind it.</content></utterance>
+<utterance uid="12-67"><speaker>BECKETT</speaker><content>It says Armund was working undercover in the Mafia.</content></utterance>
+<utterance uid="12-68"><speaker>CASTLE</speaker><content>Somehow the mob got onto Armund, used the old family remedy.</content></utterance>
+<utterance uid="12-69"><speaker>BECKETT</speaker><content>Summary execution.</content></utterance>
+<utterance uid="12-70"><speaker>CASTLE</speaker><content>NYPD arrested a mob enforcer for Armund’s murder, a guy by the name of Joe Pulgatti. He later pled guilty, and guess who the arresting officer was?</content></utterance>
+<utterance uid="12-71"><speaker>BECKETT</speaker><content>Officer John Raglan.</content></utterance>
+<utterance uid="12-72"><speaker>CASTLE</speaker><content>Your mother was a civil rights attorney, did she ever mention Armund’s murder or Pulgatti’s conviction?</content></utterance>
+<utterance uid="12-73"><speaker>BECKETT</speaker><content>Nope, but there’s got to be a connection somewhere.</content></utterance>
+<utterance uid="12-74"><speaker>CASTLE</speaker><content>I bet Pulgatti could shed some light on it.</content></utterance>
+<utterance uid="12-75"><speaker>JOE PULGATTI</speaker><content>I didn’t kill Bobby Armund.</content></utterance>
+<utterance uid="12-76"><speaker>CASTLE</speaker><content>Then why did you plead guilty?</content></utterance>
+<utterance uid="12-77"><speaker>PULGATTI</speaker><content>Cause I don’t like needles.</content></utterance>
+<utterance uid="12-78"><speaker>BECKETT</speaker><content>Detective Raglan places you in the alley at the time of the murder.</content></utterance>
+<utterance uid="12-79"><speaker>PULGATTI</speaker><content>Yeah, I was in that alley with Bobby. I was the only witness to his murder. But it wasn’t a hit. It was a kidnapping that went sideways. Three guys in ski masks rolled up in a van, said they wanted to take me on a tour of the city. Bobby tried to stop them, went for one of their guns, he wound up on the wrong end of it.</content></utterance>
+<utterance uid="12-80"><speaker>CASTLE</speaker><content>Were they guys from a rival family?</content></utterance>
+<utterance uid="12-81"><speaker>PULGATTI</speaker><content>No, no way. We had a truce going back then, because there was this ghost runner up there -- professional kidnappers targeting members of all five families. Look, I was in that alley with Bobby, but no-one else could have known that. It was a blind alley, and the only other people in it when Bobby was shot were the people who shot him. So you tell me detective, how could Raglan have known I was there?</content></utterance>
+<utterance uid="12-82"><speaker>CASTLE</speaker><content>You’re saying Raglan was one of the kidnappers?</content></utterance>
+<utterance uid="12-83"><speaker>BECKETT</speaker><content>There was a lawyer named Johanna Beckett, are you familiar with her? She was murdered in the alley about seven years into your incarceration.</content></utterance>
+<utterance uid="12-84"><speaker>PULGATTI</speaker><content>You look just like her, you know. When I first walked in here, it was like I was looking at a ghost. The way she talked about you, I should have known you’d become a cop. I sent letters to every lawyer I could find and your mother was the only one who wrote me back. The only one willing to take a chance on me. She didn’t care that I was a thug.</content></utterance>
+<utterance uid="12-85"><speaker>BECKETT</speaker><content>All she cared about was the truth.</content></utterance>
+<utterance uid="12-86"><speaker>PULGATTI</speaker><content>She came to visit me here, she said she’d look into my case. Later I found out she was murdered. Don’t get yourself killed chasing this thing. Take it from me, there’s nothing more dangerous out there than a killer with a badge.</content></utterance>
+<utterance uid="12-87"><speaker>MONTGOMERY</speaker><content>We’ll talk about the definition of a direct order later. Right now I just want to hear what you’ve found.</content></utterance>
+<utterance uid="12-88"><speaker>BECKETT</speaker><content>OK, so here’s what we know so far. Nineteen years ago Raglan and at least two other cops were kidnapping mobsters for ransom. Things went south when they tried to snatch Joe Pulgatti.</content></utterance>
+<utterance uid="12-89"><speaker>CASTLE</speaker><content>They mistakenly killed an undercover Fed named Bob Armund. To cover their asses they pinned Armund’s murder on Pulgatti.</content></utterance>
+<utterance uid="12-90"><speaker>BECKETT</speaker><content>And then, seven years later, my mom and a group of her colleagues tried to put together an appeal for Pulgatti. Now the cops knew that if the case got overturned they would all be exposed. So they hired Dick Coonan to kill all of them.</content></utterance>
+<utterance uid="12-91"><speaker>MONTGOMERY</speaker><content>And Raglan wrote off their homicides as random gang violence.</content></utterance>
+<utterance uid="12-92"><speaker>CASTLE</speaker><content>And that would have been the end of it, but Raglan found out he was dying, said he wanted to come clean. So they had to silence him too.</content></utterance>
+<utterance uid="12-93"><speaker>BECKETT</speaker><content>Pulgatti said that there were three kidnappers in that van, that means there’s at least two conspirators out there now.</content></utterance>
+<utterance uid="12-94"><speaker>RYAN</speaker><content>And we already know who one of them is, Raglan’s old academy buddy Gary McCallister.</content></utterance>
+<utterance uid="12-95"><speaker>MONTGOMERY</speaker><content>How do you know that?</content></utterance>
+<utterance uid="12-96"><speaker>ESPOSITO</speaker><content>I pulled the dispatchers' log from the archives. There was another unit backing Raglan when he arrested Pulgatti. A one man patrol unit, Officer Gary McCallister.</content></utterance>
+<utterance uid="12-97"><speaker>MONTGOMERY</speaker><content>Get that son of a *****.</content></utterance>
+<utterance uid="12-98"><speaker>BECKETT</speaker><content>Vulcan Simmons had nothing to do with this, but as a former cop you knew that he’d fit the part, and so you used him to throw us off when the truth is that you and Raglan were up to your necks in murder and kidnappings.</content></utterance>
+<utterance uid="12-99"><speaker>BECKETT</speaker><content>Then you did plenty.</content></utterance>
+<utterance uid="12-100"><speaker>CASTLE</speaker><content>Kidnapping, cover ups.</content></utterance>
+<utterance uid="12-101"><speaker>BECKETT</speaker><content>You killed a Fed and then you pinned it on Pulgatti.</content></utterance>
+<utterance uid="12-102"><speaker>CASTLE</speaker><content>Kidnapping people for ransom was right?</content></utterance>
+<utterance uid="12-103"><speaker>BECKETT</speaker><content>When my mom put together that appeal for Pulgatti, you got worried that she’d get onto you, so you hired Dick Coonan to kill her.</content></utterance>
+<utterance uid="12-104"><speaker>CASTLE</speaker><content>And then when Raglan grew a conscience you had him killed too.</content></utterance>
+<utterance uid="12-105"><speaker>BECKETT</speaker><content>Who?</content></utterance>
+<utterance uid="12-106"><speaker>BECKETT</speaker><content>Who?</content></utterance>
+<utterance uid="12-107"><speaker>BECKETT</speaker><content>He’s afraid of someone and it’s not a cop. We’ve got to find that shooter.</content></utterance>
+<utterance uid="12-108"><speaker>RYAN</speaker><content>I think we’ve got a lead on him.</content></utterance>
+<utterance uid="12-109"><speaker>ESPOSITO</speaker><content>According to Rodrick a woman named Jolene bought those capsules we found in Lockwood’s corporate suite.</content></utterance>
+<utterance uid="12-110"><speaker>CASTLE</speaker><content>Girlfriend?</content></utterance>
+<utterance uid="12-111"><speaker>RYAN</speaker><content>Probably, all we got is blonde, thirties, lives in Brooklyn. So we fed her descriptors in the DMV database and got it narrowed down to two women. Jolene Granger and Jolene Anders.</content></utterance>
+<utterance uid="12-112"><speaker>BECKETT</speaker><content>Hey, you guys take Jolene Anders, we’ll take Granger, you call me when you get her.</content></utterance>
+<utterance uid="12-113"><speaker>ESPOSITO</speaker><content>Roger that.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>BECKETT</speaker><content>Jolene Granger, NYPD. Jolene.</content></utterance>
+<utterance uid="13-2"><speaker>ESPOSITO</speaker><content>Esposito.</content></utterance>
+<utterance uid="13-3"><speaker>BECKETT</speaker><content>Jolene Granger is dead.</content></utterance>
+<utterance uid="13-4"><speaker>ESPOSITO</speaker><content>We’re on our way.</content></utterance>
+<utterance uid="13-5"><speaker>BECKETT</speaker><content>Esposito, Esposito.</content></utterance>
+<utterance uid="13-6"><speaker>BECKETT</speaker><content>So what have you got?</content></utterance>
+<utterance uid="13-7"><speaker>MONTGOMERY</speaker><content>What you heard was a flash bang. Lockwood must have grabbed them. Only thing we’ve recovered so far are the cell phones.</content></utterance>
+<utterance uid="13-8"><speaker>BECKETT</speaker><content>He dumped both of their phones so we can’t GPS track them.</content></utterance>
+<utterance uid="13-9"><speaker>CASTLE</speaker><content>We couldn’t find Jolene’s cell phone either. Lockwood must have gotten rid of it.</content></utterance>
+<utterance uid="13-10"><speaker>BECKETT</speaker><content>Because her phone was a link to him, she’d call him on it.</content></utterance>
+<utterance uid="13-11"><speaker>CASTLE</speaker><content>There’s got to be a cell phone bill around here somewhere.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>HAL LOCKWOOD</speaker><content>I wanna congratulate you both. I don’t know how you found my place, but I’ve been doing this kind of work for a while now, and no one's ever come that close to me. But my problem is that your investigation has gone further than I expected. And now in order for me to finish my job, I need to know exactly what you know about me and my employer. Now I’ve got a lot of respect for you guys, what you do. Now I’m gonna make you a deal. You tell me what I need to know, one pro to another, and I will put a bullet in your brain. You don’t and you jerk me around, and you will be begging me to before this night is up.</content></utterance>
+<utterance uid="14-2"><speaker>ESPOSITO</speaker><content>I’m gonna have to go with option B.</content></utterance>
+<utterance uid="14-3"><speaker>RYAN</speaker><content>Oh yeah, we’re definitely gonna jerk you around.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>CASTLE</speaker><content>What’s her account number?</content></utterance>
+<utterance uid="15-2"><speaker>BECKETT</speaker><content>Fifty eight ninety two, sixty three nine, eleven ninety nine.</content></utterance>
+<utterance uid="15-3"><speaker>CASTLE</speaker><content>All right, if we can figure out her mother’s maiden name they’ll email us the password.</content></utterance>
+<utterance uid="15-4"><speaker>BECKETT</speaker><content>I need everything you can get on Jolene Granger, specifically her mother’s maiden name.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>RYAN</speaker><content>Listen, assclown, I was in Catholic school for twelve years. Hell, they used to do this to me for talking in class.</content></utterance>
+<utterance uid="16-2"><speaker>ESPOSITO</speaker><content>You’re dead, Lockwood.</content></utterance>
+<utterance uid="16-3"><speaker>LOCKWOOD</speaker><content>Yeah, you know, they always start off with bravado. The begging comes later. See, this is ice cold water, it’ll burn like hell when it hits his lungs and he won’t lose consciousness right away, but all this stops when you tell me how much the cops know.</content></utterance>
+<utterance uid="16-4"><speaker>CASTLE</speaker><content>Lockwood would have been one of the last numbers she called.</content></utterance>
+<utterance uid="16-5"><speaker>BECKETT</speaker><content>Got it, ah. Nine one seven five five five oh one seven six, I need a GPS…</content></utterance>
+<utterance uid="16-6"><speaker>CASTLE</speaker><content>Castle, you’ve done it again.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>BECKETT</speaker><content>That guy's gonna spot a SWAT team from a block away, warn Lockwood. We call in the cavalry and they are both dead. I’m open to dumb ideas here.</content></utterance>
+<utterance uid="17-2"><speaker>CASTLE</speaker><content>Good, cause I got one.</content></utterance>
+<utterance uid="17-3"><speaker>BECKETT</speaker><content>He’s not buying it, Castle...</content></utterance>
+<utterance uid="17-4"><speaker>CASTLE</speaker><content>That was amazing…  The way you knocked him out, I mean… it was…</content></utterance>
+<utterance uid="17-5"><speaker>BECKETT</speaker><content>Let's go, yeah.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>ESPOSITO</speaker><content>OK.</content></utterance>
+<utterance uid="18-2"><speaker>RYAN</speaker><content>Don’t tell this jackhole anything.</content></utterance>
+<utterance uid="18-3"><speaker>ESPOSITO</speaker><content>I’m sorry, bro, I can’t watch this.  Listen to me, you’re too late. The cops already know all about ... me and your mom.</content></utterance>
+<utterance uid="18-4"><speaker>LOCKWOOD</speaker><content>Shoot out one of his kneecaps.</content></utterance>
+<utterance uid="18-5"><speaker>ESPOSITO</speaker><content>No. No.</content></utterance>
+<utterance uid="18-6"><speaker>BECKETT</speaker><content>You OK?</content></utterance>
+<utterance uid="18-7"><speaker>CASTLE</speaker><content>Huh? Never better.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>BECKETT</speaker><content>Hey there, Chuck Norris. How’s the hand?</content></utterance>
+<utterance uid="19-2"><speaker>CASTLE</speaker><content>Ah, excruciating.</content></utterance>
+<utterance uid="19-3"><speaker>BECKETT</speaker><content>Hmmmm.</content></utterance>
+<utterance uid="19-4"><speaker>CASTLE</speaker><content>How’s Ryan and Esposito?</content></utterance>
+<utterance uid="19-5"><speaker>BECKETT</speaker><content>Mmmm mild hypothermia, wounded pride. Guess which one will heal first?  Thank you, for having my back in there.</content></utterance>
+<utterance uid="19-6"><speaker>CASTLE</speaker><content>Always.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>BECKETT</speaker><content>We booked you as John Doe; you sure as hell aren’t Hal Lockwood. Who hired you? I put a lot of people in this place. Some of them want to kill me, others never been treated so fairly in their lives. So they form this attachment to me, it’s like I’m their favourite school teacher. Some of those people might visit you while you’re in here, like the ghosts that visit Scrooge. And after some time with them, you might find yourself a changed man. So I will be back here, week after week, to ask you who hired you til that miracle occurs.</content></utterance>
+</scene>
+</script>

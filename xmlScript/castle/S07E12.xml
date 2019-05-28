@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>ANAHITA MENEDEZ</speaker><content>Mrs. Barclay? It’s Anahita Menendez.</content></utterance>
+<utterance uid="1-2"><speaker>ANAHITA</speaker><content>Anahita from 4D. I lost my purse and my keys. Would you please buzz me up?</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>MARTHA RODGERS</speaker><content>Well, thank you, darling.</content></utterance>
+<utterance uid="2-2"><speaker>KATE BECKETT</speaker><content>Martha, what do you think of Rick’s PI venture?</content></utterance>
+<utterance uid="2-3"><speaker>MARTHA</speaker><content>Well, it’s always been a big fantasy of his to be a private investigator and he says that things are picking up, he’s getting more calls at the office every day.</content></utterance>
+<utterance uid="2-4"><speaker>BECKETT</speaker><content>Yeah, from fans wanting to meet him. Or people with crazy theories about where he disappeared to for two months. Or cases that aren’t even worth looking into, like missing cats.</content></utterance>
+<utterance uid="2-5"><speaker>MARTHA</speaker><content>Oh. Well, that does seem a bit beneath him.</content></utterance>
+<utterance uid="2-6"><speaker>BECKETT</speaker><content>You know, he did this because he was hoping that we would be able to work together again and he thought he might have some interesting cases to solve, but right now it doesn’t seem like he’s getting much of either.</content></utterance>
+<utterance uid="2-7"><speaker>MARTHA</speaker><content>Well, and if I know my son, then –  – he may be sticking with it because he’s too proud to walk away.</content></utterance>
+<utterance uid="2-8"><speaker>RICHARD CASTLE</speaker><content>Good morning!</content></utterance>
+<utterance uid="2-9"><speaker>MARTHA</speaker><content>Well, you’re in a good mood.</content></utterance>
+<utterance uid="2-10"><speaker>CASTLE</speaker><content>That’s because I have retooled the Richard Castle Investigations website.</content></utterance>
+<utterance uid="2-11"><speaker>MARTHA</speaker><content>A ha!</content></utterance>
+<utterance uid="2-12"><speaker>CASTLE</speaker><content>Now the entire world can have access to my savvy detective skills. Though I will take only the most compelling cases, rife with mystery and intrigue.</content></utterance>
+<utterance uid="2-13"><speaker>BECKETT</speaker><content>Castle, the site looks amazing.</content></utterance>
+<utterance uid="2-14"><speaker>CASTLE</speaker><content>My clients deserve only the best.</content></utterance>
+<utterance uid="2-15"><speaker>BECKETT</speaker><content>Oh, speaking of clients, it looks like I’ve got one. I better get going.</content></utterance>
+<utterance uid="2-16"><speaker>CASTLE</speaker><content>Me too. A private investigator must keep regular office hours.</content></utterance>
+<utterance uid="2-17"><speaker>BECKETT</speaker><content>You know, my murder’s in the Village, right near your office. You want to walk me to work?</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>BECKETT</speaker><content>So, busy day ahead?</content></utterance>
+<utterance uid="3-2"><speaker>CASTLE</speaker><content>While I admit the public clamor for Richard Castle Investigations has been somewhat muted, I do have a meeting with a client this morning.</content></utterance>
+<utterance uid="3-3"><speaker>BECKETT</speaker><content>Ah, a case rife with mystery and intrigue, I hope.</content></utterance>
+<utterance uid="3-4"><speaker>CASTLE</speaker><content>Not … exactly, though I will gain some classic gumshoe experience. The client wants me to do a background check on the daughter’s new boyfriend. The boyfriend is sixteen.</content></utterance>
+<utterance uid="3-5"><speaker>BECKETT</speaker><content>Look, Castle, you’ve got nothing to prove here. To me or to anyone else. Now, is this what you really want to do?</content></utterance>
+<utterance uid="3-6"><speaker>CASTLE</speaker><content>Well, I’m just starting out. I mean, I’ve got to become established, right? I’ve got to pay my dues. What do you – what do you think?</content></utterance>
+<utterance uid="3-7"><speaker>BECKETT</speaker><content>I think that if this is what you really want to do, then I’m behind you all the way.</content></utterance>
+<utterance uid="3-8"><speaker>CASTLE</speaker><content>Thanks. And once I do become established, much like my Nikki Heat novels were inspired by you, my new series of PI novels will be inspired by me. I’ll be my own muse.</content></utterance>
+<utterance uid="3-9"><speaker>BECKETT</speaker><content>You should have stopped at “thanks”.</content></utterance>
+<utterance uid="3-10"><speaker>CASTLE</speaker><content>Hum. Right.</content></utterance>
+<utterance uid="3-11"><speaker>CASTLE</speaker><content>Oh.  Old habits. Uh, have a good day at work, honey.</content></utterance>
+<utterance uid="3-12"><speaker>JAVIER ESPOSITO</speaker><content>Hey.</content></utterance>
+<utterance uid="3-13"><speaker>BECKETT</speaker><content>Hey.</content></utterance>
+<utterance uid="3-14"><speaker>ESPOSITO</speaker><content>Castle trying to crash the crime scene again?</content></utterance>
+<utterance uid="3-15"><speaker>BECKETT</speaker><content>No, actually. He’s got a case of his own. So, what’s the word on ours?</content></utterance>
+<utterance uid="3-16"><speaker>ESPOSITO</speaker><content>Oh. Sanitation worker found our victim hidden under some trash bags here. She’s Anahita Menendez.</content></utterance>
+<utterance uid="3-17"><speaker>BECKETT</speaker><content>Anahita? That’s an Arabic name.</content></utterance>
+<utterance uid="3-18"><speaker>ESPOSITO</speaker><content>Yeah, her mom’s Lebanese, but she’s Colombian.</content></utterance>
+<utterance uid="3-19"><speaker>BECKETT</speaker><content>And you know this how?</content></utterance>
+<utterance uid="3-20"><speaker>ESPOSITO</speaker><content>She’s a famous telenovela actress.</content></utterance>
+<utterance uid="3-21"><speaker>BECKETT</speaker><content>You watch telenovelas?</content></utterance>
+<utterance uid="3-22"><speaker>ESPOSITO</speaker><content>No … no. But my tía does. She’s a huge fan of Anahita’s show, Santos Desesperadas. Desperate Saints.</content></utterance>
+<utterance uid="3-23"><speaker>BECKETT</speaker><content>Ah.</content></utterance>
+<utterance uid="3-24"><speaker>ESPOSITO</speaker><content>She plays a brilliant young neurosurgeon. At least that’s what my tía says.</content></utterance>
+<utterance uid="3-25"><speaker>BECKETT</speaker><content>Hum. Hey Perlmutter. So, tell me about our victim.</content></utterance>
+<utterance uid="3-26"><speaker>SIDNEY PERLMUTTER</speaker><content>Detective Beckett. So pleasant to see you.</content></utterance>
+<utterance uid="3-27"><speaker>BECKETT</speaker><content>Thank you.</content></utterance>
+<utterance uid="3-28"><speaker>PERLMUTTER</speaker><content>And not see Castle.  Uh, signs of struggle, and then death came by way of a blow to the head, delivered with such savage force it cranial vault, killing her instantly.</content></utterance>
+<utterance uid="3-29"><speaker>ESPOSITO</speaker><content>This is the murder weapon.  It’s a length of plumber’s pipe. There’s a bunch of scrap pieces in that trash bin over there.</content></utterance>
+<utterance uid="3-30"><speaker>KEVIN RYAN</speaker><content>Hey. Our perp may have argued with her before he took that swing. Neighbors said that they overheard some loud voices coming from outside right around the time of death, a man and a woman’s.</content></utterance>
+<utterance uid="3-31"><speaker>BECKETT</speaker><content>So maybe this was spontaneous. A crime of passion committed by someone she knew.</content></utterance>
+<utterance uid="3-32"><speaker>RYAN</speaker><content>Or she might have been killed by a psychotic plumber lying in wait.</content></utterance>
+<utterance uid="3-33"><speaker>ESPOSITO</speaker><content>That your Castle theory?</content></utterance>
+<utterance uid="3-34"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+<utterance uid="3-35"><speaker>ESPOSITO</speaker><content>It needs work.</content></utterance>
+<utterance uid="3-36"><speaker>BECKETT</speaker><content>Look, you don’t go to the movies dressed like this, so let’s find out where she came from last night. Trouble might have followed her home.</content></utterance>
+<utterance uid="3-37"><speaker>ESPOSITO</speaker><content>I, uh … actually tracked down the studio where they film the telenovela. They may know.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>SOFIA DEL CORDOVA</speaker><content>She’s half your age! You are the mayor and my husband. This torrid affair will ruin us both. And what if she talks?</content></utterance>
+<utterance uid="4-2"><speaker>MANUEL VILLALOBOS</speaker><content>It was a moment of weakness. Please forgive me, my love. Besides, that girl won’t live to tell another soul. I’m making sure of it myself. Tonight … on the yacht!</content></utterance>
+<utterance uid="4-3"><speaker>SOFIA</speaker><content>Tonight? What if someone sees you?</content></utterance>
+<utterance uid="4-4"><speaker>MANUEL</speaker><content>Please, my love –</content></utterance>
+<utterance uid="4-5"><speaker>BECKETT</speaker><content>Hey, so I figured out who we have to talk to. His name is Francisco Herrara. He oversees the show for the network. He’s … right over … there.</content></utterance>
+<utterance uid="4-6"><speaker>ESPOSITO</speaker><content>Sofia Del Cordova. A legend. A megastar. Chiquitas, Fuego de la Pasión. Caminos De Amor.</content></utterance>
+<utterance uid="4-7"><speaker>BECKETT</speaker><content>Chiquitas?</content></utterance>
+<utterance uid="4-8"><speaker>ESPOSITO</speaker><content> Yeah. Her costar over there, Manuel Villalobos, he and Sofia used to be married. Now he just rides her coattails and uses his influence over her to get his role beefed up on the show.  At least, I mean, that’s what I’ve heard.</content></utterance>
+<utterance uid="4-9"><speaker>BECKETT</speaker><content>Are you sure it’s your tía who’s a fan?</content></utterance>
+<utterance uid="4-10"><speaker>ESPOSITO</speaker><content> Yeah.</content></utterance>
+<utterance uid="4-11"><speaker>BECKETT</speaker><content>Excuse me.  Beckett.</content></utterance>
+<utterance uid="4-12"><speaker>CASTLE</speaker><content>As a man of fortitude and character, I will resist the temptation to weasel in on your investigation, but I must confess I have major case envy.</content></utterance>
+<utterance uid="4-13"><speaker>BECKETT</speaker><content>So you heard about Anahita Menendez?</content></utterance>
+<utterance uid="4-14"><speaker>CASTLE</speaker><content>Yeah, I talked to a uniform at the scene. Is it true? Rising young telenovela star struck down at her apartment? Why do you get all the cases rife with mystery and intrigue?</content></utterance>
+<utterance uid="4-15"><speaker>BECKETT</speaker><content>Not to mention sultry tempestuous men and women and over the top acting.</content></utterance>
+<utterance uid="4-16"><speaker>ESPOSITO</speaker><content>Seems real to me.</content></utterance>
+<utterance uid="4-17"><speaker>CASTLE</speaker><content>See, now you’re just torturing me.</content></utterance>
+<utterance uid="4-18"><speaker>BECKETT</speaker><content>Oh, come on. Cheer up, Castle. You’ve got a client of your own.</content></utterance>
+<utterance uid="4-19"><speaker>CASTLE</speaker><content>Actually, the client just called. The daughter and boyfriend broke up, so no more background check. Who’s your prime suspect? Let me live vicariously.</content></utterance>
+<utterance uid="4-20"><speaker>BECKETT</speaker><content> You know what, Castle? I have to go. I have a witness that we have to talk to.</content></utterance>
+<utterance uid="4-21"><speaker>CASTLE</speaker><content>Yeah, I’ve got to go, too. I’ve got a call, uh, on the other line. Bye.</content></utterance>
+<utterance uid="4-22"><speaker>BECKETT</speaker><content>Come on.</content></utterance>
+<utterance uid="4-23"><speaker>ESPOSITO</speaker><content>Okay.</content></utterance>
+</scene>
+
+<scene id="5"><utterance uid="5-1"><speaker>FRANCISCO HERRARA</speaker><content>I’m devastated. Anahita was an amazing person and a gifted actor. Very convincing as a neurosurgeon.</content></utterance>
+<utterance uid="5-2"><speaker>BECKETT</speaker><content>Mr. Herrara, how well did you know her?</content></utterance>
+<utterance uid="5-3"><speaker>FRANCISCO</speaker><content>Very well. I discovered Ana three years ago in Colombia and we’ve been together ever since. She was a rising star. We just came off her promotional tour. Barcelona and Dubai and Miami. She already had fans all over the world.</content></utterance>
+<utterance uid="5-4"><speaker>ESPOSITO</speaker><content>We heard that she went out last night. Do you know where?</content></utterance>
+<utterance uid="5-5"><speaker>FRANCISCO</speaker><content>I’m afraid I don’t, but Sofia might know. They were close.</content></utterance>
+<utterance uid="5-6"><speaker>BECKETT</speaker><content>Did she have any relationship problems?</content></utterance>
+<utterance uid="5-7"><speaker>ESPOSITO</speaker><content>Issues with any over-zealous fans or … stalkers?</content></utterance>
+<utterance uid="5-8"><speaker>FRANCISCO</speaker><content>No, but there was a terrible incident with Marcus Segundo, her assistant.</content></utterance>
+<utterance uid="5-9"><speaker>BECKETT</speaker><content>What happened?</content></utterance>
+<utterance uid="5-10"><speaker>FRANCISCO</speaker><content>Ana got upset with Marcus for interrupting her when she was memorizing her lines. He lost it. He attacked her.</content></utterance>
+<utterance uid="5-11"><speaker>ESPOSITO</speaker><content>As in, he hit her?</content></utterance>
+<utterance uid="5-12"><speaker>FRANCISCO</speaker><content>He tried to. The crew intervened, but Ana wasn’t hurt. She was shaken up, as you can imagine. She needed a few days off to recover. Of course, I fired Marcus on the spot, but he was furious and he threatened to kill Ana if he ever saw her again.</content></utterance>
+<utterance uid="5-13"><speaker>ESPOSITO</speaker><content>All right, we need to talk to this guy. Where can we find him?</content></utterance>
+<utterance uid="5-14"><speaker>FRANCISCO</speaker><content>I have his contact information in my office. I can get it for you.</content></utterance>
+<utterance uid="5-15"><speaker>ESPOSITO</speaker><content>Okay.</content></utterance>
+<utterance uid="5-16"><speaker>MANUEL</speaker><content>It is truly a tragedy when death strikes one so young.</content></utterance>
+<utterance uid="5-17"><speaker>SOFIA</speaker><content>Manuel, that’s the same thing you said to the parents of the child who fell down the well in episode 347.</content></utterance>
+<utterance uid="5-18"><speaker>MANUEL</speaker><content>And it is as true now as it was then.</content></utterance>
+<utterance uid="5-19"><speaker>SOFIA</speaker><content>Go!  Go!</content></utterance>
+<utterance uid="5-20"><speaker>BECKETT</speaker><content>Ms. Del Cordova. I’m Detective Beckett.</content></utterance>
+<utterance uid="5-21"><speaker>SOFIA</speaker><content>It’s such terrible news. I just saw Ana last night.</content></utterance>
+<utterance uid="5-22"><speaker>BECKETT</speaker><content>Did she mention where she was headed?</content></utterance>
+<utterance uid="5-23"><speaker>SOFIA</speaker><content>To the Upper West Side. To the event of some kind.</content></utterance>
+<utterance uid="5-24"><speaker>BECKETT</speaker><content>She told you that?</content></utterance>
+<utterance uid="5-25"><speaker>SOFIA</speaker><content>No. I just assumed because she asked to borrow my purse. An Arthur Radcliffe diamond studded clutch. Was it found on her?</content></utterance>
+<utterance uid="5-26"><speaker>BECKETT</speaker><content>No.</content></utterance>
+<utterance uid="5-27"><speaker>SOFIA</speaker><content>Are you sure?</content></utterance>
+<utterance uid="5-28"><speaker>BECKETT</speaker><content>Yes. Ana buzzed her neighbor because she lost it. Why?</content></utterance>
+<utterance uid="5-29"><speaker>SOFIA</speaker><content>She lost it? That purse was on loan from a boutique. It’s due back tomorrow. If I don’t return it I will owe them a fortune.</content></utterance>
+<utterance uid="5-30"><speaker>BECKETT</speaker><content>Well, Ms. Del Cordova, I can’t help you. But um … if I come across it I’ll let you know.</content></utterance>
+<utterance uid="5-31"><speaker>BECKETT</speaker><content>Yeah.  Actually, about that purse.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>CASTLE</speaker><content>It was 11 in the morning. My phone was quieter than a dead church mouse. My head hurt after hitting the sauce like there was no tomorrow. For all I knew, there was no tomorrow.</content></utterance>
+<utterance uid="6-2"><speaker>CASTLE</speaker><content>I was about to pour a smile in my coffee, have a little hair of the dog that bit me when she walked in.</content></utterance>
+<utterance uid="6-3"><speaker>SOFIA</speaker><content>Señor Castle.</content></utterance>
+<utterance uid="6-4"><speaker>SOFIA</speaker><content>I’m looking for a private investigator.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>CASTLE</speaker><content>I was, um … just putting this away.</content></utterance>
+<utterance uid="7-2"><speaker>SOFIA</speaker><content>So, I haven’t met many private eyes.</content></utterance>
+<utterance uid="7-3"><speaker>CASTLE</speaker><content>I haven’t met many clients. Yet. So far. So far today. Um … would you have a seat, Ms. –</content></utterance>
+<utterance uid="7-4"><speaker>SOFIA</speaker><content>Del Cordova. Sofia Del Cordova.</content></utterance>
+<utterance uid="7-5"><speaker>CASTLE</speaker><content>Oh, as in Sofia Del Cordova who worked with the late Anahita Menendez?</content></utterance>
+<utterance uid="7-6"><speaker>SOFIA</speaker><content>Sadly, yes. That is why I’m here. Detective Beckett recommended you.</content></utterance>
+<utterance uid="7-7"><speaker>CASTLE</speaker><content>She did?</content></utterance>
+<utterance uid="7-8"><speaker>SOFIA</speaker><content>She said you’re the best.</content></utterance>
+<utterance uid="7-9"><speaker>CASTLE</speaker><content>Uh, she’s absolutely right. And completely unbiased. I knew she’d come around. Uh, why don’t we get right to business, shall we?  Uh, just as soon as I find a pencil.  Perfect timing. Okay, let’s start with Anahita Menendez. What can you tell me about her death?</content></utterance>
+<utterance uid="7-10"><speaker>SOFIA</speaker><content>Just that she borrowed my purse for the evening, she lost the purse and was killed outside her apartment.</content></utterance>
+<utterance uid="7-11"><speaker>CASTLE</speaker><content>And did Ana have any enemies that she knew of?</content></utterance>
+<utterance uid="7-12"><speaker>SOFIA</speaker><content>I’m sorry, but why are you asking me about Ana?</content></utterance>
+<utterance uid="7-13"><speaker>CASTLE</speaker><content>Because she’s the victim.</content></utterance>
+<utterance uid="7-14"><speaker>SOFIA</speaker><content>No, I’m the victim.</content></utterance>
+<utterance uid="7-15"><speaker>CASTLE</speaker><content>You mean emotionally speaking, because you lost your friend.</content></utterance>
+<utterance uid="7-16"><speaker>SOFIA</speaker><content>Because I lost my purse.</content></utterance>
+<utterance uid="7-17"><speaker>CASTLE</speaker><content>Your purse?</content></utterance>
+<utterance uid="7-18"><speaker>SOFIA</speaker><content>Detective Beckett is investigating Ana’s death but the purse is still missing. I need it found.</content></utterance>
+<utterance uid="7-19"><speaker>CASTLE</speaker><content> You want me to find your purse.</content></utterance>
+<utterance uid="7-20"><speaker>SOFIA</speaker><content>Not just any purse and not mine. It’s an Arthur Radcliffe original clutch, on loan to me and due back tomorrow by 5PM. It cost $500,000.  It looks just like this.</content></utterance>
+<utterance uid="7-21"><speaker>CASTLE</speaker><content>It’s worth half a million dollars?</content></utterance>
+<utterance uid="7-22"><speaker>SOFIA</speaker><content>Will you find it, Mr. Castle? I don’t know who else to turn to.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>RYAN</speaker><content>So the canvass turned up a witness who saw a man fleeing the scene after Ana was killed. Witness is a homeless guy. We’ve got him with a sketch artist right now.</content></utterance>
+<utterance uid="8-2"><speaker>BECKETT</speaker><content>And what does this fleeing man look like?</content></utterance>
+<utterance uid="8-3"><speaker>RYAN</speaker><content>Uh … youngish. Six feet, two hundred pounds.</content></utterance>
+<utterance uid="8-4"><speaker>BECKETT</speaker><content>Just like Marcus Segundo, the assistant who attacked Ana.</content></utterance>
+<utterance uid="8-5"><speaker>BECKETT</speaker><content>His Metro card shows that he rode in from the Bronx last night and he got off at a stop near Ana’s neighborhood. He also has priors for assault with intent.</content></utterance>
+<utterance uid="8-6"><speaker>RYAN</speaker><content>Why would Ana hire a guy like that to be her assistant?</content></utterance>
+<utterance uid="8-7"><speaker>BECKETT</speaker><content>You know, Francisco Herrera said that she had a rough upbringing as well and she wanted to give Marcus a chance. She trusted him.</content></utterance>
+<utterance uid="8-8"><speaker>RYAN</speaker><content>Looks like she shouldn’t have. Where is he now?</content></utterance>
+<utterance uid="8-9"><speaker>BECKETT</speaker><content>Espo’s bringing him in.</content></utterance>
+<utterance uid="8-10"><speaker>RYAN</speaker><content>I’ll let you take that.</content></utterance>
+<utterance uid="8-11"><speaker>BECKETT</speaker><content>Thanks.  Hello?</content></utterance>
+<utterance uid="8-12"><speaker>CASTLE</speaker><content>You referred a case to me.</content></utterance>
+<utterance uid="8-13"><speaker>BECKETT</speaker><content>Oh, so you took it?</content></utterance>
+<utterance uid="8-14"><speaker>CASTLE</speaker><content>Yeah, of course I did. That way we get to work together. Sort of.</content></utterance>
+<utterance uid="8-15"><speaker>BECKETT</speaker><content> Yeah, I just – I didn’t know if you’d be excited by a lost purse.</content></utterance>
+<utterance uid="8-16"><speaker>CASTLE</speaker><content>A purse? I’m sorry, this is not just an ordinary purse. This is a diamond encrusted clutch. It’s on par with the priceless Maltese Falcon and I am on the trail. Matter of fact, I’m about to pore over a list of events that Ana may have attended last night – unless of course you’re willing to tell me where she went, now that we’re on the same team.</content></utterance>
+<utterance uid="8-17"><speaker>BECKETT</speaker><content>Yeah, I wish I could help you.</content></utterance>
+<utterance uid="8-18"><speaker>CASTLE</speaker><content>I get it. Church and state.</content></utterance>
+<utterance uid="8-19"><speaker>BECKETT</speaker><content>That, and we don’t know where she went. So it looks like you’re going to have to do some actual police work. You know, hit the streets. Start canvassing.</content></utterance>
+<utterance uid="8-20"><speaker>CASTLE</speaker><content>Canvassing? Oh, that thing you get Espo and Ryan to do.</content></utterance>
+<utterance uid="8-21"><speaker>BECKETT</speaker><content>I suggest that you wear comfortable shoes.</content></utterance>
+<utterance uid="8-22"><speaker>BECKETT</speaker><content>Castle, I’ve gotta go.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>BECKETT</speaker><content>Marcus, why’d you take the train into the city last night?</content></utterance>
+<utterance uid="9-2"><speaker>MARCUS</speaker><content>To hit a bar in Chelsea. What’s this about?</content></utterance>
+<utterance uid="9-3"><speaker>BECKETT</speaker><content>Were you there all night?</content></utterance>
+<utterance uid="9-4"><speaker>MARCUS</speaker><content>No. Had a few beers and left around 11:30. Walked around a little.</content></utterance>
+<utterance uid="9-5"><speaker>BECKETT</speaker><content>Like to Ana’s apartment?</content></utterance>
+<utterance uid="9-6"><speaker>MARCUS</speaker><content>What’s Ana got to do with this?</content></utterance>
+<utterance uid="9-7"><speaker>BECKETT</speaker><content>She’s dead.</content></utterance>
+<utterance uid="9-8"><speaker>MARCUS</speaker><content>What? Ana’s dead?</content></utterance>
+<utterance uid="9-9"><speaker>BECKETT</speaker><content>Murdered by someone who impulsively hit her with a pipe. A witness saw a man matching your description leaving the crime scene.</content></utterance>
+<utterance uid="9-10"><speaker>MARCUS</speaker><content>Me? It wasn’t me. Are you crazy? I would never hurt Ana.</content></utterance>
+<utterance uid="9-11"><speaker>BECKETT</speaker><content>You attacked her on set in front of the entire crew.</content></utterance>
+<utterance uid="9-12"><speaker>MARCUS</speaker><content>Yeah, but that whole thing was staged.</content></utterance>
+<utterance uid="9-13"><speaker>BECKETT</speaker><content>That is hard to believe.</content></utterance>
+<utterance uid="9-14"><speaker>MARCUS</speaker><content>No, I’m telling you it’s true. Ana came to me. She said she needed me to start that fight with her. She paid me $3,000 because she knew it would cost me my job. But even she promised to give me a better one in a few weeks.</content></utterance>
+<utterance uid="9-15"><speaker>BECKETT</speaker><content>Why would she pay you to attack her?</content></utterance>
+<utterance uid="9-16"><speaker>MARCUS</speaker><content>She said she needed to get away for a couple of days. But the show wouldn’t give her any time off. So she had me cause that scene.</content></utterance>
+<utterance uid="9-17"><speaker>BECKETT</speaker><content> So she did all of that to skip out on work. Why?</content></utterance>
+<utterance uid="9-18"><speaker>MARCUS</speaker><content>I don’t know. She’d gotten really secretive lately. Taking meetings and not telling me what they were for. She was up to something. Maybe whatever it was got her killed.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>BECKETT</speaker><content>Marcus’s alibi checks out. Street cams caught him in SoHo at the time of the murder. He’s not our killer.</content></utterance>
+<utterance uid="10-2"><speaker>RYAN</speaker><content>No, that would be this guy.  Sketch came in from the homeless man. Definitely not Marcus Segundo.</content></utterance>
+<utterance uid="10-3"><speaker>BECKETT</speaker><content>You know, if we could figure out where Ana went to last night, that might tell us who this guy is.</content></utterance>
+<utterance uid="10-4"><speaker>RYAN</speaker><content>Her credit card says that she paid for a taxi. We’re still trying to run down where it took her, though.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>RONNIE</speaker><content>Uh, excuse me? Auditorium doesn’t open for another five hours, sir.</content></utterance>
+<utterance uid="11-2"><speaker>CASTLE</speaker><content>I’m not here for the opera, Ronnie.  Richard Castle, private investigator. I wonder if I could ask you a few questions.</content></utterance>
+<utterance uid="11-3"><speaker>RONNIE</speaker><content>Oh, wow. I thought you were a writer. What happened?</content></utterance>
+<utterance uid="11-4"><speaker>CASTLE</speaker><content>Nothing happened. I’m just expanding my brand, if that’s all right with you.  Look, did you see this woman last night?</content></utterance>
+<utterance uid="11-5"><speaker>RONNIE</speaker><content>Definitely. She was here for the premiere of Rigoletto.</content></utterance>
+<utterance uid="11-6"><speaker>CASTLE</speaker><content>You’re sure. This woman?</content></utterance>
+<utterance uid="11-7"><speaker>RONNIE</speaker><content>Yeah. Positive. I mean, come on. You really think I could forget her? She’s smoking hot. You know what the weird thing is, though? Is that she arrived way late. Like a few minutes before it ended late.</content></utterance>
+<utterance uid="11-8"><speaker>CASTLE</speaker><content>Did you notice if she was carrying this purse with her?</content></utterance>
+<utterance uid="11-9"><speaker>RONNIE</speaker><content>Uh, yeah. I remember that, too.</content></utterance>
+<utterance uid="11-10"><speaker>CASTLE</speaker><content>Could you direct me to where she was sitting? It could be where she left the purse.</content></utterance>
+<utterance uid="11-11"><speaker>RONNIE</speaker><content>Uh, she actually didn’t go to her seat. She went straight to the restroom.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>CASTLE</speaker><content>Hello? Private investigator investigating –</content></utterance>
+<utterance uid="12-2"><speaker>BECKETT</speaker><content>The ladies’ room, Castle? Did you not see the sign?</content></utterance>
+<utterance uid="12-3"><speaker>CASTLE</speaker><content>Seriously? You knew Ana came here and you wouldn’t share?</content></utterance>
+<utterance uid="12-4"><speaker>BECKETT</speaker><content>Yeah, I just found out. She got dropped off here by a cab. You?</content></utterance>
+<utterance uid="12-5"><speaker>CASTLE</speaker><content>Well, only six events held last night would require a gown and evening gloves and the opera was one.  Hi.</content></utterance>
+<utterance uid="12-6"><speaker>PAM</speaker><content>Hi.</content></utterance>
+<utterance uid="12-7"><speaker>BECKETT</speaker><content>Not bad. So, Pam here was just telling me she saw Ana last night and she witnessed something very strange.</content></utterance>
+<utterance uid="12-8"><speaker>CASTLE</speaker><content>Really?  What – what was the strange thing you witnessed?</content></utterance>
+<utterance uid="12-9"><speaker>PAM</speaker><content>Well, she came in, very pleasant. Said hi; not everyone does that. But then she went to the corner and met with this other young woman. Pretty, dark hair. She looked Middle Eastern, maybe. I saw her give Ana a flash drive stick.</content></utterance>
+<utterance uid="12-10"><speaker>BECKETT</speaker><content>You mean like a USB drive?</content></utterance>
+<utterance uid="12-11"><speaker>PAM</speaker><content>Exactly. They didn’t say a word to each other, and then Ana up and slipped that USB thing in her purse and snuck out like she didn’t want to be seen.</content></utterance>
+<utterance uid="12-12"><speaker>BECKETT</speaker><content>So the woman that gave Ana the USB drive, did you know her? Or do you know anything about her?</content></utterance>
+<utterance uid="12-13"><speaker>PAM</speaker><content>She looked familiar, so she may be a season ticket holder.</content></utterance>
+<utterance uid="12-14"><speaker>BECKETT</speaker><content>I need a list of those names. Is your manager in?</content></utterance>
+<utterance uid="12-15"><speaker>PAM</speaker><content>I’ll go find her for you.</content></utterance>
+<utterance uid="12-16"><speaker>CASTLE</speaker><content>A clandestine meeting at the opera house. A mysterious Middle Eastern woman passes a flash drive to the victim hours before her death. Perhaps our telenovela actress was actually a covert operative.</content></utterance>
+<utterance uid="12-17"><speaker>BECKETT</speaker><content>She may very well be, but I don’t know how that’s going to help you find her purse.</content></utterance>
+<utterance uid="12-18"><speaker>CASTLE</speaker><content>And yet find it I will!</content></utterance>
+<utterance uid="12-19"><speaker>WOMAN</speaker><content>Sir, can you please leave now?</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>CASTLE</speaker><content>Ronnie, do you happen to remember where that woman went after she left the restroom?</content></utterance>
+<utterance uid="13-2"><speaker>RONNIE</speaker><content>Yes, sir. The performance ended and she exited the building.</content></utterance>
+<utterance uid="13-3"><speaker>CASTLE</speaker><content>You saw her leave?</content></utterance>
+<utterance uid="13-4"><speaker>CASTLE</speaker><content>Ah.  Right.</content></utterance>
+<utterance uid="13-5"><speaker>RONNIE</speaker><content>See, I was our front helping patrons into their cars when I saw her head for a white limo.</content></utterance>
+<utterance uid="13-6"><speaker>CASTLE</speaker><content>She left in a limo? Did she have the purse with her?</content></utterance>
+<utterance uid="13-7"><speaker>RONNIE</speaker><content>Yep. You know, that smoking hot detective was really interested in the limo, too, and I told her all this earlier.</content></utterance>
+<utterance uid="13-8"><speaker>CASTLE</speaker><content>Why didn’t you tell me earlier?</content></utterance>
+<utterance uid="13-9"><speaker>RONNIE</speaker><content>You didn’t ask.</content></utterance>
+<utterance uid="13-10"><speaker>CASTLE</speaker><content>I –  – that’s a valid point. All right, I’m asking now. Please tell me everything you remember about that limo. I have a client who’s counting on this.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>SOFIA</speaker><content>I got your text, Mr. Castle. So? Ana was picked up by a white stretch limo when she left the opera? Where did she go then?</content></utterance>
+<utterance uid="14-2"><speaker>CASTLE</speaker><content>Well, that’s what I’m trying to find out. Does that limo sound familiar to you?</content></utterance>
+<utterance uid="14-3"><speaker>SOFIA</speaker><content>No. Ana usually ordered limos through the show and our service only has black town cars.</content></utterance>
+<utterance uid="14-4"><speaker>CASTLE</speaker><content>Okay, well, do you know anyone who would have ordered a limo for Ana or maybe given her one for the evening?</content></utterance>
+<utterance uid="14-5"><speaker>SOFIA</speaker><content>She was a celebrity. We get limos all the time. The limo could have come from anywhere. But this UBS drive. This concerns me.</content></utterance>
+<utterance uid="14-6"><speaker>CASTLE</speaker><content>Well, what was on it? What could Ana have been mixed up in?</content></utterance>
+<utterance uid="14-7"><speaker>SOFIA</speaker><content>I have no idea. But if the purse was taken because someone wanted this UBS, I will never get it back.</content></utterance>
+<utterance uid="14-8"><speaker>CASTLE</speaker><content>Except Ana buzzed her neighbor and specifically told her she left the purse, not that it was stolen. Now, my next step is to contact the taxi and limousine commission, locate that limo. Wherever it took Ana, that’s probably where she lost the purse.</content></utterance>
+<utterance uid="14-9"><speaker>SOFIA</speaker><content>So this limo is your only clue?</content></utterance>
+<utterance uid="14-10"><speaker>CASTLE</speaker><content>Of course not. No, I have my best operatives in the field, shaking the trees, generating leads. And uh – I just think that this limousine is very promising.</content></utterance>
+<utterance uid="14-11"><speaker>SOFIA</speaker><content>It doesn’t sound so promising to me, Mr. Castle. And we have less than a day ‘til the deadline. Call me with an update by this evening.</content></utterance>
+<utterance uid="14-12"><speaker>CASTLE</speaker><content>Right.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>RYAN</speaker><content>No progress on that limo or where Ana went after the opera, but we did ID the woman who gave her that flash drive.  Layla Nazif. Tracked her down from her box seats at the opera.</content></utterance>
+<utterance uid="15-2"><speaker>BECKETT</speaker><content>And who is she?</content></utterance>
+<utterance uid="15-3"><speaker>RYAN</speaker><content>She is the daughter of Abdul Nazif -  - billionaire and high ranking Saudi official. He’s in town on UN business.</content></utterance>
+<utterance uid="15-4"><speaker>BECKETT</speaker><content>So why was Ana involved with the daughter of a Saudi official?</content></utterance>
+<utterance uid="15-5"><speaker>ESPOSITO</speaker><content>That’s not the only person she was involved with. I did some digging and it turns out she went to the Tremaine Hotel for the same two days she took off work.</content></utterance>
+<utterance uid="15-6"><speaker>BECKETT</speaker><content>Uh huh.</content></utterance>
+<utterance uid="15-7"><speaker>ESPOSITO</speaker><content>Some of the staff saw her hanging out with this guy. Herman Eckles.</content></utterance>
+<utterance uid="15-8"><speaker>BECKETT</speaker><content>The real estate tycoon? What was she doing with him?</content></utterance>
+<utterance uid="15-9"><speaker>ESPOSITO</speaker><content>I called his office to find out. Got stonewalled. Eckles' people deny he even knew Ana.</content></utterance>
+<utterance uid="15-10"><speaker>RYAN</speaker><content>Huh. A secret rendezvous with a shadowy real estate magnate, a flash drive exchange with Layla Nazif, the daughter of a Saudi official.  Ana was half Lebanese. Perhaps this is some kind of espionage plot and Ana found her way –</content></utterance>
+<utterance uid="15-11"><speaker>ESPOSITO</speaker><content>Bro.</content></utterance>
+<utterance uid="15-12"><speaker>RYAN</speaker><content>- wrapped in a web of intrigue. And like the -</content></utterance>
+<utterance uid="15-13"><speaker>ESPOSITO</speaker><content>Bro. You’re doing it again.</content></utterance>
+<utterance uid="15-14"><speaker>BECKETT</speaker><content>Plus, Castle already pitched spies.</content></utterance>
+<utterance uid="15-15"><speaker>RYAN</speaker><content>Oh, well … great minds.  Oh, Perlmutter. He’s got something for us.</content></utterance>
+<utterance uid="15-16"><speaker>BECKETT</speaker><content>I’ll talk to Layla Nazif.</content></utterance>
+<utterance uid="15-17"><speaker>ESPOSITO</speaker><content>I’ll go see what Perlmutter has.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>PERLMUTTER</speaker><content>I’ll tell you what I have. A clue that may hold the key to who committed this murder.</content></utterance>
+<utterance uid="16-2"><speaker>RYAN</speaker><content>And that clue would be?</content></utterance>
+<utterance uid="16-3"><speaker>PERLMUTTER</speaker><content>You see, murders are not solved by positing outlandish, fanciful theories. Sad to say, a habit you seem to be acquiring, Detective Ryan. No, crimes are solved by applying the scientific method.</content></utterance>
+<utterance uid="16-4"><speaker>ESPOSITO</speaker><content>So are you going to show us what you found or are you just going to stand here and talk about it?</content></utterance>
+<utterance uid="16-5"><speaker>PERLMUTTER</speaker><content>There are bruises on the victim’s wrist as if the killer seized her.</content></utterance>
+<utterance uid="16-6"><speaker>ESPOSITO</speaker><content>Yeah, signs of a struggle. We already know that.</content></utterance>
+<utterance uid="16-7"><speaker>PERLMUTTER</speaker><content>Ah, but what you don’t know is that the killer left a print. After painstaking examination I recovered an intact print here.</content></utterance>
+<utterance uid="16-8"><speaker>ESPOSITO</speaker><content>Did you run it through the system?</content></utterance>
+<utterance uid="16-9"><speaker>PERLMUTTER</speaker><content> I leave that to lesser minds.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>BECKETT</speaker><content>Thank you for taking time, Ms. Nazif. I see you brought your lawyer.</content></utterance>
+<utterance uid="17-2"><speaker>LAYLA NAZIF</speaker><content>My father insisted.</content></utterance>
+<utterance uid="17-3"><speaker>BECKETT</speaker><content>So I need to ask you about Anahita Menendez.</content></utterance>
+<utterance uid="17-4"><speaker>LAYLA</speaker><content>Simply awful. I admired her so much.</content></utterance>
+<utterance uid="17-5"><speaker>BECKETT</speaker><content>What was your relationship?</content></utterance>
+<utterance uid="17-6"><speaker>LAYLA</speaker><content>We were acquaintances. You see, I adored telenovelas, much to the disapproval of my father. The passion and the drama … Ana had such talent. She and I met at social functions from time to time.</content></utterance>
+<utterance uid="17-7"><speaker>BECKETT</speaker><content>Like at the opera?</content></utterance>
+<utterance uid="17-8"><speaker>LAYLA</speaker><content>The opera.</content></utterance>
+<utterance uid="17-9"><speaker>BECKETT</speaker><content>Yeah. I gather that the two of you met at the opera last night.</content></utterance>
+<utterance uid="17-10"><speaker>LAYLA</speaker><content> I did no such thing.</content></utterance>
+<utterance uid="17-11"><speaker>BECKETT</speaker><content>But we have a witness that saw you –</content></utterance>
+<utterance uid="17-12"><speaker>LAYLA</speaker><content>That witness is mistaken.</content></utterance>
+<utterance uid="17-13"><speaker>BECKETT</speaker><content>You gave Ana a flash drive.</content></utterance>
+<utterance uid="17-14"><speaker>BECKETT</speaker><content>What was on it?</content></utterance>
+<utterance uid="17-15"><speaker>LAYLA</speaker><content>Your information is incorrect and I am not obliged to speak with you, Detective. I have diplomatic immunity. This meeting is over.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>ESPOSITO</speaker><content>So you think Layla is behind the killing?</content></utterance>
+<utterance uid="18-2"><speaker>BECKETT</speaker><content>I don’t know, but she’s clearly hiding something. Ryan, where are we on that print that Perlmutter found?</content></utterance>
+<utterance uid="18-3"><speaker>RYAN</speaker><content>We got an ID off the military database and it matches our sketch.  This is our killer.</content></utterance>
+<utterance uid="18-4"><speaker>BECKETT</speaker><content>Harlan Mathis?</content></utterance>
+<utterance uid="18-5"><speaker>RYAN</speaker><content>He’s out of Vegas, ex-Marine, worked in private security but now he’s freelance. And word is he’ll pretty much do anything if the price is right, including wet work.</content></utterance>
+<utterance uid="18-6"><speaker>ESPOSITO</speaker><content>Why send a hired gun like Mathis after a telenovela star?</content></utterance>
+<utterance uid="18-7"><speaker>BECKETT</speaker><content>Let’s find Mathis and ask him about Ana’s murder. Put out an APB and alert TSA and Homeland Security.</content></utterance>
+<utterance uid="18-8"><speaker>RYAN</speaker><content>If he’s still in town, a guy like this won’t be easy to find. But we’ll dig in, hopefully make some headway by the morning.</content></utterance>
+<utterance uid="18-9"><speaker>BECKETT</speaker><content>Got it.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>BECKETT</speaker><content>So, the lonely PI burning the midnight oil, huh?</content></utterance>
+<utterance uid="19-2"><speaker>CASTLE</speaker><content>Who knew finding a purse could be this exhausting?</content></utterance>
+<utterance uid="19-3"><speaker>BECKETT</speaker><content>So, did you figure out where the white limo took Ana?</content></utterance>
+<utterance uid="19-4"><speaker>CASTLE</speaker><content>I can’t even figure out whose limo it was. The taxi and limo commission has thousands of limos registered, but they’re not broken down by color so I’m working on plan B.</content></utterance>
+<utterance uid="19-5"><speaker>BECKETT</speaker><content>Okay, well … ready to get out of here?  Call it a night?</content></utterance>
+<utterance uid="19-6"><speaker>CASTLE</speaker><content>Oh. What’s your rush, doll? Why don’t you stick around awhile, give those stems of yours a rest?</content></utterance>
+<utterance uid="19-7"><speaker>BECKETT</speaker><content>Could I? I’m all alone and this is my first time in the big, scary city.</content></utterance>
+<utterance uid="19-8"><speaker>CASTLE</speaker><content>Spare me the tall tale, precious. A dame like you? You’ve got an angle.</content></utterance>
+<utterance uid="19-9"><speaker>BECKETT</speaker><content>You’re pretty quick for a gumshoe.</content></utterance>
+<utterance uid="19-10"><speaker>CASTLE</speaker><content>Come on. Spill the story. Time is money and I’ve got none of either.</content></utterance>
+<utterance uid="19-11"><speaker>BECKETT</speaker><content>All right, I’ll give it to you straight. I’m just a girl looking for a private d*ck.</content></utterance>
+<utterance uid="19-12"><speaker>CASTLE</speaker><content>Whoa!  Then your search is over, sweetheart.</content></utterance>
+<utterance uid="19-13"><speaker>CASTLE</speaker><content>This here … this is the double? Got it.</content></utterance>
+<utterance uid="19-14"><speaker>BECKETT</speaker><content>There you go.</content></utterance>
+<utterance uid="19-15"><speaker>SOFIA</speaker><content>Mr. Castle!</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>BECKETT</speaker><content>Ms. Del Cordova, I –</content></utterance>
+<utterance uid="20-2"><speaker>CASTLE</speaker><content>We were not expecting you.</content></utterance>
+<utterance uid="20-3"><speaker>SOFIA</speaker><content>Obviously. And you know what I was expecting? An update. From you.</content></utterance>
+<utterance uid="20-4"><speaker>CASTLE</speaker><content>I totally forgot. I was – I was busy working the case.</content></utterance>
+<utterance uid="20-5"><speaker>SOFIA</speaker><content> You said he was the best. Maybe your rating is not so objective.</content></utterance>
+<utterance uid="20-6"><speaker>BECKETT</speaker><content>You know what? I better be on my way. You two obviously have work to discuss.</content></utterance>
+<utterance uid="20-7"><speaker>SOFIA</speaker><content>Let me be plain, Mr. Castle. Have you found my purse?</content></utterance>
+<utterance uid="20-8"><speaker>CASTLE</speaker><content>Not yet, though –</content></utterance>
+<utterance uid="20-9"><speaker>SOFIA</speaker><content>And what about where the white limousine took Ana?</content></utterance>
+<utterance uid="20-10"><speaker>CASTLE</speaker><content>I am following every lead. It’s only a matter of time.</content></utterance>
+<utterance uid="20-11"><speaker>SOFIA</speaker><content>Which is one thing I do not have. You’re fired, Mr. Castle.</content></utterance>
+<utterance uid="20-12"><speaker>CASTLE</speaker><content>What? Fired? You can’t do that.</content></utterance>
+<utterance uid="20-13"><speaker>SOFIA</speaker><content>I just did.</content></utterance>
+<utterance uid="20-14"><speaker>CASTLE</speaker><content>Well, I don’t accept.</content></utterance>
+<utterance uid="20-15"><speaker>SOFIA</speaker><content>You do understand how firing works?</content></utterance>
+<utterance uid="20-16"><speaker>CASTLE</speaker><content>Fine. Effective immediately I’m hiring myself to solve this case.</content></utterance>
+<utterance uid="20-17"><speaker>SOFIA</speaker><content>You can’t do that.</content></utterance>
+<utterance uid="20-18"><speaker>CASTLE</speaker><content>I just did. I’m determined to see this through. And I’ve made it my mission to find your purse. Take a look at this.</content></utterance>
+<utterance uid="20-19"><speaker>CASTLE</speaker><content>Somewhere last night one of Anahita’s fans must have seen her in that limo. So I have been going over every post, every tweet, every comment, every photo of Ana that’s hit social media in the last 24 hours. I’ve set alerts on all of her fansites and I have a photo aggregator in case any new photos get posted.  As a matter of fact, that is the sound of a fresh batch of photos arriving.</content></utterance>
+<utterance uid="20-20"><speaker>SOFIA</speaker><content>Not so fresh. This one is from last week.</content></utterance>
+<utterance uid="20-21"><speaker>CASTLE</speaker><content>All right, well –  – there. That one’s from last night. That’s her leaving the opera with the purse.  There! There’s Ana leaving the limo. It looks like she’s in a hurry.</content></utterance>
+<utterance uid="20-22"><speaker>SOFIA</speaker><content>She doesn’t have my purse. Where’s – where’s the purse?</content></utterance>
+<utterance uid="20-23"><speaker>CASTLE</speaker><content>Okay, wait. The photo’s time stamped. 11:03. That’s five minutes after she left the opera.</content></utterance>
+<utterance uid="20-24"><speaker>SOFIA</speaker><content>So?</content></utterance>
+<utterance uid="20-25"><speaker>CASTLE</speaker><content>So the usher said when she went to the limo she had her purse with her. If she’s leaving the limo five minutes later without the purse?</content></utterance>
+<utterance uid="20-26"><speaker>SOFIA</speaker><content>Then she left it inside the limousine.</content></utterance>
+<utterance uid="20-27"><speaker>CASTLE</speaker><content>I find the limousine? I find your purse, Ms. Del Cordova.</content></utterance>
+<utterance uid="20-28"><speaker>SOFIA</speaker><content>But how, without the license plate?</content></utterance>
+<utterance uid="20-29"><speaker>CASTLE</speaker><content>With that.  That sticker has the VIN. The vehicle identification number. That’ll tell us exactly who this car is registered to. And I know just the person to trace that for me.</content></utterance>
+<utterance uid="20-30"><speaker>SOFIA</speaker><content> Mr. Castle, you are a genius.  You are hired.</content></utterance>
+</scene>
+
+<scene id="21"><utterance uid="21-1"><speaker>CASTLE</speaker><content> Are you awake?</content></utterance>
+<utterance uid="21-2"><speaker>BECKETT</speaker><content>Oh yeah.</content></utterance>
+<utterance uid="21-3"><speaker>CASTLE</speaker><content>Well, I admit Sofia barging in on us was a little awkward.</content></utterance>
+<utterance uid="21-4"><speaker>BECKETT</speaker><content>Mmhmm. Try mortifying.</content></utterance>
+<utterance uid="21-5"><speaker>CASTLE</speaker><content>Yeah. I was supposed to call her with an update. I had no idea she’d drop by to get it in person. And I’m – I’m so sorry.</content></utterance>
+<utterance uid="21-6"><speaker>BECKETT</speaker><content>It was actually kind of funny if you think about it.</content></utterance>
+<utterance uid="21-7"><speaker>CASTLE</speaker><content>Yeah. So I’m forgiven?</content></utterance>
+<utterance uid="21-8"><speaker>BECKETT</speaker><content>Hmm.</content></utterance>
+<utterance uid="21-9"><speaker>CASTLE</speaker><content>Forgiven enough to ask for a favor?</content></utterance>
+<utterance uid="21-10"><speaker>BECKETT</speaker><content>Hmm. Maybe. Depending on what you’re asking.</content></utterance>
+<utterance uid="21-11"><speaker>CASTLE</speaker><content> How would you like to trace a VIN number for me?</content></utterance>
+<utterance uid="21-12"><speaker>BECKETT</speaker><content>Oh my God. Castle!  You’re unbelievable.</content></utterance>
+<utterance uid="21-13"><speaker>CASTLE</speaker><content>So that’s a no?</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>RYAN</speaker><content>So we may have a location on our killer, Harlan Mathis.</content></utterance>
+<utterance uid="22-2"><speaker>BECKETT</speaker><content>How’d you pull that off?</content></utterance>
+<utterance uid="22-3"><speaker>ESPOSITO</speaker><content>Well, we knew he was out of town so we checked hotels, motels, and short-term housing.</content></utterance>
+<utterance uid="22-4"><speaker>RYAN</speaker><content>Building manager in Harlem recognized him from his photo. He checked in two weeks ago under the name James Heinman.</content></utterance>
+<utterance uid="22-5"><speaker>BECKETT</speaker><content>All right, let’s go.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>ESPOSITO</speaker><content>NYPD!</content></utterance>
+<utterance uid="23-2"><speaker>RYAN</speaker><content>Clear.</content></utterance>
+<utterance uid="23-3"><speaker>ESPOSITO</speaker><content>No sign of Mathis.</content></utterance>
+<utterance uid="23-4"><speaker>RYAN</speaker><content>Hey. I think I may have an idea who hired him. Check it out. Security credentials for the Saudi consulate.</content></utterance>
+<utterance uid="23-5"><speaker>BECKETT</speaker><content>Layla and her father are Saudi nationals. That can’t be a coincidence.</content></utterance>
+<utterance uid="23-6"><speaker>RYAN</speaker><content>No. Why would they hire Mathis to kill Ana?</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>CASTLE</speaker><content>Well, I bet this is exciting for you. Yeah, it’s not every day that the DMV gets to help the NYPD crack a homicide case.  Really? Every day? Okay, well, if you just run that VIN number through your database, tell me who the limo is registered to.  My name? It’s … Ryan. Uh huh. Detective Kevin Ryan. Badge number 42344.  Uh huh. And do you have an address for the Danbridge group?</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>CASTLE</speaker><content> Yes.</content></utterance>
+<utterance uid="25-2"><speaker>CASTLE</speaker><content>It’s not here. Which means either the driver found the purse or –</content></utterance>
+<utterance uid="25-3"><speaker>CASTLE</speaker><content> This isn’t my limo.</content></utterance>
+<utterance uid="25-4"><speaker>HARLAN MATHIS</speaker><content>Give me your phone.</content></utterance>
+<utterance uid="25-5"><speaker>MATHIS</speaker><content>You and I are going for a ride.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>MATHIS</speaker><content>What were you doing in the limo, Mr. Castle?</content></utterance>
+<utterance uid="26-2"><speaker>CASTLE</speaker><content>Uh, this is going to sound crazy, but I was looking for a purse.</content></utterance>
+<utterance uid="26-3"><speaker>MATHIS</speaker><content>A purse?</content></utterance>
+<utterance uid="26-4"><speaker>CASTLE</speaker><content>Yeah. And it wasn’t there. So why don’t I just apologize for breaking into your car, you let me go, and we’ll just call it even.</content></utterance>
+<utterance uid="26-5"><speaker>MATHIS</speaker><content>Whose purse is it?</content></utterance>
+<utterance uid="26-6"><speaker>CASTLE</speaker><content>Um …</content></utterance>
+<utterance uid="26-7"><speaker>MATHIS</speaker><content>Whose purse?</content></utterance>
+<utterance uid="26-8"><speaker>CASTLE</speaker><content>Anahita Menendez.</content></utterance>
+<utterance uid="26-9"><speaker>MATHIS</speaker><content>What do you know about her and me?</content></utterance>
+<utterance uid="26-10"><speaker>CASTLE</speaker><content>Nothing. Just that she left the limo without her purse.</content></utterance>
+<utterance uid="26-11"><speaker>MATHIS</speaker><content>You’re lying. She never had a purse when she got in. Who hired you? Who are you really investigating? Me?</content></utterance>
+<utterance uid="26-12"><speaker>CASTLE</speaker><content>What? Why would I investigate you?</content></utterance>
+<utterance uid="26-13"><speaker>MATHIS</speaker><content>The same reason the police are. Because Ana Menendez is dead.</content></utterance>
+<utterance uid="26-14"><speaker>CASTLE</speaker><content>Which you clearly had nothing to do with, so –  Whoa. Okay, see, now that’s – that’s not necessary.</content></utterance>
+<utterance uid="26-15"><speaker>MATHIS</speaker><content>I need to know what you know.</content></utterance>
+<utterance uid="26-16"><speaker>CASTLE</speaker><content>You do know everything I know. I know nothing.</content></utterance>
+<utterance uid="26-17"><speaker>MATHIS</speaker><content>Convince me.</content></utterance>
+<utterance uid="26-18"><speaker>RYAN</speaker><content>Harlan Mathis! NYPD!</content></utterance>
+<utterance uid="26-19"><speaker>ESPOSITO</speaker><content>Drop that knife! Now!</content></utterance>
+<utterance uid="26-20"><speaker>ESPOSITO</speaker><content>Turn around. Show me your hands.</content></utterance>
+<utterance uid="26-21"><speaker>ESPOSITO</speaker><content>Castle?</content></utterance>
+<utterance uid="26-22"><speaker>RYAN</speaker><content>What are you doing here?</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>CASTLE</speaker><content>I was only trying to find Ana’s purse. How was I supposed to know the limo she was in was being driven by the guy that killed her?</content></utterance>
+<utterance uid="27-2"><speaker>BECKETT</speaker><content>Castle, do you realize how lucky you are?</content></utterance>
+<utterance uid="27-3"><speaker>CASTLE</speaker><content> Extremely lucky? After all, I’m married to you.</content></utterance>
+<utterance uid="27-4"><speaker>BECKETT</speaker><content>Don’t even go there.</content></utterance>
+<utterance uid="27-5"><speaker>BECKETT</speaker><content>What if we didn’t connect Harlan Mathis to the Danbridge group? What if that limo didn’t have Lo-Jack? We would have no way of finding you.</content></utterance>
+<utterance uid="27-6"><speaker>CASTLE</speaker><content>You would if you had traced that VIN number for me.</content></utterance>
+<utterance uid="27-7"><speaker>BECKETT</speaker><content>That’s – not the lesson to take away here. Look, from now on I want you to tell me where you’re going and what you’re doing.</content></utterance>
+<utterance uid="27-8"><speaker>CASTLE</speaker><content>Oh, see, that’s not fair.</content></utterance>
+<utterance uid="27-9"><speaker>ESPOSITO</speaker><content>Neither is how we save your bacon and got nothing to show for it.</content></utterance>
+<utterance uid="27-10"><speaker>RYAN</speaker><content> I mean, what is a rescue from certain death worth these days?</content></utterance>
+<utterance uid="27-11"><speaker>ESPOSITO</speaker><content>Floor seats to a few Knicks games?</content></utterance>
+<utterance uid="27-12"><speaker>RYAN</speaker><content>At the very least.</content></utterance>
+<utterance uid="27-13"><speaker>CASTLE</speaker><content>Guys, rescued from certain death? Come on. I had him right where I wanted him.  Fine. Floor seats.</content></utterance>
+<utterance uid="27-14"><speaker>RYAN</speaker><content>So, we looked into the Danbridge group. It is a front, controlled by a company owned by Abdul Nazif.</content></utterance>
+<utterance uid="27-15"><speaker>CASTLE</speaker><content>The Saudi billionaire? He’s behind this? And Mathis works for him?</content></utterance>
+<utterance uid="27-16"><speaker>ESPOSITO</speaker><content>We figure that Mathis forced Ana into the limo at the opera, stole her purse with the USB in it.  Yes, Richard?</content></utterance>
+<utterance uid="27-17"><speaker>CASTLE</speaker><content>But Mathis said that she didn’t have the purse when she got into the car.  I think I know what happened. As Ana was leaving the opera house, she realized she was going to be abducted, so before she got into the limo she ditched the purse outside the opera house, where I will find it and solve my case!  See, I’m telling you where I’m going.</content></utterance>
+<utterance uid="27-18"><speaker>BECKETT</speaker><content>You know where I’m going? To get a confession out of Harlan Mathis.</content></utterance>
+<utterance uid="27-19"><speaker>RYAN</speaker><content>Whoa, whoa, whoa. Where’re you going, floor seats?</content></utterance>
+<utterance uid="27-20"><speaker>ESPOSITO</speaker><content>Make the call.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>MATHIS</speaker><content>I have nothing to say to you.</content></utterance>
+<utterance uid="28-2"><speaker>BECKETT</speaker><content>Then you don’t grasp the situation, Mr. Mathis. With all the charges you’re facing, plus Anahita Menendez, by the time you get out of prison you’re going to be a senior citizen. Now, you were hired to abduct her, weren’t you?  Is this supposed to be loyalty to your employer? Because they’ve got none towards you. I spoke to Abdul Nazif’s people and they claim to not know you. So you’re all alone here.</content></utterance>
+<utterance uid="28-3"><speaker>MATHIS</speaker><content>What are you offering?</content></utterance>
+<utterance uid="28-4"><speaker>BECKETT</speaker><content>Consideration from the DA, if you tell me what happened with Ana.</content></utterance>
+<utterance uid="28-5"><speaker>MATHIS</speaker><content>I was hired to secure Ms. Menendez.</content></utterance>
+<utterance uid="28-6"><speaker>BECKETT</speaker><content>What were your orders?</content></utterance>
+<utterance uid="28-7"><speaker>MATHIS</speaker><content>To pick her up at the opera and bring her to Mr. Nazif.</content></utterance>
+<utterance uid="28-8"><speaker>BECKETT</speaker><content>For what?</content></utterance>
+<utterance uid="28-9"><speaker>MATHIS</speaker><content>He wanted to speak with her. But she had refused to meet with him. I’m not clear on the specifics.</content></utterance>
+<utterance uid="28-10"><speaker>BECKETT</speaker><content>What about the USB?</content></utterance>
+<utterance uid="28-11"><speaker>MATHIS</speaker><content>I don’t know about any USB. When she left the opera I escorted her to the limo. A few stop lights later she jumped out. Ran off. And I lost her. I don’t know what happened to her after that.</content></utterance>
+<utterance uid="28-12"><speaker>BECKETT</speaker><content>I do. You caught up to her at her apartment and then you murdered her.</content></utterance>
+<utterance uid="28-13"><speaker>MATHIS</speaker><content> That’s not true.</content></utterance>
+<utterance uid="28-14"><speaker>BECKETT</speaker><content>A witness saw you fleeing the crime scene. Your print is on her neck.</content></utterance>
+<utterance uid="28-15"><speaker>MATHIS</speaker><content>I went to her apartment to look for her. But she was already dead. That print is me checking for a pulse.</content></utterance>
+<utterance uid="28-16"><speaker>BECKETT</speaker><content>You expect me to believe that someone else killed her? Who?</content></utterance>
+<utterance uid="28-17"><speaker>MATHIS</speaker><content>How should I know? But killing her was not my assignment.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>CASTLE</speaker><content>Okay, Ronnie, just so we are completely clear, you remember seeing Ana out here with the purse?</content></utterance>
+<utterance uid="29-2"><speaker>RONNIE</speaker><content>Yeah, that’s right. As the driver was escorting her into the white limo.</content></utterance>
+<utterance uid="29-3"><speaker>CASTLE</speaker><content>Okay. So it’s possible she handed it off to someone. Stashed it in a bag Enemy of the State style. Did you notice anyone near her?</content></utterance>
+<utterance uid="29-4"><speaker>RONNIE</speaker><content>Uh … just the limo driver.</content></utterance>
+<utterance uid="29-5"><speaker>CASTLE</speaker><content>All right, well, how far from the limo was she when you last saw her?</content></utterance>
+<utterance uid="29-6"><speaker>RONNIE</speaker><content>Uh, she was like, right there –  – just near the curb.</content></utterance>
+<utterance uid="29-7"><speaker>CASTLE</speaker><content>Perfect, thank you, Ronnie.</content></utterance>
+<utterance uid="29-8"><speaker>CASTLE</speaker><content>You are getting to be an expensive habit.</content></utterance>
+<utterance uid="29-9"><speaker>CASTLE</speaker><content>All right.</content></utterance>
+<utterance uid="29-10"><speaker>CASTLE</speaker><content>Eww.</content></utterance>
+<utterance uid="29-11"><speaker>CASTLE</speaker><content>Yes!  Ronnie! I might owe you a bigger tip.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>CASTLE</speaker><content>Oops.</content></utterance>
+<utterance uid="30-2"><speaker>SOFIA</speaker><content>Where I come from it’s rude to look through a lady’s purse.</content></utterance>
+<utterance uid="30-3"><speaker>CASTLE</speaker><content>Ms. Del Cordova. You got here fast.</content></utterance>
+<utterance uid="30-4"><speaker>SOFIA</speaker><content>I’m very anxious to get that clutch back, as you well know.</content></utterance>
+<utterance uid="30-5"><speaker>CASTLE</speaker><content>Even if it’s a knockoff?  These diamonds are fake. What’s really going on here?</content></utterance>
+<utterance uid="30-6"><speaker>SOFIA</speaker><content>I’m sure you’re mistaken. Please, give me the purse and its contents.</content></utterance>
+<utterance uid="30-7"><speaker>CASTLE</speaker><content>Well, I’m afraid I can’t do that. This USB drive is a part of the murder investigation.</content></utterance>
+<utterance uid="30-8"><speaker>SOFIA</speaker><content>I’m afraid I must insist, Mr. Castle.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>CASTLE</speaker><content>It’s not your purse, is it? It’s not even Arthur Radcliffe’s. It’s Ana’s. You were after the USB drive the whole time. Why? What’s on it?</content></utterance>
+<utterance uid="31-2"><speaker>SOFIA</speaker><content>That is not your concern.</content></utterance>
+<utterance uid="31-3"><speaker>CASTLE</speaker><content>You used me.</content></utterance>
+<utterance uid="31-4"><speaker>SOFIA</speaker><content>You are a private eye. Doesn’t that come with the job?</content></utterance>
+<utterance uid="31-5"><speaker>CASTLE</speaker><content>You even fired me, knowing I’d work that much harder just to find the damn thing.</content></utterance>
+<utterance uid="31-6"><speaker>SOFIA</speaker><content>I could see you were like me, Mr. Castle. You hate to lose. But lose you must. The UBS, please.</content></utterance>
+<utterance uid="31-7"><speaker>CASTLE</speaker><content>It’s USB. And where I come from it’s rude to point a gun at a man.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>ESPOSITO</speaker><content>Good lord, look at that. I mean, her going to prison? What a tragic waste. I just wish it would have been Harlan Mathis.</content></utterance>
+<utterance uid="32-2"><speaker>CASTLE</speaker><content>Why wasn’t it? What cleared him?</content></utterance>
+<utterance uid="32-3"><speaker>ESPOSITO</speaker><content>The Lo-Jack in his limo proves that he wasn’t at Ana’s when she was killed.</content></utterance>
+<utterance uid="32-4"><speaker>CASTLE</speaker><content>So you’re saying I solved my case, and your case, and I apprehended the killer. Hmm.</content></utterance>
+<utterance uid="32-5"><speaker>ESPOSITO</speaker><content>Yeah. You disarmed a hundred and ten pound woman. Must’ve been a tense moment.</content></utterance>
+<utterance uid="32-6"><speaker>CASTLE</speaker><content>You mock, but I’m telling you, my online PI self-defense course, much like your Special Forces training, had me in the zone. It was like everything was moving in slow motion.</content></utterance>
+<utterance uid="32-7"><speaker>ESPOSITO</speaker><content>You do realize it was a prop gun, right?</content></utterance>
+<utterance uid="32-8"><speaker>CASTLE</speaker><content>What?</content></utterance>
+<utterance uid="32-9"><speaker>ESPOSITO</speaker><content>Yeah. No bullets, plugged barrel. Harmless.</content></utterance>
+<utterance uid="32-10"><speaker>CASTLE</speaker><content>But since I didn’t know that at the time, my act of valor still stands.</content></utterance>
+<utterance uid="32-11"><speaker>RYAN</speaker><content>Hey. So uh, tech went over that USB drive. Turns out it’s a dongle.</content></utterance>
+<utterance uid="32-12"><speaker>CASTLE</speaker><content>Oh… what’s a dongle?</content></utterance>
+<utterance uid="32-13"><speaker>ESPOSITO</speaker><content>Oh … what’s a dongle?</content></utterance>
+<utterance uid="32-14"><speaker>RYAN</speaker><content>It’s basically an encrypted security key.</content></utterance>
+<utterance uid="32-15"><speaker>ESPOSITO</speaker><content>That unlocks what?</content></utterance>
+<utterance uid="32-16"><speaker>RYAN</speaker><content>When tech plugged it in it routed them to an anonymous numbered bank account in Switzerland with a balance of one hundred million.</content></utterance>
+<utterance uid="32-17"><speaker>ESPOSITO</speaker><content>A hundred million bucks?</content></utterance>
+<utterance uid="32-18"><speaker>CASTLE</speaker><content>I should’ve charged way more to find that purse.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>BECKETT</speaker><content>Ms. Del Cordova, where were you at 12:09 the night that Ana was killed?</content></utterance>
+<utterance uid="33-2"><speaker>SOFIA</speaker><content>At home, in bed.</content></utterance>
+<utterance uid="33-3"><speaker>BECKETT</speaker><content>And can anyone corroborate that?</content></utterance>
+<utterance uid="33-4"><speaker>SOFIA</speaker><content>No.</content></utterance>
+<utterance uid="33-5"><speaker>BECKETT</speaker><content>So tell me: why was Ana in possession of a security key to a Swiss bank account containing one hundred million dollars?</content></utterance>
+<utterance uid="33-6"><speaker>SOFIA</speaker><content> I’m not at liberty to say.</content></utterance>
+<utterance uid="33-7"><speaker>BECKETT</speaker><content>Okay, well, here’s my theory. Ana was involved in some kind of a business deal with Layla Nazif. Something secret, illegal, or both. Now, you either knew about the deal or you were involved in it, too. Feel free to jump in and correct me at any point. You went to Ana’s place to collect the money. She didn’t have the security key, so you killed her. And then you hired Castle to find it.</content></utterance>
+<utterance uid="33-8"><speaker>SOFIA</speaker><content>Ana and I were business partners, but I did not kill her. She was my friend.</content></utterance>
+<utterance uid="33-9"><speaker>BECKETT</speaker><content>What kind of business, Sofia? Your future’s on the line, here.</content></utterance>
+<utterance uid="33-10"><speaker>SOFIA</speaker><content>Ana wanted to create the first Latin American, female driven television network. It was her dream.</content></utterance>
+<utterance uid="33-11"><speaker>BECKETT</speaker><content>A television network?</content></utterance>
+<utterance uid="33-12"><speaker>SOFIA</speaker><content>She came to me because she needed someone with star power who knew the business. But we had to keep everything secret. If anyone had found out we were trying to leave Santos Desesperadas and the very network that created us, it would endanger the deal. But the pieces were almost in place. Ana had found an investor that she met with, a real estate man, to buy sound stages.</content></utterance>
+<utterance uid="33-13"><speaker>BECKETT</speaker><content>And I take it that was Herman Eckles, and the investor was … Layla Nazif.</content></utterance>
+<utterance uid="33-14"><speaker>SOFIA</speaker><content>But Layla’s father tried to stop her from investing. He didn’t want his name associated with a woman’s TV network. So she went behind his back and gave Ana the USB. Next thing I know, Ana was dead.</content></utterance>
+<utterance uid="33-15"><speaker>BECKETT</speaker><content>If what you’re saying is true, then why did you threaten Castle at gunpoint?</content></utterance>
+<utterance uid="33-16"><speaker>SOFIA</speaker><content>Because the money has to be in the escrow account by 5PM today or the deal is off. Time is running out.</content></utterance>
+<utterance uid="33-17"><speaker>BECKETT</speaker><content>Who else knew about Ana’s meeting at the opera house?</content></utterance>
+<utterance uid="33-18"><speaker>SOFIA</speaker><content>No one. She didn’t even tell me where she was going. She just said she was meeting Layla on the Upper West Side.</content></utterance>
+<utterance uid="33-19"><speaker>BECKETT</speaker><content>And where did you and Ana have this conversation?</content></utterance>
+<utterance uid="33-20"><speaker>SOFIA</speaker><content>In my trailer, where it is private. No one else was around.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>RYAN</speaker><content>Hey Beckett, anything?</content></utterance>
+<utterance uid="34-2"><speaker>BECKETT</speaker><content>Yeah, it looks like part of Sofia’s story holds up. She was at home the night of the murder.</content></utterance>
+<utterance uid="34-3"><speaker>RYAN</speaker><content>Someone saw her?</content></utterance>
+<utterance uid="34-4"><speaker>BECKETT</speaker><content>The doorman. He said she came in at 9:30 and she didn’t leave her apartment the whole night.</content></utterance>
+<utterance uid="34-5"><speaker>ESPOSITO</speaker><content>Yo. So we searched Sofia’s trailer on set? You’ll never guess what we found.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>GABRIELA</speaker><content>Enough with your lies! I know why you brought me onto this yacht!</content></utterance>
+<utterance uid="35-2"><speaker>FRANCISCO</speaker><content>Detectives. What can I do for you?</content></utterance>
+<utterance uid="35-3"><speaker>ESPOSITO</speaker><content>Well, you can explain this.</content></utterance>
+<utterance uid="35-4"><speaker>FRANCISCO</speaker><content>It’s a microphone like the ones we use to record the actors.</content></utterance>
+<utterance uid="35-5"><speaker>BECKETT</speaker><content>Except the actors involved didn’t know that they were being recorded. That was hidden in Sofia’s trailer.</content></utterance>
+<utterance uid="35-6"><speaker>FRANCISCO</speaker><content>Reprehensible. It’s probably the tabloids again. Believe me, I will find the person who did this.</content></utterance>
+<utterance uid="35-7"><speaker>ESPOSITO</speaker><content>Well, you won’t have to look too far. Your soundman caved. He admitted that you borrowed it from him last week.</content></utterance>
+<utterance uid="35-8"><speaker>BECKETT</speaker><content>You probably suspected what Ana and Sofia were up to, and you knew that they talked in Sofia’s trailer, so you bugged it.</content></utterance>
+<utterance uid="35-9"><speaker>ESPOSITO</speaker><content>That’s how you knew Ana was planning on leaving. And taking your biggest star with her.</content></utterance>
+<utterance uid="35-10"><speaker>FRANCISCO</speaker><content>I know nothing of this. These are outrageous accusations.</content></utterance>
+<utterance uid="35-11"><speaker>ESPOSITO</speaker><content>Those two women are the reason audiences watch. You knew that. If you let Ana go forward with her plan, where would that leave the network? Where would that leave you?</content></utterance>
+<utterance uid="35-12"><speaker>BECKETT</speaker><content>Mr. Herrera, we circulated your photo. You were seen at the coffee shop down the street from Ana’s apartment.</content></utterance>
+<utterance uid="35-13"><speaker>ESPOSITO</speaker><content>You waited for her to come home and then when she did, you snapped. Didn’t you?</content></utterance>
+<utterance uid="35-14"><speaker>FRANCISCO</speaker><content>I made Ana. Before me she was nobody, and she was going to ruin everything here. I begged her not to do it. But she refused to see reason. I never meant to kill her.</content></utterance>
+<utterance uid="35-15"><speaker>BECKETT</speaker><content>Francisco Herrera, you’re under arrest for the murder of Anahita Menendez.</content></utterance>
+</scene>
+
+<scene id="36"><utterance uid="36-1"><speaker>SOFIA</speaker><content>It’s terrible what Francisco did. But Ana’s legacy will live on. We deposited the money in escrow twenty minutes before the deadline!</content></utterance>
+<utterance uid="36-2"><speaker>BECKETT</speaker><content>So you’ll still be able to launch the network.</content></utterance>
+<utterance uid="36-3"><speaker>SOFIA</speaker><content>Yes, the deal is complete. Layla and I agreed to co-run the company in Ana’s name. I’m sorry I deceived you, Mr. Castle.</content></utterance>
+<utterance uid="36-4"><speaker>CASTLE</speaker><content>It comes with the job.</content></utterance>
+<utterance uid="36-5"><speaker>SOFIA</speaker><content>And pulled a gun on you.</content></utterance>
+<utterance uid="36-6"><speaker>CASTLE</speaker><content>Which also comes with the job.</content></utterance>
+<utterance uid="36-7"><speaker>ESPOSITO</speaker><content>Excuse me, uh – I’m sorry. Ms. Del Cordova? I’m – I’m sorry to bother, but do you think you could sign this for my tía before you leave?</content></utterance>
+<utterance uid="36-8"><speaker>SOFIA</speaker><content>Absolutely.</content></utterance>
+<utterance uid="36-9"><speaker>ESPOSITO</speaker><content>Thank you.</content></utterance>
+<utterance uid="36-10"><speaker>SOFIA</speaker><content>What is her name?</content></utterance>
+<utterance uid="36-11"><speaker>ESPOSITO</speaker><content>Javier. Okay, it’s – it’s for me. I’ve just been such a big fan of yours for so long. You’re just so great in Santos Desesperadas.  … and in “The Fire of Passion”. And in “Paths of Love” . And my favorite, “Chiquitas”. You were so very, very sexy.</content></utterance>
+<utterance uid="36-12"><speaker>BECKETT</speaker><content>Uh, you know what? Castle? We should probably get out of here before Gates sees you.</content></utterance>
+<utterance uid="36-13"><speaker>CASTLE</speaker><content>Right. Can I walk you home?</content></utterance>
+<utterance uid="36-14"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="36-15"><speaker>CASTLE</speaker><content>Who knew a missing purse would turn into a case rife with mystery and intrigue? Thanks.</content></utterance>
+<utterance uid="36-16"><speaker>BECKETT</speaker><content>Oh, all I did was refer a case. You’re the one who solved it. So, how does it feel to have your first satisfied customer?</content></utterance>
+<utterance uid="36-17"><speaker>CASTLE</speaker><content>Like I want to satisfy another one.</content></utterance>
+<utterance uid="36-18"><speaker>BECKETT</speaker><content>Oh, I think that can be arranged.</content></utterance>
+<utterance uid="36-19"><speaker>CASTLE</speaker><content>As the sun set over the mean streets of the naked city, I could feel my luck was about to change. The killer was caught, my case was closed, and hanging on my arm was the dame of my dreams.</content></utterance>
+<utterance uid="36-20"><speaker>BECKETT</speaker><content>Are you going to be doing that all night?</content></utterance>
+<utterance uid="36-21"><speaker>CASTLE</speaker><content>Not if it hurts my chances.</content></utterance>
+<utterance uid="36-22"><speaker>THE END</speaker><content>CASTLE</content></utterance>
+</scene>
+</script>

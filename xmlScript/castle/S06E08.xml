@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>EMCEE</speaker><content>Our guest tonight has a remarkable story. At age 22, Alice Clark journeyed to the jungles of Rwanda, where she studied the mighty silverback gorilla.</content></utterance>
+<utterance uid="1-2"><speaker>KYLE</speaker><content>Alice, they’re about to begin. Where are you?</content></utterance>
+<utterance uid="1-3"><speaker>EMCEE</speaker><content>When she returned to America, Ms. Clark applied her extensive research on dominate primates to the alphas of our urban jungle, advising some of the world’s most prominent leaders and their spouses, which inspired her latest non-fiction best-seller, Mating Rituals: A Field Guide to Relationships. Please welcome Alice Clark.</content></utterance>
+<utterance uid="1-4"><speaker>KYLE</speaker><content>C’mon, c’mon, c’mon.</content></utterance>
+</scene>
+
+<scene id="2"><utterance uid="2-1"><speaker>RICHARD CASTLE</speaker><content>You okay?</content></utterance>
+<utterance uid="2-2"><speaker>KATE BECKETT</speaker><content>Yeah. Yeah. I’m just –</content></utterance>
+<utterance uid="2-3"><speaker>CASTLE</speaker><content>What?</content></utterance>
+<utterance uid="2-4"><speaker>BECKETT</speaker><content>It’s like he’s staring at me.</content></utterance>
+<utterance uid="2-5"><speaker>CASTLE</speaker><content>What? What do you mean? Linus?</content></utterance>
+<utterance uid="2-6"><speaker>BECKETT</speaker><content>Mmhmm.  Whenever I come over here it feels like he’s watching me. Do you even notice how his eyes follow you when you move?</content></utterance>
+<utterance uid="2-7"><speaker>CASTLE</speaker><content>Yeah. I love that. It keeps you on alert.</content></utterance>
+<utterance uid="2-8"><speaker>BECKETT</speaker><content>Yeah well, Castle, I’m a cop. I’m always on alert. When I come home I just want to relax. Not fall asleep staring into the eyes of a hungry lion about to pounce.</content></utterance>
+<utterance uid="2-9"><speaker>CASTLE</speaker><content>Wait a minute.  You’re not uh … you’re not asking me to get rid of Linus, are you?</content></utterance>
+<utterance uid="2-10"><speaker>BECKETT</speaker><content>No, I was – I was just thinking that maybe you could move it to another room.</content></utterance>
+<utterance uid="2-11"><speaker>CASTLE</speaker><content>Another room?</content></utterance>
+<utterance uid="2-12"><speaker>BECKETT</speaker><content>Yeah, like um –  – maybe your office.</content></utterance>
+<utterance uid="2-13"><speaker>CASTLE</speaker><content> My office?</content></utterance>
+<utterance uid="2-14"><speaker>BECKETT</speaker><content>Beckett.  Yes, okay. We’ll be right there.</content></utterance>
+<utterance uid="2-15"><speaker>BECKETT</speaker><content>There’s been a murder.</content></utterance>
+<utterance uid="2-16"><speaker>CASTLE</speaker><content>Yeah, of Linus’s feelings.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>CASTLE</speaker><content>It’s just, I bought Linus with my first royalty check from In a Hail of Bullets. He’s my totem. Wild and untamed - and my bedroom is my lair.</content></utterance>
+<utterance uid="3-2"><speaker>BECKETT</speaker><content>I know, Castle, but isn't it kind of our lair now?</content></utterance>
+<utterance uid="3-3"><speaker>CASTLE</speaker><content>But Linus the lion is part of my identity. You don’t want to strip me of my identity, do you?</content></utterance>
+<utterance uid="3-4"><speaker>BECKETT</speaker><content>No. You know what? You’re right. I’m sorry. Um … I could just stay at my own place.</content></utterance>
+<utterance uid="3-5"><speaker>CASTLE</speaker><content>Thanks.  Wait, no. That’s not –</content></utterance>
+<utterance uid="3-6"><speaker>BECKETT</speaker><content>So, Ryan, what’ve we got?</content></utterance>
+<utterance uid="3-7"><speaker>KEVIN RYAN</speaker><content>Victim is Alice Amy Clark, 37, GSW to the chest. A parking attendant found her an hour ago. Apparently she’s some sort of therapist. Has an office here in the building.</content></utterance>
+<utterance uid="3-8"><speaker>CASTLE</speaker><content>Wait, Alice Clark? Not the Alice Clark, relationship guru to the rich and famous?  Author of Mating Rituals: A Field Guide to Relationships?</content></utterance>
+<utterance uid="3-9"><speaker>BECKETT</speaker><content>You know her?</content></utterance>
+<utterance uid="3-10"><speaker>CASTLE</speaker><content>By reputation only. She has the idea that we can improve our relationships by channeling our animal nature. Um … the instinct to protect and nurture, for example.  By say, offering to share one’s lair.</content></utterance>
+<utterance uid="3-11"><speaker>RYAN</speaker><content>Huh. Well, speaking of animal nature, you should see the inside of her car.</content></utterance>
+<utterance uid="3-12"><speaker>BECKETT</speaker><content>Oh, wow.</content></utterance>
+<utterance uid="3-13"><speaker>RYAN</speaker><content>It’s been completely torn apart.</content></utterance>
+<utterance uid="3-14"><speaker>LANIE PARISH</speaker><content>And from the spatter pattern it looks like all of this was done after she was killed.</content></utterance>
+<utterance uid="3-15"><speaker>CASTLE</speaker><content>So they killed her then they killed her car?</content></utterance>
+<utterance uid="3-16"><speaker>BECKETT</speaker><content>So they were looking for something.</content></utterance>
+<utterance uid="3-17"><speaker>RYAN</speaker><content>Yeah, and it wasn’t her wallet, phone, or keys, either.  The killer didn’t bother with those, or the ten grand that we found inside her purse.</content></utterance>
+<utterance uid="3-18"><speaker>CASTLE</speaker><content>That’s a lot of walking around money – even for a bestselling author.</content></utterance>
+<utterance uid="3-19"><speaker>BECKETT</speaker><content>So if they weren’t after the money what were they looking for?  When did this happen?</content></utterance>
+<utterance uid="3-20"><speaker>LANIE</speaker><content>Based on body temp and lividity I’d say between 6 and 10 last night.</content></utterance>
+<utterance uid="3-21"><speaker>BECKETT</speaker><content> Did you get a look at security cams?</content></utterance>
+<utterance uid="3-22"><speaker>RYAN</speaker><content>Garage doesn’t have camera coverage, but other parts of the building do. They’re pulling tape for us right now.</content></utterance>
+<utterance uid="3-23"><speaker>CASTLE</speaker><content>Somebody calling her?</content></utterance>
+<utterance uid="3-24"><speaker>RYAN</speaker><content>No, it’s some kind of reminder alarm. It keeps going off every few minutes.</content></utterance>
+<utterance uid="3-25"><speaker>CASTLE</speaker><content>NF1945.</content></utterance>
+<utterance uid="3-26"><speaker>RYAN</speaker><content>Esposito’s with her assistant upstairs. He might know.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>KYLE</speaker><content>I don’t know anything about it, but I left the office about 4:30 to help set up. When she didn’t show I knew something was wrong.</content></utterance>
+<utterance uid="4-2"><speaker>ESPOSITO</speaker><content>Was she expecting anyone after you left? Any appointments?</content></utterance>
+<utterance uid="4-3"><speaker>KYLE</speaker><content>No. In fact, she had me cancel the one for yesterday.</content></utterance>
+<utterance uid="4-4"><speaker>ESPOSITO</speaker><content>Any reason?</content></utterance>
+<utterance uid="4-5"><speaker>KYLE</speaker><content>I assumed she wanted time to prep for the lecture. She spent most of the day in her office. The only calls she took were from her boyfriend, Matt.</content></utterance>
+<utterance uid="4-6"><speaker>ESPOSITO</speaker><content>Did she mention having anything of value on her? Something someone might have been looking for?</content></utterance>
+<utterance uid="4-7"><speaker>KYLE</speaker><content>No. Why do you ask?</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>ESPOSITO</speaker><content>The whole place was turned inside out, just like the car.</content></utterance>
+<utterance uid="5-2"><speaker>BECKETT</speaker><content>What was taken?</content></utterance>
+<utterance uid="5-3"><speaker>ESPOSITO</speaker><content> Nothing valuable. Computers, artwork, iPads – all the obvious stuff was all there.</content></utterance>
+<utterance uid="5-4"><speaker>CASTLE</speaker><content>So what were they looking for?</content></utterance>
+<utterance uid="5-5"><speaker>ESPOSITO</speaker><content>I don’t know. The assistant said that they went through her client files. Alice counseled some serious VIPs. CEOs, politicians, generals. And she took very detailed notes of every session.</content></utterance>
+<utterance uid="5-6"><speaker>CASTLE</speaker><content>The most intimate details of the world’s elite? People have been killed for less.</content></utterance>
+<utterance uid="5-7"><speaker>BECKETT</speaker><content>Are there any files missing?</content></utterance>
+<utterance uid="5-8"><speaker>ESPOSITO</speaker><content>Well, the assistant is combing through them now, but it’s going to take some time.</content></utterance>
+<utterance uid="5-9"><speaker>RYAN</speaker><content>All right, so I scrubbed her building’s security video and check this out.  This guy went up to Alice’s office floor near the tail end of our time of death window. And he was the only person up there last night.</content></utterance>
+<utterance uid="5-10"><speaker>CASTLE</speaker><content>Which means he’s the only person who could have tossed Alice’s place.</content></utterance>
+<utterance uid="5-11"><speaker>ESPOSITO</speaker><content>And check it out, he’s turned away from the camera in every shot.</content></utterance>
+<utterance uid="5-12"><speaker>BECKETT</speaker><content>Hiding his face from us. This is our guy.</content></utterance>
+<utterance uid="5-13"><speaker>CAPTAIN VICTORIA GATES</speaker><content>Detective? Your victim’s boyfriend is here.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>MATT</speaker><content>No. Never seen him before.</content></utterance>
+<utterance uid="6-2"><speaker>BECKETT</speaker><content>And you have no idea what he might have been looking for?</content></utterance>
+<utterance uid="6-3"><speaker>MATT</speaker><content> This is my fault. I was supposed to pick her up last night but I got held up at work.</content></utterance>
+<utterance uid="6-4"><speaker>BECKETT</speaker><content>Where is it that you work, exactly?</content></utterance>
+<utterance uid="6-5"><speaker>MATT</speaker><content>I’m a consultant for an international aid NGO. All she did was help people. Why would anyone want to kill her?</content></utterance>
+<utterance uid="6-6"><speaker>BECKETT</speaker><content>How did she seem to you lately? Was there anything to indicate she was having any troubles in her life?</content></utterance>
+<utterance uid="6-7"><speaker>MATT</speaker><content> No, nothing. She seemed happy.</content></utterance>
+<utterance uid="6-8"><speaker>BECKETT</speaker><content>And how about her clients? Was she having difficulty with anyone?</content></utterance>
+<utterance uid="6-9"><speaker>MATT</speaker><content>Sometimes. Um, the people she counseled could be aggressive. Demanding.  But she liked the challenge. Taming the wild beast and all that.</content></utterance>
+<utterance uid="6-10"><speaker>BECKETT</speaker><content>Did anyone stand out in particular?</content></utterance>
+<utterance uid="6-11"><speaker>MATT</speaker><content>Alice was discreet about her work.  Though, at lunch the other day she seemed a little rattled. She said she received a call from a pissed off client.</content></utterance>
+<utterance uid="6-12"><speaker>BECKETT</speaker><content>Did she say who?</content></utterance>
+<utterance uid="6-13"><speaker>MATT</speaker><content>Like I said, she was discreet.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>BECKETT</speaker><content>Okay, thanks.</content></utterance>
+<utterance uid="7-2"><speaker>CASTLE</speaker><content>Hey. Listen to this. “Males in both species define their territory then honor the female by inviting them in.” See? I’m – I’m honoring you by inviting you into my territory. And Linus is part of that territory.</content></utterance>
+<utterance uid="7-3"><speaker>BECKETT</speaker><content>And if you want to be invited into my territory again you should probably rethink that.</content></utterance>
+<utterance uid="7-4"><speaker>BECKETT</speaker><content>So CSU just finished with the car and the office and they found no prints and almost no trace evidence. It’s like both locations have been cleaned.</content></utterance>
+<utterance uid="7-5"><speaker>CASTLE</speaker><content>That and the cameras? This guy’s a pro.</content></utterance>
+<utterance uid="7-6"><speaker>BECKETT</speaker><content>Okay, so why would a professional assassin murder a therapist?</content></utterance>
+<utterance uid="7-7"><speaker>CASTLE</speaker><content>Because as a therapist she’d be privy to her clients deepest, darkest secrets. Secrets so explosive simply hearing them ensured her demise.</content></utterance>
+<utterance uid="7-8"><speaker>BECKETT</speaker><content>All right, what kind of secrets?</content></utterance>
+<utterance uid="7-9"><speaker>CASTLE</speaker><content>Well –  – nuclear launch codes, that the moon launch was a fake, that Roswell wasn’t. Secret location of the cryogenically frozen body of Walt –</content></utterance>
+<utterance uid="7-10"><speaker>RYAN</speaker><content>Well, um … boyfriend checks out. Called his office. They verified that he was working all last night. But Alice definitely tumbled down the rabbit hole to shadyland. That alert on her phone, NF1945?  It’s the tail number of a private jet that she chartered.</content></utterance>
+<utterance uid="7-11"><speaker>BECKETT</speaker><content>She chartered a private jet? To where?</content></utterance>
+<utterance uid="7-12"><speaker>RYAN</speaker><content>Well I contacted the pilot out of Teterboro, he said that Alice paid him $50 grand in cash to be on standby with a full tank of gas, destination unknown.</content></utterance>
+<utterance uid="7-13"><speaker>CASTLE</speaker><content>She knew she was in trouble. She was getting ready to disappear.</content></utterance>
+<utterance uid="7-14"><speaker>BECKETT</speaker><content>Okay, she’s a best-selling author with a flourishing career. If she was in trouble why didn’t she just call the police or her boyfriend? Why would she charter a jet?</content></utterance>
+<utterance uid="7-15"><speaker>ESPOSITO</speaker><content>Hey guys. We got something.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>ESPOSITO</speaker><content>The canvass turned up a news vendor who saw our suspect leave Alice’s building and drive off in the blue van. The reason he remembers our guy is because his van was parked behind a woman who was cursing out a parking office for giving her a ticket.</content></utterance>
+<utterance uid="8-2"><speaker>TECH AGENT TORI</speaker><content>Luckily traffic enforcement vehicles are mounted with cameras that snap photos of each parked car. It’s how they catch meter cheaters. Here’s the ticketed car, and here’s your murder suspect’s blue van.</content></utterance>
+<utterance uid="8-3"><speaker>ESPOSITO</speaker><content>It’s registered to a Manhattan Raptor Inc.</content></utterance>
+<utterance uid="8-4"><speaker>BECKETT</speaker><content>We get an address?</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>RYAN</speaker><content>Hands! Show me your hands!</content></utterance>
+<utterance uid="9-2"><speaker>ESPOSITO</speaker><content>Hey, hey, hey!  Go around back.</content></utterance>
+<utterance uid="9-3"><speaker>RYAN</speaker><content>Open up!</content></utterance>
+<utterance uid="9-4"><speaker>ESPOSITO</speaker><content>Go!</content></utterance>
+<utterance uid="9-5"><speaker>RYAN</speaker><content>Let me see those hands!</content></utterance>
+<utterance uid="9-6"><speaker>RYAN</speaker><content>I said show me those hands!</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>GATES</speaker><content>Well?</content></utterance>
+<utterance uid="10-2"><speaker>ESPOSITO</speaker><content>He didn’t have an ID on hi or in his van, but we did find an interesting match on his fingerprints.</content></utterance>
+<utterance uid="10-3"><speaker>GATES</speaker><content> That’s Barrett Hawke?</content></utterance>
+<utterance uid="10-4"><speaker>CASTLE</speaker><content>Barrett Hawke? As in the legendary fixer? He’s been sweeping the dirt of New York’s rich and famous under the rug for over a decade.  Not my dirt. I just – heard.</content></utterance>
+<utterance uid="10-5"><speaker>GATES</speaker><content>I’ve heard, too.</content></utterance>
+<utterance uid="10-6"><speaker>BECKETT</speaker><content>Word is he does what it takes to get the job done. He’s teflon. Nothing ever sticks.</content></utterance>
+<utterance uid="10-7"><speaker>ESPOSITO</speaker><content>That’s because he’s careful. Every memory drive in his van was wiped clean. There’s nothing to tie him back to Alice.</content></utterance>
+<utterance uid="10-8"><speaker>BECKETT</speaker><content>I don’t care how careful he is. Someone hired him to kill her. This time he’s not walking away.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>BARRETT HAWKE</speaker><content>I’m sorry, Detective. I’ve never seen this woman before in my life.</content></utterance>
+<utterance uid="11-2"><speaker>BECKETT</speaker><content>Even though my colleagues witnessed you in the back of your van shredding her photo.</content></utterance>
+<utterance uid="11-3"><speaker>HAWKE</speaker><content>Your colleagues were mistaken.  But that was a micro cut shredder, so unfortunately there’s no proof either way.</content></utterance>
+<utterance uid="11-4"><speaker>BECKETT</speaker><content>We can place you in her office building on 77th Street at the time of her murder. So if you didn’t know Alice Clark, what the hell were you doing there?</content></utterance>
+<utterance uid="11-5"><speaker>HAWKE</speaker><content>My favorite shoeshine guy’s in that building.</content></utterance>
+<utterance uid="11-6"><speaker>BECKETT</speaker><content>Right. On the 9th floor? Right down the hall from her ransacked office?</content></utterance>
+<utterance uid="11-7"><speaker>HAWKE</speaker><content>Hm. Can’t really make out his face. Hard to say who that guy is. C’mon, Detective. What do you really have on me, huh? Do you have a single piece of evidence that I was in her office? Or that I was involved in her death? Prints? DNA? Anything?  That’s what I thought.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>CASTLE</speaker><content>Just like she said. Teflon.</content></utterance>
+<utterance uid="12-2"><speaker>GATES</speaker><content>The only way to nail this man is figure out who hired him. And for that we need to know what Barrett Hawke was sent to find.</content></utterance>
+</scene>
+
+<scene id="13"><utterance uid="13-1"><speaker>KYLE</speaker><content>I’ve been through just about everything. Her research notes, her book files, everything’s intact. I’ve rechecked it a couple of times against our index files and there’s only one thing missing.</content></utterance>
+<utterance uid="13-2"><speaker>ESPOSITO</speaker><content>What’s that?</content></utterance>
+<utterance uid="13-3"><speaker>KYLE</speaker><content> A client file.</content></utterance>
+<utterance uid="13-4"><speaker>RYAN</speaker><content>Which client?</content></utterance>
+<utterance uid="13-5"><speaker>KYLE</speaker><content>Andrew and Monica Spencer.</content></utterance>
+<utterance uid="13-6"><speaker>RYAN</speaker><content>Andrew Spencer, the hotel and real estate tycoon.</content></utterance>
+<utterance uid="13-7"><speaker>ESPOSITO</speaker><content>Who would want his file?</content></utterance>
+<utterance uid="13-8"><speaker>KYLE</speaker><content>Actually, I think Andrew Spencer wanted it.</content></utterance>
+<utterance uid="13-9"><speaker>ESPOSITO</speaker><content> Why would he want his own file.</content></utterance>
+<utterance uid="13-10"><speaker>KYLE</speaker><content>Because … well, it’s not public knowledge yet, but the Spencers are getting a divorce. And last week Mrs. Spencer’s attorney subpoenaed Alice to turn all of her session notes over to the court.</content></utterance>
+<utterance uid="13-11"><speaker>ESPOSITO</speaker><content>Andrew Spencer’s worth billions. If there was any compromising information in those notes it would cost him boatloads in a settlement.</content></utterance>
+<utterance uid="13-12"><speaker>RYAN</speaker><content>Wait, doesn’t state law protect therapist-client privacy?</content></utterance>
+<utterance uid="13-13"><speaker>KYLE</speaker><content>Except Alice wasn’t a licensed therapist. She was more of a relationship coach. When Mr. Spencer found out the sessions weren’t privileged he hit the roof He threatened to sue.</content></utterance>
+<utterance uid="13-14"><speaker>ESPOSITO</speaker><content>Well it looks like he did more than just sue.</content></utterance>
+<utterance uid="13-15"><speaker>RYAN</speaker><content> You know where we can find him?</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>RECEPTIONIST</speaker><content>Mr. Spencer will be right with you.</content></utterance>
+<utterance uid="14-2"><speaker>ESPOSITO</speaker><content>Okay.</content></utterance>
+<utterance uid="14-3"><speaker>ESPOSITO</speaker><content>I’ve got to hand it to this Alice chick, bro. Whatever her monkey theory is has her in with the movers and the shakers.</content></utterance>
+<utterance uid="14-4"><speaker>RYAN</speaker><content>She learned from the real gorillas. Seems to be working with the eight hundred ones in the human world. She was like the dog whisperer for CEOs.</content></utterance>
+<utterance uid="14-5"><speaker>ESPOSITO</speaker><content>You really buy that?</content></utterance>
+<utterance uid="14-6"><speaker>RYAN</speaker><content>Oh, skimmed through her book. I think there might be something to her theory. For instance, she said that in every relationship there needs to be a masculine energy and a feminine energy. Even in ours.</content></utterance>
+<utterance uid="14-7"><speaker>ESPOSITO</speaker><content>Oh. Well, we know which one you are.</content></utterance>
+<utterance uid="14-8"><speaker>RYAN</speaker><content>I don’t know about you, but I am very comfortable in my masculinity.</content></utterance>
+<utterance uid="14-9"><speaker>ESPOSITO</speaker><content>You do realize you’re wearing a sweater vest, right?</content></utterance>
+<utterance uid="14-10"><speaker>ANDREW SPENCER</speaker><content>It better be important. I just hung up on my investment group in Singapore.</content></utterance>
+<utterance uid="14-11"><speaker>ESPOSITO</speaker><content> Andrew Spencer, Detective Esposito –</content></utterance>
+<utterance uid="14-12"><speaker>SPENCER</speaker><content>I don’t give a rat’s ass who you are. What do you want?</content></utterance>
+<utterance uid="14-13"><speaker>ESPOSITO</speaker><content>Alice Clark. You know her?</content></utterance>
+<utterance uid="14-14"><speaker>SPENCER</speaker><content>Yeah, I know her. Why?</content></utterance>
+<utterance uid="14-15"><speaker>RYAN</speaker><content>Well, she had a client file of you and your soon to be ex-wife, Monica. A file that’s currently missing.</content></utterance>
+<utterance uid="14-16"><speaker>SPENCER</speaker><content>Oh, I get it. Did my wife’s attorney put you up to this? You know what this is? This is harassment.</content></utterance>
+<utterance uid="14-17"><speaker>RYAN</speaker><content>No, Mr. Spencer. This is a murder investigation.</content></utterance>
+<utterance uid="14-18"><speaker>SPENCER</speaker><content>A murder investigation? Who’s dead?</content></utterance>
+<utterance uid="14-19"><speaker>RYAN</speaker><content>Alice.</content></utterance>
+<utterance uid="14-20"><speaker>SPENCER</speaker><content>Alice is dead?</content></utterance>
+<utterance uid="14-21"><speaker>ESPOSITO</speaker><content>Oh, c’mon Spencer. Drop the act. We know you hired Barrett Hawke to kill her and steal the files.</content></utterance>
+<utterance uid="14-22"><speaker>RYAN</speaker><content>We’ve already linked him to our murder.</content></utterance>
+<utterance uid="14-23"><speaker>SPENCER</speaker><content>No, no, no. Wait, wait, wait. That had nothing to do with me. Look, I have heard of Hawke. But I’ve never used his services. Hell, I wouldn’t even know how to find the guy. And yes, I wanted the file. But Alice gave it to me. She brought it to me herself. I – I have witnesses.</content></utterance>
+<utterance uid="14-24"><speaker>RYAN</speaker><content>Why would Alice give it to you?</content></utterance>
+<utterance uid="14-25"><speaker>SPENCER</speaker><content>I reminded my wife that those sessions contained plenty of statements that she wouldn’t want in the public record, either. She agreed and we both called Alice. Alice understood our need for privacy, so she offered to turn it over in exchange for a favor.</content></utterance>
+<utterance uid="14-26"><speaker>ESPOSITO</speaker><content>Yeah? What kind of favor?</content></utterance>
+<utterance uid="14-27"><speaker>SPENCER</speaker><content> It was actually strange. She said she needed a room in one of my hotels for a couple of days. And I had to promise there would be no record that she was ever there.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>CASTLE</speaker><content>Alice dropped fifty grand to charter a plane but she needed Spencer to comp the hotel room for her?</content></utterance>
+<utterance uid="15-2"><speaker>BECKETT</speaker><content>That’s because it wasn’t about the money. It was about the anonymity. She even told the front desk that she didn’t want housekeeping in her room. And she didn’t tell her boyfriend where she was.</content></utterance>
+<utterance uid="15-3"><speaker>CASTLE</speaker><content>Not that she would need housekeeping. There’s no luggage here; nothing in the bathroom. It’s like she was never even here.</content></utterance>
+<utterance uid="15-4"><speaker>BECKETT</speaker><content>Yeah, but she checked in yesterday morning.  Castle, what if this was a safe house? What if she knew that Hawke was after her and she decided to hide out here until she could flee the country?</content></utterance>
+<utterance uid="15-5"><speaker>CASTLE</speaker><content>With a plane standing by? What was she waiting for? No, no, no, no. Something is going on here. There’s a reason why she got this room and she didn’t want anyone to know about it.</content></utterance>
+<utterance uid="15-6"><speaker>CASTLE</speaker><content>Ah. The safe is locked. She got it to hide something. Come take a look.  I bet whatever Hawke was after, it’s in there. A place she knew it would safe and knew no one would think to look for it.</content></utterance>
+<utterance uid="15-7"><speaker>BECKETT</speaker><content>Which means it’s still in there.  Is there an override code?</content></utterance>
+<utterance uid="15-8"><speaker>CASTLE</speaker><content>Whatever’s in there, that’s the reason why she was killed.</content></utterance>
+<utterance uid="15-9"><speaker>CASTLE</speaker><content>Thank you.</content></utterance>
+<utterance uid="15-10"><speaker>BECKETT</speaker><content>Castle, this must be worth millions.</content></utterance>
+<utterance uid="15-11"><speaker>CASTLE</speaker><content>Tens of millions. Looks like diamonds were our girl’s best friend.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>GATES</speaker><content>I’ve never seen anything like this outside of a museum.  Are you sure it’s real?</content></utterance>
+<utterance uid="16-2"><speaker>BECKETT</speaker><content>We stopped at a jewelers on the way back and he almost had a heart attack.</content></utterance>
+<utterance uid="16-3"><speaker>GATES</speaker><content>It has to be what Hawke was after, but – what was Alice doing with it?</content></utterance>
+<utterance uid="16-4"><speaker>CASTLE</speaker><content>Given the cash, the hotel, and the private plane I’d say she was making a getaway.</content></utterance>
+<utterance uid="16-5"><speaker>GATES</speaker><content>Are you saying she stole it? A trusted therapist to A-list clientele. She was in the perfect position to work her way inside. She’s Ocean’s Eleven … minus ten. She’s … Ocean’s one.</content></utterance>
+<utterance uid="16-6"><speaker>BECKETT</speaker><content>Or maybe it’s Ocean’s none. I mean, Alice was successful. She’s respected. She’s at the top of her game. Why would she risk it all by stealing a diamond?</content></utterance>
+<utterance uid="16-7"><speaker>RYAN</speaker><content>Which … brings up another problem. I spoke to the boys in robbery and at the FBI. No one has reported a diamond like this stolen. Not just recently. Ever.</content></utterance>
+<utterance uid="16-8"><speaker>GATES</speaker><content>Then where did it come from?</content></utterance>
+<utterance uid="16-9"><speaker>BECKETT</speaker><content>And if it was stolen why haven’t the owners reported it?</content></utterance>
+<utterance uid="16-10"><speaker>CASTLE</speaker><content>What if it’s because they couldn’t afford to? Because the diamond has some kind of sordid past. Perhaps it’s like the Hope Diamond, it’s cursed. Or maybe it’s a – an occult gem. It has great power, smuggled out of Nazi Germany shoved up some –</content></utterance>
+<utterance uid="16-11"><speaker>GATES</speaker><content>Thank you, Mr. Castle.</content></utterance>
+<utterance uid="16-12"><speaker>BECKETT</speaker><content>Someone knows where it came from. Someone sent Barrett Hawke after Alice to get it.</content></utterance>
+<utterance uid="16-13"><speaker>CASTLE</speaker><content>Maybe the diamond could tell us.</content></utterance>
+<utterance uid="16-14"><speaker>GATES</speaker><content>What do you mean?</content></utterance>
+<utterance uid="16-15"><speaker>CASTLE</speaker><content>Well you said it yourself. You’ve never seen anything like this outside a museum. Diamonds this big are famous. They have names. The Akbar Shah, the Angola Star, the um … Excelsior. No, this diamond has a story. If we can figure out what that story is it might just give us a path to our killer.</content></utterance>
+<utterance uid="16-16"><speaker>BECKETT</speaker><content>Yeah, Castle’s right. This city is the hub of the nation’s diamond trade. There has to be an expert out there that can tell us where it came from.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>EDWARD PETERS</speaker><content>Such beauty. Absolutely stunning.</content></utterance>
+<utterance uid="17-2"><speaker>ESPOSITO</speaker><content>Can you tell where it came from?</content></utterance>
+<utterance uid="17-3"><speaker>PETERS</speaker><content>Diamonds are not people, Detective. A diamond mine in Asia looks the same a diamond mine in Africa. But there are no diamond mines in America, so it is not from here.</content></utterance>
+<utterance uid="17-4"><speaker>RYAN</speaker><content>Uh, what my partner means is, have you come across this stone before?</content></utterance>
+<utterance uid="17-5"><speaker>PETERS</speaker><content>Ah, never. And as head of the American Gemological Foundation I know every extraordinary stone on the planet.</content></utterance>
+<utterance uid="17-6"><speaker>ESPOSITO</speaker><content>So you don’t know who owns it?</content></utterance>
+<utterance uid="17-7"><speaker>PETERS</speaker><content>No. And I should. I mean, the discovery of an incredible gem like this it headline making. It becomes famous.</content></utterance>
+<utterance uid="17-8"><speaker>RYAN</speaker><content>Uh … could it be a recent import?</content></utterance>
+<utterance uid="17-9"><speaker>PETERS</speaker><content>I’m current on gem reports that passed through customs and nothing remotely this size has come through in my entire tenure at the AGF. No, the origins of this stone are a complete mystery. Could you tell me how you came to possess it?</content></utterance>
+<utterance uid="17-10"><speaker>ESPOSITO</speaker><content>It’s evidence in an ongoing investigation, so …</content></utterance>
+<utterance uid="17-11"><speaker>RYAN</speaker><content>What can you tell us about this diamond?</content></utterance>
+<utterance uid="17-12"><speaker>PETERS</speaker><content>Well, I should like to run additional spectrometer imaging tests on it, but for the meantime let me start with the four C’s.</content></utterance>
+<utterance uid="17-13"><speaker>RYAN</speaker><content>Uh, color, cut, clarity, carat.  You’d know this if you’d ever bought an engagement ring.</content></utterance>
+<utterance uid="17-14"><speaker>PETERS</speaker><content>The diamond is colorless. No blemishes and pristine cut. No internal clouding. And uh ..  … nearly one hundred carats.</content></utterance>
+<utterance uid="17-15"><speaker>ESPOSITO</speaker><content>Man. Hey, how deep would my pockets have to be to afford a rock like that?</content></utterance>
+<utterance uid="17-16"><speaker>PETERS</speaker><content>Detective, you are not tall enough to have pockets deep enough. But I would say it’s worth … $60 million. Conservatively.</content></utterance>
+<utterance uid="17-17"><speaker>ESPOSITO</speaker><content> Yeah, I ain’t that tall.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>GATES</speaker><content>Six zero, like with another six zeros after that?</content></utterance>
+<utterance uid="18-2"><speaker>RYAN</speaker><content>That would be $60 million, yes.</content></utterance>
+<utterance uid="18-3"><speaker>BECKETT</speaker><content>Is it possible it’s an heirloom passed down through generations and that’s why there’s no record of it?</content></utterance>
+<utterance uid="18-4"><speaker>ESPOSITO</speaker><content>Nah. Peters said that old school cutters fashioned diamonds with sharp edges. This one has smooth edges, which it means it had to be cut within the last few decades.</content></utterance>
+<utterance uid="18-5"><speaker>RYAN</speaker><content>And no customs declaration means it was smuggled in, probably from the country where it was mined.</content></utterance>
+<utterance uid="18-6"><speaker>GATES</speaker><content> Were we able to connect any of Alice’s clients to the diamond?</content></utterance>
+<utterance uid="18-7"><speaker>BECKETT</speaker><content>We’re still going through them, but no, not yet.</content></utterance>
+<utterance uid="18-8"><speaker>RYAN</speaker><content>Peters also said he found some glue residue on the stone, which suggests that it was set in a piece of jewelry.</content></utterance>
+<utterance uid="18-9"><speaker>CASTLE</speaker><content>For engaged men everywhere I can only hope it wasn’t a ring.</content></utterance>
+<utterance uid="18-10"><speaker>GATES</speaker><content> Get that rock back to the precinct. I want it under locked key and armed guard.</content></utterance>
+<utterance uid="18-11"><speaker>ESPOSITO</speaker><content>We’re on our way.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>ESPOSITO</speaker><content>So … we thinking the same thing?</content></utterance>
+<utterance uid="19-2"><speaker>RYAN</speaker><content>That it’s a bummer we can’t stop for lunch because there’s a sixty million dollar diamond sitting between us?</content></utterance>
+<utterance uid="19-3"><speaker>ESPOSITO</speaker><content>No. That because of the $60 million dollar diamond sitting between us that we are not-really-but-kinda-sorta thinking about making a run for the border.</content></utterance>
+<utterance uid="19-4"><speaker>RYAN</speaker><content>Hadn’t even crossed my mind.</content></utterance>
+<utterance uid="19-5"><speaker>ESPOSITO</speaker><content>Of course it didn’t. Nope, you wouldn’t have the stones. All I’m saying.</content></utterance>
+<utterance uid="19-6"><speaker>ESPOSITO</speaker><content>You breathing?</content></utterance>
+<utterance uid="19-7"><speaker>RYAN</speaker><content>Yeah, for now.</content></utterance>
+<utterance uid="19-8"><speaker>ESPOSITO</speaker><content>Gun! Get down!</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>RYAN</speaker><content>The diamond!</content></utterance>
+<utterance uid="20-2"><speaker>ESPOSITO</speaker><content>Subway, seven o’clock. I’ll cover. Go!</content></utterance>
+<utterance uid="20-3"><speaker>RYAN</speaker><content>Go!</content></utterance>
+<utterance uid="20-4"><speaker>RYAN</speaker><content>You all right?</content></utterance>
+<utterance uid="20-5"><speaker>ESPOSITO</speaker><content>Yeah.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>ESPOSITO</speaker><content>I’m good.</content></utterance>
+<utterance uid="21-2"><speaker>GATES</speaker><content>The SUV took off right after you hit the subway. We’re pulling traffic footage and we’ve got every cop in the city looking for it.</content></utterance>
+<utterance uid="21-3"><speaker>BECKETT</speaker><content>And you said they were wearing masks?</content></utterance>
+<utterance uid="21-4"><speaker>RYAN</speaker><content>Yeah. Clown masks.</content></utterance>
+<utterance uid="21-5"><speaker>CASTLE</speaker><content>As if clowns weren’t creepy enough.</content></utterance>
+<utterance uid="21-6"><speaker>BECKETT</speaker><content>What about their voices? Did they say anything? Did they accents?</content></utterance>
+<utterance uid="21-7"><speaker>ESPOSITO</speaker><content>Uh … they let their bullets do the talking.</content></utterance>
+<utterance uid="21-8"><speaker>RYAN</speaker><content>Captain, they attacked us in broad daylight. They knew we had the rock. Now either Barrett Hawke has gone commando all of a sudden or something else is going on here.</content></utterance>
+<utterance uid="21-9"><speaker>CASTLE</speaker><content>He’s right. I mean, this is starting to sound like it’s about a whole lot more than just a diamond.</content></utterance>
+<utterance uid="21-10"><speaker>GATES</speaker><content>Okay.  Get cleaned up. I need you two to go hunting for that SUV. Whatever’s going on, Alice was in it up to her eyeballs. If any of her clients have even the remotest connection to a country that produces diamonds, I want to know about it.</content></utterance>
+<utterance uid="21-11"><speaker>BECKETT</speaker><content>Yes sir.</content></utterance>
+<utterance uid="21-12"><speaker>CASTLE</speaker><content>All right.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>CASTLE</speaker><content>So I was thinking. When we work a case together this desk of yours is sort of – kind of – our space. And these elephants on parade have creeped me out since day one.  So what do you say we just get rid of these? Oh, do you have a problem with that? If I try to get rid of something that obviously has deep meaning to you?</content></utterance>
+<utterance uid="22-2"><speaker>BECKETT</speaker><content>If you don’t like the elephants, I don’t like the elephants.</content></utterance>
+<utterance uid="22-3"><speaker>CASTLE</speaker><content>Fine.  I actually like those elephants. They obviously have family values and this one’s good with money. Anyway …  … any luck on Alice’s clients.</content></utterance>
+<utterance uid="22-4"><speaker>BECKETT</speaker><content>Yeah, a couple of possibilities. A hedge fund manager with investments in South Africa. A UN diplomat with ties to Russia. And a CEO with a manufacturing plant 80 miles from a Chinese mine.</content></utterance>
+<utterance uid="22-5"><speaker>CASTLE</speaker><content>I wonder if we’re looking at this wrong. What if it’s not about Alice’s clients but it’s actually about Alice?</content></utterance>
+<utterance uid="22-6"><speaker>BECKETT</speaker><content>What do you mean?</content></utterance>
+<utterance uid="22-7"><speaker>CASTLE</speaker><content>When she was living with the gorillas in Africa that was in Rwanda, right along the border of the Congo, a region known for conflict diamonds.</content></utterance>
+<utterance uid="22-8"><speaker>BECKETT</speaker><content>So you think she was involved in the blood diamond trade?</content></utterance>
+<utterance uid="22-9"><speaker>CASTLE</speaker><content>I think it’s a story that writes itself.  A young primatologist in an unstable region falls for a different kind of gorilla. A warlord who is funding his agenda with diamonds. He gives her one, as a gift.  No, no, go back. She’s not that into him and she steals the diamond, having no idea its real value. She smuggles it back to the United States and finds she can’t sell it without attracting too much attention, so she hides it. Until one day the jilted, and well-read, warlord finds a book and sees her photo on the back. Knowing what she stole, he comes after her.</content></utterance>
+<utterance uid="22-10"><speaker>BECKETT</speaker><content>That … is … surprisingly plausible.</content></utterance>
+<utterance uid="22-11"><speaker>CASTLE</speaker><content>I know, right? It’s actually – that would actually explain a lot. Why she was planning to disappear, why Esposito and Ryan were shot at in broad daylight. That’s actually a perfect theory.</content></utterance>
+<utterance uid="22-12"><speaker>BECKETT</speaker><content>Maybe, Castle, but I might have a better one. What do you know about Steve Warner?</content></utterance>
+<utterance uid="22-13"><speaker>CASTLE</speaker><content>Uh … tech entrepreneur.</content></utterance>
+<utterance uid="22-14"><speaker>BECKETT</speaker><content>Yeah. Apparently he and his wife were Alice’s clients.</content></utterance>
+<utterance uid="22-15"><speaker>CASTLE</speaker><content>And what, they had business contacts in diamond producing countries?</content></utterance>
+<utterance uid="22-16"><speaker>BECKETT</speaker><content>No, but their charitable foundation does. Primarily in Africa.  “Delivering immunizations to developing war-torn countries.”</content></utterance>
+<utterance uid="22-17"><speaker>CASTLE</speaker><content>Okay, but what makes your heroic philanthropist story better than my crazed warlord story?</content></utterance>
+<utterance uid="22-18"><speaker>BECKETT</speaker><content>This.  That’s Steve and Janet Warner at the Amnesty Global benefit two nights ago. Janet’s on their board.  You recognize anything?</content></utterance>
+<utterance uid="22-19"><speaker>CASTLE</speaker><content>Hello gorgeous.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>BECKETT</speaker><content>Mr. and Mrs. Warner, thank you so much for coming.</content></utterance>
+<utterance uid="23-2"><speaker>STEVE WARNER</speaker><content>Of course. We can’t tell you how shocked we were to hear about Alice.</content></utterance>
+<utterance uid="23-3"><speaker>CASTLE</speaker><content>How long had you two been her clients?</content></utterance>
+<utterance uid="23-4"><speaker>STEVE</speaker><content>A couple of years.</content></utterance>
+<utterance uid="23-5"><speaker>JANET WARNER</speaker><content>She saved our marriage. Being a power couple isn’t easy. Alice understood that.</content></utterance>
+<utterance uid="23-6"><speaker>BECKETT</speaker><content>Just curious, when the two of you would meet with Alice would the two of you go to her office or would she come to your home?</content></utterance>
+<utterance uid="23-7"><speaker>JANET</speaker><content>Both. Why?</content></utterance>
+<utterance uid="23-8"><speaker>CASTLE</speaker><content>Did she ever have access to your place? Did you ever give her keys or security codes?</content></utterance>
+<utterance uid="23-9"><speaker>STEVE</speaker><content>No. Why would we? What’s this all about?</content></utterance>
+<utterance uid="23-10"><speaker>BECKETT</speaker><content> We believe her murder is connected to a theft.</content></utterance>
+<utterance uid="23-11"><speaker>STEVE</speaker><content>A theft?</content></utterance>
+<utterance uid="23-12"><speaker>BECKETT</speaker><content>Yeah, a rather significant one.</content></utterance>
+<utterance uid="23-13"><speaker>CASTLE</speaker><content>Either of you notice anything missing?</content></utterance>
+<utterance uid="23-14"><speaker>STEVE</speaker><content>Like what?</content></utterance>
+<utterance uid="23-15"><speaker>STEVE</speaker><content>I’m sorry, I don’t understand.</content></utterance>
+<utterance uid="23-16"><speaker>BECKETT</speaker><content>Mr. Warner, that is your diamond. All one hundred carats of it. It was found in Alice’s possession. Any idea how she got it?</content></utterance>
+<utterance uid="23-17"><speaker>STEVE</speaker><content>I think there’s been a mistake. This isn’t ours.</content></utterance>
+<utterance uid="23-18"><speaker>CASTLE</speaker><content>It’s not?</content></utterance>
+<utterance uid="23-19"><speaker>JANET</speaker><content>I’ve never seen that stone before in my life.</content></utterance>
+<utterance uid="23-20"><speaker>BECKETT</speaker><content>Really? Well, you were wearing it the other night.</content></utterance>
+<utterance uid="23-21"><speaker>JANET</speaker><content>Oh, I see the confusion. The stone in my necklace, that’s not a diamond. It’s a costume piece. It’s just crystal.</content></utterance>
+<utterance uid="23-22"><speaker>BECKETT</speaker><content>Crystal? Mrs. Warner, that is the same stone.</content></utterance>
+<utterance uid="23-23"><speaker>JANET</speaker><content>Detective, you’re mistaken. They only look similar.</content></utterance>
+<utterance uid="23-24"><speaker>BECKETT</speaker><content>Well then I suppose you won’t mind if we send one of our detectives home with you to look at it. Just to be sure.</content></utterance>
+<utterance uid="23-25"><speaker>STEVE</speaker><content>I think we’re done here.  If you have any more questions you can direct them to my attorneys.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>BECKETT</speaker><content>Of course they’re lying, but the real question is, why are they lying?</content></utterance>
+<utterance uid="24-2"><speaker>CASTLE</speaker><content>Well, given their net worth better to take a $60 million dollar loss than be connected with a dead body.</content></utterance>
+<utterance uid="24-3"><speaker>BECKETT</speaker><content>No Castle, it’s more than that. If they knew that Alice stole that diamond they should have gone to the cops. But they didn’t. Why?</content></utterance>
+<utterance uid="24-4"><speaker>CASTLE</speaker><content>Probably because if they did that would mean having to reveal where the diamond came from. There’s gotta be a reason why no one’s heard of it. And it must be a nefarious one.</content></utterance>
+<utterance uid="24-5"><speaker>BECKETT</speaker><content>Which means they would do anything outside of going to the cops to get it back.</content></utterance>
+<utterance uid="24-6"><speaker>ESPOSITO</speaker><content>You may be right. A uniform just talked to the doorman at the Warner’s building in Tribeca. He says he buzzed Hawke up to their penthouse yesterday morning.</content></utterance>
+<utterance uid="24-7"><speaker>BECKETT</speaker><content>And Alice was killed last night.</content></utterance>
+<utterance uid="24-8"><speaker>CASTLE</speaker><content>Looks like New York’s famous fixer is in a bit of a fix.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>HAWKE</speaker><content>So I visited friends in Tribeca. That doesn’t prove anything.</content></utterance>
+<utterance uid="25-2"><speaker>BECKETT</speaker><content>Why were you at the Warners.</content></utterance>
+<utterance uid="25-3"><speaker>HAWKE</speaker><content>I needed to use their bathroom. Are we really going to dance this dance again? Because I’ve got better things to do.</content></utterance>
+<utterance uid="25-4"><speaker>BECKETT</speaker><content>Sit down. Now, Mr. Hawke.</content></utterance>
+<utterance uid="25-5"><speaker>BECKETT</speaker><content>You’re not walking away from this one. I’ve connected you to the Warners, the Warners to the stone, the stone to the dead girl, and the dead girl back to you. And then there’s also the matter of the armed assault on two NYPD detectives.</content></utterance>
+<utterance uid="25-6"><speaker>HAWKE</speaker><content>I did not kill Alice Clark and I had nothing to do with any assault.</content></utterance>
+<utterance uid="25-7"><speaker>BECKETT</speaker><content>Then who did?</content></utterance>
+<utterance uid="25-8"><speaker>HAWKE</speaker><content> Turn off the mic.</content></utterance>
+<utterance uid="25-9"><speaker>HAWKE</speaker><content>My business is discretion, so none of this is on the record, do you follow?  Yes, the Warners hired me to find the diamond. That’s it.</content></utterance>
+<utterance uid="25-10"><speaker>BECKETT</speaker><content>So it was you? In her office, in the car?</content></utterance>
+<utterance uid="25-11"><speaker>HAWKE</speaker><content>Yeah. Looking for the stone. But Alice was already dead when I got there. I do things Detective, questionable things, but I don’t kill.</content></utterance>
+<utterance uid="25-12"><speaker>BECKETT</speaker><content>Okay. So then who attacked my colleagues?</content></utterance>
+<utterance uid="25-13"><speaker>HAWKE</speaker><content>Wasn’t me, wasn’t the Warners. Maybe somebody else was looking for the diamond.</content></utterance>
+<utterance uid="25-14"><speaker>BECKETT</speaker><content>And how did you know Alice stole it?</content></utterance>
+<utterance uid="25-15"><speaker>HAWKE</speaker><content>Because when the Warners described the mugging I could tell it was an inside job.</content></utterance>
+<utterance uid="25-16"><speaker>BECKETT</speaker><content> The Warners were mugged?</content></utterance>
+<utterance uid="25-17"><speaker>HAWKE</speaker><content>Two nights ago. And it wasn’t random. The mugger knew exactly when and where they were gonna be. So did Alice. Not only that, but Janet told Alice about the diamond in one of their sessions. Apparently hardly anyone else knew that the diamond was real. I figured Alice had to be involved.</content></utterance>
+<utterance uid="25-18"><speaker>BECKETT</speaker><content>Okay, so if the Warners were mugged, why wouldn’t they just go to the police?</content></utterance>
+<utterance uid="25-19"><speaker>HAWKE</speaker><content> They wanted to keep it quiet.</content></utterance>
+<utterance uid="25-20"><speaker>BECKETT</speaker><content>Okay.  I need you to tell me everything you know about that mugging. Where were they when it happened?</content></utterance>
+<utterance uid="25-21"><speaker>HAWKE</speaker><content>Well, they were walking home from the Amnesty benefit.</content></utterance>
+<utterance uid="25-22"><speaker>BECKETT</speaker><content>And how did Alice put it off?</content></utterance>
+<utterance uid="25-23"><speaker>HAWKE</speaker><content>She didn’t.  The Warners said the mugger wore a ski mask but was definitely male.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>GATES</speaker><content>Alice had an accomplice?</content></utterance>
+<utterance uid="26-2"><speaker>BECKETT</speaker><content>If Hawke’s telling the truth then there’s another player involved. Someone who knew that the diamond was real and used Alice to get it.</content></utterance>
+<utterance uid="26-3"><speaker>GATES</speaker><content>Do you think Alice was under duress? That someone was forcing her to help?</content></utterance>
+<utterance uid="26-4"><speaker>CASTLE</speaker><content>Threatening to kill her? It would explain why she did it. And why she was trying to disappear.</content></utterance>
+<utterance uid="26-5"><speaker>ESPOSITO</speaker><content>Hey. We got a hit on our clown car. Uniforms found it abandoned by the East River.</content></utterance>
+<utterance uid="26-6"><speaker>RYAN</speaker><content>SUV’s been bleached and torched. CSU’s scouring it for clues but it seems like it was a high level job. And Tori has something on the mugging.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>TORI</speaker><content>Okay, now according to Hawke the mugger snatched the necklace at 11 o’clock on 52nd Street and bolted south on 8th. Unfortunately there are no street or security cams in the vicinity. But a 911 call came in two minutes later form 49th and 8th, three blocks away.</content></utterance>
+<utterance uid="27-2"><speaker>OPERATOR</speaker><content>911, what’s your emergency?</content></utterance>
+<utterance uid="27-3"><speaker>WOMAN</speaker><content>There’s been a hit and run.</content></utterance>
+<utterance uid="27-4"><speaker>OPERATOR</speaker><content>What’s your location? I’ll send an ambulance.</content></utterance>
+<utterance uid="27-5"><speaker>WOMAN</speaker><content>No, you don’t understand. I hit someone and he ran.</content></utterance>
+<utterance uid="27-6"><speaker>OPERATOR</speaker><content>He ran?</content></utterance>
+<utterance uid="27-7"><speaker>WOMAN</speaker><content>Yeah, a man dressed all in black, wearing a ski mask. He came out of nowhere.</content></utterance>
+<utterance uid="27-8"><speaker>BECKETT</speaker><content>That’s gotta be our guy.  Get over there. Get a full description.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>WOMAN</speaker><content>I can still hear the sound of his body going thunk on my hood.</content></utterance>
+<utterance uid="28-2"><speaker>RYAN</speaker><content>Do you remember what he looked like?</content></utterance>
+<utterance uid="28-3"><speaker>WOMAN</speaker><content>No. The whole thing was a blur. Just that God awful sound. He hit so hard he left a dent. But when I got out of my car he just pushed himself off and ran down 49th. Here, I’ll show you.  His hands were up like this, and then – </content></utterance>
+<utterance uid="28-4"><speaker>RYAN</speaker><content> Thank you. Thank you very much.</content></utterance>
+<utterance uid="28-5"><speaker>ESPOSITO</speaker><content>All right. I’ll call CSU.</content></utterance>
+<utterance uid="28-6"><speaker>RYAN</speaker><content>Ryan here.</content></utterance>
+<utterance uid="28-7"><speaker>PETERS</speaker><content>Detective, Edward Peters here. I believe I have new insight into your diamond. After reviewing test results on the stone, my colleagues and I all reached the same conclusion.</content></utterance>
+<utterance uid="28-8"><speaker>RYAN</speaker><content>Which is?</content></utterance>
+<utterance uid="28-9"><speaker>PETERS</speaker><content>The diamond is flawless. Flawless beyond anything nature could create.</content></utterance>
+<utterance uid="28-10"><speaker>RYAN</speaker><content>Are you saying it’s fake?</content></utterance>
+<utterance uid="28-11"><speaker>PETERS</speaker><content>No, it’s composed of carbon and entirely real. But it is man-made.</content></utterance>
+<utterance uid="28-12"><speaker>RYAN</speaker><content>Whoa … whoa, what are you saying, man-made?</content></utterance>
+<utterance uid="28-13"><speaker>PETERS</speaker><content>There have long been industrially produced diamonds, carbon under heat and pressure mimicking nature in a lab. But typically the stones are small or of inferior quality.</content></utterance>
+<utterance uid="28-14"><speaker>RYAN</speaker><content>So … it’s not worth $60 million?</content></utterance>
+<utterance uid="28-15"><speaker>PETERS</speaker><content> No. It’s actually worth infinitely more. In fact, it’s priceless.</content></utterance>
+<utterance uid="28-16"><speaker>RYAN</speaker><content>Priceless?</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>BECKETT</speaker><content>Priceless?</content></utterance>
+<utterance uid="29-2"><speaker>RYAN</speaker><content>Yeah. Apparently a stone of that size and quality, it’s the holy grail of diamond manufacturing, considered by most to be impossible.</content></utterance>
+<utterance uid="29-3"><speaker>CASTLE</speaker><content>Until now.</content></utterance>
+<utterance uid="29-4"><speaker>BECKETT</speaker><content>So where did the Warners get it? And why are they denying its existence?</content></utterance>
+<utterance uid="29-5"><speaker>RYAN</speaker><content>I don’t know.</content></utterance>
+<utterance uid="29-6"><speaker>CASTLE</speaker><content>I think I know who wanted it.  And who attacked you boys. A diamond like that, made in a lab? That would put diamond companies out of business.</content></utterance>
+<utterance uid="29-7"><speaker>RYAN</speaker><content>You think it’s the diamond industry who sent in the clowns?</content></utterance>
+<utterance uid="29-8"><speaker>CASTLE</speaker><content>With the future of their industry at stake? Who knows how far they’d go.</content></utterance>
+<utterance uid="29-9"><speaker>ESPOSITO</speaker><content>Hey guys? Tori got a hit.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>BECKETT</speaker><content>So CSU was able to pull a usable print?</content></utterance>
+<utterance uid="30-2"><speaker>ESPOSITO</speaker><content>Yeah, luck for us the lady wasn’t big into washing her car.</content></utterance>
+<utterance uid="30-3"><speaker>TORI</speaker><content>When I ran the print nothing popped in the federal database.</content></utterance>
+<utterance uid="30-4"><speaker>ESPOSITO</speaker><content>But given the international nature of the diamond industry I asked Tori to cast a wider net. We contacted Interpol.</content></utterance>
+<utterance uid="30-5"><speaker>RYAN</speaker><content>Our mugger’s a foreign national?</content></utterance>
+<utterance uid="30-6"><speaker>TORI</speaker><content>South African, to be exact. His name is Leo Wyngaard. In and out of half a dozen African prisons.</content></utterance>
+<utterance uid="30-7"><speaker>ESPOSITO</speaker><content>Not to mention he’s on the terror watch list.</content></utterance>
+<utterance uid="30-8"><speaker>CASTLE</speaker><content>Just the kind of guy a diamond cartel would hire for their dirty work.</content></utterance>
+<utterance uid="30-9"><speaker>ESPOSITO</speaker><content>Mmhmm.  Now show them the picture.</content></utterance>
+<utterance uid="30-10"><speaker>ESPOSITO</speaker><content>Look familiar?</content></utterance>
+<utterance uid="30-11"><speaker>BECKETT</speaker><content>That’s Matt Lanchet.</content></utterance>
+<utterance uid="30-12"><speaker>CASTLE</speaker><content>Alice’s boyfriend.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>RYAN</speaker><content>They almost missed him at JFK. He was boarding a flight to Johannesburg.</content></utterance>
+<utterance uid="31-2"><speaker>GATES</speaker><content>He must have cut his losses once he knew we had secured the diamond.</content></utterance>
+<utterance uid="31-3"><speaker>ESPOSITO</speaker><content>I still don’t get why the Warners had a man-made stone in the first place.</content></utterance>
+<utterance uid="31-4"><speaker>RYAN</speaker><content>Well whatever the reason, Leo wanted the diamond and he used Alice to get it.</content></utterance>
+<utterance uid="31-5"><speaker>ESPOSITO</speaker><content>Maybe he leveraged her into helping him. Forced her to pull the money out and order up a plane.</content></utterance>
+<utterance uid="31-6"><speaker>GATES</speaker><content>Then he killed her and made this whole thing look like it was her idea.</content></utterance>
+<utterance uid="31-7"><speaker>RYAN</speaker><content>Sir, considering that this guy tried to kill me and Espo for that diamond, mind if we go in there and get some answers?</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>LEO WYNGAARD</speaker><content>Wait, you think I’m working for the cartels? That I was using Alice? I loved Alice.</content></utterance>
+<utterance uid="32-2"><speaker>RYAN</speaker><content>You always use fake names with women that you love?</content></utterance>
+<utterance uid="32-3"><speaker>LEO</speaker><content>She knew who I really was. We were in this together.</content></utterance>
+<utterance uid="32-4"><speaker>ESPOSITO</speaker><content>Yeah, sure you were. Why did you steal that diamond?</content></utterance>
+<utterance uid="32-5"><speaker>LEO</speaker><content>Alice and I met when I was in Rwanda doing aid work. We were young and in love. And then one day soldiers came into the village, financed by the diamond cartel. We watched from the jungle as they slaughtered everyone. Casualties of a turn war for profit. That day changed me. I dedicated myself to stopping the cartel's bloody practices. It was a life I knew Alice couldn’t be a part of, but I never stopped loving her.</content></utterance>
+<utterance uid="32-6"><speaker>RYAN</speaker><content>So you’re working against the cartels by … stealing a man-made diamond?</content></utterance>
+<utterance uid="32-7"><speaker>LEO</speaker><content>Two years ago stones started popping up in Europe and the Middle East. Flawless and being sold for millions. That’s when a gemologist friend of mine happened across a pair of them. He discovered that they were exactly the same. Nature doesn’t make exact copies.</content></utterance>
+<utterance uid="32-8"><speaker>ESPOSITO</speaker><content>They were man-made.</content></utterance>
+<utterance uid="32-9"><speaker>LEO</speaker><content>Yeah. I tried to trace them back to their source. All I knew was that they were coming out of the States. And then Alice called me, out of the blue. Said one of her clients, Steve Warner, had a secret.</content></utterance>
+<utterance uid="32-10"><speaker>ESPOSITO</speaker><content>Wait, are you telling me Steve Warner can make diamonds?</content></utterance>
+<utterance uid="32-11"><speaker>LEO</speaker><content>Yes. Man-made diamonds are nothing new. But no one had ever produced this quality of gem before. Big and flawless. Soon diamond mines would be a relic of the past. Steve Warner’s technology could change everything. So I approached Warner. I begged him to make his technology available, but he denied he even had it. He was just using it to line his own pockets. The world needed to know and we needed proof.</content></utterance>
+<utterance uid="32-12"><speaker>ESPOSITO</speaker><content>The necklace.</content></utterance>
+<utterance uid="32-13"><speaker>LEO</speaker><content>We knew that if we could just examine that stone that we could tie it back to the others. That we could show everyone what he was doing and they could all see that it was possible. Then … everyone would eventually unlock the code.</content></utterance>
+<utterance uid="32-14"><speaker>ESPOSITO</speaker><content>Then all of a sudden flawless man-made diamonds would flood the market.</content></utterance>
+<utterance uid="32-15"><speaker>LEO</speaker><content>No more cartels. No more sponsored bloodshed. We were going to change the world. That night Alice had a plane standing by to take us to a private lab. But she never showed.</content></utterance>
+<utterance uid="32-16"><speaker>ESPOSITO</speaker><content>Did anyone else know that you had taken the diamond?</content></utterance>
+<utterance uid="32-17"><speaker>LEO</speaker><content>The only people that knew that diamond was gone were me, Alice, and the Warners.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>STEVE</speaker><content>We told you, we’re not answering questions about that diamond.</content></utterance>
+<utterance uid="33-2"><speaker>BECKETT</speaker><content>That’s okay. There’s nothing you can say that we don’t already know. For instance, we know it’s man-made.</content></utterance>
+<utterance uid="33-3"><speaker>CASTLE</speaker><content>And we know you are the man who made it.</content></utterance>
+<utterance uid="33-4"><speaker>BECKETT</speaker><content>We also know that you made a lot of cash secretly selling those man-made diamonds on foreign markets.</content></utterance>
+<utterance uid="33-5"><speaker>STEVE</speaker><content>That’s ridiculous. Do you know what I’m worth? Why would I do that?</content></utterance>
+<utterance uid="33-6"><speaker>BECKETT</speaker><content>You took a huge hit during the economic downturn. You were leveraged to the hilt. You needed that cash.</content></utterance>
+<utterance uid="33-7"><speaker>STEVE</speaker><content>Even if what you’re saying is true, that doesn’t mean I murdered Alice!</content></utterance>
+<utterance uid="33-8"><speaker>BECKETT</speaker><content>You did hire Hawke to get that diamond back.</content></utterance>
+<utterance uid="33-9"><speaker>STEVE</speaker><content> Okay.  I had to. I was afraid VonRowen would find out.</content></utterance>
+<utterance uid="33-10"><speaker>CASTLE</speaker><content>VonRowen the diamond cartel? What do they have to do with this?</content></utterance>
+<utterance uid="33-11"><speaker>STEVE</speaker><content>When I was in engineering school I developed a process for lab grown diamonds. But all I could manage were small, flawed stones. They were worthless. At the time I had no money, so I sold the technology to the only people interested. VonRowen.</content></utterance>
+<utterance uid="33-12"><speaker>JANET</speaker><content>They wanted to stifle the competition. You know, protect their market share.</content></utterance>
+<utterance uid="33-13"><speaker>STEVE</speaker><content>Then a few years ago Janet and I hit a rough patch and I wanted to give her something meaningful. It was too easy just to give her a diamond.</content></utterance>
+<utterance uid="33-14"><speaker>BECKETT</speaker><content>So you decided to make one of your own.</content></utterance>
+<utterance uid="33-15"><speaker>STEVE</speaker><content>I broke out my equipment so I could make her a small diamond.  But in the process I had a game changing breakthrough. My little romantic gesture became one of the biggest diamonds in history. Suddenly I could make flawless stones, as many as I wanted.</content></utterance>
+<utterance uid="33-16"><speaker>CASTLE</speaker><content>With technology that now belonged to VonRowen. And when the downturn hit and you needed cash –</content></utterance>
+<utterance uid="33-17"><speaker>BECKETT</speaker><content>- you realized you had the means, as long as no one knew.</content></utterance>
+<utterance uid="33-18"><speaker>STEVE</speaker><content>It violated our agreement. If VonRowen found out, they’d ruin me.</content></utterance>
+<utterance uid="33-19"><speaker>BECKETT</speaker><content>Which is why you hired a strike team to recover that stone from our custody.</content></utterance>
+<utterance uid="33-20"><speaker>STEVE</speaker><content>What? I don’t know what you’re talking about.</content></utterance>
+<utterance uid="33-21"><speaker>BECKETT</speaker><content>Mr. Warner, we found the SUV they used. It had been torched.  But CSU still was able to pull the VIN number.</content></utterance>
+<utterance uid="33-22"><speaker>CASTLE</speaker><content>Turns out it was stolen from a garage in Queens. And the garage owner, Joseph Biancci, he’s the brother-in-law of your head of security. We also pulled phone records and found that you and he had exchanged at least half a dozen phone calls in the hours before the attack.</content></utterance>
+<utterance uid="33-23"><speaker>STEVE</speaker><content>What?</content></utterance>
+<utterance uid="33-24"><speaker>BECKETT</speaker><content>You ordered that strike.</content></utterance>
+<utterance uid="33-25"><speaker>STEVE</speaker><content>I didn’t make these calls. I wasn’t even home. It’s - …  … no. Janet? What did you do?</content></utterance>
+<utterance uid="33-26"><speaker>JANET</speaker><content>What did I do? I treated her like family. I trusted her. When Hawke found out it was Alice, I went to her begging for her to give the stone back. I only meant to scare her. But she grabbed for the gun and …  She would have exposed us, Steve. We were going to lose everything. I had to stop her. I had to get it back. For us. For you.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>CASTLE</speaker><content>Keep ‘em closed.</content></utterance>
+<utterance uid="34-2"><speaker>BECKETT</speaker><content>Castle, I swear, if you’re bringing me face to face with Linus I’m going to pull my gun out and shoot him.</content></utterance>
+<utterance uid="34-3"><speaker>CASTLE</speaker><content>That will not be necessary.</content></utterance>
+<utterance uid="34-4"><speaker>BECKETT</speaker><content> Okay.</content></utterance>
+<utterance uid="34-5"><speaker>CASTLE</speaker><content>Okay … open them.</content></utterance>
+<utterance uid="34-6"><speaker>BECKETT</speaker><content>Seashells?</content></utterance>
+<utterance uid="34-7"><speaker>CASTLE</speaker><content>Well, not just seashells. Those are our seashells. We collected those –</content></utterance>
+<utterance uid="34-8"><speaker>BECKETT</speaker><content>On our first walk in the Hamptons.</content></utterance>
+<utterance uid="34-9"><speaker>BECKETT</speaker><content>Castle, you kept these?</content></utterance>
+<utterance uid="34-10"><speaker>CASTLE</speaker><content>Now I know it doesn’t really go with the space, but at least it won’t be hungrily staring at you in the morning.</content></utterance>
+<utterance uid="34-11"><speaker>BECKETT</speaker><content>You didn’t have to do this.</content></utterance>
+<utterance uid="34-12"><speaker>CASTLE</speaker><content>No, I did. I did. I finished reading Alice’s book and there’s a chapter in there that speaks to couples like us. See, we’re both alphas. And it says that we need to define our shared territory together.  These are pieces all over – these are all my stories. But the shells? That’s ours.</content></utterance>
+<utterance uid="34-13"><speaker>BECKETT</speaker><content>I like our story.</content></utterance>
+<utterance uid="34-14"><speaker>CASTLE</speaker><content>Yeah, me too.</content></utterance>
+<utterance uid="34-15"><speaker>CASTLE</speaker><content>Ooh. That can’t be good. You have to admit though, we brought this upon ourselves.</content></utterance>
+<utterance uid="34-16"><speaker>BECKETT</speaker><content>Seriously?</content></utterance>
+<utterance uid="34-17"><speaker>CASTLE</speaker><content>Look, if you’re scared you can always sleep on my side of the bed tonight.</content></utterance>
+<utterance uid="34-18"><speaker>BECKETT</speaker><content>Deal.</content></utterance>
+<utterance uid="34-19"><speaker>THE END</speaker><content>CASTLE</content></utterance>
+</scene>
+</script>

@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+
+<scene id="1"><utterance uid="1-1"><speaker>KATE BECKETT</speaker><content>So what makes you so sure that Alexis isn’t serious about this guy?</content></utterance>
+<utterance uid="1-2"><speaker>RICHARD CASTLE</speaker><content>Well, I haven’t met him or approved of him yet, so it can’t be serious. All suitors must be met and intimidated by me personally before they can be considered for official boyfriend status.</content></utterance>
+<utterance uid="1-3"><speaker>LANIE PARISH</speaker><content>I would not do that.</content></utterance>
+<utterance uid="1-4"><speaker>LANIE</speaker><content>Her body was in that barrel over there. Burned. And I mean beyond recognition.</content></utterance>
+<utterance uid="1-5"><speaker>BECKETT</speaker><content>Any chance of a positive ID?</content></utterance>
+<utterance uid="1-6"><speaker>LANIE</speaker><content>Not from fingerprints. But bone structure tells me it’s a young woman, about 5’4”.</content></utterance>
+<utterance uid="1-7"><speaker>CASTLE</speaker><content>So a transient?</content></utterance>
+<utterance uid="1-8"><speaker>LANIE</speaker><content>I doubt it. There’s a bullet hole in the back of her head. And then there’s her teeth. Every one of them was knocked out of her mouth.</content></utterance>
+<utterance uid="1-9"><speaker>CASTLE</speaker><content>So much for dental records.</content></utterance>
+<utterance uid="1-10"><speaker>BECKETT</speaker><content>Someone obviously went to great lengths to make sure she disappeared.</content></utterance>
+<utterance uid="1-11"><speaker>KEVIN RYAN</speaker><content>So none of these guys saw anything. They panhandle by day and don’t come back here ‘til it’s dark.</content></utterance>
+<utterance uid="1-12"><speaker>JAVIER ESPOSITO</speaker><content>First guy who showed up said the fire was already going. Sounds like a dump job.</content></utterance>
+<utterance uid="1-13"><speaker>BECKETT</speaker><content>All right, we have a female. She’s 5 foot 4. Let’s start looking through missing persons reports.</content></utterance>
+<utterance uid="1-14"><speaker>LANIE</speaker><content>Wait.  You may not have to do that. A titanium screw. From her jaw.</content></utterance>
+<utterance uid="1-15"><speaker>CASTLE</speaker><content>Dental implant.</content></utterance>
+<utterance uid="1-16"><speaker>LANIE</speaker><content>And there’s a batch number. Which could give us her name.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>RYAN</speaker><content>We traced that dental screw to Melanie Rogers, 27. Lived in New Jersey near Rutgers University where she was a post-doc engineer in ecofriendly design. By all accounts she was well-liked, respected. No one I talked to had any idea who could have done this to her.</content></utterance>
+<utterance uid="2-2"><speaker>CASTLE</speaker><content>What’s an engineer from New Jersey doing in a barrel in Manhattan?</content></utterance>
+<utterance uid="2-3"><speaker>ESPOSITO</speaker><content>I don’t know, but something was going on with her. I pulled her phone records for yesterday. She made half a dozen calls to the same number in a 20 minute period.</content></utterance>
+<utterance uid="2-4"><speaker>CASTLE</speaker><content>Boyfriend?</content></utterance>
+<utterance uid="2-5"><speaker>ESPOSITO</speaker><content>Could be. It’s a 202 number, but it’s listed as blocked.</content></utterance>
+<utterance uid="2-6"><speaker>CASTLE</speaker><content>202 … uh, that’s Washington D.C.</content></utterance>
+<utterance uid="2-7"><speaker>ESPOSITO</speaker><content>Yep. Preliminary check shows it’s a cell phone.</content></utterance>
+<utterance uid="2-8"><speaker>BECKETT</speaker><content>Which means whoever it is might be in the city. Whoever it is, let’s get a warrant on that phone number.</content></utterance>
+<utterance uid="2-9"><speaker>ESPOSITO</speaker><content>She made one other call after that around 4PM. And then after that all her phone activity went dark.</content></utterance>
+<utterance uid="2-10"><speaker>BECKETT</speaker><content>Who was the call to?</content></utterance>
+<utterance uid="2-11"><speaker>ESPOSITO</speaker><content>It was to her half-sister, Julie. I took a look, she’s her only family. She works as a loan officer in Midtown.</content></utterance>
+<utterance uid="2-12"><speaker>BECKETT</speaker><content>Bring her in. She might be able to shed some light.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>JULIE</speaker><content>Melanie and I were never all that close. But when our dad got sick we … um … we found each other.</content></utterance>
+<utterance uid="3-2"><speaker>CASTLE</speaker><content>Do you have any idea what your sister was doing in the city yesterday?</content></utterance>
+<utterance uid="3-3"><speaker>JULIE</speaker><content>No. She came in from time to time.</content></utterance>
+<utterance uid="3-4"><speaker>BECKETT</speaker><content>Do you know if she was dating anyone recently?</content></utterance>
+<utterance uid="3-5"><speaker>CASTLE</speaker><content>Someone from D.C. perhaps?</content></utterance>
+<utterance uid="3-6"><speaker>JULIE</speaker><content>Not that I knew about.  Although, just two nights ago she met me for dinner. She mentioned meeting a friend afterwards.</content></utterance>
+<utterance uid="3-7"><speaker>CASTLE</speaker><content>Did she say who?</content></utterance>
+<utterance uid="3-8"><speaker>JULIE</speaker><content>Well, I asked, but she said that she couldn’t talk about it for some reason.</content></utterance>
+<utterance uid="3-9"><speaker>BECKETT</speaker><content>So when you spoke with her yesterday did it sound like anything was wrong?</content></utterance>
+<utterance uid="3-10"><speaker>JULIE</speaker><content>I never spoke to her yesterday.</content></utterance>
+<utterance uid="3-11"><speaker>CASTLE</speaker><content>He phone records indicate she called you about 4 o’clock.</content></utterance>
+<utterance uid="3-12"><speaker>JULIE</speaker><content>4? No, I was in a meeting.  Oh my God. She left a message.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>MELANIE</speaker><content>Hey, it’s me. Listen, I think something’s going on. Something’s not right. I’m pretty sure someone’s after me.</content></utterance>
+<utterance uid="4-2"><speaker>BECKETT</speaker><content>She’s in a parking structure.</content></utterance>
+<utterance uid="4-3"><speaker>CASTLE</speaker><content>You can hear two sets of footsteps.</content></utterance>
+<utterance uid="4-4"><speaker>BECKETT</speaker><content> Mmhmm.</content></utterance>
+<utterance uid="4-5"><speaker>MELANIE</speaker><content>If anything happens, tell them X T 3.</content></utterance>
+<utterance uid="4-6"><speaker>TECH</speaker><content>That’s it.</content></utterance>
+<utterance uid="4-7"><speaker>BECKETT</speaker><content>She recorded her own murder.</content></utterance>
+<utterance uid="4-8"><speaker>CASTLE</speaker><content>Okay, parking structure. Letters and numbers. Sounds like she’s reading off a license plate.</content></utterance>
+<utterance uid="4-9"><speaker>BECKETT</speaker><content>Of the guy that was following her. And X T 3, I mean, there’s going to be thousands of plates with that partial.  Can you play the end again? I thought I heard something after the phone hit the ground.</content></utterance>
+<utterance uid="4-10"><speaker>MELANIE</speaker><content>If anything happens, tell them X T 3.</content></utterance>
+<utterance uid="4-11"><speaker>BECKETT</speaker><content>There. Did you hear that? There was a click.</content></utterance>
+<utterance uid="4-12"><speaker>TECH</speaker><content>Let me see what I can do with that.</content></utterance>
+<utterance uid="4-13"><speaker>CASTLE</speaker><content>That’s a lighter. That’s a Zippo lighter. So he killed Melanie and then stopped to have a cigarette.</content></utterance>
+<utterance uid="4-14"><speaker>BECKETT</speaker><content>Which means we might be dealing with a psychopath.</content></utterance>
+<utterance uid="4-15"><speaker>RYAN</speaker><content>So that D.C. number? Looks like whoever owns it was in town. She called it the other night right after dinner with her sister.</content></utterance>
+<utterance uid="4-16"><speaker>CASTLE</speaker><content>When she said she was meeting someone.</content></utterance>
+<utterance uid="4-17"><speaker>RYAN</speaker><content>Yeah, that’s right. Credit card record says that she was in a cab just a few minutes later. I tracked down the driver. Said he dropped her off at the Standish Hotel at 11PM.</content></utterance>
+<utterance uid="4-18"><speaker>CASTLE</speaker><content>Perhaps she was meeting her Washington friend for a secret tryst?</content></utterance>
+<utterance uid="4-19"><speaker>RYAN</speaker><content>Makes sense. The Standish is popular with married men who value discretion.</content></utterance>
+<utterance uid="4-20"><speaker>CASTLE</speaker><content>Maybe someone at the hotel saw her with him.</content></utterance>
+</scene>
+
+<scene id="5"><utterance uid="5-1"><speaker>CONCIERGE</speaker><content>I’m really not sure. So many people come through here every day.</content></utterance>
+<utterance uid="5-2"><speaker>BECKETT</speaker><content>Look again.  And keep in mind, this is a murder investigation.</content></utterance>
+<utterance uid="5-3"><speaker>CONCIERGE</speaker><content>I might have seen her a few times.</content></utterance>
+<utterance uid="5-4"><speaker>BECKETT</speaker><content>What about two nights ago?</content></utterance>
+<utterance uid="5-5"><speaker>CONCIERGE</speaker><content>Probably.</content></utterance>
+<utterance uid="5-6"><speaker>CASTLE</speaker><content>Was she meeting someone?</content></utterance>
+<utterance uid="5-7"><speaker>BECKETT</speaker><content>I’m gonna need a name.</content></utterance>
+<utterance uid="5-8"><speaker>CONCIERGE</speaker><content>Look, our clients value their privacy. You’re really putting me in an awkward position here.</content></utterance>
+<utterance uid="5-9"><speaker>BECKET</speaker><content>Oh, you think this is awkward? Wait ‘til I get a warrant and start questioning all the people that have stayed here over the past year.</content></utterance>
+<utterance uid="5-10"><speaker>CONCIERGE</speaker><content>Fine.  You didn’t hear it from me.</content></utterance>
+<utterance uid="5-11"><speaker>BECKETT</speaker><content>It can’t be. Melanie was having an affair with Senator Bracken.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>BECKETT</speaker><content>That’s it. Esposito’s confirmed it. The number that Melanie was calling was Senator Bracken’s cell phone.</content></utterance>
+<utterance uid="6-2"><speaker>CASTLE</speaker><content>Late night phone calls, secret hotel meetings. Bracken was having an affair with Melanie. She must have become a liability.</content></utterance>
+<utterance uid="6-3"><speaker>BECKETT</speaker><content>Or she stumbled on to something that he was involved in and became a threat.</content></utterance>
+<utterance uid="6-4"><speaker>CASTLE</speaker><content>So he dealt with her. Same way he dealt with your mother and tried to deal with you.</content></utterance>
+<utterance uid="6-5"><speaker>BECKETT</speaker><content>This is it, Castle. This is my chance to finally make him pay.</content></utterance>
+<utterance uid="6-6"><speaker>CASTLE</speaker><content>But we have to be cautious. We know what happens to people who go after him.</content></utterance>
+<utterance uid="6-7"><speaker>BECKETT</speaker><content>Except this time he doesn’t know we’re on to him. We’ve got the advantage here.</content></utterance>
+<utterance uid="6-8"><speaker>CASTLE</speaker><content>Do we? What do you think he’s going to do when he sees you coming?</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>ESPOSITO</speaker><content>How many people do you think this bastard put in the ground to get here?</content></utterance>
+<utterance uid="7-2"><speaker>RYAN</speaker><content>Hey, remember. We’re only here to see if he can help us locate Melanie.</content></utterance>
+<utterance uid="7-3"><speaker>ESPOSITO</speaker><content>Yeah, yeah, yeah. Let him think he got away with it. Like he does everything else. You know, I was really hoping the next time I saw this guy would be down the barrel of my gun.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>BENJAMIN MOSS</speaker><content>You sure I can’t change your mind? I could really use your help on this one, Bill.</content></utterance>
+<utterance uid="8-2"><speaker>SENATOR WILLIAM BRACKEN</speaker><content>I would if I could, you know that. You also know what this legislation is to me.</content></utterance>
+<utterance uid="8-3"><speaker>BUTLER</speaker><content>Senator. Some detectives here to see you.</content></utterance>
+<utterance uid="8-4"><speaker>RYAN</speaker><content>Sorry to trouble you, Senator. This won’t take long.</content></utterance>
+<utterance uid="8-5"><speaker>SHIELA BRACKEN</speaker><content>What’s this about, Bill?</content></utterance>
+<utterance uid="8-6"><speaker>BRACKEN</speaker><content>I’m not sure.  You look familiar. Have we met?</content></utterance>
+<utterance uid="8-7"><speaker>RYAN</speaker><content>I don’t think so, sir. Is there someplace we can talk?</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>BRACKEN</speaker><content>I’d offer you both a drink, but I get the feeling this is an official call.</content></utterance>
+<utterance uid="9-2"><speaker>RYAN</speaker><content>Well, we’d just like to ask you a few questions about someone. Melanie Rogers?</content></utterance>
+<utterance uid="9-3"><speaker>BRACKEN</speaker><content>Yeah, sure. I know Melanie. She’s a great girl. Is there a problem?</content></utterance>
+<utterance uid="9-4"><speaker>ESPOSITO</speaker><content>She’s – she’s missing. Since yesterday.</content></utterance>
+<utterance uid="9-5"><speaker>BRACKEN</speaker><content>She’s missing? That’s terrible. Whatever I can do to help.</content></utterance>
+<utterance uid="9-6"><speaker>RYAN</speaker><content>When was the last time you saw Ms. Rogers?</content></utterance>
+<utterance uid="9-7"><speaker>BRACKEN</speaker><content>Just yesterday. We’re both attending the same eco-conference in the city.</content></utterance>
+<utterance uid="9-8"><speaker>RYAN</speaker><content>Oh. So you ran into her there?</content></utterance>
+<utterance uid="9-9"><speaker>BRACKEN</speaker><content>No, I’m uh, giving the keynote address and she was helping me with my speech.</content></utterance>
+<utterance uid="9-10"><speaker>ESPOSITO</speaker><content>Oh, so she works for you?</content></utterance>
+<utterance uid="9-11"><speaker>BRACKEN</speaker><content>Not exactly. She agreed to consult with me on a very important piece of legislation that I’m unveiling.</content></utterance>
+<utterance uid="9-12"><speaker>ESPOSITO</speaker><content>So she’s an non-paid consultant?</content></utterance>
+<utterance uid="9-13"><speaker>BRACKEN</speaker><content>I suppose. Why?</content></utterance>
+<utterance uid="9-14"><speaker>ESPOSITO</speaker><content>It’s just that you were seen at the Standish Hotel together two nights ago.</content></utterance>
+<utterance uid="9-15"><speaker>BRACKEN</speaker><content>What are you implying?</content></utterance>
+<utterance uid="9-16"><speaker>RYAN</speaker><content>We’re just trying to establish a timeline of Melanie’s whereabouts.</content></utterance>
+<utterance uid="9-17"><speaker>BRACKEN</speaker><content>The hell you are. You’re trying to take a professional relationship and use it against me.</content></utterance>
+<utterance uid="9-18"><speaker>ESPOSITO</speaker><content>Look, man. We’re not trying to jam you up –</content></utterance>
+<utterance uid="9-19"><speaker>BRACKEN</speaker><content>I know where I’ve seen you.  You work with Detective Beckett.</content></utterance>
+<utterance uid="9-20"><speaker>RYAN</speaker><content>We just have a few more questions.</content></utterance>
+<utterance uid="9-21"><speaker>BRACKEN</speaker><content>Then call my lawyer.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>ESPOSITO</speaker><content>Well the guy’s guilty as hell, but he has an alibi. He was at some conference all day. Ryan’s checking it out now.</content></utterance>
+<utterance uid="10-2"><speaker>BECKETT</speaker><content>It’s gonna check out. He never does this on his own. He always sends someone else.</content></utterance>
+<utterance uid="10-3"><speaker>CASTLE</speaker><content>Okay, okay, so now not only do we have to find this killer, but we have to connect him to Bracken.</content></utterance>
+<utterance uid="10-4"><speaker>ESPOSITO</speaker><content>Except we have no idea where to start looking. We don’t even have a real crime scene.</content></utterance>
+<utterance uid="10-5"><speaker>BECKETT</speaker><content>No, but we’re getting closer.  The FBI performed an analysis of Melanie’s voicemail. It was a call made from a parking garage where she was abducted.</content></utterance>
+<utterance uid="10-6"><speaker>CASTLE</speaker><content>They identified the background noise as a hydraulic motor of a TC-501 tower crane.</content></utterance>
+<utterance uid="10-7"><speaker>ESPOSITO</speaker><content>Tower cranes are used in heavy construction.</content></utterance>
+<utterance uid="10-8"><speaker>CASTLE</speaker><content>Which means the garage is near a construction site. And only 12 sites in the city are currently using that crane.</content></utterance>
+<utterance uid="10-9"><speaker>RYAN</speaker><content>Hey, so Bracken’s alibi checked out. Witnesses put him at the Golden Ecological Conference all day yesterday. They also confirmed that Melanie was there, just like he said. She was seen leaving at 3:45.</content></utterance>
+<utterance uid="10-10"><speaker>BECKETT</speaker><content>Melanie left the voicemail from the parking garage at 4.</content></utterance>
+<utterance uid="10-11"><speaker>CASTLE</speaker><content>Where was that conference being held?</content></utterance>
+<utterance uid="10-12"><speaker>RYAN</speaker><content>At the Widmark Hotel, downtown.</content></utterance>
+<utterance uid="10-13"><speaker>CASTLE</speaker><content>The Widmark. That’s 5 blocks from that construction site. </content></utterance>
+<utterance uid="10-14"><speaker>BECKETT</speaker><content>Which is right next to a parking garage.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>RYAN</speaker><content>Hey, Beckett! You need to see this!</content></utterance>
+<utterance uid="11-2"><speaker>RYAN</speaker><content>XT3. Just like in Melanie’s voicemail.</content></utterance>
+<utterance uid="11-3"><speaker>BECKETT</speaker><content>Did you run the plates?</content></utterance>
+<utterance uid="11-4"><speaker>RYAN</speaker><content>Yeah, just came back stolen reported 4 days ago.</content></utterance>
+<utterance uid="11-5"><speaker>BECKETT</speaker><content>All right, you guys check inside. Espo, pop the trunk.</content></utterance>
+<utterance uid="11-6"><speaker>CASTLE</speaker><content>I may be wrong, but that looks like a sniper rifle.</content></utterance>
+<utterance uid="11-7"><speaker>RYAN</speaker><content>You wouldn’t be wrong.</content></utterance>
+<utterance uid="11-8"><speaker>ESPOSITO</speaker><content>Yo. Widmark Hotel. That’s where their conference is.</content></utterance>
+<utterance uid="11-9"><speaker>RYAN</speaker><content>Didn’t Bracken say that he was giving a speech there in a couple of days?</content></utterance>
+<utterance uid="11-10"><speaker>ESPOSITO</speaker><content>Mmhmm.</content></utterance>
+<utterance uid="11-11"><speaker>BECKETT</speaker><content>I don’t think Bracken’s our killer.</content></utterance>
+<utterance uid="11-12"><speaker>CASTLE</speaker><content>He isn’t.</content></utterance>
+<utterance uid="11-13"><speaker>CASTLE</speaker><content>He’s the target.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>BECKETT</speaker><content>Based on what we found in the car, someone was planning on shooting the Senator at the Eco Conference tomorrow night while he delivers his keynote speech.</content></utterance>
+<utterance uid="12-2"><speaker>CAPTAIN VICTORIA GATES</speaker><content>And if our suspect is still out there he’s still a threat.  Did we get any prints off that duffle bag?</content></utterance>
+<utterance uid="12-3"><speaker>BECKETT</speaker><content>Not yet, sir. CSU’s still dusting the car, the notebook, and everything else in the bag, including the rifle. Now, we have serial numbers on the rifle and we’re looking into those.</content></utterance>
+<utterance uid="12-4"><speaker>GATES</speaker><content>And our victim. How did Melanie Rogers get mixed up in this?</content></utterance>
+<utterance uid="12-5"><speaker>CASTLE</speaker><content>Somehow she stumbled onto his plot and he killed her.</content></utterance>
+<utterance uid="12-6"><speaker>GATES</speaker><content>Excuse me. It’s the Mayor. Keep me posted.</content></utterance>
+<utterance uid="12-7"><speaker>BECKETT</speaker><content>Mmhmm.</content></utterance>
+<utterance uid="12-8"><speaker>RYAN</speaker><content>We might have a description of our potential shooter. Widmark security stopped someone from getting into the conference without proper credentials.</content></utterance>
+<utterance uid="12-9"><speaker>BECKETT</speaker><content>When?</content></utterance>
+<utterance uid="12-10"><speaker>RYAN</speaker><content>Two days ago. Caucasian, baseball cap, beard, long stringy hair, and he was carrying a large grey duffle bag just like that one.</content></utterance>
+<utterance uid="12-11"><speaker>CASTLE</speaker><content>What time?</content></utterance>
+<utterance uid="12-12"><speaker>RYAN</speaker><content>They said it was about 3:45PM.</content></utterance>
+<utterance uid="12-13"><speaker>CASTLE</speaker><content>That’s when Melanie left the conference. In her message she said something wasn’t right. What if she saw this guy and followed him to the garage?</content></utterance>
+<utterance uid="12-14"><speaker>BECKETT</speaker><content>All right, grab Espo and a sketch artist. Go down and talk to security at the Widmark. I want a picture of this guy in circulation within the hour.</content></utterance>
+<utterance uid="12-15"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+<utterance uid="12-16"><speaker>CASTLE</speaker><content>Kate.</content></utterance>
+<utterance uid="12-17"><speaker>BECKETT</speaker><content>I was finally going to put this guy away, Castle.  And now I’m protecting the man who killed my mother.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>GATES</speaker><content>Senator, we can provide you with an increased security detail. But until we apprehend this man, I recommend you postpone your speech.</content></utterance>
+<utterance uid="13-2"><speaker>CHIEF OF STAFF EVAN HOWARD</speaker><content>Is that really necessary? I mean, isn’t the threat all but neutralized?</content></utterance>
+<utterance uid="13-3"><speaker>BECKETT</speaker><content>But we haven’t stopped him. Look, we’re talking about someone that is ruthless, methodical. Someone that killed Melanie Rogers just to keep her from talking. That suggests a person that is intent on seeing this through.</content></utterance>
+<utterance uid="13-4"><speaker>HOWARD</speaker><content>Yes, but you said you could increase his security detail. Look, this isn’t just any conference. The Senator is going to unveil a far-reaching environmental initiative that is the cornerstone of his term. We have issued dozens of press credentials –</content></utterance>
+<utterance uid="13-5"><speaker>GATES</speaker><content>Senator, I cannot guarantee your safety.</content></utterance>
+<utterance uid="13-6"><speaker>BRACKEN</speaker><content>I’m speaking at that conference. This keynote address puts me on the national stage. I’m not going to run and hide just because some whacko with a notebook made a threat. Now, I suggest that you people do whatever it takes to stop this man. Thank you.</content></utterance>
+<utterance uid="13-7"><speaker>GATES</speaker><content>Very well, Senator. Detective Beckett will need a moment with you.</content></utterance>
+<utterance uid="13-8"><speaker>BRACKEN</speaker><content>Why?</content></utterance>
+<utterance uid="13-9"><speaker>GATES</speaker><content>Because she’s leading the investigation.</content></utterance>
+<utterance uid="13-10"><speaker>GATES</speaker><content>Is there some reason you don’t want to work with Detective Beckett?</content></utterance>
+<utterance uid="13-11"><speaker>BRACKEN</speaker><content>Let’s find someplace private, shall we, Detective?</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>BRACKEN</speaker><content>Well. Hard to miss the irony of this situation.</content></utterance>
+<utterance uid="14-2"><speaker>BECKETT</speaker><content> Senator Bracken, do you have any enemies? Is there anyone you can think of that would like to kill you?</content></utterance>
+<utterance uid="14-3"><speaker>BRACKEN</speaker><content>I get threatening letters and emails all the time. Comes with the office. My chief of staff keeps a file.</content></utterance>
+<utterance uid="14-4"><speaker>BECKETT</speaker><content>Anyone with a legitimate claim?</content></utterance>
+<utterance uid="14-5"><speaker>BRACKEN</speaker><content>A man doesn’t get to my position without upsetting people along the way. Most of them aren’t crazy enough to want to kill me.  Present company excluded.</content></utterance>
+<utterance uid="14-6"><speaker>BECKETT</speaker><content>You know Senator, I’m not the one you should be worried about right now.</content></utterance>
+<utterance uid="14-7"><speaker>BRACKEN</speaker><content>It’s just us here, Detective. A shooter on the loose, me in the crosshairs. Must be a dream come true for you.</content></utterance>
+<utterance uid="14-8"><speaker>BECKETT</speaker><content> In my dreams I’m the one that gets to pull the trigger.  But you know, if you’re not comfortable with me leading this investigation you’re welcome to step outside and tell everyone why.</content></utterance>
+<utterance uid="14-9"><speaker>BECKETT</speaker><content>Well then, I guess we’re stuck with each other. So then let me make one thing clear. This man killed Melanie Rogers. And when someone commits murder, whoever he is, Senator, I will bring him to justice. No matter how long it takes.</content></utterance>
+<utterance uid="14-10"><speaker>BRACKEN</speaker><content>I’ll have my chief of staff send over the letters.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>ESPOSITO</speaker><content>I’ll tell you something. If I’m her, I sit in there shuffling papers until whoever it is puts a bullet in Bracken’s head.</content></utterance>
+<utterance uid="15-2"><speaker>RYAN</speaker><content>No you wouldn’t. Because that would make you no better than he is.</content></utterance>
+<utterance uid="15-3"><speaker>ESPOSITO</speaker><content>The guy murdered Beckett’s mother. Captain Montgomery. Who knows who else. Bracken’s got it coming to him. So I say let it come.</content></utterance>
+<utterance uid="15-4"><speaker>GATES</speaker><content>The mayor’s asking for an update. What’s the latest?</content></utterance>
+<utterance uid="15-5"><speaker>RYAN</speaker><content>Serial number on that rifle led us to a hunting store in Patterson, New Jersey. The owner ID’d our suspect from the sketch. The paperwork indicates that several firearms were purchased, but the name and address are all bogus.</content></utterance>
+<utterance uid="15-6"><speaker>GATES</speaker><content>Okay, take a few units to canvass the area near the store and take the sketch of our suspect.</content></utterance>
+<utterance uid="15-7"><speaker>GATES</speaker><content>Detective Esposito.</content></utterance>
+<utterance uid="15-8"><speaker>ESPOSITO</speaker><content>Mmhmm.</content></utterance>
+<utterance uid="15-9"><speaker>GATES</speaker><content>Any word from CSU?</content></utterance>
+<utterance uid="15-10"><speaker>ESPOSITO</speaker><content>Yes, sir. They discovered part of a receipt with a smudge on it in the duffle bag, been trying to get a partial print off of that. There’s no point of sale on the receipt, but the SKU number matched that hat.  Manufacturer’s sending over a list of outlets in the tri-state area, but there’s over 200 locations.</content></utterance>
+<utterance uid="15-11"><speaker>GATES</speaker><content>Focus on the ones in Jersey first.  24 hours before Bracken speaks. Maybe Beckett will have better luck with those threat letters.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>CASTLE</speaker><content>Man, these people need to get a life. Most of these guys it seems like their only companionship is the space alien that talks to them through their microwave.</content></utterance>
+<utterance uid="16-2"><speaker>BECKETT</speaker><content>Yeah well, there’s a lot of lonely, confused people out there. But so far none of the letters match the handwriting in our suspect’s notebook.</content></utterance>
+<utterance uid="16-3"><speaker>CASTLE</speaker><content>Considering what he’s capable of, you would think Bracken would have more … formidable enemies.</content></utterance>
+<utterance uid="16-4"><speaker>BECKETT</speaker><content>Oh, obviously you never saw the letter that I sent him.</content></utterance>
+<utterance uid="16-5"><speaker>CASTLE</speaker><content>No, I did actually. I liked the way you uh, dotted the ‘I’ in kill with a little heart. It was a nice touch.</content></utterance>
+<utterance uid="16-6"><speaker>BECKETT</speaker><content>Well, I was trying to give it a personal feel.</content></utterance>
+<utterance uid="16-7"><speaker>CASTLE</speaker><content>Well done.</content></utterance>
+<utterance uid="16-8"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="16-9"><speaker>CASTLE</speaker><content>So we’re really not going to talk about this?</content></utterance>
+<utterance uid="16-10"><speaker>BECKETT</speaker><content> I mean, Castle, what is there to talk about?</content></utterance>
+<utterance uid="16-11"><speaker>CASTLE</speaker><content>Honestly? Practically … everything.</content></utterance>
+<utterance uid="16-12"><speaker>BECKETT</speaker><content>Which is why all I can do is treat it like another case. Because that’s what it is. It’s –  – just like any other case.</content></utterance>
+<utterance uid="16-13"><speaker>BECKETT</speaker><content>You’re tired, Castle. Why don’t you go get some rest?</content></utterance>
+<utterance uid="16-14"><speaker>CASTLE</speaker><content>No, no, no. I can stay if you like.</content></utterance>
+<utterance uid="16-15"><speaker>BECKETT</speaker><content>No. C’mon. Go. I’ll call you if I need anything, okay?</content></utterance>
+<utterance uid="16-16"><speaker>CASTLE</speaker><content>You really are remarkable, you know that?</content></utterance>
+</scene>
+
+<scene id="17"><utterance uid="17-1"><speaker>BECKETT</speaker><content>I’ve been working on this case where I have to find a suspect and I came across a piece of evidence. It’s a letter that he wrote and there’s no address. There’s no name. Just a postmark from New Jersey. And I know in my gut that this is our big break. One way or another it’s going to lead us straight to him.</content></utterance>
+<utterance uid="17-2"><speaker>BECKETT</speaker><content>If we find this suspect, someone worse, much worse, is going to escape justice.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>BURKE</speaker><content>I take it no one else knows about the letter.</content></utterance>
+<utterance uid="18-2"><speaker>BECKETT</speaker><content>No. Not yet.</content></utterance>
+<utterance uid="18-3"><speaker>BURKE</speaker><content>As a police officer you must have faced similar dilemmas.</content></utterance>
+<utterance uid="18-4"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="18-5"><speaker>BURKE</speaker><content>Why is this time different?</content></utterance>
+<utterance uid="18-6"><speaker>BECKETT</speaker><content>Because this time it feels like there’s no right choice.</content></utterance>
+<utterance uid="18-7"><speaker>BURKE</speaker><content>Maybe the right choice is the one you can live with.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>CASTLE</speaker><content>Hey. You guys seen Beckett?</content></utterance>
+<utterance uid="19-2"><speaker>RYAN</speaker><content>No. Not since last night. We thought she was with you.</content></utterance>
+<utterance uid="19-3"><speaker>CASTLE</speaker><content>No. I tried her a couple of times this morning, but wasn’t picking up.</content></utterance>
+<utterance uid="19-4"><speaker>ESPOSITO</speaker><content> All right, thanks.  Yo, I’m trying to get through this list of stores that sell the baseball caps. Half of them aren’t even open yet. What about you?</content></utterance>
+<utterance uid="19-5"><speaker>RYAN</speaker><content>Nada. A canvass around the gun store turned up empty.</content></utterance>
+<utterance uid="19-6"><speaker>BECKETT</speaker><content>Hey.</content></utterance>
+<utterance uid="19-7"><speaker>CASTLE</speaker><content>Hey.</content></utterance>
+<utterance uid="19-8"><speaker>BECKETT</speaker><content>You guys, where are we on the suspect?</content></utterance>
+<utterance uid="19-9"><speaker>ESPOSITO</speaker><content>Nowhere. And Senator Bracken speaks in 10 hours. You find anything in those letters?</content></utterance>
+<utterance uid="19-10"><speaker>BECKETT</speaker><content> Uh, no. Nothing significant.</content></utterance>
+<utterance uid="19-11"><speaker>CASTLE</speaker><content>You doing all right?</content></utterance>
+<utterance uid="19-12"><speaker>BECKETT</speaker><content>I need a second.</content></utterance>
+</scene>
+
+<scene id="20"><utterance uid="20-1"><speaker>BECKETT</speaker><content>You guys, there’s something that I –</content></utterance>
+<utterance uid="20-2"><speaker>ESPOSITO</speaker><content>Yo. I just heard back from CSU on that receipt from the duffle bag.</content></utterance>
+<utterance uid="20-3"><speaker>RYAN</speaker><content>They get a print off that smudge?</content></utterance>
+<utterance uid="20-4"><speaker>ESPOSITO</speaker><content>No, but it contained traces of synthetic motor oil and brake pad residue.</content></utterance>
+<utterance uid="20-5"><speaker>CASTLE</speaker><content>Sounds like our guy’s a mechanic.</content></utterance>
+<utterance uid="20-6"><speaker>BECKETT</speaker><content>So maybe he was shopping for the rifle near work. Where’s that store again?</content></utterance>
+<utterance uid="20-7"><speaker>RYAN</speaker><content>Patterson. Just off the highway.</content></utterance>
+<utterance uid="20-8"><speaker>ESPOSITO</speaker><content>That’s the place to start.</content></utterance>
+<utterance uid="20-9"><speaker>BECKETT</speaker><content>All right, I’m going to get you guys addresses on your way. I’ll compile a list of every service station within a five mile radius and we’ll expand from there.</content></utterance>
+<utterance uid="20-10"><speaker>CASTLE</speaker><content>Were you going to say something?</content></utterance>
+<utterance uid="20-11"><speaker>BECKETT</speaker><content> No, we’re past it.</content></utterance>
+</scene>
+
+<scene id="21"><utterance uid="21-1"><speaker>RYAN</speaker><content>Who knew Patterson had so many service stations, huh?</content></utterance>
+<utterance uid="21-2"><speaker>ESPOSITO</speaker><content>I’m pretty sure we left Patterson five shops ago.</content></utterance>
+<utterance uid="21-3"><speaker>RYAN</speaker><content>Ugh. Back in 20 minutes.</content></utterance>
+<utterance uid="21-4"><speaker>ESPOSITO</speaker><content>Well we don’t have 20 minutes to waste. Let’s move on to the next one. We’ll circle back around.</content></utterance>
+<utterance uid="21-5"><speaker>RYAN</speaker><content>Whoa, whoa, whoa, whoa, wait a minute.  Hey, look on top of the counter. They sell those hats here.</content></utterance>
+<utterance uid="21-6"><speaker>ESPOSITO</speaker><content>Open up! Police business!</content></utterance>
+<utterance uid="21-7"><speaker>BEN</speaker><content>All right, I’m coming. Relax! Don’t break my glass. Yeah, I see it.</content></utterance>
+<utterance uid="21-8"><speaker>ESPOSITO</speaker><content>How’re you doing? NYPD.  Do you know this guy?</content></utterance>
+<utterance uid="21-9"><speaker>BEN</speaker><content>Maybe. He looks like one of my mechanics. I mean, he used to be. I laid him off like 3 weeks ago.</content></utterance>
+<utterance uid="21-10"><speaker>RYAN</speaker><content>Do you have any paperwork he might have filled out? Maybe a work order?</content></utterance>
+<utterance uid="21-11"><speaker>BEN</speaker><content>I might have something back here.</content></utterance>
+<utterance uid="21-12"><speaker>BEN</speaker><content>Yeah, that’s it right there.</content></utterance>
+<utterance uid="21-13"><speaker>ESPOSITO</speaker><content>Handwriting’s a match. It’s our guy.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>CASTLE</speaker><content>Robert McManus. Has a history of schizophrenia, multiple stays at a psych ward. Recent episodes were triggered by his son’s death.</content></utterance>
+<utterance uid="22-2"><speaker>RYAN</speaker><content>Hey.</content></utterance>
+<utterance uid="22-3"><speaker>BECKETT</speaker><content>Hey. Where are we on deployment?</content></utterance>
+<utterance uid="22-4"><speaker>ESPOSITO</speaker><content>Every beat cop in the city has his photo. SWAT is sitting on his place in Jersey, but his neighbors say he hasn’t been there in a month. He disappears for long stretches.</content></utterance>
+<utterance uid="22-5"><speaker>RYAN</speaker><content>I’m scouring through his financials, but they are severely outdated. Guy closed his accounts years ago. Basically living off the grid.</content></utterance>
+<utterance uid="22-6"><speaker>GATES</speaker><content>Got something. We canvassed near a diner McManus used to frequent. An SRO desk clerk just ID’d him. He’s been staying there a month.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>BECKETT</speaker><content>NYPD!</content></utterance>
+<utterance uid="23-2"><speaker>RYAN</speaker><content>NYPD!</content></utterance>
+<utterance uid="23-3"><speaker>RYAN</speaker><content>Clear!</content></utterance>
+<utterance uid="23-4"><speaker>ESPOSITO</speaker><content>Clear.</content></utterance>
+<utterance uid="23-5"><speaker>BECKETT</speaker><content>Take the place apart. Look for anything that might lead us to him.</content></utterance>
+<utterance uid="23-6"><speaker>RYAN</speaker><content>We should check the rest of the building.</content></utterance>
+<utterance uid="23-7"><speaker>BECKETT</speaker><content>I’ll talk to the manager for details on his routine.</content></utterance>
+<utterance uid="23-8"><speaker>BECKETT</speaker><content>NYPD. Show me your hands.</content></utterance>
+<utterance uid="23-9"><speaker>BECKETT</speaker><content>Don’t move.  Don’t move or I’ll shoot!</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>CASTLE</speaker><content>Hey. Just spoke to Ryan. McManus is still out there, but the boys are going door to door in every building nearby.</content></utterance>
+<utterance uid="24-2"><speaker>BECKETT</speaker><content>I had him in my sights. I had him.</content></utterance>
+<utterance uid="24-3"><speaker>CASTLE</speaker><content>So you missed. So what? It could happen to anyone.</content></utterance>
+<utterance uid="24-4"><speaker>BECKETT</speaker><content>No. I didn’t miss.</content></utterance>
+<utterance uid="24-5"><speaker>CASTLE</speaker><content>What do you mean?</content></utterance>
+<utterance uid="24-6"><speaker>BECKETT</speaker><content> I found a letter. In the threats file. It was from McManus.</content></utterance>
+<utterance uid="24-7"><speaker>CASTLE</speaker><content>How long have you known about this?</content></utterance>
+<utterance uid="24-8"><speaker>BECKETT</speaker><content>Since last night. McManus was accusing Bracken of murdering his son. I looked into it. He was a 24 year old kid. He was an intern for Bracken’s reelection campaign. He had a meeting scheduled with a reporter and the next day they found him hanged.</content></utterance>
+<utterance uid="24-9"><speaker>CASTLE</speaker><content>And you think Bracken –</content></utterance>
+<utterance uid="24-10"><speaker>BECKETT</speaker><content>I don’t know, Castle.  Oh my God.</content></utterance>
+<utterance uid="24-11"><speaker>BECKETT</speaker><content>I almost suppressed evidence. I was going to burn that letter.</content></utterance>
+<utterance uid="24-12"><speaker>CASTLE</speaker><content>But you didn’t.</content></utterance>
+<utterance uid="24-13"><speaker>BECKETT</speaker><content>I didn’t miss McManus.  I looked him in the eye and I saw his pain. And I couldn’t take that shot.</content></utterance>
+<utterance uid="24-14"><speaker>BECKETT</speaker><content>What if I wanted him to get away? Wanted him to go through with this? Then what does that make me?</content></utterance>
+<utterance uid="24-15"><speaker>BECKETT</speaker><content>Is there anything new?</content></utterance>
+<utterance uid="24-16"><speaker>GATES</speaker><content>Nothing yet on McManus. But a search of his room turned up wires, detonator, traces of C4. Looks like he was building a bomb.</content></utterance>
+<utterance uid="24-17"><speaker>BECKETT</speaker><content>A bomb, uh –  did anyone find it?</content></utterance>
+<utterance uid="24-18"><speaker>GATES</speaker><content>No. If he built something it’s either with him or already out there waiting to go off.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>CASTLE</speaker><content>Beckett, hang on.</content></utterance>
+<utterance uid="25-2"><speaker>BECKETT</speaker><content>He had a rifle, Castle. A rifle. Not a bomb. If he detonates that thing tonight at the conference and innocent people get hurt –</content></utterance>
+<utterance uid="25-3"><speaker>CASTLE</speaker><content>Okay, this is not your fault.</content></utterance>
+<utterance uid="25-4"><speaker>BECKETT</speaker><content>How? How is it not my fault? I’m a cop. I had a job to do and I didn’t do it. I’ve got to make this right. I’ve got to find that bomb and save Bracken’s life.</content></utterance>
+<utterance uid="25-5"><speaker>CASTLE</speaker><content>Looks like you might have some help.</content></utterance>
+<utterance uid="25-6"><speaker>ESPOSITO</speaker><content>Found him hiding on a rooftop three blocks away.</content></utterance>
+<utterance uid="25-7"><speaker>BECKETT</speaker><content>What about the bomb?</content></utterance>
+<utterance uid="25-8"><speaker>ESPOSITO</speaker><content>Asked him about it. Asked him about Melanie Rogers, too. He’s not much of a talker.</content></utterance>
+<utterance uid="25-9"><speaker>RYAN</speaker><content>He hasn’t said a word since we picked him up.</content></utterance>
+<utterance uid="25-10"><speaker>BECKETT</speaker><content>Take him to interrogation.</content></utterance>
+<utterance uid="25-11"><speaker>ESPOSITO</speaker><content>What makes you think he’s going to talk to you?</content></utterance>
+<utterance uid="25-12"><speaker>BECKETT</speaker><content>‘cause. I know him.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>BECKETT</speaker><content>Hi Robert. I’m Kate.  Why don’t you take those things off? They look uncomfortable.</content></utterance>
+<utterance uid="26-2"><speaker>BECKETT</speaker><content>I know what it’s like to lose someone that you love. To live with that pain. To feel the rage towards the person responsible for it. Towards Bracken.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>BECKETT</speaker><content>He took someone close to me. He killed my mother. And then he went after my friends. Even tried to kill me.</content></utterance>
+<utterance uid="27-2"><speaker>GATES</speaker><content>Is she talking about Bracken?</content></utterance>
+<utterance uid="27-3"><speaker>CASTLE</speaker><content>She’s … just trying to get through to him any way she can.</content></utterance>
+<utterance uid="27-4"><speaker>ROBERT MCMANUS</speaker><content>The man killed my son. No one cared.</content></utterance>
+<utterance uid="27-5"><speaker>BECKETT</speaker><content>I care.</content></utterance>
+<utterance uid="27-6"><speaker>MCMANUS</speaker><content>He needs to pay.</content></utterance>
+<utterance uid="27-7"><speaker>BECKETT</speaker><content>Not with a bomb, Robert. You and me, we’re not like him. We don’t hurt innocent people.  Where’s the C4?</content></utterance>
+<utterance uid="27-8"><speaker>MCMANUS</speaker><content>You’re trying to confuse me. Trick me into saying something I shouldn’t.</content></utterance>
+<utterance uid="27-9"><speaker>BECKETT</speaker><content>I’m trying to take down Bracken, same as you. And we’ve gotta do it the right way. You and me, we’re on the same side, Robert.</content></utterance>
+<utterance uid="27-10"><speaker>MCMANUS</speaker><content>You’re on his side. He controls everybody. You’re all in his pocket.  Every last one of you.</content></utterance>
+<utterance uid="27-11"><speaker>BECKETT</speaker><content>No I’m not. I’m just like you, Robert.</content></utterance>
+<utterance uid="27-12"><speaker>GATES</speaker><content>She’s losing him.</content></utterance>
+<utterance uid="27-13"><speaker>MCMANUS</speaker><content>You’re not like me. You’re making stuff up. Making up stories. If you went through what I went through you would want to see him dead.</content></utterance>
+<utterance uid="27-14"><speaker>BECKETT</speaker><content>Everything that I told you was true.  Robert, look at me.</content></utterance>
+<utterance uid="27-15"><speaker>BECKETT</speaker><content>Where’s the C4? If that thing goes off then there’s blood on our hands, and I cannot live with that, and I know that you can’t, either.</content></utterance>
+<utterance uid="27-16"><speaker>GATES</speaker><content>Detective? A word.</content></utterance>
+<utterance uid="27-17"><speaker>BECKETT</speaker><content>Sir.</content></utterance>
+<utterance uid="27-18"><speaker>GATES</speaker><content> Detective.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>BECKETT</speaker><content>Sir, I can do this. I can reach him.</content></utterance>
+<utterance uid="28-2"><speaker>GATES</speaker><content>It’s over, Detective.</content></utterance>
+<utterance uid="28-3"><speaker>BECKETT</speaker><content>Sir, just give me another minute.</content></utterance>
+<utterance uid="28-4"><speaker>GATES</speaker><content>I just got a call from the Feds. They found the bomb.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>GATES</speaker><content>McManus rented a box at a post office. The C4 was there. He’d wired it into a vest. He’d also obtained credentials for the conference somehow.</content></utterance>
+<utterance uid="29-2"><speaker>BRACKEN</speaker><content>Well, thank you, Captain. For everything you’ve done.</content></utterance>
+<utterance uid="29-3"><speaker>GATES</speaker><content>Well actually, Detective Beckett deserves most of the credit. She led the team.  Excuse me, Senator.  Good afternoon, Mr. Mayor.</content></utterance>
+<utterance uid="29-4"><speaker>BRACKEN</speaker><content>I heard how you led the team. You fired, what, two shots from close range and both of them missed? All this talk about justice. I guess I was right about you.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>CASTLE</speaker><content>Check this out. What better way to celebrate the end of a difficult case then with a bottle of –  – what are you doing?</content></utterance>
+<utterance uid="30-2"><speaker>BECKETT</speaker><content>Castle, look at this vest McManus supposedly made.  The zip ties and wires. They’re expertly done. You saw McManus. He was barely able to button his own shirt.</content></utterance>
+<utterance uid="30-3"><speaker>CASTLE</speaker><content>In his current state, no. But he could have done this while he was still on his meds.</content></utterance>
+<utterance uid="30-4"><speaker>BECKETT</speaker><content>And what about Melanie’s body? He burned it and he knocked out her teeth to keep it unidentifiable. And then he leaves a duffle bag in a stolen car for us to find? That doesn’t make any sense.</content></utterance>
+<utterance uid="30-5"><speaker>CASTLE</speaker><content>Well, he’s mentally ill. I mean, not everything he does is going to make sense.</content></utterance>
+<utterance uid="30-6"><speaker>BECKETT</speaker><content>No Castle, something is not right. That Zippo lighter we heard on Melanie’s voicemail. McManus doesn’t smoke. We didn’t find a Zippo in any of his things.</content></utterance>
+<utterance uid="30-7"><speaker>CASTLE</speaker><content>Kate …  Let it go. I mean, you don’t have anything to prove. Not to Bracken. Not to me, not to yourself.</content></utterance>
+<utterance uid="30-8"><speaker>BECKETT</speaker><content>Castle, this isn’t about proving something. This is about evidence.</content></utterance>
+<utterance uid="30-9"><speaker>CASTLE</speaker><content>Well, all the evidence – the letter, the notebook, the bomb – everything traces back to McManus.</content></utterance>
+<utterance uid="30-10"><speaker>BECKETT</speaker><content>What if somebody wanted us to find him? What if they’re framing him? So that everyone would think that the threat was over while the real assassin is still out there. The C4 in the vest. What if that was the bomb we were supposed to find? What if there’s another bomb that’s still out there planned for the keynote address? That’s an event that the time and place has been known for weeks.</content></utterance>
+<utterance uid="30-11"><speaker>CASTLE</speaker><content> Okay, if a bomb went off during Bracken’s speech they could say McManus set it before he was apprehended.</content></utterance>
+<utterance uid="30-12"><speaker>BECKETT</speaker><content>Bracken’s supposed to go on stage at 8 o’clock. That’s  20 minutes away. Look, I know that I don’t have any proof. I know that this sounds crazy –</content></utterance>
+<utterance uid="30-13"><speaker>CASTLE</speaker><content>And you know how determined Bracken was to give this speech. If you stop it and you’re wrong? Your career is over.</content></utterance>
+<utterance uid="30-14"><speaker>BECKETT</speaker><content>And if I’m right?</content></utterance>
+<utterance uid="30-15"><speaker>BECKETT</speaker><content>This is Detective Beckett, badge number 41319. I’m calling for the evacuation of the Widmark Hotel.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>BRACKEN</speaker><content>Detective Beckett!</content></utterance>
+<utterance uid="31-2"><speaker>BECKETT</speaker><content>Castle, why don’t you see if you can get an update from the bomb squad?</content></utterance>
+<utterance uid="31-3"><speaker>CASTLE</speaker><content>Right.</content></utterance>
+<utterance uid="31-4"><speaker>BRACKEN</speaker><content>What the hell is going on here? Who called in the bomb squad?</content></utterance>
+<utterance uid="31-5"><speaker>BECKETT</speaker><content>We had a credible threat, sir.</content></utterance>
+<utterance uid="31-6"><speaker>BRACKEN</speaker><content>Credible according to who?</content></utterance>
+<utterance uid="31-7"><speaker>BECKETT</speaker><content>I think we should speak alone.</content></utterance>
+<utterance uid="31-8"><speaker>BECKETT</speaker><content>We believe someone that you know is trying to kill you.</content></utterance>
+<utterance uid="31-9"><speaker>BRACKEN</speaker><content>What? You already have the man in custody.</content></utterance>
+<utterance uid="31-10"><speaker>BECKETT</speaker><content>We believe that McManus was set up because of the threatening letter he sent you, which means the individual involved has access to the files in your office.</content></utterance>
+<utterance uid="31-11"><speaker>BRACKEN</speaker><content>And you have evidence for all of this?  You don’t have evidence?</content></utterance>
+<utterance uid="31-12"><speaker>BECKETT</speaker><content>Look, I’m not going to make this kind of accusation lightly.</content></utterance>
+<utterance uid="31-13"><speaker>BRACKEN</speaker><content>Are you – so you called in a bomb scare based on – on what? A hunch?</content></utterance>
+<utterance uid="31-14"><speaker>CASTLE</speaker><content>Beckett?</content></utterance>
+<utterance uid="31-15"><speaker>BOMB SQUAD MEMBER KOCH</speaker><content>We finished our sweep of the primary target area, Detective. We found no explosive device.</content></utterance>
+<utterance uid="31-16"><speaker>BECKETT</speaker><content>What about the stage? Did you check the podium?</content></utterance>
+<utterance uid="31-17"><speaker>KOCH</speaker><content>We swept everything in a 50 foot radius of where the Senator would be speaking.</content></utterance>
+<utterance uid="31-18"><speaker>BRACKEN</speaker><content>All right, this is ridiculous. Let’s just get everybody back inside.</content></utterance>
+<utterance uid="31-19"><speaker>KOCH</speaker><content>I’m sorry, Senator. We still have to conduct a thorough search of the building. It’s going to take a few more hours, I’m afraid.</content></utterance>
+<utterance uid="31-20"><speaker>BRACKEN</speaker><content>You think I don’t know what you’re doing? You let McManus get away so he would take me down, and when that didn’t play out you decided to ruin the most important moment of my career.</content></utterance>
+<utterance uid="31-21"><speaker>BECKETT</speaker><content>That’s not what this is about.</content></utterance>
+<utterance uid="31-22"><speaker>BRACKEN</speaker><content>You save that for the review board! You have overplayed your hand. And I am going to bury you.</content></utterance>
+<utterance uid="31-23"><speaker>BECKETT</speaker><content>Oh God, Castle. I don’t understand. How did we get this so wrong?</content></utterance>
+<utterance uid="31-24"><speaker>CASTLE</speaker><content>We knew we were taking a risk.</content></utterance>
+<utterance uid="31-25"><speaker>BECKETT</speaker><content>There’s got to be a reason that they were framing McManus. They had to have been planning this for tonight. Here. It’s the only thing that makes sense.</content></utterance>
+<utterance uid="31-26"><speaker>CASTLE</speaker><content>Or he wasn’t being framed.</content></utterance>
+<utterance uid="31-27"><speaker>BECKETT</speaker><content>Maybe they couldn’t get the bomb in the building. With the heightened security because McManus was on the loose, maybe they had to make a different plan. Place the bomb somewhere more accessible.</content></utterance>
+<utterance uid="31-28"><speaker>CASTLE</speaker><content>Kate. It’s over.</content></utterance>
+<utterance uid="31-29"><speaker>CASTLE</speaker><content>Kate!</content></utterance>
+<utterance uid="31-30"><speaker>BECKETT</speaker><content>Castle! The driver!</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>BRACKEN</speaker><content>His name is Noah Charles. He was my driver for 5 years.</content></utterance>
+<utterance uid="32-2"><speaker>CASTLE</speaker><content>Any reason he would suddenly want you dead?</content></utterance>
+<utterance uid="32-3"><speaker>BRACKEN</speaker><content>I assume because someone paid him a great deal of money.</content></utterance>
+<utterance uid="32-4"><speaker>CASTLE</speaker><content>You don’t seem shocked.</content></utterance>
+<utterance uid="32-5"><speaker>BRACKEN</speaker><content>It’s another world out there, Mr. Castle. One that most people don’t see, run by money, influence, power. And the people in it will do anything they can to stay on top. But I assume that you already know that.</content></utterance>
+<utterance uid="32-6"><speaker>CASTLE</speaker><content>I wouldn’t have done it, you know. What she did. I’d’ve stood and watched.</content></utterance>
+<utterance uid="32-7"><speaker>BECKETT</speaker><content>So he’s not talking. But a search of his apartment turned up a pair of gloves with traces of Melanie Rogers' blood on it. They also found a fake beard and a baseball cap just like McManus’.</content></utterance>
+<utterance uid="32-8"><speaker>CASTLE</speaker><content>So McManus could be seen at the conference by security. It’s all part of the setup.</content></utterance>
+<utterance uid="32-9"><speaker>BRACKEN</speaker><content>Melanie met Noah a bunch of times. She probably recognized him on the day, wondered what he was doing, and followed him.</content></utterance>
+<utterance uid="32-10"><speaker>BECKETT</speaker><content>If she got on to him he would have had no choice but to kill her.</content></utterance>
+<utterance uid="32-11"><speaker>BRACKEN</speaker><content>What a shame.</content></utterance>
+<utterance uid="32-12"><speaker>BRACKEN</speaker><content> She was a sweet kid.</content></utterance>
+<utterance uid="32-13"><speaker>RYAN</speaker><content>Hey. Got a sec?</content></utterance>
+<utterance uid="32-14"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>RYAN</speaker><content>I did a little digging into that driver of yours. Turns out you’re not his only employer, Senator.</content></utterance>
+<utterance uid="33-2"><speaker>ESPOSITO</speaker><content>We took a look into his financials. There’s a series of large deposits into his checking account.</content></utterance>
+<utterance uid="33-3"><speaker>BRACKEN</speaker><content>Let me guess. Untraceable wire transfers bounced through shadow accounts and Switzerland and the Middle East.</content></utterance>
+<utterance uid="33-4"><speaker>CASTLE</speaker><content>Just like you would have done.</content></utterance>
+<utterance uid="33-5"><speaker>BECKETT</speaker><content>Thanks, guys.</content></utterance>
+<utterance uid="33-6"><speaker>BECKETT</speaker><content>You know who’s behind this, don’t you?</content></utterance>
+<utterance uid="33-7"><speaker>BRACKEN</speaker><content>I have my suspicions.</content></utterance>
+<utterance uid="33-8"><speaker>BECKETT</speaker><content>Who?</content></utterance>
+<utterance uid="33-9"><speaker>BRACKEN</speaker><content>Someone who’s gotten rich making powerful people promises that I need to keep. What does a kingmaker do when the king no longer follows orders?</content></utterance>
+<utterance uid="33-10"><speaker>BECKETT</speaker><content>I need a name.</content></utterance>
+<utterance uid="33-11"><speaker>BRACKEN</speaker><content>You’ve done enough, Detective.</content></utterance>
+<utterance uid="33-12"><speaker>BECKETT</speaker><content>Senator, that person is still out there and I have no way of getting to him. You’re not safe.</content></utterance>
+<utterance uid="33-13"><speaker>BRACKEN</speaker><content>I’m touched by your concern. But I think maybe you forget who you’re dealing with.</content></utterance>
+<utterance uid="33-14"><speaker>HOWARD</speaker><content>Sir, we have to leave. You’re already 30 minutes behind schedule.</content></utterance>
+<utterance uid="33-15"><speaker>BRACKEN</speaker><content>Detective Beckett, would you uh, walk me out?</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>BRACKEN</speaker><content>You saved my life.</content></utterance>
+<utterance uid="34-2"><speaker>BECKETT</speaker><content> Yeah well, you can’t win ‘em all, can you?</content></utterance>
+<utterance uid="34-3"><speaker>BRACKEN</speaker><content>I suppose this means I’m in your debt.</content></utterance>
+<utterance uid="34-4"><speaker>BECKETT</speaker><content>Nothing’s changed between us, Senator.</content></utterance>
+<utterance uid="34-5"><speaker>BRACKEN</speaker><content>Even so. It’s a dangerous world out there, Detective. You never know when you might need a friend.</content></utterance>
+<utterance uid="34-6"><speaker>BECKETT</speaker><content>McManus’ son. Was that you?</content></utterance>
+<utterance uid="34-7"><speaker>BRACKEN</speaker><content>If I said no, would you really believe me?</content></utterance>
+<utterance uid="34-8"><speaker>HOWARD</speaker><content>The Senator is very busy –</content></utterance>
+<utterance uid="34-9"><speaker>BRACKEN</speaker><content>No, it’s okay. I’ll – I’ll make a statement.  As you all know, last night an attempt was made on my life. Even though I was not able to introduce my initiative at the eco conference, it has only strengthened my resolve to move forward with this historic piece of legislation.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>BRACKEN</speaker><content>And I would like to especially thank the brave men and women of the New York City Police Department who thwarted this plot.</content></utterance>
+<utterance uid="35-2"><speaker>ANNOUNCER</speaker><content>And in a shocking development, Federal Agents arrested Benjamin Moss, founder of the powerful super-PAC American Way, after connecting him to payments made to the Senator’s would-be assassin. Moss, a former presidential –</content></utterance>
+<utterance uid="35-3"><speaker>CASTLE</speaker><content>My God. It was Ben Moss.</content></utterance>
+<utterance uid="35-4"><speaker>BECKETT</speaker><content>Biggest kingmaker of them all.</content></utterance>
+<utterance uid="35-5"><speaker>CASTLE</speaker><content>But Bracken only had him arrested. The way he was talking I half expected the guy to die in a “plane crash” or some kind of mysterious “car accident”.</content></utterance>
+<utterance uid="35-6"><speaker>BECKETT</speaker><content>No. Look, this is so much better. Now Bracken’s a folk hero. The rare politician willing to stand up to special interests and fight for what’s right, even if it costs him his life.</content></utterance>
+<utterance uid="35-7"><speaker>CASTLE</speaker><content>You’re right. That’s a better story.  The kind of story that could make a guy President.</content></utterance>
+<utterance uid="35-8"><speaker>BECKETT</speaker><content>He’ll slip up eventually and when he does, I’ll be ready.</content></utterance>
+<utterance uid="35-9"><speaker>THE END</speaker><content>CASTLE</content></utterance>
+</scene>
+</script>

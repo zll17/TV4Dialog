@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+
+<scene id="1"><utterance uid="1-1"><speaker>ALEXIS</speaker><content>Breakfast time!</content></utterance>
+<utterance uid="1-2"><speaker>CASTLE</speaker><content>Oh! What did I do to deserve this? Other than, you know, being me.</content></utterance>
+<utterance uid="1-3"><speaker>ALEXIS</speaker><content>Isn’t that enough?</content></utterance>
+<utterance uid="1-4"><speaker>CASTLE</speaker><content>Okay, what do you want?</content></utterance>
+<utterance uid="1-5"><speaker>ALEXIS</speaker><content>Nothing! Why do I have to want something?</content></utterance>
+<utterance uid="1-6"><speaker>CASTLE</speaker><content>March 1999. You wanted a Hello Kitty backpack. I got French toast with a whip cream smiley face. October 2004. You wanted a set of Empire Strikes Back mint condition light sabers. I got an omelet shaped like Darth Vader.</content></utterance>
+<utterance uid="1-7"><speaker>ALEXIS</speaker><content>Okay. I want a Vespa.</content></utterance>
+<utterance uid="1-8"><speaker>ALEXIS</speaker><content>It’s a scooter. All my friends have them. And it would make getting around the city so much easier. And they’re totally safe.</content></utterance>
+<utterance uid="1-9"><speaker>CASTLE</speaker><content>Oh, honey.</content></utterance>
+<utterance uid="1-10"><speaker>ALEXIS</speaker><content>I’ll always wear a helmet and never drive at night. You know how responsible I am.</content></utterance>
+<utterance uid="1-11"><speaker>CASTLE</speaker><content>It’s not you I’m worried about. Driving in New York… it’s like a Mad Max movie.</content></utterance>
+<utterance uid="1-12"><speaker>ALEXIS</speaker><content>Dad, I really want this. Will you at least think about it? Please?</content></utterance>
+<utterance uid="1-13"><speaker>CASTLE</speaker><content>Yes, I will think about it. If you leave me alone so I can finish my breakfast.</content></utterance>
+<utterance uid="1-14"><speaker>ALEXIS</speaker><content>Deal.</content></utterance>
+<utterance uid="1-15"><speaker>CASTLE</speaker><content>Ah, it’s Beckett.</content></utterance>
+<utterance uid="1-16"><speaker>ALEXIS</speaker><content>Ah.  Remember what happened last time you went to a crime scene on a full stomach?</content></utterance>
+<utterance uid="1-17"><speaker>ALEXIS</speaker><content>Yeah.</content></utterance>
+<utterance uid="1-18"><speaker>CASTLE</speaker><content>Castle.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>CASTLE</speaker><content>And who is the unlucky winner today?</content></utterance>
+<utterance uid="2-2"><speaker>KATE BECKETT</speaker><content>Deon Carver, bail bondsman. This is his office. He walked into a B and E last night and before he had a chance to use his registered firearm, our killer knocked him over the head with that.</content></utterance>
+<utterance uid="2-3"><speaker>CASTLE</speaker><content>A sharpshooter award. That is ironic on so many levels. No, just two.</content></utterance>
+<utterance uid="2-4"><speaker>LANIE PARISH</speaker><content>Our killer left a partial shoeprint in Carver’s blood, probably while wiping the trophy clean. The shoeprint is incomplete enough to tell the size, but the tread mark should be easy to identify.</content></utterance>
+<utterance uid="2-5"><speaker>BECKETT</speaker><content>And then before leaving, our killer was nice enough to call 911 and leave the phone off the hook.</content></utterance>
+<utterance uid="2-6"><speaker>CASTLE</speaker><content>Someone was feeling a little guilty?</content></utterance>
+<utterance uid="2-7"><speaker>LANIE</speaker><content>Not too guilty. The call came in at eleven. I’m estimating time of death around ten.</content></utterance>
+<utterance uid="2-8"><speaker>BECKETT</speaker><content>Which means our perp had about an hour to ransack the place.</content></utterance>
+<utterance uid="2-9"><speaker>CASTLE</speaker><content>Looking for what?</content></utterance>
+<utterance uid="2-10"><speaker>BECKETT</speaker><content>Um, money? I mean, bail bondsmen often get paid in cash, and ten percent of a million would be enough to tear up a place. Ryan and Esposito are taking a look around the building for any security cameras.</content></utterance>
+<utterance uid="2-11"><speaker>ESPOSITO</speaker><content> That’s a negative on cameras.</content></utterance>
+<utterance uid="2-12"><speaker>CASTLE</speaker><content>Why would a calculator cause feedback?</content></utterance>
+<utterance uid="2-13"><speaker>BECKETT</speaker><content>It’s not a calculator.  It’s a bug.</content></utterance>
+<utterance uid="2-14"><speaker>CASTLE</speaker><content>A wireless RF transmitter, to be precise. Not to be confused with the more advanced infrared signal burst device.</content></utterance>
+<utterance uid="2-15"><speaker>BECKETT</speaker><content>Book research?</content></utterance>
+<utterance uid="2-16"><speaker>CASTLE</speaker><content>Nanny cam. So … do you think that the robbery was just a pretense for the placement of the bug and then the killer was caught in the act?</content></utterance>
+<utterance uid="2-17"><speaker>BECKETT</speaker><content>Well, it’s not Watergate, Castle. If the point was to bug Carver’s office, then why leave it here once he’s dead.</content></utterance>
+<utterance uid="2-18"><speaker>CASTLE</speaker><content>Well, tell me this, Ms. Know-It-All. Who would want to bug a burly bail bondsman so badly?</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>BECKETT</speaker><content>Okay, thank you.  So it’s not law enforcement or a three letter agency. That bug was a commercial device. I contacted the manufacturer in Thailand. They’re looking up the serial number to see what store it was shipped to and hopefully from there we should find out who bought it.</content></utterance>
+<utterance uid="3-2"><speaker>CASTLE</speaker><content>Mmm… I remember when killers used to buy American.</content></utterance>
+<utterance uid="3-3"><speaker>JAVIER ESPOSITO</speaker><content>Yo. I ran the shoeprint through the new federal database and matched the tread mark to these loafers here.</content></utterance>
+<utterance uid="3-4"><speaker>CASTLE</speaker><content>Ah, the no hassle tassel. These were the height of fashion … in 1984.</content></utterance>
+<utterance uid="3-5"><speaker>BECKETT</speaker><content>These are photos of all of Carver’s clients with a history of violence. Can you show them around his building? See if anyone was there yesterday?</content></utterance>
+<utterance uid="3-6"><speaker>ESPOSITO</speaker><content>Yeah, you got it.</content></utterance>
+<utterance uid="3-7"><speaker>CASTLE</speaker><content> You were a girl once.</content></utterance>
+<utterance uid="3-8"><speaker>BECKETT</speaker><content> Still am.</content></utterance>
+<utterance uid="3-9"><speaker>CASTLE</speaker><content>Can you tell me why my daughter wants one of these so badly?</content></utterance>
+<utterance uid="3-10"><speaker>BECKETT</speaker><content>Well, bikes are what girls want when we realize that we’re never going to get a pony.</content></utterance>
+<utterance uid="3-11"><speaker>CASTLE</speaker><content>Did you have one?</content></utterance>
+<utterance uid="3-12"><speaker>BECKETT</speaker><content>I still do. ’94 Harley soft tail. Worked all of high school to pay for it.</content></utterance>
+<utterance uid="3-13"><speaker>CASTLE</speaker><content>And how did your parents feel about it?</content></utterance>
+<utterance uid="3-14"><speaker>BECKETT</speaker><content>Well, my dad threatened to send me to a nunnery. And my mom just shook her head and said, “Katie, every time you ride that thing just remember how much you hate hearing me tell you ‘I told you so’.” You know what this means, don’t you?</content></utterance>
+<utterance uid="3-15"><speaker>CASTLE</speaker><content>No, what?</content></utterance>
+<utterance uid="3-16"><speaker>BECKETT</speaker><content>Well, Alexis is entering her wild child phase.</content></utterance>
+<utterance uid="3-17"><speaker>CASTLE</speaker><content> My daughter? Nah, I don’t think so.</content></utterance>
+<utterance uid="3-18"><speaker>BECKETT</speaker><content>Oh yeah, Castle. All girls go through it. And good girls are the worst. In fact, I remember this one time when …</content></utterance>
+<utterance uid="3-19"><speaker>RYAN</speaker><content>Yeah, we located Carver’s wife, Brooke. She’s visiting her sister in Hoboken; uniforms are on their way to pick her up now. Oh, and Lanie called. She said she found something weird?</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>LANIE</speaker><content>I found this hidden in Carver’s sock while I was stripping the body.</content></utterance>
+<utterance uid="4-2"><speaker>BECKETT</speaker><content>What the hell is it?</content></utterance>
+<utterance uid="4-3"><speaker>LANIE</speaker><content>I don’t know. You’re the detective.</content></utterance>
+<utterance uid="4-4"><speaker>CASTLE</speaker><content> Maybe it’s what our killer was looking for in Carver’s office.</content></utterance>
+<utterance uid="4-5"><speaker>BECKETT</speaker><content>Seriously. That?</content></utterance>
+<utterance uid="4-6"><speaker>CASTLE</speaker><content>Yeah. Well, it’s probably some complex code or –</content></utterance>
+<utterance uid="4-7"><speaker>BECKETT</speaker><content>The world’s least interesting doodle? It’s not something that you kill a guy over.</content></utterance>
+<utterance uid="4-8"><speaker>CASTLE</speaker><content>Then why did he hide it?</content></utterance>
+</scene>
+
+<scene id="5"><utterance uid="5-1"><speaker>BROOKE CARVER</speaker><content>I told my husband, the kind of animals he dealt with every day, something bad was going to happen.</content></utterance>
+<utterance uid="5-2"><speaker>BECKETT</speaker><content>Ms. Carver, had your husband had any troubles with any of his clients recently?</content></utterance>
+<utterance uid="5-3"><speaker>BROOKE</speaker><content>Deon didn’t talk about work a lot with me. But he did say that he had to straighten someone out yesterday. He said it got pretty ugly.</content></utterance>
+<utterance uid="5-4"><speaker>CASTLE</speaker><content>Any idea who?</content></utterance>
+<utterance uid="5-5"><speaker>BROOKE</speaker><content> I’m sorry, no.</content></utterance>
+<utterance uid="5-6"><speaker>BECKETT</speaker><content>Did your husband keep cash in his office?</content></utterance>
+<utterance uid="5-7"><speaker>BROOKE</speaker><content>No, he insisted on money orders and cashier’s checks. He had a good heart but he wasn’t stupid.</content></utterance>
+<utterance uid="5-8"><speaker>CASTLE</speaker><content> We found this, folded up in your husband’s sock. Any idea what it is?</content></utterance>
+<utterance uid="5-9"><speaker>BROOKE</speaker><content>No, I’ve never seen this before.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>CASTLE</speaker><content>Just because she doesn’t recognize it doesn’t mean it’s not important. Brooke even admitted, Carver never even talked about work.</content></utterance>
+<utterance uid="6-2"><speaker>BECKETT</speaker><content>Castle …</content></utterance>
+<utterance uid="6-3"><speaker>CASTLE</speaker><content>I’m just saying, my spidey sense is tingling about this.</content></utterance>
+<utterance uid="6-4"><speaker>BECKETT</speaker><content>Well, I can’t base an entire murder investigation on your spidey senses.</content></utterance>
+<utterance uid="6-5"><speaker>CASTLE</speaker><content>Why not? Our killer was looking for something. Our victim was hiding something. Res ipsa loquitur. It means –</content></utterance>
+<utterance uid="6-6"><speaker>BECKETT</speaker><content>The thing speaks for itself. I know. All I’m saying is that even though Carver didn’t keep cash in his offices, it doesn’t mean that it wasn’t an attempted robbery. I mean, these aren’t Mensa members we’re talking about.</content></utterance>
+<utterance uid="6-7"><speaker>ESPOSITO</speaker><content>Hey, Beckett. Waitress in Carver’s building said she saw Carver and one of his clients get into a shouting match last night. Some scale named Random Pierce.</content></utterance>
+<utterance uid="6-8"><speaker>CASTLE</speaker><content>Somebody actually named their kid Random? No wonder he turned to a life of crime.</content></utterance>
+<utterance uid="6-9"><speaker>BECKETT</speaker><content>Random just did two years at Five Points Correctional and a week after he got out he was arrested for a B and E. That sounds like a real winner.</content></utterance>
+<utterance uid="6-10"><speaker>ESPOSITO</speaker><content>Waitress said that she heard him tell Carver that if he didn’t give it back, that Random was going to take it.</content></utterance>
+<utterance uid="6-11"><speaker>CASTLE</speaker><content>Hum. I wonder what ‘it’ could be.</content></utterance>
+<utterance uid="6-12"><speaker>BECKETT</speaker><content>So Random had a court hearing scheduled for this morning.</content></utterance>
+<utterance uid="6-13"><speaker>ESPOSITO</speaker><content>He didn’t know. They issued a bench warrant for his arrest at nine AM.</content></utterance>
+<utterance uid="6-14"><speaker>BECKETT</speaker><content>Let’s go pick him up.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>RYAN</speaker><content>This is Random’s last known address.</content></utterance>
+<utterance uid="7-2"><speaker>BECKETT</speaker><content>Okay, you guys take the back.</content></utterance>
+<utterance uid="7-3"><speaker>CASTLE</speaker><content>So this Harley of yours, do you have any pictures?</content></utterance>
+<utterance uid="7-4"><speaker>BECKETT</speaker><content>Uh, yeah, I do, but I’m not going to be showing any of them to you.</content></utterance>
+<utterance uid="7-5"><speaker>CASTLE</speaker><content>Why not?</content></utterance>
+<utterance uid="7-6"><speaker>BECKETT</speaker><content>Well, because I don’t think you can handle the sight of me straddling it in tight, black leather.</content></utterance>
+<utterance uid="7-7"><speaker>CASTLE</speaker><content> I am so not getting a scooter for my daughter.</content></utterance>
+<utterance uid="7-8"><speaker>CASTLE</speaker><content>That’s Random.</content></utterance>
+<utterance uid="7-9"><speaker>BECKETT</speaker><content>NYPD. Stop. Hey!</content></utterance>
+<utterance uid="7-10"><speaker>CASTLE</speaker><content> I’ve always wanted to do that!</content></utterance>
+<utterance uid="7-11"><speaker>BECKETT</speaker><content>What the hell are you doing? That’s my suspect!</content></utterance>
+<utterance uid="7-12"><speaker>MIKE ROYCE</speaker><content>It’s okay, relax. We’re on the same team.</content></utterance>
+<utterance uid="7-13"><speaker>BECKETT</speaker><content>Royce?</content></utterance>
+<utterance uid="7-14"><speaker>ROYCE</speaker><content>Hey kid. Long time.</content></utterance>
+<utterance uid="7-15"><speaker>BECKETT</speaker><content>Yeah, too long.</content></utterance>
+<utterance uid="7-16"><speaker>CASTLE</speaker><content>Nice driving.</content></utterance>
+<utterance uid="7-17"><speaker>ROYCE</speaker><content>Ah, thanks.  Mike Royce, bounty hunter.  Boom.</content></utterance>
+<utterance uid="7-18"><speaker>CASTLE</speaker><content>Uh, Richard Castle, writer. </content></utterance>
+<utterance uid="7-19"><speaker>BECKETT</speaker><content>Royce used to be on the job.</content></utterance>
+<utterance uid="7-20"><speaker>ROYCE</speaker><content>On the job? She says that like I’m any cop. I was her training officer when she left the academy.</content></utterance>
+<utterance uid="7-21"><speaker>RANDOM</speaker><content>Hey hey hey, if I’m imposing on your happy reunion, you know, I can just go.</content></utterance>
+<utterance uid="7-22"><speaker>BECKETT</speaker><content>The only place you’re going is jail.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>RANDOM</speaker><content>You know, I know a guy to get that dent out of your car. You let me go and I’ll give him a call.</content></utterance>
+<utterance uid="8-2"><speaker>RYAN</speaker><content>Just shut up and get in the box.</content></utterance>
+<utterance uid="8-3"><speaker>ROYCE</speaker><content> No wonder that guy was getting away. Look at your shoes! How many inches are those heels?</content></utterance>
+<utterance uid="8-4"><speaker>BECKETT</speaker><content>My shoes are fine. And he wasn’t getting away.</content></utterance>
+<utterance uid="8-5"><speaker>BECKETT</speaker><content>So, how’d you get the bounty on Random?</content></utterance>
+<utterance uid="8-6"><speaker>ROYCE</speaker><content>I got a buddy at the courthouse. Random missed his hearing, I got a call. So you like this guy for murder?</content></utterance>
+<utterance uid="8-7"><speaker>BECKETT</speaker><content>Yeah, for his bail bondsman, Deon Carver.</content></utterance>
+<utterance uid="8-8"><speaker>ROYCE</speaker><content>Oh, I know Deon. I just did a skip trace for him last year.</content></utterance>
+<utterance uid="8-9"><speaker>CASTLE</speaker><content>You know, we found a weird piece of paper in his sock. I’m thinking it’s some sort of code.</content></utterance>
+<utterance uid="8-10"><speaker>ROYCE</speaker><content>Only paper I’ve seen people kill for has pictures of dead presidents on it.  Look, if Random’s not your guy, can I take him over to central booking, collect my bounty?</content></utterance>
+<utterance uid="8-11"><speaker>BECKETT</speaker><content>Yeah, sure, if he alibis out. But I wouldn’t hold my breath on that. Castle, you coming?</content></utterance>
+<utterance uid="8-12"><speaker>CASTLE</speaker><content>Oh.  Actually, I was going to hang back with Royce. Hear some stories about the good old days.</content></utterance>
+<utterance uid="8-13"><speaker>BECKETT</speaker><content>Okay, fine. But if you tell him about the karaoke stakeout, I’m going to tell him what happened with the monkey.</content></utterance>
+<utterance uid="8-14"><speaker>ROYCE</speaker><content>My lips are sealed.</content></utterance>
+<utterance uid="8-15"><speaker>ROYCE</speaker><content> But I’ve got a lot of other stories.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>RANDOM</speaker><content>I wasn’t running away. I was jogging.</content></utterance>
+<utterance uid="9-2"><speaker>BECKETT</speaker><content>So what were you doing climbing down the side of a building.</content></utterance>
+<utterance uid="9-3"><speaker>RANDOM</speaker><content>Cross training. Better cardiovascular workout.</content></utterance>
+<utterance uid="9-4"><speaker>BECKETT</speaker><content>Random, you did a stint at Five Points Correctional and within a week of your release you were breaking into someone’s apartment.</content></utterance>
+<utterance uid="9-5"><speaker>RANDOM</speaker><content>That was a misunderstanding. I wrote down my friend’s address wrong.</content></utterance>
+<utterance uid="9-6"><speaker>BECKETT</speaker><content>Really? So what do you call killing Deon Carver? Mistaken identity?</content></utterance>
+<utterance uid="9-7"><speaker>RANDOM</speaker><content>Deon’s dead?</content></utterance>
+<utterance uid="9-8"><speaker>BECKETT</speaker><content>Nice try. You have a history of breaking and entering, and I have a victim whose offices were ransacked, and you were seen arguing with Carver three hours before he was killed.</content></utterance>
+<utterance uid="9-9"><speaker>RANDOM</speaker><content>He invited me to dinner because he wanted to stress the importance of my appearance in court this morning. And seeing because he had 100k on the hook if I skipped.</content></utterance>
+<utterance uid="9-10"><speaker>BECKETT</speaker><content>Which you did.</content></utterance>
+<utterance uid="9-11"><speaker>RANDOM</speaker><content>My alarm clock didn’t go off.</content></utterance>
+<utterance uid="9-12"><speaker>BECKETT</speaker><content>Or you were so exhausted after killing Carver that you slept right through it.</content></utterance>
+<utterance uid="9-13"><speaker>RANDOM</speaker><content>C’mon! Three hours after we had dinner I was shoplifting at Book Mart uptown.</content></utterance>
+<utterance uid="9-14"><speaker>BECKETT</speaker><content>You threatened someone’s life and then decide to shoplift a book.</content></utterance>
+<utterance uid="9-15"><speaker>RANDOM</speaker><content>Yes, well, I forgot to pay. I was so used to being in the prison library. I tried to tell the security guy that but he had me in some sort of ninja chokehold. Luckily for me, I was able to slip away before the cops came. Sucker. But that guard would totally remember me.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>ROYCE</speaker><content>No no, she’s got the cat in one hand, her gun in the other. I’m trying to get the hell out of the way so she can shoot the guy with a spear gun.</content></utterance>
+<utterance uid="10-2"><speaker>BECKETT</speaker><content>Except Royce has such a giant head that every time I go to pull the trigger all I could think about how much paperwork I’ll have to do if I accidentally shoot him.</content></utterance>
+<utterance uid="10-3"><speaker>ROYCE</speaker><content>Yeah, okay, so you know what she does? She offers to show the guy her boobs if he drops the spear gun.</content></utterance>
+<utterance uid="10-4"><speaker>ESPOSITO</speaker><content>Did he?</content></utterance>
+<utterance uid="10-5"><speaker>CASTLE</speaker><content>Did you?</content></utterance>
+<utterance uid="10-6"><speaker>BECKETT</speaker><content>No. Because he had the same slack jawed look that the two of you have.</content></utterance>
+<utterance uid="10-7"><speaker>ROYCE</speaker><content>Allowing me to take the guy down. But I’ll tell you what I realized in that moment.  You gotta be ready for anything.</content></utterance>
+<utterance uid="10-8"><speaker>CASTLE</speaker><content>Wow. I’m seeing a whole new side of you today - and feel free to show me more.</content></utterance>
+<utterance uid="10-9"><speaker>BECKETT</speaker><content> Do you see what happens when you feed the animals?</content></utterance>
+<utterance uid="10-10"><speaker>RYAN</speaker><content>Hey. So it looks like your shoplifter isn’t our killer after all. Guard at Book Mart confirms they caught him stealing a copy of The Da Vinci Code.</content></utterance>
+<utterance uid="10-11"><speaker>CASTLE</speaker><content>The Da Vinci Code. Maybe he thought it could help him decipher the document, thinking it’s some kind of ancient religious cryptogram prophecying the coming zombie apocalypse.</content></utterance>
+<utterance uid="10-12"><speaker>ROYCE</speaker><content>Is he always like this?</content></utterance>
+<utterance uid="10-13"><speaker>BECKETT</speaker><content>No, it’s usually about CIA conspiracies.</content></utterance>
+<utterance uid="10-14"><speaker>CASTLE</speaker><content>I was really close on one of those.</content></utterance>
+<utterance uid="10-15"><speaker>RYAN</speaker><content>So, do you want us to lock Random up? Store wants us to hold onto him.</content></utterance>
+<utterance uid="10-16"><speaker>BECKETT</speaker><content>Why don’t you let Royce take him down to Central; Book Mart can press charges over there.</content></utterance>
+<utterance uid="10-17"><speaker>RYAN</speaker><content>Okay.</content></utterance>
+<utterance uid="10-18"><speaker>ROYCE</speaker><content>Thanks kid. I owe you one.</content></utterance>
+<utterance uid="10-19"><speaker>BECKETT</speaker><content>You don’t owe me anything and you know it.</content></utterance>
+<utterance uid="10-20"><speaker>ROYCE</speaker><content>Hey.  Do me a favor and take a picture.</content></utterance>
+<utterance uid="10-21"><speaker>CASTLE</speaker><content>Yeah, yeah. Of course.</content></utterance>
+<utterance uid="10-22"><speaker>ROYCE</speaker><content>C’mon, for old time’s sake.</content></utterance>
+<utterance uid="10-23"><speaker>CASTLE</speaker><content>Okay. Nice.</content></utterance>
+<utterance uid="10-24"><speaker>BECKETT</speaker><content>So good to see you.</content></utterance>
+<utterance uid="10-25"><speaker>ROYCE</speaker><content>Stay sharp, kid.  Rick. Don’t let her boss you around too much.</content></utterance>
+<utterance uid="10-26"><speaker>ROYCE</speaker><content>Hey, c’mon kitten. We’ve got a date a Central booking.</content></utterance>
+<utterance uid="10-27"><speaker>CASTLE</speaker><content> He tells a terrific story.</content></utterance>
+<utterance uid="10-28"><speaker>BECKETT</speaker><content>Got a little bromance there, Castle?</content></utterance>
+<utterance uid="10-29"><speaker>CASTLE</speaker><content>Wha-? No. What?</content></utterance>
+<utterance uid="10-30"><speaker>BECKETT</speaker><content>It’s okay. He is pretty hard to resist.</content></utterance>
+<utterance uid="10-31"><speaker>CASTLE</speaker><content>Hey. Why didn’t Royce and Beckett stay partners?</content></utterance>
+<utterance uid="10-32"><speaker>ESPOSITO</speaker><content>She moved up, he moved out. He did his twenty and put in his papers. I think he realized he wasn’t going to do any better than her.  You know, I think Beckett is right about this. This doesn’t look like anything worth killing for.</content></utterance>
+<utterance uid="10-33"><speaker>CASTLE</speaker><content>Unless it’s the lost secret to the Illuminati.  Or Morse code.</content></utterance>
+<utterance uid="10-34"><speaker>ESPOSITO</speaker><content>Negative. All dashes, no dots.</content></utterance>
+<utterance uid="10-35"><speaker>BECKETT</speaker><content>Hey guys, you wanna hear something weird? We got a fingerprint hit from Carver’s office on a longtime felon named Clifford Stuckey.</content></utterance>
+<utterance uid="10-36"><speaker>CASTLE</speaker><content>Stuckey? Why do I know that name?</content></utterance>
+<utterance uid="10-37"><speaker>BECKETT</speaker><content>It’s because it was Stuckey’s apartment that Random broke into when he got out of prison.</content></utterance>
+<utterance uid="10-38"><speaker>ESPOSITO</speaker><content>It can’t be a coincidence.</content></utterance>
+</scene>
+
+<scene id="11"><utterance uid="11-1"><speaker>ESPOSITO</speaker><content>Clifford Stuckey! NYPD, open up!</content></utterance>
+<utterance uid="11-2"><speaker>STUCKEY</speaker><content>Who are you?</content></utterance>
+<utterance uid="11-3"><speaker>ESPOSITO</speaker><content>Uh …</content></utterance>
+<utterance uid="11-4"><speaker>RYAN</speaker><content>NYPD. Are you Clifford Stuckey?</content></utterance>
+<utterance uid="11-5"><speaker>ESPOSITO</speaker><content> Clifford Stuckey!</content></utterance>
+<utterance uid="11-6"><speaker>STUCKEY</speaker><content>Yeah.</content></utterance>
+<utterance uid="11-7"><speaker>ESPOSITO</speaker><content>Like you to come downtown and answer some questions about your break in.</content></utterance>
+<utterance uid="11-8"><speaker>STUCKEY</speaker><content>You’ll have to speak up, son. I dropped my hearing aid down the toilet.</content></utterance>
+<utterance uid="11-9"><speaker>RYAN</speaker><content> Oh, Beckett’s going to love him.</content></utterance>
+<utterance uid="11-10"><speaker>STUCKEY</speaker><content>What?</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>BECKETT</speaker><content>Mr. Stuckey, I’m Detective Kate Beckett.</content></utterance>
+<utterance uid="12-2"><speaker>STUCKEY</speaker><content>Ah, wish they had cops like you when I was getting in trouble.</content></utterance>
+<utterance uid="12-3"><speaker>BECKETT</speaker><content>Uh, sir, could you tell us what you were doing in Mr. Carver’s office?</content></utterance>
+<utterance uid="12-4"><speaker>STUCKEY</speaker><content>Who?</content></utterance>
+<utterance uid="12-5"><speaker>CASTLE</speaker><content>Deon Carver. He was a bail bondsman.</content></utterance>
+<utterance uid="12-6"><speaker>BECKETT</speaker><content>He was murdered last night. We found your fingerprints in his office.</content></utterance>
+<utterance uid="12-7"><speaker>STUCKEY</speaker><content>Oh, him. Huh. What was the question?</content></utterance>
+<utterance uid="12-8"><speaker>BECKETT</speaker><content>Mr. Carver posted bail for Random Pierce, the man who broke into your apartment. I need to know what you were doing in his office.</content></utterance>
+<utterance uid="12-9"><speaker>STUCKEY</speaker><content>Do you believe an old dog can learn new tricks, Detective?</content></utterance>
+<utterance uid="12-10"><speaker>BECKETT</speaker><content>No.</content></utterance>
+<utterance uid="12-11"><speaker>STUCKEY</speaker><content>Neither did I. And then, I got old. You see, I’ve been a bad man most of my life. And now all my friends are dead, or in jail, and I’ve got nothing to show for my … my time here.</content></utterance>
+<utterance uid="12-12"><speaker>BECKETT</speaker><content>Mr. Stuckey? Carver’s office?</content></utterance>
+<utterance uid="12-13"><speaker>STUCKEY</speaker><content>Huh? Oh. When the police told me that boy had broken into my place, suddenly I … I saw myself forty years ago. And I thought, if somebody had just given me a break, maybe my life would have turned out differently. So I went to see what’s his name. Carver? And I told him that I would consider dropping the charges if that kid could convince me that he was, you know, willing to straighten his life out.</content></utterance>
+<utterance uid="12-14"><speaker>BECKETT</speaker><content>Where were you last night?</content></utterance>
+<utterance uid="12-15"><speaker>STUCKEY</speaker><content>At home, asleep. Or as close as I ever get, having to pee every half hour.  You should see the size of my prostate, son. It’s like a baby’s fist. </content></utterance>
+<utterance uid="12-16"><speaker>CASTLE</speaker><content>Okay, woah, thank you. Thank you, Mr. Stuckey.  That’s good.</content></utterance>
+<utterance uid="12-17"><speaker>STUCKEY</speaker><content>Hey.  Hey, that’s the kid! Any idea where I can find him? My offer still stands.</content></utterance>
+<utterance uid="12-18"><speaker>BECKETT</speaker><content>Ah … I’m sorry, Mr. Stuckey. It’s too late. He’s already on his way back to jail.</content></utterance>
+<utterance uid="12-19"><speaker>STUCKEY</speaker><content>Aw, geez.</content></utterance>
+<utterance uid="12-20"><speaker>BECKETT</speaker><content>Call me crazy, but I don’t think he was looking at Random’s picture. It was like he was checking out that document.</content></utterance>
+<utterance uid="12-21"><speaker>CASTLE</speaker><content>Oh, you mean the world’s least interesting doodle?</content></utterance>
+<utterance uid="12-22"><speaker>BECKETT</speaker><content>Beckett.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>LANIE</speaker><content>I was just getting ready to cut open Carver’s skull when I saw it on his forehead.</content></utterance>
+<utterance uid="13-2"><speaker>BECKETT</speaker><content>Saw what?</content></utterance>
+<utterance uid="13-3"><speaker>LANIE</speaker><content>The light has to be at the right angle to catch the shine.</content></utterance>
+<utterance uid="13-4"><speaker>CASTLE</speaker><content>Sign of the cross?</content></utterance>
+<utterance uid="13-5"><speaker>LANIE</speaker><content>I ran a test on the substance the cross was drawn with –</content></utterance>
+<utterance uid="13-6"><speaker>BECKETT</speaker><content>Don’t tell me.</content></utterance>
+<utterance uid="13-7"><speaker>LANIE</speaker><content>Yep. Holy oil.</content></utterance>
+<utterance uid="13-8"><speaker>CASTLE</speaker><content>Holy oil?</content></utterance>
+<utterance uid="13-9"><speaker>LANIE</speaker><content>Looks like our killer gave Carver last rites.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>ALEXIS</speaker><content>Dad, go back to bed. Breakfast is almost ready.</content></utterance>
+<utterance uid="14-2"><speaker>CASTLE</speaker><content>Honey? Stop cooking for a second. I want to talk to you.</content></utterance>
+<utterance uid="14-3"><speaker>ALEXIS</speaker><content>You’ve made a decision about the scooter?</content></utterance>
+<utterance uid="14-4"><speaker>CASTLE</speaker><content>Have you ever heard of affluenza?</content></utterance>
+<utterance uid="14-5"><speaker>ALEXIS</speaker><content>You mean influenza?</content></utterance>
+<utterance uid="14-6"><speaker>CASTLE</speaker><content>No, affluenza. It’s a condition that affects children who come from wealthy homes.</content></utterance>
+<utterance uid="14-7"><speaker>ALEXIS</speaker><content>You’re making that up.</content></utterance>
+<utterance uid="14-8"><speaker>CASTLE</speaker><content>I’m not. It’s on Wikipedia.</content></utterance>
+<utterance uid="14-9"><speaker>ALEXIS</speaker><content>You can’t believe everything you read online.</content></utterance>
+<utterance uid="14-10"><speaker>CASTLE</speaker><content>I don’t. But the point is, you’re a great kid. I’m just afraid that if I just give you everything you want it’s going to warp your relationship with money.</content></utterance>
+<utterance uid="14-11"><speaker>ALEXIS</speaker><content>So you’re saying no?</content></utterance>
+<utterance uid="14-12"><speaker>CASTLE</speaker><content>I – no, I’m not saying that. I’m saying that if you – if this is really important to you, then you need to earn the money yourself. And by earn I don’t mean raid your college fund.</content></utterance>
+<utterance uid="14-13"><speaker>ALEXIS</speaker><content>Thank you.</content></utterance>
+<utterance uid="14-14"><speaker>CASTLE</speaker><content>Why are you thanking me?</content></utterance>
+<utterance uid="14-15"><speaker>ALEXIS</speaker><content>Because you said yes.</content></utterance>
+<utterance uid="14-16"><speaker>CASTLE</speaker><content>I did?</content></utterance>
+<utterance uid="14-17"><speaker>MARTHA</speaker><content>What are you thinking?</content></utterance>
+<utterance uid="14-18"><speaker>CASTLE</speaker><content>That … she would fold.</content></utterance>
+<utterance uid="14-19"><speaker>MARTHA</speaker><content>This is Alexis we are talking about. She has never met a challenge that she hasn’t attacked like Attila the Hun.</content></utterance>
+<utterance uid="14-20"><speaker>CASTLE</speaker><content>Yeah, but it would take her so long to –</content></utterance>
+<utterance uid="14-21"><speaker>MARTHA</speaker><content>She’ll have the money by next week. And then you know what you’re in for? You’re in for tattoos. You’re in for nose rings. You’re in for, oh, who knows what.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>CASTLE</speaker><content>Just how wild was your wild child phase?</content></utterance>
+<utterance uid="15-2"><speaker>BECKETT</speaker><content> You don’t wanna know.</content></utterance>
+<utterance uid="15-3"><speaker>BECKETT</speaker><content>So, I may have a lead on our last rites killer. Our victim’s financials show he made several donations to a church in the south Bronx run by a Father Aaron Low. Ryan’s on his way to bring him in.</content></utterance>
+<utterance uid="15-4"><speaker>RYAN</speaker><content>Hey Beckett? He’s here.</content></utterance>
+<utterance uid="15-5"><speaker>CASTLE</speaker><content> No hassle tassels.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>BECKETT</speaker><content>What was the nature of your relationship with Deon Carver.</content></utterance>
+<utterance uid="16-2"><speaker>AARON LOW</speaker><content>He was a member of my congregation. And a friend.</content></utterance>
+<utterance uid="16-3"><speaker>BECKETT</speaker><content>Where were you two nights ago between nine and eleven?</content></utterance>
+<utterance uid="16-4"><speaker>LOW</speaker><content>I was at the church. We had a late service, then I went home to bed. I’m sorry, I have an appointment, so if you will excuse me.</content></utterance>
+<utterance uid="16-5"><speaker>CASTLE</speaker><content>Oh, Father, those are killer shoes.</content></utterance>
+<utterance uid="16-6"><speaker>BECKETT</speaker><content>Unfortunately, those are the same shoes worn by the man who killed Carver and I’m certain that if we sent those to the lab they’ll have Carver’s blood all over them.</content></utterance>
+<utterance uid="16-7"><speaker>LOW</speaker><content>Look, Deon was dead when I got there.</content></utterance>
+<utterance uid="16-8"><speaker>BECKETT</speaker><content>Try again.</content></utterance>
+<utterance uid="16-9"><speaker>LOW</speaker><content>Look, I swear. I found him lying in his office. I administered last rites and then I dialed 911.</content></utterance>
+<utterance uid="16-10"><speaker>BECKETT</speaker><content>Anonymously. And then you ran.</content></utterance>
+<utterance uid="16-11"><speaker>LOW</speaker><content>There was nothing more I could do.</content></utterance>
+<utterance uid="16-12"><speaker>CASTLE</speaker><content>Why were you there in the first place?</content></utterance>
+<utterance uid="16-13"><speaker>LOW</speaker><content>Deon was having marital troubles. I was helping him find his way.</content></utterance>
+<utterance uid="16-14"><speaker>BECKETT</speaker><content>Marital troubles. Are you sure you didn’t go there looking for this? </content></utterance>
+<utterance uid="16-15"><speaker>LOW</speaker><content>I don’t know what that is.</content></utterance>
+<utterance uid="16-16"><speaker>CASTLE</speaker><content>Lying is not his strong suit. A quality I like in a priest.</content></utterance>
+<utterance uid="16-17"><speaker>LOW</speaker><content>I’m telling the truth.</content></utterance>
+<utterance uid="16-18"><speaker>BECKETT</speaker><content>Father, you left the scene of a crime and a man you describe as a friend was murdered. If you didn’t have anything to hide you would have stayed.</content></utterance>
+<utterance uid="16-19"><speaker>LOW</speaker><content>No, I was in shock. Look, there was so much blood all I could think to do was escape.</content></utterance>
+<utterance uid="16-20"><speaker>BECKETT</speaker><content>Because you murdered him.</content></utterance>
+<utterance uid="16-21"><speaker>LOW</speaker><content>No! Because … because of how it looked. The convicts I work with tell me horror stories about the police, about how they’re framed. You know, when I found Deon like that I … I panicked. Am I ashamed? Yes. But you have to believe, I didn’t murder anybody.</content></utterance>
+<utterance uid="16-22"><speaker>BECKETT</speaker><content>Father, you’ll have to forgive me, but this is a murder investigation. And I can’t base this on faith.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>BECKETT</speaker><content>Hey.</content></utterance>
+<utterance uid="17-2"><speaker>ROYCE</speaker><content>It looks like you caught your killer.</content></utterance>
+<utterance uid="17-3"><speaker>BECKETT</speaker><content>Yeah, maybe.</content></utterance>
+<utterance uid="17-4"><speaker>ROYCE</speaker><content> So? Was he trying to start the zombie apocalypse?</content></utterance>
+<utterance uid="17-5"><speaker>CASTLE</speaker><content>Mock all you want. Our good Father knows what that paper is.</content></utterance>
+<utterance uid="17-6"><speaker>ROYCE</speaker><content>Oh man, hey. I found this picture in my closet, though you’d get a kick out of it.</content></utterance>
+<utterance uid="17-7"><speaker>CASTLE</speaker><content>Oh, look at you, all shiny and bright!</content></utterance>
+<utterance uid="17-8"><speaker>BECKETT</speaker><content> What did I tell you about feeding the animals?</content></utterance>
+<utterance uid="17-9"><speaker>ROYCE</speaker><content>Listen, I just stopped by to say thanks again, for the bounty assist, and um… thought maybe I could buy you lunch.</content></utterance>
+<utterance uid="17-10"><speaker>BECKETT</speaker><content>Yeah, sure.</content></utterance>
+<utterance uid="17-11"><speaker>RYAN</speaker><content>So, it looks like the bug from Carver’s office was shipped from Thailand to a spy shop on Fifth Avenue. Guess who bought it.</content></utterance>
+<utterance uid="17-12"><speaker>BECKETT_CASTLE</speaker><content> Father Aaron.</content></utterance>
+<utterance uid="17-13"><speaker>RYAN</speaker><content> Brooke Carver. Our victim’s wife.</content></utterance>
+<utterance uid="17-14"><speaker>BECKETT</speaker><content>Funny. She failed to mention that she was bugging her husband’s office.</content></utterance>
+<utterance uid="17-15"><speaker>CASTLE</speaker><content>Perhaps the good Father was telling the truth about Carver’s marital problems. Nothing says ‘marriage on the rocks’ like electronic eavesdropping.</content></utterance>
+<utterance uid="17-16"><speaker>BECKETT</speaker><content>But does it say murder?</content></utterance>
+<utterance uid="17-17"><speaker>CASTLE</speaker><content>Let’s ask her.</content></utterance>
+<utterance uid="17-18"><speaker>BECKETT</speaker><content> Oh, um, why don’t you stop by after my shift. I’ll buy you a beer.</content></utterance>
+<utterance uid="17-19"><speaker>ROYCE</speaker><content>It’s a date.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>BROOKE</speaker><content>We’d been fighting all the time. Some nights he wouldn’t come home. He said he was sleeping at the office, but I didn’t believe him. So I bought the bug.</content></utterance>
+<utterance uid="18-2"><speaker>CASTLE</speaker><content>You thought he was cheating on you.</content></utterance>
+<utterance uid="18-3"><speaker>BECKETT</speaker><content>And when you heard him in action, you decided to make yourself a widow.</content></utterance>
+<utterance uid="18-4"><speaker>BROOKE</speaker><content>No, at first I couldn’t even bear to listen, I couldn’t bear to hear him with another woman. And finally I made my sister listen with me, but what we heard … it wasn’t sex. It was Deon talking about how much he loved me. And how he prayed that he could save our marriage. I cried all night. And in the morning I threw the receiver away.</content></utterance>
+<utterance uid="18-5"><speaker>BECKETT</speaker><content>And when was that?</content></utterance>
+<utterance uid="18-6"><speaker>BROOKE</speaker><content>A few weeks ago. We had just started to find our way back to each other and now he’s dead. So now all I’ll have to remember him by is a box of ashes.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>ESPOSITO</speaker><content>Brooke’s sister confirms her story.</content></utterance>
+<utterance uid="19-2"><speaker>RYAN</speaker><content>We got about a dozen witnesses that put Father Aaron at church at ten PM when Carver was killed.</content></utterance>
+<utterance uid="19-3"><speaker>CASTLE</speaker><content>So we’re back to square one.</content></utterance>
+<utterance uid="19-4"><speaker>BECKETT</speaker><content>No, the answer is right here in front of us, I can feel it. It’s just that there’s something that we’re not seeing, there’s a connection that we haven’t made yet.</content></utterance>
+<utterance uid="19-5"><speaker>ESPOSITO</speaker><content>Do you want me to start processing the good Father out?</content></utterance>
+<utterance uid="19-6"><speaker>BECKETT</speaker><content>Nope. He might have an alibi, but he’s definitely involved somehow. It says here that Father Aaron volunteers at Five Points Correctional.</content></utterance>
+<utterance uid="19-7"><speaker>RYAN</speaker><content>That’s where Random did his time.</content></utterance>
+<utterance uid="19-8"><speaker>CASTLE</speaker><content>They knew each other.</content></utterance>
+<utterance uid="19-9"><speaker>BECKETT</speaker><content>And they both knew our victim. So maybe Five Points is our connection. Did Stuckey do time there?</content></utterance>
+<utterance uid="19-10"><speaker>ESPOSITO</speaker><content>Nope.</content></utterance>
+<utterance uid="19-11"><speaker>BECKETT</speaker><content>Damn.</content></utterance>
+<utterance uid="19-12"><speaker>RYAN</speaker><content>Doesn’t mean they’re not connected in a different way. Prison’s a networking gold mine for criminals.</content></utterance>
+<utterance uid="19-13"><speaker>BECKETT</speaker><content>Out of curiosity, who was Random’s cell mate?</content></utterance>
+<utterance uid="19-14"><speaker>RYAN</speaker><content>Uh … Malcolm Lloyd. A recidivist thief doing twenty for a jewel heist.</content></utterance>
+<utterance uid="19-15"><speaker>CASTLE</speaker><content>We should go talk to him.</content></utterance>
+<utterance uid="19-16"><speaker>RYAN</speaker><content>Can’t. Looks like he died of a heart attack in prison three weeks ago.</content></utterance>
+<utterance uid="19-17"><speaker>CASTLE</speaker><content>Wouldn’t it be funny if Father Aaron administered last rites for Lloyd as well?</content></utterance>
+<utterance uid="19-18"><speaker>BECKETT</speaker><content>Ryan –</content></utterance>
+<utterance uid="19-19"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+<utterance uid="19-20"><speaker>BECKETT</speaker><content>Check Lloyd’s known associates.</content></utterance>
+<utterance uid="19-21"><speaker>RYAN</speaker><content>Doesn’t mention the priest … wait a minute. It says Lloyd knew Clifford Stuckey. Looks like he and Lloyd were both arrested for the same jewel heist.</content></utterance>
+<utterance uid="19-22"><speaker>CASTLE</speaker><content>They were partners.</content></utterance>
+<utterance uid="19-23"><speaker>RYAN</speaker><content>DA didn’t have enough evidence to prosecute Stuckey so he walked while Lloyd did twenty years.</content></utterance>
+<utterance uid="19-24"><speaker>BECKETT</speaker><content>It still doesn’t explain why Random broke into Stuckey’s apartment.</content></utterance>
+<utterance uid="19-25"><speaker>RYAN</speaker><content>Maybe this will help. The heist that Lloyd and Stuckey pulled? Ten million dollars in rare sapphires and rubies. And guess what. They were never found.</content></utterance>
+<utterance uid="19-26"><speaker>CASTLE</speaker><content>You guys. I think I know what this is.  It’s a treasure map.</content></utterance>
+</scene>
+
+<scene id="20"><utterance uid="20-1"><speaker>BECKETT</speaker><content>Father, we checked with the prison. We know that you gave Malcolm Lloyd his last rites. That’s when you found out about the map.</content></utterance>
+<utterance uid="20-2"><speaker>LOW</speaker><content>I administered to Malcolm at the end. He told me he was scared. That he wanted to do one good thing before he died. He made me promise that I would use it for the church. But when I went to the cell, the map wasn’t there.</content></utterance>
+<utterance uid="20-3"><speaker>BECKETT</speaker><content>Because Random had already taken it.</content></utterance>
+<utterance uid="20-4"><speaker>CASTLE</speaker><content>But when Random got out of jail, he couldn’t figure it out. So he breaks into Stuckey’s apartment, figuring he’s going to strong arm Lloyd’s old partner into helping him.</content></utterance>
+<utterance uid="20-5"><speaker>BECKETT</speaker><content>Only Stuckey wasn’t home and someone called the cops.</content></utterance>
+<utterance uid="20-6"><speaker>LOW</speaker><content>I called them. I had been following Random and I knew that his arrest would give me the leverage I needed to force him to share the map.</content></utterance>
+<utterance uid="20-7"><speaker>BECKETT</speaker><content>Because you were friends with the bail bondsman.</content></utterance>
+<utterance uid="20-8"><speaker>LOW</speaker><content>Random had no money for bail. Deon agreed to cover it for a third of the treasure but he insisted on holding onto the map for safe keeping.</content></utterance>
+<utterance uid="20-9"><speaker>CASTLE</speaker><content>So why were you really at Carver’s office the night he died?</content></utterance>
+<utterance uid="20-10"><speaker>LOW</speaker><content>Deon called me and told me that he had figured out the map. When I got there he was already dead. Murdered by that old man.</content></utterance>
+<utterance uid="20-11"><speaker>CASTLE</speaker><content>Stuckey.</content></utterance>
+<utterance uid="20-12"><speaker>BECKETT</speaker><content>How do you know?</content></utterance>
+<utterance uid="20-13"><speaker>LOW</speaker><content>Because Stuckey had caught Deon and Random conspiring together the night before. He told them he had waited twenty years for that money and they had twenty four hours to give it back or bodies were going to start dropping.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>ESPOSITO</speaker><content>Mr. Stuckey. We need to talk.</content></utterance>
+<utterance uid="21-2"><speaker>ESPOSITO</speaker><content>We’re never going to hear the end of this.</content></utterance>
+<utterance uid="21-3"><speaker>RYAN</speaker><content>Aw, crap.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>CASTLE</speaker><content>When do Esposito and Ryan get back?</content></utterance>
+<utterance uid="22-2"><speaker>BECKETT</speaker><content>Soon. They’re on their way to Central booking to pick up Random to ask him about the map. So I made a couple of phone calls and this heist in 1990 was worth ten million dollars, and now it’s worth almost thirty million.</content></utterance>
+<utterance uid="22-3"><speaker>ROYCE</speaker><content>Hey, you ready?</content></utterance>
+<utterance uid="22-4"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="22-5"><speaker>CASTLE</speaker><content>Wo – you – uh, you can’t leave now.</content></utterance>
+<utterance uid="22-6"><speaker>BECKETT</speaker><content>C’mon Castle, every uniform in this city’s got Stuckey’s photo. If there’s one thing that my TO taught me it’s that sometimes the best way to crack a case is by taking a break.</content></utterance>
+<utterance uid="22-7"><speaker>ROYCE</speaker><content>Promise I won’t keep her out too late.</content></utterance>
+</scene>
+
+<scene id="23"><utterance uid="23-1"><speaker>ROYCE</speaker><content>So, it’s actually a treasure map, huh?</content></utterance>
+<utterance uid="23-2"><speaker>BECKETT</speaker><content>Castle’s been trying to figure it out all day. I should have been on to Stuckey earlier, though.</content></utterance>
+<utterance uid="23-3"><speaker>ROYCE</speaker><content>Nobody’s perfect.</content></utterance>
+<utterance uid="23-4"><speaker>BECKETT</speaker><content> You were.</content></utterance>
+<utterance uid="23-5"><speaker>ROYCE</speaker><content>You were easy to impress.</content></utterance>
+<utterance uid="23-6"><speaker>BECKETT</speaker><content>No, I wasn’t. I was drowning, and … you were dry land. All they ever taught us in the academy was how to do paperwork. You were the one who taught me how to be a cop.</content></utterance>
+<utterance uid="23-7"><speaker>ROYCE</speaker><content>You were easy to teach. Keeping you out of trouble, not so much.</content></utterance>
+<utterance uid="23-8"><speaker>BECKETT</speaker><content> Trouble? Me?</content></utterance>
+<utterance uid="23-9"><speaker>ROYCE</speaker><content>What about that biker chick from Yonkers?</content></utterance>
+<utterance uid="23-10"><speaker>BECKETT</speaker><content>Yeah, well, I got her to snitch on her crew, didn’t I?</content></utterance>
+<utterance uid="23-11"><speaker>ROYCE</speaker><content>By offering me up as man bait!</content></utterance>
+<utterance uid="23-12"><speaker>BECKETT</speaker><content>Oh, you should have seen your face when she told the judge ‘he completes me’.</content></utterance>
+<utterance uid="23-13"><speaker>ROYCE</speaker><content>That’s mean.</content></utterance>
+<utterance uid="23-14"><speaker>BECKETT</speaker><content>I caught him, Royce. The man who killed my mom.</content></utterance>
+<utterance uid="23-15"><speaker>ROYCE</speaker><content>After all these years. Find out why he did it?</content></utterance>
+<utterance uid="23-16"><speaker>BECKETT</speaker><content> Somebody paid him to do it, but I had to shoot him before I could find out who.</content></utterance>
+<utterance uid="23-17"><speaker>ROYCE</speaker><content>That was stupid.</content></utterance>
+<utterance uid="23-18"><speaker>ROYCE</speaker><content>You shoulda just shown him your boobs.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>ALEXIS</speaker><content>Dad.</content></utterance>
+<utterance uid="24-2"><speaker>CASTLE</speaker><content>Hey.</content></utterance>
+<utterance uid="24-3"><speaker>CASTLE</speaker><content>What are you doing here?</content></utterance>
+<utterance uid="24-4"><speaker>ALEXIS</speaker><content>I got the money.</content></utterance>
+<utterance uid="24-5"><speaker>CASTLE</speaker><content>Already?</content></utterance>
+<utterance uid="24-6"><speaker>CASTLE</speaker><content>How?</content></utterance>
+<utterance uid="24-7"><speaker>ALEXIS</speaker><content>The light sabers. I found a guy on eBay willing to pay two grand for them.</content></utterance>
+<utterance uid="24-8"><speaker>CASTLE</speaker><content>But we had so much fun with those! We were saving the universe, one galaxy at a time. That’s what got you into fencing.</content></utterance>
+<utterance uid="24-9"><speaker>ALEXIS</speaker><content>I know, dad. But I’ve outgrown them.</content></utterance>
+<utterance uid="24-10"><speaker>CASTLE</speaker><content>No, yeah, I guess … I guess you have.</content></utterance>
+<utterance uid="24-11"><speaker>ALEXIS</speaker><content>Are you mad?</content></utterance>
+<utterance uid="24-12"><speaker>CASTLE</speaker><content>No, no I … I’m frustrated over this case. </content></utterance>
+<utterance uid="24-13"><speaker>ALEXIS</speaker><content>Is that the map?</content></utterance>
+<utterance uid="24-14"><speaker>CASTLE</speaker><content>Yeah. And it’s making me doubt my own genius. There’s just something I’m not seeing.</content></utterance>
+<utterance uid="24-15"><speaker>ALEXIS</speaker><content>Can I take a look?</content></utterance>
+<utterance uid="24-16"><speaker>CASTLE</speaker><content> Sure. Found it folded up in our victim’s sock.</content></utterance>
+<utterance uid="24-17"><speaker>ALEXIS</speaker><content>It’s got a lot of fold marks on it.</content></utterance>
+<utterance uid="24-18"><speaker>CASTLE</speaker><content> Yeah.</content></utterance>
+<utterance uid="24-19"><speaker>ALEXIS</speaker><content>Almost like a puzzle.</content></utterance>
+<utterance uid="24-20"><speaker>CASTLE</speaker><content>Mmhmm.</content></utterance>
+<utterance uid="24-21"><speaker>ALEXIS</speaker><content>Or one of those paper fortune tellers.</content></utterance>
+<utterance uid="24-22"><speaker>CASTLE</speaker><content>Or MAD Magazine.  Uh, MAD Magazine used to have this trick picture on the back. If you folded it the right way it would show you an entirely different image.</content></utterance>
+<utterance uid="24-23"><speaker>ALEXIS</speaker><content>Hey, there’s a word there.  The.</content></utterance>
+<utterance uid="24-24"><speaker>CASTLE</speaker><content>Under. Under the…  … gun. Under the gun.</content></utterance>
+<utterance uid="24-25"><speaker>ALEXIS</speaker><content>Under the gun.</content></utterance>
+<utterance uid="24-26"><speaker>CASTLE</speaker><content>Under the gun.</content></utterance>
+<utterance uid="24-27"><speaker>ALEXIS</speaker><content>What does that mean?</content></utterance>
+<utterance uid="24-28"><speaker>CASTLE</speaker><content>I don’t know.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>BECKETT</speaker><content>I should get going. They’re going to be bringing Random into the precinct.</content></utterance>
+<utterance uid="25-2"><speaker>ROYCE</speaker><content>I’m just going to head out then.</content></utterance>
+<utterance uid="25-3"><speaker>BECKETT</speaker><content>Beckett.</content></utterance>
+<utterance uid="25-4"><speaker>RYAN</speaker><content>It’s Ryan. We’re at Central booking. Random isn’t here.</content></utterance>
+<utterance uid="25-5"><speaker>BECKETT</speaker><content>What do you mean he’s not there? Where is he?</content></utterance>
+<utterance uid="25-6"><speaker>RYAN</speaker><content>I don’t know. Your buddy Royce never delivered him.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>BECKETT</speaker><content>I can’t believe he lied to me.</content></utterance>
+<utterance uid="26-2"><speaker>CASTLE</speaker><content>Money makes people do crazy things. Look at any reality show contestant who ever ate a cockroach on television. Doesn’t mean he killed Carver.</content></utterance>
+<utterance uid="26-3"><speaker>BECKETT</speaker><content>Yeah well, until I find otherwise I’m going to have to assume that he did. Do you think he came here to see the map like Stuckey did?</content></utterance>
+<utterance uid="26-4"><speaker>CASTLE</speaker><content>No.  Oh, no.</content></utterance>
+<utterance uid="26-5"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="26-6"><speaker>CASTLE</speaker><content>When I took the picture of the two of you, you were standing in front of the murder board.</content></utterance>
+<utterance uid="26-7"><speaker>BECKETT</speaker><content>He has a copy of the map.</content></utterance>
+<utterance uid="26-8"><speaker>CASTLE</speaker><content>Yes, but obviously he can’t figure it out. That’s why he was here. He wanted to see if we did.</content></utterance>
+<utterance uid="26-9"><speaker>ESPOSITO</speaker><content>Yo Beckett. I pulled the files from the jewelry heist. Your boy Royce was part of the investigation.</content></utterance>
+<utterance uid="26-10"><speaker>BECKETT</speaker><content>So he knew about the treasure from the start.</content></utterance>
+<utterance uid="26-11"><speaker>RYAN</speaker><content>We put a surveillance on his apartment and an APB out on his car.</content></utterance>
+<utterance uid="26-12"><speaker>BECKETT</speaker><content>What about ‘under the gun’? Any idea what that means?</content></utterance>
+<utterance uid="26-13"><speaker>RYAN</speaker><content>Not yet. There was a gun club about five blocks from the jewel heist, but it was torn down and turned into condominiums about ten years ago.</content></utterance>
+<utterance uid="26-14"><speaker>BECKETT</speaker><content>All right then. Keep looking.</content></utterance>
+<utterance uid="26-15"><speaker>BECKETT</speaker><content>Beckett.</content></utterance>
+<utterance uid="26-16"><speaker>ROYCE</speaker><content>It’s me.</content></utterance>
+<utterance uid="26-17"><speaker>BECKETT</speaker><content>Royce, turn yourself in.</content></utterance>
+<utterance uid="26-18"><speaker>ROYCE</speaker><content>I can’t do that, kid. I’m too close to the money to walk away right now. Listen, I just need you to know that I didn’t mean for it to go like this.</content></utterance>
+<utterance uid="26-19"><speaker>BECKETT</speaker><content>Did you kill Carver for the map?</content></utterance>
+<utterance uid="26-20"><speaker>ROYCE</speaker><content>C’mon kid, you know me better than that.</content></utterance>
+<utterance uid="26-21"><speaker>BECKETT</speaker><content>I don’t think I do. Because the man that I knew wouldn’t betray me like this.</content></utterance>
+<utterance uid="26-22"><speaker>ROYCE</speaker><content>I gotta go.</content></utterance>
+<utterance uid="26-23"><speaker>BECKETT</speaker><content>Mike. I was in love with you. </content></utterance>
+<utterance uid="26-24"><speaker>ROYCE</speaker><content>Oh, Kate. Don’t.</content></utterance>
+<utterance uid="26-25"><speaker>BECKETT</speaker><content>You were the only one that understood the obsession that drove me. Who didn’t tell me that I would get over my mother’s murder and that she wouldn’t want me to do this.</content></utterance>
+<utterance uid="26-26"><speaker>ROYCE</speaker><content>Just … just trying to do right by you, kid.</content></utterance>
+<utterance uid="26-27"><speaker>BECKETT</speaker><content>I dreamt about you. The night that I shot the guy who killed my mother. I dreamt that I was the one who was on the ground, dying. And that you came up to me and told me, ‘stand up’. Because there was still work to be done. When I woke up that morning I just wanted to call you, but we hadn’t talked in so long.</content></utterance>
+<utterance uid="26-28"><speaker>ROYCE</speaker><content>You shoulda called. I never forgot.</content></utterance>
+<utterance uid="26-29"><speaker>BECKETT</speaker><content>I’m going to catch Carver’s killer, Royce. And then I’m going to recover Lloyd’s score. And when I arrest you you’re going to realize that what you destroyed today was worth a hell of a lot more than money.</content></utterance>
+<utterance uid="26-30"><speaker>BECKETT</speaker><content> Did I keep him on long enough?</content></utterance>
+<utterance uid="26-31"><speaker>RYAN</speaker><content>Uh… um…</content></utterance>
+<utterance uid="26-32"><speaker>ESPOSITO</speaker><content>Yeah.  We got an address.</content></utterance>
+<utterance uid="26-33"><speaker>BECKETT</speaker><content>All right. Let’s go.</content></utterance>
+<utterance uid="26-34"><speaker>CASTLE</speaker><content>Wha … all that was just an act to get a trace?</content></utterance>
+<utterance uid="26-35"><speaker>BECKETT</speaker><content>Of course.</content></utterance>
+<utterance uid="26-36"><speaker>CASTLE</speaker><content>Oh.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>ESPOSITO</speaker><content>NYPD!  It’s clear.</content></utterance>
+<utterance uid="27-2"><speaker>RANDOM</speaker><content>Oh… thank God! That dude totally kidnapped me.</content></utterance>
+<utterance uid="27-3"><speaker>BECKETT</speaker><content>Knock it off. We already know about the map.</content></utterance>
+<utterance uid="27-4"><speaker>RANDOM</speaker><content>Really?</content></utterance>
+<utterance uid="27-5"><speaker>CASTLE</speaker><content>Where’s Royce?</content></utterance>
+<utterance uid="27-6"><speaker>RANDOM</speaker><content>Out looking for my money. Looks like he betrayed all of us.</content></utterance>
+<utterance uid="27-7"><speaker>BECKETT</speaker><content>Random, either you start telling us the truth or Esposito is going to hang you out that window by your feet.</content></utterance>
+<utterance uid="27-8"><speaker>RANDOM</speaker><content>Look, I’m a victim in all this. I bunked with a geezer who wouldn’t shut up about his ten million dollar score. How he buried it where no one could find it. Not without the map. But then I had to partner with Carver and the creepy priest, and instead of trying to figure out the map all they wanted to do was argue about how un-Christian it was to cut Carver’s wife out of the score.</content></utterance>
+<utterance uid="27-9"><speaker>BECKETT</speaker><content>This argument. Did it take place in Carver’s office?</content></utterance>
+<utterance uid="27-10"><speaker>RANDOM</speaker><content>Yeah.</content></utterance>
+<utterance uid="27-11"><speaker>CASTLE</speaker><content>Which Brooke had bugged.</content></utterance>
+<utterance uid="27-12"><speaker>RANDOM</speaker><content>Seriously?</content></utterance>
+<utterance uid="27-13"><speaker>BECKETT</speaker><content> Call Ryan, have him find Brooke.</content></utterance>
+<utterance uid="27-14"><speaker>ESPOSITO</speaker><content>All right.</content></utterance>
+<utterance uid="27-15"><speaker>CASTLE</speaker><content>She didn’t hear him profess his undying love for her. She heard him trying to cut her out of millions.</content></utterance>
+<utterance uid="27-16"><speaker>BECKETT</speaker><content>And then she lied to our faces.</content></utterance>
+<utterance uid="27-17"><speaker>CASTLE</speaker><content>Marriage on the rocks. A fortune in rocks. Two strong motives for murder.</content></utterance>
+<utterance uid="27-18"><speaker>BECKETT</speaker><content>We showed her the map.</content></utterance>
+<utterance uid="27-19"><speaker>CASTLE</speaker><content>No wonder her hands were trembling.</content></utterance>
+<utterance uid="27-20"><speaker>ESPOSITO</speaker><content>Ryan traced Brooke to Carver’s office.</content></utterance>
+<utterance uid="27-21"><speaker>BECKETT</speaker><content>All right, let’s go.</content></utterance>
+<utterance uid="27-22"><speaker>RANDOM</speaker><content>Hey hey hey … what about me? </content></utterance>
+<utterance uid="27-23"><speaker>BECKETT</speaker><content>Have a cheese puff. Uniforms are on their way.</content></utterance>
+</scene>
+
+<scene id="28"><utterance uid="28-1"><speaker>BECKETT</speaker><content>There’s no one here. We just missed her.</content></utterance>
+<utterance uid="28-2"><speaker>CASTLE</speaker><content>She was trying to recreate the map from memory.</content></utterance>
+<utterance uid="28-3"><speaker>BECKETT</speaker><content>Look at this. Notes she took while she was listening in on the bug. Right here – under the gun.</content></utterance>
+<utterance uid="28-4"><speaker>CASTLE</speaker><content>She heard them figure it out. But without the map, she can’t find the treasure.</content></utterance>
+<utterance uid="28-5"><speaker>ESPOSITO</speaker><content>It’s because the score could be buried anywhere.</content></utterance>
+<utterance uid="28-6"><speaker>CASTLE</speaker><content>No, it can’t be. New York is basically an island of concrete. Lloyd would have to make sure he buried it someplace that couldn’t be torn down or dug up to make condos.</content></utterance>
+<utterance uid="28-7"><speaker>RYAN</speaker><content>The park, maybe?</content></utterance>
+<utterance uid="28-8"><speaker>CASTLE</speaker><content>Or a cemetery.  Didn’t Brooke say Carver was being cremated? So why does she have cemetery brochures?</content></utterance>
+<utterance uid="28-9"><speaker>BECKETT</speaker><content>Those weren’t lines on the map. Those were gravestones.</content></utterance>
+<utterance uid="28-10"><speaker>CASTLE</speaker><content>Want to bet it’s buried ‘under the gun’?</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>RYAN</speaker><content>You know, if this were a horror movie, we’d be the first ones killed, splitting off like this.</content></utterance>
+<utterance uid="29-2"><speaker>ESPOSITO</speaker><content>Yeah, except we’re not a couple of top heavy co-eds out looking for fun. We’re highly trained officers of the law with enough firepower to take out a hoard of undead.</content></utterance>
+<utterance uid="29-3"><speaker>RYAN</speaker><content>Hispanic and cocky. Yeah, you’d definitely die first.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>CASTLE</speaker><content>You know, if this was a horror movie –</content></utterance>
+<utterance uid="30-2"><speaker>BECKETT</speaker><content>Castle, focus.</content></utterance>
+<utterance uid="30-3"><speaker>CASTLE</speaker><content>Ah… there it is, look! Look! Yes!</content></utterance>
+<utterance uid="30-4"><speaker>CASTLE</speaker><content>Looks like someone’s been here already.</content></utterance>
+<utterance uid="30-5"><speaker>BROOKE</speaker><content>Drop the gun!</content></utterance>
+<utterance uid="30-6"><speaker>BECKETT</speaker><content>I can’t do that.</content></utterance>
+<utterance uid="30-7"><speaker>BROOKE</speaker><content>Then we’ve got a problem.</content></utterance>
+<utterance uid="30-8"><speaker>BECKETT</speaker><content>You’re not a cop killer, Brooke. I know you didn’t mean to kill Deon. He just surprised you when you were looking for that map.</content></utterance>
+<utterance uid="30-9"><speaker>BROOKE</speaker><content>To hell with that. Of course I meant to kill him. After ten years of putting up with his foot fetish and snoring, he betrays me like that? Uh uh. I deserve that treasure. And I’m not leaving here without it.</content></utterance>
+<utterance uid="30-10"><speaker>STUCKEY</speaker><content>Only one leaving with that treasure is me.  And I’ve got the biggest gun. </content></utterance>
+<utterance uid="30-11"><speaker>ROYCE</speaker><content>Not anymore, grandpa. </content></utterance>
+<utterance uid="30-12"><speaker>RYAN</speaker><content>NYPD! NYPD! Drop it right now, stupid!</content></utterance>
+<utterance uid="30-13"><speaker>ESPOSITO</speaker><content>NYPD! NYPD! Drop your weapon! What’s wrong with you? Drop it!</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>BECKETT</speaker><content>What about you, Royce? You willing to shoot me for that treasure?</content></utterance>
+<utterance uid="31-2"><speaker>ROYCE</speaker><content>In case you haven’t noticed, kid, my gun’s not pointed at you.</content></utterance>
+<utterance uid="31-3"><speaker>STUCKEY</speaker><content>But my gun is and at this range I’m going to turn her and the haircut into soup.</content></utterance>
+<utterance uid="31-4"><speaker>RYAN</speaker><content>You shoot you die, gramps.</content></utterance>
+<utterance uid="31-5"><speaker>STUCKEY</speaker><content>You think I care? The only thing that’s keeping me alive is that ten million in stones. Either I leave with it or I leave in a body bag.</content></utterance>
+<utterance uid="31-6"><speaker>BECKETT</speaker><content>Well then maybe we should make sure that treasure is even there before we start shooting. Castle, do you mind?</content></utterance>
+<utterance uid="31-7"><speaker>CASTLE</speaker><content>Why me?</content></utterance>
+<utterance uid="31-8"><speaker>BECKETT</speaker><content>Because you’re the only one without a gun.</content></utterance>
+<utterance uid="31-9"><speaker>CASTLE</speaker><content>Good point.</content></utterance>
+<utterance uid="31-10"><speaker>ROYCE</speaker><content>You got a plan, kid?</content></utterance>
+<utterance uid="31-11"><speaker>BECKETT</speaker><content>Not one that I plan to share with you.</content></utterance>
+<utterance uid="31-12"><speaker>ROYCE</speaker><content>Maybe you should show us all something.</content></utterance>
+<utterance uid="31-13"><speaker>CASTLE</speaker><content>Hey. Hey guys? I think I found something.</content></utterance>
+<utterance uid="31-14"><speaker>ROYCE</speaker><content>Just like old times, huh kid?</content></utterance>
+<utterance uid="31-15"><speaker>ESPOSITO</speaker><content>Drop your gun, now.</content></utterance>
+<utterance uid="31-16"><speaker>STUCKEY</speaker><content>The treasure. Let me see the treasure.</content></utterance>
+<utterance uid="31-17"><speaker>CASTLE</speaker><content>Yeah, I just - I just said that to distract you.  It was either that or show them my boobs.</content></utterance>
+<utterance uid="31-18"><speaker>ESPOSITO</speaker><content>You got Royce?</content></utterance>
+<utterance uid="31-19"><speaker>BECKETT</speaker><content>Yeah. Ryan?</content></utterance>
+<utterance uid="31-20"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+<utterance uid="31-21"><speaker>ROYCE</speaker><content>Go ahead, kid. Do what you have to do.</content></utterance>
+<utterance uid="31-22"><speaker>BECKETT</speaker><content> Michael Royce, you’re under arrest.</content></utterance>
+<utterance uid="31-23"><speaker>CASTLE</speaker><content>Uh, hello? Doesn’t anyone want to see if there is actually a treasure?</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>CASTLE</speaker><content>I can’t believe there wasn’t actually a treasure.</content></utterance>
+<utterance uid="32-2"><speaker>RYAN</speaker><content>Maybe we read the map wrong. Maybe it was all a wild goose chase. Either way, case is closed. Hey, how is Beckett holding up?</content></utterance>
+<utterance uid="32-3"><speaker>CASTLE</speaker><content>Hard to see your heroes fall.</content></utterance>
+<utterance uid="32-4"><speaker>CASTLE</speaker><content>Hey.</content></utterance>
+<utterance uid="32-5"><speaker>BECKETT</speaker><content>Hey.</content></utterance>
+<utterance uid="32-6"><speaker>CASTLE</speaker><content>Can I just say how unsatisfying it is to go on a treasure hunt with no treasure?</content></utterance>
+<utterance uid="32-7"><speaker>BECKETT</speaker><content>Well, it wasn’t really a treasure hunt, Castle. It was a murder investigation.</content></utterance>
+<utterance uid="32-8"><speaker>CASTLE</speaker><content>Oh, come on. You can’t tell me you weren’t just a little bit excited.</content></utterance>
+<utterance uid="32-9"><speaker>BECKETT</speaker><content> Maybe a little.</content></utterance>
+<utterance uid="32-10"><speaker>CASTLE</speaker><content>Ah.  What’s bugging me though, is if there was no treasure, then why make a map? </content></utterance>
+<utterance uid="32-11"><speaker>BECKETT</speaker><content>Well, it’s a big cemetery. Maybe he got the spot wrong. Or maybe ‘under the gun’ was just to throw us off.</content></utterance>
+<utterance uid="32-12"><speaker>CASTLE</speaker><content>You know, if it was me, I would have left something out of the map. A last step.</content></utterance>
+<utterance uid="32-13"><speaker>BECKETT</speaker><content>So you think there was another map?</content></utterance>
+<utterance uid="32-14"><speaker>CASTLE</speaker><content>No, I would have kept it somewhere close to me. Somewhere where only I knew that … that it was important.</content></utterance>
+<utterance uid="32-15"><speaker>CASTLE</speaker><content>Somewhere like on my body.</content></utterance>
+<utterance uid="32-16"><speaker>BECKETT</speaker><content>Do you think this is the final part of the map?</content></utterance>
+<utterance uid="32-17"><speaker>CASTLE</speaker><content>What else could be important enough for our jewel thief to tattoo it on his arm? Okay, uh, Roman numerals. Two over a six. I’m going to say that means two rows up, six stones over from where we dug.  You care to do some digging, Detective?</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>ALEXIS</speaker><content>Well … did you find it?</content></utterance>
+<utterance uid="33-2"><speaker>CASTLE</speaker><content>Yes, we did!</content></utterance>
+<utterance uid="33-3"><speaker>MARTHA</speaker><content>Yay!</content></utterance>
+<utterance uid="33-4"><speaker>CASTLE</speaker><content>Yes. Unfortunately, when you go treasure hunting with a cop, she makes you return the treasure to its rightful owner. But uh, the evening wasn’t a total loss.  When we found it she did give me a sweaty hug.</content></utterance>
+<utterance uid="33-5"><speaker>ALEXIS</speaker><content>Dad.</content></utterance>
+<utterance uid="33-6"><speaker>CASTLE</speaker><content>So what are you girls doing? You picking out a color for your shiny new scooter?</content></utterance>
+<utterance uid="33-7"><speaker>MARTHA</speaker><content>Tell him.</content></utterance>
+<utterance uid="33-8"><speaker>CASTLE</speaker><content>Tell me what?</content></utterance>
+<utterance uid="33-9"><speaker>ALEXIS</speaker><content>I decided not to get the scooter. I realized once I left the precinct how wrong it was for me to sell those light sabers, but I was so caught up in wanting the bike that I convinced myself that I was just trading one thing for another. But playing pretend with you was one of the best parts of my childhood and it means more to me than a shiny new scooter ever could.</content></utterance>
+<utterance uid="33-10"><speaker>CASTLE</speaker><content>I’m so proud of you.</content></utterance>
+<utterance uid="33-11"><speaker>ALEXIS</speaker><content>Proud enough to buy me a new scooter?</content></utterance>
+<utterance uid="33-12"><speaker>CASTLE</speaker><content>No. I made a deal, and it would be wrong to break it. But there’s nothing in that deal that prohibits me from buying myself a scooter and maybe letting you borrow it from time to time.</content></utterance>
+<utterance uid="33-13"><speaker>ALEXIS</speaker><content>Are you sure?</content></utterance>
+<utterance uid="33-14"><speaker>CASTLE</speaker><content>Sure. I can send you to the store for batteries for light sabers.</content></utterance>
+<utterance uid="33-15"><speaker>ALEXIS</speaker><content>Thanks dad. Oh, and when you have the scooter maybe I can borrow the car.</content></utterance>
+</scene>
+</script>

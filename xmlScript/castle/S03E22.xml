@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>GANZ</speaker><content>You should have stayed out of this, Royce.</content></utterance>
+<utterance uid="1-2"><speaker>ROYCE</speaker><content>You have no idea the hell that’s about to rain down on you.</content></utterance>
+<utterance uid="1-3"><speaker>GANZ</speaker><content>Scary.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>BECKETT</speaker><content>Where is he?</content></utterance>
+<utterance uid="2-2"><speaker>MONTGOMERY</speaker><content>Turn around and go back home and let me handle this, all right?</content></utterance>
+<utterance uid="2-3"><speaker>BECKETT</speaker><content>Sir, I’ve seen dead bodies before.</content></utterance>
+<utterance uid="2-4"><speaker>CASTLE</speaker><content>C’mon, Kate. You don’t want to remember him like this.</content></utterance>
+<utterance uid="2-5"><speaker>BECKETT</speaker><content>Castle, if it was me lying there would you just walk away?</content></utterance>
+<utterance uid="2-6"><speaker>LANIE</speaker><content>I’m so sorry, honey.</content></utterance>
+<utterance uid="2-7"><speaker>BECKETT</speaker><content>Just tell me what happened?</content></utterance>
+<utterance uid="2-8"><speaker>LANIE</speaker><content>He was shot in the leg. Judging from the blood trail, I’d say the bullet broke the bone. He tried to hide, but… I found this in his pocket. He just flew in from Los Angeles this afternoon.</content></utterance>
+<utterance uid="2-9"><speaker>CASTLE</speaker><content>What was he doing in LA?</content></utterance>
+<utterance uid="2-10"><speaker>BECKETT</speaker><content>I heard he moved there after he lost his bounty hunter's license. I guess he was trying to make a fresh start.</content></utterance>
+<utterance uid="2-11"><speaker>CASTLE</speaker><content>When was the last time you spoke to him?</content></utterance>
+<utterance uid="2-12"><speaker>BECKETT</speaker><content>When I arrested him.</content></utterance>
+<utterance uid="2-13"><speaker>BECKETT</speaker><content>Lanie, could I?</content></utterance>
+<utterance uid="2-14"><speaker>LANIE</speaker><content>Sure.</content></utterance>
+<utterance uid="2-15"><speaker>LANIE</speaker><content>Royce uh, had something else in his pocket. It’s addressed to you.</content></utterance>
+<utterance uid="2-16"><speaker>CASTLE</speaker><content>Is it about the case?</content></utterance>
+<utterance uid="2-17"><speaker>BECKETT</speaker><content> No.</content></utterance>
+<utterance uid="2-18"><speaker>ESPOSITO</speaker><content>We got the murder weapon. Found it in the garbage around the corner.</content></utterance>
+<utterance uid="2-19"><speaker>RYAN</speaker><content>It was definitely fired recently. Shooter took the time to empty the ammo before he dumped it.</content></utterance>
+<utterance uid="2-20"><speaker>CASTLE</speaker><content>Worried we’d find fingerprints on the bullets?</content></utterance>
+<utterance uid="2-21"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+<utterance uid="2-22"><speaker>BECKETT</speaker><content>This is a cheap street gun. It’s a throw away. There’s threading on the barrel.</content></utterance>
+<utterance uid="2-23"><speaker>CASTLE</speaker><content>A silencer?</content></utterance>
+<utterance uid="2-24"><speaker>ESPOSITO</speaker><content>Yeah.</content></utterance>
+<utterance uid="2-25"><speaker>BECKETT</speaker><content>Allowing our killer to shoot Royce in broad daylight.</content></utterance>
+<utterance uid="2-26"><speaker>RYAN</speaker><content>Listen, Beckett, we’re going to get this guy. We’ve got uniforms hitting every store and apartment in a five block radius.</content></utterance>
+<utterance uid="2-27"><speaker>ESPOSITO</speaker><content>This is New York. Somebody had to have seen something.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>BECKETT</speaker><content>LA to New York. It’s like Royce was running from something. Like he knew he was in danger.</content></utterance>
+<utterance uid="3-2"><speaker>ESPOSITO</speaker><content>Yo. You were right about the silencer. The lab found trace amounts of titanium alloy in the threads. They’ve narrowed it down to one of two commercial suppressors. Both run about a grand.</content></utterance>
+<utterance uid="3-3"><speaker>CASTLE</speaker><content>Why put an expensive silencer on a cheap gun?</content></utterance>
+<utterance uid="3-4"><speaker>BECKETT</speaker><content>Because … our killer followed Royce from LA and couldn’t bring his own gun on the plane.</content></utterance>
+<utterance uid="3-5"><speaker>CASTLE</speaker><content>But a silencer is just a cylinder. It could easily be hidden in a checked bag.</content></utterance>
+<utterance uid="3-6"><speaker>BECKETT</speaker><content>Isolate all the flights that someone could have followed Royce from LA on. There couldn’t have been that many. And specifically focus on the people who might have bought tickets last minute.</content></utterance>
+<utterance uid="3-7"><speaker>ESPOSITO</speaker><content>Right.</content></utterance>
+<utterance uid="3-8"><speaker>BECKETT</speaker><content> What were you into, Mike?</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>RYAN</speaker><content>Okay, so we got five flights out of LA that meet our criteria. I ran all the passengers and one name popped. Neil McCauley. He bought his ticket at the airport an hour before the flight. His identity is brand new, no credit history, and his driver’s license number is a fake.</content></utterance>
+<utterance uid="4-2"><speaker>CASTLE</speaker><content>Neil McCauley? Really?</content></utterance>
+<utterance uid="4-3"><speaker>BECKETT</speaker><content>Why?</content></utterance>
+<utterance uid="4-4"><speaker>CASTLE</speaker><content>That’s Robert De Niro’s character in Heat.</content></utterance>
+<utterance uid="4-5"><speaker>BECKETT</speaker><content>That’s our guy.</content></utterance>
+<utterance uid="4-6"><speaker>RYAN</speaker><content>Well, if it is, you’re going to need to get on a plane, because Mr. McCauley flew back to LA two hours after Royce was shot.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>MONTGOMERY</speaker><content>I’m not sending you to LA. You have no solid evidence linking Neil McCauley to this murder.</content></utterance>
+<utterance uid="5-2"><speaker>CASTLE</speaker><content>He came to New York for six hours. Who flies in for that short a stay?</content></utterance>
+<utterance uid="5-3"><speaker>MONTGOMERY</speaker><content>Businessmen do it all the time.</content></utterance>
+<utterance uid="5-4"><speaker>CASTLE</speaker><content>Businessmen don’t use false ids.</content></utterance>
+<utterance uid="5-5"><speaker>BECKETT</speaker><content>Or pack a silencer?</content></utterance>
+<utterance uid="5-6"><speaker>MONTGOMERY</speaker><content>That’s supposition. I need a lot more than that to justify flying a detective across the country.</content></utterance>
+<utterance uid="5-7"><speaker>BECKETT</speaker><content>You and I both know that the longer I wait to go out there, the colder this trail gets.</content></utterance>
+<utterance uid="5-8"><speaker>MONTGOMERY</speaker><content>Take a day. Shore this up. And if there’s sufficient evidence I’ll contact LAPD.</content></utterance>
+<utterance uid="5-9"><speaker>BECKETT</speaker><content>You’ll contact the LAPD? This is my case. This happened in our jurisdiction. You think the LAPD is going to lift a finger?</content></utterance>
+<utterance uid="5-10"><speaker>MONTGOMERY</speaker><content>Kate, you’re too close to this!</content></utterance>
+<utterance uid="5-11"><speaker>BECKETT</speaker><content>No sir, I am committed. I am not compromised.</content></utterance>
+<utterance uid="5-12"><speaker>MONTGOMERY</speaker><content>You’re torn up!</content></utterance>
+<utterance uid="5-13"><speaker>MONTGOMERY</speaker><content>Kate, things between you and Royce ended badly. I get it. But that emotion is exactly why I need to assign this to someone else.</content></utterance>
+<utterance uid="5-14"><speaker>BECKETT</speaker><content>You know what? You’re right. I am too close to this.</content></utterance>
+<utterance uid="5-15"><speaker>BECKETT</speaker><content>I have some vacation days coming up. I think now would be a good time.</content></utterance>
+<utterance uid="5-16"><speaker>MONTGOMERY</speaker><content>Kate. I hope you’re not thinking of doing something reckless.</content></utterance>
+<utterance uid="5-17"><speaker>BECKETT</speaker><content>No, sir.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>CASTLE</speaker><content>Where’re you going?</content></utterance>
+<utterance uid="6-2"><speaker>BECKETT</speaker><content>Home.</content></utterance>
+<utterance uid="6-3"><speaker>CASTLE</speaker><content>The hell you are.</content></utterance>
+<utterance uid="6-4"><speaker>BECKETT</speaker><content>Castle.  Please. He was my training officer. My friend. I just … I really need to be alone right now.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>ROYCE</speaker><content> Dear Kate, I bet I’ve written this letter a hundred times. Someday I might actually send it. There’s no excuse for what I did, especially what I did to you. But I’m on a righteous path now, and I hope one day that path earns me your forgiveness.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>BECKETT</speaker><content>Hi.</content></utterance>
+<utterance uid="8-2"><speaker>FLIGHT ATTENDANT</speaker><content>Excuse me, Detective Beckett?</content></utterance>
+<utterance uid="8-3"><speaker>BECKETT</speaker><content>Yes?</content></utterance>
+<utterance uid="8-4"><speaker>FLIGHT ATTENDANT</speaker><content>You’ve been upgraded to first class.</content></utterance>
+<utterance uid="8-5"><speaker>BECKETT</speaker><content>I’m sorry. Excuse me. Sorry about that.</content></utterance>
+<utterance uid="8-6"><speaker>FLIGHT ATTENDANT</speaker><content>Seat 3C.</content></utterance>
+<utterance uid="8-7"><speaker>BECKETT</speaker><content>Thank you.</content></utterance>
+<utterance uid="8-8"><speaker>CASTLE</speaker><content>Champagne?</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>BECKETT</speaker><content>Castle, what are you doing?</content></utterance>
+<utterance uid="9-2"><speaker>CASTLE</speaker><content>Well, the studio has been after me for weeks to fly down and do a set visit for the Heat Wave movie. Imagine my surprise when I saw your name on the standby list.</content></utterance>
+<utterance uid="9-3"><speaker>BECKETT</speaker><content>You cannot be a part of what I’m going to do out there.</content></utterance>
+<utterance uid="9-4"><speaker>CASTLE</speaker><content>I thought you were on vacation.</content></utterance>
+<utterance uid="9-5"><speaker>BECKETT</speaker><content>Castle. It is one thing for you to follow me when we are in New York. But I am not a cop in LA. I don’t have any authority. Or backup.</content></utterance>
+<utterance uid="9-6"><speaker>CASTLE</speaker><content>I’ll be your backup.  Besides, going rogue is kind of my specialty.</content></utterance>
+<utterance uid="9-7"><speaker>BECKETT</speaker><content>Yeah, but subtlety isn’t.  I’m not going to get rid of you, am I?  Okay, look. If we do this together, you have to promise me that we’re going to fly under the radar.</content></utterance>
+<utterance uid="9-8"><speaker>CASTLE</speaker><content>Of course.</content></utterance>
+</scene>
+
+<scene id="10"><utterance uid="10-1"><speaker>BECKETT</speaker><content>Is this what you call under the radar?</content></utterance>
+<utterance uid="10-2"><speaker>CASTLE</speaker><content>In LA? This baby fits right in. So what’s our first stop?</content></utterance>
+<utterance uid="10-3"><speaker>BECKETT</speaker><content>My hotel. It’s on Ventura Boulevard.</content></utterance>
+<utterance uid="10-4"><speaker>CASTLE</speaker><content>That’s all the way in the Valley. How are we supposed to work together if you’re an hour away?</content></utterance>
+<utterance uid="10-5"><speaker>BECKETT</speaker><content>Castle, we weren’t supposed to work together at all.</content></utterance>
+<utterance uid="10-6"><speaker>CASTLE</speaker><content>Okay, look. The studio comp’ed me a two bedroom, four star suite. You just stay with me.</content></utterance>
+<utterance uid="10-7"><speaker>BECKETT</speaker><content>Hah! Yeah, right.</content></utterance>
+<utterance uid="10-8"><speaker>CASTLE</speaker><content>What? You’ll have your own room.</content></utterance>
+<utterance uid="10-9"><speaker>BECKETT</speaker><content>Uh, no. No. I am not staying with you.</content></utterance>
+<utterance uid="10-10"><speaker>CASTLE</speaker><content>Ah. Worried you can’t control yourself when we’re alone.</content></utterance>
+<utterance uid="10-11"><speaker>BECKETT</speaker><content>Actually, it’s not me that I’m worried about.</content></utterance>
+<utterance uid="10-12"><speaker>CASTLE</speaker><content>I can assure you, my intentions are pure.</content></utterance>
+</scene>
+
+<scene id="11"><utterance uid="11-1"><speaker>MAURICE</speaker><content>We’re so happy to have you back, Mr. Castle. I’ve taken the liberty of setting up the suitet just the way you like it.</content></utterance>
+<utterance uid="11-2"><speaker>CASTLE</speaker><content>Thank you.</content></utterance>
+<utterance uid="11-3"><speaker>MAURICE</speaker><content>And I’ve scheduled a couples massage at seven.</content></utterance>
+<utterance uid="11-4"><speaker>BECKETT</speaker><content>Pure, huh?</content></utterance>
+<utterance uid="11-5"><speaker>CASTLE</speaker><content>Uh, Maurice, you can go ahead and cancel that. And get rid of the flowers and the champagne. We’re here to work.</content></utterance>
+<utterance uid="11-6"><speaker>MAURICE</speaker><content>Very good, sir.</content></utterance>
+<utterance uid="11-7"><speaker>CASTLE</speaker><content>For you.  Thank you, Maurice.</content></utterance>
+<utterance uid="11-8"><speaker>CASTLE</speaker><content>The last time I was here I brought this Parisian supermodel, so he thought …  it’s not important. Would you like to choose your room?</content></utterance>
+<utterance uid="11-9"><speaker>BECKETT</speaker><content>No. I’d like to start the investigation.</content></utterance>
+<utterance uid="11-10"><speaker>CASTLE</speaker><content>We haven’t even ordered room service yet.</content></utterance>
+<utterance uid="11-11"><speaker>BECKETT</speaker><content>Castle, I’m not here for room service. I’m here for justice.</content></utterance>
+<utterance uid="11-12"><speaker>CASTLE</speaker><content>Wow. In LA for all of a minute and already she’s spouting cheesy movie dialogue. Must be something in the air.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>CASTLE</speaker><content>This is Royce’s house?</content></utterance>
+<utterance uid="12-2"><speaker>BECKETT</speaker><content>This was the address listed on his driver’s license.</content></utterance>
+<utterance uid="12-3"><speaker>CASTLE</speaker><content>Did I miss the part where you told me he was rich?</content></utterance>
+<utterance uid="12-4"><speaker>BECKETT</speaker><content>No, he was barely scraping by.</content></utterance>
+<utterance uid="12-5"><speaker>INTERCOM VOICE</speaker><content>Yeah?</content></utterance>
+<utterance uid="12-6"><speaker>CASTLE</speaker><content>Yeah, I’m a friend of Mike Royce’s.</content></utterance>
+<utterance uid="12-7"><speaker>INTERCOM VOICE</speaker><content>Come around the back.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>GENE SIMMONS</speaker><content>Hello.</content></utterance>
+<utterance uid="13-2"><speaker>CASTLE</speaker><content>Woah, you’re Gene Simmons.</content></utterance>
+<utterance uid="13-3"><speaker>GENE SIMMONS</speaker><content>Yeah, I’m that weird guy in KISS. Yeah, the guy with the long tongue and everything.  Hello … who’s this pretty little lady?</content></utterance>
+<utterance uid="13-4"><speaker>BECKETT</speaker><content>I’m Detective Kate Beckett. NYPD.</content></utterance>
+<utterance uid="13-5"><speaker>GENE SIMMONS</speaker><content>Is Mike in trouble?</content></utterance>
+<utterance uid="13-6"><speaker>BECKETT</speaker><content> Actually, he was murdered.</content></utterance>
+<utterance uid="13-7"><speaker>GENE SIMMONS</speaker><content>Oh, that’s terrible.</content></utterance>
+<utterance uid="13-8"><speaker>CASTLE</speaker><content>How did you know him, exactly?</content></utterance>
+<utterance uid="13-9"><speaker>GENE SIMMONS</speaker><content>Well, I got into trouble a few months back and Royce helped me out. I helped him and I’ve been letting him live in my guest house.</content></utterance>
+<utterance uid="13-10"><speaker>BECKETT</speaker><content>So you’re saying he was in the business of helping people in trouble?</content></utterance>
+<utterance uid="13-11"><speaker>GENE SIMMONS</speaker><content>He was pretty good at it.</content></utterance>
+<utterance uid="13-12"><speaker>CASTLE</speaker><content>Was he helping anyone lately?</content></utterance>
+<utterance uid="13-13"><speaker>GENE SIMMONS</speaker><content>Well, there was a girl … she came by two days ago. She was really beautiful. Stunning.</content></utterance>
+<utterance uid="13-14"><speaker>CASTLE</speaker><content>This girl. Do you remember her name?</content></utterance>
+<utterance uid="13-15"><speaker>GENE SIMMONS</speaker><content>You know what? She dropped off a headshot. If you give me a chance I’ll go find it.</content></utterance>
+<utterance uid="13-16"><speaker>BECKETT</speaker><content>Thank you.</content></utterance>
+<utterance uid="13-17"><speaker>CASTLE</speaker><content>This is so weird.</content></utterance>
+<utterance uid="13-18"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="13-19"><speaker>CASTLE</speaker><content>I’ve dressed up as him for Halloween.</content></utterance>
+<utterance uid="13-20"><speaker>BECKETT</speaker><content> I did, too.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>CASTLE</speaker><content>Violet Young. A smoking hot wannabe starlet whose only credit is Slumber Party Zombie.</content></utterance>
+<utterance uid="14-2"><speaker>BECKETT</speaker><content>What kind of trouble would an actress be in that would scare Royce into running? What are you doing?</content></utterance>
+<utterance uid="14-3"><speaker>CASTLE</speaker><content>Pulling up Slumber Party Zombie on NetFlix.</content></utterance>
+<utterance uid="14-4"><speaker>CASTLE</speaker><content>What are you doing?</content></utterance>
+<utterance uid="14-5"><speaker>BECKETT</speaker><content>I’m going to get a hold of Violet’s agent. See if I can find out where she is.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>ESPOSITO</speaker><content>Yo, Ryan. What’s up?</content></utterance>
+<utterance uid="15-2"><speaker>RYAN</speaker><content>We got lucky. Kids were tagging that building across from the alley so the owner put up a camera. There’s our shooter.</content></utterance>
+<utterance uid="15-3"><speaker>ESPOSITO</speaker><content>You can’t see his face or the license plate number.</content></utterance>
+<utterance uid="15-4"><speaker>RYAN</speaker><content>But you can see the driver’s arm.</content></utterance>
+<utterance uid="15-5"><speaker>ESPOSITO</speaker><content>A black guy. Ebony to our killer’s ivory.</content></utterance>
+<utterance uid="15-6"><speaker>RYAN</speaker><content>Still got that friend at TSA?</content></utterance>
+<utterance uid="15-7"><speaker>ESPOSITO</speaker><content>Yeah, why?</content></utterance>
+<utterance uid="15-8"><speaker>RYAN</speaker><content>Maybe they’ll share surveillance footage of the security checkpoint that our shooter went through. Guy was in town for six hours, right? There’s a chance that he’s wearing the same clothes at the airport that he’s wearing in our video.</content></utterance>
+<utterance uid="15-9"><speaker>ESPOSITO</speaker><content>Which might get us a look at his face.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>BECKETT</speaker><content>So Violet’s shooting a commercial at Zenith Studios.</content></utterance>
+<utterance uid="16-2"><speaker>CASTLE</speaker><content>No way. That’s where they’re shooting Heat Wave. It’s kismet.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>BECKETT</speaker><content>Violet’s commercial shoots on stage seven.</content></utterance>
+<utterance uid="17-2"><speaker>TONY</speaker><content>Rick Castle! Aha, I can’t believe we finally got you out here!</content></utterance>
+<utterance uid="17-3"><speaker>CASTLE</speaker><content>Tony, you money grubbing bastard.  How’s filming?</content></utterance>
+<utterance uid="17-4"><speaker>TONY</speaker><content>You kidding me? It’s awesome, buddy. You keep writing them, we’ll keep making them.</content></utterance>
+<utterance uid="17-5"><speaker>CASTLE</speaker><content>Tony, I want you to meet Kate Beckett. This is the inspiration for Nikki Heat.</content></utterance>
+<utterance uid="17-6"><speaker>TONY</speaker><content>Wow, with your looks, honey, you could be an actress.</content></utterance>
+<utterance uid="17-7"><speaker>BECKETT</speaker><content>Ah, I’m completely comfortable being a cop. I’m going to go and look for Violet. It was nice to meet you.</content></utterance>
+<utterance uid="17-8"><speaker>TONY</speaker><content>You too.</content></utterance>
+<utterance uid="17-9"><speaker>TONY</speaker><content>She’s hot. No wonder your sex scenes are so steamy.</content></utterance>
+<utterance uid="17-10"><speaker>CASTLE</speaker><content>So uh, where’s our Nikki Heat, Natalie Rhodes?</content></utterance>
+<utterance uid="17-11"><speaker>TONY</speaker><content>Natalie is having some personal issues.</content></utterance>
+<utterance uid="17-12"><speaker>CASTLE</speaker><content>What kind of personal issues?</content></utterance>
+<utterance uid="17-13"><speaker>TONY</speaker><content>Let’s just say there was a slight mix up with one of her prescriptions.</content></utterance>
+<utterance uid="17-14"><speaker>CASTLE</speaker><content>She’s in rehab?</content></utterance>
+<utterance uid="17-15"><speaker>TONY</speaker><content>Hey, you did not hear that from me. Oh, there are the actors that play Raley and Ochoa. Huerve, Taylor!</content></utterance>
+<utterance uid="17-16"><speaker>OCHOA ACTOR</speaker><content>It’s Herve.</content></utterance>
+<utterance uid="17-17"><speaker>TONY</speaker><content>Yeah, that’s what I said. This is your creator, Richard Castle.</content></utterance>
+<utterance uid="17-18"><speaker>OCHOA ACTOR</speaker><content>Yo, big fan, bro.</content></utterance>
+<utterance uid="17-19"><speaker>CASTLE</speaker><content>Thanks.</content></utterance>
+<utterance uid="17-20"><speaker>RALEY ACTOR</speaker><content>I’ve read all your books. If you have time I’d love to talk about my motivation.</content></utterance>
+<utterance uid="17-21"><speaker>CASTLE</speaker><content>What do you mean?</content></utterance>
+<utterance uid="17-22"><speaker>RALEY ACTOR</speaker><content>I mean, what’s my character’s motivation? Why do I do what I do?</content></utterance>
+<utterance uid="17-23"><speaker>CASTLE</speaker><content>Ah. You’re a cop, so it’s your job.</content></utterance>
+<utterance uid="17-24"><speaker>BECKETT</speaker><content>Castle, Violet didn’t show up to work today. I just talked to her agent. He said there’s no way she would have missed this commercial. This is a huge break for her.</content></utterance>
+<utterance uid="17-25"><speaker>BECKETT</speaker><content>I’ve got her address.</content></utterance>
+<utterance uid="17-26"><speaker>CASTLE</speaker><content>You think she’s in trouble?</content></utterance>
+<utterance uid="17-27"><speaker>BECKETT</speaker><content>Yeah, or worse.</content></utterance>
+<utterance uid="17-28"><speaker>OCHOA ACTOR</speaker><content>You guys on the job?</content></utterance>
+<utterance uid="17-29"><speaker>BECKETT</speaker><content>Yeah. Yeah.</content></utterance>
+<utterance uid="17-30"><speaker>BECKETT</speaker><content>You guys look great.</content></utterance>
+<utterance uid="17-31"><speaker>BECKETT</speaker><content>That is just creepy.</content></utterance>
+<utterance uid="17-32"><speaker>CASTLE</speaker><content>Totally.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>LANIE</speaker><content>Hey!</content></utterance>
+<utterance uid="18-2"><speaker>ESPOSITO</speaker><content>Hola, chica.</content></utterance>
+<utterance uid="18-3"><speaker>LANIE</speaker><content>What are you doing here?</content></utterance>
+<utterance uid="18-4"><speaker>ESPOSITO</speaker><content>I was in the neighborhood.</content></utterance>
+<utterance uid="18-5"><speaker>ESPOSITO</speaker><content>I thought I’d stop by and see if those bullets you pulled out of Royce were ready to go over to ballistics. I’ve got a friend there who’ll make sure they get processed right away.</content></utterance>
+<utterance uid="18-6"><speaker>LANIE</speaker><content>Wait, wait, wait. Is your friend that top heavy tramp in reception?</content></utterance>
+<utterance uid="18-7"><speaker>ESPOSITO</speaker><content>Huh? Wha- I – you know I only have eyes for you. I don’t even …</content></utterance>
+<utterance uid="18-8"><speaker>LANIE</speaker><content>Uh huh … you know I have easy access to sharp objects.</content></utterance>
+<utterance uid="18-9"><speaker>LANIE</speaker><content>What the hell?</content></utterance>
+<utterance uid="18-10"><speaker>ESPOSITO</speaker><content>Are those the bullets?</content></utterance>
+<utterance uid="18-11"><speaker>LANIE</speaker><content>Yeah. They’re dissolving.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>CASTLE</speaker><content>I mean, ice bullets I’ve heard of, but dissolving bullets?</content></utterance>
+<utterance uid="19-2"><speaker>BECKETT</speaker><content>Violet? Violet Young?</content></utterance>
+<utterance uid="19-3"><speaker>CASTLE</speaker><content>You’d think somebody on my conspiracy websites would have mentioned them.  I don’t think anybody’s home.</content></utterance>
+<utterance uid="19-4"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="19-5"><speaker>CASTLE</speaker><content>You sure this is okay?</content></utterance>
+<utterance uid="19-6"><speaker>BECKETT</speaker><content>No, it is not okay. It is actually completely illegal.</content></utterance>
+<utterance uid="19-7"><speaker>BECKETT</speaker><content>Hello? Violet?</content></utterance>
+<utterance uid="19-8"><speaker>CASTLE</speaker><content>I don’t smell a dead body.</content></utterance>
+<utterance uid="19-9"><speaker>BECKETT</speaker><content>She’s not here.</content></utterance>
+<utterance uid="19-10"><speaker>CASTLE</speaker><content>Nope. She’s not. She’s in New York.</content></utterance>
+<utterance uid="19-11"><speaker>BECKETT</speaker><content>This was Royce’s flight. Okay so, they flew together. He probably knew that they were in trouble and he tried to protect her by taking her to New York.</content></utterance>
+<utterance uid="19-12"><speaker>CASTLE</speaker><content>Protect her from what?</content></utterance>
+<utterance uid="19-13"><speaker>BECKETT</speaker><content>Maybe from this? Surveillance photos? What would she be doing with surveillance photos?</content></utterance>
+<utterance uid="19-14"><speaker>CASTLE</speaker><content>Maybe Royce was doing some kind of PI work for her? The building this guy’s coming out of looks familiar.</content></utterance>
+<utterance uid="19-15"><speaker>BECKETT</speaker><content>She has articles on corgies, on surfing, wine tasting? How does any of this add up?</content></utterance>
+<utterance uid="19-16"><speaker>CASTLE</speaker><content>Maybe she was researching a role.</content></utterance>
+<utterance uid="19-17"><speaker>BECKETT</speaker><content>And what role would that be?</content></utterance>
+<utterance uid="19-18"><speaker>CASTLE</speaker><content>And what does any of it have to do with Royce?</content></utterance>
+<utterance uid="19-19"><speaker>VOICE RECORDER</speaker><content>The power of sound compels you.</content></utterance>
+<utterance uid="19-20"><speaker>CASTLE</speaker><content>Cops, cops, cops!</content></utterance>
+<utterance uid="19-21"><speaker>BECKETT</speaker><content>Photo!</content></utterance>
+<utterance uid="19-22"><speaker>LAPD UNIFORM</speaker><content>LAPD! Don’t move!</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>KYLE SEEGER</speaker><content>Afternoon. Kyle Seeger. Robbery, homicide.</content></utterance>
+<utterance uid="20-2"><speaker>BECKETT</speaker><content>Look, Kyle, this is a misunderstanding. I –</content></utterance>
+<utterance uid="20-3"><speaker>SEEGER</speaker><content>Meaning you didn’t pick the lock or illegally enter this house?</content></utterance>
+<utterance uid="20-4"><speaker>CASTLE</speaker><content>Meaning, she’s NYPD.</content></utterance>
+<utterance uid="20-5"><speaker>SEEGER</speaker><content>I know who you are, Detective. And while I can appreciate your loss, I can’t have you and your off beat sidekick running around my town committing felonies in some misguided quest for justice.</content></utterance>
+<utterance uid="20-6"><speaker>BECKETT</speaker><content>Are you … are you arresting us?</content></utterance>
+<utterance uid="20-7"><speaker>SEEGER</speaker><content>Much worse. Somebody wants to have a word with you.</content></utterance>
+<utterance uid="20-8"><speaker>SEEGER</speaker><content>You’re on speaker, sir.</content></utterance>
+<utterance uid="20-9"><speaker>MONTGOMERY</speaker><content>Breaking into people’s houses? That’s your idea of a vacation, Beckett?</content></utterance>
+<utterance uid="20-10"><speaker>BECKETT</speaker><content>Sir, I can explain. I was –</content></utterance>
+<utterance uid="20-11"><speaker>MONTGOMERY</speaker><content>No, you cannot. What you can do is get your ass on the next plane out.</content></utterance>
+<utterance uid="20-12"><speaker>CASTLE</speaker><content>Uh, we have a dinner reservation at Spago. Is the morning okay?</content></utterance>
+<utterance uid="20-13"><speaker>MONTGOMERY</speaker><content>Oh, this is all a big joke to you, isn’t it, Castle? When Beckett is working mall security, following her around isn’t going to have quite the same allure. Both of you. Come home. Now.</content></utterance>
+<utterance uid="20-14"><speaker>SEEGER</speaker><content>Wow. That was awkward.</content></utterance>
+<utterance uid="20-15"><speaker>BECKETT</speaker><content>You know, unless there is something else, I think we should go now.</content></utterance>
+<utterance uid="20-16"><speaker>SEEGER</speaker><content>Hey, one last thing. Did you find what you were looking for?</content></utterance>
+<utterance uid="20-17"><speaker>BECKETT</speaker><content>Wrong house.</content></utterance>
+<utterance uid="20-18"><speaker>SEEGER</speaker><content>Welcome to LA, Detective. Now go home.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>CASTLE</speaker><content>Will Montgomery really fire you?</content></utterance>
+<utterance uid="21-2"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="21-3"><speaker>CASTLE</speaker><content>So we’re back to New York.</content></utterance>
+<utterance uid="21-4"><speaker>BECKETT</speaker><content>Hell, no.</content></utterance>
+<utterance uid="21-5"><speaker>RYAN</speaker><content>Detective Ryan.</content></utterance>
+<utterance uid="21-6"><speaker>BECKETT</speaker><content>Hey, it’s me. Can you talk?</content></utterance>
+<utterance uid="21-7"><speaker>RYAN</speaker><content>Yeah … about Montgomery. He’s seriously fired up.</content></utterance>
+<utterance uid="21-8"><speaker>BECKETT</speaker><content>Yeah, I know. Look, I need a favor from you, but you can feel free to say no.</content></utterance>
+<utterance uid="21-9"><speaker>RYAN</speaker><content>Oh, c’mon. Whatever it is I’m saying yes.</content></utterance>
+<utterance uid="21-10"><speaker>BECKETT</speaker><content>Okay great, thanks. We think that Royce had company when he traveled to New York. Her name is Violet Young. Whatever trouble he was into, she was involved somehow.</content></utterance>
+<utterance uid="21-11"><speaker>RYAN</speaker><content>You think she’s still in town?</content></utterance>
+<utterance uid="21-12"><speaker>BECKETT</speaker><content>Unless McCauley got to her first. Her headshot lists an acting school in New York; she might have friends out there. Can you see if she contacted any of them?</content></utterance>
+<utterance uid="21-13"><speaker>RYAN</speaker><content>You got it. I’ll keep you posted.</content></utterance>
+<utterance uid="21-14"><speaker>BECKETT</speaker><content>Great. Thank you.</content></utterance>
+<utterance uid="21-15"><speaker>RYAN</speaker><content>Uh, Esposito’s got something.  Beckett, line two.</content></utterance>
+<utterance uid="21-16"><speaker>ESPOSITO</speaker><content>‘Sup, girl? How’s the weather in your world?</content></utterance>
+<utterance uid="21-17"><speaker>BECKETT</speaker><content>Sunny, chance of ass kicking. What’ve you got?</content></utterance>
+<utterance uid="21-18"><speaker>ESPOSITO</speaker><content>A photo of our killer, courtesy of TSA. I’m shooting it over to you now.</content></utterance>
+<utterance uid="21-19"><speaker>BECKETT</speaker><content>And that’s Neil McCauley?</content></utterance>
+<utterance uid="21-20"><speaker>ESPOSITO</speaker><content>Or whoever he is. He wore the exact same clothes at JFK as he did in that alley. That’s how we got him.</content></utterance>
+<utterance uid="21-21"><speaker>BECKETT</speaker><content>Okay, look, this is a long shot, but run facial recognition through the federal and local databases.</content></utterance>
+<utterance uid="21-22"><speaker>ESPOSITO</speaker><content>You got it.</content></utterance>
+<utterance uid="21-23"><speaker>CASTLE</speaker><content>I found him.</content></utterance>
+<utterance uid="21-24"><speaker>BECKETT</speaker><content>Neil McCauley?</content></utterance>
+<utterance uid="21-25"><speaker>CASTLE</speaker><content>No. The mystery man from the photo in Violet’s place? I realized where I had seen that building he was coming out of before. It was the bad guys' headquarters in Primal Fury: Primal Vengeance. So, did a little internet search and, bam said the lady, found it’s the home of Kelvin North America. Some kind of R and D facility, the chief executive office is Charles Kelvin. Guess what his hobbies are?</content></utterance>
+<utterance uid="21-26"><speaker>BECKETT</speaker><content>Wine, corgies, and surfing. Violet was studying him.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>BECKETT</speaker><content>Mr. Kelvin! Mr. Kelvin!</content></utterance>
+<utterance uid="22-2"><speaker>BECKETT</speaker><content>Your assistant said we could find you here.</content></utterance>
+<utterance uid="22-3"><speaker>KELVIN</speaker><content>This is my surf hour. So whatever you have to say, it can wait until I’m done.</content></utterance>
+<utterance uid="22-4"><speaker>BECKETT</speaker><content>No, it can’t. I’m Detective Kate Beckett, this is Richard Castle. Do you recognize this woman?</content></utterance>
+<utterance uid="22-5"><speaker>KELVIN</speaker><content>Sure. I met her in line for coffee last Friday. I asked her out. Thought the date was going well until she went to the bathroom and never came back. What’s this all about anyway? Something happen to her?</content></utterance>
+<utterance uid="22-6"><speaker>CASTLE</speaker><content>Does this recording mean anything to you?</content></utterance>
+<utterance uid="22-7"><speaker>CASTLE</speaker><content>Isnt’ that your voice?</content></utterance>
+<utterance uid="22-8"><speaker>KELVIN</speaker><content>That *****.</content></utterance>
+<utterance uid="22-9"><speaker>BECKETT</speaker><content>What does that mean?</content></utterance>
+<utterance uid="22-10"><speaker>KELVIN</speaker><content>That phrase is our key to the high security vault. Violet must have pieced it together from the words I said during the date. I’ve got to get back to the office.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>KELVIN</speaker><content>Ohhh… gone.</content></utterance>
+<utterance uid="23-2"><speaker>BECKETT</speaker><content>What was in here?</content></utterance>
+<utterance uid="23-3"><speaker>KELVIN</speaker><content>That’s proprietary information.</content></utterance>
+<utterance uid="23-4"><speaker>CASTLE</speaker><content>A bullet.  I’m guessing it dissolves.</content></utterance>
+<utterance uid="23-5"><speaker>KELVIN</speaker><content>How do you know about those?</content></utterance>
+<utterance uid="23-6"><speaker>BECKETT</speaker><content>They were used in a murder.</content></utterance>
+<utterance uid="23-7"><speaker>KELVIN</speaker><content>God. We created them to try to land a defense contract in ultra light ammunition. The dissolving property was a complete accident. Unfortunately it rendered the bullets completely useless to the military.</content></utterance>
+<utterance uid="23-8"><speaker>BECKETT</speaker><content>Yeah, but valuable to someone else.</content></utterance>
+<utterance uid="23-9"><speaker>KELVIN</speaker><content>How the hell did this happen?</content></utterance>
+</scene>
+
+<scene id="24"><utterance uid="24-1"><speaker>RYAN</speaker><content>Hey! Good news on Violet.</content></utterance>
+<utterance uid="24-2"><speaker>ESPOSITO</speaker><content>You found her?</content></utterance>
+<utterance uid="24-3"><speaker>RYAN</speaker><content>Ah ha… not that good. But she is alive. Or at least she was, last night. Tracked down an ex of hers, said she showed up on his doorstep, scared out of her mind. Told him she had come out from LA with Royce but he had disappeared, so the ex let her stay the night. The next morning, Violet was gone, so was his wallet.</content></utterance>
+<utterance uid="24-4"><speaker>ESPOSITO</speaker><content>He know where she was headed?</content></utterance>
+<utterance uid="24-5"><speaker>RYAN</speaker><content>Uh, no. But two hours later a large, African American gentleman with a fondness for kidney punches showed up and asked that very same question.</content></utterance>
+<utterance uid="24-6"><speaker>ESPOSITO</speaker><content>The driver who picked up McCauley.</content></utterance>
+<utterance uid="24-7"><speaker>RYAN</speaker><content>Uh huh, that’s what I was thinking. Worked him over pretty good, too.</content></utterance>
+<utterance uid="24-8"><speaker>ESPOSITO</speaker><content>Let’s get him with a sketch artist.</content></utterance>
+<utterance uid="24-9"><speaker>RYAN</speaker><content>Way ahead of you, bro.</content></utterance>
+<utterance uid="24-10"><speaker>RYAN</speaker><content>Looks like we’re not the only ones hunting for Violet.</content></utterance>
+</scene>
+
+<scene id="25"><utterance uid="25-1"><speaker>CASTLE</speaker><content>Picture this. A gullible young actress, desperate to make a name for herself. She meets our mastermind at a club. He needs a pretty girl to help him get the voice code. He tells Violet he’s a producer, promises to make her famous, if she helps him play a practical joke on a friend.</content></utterance>
+<utterance uid="25-2"><speaker>BECKETT</speaker><content>She doesn’t even realize she’s participating in a crime until afterwards. She can’t call the cops, so she contacts Royce.</content></utterance>
+<utterance uid="25-3"><speaker>CASTLE</speaker><content>But then our Mr. McCauley finds out.</content></utterance>
+<utterance uid="25-4"><speaker>BECKETT</speaker><content>And Royce tries to change the game. He goes to New York. Home field advantage. Classic, classic Royce.</content></utterance>
+<utterance uid="25-5"><speaker>BECKETT</speaker><content>I was so in awe of him, Castle, when I first met him. I just hung on his every word. And then later I realized he was just making up stories to mess with me.  I can’t believe that I’m never going to see him again.</content></utterance>
+<utterance uid="25-6"><speaker>CASTLE</speaker><content>You know what I thought when I first met you?</content></utterance>
+<utterance uid="25-7"><speaker>BECKETT</speaker><content>Hmm?</content></utterance>
+<utterance uid="25-8"><speaker>CASTLE</speaker><content> That you were a mystery that I was never gonna solve. Even now, after spending all this time with you I’m … I’m still amazed at the depth of your strength, your heart … and your hotness.</content></utterance>
+<utterance uid="25-9"><speaker>BECKETT</speaker><content>You’re not so bad yourself, Castle.</content></utterance>
+<utterance uid="25-10"><speaker>BECKETT</speaker><content>I should go. It’s late. Good night.</content></utterance>
+<utterance uid="25-11"><speaker>CASTLE</speaker><content>Kate.</content></utterance>
+<utterance uid="25-12"><speaker>BECKETT</speaker><content>Good night, Castle.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>CASTLE</speaker><content>Wow. Somebody’s up early.</content></utterance>
+<utterance uid="26-2"><speaker>BECKETT</speaker><content>Hey.</content></utterance>
+<utterance uid="26-3"><speaker>CASTLE</speaker><content>What, did you pack a murder board?</content></utterance>
+<utterance uid="26-4"><speaker>BECKETT</speaker><content>Concierge. Called down and then ten minutes later … voila.</content></utterance>
+<utterance uid="26-5"><speaker>CASTLE</speaker><content>Ah, Maurice is amazing, isn’t he? I bet if I ordered the Ark of the Covenant he’d come through.</content></utterance>
+<utterance uid="26-6"><speaker>BECKETT</speaker><content>Wouldn’t you be afraid to open it?</content></utterance>
+<utterance uid="26-7"><speaker>CASTLE</speaker><content>No. It only melts Nazis. Is that Kelvin North America?</content></utterance>
+<utterance uid="26-8"><speaker>BECKETT</speaker><content>Yeah, I’m trying to figure out this heist. Kelvin said that the last time that vault was accessed was at eleven forty-six Tuesday night.</content></utterance>
+<utterance uid="26-9"><speaker>CASTLE</speaker><content>Well, that must be when our thieves stole the hi-tech ammo.</content></utterance>
+<utterance uid="26-10"><speaker>BECKETT</speaker><content>Eight hundred pounds worth. And they would have had to take it out the loading dock.</content></utterance>
+<utterance uid="26-11"><speaker>CASTLE</speaker><content>But that guard station there. I remember seeing that when we went in. There’s no way they could get all that ammo past him without a little insider help.</content></utterance>
+<utterance uid="26-12"><speaker>BECKETT</speaker><content>Exactly. So I called the security company and they said that the only guard that was stationed at the loading bay that night was some guy named Reggie Walsh.</content></utterance>
+<utterance uid="26-13"><speaker>CASTLE</speaker><content>I feel the plot about to thicken.</content></utterance>
+<utterance uid="26-14"><speaker>BECKETT</speaker><content>He asked to be reassigned the next day.</content></utterance>
+<utterance uid="26-15"><speaker>BECKETT</speaker><content>Are you expecting anyone?</content></utterance>
+<utterance uid="26-16"><speaker>CASTLE</speaker><content>No.</content></utterance>
+<utterance uid="26-17"><speaker>BECKETT</speaker><content>Hey, wait, wait wait.</content></utterance>
+<utterance uid="26-18"><speaker>CASTLE</speaker><content>Detective Seeger.</content></utterance>
+<utterance uid="26-19"><speaker>SEEGER</speaker><content>Mr. Castle.</content></utterance>
+<utterance uid="26-20"><speaker>CASTLE</speaker><content>Do come in.</content></utterance>
+<utterance uid="26-21"><speaker>SEEGER</speaker><content>Wow. Nice digs. Sure pays to travel with a bestselling author, huh?</content></utterance>
+<utterance uid="26-22"><speaker>BECKETT</speaker><content>Seeger, if you’re here to drive us to the airport, we’re not packed yet.</content></utterance>
+<utterance uid="26-23"><speaker>SEEGER</speaker><content>I’m here because a report crossed my desk. About a theft. At Kelvin North America.</content></utterance>
+<utterance uid="26-24"><speaker>SEEGER</speaker><content>Your names jumped out at me. Now tell me, what does a theft of hi-tech bullets have to do with your murder investigation?</content></utterance>
+<utterance uid="26-25"><speaker>BECKETT</speaker><content>We’re not investigating a murder anymore, remember? We’re off the case.</content></utterance>
+<utterance uid="26-26"><speaker>SEEGER</speaker><content>Are we going to do that dance?</content></utterance>
+<utterance uid="26-27"><speaker>BECKETT</speaker><content>Look, we don’t know any more about that theft than you do.</content></utterance>
+<utterance uid="26-28"><speaker>CASTLE</speaker><content>But if we stumble across something on our way to the airport we’ll be sure to let you know.</content></utterance>
+<utterance uid="26-29"><speaker>SEEGER</speaker><content>See that you do.</content></utterance>
+<utterance uid="26-30"><speaker>SEEGER</speaker><content>Detective.</content></utterance>
+<utterance uid="26-31"><speaker>BECKETT</speaker><content>Goodbye.</content></utterance>
+<utterance uid="26-32"><speaker>CASTLE</speaker><content>Are you sure it’s such a good idea, cutting him out? He might be able to help us.</content></utterance>
+<utterance uid="26-33"><speaker>BECKETT</speaker><content>Castle, the only thing Seeger cares about is that robbery, not Royce’s murder. What we need to do is question that guard, Reggie Walsh.</content></utterance>
+<utterance uid="26-34"><speaker>CASTLE</speaker><content>Yeah, but how? You’re not a cop here, remember?</content></utterance>
+<utterance uid="26-35"><speaker>BECKETT</speaker><content>Reggie doesn’t need to know that.</content></utterance>
+<utterance uid="26-36"><speaker>CASTLE</speaker><content>Ooh.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>REGGIE</speaker><content>Like I told you, I don’t know anything about a robbery.</content></utterance>
+<utterance uid="27-2"><speaker>RALEY ACTOR</speaker><content>Give me a break, Reggie.</content></utterance>
+<utterance uid="27-3"><speaker>OCHOA ACTOR</speaker><content>You’re lying.</content></utterance>
+<utterance uid="27-4"><speaker>RALEY ACTOR</speaker><content>You’re a punk.</content></utterance>
+<utterance uid="27-5"><speaker>OCHOA ACTOR</speaker><content>A dirty scowl. A low down rat bastard.</content></utterance>
+<utterance uid="27-6"><speaker>BECKETT</speaker><content>Easy, guys.</content></utterance>
+<utterance uid="27-7"><speaker>REGGIE</speaker><content>Yeah, I mean, we all wear the uniform, right?</content></utterance>
+<utterance uid="27-8"><speaker>BECKETT</speaker><content>Yeah, and I just hope yours makes you look good on TV.</content></utterance>
+<utterance uid="27-9"><speaker>REGGIE</speaker><content>What are you talking about?</content></utterance>
+<utterance uid="27-10"><speaker>BECKETT</speaker><content>The news camera outside the precinct? They just love a good perp walk, Reggie. And if you’re messed up in this, I’m sure you wouldn’t want to be seen talking to the cops, so as a courtesy, I’m going to let you cover up with my jacket.</content></utterance>
+<utterance uid="27-11"><speaker>BECKETT</speaker><content>I wouldn’t take it off before we get into the interview room, though. There might be reporters on the inside.</content></utterance>
+<utterance uid="27-12"><speaker>REGGIE</speaker><content>Okay.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>CASTLE</speaker><content>You’re a security guard, Reggie. In prison? You’re the lowest of the low.</content></utterance>
+<utterance uid="28-2"><speaker>REGGIE</speaker><content>I thought that was child molesters?</content></utterance>
+<utterance uid="28-3"><speaker>CASTLE</speaker><content>Yeah, well … dude. Security guard. And you know what they do to guys like you in Longbauch.</content></utterance>
+<utterance uid="28-4"><speaker>REGGIE</speaker><content>No.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>TONY</speaker><content>This is a latte. I drink chai tea lattes. How long do you have to work for me before you get that right, huh? Or maybe –</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>BECKETT</speaker><content>C’mon, Reggie. We know you were at the loading bay that night.</content></utterance>
+<utterance uid="30-2"><speaker>REGGIE</speaker><content>All right, um… these two guys came to me. Offered me five hundred buck to take a cigarette break at midnight. The only reason I went along is because saying no didn’t really seem like an option.</content></utterance>
+<utterance uid="30-3"><speaker>BECKETT</speaker><content>Are these the men?</content></utterance>
+<utterance uid="30-4"><speaker>REGGIE</speaker><content>Yeah.</content></utterance>
+<utterance uid="30-5"><speaker>BECKETT</speaker><content>Did they give you their names?</content></utterance>
+<utterance uid="30-6"><speaker>REGGIE</speaker><content>No. Oh, but when they were walking away? The black guy called the other guy Ganz.</content></utterance>
+<utterance uid="30-7"><speaker>CASTLE</speaker><content>All right guys, thanks very much. We’re done with the room.</content></utterance>
+<utterance uid="30-8"><speaker>REGGIE</speaker><content>What the hell?</content></utterance>
+<utterance uid="30-9"><speaker>CASTLE</speaker><content>Welcome to Hollywood.</content></utterance>
+<utterance uid="30-10"><speaker>TONY</speaker><content>Great scene, Ricky. Who said she was a star? That’s right, me.</content></utterance>
+<utterance uid="30-11"><speaker>REGGIE</speaker><content>Does this mean I can leave?</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>RYAN</speaker><content>His name is Russell Ganz. He’s suspected of pulling several high profile heists during the last five years, including the theft of military grade circuit boards in 2009. Ganz is very smart and very violent. His multimillion dollar scores have allowed him to live like royalty – fast cars, hot women …</content></utterance>
+<utterance uid="31-2"><speaker>BECKETT</speaker><content>Dissolving bullets would be worth a fortune for the right buyer, like a gang or a drug cartel. Do we have an LA address for Ganz? Or any known associates?</content></utterance>
+<utterance uid="31-3"><speaker>RYAN</speaker><content>Negative on the address and it looks like most of his friends are incarcerated. Wait … here’s one that’s not. Donald Mannis. He looks exactly like the guy hunting Violet.</content></utterance>
+<utterance uid="31-4"><speaker>BECKETT</speaker><content>Okay, Mannis might lead us to Ganz, so let's get his photo to all the troops.</content></utterance>
+<utterance uid="31-5"><speaker>RYAN</speaker><content>Got it. I’ll get back to you.</content></utterance>
+<utterance uid="31-6"><speaker>BECKETT</speaker><content>We gotta find Ganz fast. Once he fences those bullets he’s going to disappear.</content></utterance>
+<utterance uid="31-7"><speaker>CASTLE</speaker><content>Don’t worry. The guy likes the perks of wealth. I know just the guy to help find him.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>MAURICE</speaker><content>Oh, Mr. Ganz is well known within my network. He’s a frequent guest at our city’s five star hotels.</content></utterance>
+<utterance uid="32-2"><speaker>BECKETT</speaker><content>Do you actually know where he is?</content></utterance>
+<utterance uid="32-3"><speaker>MAURICE</speaker><content>At a pool side cabana at the Eastway. He enjoys being surrounded by beautiful women as he conducts business on the phone, which, according to a poolside waiter, he’s doing as we speak.</content></utterance>
+<utterance uid="32-4"><speaker>CASTLE</speaker><content>Maurice, thank you very much. You never fail to amaze.</content></utterance>
+<utterance uid="32-5"><speaker>MAURICE</speaker><content>My pleasure, sir. Ma’am.</content></utterance>
+<utterance uid="32-6"><speaker>BECKETT</speaker><content>Okay, so if Ganz is doing business poolside, he’s probably trying to find a buyer for those bullets. If I can put him with those bullets I can prove he killed Royce.</content></utterance>
+<utterance uid="32-7"><speaker>CASTLE</speaker><content>Don’t you think it’s time we called the LAPD?</content></utterance>
+<utterance uid="32-8"><speaker>BECKETT</speaker><content>I think I have a better idea.</content></utterance>
+</scene>
+
+<scene id="33"><utterance uid="33-1"><speaker>GANZ</speaker><content>Time for a celebration. Set it up in an hour, will you, man?</content></utterance>
+<utterance uid="33-2"><speaker>GANZ</speaker><content>I appreciate a woman who knows how to make an entrance. Are you staying at the hotel?</content></utterance>
+<utterance uid="33-3"><speaker>BECKETT</speaker><content>No, I’m meeting someone.</content></utterance>
+<utterance uid="33-4"><speaker>GANZ</speaker><content>Business or pleasure?</content></utterance>
+<utterance uid="33-5"><speaker>BECKETT</speaker><content>Hopefully a bit of both. Mr. Ganz.  I’m Lola Black. Please, sit.</content></utterance>
+<utterance uid="33-6"><speaker>GANZ</speaker><content>What can I do for you, Ms. Black?</content></utterance>
+<utterance uid="33-7"><speaker>BECKETT</speaker><content>I represent a small but powerful group of Colombian business interests. They understand you’re in possession of some … unique merchandise.</content></utterance>
+<utterance uid="33-8"><speaker>GANZ</speaker><content>Mmm. I’m afraid you’ve got me confused with someone else.</content></utterance>
+<utterance uid="33-9"><speaker>BECKETT</speaker><content>Oh, I don’t think so. That business in New York - that ex cop? It was a very effective product demonstration. My offer is serious, and my clients are not accustomed to hearing the word no.</content></utterance>
+<utterance uid="33-10"><speaker>GANZ</speaker><content>Well, bidding on that particular item closed about twenty minutes ago. Better luck next time.</content></utterance>
+<utterance uid="33-11"><speaker>BECKETT</speaker><content>Wait, uh… two million. I can have it here within an hour.</content></utterance>
+<utterance uid="33-12"><speaker>GANZ</speaker><content>I’m impressed, actually. The way you lured me in. You had me guessing there for a second.</content></utterance>
+<utterance uid="33-13"><speaker>BECKETT</speaker><content>What’s that supposed to mean?</content></utterance>
+<utterance uid="33-14"><speaker>GANZ</speaker><content>It means you’re a cop. You’re the hottest thing to come out of major crimes in quite some time. But you’re a little too eager, too green. Nice meeting you, Lola.</content></utterance>
+<utterance uid="33-15"><speaker>BECKETT</speaker><content>Oh God, Castle.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>CASTLE</speaker><content>So what happened?</content></utterance>
+<utterance uid="34-2"><speaker>CASTLE</speaker><content>Ow!</content></utterance>
+<utterance uid="34-3"><speaker>BECKETT</speaker><content>I was trying to keep him from seeing you and so I pushed too hard and he made me … he called me green, Castle! What the hell were you doing?</content></utterance>
+<utterance uid="34-4"><speaker>CASTLE</speaker><content>I saw his phone in the cabana. I thought it was worth the risk.</content></utterance>
+<utterance uid="34-5"><speaker>BECKETT</speaker><content>You took his phone?</content></utterance>
+<utterance uid="34-6"><speaker>CASTLE</speaker><content>No! No, I took a picture of his recent call list.</content></utterance>
+<utterance uid="34-7"><speaker>BECKETT</speaker><content>What? Where is it?</content></utterance>
+<utterance uid="34-8"><speaker>CASTLE</speaker><content>Don’t poke me.</content></utterance>
+<utterance uid="34-9"><speaker>BECKETT</speaker><content>Poke you? I want to kiss you!</content></utterance>
+<utterance uid="34-10"><speaker>BECKETT</speaker><content>Okay, we need to run down these numbers, see if we can trace one to Ganz’s buyer.</content></utterance>
+<utterance uid="34-11"><speaker>CASTLE</speaker><content>Okay, now can we call Seeger?</content></utterance>
+</scene>
+
+<scene id="35"><utterance uid="35-1"><speaker>MONTGOMERY</speaker><content>Gentlemen. Where are we with Violet Young?</content></utterance>
+<utterance uid="35-2"><speaker>ESPOSITO</speaker><content>Just got off the phone with her mother. Says she remembers Violet having a roommate who lives near Canal Street.</content></utterance>
+<utterance uid="35-3"><speaker>RYAN</speaker><content>Yeah, and we’re going to head over there and see if Violet reached out to her.</content></utterance>
+<utterance uid="35-4"><speaker>MONTGOMERY</speaker><content>Well, let me know.</content></utterance>
+<utterance uid="35-5"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+<utterance uid="35-6"><speaker>ESPOSITO</speaker><content>Right.</content></utterance>
+<utterance uid="35-7"><speaker>MONTGOMERY</speaker><content>Hey, you heard form Beckett?</content></utterance>
+<utterance uid="35-8"><speaker>ESPOSITO</speaker><content>No, sir.</content></utterance>
+<utterance uid="35-9"><speaker>RYAN</speaker><content>Yeah, me neither.</content></utterance>
+<utterance uid="35-10"><speaker>MONTGOMERY</speaker><content>She’s not answering her cell?</content></utterance>
+<utterance uid="35-11"><speaker>ESPOSITO</speaker><content>Maybe she’s airborne.</content></utterance>
+<utterance uid="35-12"><speaker>RYAN</speaker><content>Ah, yeah, that would explain her phone being turned off.</content></utterance>
+<utterance uid="35-13"><speaker>MONTGOMERY</speaker><content>Huh. You know, I’m trying to decide who is the worse liar, him or you.</content></utterance>
+<utterance uid="35-14"><speaker>MONTGOMERY</speaker><content>Go find Violet Young. Help Beckett put this thing to bed, all right?</content></utterance>
+<utterance uid="35-15"><speaker>RYAN</speaker><content>Yes, sir.</content></utterance>
+<utterance uid="35-16"><speaker>ESPOSITO</speaker><content>Right on.</content></utterance>
+</scene>
+
+<scene id="36"><utterance uid="36-1"><speaker>CASTLE</speaker><content>Hey, Detective Seege-</content></utterance>
+<utterance uid="36-2"><speaker>SEEGER</speaker><content>You run wild in my city and then you call me for a favor? You got a lot of nerve, Detective, I’ll give you that.</content></utterance>
+<utterance uid="36-3"><speaker>BECKETT</speaker><content>Hey, we’re trying to get a vicious criminal off of your streets.</content></utterance>
+<utterance uid="36-4"><speaker>CASTLE</speaker><content>Hey, can I interest you in one of these robes?  Before you say no, feel how soft this is.</content></utterance>
+<utterance uid="36-5"><speaker>SEEGER</speaker><content>No. Thank you.</content></utterance>
+<utterance uid="36-6"><speaker>BECKETT</speaker><content>Look, we’re all on the same team now, so why don’t we just get this done with?</content></utterance>
+<utterance uid="36-7"><speaker>SEEGER</speaker><content>As long as it gets done my way.</content></utterance>
+<utterance uid="36-8"><speaker>BECKETT</speaker><content>Fine, what do you got?</content></utterance>
+<utterance uid="36-9"><speaker>SEEGER</speaker><content>Well, Ganz’s phone is a burner and so are most of the numbers he called.</content></utterance>
+<utterance uid="36-10"><speaker>BECKETT</speaker><content>Which means you didn’t get the buyer’s id.</content></utterance>
+<utterance uid="36-11"><speaker>SEEGER</speaker><content>We did manage to trace one of the burners he called to New York City.</content></utterance>
+<utterance uid="36-12"><speaker>BECKETT</speaker><content>Mannis. That’s Ganz’s partner.</content></utterance>
+<utterance uid="36-13"><speaker>CASTLE</speaker><content>I bet Ganz was calling to ask why the hell Violet Young was still alive. Did you happen to get a location on Mannis’ phone?</content></utterance>
+<utterance uid="36-14"><speaker>SEEGER</speaker><content>Just that it’s in Manhattan.</content></utterance>
+<utterance uid="36-15"><speaker>BECKETT</speaker><content>Okay, so let’s call him, rile him up a bit.</content></utterance>
+<utterance uid="36-16"><speaker>SEEGER</speaker><content>Rile him up how?</content></utterance>
+<utterance uid="36-17"><speaker>BECKETT</speaker><content>I’ll tell him I met Ganz. Ganz was going to cut him out of the deal; Mannis wasn’t pulling his weight.</content></utterance>
+<utterance uid="36-18"><speaker>CASTLE</speaker><content>Mannis gets pissed, he calls Ganz, maybe one of them lets something slip about the location of the exchange.</content></utterance>
+<utterance uid="36-19"><speaker>SEEGER</speaker><content>And we’ll be listening. Good.  I’ll try to get a warrant.</content></utterance>
+</scene>
+
+<scene id="37"><utterance uid="37-1"><speaker>RYAN</speaker><content>You’re a hard girl to find, Violet.</content></utterance>
+<utterance uid="37-2"><speaker>VIOLET</speaker><content>I know it was wrong to run, but … I was afraid to go to the cops. I never meant for Royce to get hurt.</content></utterance>
+<utterance uid="37-3"><speaker>RYAN</speaker><content>Well, let’s just get back to the station. We can work it out, all right?</content></utterance>
+<utterance uid="37-4"><speaker>ESPOSITO</speaker><content>Let’s go.</content></utterance>
+<utterance uid="37-5"><speaker>ESPOSITO</speaker><content>Gun!</content></utterance>
+<utterance uid="37-6"><speaker>ESPOSITO</speaker><content>You okay?</content></utterance>
+<utterance uid="37-7"><speaker>RYAN</speaker><content>Yeah, you?</content></utterance>
+<utterance uid="37-8"><speaker>ESPOSITO</speaker><content>Yeah.</content></utterance>
+<utterance uid="37-9"><speaker>RYAN</speaker><content> You okay?  Wait right here, all right?</content></utterance>
+<utterance uid="37-10"><speaker>ESPOSITO</speaker><content>Yo.</content></utterance>
+<utterance uid="37-11"><speaker>BECKETT</speaker><content>Esposito?</content></utterance>
+<utterance uid="37-12"><speaker>ESPOSITO</speaker><content>Beckett?</content></utterance>
+<utterance uid="37-13"><speaker>BECKETT</speaker><content>Are you with Mannis?</content></utterance>
+<utterance uid="37-14"><speaker>ESPOSITO</speaker><content>Yeah, I just shot him. Wait, why are you calling him?</content></utterance>
+<utterance uid="37-15"><speaker>BECKETT</speaker><content>Look, we need to know where and when Ganz is selling those bullets.</content></utterance>
+<utterance uid="37-16"><speaker>ESPOSITO</speaker><content> Don. Where’s the deal going down?</content></utterance>
+<utterance uid="37-17"><speaker>MANNIS</speaker><content>I’m hit, man. Call an ambulance.</content></utterance>
+<utterance uid="37-18"><speaker>ESPOSITO</speaker><content>Oh, my partner’s on that.</content></utterance>
+<utterance uid="37-19"><speaker>RYAN</speaker><content> 9 … 1 … what comes after that one?</content></utterance>
+<utterance uid="37-20"><speaker>MANNIS</speaker><content>I’m in pain here, man!</content></utterance>
+<utterance uid="37-21"><speaker>ESPOSITO</speaker><content>It’s over, Mannis. You give us the meet location and I’ll tell the DA in LA that you cooperated.</content></utterance>
+<utterance uid="37-22"><speaker>MANNIS</speaker><content>Okay! Santa Monica Pier! Six o’clock! Now call an ambulance!</content></utterance>
+<utterance uid="37-23"><speaker>RYAN</speaker><content>Who shot Royce?</content></utterance>
+<utterance uid="37-24"><speaker>MANNIS</speaker><content>It was Ganz.</content></utterance>
+<utterance uid="37-25"><speaker>ESPOSITO</speaker><content>You get that?</content></utterance>
+<utterance uid="37-26"><speaker>BECKETT</speaker><content>Yeah, we got it. Thanks. We gotta get to Santa Monica Pier.</content></utterance>
+<utterance uid="37-27"><speaker>CASTLE</speaker><content>It’s quarter of six now.</content></utterance>
+<utterance uid="37-28"><speaker>BECKETT</speaker><content>This is going to be our last chance to get Ganz.</content></utterance>
+<utterance uid="37-29"><speaker>SEEGER</speaker><content>Okay, let’s roll.</content></utterance>
+</scene>
+<scene id="38"><utterance uid="38-1"><speaker>SEEGER</speaker><content>LAPD. Freeze. Put the case down. Put the case down! Put your hands behind your head.</content></utterance>
+<utterance uid="38-2"><speaker>BECKETT</speaker><content>You in the van! Police! Both hands out the window!</content></utterance>
+<utterance uid="38-3"><speaker>BECKETT</speaker><content>Open the door, get out slow.</content></utterance>
+<utterance uid="38-4"><speaker>BECKETT</speaker><content>Slowly. Up against the van. Up against the van!</content></utterance>
+<utterance uid="38-5"><speaker>BECKETT</speaker><content>Give me your hand! Where is he? Where’s Ganz? Where is he?</content></utterance>
+</scene>
+<scene id="39"><utterance uid="39-1"><speaker>SEEGER</speaker><content>Bingo.</content></utterance>
+<utterance uid="39-2"><speaker>CASTLE</speaker><content>Where did Beckett go?</content></utterance>
+<utterance uid="39-3"><speaker>BECKETT</speaker><content>Police! Stop!</content></utterance>
+<utterance uid="39-4"><speaker>GANZ</speaker><content>I knew you were a cop.</content></utterance>
+<utterance uid="39-5"><speaker>BECKETT</speaker><content>My name is Detective Kate Beckett. NYPD. Michael Royce was my friend. You shot him and you left him in an alley like a piece of garbage. Consider this poetic justice.</content></utterance>
+<utterance uid="39-6"><speaker>GANZ</speaker><content>He said something about hell raining down on me. I never imagined hell would look like you.</content></utterance>
+<utterance uid="39-7"><speaker>CASTLE</speaker><content>Kate!</content></utterance>
+<utterance uid="39-8"><speaker>BECKETT</speaker><content>Russell Ganz, you are under the arrest for the murder of Michael Royce.</content></utterance>
+<utterance uid="39-9"><speaker>CASTLE</speaker><content>You okay?</content></utterance>
+<utterance uid="39-10"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+</scene>
+<scene id="40"><utterance uid="40-1"><speaker>CASTLE</speaker><content>So how close did you come? With Ganz?</content></utterance>
+<utterance uid="40-2"><speaker>BECKETT</speaker><content>Let’s go home, Castle.</content></utterance>
+</scene>
+<scene id="41"><utterance uid="41-1"><speaker>ROYCE</speaker><content> And now for the hard part, kid. It’s clear that you and Castle have something real. And you’re fighting it. But trust me. Putting the job ahead of your heart is a mistake. Risking our hearts is why we’re alive. The last thing you want is to look back on your life and wonder, if only.</content></utterance>
+</scene>
+</script>

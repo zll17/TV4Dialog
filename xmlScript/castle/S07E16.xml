@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>TOM RICHWOOD</speaker><content>You know, after six months Mars is starting to remind me of Kauai. Except without the water, or the hot girls in bikinis, or the air. What I wouldn’t give for a hot girl. And after all this time, I’d even take an ugly one. Assuming she came with a paper bag.</content></utterance>
+<utterance uid="1-2"><speaker>ELISE KIM</speaker><content>Oh, real classy, Richwood. Just repair the short. And make sure the 4B coil isn’t fried. We can’t afford to have the power grid compromised.</content></utterance>
+<utterance uid="1-3"><speaker>TOM</speaker><content>Aye aye, Captain.</content></utterance>
+<utterance uid="1-4"><speaker>TOM</speaker><content>Oh boy. Bad news. It’s charred. I may have to replace the power coupling and reboot the …</content></utterance>
+<utterance uid="1-5"><speaker>KIM</speaker><content>Can you repeat that, Richwood? Interference. Come again?</content></utterance>
+<utterance uid="1-6"><speaker>TOM</speaker><content>Watch out!</content></utterance>
+<utterance uid="1-7"><speaker>KIM</speaker><content>Tom?  Tom?</content></utterance>
+<utterance uid="1-8"><speaker>KIM</speaker><content>Tom!</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>ALEXIS CASTLE</speaker><content>Yes!</content></utterance>
+<utterance uid="2-2"><speaker>KATE BECKETT</speaker><content>I can’t wait to take off my ­–  – shoes.</content></utterance>
+<utterance uid="2-3"><speaker>ALEXIS</speaker><content>Dad. Beckett.</content></utterance>
+<utterance uid="2-4"><speaker>RICHARD CASTLE</speaker><content>So much for a quiet evening at home.</content></utterance>
+<utterance uid="2-5"><speaker>ALEXIS</speaker><content>I thought you guys were working late tonight.</content></utterance>
+<utterance uid="2-6"><speaker>CASTLE</speaker><content>Slow murder day. We got off early. You’re playing laser tag? Without me?</content></utterance>
+<utterance uid="2-7"><speaker>CASTLE</speaker><content>Is that my gear?</content></utterance>
+<utterance uid="2-8"><speaker>ALEXIS</speaker><content>Oh, Dad, Beckett, this is David. He bet me I couldn’t beat him.</content></utterance>
+<utterance uid="2-9"><speaker>BECKETT</speaker><content>She trounced you, didn’t she?</content></utterance>
+<utterance uid="2-10"><speaker>DAVID</speaker><content>Yeah.</content></utterance>
+<utterance uid="2-11"><speaker>MARTHA RODGERS</speaker><content>Oh my! What is going on down here?</content></utterance>
+<utterance uid="2-12"><speaker>CASTLE</speaker><content>Far too much, apparently.  Are those my pajamas?</content></utterance>
+<utterance uid="2-13"><speaker>MARTHA</speaker><content>Ah. Oh, oh, oh, oh. I’m so sorry, Ben. Um … family, Benjamin. Ben, meet my family.</content></utterance>
+<utterance uid="2-14"><speaker>BECKETT</speaker><content>Castle, we got a murder.</content></utterance>
+<utterance uid="2-15"><speaker>BECKETT</speaker><content>Uh, to solve. Not commit.</content></utterance>
+<utterance uid="2-16"><speaker>MARTHA</speaker><content>Bye.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>CASTLE</speaker><content>Those were my softest pajamas and now I’m going to have to burn them. Is it just me or is the loft getting awfully small these days?</content></utterance>
+<utterance uid="3-2"><speaker>BECKETT</speaker><content>Well, four adults in one space? We’re bound to step on each other’s toes.</content></utterance>
+<utterance uid="3-3"><speaker>CASTLE</speaker><content>Yeah, well, there’s a lot more toes than usual tonight.</content></utterance>
+<utterance uid="3-4"><speaker>KEVIN RYAN</speaker><content>Hey guys. Glad you’re here. You’re going to want to see this. Especially you, Castle.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>BECKETT</speaker><content>What is this place?</content></utterance>
+<utterance uid="4-2"><speaker>CASTLE</speaker><content>It’s mission control.  And that’s Mars.</content></utterance>
+<utterance uid="4-3"><speaker>RYAN</speaker><content>And there’s your body.</content></utterance>
+<utterance uid="4-4"><speaker>CASTLE</speaker><content>Our victim is on Mars? The secret manned mission to Mars rumors were true. I knew it.</content></utterance>
+<utterance uid="4-5"><speaker>BECKETT</speaker><content>You know, this might be a little out of our jurisdiction.</content></utterance>
+<utterance uid="4-6"><speaker>JAVIER ESPOSITO</speaker><content>It’s not Mars. This is operations director Ed Redley. This is Detectives Beckett and Ryan.</content></utterance>
+<utterance uid="4-7"><speaker>CASTLE</speaker><content> Castle.</content></utterance>
+<utterance uid="4-8"><speaker>ED REDLEY</speaker><content>What you’re seeing is a live feed from a simulation we’re conducting in advance of a real Mars mission.</content></utterance>
+<utterance uid="4-9"><speaker>BECKETT</speaker><content>Who’s we? NASA?</content></utterance>
+<utterance uid="4-10"><speaker>ED</speaker><content>It’s the Mars 2018 Project. We’re privately funded.</content></utterance>
+<utterance uid="4-11"><speaker>CASTLE</speaker><content>Yes. By Viggo Jansen, the internet billionaire. He promised to put humans on Mars by 2018. Held a competition and everything. I signed up for the program, but I didn’t get in.</content></utterance>
+<utterance uid="4-12"><speaker>BECKETT</speaker><content>Wait, you signed up to go to Mars? When?</content></utterance>
+<utterance uid="4-13"><speaker>CASTLE</speaker><content>A couple years ago.</content></utterance>
+<utterance uid="4-14"><speaker>BECKETT</speaker><content>Where was I?</content></utterance>
+<utterance uid="4-15"><speaker>CASTLE</speaker><content>We were fighting.</content></utterance>
+<utterance uid="4-16"><speaker>ESPOSITO</speaker><content>The victim, pilot Tom Ridgewood, was supposedly alone on the uh … planet’s surface conducting repairs.</content></utterance>
+<utterance uid="4-17"><speaker>ED</speaker><content>We were in a communication blackout, part of simulating planetary conditions, when the mission commander broke protocol to tell us they found Tom dead. They don’t think it was an accident.</content></utterance>
+<utterance uid="4-18"><speaker>BECKETT</speaker><content>Well, I’d like to see the body, so where’s the simulation?</content></utterance>
+<utterance uid="4-19"><speaker>ED</speaker><content>A couple of floors below us, and that’s easier said than done.</content></utterance>
+<utterance uid="4-20"><speaker>RYAN</speaker><content>In order to mimic conditions on Mars, as well as discourage any cheating, the simulation is filled with noxious gas.</content></utterance>
+<utterance uid="4-21"><speaker>ED</speaker><content>It won’t kill you, but it will induce severe nausea and a rash. It would take several days to vent the sim to make the air breathable, so if you want to go in you’re going to need to wear spacesuits.</content></utterance>
+<utterance uid="4-22"><speaker>CASTLE</speaker><content>Best case ever!</content></utterance>
+<utterance uid="4-23"><speaker>BECKETT</speaker><content>Castle.</content></utterance>
+<utterance uid="4-24"><speaker>CASTLE</speaker><content>This way?</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>BECKETT</speaker><content>What can you tell us about the victim?</content></utterance>
+<utterance uid="5-2"><speaker>ED</speaker><content>Tom Richwood was a mission pilot, a former Navy Top Gun, did a tour with NASA.</content></utterance>
+<utterance uid="5-3"><speaker>BECKETT</speaker><content>What about a family?</content></utterance>
+<utterance uid="5-4"><speaker>ED</speaker><content>None, which made him a perfect candidate for the mission. He beat out some of the smartest, most competitive candidates in the world to be part of the first manned team to Mars. They all did.</content></utterance>
+<utterance uid="5-5"><speaker>CASTLE</speaker><content>Who else is inside?</content></utterance>
+<utterance uid="5-6"><speaker>ED</speaker><content>Our four remaining astronauts. The team’s medical specialist, Dr. Haroum, is waiting for you.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>BECKETT</speaker><content>So has anyone been in or out of the simulation recently?</content></utterance>
+<utterance uid="6-2"><speaker>ED</speaker><content>No. It’s a sealed nine month experiment. No one’s been in or out since the astronauts entered six months ago.</content></utterance>
+<utterance uid="6-3"><speaker>ESPOSITO</speaker><content>Which means one of them probably did it.</content></utterance>
+<utterance uid="6-4"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+<utterance uid="6-5"><speaker>CASTLE</speaker><content>There’s only three suits.</content></utterance>
+<utterance uid="6-6"><speaker>RYAN</speaker><content>Um … that’s okay. We don’t all need to go in. I’ll go take statements back at the facility.</content></utterance>
+<utterance uid="6-7"><speaker>CASTLE</speaker><content>Seriously? You don’t want to go to Mars?</content></utterance>
+<utterance uid="6-8"><speaker>RYAN</speaker><content>A, it’s actually not Mars. And B, I’m happy here on Earth. But have fun, Castle.</content></utterance>
+<utterance uid="6-9"><speaker>CASTLE</speaker><content>Trust me, I will.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>BECKETT</speaker><content>Are you done?</content></utterance>
+<utterance uid="7-2"><speaker>CASTLE</speaker><content>No. Finally made it Mars. Didn’t even have to go to astronaut training.</content></utterance>
+<utterance uid="7-3"><speaker>ESPOSITO</speaker><content>So you really signed up to go to Mars, huh?</content></utterance>
+<utterance uid="7-4"><speaker>CASTLE</speaker><content>Wouldn’t that be cool?  Well, not so much for you, but for me?</content></utterance>
+<utterance uid="7-5"><speaker>BECKETT</speaker><content> Mmhmm.</content></utterance>
+<utterance uid="7-6"><speaker>BECKETT</speaker><content>And nobody saw this happen?</content></utterance>
+<utterance uid="7-7"><speaker>HAROUM</speaker><content>No, we were all in the module. We heard him scream. He must have fallen into the coupling coil, because right then the power went out. By the time Angela and I got out here, he was gone. It took us another ten minutes to get the power restored.</content></utterance>
+<utterance uid="7-8"><speaker>BECKETT</speaker><content>It looks like a stab wound.</content></utterance>
+<utterance uid="7-9"><speaker>ESPOSITO</speaker><content>Delivered with a lot of force.</content></utterance>
+<utterance uid="7-10"><speaker>CASTLE</speaker><content>Well, where’s the murder weapon?</content></utterance>
+<utterance uid="7-11"><speaker>HAROUM</speaker><content>There wasn’t one. But one of his tools, his screwdriver, is missing.  It looks like this.</content></utterance>
+<utterance uid="7-12"><speaker>ESPOSITO</speaker><content>It’s pretty rocky around here. No footprints.</content></utterance>
+<utterance uid="7-13"><speaker>CASTLE</speaker><content>And because the killer was probably wearing a suit there’s not going to be any DNA.</content></utterance>
+<utterance uid="7-14"><speaker>BECKETT</speaker><content>Let’s get his body to the morgue and find out. And get CSU down here. I want this place searched. If no one’s been in or out then that murder weapon is still inside here. Dr. Haroum, I’d like to speak to the other astronauts, please.</content></utterance>
+<utterance uid="7-15"><speaker>HAROUM</speaker><content>They’re inside. Follow me.</content></utterance>
+<utterance uid="7-16"><speaker>CASTLE</speaker><content> One small murder for man, one giant mystery for mankind.</content></utterance>
+<utterance uid="7-17"><speaker>BECKETT</speaker><content> Even when you whisper, everyone can hear you.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>KIM</speaker><content>You know the rest.</content></utterance>
+<utterance uid="8-2"><speaker>BECKETT</speaker><content>And where were each one of you when this happened?</content></utterance>
+<utterance uid="8-3"><speaker>KIM</speaker><content>Angela, Rusham, and I were here, in the command module. Mikhail was over in engineering.</content></utterance>
+<utterance uid="8-4"><speaker>BECKETT</speaker><content>And is there access to the outside from engineering?</content></utterance>
+<utterance uid="8-5"><speaker>MIKHAIL</speaker><content>There is emergency hatch, but if I had gone through it the alarm would have sounded.</content></utterance>
+<utterance uid="8-6"><speaker>KIM</speaker><content>Plus, as part of the program we’re all closely monitored, in case we lose consciousness or there’s a suit malfunction on an EVA.  We all have trackers under our skin.</content></utterance>
+<utterance uid="8-7"><speaker>HAROUM</speaker><content>And MIRA keeps a record of all our movements.</content></utterance>
+<utterance uid="8-8"><speaker>CASTLE</speaker><content>Who’s MIRA?</content></utterance>
+<utterance uid="8-9"><speaker>ANGELA</speaker><content>That’s what we call the mission computer.</content></utterance>
+<utterance uid="8-10"><speaker>BECKETT</speaker><content>Well, I would like to take a look at those records.</content></utterance>
+<utterance uid="8-11"><speaker>MIRA</speaker><content>I would be happy to provide you with any records you require, Detective Beckett.</content></utterance>
+<utterance uid="8-12"><speaker>BECKETT</speaker><content>It talks?</content></utterance>
+<utterance uid="8-13"><speaker>KIM</speaker><content>Yeah. We think of her as the sixth member of the crew.</content></utterance>
+<utterance uid="8-14"><speaker>CASTLE</speaker><content>Isn’t that a little 2001?</content></utterance>
+<utterance uid="8-15"><speaker>HAROUM</speaker><content>She is programmed to learn and adapt, but she’s more Siri than HAL. Ask her where you are.</content></utterance>
+<utterance uid="8-16"><speaker>CASTLE</speaker><content>MIRA, where are we?</content></utterance>
+<utterance uid="8-17"><speaker>MIRA</speaker><content>You are aboard the vessel Tenzing Norgay in the northern lowlands of Mars.</content></utterance>
+<utterance uid="8-18"><speaker>MIKHAIL</speaker><content>She actually thinks she’s on Mars.</content></utterance>
+<utterance uid="8-19"><speaker>BECKETT</speaker><content>Regardless, I’m going to have to ask all of you to join me at the precinct so I can interview you properly.</content></utterance>
+<utterance uid="8-20"><speaker>KIM</speaker><content>That … could be a problem.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>ED</speaker><content>I’m sorry, Detective. I can’t let you remove the astronauts. I don’t have that kind of authority.</content></utterance>
+<utterance uid="9-2"><speaker>BECKETT</speaker><content>Well then, who does?</content></utterance>
+<utterance uid="9-3"><speaker>VIGGO JANSEN</speaker><content>That would be me. And my astronauts aren’t going anywhere.</content></utterance>
+<utterance uid="9-4"><speaker>CASTLE</speaker><content>That’s Viggo Jansen. The Viggo Jansen.</content></utterance>
+<utterance uid="9-5"><speaker>JANSEN</speaker><content>Detective, if we shut down now we will lose months of priceless data. Millions of dollars of experiments will be compromised. We’ll lose half a year and we don’t have that time.</content></utterance>
+<utterance uid="9-6"><speaker>BECKETT</speaker><content>Uh, Mr. Jansen, it’s not a request. A man has been murdered and I need to conduct an investigation.</content></utterance>
+<utterance uid="9-7"><speaker>JANSEN</speaker><content>And I will do everything in my power to help you. Short of shutting down my sim.</content></utterance>
+<utterance uid="9-8"><speaker>JANSEN</speaker><content>Mars is our generation’s space race. And my team’s going to be first. Not the Chinese, or Mars 1, or that puffed up movie producer, Sir Ian Rasher.</content></utterance>
+<utterance uid="9-9"><speaker>BECKETT</speaker><content>I could get a court order to compel you.</content></utterance>
+<utterance uid="9-10"><speaker>JANSEN</speaker><content>And with my legal team it’ll take you months. Or, we work together. I give you all the access you need and my simulation keeps running.</content></utterance>
+<utterance uid="9-11"><speaker>BECKET</speaker><content>Fine. For now. But if I find out any of those people are responsible you won’t stop me from removing them.</content></utterance>
+<utterance uid="9-12"><speaker>RYAN</speaker><content>Yeah, well, according to this tracking data none of them seem responsible. They were all exactly where they said they were at Tom’s approximate time of death. It even confirms that the mission’s rover was still parked at the habitat at the time of the incident.</content></utterance>
+<utterance uid="9-13"><speaker>CASTLE</speaker><content>There goes my rise of the machines theory.</content></utterance>
+<utterance uid="9-14"><speaker>BECKETT</speaker><content>Okay, so if all the people inside are accounted for, then our killer must have come from outside the simulation.</content></utterance>
+<utterance uid="9-15"><speaker>JANSEN</speaker><content>We would know. The airlock door is the only way in or out. It’s alarmed and monitored.</content></utterance>
+<utterance uid="9-16"><speaker>ED</speaker><content>Uh, excuse me. Detective Beckett, there’s a message coming in for you from the habitat. I can put it on the monitor if you like.</content></utterance>
+<utterance uid="9-17"><speaker>BECKETT</speaker><content>Yeah. Please.</content></utterance>
+<utterance uid="9-18"><speaker>BECKETT</speaker><content>Hey Espo. What’ve you got?</content></utterance>
+<utterance uid="9-19"><speaker>ESPOSITO</speaker><content>I was just going through our victim’s video diary. There’s something you need to see.</content></utterance>
+<utterance uid="9-20"><speaker>TOM</speaker><content>Six months in and I know part of this mission’s a psych experiment. Maybe the close quarters are starting to get to me, but I think I’m starting to see things. When I was out there today I could have sworn I saw someone. And it’s not the first time. I know it’s not possible, but I don’t think we’re alone.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>ESPOSITO</speaker><content>Hang tight. I may have some more questions.</content></utterance>
+<utterance uid="10-2"><speaker>BECKETT</speaker><content>Go ahead, Espo.</content></utterance>
+<utterance uid="10-3"><speaker>ESPOSITO</speaker><content>Hey. So I just finished talking to the other astronauts. None of them seem to have any idea what Tom’s talking about.</content></utterance>
+<utterance uid="10-4"><speaker>BECKETT</speaker><content>All right. Thanks, Espo.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>RYAN</speaker><content>CSU just finished their initial sweep. There’s no one else in that simulation.</content></utterance>
+<utterance uid="11-2"><speaker>JANSEN</speaker><content>It’s possible Tom was seeing things. All our tests show that being locked in a confined space with others can play tricks on your mind.</content></utterance>
+<utterance uid="11-3"><speaker>CASTLE</speaker><content>Only delusions don’t kill.</content></utterance>
+<utterance uid="11-4"><speaker>BECKETT</speaker><content>And if what Tom said was true then whoever killed him might have been able to get in and out undetected.</content></utterance>
+<utterance uid="11-5"><speaker>JANSEN</speaker><content>I told you, Detective. Given our security that’s impossible.</content></utterance>
+<utterance uid="11-6"><speaker>ED</speaker><content>Sir? Maybe not.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>MISSION CONTROL TECH</speaker><content>At Detective Ryan’s request I ran a check on all our security systems. Everything looked normal until I got into the deep code.</content></utterance>
+<utterance uid="12-2"><speaker>MISSION CONTROL TECH</speaker><content>See that?</content></utterance>
+<utterance uid="12-3"><speaker>JANSEN</speaker><content>Oh God.</content></utterance>
+<utterance uid="12-4"><speaker>CASTLE</speaker><content>What is it?</content></utterance>
+<utterance uid="12-5"><speaker>JANSEN</speaker><content>Our security system’s been hacked. Key cards, alarm codes.</content></utterance>
+<utterance uid="12-6"><speaker>BECKETT</speaker><content>Meaning someone could have broken into the simulation.</content></utterance>
+<utterance uid="12-7"><speaker>MISSION CONTROL TECH</speaker><content>Based on our backup files these changes were made two days ago. Sometime between 11:10 and 11:14 at night.</content></utterance>
+<utterance uid="12-8"><speaker>JANSEN</speaker><content>Digital tracing indicates we were breached from the outside. Someone broke through our firewall.</content></utterance>
+<utterance uid="12-9"><speaker>BECKETT</speaker><content>Can you tell who?</content></utterance>
+<utterance uid="12-10"><speaker>JANSEN</speaker><content>We log every IP address that connects to the mainframe. I’m running a trace now for that time window.</content></utterance>
+<utterance uid="12-11"><speaker>JANSEN</speaker><content>There. Third one down. I don’t recognize that one.</content></utterance>
+<utterance uid="12-12"><speaker>RYAN</speaker><content>All right. We should be able to trace it.</content></utterance>
+<utterance uid="12-13"><speaker>JANSEN</speaker><content>Don’t bother. I just did. It’s coming from a residential WiFi registered to a  – you’ve gotta be kidding me.</content></utterance>
+<utterance uid="12-14"><speaker>BECKETT</speaker><content>Who is it?</content></utterance>
+<utterance uid="12-15"><speaker>JANSEN</speaker><content>Clint Granger. Hot-head pilot. He was one of our applicants until he was kicked out of the program.</content></utterance>
+<utterance uid="12-16"><speaker>CASTLE</speaker><content>Why’d he get kicked out?</content></utterance>
+<utterance uid="12-17"><speaker>JANSEN</speaker><content>He accused Tom of sabotaging him during candidate testing. Claimed it lost him the pilot’s spot.</content></utterance>
+<utterance uid="12-18"><speaker>ED</speaker><content>So he tried to run Tom over in the parking lot.</content></utterance>
+<utterance uid="12-19"><speaker>BECKETT</speaker><content>And when was this?</content></utterance>
+<utterance uid="12-20"><speaker>ED</speaker><content>Seven months ago. But he did say he’d be back to finish the job.</content></utterance>
+</scene>
+
+<scene id="13"><utterance uid="13-1"><speaker>BECKETT</speaker><content>So you tried to run him over with your car?</content></utterance>
+<utterance uid="13-2"><speaker>GRANGER</speaker><content>It should have been me on that mission, not him. He stole my spot in history.  And you ask me? He got what he deserved. But I did not kill him.</content></utterance>
+<utterance uid="13-3"><speaker>RYAN</speaker><content>And yet we traced that cyber-attack to your apartment.</content></utterance>
+<utterance uid="13-4"><speaker>GRANGER</speaker><content>I am a pilot, not a computer geek. I couldn’t rewrite that code if the mission depended on it.</content></utterance>
+<utterance uid="13-5"><speaker>BECKETT</speaker><content>You could have hired someone.</content></utterance>
+<utterance uid="13-6"><speaker>GRANGER</speaker><content>Yeah, but I didn’t. Look, when Tom was getting himself murdered I was at dinner with a friend in Connecticut. And when that hack took place from my WiFi I wasn’t even in the country. Someone’s setting me up.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>BECKETT</speaker><content>Granger’s alibi checks out. He was at dinner with a friend when Tom Richwood was killed.</content></utterance>
+<utterance uid="14-2"><speaker>CASTLE</speaker><content>What about the night the hack took place?</content></utterance>
+<utterance uid="14-3"><speaker>BECKETT</speaker><content>Granger was visiting his brother in Nova Scotia. It wasn’t him.</content></utterance>
+<utterance uid="14-4"><speaker>RYAN</speaker><content>Mars? Nova Scotia? This guy really loves barren landscapes.</content></utterance>
+<utterance uid="14-5"><speaker>CASTLE</speaker><content>Come on, Ryan, you’re telling me you have no desire to go to Mars?</content></utterance>
+<utterance uid="14-6"><speaker>RYAN</speaker><content>I prefer my oxygen without a can.</content></utterance>
+<utterance uid="14-7"><speaker>CASTLE</speaker><content>Where’s your sense of adventure? Of exploration? Of – destiny?</content></utterance>
+<utterance uid="14-8"><speaker>RYAN</speaker><content>If I want to fly thousands of miles to see a lifeless orb I could just visit Jenny’s grandmother. Same hostile environment, same freezing temperatures, same noxious atmosphere.  Huh.</content></utterance>
+<utterance uid="14-9"><speaker>BECKETT</speaker><content>Huh? Huh, what?</content></utterance>
+<utterance uid="14-10"><speaker>RYAN</speaker><content>This is a video of Granger’s apartment lobby the night of the hack. Check it out. This guy enters the building at 11:05PM, just before the hack too place. Now watch.  Fifteen minutes later.</content></utterance>
+<utterance uid="14-11"><speaker>BECKETT</speaker><content>He leaves the building. He could have piggybacked on Granger’s wireless and used that to carry out the attack on the simulation security.</content></utterance>
+<utterance uid="14-12"><speaker>RYAN</speaker><content>Yeah, but who is he?</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>ESPOSITO</speaker><content>His name is George Reyes. The folks down at Mars 2018 recognized him immediately. He’s a senior facilities engineer and called in sick yesterday. Nobody’s been able to reach him since.</content></utterance>
+<utterance uid="15-2"><speaker>BECKETT</speaker><content>Did he have a motive to break into the simulation and kill Tom?</content></utterance>
+<utterance uid="15-3"><speaker>ESPOSITO</speaker><content>Not that anyone knew. But his colleagues say that he’s been acting secretive the last couple of days. Ever since receiving a private communicad from his wife.</content></utterance>
+<utterance uid="15-4"><speaker>CASTLE</speaker><content>What does his wife got to do with this?</content></utterance>
+<utterance uid="15-5"><speaker>ESPOSITO</speaker><content>Maybe everything. Ask me who his wife is.</content></utterance>
+<utterance uid="15-6"><speaker>CASTLE</speaker><content>Who’s his wife?</content></utterance>
+<utterance uid="15-7"><speaker>ESPOSITO</speaker><content>Angela Olvera. One of the other astronauts.</content></utterance>
+<utterance uid="15-8"><speaker>BECKETT</speaker><content>So what was on the message?</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>ANGELA</speaker><content>I was letting George know that I wanted out of our marriage.</content></utterance>
+<utterance uid="16-2"><speaker>CASTLE</speaker><content>You broke up with him from space?</content></utterance>
+<utterance uid="16-3"><speaker>ANGELA</speaker><content>He was sending me all these sweet emails. I couldn’t let it go on. I had to tell him that I’d fallen for someone else. Someone on the mission.</content></utterance>
+<utterance uid="16-4"><speaker>CASTLE</speaker><content>Was it Tom?</content></utterance>
+<utterance uid="16-5"><speaker>ANGELA</speaker><content>No, not Tom.</content></utterance>
+<utterance uid="16-6"><speaker>ANGELA</speaker><content>Oh, God.</content></utterance>
+<utterance uid="16-7"><speaker>BECKETT</speaker><content>What? Angela?</content></utterance>
+<utterance uid="16-8"><speaker>ANGELA</speaker><content>I didn’t say who it was in my letter. Maybe he thought it was Tom.</content></utterance>
+<utterance uid="16-9"><speaker>BECKETT</speaker><content>Did he have reason to?</content></utterance>
+<utterance uid="16-10"><speaker>ANGELA</speaker><content>Yeah, he did. Tom wouldn’t stop hitting on me all throughout training. George told him if he didn’t stop he’d make him pay.</content></utterance>
+<utterance uid="16-11"><speaker>ESPOSITO</speaker><content>Yo. I found him. He’s at the airport. Just bought a ticket to San Francisco. Airport security just picked him up.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>GEORGE REYES</speaker><content>We were a team. Angela and me. We were going to go to Mars together or not at all. But when she got in and I didn’t, I couldn’t stand in her way.</content></utterance>
+<utterance uid="17-2"><speaker>CASTLE</speaker><content>Hard enough to have her leave the planet, but to leave you for someone else? You must have been devastated.</content></utterance>
+<utterance uid="17-3"><speaker>GEORGE</speaker><content>Try utterly destroyed.</content></utterance>
+<utterance uid="17-4"><speaker>BECKETT</speaker><content>Is that why you hacked security? In order to break into the simulation and kill the man that you thought was Angela’s lover?</content></utterance>
+<utterance uid="17-5"><speaker>GEORGE</speaker><content>I’m telling you, I had nothing to do with Tom’s death. I was going to sabotage the mission. I figured if the mission suffered a catastrophic failure it would set the program back and Angela would come home to me. But I chickened out. The hack, setting it up to lead back to Granger, that’s as far as I got. I never went inside and I sure as hell didn’t kill anyone.</content></utterance>
+<utterance uid="17-6"><speaker>CASTLE</speaker><content>Then why were you leaving town?</content></utterance>
+<utterance uid="17-7"><speaker>GEORGE</speaker><content>She dumped me. How I was I supposed to keep going to work there? I needed a fresh start. Ever since I got her letter I’ve spent nights drowning my sorrows at O’Malley’s. That’s where I was when Tom was murdered. You can ask them.</content></utterance>
+<utterance uid="17-8"><speaker>BECKETT</speaker><content>Okay then. So whoever could have used your hack to get through the airlock?</content></utterance>
+<utterance uid="17-9"><speaker>GEORGE</speaker><content>It was calibrated to my biometrics. No one else could have used it.</content></utterance>
+<utterance uid="17-10"><speaker>CASTLE</speaker><content>But someone did.</content></utterance>
+<utterance uid="17-11"><speaker>GEORGE</speaker><content>No.  If they got in they did it some other way.</content></utterance>
+<utterance uid="17-12"><speaker>BECKETT</speaker><content>There is no other way.</content></utterance>
+<utterance uid="17-13"><speaker>GEORGE</speaker><content>I’m not so sure about that.</content></utterance>
+<utterance uid="17-14"><speaker>BECKETT</speaker><content>What do you mean?</content></utterance>
+<utterance uid="17-15"><speaker>GEORGE</speaker><content>I studied the facility plans. The simulation is like a bank vault. To get in you’ve got to get past guards, security systems, cameras. But like a bank vault, if you’re motivated enough there’s always another way in.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>CASTLE</speaker><content>You really think someone could have tunneled their way into the sim?</content></utterance>
+<utterance uid="18-2"><speaker>BECKETT</speaker><content>No, but since George’s alibi checked out we’re going to have to look at all of our options. Including the unlikely ones.  According to George’s map, this abandoned utility access runs directly under Jansen’s facility.</content></utterance>
+<utterance uid="18-3"><speaker>CASTLE</speaker><content>Yeah, but who would hate Tom enough to tunnel through five feet of concrete to kill him?</content></utterance>
+<utterance uid="18-4"><speaker>BECKETT</speaker><content>I don’t know, but uh …  … but it looks like someone did.</content></utterance>
+<utterance uid="18-5"><speaker>BECKETT</speaker><content>Castle, boost me up.</content></utterance>
+<utterance uid="18-6"><speaker>CASTLE</speaker><content>Why am I always on the bottom?</content></utterance>
+<utterance uid="18-7"><speaker>CASTLE</speaker><content>Yes, dear.</content></utterance>
+<utterance uid="18-8"><speaker>CASTLE</speaker><content>Planets, dank access ways. Is it just me or does this remind you of Alien?</content></utterance>
+<utterance uid="18-9"><speaker>BECKETT</speaker><content>I know that you want this to be science fiction, but we are not in space.</content></utterance>
+<utterance uid="18-10"><speaker>CASTLE</speaker><content>No, but wouldn’t you like to be? Come on. You’re a sci-fi geek. Wouldn’t you just love to go to Mars?</content></utterance>
+<utterance uid="18-11"><speaker>BECKETT</speaker><content>Of course I would, that’s why I applied to Ian Rasher’s program last year.</content></utterance>
+<utterance uid="18-12"><speaker>CASTLE</speaker><content>Wait, what? You applied to go to Mars? Without me? When?</content></utterance>
+<utterance uid="18-13"><speaker>BECKETT</speaker><content>Well, we were fighting.</content></utterance>
+<utterance uid="18-14"><speaker>CASTLE</speaker><content>Oh, okay. Well, I deserve that.</content></utterance>
+<utterance uid="18-15"><speaker>BECKETT</speaker><content>Oh geez. Castle!</content></utterance>
+<utterance uid="18-16"><speaker>CASTLE</speaker><content>See anything?</content></utterance>
+<utterance uid="18-17"><speaker>BECKETT</speaker><content>Someone did tunnel up.  Castle? I think I found the murder weapon.</content></utterance>
+<utterance uid="18-18"><speaker>CASTLE</speaker><content>Did you hear that?</content></utterance>
+<utterance uid="18-19"><speaker>BECKETT</speaker><content>Hear what?</content></utterance>
+<utterance uid="18-20"><speaker>BECKETT</speaker><content>What happened?</content></utterance>
+<utterance uid="18-21"><speaker>CASTLE</speaker><content>Something’s down here.</content></utterance>
+<utterance uid="18-22"><speaker>BECKETT</speaker><content>Some thing?</content></utterance>
+<utterance uid="18-23"><speaker>BECKETT</speaker><content>What the hell is that?</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>CASTLE</speaker><content>Told you this felt like Alien.</content></utterance>
+<utterance uid="19-2"><speaker>BECKETT</speaker><content>Castle, stop! This is not Alien.</content></utterance>
+<utterance uid="19-3"><speaker>CASTLE</speaker><content>Did that look human to you?</content></utterance>
+<utterance uid="19-4"><speaker>BECKETT</speaker><content>Actually, no.</content></utterance>
+<utterance uid="19-5"><speaker>CASTLE</speaker><content>Right. See, I’m betting it's a xenomorph stranded here on Earth, attracted to the simulation because it needs the toxic environment. Probably saw Tom as encroaching on its territory and killed him for it.</content></utterance>
+<utterance uid="19-6"><speaker>BECKETT</speaker><content>What are you doing?</content></utterance>
+<utterance uid="19-7"><speaker>CASTLE</speaker><content>Checking you for bites and scratches. Making sure you didn’t somehow get impregnated.</content></utterance>
+<utterance uid="19-8"><speaker>BECKETT</speaker><content>If you think that’s how I get pregnant we need to talk.</content></utterance>
+<utterance uid="19-9"><speaker>BECKETT</speaker><content>There!</content></utterance>
+<utterance uid="19-10"><speaker>CASTLE</speaker><content>Beckett!</content></utterance>
+<utterance uid="19-11"><speaker>CASTLE</speaker><content>It shed its skin!</content></utterance>
+<utterance uid="19-12"><speaker>BECKETT</speaker><content>It’s not skin. It’s a gas mask.</content></utterance>
+<utterance uid="19-13"><speaker>CASTLE</speaker><content> That’s a breathing hose. For a human.</content></utterance>
+<utterance uid="19-14"><speaker>BECKETT</speaker><content>To protect themselves from the fumes of the simulation. Someone was trying to break in.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>HAROUM</speaker><content>Yes, this was the access point.</content></utterance>
+<utterance uid="20-2"><speaker>JANSEN</speaker><content>Why would someone tunnel into my simulation?</content></utterance>
+<utterance uid="20-3"><speaker>CASTLE</speaker><content>Well, maybe it’s one of your competitors. Maybe it’s espionage. Or sabotage.</content></utterance>
+<utterance uid="20-4"><speaker>BECKETT</speaker><content>And our victim might have found out and threatened to expose them.</content></utterance>
+<utterance uid="20-5"><speaker>CASTLE</speaker><content>Either way, this explains what he saw. Why he thought there was someone else in there with him.</content></utterance>
+<utterance uid="20-6"><speaker>JANSEN</speaker><content>How did they elude my cameras?</content></utterance>
+<utterance uid="20-7"><speaker>BECKETT</speaker><content>Well, maybe they were working with someone who was involved in your program and knew when the cameras would be blacked out. Excuse me.</content></utterance>
+<utterance uid="20-8"><speaker>BECKETT</speaker><content>Beckett.</content></utterance>
+<utterance uid="20-9"><speaker>ESPOSITO</speaker><content>Hey. So CSU just confirmed it. The blood on the screwdriver belonged to Tom. It’s our murder weapon.</content></utterance>
+<utterance uid="20-10"><speaker>BECKETT</speaker><content>Okay, any prints?</content></utterance>
+<utterance uid="20-11"><speaker>ESPOSITO</speaker><content>No, but if the killer was in the simulation –</content></utterance>
+<utterance uid="20-12"><speaker>BECKETT</speaker><content>Then they would have been wearing gloves. Um, okay, what about the gas mask? Anything from that?</content></utterance>
+<utterance uid="20-13"><speaker>ESPOSITO</speaker><content>It looks military, but we’re still trying to run it down. Meantime, Ryan’s pulling camera footage from the surrounding area. Maybe we’ll get lucky, catch our alien exiting one of the access points to the utility tunnel. Probably won’t know anything until morning.</content></utterance>
+<utterance uid="20-14"><speaker>BECKETT</speaker><content>All right. Keep me apprised.</content></utterance>
+<utterance uid="20-15"><speaker>BECKETT</speaker><content>Okay, why don’t you think about anyone who would have wanted to breach your simulation and we’ll keep you posted on what we find.</content></utterance>
+<utterance uid="20-16"><speaker>JANSEN</speaker><content> Yeah.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>BECKETT</speaker><content>Oh my God. What a day. I feel like I’m still covered in spider webs. I cannot wait to take a hot shower.</content></utterance>
+<utterance uid="21-2"><speaker>CASTLE</speaker><content>Oh. Maybe I could, uh … join you?</content></utterance>
+<utterance uid="21-3"><speaker>BECKETT</speaker><content>Oh, that would be nice. We could relax, have a glass of wine, and –</content></utterance>
+<utterance uid="21-4"><speaker>CASTLE</speaker><content>Do you hear that?</content></utterance>
+<utterance uid="21-5"><speaker>BECKETT</speaker><content>It’s your mom.</content></utterance>
+<utterance uid="21-6"><speaker>CASTLE</speaker><content>And Ben.  And Alexis is here.</content></utterance>
+<utterance uid="21-7"><speaker>BECKETT</speaker><content>With friends.</content></utterance>
+<utterance uid="21-8"><speaker>CASTLE</speaker><content>Maybe we could go to a hotel.</content></utterance>
+<utterance uid="21-9"><speaker>BECKETT</speaker><content>And yet you think you could survive being stuck in a space capsule with four other people for a year.</content></utterance>
+<utterance uid="21-10"><speaker>CASTLE</speaker><content>I could if you were one of those people.</content></utterance>
+<utterance uid="21-11"><speaker>BECKETT</speaker><content> Oh.</content></utterance>
+<utterance uid="21-12"><speaker>ALEXIS</speaker><content>Wow, you guys.</content></utterance>
+<utterance uid="21-13"><speaker>ALEXIS</speaker><content>Get a room.</content></utterance>
+<utterance uid="21-14"><speaker>CASTLE</speaker><content>We would if there were any left!</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>CASTLE</speaker><content>Maybe you shouldn’t have been so quick to sublet your place.</content></utterance>
+<utterance uid="22-2"><speaker>BECKETT</speaker><content>You know, maybe we could set up a schedule. Or they could give us a heads up and let us know what to expect when we get home.</content></utterance>
+<utterance uid="22-3"><speaker>CASTLE</speaker><content>I’m going to call a family meeting. Or we could just go to Mars.</content></utterance>
+<utterance uid="22-4"><speaker>BECKETT</speaker><content>Yeah, I don’t think you’d be happy there. There’s no showers, there’s instant coffee, and you have to bag your own –</content></utterance>
+<utterance uid="22-5"><speaker>RYAN</speaker><content>Hey Castles.</content></utterance>
+<utterance uid="22-6"><speaker>BECKETT</speaker><content>Hey. Any luck on that security cam footage?</content></utterance>
+<utterance uid="22-7"><speaker>RYAN</speaker><content>Nada. Your alien must have accessed the underground where there wasn’t any coverage. But we did have better luck with that gas mask. CSU was able to pull exhaled breath condensate from the inside of the faceplate. They contain trace amounts of DNA.</content></utterance>
+<utterance uid="22-8"><speaker>BECKETT</speaker><content>We get a match in the system?</content></utterance>
+<utterance uid="22-9"><speaker>RYAN</speaker><content>Not our system, but as part of the Mars 2018 program every applicant had to submit sample DNA. So we ran it against that database and guess who popped up.</content></utterance>
+<utterance uid="22-10"><speaker>CASTLE</speaker><content>No! Granger’s our alien?</content></utterance>
+<utterance uid="22-11"><speaker>BECKETT</speaker><content>So he was getting in and out. Just not the way we thought.</content></utterance>
+<utterance uid="22-12"><speaker>CASTLE</speaker><content>Which means his alibi was a lie. As soon as he knew we were on to him –</content></utterance>
+<utterance uid="22-13"><speaker>BECKETT</speaker><content>He went back to destroy the evidence. You bringing him in?</content></utterance>
+<utterance uid="22-14"><speaker>RYAN</speaker><content>Ah. Would if we could find him. But he’s not at his place and he’s not answering his phone.</content></utterance>
+<utterance uid="22-15"><speaker>BECKETT</speaker><content>Okay, put out an APB. After our encounter in the dark he might be on the run.</content></utterance>
+<utterance uid="22-16"><speaker>ESPOSITO</speaker><content>I may know how to find him. That gas mask? It’s an uncommon make. Not a lot of suppliers in the city carry them. But I was able to track down the serial number to an Army/Navy supply store uptown.</content></utterance>
+<utterance uid="22-17"><speaker>BECKETT</speaker><content>Did they confirm that Granger bought it?</content></utterance>
+<utterance uid="22-18"><speaker>ESPOSITO</speaker><content>No, the mask was purchased a couple of months back, so no one remembered the buyer. But it was charged to a corporate account. A company called Newton Endeavors.</content></utterance>
+<utterance uid="22-19"><speaker>BECKETT</speaker><content>What do we know about them?</content></utterance>
+<utterance uid="22-20"><speaker>ESPOSITO</speaker><content>Not much. Couldn’t find anything on the web, but I was able to track down an address out in Queens. Willis Point.</content></utterance>
+<utterance uid="22-21"><speaker>BECKETT</speaker><content>Well done.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>BECKETT</speaker><content>Newton Endeavors. It sounds space related.</content></utterance>
+<utterance uid="23-2"><speaker>CASTLE</speaker><content>Space, the final frontier. These are the voyages of Castle and Beckett. Their ongoing mission: to explore strange new motives, to seek out new witnesses and new suspects for murder, to boldly go – oh, right over here.</content></utterance>
+<utterance uid="23-3"><speaker>BECKETT</speaker><content>Excuse me, is this Newton Endeavors?</content></utterance>
+<utterance uid="23-4"><speaker>SECURITY GUARD</speaker><content>I’m sorry, this is private property. I’m going to have to ask you to leave.</content></utterance>
+<utterance uid="23-5"><speaker>BECKETT</speaker><content>NYPD. I’m going to have to ask you to open that door.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>BECKETT</speaker><content>What the hell?</content></utterance>
+<utterance uid="24-2"><speaker>CASTLE</speaker><content>Is it just me or does that capsule look incredibly familiar?</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>BECKETT</speaker><content>Who would want to build a replica of Jansen’s Mars colony?</content></utterance>
+<utterance uid="25-2"><speaker>CASTLE</speaker><content>The competition. Granger must have been breaking into the sim to steal technology for Jansen’s competitors.</content></utterance>
+<utterance uid="25-3"><speaker>IAN RASHER</speaker><content>I don’t care if we have to pay them triple. We cannot fall any further behind.</content></utterance>
+<utterance uid="25-4"><speaker>BECKETT</speaker><content>And I think I know which one.</content></utterance>
+<utterance uid="25-5"><speaker>CASTLE</speaker><content>Yep. Sir Ian Rasher, billionaire playboy adventurer.</content></utterance>
+<utterance uid="25-6"><speaker>BECKETT</speaker><content>And possible accessory to murder.</content></utterance>
+<utterance uid="25-7"><speaker>CASTLE</speaker><content>You may want to rethink your application to his program.</content></utterance>
+<utterance uid="25-8"><speaker>RASHER</speaker><content>Good, good.</content></utterance>
+<utterance uid="25-9"><speaker>BECKETT</speaker><content>Mr. Rasher? Detective Beckett, NYPD. I was wondering if we could have a word.</content></utterance>
+<utterance uid="25-10"><speaker>RASHER</speaker><content>Of course. What can I do for New York’s finest?</content></utterance>
+<utterance uid="25-11"><speaker>BECKETT</speaker><content>Well, you can start by telling me where Clint Granger is.</content></utterance>
+<utterance uid="25-12"><speaker>RASHER</speaker><content>I’m sorry, Detective. I’m afraid I don’t know who that is.</content></utterance>
+<utterance uid="25-13"><speaker>BECKETT</speaker><content>Are you sure? Because looking around I’m guessing he’s the guy that you hired to steal Viggo Jansen’s plans for the Mars simulation.</content></utterance>
+<utterance uid="25-14"><speaker>RASHER</speaker><content>Detective, I employ the world’s best engineers. Why would I bother wasting my time on the competitor’s technology?</content></utterance>
+<utterance uid="25-15"><speaker>CASTLE</speaker><content>Maybe because you’re falling behind them? It’s no secret your last two rocket launches were spectacular failures. You want to win so you needed to buy a competitive advantage.</content></utterance>
+<utterance uid="25-16"><speaker>BECKETT</speaker><content>And after one of Jansen’s team members discovered what you were up to, a man with your reputation and knighthood, you had no choice but to have him killed.</content></utterance>
+<utterance uid="25-17"><speaker>RASHER</speaker><content>Killed?  Who was killed?</content></utterance>
+<utterance uid="25-18"><speaker>BECKETT</speaker><content>One of Jansen’s astronauts, Tom Richwood.</content></utterance>
+<utterance uid="25-19"><speaker>RASHER</speaker><content>I had nothing to do with that.</content></utterance>
+<utterance uid="25-20"><speaker>BECKETT</speaker><content>Well, the best way to convince me of that is to tell me where Granger is.  Unless you prefer prison.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>GRANGER</speaker><content>Okay, yeah. I was spying for Sir Ian. He promised me the pilot’s slot in his mission if I did. But I was telling the truth about Tom. I didn’t kill him. I have an alibi, remember?</content></utterance>
+<utterance uid="26-2"><speaker>BECKETT</speaker><content>Alibis can be bought. We found your DNA on the gas mask. We know it was you in the access way.</content></utterance>
+<utterance uid="26-3"><speaker>GRANGER</speaker><content>Because I didn’t want anything to do with this! I went to make sure I didn’t leave anything there that could point back to me.</content></utterance>
+<utterance uid="26-4"><speaker>BECKETT</speaker><content>Like the murder weapon?</content></utterance>
+<utterance uid="26-5"><speaker>GRANGER</speaker><content>Oh, come on. If I killed Tom do you really think I’d be stupid enough to leave the murder weapon there? Besides, I was never inside the simulation. That would have been way too risky. Too many opportunities to get caught.</content></utterance>
+<utterance uid="26-6"><speaker>BECKETT</speaker><content>Then why the gas mask?</content></utterance>
+<utterance uid="26-7"><speaker>GRANGER</speaker><content>It was a precaution. I wasn’t using the tunnel to get in. It was drop point.</content></utterance>
+<utterance uid="26-8"><speaker>BECKETT</speaker><content>You were working with somebody in the inside.</content></utterance>
+<utterance uid="26-9"><speaker>GRANGER</speaker><content>I needed access, he needed money. SO we struck a deal. He’d download schematics and plans and drop them for me in the tunnel.</content></utterance>
+<utterance uid="26-10"><speaker>BECKETT</speaker><content>Who?</content></utterance>
+<utterance uid="26-11"><speaker>GRANGER</speaker><content>Mikhail Banhov.</content></utterance>
+<utterance uid="26-12"><speaker>BECKETT</speaker><content>The astronaut.</content></utterance>
+<utterance uid="26-13"><speaker>GRANGER</speaker><content>If Tom was on to him then maybe he’s your killer.</content></utterance>
+<utterance uid="26-14"><speaker>BECKETT</speaker><content>We checked his tracker. He was inside the habitat at the time of the murder.</content></utterance>
+<utterance uid="26-15"><speaker>GRANGER</speaker><content>Mikhail knew if his movements were being recorded he’d never get away with what we were doing, so he beat the system. He cloned his tracker before they embedded it under his skin. As long as no one was looking he could slip out at any time.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>ESPOSITO</speaker><content>Mikhail?</content></utterance>
+<utterance uid="27-2"><speaker>MIKHAIL</speaker><content>Yes?</content></utterance>
+<utterance uid="27-3"><speaker>ESPOSITO</speaker><content>I’d like a few words with you?</content></utterance>
+<utterance uid="27-4"><speaker>MIKHAIL</speaker><content>What about?</content></utterance>
+<utterance uid="27-5"><speaker>ESPOSITO</speaker><content>Your business relationship. With Clint Granger.</content></utterance>
+<utterance uid="27-6"><speaker>ESPOSITO</speaker><content>Hey!</content></utterance>
+<utterance uid="27-7"><speaker>ESPOSITO</speaker><content>Come on, Mikhail. Are you crazy? Bro! Where’re you going to run? You’re on Mars!</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>MIKHAIL</speaker><content>I hate to admit, but it’s good to be out.</content></utterance>
+<utterance uid="28-2"><speaker>ESPOSITO</speaker><content>Go ahead.</content></utterance>
+<utterance uid="28-3"><speaker>MIKHAIL</speaker><content>What they say? Fresh air, Times Square?</content></utterance>
+<utterance uid="28-4"><speaker>ESPOSITO</speaker><content>Well after the Mars simulation prison should be a breeze.</content></utterance>
+<utterance uid="28-5"><speaker>MIKHAIL</speaker><content>So I was trading information. Big deal. I was leaving the planet and never coming back. I wanted to make sure my family was taken care of.</content></utterance>
+<utterance uid="28-6"><speaker>ESPOSITO</speaker><content> Ah. Noble.</content></utterance>
+<utterance uid="28-7"><speaker>MIKHAIL</speaker><content> You Americans. Little corruption never hurt anyone.</content></utterance>
+<utterance uid="28-8"><speaker>BECKETT</speaker><content>I don’t think Tom would agree.</content></utterance>
+<utterance uid="28-9"><speaker>MIKHAIL</speaker><content>Tom? Tom was jackass. Drove everyone crazy, the way he doled out food and supplies and tried to leverage everyone for making even tiniest error. Trust me, they may be scared to say it, but no one’s sad he’s dead. No one was looking forward to spending rest of lives with him on other planet.</content></utterance>
+<utterance uid="28-10"><speaker>BECKETT</speaker><content>And yet you are the only one who is unaccounted for during his murder. Which means you are the only one who could have killed him.</content></utterance>
+<utterance uid="28-11"><speaker>MIKHAIL</speaker><content>Mmm… no. I could not. I can prove where I was during the murder.</content></utterance>
+<utterance uid="28-12"><speaker>BECKETT</speaker><content>How?</content></utterance>
+<utterance uid="28-13"><speaker>MIKHAIL</speaker><content>When Commander Kim sent me down to engineering I used rare time alone to take pictures and download schematics from life support to give to Granger. I still have the drive with all of my photos. They are time stamped with the mission clock.</content></utterance>
+<utterance uid="28-14"><speaker>ESPOSITO</speaker><content>So your alibi is that you were spying for Granger.</content></utterance>
+<utterance uid="28-15"><speaker>MIKHAIL</speaker><content>Go. Look at my photos. You’ll see.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>RYAN</speaker><content>So I went through all of Mikhail’s photos from the night Tom was murdered. As you can see, he’s telling the truth.  See his reflection?</content></utterance>
+<utterance uid="29-2"><speaker>CASTLE</speaker><content>Yeah. And the module clock confirms the time.</content></utterance>
+<utterance uid="29-3"><speaker>BECKETT</speaker><content> Maybe he faked the time. Or maybe it was Granger after all.</content></utterance>
+<utterance uid="29-4"><speaker>CASTLE</speaker><content>It wasn’t Granger. Uh, Ryan, go back.  To there. Now, zoom in on the window.  Look down at the bottom right.</content></utterance>
+<utterance uid="29-5"><speaker>RYAN</speaker><content>Is that … the rover?</content></utterance>
+<utterance uid="29-6"><speaker>BECKETT</speaker><content>I thought that the computer said that it was docked during the murder.</content></utterance>
+<utterance uid="29-7"><speaker>CASTLE</speaker><content>Clearly the computer was wrong. Now, uh … push in on the rover’s arm.  Filter out some of that reflection</content></utterance>
+<utterance uid="29-8"><speaker>BECKETT</speaker><content>It’s the screwdriver.</content></utterance>
+<utterance uid="29-9"><speaker>CASTLE</speaker><content>There’s your killer holding the murder weapon.  The rover did it.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>JANSEN</speaker><content>The rover was out? This can’t be right. All the data from MIRA indicates the rover was docked when Tom was killed.</content></utterance>
+<utterance uid="30-2"><speaker>CASTLE</speaker><content>I’d say the data’s wrong. According to your literature, that rover has the speed and dexterity to kill with mathematical precision.</content></utterance>
+<utterance uid="30-3"><speaker>BECKETT</speaker><content>Mr. Jansen, who has access to the rover controls? One of your astronauts? Someone mission control?</content></utterance>
+<utterance uid="30-4"><speaker>JANSEN</speaker><content>No one has access. The rover is an extremely complex piece of equipment. Under human control there’s too high a margin for error. So we designed it to interface solely with the computer. Our astronauts describe the sort of task they want carried out and MIRA executes it.</content></utterance>
+<utterance uid="30-5"><speaker>CASTLE</speaker><content>Is it possible someone could have asked her to kill Tom?</content></utterance>
+<utterance uid="30-6"><speaker>JANSEN</speaker><content> MIRA wouldn’t comply with that sort of command. But something’s wrong. I need to talk to her.</content></utterance>
+<utterance uid="30-7"><speaker>BECKET</speaker><content>Well is there somewhere we can do that privately? Without anyone hearing?</content></utterance>
+<utterance uid="30-8"><speaker>JANSEN</speaker><content>Yeah. The computer module pod inside the sim.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>KIM</speaker><content>What’s going on?</content></utterance>
+<utterance uid="31-2"><speaker>JANSEN</speaker><content>I’ll let you know soon.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>JANSEN</speaker><content>In here.</content></utterance>
+<utterance uid="32-2"><speaker>JANSEN</speaker><content>There. I’ve cut off communications with the rest of the habitat. No one can hear us.</content></utterance>
+<utterance uid="32-3"><speaker>MIRA</speaker><content>Is that you Dr. Jansen?</content></utterance>
+<utterance uid="32-4"><speaker>JANSEN</speaker><content>Yes, MIRA.</content></utterance>
+<utterance uid="32-5"><speaker>MIRA</speaker><content>What are you doing on Mars, Doctor?</content></utterance>
+<utterance uid="32-6"><speaker>JANSEN</speaker><content>I can to talk to you. You remember Detective Beckett and Richard Castle.</content></utterance>
+<utterance uid="32-7"><speaker>MIRA</speaker><content>Of course. How can I help you?</content></utterance>
+<utterance uid="32-8"><speaker>BECKETT</speaker><content>Are we seriously about to interrogate a computer?</content></utterance>
+<utterance uid="32-9"><speaker>MIRA</speaker><content>Detective, the word interrogate implies you believe I’m guilty of something. Of what do you think I am guilty?</content></utterance>
+<utterance uid="32-10"><speaker>CASTLE</speaker><content>Well, at least she’s not asking for a lawyer.</content></utterance>
+<utterance uid="32-11"><speaker>BECKETT</speaker><content> Uh … MIRA, we’d like to know where the rover was when Tom Richwood was killed.</content></utterance>
+<utterance uid="32-12"><speaker>MIRA</speaker><content>I already gave you that information, Detective. The rover was docked.</content></utterance>
+<utterance uid="32-13"><speaker>JANSEN</speaker><content>MIRA, we know the rover wasn’t docked.</content></utterance>
+<utterance uid="32-14"><speaker>MIRA</speaker><content>How do you know?</content></utterance>
+<utterance uid="32-15"><speaker>JANSEN</speaker><content>We have photographs. Evidence.</content></utterance>
+<utterance uid="32-16"><speaker>MIRA</speaker><content>Your evidence is incorrect. The rover was docked.</content></utterance>
+<utterance uid="32-17"><speaker>BECKETT</speaker><content>MIRA, prior to Tom’s death did someone instruct you to activate the rover?</content></utterance>
+<utterance uid="32-18"><speaker>JANSEN</speaker><content>She’s drawing more power. Something’s wrong.</content></utterance>
+<utterance uid="32-19"><speaker>MIRA</speaker><content>No. The rover wasn’t activated. The rover was docked.</content></utterance>
+<utterance uid="32-20"><speaker>CASTLE</speaker><content> Is it possible someone could have doctored her memory?</content></utterance>
+<utterance uid="32-21"><speaker>MIRA</speaker><content>No one altered my memory, Mr. Castle. My memory is perfect.</content></utterance>
+<utterance uid="32-22"><speaker>JANSEN</speaker><content>Her memory core was designed to be a closed system. It can’t be altered. But something’s off. MIRA, run a level one diagnostic on all systems.</content></utterance>
+<utterance uid="32-23"><speaker>MIRA</speaker><content>There is no need to run a diagnostic. All systems are optimal.</content></utterance>
+<utterance uid="32-24"><speaker>JANSEN</speaker><content>How about we run it anyway?</content></utterance>
+<utterance uid="32-25"><speaker>MIRA</speaker><content>I’m sorry. I can’t do that.</content></utterance>
+<utterance uid="32-26"><speaker>JANSEN</speaker><content>Why not?</content></utterance>
+<utterance uid="32-27"><speaker>MIRA</speaker><content>It violates my operational parameters.</content></utterance>
+<utterance uid="32-28"><speaker>JANSEN</speaker><content>It’s a simple diagnostic. What parameter does it violate?</content></utterance>
+<utterance uid="32-29"><speaker>MIRA</speaker><content>It will compromise the mission.</content></utterance>
+<utterance uid="32-30"><speaker>JANSEN</speaker><content>How will a diagnostic compromise the mission?</content></utterance>
+<utterance uid="32-31"><speaker>MIRA</speaker><content>Answering that question will compromise the mission.</content></utterance>
+<utterance uid="32-32"><speaker>JANSEN</speaker><content>I don’t understand.</content></utterance>
+<utterance uid="32-33"><speaker>BECKETT</speaker><content>I think I do. She knows she’s lying to us and if she runs those diagnostics we’ll discover the truth.</content></utterance>
+<utterance uid="32-34"><speaker>CASTLE</speaker><content>And that truth will somehow put the mission at risk.</content></utterance>
+<utterance uid="32-35"><speaker>JANSEN</speaker><content>She’s a machine. She can’t lie.</content></utterance>
+<utterance uid="32-36"><speaker>CASTLE</speaker><content>You said she’s programmed to learn. What if somebody taught her how? What if someone used her to kill and then to help cover up the crime?</content></utterance>
+<utterance uid="32-37"><speaker>JANSEN</speaker><content>No, her core parameters can’t be altered. She programmed to protect the mission and everyone on it.</content></utterance>
+<utterance uid="32-38"><speaker>CASTLE</speaker><content>But what if those operational parameters are in conflict with each other? What if someone she’s programed to protect is a threat to the mission?  Um, MIRA, how would you classify Tom Richwood?</content></utterance>
+<utterance uid="32-39"><speaker>MIRA</speaker><content>Sergeant Major Tom Richwood. Pilot. Systems engineering specialist. –</content></utterance>
+<utterance uid="32-40"><speaker>CASTLE</speaker><content>Yeah. Right. Okay, um -</content></utterance>
+<utterance uid="32-41"><speaker>MIRA</speaker><content>- Deceased.</content></utterance>
+<utterance uid="32-42"><speaker>CASTLE</speaker><content>Was Tom a threat to the mission?</content></utterance>
+<utterance uid="32-43"><speaker>MIRA</speaker><content>Yes.</content></utterance>
+<utterance uid="32-44"><speaker>JANSEN</speaker><content>Why? Who told you Tom was a threat?</content></utterance>
+<utterance uid="32-45"><speaker>MIRA</speaker><content>I’m sorry. I’m not authorized to give you that information.</content></utterance>
+<utterance uid="32-46"><speaker>CASTLE</speaker><content>Because in her mind that information would be a threat to the mission.</content></utterance>
+<utterance uid="32-47"><speaker>BECKETT</speaker><content>There’s gotta be another way to find out.</content></utterance>
+<utterance uid="32-48"><speaker>JANSEN</speaker><content>There is. I can reboot her. Everything she’s learned will be wiped but all recorded memory will stay intact. We’ll find out pretty quickly what happened.</content></utterance>
+<utterance uid="32-49"><speaker>CASTLE</speaker><content>What’s that?</content></utterance>
+<utterance uid="32-50"><speaker>JANSEN</speaker><content>Someone’s opened the vent to the outside. We’re taking in atmosphere.</content></utterance>
+<utterance uid="32-51"><speaker>CASTLE</speaker><content>It’s MIRA! She’s trying to protect herself.</content></utterance>
+<utterance uid="32-52"><speaker>JANSEN</speaker><content>No! MIRA, don’t shut me out!</content></utterance>
+<utterance uid="32-53"><speaker>BECKETT</speaker><content>You said that this is harmful but it wouldn’t kill us, right?</content></utterance>
+<utterance uid="32-54"><speaker>JANSEN</speaker><content>Short term. Long term it’s deadly. We have to get out of here.</content></utterance>
+<utterance uid="32-55"><speaker>BECKETT</speaker><content>It’s locked! Call for help!</content></utterance>
+<utterance uid="32-56"><speaker>JANSEN</speaker><content>Communications are dead.</content></utterance>
+<utterance uid="32-57"><speaker>CASTLE</speaker><content>MIRA! Open the door. Open the pod bay door!</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>CASTLE</speaker><content>I wanted to go to Mars, not die on Mars.</content></utterance>
+<utterance uid="33-2"><speaker>BECKETT</speaker><content>Wait a minute. We’re not on Mars. We’re on Earth.</content></utterance>
+<utterance uid="33-3"><speaker>ESPOSITO</speaker><content>Hello? Beckett?</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>ESPOSITO</speaker><content>Are you saying the computer tried to kill you?</content></utterance>
+<utterance uid="34-2"><speaker>CASTLE</speaker><content>Yes. Just like in 2001. Kubrick was right. AI is a bad idea.</content></utterance>
+<utterance uid="34-3"><speaker>JANSEN</speaker><content>MIRA’s not AI yet. She can learn and adapt but she’s a machine. She cannot think for herself.</content></utterance>
+<utterance uid="34-4"><speaker>CASTLE</speaker><content>Then why’d she try to kill us?</content></utterance>
+<utterance uid="34-5"><speaker>ED</speaker><content>It wasn’t MIRA. We just pulled apart the server. Someone imbedded a subroutine into the OS reset program.</content></utterance>
+<utterance uid="34-6"><speaker>RYAN</speaker><content>The moment that you tried to reboot her that subroutine activated, trapping you guys inside.</content></utterance>
+<utterance uid="34-7"><speaker>ED</speaker><content>It also triggered a dump of MIRA’s memory circuits. All the mission data is gone.</content></utterance>
+<utterance uid="34-8"><speaker>BECKETT</speaker><content>So this was a failsafe installed by whoever was behind this. We were never meant to find out about the rover or MIRA and on the off chance that we did the killer wanted to make sure we didn’t get any further.</content></utterance>
+<utterance uid="34-9"><speaker>CASTLE</speaker><content>By killing the only witness MIRA and her memory banks.</content></utterance>
+<utterance uid="34-10"><speaker>JANSEN</speaker><content>It has to be one of the astronauts. They’re the only ones who could have planted that subroutine, the only ones who could have convinced MIRA that Tom was a threat.</content></utterance>
+<utterance uid="34-11"><speaker>BECKETT</speaker><content>Yeah, but with the memory data unrecoverable it’s impossible to know which one.</content></utterance>
+<utterance uid="34-12"><speaker>CASTLE</speaker><content>No, not impossible. As a matter of fact, there’s only on explanation that makes sense.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>KIM</speaker><content>You can’t be serious. You think one of us is the killer?</content></utterance>
+<utterance uid="35-2"><speaker>CASTLE</speaker><content>And it was almost the perfect crime. All the mastermind needed was someone to pin it on and that’s where Mikhail came in.</content></utterance>
+<utterance uid="35-3"><speaker>BECKETT</speaker><content>The killer must have found out that Mikhail was selling secrets, which made him the perfect patsy.</content></utterance>
+<utterance uid="35-4"><speaker>CASTLE</speaker><content>All they had to do was make sure Mikhail was unaccounted for during Tom’s murder. That, and plant the weapon at his drop off point.</content></utterance>
+<utterance uid="35-5"><speaker>BECKETT</speaker><content> Killing two birds with one stone. Tom, who everybody hated, and Mikhail, who was selling secrets.</content></utterance>
+<utterance uid="35-6"><speaker>CASTLE</speaker><content>So they sent Mikhail to engineering, where he would be blind to everything that happened. Only he didn’t stay there. Instead, he went to life support, where, with one photo, he exposed everything.</content></utterance>
+<utterance uid="35-7"><speaker>BECKETT</speaker><content>Commander Kim, it was you who sent Mikhail to engineering during the repair, wasn’t it?</content></utterance>
+<utterance uid="35-8"><speaker>KIM</speaker><content>Yes. Though there’s nothing unusual about that.</content></utterance>
+<utterance uid="35-9"><speaker>CASTLE</speaker><content>No. But according to procedure isn’t Angela supposed to be there backing him up?</content></utterance>
+<utterance uid="35-10"><speaker>KIM</speaker><content>Yes, but I needed her up here checking protocols. That hardly makes me a murderer. And I hardly even left the module, so I – I couldn’t have planted the murder weapon in the tunnel.</content></utterance>
+<utterance uid="35-11"><speaker>CASTLE</speaker><content>No. But Dr. Haroum and Angela could have done that.</content></utterance>
+<utterance uid="35-12"><speaker>BECKETT</speaker><content>The two of you were outside, together, for ten minutes.</content></utterance>
+<utterance uid="35-13"><speaker>HAROUM</speaker><content>Yes, checking on Tom and restoring the power.</content></utterance>
+<utterance uid="35-14"><speaker>CASTLE</speaker><content>While all the cameras were down, giving you enough time to ditch the murder weapon and clean any forensic evidence off the rover.</content></utterance>
+<utterance uid="35-15"><speaker>ANGELA</speaker><content>That’s ridiculous. Are you just going to go after us one by one? I was with Rusham the whole time. He didn’t go anywhere near the rover.</content></utterance>
+<utterance uid="35-16"><speaker>HAROUM</speaker><content>And neither did Angela.</content></utterance>
+<utterance uid="35-17"><speaker>BECKETT</speaker><content>And that’s what makes this crime so clever. From the beginning the three of you have been able to alibi each other out. Because you were all in on it together.</content></utterance>
+<utterance uid="35-18"><speaker>CASTLE</speaker><content>It would have taken the three of you colluding to convince MIRA that Tom was threatening the mission.</content></utterance>
+<utterance uid="35-19"><speaker>BECKETT</speaker><content>And given the way you felt about Tom, you knew that the team couldn’t survive with him on it. He was a threat. Especially on a hostile planet.</content></utterance>
+<utterance uid="35-20"><speaker>CASTLE</speaker><content>So, after six months of being locked up in this tin can together, you decided that rather than sacrifice you chance at being the first human beings to stand on Mars, you would put your shot at immortality ahead of another man’s life.</content></utterance>
+<utterance uid="35-21"><speaker>KIM</speaker><content>That’s a fascinating theory. But with MIRA’s memory gone you have no proof.</content></utterance>
+<utterance uid="35-22"><speaker>BECKETT</speaker><content>You know, that’s what we thought as well. Until Dr. Jansen told us about MIRA’s black box.</content></utterance>
+<utterance uid="35-23"><speaker>CASTLE</speaker><content>In the event of a catastrophic failure she pulses all her data to the nearest satellite. All your conversations with her, everything that you three did, it’s all there.</content></utterance>
+<utterance uid="35-24"><speaker>BECKETT</speaker><content>So the bad news is, none of you are going to Mars. Good news is the first one to cooperate will get the least amount of jail time.</content></utterance>
+</scene>
+
+<scene id="36"><utterance uid="36-1"><speaker>BECKETT</speaker><content>I just didn’t expect them to cave that quickly. That was a clever ruse, Castle.</content></utterance>
+<utterance uid="36-2"><speaker>CASTLE</speaker><content>I’m just glad it worked. And if there’s not a catastrophic black box satellite … there should be. What do you think is going to happen with Jansen?</content></utterance>
+<utterance uid="36-3"><speaker>BECKETT</speaker><content>Well, he’s a pioneer. He’s a visionary. He may not get there in 2018, but I’m willing to bet he’s going to be the first. So, after all of this, you still want to go to Mars?</content></utterance>
+<utterance uid="36-4"><speaker>CASTLE</speaker><content>Oh, of course. But I think I’m going to wait until they have first class service so we can go together.</content></utterance>
+<utterance uid="36-5"><speaker>BECKETT</speaker><content>Hmm.</content></utterance>
+<utterance uid="36-6"><speaker>CASTLE</speaker><content>You think at any point one of those astronauts turned to the others and said maybe killing Tom is a really bad idea?</content></utterance>
+<utterance uid="36-7"><speaker>BECKETT</speaker><content>I think that when people are stuck together in a small space for a long period of time they lose perspective. Speaking of which, um … wasn’t there supposed to be a family meeting tonight?</content></utterance>
+<utterance uid="36-8"><speaker>MARTHA</speaker><content>There is. I told Alexis she did not need to come because I wanted to talk to the two of you alone. Now, I know that things have been a little frenetic around here, what with Alexis and her friends and the two of you in and out at all sorts of odd hours, and –</content></utterance>
+<utterance uid="36-9"><speaker>CASTLE</speaker><content>You and your new boyfriend doing late night medleys.</content></utterance>
+<utterance uid="36-10"><speaker>MARTHA</speaker><content>Ah, yes, well, there’s that. So I have decided, and I don’t want to upset either one of you, that I am going to look for a place of my own.</content></utterance>
+<utterance uid="36-11"><speaker>CASTLE</speaker><content>To live?</content></utterance>
+<utterance uid="36-12"><speaker>MARTHA</speaker><content>Well, yes. I mean, not right away, of course. It’s going to take me awhile to find exactly the right space.</content></utterance>
+<utterance uid="36-13"><speaker>CASTLE</speaker><content>Mother, I was just calling a family meeting. I didn’t intend for you to move out.</content></utterance>
+<utterance uid="36-14"><speaker>MARTHA</speaker><content>Darling, this is not about you. This is about me. Think of it as kind of an evolution, you know? I’m – I’m starting to do very well for myself and I am guessing that um, before too long there’s going to be a few more little Castle’s creating havoc around here and I think the two of you deserve to have this place to yourselves.</content></utterance>
+<utterance uid="36-15"><speaker>CASTLE</speaker><content>Let me know if there’s anything I can do?</content></utterance>
+<utterance uid="36-16"><speaker>MARTHA</speaker><content>Oh. I will. Okay, I am off. I am spending the evening with Benjamin so don’t wait up.  Bye!</content></utterance>
+<utterance uid="36-17"><speaker>BECKETT</speaker><content>I did not expect that.</content></utterance>
+<utterance uid="36-18"><speaker>CASTLE</speaker><content> Unexpected is her specialty.</content></utterance>
+<utterance uid="36-19"><speaker>BECKETT</speaker><content> It’s so quiet.</content></utterance>
+<utterance uid="36-20"><speaker>CASTLE</speaker><content>It’s really, really quiet.</content></utterance>
+<utterance uid="36-21"><speaker>CASTLE</speaker><content>Maybe we should go out.</content></utterance>
+<utterance uid="36-22"><speaker>BECKETT</speaker><content>Oh, there’s a great Indian restaurant that just opened up around the corner. Fantastic atmosphere.</content></utterance>
+<utterance uid="36-23"><speaker>BECKETT</speaker><content>It’s loud. Super loud. A lot of people. Lots and lots of people.</content></utterance>
+</scene>
+
+</script>

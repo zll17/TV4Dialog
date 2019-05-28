@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>MAN</speaker><content>I have to laugh at her jokes. She's my boss.</content></utterance>
+<utterance uid="1-2"><speaker>WOMAN</speaker><content>Do you have to stare at her boobs, too?</content></utterance>
+<utterance uid="1-3"><speaker>MAN</speaker><content>I wasn't. She had a stain.</content></utterance>
+<utterance uid="1-4"><speaker>WOMAN</speaker><content>And you were trying to memorize the shape?</content></utterance>
+<utterance uid="1-5"><speaker>MAN</speaker><content>What? No. I swear. If I'm lying, may God strike me down...</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>ALEXIS</speaker><content>Yeah, I want to, I just... I don't know. Yes, I... I can't tell him. He'll freak. He will.</content></utterance>
+<utterance uid="2-2"><speaker>ALEXIS</speaker><content>I gotta go.</content></utterance>
+<utterance uid="2-3"><speaker>CASTLE</speaker><content>Who'll freak?</content></utterance>
+<utterance uid="2-4"><speaker>ALEXIS</speaker><content>What?</content></utterance>
+<utterance uid="2-5"><speaker>CASTLE</speaker><content>Who's gonna freak?</content></utterance>
+<utterance uid="2-6"><speaker>ALEXIS</speaker><content>Oh, um... someone from school. You don't know them.</content></utterance>
+<utterance uid="2-7"><speaker>CASTLE</speaker><content>Are you sure?</content></utterance>
+<utterance uid="2-8"><speaker>ALEXIS</speaker><content>Mm-hmm.</content></utterance>
+<utterance uid="2-9"><speaker>CASTLE</speaker><content>But I thought I knew all your friends.</content></utterance>
+<utterance uid="2-10"><speaker>ALEXIS</speaker><content>Hey, I'm sorry, Dad, but I have a ton of schoolwork.</content></utterance>
+<utterance uid="2-11"><speaker>CASTLE</speaker><content>Oh. No, yeah. Hey, uh, you know you could tell me anything, right?</content></utterance>
+<utterance uid="2-12"><speaker>ALEXIS</speaker><content>Yeah.</content></utterance>
+<utterance uid="2-13"><speaker>CASTLE</speaker><content>Castle.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>MAN</speaker><content>A body falls out of the sky and somehow that's my fault?</content></utterance>
+<utterance uid="3-2"><speaker>BECKETT</speaker><content>Hey, Castle. I hope we didn't take you away from something important. Or someone.</content></utterance>
+<utterance uid="3-3"><speaker>CASTLE</speaker><content>Did you ever keep secrets from your dad?</content></utterance>
+<utterance uid="3-4"><speaker>BECKETT</speaker><content>Sure.</content></utterance>
+<utterance uid="3-5"><speaker>CASTLE</speaker><content>What kind?</content></utterance>
+<utterance uid="3-6"><speaker>BECKETT</speaker><content>Do you really want to know?</content></utterance>
+<utterance uid="3-7"><speaker>CASTLE</speaker><content>About your secrets? Absolutely. About my daughter's...? You know what, I'm sure it's nothing. Alexis would never keep anything serious from me. I'm the cool dad.</content></utterance>
+<utterance uid="3-8"><speaker>BECKETT</speaker><content>Uh-huh.</content></utterance>
+<utterance uid="3-9"><speaker>BECKETT</speaker><content>Sir, what are you doing here?</content></utterance>
+<utterance uid="3-10"><speaker>MONTGOMERY</speaker><content>Victim's Jack Buckley.</content></utterance>
+<utterance uid="3-11"><speaker>CASTLE</speaker><content>Who's Jack Buckley?</content></utterance>
+<utterance uid="3-12"><speaker>MONTGOMERY</speaker><content>An assistant district attorney. One of the good guys. Buckley hated making deals, loved putting bad guys behind bars.</content></utterance>
+<utterance uid="3-13"><speaker>BECKETT</speaker><content>He's the lawyer every cop wanted prosecuting their case.</content></utterance>
+<utterance uid="3-14"><speaker>ESPOSITO</speaker><content>Well, looks like he didn't go down without a fight.</content></utterance>
+<utterance uid="3-15"><speaker>RYAN</speaker><content>Yeah, his jacket was torn. Found his briefcase up on the roof along with his left shoe. CSU is doing a full sweep.</content></utterance>
+<utterance uid="3-16"><speaker>CASTLE</speaker><content>Well, Jack's a big boy. Whoever did it must be strong. Wait, I know what this is. Lawyer puts criminal in jail, criminal feels wronged, criminal kills lawyer. It's Cape Fear.</content></utterance>
+<utterance uid="3-17"><speaker>BECKETT</speaker><content>Any idea what he was doing up there?</content></utterance>
+<utterance uid="3-18"><speaker>ESPOSITO</speaker><content>No. I talked to his secretary and she said Buckley left work around eight, heading straight home, which is on the West Side.</content></utterance>
+<utterance uid="3-19"><speaker>RYAN</speaker><content>And get this, Buckley was a subway rider. He didn't own a car.</content></utterance>
+<utterance uid="3-20"><speaker>CASTLE</speaker><content>Then what's he doing in a parking garage on the East Side?</content></utterance>
+<utterance uid="3-21"><speaker>MONTGOMERY</speaker><content>It's a good question.</content></utterance>
+<utterance uid="3-22"><speaker>BECKETT</speaker><content>Was Buckley married?</content></utterance>
+<utterance uid="3-23"><speaker>RYAN</speaker><content>Divorced. Ex-wife lives in California.</content></utterance>
+<utterance uid="3-24"><speaker>BECKETT</speaker><content>Reach out to his wife. Let's start looking into his personal life and see what we can find.</content></utterance>
+<utterance uid="3-25"><speaker>MONTGOMERY</speaker><content>The mayor wants this solved quickly. Nobody kills a law enforcement officer and gets away with it.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>NICOLE</speaker><content>I just can't believe that he's dead.</content></utterance>
+<utterance uid="4-2"><speaker>BECKETT</speaker><content>And you have no idea why he was in the garage?</content></utterance>
+<utterance uid="4-3"><speaker>NICOLE</speaker><content>No.</content></utterance>
+<utterance uid="4-4"><speaker>SCARLETT PRICE</speaker><content>Here are the print-outs of Mr. Buckley's cases you wanted.</content></utterance>
+<utterance uid="4-5"><speaker>CASTLE</speaker><content>Thanks. I'm telling you, this Cape Fear list is going to be a gold mine of suspects. Check out this guy. Archibald Spinks. Five counts of attempted murder, one count of indecent exposure. You don't suppose he tried to kill them with his... Yeah, that wouldn't work.</content></utterance>
+<utterance uid="4-6"><speaker>BECKETT</speaker><content>Had Mr. Buckley ever received any threats? Any prosecutions that went ugly?</content></utterance>
+<utterance uid="4-7"><speaker>NICOLE</speaker><content>Well, he didn't think he was doing his job right if he wasn't being threatened. But nothing recently, no.</content></utterance>
+<utterance uid="4-8"><speaker>SCARLETT PRICE</speaker><content>He did seem to be upset the past few days.</content></utterance>
+<utterance uid="4-9"><speaker>CASTLE</speaker><content>Any idea why?</content></utterance>
+<utterance uid="4-10"><speaker>SCARLETT PRICE</speaker><content>No.</content></utterance>
+<utterance uid="4-11"><speaker>NICOLE</speaker><content>You know, there was that man the police brought in.</content></utterance>
+<utterance uid="4-12"><speaker>BECKETT</speaker><content>What man?</content></utterance>
+<utterance uid="4-13"><speaker>NICOLE</speaker><content>It was right after lunch on Monday. A cop brought in a tough-looking guy in handcuffs. Took him right into Mr. Buckley's office, and then waited outside.</content></utterance>
+<utterance uid="4-14"><speaker>SCARLETT PRICE</speaker><content>Yeah, we heard them yelling through the door, and then the officer took him away.</content></utterance>
+<utterance uid="4-15"><speaker>CASTLE</speaker><content>That kind of thing happen a lot?</content></utterance>
+<utterance uid="4-16"><speaker>SCARLETT PRICE</speaker><content>Never.</content></utterance>
+<utterance uid="4-17"><speaker>BECKETT</speaker><content>Do you remember the officer's name?</content></utterance>
+<utterance uid="4-18"><speaker>NICOLE</speaker><content>Yeah. Frank... Frank... Frank Curtis.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>BECKETT</speaker><content>Curtis doesn't remember why Buckley asked him to bring the guy in, but he does remember his name. John Knox. Dozens of priors. Uniforms are bringing him in.</content></utterance>
+<utterance uid="5-2"><speaker>CASTLE</speaker><content>I'm guessing this guy isn't exactly an altar boy.</content></utterance>
+<utterance uid="5-3"><speaker>BECKETT</speaker><content>You think? Come on, let's go.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>BECKETT</speaker><content>You've got quite a record, Mr. Knox.</content></utterance>
+<utterance uid="6-2"><speaker>CASTLE</speaker><content>Your parents must be proud.</content></utterance>
+<utterance uid="6-3"><speaker>JOHN KNOX</speaker><content>Yeah, they hang all my mug-shots on the fridge. Can we cut to the chase?</content></utterance>
+<utterance uid="6-4"><speaker>BECKETT</speaker><content>Two days ago, you had an argument with Buckley in his office. Last night, we found him dead, so you can understand our interest.</content></utterance>
+<utterance uid="6-5"><speaker>JOHN KNOX</speaker><content>Sure. But you're wasting your time. I didn't kill the guy.</content></utterance>
+<utterance uid="6-6"><speaker>BECKETT</speaker><content>Really? Because it says here that you have quite a history of trying to kill people. Three in the last two years. Or am I missing any?</content></utterance>
+<utterance uid="6-7"><speaker>JOHN KNOX</speaker><content>I was never convicted of anything.</content></utterance>
+<utterance uid="6-8"><speaker>BECKETT</speaker><content>That's not exactly a denial.</content></utterance>
+<utterance uid="6-9"><speaker>CASTLE</speaker><content>Do you work out? You know, bench press? Dead lift? Must take a lot of upper-body strength to throw a guy off a roof.</content></utterance>
+<utterance uid="6-10"><speaker>JOHN KNOX</speaker><content>Who is this guy?</content></utterance>
+<utterance uid="6-11"><speaker>BECKETT</speaker><content>What did you and Buckley fight about?</content></utterance>
+<utterance uid="6-12"><speaker>JOHN KNOX</speaker><content>Look, he had it out for me because he put me on trial for an assault I didn't commit and he lost. And rather than being a man about it, he decided to rattle my cage, to show me who was the alpha male. So, yeah, it was annoying and childish, but not something you kill a guy over. Especially a DA. Now, I may be a criminal, but I'm not stupid.</content></utterance>
+<utterance uid="6-13"><speaker>BECKETT</speaker><content>Do you have an alibi for Buckley's murder?</content></utterance>
+<utterance uid="6-14"><speaker>JOHN KNOX</speaker><content>I don't know. What time was he killed?</content></utterance>
+<utterance uid="6-15"><speaker>BECKETT</speaker><content>9:30 p.m.</content></utterance>
+<utterance uid="6-16"><speaker>JOHN KNOX</speaker><content>I was at an AA meeting.</content></utterance>
+<utterance uid="6-17"><speaker>BECKETT</speaker><content>Anonymous. That's cute.</content></utterance>
+<utterance uid="6-18"><speaker>JOHN KNOX</speaker><content>You don't believe me? Mmm. Well, then maybe you'll believe my sponsor. Reverend Daniel Miller.</content></utterance>
+<utterance uid="6-19"><speaker>CASTLE</speaker><content>Did you say "Reverend"?</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>MONTGOMERY</speaker><content>So, where are we with Knox?</content></utterance>
+<utterance uid="7-2"><speaker>RYAN</speaker><content>Alibi looks solid. Castle and Beckett are interviewing the good Reverend right now.</content></utterance>
+<utterance uid="7-3"><speaker>MONTGOMERY</speaker><content>What about forensics?</content></utterance>
+<utterance uid="7-4"><speaker>RYAN</speaker><content>Looks like a bust. But I did find something interesting when I checked into Buckley's MetroCard history. His card only made two swipes a day for the whole month. 6 a.m. at the subway by his apartment, 8 p.m. by his office.</content></utterance>
+<utterance uid="7-5"><speaker>MONTGOMERY</speaker><content>Buckley lived for the job, especially after the divorce. Probably trying to lose himself in the work.</content></utterance>
+<utterance uid="7-6"><speaker>RYAN</speaker><content>On the day he was killed, Buckley did something unusual. He made an extra trip up to West 77th Street before he went to work. His secretary has no idea why.</content></utterance>
+<utterance uid="7-7"><speaker>MONTGOMERY</speaker><content>See if you can find out.</content></utterance>
+<utterance uid="7-8"><speaker>ESPOSITO</speaker><content>Yo, Cap, looks like somebody was following our boy Buckley. The doorman in his apartment said that a guy came in there two days ago demanding to talk to Buckley. Wouldn't take no for an answer. Doorman practically had to throw the guy out. Then, on the morning of Buckley's murder, the doorman swears that he saw the same guy hanging around outside the building. I snagged a photo off the video surveillance.</content></utterance>
+<utterance uid="7-9"><speaker>MONTGOMERY</speaker><content>Start looking through some mug-shot books.</content></utterance>
+<utterance uid="7-10"><speaker>BECKETT</speaker><content>Thank you, Reverend.</content></utterance>
+<utterance uid="7-11"><speaker>CASTLE</speaker><content>Pleasure meeting you. Thanks.</content></utterance>
+<utterance uid="7-12"><speaker>BECKETT</speaker><content>Is this for our case?</content></utterance>
+<utterance uid="7-13"><speaker>ESPOSITO</speaker><content>Yeah, the guy who tried to hassle Buckley at his building.</content></utterance>
+<utterance uid="7-14"><speaker>CASTLE</speaker><content>Wait a second. I know this guy. Yes, my Cape Fear file. Ow!</content></utterance>
+<utterance uid="7-15"><speaker>CASTLE</speaker><content>Right here. Right here. His name is Norman Jessup. Buckley got him four years ago in a bank robbery where a guard got shot. See, I told you this file would solve this case.</content></utterance>
+<utterance uid="7-16"><speaker>ESPOSITO</speaker><content>Says here, he got out two weeks ago his conviction was overturned, by the appellate court on a technicality.</content></utterance>
+<utterance uid="7-17"><speaker>BECKETT</speaker><content>That sounds like a reason for Jessup to celebrate, not to kill Buckley.</content></utterance>
+<utterance uid="7-18"><speaker>ESPOSITO</speaker><content>Yeah, except Buckley already filed an Intent to Retry. Jessup was looking at another two years in jail if Buckley won.</content></utterance>
+<utterance uid="7-19"><speaker>RYAN</speaker><content>Well, that might have made Jessup a little mad.</content></utterance>
+<utterance uid="7-20"><speaker>CASTLE</speaker><content>Right, and then it's all, "Come out, come out, wherever you are."</content></utterance>
+<utterance uid="7-21"><speaker>RYAN</speaker><content>Really? That's your De Niro?</content></utterance>
+<utterance uid="7-22"><speaker>BECKETT</speaker><content>Get a current address and a list of known associates. I'd like to hear what Jessup has to say.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>JESSUP</speaker><content>Wait, wait! You got it all wrong.</content></utterance>
+<utterance uid="8-2"><speaker>BECKETT</speaker><content>Hey, come on. Police, break it up!</content></utterance>
+<utterance uid="8-3"><speaker>WOMAN</speaker><content>Watch it!</content></utterance>
+<utterance uid="8-4"><speaker>MAN</speaker><content>Take it outside!</content></utterance>
+<utterance uid="8-5"><speaker>CASTLE</speaker><content>Aren't you going to do something?</content></utterance>
+<utterance uid="8-6"><speaker>BECKETT</speaker><content>Breaking up a bar fight is a sure way to get hit. Don't worry, it'll be over in a minute.</content></utterance>
+<utterance uid="8-7"><speaker>CASTLE</speaker><content>You know, I was in a bar fight once.</content></utterance>
+<utterance uid="8-8"><speaker>BECKETT</speaker><content>Really? Who won?</content></utterance>
+<utterance uid="8-9"><speaker>BECKETT</speaker><content>Let me guess.</content></utterance>
+<utterance uid="8-10"><speaker>BECKETT</speaker><content>Not you.</content></utterance>
+<utterance uid="8-11"><speaker>BECKETT</speaker><content>You want to fight, Mr. Jessup? You can fight a murder charge.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>JESSUP</speaker><content>Hey, I'm sorry, man. I didn't mean to embarrass you in front of your girlfriend there.</content></utterance>
+<utterance uid="9-2"><speaker>BECKETT</speaker><content>I'm not his girlfriend. I am a homicide detective. And you should be taking this a little bit more seriously.</content></utterance>
+<utterance uid="9-3"><speaker>JESSUP</speaker><content>Hey, that guy in that bar, he started this whole thing, okay? He thought I was hitting on his girlfriend, and I was not hitting on his girlfriend. It was just a big misunderstanding.</content></utterance>
+<utterance uid="9-4"><speaker>BECKETT</speaker><content>Right. Just like the bank robbery.</content></utterance>
+<utterance uid="9-5"><speaker>JESSUP</speaker><content>Exactly. I had no idea my buddies were gonna rob that bank. No idea at all. They said their car broke down and they needed a ride, and I gave them a ride.</content></utterance>
+<utterance uid="9-6"><speaker>CASTLE</speaker><content>And that argument didn't sway Buckley?</content></utterance>
+<utterance uid="9-7"><speaker>JESSUP</speaker><content>Can you believe it? He told my lawyer that the guard got shot, and therefore, in the eyes of the law, I was just as responsible as the guy who shot him.</content></utterance>
+<utterance uid="9-8"><speaker>BECKETT</speaker><content>That must've made you angry. How'd you feel about the fact that Buckley was gonna retry your case and try to make you serve the final two years of your sentence?</content></utterance>
+<utterance uid="9-9"><speaker>JESSUP</speaker><content>Honestly, lady, I cried like a baby.</content></utterance>
+<utterance uid="9-10"><speaker>BECKETT</speaker><content/></utterance>
+<utterance uid="9-11"><speaker>JESSUP</speaker><content>Prison is not fun, okay. I did not want to go back. I figured if I could just talk to Mr. Buckley, I could let him know where I'm coming from.</content></utterance>
+<utterance uid="9-12"><speaker>BECKETT</speaker><content>Which is what you were doing at Buckley's building.</content></utterance>
+<utterance uid="9-13"><speaker>JESSUP</speaker><content>Whoa, whoa. I followed the man around for a few days, okay. Just so I could get my courage up to talk to him.</content></utterance>
+<utterance uid="9-14"><speaker>BECKETT</speaker><content>You were stalking Buckley?</content></utterance>
+<utterance uid="9-15"><speaker>JESSUP</speaker><content>"Stalking" is a pretty damn ugly word. Let's not use "stalking," okay? I was just trying to feel the guy out, you know what I mean? Trying to convince him, you know. In case you guys haven't noticed, I'm somewhat of a wordsmith, you know. A real master of, uh, you know, of, uh...</content></utterance>
+<utterance uid="9-16"><speaker>CASTLE</speaker><content>Words?</content></utterance>
+<utterance uid="9-17"><speaker>BECKETT</speaker><content>Where were you between nine and ten last night?</content></utterance>
+<utterance uid="9-18"><speaker>JESSUP</speaker><content>I was sitting in the bar you guys just dragged me out of.</content></utterance>
+<utterance uid="9-19"><speaker>BECKETT</speaker><content>Okay. Well, we're going to check into your alibi. In the meantime, you're going back into holding until we can process you for assault.</content></utterance>
+<utterance uid="9-20"><speaker>JESSUP</speaker><content>Oh, oh! Come on! I said I was sorry!</content></utterance>
+<utterance uid="9-21"><speaker>CASTLE</speaker><content>Wait, Buckley's mystery trip. Were you following Buckley uptown yesterday morning?</content></utterance>
+<utterance uid="9-22"><speaker>JESSUP</speaker><content>Yeah, yeah, I was.</content></utterance>
+<utterance uid="9-23"><speaker>BECKETT</speaker><content>Where did he go?</content></utterance>
+<utterance uid="9-24"><speaker>JESSUP</speaker><content>He met some Asian dude outside this real fancy apartment building. then they started to argue with each other. You think maybe that's the guy who killed him?</content></utterance>
+<utterance uid="9-25"><speaker>CASTLE</speaker><content>Would you recognize the building if you saw it again?</content></utterance>
+<utterance uid="9-26"><speaker>JESSUP</speaker><content>Oh, yeah. I get around.</content></utterance>
+<utterance uid="9-27"><speaker>CASTLE</speaker><content>Road trip.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>JESSUP</speaker><content>Hey, you guys mind if I take these things off? I'm starting to feel like a stereotype riding around in the back of a police car wearing them.</content></utterance>
+<utterance uid="10-2"><speaker>BECKETT</speaker><content>Sure. Do you want my key?</content></utterance>
+<utterance uid="10-3"><speaker>JESSUP</speaker><content>No. I got it. Thanks.</content></utterance>
+<utterance uid="10-4"><speaker>CASTLE</speaker><content>How did you do that?</content></utterance>
+<utterance uid="10-5"><speaker>JESSUP</speaker><content>I've always been good with locks. When I was in the joint, I was thinking, "How can I take this and make it more productive?" you know. So I've been applying to locksmith schools. But, you know, they won't let me in on account that I'm a felon. Can you believe that? Huh.</content></utterance>
+<utterance uid="10-6"><speaker>BECKETT</speaker><content>Felon who wants to be a locksmith. What could possibly go wrong there?</content></utterance>
+<utterance uid="10-7"><speaker>JESSUP</speaker><content>You don't have to be mean about it.</content></utterance>
+<utterance uid="10-8"><speaker>CASTLE</speaker><content>Yeah, wow.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>JESSUP</speaker><content>To train to be a locksmith you got to listen, left over right, right over left...</content></utterance>
+<utterance uid="11-2"><speaker>CASTLE</speaker><content>I think I made it tighter.</content></utterance>
+<utterance uid="11-3"><speaker>BECKETT</speaker><content>Jessup, do you see the building?</content></utterance>
+<utterance uid="11-4"><speaker>JESSUP</speaker><content>Uh, that's a negative.</content></utterance>
+<utterance uid="11-5"><speaker>JESSUP</speaker><content>Now bring it around...</content></utterance>
+<utterance uid="11-6"><speaker>BECKETT</speaker><content>Beckett. Oh, hey, Alexis. Uh, are you looking for your dad? To me? Okay, what's up? Yeah, yeah, we can meet at Sutton's around 7:30. Is that okay? All right, I'll see you then.</content></utterance>
+<utterance uid="11-7"><speaker>CASTLE</speaker><content>Was that Alexis calling you? Why?</content></utterance>
+<utterance uid="11-8"><speaker>BECKETT</speaker><content>She needed my advice.</content></utterance>
+<utterance uid="11-9"><speaker>CASTLE</speaker><content>About what?</content></utterance>
+<utterance uid="11-10"><speaker>BECKETT</speaker><content>I don't know. It's probably no big deal.</content></utterance>
+<utterance uid="11-11"><speaker>CASTLE</speaker><content>When you kept secrets from your father, was it not a big deal?</content></utterance>
+<utterance uid="11-12"><speaker>BECKETT</speaker><content>You know, I'm not even going to ask.</content></utterance>
+<utterance uid="11-13"><speaker>JESSUP</speaker><content>That's the building on the right hand side. Right there.</content></utterance>
+<utterance uid="11-14"><speaker>BECKETT</speaker><content>Okay.</content></utterance>
+<utterance uid="11-15"><speaker>JESSUP</speaker><content>Let's go get 'em.</content></utterance>
+<utterance uid="11-16"><speaker>BECKETT</speaker><content>Not you. Us.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>BECKETT</speaker><content>Apartment 801? Okay. Thanks.</content></utterance>
+<utterance uid="12-2"><speaker>BECKETT</speaker><content>So it turns out that the building's only Asian tenant is Paul Cho, who just happened to be Buckley's ex-brother-in-law.</content></utterance>
+<utterance uid="12-3"><speaker>CASTLE</speaker><content>Oh. Well, maybe it's not Cape Fear then. Maybe it's Family Feud. Maybe Buckley's bitter divorce caused enough hard feelings that things turned violent.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>PAUL CHO</speaker><content>I don't understand. I haven't seen Jack in months. Not since he divorced my sister.</content></utterance>
+<utterance uid="13-2"><speaker>BECKETT</speaker><content>Really? Because I have an eyewitness who saw the two of you arguing yesterday morning. So, that means you're lying to me.</content></utterance>
+<utterance uid="13-3"><speaker>CASTLE</speaker><content>She hates being lied to.</content></utterance>
+<utterance uid="13-4"><speaker>PAUL CHO</speaker><content>I don't know what you're talking about.</content></utterance>
+<utterance uid="13-5"><speaker>BECKETT</speaker><content>Great. Let's go down to the precinct. I'll arrange a perp walk and you can put on a show for the cameras.</content></utterance>
+<utterance uid="13-6"><speaker>CASTLE</speaker><content>Love a good perp walk.</content></utterance>
+<utterance uid="13-7"><speaker>PAUL CHO</speaker><content>Wait, wait, wait, wait.</content></utterance>
+<utterance uid="13-8"><speaker>PAUL CHO</speaker><content>The night before last, I was attacked by a man in a ski mask. He warned me to tell Buckley to back off Danton or he would ruin me.</content></utterance>
+<utterance uid="13-9"><speaker>BECKETT</speaker><content>Who's Danton?</content></utterance>
+<utterance uid="13-10"><speaker>PAUL CHO</speaker><content>I don't know, but Jack definitely knew him. He said he wasn't going to let him get away with this. That's why we were fighting. I told Jack to listen for once in his life. He had to protect me.</content></utterance>
+<utterance uid="13-11"><speaker>BECKETT</speaker><content>From what?</content></utterance>
+<utterance uid="13-12"><speaker>PAUL CHO</speaker><content>That's none of your business.</content></utterance>
+<utterance uid="13-13"><speaker>BECKETT</speaker><content>Perp walk it is.</content></utterance>
+<utterance uid="13-14"><speaker>PAUL CHO</speaker><content>All right, all right. I have a slight fondness for girls.</content></utterance>
+<utterance uid="13-15"><speaker>CASTLE</speaker><content>Young girls? Fat girls? School girls?</content></utterance>
+<utterance uid="13-16"><speaker>PAUL CHO</speaker><content>Call girls.</content></utterance>
+<utterance uid="13-17"><speaker>BECKETT</speaker><content>Who else knows about this fondness?</content></utterance>
+<utterance uid="13-18"><speaker>PAUL CHO</speaker><content>Just the girls.</content></utterance>
+<utterance uid="13-19"><speaker>CASTLE</speaker><content>Actually, the girls and their pimp.</content></utterance>
+<utterance uid="13-20"><speaker>BECKETT</speaker><content>Whose name is probably Danton.</content></utterance>
+<utterance uid="13-21"><speaker>PAUL CHO</speaker><content>Oh, okay, fine. But I wasn't really lying. I... I've actually never met Danton. I got the phone number for the agency from a friend. I call it and they send over a girl.</content></utterance>
+<utterance uid="13-22"><speaker>CASTLE</speaker><content>So, Buckley is investigating Danton's call-girl ring. When Danton discovers that Buckley's brother-in-law is a client, he sends a message, "Back off, or your family gets hurt."</content></utterance>
+<utterance uid="13-23"><speaker>BECKETT</speaker><content>And then, when Buckley doesn't back down, Danton kills him.</content></utterance>
+<utterance uid="13-24"><speaker>CASTLE</speaker><content>So, how do we find Danton?</content></utterance>
+<utterance uid="13-25"><speaker>BECKETT</speaker><content>We talk to one of the call girls.</content></utterance>
+<utterance uid="13-26"><speaker>BECKETT</speaker><content>Call that number and tell him to bring one of his girls over.</content></utterance>
+<utterance uid="13-27"><speaker>CASTLE</speaker><content>And tell her to wear something sexy. No reason we can't enjoy this interview.</content></utterance>
+<utterance uid="13-28"><speaker>SCARLETT PRICE</speaker><content>Hey, Paul. Couldn't wait to see me, huh?</content></utterance>
+<utterance uid="13-29"><speaker>BECKETT</speaker><content>Actually, I'm the one who asked for the date.</content></utterance>
+<utterance uid="13-30"><speaker>CASTLE</speaker><content>Isn't that the girl from Buckley's office? Did she look like that before?</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>CASTLE</speaker><content>So, how exactly does a call girl end up working for Jack Buckley, Super DA?</content></utterance>
+<utterance uid="14-2"><speaker>SCARLETT PRICE</speaker><content>Am I under arrest?</content></utterance>
+<utterance uid="14-3"><speaker>BECKETT</speaker><content>You will be if you don't answer the question.</content></utterance>
+<utterance uid="14-4"><speaker>SCARLETT PRICE</speaker><content>Jack was a client.</content></utterance>
+<utterance uid="14-5"><speaker>BECKETT</speaker><content>I-- I'm sorry, Scarlett, I don't believe that.</content></utterance>
+<utterance uid="14-6"><speaker>SCARLETT PRICE</speaker><content>I started seeing him about a year ago. He hadn't been with anyone since his divorce. He was just lonely, you know? We'd spend most of his dates talking. He'd take me to fancy restaurants, even though I told him he didn't have to. But I think he wanted to make it feel as normal as possible. Then one night he saw a law book in my bag. I told him I was only working as an escort to pay my way through law school. A few months later, he said he had an internship opening up in his office. Would I be interested?</content></utterance>
+<utterance uid="14-7"><speaker>BECKETT</speaker><content>He wanted to help you escape the life?</content></utterance>
+<utterance uid="14-8"><speaker>CASTLE</speaker><content>Who's Danton?</content></utterance>
+<utterance uid="14-9"><speaker>SCARLETT PRICE</speaker><content>I don't know.</content></utterance>
+<utterance uid="14-10"><speaker>BECKETT</speaker><content>Don't lie to us, Scarlett.</content></utterance>
+<utterance uid="14-11"><speaker>SCARLETT PRICE</speaker><content>I'm not. I know he runs the business, but I've never met him. It's not like I'm a street walker and he's in a fedora and a long fur coat. He's organized the entire operation to protect his identity. The girls are independent contractors. The clients are all given numbers so we don't know their last names. They pay the business by credit card, and our fees get deposited directly into our bank accounts.</content></utterance>
+<utterance uid="14-12"><speaker>CASTLE</speaker><content>Creating the perfect firewall between the girls and the management.</content></utterance>
+<utterance uid="14-13"><speaker>BECKETT</speaker><content>So, then when we arrest you, you can't give up Danton.</content></utterance>
+<utterance uid="14-14"><speaker>SCARLETT PRICE</speaker><content>Because I don't know who he is.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>MONTGOMERY</speaker><content>I can't believe Jack Buckley was seeing prostitutes.</content></utterance>
+<utterance uid="15-2"><speaker>BECKETT</speaker><content>Yeah, well, he worked 14 hours a day. Didn't have a social life. Maybe he just wanted a little easy company.</content></utterance>
+<utterance uid="15-3"><speaker>CASTLE</speaker><content>Well, the math just doesn't add up, though. Buckley was warned to back off Danton. Why would Buckley be investigating a call girl service he was using?</content></utterance>
+<utterance uid="15-4"><speaker>BECKETT</speaker><content>Maybe Danton tried to blackmail Buckley and it backfired.</content></utterance>
+<utterance uid="15-5"><speaker>CASTLE</speaker><content>So, then Danton tried to scare Buckley by threatening his brother-in-law. And then when that didn't work, Danton killed Buckley.</content></utterance>
+<utterance uid="15-6"><speaker>MONTGOMERY</speaker><content>All right. Let's find out everything we can about this Danton character. Have Ryan and Esposito reach out to Vice in the morning.</content></utterance>
+<utterance uid="15-7"><speaker>BECKETT</speaker><content>Yes, sir.</content></utterance>
+<utterance uid="15-8"><speaker>BECKETT</speaker><content>Castle, I need you to sign these charges against Jessup, so I can send him downtown.</content></utterance>
+<utterance uid="15-9"><speaker>BECKETT</speaker><content>What? No. Don't tell me you've got a soft spot for this guy.</content></utterance>
+<utterance uid="15-10"><speaker>CASTLE</speaker><content>He's a wordsmith.</content></utterance>
+<utterance uid="15-11"><speaker>BECKETT</speaker><content>Okay, fine.</content></utterance>
+<utterance uid="15-12"><speaker>BECKETT</speaker><content>Hi, it's Beckett. Uh, charges are being dropped against Jessup. Process him out. All right, thank you.  I hope the two of you are very happy together.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>CASTLE</speaker><content>Are you okay?</content></utterance>
+<utterance uid="16-2"><speaker>SCARLETT PRICE</speaker><content>No. I broke a heel.</content></utterance>
+<utterance uid="16-3"><speaker>CASTLE</speaker><content>Let me guess. They were your favorite pair. Passed through your family for generations.</content></utterance>
+<utterance uid="16-4"><speaker>SCARLETT PRICE</speaker><content>My great-great-grandmother wore them over on the Mayflower.</content></utterance>
+<utterance uid="16-5"><speaker>CASTLE</speaker><content>I knew it. So, what's a nice girl like you...</content></utterance>
+<utterance uid="16-6"><speaker>SCARLETT PRICE</speaker><content>Really? That's your line?</content></utterance>
+<utterance uid="16-7"><speaker>CASTLE</speaker><content>I'm old-fashioned.</content></utterance>
+<utterance uid="16-8"><speaker>SCARLETT PRICE</speaker><content>I came to New York in this ancient blue Beetle. The floor was so rusted, it literally sagged in the middle. But I can still remember coming over the bridge, and seeing the city right there in front of me. I thought everything was going to be perfect.</content></utterance>
+<utterance uid="16-9"><speaker>CASTLE</speaker><content>Something tells me this story takes a turn for the worse.</content></utterance>
+<utterance uid="16-10"><speaker>SCARLETT PRICE</speaker><content>The first night, somebody broke into my car and stole all my stuff. Then, the college friend I was going to stay with told me her boyfriend was moving in. I had to find another place.</content></utterance>
+<utterance uid="16-11"><speaker>CASTLE</speaker><content>Oh.</content></utterance>
+<utterance uid="16-12"><speaker>SCARLETT PRICE</speaker><content>But somehow I survived. Spent a year barely eating, living in a closet. When a friend mentioned doing this, I thought, "It couldn't be worse."</content></utterance>
+<utterance uid="16-13"><speaker>CASTLE</speaker><content>And is it?</content></utterance>
+<utterance uid="16-14"><speaker>SCARLETT PRICE</speaker><content>Mostly, no. Thanks for listening.</content></utterance>
+<utterance uid="16-15"><speaker>BECKETT</speaker><content>Night, Castle.</content></utterance>
+<utterance uid="16-16"><speaker>CASTLE</speaker><content>Going to meet Alexis?</content></utterance>
+<utterance uid="16-17"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="16-18"><speaker>CASTLE</speaker><content>Can I come?</content></utterance>
+<utterance uid="16-19"><speaker>BECKETT</speaker><content>No.</content></utterance>
+<utterance uid="16-20"><speaker>CASTLE</speaker><content>But I want to.</content></utterance>
+<utterance uid="16-21"><speaker>BECKETT</speaker><content>Why are you so worried, Castle? I thought you were the cool dad.</content></utterance>
+<utterance uid="16-22"><speaker>CASTLE</speaker><content>I am.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>CASTLE</speaker><content>What's the secret?</content></utterance>
+<utterance uid="17-2"><speaker>MARTHA</speaker><content>All in the breathing, dear.</content></utterance>
+<utterance uid="17-3"><speaker>CASTLE</speaker><content>No. What's Alexis' secret that she'll tell Beckett about, but not me?</content></utterance>
+<utterance uid="17-4"><speaker>MARTHA</speaker><content>I don't know. There are some things a woman wants to talk to another woman about.</content></utterance>
+<utterance uid="17-5"><speaker>CASTLE</speaker><content>The New York Times praised the depth of my female characters.</content></utterance>
+<utterance uid="17-6"><speaker>MARTHA</speaker><content>I know. And I couldn't be prouder, but this is real life. And obviously, Alexis looks up to Beckett, and Beckett's smart and strong and independent.</content></utterance>
+<utterance uid="17-7"><speaker>CASTLE</speaker><content>So are you.</content></utterance>
+<utterance uid="17-8"><speaker>MARTHA</speaker><content>That's sweet. I'm on the wrong side of 40 for what Alexis is going through right now.</content></utterance>
+<utterance uid="17-9"><speaker>CASTLE</speaker><content>Forty?</content></utterance>
+<utterance uid="17-10"><speaker>MARTHA</speaker><content>Deflect all you want, kiddo, but I recognize the fear in your eyes. You're afraid Alexis has more Rick Castle in her than you thought.</content></utterance>
+<utterance uid="17-11"><speaker>CASTLE</speaker><content>Hey, sweetie! How did your talk with Beckett go?</content></utterance>
+<utterance uid="17-12"><speaker>ALEXIS</speaker><content>Fine. She's really nice.</content></utterance>
+<utterance uid="17-13"><speaker>CASTLE</speaker><content>Yeah, she is. You know, sweetheart, if you don't want to tell me what you talked about with Beckett, you don't have to.</content></utterance>
+<utterance uid="17-14"><speaker>ALEXIS</speaker><content>Okay. Thanks, Dad.</content></utterance>
+<utterance uid="17-15"><speaker>MARTHA</speaker><content>What is the matter with you? Why didn't you just ask her?</content></utterance>
+<utterance uid="17-16"><speaker>CASTLE</speaker><content>Because that would be prying. And cool dads don't do that. They go behind their daughter's back and they beg Beckett to tell them.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>RYAN</speaker><content>Did you ever have any cases with Buckley?</content></utterance>
+<utterance uid="18-2"><speaker>ESPOSITO</speaker><content>A few. Guy was wound a little tight if you ask me. Saw himself as a crusader for justice.</content></utterance>
+<utterance uid="18-3"><speaker>GIL MAZZARA</speaker><content>Yo, Esposito.</content></utterance>
+<utterance uid="18-4"><speaker>ESPOSITO</speaker><content>Gil Mazzara. What's up man?</content></utterance>
+<utterance uid="18-5"><speaker>GIL MAZZARA</speaker><content>How're you doing?</content></utterance>
+<utterance uid="18-6"><speaker>ESPOSITO</speaker><content>So, you're still looking at dirty pictures up in Vice?</content></utterance>
+<utterance uid="18-7"><speaker>GIL MAZZARA</speaker><content>Yeah, tell your mom to send over some new ones. The ones I got are getting old.</content></utterance>
+<utterance uid="18-8"><speaker>ESPOSITO</speaker><content>You know my partner, Ryan.</content></utterance>
+<utterance uid="18-9"><speaker>RYAN</speaker><content>Hey.</content></utterance>
+<utterance uid="18-10"><speaker>GIL MAZARRA</speaker><content>Yeah. Honey-milk. Nice to see you. So, uh, I hear you're looking to talk about Danton?</content></utterance>
+<utterance uid="18-11"><speaker>ESPOSITO</speaker><content>Yeah. You know him?</content></utterance>
+<utterance uid="18-12"><speaker>GIL MAZZARA</speaker><content>Yeah. I arrested him five years ago. Real name's Dan Tonelli.</content></utterance>
+<utterance uid="18-13"><speaker>RYAN</speaker><content>Dan-ton.</content></utterance>
+<utterance uid="18-14"><speaker>ESPOSITO</speaker><content>Yeah.</content></utterance>
+<utterance uid="18-15"><speaker>GIL MAZZARA</speaker><content>He's currently serving a seven-year stretch in Green Haven Correctional.</content></utterance>
+<utterance uid="18-16"><speaker>RYAN</speaker><content>Wait a minute. He's still in prison?</content></utterance>
+<utterance uid="18-17"><speaker>GIL MAZZARA</speaker><content>And your boy Buckley put him there.</content></utterance>
+<utterance uid="18-18"><speaker>ESPOSITO</speaker><content>Buckley prosecuted Danton?</content></utterance>
+<utterance uid="18-19"><speaker>GIL MAZZARA</speaker><content>Yeah. And he was all over us to make a rock-solid case. We gave Buckley enough to put the guy away for 20 years.</content></utterance>
+<utterance uid="18-20"><speaker>RYAN</speaker><content>Could Tonelli still be running the operation out of prison?</content></utterance>
+<utterance uid="18-21"><speaker>GIL MAZZARA</speaker><content>Nah. These call girl rings are like franchises. The business changes hands, but the name stays the same.</content></utterance>
+<utterance uid="18-22"><speaker>ESPOSITO</speaker><content>So, who's the new Danton?</content></utterance>
+<utterance uid="18-23"><speaker>GIL MAZZARA</speaker><content>I wish I knew. Guy's like a ghost. Every time we think we're getting close, he disappears. Five warrants in the last year and every time we show up, the place has been cleared out like he knew we were coming.</content></utterance>
+<utterance uid="18-24"><speaker>ESPOSITO</speaker><content>You call the prison, get them to bring Tonelli over here.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>CASTLE</speaker><content>Hey, you guys seen Beckett?</content></utterance>
+<utterance uid="19-2"><speaker>ESPOSITO</speaker><content>She went with the captain to update City Hall on the case. She'll be here in a minute.</content></utterance>
+<utterance uid="19-3"><speaker>RYAN</speaker><content>Something wrong?</content></utterance>
+<utterance uid="19-4"><speaker>CASTLE</speaker><content>No. Yes. I think my daughter might be keeping something from me.</content></utterance>
+<utterance uid="19-5"><speaker>RYAN</speaker><content>Maybe she got kicked out of school.</content></utterance>
+<utterance uid="19-6"><speaker>CASTLE</speaker><content>What?</content></utterance>
+<utterance uid="19-7"><speaker>ESPOSITO</speaker><content>Or she's doing drugs.</content></utterance>
+<utterance uid="19-8"><speaker>RYAN</speaker><content>Mmm-hmm.</content></utterance>
+<utterance uid="19-9"><speaker>RYAN</speaker><content>Teen pregnancy is on the rise.</content></utterance>
+<utterance uid="19-10"><speaker>CASTLE</speaker><content>Whoa. All right, you've met my daughter. You know that she is the closest thing to perfect as humanly possible.</content></utterance>
+<utterance uid="19-11"><speaker>RYAN</speaker><content>Castle, come on. You've been with us long enough to know that people are never who you think they are. Isn't it possible your perfect daughter isn't as perfect as you think?</content></utterance>
+<utterance uid="19-12"><speaker>BECKETT</speaker><content>Is Danton here yet?</content></utterance>
+<utterance uid="19-13"><speaker>ESPOSITO</speaker><content>Yeah. Interrogation Room one.</content></utterance>
+<utterance uid="19-14"><speaker>CASTLE</speaker><content>Wait, Danton?</content></utterance>
+<utterance uid="19-15"><speaker>BECKETT</speaker><content>Come on, Castle. Keep up.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>BECKETT</speaker><content>We brought you in here to talk about Danton.</content></utterance>
+<utterance uid="20-2"><speaker>DAN TONELLI</speaker><content>Ancient history.</content></utterance>
+<utterance uid="20-3"><speaker>CASTLE</speaker><content>Says here Buckley made a plea deal with you. Seven years instead of 20. But I heard Buckley doesn't make deals.</content></utterance>
+<utterance uid="20-4"><speaker>DAN TONELLI</speaker><content>What could I say, I got lucky.</content></utterance>
+<utterance uid="20-5"><speaker>BECKETT</speaker><content>The only reason that Buckley would agree to a deal is because you brought him something big in return. So, what was it?</content></utterance>
+<utterance uid="20-6"><speaker>DAN TONELLI</speaker><content>Why don't you ask him?</content></utterance>
+<utterance uid="20-7"><speaker>CASTLE</speaker><content>Because he's dead.</content></utterance>
+<utterance uid="20-8"><speaker>DAN TONELLI</speaker><content>What? How?</content></utterance>
+<utterance uid="20-9"><speaker>BECKETT</speaker><content>He was murdered two nights ago. We believe that the same person who took over your operations killed him.</content></utterance>
+<utterance uid="20-10"><speaker>BECKETT</speaker><content>What's so funny?</content></utterance>
+<utterance uid="20-11"><speaker>DAN TONELLI</speaker><content>Well, you see, that would make it a suicide.</content></utterance>
+<utterance uid="20-12"><speaker>CASTLE</speaker><content>Suicide?</content></utterance>
+<utterance uid="20-13"><speaker>BECKETT</speaker><content>Wait a minute. You're saying that Jack Buckley was the new Danton?</content></utterance>
+<utterance uid="20-14"><speaker>DAN TONELLI</speaker><content>Buckley made me a deal. I provide him with my client list, my girls, he knocks 13 years off my sentence. It was a no-brainer.</content></utterance>
+<utterance uid="20-15"><speaker>CASTLE</speaker><content>Our DA was a pimp.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>CASTLE</speaker><content>Jack Buckley was Danton. That's why all Vice's warrants failed. They had to go through the DA's office and Buckley saw them coming. He was in the perfect position to protect his operation.</content></utterance>
+<utterance uid="21-2"><speaker>BECKETT</speaker><content>But why would a respected prosecutor become a pimp?</content></utterance>
+<utterance uid="21-3"><speaker>CASTLE</speaker><content>The outfits?</content></utterance>
+<utterance uid="21-4"><speaker>ESPOSITO</speaker><content>It was the money. Buckley's ex-wife took him to the cleaners. Between alimony and his own bills, Buckley was beyond broke.</content></utterance>
+<utterance uid="21-5"><speaker>CASTLE</speaker><content>You know, I'm betting it was more than just the money. Everybody's talking about how great Jack Buckley was. How he was the law. You start thinking like that, sometimes you can start thinking maybe you are above the law. That you can get away with anything.</content></utterance>
+<utterance uid="21-6"><speaker>BECKETT</speaker><content>Sir, how did the mayor handle the news?</content></utterance>
+<utterance uid="21-7"><speaker>MONTGOMERY</speaker><content>Ooh, you don't want to know.</content></utterance>
+<utterance uid="21-8"><speaker>BECKETT</speaker><content>Okay, this doesn't make any sense. If Buckley was the new Danton, then why would the masked man tell Buckley to back off of Danton? Buckley wouldn't threaten himself. Unless Buckley wasn't the boss anymore.</content></utterance>
+<utterance uid="21-9"><speaker>MONTGOMERY</speaker><content>A hostile takeover.</content></utterance>
+<utterance uid="21-10"><speaker>CASTLE</speaker><content>Of course. We know Danton was just a business name. So, "Back off Danton" was the new boss telling the old boss, "Don't resist the takeover, or I'll start ruining reputations."</content></utterance>
+<utterance uid="21-11"><speaker>MONTGOMERY</speaker><content>Makes sense in theory, but how do you prove it?</content></utterance>
+<utterance uid="21-12"><speaker>BECKETT</speaker><content>We talk to the call girl. There is no way that Scarlett didn't know that Buckley was in charge.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>CASTLE</speaker><content>No, seriously. What did Alexis tell you last night?</content></utterance>
+<utterance uid="22-2"><speaker>BECKETT</speaker><content>I promised I wouldn't say.</content></utterance>
+<utterance uid="22-3"><speaker>CASTLE</speaker><content>Well, at least-- at least tell me if it was bad.</content></utterance>
+<utterance uid="22-4"><speaker>BECKETT</speaker><content>And put you out of your misery?</content></utterance>
+<utterance uid="22-5"><speaker>BECKETT</speaker><content>We're looking for Scarlett.</content></utterance>
+<utterance uid="22-6"><speaker>NICOLE</speaker><content>She's packing her things. We can't have call girls working here.</content></utterance>
+<utterance uid="22-7"><speaker>CASTLE</speaker><content>No, only pimps.</content></utterance>
+<utterance uid="22-8"><speaker>SCARLETT PRICE</speaker><content>Detective.</content></utterance>
+<utterance uid="22-9"><speaker>BECKETT</speaker><content>Could you give us a moment, please?</content></utterance>
+<utterance uid="22-10"><speaker>BECKETT</speaker><content>Scarlett, you lied to us. Buckley was running the call girl ring, and there's no way that you didn't know.</content></utterance>
+<utterance uid="22-11"><speaker>SCARLETT PRICE</speaker><content>Please. I had to lie. He'd kill me if he thought I told you anything.</content></utterance>
+<utterance uid="22-12"><speaker>CASTLE</speaker><content>Who'd kill you? The new Danton?</content></utterance>
+<utterance uid="22-13"><speaker>BECKETT</speaker><content>Someone took over Buckley's business. Who was it? Answer me.</content></utterance>
+<utterance uid="22-14"><speaker>SCARLETT PRICE</speaker><content>He used to work for Buckley. He made sure no one hurt the girls and everyone paid.</content></utterance>
+<utterance uid="22-15"><speaker>BECKETT</speaker><content>What was his name?</content></utterance>
+<utterance uid="22-16"><speaker>SCARLETT PRICE</speaker><content>I can't tell you that.</content></utterance>
+<utterance uid="22-17"><speaker>BECKETT</speaker><content>Scarlett, I'm done playing. You've done nothing but lie to us. Don't think that I'm not gonna send you away for obstruction of justice and anything else that I can think of.</content></utterance>
+<utterance uid="22-18"><speaker>SCARLETT PRICE</speaker><content>He'll kill me.</content></utterance>
+<utterance uid="22-19"><speaker>CASTLE</speaker><content>We won't let that happen. Detective Beckett can help you, but you have to help us first.</content></utterance>
+<utterance uid="22-20"><speaker>SCARLETT PRICE</speaker><content>And then what happens to me? You think I'm gonna be a lawyer now? Jack was going to write me a letter of recommendation, pull some strings to get me a job. Who's going to help me now?</content></utterance>
+<utterance uid="22-21"><speaker>CASTLE</speaker><content>Honestly? No one. You're gonna have to do it by yourself, Scarlett, and I got a feeling that you can. Tell us who the new boss is, and Detective Beckett will make sure no one knows it was you who talked to us.</content></utterance>
+<utterance uid="22-22"><speaker>SCARLETT PRICE</speaker><content>You promise?</content></utterance>
+<utterance uid="22-23"><speaker>BECKETT</speaker><content>Yes.</content></utterance>
+<utterance uid="22-24"><speaker>SCARLETT PRICE</speaker><content>His name is John Knox.</content></utterance>
+<utterance uid="22-25"><speaker>CASTLE</speaker><content>Knox? But that's...</content></utterance>
+<utterance uid="22-26"><speaker>BECKETT</speaker><content>The guy that Buckley dragged in here in handcuffs.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>BECKETT</speaker><content>How does a prosecutor get into business with a criminal?</content></utterance>
+<utterance uid="23-2"><speaker>CASTLE</speaker><content>Well, it's hard out there for a pimp who's also a DA. Ooh, that'd be a good character for a novel.</content></utterance>
+<utterance uid="23-3"><speaker>BECKETT</speaker><content>Hmm.</content></utterance>
+<utterance uid="23-4"><speaker>CASTLE</speaker><content>A star prosecutor who's always excelled at anything he's ever done. He couldn't possibly imagine that being a pimp would be a bigger job than he could handle by himself. But one day he gets a call, one of his girls has been knocked around by a client. He realizes there's nothing he can do about it, he's a very public figure.</content></utterance>
+<utterance uid="23-5"><speaker>BECKETT</speaker><content>Mm-hmm.</content></utterance>
+<utterance uid="23-6"><speaker>CASTLE</speaker><content>So, a white collar prosecutor decides to hire a blue collared enforcer. Can't exactly take out an ad on craigslist for that. But fortunately enough, he has a big stack of qualified candidates sitting right on his desk.</content></utterance>
+<utterance uid="23-7"><speaker>BECKETT</speaker><content>Which is where he found John Knox. A criminal who mostly managed to stay out of prison.</content></utterance>
+<utterance uid="23-8"><speaker>CASTLE</speaker><content>Which makes him a smart criminal.</content></utterance>
+<utterance uid="23-9"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="23-10"><speaker>CASTLE</speaker><content>Buckley offers him a deal. "Come work for me, I'll throw your case." And Knox does.</content></utterance>
+<utterance uid="23-11"><speaker>BECKETT</speaker><content>Mm-hmm.</content></utterance>
+<utterance uid="23-12"><speaker>CASTLE</speaker><content>For a while, everyone's happy. But then Knox decides he's not happy being number two anymore. He takes Buckley's client list, tells Buckley to take a hike.</content></utterance>
+<utterance uid="23-13"><speaker>BECKETT</speaker><content>Knowing that Buckley can't do anything about it without risking exposure.</content></utterance>
+<utterance uid="23-14"><speaker>CASTLE</speaker><content>Mm-hmm. But Buckley's never backed down from a fight in his life. He gets the cops to drag Knox down to his office to remind him who's boss.</content></utterance>
+<utterance uid="23-15"><speaker>BECKETT</speaker><content>But Knox took it up a notch, sending a warning shot across Buckley's bow by threatening his brother-in-law.</content></utterance>
+<utterance uid="23-16"><speaker>CASTLE</speaker><content>And when Buckley wouldn't back down, Knox threw him off the roof of a parking garage.</content></utterance>
+<utterance uid="23-17"><speaker>BECKETT</speaker><content>Jeez, if only we had some proof.</content></utterance>
+<utterance uid="23-18"><speaker>CASTLE</speaker><content>Who needs proof? What a great story. Of course, Knox has an alibi.</content></utterance>
+<utterance uid="23-19"><speaker>BECKETT</speaker><content>You know, maybe you're right. Maybe Knox is smart. Maybe he sent someone else.</content></utterance>
+<utterance uid="23-20"><speaker>CASTLE</speaker><content>Oh, I like the twist. The enforcer has an enforcer. But who?</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>JOHN KNOX</speaker><content>I'll talk to you guys later, okay?</content></utterance>
+<utterance uid="24-2"><speaker>CASTLE</speaker><content>Hi. Remember us?</content></utterance>
+<utterance uid="24-3"><speaker>JOHN KNOX</speaker><content>I definitely remember you.</content></utterance>
+<utterance uid="24-4"><speaker>BECKETT</speaker><content>We need to ask you a few questions.</content></utterance>
+<utterance uid="24-5"><speaker>JOHN KNOX</speaker><content>I already answered your questions.</content></utterance>
+<utterance uid="24-6"><speaker>CASTLE</speaker><content>Maybe you didn't see the badge.</content></utterance>
+<utterance uid="24-7"><speaker>JOHN KNOX</speaker><content>Oh, I saw it.</content></utterance>
+<utterance uid="24-8"><speaker>JOHN KNOX</speaker><content>You ladies ready? Excellent. You two have a nice evening. Who's hungry? What do you guys feel like?</content></utterance>
+<utterance uid="24-9"><speaker>CASTLE</speaker><content>Aren't you going to stop him?</content></utterance>
+<utterance uid="24-10"><speaker>BECKETT</speaker><content>I can't. Unless we arrest him, the law says that he doesn't have to talk to us. And he knows that.</content></utterance>
+<utterance uid="24-11"><speaker>CASTLE</speaker><content>So arrest him.</content></utterance>
+<utterance uid="24-12"><speaker>BECKETT</speaker><content>On what grounds? We promised Scarlett that we'd keep her out of it. So, unless we get some evidence, he's getting away with this.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>CASTLE</speaker><content>Scarlett? You're hurt.</content></utterance>
+<utterance uid="25-2"><speaker>SCARLETT PRICE</speaker><content>I didn't know where else to go.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>CASTLE</speaker><content>Come, sit down. You should go to a hospital.</content></utterance>
+<utterance uid="26-2"><speaker>SCARLETT PRICE</speaker><content>It's just a few bruises. I'll be fine.</content></utterance>
+<utterance uid="26-3"><speaker>CASTLE</speaker><content>How did you find me?</content></utterance>
+<utterance uid="26-4"><speaker>SCARLETT PRICE</speaker><content>A client in the publishing business gave me your address.</content></utterance>
+<utterance uid="26-5"><speaker>SCARLETT PRICE</speaker><content>Dinner for one?</content></utterance>
+<utterance uid="26-6"><speaker>CASTLE</speaker><content>Yeah. My family is at the theater.</content></utterance>
+<utterance uid="26-7"><speaker>SCARLETT PRICE</speaker><content>Good. I wouldn't want anyone else to see me like this.</content></utterance>
+<utterance uid="26-8"><speaker>CASTLE</speaker><content>Did Knox do this to you?</content></utterance>
+<utterance uid="26-9"><speaker>SCARLETT PRICE</speaker><content>It doesn't matter.</content></utterance>
+<utterance uid="26-10"><speaker>CASTLE</speaker><content>Of course it does. You think that by protecting him you're saving yourself somehow? Because you're not. And if you don't get out from under his thumb now, you never will.</content></utterance>
+<utterance uid="26-11"><speaker>SCARLETT PRICE</speaker><content>Why are you so nice to me?</content></utterance>
+<utterance uid="26-12"><speaker>CASTLE</speaker><content>How do you know I'm not this nice to all the beautiful women I find on my doorstep?</content></utterance>
+<utterance uid="26-13"><speaker>SCARLETT PRICE</speaker><content>You really think I'm beautiful?</content></utterance>
+<utterance uid="26-14"><speaker>CASTLE</speaker><content>Look, maybe we should...</content></utterance>
+<utterance uid="26-15"><speaker>SCARLETT PRICE</speaker><content>I'm sorry.</content></utterance>
+<utterance uid="26-16"><speaker>CASTLE</speaker><content>No.</content></utterance>
+<utterance uid="26-17"><speaker>SCARLETT PRICE</speaker><content>I shouldn't have done that.</content></utterance>
+<utterance uid="26-18"><speaker>CASTLE</speaker><content>It's okay, it's... You're hurt and you're scared. But you don't have to be that person with me. You're safe here.</content></utterance>
+<utterance uid="26-19"><speaker>SCARLETT PRICE</speaker><content>Knox killed Buckley.</content></utterance>
+<utterance uid="26-20"><speaker>CASTLE</speaker><content>No. No, he has an alibi.</content></utterance>
+<utterance uid="26-21"><speaker>CASTLE</speaker><content>The Reverend.</content></utterance>
+<utterance uid="26-22"><speaker>SCARLETT PRICE</speaker><content>Knox made me take it. Reverend Daniel is a client. Knox is blackmailing him into saying they were together when Buckley was killed.</content></utterance>
+<utterance uid="26-23"><speaker>CASTLE</speaker><content>Thank you. Now I'm taking you to a hospital. No arguments.</content></utterance>
+<utterance uid="26-24"><speaker>SCARLETT PRICE</speaker><content>Okay.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>BECKETT</speaker><content>Hey.</content></utterance>
+<utterance uid="27-2"><speaker>CASTLE</speaker><content>I'm thinking Knox killed Buckley.</content></utterance>
+<utterance uid="27-3"><speaker>BECKETT</speaker><content>Knox has an alibi.</content></utterance>
+<utterance uid="27-4"><speaker>CASTLE</speaker><content>Mmm. Does he? Reverend Alibi, in the flesh. Lots of flesh...</content></utterance>
+<utterance uid="27-5"><speaker>CASTLE</speaker><content>Too much flesh.</content></utterance>
+<utterance uid="27-6"><speaker>BECKETT</speaker><content>Where did you get this?</content></utterance>
+<utterance uid="27-7"><speaker>CASTLE</speaker><content>Scarlett Price.</content></utterance>
+<utterance uid="27-8"><speaker>BECKETT</speaker><content>You saw her without me?</content></utterance>
+<utterance uid="27-9"><speaker>CASTLE</speaker><content>Uh, well, yes.</content></utterance>
+<utterance uid="27-10"><speaker>BECKETT</speaker><content>She's a person of interest in our investigation. Our murder investigation.</content></utterance>
+<utterance uid="27-11"><speaker>CASTLE</speaker><content>No, I know.</content></utterance>
+<utterance uid="27-12"><speaker>BECKETT</speaker><content>Where did you see her?</content></utterance>
+<utterance uid="27-13"><speaker>CASTLE</speaker><content>Uh, my apartment.</content></utterance>
+<utterance uid="27-14"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="27-15"><speaker>CASTLE</speaker><content>When I came home last night, she was in my hall, and somebody had beaten her up.</content></utterance>
+<utterance uid="27-16"><speaker>BECKETT</speaker><content>And you didn't think to call me?</content></utterance>
+<utterance uid="27-17"><speaker>CASTLE</speaker><content>Well, I took her to the hospital and the night kind of got away from me, and then I came here, you know, to surprise you. Like... Like I do.</content></utterance>
+<utterance uid="27-18"><speaker>BECKETT</speaker><content>We're not done talking about this. Esposito!</content></utterance>
+<utterance uid="27-19"><speaker>ESPOSITO</speaker><content>Yeah.</content></utterance>
+<utterance uid="27-20"><speaker>BECKETT</speaker><content>Have surveillance pull in Knox.</content></utterance>
+<utterance uid="27-21"><speaker>ESPOSITO</speaker><content>On it.</content></utterance>
+<utterance uid="27-22"><speaker>CASTLE</speaker><content>Whoa. You had Knox under surveillance? You didn't tell me?</content></utterance>
+<utterance uid="27-23"><speaker>BECKETT</speaker><content>At least I didn't go out on a date with him.</content></utterance>
+<utterance uid="27-24"><speaker>CASTLE</speaker><content>It wasn't a date.</content></utterance>
+<utterance uid="27-25"><speaker>BECKETT</speaker><content>Really?</content></utterance>
+<utterance uid="27-26"><speaker>ESPOSITO</speaker><content>Trouble. Knox's apartment is empty. He must've slipped out during the night.</content></utterance>
+<utterance uid="27-27"><speaker>CASTLE</speaker><content>Scarlett. I left her at Saint Vincent's Hospital.</content></utterance>
+<utterance uid="27-28"><speaker>CASTLE</speaker><content>Yes, hello, I dropped a young woman off there last night. Her name is Scarlett Price. She'd been beaten up. I need to speak to her right away, please. What? When? Thank you.  A man checked her out, right after I left.</content></utterance>
+<utterance uid="27-29"><speaker>BECKETT</speaker><content>Knox. Get a unit out to Scarlett's apartment and get an APB out on both of them.</content></utterance>
+<utterance uid="27-30"><speaker>CASTLE</speaker><content>Hello?</content></utterance>
+<utterance uid="27-31"><speaker>SCARLETT PRICE</speaker><content>He's got me.</content></utterance>
+<utterance uid="27-32"><speaker>CASTLE</speaker><content>Scarlett! Hang on, hang on.</content></utterance>
+<utterance uid="27-33"><speaker>SCARLETT PRICE</speaker><content>I think he's going to kill me.</content></utterance>
+<utterance uid="27-34"><speaker>CASTLE</speaker><content>Where are you?</content></utterance>
+<utterance uid="27-35"><speaker>SCARLETT PRICE</speaker><content>I don't know...</content></utterance>
+<utterance uid="27-36"><speaker>JOHN KNOX</speaker><content>Hey, what are you doing in there?</content></utterance>
+<utterance uid="27-37"><speaker>CASTLE</speaker><content>Scarlett? What do we do? We have to do something.</content></utterance>
+<utterance uid="27-38"><speaker>BECKETT</speaker><content>Ryan, get the carrier on the phone. Let him know that I'm about a minute away from getting a trace warrant on the following number, 212-555-0179.</content></utterance>
+<utterance uid="27-39"><speaker>RYAN</speaker><content>Got it.</content></utterance>
+<utterance uid="27-40"><speaker>BECKETT</speaker><content>This is Detective Kate Beckett. Badge number, 41319. I need to talk to Judge Beall right away.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>ESPOSITO</speaker><content>Scarlett's phone traced to the east side of the building. Hotel manager said that a guy matching Knox's description checked in at room 4-F this morning.</content></utterance>
+<utterance uid="28-2"><speaker>BECKETT</speaker><content>Castle, you're staying here.</content></utterance>
+<utterance uid="28-3"><speaker>CASTLE</speaker><content>No, I'm not.</content></utterance>
+<utterance uid="28-4"><speaker>BECKETT</speaker><content>Okay, but stay behind me.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>SCARLETT PRICE</speaker><content>Stop! No!</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>BECKETT</speaker><content>Police!</content></utterance>
+<utterance uid="30-2"><speaker>BECKETT</speaker><content>Over there. It's Knox. Scarlett. Hey. Hey, hey, it's okay.</content></utterance>
+<utterance uid="30-3"><speaker>SCARLETT PRICE</speaker><content>I killed him.</content></utterance>
+<utterance uid="30-4"><speaker>CASTLE</speaker><content>It's okay. You're okay.</content></utterance>
+<utterance uid="30-5"><speaker>SCARLETT PRICE</speaker><content>I killed Knox. He heard a noise outside and when he turned to look I grabbed his gun. He told me to give it back. He came after me. I told him to stop, but he wouldn't. Why wouldn't he stop? Why wouldn't he stop?</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>CASTLE</speaker><content>You think she'll be okay?</content></utterance>
+<utterance uid="31-2"><speaker>BECKETT</speaker><content>Given the circumstance, I don't think the DA will press charges.</content></utterance>
+<utterance uid="31-3"><speaker>CASTLE</speaker><content>No. I mean, do you think she'll be okay?</content></utterance>
+<utterance uid="31-4"><speaker>BECKETT</speaker><content>I don't know. Girls in the sex industry usually come from a history of childhood dysfunction. It's hard to escape that.</content></utterance>
+<utterance uid="31-5"><speaker>CASTLE</speaker><content>But it's possible, right?</content></utterance>
+<utterance uid="31-6"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="31-7"><speaker>JESSUP</speaker><content>Come on, come on.</content></utterance>
+<utterance uid="31-8"><speaker>JULIAN</speaker><content>Hold it right there!</content></utterance>
+<utterance uid="31-9"><speaker>JESSUP</speaker><content>Castle! Little help?</content></utterance>
+<utterance uid="31-10"><speaker>CASTLE</speaker><content>Oh, yeah. Julian, it's fine, he's with me.</content></utterance>
+<utterance uid="31-11"><speaker>JESSUP</speaker><content>You are out of control, man. Got good news. I finally found a locksmith school that's willing to admit me.</content></utterance>
+<utterance uid="31-12"><speaker>CASTLE</speaker><content>Really?</content></utterance>
+<utterance uid="31-13"><speaker>JESSUP</speaker><content>Yeah. All I need is a letter of recommendation from the police, and I am in. Will you write it for me?</content></utterance>
+<utterance uid="31-14"><speaker>BECKETT</speaker><content>No.</content></utterance>
+<utterance uid="31-15"><speaker>JESSUP</speaker><content>What?</content></utterance>
+<utterance uid="31-16"><speaker>CASTLE</speaker><content>Come on, have a heart.</content></utterance>
+<utterance uid="31-17"><speaker>BECKETT</speaker><content>He's a criminal. If I write him a letter, I'll be responsible for him. I cannot watch you 24 hours a day.</content></utterance>
+<utterance uid="31-18"><speaker>CASTLE</speaker><content>Wait a minute. What did you say?</content></utterance>
+<utterance uid="31-19"><speaker>BECKETT</speaker><content>I would be responsible for him.</content></utterance>
+<utterance uid="31-20"><speaker>CASTLE</speaker><content>No, no, no. You can't watch him. When did you put the surveillance car on Knox?</content></utterance>
+<utterance uid="31-21"><speaker>BECKETT</speaker><content>Right after we left the bar.</content></utterance>
+<utterance uid="31-22"><speaker>CASTLE</speaker><content>And they followed him all night?</content></utterance>
+<utterance uid="31-23"><speaker>BECKETT</speaker><content>Yeah. He got home around 2 a.m.</content></utterance>
+<utterance uid="31-24"><speaker>CASTLE</speaker><content>Then how could he have beaten up Scarlett?</content></utterance>
+<utterance uid="31-25"><speaker>JESSUP</speaker><content/></utterance>
+<utterance uid="31-26"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="31-27"><speaker>JESSUP</speaker><content>See. If it would've been, this whole frame would've been destroyed.</content></utterance>
+<utterance uid="31-28"><speaker>CASTLE</speaker><content>Locking the door. That's hostage-taking 101.</content></utterance>
+<utterance uid="31-29"><speaker>BECKETT</speaker><content>Unless Scarlett wasn't a hostage.</content></utterance>
+<utterance uid="31-30"><speaker>CASTLE</speaker><content>She was in on it from the start.</content></utterance>
+<utterance uid="31-31"><speaker>BECKETT</speaker><content>Buckley didn't set her up in his office out of the goodness of his heart. He needed somebody working there to man the call girl business.</content></utterance>
+<utterance uid="31-32"><speaker>CASTLE</speaker><content>Not realizing that he was giving Scarlett full access to every facet of his organization.</content></utterance>
+<utterance uid="31-33"><speaker>BECKETT</speaker><content>Knox didn't steal the client list, Scarlett gave it to him so that the two of them could go into business together.</content></utterance>
+<utterance uid="31-34"><speaker>CASTLE</speaker><content>And when Buckley wouldn't walk away, Knox killed him. Never thinking we'd find out about the call girl ring.</content></utterance>
+<utterance uid="31-35"><speaker>BECKETT</speaker><content>And then, when we did, Scarlett realized that the only way to save herself was by giving up Knox, by playing the ultimate victim. Making you believe that Knox beat her up so that we'd think she killed him out of self-defense.</content></utterance>
+<utterance uid="31-36"><speaker>CASTLE</speaker><content>And I fell for it.</content></utterance>
+<utterance uid="31-37"><speaker>BECKETT</speaker><content>We all did.</content></utterance>
+<utterance uid="31-38"><speaker>JESSUP</speaker><content>I didn't.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>SCARLETT PRICE</speaker><content>Hi, how can I make you happy today?</content></utterance>
+<utterance uid="32-2"><speaker>MAN</speaker><content>Is Candy working?</content></utterance>
+<utterance uid="32-3"><speaker>SCARLETT PRICE</speaker><content>Yes, Candy is absolutely available. How would you like her to look?</content></utterance>
+<utterance uid="32-4"><speaker>MAN</speaker><content>GND.</content></utterance>
+<utterance uid="32-5"><speaker>SCARLETT PRICE</speaker><content>Girl next door sounds perfect. Can you confirm your client code?</content></utterance>
+<utterance uid="32-6"><speaker>MAN</speaker><content>51.</content></utterance>
+<utterance uid="32-7"><speaker>SCARLETT PRICE</speaker><content>And your card information is the same?</content></utterance>
+<utterance uid="32-8"><speaker>MAN</speaker><content>Yes.</content></utterance>
+<utterance uid="32-9"><speaker>SCARLETT PRICE</speaker><content>Great. Candy will see you at seven.</content></utterance>
+<utterance uid="32-10"><speaker>SCARLETT PRICE</speaker><content>Hi, how can I make you happy today?</content></utterance>
+<utterance uid="32-11"><speaker>CASTLE</speaker><content>Yes, I'm looking for a girl.</content></utterance>
+<utterance uid="32-12"><speaker>SCARLETT PRICE</speaker><content>Well, you've certainly come to the right place. Can you describe her?</content></utterance>
+<utterance uid="32-13"><speaker>CASTLE</speaker><content>She came to New York in an ancient blue Beetle. The floor was so rusted it literally sagged in the middle.</content></utterance>
+<utterance uid="32-14"><speaker>SCARLETT PRICE</speaker><content>Castle, how did you get this number?</content></utterance>
+<utterance uid="32-15"><speaker>CASTLE</speaker><content>I have a friend in the publishing business.</content></utterance>
+<utterance uid="32-16"><speaker>SCARLETT PRICE</speaker><content>I'm sorry if I disappointed you. I-- I just needed to take a few more jobs to set myself up.</content></utterance>
+<utterance uid="32-17"><speaker>CASTLE</speaker><content>You never stop manipulating, do you, Scarlett? I should be impressed, really. How easily you played me. But all I can think about is how sad it is. All that brains and beauty wasted on a heart gone rotten. You're so busy building up walls to keep people out...</content></utterance>
+<utterance uid="32-18"><speaker>CASTLE</speaker><content>...you don't even realize that you're the one trapped inside. All alone.</content></utterance>
+<utterance uid="32-19"><speaker>RYAN</speaker><content>Would you stand up, please?</content></utterance>
+<utterance uid="32-20"><speaker>RYAN</speaker><content>You have the right to remain silent. Anything you say can and will be used against you in a court of law. You have the right to an attorney.</content></utterance>
+<utterance uid="32-21"><speaker>CASTLE</speaker><content>Thanks.</content></utterance>
+<utterance uid="32-22"><speaker>BECKETT</speaker><content>For what?</content></utterance>
+<utterance uid="32-23"><speaker>CASTLE</speaker><content>For not saying, "I told you so."</content></utterance>
+<utterance uid="32-24"><speaker>BECKETT</speaker><content>Oh, that starts tomorrow.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>CASTLE</speaker><content>What was that for?</content></utterance>
+<utterance uid="33-2"><speaker>ALEXIS</speaker><content>For being the best dad ever.</content></utterance>
+<utterance uid="33-3"><speaker>CASTLE</speaker><content>It's true, you know. I have the novelty mug to prove it.</content></utterance>
+<utterance uid="33-4"><speaker>ALEXIS</speaker><content>Mmm. Thanks for trusting me. For not pushing when you knew I was working something out.</content></utterance>
+<utterance uid="33-5"><speaker>CASTLE</speaker><content>Well, I knew when you were ready you would tell me.</content></utterance>
+<utterance uid="33-6"><speaker>ALEXIS</speaker><content>So, here it is. My school is starting a foreign exchange program to France.</content></utterance>
+<utterance uid="33-7"><speaker>CASTLE</speaker><content>France?</content></utterance>
+<utterance uid="33-8"><speaker>ALEXIS</speaker><content>Yeah.</content></utterance>
+<utterance uid="33-9"><speaker>CASTLE</speaker><content>You weren't kicked out of school?</content></utterance>
+<utterance uid="33-10"><speaker>ALEXIS</speaker><content>Nnnnno.</content></utterance>
+<utterance uid="33-11"><speaker>ALEXIS</speaker><content>No, the program lasts three weeks and so I'd miss your birthday. And I knew that Beckett had spent a semester abroad in college and I wanted to ask her if the experience was worth it.</content></utterance>
+<utterance uid="33-12"><speaker>CASTLE</speaker><content>And what did she say?</content></utterance>
+<utterance uid="33-13"><speaker>ALEXIS</speaker><content>She said that I'd be going off to college in a couple years and that everything was going to change. And maybe it'd be good if we got a taste of that change now.</content></utterance>
+<utterance uid="33-14"><speaker>CASTLE</speaker><content>Well, she is a smart woman.</content></utterance>
+<utterance uid="33-15"><speaker>ALEXIS</speaker><content>Yeah, she is. But I decided not to go anyway. Because two years will be here soon enough. And I already got you your present and I want to watch you open it.</content></utterance>
+<utterance uid="33-16"><speaker>CASTLE</speaker><content>I say we celebrate with ice cream.</content></utterance>
+<utterance uid="33-17"><speaker>ALEXIS</speaker><content>We'd be fools not to.</content></utterance>
+<utterance uid="33-18"><speaker>CASTLE</speaker><content>Serve me.</content></utterance>
+<utterance uid="33-19"><speaker>ALEXIS</speaker><content>Chocolate or vanilla?</content></utterance>
+<utterance uid="33-20"><speaker>CASTLE</speaker><content>Duh. Chocolate.</content></utterance>
+<utterance uid="33-21"><speaker>ALEXIS</speaker><content>Oh, and while we're eating, we can talk about colleges. I picked up a couple brochures at the guidance office, and you know what looks really cool?</content></utterance>
+<utterance uid="33-22"><speaker>CASTLE</speaker><content>What?</content></utterance>
+<utterance uid="33-23"><speaker>ALEXIS</speaker><content>Oxford.</content></utterance>
+<utterance uid="33-24"><speaker>CASTLE</speaker><content>Oxford? You know... You know that's in England, right?</content></utterance>
+<utterance uid="33-25"><speaker>ALEXIS</speaker><content>Yeah.</content></utterance>
+</scene>
+</script>

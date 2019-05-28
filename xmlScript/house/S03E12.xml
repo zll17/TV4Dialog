@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+<scene id="1"><utterance uid="1-1"><speaker>HOUSE</speaker><content> How can I help you this beautiful morning?</content></utterance>
+<utterance uid="1-2"><speaker>CUDDY</speaker><content>You got any cases?</content></utterance>
+<utterance uid="1-3"><speaker>HOUSE</speaker><content> Three. Got a teenage African-American lung transplant... </content></utterance>
+<utterance uid="1-4"><speaker>CUDDY</speaker><content> Next few days, you'll be doing nothing but clinic work.</content></utterance>
+<utterance uid="1-5"><speaker>HOUSE</speaker><content>I just said...</content></utterance>
+<utterance uid="1-6"><speaker>CUDDY</speaker><content>You were lying.</content></utterance>
+<utterance uid="1-7"><speaker>HOUSE</speaker><content>Then why'd you ask?</content></utterance>
+<utterance uid="1-8"><speaker>CUDDY</speaker><content>Because if you told the truth, I was gonna give you only one day of clinic duty.</content></utterance>
+<utterance uid="1-9"><speaker>HOUSE</speaker><content>That's dishonest. In refuse to participate in this...</content></utterance>
+<utterance uid="1-10"><speaker>CUDDY</speaker><content> You'll do it. You owe me.  I kept you out of jail, I can put you back.</content></utterance>
+<utterance uid="1-11"><speaker>HOUSE</speaker><content> Perjurer.</content></utterance>
+<utterance uid="1-12"><speaker>CUDDY</speaker><content> Felon.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>HOUSE</speaker><content>How can I help you this beautiful morning?</content></utterance>
+<utterance uid="2-2"><speaker>MERGE WITH</speaker><content/></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>BASHFUL OLD LADY</speaker><content>I think I have a... </content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>HOUSE</speaker><content>Who is here for a runny nose?</content></utterance>
+<utterance uid="4-2"><speaker>HOUSE</speaker><content>It's a cold! It'll get better. Go home!</content></utterance>
+<utterance uid="4-3"><speaker>HOUSE</speaker><content>Those of you who have stayed obviously do not have colds.</content></utterance>
+<utterance uid="4-4"><speaker>HOUSE</speaker><content>You'll be assigned a doctor, who is not me, 'cause I'm tired of wiping crotches.</content></utterance>
+<utterance uid="4-5"><speaker>CUDDY</speaker><content> House! You're doing this.</content></utterance>
+<utterance uid="4-6"><speaker>EAR GUY</speaker><content> It hurts!</content></utterance>
+<utterance uid="4-7"><speaker>NURSE</speaker><content> Sir...</content></utterance>
+<utterance uid="4-8"><speaker>CUDDY</speaker><content> Call security.</content></utterance>
+<utterance uid="4-9"><speaker>HOUSE</speaker><content>No, I'm good, thanks.</content></utterance>
+<utterance uid="4-10"><speaker>EAR GUY</speaker><content> Head on fire!!</content></utterance>
+<utterance uid="4-11"><speaker>HOUSE</speaker><content> Need a team here!</content></utterance>
+<utterance uid="4-12"><speaker>MARKO</speaker><content>I have the sedative!</content></utterance>
+<utterance uid="4-13"><speaker>CUDDY</speaker><content>Little late.</content></utterance>
+<utterance uid="4-14"><speaker>HOUSE</speaker><content> Just in time.</content></utterance>
+<utterance uid="4-15"><speaker>CUDDY</speaker><content>What did you give him?</content></utterance>
+<utterance uid="4-16"><speaker>HOUSE</speaker><content>Paralytic.</content></utterance>
+<utterance uid="4-17"><speaker>CUDDY</speaker><content>Why would you do that?!</content></utterance>
+<utterance uid="4-18"><speaker>HOUSE</speaker><content>Somebody had to stop the screaming.</content></utterance>
+<utterance uid="4-19"><speaker>CUDDY</speaker><content>Then he's still in pain.</content></utterance>
+<utterance uid="4-20"><speaker>HOUSE</speaker><content>Yeah! But quietly.</content></utterance>
+<utterance uid="4-21"><speaker>HOUSE</speaker><content> Paralytic stopped him breathing. He goes hypoxic, he's gonna be quiet forever.</content></utterance>
+<utterance uid="4-22"><speaker>HOUSE</speaker><content>So, either I can continue to swab people's privates, or I can figure out if this guy's delirium, pain and insanely high heart-rate are life-threatening or just a personality quirk.</content></utterance>
+<utterance uid="4-23"><speaker>HOUSE</speaker><content>I think the latter choice is better for all three of us.</content></utterance>
+</scene>
+
+
+<scene id="5"><utterance uid="5-1"><speaker>FOREMAN</speaker><content> He's sedated. It took five cc's of haliperidol to get him down after the paralytic wore off.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>HOUSE</speaker><content>So, pain in his right ear, psychotic behaviour and dizziness. Go!</content></utterance>
+<utterance uid="6-2"><speaker>CHASE</speaker><content>Nurses said he was holding his head. How d'you know it was specifically his ear?</content></utterance>
+<utterance uid="6-3"><speaker>HOUSE</speaker><content>Because he was dizzy. Means the problem was affecting his inner ear.</content></utterance>
+<utterance uid="6-4"><speaker>CAMERON</speaker><content>Nurses said he was running in circles. Doesn't mean he was dizzy.</content></utterance>
+<utterance uid="6-5"><speaker>HOUSE</speaker><content>He wasn't running in circles. He was running in oblongs. Looked like a three-year-old kid drew them.</content></utterance>
+<utterance uid="6-6"><speaker>FOREMAN</speaker><content>Acoustic Neuroma that started a haemorrhage.</content></utterance>
+<utterance uid="6-7"><speaker>HOUSE</speaker><content>'Splains the pain, vertigo, everything. Get an MRI.</content></utterance>
+<utterance uid="6-8"><speaker>HOUSE</speaker><content>What else?</content></utterance>
+<utterance uid="6-9"><speaker>FOREMAN</speaker><content>If it explains everything, what...?</content></utterance>
+<utterance uid="6-10"><speaker>HOUSE</speaker><content>It might not explain everything.</content></utterance>
+<utterance uid="6-11"><speaker>CHASE</speaker><content>What if he was psychotic first? Then self-mutilated, damaged the ear.</content></utterance>
+<utterance uid="6-12"><speaker>HOUSE</speaker><content>Excellent. Need a complete psychiatric work-up.</content></utterance>
+<utterance uid="6-13"><speaker>HOUSE</speaker><content> Your turn.</content></utterance>
+<utterance uid="6-14"><speaker>CAMERON</speaker><content>Uhh, I was... gonna say what Foreman...</content></utterance>
+<utterance uid="6-15"><speaker>HOUSE</speaker><content>Well, say something else.</content></utterance>
+<utterance uid="6-16"><speaker>CAMERON</speaker><content> He... came to the clinic.</content></utterance>
+<utterance uid="6-17"><speaker>HOUSE</speaker><content> Goood...</content></utterance>
+<utterance uid="6-18"><speaker>CAMERON</speaker><content> Decent chance he had a chronic illness first, 'specially given the rapid heart rate.</content></utterance>
+<utterance uid="6-19"><speaker>HOUSE</speaker><content> Hmm.</content></utterance>
+<utterance uid="6-20"><speaker>CAMERON</speaker><content> Lingering ear infection. Pressure builds up in his inner ear, bursts through the</content></utterance>
+<utterance uid="6-21"><speaker>HOUSE</speaker><content> Ohhh, yes! Get a head CT, draw a blood culture, run a chem panel and get a complete blood count.</content></utterance>
+<utterance uid="6-22"><speaker>HOUSE</speaker><content>Oh, while you're at it, pour some alcohol into his ear and take out the cockroach.</content></utterance>
+<utterance uid="6-23"><speaker>FOREMAN</speaker><content>He has a cockroach in his ear?</content></utterance>
+<utterance uid="6-24"><speaker>HOUSE</speaker><content> He was scratching that ear right before the event, so I took a peek. My guess is, it started biting.</content></utterance>
+<utterance uid="6-25"><speaker>CAMERON</speaker><content> Nothing else wrong with him?</content></utterance>
+<utterance uid="6-26"><speaker>HOUSE</speaker><content>Wasn't that enough? Pretty gross.</content></utterance>
+<utterance uid="6-27"><speaker>CHASE</speaker><content>So, why are we doing the tests?</content></utterance>
+<utterance uid="6-28"><speaker>HOUSE</speaker><content>Well, it's either that or I have to keep doing clinic duty. Do the tests or just stay out of Cuddy's sight, I don't really care which.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>WILSON</speaker><content>Why are you here?</content></utterance>
+<utterance uid="7-2"><speaker>HOUSE</speaker><content> Because it's not a hospital.</content></utterance>
+<utterance uid="7-3"><speaker>WILSON</speaker><content>It's a jogging park. You're not jogging. You can't jog.</content></utterance>
+<utterance uid="7-4"><speaker>HOUSE</speaker><content>Watching jogging. I sit, I watch, I imagine.</content></utterance>
+<utterance uid="7-5"><speaker>WILSON</speaker><content>So... what do you watch for?</content></utterance>
+<utterance uid="7-6"><speaker>HOUSE</speaker><content> That guy's running in shorts.</content></utterance>
+<utterance uid="7-7"><speaker>WILSON</speaker><content>He's not jogging, he's trolling.</content></utterance>
+<utterance uid="7-8"><speaker>HOUSE</speaker><content> You're good at this.</content></utterance>
+<utterance uid="7-9"><speaker>WILSON</speaker><content>How long are you goin' to stay here?</content></utterance>
+<utterance uid="7-10"><speaker>HOUSE</speaker><content>Beauty of this place is that it's the last place Cuddy will look.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>CAMERON</speaker><content>How can I help you?</content></utterance>
+<utterance uid="8-2"><speaker>HOMELESS OLD GUY</speaker><content>The doctors gave me this. </content></utterance>
+<utterance uid="8-3"><speaker>CAMERON</speaker><content> What doctors?</content></utterance>
+<utterance uid="8-4"><speaker>HOMELESS OLD GUY</speaker><content>At the other hospital. Last month.</content></utterance>
+<utterance uid="8-5"><speaker>CAMERON</speaker><content> Do you know what this is?</content></utterance>
+<utterance uid="8-6"><speaker>HOMELESS OLD GUY</speaker><content>Yes.</content></utterance>
+<utterance uid="8-7"><speaker>CAMERON</speaker><content> "Patient has a six centimetre mass in the right lung. Cancerous. Inoperable." Do you understand what this means?</content></utterance>
+<utterance uid="8-8"><speaker>HOMELESS OLD GUY</speaker><content>Is it okay if I sleep here tonight?</content></utterance>
+<utterance uid="8-9"><speaker>HOMELESS OLD GUY</speaker><content>It's cold outside.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>CUDDY</speaker><content>What're you doing here? Thought House had a case.</content></utterance>
+<utterance uid="9-2"><speaker>CAMERON</speaker><content>He doesn't.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>CUDDY</speaker><content>You ordered a CT on a patient with a bug in his ear?</content></utterance>
+<utterance uid="10-2"><speaker>HOUSE</speaker><content>How'd you know I was here?</content></utterance>
+<utterance uid="10-3"><speaker>CUDDY</speaker><content>Ran into Cameron in the clinic.</content></utterance>
+<utterance uid="10-4"><speaker>HOUSE</speaker><content> "Ran into"?</content></utterance>
+<utterance uid="10-5"><speaker>CUDDY</speaker><content>You ordered pointless tests just to...</content></utterance>
+<utterance uid="10-6"><speaker>HOUSE</speaker><content>Wouldn't've been pointless if you didn't "run into" Cameron.</content></utterance>
+<utterance uid="10-7"><speaker>CUDDY</speaker><content>She got punished. She's stuck with another dying patient.</content></utterance>
+<utterance uid="10-8"><speaker>CUDDY</speaker><content> Is that Vicodin?</content></utterance>
+<utterance uid="10-9"><speaker>HOUSE</speaker><content>Breath mint. Thought you were gonna kiss me.</content></utterance>
+<utterance uid="10-10"><speaker>CUDDY</speaker><content>What happened to rehab?</content></utterance>
+<utterance uid="10-11"><speaker>HOUSE</speaker><content>I got out.</content></utterance>
+<utterance uid="10-12"><speaker>CUDDY</speaker><content> It was a scam?</content></utterance>
+<utterance uid="10-13"><speaker>HOUSE</speaker><content>Enough foreplay. You gonna kiss me or not?</content></utterance>
+<utterance uid="10-14"><speaker>CUDDY</speaker><content>You are going back to the clinic. Or jail.</content></utterance>
+<utterance uid="10-15"><speaker>HOUSE</speaker><content> You perjured yourself to keep me out of jail. How're you...?</content></utterance>
+<utterance uid="10-16"><speaker>CUDDY</speaker><content>I only did that because I thought you were getting clean.</content></utterance>
+<utterance uid="10-17"><speaker>HOUSE</speaker><content>So it's do clinic duty or go to jail.</content></utterance>
+<utterance uid="10-18"><speaker>CUDDY</speaker><content>Yes.</content></utterance>
+<utterance uid="10-19"><speaker>HOUSE</speaker><content>Then it'll be finish your paperwork or go to jail. Help with fundraising or go to jail. Do your job or go to jail. I think I'd rather go to jail.</content></utterance>
+<utterance uid="10-20"><speaker>CUDDY</speaker><content> You owe me.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>HOUSE</speaker><content>Bea-utiful.</content></utterance>
+<utterance uid="11-2"><speaker>SHERLOCK NOSE</speaker><content>Thank you. It's dry.</content></utterance>
+<utterance uid="11-3"><speaker>HOUSE</speaker><content>Who cares. It's beautiful.</content></utterance>
+<utterance uid="11-4"><speaker>HOUSE</speaker><content>If my lawn was half as well maintained as that, pigeons wouldn't have the nerve to poop on it.</content></utterance>
+<utterance uid="11-5"><speaker>SHERLOCK NOSE</speaker><content>Good grooming is important.</content></utterance>
+<utterance uid="11-6"><speaker>HOUSE</speaker><content>Is that a shot?</content></utterance>
+<utterance uid="11-7"><speaker>SHERLOCK NOSE</speaker><content> People do judge you on your appearance.</content></utterance>
+<utterance uid="11-8"><speaker>SHERLOCK NOSE</speaker><content>When you entered, I noted your shirt hadn't been pressed; you hadn't shaved in quite some time.</content></utterance>
+<utterance uid="11-9"><speaker>SHERLOCK NOSE</speaker><content>I extrapolated you were a person for whom detail is not a major concern. I was worried you might apply the same standard in your work.</content></utterance>
+<utterance uid="11-10"><speaker>HOUSE</speaker><content> You use toe-nail clippers up there?</content></utterance>
+<utterance uid="11-11"><speaker>SHERLOCK NOSE</speaker><content>They're longer, so they allow me to better reach the upper hairs.</content></utterance>
+<utterance uid="11-12"><speaker>HOUSE</speaker><content>I am wearing a rumpled shirt, and I forgot to brush my hair this week. You've got athlete's foot in your nose.</content></utterance>
+<utterance uid="11-13"><speaker>HOUSE</speaker><content> I'm ready to be judged.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>HOUSE</speaker><content>Okay! Fifty dollars...!</content></utterance>
+<utterance uid="12-2"><speaker>HOUSE</speaker><content>...to any patient who's willing to leave here right now.</content></utterance>
+<utterance uid="12-3"><speaker>DAD</speaker><content>Get your stuff.</content></utterance>
+<utterance uid="12-4"><speaker>CUDDY</speaker><content>House! You can't...</content></utterance>
+<utterance uid="12-5"><speaker>HOUSE</speaker><content>My money.</content></utterance>
+<utterance uid="12-6"><speaker>CUDDY</speaker><content>I don't care. People do not...</content></utterance>
+<utterance uid="12-7"><speaker>HOUSE</speaker><content> They leave, fifty bucks. They're not all that sick. </content></utterance>
+<utterance uid="12-8"><speaker>CUDDY</speaker><content>Or they're poor.</content></utterance>
+<utterance uid="12-9"><speaker>CUDDY</speaker><content>And desperate. Which was why this place is here.</content></utterance>
+<utterance uid="12-10"><speaker>HOUSE</speaker><content>If they're that poor, then they'd rather have fifty bucks.</content></utterance>
+<utterance uid="12-11"><speaker>OLD GUY</speaker><content> Can I have the money?</content></utterance>
+<utterance uid="12-12"><speaker>HOUSE</speaker><content>Look. It's monogrammed. He doesn't need money. Ergo, he's not sick.</content></utterance>
+<utterance uid="12-13"><speaker>CUDDY</speaker><content>And the blood?</content></utterance>
+<utterance uid="12-14"><speaker>HOUSE</speaker><content> Could be anybody's. Monogram's definitely his.</content></utterance>
+<utterance uid="12-15"><speaker>CUDDY</speaker><content> We need to talk.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>HOUSE</speaker><content> Doesn't matter what you say, do or threaten. I will find a way out.</content></utterance>
+<utterance uid="13-2"><speaker>CUDDY</speaker><content>How can we make this more interesting for you?</content></utterance>
+<utterance uid="13-3"><speaker>HOUSE</speaker><content>How can we make the sky green? How can we make the tall short? You cannot make the uninteresting interesting.</content></utterance>
+<utterance uid="13-4"><speaker>CUDDY</speaker><content> I'll pay you ten dollars for every patient you diagnose without touching.</content></utterance>
+<utterance uid="13-5"><speaker>CUDDY</speaker><content>You pay me ten dollars for every one you have to touch.</content></utterance>
+<utterance uid="13-6"><speaker>HOUSE</speaker><content>You're making this into a game for me. From which I can only conclude this isn't a game for you.</content></utterance>
+<utterance uid="13-7"><speaker>CUDDY</speaker><content>No.</content></utterance>
+<utterance uid="13-8"><speaker>HOUSE</speaker><content>Why? Think if I deal with enough people, I'll find some humanity?</content></utterance>
+<utterance uid="13-9"><speaker>CUDDY</speaker><content>Yes.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>TONGUE GUY</speaker><content>Wha' ah ha' todo 'is mahsulf? </content></utterance>
+<utterance uid="14-2"><speaker>HOUSE</speaker><content>I got a bum leg. Say "Aah".</content></utterance>
+<utterance uid="14-3"><speaker>TONGUE GUY</speaker><content>Aaahhh-aahh.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>STOMACH LADY</speaker><content>Feels rough.</content></utterance>
+<utterance uid="15-2"><speaker>HOUSE</speaker><content>Yes! It's a rash. Can't get any more than "rough".</content></utterance>
+<utterance uid="15-3"><speaker>STOMACH LADY</speaker><content> Well,  it's just rough. Can't you feel it?</content></utterance>
+<utterance uid="15-4"><speaker>HOUSE</speaker><content>Well, I could. But then, what satisfaction would you get?</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>PULSE DUDE</speaker><content>Got it.</content></utterance>
+<utterance uid="16-2"><speaker>HOUSE</speaker><content> Start counting.</content></utterance>
+<utterance uid="16-3"><speaker>HOUSE</speaker><content> How many?</content></utterance>
+<utterance uid="16-4"><speaker>PULSE DUDE</speaker><content>T-twenty six.</content></utterance>
+<utterance uid="16-5"><speaker>HOUSE</speaker><content>Okay. Either you suck at math, or you're gonna die in two seconds.  You suck at math.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>HOUSE</speaker><content>Diagnosis!  Prescription!  You owe me thirty.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>HOUSE</speaker><content>I owe you ten.</content></utterance>
+<utterance uid="18-2"><speaker>CUDDY</speaker><content> Test results are back for your STD patients. I'm not paying you for them. You already touched them.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>HOUSE</speaker><content>How old are you?</content></utterance>
+<utterance uid="19-2"><speaker>HOUSE</speaker><content>And you've never seen an after-school special? Dawson's Creek? How do you get to thirty and not know about condoms?</content></utterance>
+<utterance uid="19-3"><speaker>HOUSE</speaker><content>No. But you will. Every patient who comes in here for an STD test has one thing in common. They had SWS. "Sex While Stupid".</content></utterance>
+<utterance uid="19-4"><speaker>MERGE WITH</speaker><content/></utterance>
+<utterance uid="19-5"><speaker>HOUSE</speaker><content> How old are you?</content></utterance>
+<utterance uid="19-6"><speaker>BASHFUL OLD LADY</speaker><content> Sixty.</content></utterance>
+<utterance uid="19-7"><speaker>HOUSE</speaker><content> You're lying. That's not the point. You've never seen Dawson's Creek?</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>HOUSE</speaker><content>And you've never seen an after-school special? How do you get to your age and not know about condoms?</content></utterance>
+<utterance uid="20-2"><speaker>EVE</speaker><content>I have an STD?</content></utterance>
+<utterance uid="20-3"><speaker>HOUSE</speaker><content>Yeah! You're actually the first one today. Lucky day. Not for you, but gotta feel good for everyone else.</content></utterance>
+<utterance uid="20-4"><speaker>HOUSE</speaker><content>It's Chlamydia. As bad news goes, 's about the best.</content></utterance>
+<utterance uid="20-5"><speaker>HOUSE</speaker><content>Oh, settle down. It's treatable. It's actually curable.</content></utterance>
+<utterance uid="20-6"><speaker>HOUSE</speaker><content> All you have to do is take these pills...</content></utterance>
+<utterance uid="20-7"><speaker>EVE</speaker><content>DON'T TOUCH ME!!</content></utterance>
+<utterance uid="20-8"><speaker>HOUSE</speaker><content> Oh God.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>HOUSE</speaker><content> I need someone to cover a patient.</content></utterance>
+<utterance uid="21-2"><speaker>CUDDY</speaker><content>House, you're committed to...</content></utterance>
+<utterance uid="21-3"><speaker>HOUSE</speaker><content>She was raped.  Think I'm the right doctor for her?</content></utterance>
+</scene>
+
+<scene id="22"><utterance uid="22-1"><speaker>CUDDY</speaker><content>We've assigned another doctor to your care.</content></utterance>
+<utterance uid="22-2"><speaker>EVE</speaker><content>I didn't mean to upset Dr. House.</content></utterance>
+<utterance uid="22-3"><speaker>CUDDY</speaker><content>He knows that. That's not why we're doing this.</content></utterance>
+<utterance uid="22-4"><speaker>EVE</speaker><content>I'd like to keep being treated by him.</content></utterance>
+<utterance uid="22-5"><speaker>CUDDY</speaker><content> W-Why?</content></utterance>
+<utterance uid="22-6"><speaker>EVE</speaker><content>Just do.</content></utterance>
+<utterance uid="22-7"><speaker>CUDDY</speaker><content>Trust me, it's better if you deal with somebody who specialises...</content></utterance>
+<utterance uid="22-8"><speaker>EVE</speaker><content>I'm fine.</content></utterance>
+<utterance uid="22-9"><speaker>CUDDY</speaker><content>You told Dr. House it's been less than a week. You haven't told anyone other than him. Emotionally, you're still...</content></utterance>
+<utterance uid="22-10"><speaker>EVE</speaker><content> You know what I'm dealing with? You know what I'm going through?</content></utterance>
+<utterance uid="22-11"><speaker>CUDDY</speaker><content> No. You think Dr. House does?  I'm not suggesting either one of us be your doctor. Dr. Stone is psychiatri...</content></utterance>
+<utterance uid="22-12"><speaker>EVE</speaker><content> If Dr. House is too busy, I could wait.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>HOUSE</speaker><content>Why do you want me?</content></utterance>
+<utterance uid="23-2"><speaker>EVE</speaker><content>I don't know.</content></utterance>
+<utterance uid="23-3"><speaker>HOUSE</speaker><content> I don't wanna treat you.</content></utterance>
+<utterance uid="23-4"><speaker>EVE</speaker><content>You're just saying that so I'll see the psychiatrist.</content></utterance>
+<utterance uid="23-5"><speaker>HOUSE</speaker><content>True. 'Cept for the word "just". I'm saying, I don't wanna treat you so you'll see the psychiatrist and because I don't wanna treat you.</content></utterance>
+<utterance uid="23-6"><speaker>EVE</speaker><content>Why don't you wanna treat me anymore?</content></utterance>
+<utterance uid="23-7"><speaker>HOUSE</speaker><content>I never wanted to treat you. Fact that you were raped  holds no interest for me. It's nothing personal. There's nothing to treat. You're physically healthy.</content></utterance>
+<utterance uid="23-8"><speaker>EVE</speaker><content> Okay.</content></utterance>
+<utterance uid="23-9"><speaker>EVE</speaker><content> But I want you to be my doctor.</content></utterance>
+<utterance uid="23-10"><speaker>HOUSE</speaker><content> Why?</content></utterance>
+<utterance uid="23-11"><speaker>EVE</speaker><content> I don't know.</content></utterance>
+<utterance uid="23-12"><speaker>HOUSE</speaker><content>You gotta have a reason. Everything has a reason.</content></utterance>
+<utterance uid="23-13"><speaker>EVE</speaker><content>I trust you.</content></utterance>
+<utterance uid="23-14"><speaker>HOUSE</speaker><content>Ah, see, that's a bad reason. 'Cause I'll lie to you. I'll tell you anything just to get you out of here.</content></utterance>
+<utterance uid="23-15"><speaker>EVE</speaker><content>I don't care. I wanna talk to you.</content></utterance>
+<utterance uid="23-16"><speaker>HOUSE</speaker><content> Look, you were raped. All control was taken away from you. You're trying to find that control again. You want me because I don't want you.</content></utterance>
+<utterance uid="23-17"><speaker>EVE</speaker><content> I'm raping you?</content></utterance>
+<utterance uid="23-18"><speaker>HOUSE</speaker><content>In a very non-invasive, more annoying than trauma...</content></utterance>
+<utterance uid="23-19"><speaker>EVE</speaker><content> Get the hell out of here!</content></utterance>
+<utterance uid="23-20"><speaker>HOUSE</speaker><content>I'll send in Dr. Stone.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>HOMELESS OLD GUY</speaker><content> I didn't consent to all this medicine.</content></utterance>
+<utterance uid="24-2"><speaker>CAMERON</speaker><content>You've been out on the streets. No treatment...</content></utterance>
+<utterance uid="24-3"><speaker>HOMELESS OLD GUY</speaker><content>I'm dying, there's no treatment for dying.</content></utterance>
+<utterance uid="24-4"><speaker>CAMERON</speaker><content>We can make you comfortable.</content></utterance>
+<utterance uid="24-5"><speaker>HOMELESS OLD GUY</speaker><content>Don't wanna be.</content></utterance>
+<utterance uid="24-6"><speaker>CAMERON</speaker><content>Why not?</content></utterance>
+<utterance uid="24-7"><speaker>HOMELESS OLD GUY</speaker><content>Because I screwed up my life.</content></utterance>
+<utterance uid="24-8"><speaker>CAMERON</speaker><content>So you wanna punish yourself for messing up your life?</content></utterance>
+<utterance uid="24-9"><speaker>HOMELESS OLD GUY</speaker><content> Please, stop the treatment.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>HOUSE</speaker><content>It'll go away on it's own.</content></utterance>
+<utterance uid="25-2"><speaker>HICCUP GUY</speaker><content>It's not can... </content></utterance>
+<utterance uid="25-3"><speaker>HOUSE</speaker><content>No, it'll go away.</content></utterance>
+<utterance uid="25-4"><speaker>HICCUP GUY</speaker><content> It's been all day. There must be some treatment you...</content></utterance>
+<utterance uid="25-5"><speaker>HOUSE</speaker><content>Nope! It'll go away.</content></utterance>
+<utterance uid="25-6"><speaker>HICCUP GUY</speaker><content/></utterance>
+<utterance uid="25-7"><speaker>HOUSE</speaker><content>Or... it won't go away. </content></utterance>
+<utterance uid="25-8"><speaker>HICCUP GUY</speaker><content>I read about a treatment.</content></utterance>
+<utterance uid="25-9"><speaker>HICCUP GUY</speaker><content>Some guy won a prize for it.</content></utterance>
+<utterance uid="25-10"><speaker>HICCUP GUY</speaker><content>I read about it.</content></utterance>
+<utterance uid="25-11"><speaker>HOUSE</speaker><content>You don't have the hiccups, do you?</content></utterance>
+<utterance uid="25-12"><speaker>HICCUP GUY</speaker><content/></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>HOUSE</speaker><content> Make a note. Drug-seeking behaviour.</content></utterance>
+<utterance uid="26-2"><speaker>CUDDY</speaker><content>Morphine?</content></utterance>
+<utterance uid="26-3"><speaker>HOUSE</speaker><content>No! Anal-digital stimulation.</content></utterance>
+<utterance uid="26-4"><speaker>HOUSE</speaker><content>How long has Stone been in with her?</content></utterance>
+<utterance uid="26-5"><speaker>CUDDY</speaker><content>Are you concerned?</content></utterance>
+<utterance uid="26-6"><speaker>HOUSE</speaker><content>You know how many people get raped everyday?</content></utterance>
+<utterance uid="26-7"><speaker>CUDDY</speaker><content>So it's common, therefore boring.</content></utterance>
+<utterance uid="26-8"><speaker>HOUSE</speaker><content>We were to care for every person suffering on the planet, life would shut down.</content></utterance>
+<utterance uid="26-9"><speaker>CUDDY</speaker><content>How 'bout just the ones we meet?</content></utterance>
+<utterance uid="26-10"><speaker>HOUSE</speaker><content>They deserve our sympathy more than the other people?</content></utterance>
+<utterance uid="26-11"><speaker>CUDDY</speaker><content>So your solution is not to give a damn about any of them? How do you do that? How do you take that theory</content></utterance>
+<utterance uid="26-12"><speaker>HOUSE</speaker><content>Whoa, whoa, whoa! Hey! Whoa!</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>HOUSE</speaker><content>Hey!  I paid these people fifty bucks to leave here an hour ago.</content></utterance>
+<utterance uid="27-2"><speaker>HOUSE</speaker><content>Then you owe fifty.</content></utterance>
+<utterance uid="27-3"><speaker>DOCTOR</speaker><content>The kid needs surgery.</content></utterance>
+<utterance uid="27-4"><speaker>HOUSE</speaker><content> And he could walk way back then.  Stand up, kid.</content></utterance>
+<utterance uid="27-5"><speaker>DOCTOR</speaker><content>He swallowed a magnet. We gotta cut it out.</content></utterance>
+<utterance uid="27-6"><speaker>HOUSE</speaker><content>How old are you?</content></utterance>
+<utterance uid="27-7"><speaker>HOUSE</speaker><content>And he swallowed something stuck to a fridge? Darwin says let him die.</content></utterance>
+<utterance uid="27-8"><speaker>HOUSE</speaker><content>It's already below the stomach. It should pass on its own.</content></utterance>
+<utterance uid="27-9"><speaker>DOCTOR</speaker><content>Strong magnet. It's messing with the imaging. We have no way to...</content></utterance>
+<utterance uid="27-10"><speaker>DOCTOR</speaker><content>Got X-ray vision, House?</content></utterance>
+<utterance uid="27-11"><speaker>HOUSE</speaker><content>It's well into the intestines. He's fine.  I want my fifty back.</content></utterance>
+</scene>
+
+
+
+
+<scene id="28"><utterance uid="28-1"><speaker>HOUSE</speaker><content>What happened?</content></utterance>
+<utterance uid="28-2"><speaker>CUDDY</speaker><content>Breastplate sounds shallow.</content></utterance>
+<utterance uid="28-3"><speaker>HOUSE</speaker><content> What did you say to her?</content></utterance>
+<utterance uid="28-4"><speaker>CUDDY</speaker><content>Heartbeat's irregular!</content></utterance>
+<utterance uid="28-5"><speaker>HOUSE</speaker><content>What did she say to you?</content></utterance>
+<utterance uid="28-6"><speaker>HOUSE</speaker><content>You must have said something.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>HOUSE</speaker><content>You gonna do that again?</content></utterance>
+<utterance uid="29-2"><speaker>HOUSE</speaker><content>You're gonna be okay... physically.</content></utterance>
+<utterance uid="29-3"><speaker>EVE</speaker><content>Which is all that interests you.</content></utterance>
+<utterance uid="29-4"><speaker>EVE</speaker><content>You're here.</content></utterance>
+<utterance uid="29-5"><speaker>HOUSE</speaker><content>Under orders.</content></utterance>
+<utterance uid="29-6"><speaker>EVE</speaker><content>Why would you tell me that?</content></utterance>
+<utterance uid="29-7"><speaker>HOUSE</speaker><content>'Cause I don't like hypocrisy.</content></utterance>
+<utterance uid="29-8"><speaker>EVE</speaker><content>But you don't have a problem with cruelty?</content></utterance>
+<utterance uid="29-9"><speaker>HOUSE</speaker><content>Which brings us back to, why do you want me?</content></utterance>
+<utterance uid="29-10"><speaker>EVE</speaker><content>I don't know.</content></utterance>
+<utterance uid="29-11"><speaker>HOUSE</speaker><content>Tried to kill yourself 'cause you couldn't talk to me. Must have a reason.</content></utterance>
+<utterance uid="29-12"><speaker>EVE</speaker><content> Why's there always have to be a reason? Can't we just talk?</content></utterance>
+<utterance uid="29-13"><speaker>HOUSE</speaker><content> There's a phone. Talk to a friend. Family-member. Call the police.</content></utterance>
+<utterance uid="29-14"><speaker>HOUSE</speaker><content> You wanna talk about what happened to you?</content></utterance>
+<utterance uid="29-15"><speaker>EVE</speaker><content>No.</content></utterance>
+<utterance uid="29-16"><speaker>HOUSE</speaker><content> Talk about your STD meds?</content></utterance>
+<utterance uid="29-17"><speaker>EVE</speaker><content>No.</content></utterance>
+<utterance uid="29-18"><speaker>HOUSE</speaker><content>You don't really seem to wanna talk.</content></utterance>
+<utterance uid="29-19"><speaker>EVE</speaker><content>No, I do.</content></utterance>
+<utterance uid="29-20"><speaker>HOUSE</speaker><content>'Bout what?</content></utterance>
+<utterance uid="29-21"><speaker>EVE</speaker><content>I don't know. Anything.</content></utterance>
+<utterance uid="29-22"><speaker>HOUSE</speaker><content>The weather?</content></utterance>
+<utterance uid="29-23"><speaker>HOUSE</speaker><content>You were raped and you want to talk about the weather?</content></utterance>
+<utterance uid="29-24"><speaker>EVE</speaker><content> Yeah.</content></utterance>
+<utterance uid="29-25"><speaker>HOUSE</speaker><content> I'm not gonna talk to you about the weather.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>HOUSE</speaker><content> You'll help her!</content></utterance>
+<utterance uid="30-2"><speaker>CAMERON</speaker><content>She wants you.</content></utterance>
+<utterance uid="30-3"><speaker>FOREMAN</speaker><content>God knows why.</content></utterance>
+<utterance uid="30-4"><speaker>HOUSE</speaker><content>She doesn't know what she wants.</content></utterance>
+<utterance uid="30-5"><speaker>CAMERON</speaker><content>She knows she wants you. You're the first person she spoke to about this.</content></utterance>
+<utterance uid="30-6"><speaker>HOUSE</speaker><content>Fact that I was in the wrong place at the wrong time, should be trumped by the fact that I'm useless at this.</content></utterance>
+<utterance uid="30-7"><speaker>CAMERON</speaker><content>No, you're not.</content></utterance>
+<utterance uid="30-8"><speaker>CHASE</speaker><content> You romantically wanting to believe that is never gonna make it true.</content></utterance>
+<utterance uid="30-9"><speaker>CHASE</speaker><content> I'm agreeing with you. You're the last person she should be talking to.</content></utterance>
+<utterance uid="30-10"><speaker>FOREMAN</speaker><content>She wants to talk about the weather, talk about the weather. She wants normalcy. She wants to feel like the world didn't end.</content></utterance>
+<utterance uid="30-11"><speaker>HOUSE</speaker><content>Right. I'll tell her that everything went on without her. Babies were born, people got married. Thousands of people will remember the day she got raped as the happiest day of their lives.</content></utterance>
+<utterance uid="30-12"><speaker>FOREMAN</speaker><content>You might not wanna phrase it quite that way.</content></utterance>
+<utterance uid="30-13"><speaker>CAMERON</speaker><content>You need to get her to talk about what happened.</content></utterance>
+<utterance uid="30-14"><speaker>FOREMAN</speaker><content>No, he doesn't.</content></utterance>
+<utterance uid="30-15"><speaker>CAMERON</speaker><content> Pretending it didn't happen...</content></utterance>
+<utterance uid="30-16"><speaker>FOREMAN</speaker><content>Wrong! Pretending this didn't happen is the best thing she could possibly do.</content></utterance>
+<utterance uid="30-17"><speaker>CAMERON</speaker><content> She's gotta make this real.</content></utterance>
+<utterance uid="30-18"><speaker>FOREMAN</speaker><content>You know what we should be trying to make real or process? The few decent moments in our lives, not the crap.</content></utterance>
+<utterance uid="30-19"><speaker>CAMERON</speaker><content> Maybe you're right! Except there's no way she can pretend this didn't happen, so she has no choice but to process it.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>HOUSE</speaker><content>You gotta tell me what happened.</content></utterance>
+<utterance uid="31-2"><speaker>EVE</speaker><content>You don't really wanna hear.</content></utterance>
+<utterance uid="31-3"><speaker>HOUSE</speaker><content> Sure I do.</content></utterance>
+<utterance uid="31-4"><speaker>EVE</speaker><content>You're lying.</content></utterance>
+<utterance uid="31-5"><speaker>HOUSE</speaker><content>Doesn't have to destroy your life.</content></utterance>
+<utterance uid="31-6"><speaker>EVE</speaker><content>I know.</content></utterance>
+<utterance uid="31-7"><speaker>HOUSE</speaker><content>Doesn't mean anything about you. Wasn't your fault.</content></utterance>
+<utterance uid="31-8"><speaker>EVE</speaker><content>I know.</content></utterance>
+<utterance uid="31-9"><speaker>HOUSE</speaker><content>You did nothing wrong. Some jerk hurt you, that's all.</content></utterance>
+<utterance uid="31-10"><speaker>EVE</speaker><content> I know.</content></utterance>
+<utterance uid="31-11"><speaker>HOUSE</speaker><content>You're worried that you can never trust men again.</content></utterance>
+<utterance uid="31-12"><speaker>EVE</speaker><content> No.</content></utterance>
+<utterance uid="31-13"><speaker>HOUSE</speaker><content>Statistically, there was always a chance this could happen. The fact that it did happen doesn't change anything. World doesn't suck anymore today than it did yesterday.</content></utterance>
+<utterance uid="31-14"><speaker>EVE</speaker><content>I know all that.</content></utterance>
+<utterance uid="31-15"><speaker>HOUSE</speaker><content> Then what do you want me to tell you?</content></utterance>
+<utterance uid="31-16"><speaker>EVE</speaker><content>Nothing. I just want to talk.</content></utterance>
+<utterance uid="31-17"><speaker>HOUSE</speaker><content>About nothing.</content></utterance>
+<utterance uid="31-18"><speaker>HOUSE</speaker><content>We talk about nothing, nothing will change.</content></utterance>
+<utterance uid="31-19"><speaker>EVE</speaker><content>It might.</content></utterance>
+<utterance uid="31-20"><speaker>HOUSE</speaker><content>How?</content></utterance>
+<utterance uid="31-21"><speaker>EVE</speaker><content>Time. Time changes everything.</content></utterance>
+<utterance uid="31-22"><speaker>HOUSE</speaker><content> It's what people say. It's not true. Doing things changes things. Not doing things,... leaves things exactly as they were.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>CAMERON</speaker><content>Why do you have to suffer?</content></utterance>
+<utterance uid="32-2"><speaker>HOMELESS OLD GUY</speaker><content>I gave my word.</content></utterance>
+<utterance uid="32-3"><speaker>CAMERON</speaker><content>Who would make you promise that?</content></utterance>
+<utterance uid="32-4"><speaker>HOMELESS OLD GUY</speaker><content>My father. He said I would die alone and miserable.</content></utterance>
+<utterance uid="32-5"><speaker>CAMERON</speaker><content>That's not a promise. And even if it was, he's dead and even if he's not, he's not gonna care.</content></utterance>
+<utterance uid="32-6"><speaker>HOMELESS OLD GUY</speaker><content>Why did your husband have to suffer?</content></utterance>
+<utterance uid="32-7"><speaker>CAMERON</speaker><content> How do you about my husband?</content></utterance>
+<utterance uid="32-8"><speaker>HOMELESS OLD GUY</speaker><content>Well, I just know.</content></utterance>
+<utterance uid="32-9"><speaker>CAMERON</speaker><content>You have to die in pain because of a promise you made to your father?</content></utterance>
+<utterance uid="32-10"><speaker>HOMELESS OLD GUY</speaker><content>If I'd say "yes", you'd use that as proof that I'm insane. Force treatment on me.</content></utterance>
+<utterance uid="32-11"><speaker>CAMERON</speaker><content>Did the nurse tell you about my husband?</content></utterance>
+<utterance uid="32-12"><speaker>HOMELESS OLD GUY</speaker><content>No.</content></utterance>
+<utterance uid="32-13"><speaker>CAMERON</speaker><content> Nurse!</content></utterance>
+<utterance uid="32-14"><speaker>HOMELESS OLD GUY</speaker><content>Yes!</content></utterance>
+<utterance uid="32-15"><speaker>CAMERON</speaker><content> It's under control.</content></utterance>
+<utterance uid="32-16"><speaker>HOMELESS OLD GUY</speaker><content>I'm sorry. I was just trying to freak you out.</content></utterance>
+<utterance uid="32-17"><speaker>CAMERON</speaker><content>Why?</content></utterance>
+<utterance uid="32-18"><speaker>HOMELESS OLD GUY</speaker><content>Because I need you to remember me. I need somebody to remember me.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>HOUSE</speaker><content>Where'd you go to college?</content></utterance>
+<utterance uid="33-2"><speaker>EVE</speaker><content>Northwestern. You?</content></utterance>
+<utterance uid="33-3"><speaker>HOUSE</speaker><content>Hopkins. What was your major?</content></utterance>
+<utterance uid="33-4"><speaker>EVE</speaker><content>Comparative religion.</content></utterance>
+<utterance uid="33-5"><speaker>HOUSE</speaker><content> Why do you trust me?</content></utterance>
+<utterance uid="33-6"><speaker>EVE</speaker><content>I don't know. Can't we just talk...?</content></utterance>
+<utterance uid="33-7"><speaker>HOUSE</speaker><content> That's not rational!</content></utterance>
+<utterance uid="33-8"><speaker>EVE</speaker><content>Nothing's rational.</content></utterance>
+<utterance uid="33-9"><speaker>HOUSE</speaker><content>Everything is rational!</content></utterance>
+<utterance uid="33-10"><speaker>EVE</speaker><content>I was raped. Explain how that makes sense to you.</content></utterance>
+<utterance uid="33-11"><speaker>HOUSE</speaker><content> We are selfish, base animals, crawling across the earth. But 'cause we got brains, if we try real hard, we can occasionally aspire to something that is less than pure evil.</content></utterance>
+<utterance uid="33-12"><speaker>EVE</speaker><content> Has anything terrible ever happened to you?</content></utterance>
+<utterance uid="33-13"><speaker>HOUSE</speaker><content> What do you want me to say?</content></utterance>
+<utterance uid="33-14"><speaker>EVE</speaker><content>You wanted this conversation. You wanted to talk about something that matters.  Talk.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>WILSON</speaker><content>She's waiting for your answer?</content></utterance>
+<utterance uid="34-2"><speaker>HOUSE</speaker><content>She's asleep. I sedated her.</content></utterance>
+<utterance uid="34-3"><speaker>WILSON</speaker><content> Why do you care what you say?</content></utterance>
+<utterance uid="34-4"><speaker>HOUSE</speaker><content> Because I don't know how to answer these questions.</content></utterance>
+<utterance uid="34-5"><speaker>WILSON</speaker><content>It’s a simple question. Has your life sucked? Tell her the truth. Tell her you were shot. Tell her...</content></utterance>
+<utterance uid="34-6"><speaker>HOUSE</speaker><content>She doesn't wanna hear the truth. She's looking for something. Looking to extrapolate something...</content></utterance>
+<utterance uid="34-7"><speaker>WILSON</speaker><content>She's looking to connect with you, and that's what's scaring the hell out of you. Tell her the truth.</content></utterance>
+<utterance uid="34-8"><speaker>HOUSE</speaker><content>There is no truth.</content></utterance>
+<utterance uid="34-9"><speaker>WILSON</speaker><content> Are we role-playing? Am I you? I don't wanna be you.</content></utterance>
+<utterance uid="34-10"><speaker>HOUSE</speaker><content>She's not asking for test results. She's not asking what two plus two equals. She's asking for my personal life experience, so she can extrapolate the law of humanity. That's not truth, that's bad science.</content></utterance>
+<utterance uid="34-11"><speaker>WILSON</speaker><content>It's not science at all. Tell her the truth.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>CAMERON</speaker><content>Tell her your life has been good.</content></utterance>
+<utterance uid="35-2"><speaker>HOUSE</speaker><content>It hasn't been.</content></utterance>
+<utterance uid="35-3"><speaker>CAMERON</speaker><content>Tell her anyway. She wants hope, she wants to know that what happened to her wasn't the norm. Things can be okay, which means maybe they can be okay for her again.</content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>FOREMAN</speaker><content>Tell her your life sucked.</content></utterance>
+<utterance uid="36-2"><speaker>HOUSE</speaker><content>It didn't.</content></utterance>
+<utterance uid="36-3"><speaker>FOREMAN</speaker><content>Tell her anyway. She wants to know she's not alone. She wants to know she's gonna survive this thing. Other people have been through this and worse, and come out the other end. She wants to know she's going to heal.</content></utterance>
+<utterance uid="36-4"><speaker>FOREMAN</speaker><content>Act like... you've healed.</content></utterance>
+</scene>
+<scene id="37"><utterance uid="37-1"><speaker>CHASE</speaker><content>Tell her...  Keep her asleep.</content></utterance>
+<utterance uid="37-2"><speaker>HOUSE</speaker><content>Thanks, you've all been a huge help.</content></utterance>
+<utterance uid="37-3"><speaker>CHASE</speaker><content>There's no wrong answer. Because there's no right answer.</content></utterance>
+<utterance uid="37-4"><speaker>HOUSE</speaker><content>Wrong. We just don't know what the right answer is.</content></utterance>
+</scene>
+<scene id="38"><utterance uid="38-1"><speaker>HOUSE</speaker><content>Wake up.</content></utterance>
+<utterance uid="38-2"><speaker>HOUSE</speaker><content>'S not bad as what happened to you, I don't think. I don't know what happened to you. And given how lousy you're responding, I assumed it was worse than getting abused by your grandmother.</content></utterance>
+<utterance uid="38-3"><speaker>EVE</speaker><content>What did she do to you?</content></utterance>
+<utterance uid="38-4"><speaker>HOUSE</speaker><content>Parents travelled a lot, leaving me with her. She liked things the way she liked them. She believed in discipline. She was right, I suppose. I hardly ever screwed up when she was around. Too scared of... being forced to sleep in the yard or take a bath in ice.  Your turn.</content></utterance>
+<utterance uid="38-5"><speaker>EVE</speaker><content>Your parents, they-they never stopped her?</content></utterance>
+<utterance uid="38-6"><speaker>HOUSE</speaker><content> Never told them.</content></utterance>
+<utterance uid="38-7"><speaker>EVE</speaker><content>Why not?</content></utterance>
+<utterance uid="38-8"><speaker>HOUSE</speaker><content>Usual reasons. I was afraid they wouldn't believe me and I was afraid they'd think I' done something wrong.  I opened up to you, you open up to me.</content></utterance>
+<utterance uid="38-9"><speaker>EVE</speaker><content>What did you call her?</content></utterance>
+<utterance uid="38-10"><speaker>HOUSE</speaker><content>Oma.</content></utterance>
+<utterance uid="38-11"><speaker>EVE</speaker><content>And you kept calling her that after this?</content></utterance>
+<utterance uid="38-12"><speaker>HOUSE</speaker><content>Dutch for "grandmother". She's still my grandmother. And she was still Dutch.</content></utterance>
+<utterance uid="38-13"><speaker>EVE</speaker><content> Is any part of that story true?</content></utterance>
+<utterance uid="38-14"><speaker>HOUSE</speaker><content>All of it.</content></utterance>
+<utterance uid="38-15"><speaker>EVE</speaker><content> You wouldn't keep calling her "Oma".  Something would have to change.</content></utterance>
+<utterance uid="38-16"><speaker>HOUSE</speaker><content>You don't know me.</content></utterance>
+<utterance uid="38-17"><speaker>EVE</speaker><content> You wouldn't keep calling her "Oma"!</content></utterance>
+<utterance uid="38-18"><speaker>HOUSE</speaker><content>Look, you're overreacting.</content></utterance>
+<utterance uid="38-19"><speaker>EVE</speaker><content>Do not dismiss me!</content></utterance>
+<utterance uid="38-20"><speaker>HOUSE</speaker><content>Not dismissing you. Saying you're not acting rationally.</content></utterance>
+<utterance uid="38-21"><speaker>EVE</speaker><content>I'm angry because you're lying to me.</content></utterance>
+<utterance uid="38-22"><speaker>HOUSE</speaker><content> No. You're...</content></utterance>
+<utterance uid="38-23"><speaker>EVE</speaker><content>What can I do? What the hell can I do that you're not gonna dismiss as just being because I was raped?</content></utterance>
+<utterance uid="38-24"><speaker>HOUSE</speaker><content> Nothing.</content></utterance>
+<utterance uid="38-25"><speaker>EVE</speaker><content> Your story. Is it true?</content></utterance>
+<utterance uid="38-26"><speaker>HOUSE</speaker><content> True for somebody.</content></utterance>
+<utterance uid="38-27"><speaker>EVE</speaker><content>But not for you.</content></utterance>
+<utterance uid="38-28"><speaker>HOUSE</speaker><content> These things happen. Happened to somebody. What do you care if it happened to me?</content></utterance>
+<utterance uid="38-29"><speaker>EVE</speaker><content>They're not in this room.</content></utterance>
+<utterance uid="38-30"><speaker>HOUSE</speaker><content> No! They're out there! Doctors, lawyers,... postal workers! Some of them doing great, some of them doing lousy! You're gonna base your whole life on who you got stuck in a room with?</content></utterance>
+<utterance uid="38-31"><speaker>EVE</speaker><content> I'm gonna base this moment on who I'm stuck in a room with. It's what life is. It's a series of rooms. And who we get stuck in those rooms with adds up to what our lives are.</content></utterance>
+<utterance uid="38-32"><speaker>CUDDY</speaker><content>House.</content></utterance>
+<utterance uid="38-33"><speaker>HOUSE</speaker><content>You gotta get me out of this. There's nothing to diagnose. There's nothing...</content></utterance>
+<utterance uid="38-34"><speaker>CUDDY</speaker><content>You only tested her for STDs?</content></utterance>
+<utterance uid="38-35"><speaker>HOUSE</speaker><content>I had seven morons who forgot their raincoats. 'S all they asked for, so I didn't waste the lab's time. Why?</content></utterance>
+<utterance uid="38-36"><speaker>CUDDY</speaker><content>I wasted their time.  She's pregnant.</content></utterance>
+</scene>
+<scene id="39"><utterance uid="39-1"><speaker>HOUSE</speaker><content>You understand?  You okay? I know you're not okay. Are you more or less not okay than you were five minutes ago.</content></utterance>
+<utterance uid="39-2"><speaker>EVE</speaker><content>About the same.</content></utterance>
+<utterance uid="39-3"><speaker>HOUSE</speaker><content>Termination procedure is unpleasant.</content></utterance>
+<utterance uid="39-4"><speaker>EVE</speaker><content>I don't wanna terminate.</content></utterance>
+<utterance uid="39-5"><speaker>HOUSE</speaker><content>You wanna keep the baby?</content></utterance>
+<utterance uid="39-6"><speaker>EVE</speaker><content>Abortion is murder.</content></utterance>
+<utterance uid="39-7"><speaker>HOUSE</speaker><content>True.  It's a life. And you should end it.</content></utterance>
+<utterance uid="39-8"><speaker>EVE</speaker><content> Every life is sacred.</content></utterance>
+<utterance uid="39-9"><speaker>HOUSE</speaker><content> Talk to me, don't quote me bumper stickers.</content></utterance>
+<utterance uid="39-10"><speaker>EVE</speaker><content>It's true.</content></utterance>
+<utterance uid="39-11"><speaker>HOUSE</speaker><content>It's meaningless.</content></utterance>
+<utterance uid="39-12"><speaker>EVE</speaker><content>It means every life matters to God.</content></utterance>
+<utterance uid="39-13"><speaker>HOUSE</speaker><content>Not to me, not to you.  Judging by the number of natural disasters, not to God either.</content></utterance>
+<utterance uid="39-14"><speaker>EVE</speaker><content>You're just being argumentative.</content></utterance>
+<utterance uid="39-15"><speaker>HOUSE</speaker><content>Yeah! I do do that. What about Hitler? Is his life sacred to God? Father of your child? Is his life sacred to you?</content></utterance>
+<utterance uid="39-16"><speaker>EVE</speaker><content>My child isn't Hitler.</content></utterance>
+<utterance uid="39-17"><speaker>HOUSE</speaker><content>Either every life is sacred or...</content></utterance>
+<utterance uid="39-18"><speaker>EVE</speaker><content> Stop it! I don't wanna chat about philosophy!</content></utterance>
+<utterance uid="39-19"><speaker>HOUSE</speaker><content>You're not killing your rape baby because of a philosophy.</content></utterance>
+<utterance uid="39-20"><speaker>EVE</speaker><content>It's murder! I'm against it. You for it?</content></utterance>
+<utterance uid="39-21"><speaker>HOUSE</speaker><content>Not as a general rule.</content></utterance>
+<utterance uid="39-22"><speaker>EVE</speaker><content>Just for unborn children?</content></utterance>
+<utterance uid="39-23"><speaker>HOUSE</speaker><content>Yes!  The problem with exceptions to rules is the line drawn. Might makes sense for us to kill the ass that did this to you. But where do we draw the line? Which asses do we get to kill? Which asses get to keep on being asses? Nice thing about the abortion debate is we can quibble over trimesters, but ultimately there's an ice-cold line - birth. Morally, there isn't a lot of difference. Practically, huge.</content></utterance>
+<utterance uid="39-24"><speaker>EVE</speaker><content>You're enjoying this conversation.</content></utterance>
+<utterance uid="39-25"><speaker>HOUSE</speaker><content> This is the type of conversation I do well.</content></utterance>
+<utterance uid="39-26"><speaker>EVE</speaker><content>But the other type?  The personal stuff?</content></utterance>
+<utterance uid="39-27"><speaker>HOUSE</speaker><content>There are no answers.If there are no answers, why talk about it?</content></utterance>
+<utterance uid="39-28"><speaker>HOUSE</speaker><content>You're healthy. You shouldn't be here.</content></utterance>
+<utterance uid="39-29"><speaker>EVE</speaker><content>I don't wanna go.</content></utterance>
+<utterance uid="39-30"><speaker>HOUSE</speaker><content> Fine. I won't discharge you.  Wanna go for a walk?</content></utterance>
+</scene>
+<scene id="40"><utterance uid="40-1"><speaker>HOMELESS OLD GUY</speaker><content>The last of my journey.</content></utterance>
+<utterance uid="40-2"><speaker>CAMERON</speaker><content>You don't deserve pain. You're just an insane, old man.</content></utterance>
+<utterance uid="40-3"><speaker>HOMELESS OLD GUY</speaker><content>No. No.</content></utterance>
+<utterance uid="40-4"><speaker>CAMERON</speaker><content>I'm not gonna watch you suffer.</content></utterance>
+<utterance uid="40-5"><speaker>HOMELESS OLD GUY</speaker><content> I need you to remember me.</content></utterance>
+<utterance uid="40-6"><speaker>CAMERON</speaker><content> I'll remember you!</content></utterance>
+<utterance uid="40-7"><speaker>HOMELESS OLD GUY</speaker><content>Why?</content></utterance>
+<utterance uid="40-8"><speaker>CAMERON</speaker><content>Because you're a nice man.</content></utterance>
+<utterance uid="40-9"><speaker>HOMELESS OLD GUY</speaker><content>You don't know that. You don't know anything about me.</content></utterance>
+<utterance uid="40-10"><speaker>CAMERON</speaker><content>Either you're a nice man or you're an ass. Either way you did something to somebody that they're gonna remember.</content></utterance>
+<utterance uid="40-11"><speaker>HOMELESS OLD GUY</speaker><content> I have no family, I have no friends. I didn't even have a real job. If I die in peace, then I'm just another patient. But if I die suffering...</content></utterance>
+<utterance uid="40-12"><speaker>CAMERON</speaker><content> It'll be horrible. Don't do that to either of us.</content></utterance>
+<utterance uid="40-13"><speaker>HOMELESS OLD GUY</speaker><content>No! I just need to die, knowing that something is different because I was here.</content></utterance>
+</scene>
+<scene id="41"><utterance uid="41-1"><speaker>HOUSE</speaker><content>Life goes on.</content></utterance>
+<utterance uid="41-2"><speaker>EVE</speaker><content>Is that the reason we're out here?</content></utterance>
+<utterance uid="41-3"><speaker>HOUSE</speaker><content>Know why I come here? I sit, I watch, I imagine.</content></utterance>
+<utterance uid="41-4"><speaker>EVE</speaker><content>Sounds nice.</content></utterance>
+<utterance uid="41-5"><speaker>HOUSE</speaker><content> Imagine if one of them would break a leg.</content></utterance>
+<utterance uid="41-6"><speaker>HOUSE</speaker><content>Just one false step. One crack in the sidewalk.</content></utterance>
+<utterance uid="41-7"><speaker>EVE</speaker><content> You don't really.</content></utterance>
+<utterance uid="41-8"><speaker>HOUSE</speaker><content>I'm evil.</content></utterance>
+<utterance uid="41-9"><speaker>EVE</speaker><content>Evil people don't say they're evil.</content></utterance>
+<utterance uid="41-10"><speaker>HOUSE</speaker><content>Sounds like an easy loophole.  People can do good things, but their instincts are not good. Either God doesn't exist or he's unimaginably cruel.</content></utterance>
+<utterance uid="41-11"><speaker>EVE</speaker><content> I don't believe that.</content></utterance>
+<utterance uid="41-12"><speaker>HOUSE</speaker><content>What do you believe? Why do you think this happened?</content></utterance>
+<utterance uid="41-13"><speaker>EVE</speaker><content> I don't wanna talk about it.</content></utterance>
+<utterance uid="41-14"><speaker>HOUSE</speaker><content>Me neither. Too bad.</content></utterance>
+<utterance uid="41-15"><speaker>EVE</speaker><content> Y'know, I don't think there was a reason! </content></utterance>
+<utterance uid="41-16"><speaker>HOUSE</speaker><content>Huh-huh. So God does exist, 'less you get raped. Easier to keep your rape baby for no reason.</content></utterance>
+<utterance uid="41-17"><speaker>EVE</speaker><content> Maybe he was challenging me!</content></utterance>
+<utterance uid="41-18"><speaker>HOUSE</speaker><content>He hurts you to help you.</content></utterance>
+<utterance uid="41-19"><speaker>HOUSE</speaker><content>I guess it's better than he hates you.</content></utterance>
+<utterance uid="41-20"><speaker>EVE</speaker><content> You're trying to convince me there's no God! Why would you even say something like that?</content></utterance>
+<utterance uid="41-21"><speaker>HOUSE</speaker><content>Because you're throwing your life away.</content></utterance>
+<utterance uid="41-22"><speaker>EVE</speaker><content>I'm doing what I believe!</content></utterance>
+<utterance uid="41-23"><speaker>HOUSE</speaker><content>What you believe doesn't make sense.</content></utterance>
+<utterance uid="41-24"><speaker>EVE</speaker><content>This is not helping me.</content></utterance>
+<utterance uid="41-25"><speaker>HOUSE</speaker><content>Then I can't help you.</content></utterance>
+<utterance uid="41-26"><speaker>HOUSE</speaker><content>If you believe in eternity, then... life is irrelevant. Same way that a bug is irrelevant in comparison to the universe.</content></utterance>
+<utterance uid="41-27"><speaker>EVE</speaker><content> If you don't believe in eternity, then what you do here is irrelevant.</content></utterance>
+<utterance uid="41-28"><speaker>HOUSE</speaker><content> Your actions here are all that matters.</content></utterance>
+<utterance uid="41-29"><speaker>EVE</speaker><content>Then nothing matters. There's no ultimate consequences. I couldn't live with that.</content></utterance>
+<utterance uid="41-30"><speaker>HOUSE</speaker><content>So you need to think that the guy that did this to you is gonna be punished.</content></utterance>
+<utterance uid="41-31"><speaker>EVE</speaker><content>I need to know that it all means something. I need that comfort.</content></utterance>
+<utterance uid="41-32"><speaker>HOUSE</speaker><content>Yeah. You feeling comfortable? Feeling good right now? Feeling warm inside?</content></utterance>
+<utterance uid="41-33"><speaker>EVE</speaker><content>I was raped. What's your excuse?</content></utterance>
+</scene>
+
+<scene id="42"><utterance uid="42-1"><speaker>EVE</speaker><content> Do you think the guy who did this to me feels bad?</content></utterance>
+<utterance uid="42-2"><speaker>HOUSE</speaker><content>That'll help you? Make you feel better?</content></utterance>
+<utterance uid="42-3"><speaker>EVE</speaker><content>Why do you always do that? Ask why I'm asking a question, instead of just answering the question.</content></utterance>
+<utterance uid="42-4"><speaker>HOUSE</speaker><content>The answer doesn't interest me. I don't care what he's feeling. I'm interested in what you're feeling.</content></utterance>
+<utterance uid="42-5"><speaker>EVE</speaker><content>You are?</content></utterance>
+<utterance uid="42-6"><speaker>HOUSE</speaker><content>I'm trapped in a room with you, right?</content></utterance>
+<utterance uid="42-7"><speaker>HOUSE</speaker><content>Why did you choose me?</content></utterance>
+<utterance uid="42-8"><speaker>EVE</speaker><content>There's something about you. 'S like you're hurt too.</content></utterance>
+<utterance uid="42-9"><speaker>HOUSE</speaker><content> It was true.</content></utterance>
+<utterance uid="42-10"><speaker>EVE</speaker><content>What was?</content></utterance>
+<utterance uid="42-11"><speaker>HOUSE</speaker><content>Wasn't my grandmother, but it was true.</content></utterance>
+<utterance uid="42-12"><speaker>EVE</speaker><content>Who was it?</content></utterance>
+<utterance uid="42-13"><speaker>HOUSE</speaker><content>It's my dad.</content></utterance>
+<utterance uid="42-14"><speaker>EVE</speaker><content>I'd like to tell you what happened to me now.</content></utterance>
+<utterance uid="42-15"><speaker>HOUSE</speaker><content>I'd like to hear it.</content></utterance>
+<utterance uid="42-16"><speaker>EVE</speaker><content>It was a friend's birthday party...</content></utterance>
+<utterance uid="42-17"><speaker>FADE TO</speaker><content/></utterance>
+<utterance uid="42-18"><speaker>FADE TO</speaker><content/></utterance>
+</scene>
+<scene id="43"><utterance uid="43-1"><speaker>HOUSE</speaker><content> She terminated it. She's been discharged.</content></utterance>
+<utterance uid="43-2"><speaker>CUDDY</speaker><content>She's gonna be okay.</content></utterance>
+<utterance uid="43-3"><speaker>HOUSE</speaker><content> Yeah, it's that simple.</content></utterance>
+<utterance uid="43-4"><speaker>CUDDY</speaker><content>She's talking about what happened. That's huge. You did good.</content></utterance>
+<utterance uid="43-5"><speaker>HOUSE</speaker><content>Everyone will tell you... that that's what we gotta make her do. We have to help her, right? Except we can't. We drag out her story. Tell each other that it'll help her heal. Feel real good about ourselves. But all we've done is make a girl cry.</content></utterance>
+<utterance uid="43-6"><speaker>WILSON</speaker><content> Then why did you...?</content></utterance>
+<utterance uid="43-7"><speaker>HOUSE</speaker><content> Because I don't know.</content></utterance>
+<utterance uid="43-8"><speaker>WILSON</speaker><content>You gonna follow up with her?</content></utterance>
+<utterance uid="43-9"><speaker>HOUSE</speaker><content> One day, one room.</content></utterance>
+</scene>
+</script>

@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+
+<scene id="1"><utterance uid="1-1"><speaker>MARTHA RODGERS</speaker><content>Isn’t this exciting?</content></utterance>
+<utterance uid="1-2"><speaker>RICHARD CASTLE</speaker><content>It’s just a weekend, Mother.</content></utterance>
+<utterance uid="1-3"><speaker>ALEXIS CASTLE</speaker><content>Dad, it’s your first romantic weekend away with Beckett. It’s a big deal.</content></utterance>
+<utterance uid="1-4"><speaker>CASTLE</speaker><content>Okay, well, no pressure. And let’s just hope it happens.  It’s 4:30 now. If she doesn’t catch a murder by 5 o’clock, we are in the clear.</content></utterance>
+<utterance uid="1-5"><speaker>MARTHA</speaker><content>So, what do you have planned?</content></utterance>
+<utterance uid="1-6"><speaker>CASTLE</speaker><content>I – what do you mean?</content></utterance>
+<utterance uid="1-7"><speaker>ALEXIS</speaker><content>You don’t have a plan.</content></utterance>
+<utterance uid="1-8"><speaker>CASTLE</speaker><content>The plan is to do nothing. To relax.</content></utterance>
+<utterance uid="1-9"><speaker>MARTHA</speaker><content>Richard -</content></utterance>
+<utterance uid="1-10"><speaker>ALEXIS</speaker><content>That’s not a plan. Women don’t like it when men don’t have a plan.  Hey, I’m in college now, I’m living in the world. Plus I read a lot of magazines. Not planning is really bad.</content></utterance>
+<utterance uid="1-11"><speaker>CASTLE</speaker><content>Okay -</content></utterance>
+<utterance uid="1-12"><speaker>MARTHA</speaker><content>She’s right. A man says “so what are we gonna do for dinner”,  – he’s dead to me.</content></utterance>
+<utterance uid="1-13"><speaker>CASTLE</speaker><content>Okay. I will make reservations.</content></utterance>
+<utterance uid="1-14"><speaker>ALEXIS</speaker><content>Somewhere romantic.</content></utterance>
+<utterance uid="1-15"><speaker>CASTLE</speaker><content>Right.</content></utterance>
+<utterance uid="1-16"><speaker>MARTHA</speaker><content>And classy. Because Kate Beckett is a classy kind of gal.</content></utterance>
+<utterance uid="1-17"><speaker>CASTLE</speaker><content>Right.</content></utterance>
+<utterance uid="1-18"><speaker>ALEXIS</speaker><content>Under the stars would be nice!</content></utterance>
+<utterance uid="1-19"><speaker>MARTHA</speaker><content>Ooh, and you know what else you could do under the stars –</content></utterance>
+<utterance uid="1-20"><speaker>CASTLE</speaker><content>‘kay!</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>CASTLE</speaker><content>T-minus 1 minute and counting.</content></utterance>
+<utterance uid="2-2"><speaker>KATE BECKETT</speaker><content> Castle, what are you doing here? You were supposed to wait around the corner so that nobody’d see us.</content></utterance>
+<utterance uid="2-3"><speaker>CASTLE</speaker><content>I know, but I thought it would be fun to be here with you when the clock strikes 5.  You know, like New Year’s Eve, except without the kissing, for obvious reasons,  - but there will be plenty of that this weekend.</content></utterance>
+<utterance uid="2-4"><speaker>BECKETT</speaker><content>Can’t you just … shush?</content></utterance>
+<utterance uid="2-5"><speaker>CASTLE</speaker><content>No one is going to hear me. Look around you. You are in a room full of detectives  and not one of them has a clue.</content></utterance>
+<utterance uid="2-6"><speaker>BECKETT</speaker><content>Wow, Castle. Thank you for reminding me that I’m lying to a bunch of people I really care about so I don’t get fired on an ethics violation ‘cause I’m dating you.</content></utterance>
+<utterance uid="2-7"><speaker>CASTLE</speaker><content>Well you can put all that out of your mind in 3 – 2 – 1 … no murder.</content></utterance>
+<utterance uid="2-8"><speaker>CASTLE</speaker><content>There. Wasn’t that fun?</content></utterance>
+<utterance uid="2-9"><speaker>CASTLE</speaker><content>Okay, fine. I will go. And no one will even know I’m –</content></utterance>
+<utterance uid="2-10"><speaker>RYAN</speaker><content>Hey Castle!</content></utterance>
+<utterance uid="2-11"><speaker>ESPOSITO</speaker><content>Castle. What are you doing here, bro?</content></utterance>
+<utterance uid="2-12"><speaker>CASTLE</speaker><content>I … was just on my way to the Hamptons to write … for the weekend when I thought I’d drop by, see if we caught a murder.</content></utterance>
+<utterance uid="2-13"><speaker>BECKETT</speaker><content> Wow. Anything to avoid writing, huh?</content></utterance>
+<utterance uid="2-14"><speaker>CASTLE</speaker><content>Exactly.</content></utterance>
+<utterance uid="2-15"><speaker>ESPOSITO</speaker><content>Hey, did you hear about Beckett’s weekend?</content></utterance>
+<utterance uid="2-16"><speaker>CASTLE</speaker><content>No.  Big plans?</content></utterance>
+<utterance uid="2-17"><speaker>RYAN</speaker><content>She’s going away with her boyfriend.</content></utterance>
+<utterance uid="2-18"><speaker>CASTLE</speaker><content>A boyfriend? Beckett!  Really?</content></utterance>
+<utterance uid="2-19"><speaker>CASTLE</speaker><content>Who is the lucky guy?</content></utterance>
+<utterance uid="2-20"><speaker>ESPOSITO</speaker><content>For some reason she’s not telling.</content></utterance>
+<utterance uid="2-21"><speaker>BECKETT</speaker><content>Okay, seriously guys?</content></utterance>
+<utterance uid="2-22"><speaker>CASTLE</speaker><content>Actually, I for one am offended you’re not sharing with us.</content></utterance>
+<utterance uid="2-23"><speaker>RYAN</speaker><content>After all we’ve been through.</content></utterance>
+<utterance uid="2-24"><speaker>ESPOSITO</speaker><content>Yeah, I think we deserve better than that.</content></utterance>
+<utterance uid="2-25"><speaker>BECKETT</speaker><content>You know, I have a couple of ideas about what you guys deserve.</content></utterance>
+<utterance uid="2-26"><speaker>RYAN</speaker><content>C’mon, Beckett! Just give us something. Is he handsome?</content></utterance>
+<utterance uid="2-27"><speaker>CASTLE</speaker><content> Yeah, is he handsome?</content></utterance>
+<utterance uid="2-28"><speaker>ESPOSITO</speaker><content>Or is he more of a badass?</content></utterance>
+<utterance uid="2-29"><speaker>CASTLE</speaker><content>Yeah, is that it? Is he a bad boy James Dean? Is he a desperado?</content></utterance>
+<utterance uid="2-30"><speaker>CASTLE</speaker><content>I’m gonna – </content></utterance>
+<utterance uid="2-31"><speaker>ESPOSITO</speaker><content>Let me holler at you.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>ESPOSITO</speaker><content>Why would Beckett be holding out on us?</content></utterance>
+<utterance uid="3-2"><speaker>RYAN</speaker><content>Maybe there’s something wrong with the guy. Maybe he’s bad news.</content></utterance>
+<utterance uid="3-3"><speaker>ESPOSITO</speaker><content>Well then, as her partners it’s our obligation to find out who this guy is.</content></utterance>
+<utterance uid="3-4"><speaker>RYAN</speaker><content>What kind of partners would we be if we didn’t? Her safety could be at stake.</content></utterance>
+<utterance uid="3-5"><speaker>ESPOSITO</speaker><content>Exactly. And with no active murder case going on, I say we use this time to find him.</content></utterance>
+</scene>
+
+<scene id="4"><utterance uid="4-1"><speaker>CASTLE</speaker><content>And here we are.</content></utterance>
+<utterance uid="4-2"><speaker>BECKETT</speaker><content>Oh my goodness, Castle. Wow.  So um, you rich or something?</content></utterance>
+<utterance uid="4-3"><speaker>CASTLE</speaker><content>Well I’m not James Patterson rich, but I do okay.</content></utterance>
+<utterance uid="4-4"><speaker>BECKETT</speaker><content>Oh.</content></utterance>
+<utterance uid="4-5"><speaker>CASTLE</speaker><content>C’mon. I’ll show you around.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>CASTLE</speaker><content>After I finished remodeling the kitchen I swore I was done. But then my designer called, she said I had to tie in the living room so I did that, too. That led to the second floor and the guest bedrooms …</content></utterance>
+<utterance uid="5-2"><speaker>CASTLE</speaker><content>You coming?</content></utterance>
+<utterance uid="5-3"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="5-4"><speaker>CASTLE</speaker><content>This is actually my favorite part. The sound of the ocean, complete privacy. Oh, the serenity. The pool is right down here. Most people find it magical. There’s …</content></utterance>
+<utterance uid="5-5"><speaker>CASTLE</speaker><content>Everything okay?</content></utterance>
+<utterance uid="5-6"><speaker>BECKETT</speaker><content>Yeah. It’s um …  … spectacular, Castle.</content></utterance>
+<utterance uid="5-7"><speaker>CASTLE</speaker><content>And is that a problem?</content></utterance>
+<utterance uid="5-8"><speaker>BECKETT</speaker><content>It’s just … I can’t help wondering how many other girls have gotten this tour.</content></utterance>
+<utterance uid="5-9"><speaker>CASTLE</speaker><content>Right.  Well I’m not going to deny that I’ve brought other women up here. But um …  … none of them were you.</content></utterance>
+<utterance uid="5-10"><speaker>BECKETT</speaker><content>You want to um … go and check out that pool?</content></utterance>
+<utterance uid="5-11"><speaker>BECKETT</speaker><content>Yeah?</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>CASTLE</speaker><content>I’m sure you will find the temperature suitable but if you would like it any warmer, I can change the temperature, or –</content></utterance>
+<utterance uid="6-2"><speaker>CASTLE</speaker><content>- I could just stop talking.  You forgot your suit.</content></utterance>
+<utterance uid="6-3"><speaker>BECKETT</speaker><content> I know.</content></utterance>
+<utterance uid="6-4"><speaker>BECKETT</speaker><content>Oh!</content></utterance>
+<utterance uid="6-5"><speaker>CASTLE</speaker><content>What?</content></utterance>
+<utterance uid="6-6"><speaker>BECKETT</speaker><content>Somebody’s coming!</content></utterance>
+<utterance uid="6-7"><speaker>CASTLE</speaker><content>What?</content></utterance>
+<utterance uid="6-8"><speaker>CASTLE</speaker><content>Oh!</content></utterance>
+<utterance uid="6-9"><speaker>CASTLE</speaker><content>Call 911.</content></utterance>
+<utterance uid="6-10"><speaker>BECKETT</speaker><content>Ya think?</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>CASTLE</speaker><content>Yeah, he came stumbling up from the beach … uh .. just after 10:15. Uh, collapsed into the pool. I tried to revive him, but - .</content></utterance>
+<utterance uid="7-2"><speaker>CHIEF JOHN BRADY</speaker><content>Were you here as well, ma’am?</content></utterance>
+<utterance uid="7-3"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="7-4"><speaker>BRADY</speaker><content>Name please?</content></utterance>
+<utterance uid="7-5"><speaker>BECKETT</speaker><content>Uh … Katherine Beckett, but do you think we could keep that out of the public record?</content></utterance>
+<utterance uid="7-6"><speaker>BRADY</speaker><content>‘course.</content></utterance>
+<utterance uid="7-7"><speaker>BECKETT</speaker><content>Not that we’re doing anything wrong, I just –</content></utterance>
+<utterance uid="7-8"><speaker>BRADY</speaker><content>Right.</content></utterance>
+<utterance uid="7-9"><speaker>BECKETT</speaker><content>What’s that supposed to mean?</content></utterance>
+<utterance uid="7-10"><speaker>BRADY</speaker><content>Don’t worry. It’s the Hamptons. We’ll be discreet. We’re – we’re not interested in your arrangement.</content></utterance>
+<utterance uid="7-11"><speaker>BECKETT</speaker><content>Arrangement?</content></utterance>
+<utterance uid="7-12"><speaker>CASTLE</speaker><content>Chief! Chief – uh… I – I don’t – she’s not a  –</content></utterance>
+<utterance uid="7-13"><speaker>BECKETT</speaker><content>I’m not a prostitute.</content></utterance>
+<utterance uid="7-14"><speaker>BRADY</speaker><content>Oh. Sure.</content></utterance>
+<utterance uid="7-15"><speaker>BRADY</speaker><content>So, is there anything you’d like to add to Mr. Castle’s statement madam – ma’am?</content></utterance>
+<utterance uid="7-16"><speaker>BECKETT</speaker><content>Yes. Only that we didn’t hear any gunshots so that probably means that the killer used a silencer.</content></utterance>
+<utterance uid="7-17"><speaker>BRADY</speaker><content> Watch a lot of cops shows, do we?</content></utterance>
+<utterance uid="7-18"><speaker>CASTLE</speaker><content>Do we know who the victim is yet?</content></utterance>
+<utterance uid="7-19"><speaker>BRADY</speaker><content>Uh, Randall Franklin. He’s a weekender out here from Manhattan. All we know is that he was at a party up the beach at Douglas Shapiro’s earlier this evening.</content></utterance>
+<utterance uid="7-20"><speaker>DEPUTY ADAM JONES</speaker><content>Hey Chief! We got him.</content></utterance>
+<utterance uid="7-21"><speaker>BRADY</speaker><content>Excuse me.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>DEPUTY JONES</speaker><content>We got him. Name’s Cassius McMurry. Local meth user. Found him asleep in the tall grass a couple hundred yards to the east with the victim’s wallet. The guy’s out of it. High as a kite.</content></utterance>
+<utterance uid="8-2"><speaker>BRADY</speaker><content>That’s unbelievable.</content></utterance>
+<utterance uid="8-3"><speaker>CASTLE</speaker><content>What’s that?</content></utterance>
+<utterance uid="8-4"><speaker>BRADY</speaker><content>Meth. These rich kids learned everything these days. Drug arrests? They’ve doubled in the last 6 months. Okay, well, thanks for your help.</content></utterance>
+<utterance uid="8-5"><speaker>CASTLE</speaker><content>Uh, what about blood spatter? Did you find any on the beach or on the suspect?</content></utterance>
+<utterance uid="8-6"><speaker>DEPUTY JONES</speaker><content>No, but why would I even look? I mean, we got the guy.</content></utterance>
+<utterance uid="8-7"><speaker>BRADY</speaker><content>Yeah, I’m sure we will. He had the victim’s wallet.</content></utterance>
+<utterance uid="8-8"><speaker>CASTLE</speaker><content>Right.</content></utterance>
+<utterance uid="8-9"><speaker>CASTLE</speaker><content>You know, he could have found that wallet on the beach.</content></utterance>
+<utterance uid="8-10"><speaker>BRADY</speaker><content>Are you questioning my judgment, Mr. Castle?</content></utterance>
+<utterance uid="8-11"><speaker>CASTLE</speaker><content>I’m –</content></utterance>
+<utterance uid="8-12"><speaker>BRADY</speaker><content>We’ve got the guy.</content></utterance>
+<utterance uid="8-13"><speaker>CASTLE</speaker><content>Right.</content></utterance>
+<utterance uid="8-14"><speaker>BRADY</speaker><content>Goodnight.</content></utterance>
+<utterance uid="8-15"><speaker>CASTLE</speaker><content>Goodnight.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>CASTLE</speaker><content>What kind of cold-blooded killer takes a nap on the beach after shooting someone?</content></utterance>
+<utterance uid="9-2"><speaker>BECKETT</speaker><content>Castle, I’m on vacation. If I wanted to investigate a murder, I would have stayed in the city.</content></utterance>
+<utterance uid="9-3"><speaker>CASTLE</speaker><content>A guy died in my backyard.</content></utterance>
+<utterance uid="9-4"><speaker>BECKETT</speaker><content>It’s not our case.</content></utterance>
+<utterance uid="9-5"><speaker>CASTLE</speaker><content>Still, you have to admit as cases go it’s pretty weak.</content></utterance>
+<utterance uid="9-6"><speaker>BECKETT</speaker><content>It’s still not our case and if you keep obsessing over this it’s going to ruin the weekend.</content></utterance>
+<utterance uid="9-7"><speaker>CASTLE</speaker><content>So what do we do?</content></utterance>
+<utterance uid="9-8"><speaker>BECKETT</speaker><content>Maybe we just try putting it out of our minds, hmm?</content></utterance>
+<utterance uid="9-9"><speaker>CASTLE</speaker><content>Yeah, but what about the gun? He would’ve had the gun on him.</content></utterance>
+<utterance uid="9-10"><speaker>BECKETT</speaker><content>Castle, that’s not putting it out of your mind.</content></utterance>
+<utterance uid="9-11"><speaker>CASTLE</speaker><content>You’re right. I’m sorry.  I’m obsessing.</content></utterance>
+<utterance uid="9-12"><speaker>BECKETT</speaker><content>It’s okay.</content></utterance>
+<utterance uid="9-13"><speaker>CASTLE</speaker><content>I won’t obsess.</content></utterance>
+<utterance uid="9-14"><speaker>CASTLE</speaker><content>Except you said it yourself, about not hearing the shots. What kind of meth-head, who obviously doesn’t know what planet he’s on – carries a gun with a silencer? Which by the way, indicates premeditation.</content></utterance>
+<utterance uid="9-15"><speaker>BECKETT</speaker><content>We’re not going to get on with our weekend until you’ve gotten some answers, are we?</content></utterance>
+<utterance uid="9-16"><speaker>CASTLE</speaker><content>I’ll get the coffee.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>CASTLE</speaker><content> All right, thank you Dougie. And I’m sorry I missed the party. I heard it was killer.  Yeah, sorry. Got ya.  Okay, last time Shapiro saw Franklin alive was at his party at 8:15.</content></utterance>
+<utterance uid="10-2"><speaker>BECKETT</speaker><content>That’s 2 hours before he was killed.</content></utterance>
+<utterance uid="10-3"><speaker>CASTLE</speaker><content>Right. He was on the beach having an argument with a woman in a white dress. But because it was already dark, Shapiro couldn’t tell who it was. He knew it wasn’t Franklin’s wife because she was still back in the city. Any luck finding a reason why someone wanted Franklin dead?</content></utterance>
+<utterance uid="10-4"><speaker>BECKETT</speaker><content>As a matter of fact, he was a banker at Lehman Brothers and he was involved in an insider trading scandal before they went belly up. Cut a deal for his freedom by testifying against his colleagues.</content></utterance>
+<utterance uid="10-5"><speaker>CASTLE</speaker><content>Rachel Rosenberg, Jeff Forshirm, Emily Monroe, Angels Colabro, and Aaron Lerner. Well, they all did time, but now what they’re out any one of them could have wanted revenge.</content></utterance>
+<utterance uid="10-6"><speaker>BECKETT</speaker><content>And three of them could have been our mystery woman.</content></utterance>
+<utterance uid="10-7"><speaker>CASTLE</speaker><content>We need to talk to Franklin’s wife. Find out if he hand any enemies.</content></utterance>
+<utterance uid="10-8"><speaker>BECKETT</speaker><content>No. We just got here. I am not going back to the city.</content></utterance>
+<utterance uid="10-9"><speaker>CASTLE</speaker><content>Well fortunately, we don’t have to. I know just who to call.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>LANIE PARISH</speaker><content>Beckett’s boyfriend? Don’t you two have something better to do?</content></utterance>
+<utterance uid="11-2"><speaker>ESPOSITO</speaker><content>Actually, no.</content></utterance>
+<utterance uid="11-3"><speaker>RYAN</speaker><content>We figure Beckett must have started up with the guy during her suspension.</content></utterance>
+<utterance uid="11-4"><speaker>ESPOSITO</speaker><content>Pretty emotional time for her. Bet she needed a shoulder to lean on.</content></utterance>
+<utterance uid="11-5"><speaker>RYAN</speaker><content>An ex.</content></utterance>
+<utterance uid="11-6"><speaker>ESPOSITO</speaker><content>It would explain why she’s too embarrassed to tell us who it is. Makes her look weak.</content></utterance>
+<utterance uid="11-7"><speaker>RYAN</speaker><content>We’re thinking the most likely scenario is that it is the last guy that she was with.</content></utterance>
+<utterance uid="11-8"><speaker>ESPOSITO</speaker><content>Doctor Joshua Davidson.  It’s him, isn’t it?</content></utterance>
+<utterance uid="11-9"><speaker>LANIE</speaker><content>Okay, I get that you don’t have a life, Javi, but you’re married Kevin, so what’s your excuse?</content></utterance>
+<utterance uid="11-10"><speaker>RYAN</speaker><content>I –</content></utterance>
+<utterance uid="11-11"><speaker>LANIE</speaker><content>Whoever Beckett’s boyfriend is is none of your business.</content></utterance>
+<utterance uid="11-12"><speaker>ESPOSITO</speaker><content>C’mon, Lanie. You must know who it is. She went back to Josh, didn’t she?</content></utterance>
+<utterance uid="11-13"><speaker>LANIE</speaker><content>Is this how you interrogate people? ‘cause you ain’t doing nothing but pissing me off.  Now I don’t know who it is and I respect Beckett’s privacy, but I do know it’s not Josh because he’s been in the Amazon setting up free clinics for the last year.</content></utterance>
+<utterance uid="11-14"><speaker>ESPOSITO</speaker><content>Are you sure about that?</content></utterance>
+<utterance uid="11-15"><speaker>RYAN</speaker><content> I think she’s sure.</content></utterance>
+<utterance uid="11-16"><speaker>ESPOSITO</speaker><content>Yeah.</content></utterance>
+<utterance uid="11-17"><speaker>RYAN</speaker><content>Hey Castle! Yeah, I’m gonna put you on speakerphone so you can weigh in on this.</content></utterance>
+<utterance uid="11-18"><speaker>CASTLE</speaker><content>Weigh in on what?</content></utterance>
+<utterance uid="11-19"><speaker>RYAN</speaker><content>We’ll we’re in the morgue with Lanie trying to figure out who Beckett’s boyfriend is.</content></utterance>
+<utterance uid="11-20"><speaker>LANIE</speaker><content>I have nothing to do with this nonsense.</content></utterance>
+<utterance uid="11-21"><speaker>CASTLE</speaker><content>Yeah, until you’re bagging their mangled bodies when Beckett finds out.</content></utterance>
+<utterance uid="11-22"><speaker>ESPOSITO</speaker><content>Pfft. Like we’re afraid of Beckett.</content></utterance>
+<utterance uid="11-23"><speaker>RYAN</speaker><content>Besides, how she gonna find out?</content></utterance>
+<utterance uid="11-24"><speaker>CASTLE</speaker><content>Anyway, I need your guys’ help. There has been a homicide out here in the Hamptons in my backyard.</content></utterance>
+<utterance uid="11-25"><speaker>RYAN</speaker><content>Seriously, Castle? What, are you in an episode of “Murder, She Wrote”?</content></utterance>
+<utterance uid="11-26"><speaker>CASTLE</speaker><content>More like Murder, He Wrote. But unfortunately, unlike Jessica Fletcher the local police chief? Not a friend of mine and I think he might have the wrong guy. So, I need you guys to question the victim’s wife in the city. Find out what she knows.</content></utterance>
+<utterance uid="11-27"><speaker>ESPOSITO</speaker><content>That’s a pretty big favor to ask, Castle. We’re going to need something in return.</content></utterance>
+<utterance uid="11-28"><speaker>CASTLE</speaker><content>The Ferrari.</content></utterance>
+<utterance uid="11-29"><speaker>RYAN</speaker><content>For a week.</content></utterance>
+<utterance uid="11-30"><speaker>ESPOSITO</speaker><content>Each.</content></utterance>
+<utterance uid="11-31"><speaker>CASTLE</speaker><content>Seriously? Guys –</content></utterance>
+<utterance uid="11-32"><speaker>CASTLE</speaker><content>Guys.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>RYAN</speaker><content>But with all due respect to the Hamptons PD, we would like to make absolutely sure.</content></utterance>
+<utterance uid="12-2"><speaker>ESPOSITO</speaker><content>We know your husband testified against several colleagues at Lehman. Has he been in contact with any of them?</content></utterance>
+<utterance uid="12-3"><speaker>ESPOSITO</speaker><content>Maybe one of them came after him for revenge.</content></utterance>
+<utterance uid="12-4"><speaker>RYAN</speaker><content>Mrs. Franklin, your husband was seen arguing with a woman on the beach a couple of hours before he was killed. Do you have any idea who it could have been?</content></utterance>
+<utterance uid="12-5"><speaker>RYAN</speaker><content>Girlfriend?</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>BECKETT</speaker><content>He was having an affair?</content></utterance>
+<utterance uid="13-2"><speaker>CASTLE</speaker><content>With Natalia Roosevelt. She’s a local. The wife got wind of it; sent him up here to break it off. It’s probably your typical tawdry Hamptons story. Weekender meets local beauty, the elixir to his stressful city life. Whirlwind romance ensues, but then the wife gets wind of it, forces him to end it and that’s when the elixir becomes a poison. With a gun. Only, I’m going to have to work on that last part.</content></utterance>
+<utterance uid="13-3"><speaker>BECKETT</speaker><content>Nah, it’s a great story. But how do we prove that it was her he was arguing with on the beach?</content></utterance>
+<utterance uid="13-4"><speaker>CASTLE</speaker><content>Well, first step is to determine if she was at the party.  And there she is. Natalia Roosevelt in the yes column.  And ooh. Looking every bit the femme fatale.</content></utterance>
+<utterance uid="13-5"><speaker>BECKETT</speaker><content>Castle, she was a Hamptons town councilwoman and the owner of the Hamptons Sandbar.</content></utterance>
+<utterance uid="13-6"><speaker>CASTLE</speaker><content>That is a popular local watering hole.  Can I buy you a drink?</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>CASTLE</speaker><content>There she is. Our lady in the white dress. Only now she’s looking dazzling in bright red. So what’s our play?</content></utterance>
+<utterance uid="14-2"><speaker>BECKETT</speaker><content>Just keep it light, Castle. Find a natural way of bringing up the murder. See if she reacts.</content></utterance>
+<utterance uid="14-3"><speaker>CASTLE</speaker><content>I know just what to do.</content></utterance>
+<utterance uid="14-4"><speaker>CASTLE</speaker><content>Hey, I recognize you. You were at Douglas Shapiro’s party last night.</content></utterance>
+<utterance uid="14-5"><speaker>NATALIA ROOSEVELT</speaker><content>Ah, who wasn’t?</content></utterance>
+<utterance uid="14-6"><speaker>CASTLE</speaker><content>Right?  But I saw you on the beach. Weren’t you arguing with Randall Franklin?</content></utterance>
+<utterance uid="14-7"><speaker>BECKETT</speaker><content> Light, Castle. I said light.</content></utterance>
+<utterance uid="14-8"><speaker>NATALIA</speaker><content>What are you implying?</content></utterance>
+<utterance uid="14-9"><speaker>CASTLE</speaker><content>Nothing. No. Only it must be weird for you. You had to be the last person to see him alive.</content></utterance>
+<utterance uid="14-10"><speaker>NATALIA</speaker><content>Hey uh, Chief?</content></utterance>
+<utterance uid="14-11"><speaker>BRODY</speaker><content>Yeah, Natalia?</content></utterance>
+<utterance uid="14-12"><speaker>NATALIA</speaker><content>Come here.</content></utterance>
+<utterance uid="14-13"><speaker>CASTLE</speaker><content> Oops.</content></utterance>
+<utterance uid="14-14"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="14-15"><speaker>NATALIA</speaker><content>Do you know these guys? Because they are practically accusing me of murder.</content></utterance>
+<utterance uid="14-16"><speaker>BRODY</speaker><content>Castle what are you doing here?</content></utterance>
+<utterance uid="14-17"><speaker>CASTLE</speaker><content>I’m just having a conversation.</content></utterance>
+<utterance uid="14-18"><speaker>BRODY</speaker><content>About Franklin’s murder? Hey, you got a problem with the way I do my job?</content></utterance>
+<utterance uid="14-19"><speaker>CASTLE</speaker><content>Now I would never … use those words exactly.</content></utterance>
+<utterance uid="14-20"><speaker>BRODY</speaker><content>Oh? Well how about these words? You and your  hooker friend are under arrest for interfering with my murder investigation.  Turn around.</content></utterance>
+<utterance uid="14-21"><speaker>BECKETT</speaker><content>Thanks for the drink.</content></utterance>
+<utterance uid="14-22"><speaker>CASTLE</speaker><content>Cheers.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>BECKETT</speaker><content>I cannot believe I let you talk me into getting involved in another department’s murder investigation.</content></utterance>
+<utterance uid="15-2"><speaker>CASTLE</speaker><content>Oh like I needed to twist your arm. And at least we know we were right about this guy. . Does he look like he’s got a guilty conscience to you? He’s sleeping like a little baby.</content></utterance>
+<utterance uid="15-3"><speaker>BECKETT</speaker><content>Yeah, like a baby chainsaw.</content></utterance>
+<utterance uid="15-4"><speaker>DEPUTY JONES</speaker><content>Castle, Beckett. Chief Brady wants to see you.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>JONES</speaker><content>Chief.</content></utterance>
+<utterance uid="16-2"><speaker>BRADY</speaker><content>Hey. Thanks Jones.  Hi guys. Want some coffee? It’s fresh.</content></utterance>
+<utterance uid="16-3"><speaker>CASTLE</speaker><content>Yeah, thanks.</content></utterance>
+<utterance uid="16-4"><speaker>BRADY</speaker><content>So I googled you, Miss Beckett. I didn’t realize you were a homicide detective. I’ve never actually worked a homicide before. Other than drug arrests, I deal mostly with folks complaining their neighbor’s dog pooped in their garden. Never even pulled my gun.</content></utterance>
+<utterance uid="16-5"><speaker>CASTLE</speaker><content>I’m sorry, why are you telling us this?</content></utterance>
+<utterance uid="16-6"><speaker>BRADY</speaker><content>Because you were right about the meth addict. The lab results came back negative for gunshot residue, which means the killer is still at large. Look, I’m getting a lot of pressure from the Mayor. Rich weekender getting murdered? Not exactly good for business.</content></utterance>
+<utterance uid="16-7"><speaker>BECKETT</speaker><content>Still not getting why you’re telling us this.</content></utterance>
+<utterance uid="16-8"><speaker>BRADY</speaker><content>Okay. I will drop the interference charge if you help out with the investigation.</content></utterance>
+<utterance uid="16-9"><speaker>CASTLE</speaker><content>Sounds good to me.</content></utterance>
+<utterance uid="16-10"><speaker>BECKETT</speaker><content>Yeah – excuse me for a second.</content></utterance>
+<utterance uid="16-11"><speaker>BECKETT</speaker><content>Sounds good? We just spent 2 hours of our vacation in lockup. Isn’t that enough?</content></utterance>
+<utterance uid="16-12"><speaker>CASTLE</speaker><content>Well, do you really think we’ll be able to relax without getting any answers?  Without getting justice?</content></utterance>
+<utterance uid="16-13"><speaker>BECKETT</speaker><content> Fine.</content></utterance>
+<utterance uid="16-14"><speaker>BECKETT</speaker><content>As long as word doesn’t get back to my precinct that I’m doing this.</content></utterance>
+<utterance uid="16-15"><speaker>BRODY</speaker><content>Works for me.  So what do we do next?</content></utterance>
+<utterance uid="16-16"><speaker>BECKETT</speaker><content>Did you get ballistics back?</content></utterance>
+<utterance uid="16-17"><speaker>BRODY</speaker><content>Oh! Yes.  Let’s see… bullets pulled from the victim were .30 caliber.</content></utterance>
+<utterance uid="16-18"><speaker>CASTLE</speaker><content>.30 caliber? Those are pretty rare, aren’t they?</content></utterance>
+<utterance uid="16-19"><speaker>BECKETT</speaker><content>Yeah, that’s usually used for hunting small game. Can I see the ME’s report on Franklin’s body?</content></utterance>
+<utterance uid="16-20"><speaker>BRODY</speaker><content>It … has not come in yet.</content></utterance>
+<utterance uid="16-21"><speaker>BECKETT</speaker><content>Then I suggest you pressure the ME to get it back. In the meantime we should interrogate Natalia Roosevelt.</content></utterance>
+<utterance uid="16-22"><speaker>BRODY</speaker><content>Oh, I already spoke to her. She has no motive for killing Franklin.</content></utterance>
+<utterance uid="16-23"><speaker>BECKETT</speaker><content>And did you ask her about being Franklin’s mistress?</content></utterance>
+<utterance uid="16-24"><speaker>BRODY</speaker><content>No.  She didn’t mention that.</content></utterance>
+<utterance uid="16-25"><speaker>CASTLE</speaker><content>Yeah, suspects tend to hold back on stuff like that.  Mmm… flavor country.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>NATALIA</speaker><content>I thought you arrested these guys, John.</content></utterance>
+<utterance uid="17-2"><speaker>BRADY</speaker><content>Um… that’s –</content></utterance>
+<utterance uid="17-3"><speaker>BECKETT</speaker><content>That’s Chief Brady to you, Ms. Roosevelt. And shouldn’t you be more concerned about the fact that you lied to him about your affair with Randall Franklin.</content></utterance>
+<utterance uid="17-4"><speaker>NATALIA</speaker><content>I didn’t lie to him. Chief Brady didn’t ask me about it.</content></utterance>
+<utterance uid="17-5"><speaker>BECKETT</speaker><content>Didn’t Franklin break up with you on the beach last night?</content></utterance>
+<utterance uid="17-6"><speaker>NATALIA</speaker><content>So what if he did?</content></utterance>
+<utterance uid="17-7"><speaker>BECKETT</speaker><content>So that gives you motive, Ms. Roosevelt.</content></utterance>
+<utterance uid="17-8"><speaker>NATALIA</speaker><content>Look, I am not denying that I was fighting with Randall. I accused him of using me to get my council vote.</content></utterance>
+<utterance uid="17-9"><speaker>CASTLE</speaker><content>Your vote on what?</content></utterance>
+<utterance uid="17-10"><speaker>NATALIA</speaker><content>His beloved helipad. He put the thing in his backyard 6 months ago but he needed a variance. We approved it last week. Next thing you know, he dumps me.</content></utterance>
+<utterance uid="17-11"><speaker>CASTLE</speaker><content>Then he was shot and killed 2 hours later.</content></utterance>
+<utterance uid="17-12"><speaker>NATALIA</speaker><content>Two hours later I was back at my bar. Look, the last time I saw him was on that beach. We were still arguing when he got a text and he suddenly ran off.</content></utterance>
+<utterance uid="17-13"><speaker>BECKETT</speaker><content>About what time was that?</content></utterance>
+<utterance uid="17-14"><speaker>NATALIA</speaker><content>About 8:30.</content></utterance>
+<utterance uid="17-15"><speaker>CASTLE</speaker><content>Which way did he go?</content></utterance>
+<utterance uid="17-16"><speaker>NATALIA</speaker><content>Up the beach.</content></utterance>
+<utterance uid="17-17"><speaker>BRODY</speaker><content>Okay then.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>RYAN</speaker><content>Hey. So I tracked down that text that Franklin got before leaving Ms. Roosevelt on the beach. Couldn’t get the content, but it was sent from a burner phone. Whoever sent it wished to remain anonymous.</content></utterance>
+<utterance uid="18-2"><speaker>ESPOSITO</speaker><content>Maybe it was about bad business deals. That’s what got him in trouble with his colleagues in the past.</content></utterance>
+<utterance uid="18-3"><speaker>RYAN</speaker><content>Past does have a funny way of repeating itself.</content></utterance>
+<utterance uid="18-4"><speaker>ESPOSITO</speaker><content>Speaking of which, I have calls in to my sources at robbery to try to link Beckett to her old beau, Detective Demming.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>CASTLE</speaker><content>Demming? C’mon.  Beckett can do so much better.  Uh … thank you for the update. I gotta go.</content></utterance>
+<utterance uid="19-2"><speaker>BECKETT</speaker><content>Why are you even helping them?</content></utterance>
+<utterance uid="19-3"><speaker>CASTLE</speaker><content>Oh come on. The good news is they’re completely fooled about us.</content></utterance>
+<utterance uid="19-4"><speaker>BECKETT</speaker><content>Yeah well, I don’t understand why they even care.</content></utterance>
+<utterance uid="19-5"><speaker>CASTLE</speaker><content>Ah, why do people care about Brangelina?</content></utterance>
+<utterance uid="19-6"><speaker>BECKETT</speaker><content>Oh, so we’re Brangelina now?</content></utterance>
+<utterance uid="19-7"><speaker>CASTLE</speaker><content>No. No, no. We’re -  – Rickate.</content></utterance>
+<utterance uid="19-8"><speaker>CASTLE</speaker><content>No, we’re Kate-ick.</content></utterance>
+<utterance uid="19-9"><speaker>CASTLE</speaker><content>Caskett. Oh, that’s good! ‘cause of the whole murder thing? Caskett.</content></utterance>
+<utterance uid="19-10"><speaker>BECKETT</speaker><content>Mmhmm.</content></utterance>
+<utterance uid="19-11"><speaker>BRADY</speaker><content>So, Natalia Roosevelt has a solid alibi. Three patrons of her bar confirm she was there by 9 o’clock last night.</content></utterance>
+<utterance uid="19-12"><speaker>CASTLE</speaker><content>Long before Franklin was shot.</content></utterance>
+<utterance uid="19-13"><speaker>BRADY</speaker><content>I’ve got Deputy Jones canvassing the houses along the beach in the direction she said Franklin went.</content></utterance>
+<utterance uid="19-14"><speaker>BECKETT</speaker><content>Just Deputy Jones?</content></utterance>
+<utterance uid="19-15"><speaker>BRADY</speaker><content>It’s the Hamptons. We don’t have a lot of resources. Oh, by the way. I know you wanted to see this.  It’s the ME’s report.</content></utterance>
+<utterance uid="19-16"><speaker>BECKETT</speaker><content>Uh … Franklin’s lungs were full of saltwater.</content></utterance>
+<utterance uid="19-17"><speaker>CASTLE</speaker><content>Meaning he almost drowned. That’s strange.</content></utterance>
+<utterance uid="19-18"><speaker>BRADY</speaker><content>And, based on the condition of the gunshot wounds, he was in the ocean at least 20 minutes after being shot.</content></utterance>
+<utterance uid="19-19"><speaker>CASTLE</speaker><content>Okay so … in the ocean for 20 minutes, no one heard the shots being –  That’s why no one heard the shots. He was shot off a boat, Godfather style.</content></utterance>
+<utterance uid="19-20"><speaker>BECKETT</speaker><content>And the saltwater slowed down his bleeding, giving him enough time to make it to shore.</content></utterance>
+<utterance uid="19-21"><speaker>BRADY</speaker><content>So … what? We should try and figure out which boats were in the vicinity at that time?</content></utterance>
+<utterance uid="19-22"><speaker>BECKETT</speaker><content>Yeah.  So … do we have a witness who we know was on the beach last night?</content></utterance>
+<utterance uid="19-23"><speaker>CASTLE</speaker><content>You mean … someone like our favorite meth addict?  McMurry!</content></utterance>
+<utterance uid="19-24"><speaker>BRADY</speaker><content>Seriously? The guy was whacked out on meth.</content></utterance>
+<utterance uid="19-25"><speaker>BECKETT</speaker><content>Yeah, but that doesn’t that he doesn’t remember what he saw.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>MCMURRY</speaker><content>Yeah, I saw a boat. About a hundred yards off the beach.</content></utterance>
+<utterance uid="20-2"><speaker>CASTLE</speaker><content>Okay great. Can you describe it? Maybe its size?</content></utterance>
+<utterance uid="20-3"><speaker>MCMURRY</speaker><content>Nah. All I remember is it was being attacked.</content></utterance>
+<utterance uid="20-4"><speaker>BECKETT</speaker><content>Attacked?</content></utterance>
+<utterance uid="20-5"><speaker>MCMURRY</speaker><content>Yeah. By a shark. A red shark with red eyes.</content></utterance>
+<utterance uid="20-6"><speaker>BECKETT</speaker><content> Okay, maybe you are right about him.</content></utterance>
+<utterance uid="20-7"><speaker>BRADY</speaker><content>Maybe not.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>MARTY BENTLEY</speaker><content>Yeah I know that boat. It’s just this way. Owned by Aaron Lerner.</content></utterance>
+<utterance uid="21-2"><speaker>CASTLE</speaker><content>Aaron Lerner.</content></utterance>
+<utterance uid="21-3"><speaker>BECKETT</speaker><content>That’s one of the guys Franklin sent to prison.  Do you know if that boat went out last night?</content></utterance>
+<utterance uid="21-4"><speaker>BENTLEY</speaker><content>Yeah, I saw it pull away around 9:30.</content></utterance>
+<utterance uid="21-5"><speaker>BRADY</speaker><content>That’s an hour after Franklin left Natalia Roosevelt on the beach.</content></utterance>
+<utterance uid="21-6"><speaker>BECKETT</speaker><content>That’s plenty of time for him to get here.</content></utterance>
+<utterance uid="21-7"><speaker>CASTLE</speaker><content>The boat left here by 9:30. Could have easily made it to the water off my house by 9:45.</content></utterance>
+<utterance uid="21-8"><speaker>BECKETT</speaker><content>Red shark.</content></utterance>
+<utterance uid="21-9"><speaker>CASTLE</speaker><content> Shark attack.</content></utterance>
+<utterance uid="21-10"><speaker>BENTLEY</speaker><content>Oh, watch your step!</content></utterance>
+<utterance uid="21-11"><speaker>CASTLE</speaker><content>Sorry.</content></utterance>
+<utterance uid="21-12"><speaker>BENTLEY</speaker><content>Damn weekend boaters.</content></utterance>
+<utterance uid="21-13"><speaker>BECKETT</speaker><content>Castle! Blood spatter. Franklin was shot right there.</content></utterance>
+<utterance uid="21-14"><speaker>CASTLE</speaker><content>Hey Lerner. Killer boat.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>BECKETT</speaker><content>It’s the lab report on blood spatter we found on the deck, Mr. Lerner. It’s a match to Mr. Franklin.</content></utterance>
+<utterance uid="22-2"><speaker>CASTLE</speaker><content>Meaning, he was shot on your boat.</content></utterance>
+<utterance uid="22-3"><speaker>AARON LERNER</speaker><content>No. That’s not possible. He wasn’t even on it.</content></utterance>
+<utterance uid="22-4"><speaker>BRADY</speaker><content>How did it get there?</content></utterance>
+<utterance uid="22-5"><speaker>LERNER</speaker><content>I have no idea.</content></utterance>
+<utterance uid="22-6"><speaker>BECKETT</speaker><content>We have a witness who saw your boat leaving the marina at 9:30 last night. Where did you go?</content></utterance>
+<utterance uid="22-7"><speaker>LERNER</speaker><content>I didn’t take it out last night.</content></utterance>
+<utterance uid="22-8"><speaker>CASTLE</speaker><content>Lerner, c’mon. We know Randall Franklin was guilty of breaking all the same laws you broke but he got off scot free because he ratted you out. It’s understandable that you’d want a little payback.</content></utterance>
+<utterance uid="22-9"><speaker>LERNER</speaker><content>All right, sure. Yeah. I held a grudge. Who wouldn’t? But you know something? I met him on the beach a few months ago and we buried the hatchet. I’ve even had dinner at his house a couple times.</content></utterance>
+<utterance uid="22-10"><speaker>BECKETT</speaker><content>And exactly where were you between 8:30 and 10 last night?</content></utterance>
+<utterance uid="22-11"><speaker>LERNER</speaker><content>Group.  A weight loss group at the rec. What? Look, you want to catch the guy who actually killed him? Check out his neighbor.</content></utterance>
+<utterance uid="22-12"><speaker>BECKETT</speaker><content>I’m sorry, his neighbor?</content></utterance>
+<utterance uid="22-13"><speaker>LERNER</speaker><content>Oh yeah. This guy’s a scary bastard. I’m having dinner at Franklin’s a week ago, right. Neighbor comes over, starts banging on the front door. Now Franklin wouldn’t tell me what it’s about but this guy was threatening him with all kinds of violence.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>BRADY</speaker><content> Okay, thanks.  Well, Lerner’s alibi checks out. He was at the weight loss group from 8:30 to 10 o’clock last night.</content></utterance>
+<utterance uid="23-2"><speaker>CASTLE</speaker><content>Meaning someone else took out his boat, killed Franklin, and brought it back without Lerner … learning.</content></utterance>
+<utterance uid="23-3"><speaker>BRADY</speaker><content>I’ll have Jones canvass the marina.</content></utterance>
+<utterance uid="23-4"><speaker>BECKETT</speaker><content>Meantime, do we know who this neighbor is?</content></utterance>
+<utterance uid="23-5"><speaker>BRADY</speaker><content>Yeah, it’s just a property dispute. They’re a dime a dozen around here.</content></utterance>
+<utterance uid="23-6"><speaker>BECKETT</speaker><content>Yeah, but the way Lerner describes it it sounds like it was something pretty heated.</content></utterance>
+<utterance uid="23-7"><speaker>BRADY</speaker><content>Well … the neighbor’s a bit of a hot-head, but I’m telling you it is not a motive for murder.</content></utterance>
+<utterance uid="23-8"><speaker>CASTLE</speaker><content>Shouldn’t we at least talk to this guy?</content></utterance>
+<utterance uid="23-9"><speaker>BRADY</speaker><content>Okay, look. It’s not just any guy.  It’s Vincent Cardonno.</content></utterance>
+<utterance uid="23-10"><speaker>CASTLE</speaker><content>Vinnie the Scar? Of the Cardonno crime family?  That would explain the Godfather style of the boat shooting. I’m friends with his cousin Sal. He’s been trying to get us together for years!</content></utterance>
+<utterance uid="23-11"><speaker>BECKETT</speaker><content>And what better time than the present. We could bring him over and ask him what he did last night.</content></utterance>
+<utterance uid="23-12"><speaker>BRADY</speaker><content>Whoa! Okay, no. I am not going at Cardonno without proof.  Look, I gotta run. I gotta go … reroute traffic for the Bridge Hamptons polo semi-finals. But remember, we’ll finish this later. I call the shots! No contacting Vinnie the Scar!</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>VINNIE</speaker><content> Glad we could finally get together, Ricky. Salut. I’m sure Sal told you I’m a big fan of your work. To new friends.</content></utterance>
+<utterance uid="24-2"><speaker>CASTLE</speaker><content>Hear hear.</content></utterance>
+<utterance uid="24-3"><speaker>BECKETT</speaker><content>Cheers.</content></utterance>
+<utterance uid="24-4"><speaker>VINNIE</speaker><content>Oh, sweetie. This meat sauce is to die for.</content></utterance>
+<utterance uid="24-5"><speaker>BECKETT</speaker><content>Thank you, Vinnie.</content></utterance>
+<utterance uid="24-6"><speaker>CASTLE</speaker><content>Actually, it is excellent. I didn’t know you could cook.</content></utterance>
+<utterance uid="24-7"><speaker>BECKETT</speaker><content> You should pay a little more attention, Castle.</content></utterance>
+<utterance uid="24-8"><speaker>VINNIE</speaker><content>See, that’s the difference between Castle and me. You’ve had my complete attention since I’ve been here, sweetheart.</content></utterance>
+<utterance uid="24-9"><speaker>CASTLE</speaker><content>Whoa, whoa. Watch it, Vinnie. Don’t make me have to do to you what someone did to your neighbor.</content></utterance>
+<utterance uid="24-10"><speaker>VINNIE</speaker><content>Oh, you heard about that, huh?</content></utterance>
+<utterance uid="24-11"><speaker>CASTLE</speaker><content>Heard about it? The guy ended up in my pool.</content></utterance>
+<utterance uid="24-12"><speaker>VINNIE</speaker><content>Yeah, well you know, I got to admit – I’m not going to shed any tears over that guy.</content></utterance>
+<utterance uid="24-13"><speaker>BECKETT</speaker><content>Oh so you knew him, huh?</content></utterance>
+<utterance uid="24-14"><speaker>VINNIE</speaker><content>The guy was a real bastard. He builds a helicopter pad in his yard not 50 feet from my house. Every Tuesday ‘round midnight he buzzes right past my bedroom.</content></utterance>
+<utterance uid="24-15"><speaker>CASTLE</speaker><content>The balls on that guy!</content></utterance>
+<utterance uid="24-16"><speaker>VINNIE</speaker><content>Yeah. So – so I complain. But the town council, they approve it anyway. I know for a fact that guy greased palms.  I wanted to kill him.</content></utterance>
+<utterance uid="24-17"><speaker>CASTLE</speaker><content>I bet. So where were you when you found out about it?</content></utterance>
+<utterance uid="24-18"><speaker>VINNIE</speaker><content>I don’t know. What’s it matter?</content></utterance>
+<utterance uid="24-19"><speaker>CASTLE</speaker><content>It’s just the guy you wanted killed ends up killed? How often does that happen?</content></utterance>
+<utterance uid="24-20"><speaker>VINNIE</speaker><content>I don’t know.</content></utterance>
+<utterance uid="24-21"><speaker>VINNIE</speaker><content>What are you saying, Castle?  Hmm?  You think I killed the guy?</content></utterance>
+<utterance uid="24-22"><speaker>CASTLE</speaker><content>Well, no … no. Vinnie, no. We’re just talking here. Sit down, have some more wine.</content></utterance>
+<utterance uid="24-23"><speaker>VINNIE</speaker><content>No. We’re finished here. And frankly, I am offended that you think I would do such a bush-league hit. If I had whacked that guy, nobody’d ever find the body.</content></utterance>
+<utterance uid="24-24"><speaker>VINNIE</speaker><content>Don’t make me wanna do a demonstration.</content></utterance>
+<utterance uid="24-25"><speaker>CASTLE</speaker><content>Makes a valid point.</content></utterance>
+</scene>
+
+<scene id="25"><utterance uid="25-1"><speaker>BECKETT</speaker><content>Dead bodies, meth-heads, mobsters … is that what you meant by a romantic weekend?</content></utterance>
+<utterance uid="25-2"><speaker>CASTLE</speaker><content>May I remind you that it was murder that brought us together in the first place.  Oh.  Hello.</content></utterance>
+<utterance uid="25-3"><speaker>BRADY</speaker><content>What did I tell you, Castle? I was crystal clear. I said no contacting Cardonno!</content></utterance>
+<utterance uid="25-4"><speaker>CASTLE</speaker><content>What? Oh, that was just a friendly meal. Actually, we have some linguini left if you’d like to come over.</content></utterance>
+<utterance uid="25-5"><speaker>BRADY</speaker><content>You accused him of murder! And now he thinks I put you up to it.</content></utterance>
+<utterance uid="25-6"><speaker>CASTLE</speaker><content>On the bright side, we can rule him out as a suspect.</content></utterance>
+<utterance uid="25-7"><speaker>BRADY</speaker><content>He was never a suspect in the first place!</content></utterance>
+<utterance uid="25-8"><speaker>CASTLE</speaker><content>Bottom line is, the killer’s still out there.</content></utterance>
+<utterance uid="25-9"><speaker>BRADY</speaker><content>No, no. no. No. The bottom line is that after what you just pulled I will find him myself without any more of your help!</content></utterance>
+<utterance uid="25-10"><speaker>CASTLE</speaker><content>Look, Chief –</content></utterance>
+<utterance uid="25-11"><speaker>BRADY</speaker><content>And if I catch you guys anywhere near this case again I swear I’ll - I will out the two of you!</content></utterance>
+<utterance uid="25-12"><speaker>BECKETT</speaker><content>So I guess it’s a no on the linguini.</content></utterance>
+<utterance uid="25-13"><speaker>CASTLE</speaker><content>No. He uh… said he already ate. Shall we?</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>RYAN</speaker><content>Hey. So I took a closer look at Randall Franklin’s real estate investments. The guy was buying up distressed properties in depressed neighborhoods and turning them into condos.</content></utterance>
+<utterance uid="26-2"><speaker>ESPOSITO</speaker><content>Sounds like smart investments.</content></utterance>
+<utterance uid="26-3"><speaker>RYAN</speaker><content>Yeah, but he wasn’t renovating them. He wasn’t leaving them out, nothing.</content></utterance>
+<utterance uid="26-4"><speaker>ESPOSITO</speaker><content>So he was carrying the mortgage but the buildings weren’t throwing off any income?</content></utterance>
+<utterance uid="26-5"><speaker>RYAN</speaker><content>And his wife said that the real estate investments were keeping them flush. It doesn’t add up.</content></utterance>
+<utterance uid="26-6"><speaker>ESPOSITO</speaker><content>You’re right. Has to be something going on in those buildings.</content></utterance>
+<utterance uid="26-7"><speaker>RYAN</speaker><content>Only one way to find out.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>ESPOSITO</speaker><content>Ugh. Franklin definitely didn’t put any money into renovating this dump.</content></utterance>
+<utterance uid="27-2"><speaker>RYAN</speaker><content>This place is deserted. He’s definitely not making any money here.</content></utterance>
+<utterance uid="27-3"><speaker>ESPOSITO</speaker><content>Yeah, so where’s it coming from?</content></utterance>
+<utterance uid="27-4"><speaker>ESPOSITO</speaker><content>Oh.</content></utterance>
+<utterance uid="27-5"><speaker>RYAN</speaker><content>Really? You’re checking your text messages right now?</content></utterance>
+<utterance uid="27-6"><speaker>ESPOSITO</speaker><content>It’s about Beckett, bro.  Ah, she’s not with Demming. Morales in robbery says he’s been dating a vice detective for the last four months.</content></utterance>
+<utterance uid="27-7"><speaker>RYAN</speaker><content>Shh! You hear that?</content></utterance>
+<utterance uid="27-8"><speaker>ESPOSITO</speaker><content>Yeah.</content></utterance>
+<utterance uid="27-9"><speaker>ESPOSITO</speaker><content>I don’t like this, bro.</content></utterance>
+<utterance uid="27-10"><speaker>RYAN</speaker><content>Yeah, me either.</content></utterance>
+<utterance uid="27-11"><speaker>RYAN</speaker><content>No way we’re knocking on that door.</content></utterance>
+<utterance uid="27-12"><speaker>ESPOSITO</speaker><content>Okay, well … the building owner’s dead, the wife is down with us investigating, so –</content></utterance>
+<utterance uid="27-13"><speaker>ESPOSITO</speaker><content>NYPD!</content></utterance>
+<utterance uid="27-14"><speaker>RYAN</speaker><content>Hands, right now! Move, move, move, move! Move it, move it, move it!</content></utterance>
+<utterance uid="27-15"><speaker>RYAN</speaker><content>Looks like Franklin found a way to monetize his investment after all. Making crank.</content></utterance>
+<utterance uid="27-16"><speaker>ESPOSITO</speaker><content>Yeah. This is definitely a meth lab.</content></utterance>
+</scene>
+
+<scene id="28"><utterance uid="28-1"><speaker>BECKETT</speaker><content>So Franklin was a meth kingpin, huh?</content></utterance>
+<utterance uid="28-2"><speaker>CASTLE</speaker><content>Turns out, all of his properties housed meth labs. Which makes sense, for someone who used to cook the books.</content></utterance>
+<utterance uid="28-3"><speaker>BECKETT</speaker><content>That’s why he was killed. It’s a dangerous business.</content></utterance>
+<utterance uid="28-4"><speaker>CASTLE</speaker><content>Well, it’s all about New York now. They boys can take it from here and we can pick up right where we left off before this whole thing came to use.</content></utterance>
+<utterance uid="28-5"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="28-6"><speaker>BECKETT</speaker><content>Yeah, but why did it come to us?</content></utterance>
+<utterance uid="28-7"><speaker>CASTLE</speaker><content>Uh … the universe has a sense of humor, I suppose.</content></utterance>
+<utterance uid="28-8"><speaker>BECKETT</speaker><content>No, no. I mean, if this is about meth then why wasn’t he killed in New York?</content></utterance>
+<utterance uid="28-9"><speaker>CASTLE</speaker><content>Maybe the killer likes the beach.</content></utterance>
+<utterance uid="28-10"><speaker>BECKETT</speaker><content>No, I think there’s gotta be more to it, Castle. I mean, they knew about Lerner’s boat.</content></utterance>
+<utterance uid="28-11"><speaker>CASTLE</speaker><content>You know, I’m sure the boys will figure it out.</content></utterance>
+<utterance uid="28-12"><speaker>BECKETT</speaker><content>And that requires intimate an knowledge about Franklin’s life. That’s local knowledge.</content></utterance>
+<utterance uid="28-13"><speaker>CASTLE</speaker><content>Right, right, right. Well, maybe the killer just did his homework.</content></utterance>
+<utterance uid="28-14"><speaker>BECKETT</speaker><content>Yeah, but why would they go to all that trouble? I mean if he was kingpin in New York City, why would they kill him out here?</content></utterance>
+<utterance uid="28-15"><speaker>CASTLE</speaker><content>Um …  Unless part of the drug business was out here.</content></utterance>
+<utterance uid="28-16"><speaker>BECKETT</speaker><content>That explains the helicopter. He needed the helicopter to transfer the drugs out here.</content></utterance>
+<utterance uid="28-17"><speaker>CASTLE</speaker><content>And why he slept with Natalia and greased palms.</content></utterance>
+<utterance uid="28-18"><speaker>BECKETT</speaker><content>He needed an approval to get the helipad.</content></utterance>
+<utterance uid="28-19"><speaker>CASTLE</speaker><content>And it’s much less risky to move your product in helicopter rather than boat or car. No cop is going to pull you over.</content></utterance>
+<utterance uid="28-20"><speaker>BECKETT</speaker><content>You know, Chief Brady said that the drug problems doubled over the last 6 months.</content></utterance>
+<utterance uid="28-21"><speaker>CASTLE</speaker><content>Exactly. When Franklin started using his helicopter.</content></utterance>
+<utterance uid="28-22"><speaker>BECKETT</speaker><content>I’m sorry, Castle. But I think you should probably –</content></utterance>
+<utterance uid="28-23"><speaker>CASTLE</speaker><content>Call Ryan and Esposito.</content></utterance>
+<utterance uid="28-24"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>RYAN</speaker><content>Looks like Castle was right. His helicopter’s flight plans coincide with when the shipments left the meth labs.</content></utterance>
+<utterance uid="29-2"><speaker>ESPOSITO</speaker><content>Hmm. They also coincide with the late night landings his neighbor was complaining about. So know we know how Franklin was moving his product but it still doesn’t tell us who killed him.</content></utterance>
+<utterance uid="29-3"><speaker>RYAN</speaker><content>Well maybe it does.  Where are you going?</content></utterance>
+<utterance uid="29-4"><speaker>ESPOSITO</speaker><content>To an FBI buddy of mine to see if Beckett’s back with her old flame Sorenson. Why?</content></utterance>
+<utterance uid="29-5"><speaker>RYAN</speaker><content>Flight manifest for Tuesday. That includes a guest. Someone else was with him.</content></utterance>
+<utterance uid="29-6"><speaker>ESPOSITO</speaker><content>All right, I’m on Sorenson. You go get helicopter boy.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>LERNER</speaker><content>So I got a ride on Franklin’s helicopter. So what?</content></utterance>
+<utterance uid="30-2"><speaker>LAWYER</speaker><content>That doesn’t prove my client was trafficking drugs with him.</content></utterance>
+<utterance uid="30-3"><speaker>RYAN</speaker><content>True. These do.  Signed affidavits from the meth lab workers that you picked up product every Tuesday. You went from making bank to making crank.</content></utterance>
+<utterance uid="30-4"><speaker>LERNER</speaker><content>I didn’t kill Franklin. And – and Chief Brady already confirmed my alibi in the Hamptons.</content></utterance>
+<utterance uid="30-5"><speaker>RYAN</speaker><content>Well maybe you hired someone to kill him. See, I think you never got over your grudge with Franklin. I think you partnered with him, but you always planned to knock him off and take over the business. Am I getting close?</content></utterance>
+<utterance uid="30-6"><speaker>LERNER</speaker><content>Yeah, yeah, you’re close. But you’ve just got the wrong guy.</content></utterance>
+<utterance uid="30-7"><speaker>RYAN</speaker><content>What do you mean?</content></utterance>
+<utterance uid="30-8"><speaker>LERNER</speaker><content>Just last week Franklin was complaining about a local.</content></utterance>
+<utterance uid="30-9"><speaker>RYAN</speaker><content>A local drug dealer?</content></utterance>
+<utterance uid="30-10"><speaker>LERNER</speaker><content>Yes. Seems he didn’t appreciate us moving in on his business.</content></utterance>
+<utterance uid="30-11"><speaker>RYAN</speaker><content>Who? Give me a name.</content></utterance>
+<utterance uid="30-12"><speaker>LERNER</speaker><content>I don’t know a name. But Franklin seemed really spooked.</content></utterance>
+<utterance uid="30-13"><speaker>RYAN</speaker><content>What else did he tell you about him?</content></utterance>
+<utterance uid="30-14"><speaker>LERNER</speaker><content>That’s all I know. Everything else I told to Brad and his two consultants.</content></utterance>
+<utterance uid="30-15"><speaker>RYAN</speaker><content>Two consultants?</content></utterance>
+<utterance uid="30-16"><speaker>LERNER</speaker><content>Yeah, yeah. The writer, Castle, and his girlfriend.</content></utterance>
+<utterance uid="30-17"><speaker>RYAN</speaker><content>Girlfriend? Wha – what do you mean, girlfriend?</content></utterance>
+<utterance uid="30-18"><speaker>LERNER</speaker><content>What does that matter?</content></utterance>
+<utterance uid="30-19"><speaker>RYAN</speaker><content>Hey, hey! I’ll ask the questions here, pal. Are you telling me that Richard Castle brought his girlfriend in your interrogation?</content></utterance>
+<utterance uid="30-20"><speaker>LERNER</speaker><content>Yeah.</content></utterance>
+<utterance uid="30-21"><speaker>RYAN</speaker><content>What was her name?</content></utterance>
+<utterance uid="30-22"><speaker>LERNER</speaker><content>I – I don’t remember.</content></utterance>
+<utterance uid="30-23"><speaker>RYAN</speaker><content>Well then describe her.  Describe her Lerner, now!</content></utterance>
+<utterance uid="30-24"><speaker>LERNER</speaker><content>Okay! Tall! Medium length hair! What’s this about?</content></utterance>
+<utterance uid="30-25"><speaker>RYAN</speaker><content>What color? Give me a hair color.</content></utterance>
+<utterance uid="30-26"><speaker>LERNER</speaker><content>Uh … uh… brown. Brown eyes, too, I think. Really pretty.</content></utterance>
+<utterance uid="30-27"><speaker>RYAN</speaker><content>Body type?</content></utterance>
+<utterance uid="30-28"><speaker>LERNER</speaker><content>Awesome. I mean, awesome. She was like thin, gorgeous – she was hot. Really hot.  Kate! Name was Kate!</content></utterance>
+<utterance uid="30-29"><speaker>RYAN</speaker><content>Son of a –</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>RYAN</speaker><content>You were right, Castle. Franklin was using his helicopter to move meth to the Hamptons. Looks like you blew this case wide open. Looks like you can get back to your writing now, huh?</content></utterance>
+<utterance uid="31-2"><speaker>CASTLE</speaker><content>Well there’s still the matter of finding out who the killer is.</content></utterance>
+<utterance uid="31-3"><speaker>RYAN</speaker><content>Yeah well, I think Brady knows what he has to do. I already told him to look for a local drug dealer who was feeling squeezed by Franklin’s expanding operation.</content></utterance>
+<utterance uid="31-4"><speaker>CASTLE</speaker><content>Well that’s a great theory. Nice work.</content></utterance>
+<utterance uid="31-5"><speaker>RYAN</speaker><content>Oh, thanks. But it’s not my theory.  Aaron Lerner gave it up when I interrogated him this morning.</content></utterance>
+<utterance uid="31-6"><speaker>CASTLE</speaker><content>Aaron Lerner? Aaron – so you interrogated Lerner, too.</content></utterance>
+<utterance uid="31-7"><speaker>RYAN</speaker><content>Yeah. He’s back in the city. Turns out he was Franklin’s partner in crime.</content></utterance>
+<utterance uid="31-8"><speaker>CASTLE</speaker><content>Wow. What do you know?</content></utterance>
+<utterance uid="31-9"><speaker>RYAN</speaker><content>You still there, Castle?</content></utterance>
+<utterance uid="31-10"><speaker>CASTLE</speaker><content>Yeah, still here.</content></utterance>
+<utterance uid="31-11"><speaker>CASTLE</speaker><content>Uh … what else did Aaron Lerner say? Did he say anything else about … anything else?</content></utterance>
+<utterance uid="31-12"><speaker>RYAN</speaker><content>Oh, you know. The usual. “I didn’t do it. You got the wrong guy.”  I’m pretty sure he told me everything he knows.</content></utterance>
+<utterance uid="31-13"><speaker>BECKETT</speaker><content> Everything?</content></utterance>
+<utterance uid="31-14"><speaker>CASTLE</speaker><content>Everything, huh? That’s … good.</content></utterance>
+<utterance uid="31-15"><speaker>RYAN</speaker><content>Yeah…  Good luck writing.</content></utterance>
+<utterance uid="31-16"><speaker>CASTLE</speaker><content>Thanks.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>CASTLE</speaker><content>Chief Brady, what did I do now?</content></utterance>
+<utterance uid="32-2"><speaker>BRADY</speaker><content>Nothing. Uh, just wanted to let you know, I talked to Detective Ryan.</content></utterance>
+<utterance uid="32-3"><speaker>BECKETT</speaker><content>Really? So … what did he say?</content></utterance>
+<utterance uid="32-4"><speaker>BRADY</speaker><content>Well, he got us on to the idea of a local drug dealer. So we talked to McMurry, the meth addict from the beach, and he coughed up the name of the local supplier of meth. Marty Bentley.</content></utterance>
+<utterance uid="32-5"><speaker>CASTLE</speaker><content>The marina operator?</content></utterance>
+<utterance uid="32-6"><speaker>BECKETT</speaker><content>Yeah, but that makes sense. I mean, he would know Aaron Lerner’s schedule and when he could take the boat out.</content></utterance>
+<utterance uid="32-7"><speaker>BRADY</speaker><content>Right. So we got a warrant to search his apartment and found the burner cell phone that sent the text summoning Franklin to the marina.</content></utterance>
+<utterance uid="32-8"><speaker>CASTLE</speaker><content>Well that’s great. Congrats.</content></utterance>
+<utterance uid="32-9"><speaker>BRADY</speaker><content>Thanks. Hey – I couldn’t have done it without the two of you and your resources in New York. Um … I’d be honored if you came to the arrest.</content></utterance>
+<utterance uid="32-10"><speaker>BECKETT</speaker><content> No.</content></utterance>
+<utterance uid="32-11"><speaker>CASTLE</speaker><content>Well …  How can we say no?</content></utterance>
+<utterance uid="32-12"><speaker>BRADY</speaker><content>Police! Down! Get down! Police!</content></utterance>
+<utterance uid="32-13"><speaker>CASTLE</speaker><content>So… Chief Brady’s first time pulling his gun.</content></utterance>
+<utterance uid="32-14"><speaker>BECKETT</speaker><content>Oh Castle, maybe I should go in there.</content></utterance>
+<utterance uid="32-15"><speaker>CASTLE</speaker><content>You don’t have a gun.</content></utterance>
+<utterance uid="32-16"><speaker>BECKETT</speaker><content>Yeah, but that never stops you.</content></utterance>
+<utterance uid="32-17"><speaker>CASTLE</speaker><content> Well, I’m lucky.</content></utterance>
+<utterance uid="32-18"><speaker>BRADY</speaker><content>We got him.</content></utterance>
+<utterance uid="32-19"><speaker>BECKETT</speaker><content>Oh!</content></utterance>
+<utterance uid="32-20"><speaker>BRADY</speaker><content>Cabin secured.</content></utterance>
+<utterance uid="32-21"><speaker>BECKETT</speaker><content>Nice one Chief Brady.</content></utterance>
+<utterance uid="32-22"><speaker>BRADY</speaker><content>Thank you, Detective.</content></utterance>
+<utterance uid="32-23"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="32-24"><speaker>BRADY</speaker><content>Just like out of one of your books, hey Castle?</content></utterance>
+<utterance uid="32-25"><speaker>CASTLE</speaker><content>Yeah, uh – marina owner with side meth business kills competition. Call it … Hamptons Heat. And if I ever write it I’ll be sure to include a gutsy Chief Brady character.</content></utterance>
+<utterance uid="32-26"><speaker>MARTY BENTLEY</speaker><content>That’s not mine! Look, I’m telling you. I didn’t do anything. You’ve got the wrong guy.</content></utterance>
+<utterance uid="32-27"><speaker>DEPUTY JONES</speaker><content>Chief, so far I’ve found baggies of meth and an Automag III 30 Carbine.</content></utterance>
+<utterance uid="32-28"><speaker>BECKETT</speaker><content>Which shoots .30 caliber bullets just like we pulled out of our victim. That’s our murder weapon.</content></utterance>
+<utterance uid="32-29"><speaker>BRADY</speaker><content>I guess that seals it. Good – good work Deputy.</content></utterance>
+<utterance uid="32-30"><speaker>BENTLEY</speaker><content>This is ridiculous. I didn’t kill anybody. You’ve got the wrong guy.</content></utterance>
+<utterance uid="32-31"><speaker>OFFICER</speaker><content>Yeah, yeah, yeah. Watch your step.</content></utterance>
+<utterance uid="32-32"><speaker>CASTLE</speaker><content>Officer, hold on a second there.</content></utterance>
+<utterance uid="32-33"><speaker>BRADY</speaker><content>What is it, Castle?</content></utterance>
+<utterance uid="32-34"><speaker>CASTLE</speaker><content>This knot. Both of these knots. It’s a perfect figure-eight with an underhand, neatly flemished. Did you tie these, Bentley?</content></utterance>
+<utterance uid="32-35"><speaker>BENTLEY</speaker><content>Of course I did. It’s my boat.</content></utterance>
+<utterance uid="32-36"><speaker>BECKETT</speaker><content>What about it, Castle?</content></utterance>
+<utterance uid="32-37"><speaker>CASTLE</speaker><content>Well it’s beautiful. I mean, it’s perfect. That knot could be in a book of nautical knots.</content></utterance>
+<utterance uid="32-38"><speaker>BRADY</speaker><content>What does that have to do with anything?</content></utterance>
+<utterance uid="32-39"><speaker>CASTLE</speaker><content>Everyone agrees that the killer is the same person who stole Aaron Lerner’s boat. That person had to tie the boat to the dock, but that knot was sloppy. I even tripped over it. Whoever tied these figure-eights is an experienced boatman. Tying knots would be their second nature. They’d be incapable of tying a sloppy knot. Bentley can’t be the killer.</content></utterance>
+<utterance uid="32-40"><speaker>BRADY</speaker><content>But we found the burner phone that placed the call to Franklin in Bentley’s apartment. How do you explain that?</content></utterance>
+<utterance uid="32-41"><speaker>CASTLE</speaker><content>Oh, that’s easy. It was planted. Just like Bentley’s boat here had the meth and the gun. Which I’m sure forensics will show is the actual murder weapon.</content></utterance>
+<utterance uid="32-42"><speaker>BRADY</speaker><content>And just who do you think planted it?</content></utterance>
+<utterance uid="32-43"><speaker>CASTLE</speaker><content>Well you tell me.</content></utterance>
+<utterance uid="32-44"><speaker>BECKETT</speaker><content>Uh … Chief Brady, who got the information from McMurry on Bentley?</content></utterance>
+<utterance uid="32-45"><speaker>BRADY</speaker><content>Jones. It was Deputy Jones.</content></utterance>
+<utterance uid="32-46"><speaker>DEPUTY JONES</speaker><content>Okay. Okay, get back! Everybody stay back.</content></utterance>
+<utterance uid="32-47"><speaker>BRADY</speaker><content>Take it easy, Jones. We don’t want anybody to get hurt.</content></utterance>
+<utterance uid="32-48"><speaker>DEPUTY JONES</speaker><content>You rich weekenders. You think you’re so smart. Meantime you pollute our beaches, you throw your money around like you’re better than us!</content></utterance>
+<utterance uid="32-49"><speaker>CASTLE</speaker><content>I don’t think I’m better than you!</content></utterance>
+<utterance uid="32-50"><speaker>DEPUTY JONES</speaker><content>Oh shut up.  I care about that. But then Franklin’s city money wasn’t good enough for him. He had to move in on my side business. So I did what I had to do.</content></utterance>
+<utterance uid="32-51"><speaker>BECKETT</speaker><content>Got it.</content></utterance>
+<utterance uid="32-52"><speaker>CASTLE</speaker><content>Nice! That is a Hamptons Heat twist I did not see coming. But sorry about the whole accusing you of murder stuff. Still buddies?</content></utterance>
+<utterance uid="32-53"><speaker>BRADY</speaker><content>Yeah.</content></utterance>
+</scene>
+
+<scene id="33"><utterance uid="33-1"><speaker>BRADY</speaker><content>So it turns out Jones paid McMurry $500 to point a finger at Bentley.</content></utterance>
+<utterance uid="33-2"><speaker>BECKETT</speaker><content>$500 dollars to ruin a man’s life, huh?</content></utterance>
+<utterance uid="33-3"><speaker>BRADY</speaker><content>Well not to sound all Scooby, but he might have gotten away with it if not for you, Castle.</content></utterance>
+<utterance uid="33-4"><speaker>CASTLE</speaker><content>Well, I’m always glad to help my friends in law enforcement.</content></utterance>
+<utterance uid="33-5"><speaker>BECKETT</speaker><content>Speaking of which  I would like to make a toast. Chief Brady, not everyone could have handled themselves the way you did on the dock today. You’re a good cop.</content></utterance>
+<utterance uid="33-6"><speaker>CASTLE</speaker><content>Chief Brady.</content></utterance>
+<utterance uid="33-7"><speaker>BECKETT</speaker><content>Here’s to you.</content></utterance>
+<utterance uid="33-8"><speaker>BRADY</speaker><content>Thank you, Detective Beckett.</content></utterance>
+<utterance uid="33-9"><speaker>BRADY</speaker><content>You can rest assured, your secret is safe with me.</content></utterance>
+<utterance uid="33-10"><speaker>CASTLE</speaker><content>Thank you.</content></utterance>
+<utterance uid="33-11"><speaker>BECKETT</speaker><content>Oh, yeah. Thank you.</content></utterance>
+<utterance uid="33-12"><speaker>BRADY</speaker><content>Shot the bad guy.</content></utterance>
+<utterance uid="33-13"><speaker>CASTLE</speaker><content>You did.</content></utterance>
+<utterance uid="33-14"><speaker>BECKETT</speaker><content>Yeah, you did.</content></utterance>
+<utterance uid="33-15"><speaker>CASTLE</speaker><content>Nice.</content></utterance>
+<utterance uid="33-16"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="33-17"><speaker>BRADY</speaker><content>I should go.</content></utterance>
+<utterance uid="33-18"><speaker>CASTLE</speaker><content>Oh, of course.</content></utterance>
+<utterance uid="33-19"><speaker>BECKETT</speaker><content>Oh no.</content></utterance>
+<utterance uid="33-20"><speaker>BRADY</speaker><content>Find a new deputy.</content></utterance>
+<utterance uid="33-21"><speaker>CASTLE</speaker><content>Yeah, you do.</content></utterance>
+<utterance uid="33-22"><speaker>BECKETT</speaker><content>It was so great to meet you.</content></utterance>
+<utterance uid="33-23"><speaker>BRADY</speaker><content>You too.</content></utterance>
+<utterance uid="33-24"><speaker>CASTLE</speaker><content>Bye.</content></utterance>
+<utterance uid="33-25"><speaker>BECKETT</speaker><content>Bye!  Let’s go.</content></utterance>
+<utterance uid="33-26"><speaker>CASTLE</speaker><content>Please.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>ESPOSITO</speaker><content>Well, the case in the Hamptons has been solved, but the case of the secret boyfriend remains open. Turns out Beckett’s FBI ex has been stationed in Europe for 6 months.</content></utterance>
+<utterance uid="34-2"><speaker>RYAN</speaker><content>Huh.</content></utterance>
+<utterance uid="34-3"><speaker>ESPOSITO</speaker><content>What? You got anything?</content></utterance>
+<utterance uid="34-4"><speaker>RYAN</speaker><content>Nah.  No, I was just thinking maybe we should drop it. You know, let Beckett’s private life stay private.</content></utterance>
+<utterance uid="34-5"><speaker>ESPOSITO</speaker><content>What, you mean give up?  A real detective never gives up on a case, bro.</content></utterance>
+<utterance uid="34-6"><speaker>RYAN</speaker><content>You know it’s not a real case, right?</content></utterance>
+<utterance uid="34-7"><speaker>ESPOSITO</speaker><content>You’re going to tell me what a real case is?</content></utterance>
+<utterance uid="34-8"><speaker>RYAN</speaker><content>Uh, last time I checked it’s when there’s a murder.</content></utterance>
+<utterance uid="34-9"><speaker>ESPOSITO</speaker><content>Well. There’s been a murder all right. Your spirit.</content></utterance>
+<utterance uid="34-10"><speaker>RYAN</speaker><content>Wow.</content></utterance>
+<utterance uid="34-11"><speaker>ESPOSITO</speaker><content>And your dignity, too.</content></utterance>
+<utterance uid="34-12"><speaker>RYAN</speaker><content>Huh. Well you know what? Just for that, first round’s on you.</content></utterance>
+<utterance uid="34-13"><speaker>ESPOSITO</speaker><content>Yeah, good luck with that.  Bruce.</content></utterance>
+<utterance uid="34-14"><speaker>RYAN</speaker><content>Bruce.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>CASTLE</speaker><content>You know what’s funny? My cover was that I was coming out here to write and I actually got an idea for a book.</content></utterance>
+<utterance uid="35-2"><speaker>BECKETT</speaker><content>Oh, Hamptons Heat. So you were serious about that, huh?</content></utterance>
+<utterance uid="35-3"><speaker>CASTLE</speaker><content>Well I already have the story. That’s the hardest part.</content></utterance>
+<utterance uid="35-4"><speaker>BECKETT</speaker><content>So, do you have an ending yet?</content></utterance>
+<utterance uid="35-5"><speaker>CASTLE</speaker><content>Oh, well … I had some ideas, but uh … I’m open to suggestions.</content></utterance>
+<utterance uid="35-6"><speaker>BECKETT</speaker><content>How about this?  The weekend hadn’t turned out exactly as Detective Heat had imagined, but now nothing -  – not even another murder on the beach, could stop her from getting exactly what she desired most.</content></utterance>
+<utterance uid="35-7"><speaker>CASTLE</speaker><content>Hmm… that’s good.</content></utterance>
+<utterance uid="35-8"><speaker>BECKETT</speaker><content>Can I get a writer’s credit for it?</content></utterance>
+<utterance uid="35-9"><speaker>CASTLE</speaker><content>We’ll talk.</content></utterance>
+<utterance uid="35-10"><speaker>BECKETT</speaker><content>Okay.</content></utterance>
+<utterance uid="35-11"><speaker>THE END</speaker><content>CASTLE</content></utterance>
+</scene>
+</script>

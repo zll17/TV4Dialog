@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+
+<scene id="1"><utterance uid="1-1"><speaker>DOORMAN</speaker><content>All right, guys! Keep it clear! Don’t you have anything better to do?</content></utterance>
+<utterance uid="1-2"><speaker>HARVEY STRYKER</speaker><content>Mandy! Mandy! Have you talked to Zach since the breakup?</content></utterance>
+<utterance uid="1-3"><speaker>HARVEY</speaker><content>Do you regret cheating on him?  Is there any truth to the rumor that you’re going back into rehab?</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>KATE BECKETT</speaker><content>Castle?</content></utterance>
+<utterance uid="2-2"><speaker>RICHARD CASTLE</speaker><content>Hum?</content></utterance>
+<utterance uid="2-3"><speaker>BECKETT</speaker><content>Should I be worried about your commitment to our engagement?</content></utterance>
+<utterance uid="2-4"><speaker>CASTLE</speaker><content>No. Why?</content></utterance>
+<utterance uid="2-5"><speaker>BECKETT</speaker><content> Because it says right here you’re getting back together with your ex-wife.</content></utterance>
+<utterance uid="2-6"><speaker>CASTLE</speaker><content>What?</content></utterance>
+<utterance uid="2-7"><speaker>BECKETT</speaker><content>Right here.  Page Six.</content></utterance>
+<utterance uid="2-8"><speaker>CASTLE</speaker><content>“Castle caught cuddling with ex-wife publisher.” No, no. This was a business lunch. We were discussing Heat and Storm books.</content></utterance>
+<utterance uid="2-9"><speaker>BECKETT</speaker><content>Oh, so … um … you weren’t “gazing lovingly into her eyes”?</content></utterance>
+<utterance uid="2-10"><speaker>CASTLE</speaker><content> She has spinach in her teeth. That’s just – okay – I don’t –  See, this wouldn’t happen if you’d just let me announce our engagement.</content></utterance>
+<utterance uid="2-11"><speaker>BECKETT</speaker><content>We already talked about this. Everybody that’s important to us already knows.</content></utterance>
+<utterance uid="2-12"><speaker>CASTLE</speaker><content> Yes, and just because I’m a public figure doesn’t mean you need to be one, too.</content></utterance>
+<utterance uid="2-13"><speaker>BECKETT</speaker><content>Exactly.</content></utterance>
+<utterance uid="2-14"><speaker>CASTLE</speaker><content>Well, so long as you don’t mind this sort of thing happening.</content></utterance>
+<utterance uid="2-15"><speaker>BECKETT</speaker><content>I don’t. ‘cause it’s not true.  And it only gives me more material to torture you with.</content></utterance>
+<utterance uid="2-16"><speaker>CASTLE</speaker><content>Mmm… and the student becomes the master.</content></utterance>
+<utterance uid="2-17"><speaker>CASTLE</speaker><content> Who rings the doorbell at 6:45 in the morning?</content></utterance>
+<utterance uid="2-18"><speaker>PI</speaker><content>Hey, Mr. C! Hope I didn’t wake you.</content></utterance>
+<utterance uid="2-19"><speaker>CASTLE</speaker><content>No.</content></utterance>
+<utterance uid="2-20"><speaker>PI</speaker><content>I was just on my way to work, thought I would pick up my letter of recommendation.</content></utterance>
+<utterance uid="2-21"><speaker>CASTLE</speaker><content>Right. For your grant, uh, application.</content></utterance>
+<utterance uid="2-22"><speaker>PI</speaker><content> Really appreciate you doing it.</content></utterance>
+<utterance uid="2-23"><speaker>CASTLE</speaker><content>I know I told Alexis I was finished, but I haven’t really quite, um … I’m still tweaking it. Getting it just right.</content></utterance>
+<utterance uid="2-24"><speaker>PI</speaker><content>You’re a perfectionist. Like me. Well, take your time. Not too much time. The deadline’s tonight.</content></utterance>
+<utterance uid="2-25"><speaker>CASTLE</speaker><content>I’ll have it done by lunch.</content></utterance>
+<utterance uid="2-26"><speaker>PI</speaker><content>Thanks, Mr. C!  You’re the best!</content></utterance>
+<utterance uid="2-27"><speaker>CASTLE</speaker><content>I know.</content></utterance>
+<utterance uid="2-28"><speaker>BECKETT</speaker><content> Hi, Pi.</content></utterance>
+<utterance uid="2-29"><speaker>PI</speaker><content>Bye.</content></utterance>
+<utterance uid="2-30"><speaker>BECKETT</speaker><content>You haven’t written a word, have you?</content></utterance>
+<utterance uid="2-31"><speaker>CASTLE</speaker><content>No. But in my defense, what am I supposed to write? It’s Pi.</content></utterance>
+<utterance uid="2-32"><speaker>BECKETT</speaker><content>So why’d you offer?</content></utterance>
+<utterance uid="2-33"><speaker>CASTLE</speaker><content>I didn’t. Alexis asked and …  I can’t say no.  But no more excuses. I’m going to do it right now.</content></utterance>
+<utterance uid="2-34"><speaker>CASTLE</speaker><content>Unless that’s a murder.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>HARVEY</speaker><content>This is Harvey Stryker with CelebGazer.com. We’re getting unconfirmed reports that pop diva Mandy Sutton is dead at 22.</content></utterance>
+<utterance uid="3-2"><speaker>CASTLE</speaker><content>Mandy Sutton? Oh no. Alexis used to love her kid’s show, Mandy Melody. She was a regular teen by day and a crime fighting pop star by night and nobody recognized her at school because she wore glasses.</content></utterance>
+<utterance uid="3-3"><speaker>BECKETT</speaker><content>Well it looks like she could have used that trick in real life. I mean, look at this. No wonder she was such a mess.</content></utterance>
+<utterance uid="3-4"><speaker>HARVEY</speaker><content>Detective! Can you confirm for us that Mandy Sutton’s dead?</content></utterance>
+<utterance uid="3-5"><speaker>BECKETT</speaker><content>I – you know –</content></utterance>
+<utterance uid="3-6"><speaker>HARVEY</speaker><content>Can you give us details on how she died?</content></utterance>
+<utterance uid="3-7"><speaker>BECKETT</speaker><content>I have work to do. Sorry.</content></utterance>
+<utterance uid="3-8"><speaker>HARVEY</speaker><content>Oh hey, Richard Castle. Is it true that you’re getting back together with your ex-wife?</content></utterance>
+<utterance uid="3-9"><speaker>CASTLE</speaker><content>This isn’t about me today.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>BECKETT</speaker><content>Uh … Castle, how come you didn’t deny it?</content></utterance>
+<utterance uid="4-2"><speaker>CASTLE</speaker><content>What do you mean, back there? Are you kidding? Yeah, if I deny that then they think it’s true. I thought that stuff doesn’t bother you.</content></utterance>
+<utterance uid="4-3"><speaker>BECKETT</speaker><content>It doesn’t.  Hey. So Mandy Sutton lived in this building?</content></utterance>
+<utterance uid="4-4"><speaker>KEVIN RYAN</speaker><content>Yeah. Penthouse. Doorman found her just before six this morning.</content></utterance>
+<utterance uid="4-5"><speaker>BECKETT</speaker><content>OD?</content></utterance>
+<utterance uid="4-6"><speaker>LANIE PARISH</speaker><content>Given her lifestyle, you’d think. But this is plain old fashioned murder. Blunt force trauma to the back of the head. The facial lacerations probably happened with the fall.</content></utterance>
+<utterance uid="4-7"><speaker>BECKETT</speaker><content>Okay, when did this happen?</content></utterance>
+<utterance uid="4-8"><speaker>LANIE</speaker><content>Lividity puts it between nine and eleven last night.</content></utterance>
+<utterance uid="4-9"><speaker>JAVIER</speaker><content>Well, we can cut that time frame in half. The doorman said that the limo dropped her off at the lobby last night at 10PM.</content></utterance>
+<utterance uid="4-10"><speaker>BECKETT</speaker><content>She was killed within an hour of returning home?</content></utterance>
+<utterance uid="4-11"><speaker>CASTLE</speaker><content>What was she doing back here?</content></utterance>
+<utterance uid="4-12"><speaker>ESPOSITO</speaker><content>Doorman didn’t know, but he said that she uses that door sometimes when she wants to avoid the crowd.</content></utterance>
+<utterance uid="4-13"><speaker>CASTLE</speaker><content>So … maybe she was sneaking out or meeting someone?</content></utterance>
+<utterance uid="4-14"><speaker>RYAN</speaker><content>If so, it’s probably someone she knew. Gates are locked on both sides. You need an access code to get tin.</content></utterance>
+<utterance uid="4-15"><speaker>BECKETT</speaker><content>Is there any security cam footage we can pull?</content></utterance>
+<utterance uid="4-16"><speaker>RYAN</speaker><content>Not back here.</content></utterance>
+<utterance uid="4-17"><speaker>CASTLE</speaker><content>Ironic, seeing as how she spent her entire life in front of cameras.</content></utterance>
+<utterance uid="4-18"><speaker>BECKETT</speaker><content>Paparazzi was out front last night. Let’s see if we can get copies of their photos. Whoever was behind this might have been in that crowd. And no talking to the press. Not until we know what’s going on.</content></utterance>
+<utterance uid="4-19"><speaker>KELLY JANE</speaker><content>Where is she? Oh my God, Mandy.</content></utterance>
+<utterance uid="4-20"><speaker>ESPOSITO</speaker><content>Ma’am –</content></utterance>
+<utterance uid="4-21"><speaker>KELLY</speaker><content>Mandy.</content></utterance>
+<utterance uid="4-22"><speaker>ESPOSITO</speaker><content>Ma’am, this is a crime scene. You can’t be back here.</content></utterance>
+<utterance uid="4-23"><speaker>KELLY</speaker><content>You don’t understand. I’m her personal assistant.</content></utterance>
+<utterance uid="4-24"><speaker>ESPOSITO</speaker><content>You still can’t be back here.</content></utterance>
+<utterance uid="4-25"><speaker>BECKETT</speaker><content>But we will need to take you to the station to get a statement. Do you have contact information for her next of kin?</content></utterance>
+<utterance uid="4-26"><speaker>KELLY</speaker><content>That would be her – her manager.  I mean, her mother.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>MARILYN SUTTON</speaker><content>How could this happen? What was she even doing in that alley?</content></utterance>
+<utterance uid="5-2"><speaker>BECKETT</speaker><content>Do you know of anyone who would have wanted to harm your daughter?</content></utterance>
+<utterance uid="5-3"><speaker>MARILYN</speaker><content>Yeah. A lot of people dislike her, who she became. Provocative clothes and dancing. They just wanted her to be Mandy Melody forever.</content></utterance>
+<utterance uid="5-4"><speaker>CASTLE</speaker><content>Had she received any threats recently?</content></utterance>
+<utterance uid="5-5"><speaker>KELLY</speaker><content>Sure she’d get some disturbing letters, but any that were too aggressive we’d turn over to the security firm.</content></utterance>
+<utterance uid="5-6"><speaker>BECKETT</speaker><content>Okay, we’re going to need to see all of those letters. Now, do you know if she was planning on meeting with anyone at her apartment last night?</content></utterance>
+<utterance uid="5-7"><speaker>MARILYN</speaker><content>We hadn’t spoken to her in two days.</content></utterance>
+<utterance uid="5-8"><speaker>CASTLE</speaker><content>She was missing?</content></utterance>
+<utterance uid="5-9"><speaker>MARILYN</speaker><content>No. We knew where she was.</content></utterance>
+<utterance uid="5-10"><speaker>KELLY</speaker><content>It wasn’t hard to track her on the social media and gossip sites. She was partying pretty hard.</content></utterance>
+<utterance uid="5-11"><speaker>MARILYN</speaker><content>But the last few months, Mandy had been doing pretty great. She’d stayed clean since her last stint in rehab. She even met a guy while she was doing her community service. Zach. He builds houses for the poor. And then a couple nights ago she went to a club for someone’s birthday and …  She got drunk and she started making out with an old boyfriend.</content></utterance>
+<utterance uid="5-12"><speaker>KELLY</speaker><content>And someone took a picture. It hit all the gossip sites. When Zach saw …</content></utterance>
+<utterance uid="5-13"><speaker>MARILYN</speaker><content>It was too much for him. They got into a big fight and he left her.</content></utterance>
+<utterance uid="5-14"><speaker>BECKETT</speaker><content>How long had they been dating?</content></utterance>
+<utterance uid="5-15"><speaker>MARILYN</speaker><content>Four months.</content></utterance>
+<utterance uid="5-16"><speaker>CASTLE</speaker><content>Which means he would know how to access the alley behind your daughter’s building.</content></utterance>
+<utterance uid="5-17"><speaker>BECKETT</speaker><content>Do you know where we could find him?</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>ZACH BENTON</speaker><content>It’s funny, the last time I saw this picture I didn’t think I could feel any worse, but now that she’s gone –</content></utterance>
+<utterance uid="6-2"><speaker>ESPOSITO</speaker><content>Yeah? Exactly how bad did you feel?</content></utterance>
+<utterance uid="6-3"><speaker>ZACH</speaker><content>Look, I loved her. I would never hurt her.</content></utterance>
+<utterance uid="6-4"><speaker>RYAN</speaker><content>Then you wouldn’t mind us asking where you were between ten and eleven last night.</content></utterance>
+<utterance uid="6-5"><speaker>ZACH</speaker><content>I – I didn’t do this, okay? I was at a lumber yard in Fairfield, New Jersey loading up a truck with the rest of these guys. You can – you can ask them.</content></utterance>
+<utterance uid="6-6"><speaker>ESPOSITO</speaker><content>And the last time you saw her?</content></utterance>
+<utterance uid="6-7"><speaker>ZACH</speaker><content>Two days ago when I broke it off. Why are you asking me these questions? I’m not the one with the attempted manslaughter charges.</content></utterance>
+<utterance uid="6-8"><speaker>RYAN</speaker><content>Manslaughter charge?</content></utterance>
+<utterance uid="6-9"><speaker>ZACH</speaker><content>Yeah, her ex-boyfriend, Jesse Jones. The one in that picture? He’s the one who got her into drugs in the first place. Mandy never told anyone this, but the last time they broke up he threatened to kill her.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>BECKETT</speaker><content>Weapons charges, aggravated assault. That’s a hell of a resume, Jesse. How does someone like you hook up with a superstar like Mandy?</content></utterance>
+<utterance uid="7-2"><speaker>JESSE JONES</speaker><content> Like all the other pretty little rich girls that come to me for their ink. She was looking for a lot more than a tattoo and I was happy to provide.</content></utterance>
+<utterance uid="7-3"><speaker>BECKETT</speaker><content>So I read online that the two of you were stormy and it didn’t end well. You trashed her apartment and made some pretty serious threats.</content></utterance>
+<utterance uid="7-4"><speaker>JESSE</speaker><content> Water under the bridge.</content></utterance>
+<utterance uid="7-5"><speaker>BECKETT</speaker><content>Until two nights ago when you guys hooked up. How did that happen?</content></utterance>
+<utterance uid="7-6"><speaker>JESSE</speaker><content>I was at a bar. She came in, threw herself at me like old times, and I obliged. That was the last time I saw her.</content></utterance>
+<utterance uid="7-7"><speaker>BECKETT</speaker><content>How’d you take it? When right after that photo of you two appeared she told Celeb Gazer that you were –  “human trash” and that “that night was the biggest mistake of her life”.</content></utterance>
+<utterance uid="7-8"><speaker>JESSE</speaker><content>She seemed to like it okay at the time.</content></utterance>
+<utterance uid="7-9"><speaker>BECKETT</speaker><content>Where were you last night between ten and eleven?</content></utterance>
+<utterance uid="7-10"><speaker>JESSE</speaker><content>I was at a pool hall in Queens with some friends.</content></utterance>
+<utterance uid="7-11"><speaker>BECKETT</speaker><content>Names.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>BECKETT</speaker><content>Lanie, what’s going on?</content></utterance>
+<utterance uid="8-2"><speaker>LANIE</speaker><content>We … have a little problem here.</content></utterance>
+<utterance uid="8-3"><speaker>BECKETT</speaker><content>So what’s the problem?</content></utterance>
+<utterance uid="8-4"><speaker>MARILYN</speaker><content>I’ll tell you what the problem is. That’s not my daughter. That’s not Mandy.</content></utterance>
+</scene>
+
+<scene id="9"><utterance uid="9-1"><speaker>BECKETT</speaker><content>So Mandy’s mom identified our victim as Claire Samuels, 25. She was an aspiring actress.</content></utterance>
+<utterance uid="9-2"><speaker>CASTLE</speaker><content>And Mandy’s decoy.</content></utterance>
+<utterance uid="9-3"><speaker>CAPTAIN VICTORIA GATES</speaker><content>Decoy?</content></utterance>
+<utterance uid="9-4"><speaker>CASTLE</speaker><content>Yeah, to fool the press. It’s a practice not uncommon in this age of stalker-azzi.</content></utterance>
+<utterance uid="9-5"><speaker>BECKETT</speaker><content>So she’d dress up as Mandy, she’d put on sunglasses, she’d let the hordes follow her so that Mandy could go about unnoticed.</content></utterance>
+<utterance uid="9-6"><speaker>BECKETT</speaker><content>Now, we’ve notified Claire’s parents. They’re flying in. And ESPOSITO’s digging into her life as we speak.</content></utterance>
+<utterance uid="9-7"><speaker>GATES</speaker><content>So if Claire is our actual victim, then where is Mandy Sutton?</content></utterance>
+<utterance uid="9-8"><speaker>BECKETT</speaker><content>We don’t know. No one has seen her and she’s not answering her phone.</content></utterance>
+<utterance uid="9-9"><speaker>GATES</speaker><content>Given that Claire was pretending to be Mandy when she was killed, then we need to consider the very real possibility that Mandy Sutton was our killer’s intended target. And that they might be looking to finish the job.</content></utterance>
+<utterance uid="9-10"><speaker>CASTLE</speaker><content>They may already have, which is why we can’t find her.</content></utterance>
+<utterance uid="9-11"><speaker>KELLY</speaker><content>Found her.  She’s checked into the Wessex Hotel under one of her aliases. But she’s not answering her room phone and she’s not responding to knocks on the door.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>BECKETT</speaker><content> Castle.</content></utterance>
+<utterance uid="10-2"><speaker>BECKETT</speaker><content>That’s not blood. It’s wine.</content></utterance>
+<utterance uid="10-3"><speaker>MANDY SUTTON</speaker><content>Closing time already?</content></utterance>
+<utterance uid="10-4"><speaker>MANDY</speaker><content>Who are you?</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>MANDY</speaker><content>What do you mean, I’m dead?</content></utterance>
+<utterance uid="11-2"><speaker>BECKETT</speaker><content>Claire Samuels was killed last night and the world think that that was you.</content></utterance>
+<utterance uid="11-3"><speaker>MANDY</speaker><content>Who?</content></utterance>
+<utterance uid="11-4"><speaker>CASTLE</speaker><content>Claire Samuels. She’s your decoy.</content></utterance>
+<utterance uid="11-5"><speaker>MARILYN</speaker><content>The girl we dressed to look like you, to confuse the paparazzi.</content></utterance>
+<utterance uid="11-6"><speaker>MANDY</speaker><content>Oh. Oh. Yeah. That’s pretty harsh.</content></utterance>
+<utterance uid="11-7"><speaker>BECKETT</speaker><content>Do you know why she went to your apartment last night?</content></utterance>
+<utterance uid="11-8"><speaker>MANDY</speaker><content>No. Why?</content></utterance>
+<utterance uid="11-9"><speaker>BECKETT</speaker><content>Well, I mean, we’re trying to figure out how she got there, and your mom said that she wasn’t scheduled to work yesterday, so …</content></utterance>
+<utterance uid="11-10"><speaker>CASTLE</speaker><content>Yeah, the limo company claims the car she arrived in was ordered by you.</content></utterance>
+<utterance uid="11-11"><speaker>MANDY</speaker><content>I’ve never drunk dialed a limo before, but –  - nope. Wasn’t me.</content></utterance>
+<utterance uid="11-12"><speaker>CASTLE</speaker><content>What about Claire? Did you call her?</content></utterance>
+<utterance uid="11-13"><speaker>MANDY</speaker><content>No. I barely know her.</content></utterance>
+<utterance uid="11-14"><speaker>MARILYN</speaker><content>We discouraged personal contact. It wouldn’t make much sense to have a decoy if they’re going to be seen hanging out together.</content></utterance>
+<utterance uid="11-15"><speaker>MANDY</speaker><content>Can I lay down now?</content></utterance>
+<utterance uid="11-16"><speaker>BECKETT</speaker><content>Actually, Miss Sutton, we have a couple more questions for you about your life.</content></utterance>
+<utterance uid="11-17"><speaker>MANDY</speaker><content>My life?</content></utterance>
+<utterance uid="11-18"><speaker>CASTLE</speaker><content>Yeah. We think you may have been the intended target.</content></utterance>
+<utterance uid="11-19"><speaker>MANDY</speaker><content>Oh. Yeah. That does make more sense.  Okay.</content></utterance>
+<utterance uid="11-20"><speaker>BECKETT</speaker><content>So um, do you know if anyone would have wanted to hurt you? Do you have any enemies?</content></utterance>
+<utterance uid="11-21"><speaker>MANDY</speaker><content>The press. But they wouldn’t hurt me. Without me who would they write all those bad things about?</content></utterance>
+<utterance uid="11-22"><speaker>BECKETT</speaker><content>Okay, well, the last two days when you were out socializing did you have any fights or did you upset anyone?</content></utterance>
+<utterance uid="11-23"><speaker>MANDY</speaker><content> Probably.  I’m a little hazy on the details.</content></utterance>
+<utterance uid="11-24"><speaker>BECKETT</speaker><content>Okay.</content></utterance>
+<utterance uid="11-25"><speaker>MANDY</speaker><content>Is that it?</content></utterance>
+<utterance uid="11-26"><speaker>BECKETT</speaker><content>Yeah. For now. In the meantime, you should probably go back to the hotel and lay low in your room.</content></utterance>
+<utterance uid="11-27"><speaker>MARILYN</speaker><content>Shouldn’t we make an announcement? Let everyone know that she isn’t dead?</content></utterance>
+<utterance uid="11-28"><speaker>BECKETT</speaker><content>Well, you know, if someone was trying to kill her, it may be safer to let them assume they’ve actually succeeded while we’re still doing our job.</content></utterance>
+<utterance uid="11-29"><speaker>MARILYN</speaker><content>How long? She starts a tour next week, and as her manager I can’t imagine that it’s going to help ticket sales if everyone thinks she’s dead.</content></utterance>
+<utterance uid="11-30"><speaker>MANDY</speaker><content>Yep, wouldn’t want to screw up the big comeback tour.</content></utterance>
+<utterance uid="11-31"><speaker>MARILYN</speaker><content>Sweetie, you’ve worked really hard on those new songs.</content></utterance>
+<utterance uid="11-32"><speaker>BECKETT</speaker><content>We’ve talking about staying out of sight for a day. Maybe less. Hopefully by then we’ll have a lead to help us figure out who’s behind this.</content></utterance>
+<utterance uid="11-33"><speaker>RYAN</speaker><content>Uh, Beckett? I might have an idea about that.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>RYAN</speaker><content>We found this anonymous letter in your fan mail.</content></utterance>
+<utterance uid="12-2"><speaker>BECKETT</speaker><content> “I’m watching you and I don’t like what I see.”</content></utterance>
+<utterance uid="12-3"><speaker>MANDY</speaker><content>Yeah well, get in line. Guys, look around. I get letter form creepizoids all the time.</content></utterance>
+<utterance uid="12-4"><speaker>RYAN</speaker><content>But in addition to the letter he also included this.</content></utterance>
+<utterance uid="12-5"><speaker>MANDY</speaker><content>Oh my God. That’s my bedroom. While I was sleeping.</content></utterance>
+<utterance uid="12-6"><speaker>MARILYN</speaker><content>Your building is supposed to be secure. How did he get in?</content></utterance>
+<utterance uid="12-7"><speaker>BECKETT</speaker><content>That’s inkjet paper.</content></utterance>
+<utterance uid="12-8"><speaker>RYAN</speaker><content>Mmhmm.</content></utterance>
+<utterance uid="12-9"><speaker>MANDY</speaker><content>So?</content></utterance>
+<utterance uid="12-10"><speaker>RYAN</speaker><content>So we might be able to track it.</content></utterance>
+<utterance uid="12-11"><speaker>MANDY</speaker><content>How?</content></utterance>
+<utterance uid="12-12"><speaker>BECKETT</speaker><content>Most people don’t know this, but the serial number of the printer that was used to make these photographs is actually embedded into the picture.</content></utterance>
+<utterance uid="12-13"><speaker>RYAN</speaker><content>It’s printed in tiny little yellow dots invisible to the naked eye. It’s an FBI thing used to track counterfeiters.</content></utterance>
+<utterance uid="12-14"><speaker>MANDY</speaker><content> Okay. I don’t feel so hot.</content></utterance>
+<utterance uid="12-15"><speaker>CASTLE</speaker><content>You know, I – I think someone needs a cup of coffee.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>CASTLE</speaker><content>All right. Here is your four shot latte. How’re you feeling?</content></utterance>
+<utterance uid="13-2"><speaker>MANDY</speaker><content>Considering I’m supposed to be dead –  – about right.</content></utterance>
+<utterance uid="13-3"><speaker>CASTLE</speaker><content>Yeah.</content></utterance>
+<utterance uid="13-4"><speaker>MANDY</speaker><content>I just can’t believe that freak was actually in my bedroom.</content></utterance>
+<utterance uid="13-5"><speaker>CASTLE</speaker><content>Well, we’ll find him. I know how tough it can be. The crazy fans, the constant scrutiny, the pressure of living your life under a microscope. I mean, I can relate. On a smaller scale, of course, but still, it’s …</content></utterance>
+<utterance uid="13-6"><speaker>MANDY</speaker><content> And … who are you?</content></utterance>
+<utterance uid="13-7"><speaker>CASTLE</speaker><content>On a much smaller scale.</content></utterance>
+<utterance uid="13-8"><speaker>ALEXIS</speaker><content>Dad! There you are!</content></utterance>
+<utterance uid="13-9"><speaker>CASTLE</speaker><content>Alexis? What are you doing here? Oh, the letter! For Pi! I – I just – I’m about to – just going to make a few tweaks –</content></utterance>
+<utterance uid="13-10"><speaker>ALEXIS</speaker><content>You haven’t written it.</content></utterance>
+<utterance uid="13-11"><speaker>CASTLE</speaker><content>Not all – not yet.</content></utterance>
+<utterance uid="13-12"><speaker>ALEXIS</speaker><content>I thought you might need some help, so I came up with some talking points for you.</content></utterance>
+<utterance uid="13-13"><speaker>CASTLE</speaker><content>Oh, good. Okay, um …  “outstanding person, a natural leader” –</content></utterance>
+<utterance uid="13-14"><speaker>ALEXIS</speaker><content>Dad, I know you and Pi don’t always see eye to eye. If you don’t feel comfortable doing this –</content></utterance>
+<utterance uid="13-15"><speaker>CASTLE</speaker><content>No, listen. Hey –  – hey, Pi and I see eye to eye on one every important, redheaded thing, okay?  Love you.</content></utterance>
+<utterance uid="13-16"><speaker>ALEXIS</speaker><content>I love you, too.  Hey, can you believe that about Mandy Sutton? It’s weird, right?</content></utterance>
+<utterance uid="13-17"><speaker>CASTLE</speaker><content>Yes, weird.</content></utterance>
+<utterance uid="13-18"><speaker>ALEXIS</speaker><content>You remember how much I loved her show? And those secret identity glasses? If you were mad at me I’d wear a pair of glasses to dinner and you’d pretend you didn’t know who I was?</content></utterance>
+<utterance uid="13-19"><speaker>CASTLE</speaker><content>I remember. Actually –</content></utterance>
+<utterance uid="13-20"><speaker>ALEXIS</speaker><content>But then she grew up and, whoa. I mean, how does that happen? How does someone become such a hot mess?</content></utterance>
+<utterance uid="13-21"><speaker>ALEXIS</speaker><content> Oh my God. I thought you were –</content></utterance>
+<utterance uid="13-22"><speaker>MANDY</speaker><content>Yeah.</content></utterance>
+<utterance uid="13-23"><speaker>CASTLE</speaker><content>Alexis, this is Mandy. We’re just, uh, keeping her under wraps. For now.  This is my daughter.</content></utterance>
+<utterance uid="13-24"><speaker>ALEXIS</speaker><content>It’s nice to meet you.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>BECKETT</speaker><content>No, Dad. It’s not true.  Yes, I know what they wrote. We’re still engaged.  What do you mean Aunt Theresa put it on her Facebook? Well tell her – tell her to take it down.</content></utterance>
+<utterance uid="14-2"><speaker>BECKETT</speaker><content>I gotta go. I love you.  Bye.</content></utterance>
+<utterance uid="14-3"><speaker>BECKETT</speaker><content>Hey, Espo? Do you believe everything that they write in the newspapers?</content></utterance>
+<utterance uid="14-4"><speaker>ESPOSITO</speaker><content>Oh.  Hell no. I mean, except for that thing between Castle and his ex-wife. I mean, that’s …</content></utterance>
+<utterance uid="14-5"><speaker>BECKETT</speaker><content>Did you find anything on Claire?</content></utterance>
+<utterance uid="14-6"><speaker>ESPOSITO</speaker><content>As a matter of fact, I did. I went into the phone records of that limo company. Turns out that Claire was the one that ordered that limo last night.</content></utterance>
+<utterance uid="14-7"><speaker>BECKETT</speaker><content>Why would Claire order a limo to take her to Mandy’s place?</content></utterance>
+<utterance uid="14-8"><speaker>ESPOSITO</speaker><content>I don’t know, but I just got off the phone with Claire’s roommate. She said Claire’s been going through some things in the last couple of days. She’s been upset, crying.</content></utterance>
+<utterance uid="14-9"><speaker>RYAN</speaker><content>Hey.  Those photos of Mandy in her bedroom? I traced the printer’s serial number to an electronics store in Midtown. According to the extended warranty it belongs to a Ken Castor.</content></utterance>
+<utterance uid="14-10"><speaker>BECKETT</speaker><content>So he’s done time.</content></utterance>
+<utterance uid="14-11"><speaker>RYAN</speaker><content>For aggravated assault. And then two years ago he was hit with a restraining order for stalking … Mandy Sutton.</content></utterance>
+<utterance uid="14-12"><speaker>BECKETT</speaker><content>Old habits die hard.</content></utterance>
+<utterance uid="14-13"><speaker>RYAN</speaker><content>And those paparazzi photos from the night that she was killed? I went through them.  Look who was right there when Claire stepped out</content></utterance>
+<utterance uid="14-14"><speaker>BECKETT</speaker><content>Same guy.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>RYAN</speaker><content>Police!</content></utterance>
+<utterance uid="15-2"><speaker>ESPOSITO</speaker><content>NYPD!</content></utterance>
+<utterance uid="15-3"><speaker>ESPOSITO</speaker><content>Kitchen, clear. Bedroom?</content></utterance>
+<utterance uid="15-4"><speaker>RYAN</speaker><content>Clear. Hey. Closet.</content></utterance>
+<utterance uid="15-5"><speaker>RYAN</speaker><content>You okay?</content></utterance>
+<utterance uid="15-6"><speaker>ESPOSITO</speaker><content>Yeah.</content></utterance>
+<utterance uid="15-7"><speaker>ESPOSITO</speaker><content>I think we got our guy.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>KEN CASTOR</speaker><content>No, listen. You don’t understand.</content></utterance>
+<utterance uid="16-2"><speaker>ESPOSITO</speaker><content>The hell we don’t. We know you took those pictures, Ken. And we know that you were in her apartment.</content></utterance>
+<utterance uid="16-3"><speaker>KEN</speaker><content>Because she needed me.</content></utterance>
+<utterance uid="16-4"><speaker>BECKETT</speaker><content>Needed you?</content></utterance>
+<utterance uid="16-5"><speaker>KEN</speaker><content>I was protecting her. I was watching over her and she – she needed that.</content></utterance>
+<utterance uid="16-6"><speaker>ESPOSITO</speaker><content>Right. Because she didn’t have people watching her, staring at her already.</content></utterance>
+<utterance uid="16-7"><speaker>KEN</speaker><content>They didn’t care! Not like me. They don’t understand her. I mean, they drove her to it, you know? That’s why I sent her the pictures. Because she needed to know someone cared. She – she needed to know someone was watching.</content></utterance>
+<utterance uid="16-8"><speaker>BECKETT</speaker><content>Is that what you were doing outside of her apartment last night?</content></utterance>
+<utterance uid="16-9"><speaker>BECKETT</speaker><content>Watching?</content></utterance>
+<utterance uid="16-10"><speaker>KEN</speaker><content>I should have saved her. But I never saw her. I – I waited for the limo, but then that girl came out. The not-Mandy. The other girl. So I ran around to the back alley and waited across the street. When the other girl goes in the front that means Mandy goes in the back. But - but she didn’t.</content></utterance>
+<utterance uid="16-11"><speaker>BECKETT</speaker><content>Wait, you waited for Mandy out in back?</content></utterance>
+<utterance uid="16-12"><speaker>KEN</speaker><content>Yeah.</content></utterance>
+<utterance uid="16-13"><speaker>BECKETT</speaker><content>Did you see anything else? Did you see anyone go in or out of that alley?</content></utterance>
+<utterance uid="16-14"><speaker>KEN</speaker><content>Just the motorcycle.</content></utterance>
+<utterance uid="16-15"><speaker>ESPOSITO</speaker><content>Wait a minute. What – what motorcycle?</content></utterance>
+<utterance uid="16-16"><speaker>KEN</speaker><content>Well, right when I was going in the back there was a motorcycle that was going into the – the alley.</content></utterance>
+<utterance uid="16-17"><speaker>BECKETT</speaker><content>What time? When?</content></utterance>
+<utterance uid="16-18"><speaker>KEN</speaker><content>10:07. I – I wrote it down. I write everything down. And then at 10:12 it left.</content></utterance>
+<utterance uid="16-19"><speaker>BECKETT</speaker><content>Did you get a license plate?</content></utterance>
+<utterance uid="16-20"><speaker>KEN</speaker><content>I couldn’t write it down. It was going too fast.</content></utterance>
+<utterance uid="16-21"><speaker>ESPOSITO</speaker><content>What about the rider? Did you see his face?</content></utterance>
+<utterance uid="16-22"><speaker>KEN</speaker><content>They were wearing a helmet. I didn’t know Mandy was back there. I mean, I never saw her go back.</content></utterance>
+<utterance uid="16-23"><speaker>ESPOSITO</speaker><content>What about the motorcycle? Color? Trim?</content></utterance>
+<utterance uid="16-24"><speaker>KEN</speaker><content>I wrote that down. It was red. It was, um … it was a red Ducati 800 Supersport. It had gold wheels and it had a flame decal on the body.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>RYAN</speaker><content>What do you think?</content></utterance>
+<utterance uid="17-2"><speaker>BECKETT</speaker><content>He’s a nutjob. But he’s probably not our killer.</content></utterance>
+<utterance uid="17-3"><speaker>RYAN</speaker><content>Yeah? How’s that?</content></utterance>
+<utterance uid="17-4"><speaker>BECKETT</speaker><content>Unlike the paparazzi, he knew Claire was getting out of the limo, so he can tell them apart.</content></utterance>
+<utterance uid="17-5"><speaker>ESPOSITO</speaker><content>Yeah. Since he’s obsessed with Mandy, there’d be no reason for him to go after Claire.</content></utterance>
+<utterance uid="17-6"><speaker>BECKETT</speaker><content>We’ll hold him, but if he’s not our killer he’s probably our best witness. Get ahold of traffic cam footage in the area. Let’s see if we can get a plate on that Ducati.</content></utterance>
+<utterance uid="17-7"><speaker>ESPOSITO</speaker><content>Gold wheels and a flame decal on the body? It’s gotta be a custom job.</content></utterance>
+<utterance uid="17-8"><speaker>RYAN</speaker><content>Yeah. I’ll check with bike shops in the area and see if I can find the place that did the work.</content></utterance>
+<utterance uid="17-9"><speaker>BECKETT</speaker><content>Where’s Castle?</content></utterance>
+<utterance uid="17-10"><speaker>RYAN</speaker><content>He’s having dinner with his other ex-wife. Something about not wanting her to feel left out.</content></utterance>
+<utterance uid="17-11"><speaker>RYAN</speaker><content>He’s holed up in the break room writing that letter for Alexis’s boyfriend.</content></utterance>
+<utterance uid="17-12"><speaker>BECKETT</speaker><content>Thank you.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>ALEXIS</speaker><content>Will you stop worrying? He’ll have lots of great things to say about you. I guarantee it.</content></utterance>
+<utterance uid="18-2"><speaker>PI</speaker><content>I don’t know. I’m not exactly Mr. C’s favorite person. It is taking an awfully long time.</content></utterance>
+<utterance uid="18-3"><speaker>ALEXIS</speaker><content>He does have other things to do, you know.</content></utterance>
+<utterance uid="18-4"><speaker>PI</speaker><content>No, Al, that’s not what I meant.</content></utterance>
+<utterance uid="18-5"><speaker>ALEXIS</speaker><content>Maybe he’s done by now. He said he’d text me when it was ready. Let’s see…  That’s weird. My phone’s off. (she turns</content></utterance>
+<utterance uid="18-6"><speaker>MANDY</speaker><content>You have my phone.</content></utterance>
+<utterance uid="18-7"><speaker>ALEXIS</speaker><content>Mandy? Hi. Uh … yeah, I just realized. It’s funny. We must have switched.</content></utterance>
+<utterance uid="18-8"><speaker>MANDY</speaker><content>I need it. I’m at the Wessex Hotel.</content></utterance>
+<utterance uid="18-9"><speaker>ALEXIS</speaker><content>Okay. Sure. It’s not like I took it on purpose, or anything. It’s just a misunderstanding.</content></utterance>
+<utterance uid="18-10"><speaker>MANDY</speaker><content>Room 522.</content></utterance>
+<utterance uid="18-11"><speaker>ALEXIS</speaker><content>Yeah, sure. Not a …. Hello?  I guess I’m bringing Mandy her phone.</content></utterance>
+<utterance uid="18-12"><speaker>PI</speaker><content> I – I gotta head uptown. The bee pupa are emerging. See you later?</content></utterance>
+<utterance uid="18-13"><speaker>ALEXIS</speaker><content>Okay.</content></utterance>
+<utterance uid="18-14"><speaker>PI</speaker><content>Oh.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>MANDY</speaker><content>Hey.</content></utterance>
+<utterance uid="19-2"><speaker>ALEXIS</speaker><content>Hey. So uh … here’s your phone.</content></utterance>
+<utterance uid="19-3"><speaker>ALEXIS</speaker><content>Look, I’m sorry about that whole hot mess thing I said before.</content></utterance>
+<utterance uid="19-4"><speaker>MANDY</speaker><content>Sorry that you said it or sorry that I heard it?</content></utterance>
+<utterance uid="19-5"><speaker>ALEXIS</speaker><content>I … should probably go.</content></utterance>
+<utterance uid="19-6"><speaker>MANDY</speaker><content>It happens when you’re not looking.</content></utterance>
+<utterance uid="19-7"><speaker>ALEXIS</speaker><content>Excuse me?</content></utterance>
+<utterance uid="19-8"><speaker>MANDY</speaker><content>Before, you asked how it happens? How someone becomes like me? It happens when you’re not looking and by the time you realize it, it’s already who you are. Like the car crash on the side of the road everybody stops and watches.</content></utterance>
+<utterance uid="19-9"><speaker>ALEXIS</speaker><content>That doesn’t mean that’s who you have to be. You can always change.</content></utterance>
+<utterance uid="19-10"><speaker>MANDY</speaker><content>Turns out I don’t do change so well. But you steal a police car and you set it on fire? I’m your girl. Or if you find the greatest guy in the world, fall madly in love, and then mess it up by hooking up with my dirtbag ex?  That I can do.</content></utterance>
+<utterance uid="19-11"><speaker>ALEXIS</speaker><content>Yeah, I saw that picture online.</content></utterance>
+<utterance uid="19-12"><speaker>MANDY</speaker><content>You and the rest of the world.</content></utterance>
+<utterance uid="19-13"><speaker>ALEXIS</speaker><content>Maybe if you didn’t drink.</content></utterance>
+<utterance uid="19-14"><speaker>MANDY</speaker><content>If I don’t drink then I start to feel. And I don’t like what I feel. I wish I had those glasses from Mandy Melody and I’d just put them on and … disappear.</content></utterance>
+<utterance uid="19-15"><speaker>ALEXIS</speaker><content>I know how you feel.</content></utterance>
+<utterance uid="19-16"><speaker>MANDY</speaker><content> How could you possible know how I feel?</content></utterance>
+<utterance uid="19-17"><speaker>ALEXIS</speaker><content>Because right now I wish I could disappear from my life, too.</content></utterance>
+</scene>
+
+<scene id="20"><utterance uid="20-1"><speaker>BECKETT</speaker><content> Okay, thanks. I’ll check back.  Hey. So how’s Pi’s recommendation going?</content></utterance>
+<utterance uid="20-2"><speaker>CASTLE</speaker><content>It took me less time to write the last Derrick Storm novel and though both are works of fiction at least that one was believable. How’s the case coming?</content></utterance>
+<utterance uid="20-3"><speaker>BECKETT</speaker><content>Well we got a description of the motorcycle that left the crime scene and tech’s trying to get a plate off of traffic cam footage, but so far no luck.</content></utterance>
+<utterance uid="20-4"><speaker>ESPOSITO</speaker><content>Our luck’s just changed. We got the son of a b*tch.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>ESPOSITO</speaker><content>We found the shop that outfitted a red Ducati 800 with gold wheels and a flame decal for one Josh Greenberg.</content></utterance>
+<utterance uid="21-2"><speaker>BECKETT</speaker><content>Is that our guy?</content></utterance>
+<utterance uid="21-3"><speaker>RYAN</speaker><content>Josh Greenberg had a slight liquidity problem, so he sold that bike three days ago for cash to …  … this guy.</content></utterance>
+<utterance uid="21-4"><speaker>CASTLE</speaker><content>Jesse Jones, Mandy’s ex.</content></utterance>
+<utterance uid="21-5"><speaker>BECKETT</speaker><content>So he lied to us. He was in that alley. All right. Bring him in.</content></utterance>
+<utterance uid="21-6"><speaker>RYAN</speaker><content>We already sent a car over to his place. He’s not there.</content></utterance>
+<utterance uid="21-7"><speaker>ESPOSITO</speaker><content>Mandy might be able to help out. She probably knows his hangouts.</content></utterance>
+<utterance uid="21-8"><speaker>BECKETT</speaker><content>All right. Go.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>ALEXIS</speaker><content>The thing about my boyfriend is, I thought I was being so grown up. Moving in with him, getting my own place. But now it’s my whole life and I’m pretty sure I’ve made a huge mistake. Do you know why I’m helping him with his grant application? Because if he gets it he’ll have to travel.</content></utterance>
+<utterance uid="22-2"><speaker>MANDY</speaker><content>That is messed up. You need to tell him.</content></utterance>
+<utterance uid="22-3"><speaker>ALEXIS</speaker><content>Tell him what? That I changed my mind? I don’t want a relationship? We have a lease.</content></utterance>
+<utterance uid="22-4"><speaker>MANDY</speaker><content>That’s romantic.</content></utterance>
+<utterance uid="22-5"><speaker>ALEXIS</speaker><content>And he doesn’t deserve it. He hasn’t done anything wrong. Oh, and then there’s my dad. What do I tell him, huh? That he was right all along? That I wasn’t ready? </content></utterance>
+<utterance uid="22-6"><speaker>MANDY</speaker><content>I wish I would have said that. I wasn’t ready for so many things.</content></utterance>
+<utterance uid="22-7"><speaker>ALEXIS</speaker><content>Do you ever look back on something you’ve done and it’s like somebody else is doing it?</content></utterance>
+<utterance uid="22-8"><speaker>MANDY</speaker><content>You’re kidding, right?</content></utterance>
+<utterance uid="22-9"><speaker>ALEXIS</speaker><content>Right. Sorry, I – haven’t had anyone to talk to.</content></utterance>
+<utterance uid="22-10"><speaker>MANDY</speaker><content> Clearly.</content></utterance>
+<utterance uid="22-11"><speaker>MANDY</speaker><content>Be true to yourself. That’s what Zach would say. And if a situation is bad for you, leave it. That’s what we were going to do and that’s what you should do, too.</content></utterance>
+<utterance uid="22-12"><speaker>ALEXIS</speaker><content>Mandy? Is someone texting you?</content></utterance>
+<utterance uid="22-13"><speaker>MANDY</speaker><content>Weird, since I’m supposed to be dead. Oh, it’s my friend Sam.  “Pretty sure you’re not dead. Need to talk about girl who died. Something you need to know.”</content></utterance>
+<utterance uid="22-14"><speaker>ALEXIS</speaker><content>Wait, what – what are you doing?</content></utterance>
+<utterance uid="22-15"><speaker>MANDY</speaker><content>Calling him.</content></utterance>
+<utterance uid="22-16"><speaker>ALEXIS</speaker><content>But you’re supposed to be laying low. No one’s supposed to know you’re alive.</content></utterance>
+<utterance uid="22-17"><speaker>MANDY</speaker><content>He already knows I’m alive.</content></utterance>
+<utterance uid="22-18"><speaker>ALEXIS</speaker><content>He thinks you’re alive. He may be trying to find out for sure. And what if it’s not Sam? It could be the killer trying to lure you out.</content></utterance>
+<utterance uid="22-19"><speaker>MANDY</speaker><content>Would you relax? It’s Sam’s number, okay? And he’s not answering, which means he’s probably bartending. That place he works is really loud. I have to go see him.</content></utterance>
+<utterance uid="22-20"><speaker>ALEXIS</speaker><content>You can’t go out! What if someone sees you?</content></utterance>
+<utterance uid="22-21"><speaker>MANDY</speaker><content>You don’t get it, do you? I am the one that’s supposed to be dead. Not Claire. She dies because of me. And I know that people think that I don’t care, but I’m not a monster. If Sam has information about Claire’s death, I need to know what it is. I just want to do one thing right.</content></utterance>
+<utterance uid="22-22"><speaker>ALEXIS</speaker><content>Mandy … you shouldn’t be doing this.</content></utterance>
+<utterance uid="22-23"><speaker>MANDY</speaker><content>Yeah well, you’re not going to stop me.</content></utterance>
+<utterance uid="22-24"><speaker>ALEXIS</speaker><content>Okay, well, if you’re going to do it you can’t be recognized. Do you understand? You’re going to need someone to do all the talking for you.</content></utterance>
+<utterance uid="22-25"><speaker>MANDY</speaker><content> C’mon.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>BECKETT</speaker><content>Mandy’s gone? Gone where?</content></utterance>
+<utterance uid="23-2"><speaker>RYAN</speaker><content>We’re not sure. No one at the front desk saw her leave.</content></utterance>
+<utterance uid="23-3"><speaker>BECKETT</speaker><content> Are there any signs of foul play?</content></utterance>
+<utterance uid="23-4"><speaker>ESPOSITO</speaker><content>No, it looks like she just took off.</content></utterance>
+<utterance uid="23-5"><speaker>RYAN</speaker><content>Maybe she picked up where she left off on that bender.</content></utterance>
+<utterance uid="23-6"><speaker>BECKETT</speaker><content>You guys gotta come back. We’ve gotta coordinate a search.</content></utterance>
+<utterance uid="23-7"><speaker>ESPOSITO</speaker><content>We’ll check with the limo company. Maybe she coordinated a pickup.</content></utterance>
+<utterance uid="23-8"><speaker>BECKETT</speaker><content>And I’ll talk to her mom, get a list of all the places she likes to go to. We have to find her before Jesse figures out that he killed the wrong person.</content></utterance>
+<utterance uid="23-9"><speaker>MARILYN</speaker><content>What? What happened? Where’s Mandy?</content></utterance>
+</scene>
+
+<scene id="24"><utterance uid="24-1"><speaker>ALEXIS</speaker><content> Are you sure I can’t talk you out of this?</content></utterance>
+<utterance uid="24-2"><speaker>MANDY</speaker><content>There he is. There’s Sam.</content></utterance>
+<utterance uid="24-3"><speaker>ALEXIS</speaker><content>Are you crazy? What are you doing? That’s what I’m here for.  Sam!  Hey Sam!</content></utterance>
+<utterance uid="24-4"><speaker>MANDY</speaker><content>That’s not going to get the job done your way. You might want to lose some layers.  Take off grandma’s scarf.</content></utterance>
+<utterance uid="24-5"><speaker>ALEXIS</speaker><content>I have something else in mind.  So, she was like ‘can you believe it?’ and I was like, ‘no –‘</content></utterance>
+<utterance uid="24-6"><speaker>ALEXIS</speaker><content>I am so sorry. Are you okay?  Oh, Sam, right? Can I please get her another drink? Oh and um… there’s someone here to see you.</content></utterance>
+<utterance uid="24-7"><speaker>SAM</speaker><content>Mandy? My god, girl, is that you?</content></utterance>
+<utterance uid="24-8"><speaker>ALEXIS</speaker><content>Can we talk somewhere more private?</content></utterance>
+<utterance uid="24-9"><speaker>SAM</speaker><content>Yeah. Um …  … here. Meet me over there.</content></utterance>
+<utterance uid="24-10"><speaker>SAM</speaker><content>Yo. I am so glad that you’re okay. You had me worried. I saw those pictures of you and Jesse, then the next thing you know everyone is saying you’re dead?</content></utterance>
+<utterance uid="24-11"><speaker>MANDY</speaker><content>What made you think I wasn’t?</content></utterance>
+<utterance uid="24-12"><speaker>SAM</speaker><content>That clip on the news? The one of the limo dropping you off at your building last night? Except that girl wasn’t you.</content></utterance>
+<utterance uid="24-13"><speaker>ALEXIS</speaker><content>How could you tell?</content></utterance>
+<utterance uid="24-14"><speaker>SAM</speaker><content>‘cause that same girl was in here last night wearing the same thing she had on when she got out of that limo.</content></utterance>
+<utterance uid="24-15"><speaker>MANDY</speaker><content>Wait a second. Claire was here last night?</content></utterance>
+<utterance uid="24-16"><speaker>SAM</speaker><content>Yeah, yeah. I think that’s what her name was.</content></utterance>
+<utterance uid="24-17"><speaker>ALEXIS</speaker><content>You talked to her?</content></utterance>
+<utterance uid="24-18"><speaker>SAM</speaker><content>Yeah, she came in asking for me. She heard I was friends with Mandy. She wanted her private number.</content></utterance>
+<utterance uid="24-19"><speaker>MANDY</speaker><content>What for?</content></utterance>
+<utterance uid="24-20"><speaker>SAM</speaker><content>She was trying to reach you because she thought someone was trying to hurt you.</content></utterance>
+<utterance uid="24-21"><speaker>MANDY</speaker><content>Who?</content></utterance>
+<utterance uid="24-22"><speaker>SAM</speaker><content>She didn’t say, but she got way mad when I wouldn’t give her your number. Man, I thought this girl was nuts. Like a crazy fan or something. Then she asked my how she can get in touch with Jesse.</content></utterance>
+<utterance uid="24-23"><speaker>MANDY</speaker><content>Jesse? What does he have to do with this?</content></utterance>
+<utterance uid="24-24"><speaker>SAM</speaker><content>I don’t know, but she was pretty hot to talk to him too, so I called Jesse and I put him on with her.</content></utterance>
+<utterance uid="24-25"><speaker>ALEXIS</speaker><content>What’d she say?</content></utterance>
+<utterance uid="24-26"><speaker>SAM</speaker><content>I didn’t here, but she was pretty upset. And since she ended up dead, I thought you should know.</content></utterance>
+<utterance uid="24-27"><speaker>SAM</speaker><content>Hey uh … wait here a second. People getting thirst over there.</content></utterance>
+<utterance uid="24-28"><speaker>ALEXIS</speaker><content>I don’t get it. Did Claire know Jesse?</content></utterance>
+<utterance uid="24-29"><speaker>MANDY</speaker><content>I don’t know. I didn’t think she did. But there’s only one way to find out. I’m calling Jesse.</content></utterance>
+<utterance uid="24-30"><speaker>ALEXIS</speaker><content>Wait. He could be involved. And if Claire thought someone was trying to kill you, do you really think it’s a good idea to call –</content></utterance>
+<utterance uid="24-31"><speaker>ALEXIS</speaker><content>Yeah, she gets that all the time. It’s a shame what happened to Mandy, isn’t it?</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>BECKETT</speaker><content>There’s still no word on Jesse’s whereabouts.</content></utterance>
+<utterance uid="25-2"><speaker>ESPOSITO</speaker><content>Same with Mandy. But get this. When I called the limo company to see if she ordered up a ride from her hotel tonight, they said she didn’t. But I wasn’t the only guy asking that question.</content></utterance>
+<utterance uid="25-3"><speaker>BECKETT</speaker><content>Someone else called?</content></utterance>
+<utterance uid="25-4"><speaker>ESPOSITO</speaker><content>Yeah. Some guy that said he was with her management company. But I checked. No one there made that call.</content></utterance>
+<utterance uid="25-5"><speaker>BECKETT</speaker><content>Jesse.</content></utterance>
+<utterance uid="25-6"><speaker>ESPOSITO</speaker><content>Maybe he found out that she was still alive.</content></utterance>
+<utterance uid="25-7"><speaker>BECKETT</speaker><content>Looks like everyone just did.</content></utterance>
+<utterance uid="25-8"><speaker>NEWSCASTER</speaker><content>- that Mandy Sutton presumed dead may actually be alive. Mandy was reportedly just spotted at trendy downtown nightspot The Rapture Lounge.</content></utterance>
+<utterance uid="25-9"><speaker>BECKETT</speaker><content>And now he knows where to find her.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>JESSE</speaker><content>Yeah? Where?</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>BECKETT</speaker><content>We have to get her out of there.</content></utterance>
+<utterance uid="27-2"><speaker>ESPOSITO</speaker><content>Yeah. I’ll send a car to pick her up.</content></utterance>
+<utterance uid="27-3"><speaker>NEWSCASTER</speaker><content>And we have some footage from The Rapture Lounge shot just moments ago and posted by one of our viewers.</content></utterance>
+<utterance uid="27-4"><speaker>RYAN</speaker><content>Uh … Castle, isn’t that –</content></utterance>
+<utterance uid="27-5"><speaker>CASTLE</speaker><content>Alexis.  Alexis? What is she doing there?</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>ALEXIS</speaker><content>We have to get out of here. Uh … oh, this way. Come on!</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>ALEXIS</speaker><content>I’m going to call my dad.</content></utterance>
+<utterance uid="29-2"><speaker>MANDY</speaker><content>Let’s get out of here first.</content></utterance>
+<utterance uid="29-3"><speaker>JESSE</speaker><content>Speak of the devil and she appears.</content></utterance>
+<utterance uid="29-4"><speaker>MANDY</speaker><content>I need to talk to you.</content></utterance>
+<utterance uid="29-5"><speaker>JESSE</speaker><content>Yeah, same here. Get in.</content></utterance>
+<utterance uid="29-6"><speaker>ALEXIS</speaker><content>I’m not so sure that’s a good idea.</content></utterance>
+<utterance uid="29-7"><speaker>JESSE</speaker><content>Get in, both of you.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>JESSE</speaker><content>Get out.</content></utterance>
+<utterance uid="30-2"><speaker>JESSE</speaker><content>Get out, now! Get over here.</content></utterance>
+<utterance uid="30-3"><speaker>MANDY</speaker><content> Sorry I dragged you into this.</content></utterance>
+<utterance uid="30-4"><speaker>JESSE</speaker><content>I want answers.</content></utterance>
+<utterance uid="30-5"><speaker>MANDY</speaker><content>Answers about what?</content></utterance>
+<utterance uid="30-6"><speaker>JESSE</speaker><content>Someone is messing with me and I know you’re involved somehow.</content></utterance>
+<utterance uid="30-7"><speaker>MANDY</speaker><content>I don’t know what you’re talking about.</content></utterance>
+<utterance uid="30-8"><speaker>JESSE</speaker><content>Don’t lie to me!</content></utterance>
+<utterance uid="30-9"><speaker>ALEXIS</speaker><content>Guys, let’s just calm down. Okay? I’m sure we can talk this out.</content></utterance>
+<utterance uid="30-10"><speaker>JESSE</speaker><content>Shut up.</content></utterance>
+<utterance uid="30-11"><speaker>MANDY</speaker><content>Hey. Jesse, look at me. I made a mistake. If – if you thought whatever happened between us the other night meant that we were getting back together, I’m sorry, but that’s not what’s going to happen.</content></utterance>
+<utterance uid="30-12"><speaker>JESSE</speaker><content>You know that wasn’t you the other night in that photo!</content></utterance>
+<utterance uid="30-13"><speaker>MANDY</speaker><content>What?</content></utterance>
+<utterance uid="30-14"><speaker>ALEXIS</speaker><content>If it wasn’t her then who was it?</content></utterance>
+<utterance uid="30-15"><speaker>JESSE</speaker><content>It was that chick Claire. I got paid $25 grand to show up and suck face with her for a couple of minutes. You’re telling me that you really don’t know?</content></utterance>
+<utterance uid="30-16"><speaker>MANDY</speaker><content>No! I was messed up that night. I don’t remember anything. I don’t even remember getting messed up.</content></utterance>
+<utterance uid="30-17"><speaker>ALEXIS</speaker><content>Maybe you didn’t. Maybe someone drugged you so you wouldn’t remember.</content></utterance>
+<utterance uid="30-18"><speaker>MANDY</speaker><content>And then I – I would see the photos and assume that it was me? Jesse, how could you do that to me?</content></utterance>
+<utterance uid="30-19"><speaker>JESSE</speaker><content>This ain’t about you. Not anymore. What happened, Mandy? Huh? Who killed Claire?</content></utterance>
+<utterance uid="30-20"><speaker>MANDY</speaker><content>I don’t know. What do you care?</content></utterance>
+<utterance uid="30-21"><speaker>JESSE</speaker><content>I care because the cops are trying to pin it on me.  Someone must have seen me in the alley that night.</content></utterance>
+<utterance uid="30-22"><speaker>MANDY</speaker><content>Wait a minute. You were there? When Claire was killed?</content></utterance>
+<utterance uid="30-23"><speaker>JESSE</speaker><content>I had to talk to her. Now we was supposed to get another $25 grand for staging that photo if we kept our mouth shut when the story ran. Only b*tch got a conscious and felt bad about everything she had done. Especially because the pictures broke up you and whats-his-name. Zach. She just had to set things right.</content></utterance>
+<utterance uid="30-24"><speaker>ALEXIS</speaker><content>That’s why she was trying to get in touch with you last night.</content></utterance>
+<utterance uid="30-25"><speaker>JESSE</speaker><content>She called me and said she was going over to your place to tell you everything. Only that means I’m not going to get my money. So I go over there to talk her out of it. That’s it. And when I get there she’s dead.</content></utterance>
+<utterance uid="30-26"><speaker>ALEXIS</speaker><content>Jesse, if you didn’t kill Claire, then put the gun down. We can go to the police together and work this out, I promise –</content></utterance>
+<utterance uid="30-27"><speaker>JESSE</speaker><content>You’re trying to confuse me! You shut up before I do something –</content></utterance>
+<utterance uid="30-28"><speaker>ESPOSITO</speaker><content>Put that gun down, Jesse!</content></utterance>
+<utterance uid="30-29"><speaker>RYAN</speaker><content>Show us your hands! Down, down!</content></utterance>
+<utterance uid="30-30"><speaker>ALEXIS</speaker><content>Dad.</content></utterance>
+<utterance uid="30-31"><speaker>CASTLE</speaker><content>Hey.  It’s okay. It’s over.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>CASTLE</speaker><content>If Jesse’s story is true, then Claire was about to revel those photos were fake and someone killed her for it.</content></utterance>
+<utterance uid="31-2"><speaker>BECKETT</speaker><content>So maybe Claire Samuels was the intended target after all. If Jesse’s story is true. That’s a big if.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>ESPOSITO</speaker><content> All right, Bill.  So Jesse was telling the truth about this much. He deposited $25 thousand, cash, into his bank account five days ago.</content></utterance>
+<utterance uid="32-2"><speaker>BECKETT</speaker><content>Any more on who paid him?</content></utterance>
+<utterance uid="32-3"><speaker>RYAN</speaker><content>No. He got a typewritten note telling him when to meet Claire at the bar and where to find the money at a dead drop.</content></utterance>
+<utterance uid="32-4"><speaker>CASTLE</speaker><content>Why would someone pay that much to stage a photo in the first place?</content></utterance>
+<utterance uid="32-5"><speaker>BECKETT</speaker><content>And what was so important about it that someone would kill Claire to keep it from being exposed as a fake?</content></utterance>
+<utterance uid="32-6"><speaker>CASTLE</speaker><content>I don’t know. But I can think of someone who might. Guys, did Jesse tell you where in the club the photo was taken?</content></utterance>
+<utterance uid="32-7"><speaker>ESPOSITO</speaker><content>Somewhere in the back, hidden from view. Couldn’t be any witnesses or the gag wouldn’t have worked.</content></utterance>
+<utterance uid="32-8"><speaker>BECKETT</speaker><content>So that photographer didn’t just happen to be there. He was in on it.</content></utterance>
+<utterance uid="32-9"><speaker>CASTLE</speaker><content>So who’s the photographer?</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>ESPOSITO</speaker><content>James Lockhart. How’re you doing? NYPD. We need to ask you a few questions, bro.</content></utterance>
+<utterance uid="33-2"><speaker>JAMES LOCKHART</speaker><content>Yeah, listen. Can you guys come back a little later?</content></utterance>
+<utterance uid="33-3"><speaker>RYAN</speaker><content>Excuse me?</content></utterance>
+<utterance uid="33-4"><speaker>JAMES</speaker><content>There’s an actress in this café, Reese Wellingford? I’ve been waiting an hour for her to come out.</content></utterance>
+<utterance uid="33-5"><speaker>ESPOSITO</speaker><content>Listen, fool. This is a criminal investigation. Who paid you to take those photos you sold to Celeb Gazer?</content></utterance>
+<utterance uid="33-6"><speaker>RYAN</speaker><content>The ones with Jesse Jones and the girl who wasn’t Mandy Sutton.</content></utterance>
+<utterance uid="33-7"><speaker>JAMES</speaker><content>Nobody paid me.</content></utterance>
+<utterance uid="33-8"><speaker>ESPOSITO</speaker><content>Oh really? So you just ended up in that back room, in that bar, when those two hooked up.</content></utterance>
+<utterance uid="33-9"><speaker>JAMES</speaker><content>Yeah.  Just lucky, I guess. Here she is.</content></utterance>
+<utterance uid="33-10"><speaker>ESPOSITO</speaker><content>Where? I don’t – is she – I don’t even see her. Am I in your way?</content></utterance>
+<utterance uid="33-11"><speaker>RYAN</speaker><content>Oh hey. There she is.</content></utterance>
+<utterance uid="33-12"><speaker>RYAN</speaker><content>Oh … no. She got into a cab.</content></utterance>
+<utterance uid="33-13"><speaker>JAMES</speaker><content>All right, look. I got a tip, okay. They said show up at such and such time, go in the back. I got a few shots before security threw me out.</content></utterance>
+<utterance uid="33-14"><speaker>ESPOSITO</speaker><content>So who gave you that tip?</content></utterance>
+<utterance uid="33-15"><speaker>JAMES</speaker><content>I can’t tell you that.</content></utterance>
+<utterance uid="33-16"><speaker>ESPOSITO</speaker><content>I thought we were cool.</content></utterance>
+<utterance uid="33-17"><speaker>JAMES</speaker><content>Oh, c’mon. You think I’m going to rat out my sources? This is my livelihood.</content></utterance>
+<utterance uid="33-18"><speaker>ESPOSITO</speaker><content>Well how do you think your livelihood is going to go when me and my boy here are following you around all day?</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>BECKETT</speaker><content>Harvey Stryker from CelebGazer.com tipped him off?</content></utterance>
+<utterance uid="34-2"><speaker>CASTLE</speaker><content>He didn’t just run that photo on Celeb Gazer, he set the whole thing up.</content></utterance>
+<utterance uid="34-3"><speaker>ESPOSITO</speaker><content>But why? Doesn’t this dirtbag have enough scandals to report on without having to make up his own?</content></utterance>
+<utterance uid="34-4"><speaker>CASTLE</speaker><content>Because it wasn’t just about the one scandal. For years Mandy has been drawing millions of eyeballs to Celeb Gazer with her public meltdowns, the drunken escapades, the uh … trips to rehab.</content></utterance>
+<utterance uid="34-5"><speaker>RYAN</speaker><content>Right. And in the past few months she calmed down, got her life back in order.</content></utterance>
+<utterance uid="34-6"><speaker>CASTLE</speaker><content>Because of Zach. Which was no good for business, so Harvey staged the photo, turns Mandy back into the train wreck that he grew to love and exploit.</content></utterance>
+<utterance uid="34-7"><speaker>ESPOSITO</speaker><content>And it worked, too, until Claire was going to ruin it all by calling the photo out as a hoax, destroying Harvey’s reputation.</content></utterance>
+<utterance uid="34-8"><speaker>CASTLE</speaker><content>And that’s why Harvey was at the apartment. He wasn’t waiting for Mandy. He was waiting for Claire. He was waiting to silence her.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>HARVEY</speaker><content>Fake? No, no, no, no. CelebGazer.com doesn’t do fake.</content></utterance>
+<utterance uid="35-2"><speaker>CASTLE</speaker><content>And yet you ran that one.</content></utterance>
+<utterance uid="35-3"><speaker>BECKETT</speaker><content>C’mon, Harvey. We know you set the whole thing up. You paid Jesse, then you paid Claire.</content></utterance>
+<utterance uid="35-4"><speaker>HARVEY</speaker><content>I didn’t pay anyone. And who is Claire?</content></utterance>
+<utterance uid="35-5"><speaker>BECKETT</speaker><content>The girl in the photo. The one that you killed right after she threatened to expose you?</content></utterance>
+<utterance uid="35-6"><speaker>HARVEY</speaker><content>Wait a minute. I had nothing to do with any of this.</content></utterance>
+<utterance uid="35-7"><speaker>BECKETT</speaker><content>So then how did you get that photo?</content></utterance>
+<utterance uid="35-8"><speaker>HARVEY</speaker><content>I bought it from a freelancer.</content></utterance>
+<utterance uid="35-9"><speaker>BECKETT</speaker><content>We spoke with him. He said that you sent him to that bar, which means you knew Claire and Jesse were there. How did you know?</content></utterance>
+<utterance uid="35-10"><speaker>HARVEY</speaker><content>The same way I always know. I was tipped.</content></utterance>
+<utterance uid="35-11"><speaker>BECKETT</speaker><content>You actually expect us to believe that?</content></utterance>
+<utterance uid="35-12"><speaker>HARVEY</speaker><content>It’s true. I swear. I remember exactly when it happened. They called my cell. I can show you.</content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>ESPOSITO</speaker><content>Yo. That phone call Harvey got came from a burner phone paid for with cash.</content></utterance>
+<utterance uid="36-2"><speaker>BECKETT</speaker><content>So they were covering their tracks.</content></utterance>
+<utterance uid="36-3"><speaker>RYAN</speaker><content>Only they didn’t do a very good job of it. They forgot to disable the GPS.</content></utterance>
+<utterance uid="36-4"><speaker>ESPOSITO</speaker><content>We were able to track the GPS data. That phone was in the alley behind Mandy’s building the night of the murder.</content></utterance>
+<utterance uid="36-5"><speaker>CASTLE</speaker><content>So then whoever bought that phone is our killer.</content></utterance>
+</scene>
+<scene id="37"><utterance uid="37-1"><speaker>BECKETT</speaker><content>Thank you for coming in. We uh, we just wanted to keep you up to date on the investigation.</content></utterance>
+<utterance uid="37-2"><speaker>MANDY</speaker><content>So there’s been a new development?</content></utterance>
+<utterance uid="37-3"><speaker>BECKETT</speaker><content>Yes. We have a lead. We’ve identified the cellphone of the person that set up that fake photo. And we believe the same person killed Claire Samuels.</content></utterance>
+<utterance uid="37-4"><speaker>MANDY</speaker><content>Who is it?</content></utterance>
+<utterance uid="37-5"><speaker>CASTLE</speaker><content>Well actually, it was a burner phone.</content></utterance>
+<utterance uid="37-6"><speaker>MARILYN</speaker><content>A burner phone?  So it’s not traceable.</content></utterance>
+<utterance uid="37-7"><speaker>CASTLE</speaker><content>Normally, it wouldn’t be. But the person who bought this phone made one crucial mistake. They didn’t get rid of it when they were done. Matter of fact, it’s still on right now.</content></utterance>
+<utterance uid="37-8"><speaker>MANDY</speaker><content>Mom?</content></utterance>
+<utterance uid="37-9"><speaker>MANDY</speaker><content>Mom? You set up that photo?  You did this to me. Why would you do that? Why do you want to ruin my life?</content></utterance>
+<utterance uid="37-10"><speaker>MARILYN</speaker><content>It was Zach who was ruining your life. I was saving you.</content></utterance>
+<utterance uid="37-11"><speaker>MANDY</speaker><content>Wait a minute. Wait. You did this to break me up with Zach? He was the best thing that ever happened to me. He was going to take me away from all of this.</content></utterance>
+<utterance uid="37-12"><speaker>MARILYN</speaker><content>That’s right. Away from everything we’d worked for. Your tour. Your career. He was going to cost you missions.</content></utterance>
+<utterance uid="37-13"><speaker>MANDY</speaker><content>You mean cost you millions.</content></utterance>
+<utterance uid="37-14"><speaker>MARILYN</speaker><content>And for what?</content></utterance>
+<utterance uid="37-15"><speaker>MANDY</speaker><content>A chance to be normal?</content></utterance>
+<utterance uid="37-16"><speaker>MARILYN</speaker><content> Normal. Your special. Zach didn’t understand that. And neither did Claire.</content></utterance>
+<utterance uid="37-17"><speaker>MANDY</speaker><content>So you killed her?</content></utterance>
+<utterance uid="37-18"><speaker>MARILYN</speaker><content>She was going to tell you what I’d done. She was going to make you hate me. And I couldn’t let her drive a wedge between us. I couldn’t.</content></utterance>
+<utterance uid="37-19"><speaker>BECKETT</speaker><content>Marilyn Sutton, please stand up.</content></utterance>
+<utterance uid="37-20"><speaker>BECKETT</speaker><content>Turn around. You’re under arrest for the murder of Claire Samuels.</content></utterance>
+<utterance uid="37-21"><speaker>MARILYN</speaker><content>Mandy, sweetie, you understand, right? I did this for you, Mandy. Everything I did I did for you.</content></utterance>
+<utterance uid="37-22"><speaker>MANDY</speaker><content>No, Mom. You did it for you.</content></utterance>
+<utterance uid="37-23"><speaker>BECKETT</speaker><content>Let’s go.</content></utterance>
+</scene>
+
+<scene id="38"><utterance uid="38-1"><speaker>MANDY</speaker><content>Just when I thought life couldn’t get any more messed up, right? And the train wreck continues. The press is going to love this.  Sorry. I’m going to go. Thank you.</content></utterance>
+<utterance uid="38-2"><speaker>CASTLE</speaker><content>Um -</content></utterance>
+<utterance uid="38-3"><speaker>CASTLE</speaker><content>Hey, Mandy, sorry. Not to pry, but uh … it would be really easy just to run and hide form all this. But don’t.</content></utterance>
+<utterance uid="38-4"><speaker>MANDY</speaker><content> Thanks.  Thank you for all you guys did. Um … could you thank Alexis for me too, please?</content></utterance>
+<utterance uid="38-5"><speaker>CASTLE</speaker><content>I will. She was … here, actually. I don’t know where she went. There’s – - oh.</content></utterance>
+<utterance uid="38-6"><speaker>ALEXIS</speaker><content>I’m back. And I’ve brought someone with me.</content></utterance>
+<utterance uid="38-7"><speaker>ZACH</speaker><content>Hey Mandy.</content></utterance>
+<utterance uid="38-8"><speaker>MANDY</speaker><content>Zach?</content></utterance>
+<utterance uid="38-9"><speaker>ALEXIS</speaker><content>Once we realized Mandy hadn’t really cheated on him, I tracked him down. I thought he needed to know.</content></utterance>
+<utterance uid="38-10"><speaker>CASTLE</speaker><content>Good. I hope it works out for them. Mandy needs something good in her life.</content></utterance>
+<utterance uid="38-11"><speaker>ALEXIS</speaker><content>They’ve got a shot. They seem to really love each other for all the right reasons.</content></utterance>
+<utterance uid="38-12"><speaker>CASTLE</speaker><content>Oh. Speaking of boyfriends, Pi’s letter of recommendation.</content></utterance>
+<utterance uid="38-13"><speaker>CASTLE</speaker><content>He did get the extension, right?</content></utterance>
+<utterance uid="38-14"><speaker>ALEXIS</speaker><content>No, he did.</content></utterance>
+<utterance uid="38-15"><speaker>CASTLE</speaker><content>Good. How did I spell Pi? Did I put it like the dessert? Because I was just –</content></utterance>
+<utterance uid="38-16"><speaker>ALEXIS</speaker><content>No, Dad. You got it right.</content></utterance>
+<utterance uid="38-17"><speaker>CASTLE</speaker><content>Okay.</content></utterance>
+<utterance uid="38-18"><speaker>ALEXIS</speaker><content>I’m just not sure I did.</content></utterance>
+<utterance uid="38-19"><speaker>CASTLE</speaker><content>Where – where’re you off to?</content></utterance>
+<utterance uid="38-20"><speaker>ALEXIS</speaker><content>There’s something I need to do.</content></utterance>
+<utterance uid="38-21"><speaker>ESPOSITO</speaker><content>Hey Castle. Looks like your love life made the paper again.</content></utterance>
+<utterance uid="38-22"><speaker>CASTLE</speaker><content>Ah .. what? All right, all right. Who am I hooking up with now?</content></utterance>
+<utterance uid="38-23"><speaker>RYAN</speaker><content> “Novelist Richard Castle and New York Police Detective Katherine Beckett, both native New Yorkers, are pleased to announce their engagement.”</content></utterance>
+<utterance uid="38-24"><speaker>CASTLE</speaker><content>No. No, no, no, no, no, no, no.  I didn’t – I didn’t – I didn’t do this.</content></utterance>
+<utterance uid="38-25"><speaker>BECKETT</speaker><content>Actually, I did.</content></utterance>
+<utterance uid="38-26"><speaker>CASTLE</speaker><content>I thought you –</content></utterance>
+<utterance uid="38-27"><speaker>BECKETT</speaker><content>I know, I know, Castle. I like my privacy. But I do realize that you’re somewhat famous.</content></utterance>
+<utterance uid="38-28"><speaker>CASTLE</speaker><content>Somewhat?</content></utterance>
+<utterance uid="38-29"><speaker>BECKETT</speaker><content>Yes. And if we’re going to be together I have to come to terms with that. And if they are going to write about you, I want it to be the truth. I want it to be about us.</content></utterance>
+<utterance uid="38-30"><speaker>CASTLE</speaker><content>Well, there’s no one that –</content></utterance>
+<utterance uid="38-31"><speaker>CASTLE</speaker><content>- there’s no one I’d rather share a headline with. But just for the interest of accuracy …  … does this say we’re getting married in space?</content></utterance>
+<utterance uid="38-32"><speaker>BECKETT</speaker><content> No. It’s not going to happen, babe.</content></utterance>
+<utterance uid="38-33"><speaker>CASTLE</speaker><content>It’d be pretty fun.  Space.</content></utterance>
+<utterance uid="38-34"><speaker>THE END</speaker><content>CASTLE</content></utterance>
+</scene>
+</script>

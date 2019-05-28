@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+<scene id="1"><utterance uid="1-1"><speaker>MAGGIE</speaker><content>You okay?</content></utterance>
+<utterance uid="1-2"><speaker>JANE</speaker><content>I’m thinking.</content></utterance>
+<utterance uid="1-3"><speaker>MAGGIE</speaker><content>Thinking’s not going to get you to the top.</content></utterance>
+<utterance uid="1-4"><speaker>JANE</speaker><content> Mom, you’re supposed to be encouraging me.</content></utterance>
+<utterance uid="1-5"><speaker>MAGGIE</speaker><content>No, I’m supposed to be coaching you. The slower you go, the more tired you’re going to get.</content></utterance>
+<utterance uid="1-6"><speaker>MAGGIE</speaker><content>There’s a hold about a foot above you on the left.</content></utterance>
+<utterance uid="1-7"><speaker>JANE</speaker><content>I know. </content></utterance>
+<utterance uid="1-8"><speaker>MAGGIE</speaker><content>Nice grab! Keep going! You’re almost there, babe.</content></utterance>
+<utterance uid="1-9"><speaker>JANE</speaker><content> I can’t. My calf’s cramping.</content></utterance>
+<utterance uid="1-10"><speaker>MAGGIE</speaker><content>You need to get off your toes. Get on the ball of your foot.</content></utterance>
+<utterance uid="1-11"><speaker>JANE</speaker><content>I can’t…</content></utterance>
+<utterance uid="1-12"><speaker>MAGGIE</speaker><content> Yes, you can. You can get all the way to the top.</content></utterance>
+<utterance uid="1-13"><speaker>MAGGIE</speaker><content>It’s okay, I got you. You all right?</content></utterance>
+<utterance uid="1-14"><speaker>JANE</speaker><content>Looks like you were wrong.</content></utterance>
+<utterance uid="1-15"><speaker>MAGGIE</speaker><content> Yeah, but you did awesome. That’s the highest you’ve gotten, I’m proud of you.</content></utterance>
+<utterance uid="1-16"><speaker>JANE</speaker><content>I don’t feel so good…</content></utterance>
+<utterance uid="1-17"><speaker>MAGGIE</speaker><content>Okay, come on down.</content></utterance>
+<utterance uid="1-18"><speaker>JANE</speaker><content> Mom? Mom, are you okay?</content></utterance>
+<utterance uid="1-19"><speaker>MAGGIE</speaker><content>Oh God… </content></utterance>
+<utterance uid="1-20"><speaker>COACH</speaker><content>Are you all right?</content></utterance>
+<utterance uid="1-21"><speaker>JANE</speaker><content>My arm… I think I broke it.</content></utterance>
+<utterance uid="1-22"><speaker>COACH</speaker><content>Don’t move.</content></utterance>
+<utterance uid="1-23"><speaker>MAGGIE</speaker><content> Oh Jane, I’m so sorry…</content></utterance>
+<utterance uid="1-24"><speaker>JANE</speaker><content>What happened? Did the rope break?</content></utterance>
+<utterance uid="1-25"><speaker>MAGGIE</speaker><content> No… My hands…  I can’t move them…</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>TAUB</speaker><content> She’s been to an ortho, two neuro’s, and an immunologist. None of the treatments have had any effect.</content></utterance>
+<utterance uid="2-2"><speaker>KUTNER</speaker><content> You think it’s over?</content></utterance>
+<utterance uid="2-3"><speaker>THIRTEEN</speaker><content> It’s getting worse. Last neurologist found intermittent numbness in both arms as well as the hand paralysis.</content></utterance>
+<utterance uid="2-4"><speaker>KUTNER</speaker><content>I meant the game. You think he’s gonna keep all four of us?</content></utterance>
+<utterance uid="2-5"><speaker>FOREMAN</speaker><content>Said he would. No sign of upper motor neuron involvement.</content></utterance>
+<utterance uid="2-6"><speaker>KUTNER</speaker><content>He lies.</content></utterance>
+<utterance uid="2-7"><speaker>HOUSE</speaker><content> My ears are burning.</content></utterance>
+<utterance uid="2-8"><speaker>FOREMAN</speaker><content>Tell him you’re done firing people.</content></utterance>
+<utterance uid="2-9"><speaker>HOUSE</speaker><content>Well if I lie, that would be little reassurance.  Dr. Kutner, who told you that it would be a good idea to put up superficial representations of a hypocritical season celebrating a mythical figure?</content></utterance>
+<utterance uid="2-10"><speaker>KUTNER</speaker><content> Wasn’t me.</content></utterance>
+<utterance uid="2-11"><speaker>HOUSE</speaker><content>He lied.  Homie knows better, Hymie doesn’t care, and Huntington’s would have done a better job.</content></utterance>
+<utterance uid="2-12"><speaker>THIRTEEN</speaker><content> I don’t have Huntington’s.</content></utterance>
+<utterance uid="2-13"><speaker>HOUSE</speaker><content>That you know of.</content></utterance>
+<utterance uid="2-14"><speaker>FOREMAN</speaker><content>Why would you…</content></utterance>
+<utterance uid="2-15"><speaker>HOUSE</speaker><content> Because I got sued when I called you “honeybuns”.</content></utterance>
+<utterance uid="2-16"><speaker>KUTNER</speaker><content> Am I fired if I put up —</content></utterance>
+<utterance uid="2-17"><speaker>THIRTEEN</speaker><content> The point of the game was to scare us. Telling us it’s over isn’t scary, therefore he has no reason to say that unless it’s true. </content></utterance>
+<utterance uid="2-18"><speaker>KUTNER</speaker><content> Good. Then can we do a Secret Santa? </content></utterance>
+<utterance uid="2-19"><speaker>HOUSE</speaker><content>I liked you better fifteen seconds ago when you were afraid for your job.  So who’s sick?</content></utterance>
+<utterance uid="2-20"><speaker>TAUB</speaker><content>Forty-five year old single mom. It’s an odd presentation of paralysis. Any history of drug use?</content></utterance>
+<utterance uid="2-21"><speaker>THIRTEEN</speaker><content>No.</content></utterance>
+<utterance uid="2-22"><speaker>HOUSE</speaker><content>She says there’s no history.</content></utterance>
+<utterance uid="2-23"><speaker>THIRTEEN</speaker><content>She’s not a liar.</content></utterance>
+<utterance uid="2-24"><speaker>HOUSE</speaker><content>Okay, this is gonna be a tough case. I have almost no knowledge of alien physiology.</content></utterance>
+<utterance uid="2-25"><speaker>THIRTEEN</speaker><content>Everyone lies but there’s an exception to every rule.</content></utterance>
+<utterance uid="2-26"><speaker>HOUSE</speaker><content>Actually there isn’t. That’s kinda what makes it a rule.</content></utterance>
+<utterance uid="2-27"><speaker>THIRTEEN</speaker><content>The patient’s mother died of breast cancer when she was seven and she never even knew her mom was sick. She promised herself she would never hide anything from her own daughter.</content></utterance>
+<utterance uid="2-28"><speaker>HOUSE</speaker><content> Oh… I didn’t know she’d promised. </content></utterance>
+<utterance uid="2-29"><speaker>TAUB</speaker><content>And we’re not her daughter. Patient inherited the BRCA1 mutation from her mom, she got a prophylactic double mastectomy ten years ago.</content></utterance>
+<utterance uid="2-30"><speaker>HOUSE</speaker><content>She lied about it.</content></utterance>
+<utterance uid="2-31"><speaker>THIRTEEN</speaker><content>She told her co-worker, she told her kid.</content></utterance>
+<utterance uid="2-32"><speaker>HOUSE</speaker><content>She lied to the world. Reconstructive surgery is designed to convince people that —</content></utterance>
+<utterance uid="2-33"><speaker>TAUB</speaker><content>She didn’t get reconstructive surgery.</content></utterance>
+<utterance uid="2-34"><speaker>KUTNER</speaker><content>Okay, we can rule out breast cancer.</content></utterance>
+<utterance uid="2-35"><speaker>TAUB</speaker><content>Actually, I was going to rule it in. Paralysis could be paraneoplastic. Even the best surgeon can’t remove every cell of breast tissue.</content></utterance>
+<utterance uid="2-36"><speaker>HOUSE</speaker><content>MRI what’s left of her chest. Set the machine to scan for irony.  I’m going to go redo the patient history.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>HOUSE</speaker><content>You mom tell you about all the drugs she does?</content></utterance>
+<utterance uid="3-2"><speaker>JANE</speaker><content> She smokes pot once in a while, but not in a long time.</content></utterance>
+<utterance uid="3-3"><speaker>HOUSE</speaker><content>What about you?</content></utterance>
+<utterance uid="3-4"><speaker>JANE</speaker><content>How would that make her sick?</content></utterance>
+<utterance uid="3-5"><speaker>HOUSE</speaker><content> Are you a doctor?</content></utterance>
+<utterance uid="3-6"><speaker>JANE</speaker><content>I’m eleven…</content></utterance>
+<utterance uid="3-7"><speaker>HOUSE</speaker><content>That’s not an answer. It’s an evasion.  Are you drinking? You ever sneak a drink?</content></utterance>
+<utterance uid="3-8"><speaker>JANE</speaker><content>I don’t do any of that stuff. It’s bad for you.</content></utterance>
+<utterance uid="3-9"><speaker>HOUSE</speaker><content>I understand why you don’t want your mom to know, but I’m her doctor so —</content></utterance>
+<utterance uid="3-10"><speaker>JANE</speaker><content>And I would tell my mom. And I would tell you.</content></utterance>
+<utterance uid="3-11"><speaker>HOUSE</speaker><content>Why?</content></utterance>
+<utterance uid="3-12"><speaker>JANE</speaker><content>Because she would never lie to me.</content></utterance>
+<utterance uid="3-13"><speaker>HOUSE</speaker><content> What’s her favorite way to have sex?</content></utterance>
+<utterance uid="3-14"><speaker>JANE</speaker><content> I don’t get what sex has to do with breast cancer.</content></utterance>
+<utterance uid="3-15"><speaker>HOUSE</speaker><content> Are you a doctor? Did you go to med school since the last time I asked?</content></utterance>
+<utterance uid="3-16"><speaker>JANE</speaker><content>You just think we gotta be lying —</content></utterance>
+<utterance uid="3-17"><speaker>HOUSE</speaker><content> White lies?</content></utterance>
+<utterance uid="3-18"><speaker>JANE</speaker><content>What are those?</content></utterance>
+<utterance uid="3-19"><speaker>HOUSE</speaker><content>Those are lies we tell to make other people feel better.</content></utterance>
+<utterance uid="3-20"><speaker>JANE</speaker><content>I don’t lie.</content></utterance>
+<utterance uid="3-21"><speaker>HOUSE</speaker><content>Rationalizations?</content></utterance>
+<utterance uid="3-22"><speaker>JANE</speaker><content>What are those?</content></utterance>
+<utterance uid="3-23"><speaker>HOUSE</speaker><content>Those are lies we tell to make ourselves feel better.</content></utterance>
+<utterance uid="3-24"><speaker>JANE</speaker><content>No, we don’t —</content></utterance>
+<utterance uid="3-25"><speaker>HOUSE</speaker><content> Lies of omission?  Saddle bronc or doggie? That’s sex talk.</content></utterance>
+<utterance uid="3-26"><speaker>JANE</speaker><content> She used to like being on top, but now she likes to be on her stomach. That way she doesn’t have to see them looking at her scars.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>HOUSE</speaker><content>It’s child abuse.</content></utterance>
+<utterance uid="4-2"><speaker>WILSON</speaker><content>Honesty?</content></utterance>
+<utterance uid="4-3"><speaker>HOUSE</speaker><content>There’s a reason that everybody lies. It works. It what allows society to function, it’s what separates man from beast.</content></utterance>
+<utterance uid="4-4"><speaker>WILSON</speaker><content>Oh, I thought that was our thumbs.</content></utterance>
+<utterance uid="4-5"><speaker>HOUSE</speaker><content>You wanna know every place your mom’s thumb has been?</content></utterance>
+<utterance uid="4-6"><speaker>WILSON</speaker><content>I’m sorry I missed rehearsal. Am I taking the “truth is good” side? Don’t you usually take that part?</content></utterance>
+<utterance uid="4-7"><speaker>HOUSE</speaker><content>Lies are a tool, they can be used either for good… No wait, I got a better one. Lies are like children. Hard work, but they’re worth it. Because the future depends on them.</content></utterance>
+<utterance uid="4-8"><speaker>WILSON</speaker><content>You are so full of love… or something.  When you care about someone —</content></utterance>
+<utterance uid="4-9"><speaker>HOUSE</speaker><content> You lie to them! You pretend that their constant ponderous musing are interesting. You tell them they’re not losing their boyish good looks or becoming worn out.</content></utterance>
+<utterance uid="4-10"><speaker>WILSON</speaker><content>I stand corrected and may I say, it’s been a real pleasure chatting with you.  Sila’s clean, surgical margins looks clear. No lymphadenopathy, no masses, no nothing. It’s not cancer.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>HOUSE</speaker><content>We need a new theory.</content></utterance>
+<utterance uid="5-2"><speaker>THIRTEEN</speaker><content>Did you catch her lying?</content></utterance>
+<utterance uid="5-3"><speaker>HOUSE</speaker><content>Not yet.</content></utterance>
+<utterance uid="5-4"><speaker>THIRTEEN</speaker><content>Wouldn’t “no” have been a shorter answer.</content></utterance>
+<utterance uid="5-5"><speaker>HOUSE</speaker><content>Wouldn’t you not talking have made this a shorter conversation? Kid says mom’s a slut.</content></utterance>
+<utterance uid="5-6"><speaker>KUTNER</speaker><content> She called her mom a slut?</content></utterance>
+<utterance uid="5-7"><speaker>HOUSE</speaker><content>No, I called her mom a slut. Jumps anything with a pole and a pulse. Not that I’m judging here. Given her medical history, I’m actually impressed.</content></utterance>
+<utterance uid="5-8"><speaker>THIRTEEN</speaker><content>Maggie already admitted to having multiple sexual partners. Which is why we already tested for, and ruled out, syphilis and any other STDs that could have caused her symptoms.</content></utterance>
+<utterance uid="5-9"><speaker>HOUSE</speaker><content>STDs aren’t the only risk in risky sex. Problem in sleeping with strangers is… they’re strange.</content></utterance>
+<utterance uid="5-10"><speaker>KUTNER</speaker><content>We’ll follow up with any recent partners.</content></utterance>
+<utterance uid="5-11"><speaker>HOUSE</speaker><content>Send Foreman and Taub. They’re better liars, more likely to get to the truth.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>ROGER</speaker><content>You think I drugged her?  Use a coaster.</content></utterance>
+<utterance uid="6-2"><speaker>FOREMAN</speaker><content>We’re not cops. Legally, we don’t care one way or another.</content></utterance>
+<utterance uid="6-3"><speaker>TAUB</speaker><content>But we need to know the truth so we can help her.</content></utterance>
+<utterance uid="6-4"><speaker>ROGER</speaker><content>I’d known her for less than an hour and she offered to take me home. There was no need to drug her.</content></utterance>
+<utterance uid="6-5"><speaker>ROGER</speaker><content> Not that I would.</content></utterance>
+<utterance uid="6-6"><speaker>ROGER</speaker><content>But she’s gonna be okay, right?</content></utterance>
+<utterance uid="6-7"><speaker>TAUB</speaker><content>As long as she doesn’t have to pick up or hold anything. </content></utterance>
+<utterance uid="6-8"><speaker>ROGER</speaker><content> Uh, sorry. I just had the floors done. Reclaimed pine.</content></utterance>
+<utterance uid="6-9"><speaker>TAUB</speaker><content>You always this thirsty?</content></utterance>
+<utterance uid="6-10"><speaker>ROGER</speaker><content>I don’t know… Water’s supposed to be good for you, right?</content></utterance>
+<utterance uid="6-11"><speaker>TAUB</speaker><content> Dehydration, anxiety, aggression…</content></utterance>
+<utterance uid="6-12"><speaker>ROGER</speaker><content>I’m not aggressive.</content></utterance>
+<utterance uid="6-13"><speaker>FOREMAN</speaker><content>Spastic chorea in his right hand.</content></utterance>
+<utterance uid="6-14"><speaker>ROGER</speaker><content> What about my hand?</content></utterance>
+<utterance uid="6-15"><speaker>FOREMAN</speaker><content>How much do you weight? About 180, 190?</content></utterance>
+<utterance uid="6-16"><speaker>ROGER</speaker><content> 180. What is —</content></utterance>
+<utterance uid="6-17"><speaker>FOREMAN</speaker><content> You took what she did, it could take longer to hit you. Might affect you differently.</content></utterance>
+<utterance uid="6-18"><speaker>TAUB</speaker><content>But you didn’t give her anything. Right?</content></utterance>
+<utterance uid="6-19"><speaker>ROGER</speaker><content> She was really drunk… I just gave her some E, to help enhance things.</content></utterance>
+<utterance uid="6-20"><speaker>FOREMAN</speaker><content>Have any of it left?</content></utterance>
+<utterance uid="6-21"><speaker>ROGER</speaker><content> Is my hand gonna be okay?</content></utterance>
+<utterance uid="6-22"><speaker>TAUB</speaker><content>There’s nothing wrong with it.  We lied.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>MELANIE</speaker><content>I’ve had a sore throat for a few days now. My stomach’s also been bothering me. I think my glands are swollen.</content></utterance>
+<utterance uid="7-2"><speaker>HOUSE</speaker><content> Saint Nicholas?</content></utterance>
+<utterance uid="7-3"><speaker>MELANIE</speaker><content> Patron saint of children.</content></utterance>
+<utterance uid="7-4"><speaker>HOUSE</speaker><content>Also seamen, merchants, archers, prostitutes, and prisoners.</content></utterance>
+<utterance uid="7-5"><speaker>MELANIE</speaker><content>Hmm… Must have been pretty hardworking.</content></utterance>
+<utterance uid="7-6"><speaker>HOUSE</speaker><content> Or just a credit hog.</content></utterance>
+<utterance uid="7-7"><speaker>HOUSE</speaker><content>Open wide.  Say “aah”.</content></utterance>
+<utterance uid="7-8"><speaker>MELANIE</speaker><content>Is it contagious?</content></utterance>
+<utterance uid="7-9"><speaker>HOUSE</speaker><content>Only for the next 24 hours as long as you take the antibiotics.</content></utterance>
+<utterance uid="7-10"><speaker>MELANIE</speaker><content> How contagious?</content></utterance>
+<utterance uid="7-11"><speaker>HOUSE</speaker><content>Take a personal day.</content></utterance>
+<utterance uid="7-12"><speaker>MELANIE</speaker><content>I can’t!</content></utterance>
+<utterance uid="7-13"><speaker>HOUSE</speaker><content> I’ll write your pimp a note.</content></utterance>
+<utterance uid="7-14"><speaker>MELANIE</speaker><content>My pimp?</content></utterance>
+<utterance uid="7-15"><speaker>HOUSE</speaker><content>You’re tested for AIDS every three months and… your necklace.</content></utterance>
+<utterance uid="7-16"><speaker>MELANIE</speaker><content> Prostitutes wear religious symbols?</content></utterance>
+<utterance uid="7-17"><speaker>HOUSE</speaker><content>I think they just like kneeling.  You don’t have the skin of a seaman, the fingers of an archer, the clothes of a merchant, or the attitude of an ex-con. So, just leaves one left.</content></utterance>
+<utterance uid="7-18"><speaker>MELANIE</speaker><content>Mmm… Two actually.  But I’m not a child, am I?</content></utterance>
+<utterance uid="7-19"><speaker>CUDDY</speaker><content>You owe me 50 bucks.</content></utterance>
+<utterance uid="7-20"><speaker>HOUSE</speaker><content>Then you owe me half a lapdance.</content></utterance>
+<utterance uid="7-21"><speaker>CUDDY</speaker><content>It’s for the nurses’ holiday bonus. I know you got the memo.</content></utterance>
+<utterance uid="7-22"><speaker>HOUSE</speaker><content>Got the memo last year. I want to hire forty more fellows.</content></utterance>
+<utterance uid="7-23"><speaker>CUDDY</speaker><content>You already fired the ones you hired?</content></utterance>
+<utterance uid="7-24"><speaker>HOUSE</speaker><content>They work better when they’re scared.</content></utterance>
+<utterance uid="7-25"><speaker>TAUB</speaker><content>You were right. Guy slipped her Ecstasy.</content></utterance>
+<utterance uid="7-26"><speaker>HOUSE</speaker><content>He have any symptoms?</content></utterance>
+<utterance uid="7-27"><speaker>TAUB</speaker><content>No. Kutner’s starting the patient on hemodialysis and Thirteen’s in the lab trying to figure out what the guy put in the drugs. </content></utterance>
+<utterance uid="7-28"><speaker>HOUSE</speaker><content>See? Clear, simple statement of facts describing their cooperation, with absolutely no attitude or fear. </content></utterance>
+<utterance uid="7-29"><speaker>CUDDY</speaker><content>Something’s gotta be done.</content></utterance>
+<utterance uid="7-30"><speaker>HOUSE</speaker><content>Oh yeah.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>KUTNER</speaker><content>How are you feeling?</content></utterance>
+<utterance uid="8-2"><speaker>MAGGIE</speaker><content>I still can’t move my hands.</content></utterance>
+<utterance uid="8-3"><speaker>KUTNER</speaker><content>It will take a few more hours to cycle all your blood through the machine.</content></utterance>
+<utterance uid="8-4"><speaker>MAGGIE</speaker><content>What just happened?</content></utterance>
+<utterance uid="8-5"><speaker>KUTNER</speaker><content> Nothing. What’s wrong?</content></utterance>
+<utterance uid="8-6"><speaker>MAGGIE</speaker><content>What do you mean? The lights just went out. Didn’t they?</content></utterance>
+<utterance uid="8-7"><speaker>JANE</speaker><content>What did you do?</content></utterance>
+<utterance uid="8-8"><speaker>MAGGIE</speaker><content>Is this from the drugs?</content></utterance>
+<utterance uid="8-9"><speaker>KUTNER</speaker><content> Most of the drugs should be out of your system by now and our drugs —</content></utterance>
+<utterance uid="8-10"><speaker>MAGGIE</speaker><content>I can’t see…</content></utterance>
+<utterance uid="8-11"><speaker>JANE</speaker><content> Do something!</content></utterance>
+<utterance uid="8-12"><speaker>MAGGIE</speaker><content>I can’t see! I can’t see!</content></utterance>
+<utterance uid="8-13"><speaker>FADE IN</speaker><content/></utterance>
+<utterance uid="8-14"><speaker>THIRTEEN</speaker><content>Nothing in the Ecstasy except Ecstasy.</content></utterance>
+<utterance uid="8-15"><speaker>HOUSE</speaker><content>Well that never hurt anybody.</content></utterance>
+<utterance uid="8-16"><speaker>FOREMAN</speaker><content>Can’t make them blind days later.</content></utterance>
+<utterance uid="8-17"><speaker>HOUSE</speaker><content> Do you spell “homie” with a Y?</content></utterance>
+<utterance uid="8-18"><speaker>HOUSE</speaker><content>I want to be respectful.</content></utterance>
+<utterance uid="8-19"><speaker>KUTNER</speaker><content>You’re actually going to let us do Secret Santa?</content></utterance>
+<utterance uid="8-20"><speaker>HOUSE</speaker><content>Not just you guys.  I like presents too.  Pick a name.</content></utterance>
+<utterance uid="8-21"><speaker>TAUB</speaker><content> Why are you doing this?</content></utterance>
+<utterance uid="8-22"><speaker>HOUSE</speaker><content>See, this is why no one likes your people.</content></utterance>
+<utterance uid="8-23"><speaker>HOUSE</speaker><content>The notion of picking one time of the year to be decent to other people is obscene, because it’s actually validating the notion of being miserable wretches the rest of the year.</content></utterance>
+<utterance uid="8-24"><speaker>FOREMAN</speaker><content>So you think this is the part of the year they screwed up?</content></utterance>
+<utterance uid="8-25"><speaker>HOUSE</speaker><content>On the other hand, you are now a team. Gotta work together and the simple fact is, giving people crap makes people like people so spend 25 bucks. Learn to love…</content></utterance>
+<utterance uid="8-26"><speaker>THIRTEEN</speaker><content>Blindness could be a complication from the hemodialysis.</content></utterance>
+<utterance uid="8-27"><speaker>KUTNER</speaker><content>No, the dialysate composition was within range.  Sweet.</content></utterance>
+<utterance uid="8-28"><speaker>HOUSE</speaker><content>Interesting.</content></utterance>
+<utterance uid="8-29"><speaker>THIRTEEN</speaker><content>The dialysate composition just indicates —</content></utterance>
+<utterance uid="8-30"><speaker>HOUSE</speaker><content> Indicates nothing. I was referring to his reaction to the name he got.</content></utterance>
+<utterance uid="8-31"><speaker>KUTNER</speaker><content>I was pleased. I thought it’d be fun to buy for —</content></utterance>
+<utterance uid="8-32"><speaker>HOUSE</speaker><content>Means… there’s someone here who wouldn’t be fun to buy for.  I wonder who.  Pick a name, then go check out the patient’s house.</content></utterance>
+<utterance uid="8-33"><speaker>HOUSE</speaker><content> Interesting…</content></utterance>
+<utterance uid="8-34"><speaker>FOREMAN</speaker><content>We’re wasting time going to the home. Kearns-Sayer syndrome fits the symptoms. [takes a name from the stocking and tucks it into his jacket’s inner pocket without even looking.</content></utterance>
+<utterance uid="8-35"><speaker>HOUSE</speaker><content>No family history of Kearns. Go to their house —</content></utterance>
+<utterance uid="8-36"><speaker>THIRTEEN</speaker><content> They would have told us if there were any other drugs. You met her, she couldn’t have been more candid.</content></utterance>
+<utterance uid="8-37"><speaker>HOUSE</speaker><content>You’re absolutely right. Go to their house —</content></utterance>
+<utterance uid="8-38"><speaker>TAUB</speaker><content> MS or a vascular problem fits better. They could affect hands and eyes.</content></utterance>
+<utterance uid="8-39"><speaker>HOUSE</speaker><content>Fine. Do an MRI, check for MS. And a fluorescein angiogram of her eyes to see if we missed a bleed somewhere.</content></utterance>
+<utterance uid="8-40"><speaker>HOUSE</speaker><content>Oh! And whoever goes to their house… get me their computers.</content></utterance>
+<utterance uid="8-41"><speaker>HOUSE</speaker><content>You talk to your kid about sex so she’ll think you’re being open about everything. Keeps her from asking questions about the things you don’t want to talk about. </content></utterance>
+<utterance uid="8-42"><speaker>THIRTEEN</speaker><content>That’s right. Her honesty proves just how dishonest she is.</content></utterance>
+<utterance uid="8-43"><speaker>HOUSE</speaker><content> Yes! Exactly who I wanted. This is going to be fun.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>TAUB</speaker><content>The dye may sting when it enters your bloodstream,</content></utterance>
+<utterance uid="9-2"><speaker>JANE</speaker><content>Are you scared, mom?</content></utterance>
+<utterance uid="9-3"><speaker>MAGGIE</speaker><content> Yeah. Are you?</content></utterance>
+<utterance uid="9-4"><speaker>JANE</speaker><content> Yeah.</content></utterance>
+<utterance uid="9-5"><speaker>MAGGIE</speaker><content>Are they?</content></utterance>
+<utterance uid="9-6"><speaker>JANE</speaker><content> They don’t look scared.</content></utterance>
+<utterance uid="9-7"><speaker>MAGGIE</speaker><content>Either they’re confident or they just don’t care. </content></utterance>
+<utterance uid="9-8"><speaker>FOREMAN</speaker><content>We’re confident.</content></utterance>
+<utterance uid="9-9"><speaker>TAUB</speaker><content>Okay if I shift you a bit? Get you into position.</content></utterance>
+<utterance uid="9-10"><speaker>JANE</speaker><content>Your boss is weird.</content></utterance>
+<utterance uid="9-11"><speaker>TAUB</speaker><content>Yeah, he is. He thought he’d get information you may not have been telling us by…</content></utterance>
+<utterance uid="9-12"><speaker>MAGGIE</speaker><content>Being a jerk?</content></utterance>
+<utterance uid="9-13"><speaker>TAUB</speaker><content>You’d be surprised how often it works.</content></utterance>
+<utterance uid="9-14"><speaker>FOREMAN</speaker><content>Choroidal flush looks good.</content></utterance>
+<utterance uid="9-15"><speaker>JANE</speaker><content>Why would people lie to a doctor?</content></utterance>
+<utterance uid="9-16"><speaker>FOREMAN</speaker><content>Dozens of reasons to lie, only one reason to tell the truth.</content></utterance>
+<utterance uid="9-17"><speaker>TAUB</speaker><content>You’re never even tempted?  I mean, lies do sometimes smooth things out, make life easier.</content></utterance>
+<utterance uid="9-18"><speaker>MAGGIE</speaker><content>Yeah? Your life easy?</content></utterance>
+<utterance uid="9-19"><speaker>FOREMAN</speaker><content>Not even close. Dye’s reached the retinal capillary bed. No leakage.</content></utterance>
+<utterance uid="9-20"><speaker>JANE</speaker><content>That’s… good, right?</content></utterance>
+<utterance uid="9-21"><speaker>TAUB</speaker><content>It means it’s not a vascular problem.</content></utterance>
+<utterance uid="9-22"><speaker>MAGGIE</speaker><content>But?</content></utterance>
+<utterance uid="9-23"><speaker>FOREMAN</speaker><content>Vascular problem, we could fix.</content></utterance>
+<utterance uid="9-24"><speaker>JANE</speaker><content>They look worried now, mom.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>WILSON</speaker><content>What’s with the Secret Santa? You trying to bring them together?</content></utterance>
+<utterance uid="10-2"><speaker>HOUSE</speaker><content>I want to drive them apart.</content></utterance>
+<utterance uid="10-3"><speaker>WILSON</speaker><content>With gift giving?</content></utterance>
+<utterance uid="10-4"><speaker>HOUSE</speaker><content>Conflict’s built right into the name. Santa’s about sharing, secret’s about withholding. </content></utterance>
+<utterance uid="10-5"><speaker>WILSON</speaker><content>Aside from the Trojan horse, gifts don’t usually —</content></utterance>
+<utterance uid="10-6"><speaker>HOUSE</speaker><content> What did you get your wife for your final anniversary?</content></utterance>
+<utterance uid="10-7"><speaker>WILSON</speaker><content> Uh… a sweater.</content></utterance>
+<utterance uid="10-8"><speaker>HOUSE</speaker><content>She hated it.</content></utterance>
+<utterance uid="10-9"><speaker>WILSON</speaker><content>She loved it.</content></utterance>
+<utterance uid="10-10"><speaker>HOUSE</speaker><content>Then you didn’t buy it. </content></utterance>
+<utterance uid="10-11"><speaker>WILSON</speaker><content>I… gave her some cash and…</content></utterance>
+<utterance uid="10-12"><speaker>HOUSE</speaker><content> Gifts allow us to demonstrate exactly how little we know about a person and nothing pisses off a person more than being shoved in the wrong pigeon hole.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>KUTNER</speaker><content>I’m thinking of spending a few extra bucks on my Secret Santa.</content></utterance>
+<utterance uid="11-2"><speaker>THIRTEEN</speaker><content>Bad idea. You mind if I tell House you asked them for the key instead of breaking in?</content></utterance>
+<utterance uid="11-3"><speaker>KUTNER</speaker><content>Yes, I do. Just another five bucks.</content></utterance>
+<utterance uid="11-4"><speaker>THIRTEEN</speaker><content>Five will be ten. The key’s proof she doesn’t have anything to hide.</content></utterance>
+<utterance uid="11-5"><speaker>KUTNER</speaker><content>The key is proof I didn’t do exactly what House told me to do. And what do you care if it’s another fifteen?</content></utterance>
+<utterance uid="11-6"><speaker>THIRTEEN</speaker><content>I’m gonna tell him. And who are you so anxious to please?</content></utterance>
+<utterance uid="11-7"><speaker>KUTNER</speaker><content> Not you. You really think you’re going to prove people are capable of honesty using a mother and daughter you’ve known for one day?</content></utterance>
+<utterance uid="11-8"><speaker>THIRTEEN</speaker><content>I’m not the one who’s based his entire world view on the proposition. If I’m wrong, so what? If he’s wrong…</content></utterance>
+<utterance uid="11-9"><speaker>KUTNER</speaker><content>So you really have Huntington’s?</content></utterance>
+<utterance uid="11-10"><speaker>THIRTEEN</speaker><content>Nope.</content></utterance>
+<utterance uid="11-11"><speaker>KUTNER</speaker><content>But House said that —</content></utterance>
+<utterance uid="11-12"><speaker>THIRTEEN</speaker><content> If I wanted to talk about it, why didn’t I bring it up?</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>TAUB</speaker><content>Fluorescein angiogram was clear. No leaks, no lesions, definitely not a vascular problem.</content></utterance>
+<utterance uid="12-2"><speaker>HOUSE</speaker><content> Someone get their birthdays out of the file.</content></utterance>
+<utterance uid="12-3"><speaker>THIRTEEN</speaker><content>Have you tried leaving it blank?</content></utterance>
+<utterance uid="12-4"><speaker>THIRTEEN</speaker><content>Tough to get into the head of someone who actually trusts people, huh? Found both computers in an office, on a desk they share.</content></utterance>
+<utterance uid="12-5"><speaker>TAUB</speaker><content>No sign of macular degeneration or optic neuritis. Her eyes are completely normal.</content></utterance>
+<utterance uid="12-6"><speaker>FOREMAN</speaker><content>Except she can’t see out of them.</content></utterance>
+<utterance uid="12-7"><speaker>HOUSE</speaker><content> So she says. Find anything on the MRI?</content></utterance>
+<utterance uid="12-8"><speaker>FOREMAN</speaker><content>No sign of plaques. It’s not MS.</content></utterance>
+<utterance uid="12-9"><speaker>TAUB</speaker><content>We haven’t found anything abnormal on any test.</content></utterance>
+<utterance uid="12-10"><speaker>KUTNER</speaker><content>Except she can’t see or move her hands.</content></utterance>
+<utterance uid="12-11"><speaker>HOUSE</speaker><content> So she says.</content></utterance>
+<utterance uid="12-12"><speaker>THIRTEEN</speaker><content>You can’t lie about flaccid paralysis.</content></utterance>
+<utterance uid="12-13"><speaker>FOREMAN</speaker><content>Maybe she’s not lying.</content></utterance>
+<utterance uid="12-14"><speaker>FOREMAN</speaker><content>Her brain is. What if it’s a conversion disorder?</content></utterance>
+<utterance uid="12-15"><speaker>HOUSE</speaker><content> Lacks personal boundaries… Promiscuous… Inappropriate obsession with truth-telling… Certainly sounds like a psych case.</content></utterance>
+<utterance uid="12-16"><speaker>KUTNER</speaker><content>Cool. I’ll set up a psych consult and start her on anti-depressants. </content></utterance>
+<utterance uid="12-17"><speaker>HOUSE</speaker><content>Nope.</content></utterance>
+<utterance uid="12-18"><speaker>HOUSE</speaker><content>Her mind is tricking her body. We need to trick her mind. Or even better.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>THIRTEEN</speaker><content>You don’t need her.</content></utterance>
+<utterance uid="13-2"><speaker>HOUSE</speaker><content>I know.</content></utterance>
+<utterance uid="13-3"><speaker>THIRTEEN</speaker><content>Then this serves no medical purpose.</content></utterance>
+<utterance uid="13-4"><speaker>HOUSE</speaker><content>You have a genetic defect, you choose to ignore it. This woman has a genetic defect, chooses to butcher herself to be safe. Yet what you claim to be fascinated by, is her honesty. Interesting.</content></utterance>
+<utterance uid="13-5"><speaker>THIRTEEN</speaker><content>You claim to want the truth, and then you screw with people who actually live by it. Pathetic.</content></utterance>
+<utterance uid="13-6"><speaker>HOUSE</speaker><content>Hey, I gave you credit for interesting.</content></utterance>
+<utterance uid="13-7"><speaker>HOUSE</speaker><content>You’re protecting her because you’re jealous she did what you couldn’t.</content></utterance>
+<utterance uid="13-8"><speaker>HOUSE</speaker><content>I need you.</content></utterance>
+<utterance uid="13-9"><speaker>THIRTEEN</speaker><content> I’m not lying to her.</content></utterance>
+<utterance uid="13-10"><speaker>HOUSE</speaker><content>Fine, keep your mouth shut. I still need you. If it doesn’t work, you gotta hold the kid down until someone else finishes lying to mom.</content></utterance>
+<utterance uid="13-11"><speaker>HOUSE</speaker><content>That does actually serve a medical purpose.</content></utterance>
+<utterance uid="13-12"><speaker>HOUSE</speaker><content>Jane.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>JANE</speaker><content>I have to lie because she trusts me?</content></utterance>
+<utterance uid="14-2"><speaker>HOUSE</speaker><content>If you show doubt, the placebo treatment won’t work.</content></utterance>
+<utterance uid="14-3"><speaker>JANE</speaker><content>If it’s just depression, that’s good news right?</content></utterance>
+<utterance uid="14-4"><speaker>HOUSE</speaker><content> A lot of great medications.</content></utterance>
+<utterance uid="14-5"><speaker>JANE</speaker><content>So why can’t we just give her those? Why do we have to lie to her?</content></utterance>
+<utterance uid="14-6"><speaker>HOUSE</speaker><content>Because we might be wrong. And those medications take a long time to work and since your mom’s condition is declining, there’s a chance the drugs won’t tell us anything until it’s too late.</content></utterance>
+<utterance uid="14-7"><speaker>JANE</speaker><content> My mom’s not depressed.</content></utterance>
+<utterance uid="14-8"><speaker>HOUSE</speaker><content>Maybe she’s hiding it from you.</content></utterance>
+<utterance uid="14-9"><speaker>JANE</speaker><content> No. She wouldn’t —</content></utterance>
+<utterance uid="14-10"><speaker>HOUSE</speaker><content>Just doing what every good mom does. Protecting her child from bad news that she can’t do anything about.</content></utterance>
+<utterance uid="14-11"><speaker>JANE</speaker><content>My mom’s never lied to me.</content></utterance>
+<utterance uid="14-12"><speaker>HOUSE</speaker><content>You don’t know how to lie. You don’t know how to tell when you’re being lied to.</content></utterance>
+<utterance uid="14-13"><speaker>JANE</speaker><content> Maybe you’re right…</content></utterance>
+<utterance uid="14-14"><speaker>HOUSE</speaker><content>I know —</content></utterance>
+<utterance uid="14-15"><speaker>JANE</speaker><content>I was lying.  I know how to lie. I just won’t do it to my mother.</content></utterance>
+<utterance uid="14-16"><speaker>THIRTEEN</speaker><content>You like foosball?</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>TAUB</speaker><content>Until the treatment of your infectious parapheresis takes effect, Jane can’t come back into the room. I’ve already been inoculated.</content></utterance>
+<utterance uid="15-2"><speaker>MAGGIE</speaker><content>Can she have it already?</content></utterance>
+<utterance uid="15-3"><speaker>TAUB</speaker><content>Don’t worry.  It’s a very effective treatment, you should be feeling better in a matter of minutes.</content></utterance>
+<utterance uid="15-4"><speaker>TAUB</speaker><content>Don’t you think Jane deserves a few secrets? Some personal space? Room to uh… make her own mistakes? </content></utterance>
+<utterance uid="15-5"><speaker>MAGGIE</speaker><content>She makes plenty of mistakes. Only difference is, I’m there to help her through them.</content></utterance>
+<utterance uid="15-6"><speaker>TAUB</speaker><content> But she’s gotta know you’re looking over her shoulder. It’s gotta stifle —</content></utterance>
+<utterance uid="15-7"><speaker>MAGGIE</speaker><content>You think the world would be a better place if everybody always acted like their mom was looking over their shoulder?</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>JANE</speaker><content>I wanna go see my mom.</content></utterance>
+<utterance uid="16-2"><speaker>KUTNER</speaker><content>She’s sleeping. Why don’t we just double the amount we can spend?</content></utterance>
+<utterance uid="16-3"><speaker>FOREMAN</speaker><content>Nope.</content></utterance>
+<utterance uid="16-4"><speaker>KUTNER</speaker><content>Can’t afford another twenty-five?</content></utterance>
+<utterance uid="16-5"><speaker>FOREMAN</speaker><content>We allow people fifty, people will spend sixty.</content></utterance>
+<utterance uid="16-6"><speaker>KUTNER</speaker><content>Ah, so you can’t afford another thirty-five.</content></utterance>
+<utterance uid="16-7"><speaker>THIRTEEN</speaker><content>You must really like who you got…</content></utterance>
+<utterance uid="16-8"><speaker>JANE</speaker><content>Or really dislike.</content></utterance>
+<utterance uid="16-9"><speaker>JANE</speaker><content>My mom always gives the best presents to the teachers I get along with the worst.</content></utterance>
+<utterance uid="16-10"><speaker>KUTNER</speaker><content> How do you know “no”?</content></utterance>
+<utterance uid="16-11"><speaker>THIRTEEN</speaker><content>I know you didn’t get House.</content></utterance>
+<utterance uid="16-12"><speaker>FOREMAN</speaker><content>I know he didn’t get House.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>WILSON</speaker><content>You gave them all your name?</content></utterance>
+<utterance uid="17-2"><speaker>HOUSE</speaker><content>Mm-hmm. Figured I could sow some dissension and get a few ties and sweaters.</content></utterance>
+<utterance uid="17-3"><speaker>WILSON</speaker><content>What happens when they find out?</content></utterance>
+<utterance uid="17-4"><speaker>HOUSE</speaker><content>It’s Secret Santa.</content></utterance>
+<utterance uid="17-5"><speaker>WILSON</speaker><content> What happens when they find out?</content></utterance>
+<utterance uid="17-6"><speaker>HOUSE</speaker><content> They’ll argue about what to do with that information. Ties are less important than the dissension.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>KUTNER</speaker><content>Well we still have to buy him something.</content></utterance>
+<utterance uid="18-2"><speaker>FOREMAN</speaker><content> Not a chance!</content></utterance>
+<utterance uid="18-3"><speaker>KUTNER</speaker><content>We weren’t supposed to discuss this. We’re not supposed to know.</content></utterance>
+<utterance uid="18-4"><speaker>FOREMAN</speaker><content>He’s not supposed to put his name in there five times!</content></utterance>
+<utterance uid="18-5"><speaker>JANE</speaker><content>He wants presents. It’s sad…</content></utterance>
+<utterance uid="18-6"><speaker>THIRTEEN</speaker><content>It’s pathetic.</content></utterance>
+<utterance uid="18-7"><speaker>KUTNER</speaker><content> I’m still buying him a present.</content></utterance>
+<utterance uid="18-8"><speaker>THIRTEEN</speaker><content> No. You’re not.</content></utterance>
+<utterance uid="18-9"><speaker>KUTNER</speaker><content> Fine.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>TAUB</speaker><content>What’s wrong?</content></utterance>
+<utterance uid="19-2"><speaker>MAGGIE</speaker><content>I think it’s getting worse. Can’t breathe… </content></utterance>
+<utterance uid="19-3"><speaker>TAUB</speaker><content> I need a nurse in here!</content></utterance>
+<utterance uid="19-4"><speaker>TAUB</speaker><content>Her lymph nodes are cutting off her airway. We gotta intubate!</content></utterance>
+<utterance uid="19-5"><speaker>FADE IN</speaker><content/></utterance>
+<utterance uid="19-6"><speaker>FOREMAN</speaker><content>Swollen lymph nodes were cutting off Maggie’s airway. We shrunk them with alcohol, she’s breathing on her own now.</content></utterance>
+<utterance uid="19-7"><speaker>HOUSE</speaker><content> Well, that sucks.</content></utterance>
+<utterance uid="19-8"><speaker>HOUSE</speaker><content>4300 saved emails and not a single mention of “lesbionic”, “sanchez” or “man-gina”.</content></utterance>
+<utterance uid="19-9"><speaker>HOUSE</speaker><content>Swollen lymph nodes means it wasn’t psychological.</content></utterance>
+<utterance uid="19-10"><speaker>KUTNER</speaker><content>Who’s that from?</content></utterance>
+<utterance uid="19-11"><speaker>HOUSE</speaker><content> Santa, obviously. ‘Cause you know I worship him.  No wait, I mean Satan. I always get them confused.  What is… an alpine butterfly? And why is she learning how to do one?</content></utterance>
+<utterance uid="19-12"><speaker>FOREMAN</speaker><content>House, we already have a full history. You don’t need to waste time —</content></utterance>
+<utterance uid="19-13"><speaker>HOUSE</speaker><content> It’s just a climbing knot.</content></utterance>
+<utterance uid="19-14"><speaker>TAUB</speaker><content>But what does she use it for? Try “bondage”.</content></utterance>
+<utterance uid="19-15"><speaker>HOUSE</speaker><content>I did once.  And she just tied me down and whined about how hard it is to be Dean of Medicine.</content></utterance>
+<utterance uid="19-16"><speaker>KUTNER</speaker><content>Gyms aren’t exactly pristine, could be a fungal infection. Seriously, who’s it from? </content></utterance>
+<utterance uid="19-17"><speaker>FOREMAN</speaker><content>No fever, no elevated white count.</content></utterance>
+<utterance uid="19-18"><speaker>HOUSE</speaker><content> That’s funny… Friend sent her a Garfield cartoon. That cat sure does love lasagna.</content></utterance>
+<utterance uid="19-19"><speaker>THIRTEEN</speaker><content>House.  Stop obsessing.</content></utterance>
+<utterance uid="19-20"><speaker>HOUSE</speaker><content> If it weren’t for my obsessions, you wouldn’t know that she has sarcoidosis.</content></utterance>
+<utterance uid="19-21"><speaker>HOUSE</speaker><content>Eighteen months ago, she sold her Stairmaster. It was only two months old. Now either she needed the cash or climbing stairs was getting more difficult.  Twelve months ago, she cancelled a hiking trip. Now she either just wanted to sit home and watch TV or walking was getting more difficult. She’s been suffering joint pain for the last two years.</content></utterance>
+<utterance uid="19-22"><speaker>HOUSE</speaker><content>Pull my ribbon.  If you know what I mean.</content></utterance>
+<utterance uid="19-23"><speaker>THIRTEEN</speaker><content>ACE levels are too low for sarcoidosis. </content></utterance>
+<utterance uid="19-24"><speaker>HOUSE</speaker><content>That’s not what I meant.  Could just be an inactive phase.</content></utterance>
+<utterance uid="19-25"><speaker>KUTNER</speaker><content>It’s not Christmas yet.</content></utterance>
+<utterance uid="19-26"><speaker>HOUSE</speaker><content>I remembered. I’m not a Satanist, I’m a druid.</content></utterance>
+<utterance uid="19-27"><speaker>FOREMAN</speaker><content>No lung involvement.</content></utterance>
+<utterance uid="19-28"><speaker>HOUSE</speaker><content>Yet.</content></utterance>
+<utterance uid="19-29"><speaker>TAUB</speaker><content>We’ll need a bronchoalveolar lavage to confirm it.</content></utterance>
+<utterance uid="19-30"><speaker>HOUSE</speaker><content> That’s a shame. I’m not gonna surprise her with one for Christmas.</content></utterance>
+<utterance uid="19-31"><speaker>HOUSE</speaker><content>Wow!</content></utterance>
+<utterance uid="19-32"><speaker>HOUSE</speaker><content> Now either that cost more than 25 bucks or I’m seriously starting to doubt Steve Jobs’ business strategies.</content></utterance>
+<utterance uid="19-33"><speaker>HOUSE</speaker><content>Thanks!</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>THIRTEEN</speaker><content>Last round of saline, Maggie. One more big breath. We’ve gotta get the liquid to go all the way into your lungs, okay?  Here we go.</content></utterance>
+<utterance uid="20-2"><speaker>KUTNER</speaker><content>Gift could be from a patient.</content></utterance>
+<utterance uid="20-3"><speaker>TAUB</speaker><content> Who sent it to the wrong doctor?</content></utterance>
+<utterance uid="20-4"><speaker>THIRTEEN</speaker><content>House obviously gave the present to himself.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>HOUSE</speaker><content> They’re arguing right now.</content></utterance>
+<utterance uid="21-2"><speaker>WILSON</speaker><content>I’ve been looking for this all morning.</content></utterance>
+<utterance uid="21-3"><speaker>HOUSE</speaker><content>Did you look in the box on my desk? Oh by the way, your mom called. Your dad’s dead.</content></utterance>
+<utterance uid="21-4"><speaker>WILSON</speaker><content> You left the present sitting on your desk?</content></utterance>
+<utterance uid="21-5"><speaker>HOUSE</speaker><content>It wouldn’t have been as effective sitting in my closet in my home.</content></utterance>
+<utterance uid="21-6"><speaker>WILSON</speaker><content>They’re gonna know it’s from you.</content></utterance>
+<utterance uid="21-7"><speaker>HOUSE</speaker><content>No, they’re gonna guess that it was from me. Might even be 90% sure that it was from me but all that means is, they’re 10% sure that one of the other guys is screwing them over.</content></utterance>
+<utterance uid="21-8"><speaker>WILSON</speaker><content> Have you ever considered channeling your powers to, I don’t know… bring peace to the mid-east?</content></utterance>
+<utterance uid="21-9"><speaker>HOUSE</speaker><content> I couldn’t do that.</content></utterance>
+<utterance uid="21-10"><speaker>WILSON</speaker><content>But if they ever got it, you could screw it up.</content></utterance>
+<utterance uid="21-11"><speaker>HOUSE</speaker><content>Yeah. That’s more where my powers lie.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>TAUB</speaker><content>Gift could be from Wilson.</content></utterance>
+<utterance uid="22-2"><speaker>THIRTEEN</speaker><content> It’s House.</content></utterance>
+<utterance uid="22-3"><speaker>KUTNER</speaker><content>Why do you have a problem with him speculating?</content></utterance>
+<utterance uid="22-4"><speaker>THIRTEEN</speaker><content>Because. That’s what House wants us to do.</content></utterance>
+<utterance uid="22-5"><speaker>TAUB</speaker><content> Lungs are pristine, no infiltrates or alveolar hemorrhage.</content></utterance>
+<utterance uid="22-6"><speaker>KUTNER</speaker><content>Maggie, I’m gonna remove the scope. I need you to cough for me, okay?</content></utterance>
+<utterance uid="22-7"><speaker>KUTNER</speaker><content>A little harder.</content></utterance>
+<utterance uid="22-8"><speaker>KUTNER</speaker><content>Great.</content></utterance>
+<utterance uid="22-9"><speaker>TAUB</speaker><content> Maggie… Open your eyes.</content></utterance>
+<utterance uid="22-10"><speaker>MAGGIE</speaker><content>Why aren’t you saying anything?</content></utterance>
+<utterance uid="22-11"><speaker>MAGGIE</speaker><content>What’s wrong?</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>TAUB</speaker><content>Maggie tested negative for sarcoidosis.</content></utterance>
+<utterance uid="23-2"><speaker>KUTNER</speaker><content>But she’s bleeding into her eyes now.</content></utterance>
+<utterance uid="23-3"><speaker>HOUSE</speaker><content> Have her platelets dropped?</content></utterance>
+<utterance uid="23-4"><speaker>KUTNER</speaker><content>Plummeted. New labs show they’re under 40. She’ll bleed out of every orifice if we don’t find the cause.</content></utterance>
+<utterance uid="23-5"><speaker>TAUB</speaker><content>Could be splenic sequestration, tuberculosis —</content></utterance>
+<utterance uid="23-6"><speaker>THIRTEEN</speaker><content> Gaucher disease, TTP —</content></utterance>
+<utterance uid="23-7"><speaker>KUTNER</speaker><content> Hemolytic uremic syndrome, sepsis, lupus —</content></utterance>
+<utterance uid="23-8"><speaker>HOUSE</speaker><content> Listing all the possible causes is only impressive if you can do it reverse alphabetically. We need to know why her platelet machine is broken. Go to the factory. Do a bone marrow aspiration.</content></utterance>
+<utterance uid="23-9"><speaker>KUTNER</speaker><content>I’m your Secret Santa.</content></utterance>
+<utterance uid="23-10"><speaker>HOUSE</speaker><content> Well you’re not supposed to tell.</content></utterance>
+<utterance uid="23-11"><speaker>KUTNER</speaker><content>But you got a present already. Which means you have more than one Secret Santa.</content></utterance>
+<utterance uid="23-12"><speaker>HOUSE</speaker><content>Or… somebody else wants to make me happy.</content></utterance>
+<utterance uid="23-13"><speaker>KUTNER</speaker><content> Merry Christmas.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>HOUSE</speaker><content>On one hand, you should be in bed.  On the other hand, I told you to rest so… I see your dilemma.</content></utterance>
+<utterance uid="24-2"><speaker>MELANIE</speaker><content>I don’t think resting is the problem. Can strep cause this? </content></utterance>
+<utterance uid="24-3"><speaker>HOUSE</speaker><content> Clap on.</content></utterance>
+<utterance uid="24-4"><speaker>MELANIE</speaker><content>Trust me, first place I went. No rash on my labia. Do you need to take a look?</content></utterance>
+<utterance uid="24-5"><speaker>HOUSE</speaker><content> I’m saving my money for a Red Ryder BB-gun.</content></utterance>
+<utterance uid="24-6"><speaker>HOUSE</speaker><content>Darker shade of lipstick?</content></utterance>
+<utterance uid="24-7"><speaker>MELANIE</speaker><content>I’m not wering any.</content></utterance>
+<utterance uid="24-8"><speaker>HOUSE</speaker><content> You tell your mother what you do?</content></utterance>
+<utterance uid="24-9"><speaker>HOUSE</speaker><content>Doesn’t matter. I’m curious.</content></utterance>
+<utterance uid="24-10"><speaker>MELANIE</speaker><content>I don’t need to break her heart just do I can feel righteous.</content></utterance>
+<utterance uid="24-11"><speaker>HOUSE</speaker><content> You do a donkey show?  I’m not curious. It matters.</content></utterance>
+<utterance uid="24-12"><speaker>MELANIE</speaker><content>It’s a donkey or a mule…  I can never remember.</content></utterance>
+<utterance uid="24-13"><speaker>HOUSE</speaker><content>Wow… That is a creepy smile.  I bet the donkey’s is even creepier.</content></utterance>
+<utterance uid="24-14"><speaker>MELANIE</speaker><content> Do I have to explain?</content></utterance>
+<utterance uid="24-15"><speaker>HOUSE</speaker><content>Nope. It’s my job. Contagious ecthyma. Any contact can cause rashes, flu symptoms, sore throat. Has there been… contact? </content></utterance>
+<utterance uid="24-16"><speaker>HOUSE</speaker><content> Okay. Antibiotic cream for you and a love glove for Francis. You’ll both be fine.</content></utterance>
+<utterance uid="24-17"><speaker>MELANIE</speaker><content> You should come see the show. I think you’d like it. </content></utterance>
+<utterance uid="24-18"><speaker>HOUSE</speaker><content>Sorry, I hate Westerns.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>CHASE</speaker><content>So they really never lie?</content></utterance>
+<utterance uid="25-2"><speaker>FOREMAN</speaker><content>Doesn’t seem like it. Admirable. You tell Cameron everything?</content></utterance>
+<utterance uid="25-3"><speaker>CHASE</speaker><content>Hah! No.</content></utterance>
+<utterance uid="25-4"><speaker>FOREMAN</speaker><content>You think she keeps secrets?</content></utterance>
+<utterance uid="25-5"><speaker>CHASE</speaker><content>If I knew, they wouldn't be secrets. I hope she does. People have a right to a little privacy, even from the people they love.</content></utterance>
+<utterance uid="25-6"><speaker>FOREMAN</speaker><content>You buy House a present?</content></utterance>
+<utterance uid="25-7"><speaker>CHASE</speaker><content>Why would I?</content></utterance>
+<utterance uid="25-8"><speaker>FOREMAN</speaker><content>To screw with me.</content></utterance>
+<utterance uid="25-9"><speaker>CHASE</speaker><content>Then I’m gonna say yes.</content></utterance>
+<utterance uid="25-10"><speaker>FOREMAN</speaker><content>No no, wait. Stop, stop. What’s that smell?</content></utterance>
+<utterance uid="25-11"><speaker>FOREMAN</speaker><content>Her bone is smoking.</content></utterance>
+<utterance uid="25-12"><speaker>CHASE</speaker><content>Her bones are harder than the drill?</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>KUTNER</speaker><content>We ran a full body bone scan to find the cause of hardening in the hip. No hotspots anywhere.</content></utterance>
+<utterance uid="26-2"><speaker>THIRTEEN</speaker><content>Tracer could have been inactive.</content></utterance>
+<utterance uid="26-3"><speaker>KUTNER</speaker><content>So I screwed up the test?</content></utterance>
+<utterance uid="26-4"><speaker>TAUB</speaker><content>There’s so many ways that could have happened. Maybe it was inactive, maybe it didn’t fully circulate.</content></utterance>
+<utterance uid="26-5"><speaker>KUTNER</speaker><content>It circulated, the camera picked up —</content></utterance>
+<utterance uid="26-6"><speaker>HOUSE</speaker><content> Hey, hey. It’s Christmas! Why are you guys fighting?</content></utterance>
+<utterance uid="26-7"><speaker>FOREMAN</speaker><content>Why do you think there are no hotspots?</content></utterance>
+<utterance uid="26-8"><speaker>KUTNER</speaker><content>I did not screw up! The density’s consistent.</content></utterance>
+<utterance uid="26-9"><speaker>FOREMAN</speaker><content>Just means the density was consistent, doesn’t mean it was cold. It’s possible… all she has are hotspots. It’s consistent because her entire skeleton is turning to stone.</content></utterance>
+<utterance uid="26-10"><speaker>HOUSE</speaker><content>Good for an aspiring superhero. Fatal for a human hoping to make it to Kwanzaa.</content></utterance>
+<utterance uid="26-11"><speaker>KUTNER</speaker><content>Well it’s gotta be from a carbonic anhydrase type 2 deficiency.</content></utterance>
+<utterance uid="26-12"><speaker>HOUSE</speaker><content>It has free will. It doesn’t have to be anything doesn’t want to be.</content></utterance>
+<utterance uid="26-13"><speaker>KUTNER</speaker><content>I meant, if it’s not CAII… well, none of the other causes of osteopetrosis are treatable.</content></utterance>
+<utterance uid="26-14"><speaker>HOUSE</speaker><content> You’re right, it’s gotta be. Go run her blood and hope that your sunny optimism isn’t misplaced.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>HOUSE</speaker><content>They accused Kutner of screwing up a test. Because they hate him.</content></utterance>
+<utterance uid="27-2"><speaker>WILSON</speaker><content>You’re surprised? That’s the sort of crap that happens when you mess with people’s heads.</content></utterance>
+<utterance uid="27-3"><speaker>HOUSE</speaker><content>Well one day he will screw up a test. If they don’t accuse him of that because they like him, someone could die.  Where are we going?</content></utterance>
+<utterance uid="27-4"><speaker>WILSON</speaker><content>Nowhere, I just know it hurts you.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>TAUB</speaker><content>CAII deficiency is a genetic disorder that scrambles proteins.  If the blood test is positive, you’ll need a bone marrow transplant.</content></utterance>
+<utterance uid="28-2"><speaker>MAGGIE</speaker><content>“Transplant” sounds like a euphemism for “slim odds”.</content></utterance>
+<utterance uid="28-3"><speaker>TAUB</speaker><content>Uh… Slim, but not none.</content></utterance>
+<utterance uid="28-4"><speaker>TAUB</speaker><content>We’re gonna need to test Jane for a match.</content></utterance>
+<utterance uid="28-5"><speaker>MAGGIE</speaker><content>Don’t you have donor banks?</content></utterance>
+<utterance uid="28-6"><speaker>TAUB</speaker><content>Jane is your best bet. Procedure’s perfectly safe, there’s no risk.</content></utterance>
+<utterance uid="28-7"><speaker>MAGGIE</speaker><content>No risk. </content></utterance>
+<utterance uid="28-8"><speaker>TAUB</speaker><content>Any surgery has —</content></utterance>
+<utterance uid="28-9"><speaker>MAGGIE</speaker><content> Then don’t tell me there’s no risk. You going to tell me there’s no pain either?</content></utterance>
+<utterance uid="28-10"><speaker>TAUB</speaker><content>The testing will hurt a little…</content></utterance>
+<utterance uid="28-11"><speaker>JANE</speaker><content>I’ll be fine.</content></utterance>
+<utterance uid="28-12"><speaker>TAUB</speaker><content>If she doesn’t do this and you don’t make it… she’s going to spend the rest of her life blaming herself.</content></utterance>
+<utterance uid="28-13"><speaker>JANE</speaker><content>Mom… Please.</content></utterance>
+<utterance uid="28-14"><speaker>MAGGIE</speaker><content>Find someone else. Let someone else take the risk.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>TAUB</speaker><content>Donor bank turned up a 49 year old man in Cleveland who’s a five out of six HLA match. First flight out of Cleveland leaves —</content></utterance>
+<utterance uid="29-2"><speaker>HOUSE</speaker><content> Why is a 49 year old Cleveland man a closer match than her daughter?</content></utterance>
+<utterance uid="29-3"><speaker>TAUB</speaker><content>He may not be. Maggie didn’t let us test her.</content></utterance>
+<utterance uid="29-4"><speaker>HOUSE</speaker><content> Why not?</content></utterance>
+<utterance uid="29-5"><speaker>TAUB</speaker><content>Pain, danger, risk of —</content></utterance>
+<utterance uid="29-6"><speaker>tHOUSE</speaker><content> Only reason to give multiple reasons is you’re searching for what the person wants to hear. </content></utterance>
+<utterance uid="29-7"><speaker>TAUB</speaker><content> House.</content></utterance>
+<utterance uid="29-8"><speaker>HOUSE</speaker><content>You’re wrong about sainted mommy.</content></utterance>
+<utterance uid="29-9"><speaker>THIRTEEN</speaker><content>Don’t care. You can forget the donor bank, there’s no CAII deficiency. Best we can do is make her comfortable.</content></utterance>
+<utterance uid="29-10"><speaker>THIRTEEN</speaker><content>Is that from Taub?</content></utterance>
+<utterance uid="29-11"><speaker>HOUSE</speaker><content> Yes. Yes, it is.</content></utterance>
+<utterance uid="29-12"><speaker>THIRTEEN</speaker><content> Merry Christmas. Who’s going to tell the patient she’s dying?</content></utterance>
+<utterance uid="29-13"><speaker>HOUSE</speaker><content> I will. And nobody leaves here until we find out what killed her.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>KUTNER</speaker><content>Whatever she has is fatal. Makes no difference if it’s disease number 58 or 907.</content></utterance>
+<utterance uid="30-2"><speaker>KUTNER</speaker><content>You guys mad at me?</content></utterance>
+<utterance uid="30-3"><speaker>THIRTEEN</speaker><content>Nope. You had no choice.</content></utterance>
+<utterance uid="30-4"><speaker>KUTNER</speaker><content>Of course I had a choice. You had no choice once I made my choice.</content></utterance>
+<utterance uid="30-5"><speaker>THIRTEEN</speaker><content>And now I’m choosing not to be mad at you.</content></utterance>
+<utterance uid="30-6"><speaker>KUTNER</speaker><content>Why?</content></utterance>
+<utterance uid="30-7"><speaker>THIRTEEN</speaker><content>‘Cause it will drive House nuts.</content></utterance>
+<utterance uid="30-8"><speaker>FOREMAN</speaker><content> And you think that’ll make your lives better or worse?</content></utterance>
+<utterance uid="30-9"><speaker>JANE</speaker><content>I told my mom I don’t care what she thinks. I want you to test my marrow.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>MAGGIE</speaker><content>I can’t be dying.</content></utterance>
+<utterance uid="31-2"><speaker>HOUSE</speaker><content>Sure you can.</content></utterance>
+<utterance uid="31-3"><speaker>MAGGIE</speaker><content>You’re wrong.  You don’t even know what I have.</content></utterance>
+<utterance uid="31-4"><speaker>HOUSE</speaker><content>What you have, is one last Christmas with your daughter. One last chance to give her a present.  The truth. Inexpensive, highly valued, never have to stand in line to return it the day after Christmas.</content></utterance>
+<utterance uid="31-5"><speaker>MAGGIE</speaker><content>What are you talking about?</content></utterance>
+<utterance uid="31-6"><speaker>HOUSE</speaker><content>A mother who’s going to die doesn’t refuse a donor test because it might hurt. She refuses when she knows it won’t match. Which tends to happen when mother and daughter aren’t mother and daughter.</content></utterance>
+<utterance uid="31-7"><speaker>HOUSE</speaker><content>I could do DNA tests, if you’d rather keep lying to me.</content></utterance>
+<utterance uid="31-8"><speaker>MAGGIE</speaker><content> I never wanted kids. I love them but with my genes… I knew this woman, a drug addict. She got pregnant, didn’t want to have an abortion. But she also didn’t want her daughter to ever know who her real mother was. What she was. I promised never to tell.</content></utterance>
+<utterance uid="31-9"><speaker>HOUSE</speaker><content>A promise to an addict is worth more than a promise to your daughter?</content></utterance>
+<utterance uid="31-10"><speaker>MAGGIE</speaker><content>It’d be cruel to tell her.</content></utterance>
+<utterance uid="31-11"><speaker>HOUSE</speaker><content>Right.  She lives a lie, you get to die a hypocrite.</content></utterance>
+<utterance uid="31-12"><speaker>JANE</speaker><content>Mom… The doctors told me what’s happening.</content></utterance>
+<utterance uid="31-13"><speaker>MAGGIE</speaker><content>It’s gonna be okay, sweetheart.  I promise you. Doctors can be wrong. There’s still a chance I can be —</content></utterance>
+<utterance uid="31-14"><speaker>JANE</speaker><content> You really believe that?</content></utterance>
+<utterance uid="31-15"><speaker>MAGGIE</speaker><content> I do.</content></utterance>
+<utterance uid="31-16"><speaker>JANE</speaker><content> No, mom. You’re dying. Nobody can help you. It’s not going to be okay.</content></utterance>
+<utterance uid="31-17"><speaker>THIRTEEN</speaker><content> That was cold.</content></utterance>
+<utterance uid="31-18"><speaker>HOUSE</speaker><content>Yeah.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>WILSON</speaker><content>What did you get for Christmas?</content></utterance>
+<utterance uid="32-2"><speaker>HOUSE</speaker><content>I got a watch, a vintage LP, and a second edition Conan Doyle. If that wasn’t bad enough, my patient’s dying.</content></utterance>
+<utterance uid="32-3"><speaker>WILSON</speaker><content> Christmas deaths in a hospital, nothing more depressing. No one ever wants to go in the patient’s room, even the candy stripers leave them alone. </content></utterance>
+<utterance uid="32-4"><speaker>HOUSE</speaker><content>I saw something amazing.</content></utterance>
+<utterance uid="32-5"><speaker>HOUSE</speaker><content>Pure truth. She told her mother that she was dying. Stripped her of all hope.</content></utterance>
+<utterance uid="32-6"><speaker>WILSON</speaker><content>That sounds… horrible.</content></utterance>
+<utterance uid="32-7"><speaker>HOUSE</speaker><content>It’s like watching some… bizarre astronomical event that you know you’re never going to see again.</content></utterance>
+<utterance uid="32-8"><speaker>WILSON</speaker><content> You tell people the cold hard truth all the time. You get off on it.</content></utterance>
+<utterance uid="32-9"><speaker>HOUSE</speaker><content>Because I don’t care. She cared. She did it anyway.  She did it because she cared.</content></utterance>
+<utterance uid="32-10"><speaker>WILSON</speaker><content> The angels of Christmas have finally given House a present he can appreciate.</content></utterance>
+<utterance uid="32-11"><speaker>HOUSE</speaker><content>Oh, don’t ruin it. Don’t pin this on Christ, he’s got enough nails in him. </content></utterance>
+<utterance uid="32-12"><speaker>WILSON</speaker><content>Patient had to die but —</content></utterance>
+<utterance uid="32-13"><speaker>HOUSE</speaker><content> Why don’t you take off that hat?</content></utterance>
+<utterance uid="32-14"><speaker>WILSON</speaker><content>It’s Christmas! It’s a reindeer.</content></utterance>
+<utterance uid="32-15"><speaker>HOUSE</speaker><content>It’s a moose, on a Jew.</content></utterance>
+<utterance uid="32-16"><speaker>WILSON</speaker><content>Who cares?</content></utterance>
+<utterance uid="32-17"><speaker>HOUSE</speaker><content> Things have their place. You wouldn’t hang dreidels from a Christmas tree.</content></utterance>
+<utterance uid="32-18"><speaker>WILSON</speaker><content>You could. Things don’t care.</content></utterance>
+<utterance uid="32-19"><speaker>HOUSE</speaker><content>No. They don’t. </content></utterance>
+<utterance uid="32-20"><speaker>WILSON</speaker><content>Happy Solstice, House.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>HOUSE</speaker><content> To save us all from Satan’s power, when we were gone astray. Have you people no holiday spirit? Bring me the eggnog of good cheer!</content></utterance>
+<utterance uid="33-2"><speaker>FOREMAN</speaker><content>House, if you have something to say, say it. If you don’t, give us a chance to get home before Santa.</content></utterance>
+<utterance uid="33-3"><speaker>HOUSE</speaker><content> Scrooge. Give the patient rispiradone.</content></utterance>
+<utterance uid="33-4"><speaker>TAUB</speaker><content>That’s an anti-psychotic. She’s dying, she’s not crazy.</content></utterance>
+<utterance uid="33-5"><speaker>HOUSE</speaker><content>I am going to perform a Christmas miracle.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>MAGGIE</speaker><content>You said all the causes of osteopetrosis were fatal.</content></utterance>
+<utterance uid="34-2"><speaker>HOUSE</speaker><content>Except for the one we discounted early, because it was impossible. When fetus forms, it’s just a mass of cells.  Breast tissue covers extensive portions of the body. As the fetus develops, most of this tissue recedes, remaining only in the fun places.  But sometimes, extra breast tissue is left behind in places where it doesn’t belong.  Rispiradone does a lot of things. One is, it makes breast tissue swell so we can find it more easily.</content></utterance>
+<utterance uid="34-3"><speaker>MAGGIE</speaker><content>You’re telling me I could have breast cancer? Somewhere not in my breast? That doesn’t make sense.</content></utterance>
+<utterance uid="34-4"><speaker>HOUSE</speaker><content>Taub’s parents have a winter condo in Florida. They’re still New Yorkers.</content></utterance>
+<utterance uid="34-5"><speaker>TAUB</speaker><content>Actually, my parents —</content></utterance>
+<utterance uid="34-6"><speaker>HOUSE</speaker><content> Don’t care. I told a parable. And now, I’m going to raise the dead…</content></utterance>
+<utterance uid="34-7"><speaker>HOUSE</speaker><content> Give me that syringe.</content></utterance>
+<utterance uid="34-8"><speaker>THIRTEEN</speaker><content>That’s gotta be a fat deposit.</content></utterance>
+<utterance uid="34-9"><speaker>HOUSE</speaker><content>Yes, I could be wrong. If I am, she’s dead so shut up.</content></utterance>
+<utterance uid="34-10"><speaker>TAUB</speaker><content>What’s that?</content></utterance>
+<utterance uid="34-11"><speaker>HOUSE</speaker><content>Rispiradone also causes galactorrhea. </content></utterance>
+<utterance uid="34-12"><speaker>JANE</speaker><content>What’s that? Galactic…?</content></utterance>
+<utterance uid="34-13"><speaker>HOUSE</speaker><content>Open your mouth.</content></utterance>
+<utterance uid="34-14"><speaker>HOUSE</speaker><content>Relax, you’ve had it before.</content></utterance>
+<utterance uid="34-15"><speaker>JANE</speaker><content>I am not —</content></utterance>
+<utterance uid="34-16"><speaker>JANE</speaker><content>Milk? Eww! </content></utterance>
+<utterance uid="34-17"><speaker>HOUSE</speaker><content>We’ll cut out your mom’s tumor and start her on chemo. All the rest of your symptoms should go away.</content></utterance>
+<utterance uid="34-18"><speaker>MAGGIE</speaker><content>I love you.</content></utterance>
+<utterance uid="34-19"><speaker>JANE</speaker><content>I know.</content></utterance>
+<utterance uid="34-20"><speaker>HOUSE</speaker><content>Have a wonderful life. </content></utterance>
+<utterance uid="34-21"><speaker>FADE IN</speaker><content/></utterance>
+<utterance uid="34-22"><speaker>FADE IN</speaker><content/></utterance>
+</scene>
+</script>

@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>Leonard</speaker><content>What’s going on with that woman you’re dating?</content></utterance>
+<utterance uid="1-2"><speaker>Raj</speaker><content>I broke up with her.</content></utterance>
+<utterance uid="1-3"><speaker>Leonard</speaker><content>Why?</content></utterance>
+<utterance uid="1-4"><speaker>Raj</speaker><content>She said she didn’t want to see me any more and I found that insulting.</content></utterance>
+<utterance uid="1-5"><speaker>Howard</speaker><content>I thought things were going well. What happened?</content></utterance>
+<utterance uid="1-6"><speaker>Raj</speaker><content>I don’t know, she didn’t even give me a reason.</content></utterance>
+<utterance uid="1-7"><speaker>Sheldon</speaker><content>That’s not a problem, we can figure this out. What are the reasons women reject Raj?</content></utterance>
+<utterance uid="1-8"><speaker>Raj</speaker><content>Can we not play this game?</content></utterance>
+<utterance uid="1-9"><speaker>Sheldon</speaker><content>Doesn’t like games. That’s one.</content></utterance>
+<utterance uid="1-10"><speaker>Leonard</speaker><content>Ignore him. Yeah, sorry about the breakup.</content></utterance>
+<utterance uid="1-11"><speaker>Raj</speaker><content>That’s okay, I’m fine.</content></utterance>
+<utterance uid="1-12"><speaker>Sheldon</speaker><content>Of course you’re fine. Not every member of a species finds a mate. Sir Isaac Newton died a virgin, look at the contributions he made.</content></utterance>
+<utterance uid="1-13"><speaker>Raj</speaker><content>I’m not a virgin, Sheldon.</content></utterance>
+<utterance uid="1-14"><speaker>Sheldon</speaker><content>So now you think you’re better than Isaac Newton? Oh, no wonder women don’t like you.</content></utterance>
+<utterance uid="1-15"><speaker>Leonard</speaker><content>You’re not being very nice.</content></utterance>
+<utterance uid="1-16"><speaker>Sheldon</speaker><content>What? He said he was fine.</content></utterance>
+<utterance uid="1-17"><speaker>Howard</speaker><content>Sometimes people say things they don’t mean.</content></utterance>
+<utterance uid="1-18"><speaker>Sheldon</speaker><content>Oh, that’s a paradox. I mean if you meant what you just said, then that means you may not have meant what you just said.</content></utterance>
+<utterance uid="1-19"><speaker>Leonard</speaker><content>Careful, I saw this on Star Trek. Smoke’s gonna come out of his ears soon. Hey.</content></utterance>
+<utterance uid="1-20"><speaker>Penny</speaker><content>Hey, boys. How’s it going?</content></utterance>
+<utterance uid="1-21"><speaker>Sheldon</speaker><content>Well, I thought we were having a nice conversation, but it turns out I was being offensive.</content></utterance>
+<utterance uid="1-22"><speaker>Bernadette</speaker><content>So, normal.</content></utterance>
+<utterance uid="1-23"><speaker>Sheldon</speaker><content>Yeah.</content></utterance>
+<utterance uid="1-24"><speaker>Amy</speaker><content>Sheldon, what did you do?</content></utterance>
+<utterance uid="1-25"><speaker>Sheldon</speaker><content>We were discussing Raj’s recent breakup and apparently, I was insensitive to him.</content></utterance>
+<utterance uid="1-26"><speaker>Raj</speaker><content>It’s okay, I’m fine.</content></utterance>
+<utterance uid="1-27"><speaker>Sheldon</speaker><content>Don’t fall for it. He’ll get you to compare him to a dead virgin, and suddenly you’re the bad guy.</content></utterance>
+<utterance uid="1-28"><speaker>Raj</speaker><content>Sheldon, when I said I was fine, I meant I didn’t want to talk about it any more.</content></utterance>
+<utterance uid="1-29"><speaker>Sheldon</speaker><content>Then why didn’t you say that?</content></utterance>
+<utterance uid="1-30"><speaker>Howard</speaker><content>Because that’s not what people do.</content></utterance>
+<utterance uid="1-31"><speaker>Sheldon</speaker><content>Well, I would prefer if people told me exactly what is on their mind.</content></utterance>
+<utterance uid="1-32"><speaker>Penny</speaker><content>No. No, you don’t, you really don’t. I actually can’t say don’t enough.</content></utterance>
+<utterance uid="1-33"><speaker>Sheldon</speaker><content>Well, it certainly would be easier. You have no idea what it’s like to struggle with recognizing emotional cues.</content></utterance>
+<utterance uid="1-34"><speaker>Amy</speaker><content>I’m sure it’s extremely frustrating.</content></utterance>
+<utterance uid="1-35"><speaker>Sheldon</speaker><content>Thank you.</content></utterance>
+<utterance uid="1-36"><speaker>Amy</speaker><content>And also a little sad.</content></utterance>
+<utterance uid="1-37"><speaker>Sheldon</speaker><content>Okay, now you’re just showing off.</content></utterance>
+<utterance uid="1-38"><speaker>Bernadette</speaker><content>You know, I just read that a team at MIT. developed a device that helps people read human emotions.</content></utterance>
+<utterance uid="1-39"><speaker>Leonard</speaker><content>And you think we can get those guys to reprogram Sheldon? Cool.</content></utterance>
+<utterance uid="1-40"><speaker>Bernadette</speaker><content>It’s supposed to be accurate, like, 85% of the time.</content></utterance>
+<utterance uid="1-41"><speaker>Penny</speaker><content>Wow, I find that hard to believe.</content></utterance>
+<utterance uid="1-42"><speaker>Leonard</speaker><content>That a bunch of awkward scientists with no social skills would invent a machine to do it for them?</content></utterance>
+<utterance uid="1-43"><speaker>Penny</speaker><content>I take it back. I believe it.</content></utterance>
+<utterance uid="1-44"><speaker>Howard</speaker><content>You if it’s at MIT, I can make some calls. Maybe we can get Sheldon a prototype.</content></utterance>
+<utterance uid="1-45"><speaker>Amy</speaker><content>What do you think?</content></utterance>
+<utterance uid="1-46"><speaker>Sheldon</speaker><content>A machine that reads emotions is intriguing. It could help me be a more considerate friend.</content></utterance>
+<utterance uid="1-47"><speaker>Bernadette</speaker><content>Wouldn’t that be nice.</content></utterance>
+<utterance uid="1-48"><speaker>Sheldon</speaker><content>It could also help me identify my enemies, discover their fears and then I could use those fears to destroy them.</content></utterance>
+<utterance uid="1-49"><speaker>Bernadette</speaker><content>I like the first one.</content></utterance>
+</scene>
+
+<scene id="2"><utterance uid="2-1"><speaker>Raj</speaker><content>Now that Sheldon’s across the hall, have you decided what you’re doing with his old room?</content></utterance>
+<utterance uid="2-2"><speaker>Leonard</speaker><content>I was thinking maybe a library or a gaming room.</content></utterance>
+<utterance uid="2-3"><speaker>Sheldon</speaker><content>You could make it a train room.</content></utterance>
+<utterance uid="2-4"><speaker>Leonard</speaker><content>I don’t like trains. You like trains.</content></utterance>
+<utterance uid="2-5"><speaker>Sheldon</speaker><content>I know, and Amy says I can’t have a train room.</content></utterance>
+<utterance uid="2-6"><speaker>Howard</speaker><content>Sheldon, I just heard from the guys at MIT about that emotion reader. They’re sending a prototype for you to beta test.</content></utterance>
+<utterance uid="2-7"><speaker>Sheldon</speaker><content>Wonderful. Although I’m not sure how I feel about being used as a guinea pig.</content></utterance>
+<utterance uid="2-8"><speaker>Leonard</speaker><content>Well, when you get the machine, you can find out.</content></utterance>
+<utterance uid="2-9"><speaker>Raj</speaker><content>Maybe I could use it to understand why women keep dumping me.</content></utterance>
+<utterance uid="2-10"><speaker>Howard</speaker><content>Well, you don’t need a machine for that, just send a survey card to all your ex-girlfriends and tell them if they fill it out they might win a prize.</content></utterance>
+<utterance uid="2-11"><speaker>Raj</speaker><content>That’s actually not a bad idea. Maybe I could even get them all together, sort of like a, a focus group, to find out what’s wrong with me.</content></utterance>
+<utterance uid="2-12"><speaker>Leonard</speaker><content>No, Raj, that’s a terrible idea.</content></utterance>
+<utterance uid="2-13"><speaker>Howard</speaker><content>Yeah, I was joking.</content></utterance>
+<utterance uid="2-14"><speaker>Sheldon</speaker><content>Really? Uh, little tip: jokes are often better when you end them with wocka wocka or ha-cha-cha.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>Leonard</speaker><content>Hey, great news. The TV I want will fit in the gaming room, and if I leave the curtains open, I can watch it from work.</content></utterance>
+<utterance uid="3-2"><speaker>Penny</speaker><content>Hey, can you hold off redoing the room? My brother’s coming out here in a few weeks.</content></utterance>
+<utterance uid="3-3"><speaker>Leonard</speaker><content>Oh. Yeah. Okay, sure. What’s going on with your brother?</content></utterance>
+<utterance uid="3-4"><speaker>Penny</speaker><content>My dad asked if I can get him a job interview at my work.</content></utterance>
+<utterance uid="3-5"><speaker>Leonard</speaker><content>Huh. Is that a good idea? I mean, you think they’ll consider someone who was in prison for selling drugs?</content></utterance>
+<utterance uid="3-6"><speaker>Penny</speaker><content>Well, I sell pharmaceuticals. That’s just a really hard to spell word for drugs.</content></utterance>
+<utterance uid="3-7"><speaker>Leonard</speaker><content>Well, I’m sure he’ll appreciate carrying his samples in a briefcase instead of his colon. How long do you think he’ll stay?</content></utterance>
+<utterance uid="3-8"><speaker>Penny</speaker><content>I, I’m not sure. Maybe a few days. Unless he gets the job, then who knows?</content></utterance>
+<utterance uid="3-9"><speaker>Leonard</speaker><content>Hmm. Who knows? That’s exciting. I’ll get to wake up every morning and see if he’s still here.</content></utterance>
+<utterance uid="3-10"><speaker>Penny</speaker><content>You don’t have a problem with this, do you?</content></utterance>
+<utterance uid="3-11"><speaker>Leonard</speaker><content>Of course not. I mean, he’s your brother.</content></utterance>
+<utterance uid="3-12"><speaker>Penny</speaker><content>Okay. Thank you, you’re the best. Mm.</content></utterance>
+<utterance uid="3-13"><speaker>Leonard</speaker><content>Remember that when the new TV falls off the wall and crushes us both.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>Howard</speaker><content>This thing’s pretty cool. It interprets emotions using a wireless signal to analyse subtle changes in breathing and heart rate.</content></utterance>
+<utterance uid="4-2"><speaker>Amy</speaker><content>It’s amazing a machine can do that.</content></utterance>
+<utterance uid="4-3"><speaker>Sheldon</speaker><content>Yes. Now, when the robots rise up, they’ll know that I’ve been rooting for them the whole time.</content></utterance>
+<utterance uid="4-4"><speaker>Howard</speaker><content>The display is synced to your phone. Give it a try.</content></utterance>
+<utterance uid="4-5"><speaker>Amy</speaker><content>All right. Now, I’m gonna look at some pictures to prompt an emotional response, and we’ll see if the machine can identify them accurately.</content></utterance>
+<utterance uid="4-6"><speaker>Howard</speaker><content>Okay, remember, it can only detect happy, sad, angry and excited. Not other things you’re feeling, like, what have I done with my life?</content></utterance>
+<utterance uid="4-7"><speaker>Amy</speaker><content>Okay, I’m looking at the first picture.</content></utterance>
+<utterance uid="4-8"><speaker>Sheldon</speaker><content>You are happy?</content></utterance>
+<utterance uid="4-9"><speaker>Amy</speaker><content>Yes. I’m looking at puppi</content></utterance>
+<utterance uid="4-10"><speaker>Sheldon</speaker><content>Aw. Somebody’s ignoring their tiny needle teeth, but all right.</content></utterance>
+<utterance uid="4-11"><speaker>Howard</speaker><content>Try another one.</content></utterance>
+<utterance uid="4-12"><speaker>Amy</speaker><content>Okay. What does it say I’m feeling?</content></utterance>
+<utterance uid="4-13"><speaker>Sheldon</speaker><content>Sad.</content></utterance>
+<utterance uid="4-14"><speaker>Amy</speaker><content>Yes. I’m looking at a picture of my grandma.</content></utterance>
+<utterance uid="4-15"><speaker>Sheldon</speaker><content>Oh, that makes sense, ’cause she’s gone and you miss her.</content></utterance>
+<utterance uid="4-16"><speaker>Amy</speaker><content>Yes.</content></utterance>
+<utterance uid="4-17"><speaker>Sheldon</speaker><content>And you’re worried that turkey neck is in your future. What, now, see, now it says you’re mad. Make up your mind.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>Raj (on phone)</speaker><content>Okay, Emily. Yeah, sounds great. See you then.</content></utterance>
+<utterance uid="5-2"><speaker>Bernadette</speaker><content>Is that Emily your ex-girlfriend?</content></utterance>
+<utterance uid="5-3"><speaker>Raj</speaker><content>Yeah. I’m getting all my exes together in order to discuss why they broke up with me and how I can be a better boyfriend.</content></utterance>
+<utterance uid="5-4"><speaker>Howard</speaker><content>Oh, God. You went through with that? What is wrong with you?</content></utterance>
+<utterance uid="5-5"><speaker>Raj</speaker><content>We are going to find out.</content></utterance>
+<utterance uid="5-6"><speaker>Bernadette</speaker><content>Why would you do that, Raj?</content></utterance>
+<utterance uid="5-7"><speaker>Raj</speaker><content>Well, I want information in order to improve myself.</content></utterance>
+<utterance uid="5-8"><speaker>Bernadette</speaker><content>You’re not gonna get information, you’re just gonna get criticism that hurts your feelings.</content></utterance>
+<utterance uid="5-9"><speaker>Raj</speaker><content>Don’t worry, I’m a grown man. I have a thick skin.</content></utterance>
+<utterance uid="5-10"><speaker>Howard</speaker><content>You’re so stupid.</content></utterance>
+<utterance uid="5-11"><speaker>Raj</speaker><content>Hey.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>Penny</speaker><content>Hey, would you take a look at my brother’s résumé? I’m trying to help him clean it up a little.</content></utterance>
+<utterance uid="6-2"><speaker>Leonard</speaker><content>Yeah, sure. He really worked with the Drug Enforcement Agency?</content></utterance>
+<utterance uid="6-3"><speaker>Penny</speaker><content>He didn’t know it till he was cuffed, but yeah.</content></utterance>
+<utterance uid="6-4"><speaker>Sheldon</speaker><content>Hey, Leonard, if you’re happy and you know it, no need to clap your hands, because I have an emotion detector.</content></utterance>
+<utterance uid="6-5"><speaker>Leonard</speaker><content>How’s it working out?</content></utterance>
+<utterance uid="6-6"><speaker>Sheldon</speaker><content>Surprisingly well.</content></utterance>
+<utterance uid="6-7"><speaker>Leonard</speaker><content>That’s great, I’m happy for you.</content></utterance>
+<utterance uid="6-8"><speaker>Sheldon</speaker><content>No, wait, uh, hold on. Oh, what, you are. Aren’t you sweet?</content></utterance>
+<utterance uid="6-9"><speaker>Amy</speaker><content>What’s that? Are you working on your resume?</content></utterance>
+<utterance uid="6-10"><speaker>Penny</speaker><content>No, it’s my brother’s. I’m trying to help him get a job out here.</content></utterance>
+<utterance uid="6-11"><speaker>Sheldon</speaker><content>Oh, ooh! And that makes Leonard angry.</content></utterance>
+<utterance uid="6-12"><speaker>Leonard</speaker><content>No, it doesn’t.</content></utterance>
+<utterance uid="6-13"><speaker>Sheldon</speaker><content>What, Leonard, please. I know an angry face when I see it. It’s this red frowny guy on my phone.</content></utterance>
+<utterance uid="6-14"><speaker>Penny</speaker><content>What? Are you really upset about Randall coming?</content></utterance>
+<utterance uid="6-15"><speaker>Leonard</speaker><content>No.</content></utterance>
+<utterance uid="6-16"><speaker>Sheldon</speaker><content>Yes.</content></utterance>
+<utterance uid="6-17"><speaker>Leonard</speaker><content>I said no.</content></utterance>
+<utterance uid="6-18"><speaker>Sheldon</speaker><content>It’s like you’re twins.</content></utterance>
+<utterance uid="6-19"><speaker>Penny</speaker><content>Leonard, if you’re mad about this, just tell me.</content></utterance>
+<utterance uid="6-20"><speaker>Leonard</speaker><content>Fine. You invited your drug dealer brother to stay with us for God knows how long and didn’t bother to ask me first.</content></utterance>
+<utterance uid="6-21"><speaker>Penny</speaker><content>He’s my brother. I didn’t think I needed your permission.</content></utterance>
+<utterance uid="6-22"><speaker>Sheldon</speaker><content>Well, hey. Now she’s angry, too. This thing works like gangbusters.</content></utterance>
+<utterance uid="6-23"><speaker>Leonard</speaker><content>I’m not saying you have to ask my permission, but you could have talked to me about it before you said it was okay.</content></utterance>
+<utterance uid="6-24"><speaker>Penny</speaker><content>Like you talked to me about your gaming room?</content></utterance>
+<utterance uid="6-25"><speaker>Leonard</speaker><content>Our gaming room. I was gonna put a scented candle in it.</content></utterance>
+<utterance uid="6-26"><speaker>Sheldon</speaker><content>He’s still mad.</content></utterance>
+<utterance uid="6-27"><speaker>Amy</speaker><content>Stop enjoying their fight.</content></utterance>
+<utterance uid="6-28"><speaker>Sheldon</speaker><content>You first.</content></utterance>
+<utterance uid="6-29"><speaker>Penny</speaker><content>If you were this upset, why didn’t you say so when I told you?</content></utterance>
+<utterance uid="6-30"><speaker>Leonard</speaker><content>Because I didn’t want to sound like a jerk.</content></utterance>
+<utterance uid="6-31"><speaker>Penny</speaker><content>Well, you sound like one now. I don’t see the big deal if my brother comes and stays for a while.</content></utterance>
+<utterance uid="6-32"><speaker>Leonard</speaker><content>If you get him a job, he’s gonna live here forever!</content></utterance>
+<utterance uid="6-33"><speaker>Penny</speaker><content>He would get his own place.</content></utterance>
+<utterance uid="6-34"><speaker>Leonard</speaker><content>Has he ever had his own place?</content></utterance>
+<utterance uid="6-35"><speaker>Penny</speaker><content>Yes.</content></utterance>
+<utterance uid="6-36"><speaker>Leonard</speaker><content>Did it have a metal toilet next to the bed?</content></utterance>
+<utterance uid="6-37"><speaker>Penny</speaker><content>It still counts. You know, how is this any different from you making me live with Sheldon?</content></utterance>
+<utterance uid="6-38"><speaker>Sheldon</speaker><content>Hey, I shared my Honey Nut Cheerios with you.</content></utterance>
+<utterance uid="6-39"><speaker>Penny</speaker><content>You gave me a bill at the end of every month.</content></utterance>
+<utterance uid="6-40"><speaker>Leonard</speaker><content>Stay out of this. You and your stupid machine started this fight.</content></utterance>
+<utterance uid="6-41"><speaker>Sheldon</speaker><content>You are lucky that this feelings machine doesn’t have feelings.</content></utterance>
+<utterance uid="6-42"><speaker>Amy</speaker><content>Come on, Sheldon, let’s go.</content></utterance>
+<utterance uid="6-43"><speaker>Sheldon</speaker><content>Gladly. Can we storm out?</content></utterance>
+<utterance uid="6-44"><speaker>Amy</speaker><content>I think it loses its impact if we’re chatting about it.</content></utterance>
+<utterance uid="6-45"><speaker>Sheldon</speaker><content>Fine. I’ll just give them the finger.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>Raj</speaker><content>Okay, first off, I want to thank you all so much for coming. Howard is here to interpret for Emily, and to take notes.</content></utterance>
+<utterance uid="7-2"><speaker>Howard</speaker><content>No, he doesn’t think it’s stupid.</content></utterance>
+<utterance uid="7-3"><speaker>Raj</speaker><content>Uh, heads up, both of you are named Emily, so we’ll call you red-headed Emily, and you, red-headed Emily, Junior.</content></utterance>
+<utterance uid="7-4"><speaker>Howard</speaker><content>Hey, you went out with him. I didn’t.</content></utterance>
+<utterance uid="7-5"><speaker>Raj</speaker><content>Okay, uh, let’s get things started. Um, why don’t we go around the room, say your name, and why you broke up with me. Want to kick it off?</content></utterance>
+<utterance uid="7-6"><speaker>Lucy</speaker><content>Oh, okay. Um, I’m Lucy, and I broke up with Raj because I have severe social anxiety, and he kept trying to force me into uncomfortable situations.</content></utterance>
+<utterance uid="7-7"><speaker>Howard</speaker><content>Like this one?</content></utterance>
+<utterance uid="7-8"><speaker>Lucy</speaker><content>Yeah.</content></utterance>
+<utterance uid="7-9"><speaker>Raj</speaker><content>I did do that. I can be insensitive to other people’s boundaries. Howard, would you write that down?</content></utterance>
+<utterance uid="7-10"><speaker>Howard</speaker><content>Schmuck. Got it.</content></utterance>
+<utterance uid="7-11"><speaker>Raj</speaker><content>Uh, next?</content></utterance>
+<utterance uid="7-12"><speaker>Claire</speaker><content>Okay. Um, I’m Claire. And I guess I broke up with you because you were just really needy. Also, you were incredibly vain, like, all the time you spent shaping your eyebrows.</content></utterance>
+<utterance uid="7-13"><speaker>Raj</speaker><content>Okay, new rule, everybody only gets one. Uh, next?</content></utterance>
+<utterance uid="7-14"><speaker>Emily</speaker><content>Ooh, I’m not sure I’m comfortable sharing details about our relationship in front of Howard.</content></utterance>
+<utterance uid="7-15"><speaker>Raj</speaker><content>Oh. He’s here to support me, so anything you have to say you can say in front of him.</content></utterance>
+<utterance uid="7-16"><speaker>Emily</speaker><content>Okay. Well, whenever you and I were in bed…</content></utterance>
+<utterance uid="7-17"><speaker>Raj</speaker><content>Howard, get out.</content></utterance>
+<utterance uid="7-18"><speaker>Howard</speaker><content>Not a chance. So, you were telling us how Raj was terrible in bed.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>Amy</speaker><content>Sheldon, dinner’s ready. I made beef loaf, because I know you’re uncomfortable with the non-specificity of meat loaf. Sheldon? Hey, are you okay?</content></utterance>
+<utterance uid="8-2"><speaker>Sheldon</speaker><content>Not really.</content></utterance>
+<utterance uid="8-3"><speaker>Amy</speaker><content>What’s going on?</content></utterance>
+<utterance uid="8-4"><speaker>Sheldon</speaker><content>I wish I never tried that device. And I know I said the same thing after the massage chair, but this time I mean it.</content></utterance>
+<utterance uid="8-5"><speaker>Amy</speaker><content>I’m sorry Leonard and Penny hurt your feelings.</content></utterance>
+<utterance uid="8-6"><speaker>Sheldon</speaker><content>It’s more than that. It’s me. I always knew I had trouble recognizing other people’s emotions, but that machine just made it so real.</content></utterance>
+<utterance uid="8-7"><speaker>Amy</speaker><content>Well, everybody has things that they need help with. Like me, I can’t see without my glasses. And right now you’re just a, a cute, pink smudge wearing a childish green smudge.</content></utterance>
+<utterance uid="8-8"><speaker>Sheldon</speaker><content>I thought I was getting better at it, but clearly I’m not.</content></utterance>
+<utterance uid="8-9"><speaker>Amy</speaker><content>Yes, you are. There have definitely been days when I was sad and you could tell.</content></utterance>
+<utterance uid="8-10"><speaker>Sheldon</speaker><content>Yeah, but that’s shooting fish in a barrel. You’re kind of a sad sack. I’m sorry, I shouldn’t have said that. I’m just upset.</content></utterance>
+<utterance uid="8-11"><speaker>Amy</speaker><content>No, see, right there, you knew you hurt my feelings. And I’m proud of you, for reasons I’m sure have something to do with my father. And if you don’t like that machine, get rid of it. Because I love you exactly the way you are.</content></utterance>
+<utterance uid="8-12"><speaker>Sheldon</speaker><content>I feel the same way about you. Now, put your glasses back on. You look weird.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>Howard (translating for other Emily)</speaker><content>I thought you were great, but, oh, my God, you were so dominated by your parents.</content></utterance>
+<utterance uid="9-2"><speaker>Emily</speaker><content>Oh, yeah, that used to drive me nuts. He’s kind of a mama’s boy.</content></utterance>
+<utterance uid="9-3"><speaker>Claire</speaker><content>Kind of?</content></utterance>
+<utterance uid="9-4"><speaker>Raj</speaker><content>Okay, that’s enough. Write down loving son.</content></utterance>
+<utterance uid="9-5"><speaker>Lucy</speaker><content>Can I just say something? Going out with Raj was one of the best things that ever happened to me.</content></utterance>
+<utterance uid="9-6"><speaker>Raj</speaker><content>Yes, I’ll take you back.</content></utterance>
+<utterance uid="9-7"><speaker>Lucy</speaker><content>Let me finish. It’s like I needed to go through that experience to know what exactly I don’t want in a man.</content></utterance>
+<utterance uid="9-8"><speaker>Raj</speaker><content>Well, that’s hard to hear, but I’ll still take you back.</content></utterance>
+<utterance uid="9-9"><speaker>Emily</speaker><content>You know, the same thing happened to me. After I broke up with Raj, I met Gary, who’s just amazing.</content></utterance>
+<utterance uid="9-10"><speaker>Howard</speaker><content>Sorry, is that Gary with one R or two?</content></utterance>
+<utterance uid="9-11"><speaker>Raj</speaker><content>Would you stop writing? Wait, so, did all of you go on to better relationships after me?</content></utterance>
+<utterance uid="9-12"><speaker>Lucy</speaker><content>Oh, yeah.</content></utterance>
+<utterance uid="9-13"><speaker>Emily</speaker><content>Without question.</content></utterance>
+<utterance uid="9-14"><speaker>Claire</speaker><content>Little before, actually.</content></utterance>
+<utterance uid="9-15"><speaker>Howard (responding to other Emily)</speaker><content>Oh, wow. Don’t let him get away.</content></utterance>
+<utterance uid="9-16"><speaker>Raj</speaker><content>What did she say?</content></utterance>
+<utterance uid="9-17"><speaker>Howard</speaker><content>Uh, basically, she traded you for Bruce Wayne.</content></utterance>
+<utterance uid="9-18"><speaker>Raj</speaker><content>Okay, maybe we should just end this.</content></utterance>
+<utterance uid="9-19"><speaker>Howard</speaker><content>Wait, hang on. I just want to point out to everyone here, this is a man who is going to great lengths to better himself. Even at the risk of being humiliated. And I, for one, think that’s very brave.</content></utterance>
+<utterance uid="9-20"><speaker>Raj</speaker><content>Thank you, Howard.</content></utterance>
+<utterance uid="9-21"><speaker>Emily</speaker><content>Honestly, I’m surprised you two didn’t wind up together.</content></utterance>
+<utterance uid="9-22"><speaker>Howard</speaker><content>Well, like you gals, I had to suffer through him to find Bernadette.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>Sheldon</speaker><content>Yes?</content></utterance>
+<utterance uid="10-2"><speaker>Leonard</speaker><content>We owe you an apology.</content></utterance>
+<utterance uid="10-3"><speaker>Sheldon</speaker><content>Oh, it’s fine. You needed a suitcase, I wasn’t home, you borrowed a suitcase.</content></utterance>
+<utterance uid="10-4"><speaker>Leonard</speaker><content>That was six years ago. I’m talking about tonight.</content></utterance>
+<utterance uid="10-5"><speaker>Sheldon</speaker><content>Oh. Well, I thought we were going in order.</content></utterance>
+<utterance uid="10-6"><speaker>Penny</speaker><content>Look, we got really angry at each other, and you just got caught in the middle of it.</content></utterance>
+<utterance uid="10-7"><speaker>Leonard</speaker><content>And, sorry about the suitcase.</content></utterance>
+<utterance uid="10-8"><speaker>Sheldon</speaker><content>Yeah, well, you should be. Your socks were still in it. I had to throw it away. Anyway, I, uh, trust that you’ve resolved your conflict.</content></utterance>
+<utterance uid="10-9"><speaker>Penny</speaker><content>Yes, we’re fine.</content></utterance>
+<utterance uid="10-10"><speaker>Leonard</speaker><content>Mm, Penny’s gonna call her dad and tell him it’s not a good time for Randall to visit.</content></utterance>
+<utterance uid="10-11"><speaker>Penny</speaker><content>Hopefully, he won’t be too upset.</content></utterance>
+<utterance uid="10-12"><speaker>Leonard</speaker><content>Oh, you’re his little girl, he can’t stay mad at you.</content></utterance>
+<utterance uid="10-13"><speaker>Penny</speaker><content>He won’t be mad at me. I mean, you’re the one who doesn’t want my brother to come, so…</content></utterance>
+<utterance uid="10-14"><speaker>Leonard</speaker><content>So you’re gonna throw me under the bus?</content></utterance>
+<utterance uid="10-15"><speaker>Penny</speaker><content>Oh, I’m gonna throw you so hard, I might actually win a stuffed animal.</content></utterance>
+<utterance uid="10-16"><speaker>Sheldon</speaker><content>Uh, guys, it sounds like you’re getting angry again.</content></utterance>
+<utterance uid="10-17"><speaker>Leonard</speaker><content>That’s because we are.</content></utterance>
+<utterance uid="10-18"><speaker>Sheldon</speaker><content>Yes. I don’t need an emotion machine. I am one.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>Howard</speaker><content>Thanks, ladies, this was fun. Let’s not wait so long for another bizarre, awkward night.</content></utterance>
+<utterance uid="11-2"><speaker>Raj</speaker><content>Well, that was a waste of time. I’m such an idiot.</content></utterance>
+<utterance uid="11-3"><speaker>Howard</speaker><content>Don’t beat yourself up. That’s what I’m here for.</content></utterance>
+<utterance uid="11-4"><speaker>Raj</speaker><content>Maybe I won’t settle down. Maybe I’ll just play the field.</content></utterance>
+<utterance uid="11-5"><speaker>Howard</speaker><content>Yeah, the field was just here. The field said no.</content></utterance>
+<utterance uid="11-6"><speaker>Raj</speaker><content>Dude, come on.</content></utterance>
+<utterance uid="11-7"><speaker>Howard</speaker><content>Okay, I’ll tell you what. I’ll make you a deal. 30 years from now, if you’re still single and things don’t work out with me and Bernadette, you and I can give it a go.</content></utterance>
+<utterance uid="11-8"><speaker>Raj</speaker><content>I appreciate the offer, but if things don’t work out with you two, I’m swooping in on her like a vulture.</content></utterance>
+<utterance uid="11-9"><speaker>Howard</speaker><content>Too late. Stuart called dibs.</content></utterance>
+<utterance uid="11-10"><speaker>Raj</speaker><content>But theoretically, if you and I were in a gay relationship, how would we tell people? Like, print up announcements?</content></utterance>
+<utterance uid="11-11"><speaker>Howard</speaker><content>I don’t know. What difference does it make?</content></utterance>
+<utterance uid="11-12"><speaker>Raj</speaker><content>Well, I want to make sure we get invited to all the parades.</content></utterance>
+<utterance uid="11-13"><speaker>Howard</speaker><content>Those do look fun.</content></utterance>
+<utterance uid="11-14"><speaker>Raj</speaker><content>Yeah. Well, if you want to march in a fishnet crop top, you better lay off that dip.</content></utterance>
+<utterance uid="11-15"><speaker>Howard</speaker><content>If you didn’t want me to eat it, why’d you put it out?</content></utterance>
+<utterance uid="11-16"><speaker>Raj</speaker><content>It was for the girls. They broke up with me, I don’t care if they get fat.</content></utterance>
+<utterance uid="11-17"><speaker>Howard</speaker><content>I’m not gonna get fat.</content></utterance>
+<utterance uid="11-18"><speaker>Raj</speaker><content>Oh, you want to bet? You never exercise.</content></utterance>
+<utterance uid="11-19"><speaker>Howard</speaker><content>Fine. Look, I’ll exercise right now. One, two. These are crunches, by the way.</content></utterance>
+<utterance uid="11-20"><speaker>Raj</speaker><content>Very mature. Keep eating like that, you’re gonna have a heart attack.</content></utterance>
+<utterance uid="11-21"><speaker>Howard</speaker><content>Okay. How about if I eat like this?</content></utterance>
+<utterance uid="11-22"><speaker>Raj</speaker><content>You’re such a child.</content></utterance>
+<utterance uid="11-23"><speaker>Howard</speaker><content>Hey, is that any way to talk to your future husband?</content></utterance>
+<utterance uid="11-24"><speaker>Raj</speaker><content>Hey, I was being hypothetical, okay? I would never marry you.</content></utterance>
+<utterance uid="11-25"><speaker>Howard</speaker><content>Please. When you see the ring I pick out, you’re gonna melt.</content></utterance>
+<utterance uid="11-26"><speaker>Raj</speaker><content>Yeah, right. Wait, is it rose gold? Actually, don’t tell me, I want to be surprised.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>Penny</speaker><content>So, did you wind up sending that machine back?</content></utterance>
+<utterance uid="12-2"><speaker>Sheldon</speaker><content>I did. You know, I’m not even sure how accurate it was. I took it to the train store, it said everyone was sad.</content></utterance>
+<utterance uid="12-3"><speaker>Bernadette</speaker><content>I finally got Halley to sleep.</content></utterance>
+<utterance uid="12-4"><speaker>Raj</speaker><content>You know, I just read a study that suggests new mothers are better at sensing emotions for up to two years.</content></utterance>
+<utterance uid="12-5"><speaker>Amy</speaker><content>It’s true. Pregnancy causes physiological changes in the brain that result in increased empathy.</content></utterance>
+<utterance uid="12-6"><speaker>Penny</speaker><content>So, all we need to do is get Sheldon knocked up.</content></utterance>
+<utterance uid="12-7"><speaker>Leonard</speaker><content>We can’t. He was already fixed when I found him at the shelter.</content></utterance>
+<utterance uid="12-8"><speaker>Sheldon</speaker><content>Hey, uh, Bernadette, let’s test this theory. What do you think I’m feeling right now?</content></utterance>
+<utterance uid="12-9"><speaker>Bernadette</speaker><content>Let’s see. You’re better than us, a little bit sorry for us, but mostly glad you don’t have to be us.</content></utterance>
+<utterance uid="12-10"><speaker>Sheldon</speaker><content>Keep filling this one with babies. She’s good.</content></utterance>
+</scene>
+</script>

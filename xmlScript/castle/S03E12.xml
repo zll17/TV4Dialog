@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+
+<scene id="1"><utterance uid="1-1"><speaker>LANIE PARISH</speaker><content>I gotta go.</content></utterance>
+<utterance uid="1-2"><speaker>JAVIER ESPOSITO</speaker><content>Me too.</content></utterance>
+<utterance uid="1-3"><speaker>ESPOSITO</speaker><content>I’ll see you at the scene, sexy.</content></utterance>
+<utterance uid="1-4"><speaker>LANIE</speaker><content>Okay.</content></utterance>
+<utterance uid="1-5"><speaker>LANIE</speaker><content>Javier Esposito! When we get to this crime scene, do not wink at me. Do not smile at me. And don’t even look at me with those puppy dog eyes. Got it?</content></utterance>
+<utterance uid="1-6"><speaker>ESPOSITO</speaker><content>Got it.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>RICHARD CASTLE</speaker><content>C’mon Gina, I’m not having this conversation with you again. Well, I gotta go. I’m at work.  It is so work!</content></utterance>
+<utterance uid="2-2"><speaker>ESPOSITO</speaker><content>What’s up, Castle? How’s it going?</content></utterance>
+<utterance uid="2-3"><speaker>CASTLE</speaker><content>You want my advice? Never sleep with someone you work with.</content></utterance>
+<utterance uid="2-4"><speaker>ESPOSITO</speaker><content>What? What do you mean?</content></utterance>
+<utterance uid="2-5"><speaker>CASTLE</speaker><content>Trust me. It doesn’t end well.</content></utterance>
+<utterance uid="2-6"><speaker>ESPOSITO</speaker><content>Who knows?</content></utterance>
+<utterance uid="2-7"><speaker>CASTLE</speaker><content>Everyone knows.</content></utterance>
+<utterance uid="2-8"><speaker>BECKETT</speaker><content>Everyone knows what?</content></utterance>
+<utterance uid="2-9"><speaker>CASTLE_ESPOSITO</speaker><content>Nothing.</content></utterance>
+<utterance uid="2-10"><speaker>ESPOSITO</speaker><content>On my way.</content></utterance>
+<utterance uid="2-11"><speaker>BECKETT</speaker><content>You okay, Castle? You seem upset.</content></utterance>
+<utterance uid="2-12"><speaker>CASTLE</speaker><content>No. No, I’m fine. Why?</content></utterance>
+<utterance uid="2-13"><speaker>BECKETT</speaker><content>Okay.</content></utterance>
+<utterance uid="2-14"><speaker>CASTLE</speaker><content>The murder is here? At Drake’s Magic Shop?</content></utterance>
+<utterance uid="2-15"><speaker>BECKETT</speaker><content>Yep.</content></utterance>
+<utterance uid="2-16"><speaker>CASTLE</speaker><content>I’ve been coming here since I was thirteen years old. This place is a paradise for boys. Whoopee cushions, magic tricks, fake vomit.</content></utterance>
+<utterance uid="2-17"><speaker>BECKETT</speaker><content>It’s not just for boys, Castle. My grandfather was an amateur magician and I used to come here every Sunday afternoon when I was that age, too.</content></utterance>
+<utterance uid="2-18"><speaker>CASTLE</speaker><content>I never pegged you for a magic fan. You know any good tricks?</content></utterance>
+<utterance uid="2-19"><speaker>BECKETT</speaker><content>I do this one thing. With ice cubes.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>DETECTIVE KEVIN RYAN</speaker><content>According to his water soaked wallet, the victim is Zalman Drake, the shop owner. His assistant, Eliza Winter, found him in the tank when she opened up the store this morning.</content></utterance>
+<utterance uid="3-2"><speaker>BECKETT</speaker><content>Any signs of forced entry?</content></utterance>
+<utterance uid="3-3"><speaker>RYAN</speaker><content>Nope.</content></utterance>
+<utterance uid="3-4"><speaker>LANIE</speaker><content>You know, it is beyond me why people think this is entertaining. I see a guy hanging upside down in a water tank, I think, “you are a fool”.</content></utterance>
+<utterance uid="3-5"><speaker>CASTLE</speaker><content>Huh. You know, the milk cans and the water torture tank, they were real game changers in the magic world. They were the first presentation of real life and death consequences. As the magician held his breath, so did the audience.</content></utterance>
+<utterance uid="3-6"><speaker>LANIE</speaker><content>Well, this magician would have had to hold his breath eight to ten hours if he wanted to take a bow.</content></utterance>
+<utterance uid="3-7"><speaker>BECKETT</speaker><content>So you’re saying between twelve and two AM?</content></utterance>
+<utterance uid="3-8"><speaker>LANIE</speaker><content>Looks that way. Petechial hemorrhaging in his eyes indicates drowning.</content></utterance>
+<utterance uid="3-9"><speaker>CASTLE</speaker><content>Failed escape attempt?</content></utterance>
+<utterance uid="3-10"><speaker>LANIE</speaker><content>Well, there’s no redness on his ankles where he was hanging. It doesn’t look like he struggled to get out. I have a feeling he was dead before he hit the water, but I won’t know for sure until I get him back to the lab.</content></utterance>
+<utterance uid="3-11"><speaker>ESPOSITO</speaker><content>Maybe there’s another reason he struggled.  Suicide note. Says he was in financial trouble and couldn’t bear the thought of losing his family’s shop so he was going to kill himself.</content></utterance>
+<utterance uid="3-12"><speaker>ELIZA WINTER</speaker><content>Mr. Drake did not kill himself!</content></utterance>
+<utterance uid="3-13"><speaker>BECKETT</speaker><content>How do you know?</content></utterance>
+<utterance uid="3-14"><speaker>ELIZA</speaker><content>I just know.</content></utterance>
+<utterance uid="3-15"><speaker>CASTLE</speaker><content>Is it true, though? Was he going to lose his shop?</content></utterance>
+<utterance uid="3-16"><speaker>ELIZA</speaker><content>No! I mean, yes. But two weeks ago he told me that everything was fine, that he had worked it all out.</content></utterance>
+<utterance uid="3-17"><speaker>BECKETT</speaker><content>Any idea how? Was there a windfall or an investor?</content></utterance>
+<utterance uid="3-18"><speaker>ELIZA</speaker><content>He didn’t say.</content></utterance>
+<utterance uid="3-19"><speaker>BECKETT</speaker><content>Would he have been able to place himself in that tank?</content></utterance>
+<utterance uid="3-20"><speaker>ELIZA</speaker><content>Absolutely. But he wouldn’t have. Not Zalman. He loved and respected magic too much.</content></utterance>
+<utterance uid="3-21"><speaker>BECKETT</speaker><content>Esposito, there’s no signature here.</content></utterance>
+<utterance uid="3-22"><speaker>ESPOSITO</speaker><content>I’ll have CSU run it for prints.</content></utterance>
+<utterance uid="3-23"><speaker>BECKETT</speaker><content>Have them run the tank and entries and exits as well.</content></utterance>
+<utterance uid="3-24"><speaker>ESPOSITO</speaker><content>Okay.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>BECKETT</speaker><content>When was the last time you saw him?</content></utterance>
+<utterance uid="4-2"><speaker>ELIZA</speaker><content>Yesterday morning. He left right after lunch and he was gone the rest of the day.</content></utterance>
+<utterance uid="4-3"><speaker>BECKETT</speaker><content>Did he say where he was going?</content></utterance>
+<utterance uid="4-4"><speaker>CASTLE</speaker><content>Was it normal for him to leave the shop in the middle of the day?</content></utterance>
+<utterance uid="4-5"><speaker>ELIZA</speaker><content>Yeah, he would do that sometimes.</content></utterance>
+<utterance uid="4-6"><speaker>BECKETT</speaker><content>Did you notice any changes in his behavior? Anything unusual going on in his life?</content></utterance>
+<utterance uid="4-7"><speaker>ELIZA</speaker><content>This past month he was gone more often. All he’d say was that he was working on something. But he looked a little tired, like he hadn’t been sleeping.</content></utterance>
+<utterance uid="4-8"><speaker>BECKETT</speaker><content>Can you think of any reason for the change?</content></utterance>
+<utterance uid="4-9"><speaker>ELIZA</speaker><content>Yes. Last month, right before all this started, a guy came into the shop and attacked Mr. Drake. He pushed him right through a display case. He said he better watch his back and he was going to sue him for all he was worth.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>BECKETT</speaker><content> Thank you, I will hold.  So court records show that a lawsuit was filed against Zalman Drake a month ago. They’re pulling it up now.</content></utterance>
+<utterance uid="5-2"><speaker>BECKETT</speaker><content>Hey.</content></utterance>
+<utterance uid="5-3"><speaker>RYAN</speaker><content>Hey. We canvassed the area around the magic shop. One of the neighbors said that she saw an old white van pull up to the shop around midnight and then heard the gate roll up.</content></utterance>
+<utterance uid="5-4"><speaker>BECKETT</speaker><content>Okay, you guys look into that and let’s find out where Zalman was disappearing to. I’d like to know what he was doing all the way up until the moment that he died. What about his next of kin?</content></utterance>
+<utterance uid="5-5"><speaker>ESPOSITO</speaker><content>Only surviving relative is a brother in Poughkeepsie. We haven’t reached him yet.</content></utterance>
+<utterance uid="5-6"><speaker>BECKETT</speaker><content>All right, thank you guys.</content></utterance>
+<utterance uid="5-7"><speaker>CASTLE</speaker><content>Hey. X-Ray specs. Got them at the magic shop. I can see you naked.</content></utterance>
+<utterance uid="5-8"><speaker>BECKETT</speaker><content> Really? How do you like my navel ring?</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>RYAN</speaker><content>Looks like somebody has a secret.</content></utterance>
+<utterance uid="6-2"><speaker>ESPOSITO</speaker><content>Secret? What secret?</content></utterance>
+<utterance uid="6-3"><speaker>RYAN</speaker><content>I understand a guy not wanting to share. I mean, some things are personal.</content></utterance>
+<utterance uid="6-4"><speaker>ESPOSITO</speaker><content>How did you find out?</content></utterance>
+<utterance uid="6-5"><speaker>RYAN</speaker><content>Dude, everybody knows. It’s all over page six.</content></utterance>
+<utterance uid="6-6"><speaker>ESPOSITO</speaker><content>"Looks like an unhappy ending for the publisher and the mystery writer."</content></utterance>
+<utterance uid="6-7"><speaker>RYAN</speaker><content>Apparently he and ex-wife slash girlfriend slash publisher Gina had some words, loud words, at Le Cirque and she stormed off.</content></utterance>
+<utterance uid="6-8"><speaker>ESPOSITO</speaker><content>That’s what he was talking about this morning.</content></utterance>
+<utterance uid="6-9"><speaker>RYAN</speaker><content>What I don’t understand is why he would try to hide it from us. I mean, we’re like family.</content></utterance>
+<utterance uid="6-10"><speaker>ESPOSITO</speaker><content>Maybe he’s afraid of what we might think.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>BECKETT</speaker><content>So it turns out a lawsuit was filed against Zalman Drake by a Jerome Aspenal. And get this, the judge threw it out yesterday.</content></utterance>
+<utterance uid="7-2"><speaker>CASTLE</speaker><content>Maybe Jerome decided to take justice into his own hands. What was he suing him for?</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>JEROME</speaker><content>Zalman Drake? I was suing him for slander, defamation of character, and ruining my life.</content></utterance>
+<utterance uid="8-2"><speaker>BECKETT</speaker><content>And how did Zalman do that, Jerome?</content></utterance>
+<utterance uid="8-3"><speaker>JEROME</speaker><content>He read my frigging mind! In front of like, three hundred people.</content></utterance>
+<utterance uid="8-4"><speaker>CASTLE</speaker><content>During a magic performance?</content></utterance>
+<utterance uid="8-5"><speaker>JEROME</speaker><content>Yeah, it was like this mind reading, card tricks, levitation at this chic chic charity ball. My in-laws bought a table and I figured, free food, some entertainment, maybe later I’d get lucky. Turns out, not so lucky.</content></utterance>
+<utterance uid="8-6"><speaker>BECKETT</speaker><content>Could you elaborate on that?</content></utterance>
+<utterance uid="8-7"><speaker>JEROME</speaker><content>Yeah, this magician, Zalman Drake, gets on stage and makes this rich dude disappear and reappear and I’m like, oh, that’s cool. Then he asks for volunteers. My wife raises my hand and says, go up there, it’ll be fun. So I do. Drake says, stand across from me and think good thoughts. So I do. He looks at me, concentrates, puts his fingers on my forehead and he goes, “you’re thinking of Rita and your trip to Atlantic City last weekend”.</content></utterance>
+<utterance uid="8-8"><speaker>CASTLE</speaker><content>Were you?</content></utterance>
+<utterance uid="8-9"><speaker>JEROME</speaker><content>Yeah, but I was trying not to. ‘Cause here’s the kicker –</content></utterance>
+<utterance uid="8-10"><speaker>CASTLE</speaker><content>Your wife’s name isn’t Rita.</content></utterance>
+<utterance uid="8-11"><speaker>JEROME</speaker><content>Right. So now I’m living in a motel in Long Island City, my father-in-law fired me, and Rita won’t even talk to me because my wife found her number and called her.</content></utterance>
+<utterance uid="8-12"><speaker>BECKETT</speaker><content>Where were you last night between twelve and two?</content></utterance>
+<utterance uid="8-13"><speaker>JEROME</speaker><content>Why is she asking me that?</content></utterance>
+<utterance uid="8-14"><speaker>CASTLE</speaker><content>Well, she wants to know if you have an alibi.</content></utterance>
+<utterance uid="8-15"><speaker>JEROME</speaker><content>For what?</content></utterance>
+<utterance uid="8-16"><speaker>BECKETT</speaker><content>Zalman Drake was murdered last night.</content></utterance>
+<utterance uid="8-17"><speaker>JEROME</speaker><content>Justice is served.</content></utterance>
+<utterance uid="8-18"><speaker>CASTLE</speaker><content>When he read your mind, did it take him very long?</content></utterance>
+<utterance uid="8-19"><speaker>JEROME</speaker><content>No, no it didn’t.</content></utterance>
+<utterance uid="8-20"><speaker>CASTLE</speaker><content>No, I didn’t think so.</content></utterance>
+<utterance uid="8-21"><speaker>BECKETT</speaker><content>Jerome, we have a witness who says you went to his shop, attacked, and threatened Zalman Drake. When they dropped your lawsuit yesterday, did you decide to take the law into your own hands? Did you go to the magic shop and murder Zalman?</content></utterance>
+<utterance uid="8-22"><speaker>JEROME</speaker><content>No, I didn’t go anywhere last night, except for O’Lanahan’s at 57th and 7th. Because thanks to Zalman Drake, I no longer have a wife or mistress to go home to.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>CASTLE</speaker><content>I wonder how Zalman did it. He must have lifted something from Jerome’s pocket with his receipt from his weekend of sin.</content></utterance>
+<utterance uid="9-2"><speaker>BECKETT</speaker><content>Like this?</content></utterance>
+<utterance uid="9-3"><speaker>CASTLE</speaker><content>You had your hand in my pocket and I didn’t even feel it? Do it again.</content></utterance>
+<utterance uid="9-4"><speaker>CASTLE</speaker><content>What?</content></utterance>
+<utterance uid="9-5"><speaker>BECKETT</speaker><content>Hey Ryan? Any luck narrowing down Zalman’s whereabouts yesterday?</content></utterance>
+<utterance uid="9-6"><speaker>RYAN</speaker><content>Uh, not yet. But I did check into Jerome’s whereabouts last night. The barkeep at O’Lanahan’s said he was there until close and then he called him a cab.</content></utterance>
+<utterance uid="9-7"><speaker>CASTLE</speaker><content>So the only thing he killed last night was his brain cells.</content></utterance>
+<utterance uid="9-8"><speaker>RYAN</speaker><content>And a forensics sweep of the water tank came up negative for any prints on the operating apparatus other than Zalman’s.</content></utterance>
+<utterance uid="9-9"><speaker>BECKETT</speaker><content>So either he committed suicide-</content></utterance>
+<utterance uid="9-10"><speaker>CASTLE</speaker><content>Or the killer wore gloves.</content></utterance>
+<utterance uid="9-11"><speaker>ESPOSITO</speaker><content>Not the whole time. According to the lab, there were fingerprints all over that suicide note and they weren’t Zalman’s or Jerome’s.</content></utterance>
+<utterance uid="9-12"><speaker>BECKETT</speaker><content>Did you get a match?</content></utterance>
+<utterance uid="9-13"><speaker>ESPOSITO</speaker><content>Yeah, to a Charles ‘Chuck’ Russell. Low-life street magician with three arrests and two convictions, one for arson and another on an explosives charge.</content></utterance>
+<utterance uid="9-14"><speaker>BECKETT</speaker><content>Did he know our victim?</content></utterance>
+<utterance uid="9-15"><speaker>ESPOSITO</speaker><content>Yeah, apparently Zalman is some big muckity-muck with the American’s Magician’s Guild. They have a code of professional conduct and Chuck broke it. He was reckless with pyrotechnics in his act, injured his assistant, so Zalman had him kicked out. He hasn’t been able to book a gig since.</content></utterance>
+<utterance uid="9-16"><speaker>BECKETT</speaker><content>Where can we find him?</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>CHUCK</speaker><content>So, I have Brenda’s watch here. She wants me to make her husband disappear. That’s a felony, I can’t do that. But I can make the watch disappear.  Give it up.</content></utterance>
+<utterance uid="10-2"><speaker>CHUCK</speaker><content> Thank you, Brenda.  Ahh, a dollar. I’ll dine on ramen and tap water tonight and think of you. What about you? You got a little something for the United Magicians College Fund?</content></utterance>
+<utterance uid="10-3"><speaker>BECKETT</speaker><content>As a matter of fact, I do.  We need to talk to you about Zalman Drake.</content></utterance>
+<utterance uid="10-4"><speaker>CHUCK</speaker><content>Abracadabra.</content></utterance>
+<utterance uid="10-5"><speaker>BECKETT</speaker><content>Alakazam, jackass.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>CHUCK</speaker><content>Why am I here?</content></utterance>
+<utterance uid="11-2"><speaker>BECKETT</speaker><content>You recognize this?</content></utterance>
+<utterance uid="11-3"><speaker>CHUCK</speaker><content>That’s a baggie. And that’s a letter. Next.</content></utterance>
+<utterance uid="11-4"><speaker>CASTLE</speaker><content>Careful, Chuckie. Next could be a murder charge.</content></utterance>
+<utterance uid="11-5"><speaker>BECKETT</speaker><content>Your fingerprints are on it.</content></utterance>
+<utterance uid="11-6"><speaker>CHUCK</speaker><content>So?</content></utterance>
+<utterance uid="11-7"><speaker>BECKETT</speaker><content>So I find it strange that someone else’s fingerprints are on another guy’s suicide note.</content></utterance>
+<utterance uid="11-8"><speaker>CHUCK</speaker><content>What are you talking about?</content></utterance>
+<utterance uid="11-9"><speaker>CASTLE</speaker><content>Your old friend, Zalman Drake.</content></utterance>
+<utterance uid="11-10"><speaker>CHUCK</speaker><content>Zalman?</content></utterance>
+<utterance uid="11-11"><speaker>CHUCK</speaker><content>Yeah, that’s him. He killed himself? Man.</content></utterance>
+<utterance uid="11-12"><speaker>BECKETT</speaker><content>We found him drowned in the water torture trick in his shop.</content></utterance>
+<utterance uid="11-13"><speaker>CASTLE</speaker><content>You must have thought you were pretty clever, staging it to look like botched escape.</content></utterance>
+<utterance uid="11-14"><speaker>CHUCK</speaker><content>I didn’t stage anything. I had nothing to do with it.</content></utterance>
+<utterance uid="11-15"><speaker>BECKETT</speaker><content>Well, maybe you can explain your prints on that.</content></utterance>
+<utterance uid="11-16"><speaker>BECKETT</speaker><content>All right.</content></utterance>
+<utterance uid="11-17"><speaker>CHUCK</speaker><content>No, wait.</content></utterance>
+<utterance uid="11-18"><speaker>CHUCK</speaker><content>Okay, listen. I gave him this note.</content></utterance>
+<utterance uid="11-19"><speaker>BECKETT</speaker><content>You gave him a suicide note.</content></utterance>
+<utterance uid="11-20"><speaker>CHUCK</speaker><content>Not that note, the other note on the paper. The one you can’t see. Hold it under a black light.</content></utterance>
+<utterance uid="11-21"><speaker>CHUCK</speaker><content>It’s an invoice. For services rendered.</content></utterance>
+<utterance uid="11-22"><speaker>BECKETT</speaker><content>What kind of services?</content></utterance>
+<utterance uid="11-23"><speaker>CHUCK</speaker><content>He wanted me to get him something. Something illegal.</content></utterance>
+<utterance uid="11-24"><speaker>BECKETT</speaker><content>C4 explosives?</content></utterance>
+<utterance uid="11-25"><speaker>CHUCK</speaker><content>Ironic, right? He wants explosives from me when that’s what he got me booted for. But he promised to get me reinstated in the Guild and I wanted to work.</content></utterance>
+<utterance uid="11-26"><speaker>BECKETT</speaker><content>Whoever wrote this note probably thought they took a blank piece of paper.</content></utterance>
+<utterance uid="11-27"><speaker>CHUCK</speaker><content>Whoever being - not me.</content></utterance>
+<utterance uid="11-28"><speaker>BECKETT</speaker><content>You provided him with enough C4 to blow up half a city block. What was it for?</content></utterance>
+<utterance uid="11-29"><speaker>CHUCK</speaker><content>Maybe it was for a magic trick.</content></utterance>
+<utterance uid="11-30"><speaker>BECKETT</speaker><content>C’mon.</content></utterance>
+<utterance uid="11-31"><speaker>CHUCK</speaker><content>No, listen. Zalman didn’t just run the shop and do corporate gigs. He was also this genius trick designer. Rumor has it that he was creating cutting edge illusions for the hottest guy out there.</content></utterance>
+<utterance uid="11-32"><speaker>BECKETT</speaker><content>And who is the hottest guy out there?</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>CASTLE</speaker><content>Tobias Strange? He’s the Johnny Depp of magic. I saw him in Vegas. He made a Ferrari disappear.</content></utterance>
+<utterance uid="12-2"><speaker>RYAN</speaker><content>Why would anybody want to do that?</content></utterance>
+<utterance uid="12-3"><speaker>ESPOSITO</speaker><content>Oh yeah, he’s in town. Saw him perform a couple of weeks ago. Awesome, awesome show. Yeah, we loved it.</content></utterance>
+<utterance uid="12-4"><speaker>CASTLE</speaker><content>We?</content></utterance>
+<utterance uid="12-5"><speaker>ESPOSITO</speaker><content>Yeah. Me and my buddy. Ray.</content></utterance>
+<utterance uid="12-6"><speaker>RYAN</speaker><content>You have a buddy named Ray who you went with to a magic show?</content></utterance>
+<utterance uid="12-7"><speaker>ESPOSITO</speaker><content>Yeah. What about it?</content></utterance>
+<utterance uid="12-8"><speaker>BECKETT</speaker><content>Okay guys. Hold Chuck on an explosives trafficking charge and let’s see if this Johnny Depp of magic knew what his trick designer was really into and why it required so much C4.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>BECKETT</speaker><content>Excuse me!</content></utterance>
+<utterance uid="13-2"><speaker>CASTLE</speaker><content>Oh my God!</content></utterance>
+<utterance uid="13-3"><speaker>TOBIAS</speaker><content>Hey! This is a private rehearsal! Who the hell let them in here?</content></utterance>
+<utterance uid="13-4"><speaker>BECKETT</speaker><content> All access pass.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>TOBIAS</speaker><content>Zalman has been the heart of the New York magic community since he inherited the shop from his dad. It’s a huge loss.</content></utterance>
+<utterance uid="14-2"><speaker>BECKETT</speaker><content>I understand that he worked for you.</content></utterance>
+<utterance uid="14-3"><speaker>TOBIAS</speaker><content>Used to. We parted ways last month.</content></utterance>
+<utterance uid="14-4"><speaker>BECKETT</speaker><content>Why?</content></utterance>
+<utterance uid="14-5"><speaker>TOBIAS</speaker><content>I heard from one of my vendors that he might be working for someone else. So I confronted him. Turns out, he was poached.</content></utterance>
+<utterance uid="14-6"><speaker>BECKETT</speaker><content>Do you know by whom?</content></utterance>
+<utterance uid="14-7"><speaker>TOBIAS</speaker><content>He didn’t say. Look, Zalman had been my exclusive designer and engineer for fifteen years. He created some of my most famous tricks. If he had had any stage presence, he would have been a world class magician himself.</content></utterance>
+<utterance uid="14-8"><speaker>CASTLE</speaker><content>Well, it must have been very upsetting to have him leave after all those years. Didn’t that put some of your trade secrets at risk?</content></utterance>
+<utterance uid="14-9"><speaker>TOBIAS</speaker><content>A thinly veiled accusation, Mr. Castle. Of course I was upset. But I never doubted his discretion.</content></utterance>
+<utterance uid="14-10"><speaker>BECKETT</speaker><content>Mr. Strange, did any of your illusions require the use of an explosive?</content></utterance>
+<utterance uid="14-11"><speaker>TOBIAS</speaker><content>The term ‘smoke and mirrors’ isn’t metaphoric in our business, Detective. Much of misdirection depends on flashes of light.</content></utterance>
+<utterance uid="14-12"><speaker>BECKETT</speaker><content>What about C4?</content></utterance>
+<utterance uid="14-13"><speaker>TOBIAS</speaker><content>The key to making something look dangerous is to have complete control over the outcome. C4 is too volatile and unpredictable. It kills.</content></utterance>
+<utterance uid="14-14"><speaker>CASTLE</speaker><content>Any idea what Zalman would be using it for?</content></utterance>
+<utterance uid="14-15"><speaker>TOBIAS</speaker><content>Nothing magical, I assure you. Have you checked his workshop?</content></utterance>
+<utterance uid="14-16"><speaker>BECKETT</speaker><content>We haven’t come across a workshop.</content></utterance>
+<utterance uid="14-17"><speaker>CASTLE</speaker><content>It’s probably where he’d been disappearing to every day.</content></utterance>
+<utterance uid="14-18"><speaker>BECKETT</speaker><content> Do you know where it is?</content></utterance>
+<utterance uid="14-19"><speaker>TOBIAS</speaker><content>Ah, you know magicians are about secrets. But whatever he was working on, you’ll probably find there.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>CASTLE</speaker><content>It’s an age old story. Magician at the top of his game, angry that his trick designer jumps ship for the competition, kills him instead of letting his trade secrets fall into enemy hands.</content></utterance>
+<utterance uid="15-2"><speaker>BECKETT</speaker><content>It’s magic, Castle. Not the Cold War.</content></utterance>
+<utterance uid="15-3"><speaker>CASTLE</speaker><content>If it’s not the Cold War, why does Zalman need military grade explosives?</content></utterance>
+<utterance uid="15-4"><speaker>BECKETT</speaker><content>I don’t know. Hell, we don’t even know that if it really was murder. For all we know it could have actually been a suicide.</content></utterance>
+<utterance uid="15-5"><speaker>BECKETT</speaker><content>It’s Lanie.</content></utterance>
+<utterance uid="15-6"><speaker>CASTLE</speaker><content>Let me guess. It wasn’t a suicide.</content></utterance>
+<utterance uid="15-7"><speaker>BECKETT</speaker><content>Beckett.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>LANIE</speaker><content>It took you two long enough! Where were you? Europe?</content></utterance>
+<utterance uid="16-2"><speaker>BECKETT</speaker><content>Traffic.</content></utterance>
+<utterance uid="16-3"><speaker>LANIE</speaker><content>Girl, you could’ve used the gumball.</content></utterance>
+<utterance uid="16-4"><speaker>CASTLE</speaker><content>Dressed to the nines, in a big hurry… So, where are you going and who’s the lucky victim?</content></utterance>
+<utterance uid="16-5"><speaker>LANIE</speaker><content>I’ll tell you what, Castle. You tell me what’s going on between you and Gina and I’ll tell you where I’m going tonight.</content></utterance>
+<utterance uid="16-6"><speaker>BECKETT</speaker><content> What are you talking about?</content></utterance>
+<utterance uid="16-7"><speaker>LANIE</speaker><content>He and his girlfriend had a big fight a Le Cirque. It was in the paper.</content></utterance>
+<utterance uid="16-8"><speaker>CASTLE</speaker><content>Can we talk about the victim, please?</content></utterance>
+<utterance uid="16-9"><speaker>LANIE</speaker><content> Okay.  No water in the lungs.</content></utterance>
+<utterance uid="16-10"><speaker>BECKETT</speaker><content>He wasn’t drowned?</content></utterance>
+<utterance uid="16-11"><speaker>LANIE</speaker><content>Nope. But he was asphyxiated, which sometimes presents the same way.</content></utterance>
+<utterance uid="16-12"><speaker>BECKETT</speaker><content>Bruising.</content></utterance>
+<utterance uid="16-13"><speaker>LANIE</speaker><content>Like someone held their hand over his nose and mouth. He was murdered before he was put into the tank.</content></utterance>
+<utterance uid="16-14"><speaker>CASTLE</speaker><content>And then his killer took what he thought was a blank piece of paper and typed out the suicide note.</content></utterance>
+<utterance uid="16-15"><speaker>BECKETT</speaker><content>But why kill him that way? I mean, why make it look like a suicide?</content></utterance>
+<utterance uid="16-16"><speaker>CASTLE</speaker><content>Cover up the murder.</content></utterance>
+<utterance uid="16-17"><speaker>BECKETT</speaker><content>The murder, or something bigger involving explosives? We've got to find that workshop.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>CASTLE</speaker><content>You are the picture of a civilized evening at home.</content></utterance>
+<utterance uid="17-2"><speaker>MARTHA</speaker><content>And you are a caveman. Darling, we are your family. Why didn’t you tell us about this?  Have you spoken to her? You know, since your PDA?</content></utterance>
+<utterance uid="17-3"><speaker>CASTLE</speaker><content>My-</content></utterance>
+<utterance uid="17-4"><speaker>MARTHA</speaker><content>Public Display of Anger.</content></utterance>
+<utterance uid="17-5"><speaker>ALEXIS</speaker><content>It says you were fighting, Dad. What about?</content></utterance>
+<utterance uid="17-6"><speaker>CASTLE</speaker><content>Well, if you must know –</content></utterance>
+<utterance uid="17-7"><speaker>MARTHA</speaker><content>Yes.</content></utterance>
+<utterance uid="17-8"><speaker>CASTLE</speaker><content>We were fighting about how much we’d been fighting. If you don’t mind, I’d really like to change the subject.</content></utterance>
+<utterance uid="17-9"><speaker>ALEXIS</speaker><content>What am I, six? At least pull out a twenty.</content></utterance>
+<utterance uid="17-10"><speaker>CASTLE</speaker><content>Wow.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>CASTLE</speaker><content>I was thinking -</content></utterance>
+<utterance uid="18-2"><speaker>BECKETT</speaker><content>C’mon Castle, keep up.</content></utterance>
+<utterance uid="18-3"><speaker>CASTLE</speaker><content>Where are we going?</content></utterance>
+<utterance uid="18-4"><speaker>BECKETT</speaker><content>Zalman’s workshop.</content></utterance>
+<utterance uid="18-5"><speaker>CASTLE</speaker><content>You found it? How?</content></utterance>
+<utterance uid="18-6"><speaker>BECKETT</speaker><content>In his soggy wallet was a soggy metro card. Ryan ran it through the Automated Fare Database. He was travelling from a subway stop near his magic shop to the last stop out in the Bronx.</content></utterance>
+<utterance uid="18-7"><speaker>CASTLE</speaker><content>So we’re canvassing the neighborhood. Do we need vests?</content></utterance>
+<utterance uid="18-8"><speaker>BECKETT</speaker><content>No. No vests. Remember that power outage a couple weeks ago that shut down the subway?</content></utterance>
+<utterance uid="18-9"><speaker>CASTLE</speaker><content>Yes.</content></utterance>
+<utterance uid="18-10"><speaker>BECKETT</speaker><content>Well, I looked into Zalman’s financials. He hired a town car that day with his credit card and we now have his address.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>CASTLE</speaker><content>You sure this is the place?</content></utterance>
+<utterance uid="19-2"><speaker>BECKETT</speaker><content>This is where they dropped him off.</content></utterance>
+<utterance uid="19-3"><speaker>CASTLE</speaker><content>Well, it looks abandoned. Bricked up.</content></utterance>
+<utterance uid="19-4"><speaker>BECKETT</speaker><content>Look, look, look. Footprints.</content></utterance>
+<utterance uid="19-5"><speaker>CASTLE</speaker><content>Yes… to nowhere.</content></utterance>
+<utterance uid="19-6"><speaker>BECKETT</speaker><content>That’s what he wanted us to think.</content></utterance>
+<utterance uid="19-7"><speaker>BECKETT</speaker><content>Open sesame.</content></utterance>
+<utterance uid="19-8"><speaker>CASTLE</speaker><content>Zalman’s fortress of solitude.</content></utterance>
+<utterance uid="19-9"><speaker>BECKETT</speaker><content>Wow, Castle. My grandfather would have loved this place. Look, he has a guillotine. And an iron maiden! He even had a zig zag box. You know, you would have liked my grandfather. In fact, you remind me of him a little.</content></utterance>
+<utterance uid="19-10"><speaker>CASTLE</speaker><content>I’m flattered.</content></utterance>
+<utterance uid="19-11"><speaker>BECKETT</speaker><content>Mmhm.</content></utterance>
+<utterance uid="19-12"><speaker>CASTLE</speaker><content>Wheelchair tracks?</content></utterance>
+<utterance uid="19-13"><speaker>BECKETT</speaker><content>Yeah, and they look fairly fresh.</content></utterance>
+<utterance uid="19-14"><speaker>CASTLE</speaker><content>Maybe he had a visitor.</content></utterance>
+<utterance uid="19-15"><speaker>BECKETT</speaker><content>Yeah. They look recent.</content></utterance>
+<utterance uid="19-16"><speaker>CASTLE</speaker><content>These papers are dated the day he was killed.</content></utterance>
+<utterance uid="19-17"><speaker>BECKETT</speaker><content>I’ll have to get CSU to sweep this whole place.</content></utterance>
+<utterance uid="19-18"><speaker>CASTLE</speaker><content>Is this an accident or art?</content></utterance>
+<utterance uid="19-19"><speaker>BECKETT</speaker><content>Castle, take a look at this. Pages are ripped. Like he didn’t want anyone to know what he was working on.</content></utterance>
+<utterance uid="19-20"><speaker>BECKETT</speaker><content>Zalman?</content></utterance>
+<utterance uid="19-21"><speaker>ZALMAN LOOKALIKE</speaker><content>Who the hell are you?</content></utterance>
+<utterance uid="19-22"><speaker>CASTLE</speaker><content>Best trick ever.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>BECKETT</speaker><content>NYPD. Keep your hands where I can see them.</content></utterance>
+<utterance uid="20-2"><speaker>ZALMAN LOOKALIKE</speaker><content>Woah, woah, woah, woah. What’s going on? Why are you doing here?</content></utterance>
+<utterance uid="20-3"><speaker>CASTLE</speaker><content>Zalman?</content></utterance>
+<utterance uid="20-4"><speaker>ZALMAN LOOKALIKE</speaker><content>Edmund. Edmund Drake.</content></utterance>
+<utterance uid="20-5"><speaker>BECKETT</speaker><content>His brother from Poughkeepsie?</content></utterance>
+<utterance uid="20-6"><speaker>CASTLE</speaker><content>You’re a twin.</content></utterance>
+<utterance uid="20-7"><speaker>EDMUND</speaker><content>Yeah. Can I put my hands down?</content></utterance>
+<utterance uid="20-8"><speaker>BECKETT</speaker><content>Uh, yeah.</content></utterance>
+<utterance uid="20-9"><speaker>CASTLE</speaker><content>Why were you hiding in the iron maiden?</content></utterance>
+<utterance uid="20-10"><speaker>EDMUND</speaker><content>It’s the entrance from the other room.</content></utterance>
+<utterance uid="20-11"><speaker>BECKETT</speaker><content>I’m Detective Beckett. We’re here about your brother.</content></utterance>
+<utterance uid="20-12"><speaker>EDMUND</speaker><content>So am I. Where is he?</content></utterance>
+<utterance uid="20-13"><speaker>BECKETT</speaker><content>You don’t know?</content></utterance>
+<utterance uid="20-14"><speaker>BECKETT</speaker><content>Mr. Drake, I’m sorry to tell you, but your brother is dead.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>CASTLE</speaker><content>Are you kidding me? He has an identical twin who wears glasses. That’s the worst disguise since Clark Kent and you believe him?</content></utterance>
+<utterance uid="21-2"><speaker>BECKETT</speaker><content>I have no reason not to. Look at him. He’s devastated.</content></utterance>
+<utterance uid="21-3"><speaker>CASTLE</speaker><content>It’s an act! Don’t you ever go to movies? It’s … it’s probably Edmund who’s dead and that dweeb in the next room is Zalman. I bet he killed his brother to take over his life.</content></utterance>
+<utterance uid="21-4"><speaker>BECKETT</speaker><content>As an accountant, in Poughkeepsie?</content></utterance>
+<utterance uid="21-5"><speaker>CASTLE</speaker><content>Well … I …</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>EDMUND</speaker><content>I knew something was wrong when he called me a couple of days ago.</content></utterance>
+<utterance uid="22-2"><speaker>BECKETT</speaker><content>What did he call about?</content></utterance>
+<utterance uid="22-3"><speaker>EDMUND</speaker><content>Money. He said someone was paying him a half a million dollars and he needed my help to hide it.</content></utterance>
+<utterance uid="22-4"><speaker>BECKETT</speaker><content>Hide it how?</content></utterance>
+<utterance uid="22-5"><speaker>EDMUND</speaker><content>To make sure that the government never found out where it came from. They way he was talking, it sounded like he had gotten involved in something illegal.</content></utterance>
+<utterance uid="22-6"><speaker>CASTLE</speaker><content>And what were you doing, at his warehouse?</content></utterance>
+<utterance uid="22-7"><speaker>EDMUND</speaker><content>Well… I just had this feeling yesterday that something was terribly wrong. And when I tried to reach him, I couldn’t. I drove down to the city. I think it was a twin thing. You know. All our lives we’ve had this … connection.</content></utterance>
+<utterance uid="22-8"><speaker>CASTLE</speaker><content>Yeah, of course. Twin thing. Tell me, Mr. Drake, given your legacy, why didn’t you ever get into the family business, too?</content></utterance>
+<utterance uid="22-9"><speaker>EDMUND</speaker><content>I didn’t have the passion, or the skill. Zalman and I, we, uh, we did have an act together, as kids.</content></utterance>
+<utterance uid="22-10"><speaker>EDMUND</speaker><content>He would disappear up on stage and then I would appear in the back of the audience. I guess it was only amazing to people who didn’t know we were twins.</content></utterance>
+<utterance uid="22-11"><speaker>CASTLE</speaker><content>Well, you’re being modest. I’m sure you fooled a lot of people.</content></utterance>
+<utterance uid="22-12"><speaker>BECKETT</speaker><content>Mr. Drake, the activities your brother was involved in, if you looked through his things do you think you’d be able to determine what he was doing?</content></utterance>
+<utterance uid="22-13"><speaker>EDMUND</speaker><content>Zalman was a brilliant engineer and I’m afraid my brain just doesn’t work that way. He was something special, you know? Light up a room. Look, Detective, I don’t know what he got mixed up in, but I just know he didn’t deserve to die.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>CASTLE</speaker><content>I can’t believe you’re letting him just walk out of here! If this was a movie …</content></utterance>
+<utterance uid="23-2"><speaker>BECKETT</speaker><content>It’s not a movie. And what am I supposed to charge him with? Being a twin?</content></utterance>
+<utterance uid="23-3"><speaker>CASTLE</speaker><content>Being an evil twin. In a magic murder.</content></utterance>
+<utterance uid="23-4"><speaker>BECKETT</speaker><content>A half a million dollar payment that he’s hiding from the government? Bricks of C4? That doesn’t sound like magic to me.</content></utterance>
+<utterance uid="23-5"><speaker>BECKETT</speaker><content>Beckett.</content></utterance>
+<utterance uid="23-6"><speaker>ESPOSITO</speaker><content>CSU is finishing their initial sweep. So far we haven’t been able to find anything to indicate who Zalman might have been working for, other than Tobias Strange. But, CSU did find some trace residue of C4 explosives on the workbench.</content></utterance>
+<utterance uid="23-7"><speaker>BECKETT</speaker><content>And what about the tracks?</content></utterance>
+<utterance uid="23-8"><speaker>ESPOSITO</speaker><content>You were right. They are from a wheelchair. The tracks are pretty distinctive. We’re running down make and model now.</content></utterance>
+<utterance uid="23-9"><speaker>BECKETT</speaker><content>Yeah, well, with any luck, Professor X will turn out to be Zalman’s mystery client.</content></utterance>
+<utterance uid="23-10"><speaker>ESPOSITO</speaker><content>All right, thanks.</content></utterance>
+<utterance uid="23-11"><speaker>CASTLE</speaker><content>What about this? Zalman gets in over his head. He lures his brother down here, suffocates him, sticks him in a tank so it looks like he’s dead. Meanwhile Zalman, as Edmund, inherits his own magic shop, collects his own insurance, all the while takes Edmund's wife and children, who love him, as his own. It’s dead ringer!</content></utterance>
+<utterance uid="23-12"><speaker>BECKETT</speaker><content>Are you still talking?</content></utterance>
+<utterance uid="23-13"><speaker>CASTLE</speaker><content>Edmund is Zalman.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>LANIE</speaker><content>Couldn’t be more wrong. I ran the prints on our victim. He’s Zalman.</content></utterance>
+<utterance uid="24-2"><speaker>BECKETT</speaker><content>Satisfied, Castle?</content></utterance>
+<utterance uid="24-3"><speaker>CASTLE</speaker><content>More like, disappointed.</content></utterance>
+<utterance uid="24-4"><speaker>LANIE</speaker><content>Well, maybe this will cheer you up.</content></utterance>
+<utterance uid="24-5"><speaker>CASTLE</speaker><content>Old man hair!</content></utterance>
+<utterance uid="24-6"><speaker>LANIE</speaker><content>White rabbit fur. Came from his teeth and throat.</content></utterance>
+<utterance uid="24-7"><speaker>CASTLE</speaker><content>So he was killed by a rabbit who did not want to be pulled out of a hat.</content></utterance>
+<utterance uid="24-8"><speaker>LANIE</speaker><content>Your guess is as good as mine. In the process of trying to determine how Zalman was asphyxiated, I also discovered the presence of a low dose of organophosphates in his nose and throat.</content></utterance>
+<utterance uid="24-9"><speaker>BECKETT</speaker><content>Organophosphates?</content></utterance>
+<utterance uid="24-10"><speaker>LANIE</speaker><content>It’s found in hydraulic fluids. Jet engine oil, insecticides, nerve agents.</content></utterance>
+<utterance uid="24-11"><speaker>CASTLE</speaker><content>Nerve agents?</content></utterance>
+<utterance uid="24-12"><speaker>BECKETT</speaker><content>Well, along with the C4, our magician’s looking more like a terrorist.</content></utterance>
+<utterance uid="24-13"><speaker>LANIE</speaker><content>The amount is too small to indicate that he was working with them directly, but he definitely was exposed to them recently.</content></utterance>
+<utterance uid="24-14"><speaker>ESPOSITO</speaker><content>Hola, chica. I was in the ‘hood and I thought we should talk about the –</content></utterance>
+<utterance uid="24-15"><speaker>LANIE</speaker><content>Tests! That you had me run. They’re in the back. I’ll go get them.</content></utterance>
+<utterance uid="24-16"><speaker>ESPOSITO</speaker><content>Yeah. Thanks.</content></utterance>
+<utterance uid="24-17"><speaker>BECKETT</speaker><content>What tests?</content></utterance>
+<utterance uid="24-18"><speaker>ESPOSITO</speaker><content>Different case. Hey, I was just about to call you. You know those wheelchair tracks you found at Zalman’s workshop? Well, they had a saw tooth pattern unique to one brand of tire made for electric wheelchairs. We called half a dozen specialty shops that stock that tire, and we cross referenced recent purchases with the mailing list of the magic shop.</content></utterance>
+<utterance uid="24-19"><speaker>BECKETT</speaker><content>Did you get a match?</content></utterance>
+<utterance uid="24-20"><speaker>ESPOSITO</speaker><content>Yeah. Thaddeus Magnus. He’s a professional government protester. He’s got multiple arrests for civil disobediences and get this - drives a white van.</content></utterance>
+<utterance uid="24-21"><speaker>CASTLE</speaker><content>Government protester? Civil disobedience? You mix that in with C4 and nerve agent you’re looking at Tim McVeigh.</content></utterance>
+<utterance uid="24-22"><speaker>BECKETT</speaker><content>You have an address?</content></utterance>
+<utterance uid="24-23"><speaker>BECKETT</speaker><content>Thanks.</content></utterance>
+<utterance uid="24-24"><speaker>CASTLE</speaker><content>Nice work.</content></utterance>
+<utterance uid="24-25"><speaker>LANIE</speaker><content>That was close.</content></utterance>
+<utterance uid="24-26"><speaker>ESPOSITO</speaker><content>No, this is close.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>CASTLE</speaker><content>How does a guy in a wheelchair lift someone into a tank of water?</content></utterance>
+<utterance uid="25-2"><speaker>BECKETT</speaker><content>Mr. Magnus. NYPD. Open up.</content></utterance>
+<utterance uid="25-3"><speaker>CASTLE</speaker><content> Maybe the wheelchair is an act. In every magic story, there’s an unexpected twist where things aren’t always what they seem. It’s an obligation of the genre.</content></utterance>
+<utterance uid="25-4"><speaker>MAGNUS</speaker><content>What?</content></utterance>
+<utterance uid="25-5"><speaker>BECKETT</speaker><content>NYPD. We need to ask you a few questions about Zalman Drake.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>MAGNUS</speaker><content>Zalman Drake of Drake’s Magic. End of an era. I hear it was a failed escape.</content></utterance>
+<utterance uid="26-2"><speaker>BECKETT</speaker><content>More like a successful murder.</content></utterance>
+<utterance uid="26-3"><speaker>CASTLE</speaker><content>He was asphyxiated before he was lowered into the tank.</content></utterance>
+<utterance uid="26-4"><speaker>MAGUS</speaker><content>You mean he was really murdered?</content></utterance>
+<utterance uid="26-5"><speaker>CASTLE</speaker><content>Guess whose van was spotted outside his shop right about when he died?</content></utterance>
+<utterance uid="26-6"><speaker>MAGNUS</speaker><content>Would you just not touch that, please? Took me five years to build it.</content></utterance>
+<utterance uid="26-7"><speaker>BECKETT</speaker><content>What was he working on for you? What were the explosives for?</content></utterance>
+<utterance uid="26-8"><speaker>MAGNUS</speaker><content>Explosives? What are you talking about? Look, Zalman was my friend. He didn’t work for me, I worked for him, making specialty items for those tricks that he designed. Nothing explosive, just things like that.</content></utterance>
+<utterance uid="26-9"><speaker>CASTLE</speaker><content>Doesn’t change the fact you were at his store when he died.</content></utterance>
+<utterance uid="26-10"><speaker>MAGNUS</speaker><content>Does it look like I could have lifted him into a tank?</content></utterance>
+<utterance uid="26-11"><speaker>CASTLE</speaker><content>Well, maybe you borrowed a set of legs. Maybe these, or someone else’s.</content></utterance>
+<utterance uid="26-12"><speaker>MAGNUS</speaker><content>If anyone killed him, it was those guys he met.</content></utterance>
+<utterance uid="26-13"><speaker>BECKETT</speaker><content>What guys?</content></utterance>
+<utterance uid="26-14"><speaker>MAGNUS</speaker><content>Those guys he was working for. I was there at the warehouse when they called. I went there to pick up a check for some work I did on a job. They wanted to meet him. Told him to go to the store after closing. Zalman asked me to drop him off. Next thing I hear, he’s dead. I didn’t know it was murder.</content></utterance>
+<utterance uid="26-15"><speaker>BECKETT</speaker><content>The job that you did for him, what was it?</content></utterance>
+<utterance uid="26-16"><speaker>MAGNUS</speaker><content>He wanted me to make him a mechanical arm. You know, something to trigger a switch remotely.</content></utterance>
+<utterance uid="26-17"><speaker>CASTLE</speaker><content>Theoretically, what could it trigger?</content></utterance>
+<utterance uid="26-18"><speaker>MAGNUS</speaker><content>Well, anything. Turn on a light, ring a bell…</content></utterance>
+<utterance uid="26-19"><speaker>BECKETT</speaker><content>Set off a bomb?</content></utterance>
+<utterance uid="26-20"><speaker>MAGNUS</speaker><content>Look, I swear, I thought he was joking.</content></utterance>
+<utterance uid="26-21"><speaker>BECKETT</speaker><content>About what?</content></utterance>
+<utterance uid="26-22"><speaker>MAGNUS</speaker><content>He said this was his greatest magic trick ever. Said he was getting paid a fortune … to get away with murder.</content></utterance>
+</scene>
+
+<scene id="27"><utterance uid="27-1"><speaker>RYAN</speaker><content>Do you really think someone would hire a magician to help them get away with murder?</content></utterance>
+<utterance uid="27-2"><speaker>BECKETT</speaker><content>I mean, it’s brilliant really. Magicians are masters at misdirection. If they can manipulate audiences, they can manipulate witnesses. They could even make people testify to things that never happened.</content></utterance>
+<utterance uid="27-3"><speaker>CASTLE</speaker><content>It’s so hard to believe that a person with that much respect for magic would use his skills to kill.</content></utterance>
+<utterance uid="27-4"><speaker>BECKETT</speaker><content>He needed to save his shop, and a half a million dollar payday was too good to be true.</content></utterance>
+<utterance uid="27-5"><speaker>RYAN</speaker><content>It was, and instead of a payday he got whacked.</content></utterance>
+<utterance uid="27-6"><speaker>BECKETT</speaker><content>Well, the people who hired him probably figured it was safer to kill him than to run the risk of having an attack of conscience and rat them out.</content></utterance>
+<utterance uid="27-7"><speaker>CASTLE</speaker><content>Okay, so, without evidence how are we going to find them?</content></utterance>
+<utterance uid="27-8"><speaker>BECKETT</speaker><content>By finding out exactly who they hired Zalman to kill. We know he was working on a trick, involving C4 and a remote triggering device.</content></utterance>
+<utterance uid="27-9"><speaker>RYAN</speaker><content>Well, whoever he killed went out with a bang.</content></utterance>
+<utterance uid="27-10"><speaker>BECKETT</speaker><content>There can’t have been that many deaths in the tri-state area in the last couple of weeks where someone was killed by an explosion. Where are we with ATF and the fire department?</content></utterance>
+<utterance uid="27-11"><speaker>RYAN</speaker><content>We’re supposed to get their reports in the morning.</content></utterance>
+<utterance uid="27-12"><speaker>BECKETT</speaker><content>Okay, in the meantime let’s see what we can dig up ourselves.</content></utterance>
+</scene>
+
+<scene id="28"><utterance uid="28-1"><speaker>CASTLE</speaker><content>You know how many explosions there are in New York City every week? Steam pipe explodes. Gas stove explodes.</content></utterance>
+<utterance uid="28-2"><speaker>MARTHA</speaker><content>Unhappy couple explodes. But didn’t you explode in a rather ritzy restaurant with uh –</content></utterance>
+<utterance uid="28-3"><speaker>MARTHA</speaker><content>Ah ha. Speak of the devil.  You’re not going to answer that?</content></utterance>
+<utterance uid="28-4"><speaker>CASTLE</speaker><content>Answer what?</content></utterance>
+<utterance uid="28-5"><speaker>MARTHA</speaker><content>Ooh, well done. Of course, making your phone disappear doesn’t make your problems disappear.</content></utterance>
+<utterance uid="28-6"><speaker>CASTLE</speaker><content>No.</content></utterance>
+<utterance uid="28-7"><speaker>MARTHA</speaker><content>C’mon kiddo. What’s going on with you two? Really?</content></utterance>
+<utterance uid="28-8"><speaker>CASTLE</speaker><content>Nothing’s going on.</content></utterance>
+<utterance uid="28-9"><speaker>CASTLE</speaker><content>No, nothing is all. Everything is fine. Everything is … just fine. It’s ordinary. Problem is, I don’t want ordinary. I want –</content></utterance>
+<utterance uid="28-10"><speaker>MARTHA</speaker><content>Magic.</content></utterance>
+<utterance uid="28-11"><speaker>CASTLE</speaker><content>Yeah. You know what the problem is? We just aren’t in love. Neither one of us wants to admit … organophosphates.</content></utterance>
+<utterance uid="28-12"><speaker>CASTLE</speaker><content>It wasn’t a nerve agent. It was jet oil. Zalman was at an airport.</content></utterance>
+<utterance uid="28-13"><speaker>MARTHA</speaker><content>What? I –</content></utterance>
+<utterance uid="28-14"><speaker>CASTLE</speaker><content>I gotta go.</content></utterance>
+<utterance uid="28-15"><speaker>MARTHA</speaker><content>Now you see him, now you don’t.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>CASTLE</speaker><content>Hey. I think I figured out who Zalman was paid to kill.</content></utterance>
+<utterance uid="29-2"><speaker>BECKETT</speaker><content>Billionaire philanthropist Christian Dahl?</content></utterance>
+<utterance uid="29-3"><speaker>CASTLE</speaker><content>How did you –?</content></utterance>
+<utterance uid="29-4"><speaker>BECKETT</speaker><content>Organophosphates, jet oil, airport.</content></utterance>
+<utterance uid="29-5"><speaker>CASTLE</speaker><content>It’s like we could be twins. Connection.</content></utterance>
+<utterance uid="29-6"><speaker>BECKETT</speaker><content>Conjecture. All we know right now is that Dahl took off from Teterboro Saturday afternoon intending to set a trans-Atlantic speed record in his jet.</content></utterance>
+<utterance uid="29-7"><speaker>RYAN</speaker><content>Apparently something went wrong and the plane broke up midair. Witnesses out on an oil tanker on Long Island Sound claim to have seen a white flash and smoke in the sky.</content></utterance>
+<utterance uid="29-8"><speaker>CASTLE</speaker><content>Well, a midair explosion would account for all the C4 that Zalman bought from Chuck.</content></utterance>
+<utterance uid="29-9"><speaker>RYAN</speaker><content>And Magnus’ remote triggering device.</content></utterance>
+<utterance uid="29-10"><speaker>CASTLE</speaker><content>Whoever wanted Christian dead probably killed Zalman to cover up the crime.</content></utterance>
+<utterance uid="29-11"><speaker>BECKETT</speaker><content>Except all we have now is speculation.</content></utterance>
+<utterance uid="29-12"><speaker>ESPOSITO</speaker><content>Yo, I just got off with the FAA. They’re sending over footage of the takeoff.</content></utterance>
+<utterance uid="29-13"><speaker>CASTLE</speaker><content>Okay, there’s Dahl getting on his jet for the trans-Atlantic flight attempt. Looks like he’s doing his pre-flight. Look at that.</content></utterance>
+<utterance uid="29-14"><speaker>BECKETT</speaker><content>It matches the outline on the wall in Zalman’s workshop. He was painting a decal.</content></utterance>
+<utterance uid="29-15"><speaker>CASTLE</speaker><content>Zoom in on that guy.</content></utterance>
+<utterance uid="29-16"><speaker>BECKETT</speaker><content>It’s Zalman Drake.</content></utterance>
+<utterance uid="29-17"><speaker>RYAN</speaker><content>He’s dressed like a caterer.</content></utterance>
+<utterance uid="29-18"><speaker>ESPOSITO</speaker><content>Probably so he could get past security. He delivered something.</content></utterance>
+<utterance uid="29-19"><speaker>CASTLE</speaker><content>Yeah, explosives and a triggering device. This was a murder for hire. Skip ahead and …. freeze it.</content></utterance>
+<utterance uid="29-20"><speaker>BECKETT</speaker><content>He planned for Christian Dahl’s plane to break up over the Atlantic.</content></utterance>
+<utterance uid="29-21"><speaker>CASTLE</speaker><content>It’s the perfect crime. No evidence.</content></utterance>
+<utterance uid="29-22"><speaker>RYAN</speaker><content>No body.</content></utterance>
+<utterance uid="29-23"><speaker>ESPOSITO</speaker><content>No killer.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>ESPOSITO</speaker><content> Are you crazy? I’ve never even tried anything like that.  Yeah, okay, yeah. Me too. ‘Bye.</content></utterance>
+<utterance uid="30-2"><speaker>RYAN</speaker><content>Who was that?</content></utterance>
+<utterance uid="30-3"><speaker>ESPOSITO</speaker><content>Coast Guard. I was just seeing if they, uh, found the plane’s data recorder.</content></utterance>
+<utterance uid="30-4"><speaker>RYAN</speaker><content>Did they?</content></utterance>
+<utterance uid="30-5"><speaker>ESPOSITO</speaker><content>Did they what?</content></utterance>
+<utterance uid="30-6"><speaker>BECKETT</speaker><content>Hey guys! Where are you on Christian Dahl?</content></utterance>
+<utterance uid="30-7"><speaker>RYAN</speaker><content>This guy is unbelievable. He became a billionaire by always being in exactly the right place at exactly the right time to invest in whatever stock, product, or idea was just about to hit.</content></utterance>
+<utterance uid="30-8"><speaker>BECKETT</speaker><content>Did he have any enemies? Anyone that was threatening him?</content></utterance>
+<utterance uid="30-9"><speaker>ESPOSITO</speaker><content>No, all the people I talked to loved him. He gave away more money than Oprah and he gave a lot of money to research into the occult.</content></utterance>
+<utterance uid="30-10"><speaker>RYAN</speaker><content>He climbed Everest, he flew across Europe in a hot air balloon, he even drove a dogsled in the Iditarod.</content></utterance>
+<utterance uid="30-11"><speaker>BECKETT</speaker><content>Well, with that much going for him he had to have had a couple of haters.</content></utterance>
+<utterance uid="30-12"><speaker>RYAN</speaker><content>Just one. And she had both motive and opportunity.</content></utterance>
+<utterance uid="30-13"><speaker>BECKETT</speaker><content>Naomi Weldon?</content></utterance>
+<utterance uid="30-14"><speaker>RYAN</speaker><content>Naomi Weldon Dahl. Christian’s wife and former fashion model. Apparently, a month ago, Christian caught her having an affair and according to their prenup, if he divorced her she wound up with nothing.</content></utterance>
+<utterance uid="30-15"><speaker>BECKETT</speaker><content>And if he dies, she inherits billions.</content></utterance>
+<utterance uid="30-16"><speaker>CASTLE</speaker><content>Where was this photo taken?</content></utterance>
+<utterance uid="30-17"><speaker>RYAN</speaker><content>Ah, you noticed. The Dahl Foundation Benefit six weeks ago.</content></utterance>
+<utterance uid="30-18"><speaker>CASTLE</speaker><content>And the entertainment for the evening was …?</content></utterance>
+<utterance uid="30-19"><speaker>BECKETT</speaker><content>Zalman Drake.</content></utterance>
+<utterance uid="30-20"><speaker>CASTLE</speaker><content>You know, Jerome did say Zalman made someone disappear that night.</content></utterance>
+<utterance uid="30-21"><speaker>BECKETT</speaker><content>Naomi sees his performance and wonders if Zalman can make her husband disappear forever.</content></utterance>
+<utterance uid="30-22"><speaker>RYAN</speaker><content>And with billions on the line –</content></utterance>
+<utterance uid="30-23"><speaker>ESPOSITO</speaker><content>Half a million is just chump change.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>NAOMI</speaker><content>When they told me Christian’s plane disappeared, that’s exactly what I thought.</content></utterance>
+<utterance uid="31-2"><speaker>BECKETT</speaker><content>That your husband’s death was no accident.</content></utterance>
+<utterance uid="31-3"><speaker>NAOMI</speaker><content>Christian was a perfectionist. And he was superstitious. He did three background checks before he married me.</content></utterance>
+<utterance uid="31-4"><speaker>BECKETT</speaker><content>You and your husband had an airtight prenuptial agreement.</content></utterance>
+<utterance uid="31-5"><speaker>NAOMI</speaker><content>Standard when two high profile people marry.</content></utterance>
+<utterance uid="31-6"><speaker>BECKETT</speaker><content>And if you left the marriage or had an affair, you’d be leaving the marriage without spousal or child support.</content></utterance>
+<utterance uid="31-7"><speaker>NAOMI</speaker><content>Those were the terms. I have my own career. I can take care of myself.</content></utterance>
+<utterance uid="31-8"><speaker>BECKETT</speaker><content>But you were having an affair.</content></utterance>
+<utterance uid="31-9"><speaker>NAOMI</speaker><content>Whether or not I had an affair is none of your affair. If you’re implying I murdered my husband to be with someone else, you’re mistaken. I wouldn’t kill anyone.</content></utterance>
+<utterance uid="31-10"><speaker>CASTLE</speaker><content>Not even to inherit a fortune?</content></utterance>
+<utterance uid="31-11"><speaker>NAOMI</speaker><content>Well, then the joke would be on me. There is no fortune. All of Christian’s accounts have been frozen.</content></utterance>
+<utterance uid="31-12"><speaker>BECKETT</speaker><content>You mean you’re in probate.</content></utterance>
+<utterance uid="31-13"><speaker>NAOMI</speaker><content>No, I mean frozen.</content></utterance>
+<utterance uid="31-14"><speaker>BECKETT</speaker><content>Why?</content></utterance>
+<utterance uid="31-15"><speaker>NAOMI</speaker><content>You’ll have to ask the district attorney’s office. God knows they wouldn’t tell me.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>BECKETT</speaker><content>That was the DA. Apparently, at the time of his death, our billionaire investment guru was being investigated by the SEC. They thought he was making his money the old fashioned way. By stealing it. All of his amazing stock returns were falsified. The whole thing was a Ponzi scheme. As it turns out, they were a couple of weeks away from indicting Christian Dahl for massive fraud. He was going to lose everything and face fifty years in federal prison.</content></utterance>
+<utterance uid="32-2"><speaker>CASTLE</speaker><content>If I were him I’d want to disappear too.</content></utterance>
+<utterance uid="32-3"><speaker>BECKETT</speaker><content>And what better way to disappear…</content></utterance>
+<utterance uid="32-4"><speaker>CASTLE</speaker><content>…than to hire a magician?</content></utterance>
+<utterance uid="32-5"><speaker>BECKETT</speaker><content>Bingo.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>CASTLE</speaker><content>Christian Dahl is on his plane doing his preflight check. Zalman leaves the plane. Dahl taxis to the runway and takes off.</content></utterance>
+<utterance uid="33-2"><speaker>BECKETT</speaker><content>Well, he had to have gotten off at some point, otherwise it would be a suicide mission, and you don’t need a magician for that.</content></utterance>
+<utterance uid="33-3"><speaker>CASTLE</speaker><content>Unless …  … that isn’t Christian Dahl.</content></utterance>
+<utterance uid="33-4"><speaker>BECKETT</speaker><content>Looks just like him.</content></utterance>
+<utterance uid="33-5"><speaker>CASTLE</speaker><content> Dummy.  Not you. The … one … in the cockpit. They switched out real Dahl for dummy Dahl. Magnus didn’t build a triggering device for an explosion. The arm he built was for doing the preflight checks. The whole thing is an automaton. That’s the magic trick. He made it look to the world like Christian Dahl was still on the plane the same way Tobias Strange made it look like he was still in the cabinet when the swords went in.</content></utterance>
+<utterance uid="33-6"><speaker>BECKETT</speaker><content>And then he used the catering box to get the dummy on board and Christian Dahl off. Then who’s piloting that plane?</content></utterance>
+<utterance uid="33-7"><speaker>CASTLE</speaker><content>Christian Dahl. Only not from the cockpit. He had it rigged to fly by remote control. See? Zalman puts the box in the van. There’s probably a console on there linked to the plane’s avionics. Dahl takes off remotely, flies out over the Atlantic –</content></utterance>
+<utterance uid="33-8"><speaker>BECKETT</speaker><content>And then he detonates the explosion and everyone thinks that he’s dead because everyone’s seen him on board.</content></utterance>
+<utterance uid="33-9"><speaker>CASTLE</speaker><content>Only Dahl is very much alive and there’s only one person in the world that knows it.</content></utterance>
+<utterance uid="33-10"><speaker>BECKETT</speaker><content>Zalman. And as long as he’s alive he’s a threat to Dahl.</content></utterance>
+<utterance uid="33-11"><speaker>CASTLE</speaker><content>So Dahl has to tie up that one loose end.</content></utterance>
+<utterance uid="33-12"><speaker>BECKETT</speaker><content>But he can’t risk anyone knowing that he’s still alive.</content></utterance>
+<utterance uid="33-13"><speaker>CASTLE</speaker><content>So Dahl has to kill Zalman himself.</content></utterance>
+<utterance uid="33-14"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="33-15"><speaker>CASTLE</speaker><content>Nothing. So what do we do now?</content></utterance>
+<utterance uid="33-16"><speaker>BECKETT</speaker><content>Well, it’s four days since the accident. Christian Dahl is probably in some non-extradition country with a chunk of his fortune by now.</content></utterance>
+<utterance uid="33-17"><speaker>CASTLE</speaker><content>Yeah, probably. Unless …</content></utterance>
+<utterance uid="33-18"><speaker>BECKETT</speaker><content>Unless what?</content></utterance>
+<utterance uid="33-19"><speaker>CASTLE</speaker><content>Well, Dahl does everything publicly. The guy loves being famous. Everyone thinks he’s dead. A guy like that … no, it’s crazy.</content></utterance>
+<utterance uid="33-20"><speaker>BECKETT</speaker><content>Castle, crazy is exactly what we need right now.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>BECKETT</speaker><content>Castle, this is crazy.</content></utterance>
+<utterance uid="34-2"><speaker>CASTLE</speaker><content>Crazy, but in character. Look at the kind of guy Christian Dahl was, how he loved the limelight, his fascination with life after death. You think a guy like that is going to miss the opportunity to attend his own funeral?</content></utterance>
+<utterance uid="34-3"><speaker>BECKETT</speaker><content>Would you?</content></utterance>
+<utterance uid="34-4"><speaker>CASTLE</speaker><content>Not a chance.</content></utterance>
+<utterance uid="34-5"><speaker>BECKETT</speaker><content>Okay so, if he’s here, how do we find him?</content></utterance>
+<utterance uid="34-6"><speaker>CASTLE</speaker><content>Well, he’ll be in disguise of course. Look for an anomaly. Someone who is trying to fit in, yet sticking to the outskirts. Someone who isn’t engaging in conversation, but at the same time eavesdropping on other people’s conversations. Someone who’s –</content></utterance>
+<utterance uid="34-7"><speaker>BECKETT</speaker><content>Got long hair, a beard, and thousand dollar shoes?</content></utterance>
+<utterance uid="34-8"><speaker>CASTLE</speaker><content>Yeah, that’ll work too.</content></utterance>
+<utterance uid="34-9"><speaker>BECKETT</speaker><content>Mr. Dahl.</content></utterance>
+<utterance uid="34-10"><speaker>ESPOSITO</speaker><content>Should’ve stayed dead, bro.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>DAHL</speaker><content>So I faked my own death. So what? That’s not a crime. What are you going to charge me with? Littering the Atlantic? I’ll stand in line behind BP.</content></utterance>
+<utterance uid="35-2"><speaker>BECKETT</speaker><content>The charge is premeditated murder.</content></utterance>
+<utterance uid="35-3"><speaker>CASTLE</speaker><content>We figured out your little trick. Zalman performed for your charity event, he made you disappear. Giving you the inspiration to pull the ultimate escape. You knew he needed money, so you made him an offer he couldn’t refuse.</content></utterance>
+<utterance uid="35-4"><speaker>BECKETT</speaker><content>But you never planned on paying him, did you Mr. Dahl? You planned on using his desperation over the loss of his family’s legacy to make people think that he committed suicide.</content></utterance>
+<utterance uid="35-5"><speaker>CASTLE</speaker><content>Staging a shooting is too cumbersome. Too many questions. Where did the gun come from? So you used what you had on hand to get rid of the only person on Earth who knew you were still alive. Once he was gone you’d be free and clear.</content></utterance>
+<utterance uid="35-6"><speaker>DAHL</speaker><content>Is this what you do when you can’t solve a crime? Concoct fantasies?</content></utterance>
+<utterance uid="35-7"><speaker>BECKETT</speaker><content>The rabbit hair that lined your gloves was found on our victim. You called Zalman, met him at his shop, put your gloved hand over his mouth and then you smothered him.</content></utterance>
+<utterance uid="35-8"><speaker>DAHL</speaker><content>If you think I’m afraid of you or the SEC, I will beat your pants off and enjoy every minute of it. Assuming you can find me once I’m out on bail.</content></utterance>
+<utterance uid="35-9"><speaker>BECKETT</speaker><content>It’s not me you should be scared of, Mr. Dahl, or the SEC. You should be afraid of what you’ve become.</content></utterance>
+<utterance uid="35-10"><speaker>DAHL</speaker><content>Once you’re done with your lecture and your petty threats, I’d like to see my –</content></utterance>
+<utterance uid="35-11"><speaker>DAHL</speaker><content>- my lawyer.</content></utterance>
+<utterance uid="35-12"><speaker>CASTLE</speaker><content>Something wrong, Dahl?</content></utterance>
+<utterance uid="35-13"><speaker>DAHL</speaker><content>No.</content></utterance>
+<utterance uid="35-14"><speaker>BECKETT</speaker><content>Christian?</content></utterance>
+<utterance uid="35-15"><speaker>DAHL</speaker><content>How are you doing that?</content></utterance>
+<utterance uid="35-16"><speaker>BECKETT</speaker><content>Doing what?</content></utterance>
+<utterance uid="35-17"><speaker>CASTLE</speaker><content>Is he having flashbacks?</content></utterance>
+<utterance uid="35-18"><speaker>BECKETT</speaker><content>I don’t know.</content></utterance>
+<utterance uid="35-19"><speaker>DAHL</speaker><content>Do you see him?</content></utterance>
+<utterance uid="35-20"><speaker>BECKETT</speaker><content>See who?</content></utterance>
+<utterance uid="35-21"><speaker>DAHL</speaker><content>He was right here. Oh God. You can’t be here.</content></utterance>
+<utterance uid="35-22"><speaker>DAHL</speaker><content>You’re dead. I … I killed you.</content></utterance>
+<utterance uid="35-23"><speaker>BECKETT</speaker><content>Alakazam, jackass.</content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>CASTLE</speaker><content>How did you know that would work?</content></utterance>
+<utterance uid="36-2"><speaker>BECKETT</speaker><content>I didn’t. Just knew he’d lawyer up, so I figured why not take a shot?</content></utterance>
+<utterance uid="36-3"><speaker>CASTLE</speaker><content>Your grandfather would be proud.</content></utterance>
+<utterance uid="36-4"><speaker>BECKETT</speaker><content>Thank you so much, gentlemen.</content></utterance>
+<utterance uid="36-5"><speaker>TOBIAS</speaker><content>Always a pleasure to lend a hand to the NYPD. I might add this one to my repertoire, as a tribute to your brother.</content></utterance>
+<utterance uid="36-6"><speaker>EDMUND</speaker><content>Thank you, Detective, Mr. Castle.</content></utterance>
+<utterance uid="36-7"><speaker>CASTLE</speaker><content>So what’s going to happen to Drake’s Magic Shop?</content></utterance>
+<utterance uid="36-8"><speaker>EDMUND</speaker><content>Tobias and I were discussing it. Zalman put his life on the line for it, so we’d like to find a way to keep it alive.</content></utterance>
+<utterance uid="36-9"><speaker>TOBIAS</speaker><content>Maybe we can pull a solution out of our collective hats.</content></utterance>
+<utterance uid="36-10"><speaker>BECKETT</speaker><content>Goodnight.</content></utterance>
+<utterance uid="36-11"><speaker>RYAN</speaker><content>Hey, could you …</content></utterance>
+<utterance uid="36-12"><speaker>BECKETT</speaker><content>Oh, yeah.</content></utterance>
+<utterance uid="36-13"><speaker>BECKETT</speaker><content>So … where’s Esposito?</content></utterance>
+<utterance uid="36-14"><speaker>RYAN</speaker><content>Ha, take a wild guess.</content></utterance>
+<utterance uid="36-15"><speaker>BECKETT_CASTLE</speaker><content>Lanie?</content></utterance>
+<utterance uid="36-16"><speaker>RYAN</speaker><content>Can you believe they still think none of us know?</content></utterance>
+<utterance uid="36-17"><speaker>CASTLE</speaker><content>Well, let’s let them keep thinking that a little while longer. The bubble’ll burst soon enough.</content></utterance>
+<utterance uid="36-18"><speaker>BECKETT</speaker><content>Not if you’re in it with the right person. Thanks.</content></utterance>
+<utterance uid="36-19"><speaker>CASTLE</speaker><content>Excuse me, I need to take this.</content></utterance>
+<utterance uid="36-20"><speaker>BECKETT</speaker><content>Of course.</content></utterance>
+</scene>
+<scene id="37"><utterance uid="37-1"><speaker>CASTLE</speaker><content>No, no. What I’m saying is, it’s over.</content></utterance>
+</scene>
+<scene id="38"><utterance uid="38-1"><speaker>CASTLE</speaker><content>Heading out?</content></utterance>
+<utterance uid="38-2"><speaker>BECKETT</speaker><content>Yeah, it’s late.</content></utterance>
+<utterance uid="38-3"><speaker>CASTLE</speaker><content>Motorcycle Boy?</content></utterance>
+<utterance uid="38-4"><speaker>BECKETT</speaker><content>I really wish you would stop calling him that.</content></utterance>
+<utterance uid="38-5"><speaker>CASTLE</speaker><content>Doctor Motorcycle Boy?</content></utterance>
+<utterance uid="38-6"><speaker>BECKETT</speaker><content>He’s on shift tonight. I was going to see if I could catch the comfort food truck.  You want to come?</content></utterance>
+<utterance uid="38-7"><speaker>CASTLE</speaker><content>Macaroni and cheese? Warm biscuits? Hot chocolate? How could I say no? Hey, I wanted to say thanks, for, um… not mentioning that article or asking what was going on.</content></utterance>
+<utterance uid="38-8"><speaker>BECKETT</speaker><content>No problem.</content></utterance>
+</scene>
+</script>

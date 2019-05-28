@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+
+<scene id="1"><utterance uid="1-1"><speaker>MIA</speaker><content>Oh, no, no, no, no, no.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>RICHARD CASTLE</speaker><content>Lucy, I’m home!</content></utterance>
+<utterance uid="2-2"><speaker>LUCY</speaker><content>Ricky!</content></utterance>
+<utterance uid="2-3"><speaker>MARTHA RODGERS</speaker><content>Hello, darling!</content></utterance>
+<utterance uid="2-4"><speaker>CASTLE</speaker><content>Lucy should have told me we have company.</content></utterance>
+<utterance uid="2-5"><speaker>LUCY</speaker><content>That costs extra.</content></utterance>
+<utterance uid="2-6"><speaker>MARTHA</speaker><content> Well, according to your little mechanical friend here, you have been drowning your sorrows in frozen pizza, online shopping -</content></utterance>
+<utterance uid="2-7"><speaker>ALEXIS</speaker><content>And Dolph Lundgren marathons.</content></utterance>
+<utterance uid="2-8"><speaker>CASTLE</speaker><content>Et tu, Lucy? Is nothing private?</content></utterance>
+<utterance uid="2-9"><speaker>LUCY</speaker><content>Not without the proper setting.</content></utterance>
+<utterance uid="2-10"><speaker>MARTHA</speaker><content>Darling. I – I know it’s difficult for you without Katherine, but really? Isn’t it a little early in the day for this?</content></utterance>
+<utterance uid="2-11"><speaker>CASTLE</speaker><content>These are for Ryan and Esposito. They get the results of their sergeants’ exam today, so I thought I’d drop down to the precinct, surprise them later on.</content></utterance>
+<utterance uid="2-12"><speaker>ALEXIS</speaker><content>And if Beckett happens to be there –</content></utterance>
+<utterance uid="2-13"><speaker>CASTLE</speaker><content>All the more reason to celebrate.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>KATE BECKETT</speaker><content>Hey, so any word on the exam?</content></utterance>
+<utterance uid="3-2"><speaker>JAVIER ESPOSITO</speaker><content>Stop it!</content></utterance>
+<utterance uid="3-3"><speaker>KEVIN RYAN</speaker><content>You’re gonna jinx it.</content></utterance>
+<utterance uid="3-4"><speaker>BECKETT</speaker><content>Okay. Okay.  Done. Hey, Lanie.</content></utterance>
+<utterance uid="3-5"><speaker>LANIE PARISH</speaker><content>Hey.</content></utterance>
+<utterance uid="3-6"><speaker>BECKETT</speaker><content>So who is this?</content></utterance>
+<utterance uid="3-7"><speaker>LANIE</speaker><content>Justin Fletcher, 38. Two GSWs to the chest, close range.</content></utterance>
+<utterance uid="3-8"><speaker>BECKETT</speaker><content>Any idea when this happened?</content></utterance>
+<utterance uid="3-9"><speaker>LANIE</speaker><content>Around 10:14 AM.</content></utterance>
+<utterance uid="3-10"><speaker>BECKETT</speaker><content>Wow, that’s pretty specific.</content></utterance>
+<utterance uid="3-11"><speaker>LANIE</speaker><content>That’s when 911 received an anonymous call from a witness.</content></utterance>
+<utterance uid="3-12"><speaker>RYAN</speaker><content>Tech’s trying to trace it now.</content></utterance>
+<utterance uid="3-13"><speaker>BECKETT</speaker><content>So that’s our victim’s car?</content></utterance>
+<utterance uid="3-14"><speaker>RYAN</speaker><content>Yeah. Keys were in his pocket. We’re just digging into it.</content></utterance>
+<utterance uid="3-15"><speaker>BECKETT</speaker><content>Then this wasn’t a carjacking.</content></utterance>
+<utterance uid="3-16"><speaker>ESPOSITO</speaker><content>Or a robbery. Victim still had his cash and wallet on him.</content></utterance>
+<utterance uid="3-17"><speaker>BECKETT</speaker><content>These are bulletproof windows, huh?</content></utterance>
+<utterance uid="3-18"><speaker>ESPOSITO</speaker><content>That’s not the only upgrade. These tires are reinforced run-flat and there are Kevlar panels in these doors.</content></utterance>
+<utterance uid="3-19"><speaker>BECKETT</speaker><content>So what do you think? Maybe he was corporate security?</content></utterance>
+<utterance uid="3-20"><speaker>RYAN</speaker><content>Not with that tiny backseat.</content></utterance>
+<utterance uid="3-21"><speaker>RYAN</speaker><content>I mean, there’s no room for a guy to get in there.</content></utterance>
+<utterance uid="3-22"><speaker>BECKETT</speaker><content>Oh.</content></utterance>
+<utterance uid="3-23"><speaker>RYAN</speaker><content>I’m just going to step –</content></utterance>
+<utterance uid="3-24"><speaker>BECKETT</speaker><content>Yeah. Okay. Wow.</content></utterance>
+<utterance uid="3-25"><speaker>BECKETT</speaker><content>And the plot thickens.</content></utterance>
+<utterance uid="3-26"><speaker>BECKETT</speaker><content>Espo, why don’t you get CSU to sweep this. Maybe they can tell us what our victim was hiding here.</content></utterance>
+<utterance uid="3-27"><speaker>ESPOSITO</speaker><content>Might be what he was killed for.</content></utterance>
+<utterance uid="3-28"><speaker>LANIE</speaker><content>Is that the test results?</content></utterance>
+<utterance uid="3-29"><speaker>RYAN</speaker><content>No. No! Tech got a name and address on that anonymous 911 call. Mia Laszlo. Address in Battery Park.</content></utterance>
+<utterance uid="3-30"><speaker>BECKETT</speaker><content>All right. Pick her up.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>MIA</speaker><content>Yes?</content></utterance>
+<utterance uid="4-2"><speaker>ESPOSITO</speaker><content>Ms. Laszlo? I’m Detective Esposi-</content></utterance>
+<utterance uid="4-3"><speaker>ESPOSITO</speaker><content>- Detective Esposito, this is Detective Ryan. We want to ask you a few questions about that murder you reported. Can we come in?</content></utterance>
+<utterance uid="4-4"><speaker>MIA</speaker><content>No.</content></utterance>
+<utterance uid="4-5"><speaker>RYAN</speaker><content>Excuse me, ma’am, we still need to talk to you.</content></utterance>
+<utterance uid="4-6"><speaker>MIA</speaker><content>There is a reason it was an anonymous call.</content></utterance>
+<utterance uid="4-7"><speaker>RYAN</speaker><content>You witnessed a murder. So you either let us in to talk or we can drag you down to the station.</content></utterance>
+<utterance uid="4-8"><speaker>MIA</speaker><content>Just a minute.</content></utterance>
+<utterance uid="4-9"><speaker>MIA</speaker><content>Okay, listen closely. This is how this is going to go. I ride in the back seat, alone. And the windows stay down the whole way.</content></utterance>
+</scene>
+
+<scene id="5"><utterance uid="5-1"><speaker>BECKETT</speaker><content>Can you think of anyone who would’ve wanted to kill your brother?</content></utterance>
+<utterance uid="5-2"><speaker>GRAHAM</speaker><content>No, everybody loved Justin. He was such a good guy.  He left the army to take care of me after our parents died. He made sure that I went to college. He – uh, he paid for all of it, even though he had a hard time finding a job at first.</content></utterance>
+<utterance uid="5-3"><speaker>BECKETT</speaker><content>And what did he do exactly?</content></utterance>
+<utterance uid="5-4"><speaker>GRAHAM</speaker><content>He was a high end driver. Made a lot of deliveries.</content></utterance>
+<utterance uid="5-5"><speaker>BECKETT</speaker><content>Anything illegal?</content></utterance>
+<utterance uid="5-6"><speaker>GRAHAM</speaker><content>I don’t know. Why?</content></utterance>
+<utterance uid="5-7"><speaker>BECKETT</speaker><content>We found a secret compartment in his car and we think that he might have been killed because of what was inside. Do you have any idea what he kept in there? Or maybe what he was doing in the garage this morning?</content></utterance>
+<utterance uid="5-8"><speaker>GRAHAM</speaker><content>No. The last time that I spoke to him was yesterday. He said that he had to go meet someone named Falcon.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>RYAN</speaker><content> Hey, Beckett. Beckett, Beckett, Beckett, Beckett.</content></utterance>
+<utterance uid="6-2"><speaker>RYAN</speaker><content>Do I smell?</content></utterance>
+<utterance uid="6-3"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="6-4"><speaker>RYAN</speaker><content>Our witness is threatening to file a complaint against me for assault with a deadly odor. Says I smell like soiled baby diapers, and Javi’s cologne is, quote, “Satan’s butt sweat”.</content></utterance>
+<utterance uid="6-5"><speaker>BECKETT</speaker><content>I mean, yeah, it is pretty strong, but …</content></utterance>
+<utterance uid="6-6"><speaker>RYAN</speaker><content>Can you interview her? You always smell so pretty.  Captain.</content></utterance>
+<utterance uid="6-7"><speaker>BECKETT</speaker><content>Okay, fine. You and Espo dig into Justin’s life, though. See if you can find a connection to someone named Falcon.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>BECKETT</speaker><content>I’m Captain Beckett. Thank you so much for coming in, Ms. Laszlo.</content></utterance>
+<utterance uid="7-2"><speaker>MIA</speaker><content>Let’s just get this over with.</content></utterance>
+<utterance uid="7-3"><speaker>BECKETT</speaker><content>Uh … so, what do you remember about the murder this morning?</content></utterance>
+<utterance uid="7-4"><speaker>MIA</speaker><content>Not much. I heard two gunshots and then a guy with a ski mask got on the elevator with me. I thought he was going to kill me, but he didn’t. Instead he got off at the ground level. I called 911 and left. Can I go home now?</content></utterance>
+<utterance uid="7-5"><speaker>BECKETT</speaker><content>Uh, no.</content></utterance>
+<utterance uid="7-6"><speaker>MIA</speaker><content>Why not?</content></utterance>
+<utterance uid="7-7"><speaker>BECKETT</speaker><content>Because I’m not done asking you questions just … yet.</content></utterance>
+<utterance uid="7-8"><speaker>MIA</speaker><content>Do you always eat kale for breakfast? Because that is just wrong.</content></utterance>
+<utterance uid="7-9"><speaker>BECKETT</speaker><content>How did … you know that I had kale this morning?</content></utterance>
+<utterance uid="7-10"><speaker>MIA</speaker><content>You reek of it. Like this room stinks of grade D Greek food.</content></utterance>
+<utterance uid="7-11"><speaker>BECKETT</speaker><content>You’re very sensitive to smell.</content></utterance>
+<utterance uid="7-12"><speaker>MIA</speaker><content>Oh, you should change your name to Captain Obvious. It’s called hyperosmia. Look it up.</content></utterance>
+<utterance uid="7-13"><speaker>BECKETT</speaker><content>Okay, so … what did our killer smell like?</content></utterance>
+<utterance uid="7-14"><speaker>MIA</speaker><content>Gosh … I don’t know. It was either puppies or gunpowder.</content></utterance>
+<utterance uid="7-15"><speaker>BECKETT</speaker><content>Are you always this unpleasant?</content></utterance>
+<utterance uid="7-16"><speaker>MIA</speaker><content>Yep.</content></utterance>
+<utterance uid="7-17"><speaker>BECKETT</speaker><content>Oh. Is there anything else you remember about the guy in the elevator?</content></utterance>
+<utterance uid="7-18"><speaker>MIA</speaker><content>He was a white guy. He was about six feet tall, dark clothes, and he was carrying a silver briefcase that he got off of that dead guy.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>ESPOSITO</speaker><content>All right, thank you very much.  Well, the owner confirms it. The garage has no cameras.</content></utterance>
+<utterance uid="8-2"><speaker>RYAN</speaker><content>And I’ve got uniforms pulling footage from surrounding areas.</content></utterance>
+<utterance uid="8-3"><speaker>ESPOSITO</speaker><content>Like a well-oiled machine.</content></utterance>
+<utterance uid="8-4"><speaker>ESPOSITO</speaker><content>It’s the exam results.</content></utterance>
+<utterance uid="8-5"><speaker>RYAN</speaker><content>Moment of truth.</content></utterance>
+<utterance uid="8-6"><speaker>ESPOSITO</speaker><content>All right, bro. On three.</content></utterance>
+<utterance uid="8-7"><speaker>RYAN</speaker><content>One, two –</content></utterance>
+<utterance uid="8-8"><speaker>ESPOSITO</speaker><content>- two –</content></utterance>
+<utterance uid="8-9"><speaker>ESPOSITO</speaker><content>Yes! Sergeant Esposito right here.</content></utterance>
+<utterance uid="8-10"><speaker>ESPOSITO</speaker><content>Damn, sorry bro.</content></utterance>
+<utterance uid="8-11"><speaker>RYAN</speaker><content>I don’t understand. How did you pass and I didn’t?</content></utterance>
+<utterance uid="8-12"><speaker>CASTLE</speaker><content>Hey, Ryan. Next time, pal.</content></utterance>
+<utterance uid="8-13"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+<utterance uid="8-14"><speaker>CASTLE</speaker><content>Espo! Way to go!</content></utterance>
+<utterance uid="8-15"><speaker>ESPOSITO</speaker><content>Thanks! Ah, you know.</content></utterance>
+<utterance uid="8-16"><speaker>BECKETT</speaker><content>Hey.</content></utterance>
+<utterance uid="8-17"><speaker>CASTLE</speaker><content>Hey. How’re you doing?</content></utterance>
+<utterance uid="8-18"><speaker>BECKETT</speaker><content>I’m – good.  Um … you know, if you – if you just wait by the elevators Ryan and Espo will take you home.</content></utterance>
+<utterance uid="8-19"><speaker>MIA</speaker><content>I’d rather French kiss a corpse.</content></utterance>
+<utterance uid="8-20"><speaker>BECKETT</speaker><content>A uniform will drive you.</content></utterance>
+<utterance uid="8-21"><speaker>CASTLE</speaker><content>She seems nice. What’s with the nose thing?</content></utterance>
+<utterance uid="8-22"><speaker>BECKETT</speaker><content>Mmm … long story. Um … listen, I was – I was planning on calling you.</content></utterance>
+<utterance uid="8-23"><speaker>CASTLE</speaker><content>Really? Oh. Here I am. Roguishly handsome and at your service. What do you need?</content></utterance>
+<utterance uid="8-24"><speaker>BECKETT</speaker><content>Um … I was just hoping I could stop by the loft later on –  – because I need to pick up the rest of my stuff.</content></utterance>
+<utterance uid="8-25"><speaker>CASTLE</speaker><content>Uh … absolutely. Any time.</content></utterance>
+<utterance uid="8-26"><speaker>BECKETT</speaker><content> Okay. Thanks.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>MIA</speaker><content>She clearly has for the hots for you.</content></utterance>
+<utterance uid="9-2"><speaker>CASTLE</speaker><content>Who?</content></utterance>
+<utterance uid="9-3"><speaker>MIA</speaker><content>Captain Hoochie Mama. Her pheromone output went through the roof when she saw you.</content></utterance>
+<utterance uid="9-4"><speaker>CASTLE</speaker><content>And you know this how?</content></utterance>
+<utterance uid="9-5"><speaker>MIA</speaker><content>I can smell it. Like I can smell you washed your hair with shaving cream this morning. And you chose day-old tacos over brushing your teeth.</content></utterance>
+<utterance uid="9-6"><speaker>CASTLE</speaker><content>Are you a wizard?</content></utterance>
+<utterance uid="9-7"><speaker>MIA</speaker><content>A cursed one.</content></utterance>
+<utterance uid="9-8"><speaker>CASTLE</speaker><content>Wait, you have hyperosmia. Just how heightened is your olfactory acuity?</content></utterance>
+<utterance uid="9-9"><speaker>MIA</speaker><content>It’s off the charts. How do you –</content></utterance>
+<utterance uid="9-10"><speaker>CASTLE</speaker><content>I read a lot. You’re telling me you can tell exactly how Beckett feels about me just by her smell.</content></utterance>
+<utterance uid="9-11"><speaker>MIA</speaker><content>Yes.</content></utterance>
+<utterance uid="9-12"><speaker>CASTLE</speaker><content>Tell you what. I have a brand new Ferrari downstairs. Smells like heaven. How about I give you a ride home and you can tell me a little more. Or Officer Julian here can give you a ride home and his favorite meal is sausages and chocolate milk.</content></utterance>
+<utterance uid="9-13"><speaker>CASTLE</speaker><content>That’s what I thought.  Julian, I got this. Thanks.</content></utterance>
+<utterance uid="9-14"><speaker>CASTLE</speaker><content>Hayley! What are you doing here?</content></utterance>
+<utterance uid="9-15"><speaker>HAYLEY SHIPTON</speaker><content>Working.</content></utterance>
+<utterance uid="9-16"><speaker>CASTLE</speaker><content>She likes me a lot, too. You could probably tell.</content></utterance>
+<utterance uid="9-17"><speaker>MIA</speaker><content>No.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>RYAN</speaker><content>We’re still looking into our victim’s phone records and social media but so far we haven’t found anyone named Falcon.</content></utterance>
+<utterance uid="10-2"><speaker>ESPOSITO</speaker><content>But we did find a possible link to a company named The Falcon Unit. We’re checking that out now.</content></utterance>
+<utterance uid="10-3"><speaker>HAYLEY</speaker><content>Why bother when I could just tell you who they are?</content></utterance>
+<utterance uid="10-4"><speaker>BECKETT</speaker><content>Somebody knows how to make an entrance.</content></utterance>
+<utterance uid="10-5"><speaker>HAYLEY</speaker><content>Hello all.</content></utterance>
+<utterance uid="10-6"><speaker>ESPOSITO</speaker><content>What’s up, girl? Nice to see you again. Great pants.</content></utterance>
+<utterance uid="10-7"><speaker>BECKETT</speaker><content>Anyway, you were saying?</content></utterance>
+<utterance uid="10-8"><speaker>HAYLEY</speaker><content>The Falcon Unit. It’s a private company that specialized in transporting sensitive and occasionally illegal items for wealthy clients.</content></utterance>
+<utterance uid="10-9"><speaker>ESPOSITO</speaker><content>So our victim was a transporter. Like the movie?</content></utterance>
+<utterance uid="10-10"><speaker>RYAN</speaker><content>That explains the armored sports car and secret compartment.</content></utterance>
+<utterance uid="10-11"><speaker>BECKETT</speaker><content>So what was in the briefcase?</content></utterance>
+<utterance uid="10-12"><speaker>HAYLEY</speaker><content>I’m afraid the answer to that comes with a price. I want in on the investigation.</content></utterance>
+<utterance uid="10-13"><speaker>BECKETT</speaker><content>And what’s in this for you?</content></utterance>
+<utterance uid="10-14"><speaker>HAYLEY</speaker><content>The item in the briefcase has a rather large insurance policy. The insurance company’s hired me to recover it.</content></utterance>
+<utterance uid="10-15"><speaker>BECKETT</speaker><content>You know, this isn’t a treasure hunt. We’re trying to solve a homicide.</content></utterance>
+<utterance uid="10-16"><speaker>HAYLEY</speaker><content>And your victim was killed for that briefcase, so –  – you find your killer, I find my missing item, everyone goes home happy, hmm?</content></utterance>
+<utterance uid="10-17"><speaker>BECKETT</speaker><content>Okay.</content></utterance>
+<utterance uid="10-18"><speaker>RYAN</speaker><content>So what was our victim hired to transport?</content></utterance>
+<utterance uid="10-19"><speaker>HAYLEY</speaker><content>A Van Gogh. Lost since World War Two. Purchased at auction three weeks ago for sixty-five million dollars.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>BECKETT</speaker><content>Long lost Van Gogh sold for a fortune. How come this wasn’t on the internet.</content></utterance>
+<utterance uid="11-2"><speaker>HAYLEY</speaker><content>Painting has a complicated history. It was looted several times during the war, which made an above board sale impossible, so it was auctioned secretly in Zurich with potential buyers bidding remotely.</content></utterance>
+<utterance uid="11-3"><speaker>RYAN</speaker><content>We should get a list of the other bidders. Maybe one of the losers tried to steal it.</content></utterance>
+<utterance uid="11-4"><speaker>HAYLEY</speaker><content>I already tried. Auction house isn’t playing ball. I mean, they give up their clients, they lose their business.</content></utterance>
+<utterance uid="11-5"><speaker>BECKETT</speaker><content>You know, I’ll reach out to the State Department, see if they can apply a little pressure.</content></utterance>
+<utterance uid="11-6"><speaker>ESPOSITO</speaker><content>I think I found our killer. An ATM camera caught a guy matching our witness’s description exiting the parking garage at 10:30.</content></utterance>
+<utterance uid="11-7"><speaker>BECKETT</speaker><content>That’s fifteen minutes after the murder. How come he was still around?</content></utterance>
+<utterance uid="11-8"><speaker>HAYLEY</speaker><content>Probably stashing the briefcase.</content></utterance>
+<utterance uid="11-9"><speaker>ESPOSITO</speaker><content>Two minutes later a subway cam caught him hopping the F train. Now, his metro card was purchased with a credit card belonging to a Freddie Stark, a low level dirt bag with a history of B and E and violent assault.</content></utterance>
+<utterance uid="11-10"><speaker>BECKETT</speaker><content>Nice job, Sarge.</content></utterance>
+<utterance uid="11-11"><speaker>ESPOSITO</speaker><content> Yeah.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>CASTLE</speaker><content>So Beckett and I have been married almost a year and things were going great and then suddenly she says she needs space.</content></utterance>
+<utterance uid="12-2"><speaker>MIA</speaker><content>Why is that my problem?</content></utterance>
+<utterance uid="12-3"><speaker>CASTLE</speaker><content>Oh, it’s not. But I – I was just thinking, you're so attuned to pheromone output you could help me with my interactions with Beckett. Let me know when I’m being charming. Let me know when I’m annoying her.</content></utterance>
+<utterance uid="12-4"><speaker>MIA</speaker><content>You mean like this? "Hey Castle, you’re being annoying."</content></utterance>
+<utterance uid="12-5"><speaker>CASTLE</speaker><content>Yes. Only I’m thinking more like a secret hand gesture so she doesn’t –  – you mean right now.</content></utterance>
+<utterance uid="12-6"><speaker>MIA</speaker><content>Yeah. Listen, you are actually fairly inoffensive on an odor level. But I am not a people person and I have zero interest in becoming one.</content></utterance>
+<utterance uid="12-7"><speaker>CASTLE</speaker><content>Let me in. Let me convince you.</content></utterance>
+<utterance uid="12-8"><speaker>MIA</speaker><content>Forget it. No one goes inside but me.</content></utterance>
+<utterance uid="12-9"><speaker>CASTLE</speaker><content>Well that … sounds lonely.</content></utterance>
+<utterance uid="12-10"><speaker>MIA</speaker><content>It’s not.  No. I – I’m not –</content></utterance>
+<utterance uid="12-11"><speaker>CASTLE</speaker><content>Five minutes. If I haven’t convinced you, you can just kick me out.</content></utterance>
+<utterance uid="12-12"><speaker>MIA</speaker><content>Fine. But you have to be decontaminated.</content></utterance>
+<utterance uid="12-13"><speaker>CASTLE</speaker><content> Sounds like fun.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>CASTLE</speaker><content>Ah, you work from home.</content></utterance>
+<utterance uid="13-2"><speaker>MIA</speaker><content>I consult for a perfume company as a professional nose, specializing in primal attraction.</content></utterance>
+<utterance uid="13-3"><speaker>CASTLE</speaker><content>And yet you live alone and never have visitors.</content></utterance>
+<utterance uid="13-4"><speaker>MIA</speaker><content>I see people. I go into the office once a week. It’s all I can handle. And besides, look what happens when you leave. You end up riding an elevator with a sweaty killer.</content></utterance>
+<utterance uid="13-5"><speaker>CASTLE</speaker><content>You could smell his sweat?</content></utterance>
+<utterance uid="13-6"><speaker>MIA</speaker><content>And his gun.</content></utterance>
+<utterance uid="13-7"><speaker>CASTLE</speaker><content>What else.</content></utterance>
+<utterance uid="13-8"><speaker>MIA</speaker><content>Nothing.</content></utterance>
+<utterance uid="13-9"><speaker>CASTLE</speaker><content>Bull. You’re a bloodhound. You just don’t want to get involved. But I’m betting you could identify this killer if you smelled him again.  That’s nice.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>BECKETT</speaker><content>You an art fan, Freddy?</content></utterance>
+<utterance uid="14-2"><speaker>FREDDY STARK</speaker><content>I like comic books.</content></utterance>
+<utterance uid="14-3"><speaker>HAYLEY</speaker><content>How about Van Gogh?</content></utterance>
+<utterance uid="14-4"><speaker>FREDDY</speaker><content>I never heard of him.</content></utterance>
+<utterance uid="14-5"><speaker>BECKETT</speaker><content>Where were you at 10:15 this morning?</content></utterance>
+<utterance uid="14-6"><speaker>FREDDY</speaker><content>I was uptown walking my cat.</content></utterance>
+<utterance uid="14-7"><speaker>HAYLEY</speaker><content>And yet we have proof that you were in the East Village committing a homicide.</content></utterance>
+<utterance uid="14-8"><speaker>FREDDY</speaker><content>Never happened. My cat hates the East Village.</content></utterance>
+<utterance uid="14-9"><speaker>RYAN</speaker><content>Uh … Captain?</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>RYAN</speaker><content>Um … it’s Castle. He’s on the phone. He says he’s got a break in the case.</content></utterance>
+<utterance uid="15-2"><speaker>BECKETT</speaker><content>What case?</content></utterance>
+<utterance uid="15-3"><speaker>BECKETT</speaker><content>This case?</content></utterance>
+<utterance uid="15-4"><speaker>BECKETT</speaker><content>How does he even know about this case?</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>CASTLE</speaker><content>Now is that any way to talk to the man who can ID your killer?</content></utterance>
+<utterance uid="16-2"><speaker>HAYLEY</speaker><content>Wait, you can ID him?</content></utterance>
+<utterance uid="16-3"><speaker>CASTLE</speaker><content>Well, no. But Mia can.</content></utterance>
+<utterance uid="16-4"><speaker>MIA</speaker><content>No, I can’t.</content></utterance>
+<utterance uid="16-5"><speaker>HAYLEY</speaker><content>Who’s Mia?</content></utterance>
+<utterance uid="16-6"><speaker>CASTLE</speaker><content>She’s an eyewitness. But technically she’s a … nose-witness.</content></utterance>
+<utterance uid="16-7"><speaker>MIA</speaker><content>Please put that down.</content></utterance>
+<utterance uid="16-8"><speaker>BECKETT</speaker><content> She shared an elevator with our killer –  – who was wearing a mask.</content></utterance>
+<utterance uid="16-9"><speaker>CASTLE</speaker><content>But that doesn’t matter. Because she can ID him by his smell.</content></utterance>
+<utterance uid="16-10"><speaker>BECKETT</speaker><content>Yeah, she said he smelled like gunpowder. Look, I’m going to hang up. This isn’t time for party games.</content></utterance>
+<utterance uid="16-11"><speaker>MIA</speaker><content>It’s not a party game.</content></utterance>
+<utterance uid="16-12"><speaker>HAYLEY</speaker><content>Okay, then tell us something unique about the killer’s scent.</content></utterance>
+<utterance uid="16-13"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="16-14"><speaker>MIA</speaker><content>There was a hint of nail polish remover.</content></utterance>
+<utterance uid="16-15"><speaker>BECKETT</speaker><content>A six foot tall guy who smells like nail polish remover? This is a waste of time.</content></utterance>
+<utterance uid="16-16"><speaker>CASTLE</speaker><content>Hang on. Tell her the thing.</content></utterance>
+<utterance uid="16-17"><speaker>MIA</speaker><content>Okay. How about this? There was an old oil painting in that briefcase.</content></utterance>
+<utterance uid="16-18"><speaker>CASTLE</speaker><content>Boom.</content></utterance>
+<utterance uid="16-19"><speaker>BECKETT</speaker><content>How do you know that?</content></utterance>
+<utterance uid="16-20"><speaker>MIA</speaker><content>Are you slow? I smelled it.</content></utterance>
+<utterance uid="16-21"><speaker>MIA</speaker><content> Are you sure you want her back? Because I think you can do better –</content></utterance>
+<utterance uid="16-22"><speaker>CASTLE</speaker><content>Ah, ah, ah. Beckett, we’re going to come down to the precinct.</content></utterance>
+<utterance uid="16-23"><speaker>BECKETT</speaker><content>No! Castle –</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>MIA</speaker><content>I’m not going.</content></utterance>
+<utterance uid="17-2"><speaker>CASTLE</speaker><content>Yes, you are.</content></utterance>
+<utterance uid="17-3"><speaker>MIA</speaker><content>Why? Because you think I can help you get your wife back?</content></utterance>
+<utterance uid="17-4"><speaker>CASTLE</speaker><content>No. Well, ye- yes. But because a man was murdered this morning. And that man deserves justice. You know, you see your hyperosmia as a curse when really you’ve been given a great gift. And with your help the police can put away a cold-blooded killer. Now, isn’t that worth putting yourself out there?</content></utterance>
+<utterance uid="17-5"><speaker>MIA</speaker><content>No. And there’s nothing you can do to make me leave my apartment.</content></utterance>
+<utterance uid="17-6"><speaker>CASTLE</speaker><content>Nothing?</content></utterance>
+<utterance uid="17-7"><speaker>MIA</speaker><content>Nothing.</content></utterance>
+<utterance uid="17-8"><speaker>CASTLE</speaker><content>I’m sorry.  Desperate times call for desperate measures.</content></utterance>
+<utterance uid="17-9"><speaker>CASTLE</speaker><content>Oh, you’re right about those tacos.</content></utterance>
+</scene>
+
+<scene id="18"><utterance uid="18-1"><speaker>MIA</speaker><content>He’s not the killer.</content></utterance>
+<utterance uid="18-2"><speaker>BECKETT</speaker><content> If word gets out that I authorized a smell line up –</content></utterance>
+<utterance uid="18-3"><speaker>CASTLE</speaker><content>They have visual lineups for people who have seen killers, voice lineups for people who have heard them, -  – but regardless, we know that Freddy was at the garage. And he’s clearly lying, so …</content></utterance>
+<utterance uid="18-4"><speaker>BECKETT</speaker><content>So we lie to him. Tell him our witness ID’ed him.</content></utterance>
+<utterance uid="18-5"><speaker>CASTLE</speaker><content>And watch him talk.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>FREDDY</speaker><content>I didn’t kill him.</content></utterance>
+<utterance uid="19-2"><speaker>BECKETT</speaker><content>That’s not what our witness says.</content></utterance>
+<utterance uid="19-3"><speaker>FREDDY</speaker><content>Well what kind of lineup was that, anyway? The witness didn’t even look at my face.</content></utterance>
+<utterance uid="19-4"><speaker>HAYLEY</speaker><content>Where’s the painting?</content></utterance>
+<utterance uid="19-5"><speaker>FREDDY</speaker><content>I don’t have it.</content></utterance>
+<utterance uid="19-6"><speaker>BECKETT</speaker><content>Cut the crap, Freddy. You got one chance to convince me that you’re not the murderer.</content></utterance>
+<utterance uid="19-7"><speaker>FREDDY</speaker><content>Okay, listen. I was at the garage. But not to kill the guy. I was hired to retrieve the painting.</content></utterance>
+<utterance uid="19-8"><speaker>HAYLEY</speaker><content>By who?</content></utterance>
+<utterance uid="19-9"><speaker>FREDDY</speaker><content>Tom Gilliam, out of the Falcon unit.</content></utterance>
+<utterance uid="19-10"><speaker>BECKETT</speaker><content>That’s who hired Justin to transport it. Why would they want you to steal it from him?</content></utterance>
+<utterance uid="19-11"><speaker>FREDDY</speaker><content>I don’t know. But Gilliam was really upset when he hired me to hunt Justin down. Told me to do whatever it took to get the painting back. So I hacked the GPS in Justin’s car and followed him to the garage. But by the time I got there he was already dead and the painting was gone.</content></utterance>
+<utterance uid="19-12"><speaker>BECKETT</speaker><content>What time did you get there?</content></utterance>
+<utterance uid="19-13"><speaker>FREDDY</speaker><content>I didn’t get to the garage until 10:20.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>ESPOSITO</speaker><content>All right. Thanks.  Captain confirms Freddy’s story.</content></utterance>
+<utterance uid="20-2"><speaker>RYAN</speaker><content>So he arrived after Mia called 911.</content></utterance>
+<utterance uid="20-3"><speaker>ESPOSITO</speaker><content>Which means, he ain’t our guy. So how do you want to go at this Falcon unit dude? I say we hit him hard. Guys like this only respond to intimidation.</content></utterance>
+<utterance uid="20-4"><speaker>RYAN</speaker><content>Is that the way it’s going to be now?  “I got this big promotion, I say we do it this way.”</content></utterance>
+<utterance uid="20-5"><speaker>ESPOSITO</speaker><content>Hey, hey. No, no. We can do it your way. How do you want to play it?</content></utterance>
+<utterance uid="20-6"><speaker>RYAN</speaker><content>I say we go at him hard.</content></utterance>
+<utterance uid="20-7"><speaker>RYAN</speaker><content>Excuse me! Tom Gilliam! I’m Detective Ryan, this is Detective Esposito. We just have a few questions about the murder of Justin Fletcher.</content></utterance>
+<utterance uid="20-8"><speaker>TOM GILLIAM</speaker><content>A real tragedy, but I don’t know anything about it.</content></utterance>
+<utterance uid="20-9"><speaker>ESPOSITO</speaker><content>That’s funny, because Freddy Stark says you do.</content></utterance>
+<utterance uid="20-10"><speaker>GILLIAM</speaker><content>How can I help you?</content></utterance>
+<utterance uid="20-11"><speaker>RYAN</speaker><content>Well, you can start by telling us why you hired Freddy to steal that painting back from your own employee.</content></utterance>
+<utterance uid="20-12"><speaker>GILLIAM</speaker><content>You’ve got it all wrong. I didn’t hire Freddy to steal it. I hired him to retrieve it. Justin stole it from us.</content></utterance>
+<utterance uid="20-13"><speaker>ESPOSITO</speaker><content>That doesn’t make sense. You hired Justin to transport the painting.</content></utterance>
+<utterance uid="20-14"><speaker>GILLIAM</speaker><content>No, I hired someone else. Transporters work on commission, payable on commission. The commission on that painting was six figures. Justin must have gotten greedy, jumped the job. We didn’t realize until the real transporter had arrived to pick up the painting and it was gone.</content></utterance>
+<utterance uid="20-15"><speaker>ESPOSITO</speaker><content>Then who’s the real transporter?</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>ESPOSITO</speaker><content>Liam Hollister. Ex-British mercenary. Kicked out of the French Foreign Legion for being too violent.</content></utterance>
+<utterance uid="21-2"><speaker>RYAN</speaker><content>According to Hayley, Liam is Falcon’s go-to guy for big money jobs.</content></utterance>
+<utterance uid="21-3"><speaker>ESPOSITO</speaker><content>I don’t think he’d take too kindly to Justin’s stealing his commission. Might go rogue.</content></utterance>
+<utterance uid="21-4"><speaker>RYAN</speaker><content>So he tracked Justin to that garage and traded two bullets for that painting.</content></utterance>
+<utterance uid="21-5"><speaker>ESPOSITO</speaker><content>You think he’d be rolling around in something more subtle after committing a murder.</content></utterance>
+<utterance uid="21-6"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+<utterance uid="21-7"><speaker>ESPOSITO</speaker><content>Hey, bro.  Are we good?</content></utterance>
+<utterance uid="21-8"><speaker>RYAN</speaker><content>Yeah, yeah, of course. Why do you even ask?</content></utterance>
+<utterance uid="21-9"><speaker>ESPOSITO</speaker><content>You’ve been acting weird all day. And I know that you’re bummed, but you never even gave me props for passing.</content></utterance>
+<utterance uid="21-10"><speaker>RYAN</speaker><content> Yeah, Javi, you’re right, man. Congratulations, man. Really.</content></utterance>
+<utterance uid="21-11"><speaker>ESPOSITO</speaker><content>Thanks, bro.</content></utterance>
+<utterance uid="21-12"><speaker>ESPOSITO</speaker><content>Here we go.</content></utterance>
+<utterance uid="21-13"><speaker>ESPOSITO</speaker><content>Hey!</content></utterance>
+<utterance uid="21-14"><speaker>RYAN</speaker><content>Hey!</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>ESPOSITO</speaker><content>Go left.</content></utterance>
+<utterance uid="22-2"><speaker>RYAN</speaker><content>Javi, you okay?</content></utterance>
+<utterance uid="22-3"><speaker>ESPOSITO</speaker><content>No! You shot me in the ass!</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>BECKETT</speaker><content>You shot your partner.</content></utterance>
+<utterance uid="23-2"><speaker>HAYLEY</speaker><content>In the ass.</content></utterance>
+<utterance uid="23-3"><speaker>RYAN</speaker><content>It was an accident. The hospital says he’s going to be fine. Just needs a few stitches.</content></utterance>
+<utterance uid="23-4"><speaker>HAYLEY</speaker><content>And a new pair of trousers.</content></utterance>
+<utterance uid="23-5"><speaker>RYAN</speaker><content>Any sign of Liam?</content></utterance>
+<utterance uid="23-6"><speaker>BECKETT</speaker><content>No. But he fled in his Rolls so we’ve got Vikram monitoring every street cam at every crossing in the city. Which means if he tries to get out of the city we will find him.</content></utterance>
+<utterance uid="23-7"><speaker>RYAN</speaker><content>Well, I will coordinate with him, start digging into Liam’s life, try and figure out where he might go to ground.</content></utterance>
+<utterance uid="23-8"><speaker>HAYLEY</speaker><content>You know Liam’s going to ditch the car, right?</content></utterance>
+<utterance uid="23-9"><speaker>BECKETT</speaker><content>I know.</content></utterance>
+<utterance uid="23-10"><speaker>HAYLEY</speaker><content>A ride like that would fetch top dollar. If Liam’s bolting he might want some quick cash.</content></utterance>
+<utterance uid="23-11"><speaker>BECKETT</speaker><content>Who are you calling?</content></utterance>
+<utterance uid="23-12"><speaker>HAYLEY</speaker><content>Your husband. I reckon that he might have some friends who would know where to sell a hot Rolls in a hurry.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>MIA</speaker><content>Why are you still here?</content></utterance>
+<utterance uid="24-2"><speaker>CASTLE</speaker><content>The case isn’t over yet.</content></utterance>
+<utterance uid="24-3"><speaker>MIA</speaker><content>It is for me.</content></utterance>
+<utterance uid="24-4"><speaker>CASTLE</speaker><content>I saw you back at the precinct. You were having fun.</content></utterance>
+<utterance uid="24-5"><speaker>MIA</speaker><content>No, I wasn’t.</content></utterance>
+<utterance uid="24-6"><speaker>CASTLE</speaker><content>Richard Castle.  I’ll ask around. Okay.  Okay, we have a new mission. To find where our suspect might sell a high-end Rolls Royce.</content></utterance>
+<utterance uid="24-7"><speaker>MIA</speaker><content> I can’t help you with that.</content></utterance>
+<utterance uid="24-8"><speaker>CASTLE</speaker><content>But you can ID him once we get there.</content></utterance>
+<utterance uid="24-9"><speaker>MIA</speaker><content> Why are you doing this to me?</content></utterance>
+<utterance uid="24-10"><speaker>CASTLE</speaker><content>Because you helped me out. And now I’m returning the favor.</content></utterance>
+<utterance uid="24-11"><speaker>MIA</speaker><content>By torturing me?</content></utterance>
+<utterance uid="24-12"><speaker>CASTLE</speaker><content>No. Mia, you’re – you’re not living. You’re hiding. I know you find the world a little overwhelming. But out here, this is where life happens. So …  … let’s go.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>RYAN</speaker><content>Hey, partner. Let me help you with that.</content></utterance>
+<utterance uid="25-2"><speaker>ESPOSITO</speaker><content>I can handle it myself.</content></utterance>
+<utterance uid="25-3"><speaker>RYAN</speaker><content>Javi, it was an accident.</content></utterance>
+<utterance uid="25-4"><speaker>BECKETT</speaker><content>Hey, what are you doing here? Go home.</content></utterance>
+<utterance uid="25-5"><speaker>ESPOSITO</speaker><content>I’m here to work.</content></utterance>
+<utterance uid="25-6"><speaker>BECKETT</speaker><content>But you were shot.</content></utterance>
+<utterance uid="25-7"><speaker>ESPOSITO</speaker><content>It’s just a flesh wound.  If he’s working then I’m working.</content></utterance>
+<utterance uid="25-8"><speaker>HAYLEY</speaker><content>So I just got Liam’s phone records. He called Hawthorne Carter less than a half an hour ago.</content></utterance>
+<utterance uid="25-9"><speaker>BECKETT</speaker><content>Why does that name sound so familiar?</content></utterance>
+<utterance uid="25-10"><speaker>HAYLEY</speaker><content>He’s a hedge fund billionaire whose hobbies include world domination and art collection.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>HAWTHORNE CARTER</speaker><content>Tell him the only way I’ll sell is if he lets me come down and punch him in the face. No, the drapes are gray –</content></utterance>
+<utterance uid="26-2"><speaker>BECKETT</speaker><content>Mr. Carter, you need to get off the phones.</content></utterance>
+<utterance uid="26-3"><speaker>BECKETT</speaker><content>Now.</content></utterance>
+<utterance uid="26-4"><speaker>CARTER</speaker><content>Fine.  I’ll call you back.</content></utterance>
+<utterance uid="26-5"><speaker>BECKETT</speaker><content>Both phones, please.</content></utterance>
+<utterance uid="26-6"><speaker>CARTER</speaker><content>Hey!</content></utterance>
+<utterance uid="26-7"><speaker>HAYLEY</speaker><content>Goodbye.</content></utterance>
+<utterance uid="26-8"><speaker>BECKETT</speaker><content>Sit down or I will arrest you for conspiracy to commit murder.</content></utterance>
+<utterance uid="26-9"><speaker>CARTER</speaker><content>Lorenzo, what is she talking about?</content></utterance>
+<utterance uid="26-10"><speaker>LORENZO</speaker><content>The Van Gogh, sir.</content></utterance>
+<utterance uid="26-11"><speaker>BECKETT</speaker><content>You bid on it at an auction and you lost. This morning it was stolen and a man was found shot to death.</content></utterance>
+<utterance uid="26-12"><speaker>LORENZO</speaker><content>Mr. Carter just got back from Singapore this afternoon.</content></utterance>
+<utterance uid="26-13"><speaker>HAYLEY</speaker><content>We don’t think you killed him, but you are in contact with the man who did.</content></utterance>
+<utterance uid="26-14"><speaker>BECKETT</speaker><content>Liam Hollister, a transporter. According to the Falcon Unit, you’ve engaged his services several times.</content></utterance>
+<utterance uid="26-15"><speaker>CARTER</speaker><content>Yeah, he called looking to unload the painting. I only bid on it because Lorenzo thought it would look great hanging in my G5.</content></utterance>
+<utterance uid="26-16"><speaker>BECKETT</speaker><content>So you’re saying you didn’t agree to buy it?</content></utterance>
+<utterance uid="26-17"><speaker>CARTER</speaker><content>Oh, no. I already bought a Jackson Pollock to hang there.</content></utterance>
+<utterance uid="26-18"><speaker>BECKETT</speaker><content>Do you have any idea where he is now?</content></utterance>
+<utterance uid="26-19"><speaker>CARTER</speaker><content>Nope. But when I said no to the painting he asked if I had any interest in a used Rolls Royce.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>MECHANIC</speaker><content>Yes, sir? How can I help you?</content></utterance>
+<utterance uid="27-2"><speaker>CASTLE</speaker><content>Yes, uh … Monty sent me.</content></utterance>
+<utterance uid="27-3"><speaker>MECHANIC</speaker><content>I see. So your Ferrari was stolen?</content></utterance>
+<utterance uid="27-4"><speaker>CASTLE</speaker><content>Yes. And I’m afraid my poor insurance company’s going to have to pay out a fortune when I report it. Now, how much extra can I look forward to making?</content></utterance>
+<utterance uid="27-5"><speaker>MECHANIC</speaker><content>Well, I’m going to have to run some numbers, but I’ll see what our foreign buyers might pay for it.</content></utterance>
+<utterance uid="27-6"><speaker>CASTLE</speaker><content>Thank you.</content></utterance>
+<utterance uid="27-7"><speaker>CASTLE</speaker><content>All right, that looks like Liam’s car right there. Let’s go.</content></utterance>
+<utterance uid="27-8"><speaker>CASTLE</speaker><content>Love it. Want it. Need it.</content></utterance>
+<utterance uid="27-9"><speaker>MIA</speaker><content>A convertible? Yuck.</content></utterance>
+<utterance uid="27-10"><speaker>CASTLE</speaker><content>All right, why don’t you pop the trunk?</content></utterance>
+<utterance uid="27-11"><speaker>MIA</speaker><content>Oh. Okay.</content></utterance>
+<utterance uid="27-12"><speaker>HOLLISTER</speaker><content>What the hell are you doing?</content></utterance>
+<utterance uid="27-13"><speaker>CASTLE</speaker><content>Oh, just taking a look at the cars.</content></utterance>
+<utterance uid="27-14"><speaker>HOLLISTER</speaker><content>Yeah, back up.</content></utterance>
+<utterance uid="27-15"><speaker>CASTLE</speaker><content>Oh, no problem.</content></utterance>
+<utterance uid="27-16"><speaker>HOLLISTER</speaker><content>Hey! Get out of there!</content></utterance>
+<utterance uid="27-17"><speaker>CASTLE</speaker><content>Oh, whoa, whoa, whoa, whoa. No need for that.</content></utterance>
+<utterance uid="27-18"><speaker>CASTLE</speaker><content>Mia?</content></utterance>
+<utterance uid="27-19"><speaker>MIA</speaker><content>Did I do okay?</content></utterance>
+<utterance uid="27-20"><speaker>CASTLE</speaker><content>You did perfectly!</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>RYAN</speaker><content>I give up. How the hell did the two of you trap Liam in his own trunk?</content></utterance>
+<utterance uid="28-2"><speaker>MIA</speaker><content>Because we’re awesome and you two suck. Next question?</content></utterance>
+<utterance uid="28-3"><speaker>CASTLE</speaker><content>What happened to you?</content></utterance>
+<utterance uid="28-4"><speaker>ESPOSITO</speaker><content>Injured. In the line of duty.</content></utterance>
+<utterance uid="28-5"><speaker>CASTLE</speaker><content>Really? How?</content></utterance>
+<utterance uid="28-6"><speaker>RYAN</speaker><content>I … accidentally … shot him in the gluteus maximus.</content></utterance>
+<utterance uid="28-7"><speaker>CASTLE</speaker><content>In the ass?</content></utterance>
+<utterance uid="28-8"><speaker>CASTLE</speaker><content>Well, maybe I should give this to you.</content></utterance>
+<utterance uid="28-9"><speaker>CASTLE</speaker><content>I’m sorry, this is so not funny.</content></utterance>
+<utterance uid="28-10"><speaker>MIA</speaker><content> You’re right. It’s hilarious.</content></utterance>
+<utterance uid="28-11"><speaker>CASTLE</speaker><content>It’s hilarious! Come on, Mia, let’s make way for Crackshot Ryan and Ass-posito.</content></utterance>
+<utterance uid="28-12"><speaker>ESPOSITO</speaker><content>Liam, NYPD. We’re about to open this trunk, so don’t do anything stupid.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>HOLLISTER</speaker><content>It wasn’t me!</content></utterance>
+<utterance uid="29-2"><speaker>ESPOSITO</speaker><content>So I guess it wasn’t you who had the stolen painting in the silver briefcase.</content></utterance>
+<utterance uid="29-3"><speaker>RYAN</speaker><content>I suppose it also wasn’t you who tried to kill us in that building.</content></utterance>
+<utterance uid="29-4"><speaker>HOLLISTER</speaker><content>Oh, trust me. If I was trying to kill you you’d be dead.</content></utterance>
+<utterance uid="29-5"><speaker>ESPOSITO</speaker><content>Wow.</content></utterance>
+<utterance uid="29-6"><speaker>HOLLISTER</speaker><content>I was laying down a suppressive fire in order to get away. I aim to miss.  Unlike you, mate. You shot your own partner in the ass.  Blimey.</content></utterance>
+<utterance uid="29-7"><speaker>RYAN</speaker><content>Okay, let’s – let’s not concern ourselves with who shot Detective Es – Espo – Detective Esposito.  Sit down! Now! Sit down or I’m locking you up!</content></utterance>
+<utterance uid="29-8"><speaker>HOLLISTER</speaker><content>Oh.</content></utterance>
+<utterance uid="29-9"><speaker>RYAN</speaker><content>Rather, let’s discuss how you shot Justin.</content></utterance>
+<utterance uid="29-10"><speaker>HOLLISTER</speaker><content>I’m telling you it wasn’t me.</content></utterance>
+<utterance uid="29-11"><speaker>RYAN</speaker><content>Look, I get it. You were pissed. He jumped you on that transporter job, screwed you out of a big commission.</content></utterance>
+<utterance uid="29-12"><speaker>ESPOSITO</speaker><content>And then you tracked him down and you confronted him in that garage. You probably didn’t even mean to kill.</content></utterance>
+<utterance uid="29-13"><speaker>HOLLISTER</speaker><content>I didn’t shoot Justin.</content></utterance>
+<utterance uid="29-14"><speaker>ESPOSITO</speaker><content>Cut that crap. All the evidence points to you.</content></utterance>
+<utterance uid="29-15"><speaker>HOLLISTER</speaker><content>Which is why I ran from you guys. Look, I was at that parking garage but when I left Justin was alive. It’s like you said. I confronted Justin. But he apologized. He knew he did me wrong so he gave me back the painting and I left. Someone else must have come after me and shot him.</content></utterance>
+<utterance uid="29-16"><speaker>RYAN</speaker><content>Do you really expect us to believe that?</content></utterance>
+<utterance uid="29-17"><speaker>HOLLISTER</speaker><content>No. But it’s the truth.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>BECKET</speaker><content>This case against Liam is pretty circumstantial.</content></utterance>
+<utterance uid="30-2"><speaker>ESPOSITO</speaker><content>Well, hopefully ballistics can match his gun to the murder weapon.</content></utterance>
+<utterance uid="30-3"><speaker>MIA</speaker><content>Yawn. I need food, now. And just so you know, when hungry, I do have a tendency to become irritable.</content></utterance>
+<utterance uid="30-4"><speaker>CASTLE</speaker><content> You, irritable? I don’t believe it.</content></utterance>
+<utterance uid="30-5"><speaker>HAYLEY</speaker><content>Beautiful, isn’t it? How long before I can return it to my employer?</content></utterance>
+<utterance uid="30-6"><speaker>BECKETT</speaker><content>Well, that’s up to the DA.</content></utterance>
+<utterance uid="30-7"><speaker>MIA</speaker><content>It’s a forgery, you know.</content></utterance>
+<utterance uid="30-8"><speaker>HAYLEY</speaker><content>What?</content></utterance>
+<utterance uid="30-9"><speaker>BECKETT</speaker><content>How do you know?  You can smell it.</content></utterance>
+<utterance uid="30-10"><speaker>MIA</speaker><content>Oil paint takes many years to become fully dry. That smells way too fresh to be from the nineteenth century. It’s definitely not the painting that was in the killer’s briefcase.</content></utterance>
+<utterance uid="30-11"><speaker>ESPOSITO</speaker><content>Maybe Liam was telling the truth?</content></utterance>
+<utterance uid="30-12"><speaker>RYAN</speaker><content>If he was it would explain why Justin gave up the painting so easily. He knew it was a fake.</content></utterance>
+<utterance uid="30-13"><speaker>BECKETT</speaker><content>Which means the real killer is still out there with the real painting.</content></utterance>
+<utterance uid="30-14"><speaker>CASTLE</speaker><content>I love it when there’s a twist.</content></utterance>
+<utterance uid="30-15"><speaker>MIA</speaker><content>And I love it when my belly’s full.</content></utterance>
+<utterance uid="30-16"><speaker>CASTLE</speaker><content>I’m getting take-out right now.</content></utterance>
+<utterance uid="30-17"><speaker>MIA</speaker><content>Restaurant food? Hell no. Home cooking only. Everything has to be steamed. With zero, and I mean zero seasoning. If I even smell or see a speck of salt somebody’s going to get hurt. You’re my ride, Castle. Let’s go.</content></utterance>
+<utterance uid="30-18"><speaker>BECKETT</speaker><content>Bon appetite, babe.</content></utterance>
+<utterance uid="30-19"><speaker>CASTLE</speaker><content> Man.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>CASTLE</speaker><content>Mia, if you have a hankering for a bland meal I have a treat for you: my mother’s cooking.</content></utterance>
+<utterance uid="31-2"><speaker>MARTHA RODGERS</speaker><content>I heard that, Richard. I think gratitude would be appropriate, since I am steaming this ridiculous meal for you.</content></utterance>
+<utterance uid="31-3"><speaker>MIA</speaker><content> Martha Rodgers.</content></utterance>
+<utterance uid="31-4"><speaker>MARTHA</speaker><content>Yes. I’m sorry, have we met?</content></utterance>
+<utterance uid="31-5"><speaker>MIA</speaker><content>Uh, May 19th, 1999. I saw you perform in Pippin.</content></utterance>
+<utterance uid="31-6"><speaker>MARTHA</speaker><content>Oh my God.  You remember that? Off off Broadway?</content></utterance>
+<utterance uid="31-7"><speaker>CASTLE</speaker><content>Uh, Mother, that was New Jersey.</content></utterance>
+<utterance uid="31-8"><speaker>MARTHA</speaker><content>It’s off off Broadway, as I said. Well, isn’t this nice. So, you liked the production?</content></utterance>
+<utterance uid="31-9"><speaker>MIA</speaker><content>No. Hated it. Plus the theater smelled like Limburger gravy on a hot summer’s day. But you – you were amazing.</content></utterance>
+<utterance uid="31-10"><speaker>CASTLE</speaker><content>Really? So all day with a best-selling author, nothing. Twenty seconds with my mother you’re a tweener at a Taylor Swift concert?</content></utterance>
+<utterance uid="31-11"><speaker>MARTHA</speaker><content>Don’t be a hater, Richard. It’s the power of theater. Go on, go on. You were raving.</content></utterance>
+<utterance uid="31-12"><speaker>MIA</speaker><content>Your performance, it was so moving that I completely forgot how horrible my real life was. It just – it was the best day ever.</content></utterance>
+<utterance uid="31-13"><speaker>MARTHA</speaker><content>Oh, sweetheart.</content></utterance>
+<utterance uid="31-14"><speaker>MIA</speaker><content>And you barely stink.</content></utterance>
+<utterance uid="31-15"><speaker>CASTLE</speaker><content>Oh, coming from her that’s high praise.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>RYAN</speaker><content>Beckett, I got something.</content></utterance>
+<utterance uid="32-2"><speaker>ESPOSITO</speaker><content>We’ve got something.</content></utterance>
+<utterance uid="32-3"><speaker>RYAN</speaker><content>Yeah, that’s what I said.</content></utterance>
+<utterance uid="32-4"><speaker>ESPOSITO</speaker><content>That’s not what you said.</content></utterance>
+<utterance uid="32-5"><speaker>RYAN</speaker><content>Okay, that’s what I meant.</content></utterance>
+<utterance uid="32-6"><speaker>BECKETT</speaker><content>Okay, you both get gold stars for the day if just one of you can tell me what’s going on.</content></utterance>
+<utterance uid="32-7"><speaker>RYAN</speaker><content>We –  – did some digging into this painting’s tortured history.</content></utterance>
+<utterance uid="32-8"><speaker>ESPOSITO</speaker><content>Stolen during World War II, it ended up in a private collection before coming up for auction.</content></utterance>
+<utterance uid="32-9"><speaker>RYAN</speaker><content>Apparently stolen artwork like this rarely ends up in the hands of its owner.</content></utterance>
+<utterance uid="32-10"><speaker>BECKETT</speaker><content>What does any of this have to do with Justin’s murder?</content></utterance>
+<utterance uid="32-11"><speaker>ESPOSITO</speaker><content>Everything. The Van Gogh is connected to someone we know.</content></utterance>
+<utterance uid="32-12"><speaker>BECKETT</speaker><content>Who?</content></utterance>
+<utterance uid="32-13"><speaker>RYAN</speaker><content>Two years ago there was a failed legal claim on behalf of the family who the painting was stolen from.</content></utterance>
+<utterance uid="32-14"><speaker>ESPOSITO</speaker><content>And guess who filed it?</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>MARTHA</speaker><content>Oh, so glad you wanted a second helping.</content></utterance>
+<utterance uid="33-2"><speaker>MIA</speaker><content>Thank you, Martha. It’s perfect.</content></utterance>
+<utterance uid="33-3"><speaker>CASTLE</speaker><content>I think my palate fell asleep.</content></utterance>
+<utterance uid="33-4"><speaker>MARTHA</speaker><content> Oh, that’ll be the takeout for you and me.</content></utterance>
+<utterance uid="33-5"><speaker>CASTLE</speaker><content>Well done.</content></utterance>
+<utterance uid="33-6"><speaker>CASTLE</speaker><content>Hell-  Mother, what exactly did you order?</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>LORENZO</speaker><content>Mr. Castle, you’re coming with me.</content></utterance>
+<utterance uid="34-2"><speaker>MARTHA</speaker><content>Oh no, he is not!</content></utterance>
+<utterance uid="34-3"><speaker>CASTLE</speaker><content>Mother, it’s all right.  Okay, so who are you?</content></utterance>
+<utterance uid="34-4"><speaker>LORENZO</speaker><content>My name’s not important. It’s who you are that is. You’re married to the Captain of the Twelfth Precinct, where a certain work of art is being held. You’re going to go and get it for me.</content></utterance>
+<utterance uid="34-5"><speaker>CASTLE</speaker><content>Give me one good reason why I should.</content></utterance>
+<utterance uid="34-6"><speaker>LORENZO</speaker><content>I’ll give you two.</content></utterance>
+<utterance uid="34-7"><speaker>MARTHA</speaker><content>Oh my God.</content></utterance>
+<utterance uid="34-8"><speaker>CASTLE</speaker><content>Okay, okay. Put the gun back to me. Point it back to me.</content></utterance>
+<utterance uid="34-9"><speaker>LORENZO</speaker><content>Look, that painting belongs to my family. My father spent his life trying to find it. He died a broken man. There’s no way I’m going to let it sit in some billionaire’s man cave.</content></utterance>
+<utterance uid="34-10"><speaker>CASTLE</speaker><content>Okay, I get it. I do. And I want to help you. Honestly. But I can’t get that painting even if I tried.</content></utterance>
+<utterance uid="34-11"><speaker>LORENZO</speaker><content>And why is that?</content></utterance>
+<utterance uid="34-12"><speaker>CASTLE</speaker><content>Lucy’s not going to let me.</content></utterance>
+<utterance uid="34-13"><speaker>LORENZO</speaker><content>Who the hell is Lucy?</content></utterance>
+<utterance uid="34-14"><speaker>CASTLE</speaker><content>She’s right behind you.</content></utterance>
+<utterance uid="34-15"><speaker>LUCY</speaker><content>Technically I’m to his left.</content></utterance>
+<utterance uid="34-16"><speaker>CASTLE</speaker><content>Did you see that? Knocked him out with one punch!</content></utterance>
+<utterance uid="34-17"><speaker>MARTHA</speaker><content>And he wasn’t the only one.</content></utterance>
+<utterance uid="34-18"><speaker>CASTLE</speaker><content>Whoops.</content></utterance>
+</scene>
+
+<scene id="35"><utterance uid="35-1"><speaker>BECKETT</speaker><content>Rick? Are you okay?</content></utterance>
+<utterance uid="35-2"><speaker>CASTLE</speaker><content>Far from it. I think Mia is going to sue us for all we’ve got.</content></utterance>
+<utterance uid="35-3"><speaker>MIA</speaker><content>Yeah, you broke my money-maker.</content></utterance>
+<utterance uid="35-4"><speaker>CASTLE</speaker><content>I said I was sorry.</content></utterance>
+<utterance uid="35-5"><speaker>BECKETT</speaker><content>Well, uh, there’s more bad news. Lorenzo’s not our killer. I spoke with his co-workers. He’s got a rock solid alibi.</content></utterance>
+<utterance uid="35-6"><speaker>CASTLE</speaker><content>Well that makes sense. If he was the one who killed Justin he’d already have the Van Gogh and wouldn’t have asked me to steal the fake one.</content></utterance>
+<utterance uid="35-7"><speaker>LORENZO</speaker><content>Hold on, the Van Gogh you recovered is the forgery?</content></utterance>
+<utterance uid="35-8"><speaker>BECKETT</speaker><content>How do you know about the forgery? Lorenzo, you are in a world of trouble. Your best bet is to tell us everything you know. Now.</content></utterance>
+<utterance uid="35-9"><speaker>LORENZO</speaker><content>I have spent my entire adult life searching for that painting. When I heard it was coming up for auction I tried to get my boss to buy it.</content></utterance>
+<utterance uid="35-10"><speaker>BECKETT</speaker><content>But he wouldn’t.</content></utterance>
+<utterance uid="35-11"><speaker>LORENZO</speaker><content>No. But I knew Justin from some of his deliveries. I did some research, learned that we had three weeks before the painting was to be moved, so we hatched a plan. Justin would jump Liam’s transporter job and switch the Van Gogh with the fake.</content></utterance>
+<utterance uid="35-12"><speaker>BECKETT</speaker><content>And you provided the forgery?</content></utterance>
+<utterance uid="35-13"><speaker>LORENZO</speaker><content>No. From the very beginning Justin said he knew a guy. That’s why he went to the parking garage. To pick up the forged painting.</content></utterance>
+<utterance uid="35-14"><speaker>CASTLE</speaker><content>Whoever forged that painting is the killer. He killed Justin for the real Van Gogh.</content></utterance>
+<utterance uid="35-15"><speaker>BECKETT</speaker><content>But Justin gave Liam the fake in the parking garage.</content></utterance>
+<utterance uid="35-16"><speaker>CASTLE</speaker><content>Yeah, so?</content></utterance>
+<utterance uid="35-17"><speaker>BECKETT</speaker><content>So the exchange happened before Liam even arrived.</content></utterance>
+<utterance uid="35-18"><speaker>CASTLE</speaker><content>That doesn’t mean the killer was gone. He could have just been hiding. What if Liam drove up just as the swap was taking place?</content></utterance>
+<utterance uid="35-19"><speaker>BECKETT</speaker><content>Then the killer would take cover.</content></utterance>
+<utterance uid="35-20"><speaker>CASTLE</speaker><content>Right. So Liam drives away with the forgery. The killer goes back out, kills Justin for the real one.</content></utterance>
+<utterance uid="35-21"><speaker>BECKETT</speaker><content>That’s a possibility. Then the question is, how do we identify this mystery man?</content></utterance>
+<utterance uid="35-22"><speaker>CASTLE</speaker><content>By his smell.</content></utterance>
+<utterance uid="35-23"><speaker>BECKETT</speaker><content>Well that’s a great idea, Castle, but you literally just broke the nose!</content></utterance>
+<utterance uid="35-24"><speaker>CASTLE</speaker><content>Well then, it’s up to us.</content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>BECKETT</speaker><content>Justin parked here to meet with the forger, which means Liam must have driven in from over there.</content></utterance>
+<utterance uid="36-2"><speaker>CASTLE</speaker><content>So the killer must have headed away from here to avoid being spotted.</content></utterance>
+<utterance uid="36-3"><speaker>BECKETT</speaker><content>Well, you know, the stairwell’s the best option but that’s on the opposite side.</content></utterance>
+<utterance uid="36-4"><speaker>CASTLE</speaker><content>Mia said the killer smelled like nail polish remover.</content></utterance>
+<utterance uid="36-5"><speaker>BECKETT</speaker><content>Yeah, which is unusual.</content></utterance>
+<utterance uid="36-6"><speaker>CASTLE</speaker><content>What is that noise?</content></utterance>
+<utterance uid="36-7"><speaker>BECKETT</speaker><content>It sounds like an air conditioning unit on its last legs.</content></utterance>
+<utterance uid="36-8"><speaker>CASTLE</speaker><content>That’s it.</content></utterance>
+<utterance uid="36-9"><speaker>BECKETT</speaker><content>What’s it?</content></utterance>
+<utterance uid="36-10"><speaker>CASTLE</speaker><content>Nail polish remover smells like nail polish remover because its active ingredient, acetone. Air conditioning units leak. Specifically they leak Freon. Freon smells like acetone.</content></utterance>
+<utterance uid="36-11"><speaker>BECKETT</speaker><content> – like acetone.</content></utterance>
+<utterance uid="36-12"><speaker>BECKETT</speaker><content>The killer must have been standing next to a Freon leak.</content></utterance>
+<utterance uid="36-13"><speaker>CASTLE</speaker><content>Probably squeezed up against this pillar, and that’s how he got the Freon transferred onto him.</content></utterance>
+<utterance uid="36-14"><speaker>BECKETT</speaker><content>And uh …  … this may very well be his hair.</content></utterance>
+<utterance uid="36-15"><speaker>CASTLE</speaker><content>We have the killer’s DNA.</content></utterance>
+</scene>
+<scene id="37"><utterance uid="37-1"><speaker>ESPOSITO</speaker><content>Thanks for coming back in, Graham.</content></utterance>
+<utterance uid="37-2"><speaker>GRAHAM</speaker><content>No problem. So there was an update to my brother’s case?</content></utterance>
+<utterance uid="37-3"><speaker>RYAN</speaker><content>Yeah. Um … Justin. Now, he paid your college tuition, didn’t he? At the Art Institute.</content></utterance>
+<utterance uid="37-4"><speaker>GRAHAM</speaker><content>What’s that have to do with anything?</content></utterance>
+<utterance uid="37-5"><speaker>ESPOSITO</speaker><content>Well, we heard you were an amazing painter.</content></utterance>
+<utterance uid="37-6"><speaker>RYAN</speaker><content>Uh … gifted, according to your professors.</content></utterance>
+<utterance uid="37-7"><speaker>ESPOSITO</speaker><content>But a lousy gambler. Yeah, we checked. You had markers and IOUs all over the city.</content></utterance>
+<utterance uid="37-8"><speaker>RYAN</speaker><content>At underground casinos, the kind of establishments that don’t take kindly when you can’t pay up.</content></utterance>
+<utterance uid="37-9"><speaker>ESPOSITO</speaker><content>I bet you thought it was your lucky day when your brother asked you to forge that Van Gogh.</content></utterance>
+<utterance uid="37-10"><speaker>RYAN</speaker><content>Justin was going to sell the original painting. The two of you would split the profits. But when you found out that he was just going to give that painting away you got a little pissed, didn’t you?</content></utterance>
+<utterance uid="37-11"><speaker>GRAHAM</speaker><content>That’s ridiculous. It doesn’t prove that I killed him, either.</content></utterance>
+<utterance uid="37-12"><speaker>ESPOSITO</speaker><content>No. But the hair at the crime scene does. We ran the DNA. It’s a match to your brother by fifty-four percent. Also known as a sibling match.</content></utterance>
+<utterance uid="37-13"><speaker>RYAN</speaker><content>Now, you’re a gambling man. All right, so how much do you want to bet when we run that hair against the DNA from this glass there’s going to be an exact match?</content></utterance>
+<utterance uid="37-14"><speaker>ESPOSITO</speaker><content>And we have a warrant for your place. Now what are we going to find there? The gun that you used? The original Van Gogh?</content></utterance>
+<utterance uid="37-15"><speaker>GRAHAM</speaker><content>He was my brother. I – I didn’t want to kill him. I just – I needed the money.</content></utterance>
+</scene>
+<scene id="38"><utterance uid="38-1"><speaker>BECKETT</speaker><content>So can you tell the difference?</content></utterance>
+<utterance uid="38-2"><speaker>HAYLEY</speaker><content>Uh … no. Not at all.  Oh, I spoke to the current owner. Told him the whole story. And he pledged that he’s going to give it to the State Museum while Lorenzo’s family issue’s being adjudicated, so a bit of a happy ending.</content></utterance>
+<utterance uid="38-3"><speaker>BECKETT</speaker><content>Well, it was a pleasure working with you.</content></utterance>
+<utterance uid="38-4"><speaker>HAYLEY</speaker><content>Yeah. You too. You’re not so bad for a cop.</content></utterance>
+<utterance uid="38-5"><speaker>BECKETT</speaker><content>Thank you. You’re not so bad for a –  – what – what exactly do you do?</content></utterance>
+<utterance uid="38-6"><speaker>HAYLEY</speaker><content>Hmm.</content></utterance>
+</scene>
+<scene id="39"><utterance uid="39-1"><speaker>RYAN</speaker><content>Hey, do you need any help?</content></utterance>
+<utterance uid="39-2"><speaker>ESPOSITO</speaker><content>Not from you.</content></utterance>
+<utterance uid="39-3"><speaker>RYAN</speaker><content>Javi, look. Could you find it in your heart to forgive me?</content></utterance>
+<utterance uid="39-4"><speaker>ESPOSITO</speaker><content>All right.</content></utterance>
+<utterance uid="39-5"><speaker>RYAN</speaker><content>We’re cool?</content></utterance>
+<utterance uid="39-6"><speaker>ESPOSITO</speaker><content>Yeah.</content></utterance>
+<utterance uid="39-7"><speaker>RYAN</speaker><content>I’m so sorry. I’m sorry.</content></utterance>
+<utterance uid="39-8"><speaker>ESPOSITO</speaker><content>Oh, like you didn’t mean to do that.</content></utterance>
+<utterance uid="39-9"><speaker>RYAN</speaker><content>That was an accident!</content></utterance>
+<utterance uid="39-10"><speaker>ESPOSITO</speaker><content>Well, seems like there’s been a lot of accidents around here lately, Detective.</content></utterance>
+<utterance uid="39-11"><speaker>RYAN</speaker><content>Oh. Oh, it’s going to be like that, Sarge?  Okay. Let’s make it even, then. An eye for an eye. A cheek for a cheek. Get your revenge.  Shoot me in the ass. Go. Now. Shoot me in the ass. Come on. Do it right now.</content></utterance>
+<utterance uid="39-12"><speaker>ESPOSITO</speaker><content>Get up.</content></utterance>
+<utterance uid="39-13"><speaker>RYAN</speaker><content>Let’s squash this, right now. Just a quick pop.</content></utterance>
+<utterance uid="39-14"><speaker>ESPOSITO</speaker><content>He’s playing.</content></utterance>
+<utterance uid="39-15"><speaker>RYAN</speaker><content>Come on, go!</content></utterance>
+<utterance uid="39-16"><speaker>BECKETT</speaker><content>Hey!</content></utterance>
+<utterance uid="39-17"><speaker>ESPOSITO</speaker><content>You’re embarrassing me –</content></utterance>
+<utterance uid="39-18"><speaker>BECKETT</speaker><content>Knock it off.</content></utterance>
+<utterance uid="39-19"><speaker>ESPOSITO</speaker><content>Well, he started it with his –</content></utterance>
+<utterance uid="39-20"><speaker>BECKETT</speaker><content>You know what? If the two of you can’t figure this out on your own then you’re doing it in therapy and that’s an order. No ifs, ands, or buts.  I didn’t mean it like that.</content></utterance>
+</scene>
+<scene id="40"><utterance uid="40-1"><speaker>CASTLE</speaker><content>Hi … ow. Hi. How’re you feeling? Rather –  – how are you smelling?</content></utterance>
+<utterance uid="40-2"><speaker>MIA</speaker><content>Oh, the doctor said my schnoz should go back to normal once the swelling goes down.  Those for me?</content></utterance>
+<utterance uid="40-3"><speaker>CASTLE</speaker><content>Yeah, they’re paper so you don’t have to smell – I – I’m so sorry for everything.</content></utterance>
+<utterance uid="40-4"><speaker>MIA</speaker><content>Don’t. Come on. I did some pretty extraordinary things yesterday.  And you were right; I haven’t been living. And thanks to you, now I will.</content></utterance>
+<utterance uid="40-5"><speaker>CASTLE</speaker><content>Well then, I think you’re going to like that card.</content></utterance>
+<utterance uid="40-6"><speaker>CASTLE</speaker><content>It’s a couple of tickets to my mother’s new play.</content></utterance>
+<utterance uid="40-7"><speaker>MIA</speaker><content>Oh!</content></utterance>
+<utterance uid="40-8"><speaker>CASTLE</speaker><content>Mia, I just think the world’s a better place with you running around in it.</content></utterance>
+<utterance uid="40-9"><speaker>MIA</speaker><content>You know, you’re easier to be around when I can’t smell you.</content></utterance>
+<utterance uid="40-10"><speaker>CASTLE</speaker><content> Thanks.</content></utterance>
+<utterance uid="40-11"><speaker>MIA</speaker><content>Beckett still loves you.</content></utterance>
+<utterance uid="40-12"><speaker>MIA</speaker><content>With a passion. And you don’t have to measure pheromones to sense that.</content></utterance>
+</scene>
+<scene id="41"><utterance uid="41-1"><speaker>MIA</speaker><content>I’ve spent my career manufacturing the aroma of love for perfumes and colognes, but they’re all just forgeries. Like that painting.</content></utterance>
+</scene>
+<scene id="42"><utterance uid="42-1"><speaker>MIA</speaker><content>What you and Beckett have, now that’s the genuine article.</content></utterance>
+</scene>
+
+<scene id="43"><utterance uid="43-1"><speaker>CASTLE</speaker><content>Beckett?</content></utterance>
+</scene>
+</script>

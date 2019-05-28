@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+
+
+<scene id="1"><utterance uid="1-1"><speaker>MARTHA RODGERS</speaker><content>Richard, it pains me to admit it, but I am in your debt.</content></utterance>
+<utterance uid="1-2"><speaker>RICHARD CASTLE</speaker><content>Yes. Deeply. But if you’d like to start paying rent –</content></utterance>
+<utterance uid="1-3"><speaker>MARTHA</speaker><content>No, no, no. I mean, I owe you a debt of gratitude.</content></utterance>
+<utterance uid="1-4"><speaker>CASTLE</speaker><content>Oh.</content></utterance>
+<utterance uid="1-5"><speaker>MARTHA</speaker><content>If you had not urged me to take this audition I would have never gotten this part.  Now, I am off to my wardrobe fitting. ‘Bye!</content></utterance>
+<utterance uid="1-6"><speaker>KATE BECKETT</speaker><content>Bye.</content></utterance>
+<utterance uid="1-7"><speaker>MARTHA</speaker><content> Bye.</content></utterance>
+<utterance uid="1-8"><speaker>ALEXIS CASTLE</speaker><content>Bye.</content></utterance>
+<utterance uid="1-9"><speaker>CASTLE</speaker><content>Bye.</content></utterance>
+<utterance uid="1-10"><speaker>CASTLE</speaker><content>And where are you off to?</content></utterance>
+<utterance uid="1-11"><speaker>ALEXIS</speaker><content>Oh, I signed up for an escort service. I have to meet a client.</content></utterance>
+<utterance uid="1-12"><speaker>CASTLE</speaker><content>What? A what?</content></utterance>
+<utterance uid="1-13"><speaker>ALEXIS</speaker><content> I just wanted to see if you were listening. I’m going to the library to study.</content></utterance>
+<utterance uid="1-14"><speaker>CASTLE</speaker><content>Not cool.</content></utterance>
+<utterance uid="1-15"><speaker>ALEXIS</speaker><content>Bye Kate.</content></utterance>
+<utterance uid="1-16"><speaker>BECKETT</speaker><content>Oh. Bye bud.</content></utterance>
+<utterance uid="1-17"><speaker>CASTLE</speaker><content>A goodbye kiss? When did that start?</content></utterance>
+<utterance uid="1-18"><speaker>BECKETT</speaker><content>Just now. Yeah, no, I’m as surprised as you are.</content></utterance>
+<utterance uid="1-19"><speaker>CASTLE</speaker><content>I don’t know if I’m surprised. I mean, you are pretty lovable.</content></utterance>
+<utterance uid="1-20"><speaker>BECKETT</speaker><content>Well, you raised a great person, so.</content></utterance>
+<utterance uid="1-21"><speaker>CASTLE</speaker><content>Mmm, you say that now. You weren’t here for the beginning.</content></utterance>
+<utterance uid="1-22"><speaker>BECKETT</speaker><content>And next time I will be.</content></utterance>
+<utterance uid="1-23"><speaker>CASTLE</speaker><content>Next time? Are you saying that you’re … thinking about it?</content></utterance>
+<utterance uid="1-24"><speaker>BECKETT</speaker><content>Yeah. About it. About my job. About we’re whether we’re ready. If there’s ever a right time.</content></utterance>
+<utterance uid="1-25"><speaker>CASTLE</speaker><content>There never is. But there’s never a wrong time, either.</content></utterance>
+<utterance uid="1-26"><speaker>BECKETT</speaker><content>Except maybe now.</content></utterance>
+<utterance uid="1-27"><speaker>CASTLE</speaker><content>Really.</content></utterance>
+<utterance uid="1-28"><speaker>BECKETT</speaker><content>Okay. We’ll talk about it later.</content></utterance>
+<utterance uid="1-29"><speaker>BECKETT</speaker><content>Beckett.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>BECKETT</speaker><content>So who found the body?</content></utterance>
+<utterance uid="2-2"><speaker>JAVIER ESPOSITO</speaker><content>Homeless guy. Ed Turner. Said he found her in this recycling bin when he was scavenging for bottles.</content></utterance>
+<utterance uid="2-3"><speaker>BECKETT</speaker><content>We get Turner’s statement?</content></utterance>
+<utterance uid="2-4"><speaker>ESPOSITO</speaker><content>No, we haven’t found him yet. He called 911 from a nearby payphone but when we got here he was already gone.</content></utterance>
+<utterance uid="2-5"><speaker>BECKETT</speaker><content>Obviously she’s not carrying ID. So uh, I’m guessing we don’t know who she is?</content></utterance>
+<utterance uid="2-6"><speaker>LANIE PARISH</speaker><content>Hopefully we will in a minute. In the meantime I can give you a pretty good idea of how she died.</content></utterance>
+<utterance uid="2-7"><speaker>BECKETT</speaker><content>Manual strangulation.</content></utterance>
+<utterance uid="2-8"><speaker>LANIE</speaker><content>Probably 24 to 36 hours ago. Based on lividity she was put in the dumpster right after she was killed.</content></utterance>
+<utterance uid="2-9"><speaker>BECKETT</speaker><content>Abrasions on her feet, mud spatter on her legs … she was running. Someone was chasing her.</content></utterance>
+<utterance uid="2-10"><speaker>ESPOSITO</speaker><content>And then caught her, killed her, and stuffed her in that dumpster over there.</content></utterance>
+<utterance uid="2-11"><speaker>BECKETT</speaker><content>And she’s wearing a nightgown. She couldn’t have come from very far.</content></utterance>
+<utterance uid="2-12"><speaker>ESPOSITO</speaker><content>I’ll have unis show her photo around. Try to find someone who recognizes her. Canvass. See if there are any witnesses who might have seen what happened.</content></utterance>
+<utterance uid="2-13"><speaker>BECKETT</speaker><content>Okay.</content></utterance>
+<utterance uid="2-14"><speaker>BECKETT</speaker><content>Lanie, are you okay?</content></utterance>
+<utterance uid="2-15"><speaker>LANIE</speaker><content>Yeah. It’s just … something about her. Something familiar.</content></utterance>
+<utterance uid="2-16"><speaker>BECKETT</speaker><content>What, like you know her?</content></utterance>
+<utterance uid="2-17"><speaker>LANIE</speaker><content>No, I definitely don’t know her.  If she’s in the system we can find out who she is.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>KEVIN RYAN</speaker><content>Susan Watts. Born in Vestal, New York. High school dropout. Multiple arrests: check kiting, petty larceny, bust for possession. The last one got her sent to Albion, but she was released six months ago.</content></utterance>
+<utterance uid="3-2"><speaker>BECKETT</speaker><content>Anything since then?</content></utterance>
+<utterance uid="3-3"><speaker>RYAN</speaker><content>No, that was her last known contact with law enforcement.</content></utterance>
+<utterance uid="3-4"><speaker>BECKETT</speaker><content>What about known associates? Maybe she was hanging out with someone who knows who killed her.</content></utterance>
+<utterance uid="3-5"><speaker>RYAN</speaker><content>No associates listed, but I do have Susan Watts’ address.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>KATRINA</speaker><content>Can I help you?</content></utterance>
+<utterance uid="4-2"><speaker>BECKETT</speaker><content>Detective Beckett, NYPD. I need to ask you a few questions about Susan Watts.</content></utterance>
+<utterance uid="4-3"><speaker>KATRINA</speaker><content>Why? Did something happen?</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>KATRINA</speaker><content>I quit smoking seven years ago and I really want a cigarette right now.</content></utterance>
+<utterance uid="5-2"><speaker>BECKETT</speaker><content>Katrina, when was the last time you saw Susan? Or talked to her?</content></utterance>
+<utterance uid="5-3"><speaker>KATRINA</speaker><content>Maybe three months ago? About the time she moved out.</content></utterance>
+<utterance uid="5-4"><speaker>BECKETT</speaker><content>She moved out? Where’d she go?</content></utterance>
+<utterance uid="5-5"><speaker>KATRINA</speaker><content>I don’t know. She didn’t stay here long. Less than six months.</content></utterance>
+<utterance uid="5-6"><speaker>BECKETT</speaker><content>Did she have any friends? Boyfriends? People that she partied with?</content></utterance>
+<utterance uid="5-7"><speaker>KATRINA</speaker><content>Susan wasn’t like that. Not anymore.  I posted an ad looking for a roommate and she answered. She was upfront that she used to be an addict. Been in prison. But she swore she was done with all that. She actually turned out to be the dream roommate. Go figure.</content></utterance>
+<utterance uid="5-8"><speaker>BECKETT</speaker><content>And why did she move out?</content></utterance>
+<utterance uid="5-9"><speaker>KATRINA</speaker><content>She got some great new job.</content></utterance>
+<utterance uid="5-10"><speaker>BECKETT</speaker><content>What kind of a job?</content></utterance>
+<utterance uid="5-11"><speaker>KATRINA</speaker><content>I’m not sure. But all of a sudden she could afford great clothes and a way nicer place, so off she went. I was happy for her. It seemed like she’d really turned her life around.</content></utterance>
+<utterance uid="5-12"><speaker>BECKETT</speaker><content>What else can you tell me about this new job? Who did she work for?</content></utterance>
+<utterance uid="5-13"><speaker>KATRINA</speaker><content>She never told me. She was actually kind of secretive about it.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>ESPOSITO</speaker><content>So the canvass is coming up empty. There’s no sign of Ed Turner, the dude who called 911. No witnesses. And no one who knows Susan Watts. Which is weird, because why would she be running down that alley in her ‘jams if she didn’t live in the neighborhood.</content></utterance>
+<utterance uid="6-2"><speaker>RYAN</speaker><content>You know what else is weird? I can’t find anything on this job that she had.</content></utterance>
+<utterance uid="6-3"><speaker>ESPOSITO</speaker><content>No W-2s or 1099s?</content></utterance>
+<utterance uid="6-4"><speaker>RYAN</speaker><content>Or social security withholdings, so she must have been paid in cash?</content></utterance>
+<utterance uid="6-5"><speaker>ESPOSITO</speaker><content>So maybe her job was illegal and that might be part of the reason she was killed.</content></utterance>
+<utterance uid="6-6"><speaker>RYAN</speaker><content>The only reference I found regarding employment was a place called New Start Horizons.</content></utterance>
+<utterance uid="6-7"><speaker>ESPOSITO</speaker><content>Sounds like a diet plan.</content></utterance>
+<utterance uid="6-8"><speaker>RYAN</speaker><content> Well, you would think so. Um, but it’s a job placement organization for women who have been incarcerated, based right here in the city. Susan met with them when they visited the prison.</content></utterance>
+<utterance uid="6-9"><speaker>ESPOSITO</speaker><content>So maybe they placed her in that job and they might know where she moved to.</content></utterance>
+<utterance uid="6-10"><speaker>RYAN</speaker><content>All right, I’ll loop Beckett in on New Start Horizons.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>ESPOSITO</speaker><content>Hey.</content></utterance>
+<utterance uid="7-2"><speaker>LANIE</speaker><content>Hey.</content></utterance>
+<utterance uid="7-3"><speaker>ESPOSITO</speaker><content>So what’s up?</content></utterance>
+<utterance uid="7-4"><speaker>LANIE</speaker><content>Well, for one thing, I found this in the victim’s hair.</content></utterance>
+<utterance uid="7-5"><speaker>ESPOSITO</speaker><content>A feather.</content></utterance>
+<utterance uid="7-6"><speaker>LANIE</speaker><content>Probably from bedding. A down pillow or something.</content></utterance>
+<utterance uid="7-7"><speaker>ESPOSITO</speaker><content>So maybe she was in bed, got chased out of her house. The killer could have been somebody she knew. Maybe a boyfriend.</content></utterance>
+<utterance uid="7-8"><speaker>LANIE</speaker><content>What’s the story with this woman?</content></utterance>
+<utterance uid="7-9"><speaker>ESPOSITO</speaker><content>Why do you ask?</content></utterance>
+<utterance uid="7-10"><speaker>LANIE</speaker><content>Is it something like this? She was in trouble with the law, then she gets her act together, finds a great job, but damn if you can figure out what that job is.</content></utterance>
+<utterance uid="7-11"><speaker>ESPOSITO</speaker><content>How do you know that?</content></utterance>
+<utterance uid="7-12"><speaker>LANIE</speaker><content>Do you remember Pam Hodges?</content></utterance>
+<utterance uid="7-13"><speaker>ESPOSITO</speaker><content>Yeah. How could I forget her? She looked just like you.</content></utterance>
+<utterance uid="7-14"><speaker>LANIE</speaker><content>That’s how she was made to look. Pam Hodges had the same story, except she was a hooker in Tampa. Out of nowhere she gets herself straightened out, gets a great job, then gets killed. Strangled.</content></utterance>
+<utterance uid="7-15"><speaker>ESPOSITO</speaker><content>Yeah, but not in the same way. Pam was strangled by wire, by Carl Matthews. But we put him away. So what does Pam Hodges have to do with Susan Watts?</content></utterance>
+<utterance uid="7-16"><speaker>LANIE</speaker><content>I think they’re connected.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>BECKETT</speaker><content>Excuse me? Hi. I’m Detective Beckett, NYPD. I need to speak with someone about one of your clients, Susan Watts.</content></utterance>
+<utterance uid="8-2"><speaker>RECEPTIONIST</speaker><content>Let me contact the director.</content></utterance>
+<utterance uid="8-3"><speaker>BECKETT</speaker><content>Okay.</content></utterance>
+<utterance uid="8-4"><speaker>BECKETT</speaker><content>Uh, excuse me.</content></utterance>
+<utterance uid="8-5"><speaker>BECKETT</speaker><content>Lanie, hey. What’ve you got?</content></utterance>
+<utterance uid="8-6"><speaker>LANIE</speaker><content>I’m here with Javi, and I think I know why Susan Watts looked familiar. She had cosmetic surgery on her face. Way less extreme, but a lot like what Pam Hodges had done.</content></utterance>
+<utterance uid="8-7"><speaker>BECKETT</speaker><content>Pam Hodges?</content></utterance>
+<utterance uid="8-8"><speaker>LANIE</speaker><content>It’s the same cheek implants. It’s the same technique. Kate, I think Susan Watts’ surgery was performed by the same doctor.</content></utterance>
+<utterance uid="8-9"><speaker>BECKETT</speaker><content>Dr. Kelly Nieman?</content></utterance>
+<utterance uid="8-10"><speaker>NIEMAN</speaker><content>Please, let me offer you one of my pens.</content></utterance>
+<utterance uid="8-11"><speaker>BECKETT</speaker><content>No. Thank you. We’re just here to ask you a few questions.</content></utterance>
+<utterance uid="8-12"><speaker>NIEMAN</speaker><content>Oh, can I just say, you have an amazing face, Detective.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>LANIE</speaker><content>I can’t prove it, but my gut says this is Nieman’s work. She was in on the murders of Pam Hodges and Daniel Santos, and you could never nail her for it. Maybe this time you can.</content></utterance>
+<utterance uid="9-2"><speaker>LANIE</speaker><content>Kate, are you still there?</content></utterance>
+<utterance uid="9-3"><speaker>BECKETT</speaker><content>Lane, uh … it’s not just your gut. Kelly Nieman is a part of this and I’m looking right at her.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>CASTLE</speaker><content>Wait, Kelly Nieman is mixed up in this? I thought she left the country.</content></utterance>
+<utterance uid="10-2"><speaker>BECKETT</speaker><content>She’s back. But the director at New Start Horizons claims that Dr. Nieman never met Susan Watts.</content></utterance>
+<utterance uid="10-3"><speaker>CASTLE</speaker><content>But Susan is dead and Kelly is a major donor of New Start Horizons.</content></utterance>
+<utterance uid="10-4"><speaker>BECKETT</speaker><content>Yeah, it can’t be a coincidence.</content></utterance>
+<utterance uid="10-5"><speaker>CASTLE</speaker><content>What can I do?</content></utterance>
+<utterance uid="10-6"><speaker>BECKETT</speaker><content>Just stay close to the phone. I’ll be in touch.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>CAPTAIN VICTORIA GATES</speaker><content>Kate, how sure are you take Kelly Nieman is connected with the Susan Watts case?</content></utterance>
+<utterance uid="11-2"><speaker>BECKETT</speaker><content>A lot of things point to her, sir.</content></utterance>
+<utterance uid="11-3"><speaker>GATES</speaker><content>As it did with Pan Hodges and Daniel Santos, but no actual proof. At the time you felt that 3XK played a part in those murders. Do you think he played a part in this one, too?</content></utterance>
+<utterance uid="11-4"><speaker>BECKETT</speaker><content>I don’t have any evidence of it yet, sir. And we haven’t found any actual proof that Jerry Tyson is still alive. It’s possible that Kelly Nieman is a serial killer in her own right. She’s as shrewd and as high functioning a sociopath as he ever was.</content></utterance>
+<utterance uid="11-5"><speaker>GATES</speaker><content>If Dr. Nieman is involved in this murder, how can I make sure that she doesn’t slip through our fingers again?</content></utterance>
+<utterance uid="11-6"><speaker>BECKETT</speaker><content>You could bring Castle in to consult on this case.</content></utterance>
+<utterance uid="11-7"><speaker>GATES</speaker><content>No, Detective –</content></utterance>
+<utterance uid="11-8"><speaker>BECKETT</speaker><content>Sir, he knows the Nieman case inside and out. He could be a huge asset.</content></utterance>
+<utterance uid="11-9"><speaker>GATES</speaker><content>Well, I am inclined to agree with you, but –  - Mr. Castle works on this case only.</content></utterance>
+<utterance uid="11-10"><speaker>BECKETT</speaker><content>Thank you, sir.</content></utterance>
+<utterance uid="11-11"><speaker>GATES</speaker><content>Don’t thank me yet. I still have to get the DA on board.</content></utterance>
+<utterance uid="11-12"><speaker>RYAN</speaker><content>Excuse me, Captain? We looked into Kelly Nieman. She has a surgical clinic in Costa Rica. But she also began seeing patients right here in the city six months ago, through a cosmetic surgery group.</content></utterance>
+<utterance uid="11-13"><speaker>BECKETT</speaker><content>Where?</content></utterance>
+<utterance uid="11-14"><speaker>RYAN</speaker><content>Saint Simon’s Hospital. Eighth floor.</content></utterance>
+</scene>
+
+<scene id="12"><utterance uid="12-1"><speaker>BECKETT</speaker><content>Pam Hodges was murdered. So was Daniel Santos. They only person that they have in common is you.</content></utterance>
+<utterance uid="12-2"><speaker>NIEMAN</speaker><content>What possible motive would I have for killing anyone?</content></utterance>
+<utterance uid="12-3"><speaker>RYAN</speaker><content>She volunteered as a prison doctor. Not only that, she treated Jerry Tyson.</content></utterance>
+<utterance uid="12-4"><speaker>CASTLE</speaker><content>She’s gotta be Tyson’s girlfriend.</content></utterance>
+<utterance uid="12-5"><speaker>BECKETT</speaker><content>He taught her everything he knew.</content></utterance>
+<utterance uid="12-6"><speaker>ESPOSITO</speaker><content>We got here too late. Nieman cleared out. She’s gone.</content></utterance>
+<utterance uid="12-7"><speaker>JERRY TYSON</speaker><content>You think you’ve got this all figured out, but you don’t.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>BECKETT</speaker><content>We meet again. Like the song says.</content></utterance>
+<utterance uid="13-2"><speaker>KELLY NIEMAN</speaker><content>Kate Beckett. Such lovely features. What skilled hands could do with you.</content></utterance>
+<utterance uid="13-3"><speaker>BECKETT</speaker><content>I’m not interested in a consultation.</content></utterance>
+<utterance uid="13-4"><speaker>NIEMAN</speaker><content>Neither am I. You do know your little theory that I played a role in those deaths damaged my practice. My reputation. But I can truly say that’s all in the past now and I bear you no malice.</content></utterance>
+<utterance uid="13-5"><speaker>BECKETT</speaker><content>Well, that’s a relief. What can you tell me about Susan Watts?</content></utterance>
+<utterance uid="13-6"><speaker>NIEMAN</speaker><content>I’m not familiar with that name.</content></utterance>
+<utterance uid="13-7"><speaker>BECKETT</speaker><content>She was a client at New Start Horizons.</content></utterance>
+<utterance uid="13-8"><speaker>NIEMAN</speaker><content>Many women are.</content></utterance>
+<utterance uid="13-9"><speaker>BECKETT</speaker><content>So you never met her there?</content></utterance>
+<utterance uid="13-10"><speaker>NIEMAN</speaker><content>I donate to New Start Horizons, Detective. But it’s not where I spend my time and I don’t know Susan Watts.</content></utterance>
+<utterance uid="13-11"><speaker>BECKETT</speaker><content>Does this refresh your memory? She got a job that apparently doesn’t exist. She also had cosmetic surgery performed by you.</content></utterance>
+<utterance uid="13-12"><speaker>NIEMAN</speaker><content>You must be mistaken. I never forget a face. Especially if I cut it.</content></utterance>
+<utterance uid="13-13"><speaker>BECKETT</speaker><content>So I suppose you won’t mind if I take a look at your patient records, just to be sure.</content></utterance>
+<utterance uid="13-14"><speaker>NIEMAN</speaker><content>Of course not.  I just need to see a court order, signed by a judge.</content></utterance>
+<utterance uid="13-15"><speaker>BECKETT</speaker><content>I’ll get one.</content></utterance>
+<utterance uid="13-16"><speaker>NIEMAN</speaker><content>Not based on casual suspicions, which is all you seem to have.</content></utterance>
+<utterance uid="13-17"><speaker>BECKETT</speaker><content>I’ll be back.</content></utterance>
+<utterance uid="13-18"><speaker>NIEMAN</speaker><content>A parting gift?  A facial rejuvenation kit. My own product line.</content></utterance>
+<utterance uid="13-19"><speaker>BECKETT</speaker><content>No. Thank you.</content></utterance>
+<utterance uid="13-20"><speaker>NIEMAN</speaker><content>You sure? You look a bit fatigued.</content></utterance>
+<utterance uid="13-21"><speaker>ESPOSITO</speaker><content>‘sup, Beckett?</content></utterance>
+<utterance uid="13-22"><speaker>BECKETT</speaker><content>Kelly Nieman just denied knowing Susan Watts and I need proof that she’s lying.</content></utterance>
+<utterance uid="13-23"><speaker>ESPOSITO</speaker><content>We haven’t found any yet, but so far nobody at New Start Horizons remembers seeing them together. And there’s no forensic evidence that ties Nieman to the murder.</content></utterance>
+<utterance uid="13-24"><speaker>BECKETT</speaker><content>Put a surveillance detail on her. And pull security video from Saint Simon’s Hospital. Maybe Susan visited Nieman here or came in for an appointment.</content></utterance>
+<utterance uid="13-25"><speaker>ESPOSITO</speaker><content>I’ll get right on it, but you’re talking about weeks of footage to comb through and that’s even if Saint Simon’s lets us have it. But I do have some good news for you.</content></utterance>
+<utterance uid="13-26"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="13-27"><speaker>ESPOSITO</speaker><content>The DA signed off on Castle working this case with us. He’ll be here ready to jump in by the time you get back.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>CASTLE</speaker><content>You really think Nieman’s behind Susan Watts’ murder?</content></utterance>
+<utterance uid="14-2"><speaker>BECKETT</speaker><content>Couldn’t tell. She’s got ice water in her veins. Although I’ll bet Kelly Nieman wasn’t in the alleyway doing the dirty work. Last time she had an accomplice. A proxy. Someone who did the killing for her.</content></utterance>
+<utterance uid="14-3"><speaker>CASTLE</speaker><content>So who’s the proxy this time?</content></utterance>
+<utterance uid="14-4"><speaker>ESPOSITO</speaker><content>Hey guys. We got something.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>ESPOSITO</speaker><content>The hospital won’t share security footage without a court order.</content></utterance>
+<utterance uid="15-2"><speaker>TORY ELLIS</speaker><content>But I was able to look at a street cam with a view of the hospital entrance.</content></utterance>
+<utterance uid="15-3"><speaker>ESPOSITO</speaker><content>So we started rolling through it and in no time we ran across this.</content></utterance>
+<utterance uid="15-4"><speaker>BECKETT</speaker><content>She’s carrying a Kelly Nieman gift bag.</content></utterance>
+<utterance uid="15-5"><speaker>CASTLE</speaker><content>Well, that’s her. That’s definitely Susan Watts.</content></utterance>
+<utterance uid="15-6"><speaker>TORY</speaker><content>Except there’s a timeline problem. This footage is from yesterday afternoon.</content></utterance>
+<utterance uid="15-7"><speaker>ESPOSITO</speaker><content>After Susan Watts was already dead, so this can’t be her.</content></utterance>
+<utterance uid="15-8"><speaker>CASTLE</speaker><content>That’s not Susan Watts?</content></utterance>
+<utterance uid="15-9"><speaker>ESPOSITO</speaker><content>No.</content></utterance>
+<utterance uid="15-10"><speaker>CASTLE</speaker><content>All right, then either by some insane coincidence Kelly Nieman has another patient who looks exactly like Susan Watts –</content></utterance>
+<utterance uid="15-11"><speaker>BECKETT</speaker><content>Or Nieman surgically changed that woman to look like Susan Watts for some reason. Either way, we’ve got to figure out where this woman is.</content></utterance>
+<utterance uid="15-12"><speaker>BECKETT</speaker><content>Oh my God. Look who’s driving. It’s 3XK.</content></utterance>
+<utterance uid="15-13"><speaker>CASTLE</speaker><content>Jerry Tyson. He’s alive.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>GATES</speaker><content>Listen up, people. This woman is in grave danger. She left Saint Simon’s hospital yesterday and we urgently need to find her.</content></utterance>
+<utterance uid="16-2"><speaker>BECKETT</speaker><content>She is a patient of Dr. Kelly Nieman. Nieman is not cooperating, so canvass the hospital. Someone there has to know who she is.</content></utterance>
+<utterance uid="16-3"><speaker>GATES</speaker><content>And work this vehicle. We find the truck, we find the woman, along with a man she took a ride with.</content></utterance>
+<utterance uid="16-4"><speaker>BECKETT</speaker><content>That man is Jerry Tyson, also known as 3XK. And I am sure that no one here is more familiar with him than Castle.</content></utterance>
+<utterance uid="16-5"><speaker>CASTLE</speaker><content>Uh, a dubious distinction. 3XK, the triple killer, so named because he kills his victims in groups of three. Blondes, like his latest victim, Susan Watts. The original 3XK killings were unsolved and stopped soon after they started. But then four years ago another victim showed up.</content></utterance>
+<utterance uid="16-6"><speaker>BECKETT</speaker><content>The Triple Killer is back.</content></utterance>
+<utterance uid="16-7"><speaker>BECKETT</speaker><content>The man that we’re looking for is Marcus Gates.</content></utterance>
+<utterance uid="16-8"><speaker>ESPOSITO</speaker><content>NYPD!</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>CASTLE</speaker><content>Now we couldn’t prove that Marcus Gates was 3XK. But his cell mate, Jerry Tyson, agreed to help us put Gates away in exchange for early release. That turned out to be not such a good deal.</content></utterance>
+<utterance uid="17-2"><speaker>CASTLE</speaker><content>It’s not Marcus Gates. It was him all along. He’s the real Triple Killer.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>CASTLE</speaker><content>By the time we realized that Jerry Tyson was 3XK, it was too late. We got close again when Tyson used the gun he stole from Detective Ryan in a homicide. The he dropped out of sight. But not for long.</content></utterance>
+<utterance uid="18-2"><speaker>ESPOSITO</speaker><content>Richard Castle, you’re under arrest for the murder of Tessa Horton.</content></utterance>
+<utterance uid="18-3"><speaker>CASTLE</speaker><content>You did this. You killed Tessa.</content></utterance>
+<utterance uid="18-4"><speaker>TYSON</speaker><content>You killed Tessa. You will not last the night.</content></utterance>
+<utterance uid="18-5"><speaker>CASTLE</speaker><content>He’s not dead.</content></utterance>
+<utterance uid="18-6"><speaker>BECKETT</speaker><content>You shot him. He’s dead. It’s over.</content></utterance>
+<utterance uid="18-7"><speaker>CASTLE</speaker><content>For now.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>CASTLE</speaker><content>I wish I could say my doubts were unfounded.</content></utterance>
+<utterance uid="19-2"><speaker>CASTLE</speaker><content>Why would someone kill clones of Esposito and Lanie?</content></utterance>
+<utterance uid="19-3"><speaker>BECKETT</speaker><content>Kelly Nieman is playing a much deeper game.</content></utterance>
+<utterance uid="19-4"><speaker>BECKETT</speaker><content>Where are the 3XK files?</content></utterance>
+<utterance uid="19-5"><speaker>ESPOSITO</speaker><content>I didn’t check out any files.</content></utterance>
+<utterance uid="19-6"><speaker>BECKETT</speaker><content>It’s not just Tyson’s files that are gone. Lab work, DNA, tissue samples of every 3XK victim were checked out. By Lanie.</content></utterance>
+<utterance uid="19-7"><speaker>ESPOSITO</speaker><content>Only not the real Lanie.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>CASTLE</speaker><content>And now, at the time we weren’t certain that Tyson was behind it all. We didn’t even know if he was alive. But we do now.</content></utterance>
+<utterance uid="20-2"><speaker>BECKETT</speaker><content>But we might have gotten lucky. It looks like Susan Watts escaped from Tyson, forcing him to kill her in the alley and leave her body there. Which means he got careless. He made mistakes. Let’s press our advantage and find this woman before he becomes his next victim.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>NIEMAN</speaker><content>You look well, Mr. Castle. Though your epicanthal folds could use some tending.  I thought you stopped working on cases.</content></utterance>
+<utterance uid="21-2"><speaker>CASTLE</speaker><content>For you I made an exception.</content></utterance>
+<utterance uid="21-3"><speaker>NIEMAN</speaker><content>Please know I’m here as a courtesy.</content></utterance>
+<utterance uid="21-4"><speaker>BECKETT</speaker><content>I’m sure you are. Uh, who is this woman?  And don’t say you don’t know her. She’s carrying your swag bag.</content></utterance>
+<utterance uid="21-5"><speaker>NIEMAN</speaker><content>That doesn’t prove she’s a patient.</content></utterance>
+<utterance uid="21-6"><speaker>CASTLE</speaker><content>Are you saying she’s not a patient?</content></utterance>
+<utterance uid="21-7"><speaker>NIEMAN</speaker><content>I’m saying I can’t answer that. I’d be breaking confidentiality.</content></utterance>
+<utterance uid="21-8"><speaker>BECKETT</speaker><content>Which you’d be free to do – even obliged to do – especially if a patient’s life is in danger.</content></utterance>
+<utterance uid="21-9"><speaker>CASTLE</speaker><content>She took a ride with Jerry Tyson. It doesn’t get more dangerous than that.</content></utterance>
+<utterance uid="21-10"><speaker>NIEMAN</speaker><content>Except Jerry Tyson is dead.  Therefore that can’t be him.</content></utterance>
+<utterance uid="21-11"><speaker>BECKETT</speaker><content>Really? Then who is he? And where do we find him?</content></utterance>
+<utterance uid="21-12"><speaker>NIEMAN</speaker><content>I really couldn’t say.</content></utterance>
+<utterance uid="21-13"><speaker>BECKETT</speaker><content>I know why you’re here.  To see what we have.</content></utterance>
+<utterance uid="21-14"><speaker>NIEMAN</speaker><content>What you have is irrelevant to me. I’m innocent of any wrongdoing.</content></utterance>
+<utterance uid="21-15"><speaker>BECKETT</speaker><content>If you’re innocent then why won’t you give us this woman’s name? Especially when not giving it makes you look guilty?</content></utterance>
+<utterance uid="21-16"><speaker>CASTLE</speaker><content>Any judge we take this to will see this man as Jerry Tyson.</content></utterance>
+<utterance uid="21-17"><speaker>BECKETT</speaker><content>We will be granted a court order for that patient’s name. So you can give it to me now or I’ll see you in an hour in your hospital with a dozen police officers. Your choice.</content></utterance>
+<utterance uid="21-18"><speaker>NIEMAN</speaker><content>Her name is Amy Barrett.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>GATES</speaker><content> Run that name. Go!</content></utterance>
+<utterance uid="22-2"><speaker>BECKETT</speaker><content>So you admit that Amy Barrett is a patient of yours. Where does she live?</content></utterance>
+<utterance uid="22-3"><speaker>NIEMAN</speaker><content>I’ll have my office send her contact information.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>BECKETT</speaker><content>Why did she want surgery?</content></utterance>
+<utterance uid="23-2"><speaker>NIEMAN</speaker><content>She wanted to enhance her appearance.</content></utterance>
+<utterance uid="23-3"><speaker>CASTLE</speaker><content>And it’s just an amazing coincidence she ended up looking exactly like Susan Watts?</content></utterance>
+<utterance uid="23-4"><speaker>NIEMAN</speaker><content>As I’ve said before, I don’t know who that is.</content></utterance>
+<utterance uid="23-5"><speaker>BECKETT</speaker><content>And yet they look identical. Whatever you’re up to, whatever Tyson is up to, we will stop it.</content></utterance>
+<utterance uid="23-6"><speaker>NIEMAN</speaker><content>Jerry Tyson is dead.  And I have a surgery scheduled.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>RYAN</speaker><content>The contact info that Kelly Nieman’s office sent us was out of date. Amy moved out of her place two months ago. Still trying to figure out where.</content></utterance>
+<utterance uid="24-2"><speaker>CASTLE</speaker><content>Just like Susan Watts.</content></utterance>
+<utterance uid="24-3"><speaker>RYAN</speaker><content>That’s not all she had in common. Amy Barrett grew up in Arizona, ran away at 16. She drifted around, multiple arrests.</content></utterance>
+<utterance uid="24-4"><speaker>BECKETT</speaker><content>Does she have any connection to New Start Horizons?</content></utterance>
+<utterance uid="24-5"><speaker>RYAN</speaker><content>Not that I can tell.</content></utterance>
+<utterance uid="24-6"><speaker>CASTLE</speaker><content>Nieman’s creating his victims.</content></utterance>
+<utterance uid="24-7"><speaker>RYAN</speaker><content>What do you mean?</content></utterance>
+<utterance uid="24-8"><speaker>CASTLE</speaker><content>For Jerry Tyson. They’re like clones. They’re blonde and pretty, just like Tyson likes them. Nieman finds these poor women, lost souls that no one is going to miss, and she remakes them. She grooms them for 3XK.</content></utterance>
+<utterance uid="24-9"><speaker>ESPOSITO</speaker><content>Yo. We got the truck. Tory picked it up on another street cam. We got a license plate. The vehicle belongs to a guy named Michael Boudreau.</content></utterance>
+<utterance uid="24-10"><speaker>BECKETT</speaker><content>We got an address?</content></utterance>
+<utterance uid="24-11"><speaker>ESPOSITO</speaker><content>Yeah. Four blocks from where Susan Watts was found.</content></utterance>
+<utterance uid="24-12"><speaker>BECKETT</speaker><content>Let’s go.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>ESPOSITO</speaker><content>This is definitely the place.</content></utterance>
+<utterance uid="25-2"><speaker>RYAN</speaker><content>How do you think Michael Boudreau fits in?</content></utterance>
+<utterance uid="25-3"><speaker>BECKETT</speaker><content>He may be Tyson’s accomplice.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>BECKETT</speaker><content>Michael Boudreau, NYPD! Open the door!</content></utterance>
+<utterance uid="26-2"><speaker>RYAN</speaker><content>Freeze! NYPD!</content></utterance>
+<utterance uid="26-3"><speaker>ESPOSITO</speaker><content>Let me see your hands!</content></utterance>
+<utterance uid="26-4"><speaker>ESPOSITO</speaker><content>Step away from the window.</content></utterance>
+<utterance uid="26-5"><speaker>BECKETT</speaker><content>Turn around.</content></utterance>
+<utterance uid="26-6"><speaker>BECKETT</speaker><content>Jerry Tyson, you are under arrest.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>RYAN</speaker><content>What I wouldn’t give to be in that box with Jerry Tyson.</content></utterance>
+<utterance uid="27-2"><speaker>ESPOSITO</speaker><content>Well, we arrested him. He’s going away. I’m good with that.</content></utterance>
+<utterance uid="27-3"><speaker>RYAN</speaker><content>Yeah, but he didn’t take your gun and get someone killed with it.</content></utterance>
+<utterance uid="27-4"><speaker>ESPOSITO</speaker><content>Yeah.</content></utterance>
+<utterance uid="27-5"><speaker>RYAN</speaker><content>Ryan.</content></utterance>
+<utterance uid="27-6"><speaker>GATES</speaker><content>Did you find any sign of Amy Barrett?</content></utterance>
+<utterance uid="27-7"><speaker>RYAN</speaker><content>Not yet. But CSU’s pulling prints to see if she was here. They’re also checking bedding and pillows to see if it matches that feather that Lanie found in Susan Watts’ hair.</content></utterance>
+<utterance uid="27-8"><speaker>GATES</speaker><content>Well, what’s the story on Michael Boudreau?</content></utterance>
+<utterance uid="27-9"><speaker>RYAN</speaker><content>Well, based on his pay stubs and some other stuff, he came from Iowa six months ago. Works in construction.</content></utterance>
+<utterance uid="27-10"><speaker>GATES</speaker><content>Well, where is he now?</content></utterance>
+<utterance uid="27-11"><speaker>RYAN</speaker><content>We don’t know. We also don’t know about his connection to Jerry Tyson, either.</content></utterance>
+<utterance uid="27-12"><speaker>GATES</speaker><content>All right. Keep me posted.</content></utterance>
+<utterance uid="27-13"><speaker>RYAN</speaker><content>Yes, sir.</content></utterance>
+<utterance uid="27-14"><speaker>ESPOSITO</speaker><content>Yo, Ryan! Check it out. Found this under the bed. Look at the photo.</content></utterance>
+<utterance uid="27-15"><speaker>RYAN</speaker><content>Amy Barrett.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>CASTLE</speaker><content>I never thought this day would come. Not only can we prove Jerry Tyson is alive but we have him in custody.</content></utterance>
+<utterance uid="28-2"><speaker>BECKETT</speaker><content>What we don’t have is a smoking gun.</content></utterance>
+<utterance uid="28-3"><speaker>CASTLE</speaker><content>There’s no evidence at the apartment?</content></utterance>
+<utterance uid="28-4"><speaker>BECKETT</speaker><content>Nothing to indicate foul play, and we can’t charge him for his past crimes, not with his records missing.</content></utterance>
+<utterance uid="28-5"><speaker>CASTLE</speaker><content>We have him at the motel. He attacked Ryan. He tied me up at gunpoint.</content></utterance>
+<utterance uid="28-6"><speaker>BECKETT</speaker><content>Kidnapping. The aggravated assault of a police officer and use of a gun during a felony. That will work.</content></utterance>
+<utterance uid="28-7"><speaker>CASTLE</speaker><content>So we got him. That’ll buy us enough time to tie him to Amy Barrett, Susan Watts. Build a real case.</content></utterance>
+<utterance uid="28-8"><speaker>BECKETT</speaker><content>We figured out how he might have crossed paths with Amy. Before she came to New York she was being treated for substance abuse at a nonprofit clinic in Ohio.</content></utterance>
+<utterance uid="28-9"><speaker>CASTLE</speaker><content>Don’t tell me. Kelly Nieman’s a donor.</content></utterance>
+<utterance uid="28-10"><speaker>BECKETT</speaker><content>To that organization and dozens of others just like it across the country.</content></utterance>
+<utterance uid="28-11"><speaker>CASTLE</speaker><content>She and Tyson are in this together. Partners. A serial killer team.</content></utterance>
+<utterance uid="28-12"><speaker>BECKETT</speaker><content>She must have recruited these women. Promised them a great job, a new look, and a bright future.</content></utterance>
+<utterance uid="28-13"><speaker>CASTLE</speaker><content>Yeah, a future that ended with Jerry Tyson. For all we know she and Tyson have been doing this for months. Years. He probably got smart, disposed of the bodies where we would never find them.</content></utterance>
+<utterance uid="28-14"><speaker>BECKETT</speaker><content>Until Susan Watts got away. We’re going to bring him down. Nieman too.</content></utterance>
+<utterance uid="28-15"><speaker>CASTLE</speaker><content>Has he said anything yet?</content></utterance>
+<utterance uid="28-16"><speaker>BECKETT</speaker><content>Not yet. But he’s about to.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>CASTLE</speaker><content>You should really soak up the ambiance. This is the nicest room you’re going to be seeing for quite a while.</content></utterance>
+<utterance uid="29-2"><speaker>TYSON</speaker><content>If you say so.  You were at the apartment. First time I saw a cop who was a woman of your hotness.</content></utterance>
+<utterance uid="29-3"><speaker>BECKETT</speaker><content>The first time? You don’t know me?</content></utterance>
+<utterance uid="29-4"><speaker>TYSON</speaker><content>No … I don’t know either one of you.</content></utterance>
+<utterance uid="29-5"><speaker>BECKETT</speaker><content>Okay, if you want to play that game. This is Richard Castle. I’m Detective Beckett.</content></utterance>
+<utterance uid="29-6"><speaker>TYSON</speaker><content>How do you do, ma’am? Um … I’ve gotta be honest, this is a big misunderstanding.</content></utterance>
+<utterance uid="29-7"><speaker>BECKETT</speaker><content>Then why did you try to run?</content></utterance>
+<utterance uid="29-8"><speaker>TYSON</speaker><content>I don’t know. I’m sorry, I panicked, I guess. Honestly, I haven’t always been on the right side of the law.</content></utterance>
+<utterance uid="29-9"><speaker>CASTLE</speaker><content>You don’t say.  Tell us about Amy Barrett.</content></utterance>
+<utterance uid="29-10"><speaker>TYSON</speaker><content>Oh, sweet girl.</content></utterance>
+<utterance uid="29-11"><speaker>BECKETT</speaker><content>What was Amy doing at the apartment?</content></utterance>
+<utterance uid="29-12"><speaker>TYSON</speaker><content>She stays there with me.</content></utterance>
+<utterance uid="29-13"><speaker>BECKETT</speaker><content>What is she, your girlfriend?</content></utterance>
+<utterance uid="29-14"><speaker>TYSON</speaker><content> I don’t want to put a label on what we have.</content></utterance>
+<utterance uid="29-15"><speaker>BECKETT</speaker><content>Where is she now?</content></utterance>
+<utterance uid="29-16"><speaker>TYSON</speaker><content>Um, I don’t know. It’s not like I keep tabs on her.</content></utterance>
+<utterance uid="29-17"><speaker>CASTLE</speaker><content>What about Susan Watts? Is she your girlfriend, too?</content></utterance>
+<utterance uid="29-18"><speaker>TYSON</speaker><content> No. I don’t know her.</content></utterance>
+<utterance uid="29-19"><speaker>CASTLE</speaker><content>Where’s Michael Boudreau?</content></utterance>
+<utterance uid="29-20"><speaker>TYSON</speaker><content>What do you mean?</content></utterance>
+<utterance uid="29-21"><speaker>CASTLE</speaker><content>Why are you at his apartment, driving his truck?</content></utterance>
+<utterance uid="29-22"><speaker>TYSON</speaker><content>Come on. Man, I’m Michael Boudreau.</content></utterance>
+<utterance uid="29-23"><speaker>CASTLE</speaker><content> You’re Michael Boudreau?</content></utterance>
+<utterance uid="29-24"><speaker>TYSON</speaker><content>Yeah.  What? Yeah. Who else would I be?</content></utterance>
+<utterance uid="29-25"><speaker>BECKETT</speaker><content>Jerry Tyson.</content></utterance>
+<utterance uid="29-26"><speaker>TYSON</speaker><content>Oh.  You – I get that from time to time.</content></utterance>
+<utterance uid="29-27"><speaker>BECKETT</speaker><content>Yeah well, that’s not surprising considering you look exactly like Tyson and nothing like this photo of Michael Boudreau. So why don’t you explain that?</content></utterance>
+<utterance uid="29-28"><speaker>TYSON</speaker><content>Truth is, I got a little work done. You can still see a tiny scar here –  – and here .</content></utterance>
+<utterance uid="29-29"><speaker>CASTLE</speaker><content>You got cosmetic surgery?</content></utterance>
+<utterance uid="29-30"><speaker>TYSON</speaker><content>Yeah.</content></utterance>
+<utterance uid="29-31"><speaker>CASTLE</speaker><content>To look like a serial killer.</content></utterance>
+<utterance uid="29-32"><speaker>TYSON</speaker><content>I never liked how I looked, and so I met this great surgeon and she just … gave me a new face. Funny thing is, I’ve never felt more like myself since I started looking like him.</content></utterance>
+<utterance uid="29-33"><speaker>TYSON</speaker><content>It’s weird, right?</content></utterance>
+<utterance uid="29-34"><speaker>BECKETT</speaker><content>Was the surgeon Kelly Nieman?</content></utterance>
+<utterance uid="29-35"><speaker>TYSON</speaker><content>Yes. Man, she is the best. She even did a little touchup on Amy.</content></utterance>
+<utterance uid="29-36"><speaker>BECKETT</speaker><content>You know, the problem is, how are you going to prove that you are Michael Boudreau.</content></utterance>
+<utterance uid="29-37"><speaker>TYSON</speaker><content>How do you prove I’m not?</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>GATES</speaker><content>Detective. An unexpected development. We only had one hard copy of Tyson’s fingerprints.</content></utterance>
+<utterance uid="30-2"><speaker>BECKETT</speaker><content>Yeah, from the prison records, the ones I had them send here.</content></utterance>
+<utterance uid="30-3"><speaker>GATES</speaker><content>Right. But those prints don’t match the prints of the man we have in custody.</content></utterance>
+<utterance uid="30-4"><speaker>BECKETT</speaker><content>That’s impossible.</content></utterance>
+<utterance uid="30-5"><speaker>CASTLE</speaker><content>Uh, when you ran the prints, whose name came up?</content></utterance>
+<utterance uid="30-6"><speaker>GATES</speaker><content>Michael Boudreau. We checked and rechecked. There’s no mistake.</content></utterance>
+<utterance uid="30-7"><speaker>CASTLE</speaker><content>I know how he did it. Tyson killed Boudreau, took his identity. Kelly Nieman grafted Boudreau’s fingertips onto Tyson’s hands.</content></utterance>
+<utterance uid="30-8"><speaker>GATES</speaker><content>The scars would have shown up on his fingerprint card.</content></utterance>
+<utterance uid="30-9"><speaker>CASTLE</speaker><content>Kelly Nieman’s good enough not to leave scars.</content></utterance>
+<utterance uid="30-10"><speaker>GATES</speaker><content>Theories don’t help us, Mr. Castle. The DA just called. They heard from Boudreau’s lawyer, who says that we’re keeping his client under false pretenses.</content></utterance>
+<utterance uid="30-11"><speaker>BECKETT</speaker><content>That’s a lie, sir. That man is Jerry Tyson.</content></utterance>
+<utterance uid="30-12"><speaker>GATES</speaker><content>Then how do we prove it? Not with Tyson’s DNA sample, that’s missing. And as far as the DA is concerned, Tyson died when he went off the bridge.</content></utterance>
+<utterance uid="30-13"><speaker>CASTLE</speaker><content>This is why Tyson had his case files and all his records taken. For a clean slate, so he could kill and get away with it.</content></utterance>
+<utterance uid="30-14"><speaker>BECKETT</speaker><content>Are you saying that we have to release that man, sir?</content></utterance>
+<utterance uid="30-15"><speaker>GATES</speaker><content>Unless we can show that he’s Tyson or connect him to the murder? I’m afraid we have to.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>RYAN</speaker><content>You have to be kidding me.</content></utterance>
+<utterance uid="31-2"><speaker>BECKETT</speaker><content>I wish I was. Tyson’s getting moved to holding, but his next move might be outside of this precinct.</content></utterance>
+<utterance uid="31-3"><speaker>CASTLE</speaker><content>Unless we can tie him to a crime or prove that he’s Tyson.</content></utterance>
+<utterance uid="31-4"><speaker>RYAN</speaker><content>After all this guy’s done. There’s gotta be something we can do.</content></utterance>
+<utterance uid="31-5"><speaker>BECKETT</speaker><content>Check the GPS on his truck. Let’s see where he’s been. And pull all the phone records from the apartment. We’ve gotta find something, anything, that’ll connect him to Susan Watts’ murder or Amy Barrett’s disappearance.</content></utterance>
+<utterance uid="31-6"><speaker>ESPOSITO</speaker><content>How much time do we have before we have to cut him loose?</content></utterance>
+<utterance uid="31-7"><speaker>BECKETT</speaker><content>Gates is trying to stall the DA, so we’ve got an hour, maybe two.</content></utterance>
+<utterance uid="31-8"><speaker>RYAN</speaker><content>Here we are, not being able to prove that Tyson is Tyson because we don’t have his DNA sample that he stole.</content></utterance>
+<utterance uid="31-9"><speaker>ESPOSITO</speaker><content>Unless this guy is Mike Boudreau. It could explain the fingerprints, all he’s been saying.</content></utterance>
+<utterance uid="31-10"><speaker>RYAN</speaker><content>Which would mean, what? That Tyson is actually dead and Kelly Nieman cut Boudreau to look like Tyson?</content></utterance>
+<utterance uid="31-11"><speaker>CASTLE</speaker><content>No, this guy is Jerry Tyson. I’m going to talk to him. Rattle him. Get him to reveal himself.</content></utterance>
+<utterance uid="31-12"><speaker>TORY</speaker><content>I’m with Castle. I don’t think that man is Michael Boudreau.</content></utterance>
+<utterance uid="31-13"><speaker>CASTLE</speaker><content>Based on what?</content></utterance>
+<utterance uid="31-14"><speaker>TORY</speaker><content>Once we ID’d Boudreau and Amy Barrett, I started monitoring their credit card activity. Boudreau’s card was just used to make a purchase at Café Julius in Midtown.</content></utterance>
+<utterance uid="31-15"><speaker>BECKETT</speaker><content>Finding the real Michael Boudreau might give us just the break we need.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>CASTLE</speaker><content>Kind of a role reversal, isn’t it?</content></utterance>
+<utterance uid="32-2"><speaker>TYSON</speaker><content>Not sure what you mean.</content></utterance>
+<utterance uid="32-3"><speaker>CASTLE</speaker><content>Oh, sure you do. Wasn’t so long ago you were in here visiting me.</content></utterance>
+<utterance uid="32-4"><speaker>TYSON</speaker><content>You’ve got me confused with Tyson again.</content></utterance>
+<utterance uid="32-5"><speaker>CASTLE</speaker><content>You were dressed in a police uniform and I was in there where you are now.</content></utterance>
+<utterance uid="32-6"><speaker>TYSON</speaker><content>People think it’s killing that I like. But murder’s just an act. It’s all about the anticipation, the planning. Being inside your life. Knowing that I’m going to take it all away from you. That’s what I like.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>CASTLE</speaker><content>What a feeling that must have been. That kind of power over someone. How does it feel now, Jerry?</content></utterance>
+<utterance uid="33-2"><speaker>TYSON</speaker><content>Look, I get it. You think I’m Jerry Tyson and I guess I brought that on myself. But you are jaw-jacking with the wrong guy, okay? I’m Mike Boudreau.</content></utterance>
+<utterance uid="33-3"><speaker>CASTLE</speaker><content>Why the blondes? Amy Barrett, Susan Watts.</content></utterance>
+<utterance uid="33-4"><speaker>TYSON</speaker><content>I like blondes. But like I said, I don’t – I don’t know who this Susan Watts is.</content></utterance>
+<utterance uid="33-5"><speaker>CASTLE</speaker><content>See, I’m betting the reason goes back to what I said at the motel.</content></utterance>
+<utterance uid="33-6"><speaker>JERRY</speaker><content>Oh, you really don’t know me at all, do you?</content></utterance>
+<utterance uid="33-7"><speaker>CASTLE</speaker><content>You were raised by a single mother. She was blonde. Oh, she was beautiful, but … she never wanted you. You go into foster care, the bad kind. You have so much hate, so much hate towards your mother for abandoning you that you kill these women to get back at her.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>CASTLE</speaker><content>Was I right? Is this all about mommy?  It is about your mother.  This is all about your mother.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>BECKETT</speaker><content>I’m sorry, Ryan. I got caught in traffic. Boudreau’s probably long gone by now.</content></utterance>
+<utterance uid="35-2"><speaker>RYAN</speaker><content>Not necessarily. He ordered a Cobb salad at Café Julius so he may be in there eating.</content></utterance>
+<utterance uid="35-3"><speaker>BECKETT</speaker><content>Okay, I’ll check. I’ll call you back.</content></utterance>
+<utterance uid="35-4"><speaker>BECKETT</speaker><content>Wait, Amy Barrett? Wait, wait! I need to talk to you.</content></utterance>
+<utterance uid="35-5"><speaker>AMY BARRETT</speaker><content>I need to talk to you.</content></utterance>
+<utterance uid="35-6"><speaker>BECKETT</speaker><content>I’m Detective Beckett.</content></utterance>
+<utterance uid="35-7"><speaker>AMY</speaker><content>Leave me alone.</content></utterance>
+<utterance uid="35-8"><speaker>BECKETT</speaker><content>No, wait. We’ve been looking for you.</content></utterance>
+<utterance uid="35-9"><speaker>AMY</speaker><content>Yeah. Mike’s lawyer told me you’d show up. He said not to talk to you.</content></utterance>
+<utterance uid="35-10"><speaker>BECKETT</speaker><content>Did you just use his credit card?</content></utterance>
+<utterance uid="35-11"><speaker>AMY</speaker><content>Mike gave me permission.</content></utterance>
+<utterance uid="35-12"><speaker>BECKETT</speaker><content>The man that you know as Michael Boudreau is Jerry Tyson. He is a serial killer and you will be his next victim.</content></utterance>
+<utterance uid="35-13"><speaker>AMY</speaker><content>Back off!</content></utterance>
+<utterance uid="35-14"><speaker>BECKETT</speaker><content>That’s my card, Amy. Call me!</content></utterance>
+<utterance uid="35-15"><speaker>AMY</speaker><content>Stay the hell away!</content></utterance>
+<utterance uid="35-16"><speaker>BECKETT</speaker><content>Hey.</content></utterance>
+<utterance uid="35-17"><speaker>CASTLE</speaker><content>I got it. I know how we can nail Tyson. The key is his mother.</content></utterance>
+<utterance uid="35-18"><speaker>BECKETT</speaker><content>What about his mom?</content></utterance>
+<utterance uid="35-19"><speaker>CASTLE</speaker><content>Tyson’s birth certificate is missing, no surprise there. But his mother signed the papers when she dumped him into foster care. We compare her DNA to his, we can prove he’s Jerry Tyson.</content></utterance>
+<utterance uid="35-20"><speaker>BECKETT</speaker><content>And she’s still alive?</content></utterance>
+<utterance uid="35-21"><speaker>CASTLE</speaker><content>And living in White Plains. Her name is Gretchen Cutler.</content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>BECKETT</speaker><content>Gretchen Cutler?</content></utterance>
+<utterance uid="36-2"><speaker>GRETCHEN CUTLER</speaker><content>Who wants to know?</content></utterance>
+<utterance uid="36-3"><speaker>BECKETT</speaker><content>Uh, Detective Beckett, NYPD. This is Mr. Castle. We need to ask you a few questions about your son.</content></utterance>
+<utterance uid="36-4"><speaker>GRETCHEN</speaker><content>I don’t have a son.</content></utterance>
+<utterance uid="36-5"><speaker>CASTLE</speaker><content>We’re talking about Jerry Tyson.</content></utterance>
+<utterance uid="36-6"><speaker>GRETCHEN</speaker><content>I know who you’re talking about. He hasn’t lived here since he was nine.</content></utterance>
+<utterance uid="36-7"><speaker>CASTLE</speaker><content>When he was put into foster care.</content></utterance>
+<utterance uid="36-8"><speaker>GRETCHEN</speaker><content>I was a good mother. Nothing I ever did could have made him what he was. The stuff they said was not true.</content></utterance>
+<utterance uid="36-9"><speaker>BECKETT</speaker><content>Uh, actually we believe that he was unjustly accused of several crimes.</content></utterance>
+<utterance uid="36-10"><speaker>CASTLE</speaker><content>Yeah. And we’re just looking to clear his name.</content></utterance>
+<utterance uid="36-11"><speaker>GRETCHEN</speaker><content>It’s a little late for that now.</content></utterance>
+<utterance uid="36-12"><speaker>BECKETT</speaker><content>It might help you rest easy, knowing that some of what was said about Jerry’s untrue.</content></utterance>
+<utterance uid="36-13"><speaker>CASTLE</speaker><content>All we would need is a sample of your DNA.</content></utterance>
+<utterance uid="36-14"><speaker>GRETCHEN</speaker><content>Well, that won’t do you no good. Jerry wasn’t my blood.</content></utterance>
+<utterance uid="36-15"><speaker>BECKETT</speaker><content>You’re listed as his mother.</content></utterance>
+<utterance uid="36-16"><speaker>GRETCHEN</speaker><content>Not by choice. He was Jeff’s kid. He was a boyfriend at the time. Jeff took off and he never came back, so what was I going to do? I tried to make this a happy home for Jerry. I looked after him as long as I could, but … he was a hellion. He was born that way. Nothing I ever did could have made him what he was.</content></utterance>
+<utterance uid="36-17"><speaker>CASTLE</speaker><content>Oh. Well, do you know where Jeff is now? Or Jerry’s biological mother?</content></utterance>
+<utterance uid="36-18"><speaker>GRETCHEN</speaker><content>Dead, both of them.</content></utterance>
+<utterance uid="36-19"><speaker>BECKETT</speaker><content>Do you still have any of his things? Like a toothbrush or a hairbrush?</content></utterance>
+<utterance uid="36-20"><speaker>GRETCHEN</speaker><content>Nothing like that. Jerry came by years ago and he made me hand over anything that was ever his.</content></utterance>
+<utterance uid="36-21"><speaker>BECKETT</speaker><content>And you didn’t keep any of his belongings. Nothing at all?</content></utterance>
+<utterance uid="36-22"><speaker>GRETCHEN</speaker><content>Well, I couldn’t let it all go. I tucked away a few keepsakes.</content></utterance>
+<utterance uid="36-23"><speaker>BECKETT</speaker><content>You mind if I take a look?</content></utterance>
+</scene>
+<scene id="37"><utterance uid="37-1"><speaker>BECKETT</speaker><content>His mom sounds like a real saint.</content></utterance>
+<utterance uid="37-2"><speaker>CASTLE</speaker><content>Yeah, agreed.  The only people who keep insisting they’re not terrible parents are terrible parents.</content></utterance>
+<utterance uid="37-3"><speaker>CASTLE</speaker><content>These are all just toys.</content></utterance>
+<utterance uid="37-4"><speaker>BECKETT</speaker><content>Yeah, I don’t think we can pull DNA from any of this.</content></utterance>
+<utterance uid="37-5"><speaker>CASTLE</speaker><content>No, but I mean, these were Jerry Tyson’s toys. They’re just so normal.</content></utterance>
+<utterance uid="37-6"><speaker>BECKETT</speaker><content>What’d you expect? Dead animals? Shrunken heads?</content></utterance>
+<utterance uid="37-7"><speaker>CASTLE</speaker><content>… no.</content></utterance>
+<utterance uid="37-8"><speaker>BECKETT</speaker><content>Castle.</content></utterance>
+<utterance uid="37-9"><speaker>CASTLE</speaker><content>Baby tooth.  His tooth. With his DNA.</content></utterance>
+<utterance uid="37-10"><speaker>BECKETT</speaker><content>We got him.</content></utterance>
+</scene>
+<scene id="38"><utterance uid="38-1"><speaker>BECKETT</speaker><content>The lab is expediting DNA tests from the tooth. They’ll call you as soon as they have prelim results.</content></utterance>
+<utterance uid="38-2"><speaker>GATES</speaker><content>And what are they using as a comparative sample?</content></utterance>
+<utterance uid="38-3"><speaker>BECKETT</speaker><content>Uh, saliva from a beer that Tyson was drinking when we busted him at the apartment.</content></utterance>
+<utterance uid="38-4"><speaker>GATES</speaker><content>Then Tyson has no idea that we’re running his DNA?</content></utterance>
+<utterance uid="38-5"><speaker>BECKETT</speaker><content>Uh uh.</content></utterance>
+<utterance uid="38-6"><speaker>GATES</speaker><content>That’s excellent, Kate.</content></utterance>
+<utterance uid="38-7"><speaker>BECKETT</speaker><content>Sir, where are we on the DA?</content></utterance>
+<utterance uid="38-8"><speaker>GATES</speaker><content>I convinced him to stall Tyson’s lawyer until the results came in. And I’ll let you know when I hear something.</content></utterance>
+</scene>
+<scene id="39"><utterance uid="39-1"><speaker>BECKETT</speaker><content>Dr. Nieman.</content></utterance>
+<utterance uid="39-2"><speaker>NIEMAN</speaker><content>Detective Beckett. I told you the man in the photo wasn’t Jerry Tyson.</content></utterance>
+<utterance uid="39-3"><speaker>BECKETT</speaker><content>What are you doing here?</content></utterance>
+<utterance uid="39-4"><speaker>NIEMAN</speaker><content>Waiting for Mike Boudreau.</content></utterance>
+<utterance uid="39-5"><speaker>BECKETT</speaker><content>Interesting. And what is your relationship with him?</content></utterance>
+<utterance uid="39-6"><speaker>NIEMAN</speaker><content>He’s a patient in need of support.</content></utterance>
+<utterance uid="39-7"><speaker>BECKETT</speaker><content>Wow. You really go the extra mile.</content></utterance>
+<utterance uid="39-8"><speaker>NIEMAN</speaker><content>How soon until Mike is released?</content></utterance>
+<utterance uid="39-9"><speaker>BECKETT</speaker><content>Not as soon as you were hoping.</content></utterance>
+</scene>
+<scene id="40"><utterance uid="40-1"><speaker>CASTLE</speaker><content>Tyson’s lawyers insisted we move him from the holding cell.</content></utterance>
+<utterance uid="40-2"><speaker>BECKETT</speaker><content>Kelly Nieman is here. She’s waiting for him to be released.</content></utterance>
+<utterance uid="40-3"><speaker>CASTLE</speaker><content>I look forward to her profound disappointment. You know, I remember back at the motel, when I saw him turn. When I knew who he was and he knew I knew. It all came to me a second too late. I’ve relived that moment so many times, knowing that my mistake set him free and cost people lives.</content></utterance>
+<utterance uid="40-4"><speaker>BECKETT</speaker><content>You were almost one of those people.</content></utterance>
+<utterance uid="40-5"><speaker>CASTLE</speaker><content>And now I have a chance to help put the genie back in the bottle. Which is a terrible metaphor, because that guy is no genie. Who’d want three wishes from him, right?</content></utterance>
+<utterance uid="40-6"><speaker>BECKETT</speaker><content>Beckett.</content></utterance>
+<utterance uid="40-7"><speaker>AMY</speaker><content>Hey, it’s Amy. Amy Barrett.</content></utterance>
+<utterance uid="40-8"><speaker>BECKETT</speaker><content>Amy? Are you okay?</content></utterance>
+<utterance uid="40-9"><speaker>AMY</speaker><content>I saw her. I saw her on the news.</content></utterance>
+<utterance uid="40-10"><speaker>BECKETT</speaker><content>Who? Who did you see?</content></utterance>
+<utterance uid="40-11"><speaker>AMY</speaker><content>The girl that died. That looked like me.</content></utterance>
+<utterance uid="40-12"><speaker>BECKETT</speaker><content>Susan Watts? Amy, did you know her? Do you know anything about her?</content></utterance>
+<utterance uid="40-13"><speaker>AMY</speaker><content>Is that why you arrested Mike? Because you think he could have –</content></utterance>
+<utterance uid="40-14"><speaker>BECKETT</speaker><content>Amy, did he ever say anything about her? Did he ever mention her name?</content></utterance>
+<utterance uid="40-15"><speaker>AMY</speaker><content>No. But I saw them together.</content></utterance>
+<utterance uid="40-16"><speaker>BECKETT</speaker><content>When?</content></utterance>
+<utterance uid="40-17"><speaker>AMY</speaker><content>Three days ago. When Mike was driving the truck. She was with him. I thought he was cheating on me, but now … I’m afraid.</content></utterance>
+<utterance uid="40-18"><speaker>BECKETT</speaker><content>And you have every reason to be. But Amy, I can protect you. Where are you now?</content></utterance>
+<utterance uid="40-19"><speaker>AMY</speaker><content>Corner of 9th Ave and Jay Street.</content></utterance>
+<utterance uid="40-20"><speaker>BECKETT</speaker><content>Don’t move. I’ll be there, okay?</content></utterance>
+<utterance uid="40-21"><speaker>AMY</speaker><content>Okay.</content></utterance>
+<utterance uid="40-22"><speaker>CASTLE</speaker><content>I’ll go with you.</content></utterance>
+<utterance uid="40-23"><speaker>BECKETT</speaker><content>No, Castle. I don’t want to scare her off. She’s the only person that might be able to connect Susan Watts’ murder to Tyson.</content></utterance>
+</scene>
+<scene id="41"><utterance uid="41-1"><speaker>ESPOSITO</speaker><content>Man, she’s got some brass ones, doesn’t she, showing up here?</content></utterance>
+<utterance uid="41-2"><speaker>ESPOSITO</speaker><content>Sit down, bro. Pacing’s not going to make the results come any quicker.</content></utterance>
+<utterance uid="41-3"><speaker>RYAN</speaker><content>I’ve been reading how DNA results degrade over time. What if they can’t pull any from that tooth?</content></utterance>
+<utterance uid="41-4"><speaker>ESPOSITO</speaker><content>They can pull DNA from a caveman tooth. It’s not going to be a problem.</content></utterance>
+<utterance uid="41-5"><speaker>RYAN</speaker><content>Still. We’re waiting. It’s killing me.</content></utterance>
+</scene>
+<scene id="42"><utterance uid="42-1"><speaker>TYSON</speaker><content>Hey. What brings you here?</content></utterance>
+<utterance uid="42-2"><speaker>CASTLE</speaker><content>Oh, I just uh, thought you might like some company.</content></utterance>
+<utterance uid="42-3"><speaker>TYSON</speaker><content>Sure, why not? Pull up a chair.</content></utterance>
+</scene>
+
+<scene id="43"><utterance uid="43-1"><speaker>TYSON</speaker><content>What are we waiting for?</content></utterance>
+<utterance uid="43-2"><speaker>CASTLE</speaker><content>Oh, probably just paperwork.</content></utterance>
+<utterance uid="43-3"><speaker>TYSON</speaker><content>Ah.</content></utterance>
+<utterance uid="43-4"><speaker>CASTLE</speaker><content>You ever go out to White Plains?</content></utterance>
+<utterance uid="43-5"><speaker>TYSON</speaker><content>Can’t say that I do.</content></utterance>
+<utterance uid="43-6"><speaker>CASTLE</speaker><content>I was um … I was just out there. I saw your childhood home.</content></utterance>
+<utterance uid="43-7"><speaker>CASTLE</speaker><content>I met Gretchen Cutler.</content></utterance>
+<utterance uid="43-8"><speaker>TYSON</speaker><content>I’m not familiar with that name.</content></utterance>
+<utterance uid="43-9"><speaker>CASTLE</speaker><content>You know what she said?  She said, nothing she ever did could have turned you into what you are. Is that true? Because I get the feeling it isn’t. I get the feeling she’s the first person you ever wanted to kill. But … that would be too obvious. Better to hunt blonde women who look like Gretchen once did. See, that way she’d have to see their faces on the news and know that you’re out there killing them because of you. Now you’ve taken it to the next level, haven’t you?  I came across the photo of Gretchen Cutler when she was young. Susan Watts and Amy Barrett look just like her, thanks to Kelly Nieman. She supplied you with perfect, compliant victims. How many were there? Not just two. Five? Ten? Twenty? After all, you don’t have to hunt them anymore. You raise them. Like livestock.</content></utterance>
+<utterance uid="43-10"><speaker>CASTLE</speaker><content>It’s you.</content></utterance>
+<utterance uid="43-11"><speaker>TYSON</speaker><content>Yes, it is.</content></utterance>
+<utterance uid="43-12"><speaker>TYSON</speaker><content>If by ‘you’ you mean Mike Boudreau.</content></utterance>
+</scene>
+<scene id="44"><utterance uid="44-1"><speaker>ESPOSITO</speaker><content>Well, this is it, bro.</content></utterance>
+</scene>
+<scene id="45"><utterance uid="45-1"><speaker>GATES</speaker><content>Mr. Boudreau.</content></utterance>
+<utterance uid="45-2"><speaker>TYSON</speaker><content>Yes, ma’am.</content></utterance>
+</scene>
+<scene id="46"><utterance uid="46-1"><speaker>RYAN</speaker><content>How is it possible?</content></utterance>
+<utterance uid="46-2"><speaker>GATES</speaker><content>The DNA from the tooth wasn’t a match.</content></utterance>
+<utterance uid="46-3"><speaker>ESPOSITO</speaker><content>It’s him. We know it’s him.</content></utterance>
+<utterance uid="46-4"><speaker>CASTLE</speaker><content>Ed Turner.</content></utterance>
+<utterance uid="46-5"><speaker>ESPOSITO</speaker><content>What about him?</content></utterance>
+<utterance uid="46-6"><speaker>CASTLE</speaker><content>The guy who supposedly found Susan Watts' body. Ed Turner. That name is an anagram for ‘returned’.</content></utterance>
+<utterance uid="46-7"><speaker>GATES</speaker><content>Maybe that’s a coincidence.</content></utterance>
+<utterance uid="46-8"><speaker>CASTLE</speaker><content>No. It’s not. There’s no coincidence with Tyson. He’s always one step ahead. He wanted to be here and so did she.</content></utterance>
+<utterance uid="46-9"><speaker>RYAN</speaker><content>Why?</content></utterance>
+<utterance uid="46-10"><speaker>CASTLE</speaker><content>Beckett.</content></utterance>
+</scene>
+<scene id="47"><utterance uid="47-1"><speaker>BECKETT</speaker><content>Beckett?</content></utterance>
+</scene>
+<scene id="48"><utterance uid="48-1"><speaker>CASTLE</speaker><content>It keeps going to voicemail.</content></utterance>
+<utterance uid="48-2"><speaker>NIEMAN</speaker><content>Yes?</content></utterance>
+<utterance uid="48-3"><speaker>WOMAN</speaker><content>It’s done.</content></utterance>
+</scene>
+</script>

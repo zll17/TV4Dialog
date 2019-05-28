@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>TOM DEMMING</speaker><content>You need someone to steady your bag.</content></utterance>
+<utterance uid="1-2"><speaker>BECKETT</speaker><content>Are you offering?</content></utterance>
+<utterance uid="1-3"><speaker>DEMMING</speaker><content>Yeah. Sure.</content></utterance>
+<utterance uid="1-4"><speaker>BECKETT</speaker><content>All right. Thanks.</content></utterance>
+<utterance uid="1-5"><speaker>DEMMING</speaker><content>All right.</content></utterance>
+<utterance uid="1-6"><speaker>DEMMING</speaker><content>Nice.</content></utterance>
+<utterance uid="1-7"><speaker>BECKETT</speaker><content>Thank you.</content></utterance>
+<utterance uid="1-8"><speaker>DEMMING</speaker><content>Anytime.</content></utterance>
+<utterance uid="1-9"><speaker>BECKETT</speaker><content> Beckett.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>ALEXIS</speaker><content>All right. Here comes the turn.</content></utterance>
+<utterance uid="2-2"><speaker>CASTLE</speaker><content>Mm. Actually, sweetie, it's called the River.</content></utterance>
+<utterance uid="2-3"><speaker>ALEXIS</speaker><content>Right. Right. The, uh, fifth community card is called "the River" or "fifth street."</content></utterance>
+<utterance uid="2-4"><speaker>CASTLE</speaker><content>Now you're on the trolley, kid.</content></utterance>
+<utterance uid="2-5"><speaker>ALEXIS</speaker><content>So...  who won?</content></utterance>
+<utterance uid="2-6"><speaker>CASTLE</speaker><content>Oh. Well, actually, you had me until the River.</content></utterance>
+<utterance uid="2-7"><speaker>ALEXIS</speaker><content>Mm-hmm. And you got a third Jack, and trip Jacks beat trip 9s. You win.</content></utterance>
+<utterance uid="2-8"><speaker>CASTLE</speaker><content>Well, don't sweat it, sweetheart. Just your first lesson. What do you say we call it a night?</content></utterance>
+<utterance uid="2-9"><speaker>ALEXIS</speaker><content>What? No. Let's keep playing. Shuffle up and deal.</content></utterance>
+<utterance uid="2-10"><speaker>MARTHA</speaker><content>Ah, hello, darlings. Oh, what's all this?</content></utterance>
+<utterance uid="2-11"><speaker>ALEXIS</speaker><content>Dad's teaching me the basics of no-limit Texas Hold'em.</content></utterance>
+<utterance uid="2-12"><speaker>MARTHA</speaker><content>I'm shocked--shocked- there's gambling in here. Deal me in.</content></utterance>
+<utterance uid="2-13"><speaker>CASTLE</speaker><content> Good evening, Detective Beckett.</content></utterance>
+<utterance uid="2-14"><speaker>ESPOSITO</speaker><content>Victim's name is Paul Finch. According to the registration, it's his car.</content></utterance>
+<utterance uid="2-15"><speaker>BECKETT</speaker><content>What do we know about him?</content></utterance>
+<utterance uid="2-16"><speaker>ESPOSITO</speaker><content>We ran him for next of kin, found his wife.</content></utterance>
+<utterance uid="2-17"><speaker>RYAN</speaker><content>She's on her way in.</content></utterance>
+<utterance uid="2-18"><speaker>ESPOSITO</speaker><content>And his rap sheet. He's a thief... Couple of bank jobs, some corporate B_Es. But he hasn't been arrested in a few years. So he's either really lucky...</content></utterance>
+<utterance uid="2-19"><speaker>CASTLE</speaker><content>Or he's out of the game.</content></utterance>
+<utterance uid="2-20"><speaker>BECKETT</speaker><content>What happened?</content></utterance>
+<utterance uid="2-21"><speaker>LANIE</speaker><content>I'd say he was electrocuted.</content></utterance>
+<utterance uid="2-22"><speaker>BECKETT</speaker><content>This voltage had to be pretty high for him to get burns like that.</content></utterance>
+<utterance uid="2-23"><speaker>CASTLE</speaker><content>Well, sure. You connect these leads directly into the ignition system, you rev the engine high enough...</content></utterance>
+<utterance uid="2-24"><speaker>BECKETT</speaker><content>Looks like they were trying to torture him, but ended up killing him instead.</content></utterance>
+<utterance uid="2-25"><speaker>LANIE</speaker><content>Either way, it wasn't pleasant.</content></utterance>
+<utterance uid="2-26"><speaker>BECKETT</speaker><content>You know, whoever did this either wanted to send a message or needed something from him.</content></utterance>
+<utterance uid="2-27"><speaker>CASTLE</speaker><content>What would somebody need from a retired... </content></utterance>
+<utterance uid="2-28"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="2-29"><speaker>CASTLE</speaker><content>His eyes are closed.</content></utterance>
+<utterance uid="2-30"><speaker>BECKETT</speaker><content>Did anyone touch the body before you came here?</content></utterance>
+<utterance uid="2-31"><speaker>LANIE</speaker><content>Nope. It was like that when I got here. The killer must have closed 'em postmortem.</content></utterance>
+<utterance uid="2-32"><speaker>BECKETT AND CASTLE</speaker><content>That means he knew the victim.</content></utterance>
+<utterance uid="2-33"><speaker>CASTLE</speaker><content>I would say, he probably felt guilty about what he had done, wanted to erase it.</content></utterance>
+<utterance uid="2-34"><speaker>BECKETT</speaker><content>Have C.S.U. sweep the cars, and let's fume the body. Maybe we'll get some prints off of his eyelids.</content></utterance>
+<utterance uid="2-35"><speaker>LANIE</speaker><content>You got it.</content></utterance>
+<utterance uid="2-36"><speaker>CASTLE</speaker><content>What is it?</content></utterance>
+<utterance uid="2-37"><speaker>BECKETT</speaker><content>You tell me.</content></utterance>
+<utterance uid="2-38"><speaker>CASTLE</speaker><content>Maybe he was murdered by the artist formerly known as Prince.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>BECKETT</speaker><content>Mrs. Finch, we're very sorry for your loss. Does this... Look familiar to you at all? </content></utterance>
+<utterance uid="3-2"><speaker>BECKETT</speaker><content>Did he tell you what or who?</content></utterance>
+<utterance uid="3-3"><speaker>CASTLE</speaker><content>So the guy comes out of retirement for one job and ends up dead. That cannot be a coincidence.</content></utterance>
+<utterance uid="3-4"><speaker>ESPOSITO</speaker><content>Yeah, what lures a guy who's been retired for years back into the game?</content></utterance>
+<utterance uid="3-5"><speaker>RYAN</speaker><content>Must've been something big.</content></utterance>
+<utterance uid="3-6"><speaker>BECKETT</speaker><content>That was Robbery on the phone. They logged in a break-in at a branch of Manhattan Mutual the day before yesterday.</content></utterance>
+<utterance uid="3-7"><speaker>ESPOSITO</speaker><content>Bank heist. That fits with Finch's profile.</content></utterance>
+<utterance uid="3-8"><speaker>CASTLE</speaker><content>Did they have any details?</content></utterance>
+<utterance uid="3-9"><speaker>BECKETT</speaker><content>Nope. They're sending the new guy up now.</content></utterance>
+<utterance uid="3-10"><speaker>TOM DEMMING</speaker><content>And that would be me.</content></utterance>
+<utterance uid="3-11"><speaker>ESPOSITO</speaker><content>Oh-ho! What's up, bro? How you doing? Why didn't you tell me you transferred?</content></utterance>
+<utterance uid="3-12"><speaker>DEMMING</speaker><content>Ah, you know, I been settling in.</content></utterance>
+<utterance uid="3-13"><speaker>ESPOSITO</speaker><content>Hey, uh, this is my boy- Tom Demming. He was one of the best cops back at the 54th. This is my partner--Ryan.</content></utterance>
+<utterance uid="3-14"><speaker>DEMMING</speaker><content>How you doing?</content></utterance>
+<utterance uid="3-15"><speaker>RYAN</speaker><content>Hey, nice to meet you, man.</content></utterance>
+<utterance uid="3-16"><speaker>DEMMING</speaker><content>You, too.</content></utterance>
+<utterance uid="3-17"><speaker>ESPOSITO</speaker><content>Richard Castle.</content></utterance>
+<utterance uid="3-18"><speaker>DEMMING</speaker><content>Yeah, the author, right?</content></utterance>
+<utterance uid="3-19"><speaker>CASTLE</speaker><content>That's right.</content></utterance>
+<utterance uid="3-20"><speaker>ESPOSITO</speaker><content>And this is Detective Beckett.</content></utterance>
+<utterance uid="3-21"><speaker>DEMMING</speaker><content>Yeah, we met.</content></utterance>
+<utterance uid="3-22"><speaker>BECKETT</speaker><content>Yes. Hi.</content></utterance>
+<utterance uid="3-23"><speaker>DEMMING</speaker><content>Hi.  So Paul Finch, huh? He's one of the few guys on the island who could've taken a score like that.</content></utterance>
+<utterance uid="3-24"><speaker>BECKETT</speaker><content>Like what?</content></utterance>
+<utterance uid="3-25"><speaker>DEMMING</speaker><content>A couple of pros tunnel into the vault, drill open a safe deposit box, leave nothing behind but the great smell of Brut.</content></utterance>
+<utterance uid="3-26"><speaker>BECKETT</speaker><content>And you think that Finch couldn't have pulled this off on his own?</content></utterance>
+<utterance uid="3-27"><speaker>DEMMING</speaker><content>Nah, it's a 2-man job at the minimum. There's definitely another player floating around out there.</content></utterance>
+<utterance uid="3-28"><speaker>BECKETT</speaker><content>Well, we've run a search for his phone records and financials, so hopefully we'll find something that ties him to a partner.</content></utterance>
+<utterance uid="3-29"><speaker>CASTLE</speaker><content>Or maybe the partner turned on Finch after the robbery, decided he didn't need him anymore.</content></utterance>
+<utterance uid="3-30"><speaker>BECKETT</speaker><content>Either way, we know that the robbery and the homicide are connected.</content></utterance>
+<utterance uid="3-31"><speaker>CASTLE</speaker><content>That seems like an awful lot of trouble for one safe deposit box.</content></utterance>
+<utterance uid="3-32"><speaker>DEMMING</speaker><content>Yeah. And they left stacks of cash untouched. The guys downstairs thought I was nuts when I hopped on this case, but I like the weird ones.</content></utterance>
+<utterance uid="3-33"><speaker>ESPOSITO</speaker><content>Hmm. How about that? Beckett likes the weird ones, too.</content></utterance>
+<utterance uid="3-34"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+<utterance uid="3-35"><speaker>CASTLE</speaker><content>What could be in that box that would be worth digging tunnel to and killing for? Diamonds? German bearer bonds? Nazi gold?</content></utterance>
+<utterance uid="3-36"><speaker>DEMMING</speaker><content>Ah, we still don't know yet. The bank had some trouble locating the owner, but he's supposed to be coming in this afternoon.  Would you like to join me for the interrogation?</content></utterance>
+<utterance uid="3-37"><speaker>BECKETT</speaker><content>Yeah. Yeah, I'd love to.</content></utterance>
+<utterance uid="3-38"><speaker>DEMMING</speaker><content>Good.</content></utterance>
+<utterance uid="3-39"><speaker>BECKETT</speaker><content>Meanwhile, I'm gonna need you guys to hit the street and see if you can scare up any of Finch's associates-- maybe anyone that he's taken scores with in the past or people that he owes. Thank you.</content></utterance>
+<utterance uid="3-40"><speaker>RYAN</speaker><content>You got it.</content></utterance>
+<utterance uid="3-41"><speaker>CASTLE</speaker><content>What can I do?</content></utterance>
+<utterance uid="3-42"><speaker>BECKETT</speaker><content>You could watch. </content></utterance>
+<utterance uid="3-43"><speaker>CASTLE</speaker><content>Two weeks ago, I saved your life twice.</content></utterance>
+<utterance uid="3-44"><speaker>BECKETT</speaker><content>Thank you for coming in, Mr. Cana.</content></utterance>
+<utterance uid="3-45"><speaker>FRED CANA</speaker><content>Call me Fred.</content></utterance>
+<utterance uid="3-46"><speaker>DEMMING</speaker><content>And obviously, we're gonna do everything we can to help you recover your stolen property. Uh, what exactly was in the box?</content></utterance>
+<utterance uid="3-47"><speaker>CANA</speaker><content>Stamps.</content></utterance>
+<utterance uid="3-48"><speaker>DEMMING</speaker><content>Stamps?</content></utterance>
+<utterance uid="3-49"><speaker>CANA</speaker><content>Yeah, I collect 'em.</content></utterance>
+<utterance uid="3-50"><speaker>DEMMING</speaker><content>It kinda surprises me it took you so long to reach out to us. The folks at the bank said they left you a half a dozen messages over the last couple of days.</content></utterance>
+<utterance uid="3-51"><speaker>CANA</speaker><content>Well, I been busy, you know? I been working a lot.</content></utterance>
+<utterance uid="3-52"><speaker>BECKETT</speaker><content>And what is it that you do?</content></utterance>
+<utterance uid="3-53"><speaker>CANA</speaker><content>I'm in, uh, private security.</content></utterance>
+<utterance uid="3-54"><speaker>BECKETT</speaker><content>This stamp collection, how much was it worth exactly?</content></utterance>
+<utterance uid="3-55"><speaker>CANA</speaker><content>Well, it's hard to put a price tag on an item like that because of, you know, the sentimental value.</content></utterance>
+<utterance uid="3-56"><speaker>BECKETT</speaker><content>And who else knew that you were keeping it at the bank?</content></utterance>
+<utterance uid="3-57"><speaker>CANA</speaker><content>Just a select group of other stamp enthusiasts with whom I formed... relationships over the years.</content></utterance>
+<utterance uid="3-58"><speaker>DEMMING</speaker><content>So how long you been a philatelist, Fred?</content></utterance>
+<utterance uid="3-59"><speaker>CANA</speaker><content>Hey, watch your mouth, pal. Fred Cana don't go that route.</content></utterance>
+<utterance uid="3-60"><speaker>DEMMING</speaker><content>Philately is the study of stamps, Mr. Cana, which you would know if you were, in fact, a collector. Come on, Fred. What's really in the box, huh? What'd they steal from you?</content></utterance>
+<utterance uid="3-61"><speaker>CANA</speaker><content>I don't have to take this crap. I'm the victim here.</content></utterance>
+<utterance uid="3-62"><speaker>RYAN</speaker><content>Hey.</content></utterance>
+<utterance uid="3-63"><speaker>CASTLE</speaker><content>Hey, you guys rounding up the usual suspects?</content></utterance>
+<utterance uid="3-64"><speaker>ESPOSITO</speaker><content>Yeah, and every hood this side of Harlem says Finch has been out of action for years. Where's Beckett?</content></utterance>
+<utterance uid="3-65"><speaker>CASTLE</speaker><content>Oh, she and Captain America are in there with Fred Cana.</content></utterance>
+<utterance uid="3-66"><speaker>ESPOSITO</speaker><content>Fred Cana? </content></utterance>
+<utterance uid="3-67"><speaker>CASTLE</speaker><content>Yeah, he's the guy who rented the safety... </content></utterance>
+<utterance uid="3-68"><speaker>CANA</speaker><content>Officer Esposito!</content></utterance>
+<utterance uid="3-69"><speaker>ESPOSITO</speaker><content>Actually, it's Detective Esposito now, Fred.</content></utterance>
+<utterance uid="3-70"><speaker>CANA</speaker><content>Congratulations.</content></utterance>
+<utterance uid="3-71"><speaker>ESPOSITO</speaker><content>Fred here is a bagman for Victor Racine.</content></utterance>
+<utterance uid="3-72"><speaker>CASTLE</speaker><content>Who's Victor Racine?</content></utterance>
+<utterance uid="3-73"><speaker>DEMMING</speaker><content>He's a syndicate man. Made the leap from organized crime to legitimate businessman while no one was looking.</content></utterance>
+<utterance uid="3-74"><speaker>ESPOSITO</speaker><content>Racine is connected and untouchable.</content></utterance>
+<utterance uid="3-75"><speaker>CANA</speaker><content>You oughta know. Esposito and his old partner tried to touch him a few years back.</content></utterance>
+<utterance uid="3-76"><speaker>ESPOSITO</speaker><content>How about I touch you instead? </content></utterance>
+<utterance uid="3-77"><speaker>CANA</speaker><content>Come on! Come on, tough guy!</content></utterance>
+<utterance uid="3-78"><speaker>RYAN</speaker><content>Let's go, man! Come on. Take a walk. All right? He's not worth it. Man...</content></utterance>
+<utterance uid="3-79"><speaker>BECKETT</speaker><content>What the hell was that all about?</content></utterance>
+<utterance uid="3-80"><speaker>ESPOSITO</speaker><content>He works for Victor Racine.</content></utterance>
+<utterance uid="3-81"><speaker>BECKETT</speaker><content>So?</content></utterance>
+<utterance uid="3-82"><speaker>ESPOSITO</speaker><content>Victor Racine killed my partner.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>ESPOSITO</speaker><content>His name was Ike. Ike Thornton. We partnered up back when I was at the 54th. We worked the organized crime task force. Victor Racine was our target... until one day, Ike didn't come into work. It's like he just disappeared. To make matters worse, Internal Affairs came around here asking all these questions, talking like Ike had gone over, that he was working for Racine. It was an absolute load of crap. Couple of days later, some kids found Ike's car out by the docks... shot to hell, blood all over the seats.</content></utterance>
+<utterance uid="4-2"><speaker>RYAN</speaker><content>All the hallmarks of a professional hit.</content></utterance>
+<utterance uid="4-3"><speaker>ESPOSITO</speaker><content>Yeah, only we couldn't tie it back to Racine. His guys had dumped Ike's body so that we could never find it. The department shut down the whole operation after that. I transferred here. But I know one thing-- if Fred Cana has a safe deposit box, it's because he's holding something for Racine. And it ain't no stamps.</content></utterance>
+<utterance uid="4-4"><speaker>BECKETT</speaker><content>He wants blood.</content></utterance>
+<utterance uid="4-5"><speaker>DEMMING</speaker><content>Well, I don't blame him. From the look of it, I'm guessing Racine had Finch killed for stealing from him.</content></utterance>
+<utterance uid="4-6"><speaker>BECKETT</speaker><content>Well, that explains why he was tortured-- so he'd give up his partner. You know, whatever they stole from that safe deposit box, Racine wants it back bad.</content></utterance>
+<utterance uid="4-7"><speaker>DEMMING</speaker><content>Yeah, but how did he get onto Finch in the first place?</content></utterance>
+<utterance uid="4-8"><speaker>CASTLE</speaker><content>Maybe he recognized the great smell of Brut.</content></utterance>
+<utterance uid="4-9"><speaker>BECKETT</speaker><content>I'm sure that Racine is the kind of guy who has his sources.</content></utterance>
+<utterance uid="4-10"><speaker>DEMMING</speaker><content>So you like our stamp collector for doing the deed on Racine's behalf?</content></utterance>
+<utterance uid="4-11"><speaker>BECKETT</speaker><content>Sure, except we called. He has witnesses willing to corroborate his whereabouts.</content></utterance>
+<utterance uid="4-12"><speaker>CASTLE</speaker><content>Of course he does.</content></utterance>
+<utterance uid="4-13"><speaker>BECKETT</speaker><content>And we have no proof otherwise.</content></utterance>
+<utterance uid="4-14"><speaker>DEMMING</speaker><content>Oh, speaking of which, they brought up the C.S.U. report on the crime scene. The car was wiped down. Other than Finch and his wife, we got no usable prints.</content></utterance>
+<utterance uid="4-15"><speaker>BECKETT</speaker><content>And we still don't have an I.D. On that metal symbol we found.</content></utterance>
+<utterance uid="4-16"><speaker>CASTLE</speaker><content>Meanwhile, our stamp collector has an alibi, and we currently have no evidence. So what is our next step?</content></utterance>
+<utterance uid="4-17"><speaker>BECKETT</speaker><content>We talk to the real victim of our robbery-- Mr. Victor Racine.</content></utterance>
+<utterance uid="4-18"><speaker>DEMMING</speaker><content>Bold. I like your style.</content></utterance>
+<utterance uid="4-19"><speaker>CASTLE</speaker><content>What, you think he's the kind of guy who's just gonna tell us what's in that box or maybe admit to killing the thief?</content></utterance>
+<utterance uid="4-20"><speaker>BECKETT</speaker><content>Watch and learn, Castle. Watch and learn.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>RACINE</speaker><content>To what do I owe this pleasure, huh?</content></utterance>
+<utterance uid="5-2"><speaker>BECKETT</speaker><content>A safe deposit box at Manhattan Mutual was broken into the other night, Mr. Racine. It was registered to an associate of yours-- Fred Cana.</content></utterance>
+<utterance uid="5-3"><speaker>RACINE</speaker><content>You don't say? What's this world coming to, huh? Mr. Cana claims that the box contained his stamp collection? Well, I've never known Mr. Cana to lie...  To me.</content></utterance>
+<utterance uid="5-4"><speaker>BECKETT</speaker><content>Well, we believe that it held something a little bit more valuable- maybe something of yours.</content></utterance>
+<utterance uid="5-5"><speaker>RACINE</speaker><content>Oh, really? And why is that?</content></utterance>
+<utterance uid="5-6"><speaker>BECKETT</speaker><content>Because one of the guys involved in the robbery was found murdered in a parking garage last night.</content></utterance>
+<utterance uid="5-7"><speaker>CASTLE</speaker><content>Well, actually, Mr. Finch was tortured before he was killed. Now why would someone do that if all he stole were stamps?</content></utterance>
+<utterance uid="5-8"><speaker>RACINE</speaker><content>Hmm.</content></utterance>
+<utterance uid="5-9"><speaker>BECKETT</speaker><content>Where were you last night?</content></utterance>
+<utterance uid="5-10"><speaker>RACINE</speaker><content>Home.  And I have around-the-clock bodyguards... Who can attest to my whereabouts, but you don't think I killed Finch. You assume I had somebody do it for me, so you're here just to...  count coup, aren't you?</content></utterance>
+<utterance uid="5-11"><speaker>DEMMING</speaker><content>Sorry. What was that?</content></utterance>
+<utterance uid="5-12"><speaker>CASTLE</speaker><content>The Plains Indians considered it an act of bravery to get close enough to one of their enemies to touch him with a coup stick. Is my hair...</content></utterance>
+<utterance uid="5-13"><speaker>DEMMING</speaker><content>Looks good.</content></utterance>
+<utterance uid="5-14"><speaker>CASTLE</speaker><content>Thanks.</content></utterance>
+<utterance uid="5-15"><speaker>RACINE</speaker><content>This item or items that were in the safety deposit box, if they're so valuable, why aren't you out chasing down Mr. Finch's associate in this endeavour? After all, you know what the old saying is-- no honour among thieves. </content></utterance>
+<utterance uid="5-16"><speaker>CASTLE</speaker><content>See, what'd I say? Waste of time.</content></utterance>
+<utterance uid="5-17"><speaker>DEMMING</speaker><content>Well played, Detective.</content></utterance>
+<utterance uid="5-18"><speaker>BECKETT</speaker><content>Thank you, Detective.</content></utterance>
+<utterance uid="5-19"><speaker>CASTLE</speaker><content>"Well played"? All he did was deny it.</content></utterance>
+<utterance uid="5-20"><speaker>BECKETT</speaker><content>Well, you can learn a lot from a denial.</content></utterance>
+<utterance uid="5-21"><speaker>CASTLE</speaker><content>Like what?</content></utterance>
+<utterance uid="5-22"><speaker>DEMMING</speaker><content>Like Racine hasn't found Finch's partner yet.</content></utterance>
+<utterance uid="5-23"><speaker>CASTLE</speaker><content>Because Racine would never point us in that direction if he already knew who or where the partner was.</content></utterance>
+<utterance uid="5-24"><speaker>DEMMING</speaker><content>He must want this guy pretty bad if he's willing to have the cops do his legwork for him.</content></utterance>
+<utterance uid="5-25"><speaker>CASTLE</speaker><content>How does it help Racine if we find Finch's partner first?</content></utterance>
+<utterance uid="5-26"><speaker>DEMMING</speaker><content>Racine's connected. He'd have no trouble having Finch's partner killed in jail.</content></utterance>
+<utterance uid="5-27"><speaker>BECKETT</speaker><content> Beckett. Okay. We'll be right there.  Lanie's ready to fume the body.</content></utterance>
+<utterance uid="5-28"><speaker>DEMMING</speaker><content>All right, you guys head back to the morgue. I'm gonna go see if Finch's financials have come in yet.</content></utterance>
+<utterance uid="5-29"><speaker>BECKETT</speaker><content>Okay.  What?</content></utterance>
+<utterance uid="5-30"><speaker>CASTLE</speaker><content>Nothing.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>CASTLE</speaker><content>That is so cool. Do you mind if I take pictures?</content></utterance>
+<utterance uid="6-2"><speaker>LANIE</speaker><content>Knock yourself out. But if any of them end up on the Internet, I will hunt you down and hurt you. So... What's with the handsome robbery detective?</content></utterance>
+<utterance uid="6-3"><speaker>BECKETT</speaker><content>Demming? Oh, we're just working the case together. That's all.</content></utterance>
+<utterance uid="6-4"><speaker>LANIE</speaker><content>Mm-hmm. But then again, you have been working with Castle for a year and not a damn thing has happened, so... We had a pool going. I lost a lot of money on you two.</content></utterance>
+<utterance uid="6-5"><speaker>CASTLE</speaker><content>You guys.</content></utterance>
+<utterance uid="6-6"><speaker>BECKETT</speaker><content>Yahtzee. The killer left a print when he closed our victim's eye. Let's run it.</content></utterance>
+<utterance uid="6-7"><speaker>LANIE</speaker><content>Huh.</content></utterance>
+<utterance uid="6-8"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="6-9"><speaker>LANIE</speaker><content>We got a match on the print, but the guy it belongs to is dead.</content></utterance>
+<utterance uid="6-10"><speaker>BECKETT</speaker><content>But that's impossible.</content></utterance>
+<utterance uid="6-11"><speaker>CASTLE</speaker><content>Unless he's a zombie.</content></utterance>
+<utterance uid="6-12"><speaker>LANIE</speaker><content>Not a zombie. A cop.</content></utterance>
+<utterance uid="6-13"><speaker>BECKETT</speaker><content>Isaac... "Ike" Thornton.</content></utterance>
+<utterance uid="6-14"><speaker>CASTLE</speaker><content>Esposito's old partner?</content></utterance>
+<utterance uid="6-15"><speaker>BECKETT</speaker><content>He's alive.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>ESPOSITO</speaker><content>I went to his funeral, held his wife's hand. And now you're telling me he's alive and working for Racine, that he murdered Finch?</content></utterance>
+<utterance uid="7-2"><speaker>BECKETT</speaker><content>It was the perfect disappearing act. He knew that everyone would think that Racine had killed him and dumped his body somewhere.</content></utterance>
+<utterance uid="7-3"><speaker>ESPOSITO</speaker><content>Nah, I don't see how he could do it, to the badge, to me? I would've taken a bullet for him.</content></utterance>
+<utterance uid="7-4"><speaker>MONTGOMERY</speaker><content>Esposito. This is Lieutenant Holliwell from Internal Affairs.</content></utterance>
+<utterance uid="7-5"><speaker>HOLLIWELL</speaker><content>We've met.</content></utterance>
+<utterance uid="7-6"><speaker>ESPOSITO</speaker><content> You called I.A.?</content></utterance>
+<utterance uid="7-7"><speaker>BECKETT</speaker><content>No.</content></utterance>
+<utterance uid="7-8"><speaker>MONTGOMERY</speaker><content>I called 'em for your protection.</content></utterance>
+<utterance uid="7-9"><speaker>HOLLIWELL</speaker><content>I'm sorry, Detective. I don't really enjoy being proved right.</content></utterance>
+<utterance uid="7-10"><speaker>ESPOSITO</speaker><content>No, of course not.</content></utterance>
+<utterance uid="7-11"><speaker>CASTLE</speaker><content>I take it you were the investigating officer when Ike Thornton disappeared?</content></utterance>
+<utterance uid="7-12"><speaker>HOLLIWELL</speaker><content>I was.</content></utterance>
+<utterance uid="7-13"><speaker>BECKETT</speaker><content>And what put you onto him in the first place?</content></utterance>
+<utterance uid="7-14"><speaker>HOLLIWELL</speaker><content>Racine was always one step ahead of us, like he always knew what we were thinking. It didn't take too much to figure out that he was being tipped off by a cop. Luckily, we had an informant at the time that confirmed it, but before we were able to arrest Thornton, he disappeared. Most likely found out that we were coming for him. When we found his car, we just assumed Racine killed him. Looks like he brought him into the family instead.  Has Thornton contacted you?</content></utterance>
+<utterance uid="7-15"><speaker>ESPOSITO</speaker><content>What do you mean, contacted me?</content></utterance>
+<utterance uid="7-16"><speaker>RYAN</speaker><content>Whoa, whoa. What exactly are you accusing my partner of?</content></utterance>
+<utterance uid="7-17"><speaker>HOLLIWELL</speaker><content>I'm not accusing. I'm asking.</content></utterance>
+<utterance uid="7-18"><speaker>ESPOSITO</speaker><content>Asking what... If I knew all along, if I was part of it? The answer's no.</content></utterance>
+<utterance uid="7-19"><speaker>HOLLIWELL</speaker><content>It was such an elaborate hoax. It seems like it would take a little bit of planning, a little help.</content></utterance>
+<utterance uid="7-20"><speaker>ESPOSITO</speaker><content>I just told you, I didn't know. What do you want me to do, take a poly?</content></utterance>
+<utterance uid="7-21"><speaker>HOLLIWELL</speaker><content>Would you take a polygraph test?</content></utterance>
+<utterance uid="7-22"><speaker>MONTGOMERY</speaker><content>Wait a minute-</content></utterance>
+<utterance uid="7-23"><speaker>ESPOSITO</speaker><content>If it'll get you off my back.</content></utterance>
+<utterance uid="7-24"><speaker>MONTGOMERY</speaker><content>Esposito, you don't have to do this.</content></utterance>
+<utterance uid="7-25"><speaker>ESPOSITO</speaker><content>I want to.</content></utterance>
+<utterance uid="7-26"><speaker>HOLLIWELL</speaker><content>Good. My office. One hour.</content></utterance>
+<utterance uid="7-27"><speaker>RYAN</speaker><content>That guy was out of line back there.</content></utterance>
+<utterance uid="7-28"><speaker>ESPOSITO</speaker><content>I'd be asking the same questions if I was in his shoes.</content></utterance>
+<utterance uid="7-29"><speaker>RYAN</speaker><content>You know you can talk to me, right?</content></utterance>
+<utterance uid="7-30"><speaker>ESPOSITO</speaker><content>I put all that stuff behind me, bro. The only thing I have left from back then... Is this right here.  Back in the day, when I was in the 54th, everybody used to carry one of these with 'em. It was like a sense of pride, you know?</content></utterance>
+<utterance uid="7-31"><speaker>RYAN</speaker><content>Ike had one of those?</content></utterance>
+<utterance uid="7-32"><speaker>ESPOSITO</speaker><content>Yeah. Why?</content></utterance>
+<utterance uid="7-33"><speaker>RYAN</speaker><content>Let me see it. The 54th.  It must have broken off when he was struggling with Finch.</content></utterance>
+<utterance uid="7-34"><speaker>ESPOSITO</speaker><content>It was him.</content></utterance>
+<utterance uid="7-35"><speaker>BECKETT</speaker><content>You know no one would blame you if you stepped off this case.</content></utterance>
+<utterance uid="7-36"><speaker>ESPOSITO</speaker><content>No. Partner or not... He killed a man.</content></utterance>
+<utterance uid="7-37"><speaker>CASTLE</speaker><content>This guy's pulled a ghost routine for years-- gave up his old life, his friends. A guy can't pull a disappearing act like that without help from somebody.</content></utterance>
+<utterance uid="7-38"><speaker>ESPOSITO</speaker><content>He had Racine's help.</content></utterance>
+<utterance uid="7-39"><speaker>CASTLE</speaker><content>Well, Racine or no Racine, he was married, right, has a kid? They must have known.</content></utterance>
+<utterance uid="7-40"><speaker>ESPOSITO</speaker><content>I saw Carol last month. She doesn't know anything.</content></utterance>
+<utterance uid="7-41"><speaker>BECKETT</speaker><content>You sure about that?</content></utterance>
+<utterance uid="7-42"><speaker>ESPOSITO</speaker><content>Hell, I'm not sure about anything anymore.</content></utterance>
+<utterance uid="7-43"><speaker>RYAN</speaker><content>Where you going?</content></utterance>
+<utterance uid="7-44"><speaker>ESPOSITO</speaker><content>Take a poly, clear my name.</content></utterance>
+<utterance uid="7-45"><speaker>BECKETT</speaker><content>Go pick up the wife. Let's see what she knows.</content></utterance>
+<utterance uid="7-46"><speaker>CAROL THORNTON</speaker><content>I'm sorry. I don't believe you.</content></utterance>
+<utterance uid="7-47"><speaker>BECKETT</speaker><content>His thumbprint's on our victim's body, Carol. He's alive. There's no other explanation.</content></utterance>
+<utterance uid="7-48"><speaker>CAROL</speaker><content>Well, they never recovered Ike's body, so I don't know. Someone could've cut off his thumb and--</content></utterance>
+<utterance uid="7-49"><speaker>CASTLE</speaker><content>Yes, they could've done that, but you know they didn't. Come on, Carol. It's been years. An attractive woman like you hasn't found someone new?</content></utterance>
+<utterance uid="7-50"><speaker>CAROL</speaker><content>It's not easy when you're a single mom. Not that that's any of your business. You know what you get when a cop dies with a warrant out on him? Well, I'll tell you what you don't get. You don't get a folded flag and you sure as hell don't get a penny of his pension.</content></utterance>
+<utterance uid="7-51"><speaker>BECKETT</speaker><content>And yet, you somehow manage to make mortgage payments--</content></utterance>
+<utterance uid="7-52"><speaker>CAROL</speaker><content>If Ike is alive, that means we're still married. And you can't compel me to testify against my spouse.</content></utterance>
+<utterance uid="7-53"><speaker>CASTLE</speaker><content>She knew he was alive, but did she know he was working for Racine?</content></utterance>
+<utterance uid="7-54"><speaker>BECKETT</speaker><content>She's a cop wife and she knows her rights. Good luck getting anything out of her.</content></utterance>
+<utterance uid="7-55"><speaker>ESPOSITO</speaker><content>She might talk to me.</content></utterance>
+<utterance uid="7-56"><speaker>RYAN</speaker><content>Oh. Look who passed his poly.</content></utterance>
+<utterance uid="7-57"><speaker>ESPOSITO</speaker><content>Yeah. Had the feeling that Holliwell was kinda disappointed. She knows me. I might be able to get her to open up.</content></utterance>
+<utterance uid="7-58"><speaker>BECKETT</speaker><content>All right, take a run at her in the morning. And I'll get a unit down to the house in case Ike decides to show up.</content></utterance>
+<utterance uid="7-59"><speaker>ESPOSITO</speaker><content>Right.</content></utterance>
+<utterance uid="7-60"><speaker>CASTLE</speaker><content>Betrayal, lies, deceit-- sounds like my first marriage.  What?</content></utterance>
+<utterance uid="7-61"><speaker>BECKETT</speaker><content>I'm trying to figure out what was so damn important in that safe deposit box that Finch and his partner would risk their lives that way.</content></utterance>
+<utterance uid="7-62"><speaker>CASTLE</speaker><content>Who are you calling?</content></utterance>
+<utterance uid="7-63"><speaker>DEMMING</speaker><content>Demming.</content></utterance>
+<utterance uid="7-64"><speaker>BECKETT</speaker><content>I was just calling you.</content></utterance>
+<utterance uid="7-65"><speaker>DEMMING</speaker><content>What a coincidence. I was just coming to see you.</content></utterance>
+<utterance uid="7-66"><speaker>CASTLE</speaker><content>Wow. It's like we're all on the same case.</content></utterance>
+<utterance uid="7-67"><speaker>DEMMING</speaker><content>Esposito told me about Ike. You have a lead on him yet?</content></utterance>
+<utterance uid="7-68"><speaker>BECKETT</speaker><content>No. We're working on it. What about Finch's partner?</content></utterance>
+<utterance uid="7-69"><speaker>DEMMING</speaker><content>Ah, there's nothing in his phone or his financials that points to one. But the bank surveillance tapes finally came in. I was gonna scrub 'em in the morning. If Finch cased the joint in the last couple of weeks--.</content></utterance>
+<utterance uid="7-70"><speaker>BECKETT</speaker><content>Then maybe the mystery partner went with him.</content></utterance>
+<utterance uid="7-71"><speaker>DEMMING</speaker><content>Exactly. You want to join me?</content></utterance>
+<utterance uid="7-72"><speaker>BECKETT</speaker><content>Yeah. Yeah, I'd love to.</content></utterance>
+<utterance uid="7-73"><speaker>DEMMING</speaker><content>Great. I'll see you in the morning.</content></utterance>
+<utterance uid="7-74"><speaker>BECKETT</speaker><content>Okay, great. I'll see you. Good night.</content></utterance>
+<utterance uid="7-75"><speaker>DEMMING</speaker><content>Good night.  Castle, can I ask you something? You and Beckett-- is there, uh, something going on?</content></utterance>
+<utterance uid="7-76"><speaker>CASTLE</speaker><content>Me and Beckett?</content></utterance>
+<utterance uid="7-77"><speaker>DEMMING</speaker><content>Yeah.</content></utterance>
+<utterance uid="7-78"><speaker>CASTLE</speaker><content>No.</content></utterance>
+<utterance uid="7-79"><speaker>DEMMING</speaker><content>Look, man, if I'm offsides--</content></utterance>
+<utterance uid="7-80"><speaker>CASTLE</speaker><content>No flag on the play.</content></utterance>
+<utterance uid="7-81"><speaker>DEMMING</speaker><content>Great. Okay. Great.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>CASTLE</speaker><content>Don't smile when you have a good card. You need to develop a poker face. Trust me. It comes in handy. Except when it doesn't.</content></utterance>
+<utterance uid="8-2"><speaker>ALEXIS</speaker><content>Wh-what do you mean?</content></utterance>
+<utterance uid="8-3"><speaker>CASTLE</speaker><content>Never mind. Pair of ladies. What have you got?</content></utterance>
+<utterance uid="8-4"><speaker>ALEXIS</speaker><content> Boom! Two cowboys! I win. Who's the daddy now?</content></utterance>
+<utterance uid="8-5"><speaker>CASTLE</speaker><content>You win like your grandmother.</content></utterance>
+<utterance uid="8-6"><speaker>ALEXIS</speaker><content>So it looks like I owe you one night of solo dish duty. And you owe me four days of bed-making duty, three spa treatments, two pairs of sunglasses and a Bulgari purse for Gram.  What's wrong?</content></utterance>
+<utterance uid="8-7"><speaker>CASTLE</speaker><content>I'm not used to losing.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>ESPOSITO</speaker><content>Hey, Carol. Got a few minutes?</content></utterance>
+<utterance uid="9-2"><speaker>TIM</speaker><content>Uncle Javi!</content></utterance>
+<utterance uid="9-3"><speaker>ESPOSITO</speaker><content>Hey, what's up, buddy?</content></utterance>
+<utterance uid="9-4"><speaker>TIM</speaker><content>What's up?</content></utterance>
+<utterance uid="9-5"><speaker>ESPOSITO</speaker><content>How you doing? Good. Oh, man, you lookin' tall. Hey, this is my boy-- Kevin.</content></utterance>
+<utterance uid="9-6"><speaker>TIM</speaker><content>Hi. I'm Tim.</content></utterance>
+<utterance uid="9-7"><speaker>RYAN</speaker><content>Nice to meet you, Tim.</content></utterance>
+<utterance uid="9-8"><speaker>ESPOSITO</speaker><content>Hey, he loves baseball cards. Why don't you, uh, take him upstairs, show him yours?</content></utterance>
+<utterance uid="9-9"><speaker>TIM</speaker><content>Come on.</content></utterance>
+<utterance uid="9-10"><speaker>RYAN</speaker><content>Yeah. Let’s go.</content></utterance>
+<utterance uid="9-11"><speaker>ESPOSITO</speaker><content>How long have you known? Carol, it'll be a lot easier for him if you just tell me where he is.</content></utterance>
+<utterance uid="9-12"><speaker>CAROL</speaker><content>So you can arrest him?</content></utterance>
+<utterance uid="9-13"><speaker>ESPOSITO</speaker><content>Carol, he killed a man.</content></utterance>
+<utterance uid="9-14"><speaker>CAROL</speaker><content>No.</content></utterance>
+<utterance uid="9-15"><speaker>ESPOSITO</speaker><content>His prints were on the body.</content></utterance>
+<utterance uid="9-16"><speaker>CAROL</speaker><content>Please... Please... Do not try to find him... Not now, not when we are so close.</content></utterance>
+<utterance uid="9-17"><speaker>ESPOSITO</speaker><content>So close to what?</content></utterance>
+<utterance uid="9-18"><speaker>CAROL</speaker><content>I'm sorry. I can't.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>DEMMING</speaker><content>You know, if your mouse finger gets tired, we can switch.</content></utterance>
+<utterance uid="10-2"><speaker>BECKETT</speaker><content>That's okay. I think I can handle it.</content></utterance>
+<utterance uid="10-3"><speaker>DEMMING</speaker><content>Oh, I get it. You don't want to give up the driver's seat.</content></utterance>
+<utterance uid="10-4"><speaker>CASTLE</speaker><content>Hey, I brought coffee.</content></utterance>
+<utterance uid="10-5"><speaker>BECKETT</speaker><content>Uh, you know what? It's okay. Demming already brought some.</content></utterance>
+<utterance uid="10-6"><speaker>CASTLE</speaker><content>Did he now?</content></utterance>
+<utterance uid="10-7"><speaker>DEMMING</speaker><content>I...</content></utterance>
+<utterance uid="10-8"><speaker>CASTLE</speaker><content> Hey, Paul Finch.</content></utterance>
+<utterance uid="10-9"><speaker>DEMMING</speaker><content>Oh, yeah. He's casing the place.</content></utterance>
+<utterance uid="10-10"><speaker>BECKETT</speaker><content>And look who his partner is.</content></utterance>
+<utterance uid="10-11"><speaker>CASTLE</speaker><content>That's his wife Monica. She said she had no idea what he was doing.</content></utterance>
+<utterance uid="10-12"><speaker>DEMMING</speaker><content>There's someone else with 'em.</content></utterance>
+<utterance uid="10-13"><speaker>CASTLE</speaker><content>That's...</content></utterance>
+<utterance uid="10-14"><speaker>BECKETT</speaker><content>Ike Thornton. If he's working for Racine, what's he doing with Finch?</content></utterance>
+<utterance uid="10-15"><speaker>ESPOSITO</speaker><content>So Ike was working with Finch?</content></utterance>
+<utterance uid="10-16"><speaker>DEMMING</speaker><content>Yeah, it looks that way. I'm guessing he discovered Racine was keeping something valuable in the box. He needed Finch's skills to help him get it.</content></utterance>
+<utterance uid="10-17"><speaker>ESPOSITO</speaker><content>But if they were working together, why would he kill him?</content></utterance>
+<utterance uid="10-18"><speaker>CASTLE</speaker><content>Maybe Racine was right. Maybe there is no honour amongst thieves.</content></utterance>
+<utterance uid="10-19"><speaker>ESPOSITO</speaker><content>And maybe he didn't do it.</content></utterance>
+<utterance uid="10-20"><speaker>BECKETT</speaker><content>We have him at the scene.</content></utterance>
+<utterance uid="10-21"><speaker>ESPOSITO</speaker><content>Him working with Finch, what his wife said, it doesn't add. Something else is going on.</content></utterance>
+<utterance uid="10-22"><speaker>CASTLE</speaker><content>Looks like we're about to find out what.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>BECKETT</speaker><content>Here's the thing, Monica, we're not interested in whether you helped your husband case the bank. All we care about is finding the guy who killed him-- Ike Thornton.</content></utterance>
+<utterance uid="11-2"><speaker>MONICA</speaker><content>You think Ike Thornton killed Paul? Let me tell you the kind of man Ike is. About 12 years back, he collared Paul and his kid brother Barry on a heist. Ike saw that Barry was a first-timer, so he cut him a break. Paul went to jail for five years, but he never forgot what Ike did for his brother. That's why he did this last job with him, as payback.</content></utterance>
+<utterance uid="11-3"><speaker>BECKETT</speaker><content>Well, payback's a *****, because we found Ike's fingerprints on your husband's body.</content></utterance>
+<utterance uid="11-4"><speaker>MONICA</speaker><content>I don't believe it.</content></utterance>
+<utterance uid="11-5"><speaker>BECKETT</speaker><content>It doesn't matter if you don't believe it. The fact is, Ike was there. He tortured and killed your husband.</content></utterance>
+<utterance uid="11-6"><speaker>DEMMING</speaker><content>What was in the box, Monica? What did they steal from Racine? It must have been pretty valuable if Ike decided to kill your husband so he wouldn't have to split it.</content></utterance>
+<utterance uid="11-7"><speaker>MONICA</speaker><content>Split it? There was nothing to split.</content></utterance>
+<utterance uid="11-8"><speaker>CASTLE</speaker><content>What was in the box?</content></utterance>
+<utterance uid="11-9"><speaker>MONICA</speaker><content>A book. A ledger.</content></utterance>
+<utterance uid="11-10"><speaker>BECKETT</speaker><content>A ledger?</content></utterance>
+<utterance uid="11-11"><speaker>MONICA</speaker><content>Something that showed all of Racine's pays and owes on all of his businesses, not just his legitimate ones.</content></utterance>
+<utterance uid="11-12"><speaker>CASTLE</speaker><content>An accounting of all of Racine's illegal operations could be worth a bundle in blackmail.</content></utterance>
+<utterance uid="11-13"><speaker>MONICA</speaker><content>It could if they'd gotten it, but when they hit the bank, the box was empty.</content></utterance>
+<utterance uid="11-14"><speaker>DEMMING</speaker><content>Empty?</content></utterance>
+<utterance uid="11-15"><speaker>MONICA</speaker><content>The ledger wasn't there.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>CASTLE</speaker><content>So a guy tortures and kills his partner after breaking into a bank to steal something from his boss that wasn't actually there.</content></utterance>
+<utterance uid="12-2"><speaker>DEMMING</speaker><content>Well, it sounds crazy when you say it like that.</content></utterance>
+<utterance uid="12-3"><speaker>ESPOSITO</speaker><content>Look, I know he was my partner, but no matter how I slice it, it makes no sense that Ike would kill Finch.</content></utterance>
+<utterance uid="12-4"><speaker>HOLLIWELL</speaker><content>Detective Beckett.</content></utterance>
+<utterance uid="12-5"><speaker>BECKETT</speaker><content>Lieutenant Holliwell.</content></utterance>
+<utterance uid="12-6"><speaker>HOLLIWELL</speaker><content>Sorry to interrupt, but my team's been up on a wire monitoring the cell phones of several key members of Racine's organization. We've been listening for any mention of Ike Thornton.</content></utterance>
+<utterance uid="12-7"><speaker>BECKETT</speaker><content>And?</content></utterance>
+<utterance uid="12-8"><speaker>HOLLIWELL</speaker><content>And it turns out, we're not the only ones looking for him. Racine just put a price on Thornton's head.</content></utterance>
+<utterance uid="12-9"><speaker>BECKETT</speaker><content>Racine must have found out he was going after the ledger.</content></utterance>
+<utterance uid="12-10"><speaker>HOLLIWELL</speaker><content>I guess you're not the only one your old partner betrayed.</content></utterance>
+<utterance uid="12-11"><speaker>ESPOSITO</speaker><content>Carol.</content></utterance>
+<utterance uid="12-12"><speaker>BECKETT</speaker><content>Where you going?</content></utterance>
+<utterance uid="12-13"><speaker>ESPOSITO</speaker><content>If Racine's going after Ike, the first place he's gonna go is the same place we went, his wife and kid.</content></utterance>
+<utterance uid="12-14"><speaker>BECKETT</speaker><content>Ryan.</content></utterance>
+<utterance uid="12-15"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+<utterance uid="12-16"><speaker>BECKETT</speaker><content>I'm gonna call the surveillance team.</content></utterance>
+<utterance uid="12-17"><speaker>ESPOSITO</speaker><content> Carol! Carol, it's Javi! Carol!  Timmy! Upstairs. Go. Carol! Timmy!</content></utterance>
+<utterance uid="12-18"><speaker>RYAN</speaker><content>Nothing.</content></utterance>
+<utterance uid="12-19"><speaker>ESPOSITO</speaker><content>They're gone.</content></utterance>
+<utterance uid="12-20"><speaker>RYAN</speaker><content>Surveillance team said they never left. How the hell did they—</content></utterance>
+<utterance uid="12-21"><speaker>ESPOSITO</speaker><content>Racine. Have the uniforms canvass the neighbours. Maybe somebody saw something.</content></utterance>
+<utterance uid="12-22"><speaker>RYAN</speaker><content>Yeah, on it.</content></utterance>
+<utterance uid="12-23"><speaker>IKE</speaker><content>I appreciate what you done for my boy, Javi.</content></utterance>
+<utterance uid="12-24"><speaker>ESPOSITO</speaker><content>Carol and Tim... Where are they?</content></utterance>
+<utterance uid="12-25"><speaker>IKE</speaker><content>Somewhere where Racine can't find 'em.</content></utterance>
+<utterance uid="12-26"><speaker>ESPOSITO</speaker><content>We've had guys on this place 24/7. How the hell did you get in here?</content></utterance>
+<utterance uid="12-27"><speaker>IKE</speaker><content>Three years as a ghost, you learn a few things.</content></utterance>
+<utterance uid="12-28"><speaker>ESPOSITO</speaker><content>So I.A. was right... Three years ago... Now. You were working for Racine.</content></utterance>
+<utterance uid="12-29"><speaker>IKE</speaker><content>Is that what you believe?</content></utterance>
+<utterance uid="12-30"><speaker>ESPOSITO</speaker><content>You let me think you were dead. And now you're holding a burner on me.</content></utterance>
+<utterance uid="12-31"><speaker>IKE</speaker><content>You're a good cop, Javi. But I put this down, you gon' take me in. And I can't let you do that, not yet, not when I'm so close.</content></utterance>
+<utterance uid="12-32"><speaker>ESPOSITO</speaker><content>So close to what?</content></utterance>
+<utterance uid="12-33"><speaker>IKE</speaker><content>There is a dirty cop on Racine's payroll. So in order to throw them off of his guy, Racine dirtied me up. And I.A. bought it hook, line and sinker.</content></utterance>
+<utterance uid="12-34"><speaker>ESPOSITO</speaker><content>Why didn't you just come to me?</content></utterance>
+<utterance uid="12-35"><speaker>IKE</speaker><content>Look, cases like mine are contagious, brother. I couldn't let you catch what I had. Racine's guy fed them so much garbage, they could lock me up. And if I had let 'em, Racine woulda had me shanked at Rikers before I could clear my name.</content></utterance>
+<utterance uid="12-36"><speaker>ESPOSITO</speaker><content>Where you been?</content></utterance>
+<utterance uid="12-37"><speaker>IKE</speaker><content>Watching, learning. That's how I found out about the ledger.</content></utterance>
+<utterance uid="12-38"><speaker>ESPOSITO</speaker><content>Racine's pays and owes.</content></utterance>
+<utterance uid="12-39"><speaker>IKE</speaker><content>Everyone on his payroll, including the dirty cop that set me up.</content></utterance>
+<utterance uid="12-40"><speaker>ESPOSITO</speaker><content>But the ledger wasn't in the bank like you thought.</content></utterance>
+<utterance uid="12-41"><speaker>IKE</speaker><content>Somehow, Racine found Finch.</content></utterance>
+<utterance uid="12-42"><speaker>ESPOSITO</speaker><content>You were there, man. We found your prints.</content></utterance>
+<utterance uid="12-43"><speaker>IKE</speaker><content>He was dead when I found him, Javi. I just closed his eyes. Come on, man.</content></utterance>
+<utterance uid="12-44"><speaker>ESPOSITO</speaker><content>And the ledger?</content></utterance>
+<utterance uid="12-45"><speaker>IKE</speaker><content>I know where the ledger is. But I need a little more time, Javi. Just until tomorrow night.</content></utterance>
+<utterance uid="12-46"><speaker>ESPOSITO</speaker><content>You used to carry yours with you all the time.</content></utterance>
+<utterance uid="12-47"><speaker>IKE</speaker><content>I still do, man. </content></utterance>
+<utterance uid="12-48"><speaker>ESPOSITO</speaker><content>Then that means there's somebody else mixed up in this, somebody from the 54th.</content></utterance>
+<utterance uid="12-49"><speaker>IKE</speaker><content>Whoever it is, they tipped Racine that I'm still alive, which means they're close. Maybe a part of your investigation.</content></utterance>
+<utterance uid="12-50"><speaker>ESPOSITO</speaker><content>54th. Demming.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>ESPOSITO</speaker><content>It's him.</content></utterance>
+<utterance uid="13-2"><speaker>RYAN</speaker><content>Gotta be. Remember how he said he requested this case? Said he liked the weird ones, but it was just so he could hunt down the thieves for Racine.</content></utterance>
+<utterance uid="13-3"><speaker>CASTLE</speaker><content>I knew there was something I didn't like about him. Too pretty. Bet he takes yoga classes just so he can pick up girls.</content></utterance>
+<utterance uid="13-4"><speaker>ESPOSITO</speaker><content>All these years, he's been lining his pockets with Racine's cash, leaving Thornton holding the bag.</content></utterance>
+<utterance uid="13-5"><speaker>CASTLE</speaker><content>Probably subscribes to The New Yorker, but doesn't even read it...</content></utterance>
+<utterance uid="13-6"><speaker>RYAN</speaker><content>The guy's been playing us all along, using us to find Finch's accomplice.</content></utterance>
+<utterance uid="13-7"><speaker>CASTLE</speaker><content>Just leaves copies laying out where people can see 'em.</content></utterance>
+<utterance uid="13-8"><speaker>BECKETT</speaker><content>Let's nail the bastard.</content></utterance>
+<utterance uid="13-9"><speaker>ESPOSITO</speaker><content>How?</content></utterance>
+<utterance uid="13-10"><speaker>BECKETT</speaker><content>If he was tipping off Racine, he wouldn't use the precinct phone. He'd use his cell.</content></utterance>
+<utterance uid="13-11"><speaker>RYAN</speaker><content>We could pull his SIM card. If there are any calls to Racine, we have all the proof we need.</content></utterance>
+<utterance uid="13-12"><speaker>CASTLE</speaker><content>How are we gonna get his phone away from him?</content></utterance>
+<utterance uid="13-13"><speaker>ESPOSITO</speaker><content>What's up, man?</content></utterance>
+<utterance uid="13-14"><speaker>BECKETT</speaker><content>I have an idea.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>DEMMING</speaker><content>Wow. It's been a while for me.</content></utterance>
+<utterance uid="14-2"><speaker>BECKETT</speaker><content>You know, I'll try to be gentle.</content></utterance>
+<utterance uid="14-3"><speaker>DEMMING</speaker><content>Oh, you do that.</content></utterance>
+<utterance uid="14-4"><speaker>BECKETT</speaker><content>Too much for you?</content></utterance>
+<utterance uid="14-5"><speaker>DEMMING</speaker><content>No, no. I'm just a little slow to get started. But I think I'm starting to find my rhythm now.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>RYAN</speaker><content>Let's go. Hurry up.</content></utterance>
+<utterance uid="15-2"><speaker>RYAN</speaker><content>Ow. What?</content></utterance>
+<utterance uid="15-3"><speaker>CASTLE</speaker><content>Hey, man. What's up? Showering?</content></utterance>
+<utterance uid="15-4"><speaker>RYAN</speaker><content>Got it. Let's go.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>DEMMING</speaker><content>Any news on Thornton?</content></utterance>
+<utterance uid="16-2"><speaker>BECKETT</speaker><content>None.</content></utterance>
+<utterance uid="16-3"><speaker>DEMMING</speaker><content>How's Esposito taking all this?</content></utterance>
+<utterance uid="16-4"><speaker>BECKETT</speaker><content>How do you think? I mean, here's a guy who's been carrying his 54th key fob in honor of his partner's sacrifice.</content></utterance>
+<utterance uid="16-5"><speaker>DEMMING</speaker><content>I had one of those.</content></utterance>
+<utterance uid="16-6"><speaker>BECKETT</speaker><content>Oh, yeah?</content></utterance>
+<utterance uid="16-7"><speaker>DEMMING</speaker><content>Yeah. </content></utterance>
+<utterance uid="16-8"><speaker>BECKETT</speaker><content>Oh!</content></utterance>
+<utterance uid="16-9"><speaker>DEMMING</speaker><content>But I lost mine years ago. Come on.  All right.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>CASTLE</speaker><content>Bet this guy does a lot of sexting, too.</content></utterance>
+<utterance uid="17-2"><speaker>RYAN</speaker><content>It's uploading now.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>DEMMING</speaker><content>Oh. I gotta tell ya, I don't know how much longer I can keep this up.</content></utterance>
+<utterance uid="18-2"><speaker>BECKETT</speaker><content>You know, I hear it helps if you think about baseball. </content></utterance>
+<utterance uid="18-3"><speaker>DEMMING</speaker><content>So what do you do for fun, Kate, huh, when you're not trying to take someone's head off?</content></utterance>
+<utterance uid="18-4"><speaker>BECKETT</speaker><content>I'm actually kind of a homebody.  You know, the night before I met you, I went home to read a book.</content></utterance>
+<utterance uid="18-5"><speaker>DEMMING</speaker><content>No kidding? </content></utterance>
+<utterance uid="18-6"><speaker>BECKETT</speaker><content>Whoa! What about you?</content></utterance>
+<utterance uid="18-7"><speaker>DEMMING</speaker><content>What about me what? What do I do for fun? Or what was I doing the night before we met?</content></utterance>
+<utterance uid="18-8"><speaker>DEMMING</speaker><content>Seriously... Why don't you just ask me if I have an alibi for Finch's murder?</content></utterance>
+<utterance uid="18-9"><speaker>BECKETT</speaker><content>Okay. So where were you?</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>RYAN</speaker><content>I ran all his numbers through the reverse directory. They're all coming clean.</content></utterance>
+<utterance uid="19-2"><speaker>BECKETT</speaker><content>That's because it wasn't Demming. </content></utterance>
+<utterance uid="19-3"><speaker>RYAN</speaker><content>Your alibi checked out.</content></utterance>
+<utterance uid="19-4"><speaker>DEMMING</speaker><content>Thank you.</content></utterance>
+<utterance uid="19-5"><speaker>RYAN</speaker><content>He really was coaching an underprivileged youth basketball league.</content></utterance>
+<utterance uid="19-6"><speaker>DEMMING</speaker><content>Well, for what it's worth, my kids won that night.</content></utterance>
+<utterance uid="19-7"><speaker>CASTLE</speaker><content>Oh, jeez.</content></utterance>
+<utterance uid="19-8"><speaker>RYAN</speaker><content>Sorry, man. Had to rule you out.</content></utterance>
+<utterance uid="19-9"><speaker>DEMMING</speaker><content>Let's just move on. Look, there's a wrong cop out there. We need to figure out who it is.</content></utterance>
+<utterance uid="19-10"><speaker>ESPOSITO</speaker><content>Do you know how many cops have been through the 54th in the last 10 years? Hundreds, maybe thousands.</content></utterance>
+<utterance uid="19-11"><speaker>BECKETT</speaker><content>Well, whoever it was was very good. You don't work the other side without arousing I.A. suspicion unless you know what you're doing.</content></utterance>
+<utterance uid="19-12"><speaker>ESPOSITO</speaker><content>Yeah, we're never gonna find him, not in time anyway.</content></utterance>
+<utterance uid="19-13"><speaker>BECKETT</speaker><content>In time for what?</content></utterance>
+<utterance uid="19-14"><speaker>ESPOSITO</speaker><content>I gotta take a walk.</content></utterance>
+<utterance uid="19-15"><speaker>RYAN</speaker><content>Hey, I thought you were going for a walk.</content></utterance>
+<utterance uid="19-16"><speaker>ESPOSITO</speaker><content>What do you want?</content></utterance>
+<utterance uid="19-17"><speaker>RYAN</speaker><content>Thornton's going after the ledger tonight, isn't he?</content></utterance>
+<utterance uid="19-18"><speaker>ESPOSITO</speaker><content>The man's been on the run for three years, separated from his family. I gotta help the guy, so don't try to stop me.</content></utterance>
+<utterance uid="19-19"><speaker>RYAN</speaker><content>I'm not. I'm going with you.</content></utterance>
+<utterance uid="19-20"><speaker>ESPOSITO</speaker><content>No, you're not.</content></utterance>
+<utterance uid="19-21"><speaker>RYAN</speaker><content>I'm your partner. That means I'm with you till the wheels fall off.</content></utterance>
+<utterance uid="19-22"><speaker>ESPOSITO</speaker><content>I know, bro. But... I'm gonna need you to get my back if things go wrong, all right?</content></utterance>
+<utterance uid="19-23"><speaker>RYAN</speaker><content>Okay.</content></utterance>
+<utterance uid="19-24"><speaker>ESPOSITO</speaker><content>Thanks.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>MONTGOMERY</speaker><content>Tell me you got something, people.</content></utterance>
+<utterance uid="20-2"><speaker>BECKETT</speaker><content>Unfortunately, sir, we are dead in the water.</content></utterance>
+<utterance uid="20-3"><speaker>CASTLE</speaker><content>No... we're not. If Thornton never worked for Racine, then someone lied to I. A. three years ago.</content></utterance>
+<utterance uid="20-4"><speaker>BECKETT</speaker><content>To throw suspicion from the real dirty cop.</content></utterance>
+<utterance uid="20-5"><speaker>CASTLE</speaker><content>So whoever I.A. was talking to, they must know who the real dirty cop is. All we need to do is get the name of the informant from Holliwell and run him down.</content></utterance>
+<utterance uid="20-6"><speaker>DEMMING</speaker><content>Easier said than done. There's no way an I.A. officer is gonna give up the name of a confidential informant.</content></utterance>
+<utterance uid="20-7"><speaker>MONTGOMERY</speaker><content>We'll see about that.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>IKE</speaker><content>You sure you're ready to bet your badge on this? Pretty long odds.</content></utterance>
+<utterance uid="21-2"><speaker>ESPOSITO</speaker><content>You're my partner. You sure you can get us in Racine's office?</content></utterance>
+<utterance uid="21-3"><speaker>IKE</speaker><content>Trust me. I've been casing the joint for three years. Let's roll.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>BECKETT</speaker><content>Sir, how did you do it?</content></utterance>
+<utterance uid="22-2"><speaker>MONTGOMERY</speaker><content>Pulling strings and trading favours.</content></utterance>
+<utterance uid="22-3"><speaker>BECKETT</speaker><content> This can't be right. The investigation against Ike Thornton three years ago, Lieutenant Holliwell lists his chief informant as Detective Javier Esposito.</content></utterance>
+<utterance uid="22-4"><speaker>MONTGOMERY</speaker><content>Son of a *****.</content></utterance>
+<utterance uid="22-5"><speaker>CASTLE</speaker><content>What does that mean?</content></utterance>
+<utterance uid="22-6"><speaker>MONTGOMERY</speaker><content>It means there was no informant.</content></utterance>
+<utterance uid="22-7"><speaker>BECKETT</speaker><content>Sir, is there any way to find out if Holliwell served at the 54th?</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>ESPOSITO</speaker><content>Come on, bro. What the hell's taking so long? I coulda chewed through that by now.</content></utterance>
+<utterance uid="23-2"><speaker>IKE</speaker><content>There we go.</content></utterance>
+<utterance uid="23-3"><speaker>HOLLIWELL</speaker><content>Nice thing about Internal Affairs...  It's our job to monitor other cops. You should've turned your cell phone off completely, Esposito, you know, with GPS and all.</content></utterance>
+<utterance uid="23-4"><speaker>ESPOSITO</speaker><content>All this time, it was you.</content></utterance>
+<utterance uid="23-5"><speaker>HOLLIWELL</speaker><content>I figured you'd come for that sooner or later. Big mistake. Toss the ledger over here. Throw it!</content></utterance>
+<utterance uid="23-6"><speaker>HOLLIWELL</speaker><content>See, if I were you, Thornton... I woulda just stayed dead.</content></utterance>
+<utterance uid="23-7"><speaker>IKE</speaker><content>Well, you're not me. I'm a cop.</content></utterance>
+<utterance uid="23-8"><speaker>HOLLIWELL</speaker><content>Oh, I beg to differ, buddy. You're a wanted criminal. Just ask Esposito over here. He died trying to apprehend you. My only regret is that I... I showed up too late to save him.</content></utterance>
+<utterance uid="23-9"><speaker>ESPOSITO</speaker><content>You son of a *****.</content></utterance>
+<utterance uid="23-10"><speaker>IKE</speaker><content>Look, there's something I want to say before we're done here.  Thanks for backing me up.</content></utterance>
+<utterance uid="23-11"><speaker>ESPOSITO</speaker><content>Lot of good that did us.</content></utterance>
+<utterance uid="23-12"><speaker>HOLLIWELL</speaker><content>I am going to get the medal of valour for killing you, Thornton.</content></utterance>
+<utterance uid="23-13"><speaker>IKE</speaker><content>No, I'm serious, man. Thanks for having my back.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>HOLLIWELL</speaker><content>Thank God you're here. They tried to kill me. Esposito and Thornton, they're both in on it.</content></utterance>
+<utterance uid="24-2"><speaker>BECKETT</speaker><content>Drop it or I will drop you.</content></utterance>
+<utterance uid="24-3"><speaker>DEMMING</speaker><content>You know the drill, Holliwell. Keep 'em up.</content></utterance>
+<utterance uid="24-4"><speaker>BECKETT</speaker><content>Lieutenant Holliwell, you're under arrest for the murder of Paul Finch.</content></utterance>
+<utterance uid="24-5"><speaker>RYAN</speaker><content>Where's Esposito?  Where's Esposito?!  Esposito?!</content></utterance>
+<utterance uid="24-6"><speaker>ESPOSITO</speaker><content>Yeah. We got an officer down.</content></utterance>
+<utterance uid="24-7"><speaker>RYAN</speaker><content>William 16, William 16, need an ambulance at 3471 Houston.</content></utterance>
+<utterance uid="24-8"><speaker>IKE</speaker><content>I'm cool. It was a clean exit.</content></utterance>
+<utterance uid="24-9"><speaker>ESPOSITO</speaker><content>Holliwell?</content></utterance>
+<utterance uid="24-10"><speaker>RYAN</speaker><content>Yeah, we got him and the ledger.</content></utterance>
+<utterance uid="24-11"><speaker>ESPOSITO</speaker><content>Good. Ike. This my partner--Ryan. And this is my other partner... Castle.</content></utterance>
+<utterance uid="24-12"><speaker>IKE</speaker><content>Hey, man.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>BECKETT</speaker><content>And with Holliwell's testimony and the ledger, we now have enough evidence to arrest Racine.</content></utterance>
+<utterance uid="25-2"><speaker>MONTGOMERY</speaker><content>Okay, but what I don't understand is how the hell you ended up in Racine's office with Thornton.</content></utterance>
+<utterance uid="25-3"><speaker>ESPOSITO</speaker><content>Sir, I--</content></utterance>
+<utterance uid="25-4"><speaker>BECKETT</speaker><content>Oh, I-I'm sorry, sir. I thought we made that clear. Esposito was with us when we responded to a robbery in progress call at Racine's office.</content></utterance>
+<utterance uid="25-5"><speaker>MONTGOMERY</speaker><content>Uh-huh. And who made the call?</content></utterance>
+<utterance uid="25-6"><speaker>CASTLE</speaker><content>Uh, the call was made by a private citizen who wishes to remain anonymous.</content></utterance>
+<utterance uid="25-7"><speaker>MONTGOMERY</speaker><content>Well, I may need a private citizen to help me write up this damn mess.</content></utterance>
+<utterance uid="25-8"><speaker>CASTLE</speaker><content>I'd be happy to lend my expertise.</content></utterance>
+<utterance uid="25-9"><speaker>ESPOSITO</speaker><content>So...</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>IKE</speaker><content>I know you're not turning me loose.</content></utterance>
+<utterance uid="26-2"><speaker>ESPOSITO</speaker><content>Just a furlough..</content></utterance>
+<utterance uid="26-3"><speaker>RYAN</speaker><content>We got something we want you to see.</content></utterance>
+<utterance uid="26-4"><speaker>ESPOSITO</speaker><content>You did it, bro. And the best news is... You're free to go.</content></utterance>
+<utterance uid="26-5"><speaker>DEMMING</speaker><content>As far as I'm concerned, Finch acted alone. It's my case. I'm closing it.</content></utterance>
+<utterance uid="26-6"><speaker>CASTLE</speaker><content>And I don't see Racine pressing charges anytime soon. Right now, he's trying to deny that the ledger is his.</content></utterance>
+<utterance uid="26-7"><speaker>BECKETT</speaker><content>It's time for you to go home, Ike.</content></utterance>
+<utterance uid="26-8"><speaker>IKE</speaker><content>Hey. Oh, my God.</content></utterance>
+<utterance uid="26-9"><speaker>DEMMING</speaker><content>So is it always this much fun up here?</content></utterance>
+<utterance uid="26-10"><speaker>BECKETT</speaker><content>We have our moments.</content></utterance>
+<utterance uid="26-11"><speaker>DEMMING</speaker><content>So now that you know I'm not a dirty cop, anytime you need a sparring partner...</content></utterance>
+<utterance uid="26-12"><speaker>BECKETT</speaker><content>Thanks.</content></utterance>
+<utterance uid="26-13"><speaker>DEMMING</speaker><content>And I'll let you win.</content></utterance>
+<utterance uid="26-14"><speaker>BECKETT</speaker><content>I'm sorry. What?</content></utterance>
+</scene>
+</script>

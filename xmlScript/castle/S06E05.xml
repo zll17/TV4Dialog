@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>OLDER MAN</speaker><content>Jackass!</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>RICHARD CASTLE</speaker><content>Ow ow ow! God!</content></utterance>
+<utterance uid="2-2"><speaker>PI</speaker><content>Everything okay, Mr. C?</content></utterance>
+<utterance uid="2-3"><speaker>CASTLE</speaker><content>Does everything look okay, Pi?</content></utterance>
+<utterance uid="2-4"><speaker>PI</speaker><content>I don’t know. It’s kind of dark in here.</content></utterance>
+<utterance uid="2-5"><speaker>ALEXIS CASTLE</speaker><content>Dad? What’s going on? What happened?</content></utterance>
+<utterance uid="2-6"><speaker>CASTLE</speaker><content>My office. Now.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>CASTLE</speaker><content>I’ve tried to be generous and understanding. I have tried to be tolerant. But Alexis, it’s been over a month and Pi is still here.</content></utterance>
+<utterance uid="3-2"><speaker>ALEXIS</speaker><content>I know, Dad. And he feels bad about it. We both do.</content></utterance>
+<utterance uid="3-3"><speaker>CASTLE</speaker><content>I don’t care if he feels bad. I want my couch back. I want my house back. You go back to college next week. What then? Sweetheart, he has to go.</content></utterance>
+<utterance uid="3-4"><speaker>ALEXIS</speaker><content>You’re absolutely right. He’s been here way too long. It’s not right and it’s not fair to you.</content></utterance>
+<utterance uid="3-5"><speaker>CASTLE</speaker><content>Thank you.</content></utterance>
+<utterance uid="3-6"><speaker>ALEXIS</speaker><content>You’re welcome. And the best news is, I think we’ve found a place.</content></utterance>
+<utterance uid="3-7"><speaker>CASTLE</speaker><content>Honey, that is so great –  – did you say ‘we’ found a place’?</content></utterance>
+<utterance uid="3-8"><speaker>ALEXIS</speaker><content>Yeah. Pi and I talked it over. He can’t afford a place on his own so we found one together.</content></utterance>
+<utterance uid="3-9"><speaker>CASTLE</speaker><content>Together?</content></utterance>
+<utterance uid="3-10"><speaker>ALEXIS</speaker><content>Yeah. That way the rent’s totally affordable. I can cover my half with a work-study job and it’s right next to school. Plus it’ll save you from having to pay for university housing this year.</content></utterance>
+<utterance uid="3-11"><speaker>CASTLE</speaker><content>You don’t honestly think I’m going to let you do this, do you?</content></utterance>
+<utterance uid="3-12"><speaker>ALEXIS</speaker><content>Let me? Dad, I’m 19.</content></utterance>
+<utterance uid="3-13"><speaker>CASTLE</speaker><content>Exactly my point. Far too young to be moving in with someone.</content></utterance>
+<utterance uid="3-14"><speaker>ALEXIS</speaker><content>Really? Because I was old enough to sign the lease.  And weren’t you living with your girlfriend when you were 19?</content></utterance>
+<utterance uid="3-15"><speaker>CASTLE</speaker><content>Yes, but that was different?</content></utterance>
+<utterance uid="3-16"><speaker>ALEXIS</speaker><content> How?</content></utterance>
+<utterance uid="3-17"><speaker>ALEXIS</speaker><content>Trust me, Dad. We’ve thought this through. It makes total sense.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>CASTLE</speaker><content>In what universe does that make sense? I’ll tell you what universe. The one where she’s blinded by emotion and not thinking straight. It’s like watching a car accident in slow motion.</content></utterance>
+<utterance uid="4-2"><speaker>KATE BECKETT</speaker><content>You know, Castle, my Dad wanted to kill the first guy that I moved in with. He did everything he could to try and talk me out of it. And all that did was made me want to do it more.</content></utterance>
+<utterance uid="4-3"><speaker>CASTLE</speaker><content>I just wish her future self would come back and talk to her present self. Let her know what a mistake she’s making. Save her from a –  – a world of hurt.</content></utterance>
+<utterance uid="4-4"><speaker>BECKETT</speaker><content>What happened?</content></utterance>
+<utterance uid="4-5"><speaker>LANIE PARISH</speaker><content>There are a lot of weirdos out there with too much imagination is what happened. And yes, I’m looking at you, Castle.</content></utterance>
+<utterance uid="4-6"><speaker>CASTLE</speaker><content>Yeah, except I only commit my murders on paper. I don’t actually do them. A lot more lucrative, a lot less prison.</content></utterance>
+<utterance uid="4-7"><speaker>BECKETT</speaker><content>So was she electrocuted?</content></utterance>
+<utterance uid="4-8"><speaker>LANIE</speaker><content>Yep, but that’s not the cause of death. Her throat was cut. The rest of this, if I had to guess, I’d say she was tortured.</content></utterance>
+<utterance uid="4-9"><speaker>CASTLE</speaker><content>Why? Who is she?</content></utterance>
+<utterance uid="4-10"><speaker>JAVIER ESPOSITO</speaker><content>Shauna Taylor, 34. She’s a parole officer with the Department of Corrections. Could be one of her parolees out for revenge.</content></utterance>
+<utterance uid="4-11"><speaker>BECKETT</speaker><content>How did he get in?</content></utterance>
+<utterance uid="4-12"><speaker>ESPOSITO</speaker><content>Right now it’s a mystery. There’s no sign of forced entry and by the look of it, she wasn’t expecting trouble.</content></utterance>
+<utterance uid="4-13"><speaker>CASTLE</speaker><content>How can you tell that?</content></utterance>
+<utterance uid="4-14"><speaker>ESPOSITO</speaker><content>She had a carry permit for a Sig-9. It’s still in the top drawer of her nightstand.</content></utterance>
+<utterance uid="4-15"><speaker>BECKETT</speaker><content>Do we know when this happened?</content></utterance>
+<utterance uid="4-16"><speaker>LANIE</speaker><content>I won’t have anything definitive until I get her back to the office.</content></utterance>
+<utterance uid="4-17"><speaker>ESPOSITO</speaker><content>Neighbors didn’t hear anything. Probably because she was gagged, but the guy who called it in said he saw a guy leaving the apartment about 5:30AM. Said the dude had fresh blood on him. Ryan’s got our witness with the sketch artist now.</content></utterance>
+<utterance uid="4-18"><speaker>BECKETT</speaker><content>Okay, contact DOC, get a list of all of her parolees, see if there’s a match. We’re also going to need alibis for all of them from last night.</content></utterance>
+<utterance uid="4-19"><speaker>BECKETT</speaker><content>What do we know about her family?</content></utterance>
+</scene>
+
+<scene id="5"><utterance uid="5-1"><speaker>MALCOLM WICKFIELD</speaker><content>She’s dead? I knew it. I knew something like this would happen.  I warned her, didn’t I?</content></utterance>
+<utterance uid="5-2"><speaker>BECKETT</speaker><content>Dr. Wickfield, were you and your stepsister close?</content></utterance>
+<utterance uid="5-3"><speaker>MALCOLM</speaker><content>Not really. The two of us had very different lives. Since our father passed, we made an effort. Called each other once, maybe twice a month.</content></utterance>
+<utterance uid="5-4"><speaker>BECKETT</speaker><content>And when you last spoke to her, did she say anything that would indicate she was in trouble?</content></utterance>
+<utterance uid="5-5"><speaker>MALCOLM</speaker><content>Yeah, when we – we talked about a week ago. She said she thought someone might be stalking her. She kept seeing this guy wherever she went, watching her.</content></utterance>
+<utterance uid="5-6"><speaker>CASTLE</speaker><content>One of her parolees?</content></utterance>
+<utterance uid="5-7"><speaker>MALCOLM</speaker><content>No. She said she didn’t recognize him. I thought she was just being paranoid.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>KEVIN RYAN</speaker><content>So according to Shauna’s supervisor, all of her parolees were nonviolent offenders and none of them looked like this sketch that we took off the neighbor or match prints that CSU got from the crime scene.</content></utterance>
+<utterance uid="6-2"><speaker>BECKETT</speaker><content>So it’s quite possible this had nothing to do with her job.</content></utterance>
+<utterance uid="6-3"><speaker>CASTLE</speaker><content>Then why torture her? What could the killer want?</content></utterance>
+<utterance uid="6-4"><speaker>RYAN</speaker><content>What, Castle, no crazy theories?</content></utterance>
+<utterance uid="6-5"><speaker>BECKETT</speaker><content>Oh, he’s got bigger issues. His daughter’s moving in.  With a boy.</content></utterance>
+<utterance uid="6-6"><speaker>RYAN</speaker><content> And you’re letting her?</content></utterance>
+<utterance uid="6-7"><speaker>CASTLE</speaker><content>Well, apparently the only way to stop her is locking her up, but according to Miss By-the-Book here that’s unlawful imprisonment.</content></utterance>
+<utterance uid="6-8"><speaker>ESPOSITO</speaker><content>Hey. Caught a break on that stalker. A couple of nights ago Shauna filed a harassment complaint. Apparently three days ago a guy confronted Shauna on her way home from work. Said the lives of half the people on the planet were at stake.</content></utterance>
+<utterance uid="6-9"><speaker>CASTLE</speaker><content> Whatever crazy theory I could have come up with, this is better.</content></utterance>
+<utterance uid="6-10"><speaker>ESPOSITO</speaker><content>She managed to get away and ducked inside her building, but when she looked outside her window he was still out there waiting for her, so she called the cops.</content></utterance>
+<utterance uid="6-11"><speaker>BECKETT</speaker><content>Did they pick him up?</content></utterance>
+<utterance uid="6-12"><speaker>ESPOSITO</speaker><content>Yeah. He didn’t have an ID and he was pretty much off his rocker, so they put him on a 72 hour psych hold, but he was released early this morning. They were never able to ID him, but check it out.</content></utterance>
+<utterance uid="6-13"><speaker>BECKETT</speaker><content>Get over to the psych ward. Pull his records. We need to find out who he is.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>SIMON DOYLE</speaker><content>You do not understand. We are running out of time. I need to get out of here. You have to let me go!</content></utterance>
+<utterance uid="7-2"><speaker>PSYCHIATRIST</speaker><content>Why do you feel you need to go?</content></utterance>
+<utterance uid="7-3"><speaker>SIMON</speaker><content>Come on, I told you! Shauna is in danger.</content></utterance>
+<utterance uid="7-4"><speaker>PSYCHIATRIST</speaker><content>Who is in danger?</content></utterance>
+<utterance uid="7-5"><speaker>SIMON</speaker><content>You’re not even listening to me. Shauna Taylor! All I know is 12:58. That is all they told me. That is how it starts and if I am not there to stop it we are all dead. Do you understand me? Dead! Somebody has to let me out of here. All right? Listen to me! I need to save her!</content></utterance>
+<utterance uid="7-6"><speaker>CASTLE</speaker><content>You think by save he meant kill? Because it sounds to me like he really didn’t want her to die.</content></utterance>
+<utterance uid="7-7"><speaker>BECKETT</speaker><content>He’s mentally ill. He may not know the difference.</content></utterance>
+<utterance uid="7-8"><speaker>RYAN</speaker><content>12:58. What do you think that means?</content></utterance>
+<utterance uid="7-9"><speaker>CASTLE</speaker><content>Time. Address. Bible verse.</content></utterance>
+<utterance uid="7-10"><speaker>BECKETT</speaker><content>Or maybe it’s random numbers from a disturbed mind. Either way we’ve got to find him.</content></utterance>
+<utterance uid="7-11"><speaker>CASTLE</speaker><content>The guy’s a John Doe. He’s got no ID, no address. Where do we even start?</content></utterance>
+<utterance uid="7-12"><speaker>BECKETT</speaker><content>We’ll put out a BOLO. Get his info to every hospital, precinct, and psych ward in the city.</content></utterance>
+<utterance uid="7-13"><speaker>ESPOSITO</speaker><content>I’ll send those pictures to shelters and soup kitchens. See if we can get lucky.</content></utterance>
+<utterance uid="7-14"><speaker>RYAN</speaker><content>I think we just did. That was our victim’s neighbor. He just saw our John Doe breaking back in to Shauna’s apartment.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>RYAN</speaker><content>NYPD!</content></utterance>
+<utterance uid="8-2"><speaker>ESPOSITO</speaker><content>Show us your hands!</content></utterance>
+<utterance uid="8-3"><speaker>SIMON</speaker><content>No, no! Let me go! You don’t know what you’re doing!</content></utterance>
+<utterance uid="8-4"><speaker>BECKETT</speaker><content>We know exactly what we’re doing.</content></utterance>
+<utterance uid="8-5"><speaker>SIMON</speaker><content>Please, listen to me. Don’t do this, please. You have to let me go. If you don’t, a billion people will die.</content></utterance>
+<utterance uid="8-6"><speaker>ESPOSITO</speaker><content>Yeah, how’re they going to die?</content></utterance>
+<utterance uid="8-7"><speaker>SIMON</speaker><content>I don’t know. I only know that they do.</content></utterance>
+<utterance uid="8-8"><speaker>ESPOSITO</speaker><content>Yeah? And how’s that?</content></utterance>
+<utterance uid="8-9"><speaker>SIMON</speaker><content>Because. I’m from the future.</content></utterance>
+<utterance uid="8-10"><speaker>CASTLE</speaker><content> This just became my favorite case.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>CASTLE</speaker><content>So … future, huh?</content></utterance>
+<utterance uid="9-2"><speaker>SIMON</speaker><content>That’s right.</content></utterance>
+<utterance uid="9-3"><speaker>BECKETT</speaker><content>Okay, so why don’t we just start with something simple. Like your name.</content></utterance>
+<utterance uid="9-4"><speaker>SIMON</speaker><content>Why does everyone want to know my name? Who cares? It doesn’t matter.</content></utterance>
+<utterance uid="9-5"><speaker>BECKETT</speaker><content>Humor me.</content></utterance>
+<utterance uid="9-6"><speaker>SIMON</speaker><content>Fine. You can call me Simon. Simon Doyle.</content></utterance>
+<utterance uid="9-7"><speaker>CASTLE</speaker><content>And what year are you from exactly?</content></utterance>
+<utterance uid="9-8"><speaker>SIMON</speaker><content> 2035.</content></utterance>
+<utterance uid="9-9"><speaker>BECKETT</speaker><content>Castle!</content></utterance>
+<utterance uid="9-10"><speaker>CASTLE</speaker><content>Don’t tell me you weren’t wondering.</content></utterance>
+<utterance uid="9-11"><speaker>BECKETT</speaker><content>No, what I was actually wondering was what were you doing in Shauna Taylor’s apartment?</content></utterance>
+<utterance uid="9-12"><speaker>SIMON</speaker><content>Same thing you were, I expect. Looking for her killer.</content></utterance>
+<utterance uid="9-13"><speaker>BECKETT</speaker><content>Except all the evidence points to you.</content></utterance>
+<utterance uid="9-14"><speaker>SIMON</speaker><content>Detective, it was my job to prevent her murder. Ipso facto, QED I am not her killer. Point of fact, she was never even supposed to die, okay? But because she has, a chain of events has started that if I do not stop –</content></utterance>
+<utterance uid="9-15"><speaker>CASTLE</speaker><content>Billions of people will die.</content></utterance>
+<utterance uid="9-16"><speaker>SIMON</speaker><content>That’s exactly right.</content></utterance>
+<utterance uid="9-17"><speaker>SIMON</speaker><content>Look. After the bloody energy wars of 2031 we finally managed to cultivate new sources of power.</content></utterance>
+<utterance uid="9-18"><speaker>CASTLE</speaker><content>Energy wars?</content></utterance>
+<utterance uid="9-19"><speaker>SIMON</speaker><content>Yeah, neofascists come to power and try to control the world’s energy supply for a select few.  Don’t worry. We defeat them. Turns out, one of these new sources of power is a tachyon generator. It lets us open doors in the time stream continuum allowing us to travel back in time. But of course, because of the possibility of abuse, it was tightly regulated and kept secret from the public.</content></utterance>
+<utterance uid="9-20"><speaker>BECKETT</speaker><content>We have a witness that saw you leaving Shauna Taylor’s apartment shortly after she was killed.</content></utterance>
+<utterance uid="9-21"><speaker>SIMON</speaker><content>I’m getting to that. Look – look. I’m a temporal anthropologist. What we do is travel back in time and we study culturally significant eras. Ancient Egypt, Middle Ages … man, I’ve been in Nazi Germany.</content></utterance>
+<utterance uid="9-22"><speaker>CASTLE</speaker><content>Aren’t you worried about the butterfly effect? Accidentally changing something in the past, thus altering the future?</content></utterance>
+<utterance uid="9-23"><speaker>SIMON</speaker><content>No. We’re careful. The time machine is mostly self-correcting, okay? Any small changes like a little ripple in a fast moving river, right?  It’s done in a second. It doesn’t matter. But if someone was to do something big, if someone was to do something massive, then yes of course, damn right you could change the future. By the way? That’s exactly what just happened. Somebody broke in to our lab, okay? Made an unauthorized jump back in time. Don’t know who, but when they did, the numbers? They started to spike. Not unlike a tide going out before a tsunami.</content></utterance>
+<utterance uid="9-24"><speaker>CASTLE</speaker><content>And what happens when the tsunami hits?</content></utterance>
+<utterance uid="9-25"><speaker>SIMON</speaker><content>It hasn’t caught up to us yet. Okay? But when it does, whatever chain of events that has just started now will result in billions of deaths that did not otherwise occur. You understand me?</content></utterance>
+<utterance uid="9-26"><speaker>BECKETT</speaker><content>Okay. Um … Mr. Doyle, let’s say that you are indeed from the future.  How did Shauna Taylor fit in to all of this? I mean, how does her death change things so radically?</content></utterance>
+<utterance uid="9-27"><speaker>SIMON</speaker><content>I don’t know. All I know is that we traced the first change in the timeline back to her apartment, October 7th, 12:58AM.</content></utterance>
+<utterance uid="9-28"><speaker>CASTLE</speaker><content>Which is why they sent you back. Why you accosted her. To stop that first event.</content></utterance>
+<utterance uid="9-29"><speaker>SIMON</speaker><content>And I failed, okay? And now she’s dead. But this is why I was searching her apartment. To find out why she was targeted. Why this person would torture her. There’s a reason he came back in time to find her. She had something he needed. I don’t know what, some piece of information, listen, it doesn’t matter. What matters is that I get out of here, okay? Because it is not too late. I can still stop this.</content></utterance>
+<utterance uid="9-30"><speaker>SIMON</speaker><content> But you have to let me go now, okay? I only have a few hours before they recall me.</content></utterance>
+<utterance uid="9-31"><speaker>BECKETT</speaker><content>You’re going to be delayed.</content></utterance>
+<utterance uid="9-32"><speaker>SIMON</speaker><content> Oh no.</content></utterance>
+<utterance uid="9-33"><speaker>CASTLE</speaker><content>Recall you?</content></utterance>
+<utterance uid="9-34"><speaker>SIMON</speaker><content>This is painful. I’m – I’m talking to people who still think the Earth is flat.</content></utterance>
+<utterance uid="9-35"><speaker>BECKETT</speaker><content>Hey.</content></utterance>
+<utterance uid="9-36"><speaker>ESPOSITO</speaker><content>Hey. His fingerprints are a match for the ones we pulled from the crime scene. No question he’s our guy.</content></utterance>
+<utterance uid="9-37"><speaker>BECKETT</speaker><content>Yeah.  No kidding.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>SIMON</speaker><content>You’re making a huge mistake!</content></utterance>
+<utterance uid="10-2"><speaker>BECKETT</speaker><content>Castle.</content></utterance>
+<utterance uid="10-3"><speaker>CASTLE</speaker><content>Yeah.</content></utterance>
+<utterance uid="10-4"><speaker>BECKETT</speaker><content>For the sake of our future, please tell me you don’t believe that guy.</content></utterance>
+<utterance uid="10-5"><speaker>CASTLE</speaker><content>Oh, no. But you’ve got to admit, it’s a great story.</content></utterance>
+<utterance uid="10-6"><speaker>BECKETT</speaker><content>Really?</content></utterance>
+<utterance uid="10-7"><speaker>RYAN</speaker><content>Ah, I thought it was kind of derivative.</content></utterance>
+<utterance uid="10-8"><speaker>ESPOSITO</speaker><content>Yeah, like a mash up of 12 Monkeys and Terminator.</content></utterance>
+<utterance uid="10-9"><speaker>CASTLE</speaker><content>Yeah, but it’s the way he told it. Total commitment.</content></utterance>
+<utterance uid="10-10"><speaker>BECKETT</speaker><content>Commitment that turned deadly. I mean, to maintain his delusion, Shauna had to die. He might not even know that he killed her.</content></utterance>
+<utterance uid="10-11"><speaker>CASTLE</speaker><content>Did you guys find out what this device was Doyle had on him?</content></utterance>
+<utterance uid="10-12"><speaker>RYAN</speaker><content>Yeah, tech says it’s just a bunch of junk thrown together.</content></utterance>
+<utterance uid="10-13"><speaker>ESPOSITO</speaker><content>What were you expecting, Castle? A time travel device? Dr. Who’s sonic screwdriver?</content></utterance>
+<utterance uid="10-14"><speaker>CASTLE</speaker><content>You watch Dr. Who?</content></utterance>
+<utterance uid="10-15"><speaker>BECKETT</speaker><content>Oh, that’s Lanie. Okay, we’ll hit the morgue. Why don’t you guys time travel over to your desks and let the DA know that we got our killer.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>LANIE</speaker><content>He’s not your killer.</content></utterance>
+<utterance uid="11-2"><speaker>BECKETT</speaker><content>What do you mean?</content></utterance>
+<utterance uid="11-3"><speaker>LANIE</speaker><content>I mean, time of death was between midnight and 2AM. Doyle wasn’t released from psychiatric hold until 4AM. It can’t be him.</content></utterance>
+<utterance uid="11-4"><speaker>BECKETT</speaker><content>No, it has to be him. He was stalking her and he was at the crime scene.</content></utterance>
+<utterance uid="11-5"><speaker>LANIE</speaker><content>Yeah. Hours after she was dead. In fact, time of death is probably closer to 1AM.</content></utterance>
+<utterance uid="11-6"><speaker>CASTLE</speaker><content>How can you tell that?</content></utterance>
+<utterance uid="11-7"><speaker>LANIE</speaker><content>Her watch. It stopped at 12:58, probably from one of the electric shocks.</content></utterance>
+<utterance uid="11-8"><speaker>CASTLE</speaker><content>May I?  12:58. Did you just get a chill?</content></utterance>
+<utterance uid="11-9"><speaker>BECKETT</speaker><content>No, Castle. I didn’t just get a chill. Do you want to know why? Because Doyle was at that crime scene and he had plenty of time to change her watch to fit his delusional story. And just because he wasn’t there when she was being murdered, it doesn’t mean that he’s not involved somehow.</content></utterance>
+<utterance uid="11-10"><speaker>LANIE</speaker><content>There’s something else. Shauna was with someone the night she was killed.  Once I cleaned the blood from the body, I saw these on her neck.</content></utterance>
+<utterance uid="11-11"><speaker>BECKETT</speaker><content>Is that lipstick?</content></utterance>
+<utterance uid="11-12"><speaker>LANIE</speaker><content>Mmhmm.</content></utterance>
+<utterance uid="11-13"><speaker>CASTLE</speaker><content>She was with a woman.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>BECKETT</speaker><content>You guys?  Shauna’s stepbrother confirms that she was gay but he’s sure she wasn’t seeing someone.</content></utterance>
+<utterance uid="12-2"><speaker>RYAN</speaker><content>There’s nothing in her phone records that would indicate a girlfriend; however; I did find a charge to her credit card for the night that she died.</content></utterance>
+<utterance uid="12-3"><speaker>ESPOSITO</speaker><content>George’s Bar. It’s right around the corner from her apartment. Looks like she was buying for two.</content></utterance>
+<utterance uid="12-4"><speaker>BECKETT</speaker><content>Could be our killer. Okay, you guys get over there, see if she was seen with anyone or noticed anything out of the ordinary. I will call the DA. If we can’t charge Doyle with murder, maybe I can get him held with a departmental psych eval until we have some answers.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>BARTENDER</speaker><content>Yeah, she was here. Why, did something happen to her?</content></utterance>
+<utterance uid="13-2"><speaker>RYAN</speaker><content>Was she with anyone that night?</content></utterance>
+<utterance uid="13-3"><speaker>BARTENDER</speaker><content>Yeah. It was odd. The chick that she was hanging with was a pro.</content></utterance>
+<utterance uid="13-4"><speaker>ESPOSITO</speaker><content>You mean like a hooker?</content></utterance>
+<utterance uid="13-5"><speaker>BARTENDER</speaker><content>Yeah, I bartend weekends down at the Standish. Chick’s a regular in their lounge, targeting upscale men.</content></utterance>
+<utterance uid="13-6"><speaker>RYAN</speaker><content>You ever see her down here before?</content></utterance>
+<utterance uid="13-7"><speaker>BARTENDER</speaker><content>Uh uh. I don’t know if she was working or what, but she and Shauna seemed pretty cozy. They left together.</content></utterance>
+<utterance uid="13-8"><speaker>RYAN</speaker><content>You know her name?</content></utterance>
+<utterance uid="13-9"><speaker>BARTENDER</speaker><content>Veronica. Go up to the Standish. She’ll be hard to miss.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>VERONICA</speaker><content>Your witnesses are confused. I don’t go to George’s. Not my scene.</content></utterance>
+<utterance uid="14-2"><speaker>BECKETT</speaker><content>Well, we have security camera footage that shows the two of you leaving there together.</content></utterance>
+<utterance uid="14-3"><speaker>RYAN</speaker><content>Want to try again?</content></utterance>
+<utterance uid="14-4"><speaker>VERONICA</speaker><content> Okay, I left with her. I like a little variety.</content></utterance>
+<utterance uid="14-5"><speaker>BECKETT</speaker><content>And what happened after you left the bar? Did you go to her place?</content></utterance>
+<utterance uid="14-6"><speaker>VERONICA</speaker><content>How is that your business?</content></utterance>
+<utterance uid="14-7"><speaker>BECKETT</speaker><content>Because.  She’s dead. Killed in her apartment last night.</content></utterance>
+<utterance uid="14-8"><speaker>RYAN</speaker><content>We found lipstick marks on her neck. When we test them, whose DNA do you think we’re going to find?</content></utterance>
+<utterance uid="14-9"><speaker>VERONICA</speaker><content>This wasn’t me. I didn’t do this.</content></utterance>
+<utterance uid="14-10"><speaker>BECKETT</speaker><content>You were with her that night.</content></utterance>
+<utterance uid="14-11"><speaker>VERONICA</speaker><content>But only because I was paid to be.</content></utterance>
+<utterance uid="14-12"><speaker>BECKETT</speaker><content>By who?</content></utterance>
+<utterance uid="14-13"><speaker>VERONICA</speaker><content>Some guy. He hired me to come on to her.</content></utterance>
+<utterance uid="14-14"><speaker>RYAN</speaker><content>Why?</content></utterance>
+<utterance uid="14-15"><speaker>VERONICA</speaker><content>He wanted me to get into her place and steal her keys. I didn’t know he was going to kill her.</content></utterance>
+<utterance uid="14-16"><speaker>BECKETT</speaker><content>Is this the guy?</content></utterance>
+<utterance uid="14-17"><speaker>VERONICA</speaker><content>No. This guy was way more intense and scary.</content></utterance>
+<utterance uid="14-18"><speaker>BECKETT</speaker><content>Who is he?</content></utterance>
+<utterance uid="14-19"><speaker>VERONICA</speaker><content>I don’t know. I didn’t want to know. I just did what I had to and got out of there.</content></utterance>
+<utterance uid="14-20"><speaker>RYAN</speaker><content>If you didn’t know, then why did you agree to take the job?</content></utterance>
+<utterance uid="14-21"><speaker>VERONICA</speaker><content>Because I had no choice. Nick, my manager, said I had to. He said this guy was a friend of his.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>CASTLE</speaker><content>So if we are going to find this scary guy, shouldn’t we be tracking down this manager?</content></utterance>
+<utterance uid="15-2"><speaker>RYAN</speaker><content>We don’t have to. We had Veronica call him and tell him she’s been busted for solicitation. He thinks he’s coming in to bail her out.</content></utterance>
+<utterance uid="15-3"><speaker>BECKETT</speaker><content>So how’s our time traveler?</content></utterance>
+<utterance uid="15-4"><speaker>ESPOSITO</speaker><content>Oh, he’s still sticking to his story. He keeps checking his watch saying he’s about to be recalled.</content></utterance>
+<utterance uid="15-5"><speaker>CASTLE</speaker><content>Mmm. You know, it’s not a total waste. I did get some excellent stock tips.</content></utterance>
+<utterance uid="15-6"><speaker>BECKETT</speaker><content>Well, don’t invest just yet. Once we find out who hired Veronica then we’ll know how Doyle’s involved.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>BECKETT</speaker><content>He’s right back there.</content></utterance>
+<utterance uid="16-2"><speaker>SILVERMAN</speaker><content>Right back where?</content></utterance>
+<utterance uid="16-3"><speaker>BECKETT</speaker><content>Where is he?  Where did he go?</content></utterance>
+<utterance uid="16-4"><speaker>CASTLE</speaker><content>Not where. When?</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>CASTLE</speaker><content>I’m just saying, what if he was telling the truth and he was recalled back to the future?</content></utterance>
+<utterance uid="17-2"><speaker>BECKETT</speaker><content>He wasn’t recalled to the future. And do you know how I know that? Because he’s not a time traveler.</content></utterance>
+<utterance uid="17-3"><speaker>CASTLE</speaker><content>Okay. So where is he?</content></utterance>
+<utterance uid="17-4"><speaker>BECKETT</speaker><content>Simple explanation. There was a mix up with the paperwork when his charges were dropped and some desk monkey accidentally let him go and now they are all trying to cover their asses.</content></utterance>
+<utterance uid="17-5"><speaker>CASTLE</speaker><content>It’s reasonable. It’s unlikely, but it’s reasonable.</content></utterance>
+<utterance uid="17-6"><speaker>ESPOSITO</speaker><content>Yo. Any luck finding Doyle?</content></utterance>
+<utterance uid="17-7"><speaker>BECKETT</speaker><content>No. Not yet.</content></utterance>
+<utterance uid="17-8"><speaker>ESPOSITO</speaker><content>Hmm. Is that Veronica’s manager?</content></utterance>
+<utterance uid="17-9"><speaker>ESPOSITO</speaker><content>Yeah, Mick Lynden. Just came in. We’re about to lower the boom.</content></utterance>
+<utterance uid="17-10"><speaker>BECKETT</speaker><content>You need a hand?</content></utterance>
+<utterance uid="17-11"><speaker>ESPOSITO</speaker><content> Nah. We got it. Wouldn’t want you to lose him, too.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>RYAN</speaker><content>Here’s your situation, Mick. Your girl Veronica says she stole the victim’s keys for a friend of yours. That makes you an accessory.</content></utterance>
+<utterance uid="18-2"><speaker>MICK LYNDEN</speaker><content>No, man. I swear to God, man, I didn’t know he was going to do this.</content></utterance>
+<utterance uid="18-3"><speaker>ESPOSITO</speaker><content>Yeah well, good luck getting a jury to buy that. You’re looking at a lot of time, Mr. Lynden.</content></utterance>
+<utterance uid="18-4"><speaker>LYNDEN</speaker><content>Hey man, I just got out six months ago.</content></utterance>
+<utterance uid="18-5"><speaker>RYAN</speaker><content>I’ll tell you what. You tell us everything about that murderous friend of yours and we’ll tell the DA what a swell guy you are.</content></utterance>
+<utterance uid="18-6"><speaker>LYNDEN</speaker><content>His name’s Ward. Garrett Ward. He was my cellie at Five Points.</content></utterance>
+<utterance uid="18-7"><speaker>RYAN</speaker><content>Where can we find him?</content></utterance>
+<utterance uid="18-8"><speaker>LYNDEN</speaker><content>I don’t know, man. He found me last week. Said he’d just gotten out, he needed a favor. I figured it was better to do it than end up on his hate list.</content></utterance>
+<utterance uid="18-9"><speaker>ESPOSITO</speaker><content>You’re afraid of him.</content></utterance>
+<utterance uid="18-10"><speaker>LYNDEN</speaker><content>Hell yeah. Everyone was. I mean, this guy was inside a week and he was running the cell block. Guy is ice cold.</content></utterance>
+<utterance uid="18-11"><speaker>RYAN</speaker><content>What else do you know about him?</content></utterance>
+<utterance uid="18-12"><speaker>LYNDEN</speaker><content>Nothing, man. I shared air with this guy for years. Never once did he talk about his family, his hometown, his girl.  But he might have been a soldier.</content></utterance>
+<utterance uid="18-13"><speaker>ESPOSITO</speaker><content>Yeah? Why’s that?</content></utterance>
+<utterance uid="18-14"><speaker>LYNDEN</speaker><content>He had that way. Haunted. Always doing pushups. Always on alert.</content></utterance>
+<utterance uid="18-15"><speaker>ESPOSITO</speaker><content>Know any reason why he’d target Shauna Taylor?</content></utterance>
+<utterance uid="18-16"><speaker>LYNDEN</speaker><content>No. He never even mentioned her name. You said before she wasn’t even his parole officer so I have no idea.</content></utterance>
+<utterance uid="18-17"><speaker>RYAN</speaker><content>Could he have taken her out as a favor to a friend?</content></utterance>
+<utterance uid="18-18"><speaker>LYNDEN</speaker><content>That guy didn’t have friends. But uh … sometimes he’d talk about his mission.</content></utterance>
+<utterance uid="18-19"><speaker>ESPOSITO</speaker><content>What mission?</content></utterance>
+<utterance uid="18-20"><speaker>LYNDEN</speaker><content>All he said was that he had unfinished business and it would change everything.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>RYAN</speaker><content>Garrett Ward. Until six years ago, no criminal record. In fact, until six years ago, no record at all. No DMV, no military, nothing.</content></utterance>
+<utterance uid="19-2"><speaker>BECKETT</speaker><content>That’s impossible.</content></utterance>
+<utterance uid="19-3"><speaker>CASTLE</speaker><content>Unless he’s the other time traveler that Doyle was talking about.</content></utterance>
+<utterance uid="19-4"><speaker>RYAN</speaker><content>Whoever he is, his record begins when he was arrested for bringing a backpack bomb into a global energy conference here in Manhattan.</content></utterance>
+<utterance uid="19-5"><speaker>BECKETT</speaker><content>And what was his motive?</content></utterance>
+<utterance uid="19-6"><speaker>ESPOSITO</speaker><content>At the time the authorities linked him to a radical eco group that was protesting the conference.</content></utterance>
+<utterance uid="19-7"><speaker>RYAN</speaker><content>According to his file he’s some sort of anti-science nutjob. They found lots of Unabomber style notebooks on him decrying the “destruction of the rightful kingdom of God by science and technology”.</content></utterance>
+<utterance uid="19-8"><speaker>BECKETT</speaker><content>What’s his connection to Doyle?</content></utterance>
+<utterance uid="19-9"><speaker>ESPOSITO</speaker><content>Nada.</content></utterance>
+<utterance uid="19-10"><speaker>CASTLE</speaker><content>What do you mean, nada?  C’mon, guys! It’s so obvious.  Look, Ward is the guy that Doyle was sent back in time to stop, okay? Ward was sent back in time with some history altering mission that he failed to accomplish, ending up in prison. Six years later he is trying to complete that mission. Which is why Doyle has been sent back to now. Because now is when the timeline changed.</content></utterance>
+<utterance uid="19-11"><speaker>BECKETT</speaker><content>Well, I was thinking that maybe Ward and Doyle knew each other in the non-crazy world. Like perhaps that eco group that Ward was supposedly a part of.</content></utterance>
+<utterance uid="19-12"><speaker>CASTLE</speaker><content>Okay. Less fun.</content></utterance>
+<utterance uid="19-13"><speaker>BECKETT</speaker><content>But why would an anti-science nut torture and murder a parole officer. I mean, what’s her connection to all of this?</content></utterance>
+<utterance uid="19-14"><speaker>RYAN</speaker><content>We still haven’t found one.</content></utterance>
+<utterance uid="19-15"><speaker>BECKETT</speaker><content>Why don’t you guys go back in time and see if you can dig up any of Ward’s known associates from six years ago. Castle and I will look into his case record, see if we can find a connection between him and Shauna Taylor, or perhaps figure out what his unfinished business was.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>CASTLE</speaker><content>No, Alexis. I do trust you. I’m just saying, deciding to share an apartment with someone you met on a banana plantation a month ago just doesn’t strike me as the smartest decision you’ve ever made.</content></utterance>
+<utterance uid="20-2"><speaker>CASTLE</speaker><content>Alexis –  – Alexis –</content></utterance>
+<utterance uid="20-3"><speaker>CASTLE</speaker><content> She hung up on me.  Maybe I shouldn’t have said that stuff about the bananas.</content></utterance>
+<utterance uid="20-4"><speaker>BECKETT</speaker><content>Um … you know, Castle, maybe this is a good thing for her.  I mean, she sees us and she sees you starting something new. Maybe she’s just trying to figure out how she fits in.</content></utterance>
+<utterance uid="20-5"><speaker>CASTLE</speaker><content>You’re saying this is about us?</content></utterance>
+<utterance uid="20-6"><speaker>BECKETT</speaker><content> No. Um … I’m saying this is about her. It’s about her growing up.</content></utterance>
+<utterance uid="20-7"><speaker>CASTLE</speaker><content>You know what I’d do if I had a time machine?</content></utterance>
+<utterance uid="20-8"><speaker>BECKETT</speaker><content>Hmm?</content></utterance>
+<utterance uid="20-9"><speaker>CASTLE</speaker><content>I’d go back to relive all those moments.  You know, holding her tiny hand, putting her up on my shoulders. Just … can’t believe those times are gone.</content></utterance>
+<utterance uid="20-10"><speaker>BECKETT</speaker><content>I know, Castle, but think of all of the great times that you have to look forward to in her future … and in ours.</content></utterance>
+<utterance uid="20-11"><speaker>CASTLE</speaker><content>Yeah, assuming there is a future. If Doyle’s right there may not even be one.</content></utterance>
+<utterance uid="20-12"><speaker>BECKETT</speaker><content>Oh, c’mon, Castle.</content></utterance>
+<utterance uid="20-13"><speaker>CASTLE</speaker><content>Whoa.  Look at this.  It’s an article on the attempted bombing. Look at the picture.</content></utterance>
+<utterance uid="20-14"><speaker>BECKETT</speaker><content>That’s Malcolm Wickfield, Shauna’s stepbrother. He was at the conference?</content></utterance>
+<utterance uid="20-15"><speaker>CASTLE</speaker><content>He wasn’t just at the conference. He was one of the speakers.  Wickfield’s address was unlisted. You had to get it from Central.</content></utterance>
+<utterance uid="20-16"><speaker>BECKETT</speaker><content>That’s what Ward wanted from Shauna? To find her stepbrother?</content></utterance>
+<utterance uid="20-17"><speaker>BECKETT</speaker><content>He’s going after Wickfield.</content></utterance>
+</scene>
+
+<scene id="21"><utterance uid="21-1"><speaker>BECKETT</speaker><content>NYPD, Homicide.</content></utterance>
+<utterance uid="21-2"><speaker>CASTLE</speaker><content>What happened?</content></utterance>
+<utterance uid="21-3"><speaker>UNIFORM</speaker><content>Wife said some guy just showed up at the door and attacked him. He beat the hell out of him and broke his neck.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>BECKETT</speaker><content>So what happened?</content></utterance>
+<utterance uid="22-2"><speaker>CASTLE</speaker><content>What child?</content></utterance>
+<utterance uid="22-3"><speaker>CASTLE</speaker><content>Mrs. Wickfield, what exactly did your husband do?</content></utterance>
+<utterance uid="22-4"><speaker>BECKETT</speaker><content>Why would anyone target him for that?</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>WICKFIELD</speaker><content>Well, the work is very exciting. But right now it’s all theoretical. What our research really offers is an entirely new way of looking at the universe.</content></utterance>
+<utterance uid="23-2"><speaker>CASTLE</speaker><content>Changing the way that people see the universe? That’s exactly the kind of person whose death could alter the future.</content></utterance>
+<utterance uid="23-3"><speaker>BECKETT</speaker><content>It’s also the kind of person that a crazy anti-science nut like Ward would fixate on.</content></utterance>
+<utterance uid="23-4"><speaker>RYAN</speaker><content>Which means any of the other speakers at that conference could be next.</content></utterance>
+<utterance uid="23-5"><speaker>CASTLE</speaker><content>Except now he’s looking for a child.</content></utterance>
+<utterance uid="23-6"><speaker>BECKETT</speaker><content>Okay, contact the conference organizers. Get names of everyone that attended. Let’s see if there are any children on that list. This guy’s gonna kill again and we don’t know anything about him.</content></utterance>
+<utterance uid="23-7"><speaker>ESPOSITO</speaker><content>I may have found someone who does. That eco group that Ward was supposedly a part of? Well, it’s since disbanded, but its leader was a guy named Jack Hasting.  He’s an environmental author now and his new book Our Earth’s End? It’s about the coming eco disasters and the destruction of the human race.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>JACK HASTING</speaker><content>If you want to know the future, look at the facts. In less than 35 years we’ll have no gas, no coal, and no uranium left. As our energy resources dwindle and needs rise due to global warming, scarcity will spark the inevitable: a massive, bloody world war, probably within the next 40 years.</content></utterance>
+<utterance uid="24-2"><speaker>CASTLE</speaker><content>Massive, bloody energy wars? Just like Doyle described.</content></utterance>
+<utterance uid="24-3"><speaker>HASTING</speaker><content>Given how compromised our planet already is, will the human race survive? Thank you.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>HASTING</speaker><content>Yeah, I knew Garrett Ward. When he first came to us he said all the right things. How big oil and coal were destroying our environment. He even helped me plan that sit-in on the energy conference. After a few weeks it because obvious he didn’t care about the environment. When he was caught with that bomb we realized why.</content></utterance>
+<utterance uid="25-2"><speaker>CASTLE</speaker><content>He was using you to get into the conference.</content></utterance>
+<utterance uid="25-3"><speaker>BECKETT</speaker><content>So how well did you know him personally?</content></utterance>
+<utterance uid="25-4"><speaker>HASTING</speaker><content> Enough to know that he was nuts.</content></utterance>
+<utterance uid="25-5"><speaker>CASTLE</speaker><content>How so?</content></utterance>
+<utterance uid="25-6"><speaker>HASTING</speaker><content>He was paranoid. Always looking over his shoulder. And he’d say things about the future, messed up things about apocalyptic wars and how the human race needed to be cleansed. It was pretty creepy.</content></utterance>
+<utterance uid="25-7"><speaker>BECKETT</speaker><content>Kind of like some of the predictions you just made?</content></utterance>
+<utterance uid="25-8"><speaker>HASTING</speaker><content>No, this was different. Ward talked about it like it was real, like it had already happened.</content></utterance>
+<utterance uid="25-9"><speaker>CASTLE</speaker><content>Did he ever say anything to you about a child?</content></utterance>
+<utterance uid="25-10"><speaker>HASTING</speaker><content>Not that I recall.</content></utterance>
+<utterance uid="25-11"><speaker>CASTLE</speaker><content>What about this guy?  Look familiar?</content></utterance>
+<utterance uid="25-12"><speaker>HASTING</speaker><content>Sorry.</content></utterance>
+<utterance uid="25-13"><speaker>BECKETT</speaker><content>Do you know if there was anyone he was close to? Anyone who would know how to find him?</content></utterance>
+<utterance uid="25-14"><speaker>HASTING</speaker><content>He burned every bridge he had when he walked in with that bomb. But if you’re looking for him I’d try the East River power plant.  That’s where he was living six years ago. He said, uh …  … the electromagnetic field made it harder for the government to find him. I told you, the guy was crazy.</content></utterance>
+</scene>
+
+<scene id="26"><utterance uid="26-1"><speaker>CASTLE</speaker><content>This place shut down in 2010. You really think he’d come back here?</content></utterance>
+<utterance uid="26-2"><speaker>BECKETT</speaker><content>You can stay in the car if you’re too scared.</content></utterance>
+<utterance uid="26-3"><speaker>CASTLE</speaker><content>Alone? At an abandoned power plant? No, thank you.  Maybe we should put something in our vows about following each other into creepy places.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>CASTLE</speaker><content>I’m just saying. Energy wars? A soldier from the future? Everything seems to support Doyle’s story. Aren’t you weirded out by all this?</content></utterance>
+<utterance uid="27-2"><speaker>BECKETT</speaker><content>Why would I be weirded out? Ward’s just another paranoid schizophrenic, no different than Ted Kaczynski or Mark David Chapman.</content></utterance>
+<utterance uid="27-3"><speaker>CASTLE</speaker><content>Then how do you explain Doyle?</content></utterance>
+<utterance uid="27-4"><speaker>BECKETT</speaker><content>Well, probably another crazy who got caught up in his delusion. He and Ward must know each other somehow.</content></utterance>
+<utterance uid="27-5"><speaker>BECKETT</speaker><content>Castle.  Someone’s been here.</content></utterance>
+<utterance uid="27-6"><speaker>CASTLE</speaker><content> Don’t – don’t –</content></utterance>
+<utterance uid="27-7"><speaker>BECKETT</speaker><content>It’s him. C’mon.</content></utterance>
+<utterance uid="27-8"><speaker>CASTLE</speaker><content>Where’re you going?</content></utterance>
+<utterance uid="27-9"><speaker>BECKETT</speaker><content>Call for backup.</content></utterance>
+<utterance uid="27-10"><speaker>CASTLE</speaker><content>Good idea.</content></utterance>
+<utterance uid="27-11"><speaker>DOYLE</speaker><content>Hey!</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>DOYLE</speaker><content>Damn it!</content></utterance>
+<utterance uid="28-2"><speaker>CASTLE</speaker><content> Beckett?</content></utterance>
+<utterance uid="28-3"><speaker>DOYLE</speaker><content>Hey.</content></utterance>
+<utterance uid="28-4"><speaker>CASTLE</speaker><content>Ow!</content></utterance>
+<utterance uid="28-5"><speaker>CASTLE</speaker><content>How’d you find us?</content></utterance>
+<utterance uid="28-6"><speaker>DOYLE</speaker><content>I didn’t. I was tracking Ward.</content></utterance>
+<utterance uid="28-7"><speaker>CASTLE</speaker><content>You said you didn’t know him, but he recognized you.</content></utterance>
+<utterance uid="28-8"><speaker>DOYLE</speaker><content>Oh no, he recognized this.  This is a tracing beacon.</content></utterance>
+<utterance uid="28-9"><speaker>CASTLE</speaker><content>A what?</content></utterance>
+<utterance uid="28-10"><speaker>DOYLE</speaker><content>All I have to do is touch him with it and our scientists can pull him back.</content></utterance>
+<utterance uid="28-11"><speaker>BECKETT</speaker><content>Drop your weapon!  Hands in the air.</content></utterance>
+<utterance uid="28-12"><speaker>DOYLE</speaker><content>Okay, Detective. The gun is really not necessary.</content></utterance>
+<utterance uid="28-13"><speaker>BECKETT</speaker><content>The hell it isn’t. How did you get out of holding and how are you involved?</content></utterance>
+<utterance uid="28-14"><speaker>DOYLE</speaker><content>You know how. You just don’t want to believe me, but trust me, Detective. We’re on the same side.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>DOYLE</speaker><content>You do realize I just saved your life, right?</content></utterance>
+<utterance uid="29-2"><speaker>BECKETT</speaker><content>Yeah.  This is Detective Beckett. I’ve got a suspect at large. I’m going to need patrol sweeps of the area along with full CSU team at the scene.</content></utterance>
+<utterance uid="29-3"><speaker>DOYLE</speaker><content> A real charmer, that one. I can’t believe you marry her.</content></utterance>
+<utterance uid="29-4"><speaker>CASTLE</speaker><content>How did you know I marry her?</content></utterance>
+<utterance uid="29-5"><speaker>DOYLE</speaker><content>One of your book jackets. You know, “Richard Castle lives in New York with his wife, Senator Beckett, and their three children.”</content></utterance>
+<utterance uid="29-6"><speaker>CASTLE</speaker><content> Senator?</content></utterance>
+<utterance uid="29-7"><speaker>BECKETT</speaker><content>Three kids?</content></utterance>
+<utterance uid="29-8"><speaker>DOYLE</speaker><content>Yeah. Yeah, yeah. It was kind of hard to believe myself, given all the crazy stuff that goes on between you two.</content></utterance>
+<utterance uid="29-9"><speaker>CASTLE</speaker><content> Crazy stuff? What stuff?</content></utterance>
+<utterance uid="29-10"><speaker>DOYLE</speaker><content>Are you kidding me? She –</content></utterance>
+<utterance uid="29-11"><speaker>BECKETT</speaker><content>I’ll call you back. </content></utterance>
+<utterance uid="29-12"><speaker>DOYLE</speaker><content>No, I shouldn’t say. I shouldn’t say. I can tell you, though, that I’m really glad you stopped writing those stupid mystery books, okay? Because your serious literature is so much better.</content></utterance>
+<utterance uid="29-13"><speaker>CASTLE</speaker><content>I write serious literature? Beckett, you hear that?</content></utterance>
+<utterance uid="29-14"><speaker>BECKETT</speaker><content> Yeah, I heard. And I’m the president of fantasyland.</content></utterance>
+<utterance uid="29-15"><speaker>DOYLE</speaker><content>No, it was – it was Senator, actually. It was – Senator.  But not if Ward changes the future, do you understand me?</content></utterance>
+<utterance uid="29-16"><speaker>CASTLE</speaker><content>Yeah, but didn’t the time stream already change with Wickfield’s murder?</content></utterance>
+<utterance uid="29-17"><speaker>DOYLE</speaker><content>No, no. Wickfield’s death was a minor disruption.</content></utterance>
+<utterance uid="29-18"><speaker>CASTLE</speaker><content>But all the work he was doing?</content></utterance>
+<utterance uid="29-19"><speaker>DOYLE</speaker><content>Never amounted to anything. No, he wound up a footnote in history. According to our calculations, the big event – whatever it is – it hasn’t happened yet.</content></utterance>
+<utterance uid="29-20"><speaker>CASTLE</speaker><content>Then why was Ward after him?</content></utterance>
+<utterance uid="29-21"><speaker>DOYLE</speaker><content>I don’t know. You said he was looking for a child, right?</content></utterance>
+<utterance uid="29-22"><speaker>CASTLE</speaker><content>Well, he had –</content></utterance>
+<utterance uid="29-23"><speaker>BECKETT</speaker><content>Castle! He’s our suspect. Could you please not discuss details of our case with him? Maybe you could come over here and help me look through this stuff. We might find a clue as to who Ward’s next victim is going to be.</content></utterance>
+<utterance uid="29-24"><speaker>CASTLE</speaker><content> For your information, I wasn’t sharing details of the case. I was playing into his delusion to see what he knew.</content></utterance>
+<utterance uid="29-25"><speaker>BECKETT</speaker><content>Look at his. This is a photograph of an old letter addressed to Malcolm Wickfield. It’s dated six years ago.</content></utterance>
+<utterance uid="29-26"><speaker>CASTLE</speaker><content>Looks like it’s from a high school student asking to see him speak at that energy conference. Why would Ward have this?</content></utterance>
+<utterance uid="29-27"><speaker>BECKETT</speaker><content>I don’t know. It’s only the first page, so there’s no name or signature, but look at the words Ward circled.</content></utterance>
+<utterance uid="29-28"><speaker>CASTLE</speaker><content> “Brooklyn”. “P.S. 311”. “State award last year for my physics project.”</content></utterance>
+<utterance uid="29-29"><speaker>BECKETT</speaker><content>Each one’s a clue as to the letter writer’s identity. Ward must have been after him.</content></utterance>
+<utterance uid="29-30"><speaker>CASTLE</speaker><content>Do you think this is the child Ward’s looking for?</content></utterance>
+<utterance uid="29-31"><speaker>BECKETT</speaker><content>Mr. Doyle, do you know who he is?</content></utterance>
+<utterance uid="29-32"><speaker>DOYLE</speaker><content>No. No, I’ve never seen him before. But if Ward’s targeting him there must be a reason.</content></utterance>
+<utterance uid="29-33"><speaker>CASTLE</speaker><content>Why would Ward be after a high school student?</content></utterance>
+<utterance uid="29-34"><speaker>BECKETT</speaker><content>I don’t know. But we’ve got to find him first.</content></utterance>
+<utterance uid="29-35"><speaker>CASTLE</speaker><content>Yeah, but no name and only these clues to go on? It could take days.</content></utterance>
+<utterance uid="29-36"><speaker>DOYLE</speaker><content>Hey, can I make a suggestion?  Ward. He was working off a photo of the letter. So perhaps the easier path is to ask, where’s the original? It’s bound to have the kid’s name and address.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>ESPOSITO</speaker><content>All right.</content></utterance>
+<utterance uid="30-2"><speaker>RYAN</speaker><content>Are you sure you’ve never seen the kid before?</content></utterance>
+<utterance uid="30-3"><speaker>ESPOSITO</speaker><content>That’s it.</content></utterance>
+<utterance uid="30-4"><speaker>ESPOSITO</speaker><content>From some kid named Paul Deschile.</content></utterance>
+<utterance uid="30-5"><speaker>RYAN</speaker><content>Wait a second. No. That’s not Deschile. Um … it’s Deschile. He wasn’t looking for ‘the child’, he was looking for ‘Deschile’. </content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>BECKETT</speaker><content>Who the hell is Paul Deschile?</content></utterance>
+<utterance uid="31-2"><speaker>RYAN</speaker><content>He’s a 21 year old student at Hudson getting his post-doc in theoretical physics.</content></utterance>
+<utterance uid="31-3"><speaker>BECKETT</speaker><content>All right, get him into protective custody.</content></utterance>
+<utterance uid="31-4"><speaker>RYAN</speaker><content>He’s on leave this semester. The university has no idea where he is. We’re still trying to look for his parents, but they moved out of state a couple years ago.</content></utterance>
+<utterance uid="31-5"><speaker>DOYLE</speaker><content>Detective, it’s him. Deschile!</content></utterance>
+<utterance uid="31-6"><speaker>CASTLE</speaker><content>You know him?</content></utterance>
+<utterance uid="31-7"><speaker>DOYLE</speaker><content>Of course I know him. Everyone knows him. Oh, man. If he’s killed –</content></utterance>
+<utterance uid="31-8"><speaker>BECKETT</speaker><content> Okay, I’ll call you back!  Doyle, sit down.</content></utterance>
+<utterance uid="31-9"><speaker>DOYLE</speaker><content>No wonder billions of people die.</content></utterance>
+<utterance uid="31-10"><speaker>CASTLE</speaker><content>Okay, who the hell is Paul Deschile?</content></utterance>
+<utterance uid="31-11"><speaker>DOYLE</speaker><content>The energy wars, all right? I told you about the other side. A group of fascists. They were worse than the Nazis. They were slaughtering people by the tens of thousands, okay? They were winning. Until Deschile. He and his team, they - they created an energy shield, okay? It was able to stop their weapons. It completely turned the tide.  Detective, listen to me! Ward is still out there, obviously fighting for the fascists. They're trying to win the war by rewriting history! And if he kills Deschile there will be no energy shield. And without that energy shield we lose that war! Ward’s going to kill Deschile and that is why billions of people die!</content></utterance>
+<utterance uid="31-12"><speaker>BECKETT</speaker><content>Okay, you know what? We don’t have time for this. Take him to holding, please?</content></utterance>
+<utterance uid="31-13"><speaker>DOYLE</speaker><content>Fine. We don’t have time, okay? You’re correct. Forget everything I said. Forget about time travel, forget about wars, none of that matters. All that matters is Deschile, you understand me? You keep him alive! He cannot die!</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>BECKETT</speaker><content>No, Deschile. Paul Deschile.  No wait, please don’t – don’t put me on hold.</content></utterance>
+<utterance uid="32-2"><speaker>CASTLE</speaker><content>Anything?</content></utterance>
+<utterance uid="32-3"><speaker>BECKETT</speaker><content>Esposito got ahold of his parents in Oregon. They think he’s staying with a friend in the city, which is who I’m holding for now.</content></utterance>
+<utterance uid="32-4"><speaker>CASTLE</speaker><content>You don’t think any of this could possibly be real, do you?</content></utterance>
+<utterance uid="32-5"><speaker>BECKETT</speaker><content>I don’t know, Castle But I have no intention of letting this kid die.  Yes, hi. This is Detective Kate Beckett, NYPD. I’m trying to get ahold of a Paul Deschile.  Where?  He’s at the planetarium.  Wait, just like you told what other guy? Who did you tell?</content></utterance>
+<utterance uid="32-6"><speaker>BECKETT</speaker><content>Ward knows.</content></utterance>
+<utterance uid="32-7"><speaker>CASTLE</speaker><content>The planetarium is all the way uptown. We’ll never get there in time.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>PLANETARIUM NARRATOR</speaker><content>The cosmos is vast and glorious. More wondrous than we can fathom. It takes our breath away and ignites our imagination. It is the essence of time itself, the past, the present, and the future. It’s an enigma seemingly impossible to grasp and yet, we can see its mysteries. We dare to reach out, to understand the swirling galaxies, the exploding stars …</content></utterance>
+<utterance uid="33-2"><speaker>ESPOSITO</speaker><content>Freeze!</content></utterance>
+<utterance uid="33-3"><speaker>ESPOSITO</speaker><content>Don’t even think about it.</content></utterance>
+<utterance uid="33-4"><speaker>RYAN</speaker><content>NYPD! Let me see your hands right now!</content></utterance>
+<utterance uid="33-5"><speaker>ESPOSITO</speaker><content>Knife!</content></utterance>
+<utterance uid="33-6"><speaker>RYAN</speaker><content>You okay, kid?</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>BECKETT</speaker><content>Why Wickfield? Why Deschile?</content></utterance>
+<utterance uid="34-2"><speaker>BECKETT</speaker><content>What were you hoping to accomplish?</content></utterance>
+<utterance uid="34-3"><speaker>BECKETT</speaker><content>Who is that man?  You ran from him at the power plant. Why?</content></utterance>
+<utterance uid="34-4"><speaker>BECKETT</speaker><content>Mr. Ward, there is no record of you before 2007. Where are you from?</content></utterance>
+<utterance uid="34-5"><speaker>BECKETT</speaker><content>Okay, Ward.</content></utterance>
+<utterance uid="34-6"><speaker>BECKETT</speaker><content>Whatever you thought you were doing, it’s over.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>CASTLE</speaker><content>What’d he say?</content></utterance>
+<utterance uid="35-2"><speaker>BECKETT</speaker><content>Nothing.</content></utterance>
+<utterance uid="35-3"><speaker>CASTLE</speaker><content>No apocalyptic visions? No nightmarish warnings of dire things to come?</content></utterance>
+<utterance uid="35-4"><speaker>BECKETT</speaker><content>Whatever delusions he has in his head, he is keeping them to himself.</content></utterance>
+<utterance uid="35-5"><speaker>CASTLE</speaker><content>Well, if nothing Doyle said was true, why else would Ward target Deschile?</content></utterance>
+<utterance uid="35-6"><speaker>ESPOSITO</speaker><content>I think we can answer that.</content></utterance>
+<utterance uid="35-7"><speaker>PAUL DESCHILE</speaker><content>I’m the one who alerted security to Ward’s behavior at the energy conference six years ago. They stopped him because of me.</content></utterance>
+<utterance uid="35-8"><speaker>ESPOSITO</speaker><content>It looks like this was all just about revenge.</content></utterance>
+<utterance uid="35-9"><speaker>PAUL</speaker><content>I’m just sorry it cost Dr. Wickfield his life. You know, the talk he gave at that conference rocked my world. And if it wasn’t for him I’d probably be doing something completely different with my life.</content></utterance>
+<utterance uid="35-10"><speaker>ESPOSITO</speaker><content>C’mon, man. I’ll walk you out.</content></utterance>
+<utterance uid="35-11"><speaker>BECKETT</speaker><content>So there is a simple explanation after all.</content></utterance>
+<utterance uid="35-12"><speaker>CASTLE</speaker><content>Yes. Now we know why Ward tried to bomb that conference. To kill Deschile. See, in the future when the famous Deschile were giving interviews he’d say that’s where it all started. Consequently Ward will know exactly where and when to find him.</content></utterance>
+<utterance uid="35-13"><speaker>BECKETT</speaker><content>You’re trying to drive me crazy, aren’t you?</content></utterance>
+<utterance uid="35-14"><speaker>CASTLE</speaker><content>Well, apparently I already do it - we end up with three kids.</content></utterance>
+<utterance uid="35-15"><speaker>DOYLE</speaker><content>Like to know their names?</content></utterance>
+<utterance uid="35-16"><speaker>CASTLE</speaker><content>Yes.</content></utterance>
+<utterance uid="35-17"><speaker>BECKETT</speaker><content>No.</content></utterance>
+<utterance uid="35-18"><speaker>BECKETT</speaker><content>Doyle? What are you doing out?</content></utterance>
+<utterance uid="35-19"><speaker>DOYLE</speaker><content>Well, you said I had a right to an attorney and he said you couldn’t keep me anymore.</content></utterance>
+<utterance uid="35-20"><speaker>BECKETT</speaker><content>What about your psych eval?</content></utterance>
+<utterance uid="35-21"><speaker>DOYLE</speaker><content>Oh, please. Are you kidding me? I passed that with flying colors. You should have heard the crazy stuff coming out of my mouth. Growing up in Denver, middle class family. Man, I haven’t lied that much years.</content></utterance>
+<utterance uid="35-22"><speaker>BECKETT</speaker><content>But I –</content></utterance>
+<utterance uid="35-23"><speaker>DOYLE</speaker><content>Now, now, Detective. Don’t be upset. Because of you billions of people are alive. Because of you future generations are safe.</content></utterance>
+<utterance uid="35-24"><speaker>BECKETT</speaker><content>I don’t care what you say, Doyle. There’s a connection between you and Ward and it has nothing to do with time travel. And I’m going to find out what it is.</content></utterance>
+<utterance uid="35-25"><speaker>DOYLE</speaker><content>Okay. Good luck. Because before yesterday I had never even met Ward.</content></utterance>
+<utterance uid="35-26"><speaker>RYAN</speaker><content>That’s not entirely true. I went back through Ward’s incarceration file.  Before his trial he spent two weeks in a psychiatric ward being evaluated by the state. In the next room was another patient, a John Doe. I had them pull his photo.</content></utterance>
+<utterance uid="35-27"><speaker>BECKETT</speaker><content> And there’s the connection.</content></utterance>
+<utterance uid="35-28"><speaker>DOYLE</speaker><content>No, no. That’s – that’s ridiculous. Because I have never, ever –  – oh, wow. That’s really clever.</content></utterance>
+<utterance uid="35-29"><speaker>CASTLE</speaker><content>What? What’s clever?</content></utterance>
+<utterance uid="35-30"><speaker>DOYLE</speaker><content>That’s me.  Right? But I haven’t done it yet.  Don’t you see? Now that they know where Ward is and where he’s going to be they’re going to send me back to make contact. Find out who he’s working for, if they’re planning anything else. It’s perfect.</content></utterance>
+<utterance uid="35-31"><speaker>DOYLE</speaker><content>Oh wow. I don’t have much time left. Um …  … see you in twenty years.</content></utterance>
+<utterance uid="35-32"><speaker>CASTLE</speaker><content> Is it just me or does that make sense?</content></utterance>
+<utterance uid="35-33"><speaker>RYAN</speaker><content>No, it’s just you.</content></utterance>
+<utterance uid="35-34"><speaker>CASTLE</speaker><content>Oh! He forgot his little doohickey there.</content></utterance>
+<utterance uid="35-35"><speaker>BECKETT</speaker><content>Hey. So what happened?</content></utterance>
+<utterance uid="35-36"><speaker>CASTLE</speaker><content>Um … missed him.</content></utterance>
+<utterance uid="35-37"><speaker>BECKETT</speaker><content>Um, you know what? After a case like this one I think a warm and cozy bath is in my future. Talk to you tonight?</content></utterance>
+<utterance uid="35-38"><speaker>CASTLE</speaker><content>Sounds good.</content></utterance>
+</scene>
+
+
+<scene id="36"><utterance uid="36-1"><speaker>CASTLE</speaker><content>You’re really doing this.</content></utterance>
+<utterance uid="36-2"><speaker>ALEXIS</speaker><content> I am. I know what you’re thinking. You’re thinking I’m making a huge mistake.</content></utterance>
+<utterance uid="36-3"><speaker>CASTLE</speaker><content>What if you are? This isn’t something you can go back and undo. Why don’t you wait a year, okay? Move into the dorms. I’m sure Pi can take care of himself. And if after a year you still want to move in together, I won’t say a word.</content></utterance>
+<utterance uid="36-4"><speaker>ALEXIS</speaker><content>Yes, you will. I don’t know how this is going to turn out, Dad. None of us do. But it’s my life. My future.  I have to find out for myself. Who are you always saying is the smart one in the family?</content></utterance>
+<utterance uid="36-5"><speaker>CASTLE</speaker><content> You.</content></utterance>
+<utterance uid="36-6"><speaker>ALEXIS</speaker><content>Dad, I know what I’m doing. It’ll be okay.</content></utterance>
+<utterance uid="36-7"><speaker>CASTLE</speaker><content>Too soon.</content></utterance>
+<utterance uid="36-8"><speaker>THE END</speaker><content>CASTLE</content></utterance>
+</scene>
+</script>

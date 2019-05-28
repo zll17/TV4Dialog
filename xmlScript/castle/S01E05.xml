@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>BECKETT</speaker><content>Beckett.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>MALE OFFICER</speaker><content>Would all workers please clear the construction site?</content></utterance>
+<utterance uid="2-2"><speaker>ESPOSITO</speaker><content>Why can't they find bodies between 9 and 5?</content></utterance>
+<utterance uid="2-3"><speaker>BECKETT</speaker><content>Well, early bird gets the collar.</content></utterance>
+<utterance uid="2-4"><speaker>ESPOSITO</speaker><content>Yeah.</content></utterance>
+<utterance uid="2-5"><speaker>ESPOSITO</speaker><content>He was here before I was.</content></utterance>
+<utterance uid="2-6"><speaker>CASTLE</speaker><content>Oh. Finally. You are here. You're gonna love this.</content></utterance>
+<utterance uid="2-7"><speaker>RYAN</speaker><content>Come on. Show's over. Active crime scene. We appreciate your cooperation.</content></utterance>
+<utterance uid="2-8"><speaker>CASTLE</speaker><content>Awesome, right? My first cold case. Come on. It's a little funny.</content></utterance>
+<utterance uid="2-9"><speaker>LANIE</speaker><content>Not so much funny as true. She's frozen solid.</content></utterance>
+<utterance uid="2-10"><speaker>BECKETT</speaker><content>What was the temperature last night?</content></utterance>
+<utterance uid="2-11"><speaker>RYAN</speaker><content>Mid-40s.</content></utterance>
+<utterance uid="2-12"><speaker>LANIE</speaker><content>It wasn't exposure.</content></utterance>
+<utterance uid="2-13"><speaker>ESPOSITO</speaker><content>Site's active. Boys tell me there's no way she was here last night.</content></utterance>
+<utterance uid="2-14"><speaker>BECKETT</speaker><content>She's melting.</content></utterance>
+<utterance uid="2-15"><speaker>CASTLE</speaker><content>Maybe we should be looking for ruby slippers.</content></utterance>
+<utterance uid="2-16"><speaker>BECKETT</speaker><content>Yeah, while you're at it, why don't you look for some flying monkeys? Maybe they left her here.  So what do you got for me?</content></utterance>
+<utterance uid="2-17"><speaker>LANIE</speaker><content>There are pieces of plastic on her body from the garment bag.</content></utterance>
+<utterance uid="2-18"><speaker>BECKETT</speaker><content>So she was inside the bag.</content></utterance>
+<utterance uid="2-19"><speaker>LANIE</speaker><content>Mmm-hmm. Other than that, it's gonna take a while for her to thaw. I can tell you, she hasn't been here long. Maybe a couple of hours.</content></utterance>
+<utterance uid="2-20"><speaker>BECKETT</speaker><content>What about security?</content></utterance>
+<utterance uid="2-21"><speaker>ESPOSITO</speaker><content>Chain link. A pair of bolt cutters took care of that.</content></utterance>
+<utterance uid="2-22"><speaker>RYAN</speaker><content>Looks like our guy was hoping she'd disappear into the concrete pour.</content></utterance>
+<utterance uid="2-23"><speaker>ESPOSITO</speaker><content>A few more feet, and she would've.</content></utterance>
+<utterance uid="2-24"><speaker>CASTLE</speaker><content>It's kind of odd, taking the trouble to freeze a body and then dumping it. We got two personality types working here. A killer who freezes a body is a keeper. He wants a souvenir. But a guy who dumps a body --</content></utterance>
+<utterance uid="2-25"><speaker>BECKETT</speaker><content>Doesn't want to be reminded of the crime. All right, I'm gonna go check out the fence.</content></utterance>
+<utterance uid="2-26"><speaker>ESPOSITO</speaker><content>Mm-hmm.</content></utterance>
+<utterance uid="2-27"><speaker>BECKETT</speaker><content>Get a close up of her face. I want to run her through missing persons.</content></utterance>
+<utterance uid="2-28"><speaker>CASTLE</speaker><content>Oh, cool. Like on the Discovery Channel, where you plug the photo into a facial recognition databases?</content></utterance>
+<utterance uid="2-29"><speaker>BECKETT</speaker><content>Yeah. Just like that.</content></utterance>
+<utterance uid="2-30"><speaker>CASTLE</speaker><content>Yes!</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>BECKETT</speaker><content>Welcome to the Department's official facial recognition database.</content></utterance>
+<utterance uid="3-2"><speaker>CASTLE</speaker><content>By hand? That's like life before TiVo.</content></utterance>
+<utterance uid="3-3"><speaker>ESPOSITO</speaker><content>Maybe you could download an "app" on that phone of yours. You could just...</content></utterance>
+<utterance uid="3-4"><speaker>CASTLE</speaker><content>There are a lot of missing people.</content></utterance>
+<utterance uid="3-5"><speaker>BECKETT</speaker><content>One way or another, we eventually find them. Some end up dead, some turn up in a double-wide with a</content></utterance>
+<utterance uid="3-6"><speaker>ESPOSITO</speaker><content>And some just don't turn up.</content></utterance>
+<utterance uid="3-7"><speaker>CASTLE</speaker><content>Dana Sullivan.</content></utterance>
+<utterance uid="3-8"><speaker>ESPOSITO</speaker><content>Mm-hmm. Her and her boyfriend leave a club. He's a couple steps behind her 'cause he gets a call on his cell phone. She turns a corner just a few seconds before he does. And when he comes around, she's gone. Street's totally empty. No traffic. No nothing. In a matter of three feet, she literally just disappeared.</content></utterance>
+<utterance uid="3-9"><speaker>CASTLE</speaker><content>People don't disappear off the face of the earth.</content></utterance>
+<utterance uid="3-10"><speaker>RYAN</speaker><content>Sure they do. Quantum physics, alien abductions, Schrödinger's cat. One minute, you're getting a</content></utterance>
+<utterance uid="3-11"><speaker>CASTLE</speaker><content>I don't buy it. There's got to be an explanation. A story that makes it all makes sense.</content></utterance>
+<utterance uid="3-12"><speaker>BECKETT</speaker><content>Okay, Castle. What's our Jane Doe's story?</content></utterance>
+<utterance uid="3-13"><speaker>CASTLE</speaker><content>Well, I don't know how it starts, but I know how it ends. Frozen at a construction site. So, flying monkeys aside, what's the first question? How did she get there?</content></utterance>
+<utterance uid="3-14"><speaker>RYAN</speaker><content>Considering she was frozen solid, she had to have been kept pretty close.</content></utterance>
+<utterance uid="3-15"><speaker>CASTLE</speaker><content>Not necessarily.</content></utterance>
+<utterance uid="3-16"><speaker>CASTLE</speaker><content>Here is the site. Her body might not have been kept as close as you might think. It takes a long time for a</content></utterance>
+<utterance uid="3-17"><speaker>RYAN</speaker><content>What? You, uh, freeze a body once for one of your books?</content></utterance>
+<utterance uid="3-18"><speaker>CASTLE</speaker><content>No. But I cooked a turkey for Thanksgiving. It was a twenty-eight pounder. It took all night to unfreeze.</content></utterance>
+<utterance uid="3-19"><speaker>BECKETT</speaker><content>She's a person, Castle. Not a turkey.</content></utterance>
+<utterance uid="3-20"><speaker>CASTLE</speaker><content>Just making a point.</content></utterance>
+<utterance uid="3-21"><speaker>BECKETT</speaker><content>Beckett.  Okay, I'm on my way.</content></utterance>
+<utterance uid="3-22"><speaker>BECKETT</speaker><content>Lanie's got an ID.</content></utterance>
+<utterance uid="3-23"><speaker>CASTLE</speaker><content>You'll take care of these?</content></utterance>
+<utterance uid="3-24"><speaker>ESPOSITO</speaker><content>Hey, Ryan, can you, uh... Thanks.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>LANIE</speaker><content>Melanie Cavanaugh, thirty-four at time of death. Turns out C.O.D. was blunt force trauma to her</content></utterance>
+<utterance uid="4-2"><speaker>BECKETT</speaker><content>How'd you get her ID?</content></utterance>
+<utterance uid="4-3"><speaker>LANIE</speaker><content>Her fingerprints were in the system.</content></utterance>
+<utterance uid="4-4"><speaker>BECKETT</speaker><content>For?</content></utterance>
+<utterance uid="4-5"><speaker>LANIE</speaker><content>Misdemeanor drug possession.</content></utterance>
+<utterance uid="4-6"><speaker>CASTLE</speaker><content>She doesn't look like a junkie.</content></utterance>
+<utterance uid="4-7"><speaker>LANIE</speaker><content>No. She's in pretty good shape, considering. But judging the lack of frost and tissue degeneration, I'd say wherever she was stored the temperature rarely varied.</content></utterance>
+<utterance uid="4-8"><speaker>CASTLE</speaker><content>Like a freezer.</content></utterance>
+<utterance uid="4-9"><speaker>LANIE</speaker><content>Freezer'd do the job.</content></utterance>
+<utterance uid="4-10"><speaker>BECKETT</speaker><content>How long has she been dead?</content></utterance>
+<utterance uid="4-11"><speaker>LANIE</speaker><content>Well, considering how long she's been like this, factoring decomposition, I'd say she probably was frozen within twenty-four hours of being killed.</content></utterance>
+<utterance uid="4-12"><speaker>BECKETT</speaker><content>What do you mean, "How long she's been like this?"</content></utterance>
+<utterance uid="4-13"><speaker>LANIE</speaker><content>According to the records I pulled, this woman's been missing for over five years.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>BECKETT</speaker><content>She had a troubled childhood, drug problems in her teens and twenties.</content></utterance>
+<utterance uid="5-2"><speaker>CASTLE</speaker><content>I know.</content></utterance>
+<utterance uid="5-3"><speaker>BECKETT</speaker><content>How do you know?</content></utterance>
+<utterance uid="5-4"><speaker>CASTLE</speaker><content>I read the case file. She kicked the habit. Met and married Samuel Cavanaugh. She worked in a restaurant. He managed a bank. They have two kids.</content></utterance>
+<utterance uid="5-5"><speaker>BECKETT</speaker><content>When did you read the case file?</content></utterance>
+<utterance uid="5-6"><speaker>CASTLE</speaker><content>That...</content></utterance>
+<utterance uid="5-7"><speaker>CASTLE</speaker><content>When you were in the little girls' room.</content></utterance>
+<utterance uid="5-8"><speaker>BECKETT</speaker><content>I was gone for like a minute.</content></utterance>
+<utterance uid="5-9"><speaker>CASTLE</speaker><content>Speed reader. Something I picked it up from my years stranded in the New York Public Library.</content></utterance>
+<utterance uid="5-10"><speaker>CASTLE</speaker><content>Would you like the Cliffs Notes or, in this case, Castle notes?</content></utterance>
+<utterance uid="5-11"><speaker>BECKETT</speaker><content>Castle, how do you know you didn't miss something important?</content></utterance>
+<utterance uid="5-12"><speaker>CASTLE</speaker><content>Like, after Melanie disappeared, her husband waited a day before he call the cops?</content></utterance>
+<utterance uid="5-13"><speaker>BECKETT</speaker><content>A day? That doesn't make any sense.</content></utterance>
+<utterance uid="5-14"><speaker>CASTLE</speaker><content>Until you get to the third paragraph. Before Melanie was married, she was what is now referred to as "a runaway bride."</content></utterance>
+<utterance uid="5-15"><speaker>BECKETT</speaker><content>According to her husband, she ran away a whole two weeks before their wedding day.</content></utterance>
+<utterance uid="5-16"><speaker>CASTLE</speaker><content>Mm-hmm. And then she came back. Three years happily ever after, she disappears again. Comes back. Lather-rinse-repeat three times. No indication of where she went.</content></utterance>
+<utterance uid="5-17"><speaker>BECKETT</speaker><content>Well, she must have had a reason for running away.</content></utterance>
+<utterance uid="5-18"><speaker>CASTLE</speaker><content>Hmm. I'm not judging her. Some people love the institution, hate the day-to-day.</content></utterance>
+<utterance uid="5-19"><speaker>BECKETT</speaker><content>Are you one of those people, Castle?</content></utterance>
+<utterance uid="5-20"><speaker>CASTLE</speaker><content>I guess I just haven't met the right girl.</content></utterance>
+<utterance uid="5-21"><speaker>CASTLE</speaker><content>So, that's why her husband didn't call the cops. Because she'd done it before. Seemed reasonable to the detective at the time.</content></utterance>
+<utterance uid="5-22"><speaker>BECKETT</speaker><content>There's no evidence of foul play, so he the detective just closed the case. Five years, and her husband thought she just ran away?</content></utterance>
+<utterance uid="5-23"><speaker>CASTLE</speaker><content>Guess it's time to tell him his runaway bride finally came home.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>ROGER</speaker><content>Who is it?</content></utterance>
+<utterance uid="6-2"><speaker>BECKETT</speaker><content>New York City Police Department.</content></utterance>
+<utterance uid="6-3"><speaker>ROGER</speaker><content>Can I help you?</content></utterance>
+<utterance uid="6-4"><speaker>BECKETT</speaker><content>Detective Beckett. Are you Samuel Cavanaugh?</content></utterance>
+<utterance uid="6-5"><speaker>ROGER</speaker><content>Who?</content></utterance>
+<utterance uid="6-6"><speaker>BECKETT</speaker><content>Samuel Cavanaugh. Our records indicate that he lives here.</content></utterance>
+<utterance uid="6-7"><speaker>ROGER</speaker><content>You must have the wrong apartment.</content></utterance>
+<utterance uid="6-8"><speaker>BECKETT</speaker><content>917?</content></utterance>
+<utterance uid="6-9"><speaker>ROGER</speaker><content>Yeah, but I live here. And my name's Roger, it's not Sam.</content></utterance>
+<utterance uid="6-10"><speaker>BECKETT</speaker><content>Do you know any Samuel Cavanaugh?</content></utterance>
+<utterance uid="6-11"><speaker>ROGER</speaker><content>No. What's this about?</content></utterance>
+<utterance uid="6-12"><speaker>CASTLE</speaker><content>How long have you lived here?</content></utterance>
+<utterance uid="6-13"><speaker>ROGER</speaker><content>About eight months.</content></utterance>
+<utterance uid="6-14"><speaker>CASTLE</speaker><content>Well, it's been five years. He could have moved.</content></utterance>
+<utterance uid="6-15"><speaker>ROGER</speaker><content>Well, hey, I hate to break it to you, but if you're looking for the guy who lived here before me, he didn't move. He was murdered.</content></utterance>
+<utterance uid="6-16"><speaker>CASTLE</speaker><content>Wait...</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>RYAN</speaker><content>Hey, Beckett.</content></utterance>
+<utterance uid="7-2"><speaker>BECKETT</speaker><content>Yeah?</content></utterance>
+<utterance uid="7-3"><speaker>ESPOSITO</speaker><content>Samuel Cavanaugh. Shot outside a grocery store about a year ago. Small caliber. Double tap to the chest. Wallet and valuables missing.</content></utterance>
+<utterance uid="7-4"><speaker>RYAN</speaker><content>Poor schlub's wife disappears. Four years later, he gets shot in a mugging.</content></utterance>
+<utterance uid="7-5"><speaker>ESPOSITO</speaker><content>Yeah. What are the odds?</content></utterance>
+<utterance uid="7-6"><speaker>CASTLE</speaker><content>Long, unless they're connected.</content></utterance>
+<utterance uid="7-7"><speaker>ESPOSITO</speaker><content>Well, four years between murders? One's a popsicle, one just got popped? How could they possibly be connected?</content></utterance>
+<utterance uid="7-8"><speaker>CASTLE</speaker><content>Maybe he and his wife got into something they couldn't get out of. Maybe something to do with a drug habit.</content></utterance>
+<utterance uid="7-9"><speaker>RYAN</speaker><content>So, some skell waits four years to finish the job?</content></utterance>
+<utterance uid="7-10"><speaker>CASTLE</speaker><content>Maybe he finally figured out what happened to his wife and was about to go to the police with it.</content></utterance>
+<utterance uid="7-11"><speaker>RYAN</speaker><content>I don't believe it.</content></utterance>
+<utterance uid="7-12"><speaker>CASTLE</speaker><content>Give me 250 pages, I bet I could make you.</content></utterance>
+<utterance uid="7-13"><speaker>BECKETT</speaker><content>We're solving a murder, Castle, not writing a book.</content></utterance>
+<utterance uid="7-14"><speaker>CASTLE</speaker><content>I could call it "A Chill Runs Through Her Veins."</content></utterance>
+<utterance uid="7-15"><speaker>ESPOSITO</speaker><content>Ooh. I like that.</content></utterance>
+<utterance uid="7-16"><speaker>CASTLE</speaker><content>"Bam" said the lady, another best-seller for me.</content></utterance>
+<utterance uid="7-17"><speaker>BECKETT</speaker><content>What happened to the kids?</content></utterance>
+<utterance uid="7-18"><speaker>ESPOSITO</speaker><content>Living with Melanie's parents up in White Plains.</content></utterance>
+<utterance uid="7-19"><speaker>BECKETT</speaker><content>Looks like I'm going to White Plains. Canvass the construction site. Someone must have seen something.</content></utterance>
+<utterance uid="7-20"><speaker>ESPOSITO</speaker><content>Yeah, the foreman said that, uh, they have a problem with the homeless at night. So, I figured I'd go down there later, try to catch them at the site.</content></utterance>
+<utterance uid="7-21"><speaker>CASTLE</speaker><content>Hmmm. Homeless, White Plains. Homeless, White Plains.</content></utterance>
+<utterance uid="7-22"><speaker>ESPOSITO</speaker><content>They're both kind of creepy.</content></utterance>
+<utterance uid="7-23"><speaker>ESPOSITO</speaker><content>Bye.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>BEN DAVIDSON</speaker><content>Did I scare you?</content></utterance>
+<utterance uid="8-2"><speaker>BECKETT</speaker><content>Mr. Davidson?</content></utterance>
+<utterance uid="8-3"><speaker>BEN DAVIDSON</speaker><content>Yes, ma'am, that's me.</content></utterance>
+<utterance uid="8-4"><speaker>BECKETT</speaker><content>I'm Detective Kate Beckett. Is there somewhere we could talk?</content></utterance>
+<utterance uid="8-5"><speaker>BEN DAVIDSON</speaker><content>Yes. Why don't we go inside? Girls, don't play in the street, okay? All right, Grandpa will be out in a minute.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>JULIE DAVIDSON</speaker><content>I-- I think we've both known for a while now that Melanie was not going to come home.</content></utterance>
+<utterance uid="9-2"><speaker>BECKETT</speaker><content>What do you remember about the days leading up to her disappearance?</content></utterance>
+<utterance uid="9-3"><speaker>BEN DAVIDSON</speaker><content>Well, uh, we talked to her a couple days before. My wife did, I mean.</content></utterance>
+<utterance uid="9-4"><speaker>JULIE DAVIDSON</speaker><content>Everything seemed fine.</content></utterance>
+<utterance uid="9-5"><speaker>BECKETT</speaker><content>She didn't indicate in any way that she was leaving?</content></utterance>
+<utterance uid="9-6"><speaker>JULIE DAVIDSON</speaker><content>No.</content></utterance>
+<utterance uid="9-7"><speaker>CASTLE</speaker><content>We're aware your daughter had some issues.</content></utterance>
+<utterance uid="9-8"><speaker>BEN DAVIDSON</speaker><content>They had nothing to do with what happened here.</content></utterance>
+<utterance uid="9-9"><speaker>CASTLE</speaker><content>How do you know?</content></utterance>
+<utterance uid="9-10"><speaker>BEN DAVIDSON</speaker><content>You know, now you sound like the cop who first had the case. Convinced she'd run away, convinced she was still on drugs...</content></utterance>
+<utterance uid="9-11"><speaker>BECKETT</speaker><content>But you didn't think that.</content></utterance>
+<utterance uid="9-12"><speaker>BEN DAVIDSON</speaker><content>Melanie wasn't the greatest of moms, but she loved her kids. She would have never left them.</content></utterance>
+<utterance uid="9-13"><speaker>BECKETT</speaker><content>What about her husband, Sam?</content></utterance>
+<utterance uid="9-14"><speaker>JULIE DAVIDSON</speaker><content>He thought it was drugs, too.</content></utterance>
+<utterance uid="9-15"><speaker>BEN DAVIDSON</speaker><content>You know he waited over a day before he reported her missing?</content></utterance>
+<utterance uid="9-16"><speaker>CASTLE</speaker><content>She had run off before.</content></utterance>
+<utterance uid="9-17"><speaker>BEN DAVIDSON</speaker><content>Look, I'm not gonna sit here and deny that. But if Sam thought our daughter was in trouble, why didn't he report her missing right away? Why didn't he call for help? Even if she'd gotten locked up, she'd have been better off than... Ah, what the hell's the difference? I mean, the-- the time to ask these questions was five years ago, but the cop who was on the case then didn't want to ask them!</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>CASTLE</speaker><content>Sounds like they were pretty unhappy with the original investigation.</content></utterance>
+<utterance uid="10-2"><speaker>BECKETT</speaker><content>Yeah, well, from where I stand, they had every reason to be.</content></utterance>
+<utterance uid="10-3"><speaker>CASTLE</speaker><content>The guy whose case it was, you know him?</content></utterance>
+<utterance uid="10-4"><speaker>BECKETT</speaker><content>No. Detective Sloan was before my time.</content></utterance>
+<utterance uid="10-5"><speaker>CASTLE</speaker><content>He still around?</content></utterance>
+<utterance uid="10-6"><speaker>BECKETT</speaker><content>Well, if you count being a Sheriff in Jersey, then yeah, he's still around.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>SHERIFF SLOAN</speaker><content>Melanie Cavanaugh. So, she was finally found after all these years, huh?</content></utterance>
+<utterance uid="11-2"><speaker>BECKETT</speaker><content>She wasn't found. Her body was.</content></utterance>
+<utterance uid="11-3"><speaker>SHERIFF SLOAN</speaker><content>Oh. Sorry to hear that. You now, from the moment I took the case, I figured it was gonna end bad.</content></utterance>
+<utterance uid="11-4"><speaker>BECKETT</speaker><content>Her parents led us to believe that you were pretty sure that she'd run off.</content></utterance>
+<utterance uid="11-5"><speaker>SHERIFF SLOAN</speaker><content>Her being found dead and her running off aren't exactly incompatible. Not with her history.</content></utterance>
+<utterance uid="11-6"><speaker>CASTLE</speaker><content>Her parents also believe your investigation never made it past her history.</content></utterance>
+<utterance uid="11-7"><speaker>SHERIFF SLOAN</speaker><content>I was on a missing persons, not a murder. You have a dead body. All I had was a woman with a drug habit and a history of, uh, disappearing.</content></utterance>
+<utterance uid="11-8"><speaker>BECKETT</speaker><content>And a husband who didn't report her missing for over a day.</content></utterance>
+<utterance uid="11-9"><speaker>SHERIFF SLOAN</speaker><content>Don't you dare play Monday morning quarterback with me. Look, sweetheart, he cooperated. He voluntarily allowed C.S.U. into their apartment. Anything I asked, he did.</content></utterance>
+<utterance uid="11-10"><speaker>CASTLE</speaker><content>Did you know he was murdered, too?</content></utterance>
+<utterance uid="11-11"><speaker>BECKETT</speaker><content>Gunned down on the street over a year ago.</content></utterance>
+<utterance uid="11-12"><speaker>SHERIFF SLOAN</speaker><content>Look, what do you want from me? We had reports of her in Philly with a meth head ex-boyfriend. I mean, it was what it was.</content></utterance>
+<utterance uid="11-13"><speaker>BECKETT</speaker><content>But you didn't even go down to check it out.</content></utterance>
+<utterance uid="11-14"><speaker>SHERIFF SLOAN</speaker><content>Didn't need to. Had reports.</content></utterance>
+<utterance uid="11-15"><speaker>BECKETT</speaker><content>Right.  From her husband's best friend, Charles Wyler.</content></utterance>
+<utterance uid="11-16"><speaker>SHERIFF SLOAN</speaker><content>So?</content></utterance>
+<utterance uid="11-17"><speaker>CASTLE</speaker><content>He's not exactly an impartial observer.</content></utterance>
+<utterance uid="11-18"><speaker>SHERIFF SLOAN</speaker><content>The guy owned his own business. He had a family. He was a war vet. I saw no reason to doubt his word.</content></utterance>
+<utterance uid="11-19"><speaker>CASTLE</speaker><content>Plus, Philly's a pretty long drive.</content></utterance>
+<utterance uid="11-20"><speaker>SHERIFF SLOAN</speaker><content>She was only missing back then.</content></utterance>
+<utterance uid="11-21"><speaker>BECKETT</speaker><content>No, Sheriff. She was already dead. You just didn't know it yet.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>CASTLE</speaker><content>I ever disappear, make sure this guy's not on my case.</content></utterance>
+<utterance uid="12-2"><speaker>BECKETT</speaker><content>I hate cops like him. Guys like him, things only make sense if they fit in a box. So they make them fit, and murderers go free.</content></utterance>
+<utterance uid="12-3"><speaker>CASTLE</speaker><content>That what happened to your dad?</content></utterance>
+<utterance uid="12-4"><speaker>BECKETT</speaker><content>My dad?</content></utterance>
+<utterance uid="12-5"><speaker>CASTLE</speaker><content>I noticed your watch.</content></utterance>
+<utterance uid="12-6"><speaker>CASTLE</speaker><content>It's your dad's, right? That's why you wear it?</content></utterance>
+<utterance uid="12-7"><speaker>BECKETT</speaker><content>Beckett.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>BECKETT</speaker><content>You find a witness?</content></utterance>
+<utterance uid="13-2"><speaker>ESPOSITO</speaker><content>Yeah. Homeless guy. A couple of bucks jogged his memory.</content></utterance>
+<utterance uid="13-3"><speaker>RYAN</speaker><content>Said he saw a dented yellow truck pull up to the site. Heavy-set guy pulls a large bag out of the back. When he comes back out, he doesn't have the bag anymore.</content></utterance>
+<utterance uid="13-4"><speaker>BECKETT</speaker><content>How'd you find this place?</content></utterance>
+<utterance uid="13-5"><speaker>ESPOSITO</speaker><content>Guy also remembered the word "storage" written on the side of the truck.</content></utterance>
+<utterance uid="13-6"><speaker>RYAN</speaker><content>We searched all the storage places on the West Side, found out this one uses yellow trucks.</content></utterance>
+<utterance uid="13-7"><speaker>ESPOSITO</speaker><content>Mm-hmm.</content></utterance>
+<utterance uid="13-8"><speaker>BECKETT</speaker><content>So, who owns the trucks?</content></utterance>
+<utterance uid="13-9"><speaker>RYAN</speaker><content>According to the DMV, Albert Bolland.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>ALBERT</speaker><content>What body? I don't know what you're talking about.</content></utterance>
+<utterance uid="14-2"><speaker>BECKETT</speaker><content>A witness saw someone driving one of your yellow trucks and dumping the body.</content></utterance>
+<utterance uid="14-3"><speaker>ALBERT</speaker><content>You're lying. No one saw.</content></utterance>
+<utterance uid="14-4"><speaker>CASTLE</speaker><content>Ouch. Wow. Maybe you should have tried denying it first.</content></utterance>
+<utterance uid="14-5"><speaker>BECKETT</speaker><content>Let me help you. Melanie Cavanaugh, mother of two. Wife of Sam Cavanaugh.</content></utterance>
+<utterance uid="14-6"><speaker>ALBERT</speaker><content>Okay, look. I dumped her. But I swear, I...</content></utterance>
+<utterance uid="14-7"><speaker>BECKETT</speaker><content>You didn't kill her, right?</content></utterance>
+<utterance uid="14-8"><speaker>ALBERT</speaker><content>That's right. I found her.</content></utterance>
+<utterance uid="14-9"><speaker>BECKETT</speaker><content>Uh huh.</content></utterance>
+<utterance uid="14-10"><speaker>ALBERT</speaker><content>I never even knew she was here.</content></utterance>
+<utterance uid="14-11"><speaker>CASTLE</speaker><content>What do you mean, "here"?</content></utterance>
+<utterance uid="14-12"><speaker>ALBERT</speaker><content>Sixth floor. Renters were in arrears. We usually give them three months, and then we cut the locks and we sell the belongings. Only this time, all I find is a freezer plugged into a light outlet -- which, by the way, is totally illegal.</content></utterance>
+<utterance uid="14-13"><speaker>BECKETT</speaker><content>You didn't think it was illegal to store a dead body in a freezer?</content></utterance>
+<utterance uid="14-14"><speaker>ALBERT</speaker><content>You think I knew? When I opened it up, I nearly had a heart attack.</content></utterance>
+<utterance uid="14-15"><speaker>BECKETT</speaker><content>You could have called the cops.</content></utterance>
+<utterance uid="14-16"><speaker>ALBERT</speaker><content>So I could make the front page of the Ledger? Yeah, that's good for business. What if it's a mob hit? I mean, I got a family.</content></utterance>
+<utterance uid="14-17"><speaker>BECKETT</speaker><content>So did she.</content></utterance>
+<utterance uid="14-18"><speaker>CASTLE</speaker><content>So, you find her. Next logical step, dump her at a construction site?</content></utterance>
+<utterance uid="14-19"><speaker>ALBERT</speaker><content>I know a guy who works over there. So, when I find the body, I figure that's the place, right?</content></utterance>
+<utterance uid="14-20"><speaker>BECKETT</speaker><content>Show us where you found her.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>BECKETT</speaker><content>Five years in there. Nobody deserves that. How'd they make payments for the unit? Check? Credit card?</content></utterance>
+<utterance uid="15-2"><speaker>ALBERT</speaker><content>Cash, every six months. But, like I said, they were three months overdue.</content></utterance>
+<utterance uid="15-3"><speaker>BECKETT</speaker><content>Puts the last payment at two months after her husband was killed.</content></utterance>
+<utterance uid="15-4"><speaker>CASTLE</speaker><content>Hard to make payments when you're dead.</content></utterance>
+<utterance uid="15-5"><speaker>BECKETT</speaker><content>Mm-hmm. That camera in your office - you got footage of the guy who made payments?</content></utterance>
+<utterance uid="15-6"><speaker>ALBERT</speaker><content>That was nine month ago. We keep maybe two weeks at a time.</content></utterance>
+<utterance uid="15-7"><speaker>BECKETT</speaker><content>Looks like Sloan was right. Sam Cavanaugh didn't have anything to do with it.</content></utterance>
+<utterance uid="15-8"><speaker>CASTLE</speaker><content>Well, if not Sam, then who?</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>ALEXIS</speaker><content>You know we have air conditioning?</content></utterance>
+<utterance uid="16-2"><speaker>CASTLE</speaker><content>Hmm. I'm just trying to figure out why someone would put a dead body in a freezer.</content></utterance>
+<utterance uid="16-3"><speaker>ALEXIS</speaker><content>Is this a Nikki Heat or a Detective Beckett question?</content></utterance>
+<utterance uid="16-4"><speaker>CASTLE</speaker><content>Beckett.</content></utterance>
+<utterance uid="16-5"><speaker>ALEXIS</speaker><content>That's right. The Nikki Heat thing was about incinerating a body in a self-cleaning oven.</content></utterance>
+<utterance uid="16-6"><speaker>CASTLE</speaker><content>Mm-hmm. I mean, you put things in a freezer to keep them for later, but once they're there, you rarely ever go back.</content></utterance>
+<utterance uid="16-7"><speaker>ALEXIS</speaker><content>If I was putting a body in a freezer it'd be because I was trying to hide it.</content></utterance>
+<utterance uid="16-8"><speaker>CASTLE</speaker><content>Until you stop paying for the storage space.</content></utterance>
+<utterance uid="16-9"><speaker>ALEXIS</speaker><content>Did I stop, or did something stop me?</content></utterance>
+<utterance uid="16-10"><speaker>CASTLE</speaker><content>It's family moments like these I will never forget.</content></utterance>
+<utterance uid="16-11"><speaker>ALEXIS</speaker><content>With a good therapist, hopefully, I will.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>BECKETT</speaker><content>Mr. Wyler, the detective investigating Melanie's disappearance said that you told him that she went to an ex-boyfriend in Philadelphia.</content></utterance>
+<utterance uid="17-2"><speaker>WYLER</speaker><content>I only told him what Sam told me.</content></utterance>
+<utterance uid="17-3"><speaker>BECKETT</speaker><content>Sam told you?</content></utterance>
+<utterance uid="17-4"><speaker>WYLER</speaker><content>It's where she went before the wedding and a few times after.</content></utterance>
+<utterance uid="17-5"><speaker>BECKETT</speaker><content>But you're not sure that's where she went.</content></utterance>
+<utterance uid="17-6"><speaker>WYLER</speaker><content>It's the only thing that made sense. Melanie was a good person, but Melanie was troubled. Sometimes, when things got hard, she'd go out and score, you know. Come home high, accuse Sam of ruining her life. He'd given her everything.</content></utterance>
+<utterance uid="17-7"><speaker>BECKETT</speaker><content>Do you remember the name of the boyfriend?</content></utterance>
+<utterance uid="17-8"><speaker>WYLER</speaker><content>Kevin Henson. If something happened to Melanie, he's the one who'd know what.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>BECKETT</speaker><content>Kevin Henson, Melanie's ex-boyfriend. He's serving a year for meth in South Jersey. He went in just after the last payment was made on the storage unit.</content></utterance>
+<utterance uid="18-2"><speaker>CASTLE</speaker><content>He stops payments, storage guy finds her body.</content></utterance>
+<utterance uid="18-3"><speaker>BECKETT</speaker><content>And he was also on the outside when her husband was whacked.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>HENSON</speaker><content>You ever been in love, Detective? Makes you do crazy things.</content></utterance>
+<utterance uid="19-2"><speaker>BECKETT</speaker><content>Like kill someone?</content></utterance>
+<utterance uid="19-3"><speaker>HENSON</speaker><content>Mel and I, when we were together, time just stopped. But even the first day, her and me, we both knew it was never gonna work. God knows her folks were never gonna let their little girl end up with a tatted-up addict. But sometimes, see... sometimes when we were alone together? Sometimes we almost believed.</content></utterance>
+<utterance uid="19-4"><speaker>CASTLE</speaker><content>She was going to leave Sam. That's why she came to see you.</content></utterance>
+<utterance uid="19-5"><speaker>HENSON</speaker><content>She found out he was having an affair. She thought he was gonna leave her and get custody of the kids, you know, 'cause of the drugs. She wanted me to go with her. Take the kids, just disappear.</content></utterance>
+<utterance uid="19-6"><speaker>BECKETT</speaker><content>So, what'd you do?</content></utterance>
+<utterance uid="19-7"><speaker>HENSON</speaker><content>Put her on a bus.</content></utterance>
+<utterance uid="19-8"><speaker>CASTLE</speaker><content>You sent her away?</content></utterance>
+<utterance uid="19-9"><speaker>HENSON</speaker><content>What she wanted, I couldn't give her. Checked into rehab the next day. I thought if I could get clean... That's where I was when she disappeared. Time I got out, she was dead.</content></utterance>
+<utterance uid="19-10"><speaker>BECKETT</speaker><content>How could you be sure she was dead?</content></utterance>
+<utterance uid="19-11"><speaker>HENSON</speaker><content>She stopped calling. If she was alive, she would have called.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>CASTLE</speaker><content>Well, an affair certainly explains a lot. Sam kills Melanie, or he and his lover kill Melanie together.</content></utterance>
+<utterance uid="20-2"><speaker>BECKETT</speaker><content>Well, then who kills Sam?</content></utterance>
+<utterance uid="20-3"><speaker>CASTLE</speaker><content>The lover. When Sam backs out after all she's done for him. It's not like she could go to the police if he broke his promise.</content></utterance>
+<utterance uid="20-4"><speaker>BECKETT</speaker><content>How do you come up with these things, Castle?</content></utterance>
+<utterance uid="20-5"><speaker>CASTLE</speaker><content>I did not come up with this one. They did.</content></utterance>
+<utterance uid="20-6"><speaker>BECKETT</speaker><content>Okay, you speak "guy." If Sam had a lover, would his best friend know about it?</content></utterance>
+<utterance uid="20-7"><speaker>CASTLE</speaker><content>Yes.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>WYLER</speaker><content>Detective.</content></utterance>
+<utterance uid="21-2"><speaker>BECKETT</speaker><content>You lied to us, Mr. Wyler.</content></utterance>
+<utterance uid="21-3"><speaker>WYLER</speaker><content>Excuse me?</content></utterance>
+<utterance uid="21-4"><speaker>CASTLE</speaker><content>You don't think maybe it's relevant your buddy Sam had an affair about the time Melanie disappeared?</content></utterance>
+<utterance uid="21-5"><speaker>WYLER</speaker><content>That was a long time ago.</content></utterance>
+<utterance uid="21-6"><speaker>BECKETT</speaker><content>And Melanie was murdered a long time ago. What's the point in dragging everyone through the mud? Haven't their kids been through enough? Don't they deserve some peace?</content></utterance>
+<utterance uid="21-7"><speaker>BECKETT</speaker><content>What they deserve is to know what happened to their mother.</content></utterance>
+<utterance uid="21-8"><speaker>WYLER</speaker><content>Elizabeth Forte. Elizabeth Forte is her name. She worked with Sam at his bank.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>BECKETT</speaker><content>Mrs. Forte, I'm Detective Beckett. This is Rick Castle.</content></utterance>
+<utterance uid="22-2"><speaker>ELIZABETH</speaker><content>Why am I here?</content></utterance>
+<utterance uid="22-3"><speaker>BECKETT</speaker><content>Does the name Samuel Cavanaugh ring a bell?</content></utterance>
+<utterance uid="22-4"><speaker>ELIZABETH</speaker><content>What about him?</content></utterance>
+<utterance uid="22-5"><speaker>BECKETT</speaker><content>We found the body of his wife, Melanie. From the looks of it, she was killed somewhere around the time the two of you were having an affair.</content></utterance>
+<utterance uid="22-6"><speaker>ELIZABETH</speaker><content>I'm afraid I don't know what you mean.</content></utterance>
+<utterance uid="22-7"><speaker>BECKETT</speaker><content>Do you really want me to start digging around in your life, Ms. Forte? Because that's exactly what I will do. I'll go through your old phone records, your credit card statements. I'll even talk to your husband if I have to.</content></utterance>
+<utterance uid="22-8"><speaker>ELIZABETH</speaker><content>Please. Please don't do that. Gary doesn't know anything about it.</content></utterance>
+<utterance uid="22-9"><speaker>CASTLE</speaker><content>Just walk us through what you know.</content></utterance>
+<utterance uid="22-10"><speaker>ELIZABETH</speaker><content>I met Sam when I got transferred to the downtown branch. He was in new accounts. We were both pretty unhappy at the time.</content></utterance>
+<utterance uid="22-11"><speaker>BECKETT</speaker><content>How long was the affair?</content></utterance>
+<utterance uid="22-12"><speaker>ELIZABETH</speaker><content>Not long. Six months.</content></utterance>
+<utterance uid="22-13"><speaker>CASTLE</speaker><content>Why did it end?</content></utterance>
+<utterance uid="22-14"><speaker>ELIZABETH</speaker><content>I realized I loved my husband.</content></utterance>
+<utterance uid="22-15"><speaker>CASTLE</speaker><content>Please. No one ends an affair because they realize they're still in love. They end an affair because they're scared. Scared of taking it to the next level, scared of being found out, scared of ruining their life. So, tell us, Elizabeth, what were you scared of?</content></utterance>
+<utterance uid="22-16"><speaker>ELIZABETH</speaker><content>Him. I was scared of Sam.</content></utterance>
+<utterance uid="22-17"><speaker>BECKETT</speaker><content>Why?</content></utterance>
+<utterance uid="22-18"><speaker>ELIZABETH</speaker><content>He started to ask me what I would do if he wasn't with his wife, if she wasn't in the picture anymore.</content></utterance>
+<utterance uid="22-19"><speaker>BECKETT</speaker><content>And when was that?</content></utterance>
+<utterance uid="22-20"><speaker>ELIZABETH</speaker><content>A few weeks before she disappeared. When I found out she was missing, I broke things off. He became angry. It got so bad that I had to transfer to another branch.</content></utterance>
+<utterance uid="22-21"><speaker>BECKETT</speaker><content>Y-- . I'm sorry. You had to, uh... Five years, Mrs. Forte. Five whole years and you never came forward.</content></utterance>
+<utterance uid="22-22"><speaker>ELIZABETH</speaker><content>What's it matter if Sam killed Melanie? He's dead. They're both dead. What's it matter anymore?</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>BECKETT</speaker><content>How'd you do it, Sam?</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>ALEXIS</speaker><content>Ha-ha!</content></utterance>
+<utterance uid="24-2"><speaker>CASTLE</speaker><content>Run Rebel, but you'll never defeat the forces of Voltar.</content></utterance>
+<utterance uid="24-3"><speaker>ALEXIS</speaker><content>Death to Voltar! Death to Voltarians!</content></utterance>
+<utterance uid="24-4"><speaker>CASTLE</speaker><content>I sense fear in you.</content></utterance>
+<utterance uid="24-5"><speaker>ALEXIS</speaker><content>Ha! You sense nothing!</content></utterance>
+<utterance uid="24-6"><speaker>MARTHA</speaker><content>Has anyone seen my purse?</content></utterance>
+<utterance uid="24-7"><speaker>CASTLE</speaker><content>Mom. We are totally doing battle on the field of honor.</content></utterance>
+<utterance uid="24-8"><speaker>MARTHA</speaker><content>How old are you?</content></utterance>
+<utterance uid="24-9"><speaker>CASTLE</speaker><content>Old enough to afford the top-of-the line laser tag.</content></utterance>
+<utterance uid="24-10"><speaker>ALEXIS</speaker><content>Ha!</content></utterance>
+<utterance uid="24-11"><speaker>ALEXIS</speaker><content>Muahahahaha!</content></utterance>
+<utterance uid="24-12"><speaker>CASTLE</speaker><content>I'm dead! Mom! Now Voltar will never rule the omniverse.</content></utterance>
+<utterance uid="24-13"><speaker>MARTHA</speaker><content>Well...</content></utterance>
+<utterance uid="24-14"><speaker>CASTLE</speaker><content>Someone order food?</content></utterance>
+<utterance uid="24-15"><speaker>CASTLE</speaker><content>Better check this out.</content></utterance>
+<utterance uid="24-16"><speaker>BECKETT</speaker><content>Hi?</content></utterance>
+<utterance uid="24-17"><speaker>CASTLE</speaker><content>Hi.</content></utterance>
+<utterance uid="24-18"><speaker>ALEXIS</speaker><content>Who is it?</content></utterance>
+<utterance uid="24-19"><speaker>CASTLE</speaker><content>Detective Beckett.</content></utterance>
+<utterance uid="24-20"><speaker>MARTHA</speaker><content>Darling, are we entertaining?</content></utterance>
+<utterance uid="24-21"><speaker>CASTLE</speaker><content>Um...</content></utterance>
+<utterance uid="24-22"><speaker>ALEXIS</speaker><content>Dad!</content></utterance>
+<utterance uid="24-23"><speaker>CASTLE</speaker><content>Yeah?</content></utterance>
+<utterance uid="24-24"><speaker>ALEXIS</speaker><content>Manners!</content></utterance>
+<utterance uid="24-25"><speaker>CASTLE</speaker><content>Right!</content></utterance>
+<utterance uid="24-26"><speaker>CASTLE</speaker><content>Come on in. Please. Right. Enter. Welcome.</content></utterance>
+<utterance uid="24-27"><speaker>ALEXIS</speaker><content>To our house.</content></utterance>
+<utterance uid="24-28"><speaker>BECKETT</speaker><content>Thank you.</content></utterance>
+<utterance uid="24-29"><speaker>CASTLE</speaker><content>You bet.</content></utterance>
+<utterance uid="24-30"><speaker>CASTLE</speaker><content>You, um... You remember my mother, Martha, and Alexis, of course.</content></utterance>
+<utterance uid="24-31"><speaker>ALEXIS</speaker><content>Hi.</content></utterance>
+<utterance uid="24-32"><speaker>BECKETT</speaker><content>Yes. Hello.</content></utterance>
+<utterance uid="24-33"><speaker>CASTLE</speaker><content>Can I make you a drink?</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>BECKETT</speaker><content>Wow. I feel like Alfred in the Batcave for the first time.</content></utterance>
+<utterance uid="25-2"><speaker>CASTLE</speaker><content>Hmm. Batman fan. It figures.</content></utterance>
+<utterance uid="25-3"><speaker>BECKETT</speaker><content>Why?</content></utterance>
+<utterance uid="25-4"><speaker>CASTLE</speaker><content>Similar origin stories. Loss of a loved one leads to a life of fighting crime.</content></utterance>
+<utterance uid="25-5"><speaker>BECKETT</speaker><content>Yes, well, you are the multi-millionaire crime fighter.</content></utterance>
+<utterance uid="25-6"><speaker>CASTLE</speaker><content>Yeah.</content></utterance>
+<utterance uid="25-7"><speaker>CASTLE</speaker><content>That's, uh, where I outline my books.</content></utterance>
+<utterance uid="25-8"><speaker>BECKETT</speaker><content>It's funny. Looks a lot like our murder board.</content></utterance>
+<utterance uid="25-9"><speaker>CASTLE</speaker><content>Yeah, except mine's fake.</content></utterance>
+<utterance uid="25-10"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="25-11"><speaker>CASTLE</speaker><content>Something wrong?</content></utterance>
+<utterance uid="25-12"><speaker>BECKETT</speaker><content>I can't find it.</content></utterance>
+<utterance uid="25-13"><speaker>CASTLE</speaker><content>Find what?</content></utterance>
+<utterance uid="25-14"><speaker>BECKETT</speaker><content>The answer.</content></utterance>
+<utterance uid="25-15"><speaker>CASTLE</speaker><content>It was Sam. Everything fits. It's a good ending.</content></utterance>
+<utterance uid="25-16"><speaker>BECKETT</speaker><content>Yeah, but without proof, it's just a theory. And that family, those kids, they need more than just a theory. They need to know. I need to know.</content></utterance>
+<utterance uid="25-17"><speaker>CASTLE</speaker><content>Well, you have an ending. You want the rest, you need to work backwards. You need to finish the story. You have an ending. You have your killer. You just have to put it all together with the facts at hand.</content></utterance>
+<utterance uid="25-18"><speaker>BECKETT</speaker><content>The facts?</content></utterance>
+<utterance uid="25-19"><speaker>CASTLE</speaker><content>Fact - they had two small children.</content></utterance>
+<utterance uid="25-20"><speaker>BECKETT</speaker><content>So?</content></utterance>
+<utterance uid="25-21"><speaker>CASTLE</speaker><content>Based on police statements, they didn't have a babysitter. With him at work, she would have had to have been with the kids the day she disappeared.</content></utterance>
+<utterance uid="25-22"><speaker>BECKETT</speaker><content>But Sam said that she left later that night.</content></utterance>
+<utterance uid="25-23"><speaker>CASTLE</speaker><content>Which the doorman was never able to corroborate.</content></utterance>
+<utterance uid="25-24"><speaker>BECKETT</speaker><content>So, if she was there, and she never left, then...</content></utterance>
+<utterance uid="25-25"><speaker>CASTLE</speaker><content>Then she was murdered in the apartment.</content></utterance>
+<utterance uid="25-26"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="25-27"><speaker>CASTLE</speaker><content>Another fact - he lived in Manhattan.</content></utterance>
+<utterance uid="25-28"><speaker>BECKETT</speaker><content>And, like most people in the city, he didn't own a car.</content></utterance>
+<utterance uid="25-29"><speaker>CASTLE</speaker><content>So, what is a good husband to do, living in Manhattan, with his wife's body? He can't leave it in the apartment. He can't walk out the lobby with it. So the only question is...</content></utterance>
+<utterance uid="25-30"><speaker>BECKETT</speaker><content>How did he get the body to the storage unit?</content></utterance>
+<utterance uid="25-31"><speaker>CASTLE</speaker><content>He... He could... No.</content></utterance>
+<utterance uid="25-32"><speaker>CASTLE</speaker><content>You know what helps?</content></utterance>
+<utterance uid="25-33"><speaker>BECKETT</speaker><content>Yeah?</content></utterance>
+<utterance uid="25-34"><speaker>CASTLE</speaker><content>Sometimes, when I'm trying to figure out how a character of mine does something, I will walk</content></utterance>
+<utterance uid="25-35"><speaker>BECKETT</speaker><content>Castle.</content></utterance>
+<utterance uid="25-36"><speaker>CASTLE</speaker><content>Point is, you want to get into a killer's head, go to where the killer was and see what problems he had to face. Field trip?</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>ROGER</speaker><content>They told me he was shot in a mugging. And now you're telling me, he was killed here, in my apartment?</content></utterance>
+<utterance uid="26-2"><speaker>CASTLE</speaker><content>Not him. His wife.</content></utterance>
+<utterance uid="26-3"><speaker>ROGER</speaker><content>His wife? What kind of family was this?</content></utterance>
+<utterance uid="26-4"><speaker>CASTLE</speaker><content>All right. So, you and I are married.</content></utterance>
+<utterance uid="26-5"><speaker>BECKETT</speaker><content>We are not married.</content></utterance>
+<utterance uid="26-6"><speaker>CASTLE</speaker><content>Relax. It's just pretend.</content></utterance>
+<utterance uid="26-7"><speaker>BECKETT</speaker><content>I don't want to pretend.</content></utterance>
+<utterance uid="26-8"><speaker>CASTLE</speaker><content>Scared you'll like it?</content></utterance>
+<utterance uid="26-9"><speaker>BECKETT</speaker><content>Okay. If we're married, I want a divorce.</content></utterance>
+<utterance uid="26-10"><speaker>ROGER</speaker><content>Are you two like this all the time?</content></utterance>
+<utterance uid="26-11"><speaker>CASTLE</speaker><content>All right. We're not married, but they were. Let's say the doorman's right. Melanie gets home about four o'clock.</content></utterance>
+<utterance uid="26-12"><speaker>BECKETT</speaker><content>She'd have to make dinner for the kids.</content></utterance>
+<utterance uid="26-13"><speaker>CASTLE</speaker><content>Then Sam comes home.</content></utterance>
+<utterance uid="26-14"><speaker>BECKETT</speaker><content>Banker's hours. Around six o'clock.</content></utterance>
+<utterance uid="26-15"><speaker>CASTLE</speaker><content>Figure, kids have already eaten.</content></utterance>
+<utterance uid="26-16"><speaker>BECKETT</speaker><content>So, they're what? Um... Watching TV in the bedroom.</content></utterance>
+<utterance uid="26-17"><speaker>ROGER</speaker><content>In my bedroom?</content></utterance>
+<utterance uid="26-18"><speaker>CASTLE</speaker><content>Shh. We're on a roll.</content></utterance>
+<utterance uid="26-19"><speaker>BECKETT</speaker><content>They have a fight.</content></utterance>
+<utterance uid="26-20"><speaker>CASTLE</speaker><content>About the affair.</content></utterance>
+<utterance uid="26-21"><speaker>BECKETT</speaker><content>About Philadelphia.</content></utterance>
+<utterance uid="26-22"><speaker>CASTLE</speaker><content>Things get heated.</content></utterance>
+<utterance uid="26-23"><speaker>BECKETT</speaker><content>And she turns her head...</content></utterance>
+<utterance uid="26-24"><speaker>CASTLE</speaker><content>He whacks her with something.</content></utterance>
+<utterance uid="26-25"><speaker>BECKETT</speaker><content>A pot.</content></utterance>
+<utterance uid="26-26"><speaker>BECKETT</speaker><content>Or a pan.</content></utterance>
+<utterance uid="26-27"><speaker>CASTLE</speaker><content>Bam! Fractures her skull. It's over.</content></utterance>
+<utterance uid="26-28"><speaker>BECKETT</speaker><content>Except the kids are still in the bedroom. He's got to figure out a way of getting her out of the apartment without them seeing.</content></utterance>
+<utterance uid="26-29"><speaker>CASTLE</speaker><content>Hallway bathroom.</content></utterance>
+<utterance uid="26-30"><speaker>CASTLE</speaker><content>He needed to buy time.</content></utterance>
+<utterance uid="26-31"><speaker>BECKETT</speaker><content>Okay. So he, um... He puts the body in the tub, closes the door.</content></utterance>
+<utterance uid="26-32"><speaker>ROGER</speaker><content>Wait...</content></utterance>
+<utterance uid="26-33"><speaker>BECKETT</speaker><content>And... tells the kids that Mom went to the store.</content></utterance>
+<utterance uid="26-34"><speaker>CASTLE</speaker><content>Which, according to the case file, the doorman was never able to substantiate.</content></utterance>
+<utterance uid="26-35"><speaker>BECKETT</speaker><content>Okay. So, no car. How does he get the body out of the apartment?</content></utterance>
+<utterance uid="26-36"><speaker>ROGER</speaker><content>Maybe he hailed a cab.</content></utterance>
+<utterance uid="26-37"><speaker>CASTLE</speaker><content>Yeah. Maybe the cabbie and the doorman helped him stuff the body in the trunk. How much do you tip for that these days?</content></utterance>
+<utterance uid="26-38"><speaker>CASTLE</speaker><content>The doorman.</content></utterance>
+<utterance uid="26-39"><speaker>BECKETT</speaker><content>Castle, I'm joking.</content></utterance>
+<utterance uid="26-40"><speaker>CASTLE</speaker><content>What if the body was already in the freezer when he took it out of the apartment?</content></utterance>
+<utterance uid="26-41"><speaker>ROGER</speaker><content>Freezer? He'd have needed a truck.</content></utterance>
+<utterance uid="26-42"><speaker>CASTLE</speaker><content>In my building, if you have something picked up or delivered, you have to sign for it.</content></utterance>
+<utterance uid="26-43"><speaker>ROGER</speaker><content>Yeah. Here, too. Delivery that big, you have to sign the ledger.</content></utterance>
+<utterance uid="26-44"><speaker>BECKETT</speaker><content>The ledger?</content></utterance>
+<utterance uid="26-45"><speaker>ROGER</speaker><content>The doorman's ledger downstairs.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>DELORIS MARSH</speaker><content>Yeah, that's my name.</content></utterance>
+<utterance uid="27-2"><speaker>BECKETT</speaker><content>I know it was five years ago, Mrs. Marsh, but the only delivery that day was to your apartment. If you remember anything at all about the delivery...</content></utterance>
+<utterance uid="27-3"><speaker>DELORIS</speaker><content>I-- I remember I had to go downstairs and sort everything out.</content></utterance>
+<utterance uid="27-4"><speaker>BECKETT</speaker><content>What do you mean, "Sort everything out"?</content></utterance>
+<utterance uid="27-5"><speaker>DELORIS</speaker><content>I told the doorman I never ordered a freezer. But the guy brought it on up. He loaded it on the freight elevator while I was talking to the doorman.</content></utterance>
+<utterance uid="27-6"><speaker>BECKETT</speaker><content>So, what happened when you were downstairs?</content></utterance>
+<utterance uid="27-7"><speaker>DELORIS</speaker><content>I told the doorman they got the wrong apartment again, and then, by the time I got back upstairs, the guy was gone. Does this have anything to do with that missing woman?</content></utterance>
+<utterance uid="27-8"><speaker>BECKETT</speaker><content>Yeah, it does.</content></utterance>
+<utterance uid="27-9"><speaker>DELORIS</speaker><content>Yeah, 'cause I already told the other cop.</content></utterance>
+<utterance uid="27-10"><speaker>BECKETT</speaker><content>Detective Sloan?</content></utterance>
+<utterance uid="27-11"><speaker>DELORIS</speaker><content>I don't know his name, but I told him everything, same as you.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>CASTLE</speaker><content>I don't get it. If Sloan had that woman's report, why didn't he just follow up?</content></utterance>
+<utterance uid="28-2"><speaker>BECKETT</speaker><content>He wasn't looking for the story. He'd already written it.</content></utterance>
+<utterance uid="28-3"><speaker>CASTLE</speaker><content>That's the same kind of truck we saw outside Charles Wyler's store.</content></utterance>
+<utterance uid="28-4"><speaker>BECKETT</speaker><content>He must have a contract with them.</content></utterance>
+<utterance uid="28-5"><speaker>CASTLE</speaker><content>If you wanted some help with some heavy lifting, who would you call?</content></utterance>
+<utterance uid="28-6"><speaker>BECKETT</speaker><content>Your best friend.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>BECKETT</speaker><content>We can trace the rental of the delivery truck to you, Mr. Wyler. If you want, I can bring the lady you delivered the freezer to in to identify you.</content></utterance>
+<utterance uid="29-2"><speaker>WYLER</speaker><content>Look, I had nothing to do with what happened to Melanie.</content></utterance>
+<utterance uid="29-3"><speaker>CASTLE</speaker><content>You've lied about everything else, why not about this?</content></utterance>
+<utterance uid="29-4"><speaker>WYLER</speaker><content>I never had any reason to hurt her.</content></utterance>
+<utterance uid="29-5"><speaker>BECKETT</speaker><content>But Sam did, right? I mean, she kept going back to her ex-boyfriend. How much can a guy take?</content></utterance>
+<utterance uid="29-6"><speaker>WYLER</speaker><content>He called me that night. He said he needed me to come over right away. When I got there, the kids were asleep and Melanie was in the tub. In a garment bag. He said she came at him, and he just snapped.</content></utterance>
+<utterance uid="29-7"><speaker>CASTLE</speaker><content>Here's an idea: instead of killing her, why not just get a divorce?</content></utterance>
+<utterance uid="29-8"><speaker>WYLER</speaker><content>You don't think I know how wrong this was?</content></utterance>
+<utterance uid="29-9"><speaker>CASTLE</speaker><content>Why did you take the risk? Why did you move that body?</content></utterance>
+<utterance uid="29-10"><speaker>WYLER</speaker><content>Because he made a very bad mistake. And what about the kids? Their mom i s dead. If he goes to prison...</content></utterance>
+<utterance uid="29-11"><speaker>BECKETT</speaker><content>So, you arranged for the truck.</content></utterance>
+<utterance uid="29-12"><speaker>WYLER</speaker><content>He said it could never be traced back to him. That's why we sent the freezer to the old lady. That's why I rented out the storage space. Because we knew the cops would look at Sam.</content></utterance>
+<utterance uid="29-13"><speaker>BECKETT</speaker><content>You made the payments?</content></utterance>
+<utterance uid="29-14"><speaker>WYLER</speaker><content>Sam couldn't take any chances. He'd give me the cash, and I'd stop by twice a year.</content></utterance>
+<utterance uid="29-15"><speaker>CASTLE</speaker><content>For five years?</content></utterance>
+<utterance uid="29-16"><speaker>WYLER</speaker><content>Seemed a lot easier than moving her.</content></utterance>
+<utterance uid="29-17"><speaker>BECKETT</speaker><content>Why did you stop paying?</content></utterance>
+<utterance uid="29-18"><speaker>WYLER</speaker><content>Look, I'm truly sorry about what happened to Melanie. But what was I supposed to do? Keep paying for the rest of my life?</content></utterance>
+<utterance uid="29-19"><speaker>BECKETT</speaker><content>The DA and I will make sure of that, Mr. Wyler.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>CASTLE</speaker><content>You can say it. Pretty cold. Ironic that such a selfish act ultimately revealed the truth.</content></utterance>
+<utterance uid="30-2"><speaker>BECKETT</speaker><content>There were people who knew the truth all along. They just chose not to come forward.</content></utterance>
+<utterance uid="30-3"><speaker>BECKETT</speaker><content>I'm going to go talk to Melanie's parents. Let them know how this shook out. You want to come?</content></utterance>
+<utterance uid="30-4"><speaker>CASTLE</speaker><content>The woman with the freezer delivery told us she talked to a cop.</content></utterance>
+<utterance uid="30-5"><speaker>BECKETT</speaker><content>Yeah. Sloan.</content></utterance>
+<utterance uid="30-6"><speaker>CASTLE</speaker><content>Only he didn't list her name in his report.</content></utterance>
+<utterance uid="30-7"><speaker>BECKETT</speaker><content>He didn't feel that it was important. After all, he didn't believe he was looking at a murder.</content></utterance>
+<utterance uid="30-8"><speaker>CASTLE</speaker><content>Right. So, if you're not investigating a murder, why would you talk to the neighbor about a freezer delivery?</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>DELORIS</speaker><content>This must be some freezer.</content></utterance>
+<utterance uid="31-2"><speaker>BECKETT</speaker><content>You mentioned a police officer, Mrs. Marsh. I know it's been five years, but do...</content></utterance>
+<utterance uid="31-3"><speaker>DELORIS</speaker><content>I never said it was five years ago.</content></utterance>
+<utterance uid="31-4"><speaker>CASTLE</speaker><content>When did he come see you?</content></utterance>
+<utterance uid="31-5"><speaker>DELORIS</speaker><content>Last year, sometime. I remember thinking, "Why is this cop asking me questions about a freezer I never ordered?"</content></utterance>
+<utterance uid="31-6"><speaker>BECKETT</speaker><content>Do you remember anything about the man who came to see you?</content></utterance>
+<utterance uid="31-7"><speaker>DELORIS</speaker><content>Uh, he was older.</content></utterance>
+<utterance uid="31-8"><speaker>BECKETT</speaker><content>Uniform?</content></utterance>
+<utterance uid="31-9"><speaker>DELORIS</speaker><content>No. Plain clothes. Like you. He had grey hair, and he walked with a limp.</content></utterance>
+<utterance uid="31-10"><speaker>CASTLE</speaker><content>Ben Davidson.</content></utterance>
+<utterance uid="31-11"><speaker>BECKETT</speaker><content>Melanie's dad.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>CASTLE</speaker><content>You could just leave it like this. Sam's dead. The Captain's happy. Those kids look pretty happy.</content></utterance>
+<utterance uid="32-2"><speaker>BECKETT</speaker><content>That's the difference between a novel and the real world, Castle. A cop doesn't get to decide how the story ends.</content></utterance>
+<utterance uid="32-3"><speaker>BEN DAVIDSON</speaker><content>Detective Beckett.</content></utterance>
+<utterance uid="32-4"><speaker>BECKETT</speaker><content>Sir, I'm gonna have to take you with me down to the station.</content></utterance>
+<utterance uid="32-5"><speaker>JULIE DAVIDSON</speaker><content>Who is it, honey?</content></utterance>
+<utterance uid="32-6"><speaker>JULIE DAVIDSON</speaker><content>What is it, Ben?</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>BEN DAVIDSON</speaker><content>So, I'm here because I questioned a woman about a freezer?</content></utterance>
+<utterance uid="33-2"><speaker>CASTLE</speaker><content>Not any freezer, Mr. Davidson. The freezer that your daughter's body was stored in.</content></utterance>
+<utterance uid="33-3"><speaker>BEN DAVIDSON</speaker><content>For the moment, let's... Let's assume what you say is true. What's the charge?</content></utterance>
+<utterance uid="33-4"><speaker>BECKETT</speaker><content>If Mrs. Marsh's answer led to Sam's death, then the charge would be murder.</content></utterance>
+<utterance uid="33-5"><speaker>BEN DAVIDSON</speaker><content>I kept going over everything Sam said, everything he claimed happened that night, until I came to the same conclusion that you both apparently did: that Melanie never left her apartment alive. Mrs. Marsh's answers merely confirmed what I already knew.</content></utterance>
+<utterance uid="33-6"><speaker>BECKETT</speaker><content>That your son-in-law was a killer.</content></utterance>
+<utterance uid="33-7"><speaker>CASTLE</speaker><content>If you had figured out what Sam had done, why not just go to the police? He would have gone to prison for the rest of his life.</content></utterance>
+<utterance uid="33-8"><speaker>BEN DAVIDSON</speaker><content>If he'd been convicted. They didn't have a body at the time, remember? His lawyers would have put Melanie on trial, not him.</content></utterance>
+<utterance uid="33-9"><speaker>BECKETT</speaker><content>So you took matters into your own hands.</content></utterance>
+<utterance uid="33-10"><speaker>BEN DAVIDSON</speaker><content>Well, you could certainly understand how a father might want to. How he might follow his daughter's murderer one dark night, when he was sure no other people would be around. How he might confront him with a gun he'd brought back from the war. Might even promise forgiveness in exchange for the truth. And, hearing his admission, be overcome with rage. Every time he brought the girls to see us, I watched a little piece of my wife die. A visit from your grandkids should be life-affirming, not a reminder of how your only child was murdered.</content></utterance>
+<utterance uid="33-11"><speaker>BECKETT</speaker><content>Killing him wasn't the answer.</content></utterance>
+<utterance uid="33-12"><speaker>BEN DAVIDSON</speaker><content>I never said I killed him. I said a father might be justified. Police told me Sam was shot in a robbery. And, without evidence, there would be little chance his killer would ever be brought to justice. So I guess we'll find out if that's really true. I'd like to see a-- a lawyer, if I could.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>CASTLE</speaker><content>No, sweetie, I just wanted to make sure I said good night.  You got it. Strawberry happy face pancakes on me. Mwah. Later.</content></utterance>
+<utterance uid="34-2"><speaker>CASTLE</speaker><content>Alexis missed me.</content></utterance>
+<utterance uid="34-3"><speaker>BECKETT</speaker><content>How did you know?</content></utterance>
+<utterance uid="34-4"><speaker>CASTLE</speaker><content>Spidey-sense.</content></utterance>
+<utterance uid="34-5"><speaker>BECKETT</speaker><content>Hmm. By the way, it was my mother, not my father.</content></utterance>
+<utterance uid="34-6"><speaker>BECKETT</speaker><content>We were supposed to go to dinner together - my mom, my dad, and I, and she was gonna meet us at the restaurant, but she never showed. Two hours later, we went home, and there was a detective waiting for us. Detective Raglan. They found her body. She had been stabbed.</content></utterance>
+<utterance uid="34-7"><speaker>CASTLE</speaker><content>A robbery?</content></utterance>
+<utterance uid="34-8"><speaker>BECKETT</speaker><content>No. She still had her money and purse and jewelry. And it wasn't a sexual assault, either. They attributed it to gang violence. Random wayward event. So, just like in Melanie's case, they couldn't think outside the box. So, they just tried to package it up nicely. And the killer was never caught.</content></utterance>
+<utterance uid="34-9"><speaker>CASTLE</speaker><content>Why do you wear the watch?</content></utterance>
+<utterance uid="34-10"><speaker>BECKETT</speaker><content>My dad took her death hard. He's sober now. Five years. So, this is for the life that I saved. And...</content></utterance>
+<utterance uid="34-11"><speaker>BECKETT</speaker><content>...this is for the life that I lost.</content></utterance>
+<utterance uid="34-12"><speaker>BECKETT</speaker><content>So, I guess your Nikki Heat has a backstory now, Castle.</content></utterance>
+<utterance uid="34-13"><speaker>CASTLE</speaker><content>I don't know, um... I did kind of like the hooker-by-day cop-by-night thing. But, uh, I guess a heavy emotional angle could work, too.</content></utterance>
+<utterance uid="34-14"><speaker>BECKETT</speaker><content>Well, don't bewilder your audiences with substance on my account, Castle.</content></utterance>
+<utterance uid="34-15"><speaker>CASTLE</speaker><content>Until tomorrow, Detective.</content></utterance>
+<utterance uid="34-16"><speaker>BECKETT</speaker><content>You can't just say "night?"</content></utterance>
+<utterance uid="34-17"><speaker>CASTLE</speaker><content>I'm a writer. "Night" is boring. "Until tomorrow" is more hopeful.</content></utterance>
+<utterance uid="34-18"><speaker>BECKETT</speaker><content>Yeah. Well, I'm a cop. Night.</content></utterance>
+<utterance uid="34-19"><speaker>CASTLE</speaker><content>Night.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>BECKETT</speaker><content>Hi, Dad.</content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>ESPOSITO</speaker><content>Remember, this never happened. I was never here.</content></utterance>
+<utterance uid="36-2"><speaker>CASTLE</speaker><content>You have my word. Thanks.</content></utterance>
+<utterance uid="36-3"><speaker>ESPOSITO</speaker><content>If you tell her I did this, I'll make you bleed.</content></utterance>
+<utterance uid="36-4"><speaker>CASTLE</speaker><content>Understood.</content></utterance>
+<utterance uid="36-5"><speaker>ESPOSITO</speaker><content>Good luck.</content></utterance>
+<utterance uid="36-6"><speaker>Note</speaker><content>Some of the transcript descriptions are based off of these scripts, which are possibly early drafts of the episodes.</content></utterance>
+</scene>
+</script>

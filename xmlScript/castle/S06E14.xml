@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>LOLA</speaker><content>Did you see that tunic Professor Jablonski was wearing yesterday in Advanced Draping?</content></utterance>
+<utterance uid="1-2"><speaker>JUSTIN</speaker><content>I know. It was very ‘sad cat lady meets David Bowie’.</content></utterance>
+<utterance uid="1-3"><speaker>LOLA</speaker><content>This is what it’s come to. Dumpster diving to find fabric for our midterm haute couture project.</content></utterance>
+<utterance uid="1-4"><speaker>JUSTIN</speaker><content>Well, you know what they say; one man’s trash is another man’s –</content></utterance>
+<utterance uid="1-5"><speaker>LOLA</speaker><content>I think I found something.</content></utterance>
+<utterance uid="1-6"><speaker>JUSTIN</speaker><content>Me too!  It’s stuck.</content></utterance>
+<utterance uid="1-7"><speaker>LOLA</speaker><content>That’s because we’re both tugging on it. Let go.</content></utterance>
+<utterance uid="1-8"><speaker>JUSTIN</speaker><content>I had it first.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>MARTHA RODGERS</speaker><content>Oh, this fabric is just to die for.  The lace, the décolletage … this would look stunning on you. Just stunning.</content></utterance>
+<utterance uid="2-2"><speaker>KATE BECKETT</speaker><content>Uh, you know, I think I –</content></utterance>
+<utterance uid="2-3"><speaker>RICHARD CASTLE</speaker><content>Mother, what are you trying to force on my lovely fiancée?</content></utterance>
+<utterance uid="2-4"><speaker>MARTHA</speaker><content>No, no, no, no, no. I am just trying to expose Katherine to the glorious world of wedding magazines.</content></utterance>
+<utterance uid="2-5"><speaker>BECKETT</speaker><content>They are all very girly, with a lot of gauzy photos of love-struck brides looking off into the distance.</content></utterance>
+<utterance uid="2-6"><speaker>CASTLE</speaker><content>Perhaps they’re contemplating the fifty percent divorce rate?</content></utterance>
+<utterance uid="2-7"><speaker>MARTHA</speaker><content>You know what? You need to get beyond the fairytale treacle aspect of these magazines and see them for what they are: a source of ideas as you plan your wedding.</content></utterance>
+<utterance uid="2-8"><speaker>CASTLE</speaker><content>Yeah. Like this place. </content></utterance>
+<utterance uid="2-9"><speaker>BECKETT</speaker><content>The Cordova House? Uh …  “A landmark Spanish Revival mansion with an elegant carriage house exterior.”</content></utterance>
+<utterance uid="2-10"><speaker>CASTLE</speaker><content>It was built at the turn of the century. “… remains an enduring legacy of architectural beauty in the heart of Manhattan.”</content></utterance>
+<utterance uid="2-11"><speaker>MARTHA</speaker><content>Ah ha. I remember the Cordova House. It was like a cultural venue for the arts in the 70s. I think I went to a party there. Of course, it was the 70s, so I can’t be sure …</content></utterance>
+<utterance uid="2-12"><speaker>BECKETT</speaker><content>This says it’s been refurbished. And they’ve started to book weddings.</content></utterance>
+<utterance uid="2-13"><speaker>CASTLE</speaker><content>It’s gorgeous.</content></utterance>
+<utterance uid="2-14"><speaker>BECKETT</speaker><content>I love it.</content></utterance>
+<utterance uid="2-15"><speaker>CASTLE</speaker><content>Could it be that we’ve stumbled upon a venue we actually agree on?</content></utterance>
+<utterance uid="2-16"><speaker>BECKETT</speaker><content>Yeah! I mean, I’m good with it. Are you?</content></utterance>
+<utterance uid="2-17"><speaker>MARTHA</speaker><content>You’re welcome.</content></utterance>
+<utterance uid="2-18"><speaker>CASTLE</speaker><content>Yeah, thank you.</content></utterance>
+<utterance uid="2-19"><speaker>BECKETT</speaker><content>Yeah, thank you. Sorry.</content></utterance>
+<utterance uid="2-20"><speaker>CASTLE</speaker><content>I’m going to make some inquiries right now.</content></utterance>
+<utterance uid="2-21"><speaker>BECKETT</speaker><content>Uh … you’re going to have to do it while we’re working a case.</content></utterance>
+</scene>
+
+<scene id="3"><utterance uid="3-1"><speaker>CASTLE</speaker><content> Okay, thank you. I appreciate it.  All right, apparently we weren’t the only ones to read that article. The event planner at the Cordova House said they’ve been swamped with calls.</content></utterance>
+<utterance uid="3-2"><speaker>BECKETT</speaker><content>Okay, when’s their next available date?</content></utterance>
+<utterance uid="3-3"><speaker>CASTLE</speaker><content>She says she’s going to call me back.</content></utterance>
+<utterance uid="3-4"><speaker>BECKETT</speaker><content>Hey, Espo. What do we got?</content></utterance>
+<utterance uid="3-5"><speaker>JAVIER ESPOSITO</speaker><content>A body found by two fashion students dumpster diving for fabric. The victim’s name is Ella Hayes, she’s 26. According to her driver’s license she’s got an apartment in Brooklyn.</content></utterance>
+<utterance uid="3-6"><speaker>CASTLE</speaker><content>What’s she doing down here in the garment district?</content></utterance>
+<utterance uid="3-7"><speaker>ESPOSITO</speaker><content>Could be something work related. Her business card says that she works for Modern Fashion. She’s an assistant to the editor in chief.</content></utterance>
+<utterance uid="3-8"><speaker>BECKETT</speaker><content>Yeah, that would be Matilda King.</content></utterance>
+<utterance uid="3-9"><speaker>ESPOSITO</speaker><content>Okay.</content></utterance>
+<utterance uid="3-10"><speaker>CASTLE</speaker><content>Seriously? You’ve never heard of Matilda King?</content></utterance>
+<utterance uid="3-11"><speaker>ESPOSITO</speaker><content>I’m betting that most real men haven’t.</content></utterance>
+<utterance uid="3-12"><speaker>CASTLE</speaker><content>Yes. If by real you mean uninformed.</content></utterance>
+<utterance uid="3-13"><speaker>ESPOSITO</speaker><content>Whatever.</content></utterance>
+<utterance uid="3-14"><speaker>CASTLE</speaker><content>Matilda King is a legend in the fashion industry.</content></utterance>
+<utterance uid="3-15"><speaker>BECKETT</speaker><content>Or infamous. Depends on your point of view.</content></utterance>
+<utterance uid="3-16"><speaker>CASTLE</speaker><content>Yes, former assistants of hers have written books about how tough she is. A dragon lady that chews people up and spits them out.</content></utterance>
+<utterance uid="3-17"><speaker>ESPOSITO</speaker><content>Does she also strangle them? Because that’s how Lanie said our vic died.</content></utterance>
+<utterance uid="3-18"><speaker>BECKETT</speaker><content>Hey Lanie.</content></utterance>
+<utterance uid="3-19"><speaker>LANIE PARISH</speaker><content>Hey. So the murder weapon was a scarf, a sash, or something.</content></utterance>
+<utterance uid="3-20"><speaker>BECKETT</speaker><content>Okay, when did this happen?</content></utterance>
+<utterance uid="3-21"><speaker>LANIE</speaker><content>Based on lividity, between 12 and 2AM. I also recovered some blue hairs left on her neck by the attacker.</content></utterance>
+<utterance uid="3-22"><speaker>CASTLE</speaker><content>Blue hairs. So she was killed by a little old lady. Or – Katy Perry.</content></utterance>
+<utterance uid="3-23"><speaker>LANIE</speaker><content>Animal hairs that were dyed blue, Castle.</content></utterance>
+<utterance uid="3-24"><speaker>CASTLE</speaker><content>Or … a Dr. Seuss character.</content></utterance>
+<utterance uid="3-25"><speaker>BECKETT</speaker><content>I don’t recall any of them being homicidal.</content></utterance>
+<utterance uid="3-26"><speaker>CASTLE</speaker><content>That’s true. I need a new theory.</content></utterance>
+<utterance uid="3-27"><speaker>BECKETT</speaker><content>Well, I’ve got one. Our killer was strong and he or she was able to lift the body into the dumpster. Espo, can you get uniforms to canvass the area for any witnesses? Castle and I’ll go to her work, you and Ryan head up to her place. See if there’s anything there that’ll indicate why she was here last night.</content></utterance>
+<utterance uid="3-28"><speaker>ESPOSITO</speaker><content>Right on.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>LILLIAN</speaker><content>Ella and I went to Parson’s together. And then we’ve been roommates for the past 2 years. I still can’t believe this.</content></utterance>
+<utterance uid="4-2"><speaker>ESPOSITO</speaker><content>When was the last time you saw her?</content></utterance>
+<utterance uid="4-3"><speaker>LILLIAN</speaker><content>Um … yesterday morning. She was up at five like always. And then out the door to get Matilda’s coffee and cranberry scone on her way to the office.</content></utterance>
+<utterance uid="4-4"><speaker>ESPOSITO</speaker><content>What about after work? Did you see her then?</content></utterance>
+<utterance uid="4-5"><speaker>LILLIAN</speaker><content>Uh, no. I’m a buyer at Saks, so I don’t get home until late.</content></utterance>
+<utterance uid="4-6"><speaker>KEVIN RYAN</speaker><content>Did Ella have a boyfriend or a relationship?</content></utterance>
+<utterance uid="4-7"><speaker>LILLIAN</speaker><content>No. She was on call for Matilda 24/7 so she didn’t have time for relationships.  Or for the one thing that she really wanted to do.</content></utterance>
+<utterance uid="4-8"><speaker>RYAN</speaker><content>Which is what?</content></utterance>
+<utterance uid="4-9"><speaker>LILLIAN</speaker><content>Design.  She hoped working at Modern Fashion would open doors for her.</content></utterance>
+<utterance uid="4-10"><speaker>ESPOSITO</speaker><content>Was Ella having any problems that you know of?</content></utterance>
+<utterance uid="4-11"><speaker>LILLIAN</speaker><content>Um .. she had been stressed lately, a little more than usual. I asked her; she said it was work, but she didn’t go into details.</content></utterance>
+<utterance uid="4-12"><speaker>RYAN</speaker><content>Lillian, if you don’t mind, I’d like to have an officer come by and take your statement.</content></utterance>
+<utterance uid="4-13"><speaker>LILLIAN</speaker><content>Of course. Anything I can do to help.</content></utterance>
+<utterance uid="4-14"><speaker>LILLIAN</speaker><content>Oh, we don’t get cell reception in here. You can use my landline if you like.</content></utterance>
+<utterance uid="4-15"><speaker>RYAN</speaker><content>Thanks.</content></utterance>
+<utterance uid="4-16"><speaker>ESPOSITO</speaker><content>Here’s my card. If you can remember anything else please give me a call, okay?</content></utterance>
+<utterance uid="4-17"><speaker>LILLIAN</speaker><content> Yeah. Thank you.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>BECKETT</speaker><content>Well, this is it. The big leagues for anyone who wants to work in fashion.</content></utterance>
+<utterance uid="5-2"><speaker>CASTLE</speaker><content>Wow. Apparently you have to be a total hottie just to work here. And I’m saying that as a completely detached, soon to be married observer.</content></utterance>
+<utterance uid="5-3"><speaker>BECKETT</speaker><content>It’s okay, Castle. Stare all you want.</content></utterance>
+<utterance uid="5-4"><speaker>CASTLE</speaker><content>Really?</content></utterance>
+<utterance uid="5-5"><speaker>BECKETT</speaker><content>Actually, no. But it’s kind of hard not to. I mean, Matilda only hires people that fit the magazine’s brand. You have to look the part.</content></utterance>
+<utterance uid="5-6"><speaker>CASTLE</speaker><content>You seem to know a lot about Matilda King.</content></utterance>
+<utterance uid="5-7"><speaker>BECKETT</speaker><content>Yeah well, I picked up a thing or two.  Hi. We need to speak with Matilda King.</content></utterance>
+<utterance uid="5-8"><speaker>CARRIE</speaker><content>Do you have an appointment?</content></utterance>
+<utterance uid="5-9"><speaker>CASTLE</speaker><content>Oh, I think you missed the part about the NYPD.</content></utterance>
+<utterance uid="5-10"><speaker>CARRIE</speaker><content>Please. I just took over this desk this morning. She’s going to freak out if I add you to the schedule. Do you have any idea what happened to the last assistant?</content></utterance>
+<utterance uid="5-11"><speaker>BECKETT</speaker><content>Yes. She’s dead.</content></utterance>
+<utterance uid="5-12"><speaker>CARRIE</speaker><content>Dead? What do you mean?</content></utterance>
+<utterance uid="5-13"><speaker>MATILDA KING</speaker><content> No, no, no, no, no.</content></utterance>
+<utterance uid="5-14"><speaker>CARRIE</speaker><content>Oh God, here she comes.</content></utterance>
+<utterance uid="5-15"><speaker>MATILDA</speaker><content>I won’t take no for an answer. You must join us on the yacht. Giorgio will show his new collection. Gordon Ramsay is cooking, Lady Gaga is performing, pushing the boundaries of style, no doubt in the wrong direction.  So let me know.</content></utterance>
+<utterance uid="5-16"><speaker>MATILDA</speaker><content>New assistant.</content></utterance>
+<utterance uid="5-17"><speaker>CARRIE</speaker><content>It’s Carrie.</content></utterance>
+<utterance uid="5-18"><speaker>MATILDA</speaker><content>I’ll learn your name when you’ve earned it.  Here.</content></utterance>
+<utterance uid="5-19"><speaker>CARRIE</speaker><content>These are your messages. And Julian Bruckner is waiting in your office.</content></utterance>
+<utterance uid="5-20"><speaker>MATILDA</speaker><content>And who is this?</content></utterance>
+<utterance uid="5-21"><speaker>BECKETT</speaker><content>Uh, NYPD. We need to ask you a few questions, Ms. King.</content></utterance>
+<utterance uid="5-22"><speaker>MATILDA</speaker><content>Kate Beckett. I never could forget those cheekbones.</content></utterance>
+<utterance uid="5-23"><speaker>CASTLE</speaker><content>Uh … wait, you two know each other?</content></utterance>
+<utterance uid="5-24"><speaker>BECKETT</speaker><content>Yeah.  Yeah. When I was a model for about 15 minutes.</content></utterance>
+<utterance uid="5-25"><speaker>CASTLE</speaker><content> You modeled for Modern Fashion?</content></utterance>
+<utterance uid="5-26"><speaker>MATILDA</speaker><content>I offered her a spread in the January ’99 issue. Nicole Kidman was on the cover.  And you passed. To date you’re the only person to tell me no.  I’m wall to wall. We’ll have to reschedule.</content></utterance>
+<utterance uid="5-27"><speaker>CASTLE</speaker><content>Uh … get ready to be told no again.</content></utterance>
+<utterance uid="5-28"><speaker>BECKETT</speaker><content>We need to ask you a few questions about your assistant, Ella Hayes. It cannot wait.</content></utterance>
+<utterance uid="5-29"><speaker>MATILDA</speaker><content>We’ll talk in my office.  Hold my calls. By the way, Ella is my former assistant.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>MATILDA</speaker><content>Be right with you, Julian.</content></utterance>
+<utterance uid="6-2"><speaker>BECKETT</speaker><content>So what do you mean by former?</content></utterance>
+<utterance uid="6-3"><speaker>MATILDA</speaker><content>I fired her yesterday afternoon, after she made a scheduling mistake and I showed up to a board meeting late. And that was after her mistake last week, when I kept the new owner of our magazine waiting for 45 minutes.</content></utterance>
+<utterance uid="6-4"><speaker>JULIAN BRUCKNER</speaker><content>Matilda, have you seen the proofs of the Fab Five photoshoot? They are divine.</content></utterance>
+<utterance uid="6-5"><speaker>MATILDA</speaker><content>They better be, Julian. So far everything you’ve submitted has been rather pedestrian.</content></utterance>
+<utterance uid="6-6"><speaker>JULIAN</speaker><content> These designers are barely out of diapers.</content></utterance>
+<utterance uid="6-7"><speaker>BECKETT</speaker><content>Uh, excuse me. We’re investigating a murder.</content></utterance>
+<utterance uid="6-8"><speaker>MATILDA</speaker><content>A murder? Of whom?</content></utterance>
+<utterance uid="6-9"><speaker>CASTLE</speaker><content>Your former assistant, Ella.</content></utterance>
+<utterance uid="6-10"><speaker>JULIAN</speaker><content>Ella – Ella’s dead? How?</content></utterance>
+<utterance uid="6-11"><speaker>CASTLE</speaker><content>That’s what we’re trying to figure out. Now, do you know if she had any problems?</content></utterance>
+<utterance uid="6-12"><speaker>JULIAN</speaker><content>You don’t think this had anything to do with that incident with Grace?</content></utterance>
+<utterance uid="6-13"><speaker>BECKETT</speaker><content>What incident?</content></utterance>
+<utterance uid="6-14"><speaker>CASTLE</speaker><content>And who’s Grace?</content></utterance>
+<utterance uid="6-15"><speaker>MATILDA</speaker><content>Grace is my other assistant, whom I fired because she allowed the scheduling mistakes to happen.</content></utterance>
+<utterance uid="6-16"><speaker>BECKETT</speaker><content>And what was the incident?</content></utterance>
+<utterance uid="6-17"><speaker>JULIAN</speaker><content>Well, apparently yesterday, when Ella and Grace were escorted out of the building by security, they literally got into a brawl. Right in the middle of a photoshoot. The photographer, Serge, had to break it up.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>SERGE</speaker><content>Yeah, they really went at it. I mean, it was a full on catfight. It was actually kind of sexy.</content></utterance>
+<utterance uid="7-2"><speaker>BECKETT</speaker><content>What was the fight about?</content></utterance>
+<utterance uid="7-3"><speaker>SERGE</speaker><content>It was about the job, okay? I overheard Grace blame Ella for getting her fired.</content></utterance>
+<utterance uid="7-4"><speaker>YUMI</speaker><content>Serge, how long will this take? I’m up against a deadline to finish my design.</content></utterance>
+<utterance uid="7-5"><speaker>SERGE</speaker><content>You’ll be here as long as it takes to make Matilda happy.</content></utterance>
+<utterance uid="7-6"><speaker>SERGE</speaker><content> The mantra we all live by.</content></utterance>
+<utterance uid="7-7"><speaker>BECKETT</speaker><content>Do you remember any other details about the fight?</content></utterance>
+<utterance uid="7-8"><speaker>SERGE</speaker><content>I can do better than that. I can show you some of it. I was shooting at the time and got a few frames with them in the background.</content></utterance>
+<utterance uid="7-9"><speaker>SERGE</speaker><content>There. Check it out.</content></utterance>
+<utterance uid="7-10"><speaker>CASTLE</speaker><content>Can you zoom in on that?</content></utterance>
+<utterance uid="7-11"><speaker>SERGE</speaker><content>Sure.</content></utterance>
+<utterance uid="7-12"><speaker>CASTLE</speaker><content>Check out Grace’s scarf.</content></utterance>
+<utterance uid="7-13"><speaker>BECKETT</speaker><content>Lanie said she found blue hairs on Ella’s neck from being strangled.</content></utterance>
+<utterance uid="7-14"><speaker>CASTLE</speaker><content>Looks like Grace was dressed to kill.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>GRACE</speaker><content>Look, I grew up reading Modern Fashion. Working for Matilda King? That was my dream. But when Matilda fires someone, people remember. Which means my career in fashion is pretty much done, thanks to Ella.</content></utterance>
+<utterance uid="8-2"><speaker>BECKETT</speaker><content>Because you believed it was her fault you got fired.</content></utterance>
+<utterance uid="8-3"><speaker>GRACE</speaker><content>It was her fault. She started making mistakes because she was so busy sucking up to designers like Yumi and showing off her sketches. And I paid the price.</content></utterance>
+<utterance uid="8-4"><speaker>BECKETT</speaker><content>Which is why you killed her.</content></utterance>
+<utterance uid="8-5"><speaker>GRACE</speaker><content>What are you even taking about? We got into a fight. That was it.</content></utterance>
+<utterance uid="8-6"><speaker>BECKETT</speaker><content>Okay, okay. Explain this.  This blue alpaca scarf was found at your apartment. It’s an exact match to the hairs on Ella’s neck after she was strangled.</content></utterance>
+<utterance uid="8-7"><speaker>GRACE</speaker><content>Come on. Other people have that scarf.</content></utterance>
+<utterance uid="8-8"><speaker>BECKETT</speaker><content>Yeah, but you’re the only one with motive.</content></utterance>
+<utterance uid="8-9"><speaker>GRACE</speaker><content>It was the Christmas gift from Modern Fashion. We all got the scarf. Maybe Ella was wearing hers and someone choked her with it.</content></utterance>
+<utterance uid="8-10"><speaker>BECKETT</speaker><content>Where were you between 12 and 2AM, Grace?</content></utterance>
+<utterance uid="8-11"><speaker>GRACE</speaker><content>I’d just gotten fired. Some friends took me out and got me drunk. You can ask them.</content></utterance>
+<utterance uid="8-12"><speaker>BECKETT</speaker><content>I will. In the meantime, let’s talk about Ella. Her roommate thought she was having trouble at the office. You worked with her. You know what it was?</content></utterance>
+<utterance uid="8-13"><speaker>GRACE</speaker><content> Actually, there was something else. A few days ago, at lunchtime, I saw her arguing with this guy outside the building.</content></utterance>
+<utterance uid="8-14"><speaker>BECKETT</speaker><content>Did you recognize him?</content></utterance>
+<utterance uid="8-15"><speaker>GRACE</speaker><content>I’d never seen him before. But I overheard them and he was threatening her. He said she had something he wanted and he wouldn’t take no for an answer.</content></utterance>
+<utterance uid="8-16"><speaker>BECKETT</speaker><content>And what was her reaction?</content></utterance>
+<utterance uid="8-17"><speaker>GRACE</speaker><content>She said she was going to call the police if he didn’t leave her the hell alone. And then he stormed off. I tried to ask her what it was all about, but she wouldn’t tell me.</content></utterance>
+<utterance uid="8-18"><speaker>BECKETT</speaker><content>Do you remember him well enough to help us with a sketch?</content></utterance>
+<utterance uid="8-19"><speaker>GRACE</speaker><content> I think so.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>BECKETT</speaker><content>Okay, this is the guy who threatened Ella.</content></utterance>
+<utterance uid="9-2"><speaker>CASTLE</speaker><content>So you believe Grace’s story?</content></utterance>
+<utterance uid="9-3"><speaker>BECKETT</speaker><content>Well, her alibi checks out and unis found two witnesses that saw him arguing with Ella.</content></utterance>
+<utterance uid="9-4"><speaker>CASTLE</speaker><content>Ella was basically a glorified assistant. What could she possibly have had that this man wanted?</content></utterance>
+<utterance uid="9-5"><speaker>BECKETT</speaker><content>Well, think about it, Castle. Matilda King is the most influential person in fashion, and Ella had direct access to her world.</content></utterance>
+<utterance uid="9-6"><speaker>CASTLE</speaker><content>So you’re saying this man leveraged Ella to find out which directions hemlines are going next season?  Oh! I just came up with a new title. “Murder is the New Black”.</content></utterance>
+<utterance uid="9-7"><speaker>BECKETT</speaker><content>Does that even make sense?</content></utterance>
+<utterance uid="9-8"><speaker>RYAN</speaker><content>No, it doesn’t.  And here’s something else that doesn’t make sense.</content></utterance>
+<utterance uid="9-9"><speaker>BECKETT</speaker><content>Oh, did you guys find something at Ella’s apartment?</content></utterance>
+<utterance uid="9-10"><speaker>RYAN</speaker><content>You could say that. I went to use a landline and I noticed some static when I got near a lamp.</content></utterance>
+<utterance uid="9-11"><speaker>ESPOSITO</speaker><content>When we popped the lamp open, look what we found inside.</content></utterance>
+<utterance uid="9-12"><speaker>BECKETT</speaker><content>A bug? Why would someone bug Ella’s apartment?</content></utterance>
+<utterance uid="9-13"><speaker>CASTLE</speaker><content>Because … she is La Femme Nikita and her job at Modern Fashion is just a cover.</content></utterance>
+<utterance uid="9-14"><speaker>BECKETT</speaker><content> She’s not La Femme Nikita.</content></utterance>
+<utterance uid="9-15"><speaker>CASTLE</speaker><content>Still, wire taps, threats from mysterious men, murder. Whatever’s going on here, it’s bigger than fashion.</content></utterance>
+<utterance uid="9-16"><speaker>BECKETT</speaker><content>Okay, see if you can get a serial number and let’s figure out who bought that bug.</content></utterance>
+</scene>
+
+<scene id="10"><utterance uid="10-1"><speaker>CASTLE</speaker><content>All right, thank you very much.  Hey, that was the event planner at the Cordova House. They said they still have a few spots open in the fall. She can give us a tour tonight.</content></utterance>
+<utterance uid="10-2"><speaker>BECKETT</speaker><content>Woohoo! Let’s do it.</content></utterance>
+<utterance uid="10-3"><speaker>CASTLE</speaker><content>So, where are we on Watergate?</content></utterance>
+<utterance uid="10-4"><speaker>BECKETT</speaker><content>So the plot thickens. The building manager at Ella’s apartment remembers letting an exterminator into her place about a month ago.</content></utterance>
+<utterance uid="10-5"><speaker>CASTLE</speaker><content>Usually exterminators get rid of bugs.</content></utterance>
+<utterance uid="10-6"><speaker>BECKETT</speaker><content>Only this one didn’t. The company that he worked for? Doesn’t exist. I mean, what is this about, Castle? Why would someone target Ella?</content></utterance>
+<utterance uid="10-7"><speaker>CASTLE</speaker><content>Well, you already heard and rejected my theory.</content></utterance>
+<utterance uid="10-8"><speaker>BECKETT</speaker><content>Yeah, but your theory doesn’t explain the little detail that Lanie just found out. There’s black coral on the sole of Ella’s shoe. And it wasn’t from the dumpster.</content></utterance>
+<utterance uid="10-9"><speaker>CASTLE</speaker><content>Well, that doesn’t make any sense. Black coral is found in the tropics.</content></utterance>
+<utterance uid="10-10"><speaker>BECKETT</speaker><content>Exactly. So how did this end up on her shoe?</content></utterance>
+<utterance uid="10-11"><speaker>ESPOSITO</speaker><content>Yo, Beckett.</content></utterance>
+<utterance uid="10-12"><speaker>CASTLE</speaker><content>And Castle.</content></utterance>
+<utterance uid="10-13"><speaker>ESPOSITO</speaker><content>Sure.  So, no luck on the serial number. But we got a hit off the canvass of the crime scene. A seamstress coming off the late shift saw a guy waiting on the corner right near the alleyway where Ella was killed.</content></utterance>
+<utterance uid="10-14"><speaker>BECKETT</speaker><content>We get a description?</content></utterance>
+<utterance uid="10-15"><speaker>ESPOSITO</speaker><content>Yeah. And he matches our sketch.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>TERESA GOMEZ</speaker><content>Yes. That’s him. He was standing by the alley outside the Broadway Coffee Shop when I walked by.</content></utterance>
+<utterance uid="11-2"><speaker>BECKETT</speaker><content>And what time was this?</content></utterance>
+<utterance uid="11-3"><speaker>TERESA</speaker><content>Just after midnight.</content></utterance>
+<utterance uid="11-4"><speaker>CASTLE</speaker><content>Do you recall how tall he was? What he wore?</content></utterance>
+<utterance uid="11-5"><speaker>TERESA</speaker><content>Fabric is my business. He wore a dark suit, nice quality, wool blend. Oh, and he had a distinctive striped tie. Crimson and navy with gold triangles across the stripes.</content></utterance>
+<utterance uid="11-6"><speaker>BECKETT</speaker><content> That sounds like a club tie.</content></utterance>
+<utterance uid="11-7"><speaker>CASTLE</speaker><content> Crimson and navy … yes, I know that one. Gold triangles …  That’s the Carlton Club tie. If we can match that sketch to one of its members we’ve got our ID.</content></utterance>
+<utterance uid="11-8"><speaker>BECKETT</speaker><content>Yeah, except clubs like that are notoriously protective about keeping their member’s privacy. They’re not just going to hand over that information.</content></utterance>
+<utterance uid="11-9"><speaker>CASTLE</speaker><content>The club won’t, no. But one of its members might.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>CASTLE</speaker><content>After a tough negotiation that involved my Knicks tickets and naming a character in my next book after his Nana, my friend came up with a name. Marcus Conway.</content></utterance>
+<utterance uid="12-2"><speaker>BECKETT</speaker><content>Okay, so what do we know about him?</content></utterance>
+<utterance uid="12-3"><speaker>CASTLE</speaker><content>He is a lawyer at Kellerman Goodfriend.</content></utterance>
+<utterance uid="12-4"><speaker>BECKETT</speaker><content>That’s one of the city’s biggest law firms. Why is a high powered lawyer going after Ella?</content></utterance>
+<utterance uid="12-5"><speaker>ESPOSITO</speaker><content>Maybe it has to do with her work. Turns out that Marcus Conway is general counsel for Couture Chic  magazine.</content></utterance>
+<utterance uid="12-6"><speaker>CASTLE</speaker><content>That’s chic  and not that you would know, but –  – they are Modern Fashion’s biggest competitor.</content></utterance>
+<utterance uid="12-7"><speaker>BECKETT</speaker><content>Call Conway’s firm. I want to know where he is.</content></utterance>
+</scene>
+
+<scene id="13"><utterance uid="13-1"><speaker>MARCUS CONWAY</speaker><content>Detective, I would think carefully before making these kinds of accusations.</content></utterance>
+<utterance uid="13-2"><speaker>BECKETT</speaker><content>Mr. Conway, I am not making any accusations. I am simply stating fact. We have a witness that heard you threatening Ella Hayes and another one that saw you near where she was killed.</content></utterance>
+<utterance uid="13-3"><speaker>CASTLE</speaker><content>Right about the same time she ended up that way.</content></utterance>
+<utterance uid="13-4"><speaker>BECKETT</speaker><content>You need to explain yourself.</content></utterance>
+<utterance uid="13-5"><speaker>GLORIA ROBBINS</speaker><content>Marcus, I heard the police were here. What’s going on?</content></utterance>
+<utterance uid="13-6"><speaker>BECKETT</speaker><content>Who are you?</content></utterance>
+<utterance uid="13-7"><speaker>GLORIA</speaker><content>Gloria Robbins. I’m editor in chief of Couture Chic.</content></utterance>
+<utterance uid="13-8"><speaker>CONWAY</speaker><content>They think I murdered Ella Hayes.</content></utterance>
+<utterance uid="13-9"><speaker>GLORIA</speaker><content>What? That’s ridiculous.</content></utterance>
+<utterance uid="13-10"><speaker>BECKETT</speaker><content>So you know who she is?</content></utterance>
+<utterance uid="13-11"><speaker>GLORIA</speaker><content>This is obviously one huge misunderstanding.</content></utterance>
+<utterance uid="13-12"><speaker>BECKETT</speaker><content>Then clear it up. Tell me what you know about Ella Hayes.</content></utterance>
+<utterance uid="13-13"><speaker>CONWAY</speaker><content>We approached Ella and attempted to … engage her services.</content></utterance>
+<utterance uid="13-14"><speaker>BECKETT</speaker><content>So basically you tried to hire her to get inside information on Modern Fashion.</content></utterance>
+<utterance uid="13-15"><speaker>CONWAY</speaker><content>I wouldn’t put it that way.</content></utterance>
+<utterance uid="13-16"><speaker>BECKETT</speaker><content>Well, I’m pretty sure she would, which is why she turned you down.</content></utterance>
+<utterance uid="13-17"><speaker>CASTLE</speaker><content>And you wouldn’t take no for an answer.</content></utterance>
+<utterance uid="13-18"><speaker>CONWAY</speaker><content>Look, this is a competitive business with everyone looking to get an edge. Yes, I was aggressive in trying to make a deal. But when she refused, I accepted that and never contacted her again.</content></utterance>
+<utterance uid="13-19"><speaker>BECKETT</speaker><content>Then why were you less than a block away from where she was killed at about the time she died?</content></utterance>
+<utterance uid="13-20"><speaker>CONWAY</speaker><content> Because she called me. She asked me to meet her last night.</content></utterance>
+<utterance uid="13-21"><speaker>BECKETT</speaker><content>Why would she do that?</content></utterance>
+<utterance uid="13-22"><speaker>CONWAY</speaker><content>Probably because Matilda just fired her. The bottom line is she said she had bombshell information on Modern Fashion. Information that if it got out it would destroy the magazine.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>BECKETT</speaker><content>Mr. Conway, I took a look at Ella’s cell phone records. She never called you last night.</content></utterance>
+<utterance uid="14-2"><speaker>CONWAY</speaker><content>She did call. And I can prove it. She left me a message.</content></utterance>
+<utterance uid="14-3"><speaker>ELLA</speaker><content>Hey, it’s Ella. I changed my mind about your offer. I found out something. Something that will ruin Modern Fashion, take down the whole operation. Meet me at the Broadway Coffee Shop in an hour.</content></utterance>
+<utterance uid="14-4"><speaker>CONWAY</speaker><content>I waited around for two hours but she never showed.</content></utterance>
+<utterance uid="14-5"><speaker>BECKETT</speaker><content>What information did she want to share?</content></utterance>
+<utterance uid="14-6"><speaker>CONWAY</speaker><content>Believe me, I would love to know. But I don’t have the faintest idea.</content></utterance>
+<utterance uid="14-7"><speaker>CASTLE</speaker><content>What were you trying to hire her to find out?</content></utterance>
+<utterance uid="14-8"><speaker>GLORIA</speaker><content>As you may have heard, a tech venture capitalist named Glenn Carter bought Modern Fashion last month. Glenn has big plans to drag Matilda’s precious little magazine into the digital age.</content></utterance>
+<utterance uid="14-9"><speaker>CASTLE</speaker><content>Which are?</content></utterance>
+<utterance uid="14-10"><speaker>GLORIA</speaker><content>That’s what we wanted to know. So far our website has failed to generate subscription business. If we could get Modern Fashion’s new playbook it could help us strategize and stay one step ahead.</content></utterance>
+<utterance uid="14-11"><speaker>BECKETT</speaker><content>So you wanted to hire Ella so she could tell you about the new direction the magazine was taking. And when she turned you down that was the extent of your contact?</content></utterance>
+<utterance uid="14-12"><speaker>CONWAY</speaker><content>Until she called last night.</content></utterance>
+<utterance uid="14-13"><speaker>CASTLE</speaker><content>And what about the eavesdropping?</content></utterance>
+<utterance uid="14-14"><speaker>CONWAY</speaker><content>What are you talking about?</content></utterance>
+<utterance uid="14-15"><speaker>BECKETT</speaker><content>We found a listening device in Ella’s apartment.</content></utterance>
+<utterance uid="14-16"><speaker>GLORIA</speaker><content>That wasn’t us. We had nothing to do with that.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>BECKETT</speaker><content>So these records explain why we missed Ella’s phone calls to Marcus Conway. She phoned him using her roommate’s landline. So she told Conway to meet her in the coffee shop in an hour. It would take about twenty minutes to get there from her apartment, so she must’ve been killed on the way there.</content></utterance>
+<utterance uid="15-2"><speaker>CASTLE</speaker><content>That’s a real shame. Looking at her designs, Ella actually had talent.</content></utterance>
+<utterance uid="15-3"><speaker>BECKETT</speaker><content>Yeah well, the question is, what did she know and did someone kill her to keep her quiet?</content></utterance>
+<utterance uid="15-4"><speaker>RYAN</speaker><content>I can’t help you out there, but I can tell you that Marcus Conway was telling the truth about not planting that bug.</content></utterance>
+<utterance uid="15-5"><speaker>ESPOSITO</speaker><content>Yeah, the serial number led us to a distributor named Ultimate Intelligence in Queens.</content></utterance>
+<utterance uid="15-6"><speaker>BECKETT</speaker><content>Do they know who bought it?</content></utterance>
+<utterance uid="15-7"><speaker>RYAN</speaker><content>James Kavanaugh.  Paid for that listening device a month ago.</content></utterance>
+<utterance uid="15-8"><speaker>CASTLE</speaker><content>When does it get interesting?</content></utterance>
+<utterance uid="15-9"><speaker>ESPOSITO</speaker><content>When we found out he was former Special Forces, not to mention the head of security at Modern Fashion.</content></utterance>
+<utterance uid="15-10"><speaker>BECKETT</speaker><content>Wait a minute, Ella was being spied on by her own magazine?</content></utterance>
+<utterance uid="15-11"><speaker>CASTLE</speaker><content>Oh. Oh Beckett, we have that appointment at the Cordova House.</content></utterance>
+<utterance uid="15-12"><speaker>BECKETT</speaker><content> Castle, I’m sorry. Duty calls. Can – can you go without me? And see if it’s as good as the pictures?</content></utterance>
+<utterance uid="15-13"><speaker>CASTLE</speaker><content>You trust me to make this decision on my own?</content></utterance>
+<utterance uid="15-14"><speaker>BECKETT</speaker><content>Can you go with Martha?</content></utterance>
+<utterance uid="15-15"><speaker>BECKETT</speaker><content> We have to bring James Kavanaugh in.</content></utterance>
+<utterance uid="15-16"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>JAMES KAVANAUGH</speaker><content>I’m in the security business. I buy lots of equipment.</content></utterance>
+<utterance uid="16-2"><speaker>ESPOSITO</speaker><content>Yeah well, this equipment was a listening device that you installed in Ella Hayes’ apartment.</content></utterance>
+<utterance uid="16-3"><speaker>KAVANAUGH</speaker><content>If you think that, you’re mistaken.</content></utterance>
+<utterance uid="16-4"><speaker>BECKETT</speaker><content>Really? Because we showed your picture to the super at Ella’s building and he identified you as the exterminator he let into her apartment.</content></utterance>
+<utterance uid="16-5"><speaker>KAVANAUGH</speaker><content>I had nothing to do with what happened to Ella Hayes.</content></utterance>
+<utterance uid="16-6"><speaker>BECKETT</speaker><content>You broke into her place. You wired it for sound. And now she’s dead.</content></utterance>
+<utterance uid="16-7"><speaker>ESPOSITO</speaker><content>James. Think about how that looks, bro.</content></utterance>
+<utterance uid="16-8"><speaker>BECKETT</speaker><content>Your best bet is to tell us exactly what you know.</content></utterance>
+<utterance uid="16-9"><speaker>KAVANAUGH</speaker><content>All I did was bug her place, okay? I mean, once Glenn Carter bought the magazine, home monitoring got to be a common practice.</content></utterance>
+<utterance uid="16-10"><speaker>BECKETT</speaker><content>So Glenn Carter ordered the surveillance?</content></utterance>
+<utterance uid="16-11"><speaker>KAVANAUGH</speaker><content>No. No, he didn’t know anything about it. It was ordered by Matilda King.</content></utterance>
+<utterance uid="16-12"><speaker>BECKETT</speaker><content>Matilda King. You sure about that?</content></utterance>
+<utterance uid="16-13"><speaker>KAVANAUGH</speaker><content>Yes, I’m sure. She got all freaked out about someone coming after her job, so she said she didn’t know who she could trust anymore.</content></utterance>
+<utterance uid="16-14"><speaker>ESPOSITO</speaker><content>Okay, so who monitored the audio from Ella’s apartment?</content></utterance>
+<utterance uid="16-15"><speaker>KAVANAUGH</speaker><content>Matilda had me set it up so that it fed directly to her computer.</content></utterance>
+<utterance uid="16-16"><speaker>ESPOSITO</speaker><content>You realize what this means?</content></utterance>
+<utterance uid="16-17"><speaker>BECKETT</speaker><content>Yeah. Ella called Marcus Conway on the landline, told him she could take down the magazine and Matilda heard the whole thing.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>RYAN</speaker><content> Okay, thank you very much.  So, the guard in the lobby of the Modern Fashion building saw Matilda leave there last night at 11:30, and she was in a big hurry.</content></utterance>
+<utterance uid="17-2"><speaker>ESPOSITO</speaker><content>11:30? That’s right after Ella called Marcus Conway. Matilda knew that Ella was about to spill the beans and bring down the magazine.</content></utterance>
+<utterance uid="17-3"><speaker>BECKETT</speaker><content>So Matilda went to stop her. She’s our killer.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>CARRIE</speaker><content>Wait, wait, wait. She’s on a call.</content></utterance>
+<utterance uid="18-2"><speaker>BECKETT</speaker><content>She can call back.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>MATILDA</speaker><content>Glenn! This magazine is not about tweets or likes on Facebook, for God’s sake! For 57 years women have been purchasing this magazine for the fashion!</content></utterance>
+<utterance uid="19-2"><speaker>GLENN CARTER</speaker><content>Matilda, please –</content></utterance>
+<utterance uid="19-3"><speaker>MATILDA</speaker><content>Whenever they’ve had a bad day at work, or at home, they’ve come to us. We are their escape. We are their fantasy. It’s the clothing that stitches it all together. That’s what matters!</content></utterance>
+<utterance uid="19-4"><speaker>GLENN CARTER</speaker><content>We’re done here.</content></utterance>
+<utterance uid="19-5"><speaker>MATILDA</speaker><content>Glenn!  Glenn?</content></utterance>
+<utterance uid="19-6"><speaker>MATILDA</speaker><content>Oh, I’m sorry. I didn’t see you there.</content></utterance>
+<utterance uid="19-7"><speaker>BECKETT</speaker><content>You’ve got a hell of a temper, Ms. King.</content></utterance>
+<utterance uid="19-8"><speaker>MATILDA</speaker><content>It’s not a temper. It’s frustration. Glenn Carter, our new owner, cares more about money than fashion.</content></utterance>
+<utterance uid="19-9"><speaker>BECKETT</speaker><content>Is that why you’re paranoid he’s going to replace you?</content></utterance>
+<utterance uid="19-10"><speaker>MATILDA</speaker><content>I don’t know what you’ve heard, but I’m Matilda King. My name is synonymous with this magazine. He wouldn’t dare replace me.</content></utterance>
+<utterance uid="19-11"><speaker>BECKETT</speaker><content>So then why did you order the monitoring of all your employee’s conversations the moment that he bought the magazine?</content></utterance>
+<utterance uid="19-12"><speaker>MATILDA</speaker><content> You are quite the detective.  Take a seat.  Yes, since the purchase rumors have been swirling. I’d like to think that they’re just rumors, but I can’t take that chance. I need to know my people are loyal.</content></utterance>
+<utterance uid="19-13"><speaker>BECKETT</speaker><content>By bugging their homes?</content></utterance>
+<utterance uid="19-14"><speaker>MATILDA</speaker><content>With their permission. We’ve had some loyalty issues, so my lawyers added some fine print to their employment agreements.</content></utterance>
+<utterance uid="19-15"><speaker>BECKETT</speaker><content>Do you actually believe that’s going to fly in court?</content></utterance>
+<utterance uid="19-16"><speaker>MATILDA</speaker><content>My lawyers seem to think so. Now, what does this have to do with your investigation?</content></utterance>
+<utterance uid="19-17"><speaker>BECKETT</speaker><content>Look, given the rumors about your job, it must have been disconcerting to find out Ella was taking damaging information on Modern Fashion to the competition.</content></utterance>
+<utterance uid="19-18"><speaker>MATILDA</speaker><content>To what are you referring? What information?</content></utterance>
+<utterance uid="19-19"><speaker>BECKETT</speaker><content>We don’t know that. But what we do know is moments after she made arrangements to sell that information, you were seen running out of here.</content></utterance>
+<utterance uid="19-20"><speaker>MATILDA</speaker><content>You think that I ran out to kill Ella?</content></utterance>
+<utterance uid="19-21"><speaker>BECKETT</speaker><content>Your head of security says that you’re set up to listen to these recordings live on your computer.</content></utterance>
+<utterance uid="19-22"><speaker>MATILDA</speaker><content>Something I do on the weekend. I’m a little busy running a magazine during the week.</content></utterance>
+<utterance uid="19-23"><speaker>BECKETT</speaker><content>Yeah, something that you’re desperate to defend. That’s motive and that’s opportunity.</content></utterance>
+<utterance uid="19-24"><speaker>MATILDA</speaker><content>I ran out of my office last night because I was late for drinks with Oscar de la Renta. Feel free to check. Regarding Ella’s threat to the magazine, I never heard her say that.</content></utterance>
+<utterance uid="19-25"><speaker>BECKETT</speaker><content>And you have no idea what Ella was taking to the competition?</content></utterance>
+<utterance uid="19-26"><speaker>MATILDA</speaker><content>None. But if you find out I’d be curious to know.  Anything else, Detective?</content></utterance>
+<utterance uid="19-27"><speaker>BECKETT</speaker><content>I’m going to need those recordings.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>RYAN</speaker><content>Hey, Beckett. Matilda’s alibi checks out. She was having drinks with Oscar until about 2AM.</content></utterance>
+<utterance uid="20-2"><speaker>BECKETT</speaker><content>So Matilda’s not our killer. And we still have no idea what explosive information Ella was taking to the competition.</content></utterance>
+<utterance uid="20-3"><speaker>ESPOSITO</speaker><content>I think I may have found something on these audio files that might shed light on that. So I’ve been going through about a week of inane conversations between Ella and her roommate, but she did place a call the day of the murder that was pretty strange.  Check it out.</content></utterance>
+<utterance uid="20-4"><speaker>ELLA</speaker><content>Hey, it’s Ella. Something weird is going on inside Modern Fashion. I think someone is targeting me. I need your help. Call me back.</content></utterance>
+<utterance uid="20-5"><speaker>RYAN</speaker><content>Do we know who was on the other end of that call?</content></utterance>
+<utterance uid="20-6"><speaker>ESPOSITO</speaker><content>Based on the landline phone records, the call was placed to someone in Modern Fashion. But it was routed through a switchboard, so it doesn’t show who she was connected to.</content></utterance>
+<utterance uid="20-7"><speaker>BECKETT</speaker><content>This directory lists over a hundred people who work there.</content></utterance>
+<utterance uid="20-8"><speaker>ESPOSITO</speaker><content> Yeah.  Lucky I have crazy good hearing.</content></utterance>
+<utterance uid="20-9"><speaker>RYAN</speaker><content>It’s true.</content></utterance>
+<utterance uid="20-10"><speaker>ESPOSITO</speaker><content>Listen to the beginning again.  I had tech analyze those beeps and connect them to the corresponding digits.  The call was placed to this extension.</content></utterance>
+<utterance uid="20-11"><speaker>BECKETT</speaker><content>Armando Montoya. He’s an IT tech at Modern Fashion?  What was Ella doing calling him for help?</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>ARMANDO MONTOYA</speaker><content>We were friends, you know? To most of the people here I’m invisible. But Ella saw me. She was nice.</content></utterance>
+<utterance uid="21-2"><speaker>BECKETT</speaker><content>Why did she need your help the day she died?</content></utterance>
+<utterance uid="21-3"><speaker>MONTOYA</speaker><content>She wanted me to look at Matilda’s calendar.</content></utterance>
+<utterance uid="21-4"><speaker>BECKETT</speaker><content>What for?</content></utterance>
+<utterance uid="21-5"><speaker>MONTOYA</speaker><content>Because Matilda missed some important meetings, but Ella was sure she entered them into the calendar correctly. She wanted to know if the calendar had been tampered with.</content></utterance>
+<utterance uid="21-6"><speaker>BECKETT</speaker><content>And was it?</content></utterance>
+<utterance uid="21-7"><speaker>MONTOYA</speaker><content>Yeah. Several entries had been changed over the last couple of weeks. All in the middle of the night. When I showed it to her she was convinced someone was trying to set her up.</content></utterance>
+<utterance uid="21-8"><speaker>BECKETT</speaker><content>Well, were you able to tell who made those changes?</content></utterance>
+<utterance uid="21-9"><speaker>MONTOYA</speaker><content>No. I tracked them all to an IP address outside of Modern Fashion. It’s the best I could do. I gave her the info and she said she was going to figure out who set her up … and make them pay.  The next I hear, she’s dead.</content></utterance>
+<utterance uid="21-10"><speaker>BECKETT</speaker><content>Do you still have that IP address?</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>ESPOSITO</speaker><content>Yeah, okay. I’ll have tech run it down. But why would anyone want to sabotage a fashion assistant?</content></utterance>
+<utterance uid="22-2"><speaker>BECKETT</speaker><content>I don’t know, Espo. If Ella went after whoever is behind this, maybe she found them.</content></utterance>
+<utterance uid="22-3"><speaker>ESPOSITO</speaker><content>All right. I’ll give you a call when I get a location.</content></utterance>
+<utterance uid="22-4"><speaker>BECKETT</speaker><content>Okay, thanks.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>MATILDA</speaker><content>More questions, Detective?</content></utterance>
+<utterance uid="23-2"><speaker>BECKETT</speaker><content>Actually, we found evidence that suggests Ella wasn’t responsible for screwing up your appointments. Someone else changed your calendar. Someone outside of this office.</content></utterance>
+<utterance uid="23-3"><speaker>MATILDA</speaker><content>Are you saying I fired Ella for no reason?</content></utterance>
+<utterance uid="23-4"><speaker>BECKETT</speaker><content> Do you know why someone would have done this to her?</content></utterance>
+<utterance uid="23-5"><speaker>MATILDA</speaker><content>No. But I do know why someone would want to do this to me.</content></utterance>
+<utterance uid="23-6"><speaker>BECKETT</speaker><content>What do you mean?</content></utterance>
+<utterance uid="23-7"><speaker>MATILDA</speaker><content>Ever since Glenn Carter bought Modern Fashion the sharks have been circling. They smell blood.</content></utterance>
+<utterance uid="23-8"><speaker>BECKETT</speaker><content>So the calendar mistakes made you look bad at a critical time.</content></utterance>
+<utterance uid="23-9"><speaker>MATILDA</speaker><content>Excuse me.  Oh, this is just what I need.</content></utterance>
+<utterance uid="23-10"><speaker>BECKETT</speaker><content>What’s wrong?</content></utterance>
+<utterance uid="23-11"><speaker>MATILDA</speaker><content>I have to make a decision in the next half hour about a dress in this issue and the model didn’t show up.</content></utterance>
+<utterance uid="23-12"><speaker>MATILDA</speaker><content>Detective Beckett.</content></utterance>
+<utterance uid="23-13"><speaker>MATILDA</speaker><content>You said no to me years ago when I offered you a job. Might you do a little favor for me now?</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>MARTHA</speaker><content>Oh Richard, look at these beautiful antique chandeliers. Oh.</content></utterance>
+<utterance uid="24-2"><speaker>LESLIE</speaker><content>So if you’re interested I have a couple of slots for fall 2015 still open.</content></utterance>
+<utterance uid="24-3"><speaker>CASTLE</speaker><content>Excuse me, did you say fall 2015?</content></utterance>
+<utterance uid="24-4"><speaker>LESLIE</speaker><content>That’s correct.</content></utterance>
+<utterance uid="24-5"><speaker>CASTLE</speaker><content>When we spoke on the phone I thought we were speaking of this fall.</content></utterance>
+<utterance uid="24-6"><speaker>LESLIE</speaker><content>No way. That’s been booked for months.  Excuse me, but I have to take this call. Look around and uh, I’ll be right back.</content></utterance>
+<utterance uid="24-7"><speaker>MARTHA</speaker><content>Ah … well. It is a beautiful venue.</content></utterance>
+<utterance uid="24-8"><speaker>CASTLE</speaker><content>And it is a long time to wait.</content></utterance>
+<utterance uid="24-9"><speaker>MARTHA</speaker><content>Well … and a long time to plan.</content></utterance>
+<utterance uid="24-10"><speaker>CASTLE</speaker><content>I just feel like I’ve waited long enough, Mother. I – I don’t want to waste any more time before we take the next step.</content></utterance>
+<utterance uid="24-11"><speaker>MARTHA</speaker><content>Then don’t. I’m sure there’s another venue out there that the two of you will just fall in love with.</content></utterance>
+<utterance uid="24-12"><speaker>CASTLE</speaker><content> Thank you.</content></utterance>
+<utterance uid="24-13"><speaker>LESLIE</speaker><content>Okay, this never happens. But the Freedmans just called off their wedding and we now have an opening for spring.</content></utterance>
+<utterance uid="24-14"><speaker>CASTLE</speaker><content>Spring … 2016?</content></utterance>
+<utterance uid="24-15"><speaker>LESLIE</speaker><content>No, this spring. I have a long list of couples that would snatch this up immediately, but since you’re here …</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>MATILDA</speaker><content>Do you need any help in there?</content></utterance>
+<utterance uid="25-2"><speaker>BECKETT</speaker><content>No. You know what, when you asked me to try on a dress and I said yes, I had no idea it was going to be thing kind of a dress.</content></utterance>
+<utterance uid="25-3"><speaker>BECKETT</speaker><content>What do you think?</content></utterance>
+<utterance uid="25-4"><speaker>MATILDA</speaker><content>It’s amazing.</content></utterance>
+<utterance uid="25-5"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="25-6"><speaker>MATILDA</speaker><content>The embroidery and the Austrian crystal. It’s just … just heavenly.</content></utterance>
+<utterance uid="25-7"><speaker>BECKETT</speaker><content> Yeah. It is, isn’t it?</content></utterance>
+<utterance uid="25-8"><speaker>MATILDA</speaker><content>Come.</content></utterance>
+<utterance uid="25-9"><speaker>BECKETT</speaker><content>Well, this – this probably would have looked better on the model that didn’t show up.</content></utterance>
+<utterance uid="25-10"><speaker>MATILDA</speaker><content>No, don’t be silly. It’s perfect on you. Trust me, I’m an expert.</content></utterance>
+<utterance uid="25-11"><speaker>MATILDA</speaker><content>In fact, if I had a daughter this is exactly the kind of dress I would want for her.  You are going to make a beautiful bride someday.</content></utterance>
+<utterance uid="25-12"><speaker>BECKETT</speaker><content>Thank you.</content></utterance>
+<utterance uid="25-13"><speaker>JULIAN</speaker><content>Matilda? We’re ready for the accessory spread in the next room.</content></utterance>
+<utterance uid="25-14"><speaker>MATILDA</speaker><content> Excuse me. I’ll be back in five minutes.</content></utterance>
+<utterance uid="25-15"><speaker>BECKETT</speaker><content>Hey. How’s the venue?</content></utterance>
+<utterance uid="25-16"><speaker>CASTLE</speaker><content> Amazing. So amazing. And they didn’t have any spots open until fall of 2015, but a couple just broke up. And their unfortunate misery can be our lifelong joy. We can take their spot for this spring.</content></utterance>
+<utterance uid="25-17"><speaker>BECKETT</speaker><content>This spring? Wow.</content></utterance>
+<utterance uid="25-18"><speaker>CASTLE</speaker><content>I know. And there’s a lot of couple who want it. But if I put down a deposit tonight it’s ours.</content></utterance>
+<utterance uid="25-19"><speaker>CASTLE</speaker><content>So what do you say?</content></utterance>
+<utterance uid="25-20"><speaker>CASTLE</speaker><content>Beckett, are you there?</content></utterance>
+<utterance uid="25-21"><speaker>BECKETT</speaker><content> … yeah.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>CASTLE</speaker><content>Okay, but I – I thought we agreed that the venue was amazing.</content></utterance>
+<utterance uid="26-2"><speaker>BECKETT</speaker><content>Yeah, we did. It’s just, I started thinking about the details and the planning that we have to do and I just – I don’t want to rush any of this.</content></utterance>
+<utterance uid="26-3"><speaker>CASTLE</speaker><content>Okay. If you’re sure.</content></utterance>
+<utterance uid="26-4"><speaker>BECKETT</speaker><content>Yeah. Yeah, that is. I – I mean, we’re going to find another venue, Castle. It’s going to be great.</content></utterance>
+<utterance uid="26-5"><speaker>CASTLE</speaker><content>Look, if there’s –</content></utterance>
+<utterance uid="26-6"><speaker>ESPOSITO</speaker><content>Hey. So tech was able to track down that IP address. Whoever changed that calendar did it from a design studio in SoHo.</content></utterance>
+<utterance uid="26-7"><speaker>BECKETT</speaker><content>Is there any connection between the studio and Modern Fashion?</content></utterance>
+<utterance uid="26-8"><speaker>ESPOSITO</speaker><content>As a matter of fact, there is. It belongs to one of the designers being featured in Modern Fashion’s Fab Five spread.  Yumi.</content></utterance>
+<utterance uid="26-9"><speaker>BECKETT</speaker><content>Yumi what?</content></utterance>
+<utterance uid="26-10"><speaker>ESPOSITO</speaker><content>Just Yumi. It – I guess if you don’t have a last name you can charge more.</content></utterance>
+<utterance uid="26-11"><speaker>CASTLE</speaker><content>So why would he, or someone from his studio, be changing Matilda’s calendar?</content></utterance>
+<utterance uid="26-12"><speaker>ESPOSITO</speaker><content>I don’t know, but I can tell you this. It looks like Ella may have been there the night she was killed.</content></utterance>
+<utterance uid="26-13"><speaker>BECKETT</speaker><content>How do you know that?</content></utterance>
+<utterance uid="26-14"><speaker>ESPOSITO</speaker><content>Yumi’s website. The current design line being produced in his studio features dresses embellished with coral. And in addition to the fact that this model is hot –  – she’s wearing black coral.</content></utterance>
+<utterance uid="26-15"><speaker>CASTLE</speaker><content>The same kind of coral that Lanie found stuck to the bottom of Ella’s shoe.</content></utterance>
+<utterance uid="26-16"><speaker>BECKETT</speaker><content>Let’s go.</content></utterance>
+<utterance uid="26-17"><speaker>ESPOSITO</speaker><content>I’m probably going to have to call her in for an interrogation.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>YUMI</speaker><content>Well, sweetie, you tell little miss all that Yumi says there’s only one diva in this room. If she doesn’t want to wear the pink Louboutins she is out of the show.  Models. Lack of food makes them so very fraught.</content></utterance>
+<utterance uid="27-2"><speaker>BECKETT</speaker><content>Uh, Mr. Yumi –</content></utterance>
+<utterance uid="27-3"><speaker>YUMI</speaker><content>Please. Just Yumi.</content></utterance>
+<utterance uid="27-4"><speaker>BECKET</speaker><content>Okay. Yumi. When was the last time you saw Ella Hayes?</content></utterance>
+<utterance uid="27-5"><speaker>YUMI</speaker><content> Ella Hayes?</content></utterance>
+<utterance uid="27-6"><speaker>CASTLE</speaker><content>Matilda’s assistant. The girl who was killed?</content></utterance>
+<utterance uid="27-7"><speaker>YUMI</speaker><content>Yes, of course.</content></utterance>
+<utterance uid="27-8"><speaker>BECKETT</speaker><content>Well we have reason to believe that she was here last night.</content></utterance>
+<utterance uid="27-9"><speaker>YUMI</speaker><content>Yes. She was.</content></utterance>
+<utterance uid="27-10"><speaker>BECKETT</speaker><content>Why was she here?</content></utterance>
+<utterance uid="27-11"><speaker>YUMI</speaker><content>She – she came to ask me for a job.</content></utterance>
+<utterance uid="27-12"><speaker>CASTLE</speaker><content>Really?</content></utterance>
+<utterance uid="27-13"><speaker>YUMI</speaker><content>I told her that I wanted to help, but there was absolutely nothing that I could do. When Matilda King fires someone they are radioactive.</content></utterance>
+<utterance uid="27-14"><speaker>CASTLE</speaker><content>Do you have any idea why she was fired?</content></utterance>
+<utterance uid="27-15"><speaker>YUMI</speaker><content>No.</content></utterance>
+<utterance uid="27-16"><speaker>BECKETT</speaker><content>I think you do. Someone changed Matilda King’s calendar. Matilda thought it was Ella, but it wasn’t Ella. It was someone from your studio.</content></utterance>
+<utterance uid="27-17"><speaker>CASTLE</speaker><content>We traced the IP address. So did Ella. That’s what she was doing here last night. She wasn’t asking for a job. She was looking to find who made those changes. Who ruined her career.</content></utterance>
+<utterance uid="27-18"><speaker>BECKETT</speaker><content>And given the fact that you just lied to us, I am guessing it was you.</content></utterance>
+<utterance uid="27-19"><speaker>YUMI</speaker><content>Me?  Do you have any idea how powerful Matilda King is in the fashion industry?  My design is a Fab Five winner. Matilda’s about to make me famous. Messing with her would be career suicide. What could be possibly be my motive?</content></utterance>
+<utterance uid="27-20"><speaker>CASTLE</speaker><content>Well, it’s simple. You needed to get her fired. You needed to discredit her.</content></utterance>
+<utterance uid="27-21"><speaker>YUMI</speaker><content>Why on Earth would I do that?</content></utterance>
+<utterance uid="27-22"><speaker>CASTLE</speaker><content>Because your winning Fab Five design? Isn’t yours.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>CASTLE</speaker><content>From Ella’s sketch book. They’re exactly the same.</content></utterance>
+<utterance uid="28-2"><speaker>YUMI</speaker><content>Ella was an aspiring designer. She must have copied me.</content></utterance>
+<utterance uid="28-3"><speaker>BECKETT</speaker><content>No. Ella’s roommate saw her making those sketches months ago.</content></utterance>
+<utterance uid="28-4"><speaker>YUMI</speaker><content>Okay, then. If you found it in her sketchbook then how did I get it?</content></utterance>
+<utterance uid="28-5"><speaker>BECKETT</speaker><content>Matilda’s other assistant Grace confirmed seeing Ella give you copies of her sketches. Apparently you had them on you when you went in on your Fab Five pitch meeting.</content></utterance>
+<utterance uid="28-6"><speaker>CASTLE</speaker><content>And from there the story writes itself. You showed your designs and they just weren’t good enough to make the cut. But then the artistic director sees these in your bag. The fresh, stunning, raw talent perfect for the Fab Five.</content></utterance>
+<utterance uid="28-7"><speaker>BECKETT</speaker><content>Except they weren’t your designs.</content></utterance>
+<utterance uid="28-8"><speaker>CASTLE</speaker><content>Only two people knew that. You and Ella. And being a Fab Five designer could literally make your career. So you made a choice.</content></utterance>
+<utterance uid="28-9"><speaker>BECKETT</speaker><content>Once you were chosen for the Fab Five, you realized that Ella would know that you had stolen her designs. You had to discredit her so no one would believe her.</content></utterance>
+<utterance uid="28-10"><speaker>YUMI</speaker><content>I want a lawyer.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>CASTLE</speaker><content>Ella must have confronted Yumi at his studio. If she threatened to expose the scandal, his career would have been over. He had to kill her to hide the truth.</content></utterance>
+<utterance uid="29-2"><speaker>BECKETT</speaker><content>Yeah. That all makes sense. Now we just have to connect him to the crime scene.</content></utterance>
+<utterance uid="29-3"><speaker>RYAN</speaker><content>Only one problem. We can’t. Yumi didn’t kill Ella.</content></utterance>
+<utterance uid="29-4"><speaker>CASTLE</speaker><content>How do you know?</content></utterance>
+<utterance uid="29-5"><speaker>RYAN</speaker><content>Multiple employees saw Ella confront Yumi. But after she took off he was at the studio until 3AM. He never left.</content></utterance>
+<utterance uid="29-6"><speaker>BECKETT</speaker><content>Are you – are you sure?</content></utterance>
+<utterance uid="29-7"><speaker>RYAN</speaker><content>His alibi’s rock solid.</content></utterance>
+<utterance uid="29-8"><speaker>CASTLE</speaker><content>But we know someone changed Matilda’s calendar from that studio. He has to be involved somehow.</content></utterance>
+<utterance uid="29-9"><speaker>RYAN</speaker><content>I think someone else was, too. I went through Yumi’s phone records, and after Ella left he made half a dozen phone calls. To Modern Fashion.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>MATILDA</speaker><content>Such beautiful designs. After all this time, I had no idea. If she knew these designs had been stolen why didn’t she come to me?</content></utterance>
+<utterance uid="30-2"><speaker>BECKETT</speaker><content>Maybe she didn’t think you would listen. At least, not to someone like her. Maybe she just wanted revenge.</content></utterance>
+<utterance uid="30-3"><speaker>MATILDA</speaker><content>She would have gotten it if Couture Chic had exposed our Fab Five list was corrupt. It would have cost me my job.</content></utterance>
+<utterance uid="30-4"><speaker>CASTLE</speaker><content>Who else stood to lose?</content></utterance>
+<utterance uid="30-5"><speaker>MATILDA</speaker><content>Everyone involved, I suppose.</content></utterance>
+<utterance uid="30-6"><speaker>BECKETT</speaker><content>Well, just after Ella left Yumi’s studio, he made a series of phone calls to someone here at Modern Fashion.</content></utterance>
+<utterance uid="30-7"><speaker>CASTLE</speaker><content>Someone who must have known Yumi’s secret, who was helping him cover it up. Someone who knew if it got out it could destroy them both.</content></utterance>
+<utterance uid="30-8"><speaker>MATILDA</speaker><content>There’s only one person it could be.</content></utterance>
+<utterance uid="30-9"><speaker>BECKETT</speaker><content> Who?</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>MATILDA</speaker><content>We go to press in one week on this issue and I’m still not happy with the cover options. And we’re still not there on the Fab Five spread. Now go! Please! Make it better.</content></utterance>
+<utterance uid="31-2"><speaker>MATILDA</speaker><content>What was your first reaction when you saw Yumi’s design submission?</content></utterance>
+<utterance uid="31-3"><speaker>JULIAN</speaker><content>Blown away. That’s why I nominated him.</content></utterance>
+<utterance uid="31-4"><speaker>MATILDA</speaker><content>Now, is there a reason why you didn’t come to me and tell me when he confessed to you that he stole Ella’s design?</content></utterance>
+<utterance uid="31-5"><speaker>JULIAN</speaker><content>What do you mean?</content></utterance>
+<utterance uid="31-6"><speaker>MATILDA</speaker><content>I had a word with Yumi this morning. He told me you’ve known for a while. And he also said it was your idea to change my calendar.</content></utterance>
+<utterance uid="31-7"><speaker>JULIAN</speaker><content>He’s lying.</content></utterance>
+<utterance uid="31-8"><speaker>MATILDA</speaker><content>And then I spoke to Mr. Carter and he confirmed my suspicion. You’ve been gunning for my job.</content></utterance>
+<utterance uid="31-9"><speaker>JULIAN</speaker><content>What does that prove?</content></utterance>
+<utterance uid="31-10"><speaker>MATILDA</speaker><content>It proves that you tried to kill two birds with one stone. You changed my calendar to try to discredit Ella and undermine me.</content></utterance>
+<utterance uid="31-11"><speaker>JULIAN</speaker><content>You don’t know what you’re talking about.</content></utterance>
+<utterance uid="31-12"><speaker>MATILDA</speaker><content>Don’t even. You’re fired.</content></utterance>
+<utterance uid="31-13"><speaker>JULIAN</speaker><content>I can walk out of here and get hired at any magazine I want by the end of the day.</content></utterance>
+<utterance uid="31-14"><speaker>BECKETT</speaker><content>You won’t be applying for a new job any time soon, Julian.</content></utterance>
+<utterance uid="31-15"><speaker>JULIAN</speaker><content> This is ridiculous. Matilda King sure takes pleasure in torturing people like this. Fact is, her story is as crazy as she is.</content></utterance>
+<utterance uid="31-16"><speaker>BECKETT</speaker><content>Except we searched the dumpsters around your apartment and we found Ella’s scarf, the one that you used to strangle her. The lab also found two sets of DNA on that scarf. Ella’s and yours.</content></utterance>
+<utterance uid="31-17"><speaker>JULIAN</speaker><content>I’m not going to say another word until my lawyer’s present.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>RYAN</speaker><content>What did the DA say?</content></utterance>
+<utterance uid="32-2"><speaker>BECKETT</speaker><content>That Julian’s going to plead not guilty and take his chances at trial.</content></utterance>
+<utterance uid="32-3"><speaker>CASTLE</speaker><content>Well, the good news is Yumi cut a deal to avoid charges. I guess murder is not his type of accessory.</content></utterance>
+<utterance uid="32-4"><speaker>BECKETT</speaker><content>Yeah. He confessed to telling Julian that Ella figured it all out, and Julian told him that he would take care of her.</content></utterance>
+<utterance uid="32-5"><speaker>CASTLE</speaker><content>So I guess the Fab Five’s going to be the Fab Four this year.</content></utterance>
+<utterance uid="32-6"><speaker>RYAN</speaker><content>I always thought the fashion industry seemed glamorous. It turns out mobsters are more ethical.</content></utterance>
+<utterance uid="32-7"><speaker>BECKETT</speaker><content>Oh my gosh, why do you think I quit? I’ll take murderers over models every day.</content></utterance>
+<utterance uid="32-8"><speaker>ESPOSITO</speaker><content>If only murderers were this hot.</content></utterance>
+<utterance uid="32-9"><speaker>BECKETT</speaker><content> I’ve got a bit of paperwork to do.</content></utterance>
+<utterance uid="32-10"><speaker>CASTLE</speaker><content>Ah … boring paperwork.  And that is my cue to leave. I’ll see you later?</content></utterance>
+<utterance uid="32-11"><speaker>BECKETT</speaker><content>Yeah, yeah. I’ll see you when I’m done.</content></utterance>
+</scene>
+
+
+
+<scene id="33"><utterance uid="33-1"><speaker>CASTLE</speaker><content>Hey. Shall I pour you a glass?</content></utterance>
+<utterance uid="33-2"><speaker>BECKETT</speaker><content>Uh, no. Not right now.</content></utterance>
+<utterance uid="33-3"><speaker>CASTLE</speaker><content>Everything all right?</content></utterance>
+<utterance uid="33-4"><speaker>BECKETT</speaker><content> Babe, we have to talk.</content></utterance>
+<utterance uid="33-5"><speaker>CASTLE</speaker><content>Wow. That’s something people say before they deliver bad news.</content></utterance>
+<utterance uid="33-6"><speaker>BECKETT</speaker><content>Um … you know when you called up last night, about the venue? I was with Matilda. She wanted me to model a dress.  And it was a wedding dress. And when I saw myself in it, I just – I started to think about my mom. She would have loved to have been a part of all of this, to help pick out the flowers and try on the dresses and … when I looked at myself in the mirror I – I halfway expected to see her right behind me. And she wasn’t there. And just for a moment I thought to myself, I don’t know if I can do all of this without her. And that’s why I said no when you asked about the venue. I’m so sorry. It was stupid –</content></utterance>
+<utterance uid="33-7"><speaker>CASTLE</speaker><content>No. No, not stupid. Human.</content></utterance>
+<utterance uid="33-8"><speaker>BECKETT</speaker><content>Do you know what else I wish she could experience?  You.</content></utterance>
+<utterance uid="33-9"><speaker>CASTLE</speaker><content>Really?</content></utterance>
+<utterance uid="33-10"><speaker>BECKETT</speaker><content>Yeah. She would have loved you.</content></utterance>
+<utterance uid="33-11"><speaker>CASTLE</speaker><content>You know, Kate, if you need more time –</content></utterance>
+<utterance uid="33-12"><speaker>BECKETT</speaker><content>No. No, I don’t need any more time. I don’t even want us to wait until the fall. I think we can find a new venue in the spring.</content></utterance>
+<utterance uid="33-13"><speaker>CASTLE</speaker><content>You think we can pull it off?</content></utterance>
+<utterance uid="33-14"><speaker>BECKETT</speaker><content>Yeah. I mean, I already have the dress.</content></utterance>
+</scene>
+</script>

@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>CHARLES UTLEY</speaker><content>I can't believe you elbowed me in the face, D.</content></utterance>
+<utterance uid="1-2"><speaker>DAMIAN WESTLAKE</speaker><content>It was an accident, Charles. Come inside, I'll get you an ice pack.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>DAMIAN WESTLAKE</speaker><content>Vicky! I've got Charles with me! Vicky!</content></utterance>
+<utterance uid="2-2"><speaker>CHARLES UTLEY</speaker><content>Damian!</content></utterance>
+<utterance uid="2-3"><speaker>DAMIAN WESTLAKE</speaker><content>Vicky?</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>RYAN</speaker><content>I'm just saying, first Valentine's Day you spend with somebody is important.</content></utterance>
+<utterance uid="3-2"><speaker>ESPOSITO</speaker><content>Yeah, but Lanie doesn't care about that stuff, you know?</content></utterance>
+<utterance uid="3-3"><speaker>RYAN</speaker><content>All women care. Beckett, you and Josh, you've got big plans for Valentine's Day, right?</content></utterance>
+<utterance uid="3-4"><speaker>BECKETT</speaker><content>Josh is a surgeon. I'm a cop. In the unlikely event that we have a couple of hours free on Monday night, we might go to dinner.</content></utterance>
+<utterance uid="3-5"><speaker>RYAN</speaker><content>See?</content></utterance>
+<utterance uid="3-6"><speaker>BECKETT</speaker><content>Hey, Castle, it's Beckett. Call me when you get this.</content></utterance>
+<utterance uid="3-7"><speaker>ESPOSITO</speaker><content>Ooh, Castle's gonna be sorry that he missed this one.</content></utterance>
+<utterance uid="3-8"><speaker>BECKETT</speaker><content>Why?</content></utterance>
+<utterance uid="3-9"><speaker>ESPOSITO</speaker><content>Rich people, man. Society murders are always the freakiest.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>OFFICER GRETA BAILEY</speaker><content>Call came in about an hour ago. The owner of the house, Damian Westlake, says all was well when he left at 5 p.m. to meet his neighbor, Charles Utley for a game of pick up. When the men returned at 6 p.m., Victoria Westlake was dead.</content></utterance>
+<utterance uid="4-2"><speaker>BECKETT</speaker><content>Murder weapon?</content></utterance>
+<utterance uid="4-3"><speaker>BECKETT</speaker><content>Nail gun.</content></utterance>
+<utterance uid="4-4"><speaker>OFFICER GRETA BAILEY</speaker><content>It's over there.</content></utterance>
+<utterance uid="4-5"><speaker>ESPOSITO</speaker><content>See? Told you. Freaky.</content></utterance>
+<utterance uid="4-6"><speaker>OFFICER GRETA BAILEY</speaker><content>The back door was ajar. Officers found what appears to be a gang tag on the rear wall of the building. The paint's fresh.</content></utterance>
+<utterance uid="4-7"><speaker>ESPOSITO</speaker><content>I'll reach out to the gang unit, see if they can ID it for us.</content></utterance>
+<utterance uid="4-8"><speaker>RYAN</speaker><content>And I'll talk with Mr. Utley.</content></utterance>
+<utterance uid="4-9"><speaker>BECKETT</speaker><content>Westlakes have a dog, so if neighbors heard barking, we might be able to pinpoint a timeline.</content></utterance>
+<utterance uid="4-10"><speaker>OFFICER GRETA BAILEY</speaker><content>We canvassed and nobody heard the dog. The M.E. tentatively puts time of death between 4:30 and 6 o'clock.</content></utterance>
+<utterance uid="4-11"><speaker>BECKETT</speaker><content>4:30. Which means she might have been dead before the husband left the house. Where is Mr. Westlake?  Thank you.</content></utterance>
+<utterance uid="4-12"><speaker>BECKETT</speaker><content>Mr. Westlake, I'm Detective Kate--</content></utterance>
+<utterance uid="4-13"><speaker>BECKETT</speaker><content>Castle.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>BECKETT</speaker><content>Castle, what are you doing here?</content></utterance>
+<utterance uid="5-2"><speaker>CASTLE</speaker><content>Damian Westlake is an old friend of mine from boarding school. He knows about my relationship with the NYPD. He just called me to give him some support.</content></utterance>
+<utterance uid="5-3"><speaker>BECKETT</speaker><content>Which is when you should have called me to let me know.</content></utterance>
+<utterance uid="5-4"><speaker>CASTLE</speaker><content>I just got here, and I had no idea this would be your case.</content></utterance>
+<utterance uid="5-5"><speaker>BECKETT</speaker><content>Well, now that you do, is there anything you want to tell me that might be pertinent?</content></utterance>
+<utterance uid="5-6"><speaker>CASTLE</speaker><content>Uh, nothing. I'd never even met Vicky. But now at least I can tell Damian the finest detective in New York City is working his wife's case.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>DAMIAN WESTLAKE</speaker><content>Everything was fine when she left. The last thing she said to me was, "Have a good game."</content></utterance>
+<utterance uid="6-2"><speaker>BECKETT</speaker><content>Mr. Westlake, do you know of anyone that might have wanted to harm Vicky?</content></utterance>
+<utterance uid="6-3"><speaker>DAMIAN WESTLAKE</speaker><content>No. Everyone loved her.</content></utterance>
+<utterance uid="6-4"><speaker>BECKETT</speaker><content>Someone spray painted your back wall. Did you notice anyone suspicious hanging out when you left?</content></utterance>
+<utterance uid="6-5"><speaker>DAMIAN WESTLAKE</speaker><content>No. Vicky shouldn't have even been here. She came home early from work with a headache.</content></utterance>
+<utterance uid="6-6"><speaker>CASTLE</speaker><content>Hey. We're gonna catch the guy who did this, okay? I promise.</content></utterance>
+<utterance uid="6-7"><speaker>BECKETT</speaker><content>What did she do for a living?</content></utterance>
+<utterance uid="6-8"><speaker>DAMIAN WESTLAKE</speaker><content>Interior design.</content></utterance>
+<utterance uid="6-9"><speaker>BECKETT</speaker><content>And you?</content></utterance>
+<utterance uid="6-10"><speaker>CASTLE</speaker><content>Damian's a writer.</content></utterance>
+<utterance uid="6-11"><speaker>BECKETT</speaker><content>Anything I might have read?</content></utterance>
+<utterance uid="6-12"><speaker>DAMIAN WESTLAKE</speaker><content>No, I've never been published.</content></utterance>
+<utterance uid="6-13"><speaker>BECKETT</speaker><content>How long were the two of you married?</content></utterance>
+<utterance uid="6-14"><speaker>DAMIAN WESTLAKE</speaker><content>Five years.</content></utterance>
+<utterance uid="6-15"><speaker>BECKETT</speaker><content>And would you characterize your relationship as happy?</content></utterance>
+<utterance uid="6-16"><speaker>CASTLE</speaker><content>Whoa. Why would you need to ask that?</content></utterance>
+<utterance uid="6-17"><speaker>DAMIAN WESTLAKE</speaker><content>It's all right, Ricky. I love my wife very much. She was my whole world.</content></utterance>
+<utterance uid="6-18"><speaker>BECKETT</speaker><content>Mr. Westlake, I'm sorry, but I'm gonna have to ask you a few questions about the murder weapon.</content></utterance>
+<utterance uid="6-19"><speaker>CASTLE</speaker><content>Okay, um...  why would you need to ask him about the murder weapon?</content></utterance>
+<utterance uid="6-20"><speaker>BECKETT</speaker><content>Castle.  The nail gun, was that yours?</content></utterance>
+<utterance uid="6-21"><speaker>DAMIAN WESTLAKE</speaker><content>No. We've been doing some remodeling. Any tools in the house belong to the workmen.</content></utterance>
+<utterance uid="6-22"><speaker>BECKETT</speaker><content>Did you ever have any p--</content></utterance>
+<utterance uid="6-23"><speaker>CASTLE</speaker><content>Were there ever any issues with these workmen?</content></utterance>
+<utterance uid="6-24"><speaker>DAMIAN WESTLAKE</speaker><content>Yeah. Uh, I overheard Vicky on the phone with someone last Friday evening. She told him he was fired and he shouldn't come back.</content></utterance>
+<utterance uid="6-25"><speaker>CASTLE</speaker><content>You know his name?</content></utterance>
+<utterance uid="6-26"><speaker>DAMIAN WESTLAKE</speaker><content>No. I asked her about, she told me it was nothing. Talk to Amber Patinelli. Amber works for Vicky. Look, if you don't mind, I really need to call Vicky's ex-husband, Simon, and her kids. I'm sure the press is gonna be all over this and I don't want them to hear about it on television.</content></utterance>
+<utterance uid="6-27"><speaker>CASTLE</speaker><content>'Course.</content></utterance>
+<utterance uid="6-28"><speaker>DAMIAN WESTLAKE</speaker><content>Excuse me.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>CASTLE</speaker><content>Hey. Why are you mad at me? I'm just looking out for my friend.</content></utterance>
+<utterance uid="7-2"><speaker>BECKETT</speaker><content>You challenged my authority in front of a suspect, Castle.</content></utterance>
+<utterance uid="7-3"><speaker>CASTLE</speaker><content>Since when is Damian a suspect?</content></utterance>
+<utterance uid="7-4"><speaker>BECKETT</speaker><content>Right now, everyone is. You know that. That's how I do my job. I will not have you get in the way of an investigation.</content></utterance>
+<utterance uid="7-5"><speaker>CASTLE</speaker><content>I won't. I won't. I promise. But now, can we get onto real suspects like workmen, like, uh, mystery gang members? Question away. Look, I promised Damian we would get the guy that did this. Let me help you. Please.</content></utterance>
+<utterance uid="7-6"><speaker>ESPOSITO</speaker><content>Yo! Castle!</content></utterance>
+<utterance uid="7-7"><speaker>RYAN</speaker><content>Hey, you made it.</content></utterance>
+<utterance uid="7-8"><speaker>CASTLE</speaker><content>Yeah.</content></utterance>
+<utterance uid="7-9"><speaker>RYAN</speaker><content>So, I talked with Damian Westlake's friend Charles Utley, he said Damian was distraught when he found his wife's body, but he also says that during their normally friendly game, Damian was unusually tense and aggressive.</content></utterance>
+<utterance uid="7-10"><speaker>ESPOSITO</speaker><content>So, maybe he shoots his wife, then goes shoots some hoops, injures his friend, brings him inside to establish an alibi.</content></utterance>
+<utterance uid="7-11"><speaker>CASTLE</speaker><content>You know, Vicky Westlake had an argument with one of her workers on Friday. A worker who, and I'm just speculating here, may have some experience with nail guns. Maybe we should go run and check out that lead before we rush to judgment on an innocent man.</content></utterance>
+<utterance uid="7-12"><speaker>BECKETT</speaker><content>I'm sorry, is this you staying out of the way?</content></utterance>
+<utterance uid="7-13"><speaker>CASTLE</speaker><content>This is me simply making a point about remaining objective.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>ESPOSITO</speaker><content>Excuse me, Amber Patinelli? I'm Detective Esposito, this is Detective Ryan.</content></utterance>
+<utterance uid="8-2"><speaker>RYAN</speaker><content>We'd like to talk with you about Vicky Westlake.</content></utterance>
+<utterance uid="8-3"><speaker>AMBER PATINELLI</speaker><content>Of course. Oh, my God. It's just so terrible.</content></utterance>
+<utterance uid="8-4"><speaker>ESPOSITO</speaker><content>Vicky's husband said that she had a fight with one of the workmen at her house?</content></utterance>
+<utterance uid="8-5"><speaker>AMBER PATINELLI</speaker><content>She fired the carpenter, Morris Hasberg. Oh, my God. You don't think that Morris did this?</content></utterance>
+<utterance uid="8-6"><speaker>RYAN</speaker><content>We're looking at several suspects.</content></utterance>
+<utterance uid="8-7"><speaker>ESPOSITO</speaker><content>What did Morris do to get fired?</content></utterance>
+<utterance uid="8-8"><speaker>AMBER PATINELLI</speaker><content>He stole her engagement ring. Vicky was afraid of getting mugged, so she didn't wear it much. Vicky looked for it in her jewelry box last week and it was missing.</content></utterance>
+<utterance uid="8-9"><speaker>RYAN</speaker><content>Jewelry box. My fiancée never takes her ring off her finger.</content></utterance>
+<utterance uid="8-10"><speaker>AMBER PATINELLI</speaker><content>Is your fiancée's ring eleven karats? Morris was hired to make a cabinet for the master bath. He was the only person in the bedroom. Vicky told him, if he didn't return the ring, she'd have to call the police. Then Morris went crazy.</content></utterance>
+<utterance uid="8-11"><speaker>RYAN</speaker><content>Crazy how?</content></utterance>
+<utterance uid="8-12"><speaker>AMBER PATINELLI</speaker><content>He came to the house on Monday morning and he made a scene. He said that if she didn't stop telling lies, bad things would happen.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>BECKETT</speaker><content>Morris Hasberg.</content></utterance>
+<utterance uid="9-2"><speaker>ESPOSITO</speaker><content>It turns out the Westlakes' carpenter learned his trade at Sing Sing, where he did eight to ten for armed robbery back in the late '90s.</content></utterance>
+<utterance uid="9-3"><speaker>RYAN</speaker><content>Witnesses report seeing his truck in front of the Westlake's townhouse on the day of the murder.</content></utterance>
+<utterance uid="9-4"><speaker>CASTLE</speaker><content>Do I see two men jumping on a hot workmen related lead? That sounded a lot dirtier than I-- than I wanted it to.</content></utterance>
+<utterance uid="9-5"><speaker>RYAN</speaker><content>We'll bring him in.</content></utterance>
+<utterance uid="9-6"><speaker>BECKETT</speaker><content>Okay.</content></utterance>
+<utterance uid="9-7"><speaker>CASTLE</speaker><content>Oh, actually those were-- those...</content></utterance>
+<utterance uid="9-8"><speaker>CASTLE</speaker><content>See? I told you it wasn't Damian.</content></utterance>
+<utterance uid="9-9"><speaker>BECKETT</speaker><content>I never said it was. In fact, I would be very happy if Morris was our guy.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>MORRIS HASBERG</speaker><content>You have the wrong guy.</content></utterance>
+<utterance uid="10-2"><speaker>BECKETT</speaker><content>Morris, forensics came back on the nail gun. Your fingerprints are all over the murder weapon.</content></utterance>
+<utterance uid="10-3"><speaker>MORRIS HASBERG</speaker><content>I must use nail gun. For carpenter.</content></utterance>
+<utterance uid="10-4"><speaker>BECKETT</speaker><content>Well, then what was your truck doing parked on her street on Wednesday?</content></utterance>
+<utterance uid="10-5"><speaker>MORRIS HASBERG</speaker><content>She say come, uh, see her.</content></utterance>
+<utterance uid="10-6"><speaker>CASTLE</speaker><content>You expect us to believe that Mrs. Westlake invited you back into her house after you stole her ring and threatened her?</content></utterance>
+<utterance uid="10-7"><speaker>MORRIS HASBERG</speaker><content>Mrs. Westlake, she find ring. She call to me and say to come there. And then she say, sorry to accuse. She cry.</content></utterance>
+<utterance uid="10-8"><speaker>BECKETT</speaker><content>She cry-- She cried?</content></utterance>
+<utterance uid="10-9"><speaker>MORRIS HASBERG</speaker><content>'S true.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>BECKETT</speaker><content>Hasberg's alibi is truth.</content></utterance>
+<utterance uid="11-2"><speaker>CASTLE</speaker><content>Shut the front door.</content></utterance>
+<utterance uid="11-3"><speaker>BECKETT</speaker><content>CSU inventoried the jewelry and the engagement ring is there.</content></utterance>
+<utterance uid="11-4"><speaker>CASTLE</speaker><content>But there were other prints on the weapon.</content></utterance>
+<utterance uid="11-5"><speaker>BECKETT</speaker><content>Partials, but none of them are in the system.</content></utterance>
+<utterance uid="11-6"><speaker>CASTLE</speaker><content>Okay. So, what's our new theory? Who's our new suspect? Aw, come on, not Damian.</content></utterance>
+<utterance uid="11-7"><speaker>BECKETT</speaker><content>Castle, bad guys breaking into houses bring their own weapons, dogs bark at strangers, and over one third of domestic female homicide victims are murdered by their husbands.</content></utterance>
+<utterance uid="11-8"><speaker>CASTLE</speaker><content>I don't care about statistics. I am telling you, Damian is not capable of murder.</content></utterance>
+<utterance uid="11-9"><speaker>BECKETT</speaker><content>You know, I could say that about maybe three people that I've met in my entire life. What is it about this guy that-- that warrants this unshakable faith that you have in him?</content></utterance>
+<utterance uid="11-10"><speaker>CASTLE</speaker><content>When I was fourteen, my mom sent me to Edgewick Academy. I-- I was homesick and I didn't have any friends, so I wrote about it. One day, I submitted a story to the literary magazine. Damian Westlake was the editor.</content></utterance>
+<utterance uid="11-11"><speaker>BECKETT</speaker><content>And he published it.</content></utterance>
+<utterance uid="11-12"><speaker>CASTLE</speaker><content>More than that. He called me down to his office. He sat me down and he said, "Ricky...you have a great talent." And no one had ever said anything like that to me before. Damian, he encouraged me, he critiqued me, he... he always made me dig a little deeper. Without Damian Westlake, I'm a lawyer. I'm a grifter. I'm a rodeo clown. But I am not a writer. Without him, I'm not me.</content></utterance>
+<utterance uid="11-13"><speaker>ESPOSITO</speaker><content>Yo. We ran a standard background check on Damian Westlake. Turns out Vicky isn't the first family member that he's lost to violence.</content></utterance>
+<utterance uid="11-14"><speaker>CASTLE</speaker><content>You mean his father. When Damian was nineteen, his father was killed at the Westlake vacation home in Puerto Rico.</content></utterance>
+<utterance uid="11-15"><speaker>BECKETT</speaker><content>Not killed, Castle, murdered.</content></utterance>
+<utterance uid="11-16"><speaker>ESPOSITO</speaker><content>And you didn't tell us.</content></utterance>
+<utterance uid="11-17"><speaker>CASTLE</speaker><content>Tell you what? H--how is the tragic death of Damian's father over two decades ago in any way relevant to this case?</content></utterance>
+<utterance uid="11-18"><speaker>BECKETT</speaker><content>I'll tell you how. The cops that were investigating that case named Damian as the prime suspect.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>BECKETT</speaker><content>Castle, it's one thing for you to look out for your friend. It's a completely different story when you hide vital information from me.</content></utterance>
+<utterance uid="12-2"><speaker>CASTLE</speaker><content>I wasn't hiding it! I just didn't think it mattered!</content></utterance>
+<utterance uid="12-3"><speaker>BECKETT</speaker><content>You didn't think it mattered?! That Damian was a suspect in a previous homicide?</content></utterance>
+<utterance uid="12-4"><speaker>CASTLE</speaker><content>I didn't know he was a suspect. And since he was never arrested, and that case is still unsolved, I'm guessing those cops have a lot of theories and no evidence. Like another detective I could name right about now.</content></utterance>
+<utterance uid="12-5"><speaker>BECKETT</speaker><content>You know, if this was anybody else, you'd be asking me why I hadn't already slapped the cuffs on him.</content></utterance>
+<utterance uid="12-6"><speaker>CASTLE</speaker><content>But it isn't anyone else! And I'm telling you, you are way off base on this one!</content></utterance>
+<utterance uid="12-7"><speaker>RYAN</speaker><content>What's going on?</content></utterance>
+<utterance uid="12-8"><speaker>ESPOSITO</speaker><content>Mom and Dad are fighting.</content></utterance>
+<utterance uid="12-9"><speaker>RYAN</speaker><content>Who's winning?</content></utterance>
+<utterance uid="12-10"><speaker>BECKETT</speaker><content>We agreed that you would stay out of my way on this.</content></utterance>
+<utterance uid="12-11"><speaker>CASTLE</speaker><content>Yes. But I did not agree I would stand by and let you railroad my friend.</content></utterance>
+<utterance uid="12-12"><speaker>BECKETT</speaker><content>Castle! You are too close to this one! You need to go home! Now!</content></utterance>
+<utterance uid="12-13"><speaker>RYAN</speaker><content>Yeah, thanks, Bill. I really appreciate it.</content></utterance>
+<utterance uid="12-14"><speaker>ESPOSITO</speaker><content>...in about five minutes.</content></utterance>
+<utterance uid="12-15"><speaker>RYAN</speaker><content>Yeah, as soon as possible. </content></utterance>
+<utterance uid="12-16"><speaker>ESPOSITO</speaker><content>Okay. </content></utterance>
+<utterance uid="12-17"><speaker>BECKETT</speaker><content>Let's get a hold of Phillip Westlake's case file. I want to find out why no arrests were made. And Vicky Westlake's ex-husband, Simon Campbell, let's bring him in.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>DAMIAN WESTLAKE</speaker><content>Sorry, I...had to get out of there. Keep thinking I'm going to hear Vicky's voice. That I'm gonna come around a corner and see her curled up on the sofa.</content></utterance>
+<utterance uid="13-2"><speaker>CASTLE</speaker><content>Listen, Damian, I'm sorry. Something's come up in the investigation. Your father's murder. You were a suspect.</content></utterance>
+<utterance uid="13-3"><speaker>DAMIAN WESTLAKE</speaker><content>Some creep broke into our house, robbed the place, and shot my father. The cops decided on day one that it must have been me.</content></utterance>
+<utterance uid="13-4"><speaker>CASTLE</speaker><content>Were you there?</content></utterance>
+<utterance uid="13-5"><speaker>DAMIAN WESTLAKE</speaker><content>I was at college 2,000 miles away.</content></utterance>
+<utterance uid="13-6"><speaker>CASTLE</speaker><content>I know you and your father didn't have the, uh, the best relationship.</content></utterance>
+<utterance uid="13-7"><speaker>DAMIAN WESTLAKE</speaker><content>It only got worse after my mother passed away.</content></utterance>
+<utterance uid="13-8"><speaker>CASTLE</speaker><content>And when he died, you inherited...</content></utterance>
+<utterance uid="13-9"><speaker>DAMIAN WESTLAKE</speaker><content>Everything. Detective Beckett thinks I got away with murder once and now I've done it again, doesn't she?</content></utterance>
+<utterance uid="13-10"><speaker>CASTLE</speaker><content>Damian, you should've told me. I'm not a cop, I'm your friend.</content></utterance>
+<utterance uid="13-11"><speaker>DAMIAN WESTLAKE</speaker><content>That's right, you are. Remember when you first came to Edgewick?</content></utterance>
+<utterance uid="13-12"><speaker>CASTLE</speaker><content>I remember.</content></utterance>
+<utterance uid="13-13"><speaker>DAMIAN WESTLAKE</speaker><content>I was the one that told them to give you a chance. I'm looking for the same chance now.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>BECKETT</speaker><content>Mr. Campbell, how did you get along with your ex-wife?</content></utterance>
+<utterance uid="14-2"><speaker>SIMON CAMPBELL</speaker><content>Well, it was hard for a while, I was bitter. Vicky left me for him, you know?</content></utterance>
+<utterance uid="14-3"><speaker>BECKETT</speaker><content>Mm-hmm.</content></utterance>
+<utterance uid="14-4"><speaker>SIMON CAMPBELL</speaker><content>We had a home, we had two kids going into their teens and she fell madly in love with Damian Westlake and left me.</content></utterance>
+<utterance uid="14-5"><speaker>BECKETT</speaker><content>And what did you know about him? About his past?</content></utterance>
+<utterance uid="14-6"><speaker>SIMON CAMPBELL</speaker><content>I know he doesn't work. He comes from money, I guess.</content></utterance>
+<utterance uid="14-7"><speaker>BECKETT</speaker><content>Mm-hmm.</content></utterance>
+<utterance uid="14-8"><speaker>SIMON CAMPBELL</speaker><content>A typical spoiled child that grew into a spoiled man. I know Vicky regretted marrying him.</content></utterance>
+<utterance uid="14-9"><speaker>BECKETT</speaker><content>And why would you say that?</content></utterance>
+<utterance uid="14-10"><speaker>SIMON CAMPBELL</speaker><content>Vicky's business is on the ground floor of our Brownstone. I still live in the top two floors with the kids. I would see her every day. You know, singing a little tune or gazing fondly at some new bauble he had gotten her. Then, lately, there was less singing and more crying. Monday she told me she thought she had made a mistake. We even talked about getting back together. What, you think it's a coincidence that two days later she was dead?</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>MARTHA</speaker><content>Richard! I thought you went to bed hours ago.</content></utterance>
+<utterance uid="15-2"><speaker>CASTLE</speaker><content>Couldn't sleep.</content></utterance>
+<utterance uid="15-3"><speaker>MARTHA</speaker><content>Couldn't sleep because of your fight with Beckett? Or because there's a possibility your old friend Damian may be a double murderer?</content></utterance>
+<utterance uid="15-4"><speaker>CASTLE</speaker><content>Both, and thank you for putting it so bluntly.</content></utterance>
+<utterance uid="15-5"><speaker>MARTHA</speaker><content>Richard, you know--</content></utterance>
+<utterance uid="15-6"><speaker>CASTLE</speaker><content>Don't-- don't say it. I know what you're thinking, 'cause I'm thinking it, too. What are the chances Damian's father and wife are both murdered in home invasions, but he had nothing to do with them?</content></utterance>
+<utterance uid="15-7"><speaker>MARTHA</speaker><content>So, what do you think?</content></utterance>
+<utterance uid="15-8"><speaker>CASTLE</speaker><content>I know, if he is guilty, I'll need to be convinced beyond a reasonable doubt. I will need solid evidence, not just coincidence and speculation.</content></utterance>
+<utterance uid="15-9"><speaker>MARTHA</speaker><content>Have you ever known Beckett to settle for less than that?</content></utterance>
+<utterance uid="15-10"><speaker>CASTLE</speaker><content>No.</content></utterance>
+<utterance uid="15-11"><speaker>MARTHA</speaker><content>I think you should face it, kiddo. You may owe that woman an apology. Especially if you want to stay on the case.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>BECKETT</speaker><content>Oh, no. Ugh.</content></utterance>
+<utterance uid="16-2"><speaker>CASTLE</speaker><content>Can I give you a hand with that?</content></utterance>
+<utterance uid="16-3"><speaker>BECKETT</speaker><content>I got it.</content></utterance>
+<utterance uid="16-4"><speaker>CASTLE</speaker><content>You just-- you--</content></utterance>
+<utterance uid="16-5"><speaker>BECKETT</speaker><content>Castle, I said I got it. Okay?</content></utterance>
+<utterance uid="16-6"><speaker>BECKETT</speaker><content>What are you doing here?</content></utterance>
+<utterance uid="16-7"><speaker>CASTLE</speaker><content>When I told Damian the best detective in New York was working his wife's case, I meant it. And I'm-- I'm sorry to have doubted you. If you let me back, I promise I will do my best to remain objective.</content></utterance>
+<utterance uid="16-8"><speaker>BECKETT</speaker><content>Well, that might be harder than you think.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>BECKETT</speaker><content>The Westlakes' financial records. This is their prenuptial agreement, and it's pretty clear that, if they got divorced, Damian would get nothing. But with her dead, he inherits 10 million.</content></utterance>
+<utterance uid="17-2"><speaker>CASTLE</speaker><content>Yes, but you're forgetting that Damian is already rich. The money he got when his father died.</content></utterance>
+<utterance uid="17-3"><speaker>RYAN</speaker><content>When his father was murdered. And also, that money is gone. Last of his cash, Damian spent wooing Vicky. He showered her with expensive presents, the engagement ring, a tennis bracelet, diamond earrings.</content></utterance>
+<utterance uid="17-4"><speaker>BECKETT</speaker><content>And by the time they got married, Damian was tapped out of money. Vicky was paying for all the bills.</content></utterance>
+<utterance uid="17-5"><speaker>RYAN</speaker><content>According to Damian's credit card receipts, he spent her money on good Scotch, box seats, and Cuban cigars. Meanwhile, most of her charges were for her design business. Appraisers, a rug place, a finisher...</content></utterance>
+<utterance uid="17-6"><speaker>CASTLE</speaker><content>So?</content></utterance>
+<utterance uid="17-7"><speaker>BECKETT</speaker><content>So, maybe Vicky got tired of being his ATM. Maybe she threatened to cut him off just like his father did. Castle, I read the Phillip Westlake case files. The cops were sure it was him.</content></utterance>
+<utterance uid="17-8"><speaker>CASTLE</speaker><content>Yes, but they were wrong. Just like you're wrong now.</content></utterance>
+<utterance uid="17-9"><speaker>BECKETT</speaker><content>I'm sorry, is this you being objective? Or is this you staying out of my way?</content></utterance>
+<utterance uid="17-10"><speaker>CASTLE</speaker><content>This is me saying, maybe we could broaden our suspect pool a little bit. Certainly there's someone else we could be looking at?</content></utterance>
+<utterance uid="17-11"><speaker>ESPOSITO</speaker><content>I think I might be able to help with that. The gang unit ID-ed the tag on the back wall of the Westlakes'. It's a personal signature. The guy's name is Omar Lincoln.</content></utterance>
+<utterance uid="17-12"><speaker>CASTLE</speaker><content>Please, please tell me he's a very bad man.</content></utterance>
+<utterance uid="17-13"><speaker>ESPOSITO</speaker><content>Well, he did two years for assault with a deadly weapon and a B_E in 2007.</content></utterance>
+<utterance uid="17-14"><speaker>BECKETT</speaker><content>Huh?</content></utterance>
+<utterance uid="17-15"><speaker>ESPOSITO</speaker><content>Called the Graffiti Squad. They've been tracking this guy. Got a pop on his location.</content></utterance>
+<utterance uid="17-16"><speaker>CASTLE</speaker><content>All right! Let's go get this guy, huh?!</content></utterance>
+<utterance uid="17-17"><speaker>BECKETT</speaker><content>Okay, go. I got it.</content></utterance>
+<utterance uid="17-18"><speaker>RYAN</speaker><content>Thank you.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>ESPOSITO</speaker><content>Yo! Omar! Come here.</content></utterance>
+<utterance uid="18-2"><speaker>RYAN</speaker><content>NYPD, come on down.</content></utterance>
+<utterance uid="18-3"><speaker>OMAR LINCOLN</speaker><content>So long, detectives. Oh!</content></utterance>
+<utterance uid="18-4"><speaker>RYAN</speaker><content>Hey!</content></utterance>
+<utterance uid="18-5"><speaker>ESPOSITO</speaker><content>Hey!</content></utterance>
+<utterance uid="18-6"><speaker>RYAN</speaker><content>Hey, wait a minute!</content></utterance>
+<utterance uid="18-7"><speaker>OMAR LINCOLN</speaker><content>Oh, God, oh!</content></utterance>
+<utterance uid="18-8"><speaker>ESPOSITO</speaker><content>NYPD! Stop the truck!</content></utterance>
+<utterance uid="18-9"><speaker>RYAN</speaker><content>Stop!</content></utterance>
+<utterance uid="18-10"><speaker>ESPOSITO</speaker><content>Stop the truck!</content></utterance>
+<utterance uid="18-11"><speaker>RYAN</speaker><content>Stop the truck! All right, get down.</content></utterance>
+<utterance uid="18-12"><speaker>OMAR LINCOLN</speaker><content>Yo, if this is about that damn rich lady, I don't know nothing.</content></utterance>
+<utterance uid="18-13"><speaker>RYAN</speaker><content>All right, come on. Let's go.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>OMAR LINCOLN</speaker><content>Okay, I was at the house, yeah. But I didn't kill her.</content></utterance>
+<utterance uid="19-2"><speaker>ESPOSITO</speaker><content>Here's what I think happened, Omar. You were back there tagging the wall. Mrs. Westlake opens the door and sees you. You shove her inside and you grab the first weapon you find so that she doesn't call the cops and you don't get busted on your parole.</content></utterance>
+<utterance uid="19-3"><speaker>OMAR LINCOLN</speaker><content>No, no. Look, I tagged the wall. Right after that, I hit the flower shop on 63rd. Owner sees me, pulls a .38, I get outta there hella fast. You can ask him.</content></utterance>
+<utterance uid="19-4"><speaker>ESPOSITO</speaker><content>What time was this?</content></utterance>
+<utterance uid="19-5"><speaker>OMAR LINCOLN</speaker><content>Quarter to five about. You make this vandalism charge go away, I'll tell you fine detectives who did it.</content></utterance>
+<utterance uid="19-6"><speaker>ESPOSITO</speaker><content>Okay.</content></utterance>
+<utterance uid="19-7"><speaker>OMAR LINCOLN</speaker><content>Her husband.</content></utterance>
+<utterance uid="19-8"><speaker>CASTLE</speaker><content>Ah, come on.</content></utterance>
+<utterance uid="19-9"><speaker>ESPOSITO</speaker><content>Castle. All right, Omar. Talk to me.</content></utterance>
+<utterance uid="19-10"><speaker>OMAR LINCOLN</speaker><content>I heard them two fighting. I mean breezy had a Park Avenue on. "You're a liar! You're a thief! I'm sorry I ever met you! I want a divorce!" If I was him, I would've killed her to just to shut her up. I-- I mean... Don't even write that.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>CASTLE</speaker><content>I can't believe we're taking Omar Lincoln at his word.</content></utterance>
+<utterance uid="20-2"><speaker>ESPOSITO</speaker><content>I'm taking the word of Dan Samuels, who confirms at 4:50 p.m. he was at his flower shop, pointing a .38 at Omar Lincoln, and that Omar ran north, which is in the opposite direction of the Westlakes' townhome.</content></utterance>
+<utterance uid="20-3"><speaker>CASTLE</speaker><content>Yes, but maybe he doubled back--</content></utterance>
+<utterance uid="20-4"><speaker>ESPOSITO</speaker><content>Omar says that he overheard the Westlakes having a knockdown drag out. That she used the "D" word.</content></utterance>
+<utterance uid="20-5"><speaker>BECKETT</speaker><content>Damian told us that things were fine between them, and that the last thing that Vicky said to him was, "Have a good game."</content></utterance>
+<utterance uid="20-6"><speaker>CASTLE</speaker><content>They had a fight. Married people fight.</content></utterance>
+<utterance uid="20-7"><speaker>BECKETT</speaker><content>Well, then why did Damian lie to us about it?</content></utterance>
+<utterance uid="20-8"><speaker>CASTLE</speaker><content>Maybe he was afraid you'd, I don't know, suspect him of murder?</content></utterance>
+<utterance uid="20-9"><speaker>BECKETT</speaker><content>Or maybe he was afraid that we'd figure out what the fight was about. These are Damian's credit card charges.</content></utterance>
+<utterance uid="20-10"><speaker>CASTLE</speaker><content>Yeah, we went over those. Uh, cigars, Scotch, box seats.</content></utterance>
+<utterance uid="20-11"><speaker>RYAN</speaker><content>This is a different card. Took us a while to find it because Damian paid the bill from a pocket account and he kept it a secret from Vicky.</content></utterance>
+<utterance uid="20-12"><speaker>BECKETT</speaker><content>And, given the charges, I'm sure he was keeping other secrets. There's a florist, some jewelry store at the mall, and he rented a playroom at the Varick Club at least once a week.</content></utterance>
+<utterance uid="20-13"><speaker>RYAN</speaker><content>What's in a playroom?</content></utterance>
+<utterance uid="20-14"><speaker>CASTLE</speaker><content>Not much more than a bed.</content></utterance>
+<utterance uid="20-15"><speaker>CASTLE</speaker><content>Yes, I'm a member.</content></utterance>
+<utterance uid="20-16"><speaker>RYAN</speaker><content>So, why would Damian rent a bed when he had a nice, big townhouse?</content></utterance>
+<utterance uid="20-17"><speaker>CASTLE</speaker><content>There's got to be a reasonable explanation.</content></utterance>
+<utterance uid="20-18"><speaker>BECKETT</speaker><content>Well, let's go see if we can find it.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>CALLIE LANGSTON</speaker><content>Mr. Castle, welcome back. It's been a long time.</content></utterance>
+<utterance uid="21-2"><speaker>CASTLE</speaker><content>Yes, well, I've been, uh, working a lot. No time for play.</content></utterance>
+<utterance uid="21-3"><speaker>CALLIE LANGSTON</speaker><content>Ah.</content></utterance>
+<utterance uid="21-4"><speaker>BECKETT</speaker><content>We're actually here about another one of your members. Damian Westlake. Apparently, he would come here often, rent a playroom.</content></utterance>
+<utterance uid="21-5"><speaker>CALLIE LANGSTON</speaker><content>I should probably get my supervisor.</content></utterance>
+<utterance uid="21-6"><speaker>CASTLE</speaker><content>Callie, it's okay, you can tell us. Was Damian meeting someone here?</content></utterance>
+<utterance uid="21-7"><speaker>CALLIE LANGSTON</speaker><content>Um.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>CALLIE LANGSTON</speaker><content>We're not supposed to get involved with members. Especially married members. But Damian... we couldn't help it. We fell in love.</content></utterance>
+<utterance uid="22-2"><speaker>BECKETT</speaker><content>Did he tell you that he planned on leaving his wife?</content></utterance>
+<utterance uid="22-3"><speaker>CALLIE LANGSTON</speaker><content>Yeah.</content></utterance>
+<utterance uid="22-4"><speaker>BECKETT</speaker><content>Did he tell you about the problems with the money?</content></utterance>
+<utterance uid="22-5"><speaker>CALLIE LANGSTON</speaker><content>N--no. Uh, Mrs. Westlake did.</content></utterance>
+<utterance uid="22-6"><speaker>CASTLE</speaker><content>You spoke to Mrs. Westlake?</content></utterance>
+<utterance uid="22-7"><speaker>CALLIE LANGSTON</speaker><content>She came to the club Wednesday morning. She said that she had figured it out about Damian and me, and she wanted to warn me.</content></utterance>
+<utterance uid="22-8"><speaker>CASTLE</speaker><content>About what?</content></utterance>
+<utterance uid="22-9"><speaker>CALLIE LANGSTON</speaker><content>Mrs. Westlake said that she was going to leave Damian, and then he wouldn't have any money. She said he couldn't live without money, so he would find someone else. A woman who could support him.</content></utterance>
+<utterance uid="22-10"><speaker>BECKETT</speaker><content>And did you tell Damian about the conversation you had with his wife?</content></utterance>
+<utterance uid="22-11"><speaker>BECKETT</speaker><content>And what did he say?</content></utterance>
+<utterance uid="22-12"><speaker>CALLIE LANGSTON</speaker><content>He said he loved me, and that nothing would keep us apart. Then I heard about Mrs. Westlake on the news.</content></utterance>
+<utterance uid="22-13"><speaker>BECKETT</speaker><content>Did you talk to Damian after you heard about his wife's murder?</content></utterance>
+<utterance uid="22-14"><speaker>CALLIE LANGSTON</speaker><content>Just once. He said we couldn't see each other for a while. Until things calmed down. He told me that he didn't do it. But then he said he knew if the cops asked me that I should say that we weren't together and that it could make him look bad. What am I supposed to think?</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>BECKETT</speaker><content>Callie's alibi checks out. She was at work on Wednesday until 7 p.m. Uniforms are bringing Damian in now.</content></utterance>
+<utterance uid="23-2"><speaker>CASTLE</speaker><content>Look, maybe Damian is a cheater and a bum, and a bad husband...</content></utterance>
+<utterance uid="23-3"><speaker>BECKETT</speaker><content>Maybe?</content></utterance>
+<utterance uid="23-4"><speaker>CASTLE</speaker><content>That doesn't make him a killer. And you keep looking at me like I'm crazy for believing in him, but that's just because you don't know him.</content></utterance>
+<utterance uid="23-5"><speaker>BECKETT</speaker><content>Castle, neither do you. The Damian that you think you know doesn't exist. You made him up just like you made up Derek Storm, just like you made up Nikki Heat. He's a character in a story that you told yourself when you were a homesick fourteen-year-old little boy. And maybe it's time to let him go.</content></utterance>
+<utterance uid="23-6"><speaker>BECKETT</speaker><content>You can watch from Observation. You don't want to be in there for this.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>DAMIAN WESTLAKE</speaker><content>You know, people keep telling me I should hire a lawyer. I say I'm innocent. I-- I shouldn't need a lawyer.</content></utterance>
+<utterance uid="24-2"><speaker>BECKETT</speaker><content>If you're innocent, Mr. Westlake, why is it every time I turn over a rock in this case, some dirty secret of yours slithers out?</content></utterance>
+<utterance uid="24-3"><speaker>DAMIAN WESTLAKE</speaker><content>I didn't do this.</content></utterance>
+<utterance uid="24-4"><speaker>BECKETT</speaker><content>That's what you said to the cops in Puerto Rico, too. Isn't it funny how you keep finding yourself in the same situation, telling the same stories? I've got a story, too. You want to hear it? My story is about a handsome little prince who only ever wanted to live well. So, he killed his dad, the king, and he stole all of his gold, and he spent it and he spent it until it was all gone.</content></utterance>
+<utterance uid="24-5"><speaker>DAMIAN WESTLAKE</speaker><content>I didn't marry Vicky for her money. I loved her.</content></utterance>
+<utterance uid="24-6"><speaker>BECKETT</speaker><content>And what about Callie? That's right, Damian. We talked to her. She said that you were in love with her, and that you told her that you wanted the two of you to be together. Vicky was leaving you. Soon, you'd be free to have your happily ever after. But there's just one problem: once again, you were out of gold. Vicky stood between you and a fortune. We know what happens to people when they do that. You were the last one to see her alive. You were the only one with motive.</content></utterance>
+<utterance uid="24-7"><speaker>DAMIAN WESTLAKE</speaker><content>But I didn't kill her!</content></utterance>
+<utterance uid="24-8"><speaker>BECKETT</speaker><content>Damian Westlake, you're under arrest for the murder--</content></utterance>
+<utterance uid="24-9"><speaker>DAMIAN WESTLAKE</speaker><content>You're making a mistake.</content></utterance>
+<utterance uid="24-10"><speaker>BECKETT</speaker><content>--of Victoria Westlake. You have the right--</content></utterance>
+<utterance uid="24-11"><speaker>DAMIAN WESTLAKE</speaker><content>Look, I didn't do this.</content></utterance>
+<utterance uid="24-12"><speaker>BECKETT</speaker><content>--to remain silent. You have the right to an attorney .</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>CASTLE</speaker><content>Alexis up and gone already?</content></utterance>
+<utterance uid="25-2"><speaker>MARTHA</speaker><content>Oh, yeah. She wanted to window shop before her violin lesson. It's her first Valentine's Day with Ashley and she's feeling the pressure.</content></utterance>
+<utterance uid="25-3"><speaker>CASTLE</speaker><content>Ah, yes. She wants a gift that says, "I love you," but nothing that says, "I love you more than life itself. Please don't leave me or I may die."</content></utterance>
+<utterance uid="25-4"><speaker>MARTHA</speaker><content>Well, that's why you guys go for the chocolates and the flowers.</content></utterance>
+<utterance uid="25-5"><speaker>CASTLE</speaker><content>I wish the choice I had to make today was so simple. I realize I have the choice to believe in two terrible things. Either Damian is a killer, or Beckett's arrested an innocent man. Just thinking about it's making my head hurt.</content></utterance>
+<utterance uid="25-6"><speaker>MARTHA</speaker><content>Well, then forget your head. Listen to your heart.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>DAMIAN WESTLAKE</speaker><content>Ricky.</content></utterance>
+<utterance uid="26-2"><speaker>CASTLE</speaker><content>I keep thinking back to when I was a senior. You were off at Harvard. You'd send me pages you were working on for your novel. And they were good, Damian. And you had talent. Why'd you throw it away?</content></utterance>
+<utterance uid="26-3"><speaker>DAMIAN WESTLAKE</speaker><content>Nah, you were the writer, Ricky. Not me. I didn't have anything to say. After I inherited all that money, I just didn't even want to try anymore. But when I look back at my life, I hope you won't mind if I list you as one of my few accomplishments.</content></utterance>
+<utterance uid="26-4"><speaker>CASTLE</speaker><content>You should've told me about Callie.</content></utterance>
+<utterance uid="26-5"><speaker>DAMIAN WESTLAKE</speaker><content>I swear to you, I didn't kill my wife.</content></utterance>
+<utterance uid="26-6"><speaker>CASTLE</speaker><content>All right. Can you think of anything we might've overlooked, anything that might speak to your innocence?</content></utterance>
+<utterance uid="26-7"><speaker>DAMIAN WESTLAKE</speaker><content>I slept in. I went to the gym. I had lunch in a cafe on the West Side. When I got home, Vicky was already there. She had been to see Callie. We fought. God, for hours.</content></utterance>
+<utterance uid="26-8"><speaker>CASTLE</speaker><content>She said she wanted a divorce.</content></utterance>
+<utterance uid="26-9"><speaker>DAMIAN WESTLAKE</speaker><content>Yeah, she-- she showed me an envelope, said there were papers inside that our lawyer had drawn up for her to sign. She was gonna end the marriage. I begged her to reconsider. And she asked me to leave. She needed to think.</content></utterance>
+<utterance uid="26-10"><speaker>CASTLE</speaker><content>You said Vicky showed you an envelope? What'd it look like?</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>BLANCA</speaker><content>I gotta get back to my route.</content></utterance>
+<utterance uid="27-2"><speaker>CASTLE</speaker><content>Just five minutes, I promise. Ah, hello, hello.</content></utterance>
+<utterance uid="27-3"><speaker>BECKETT</speaker><content>Castle?</content></utterance>
+<utterance uid="27-4"><speaker>CASTLE</speaker><content>Everyone, this is Blanca.</content></utterance>
+<utterance uid="27-5"><speaker>ESPOSITO</speaker><content>Hola. Que estás haciendo aquí?</content></utterance>
+<utterance uid="27-6"><speaker>BLANCA</speaker><content>Está loco.</content></utterance>
+<utterance uid="27-7"><speaker>ESPOSITO</speaker><content>Ah, lo siento. Bueno suerte.</content></utterance>
+<utterance uid="27-8"><speaker>CASTLE</speaker><content>Yeah. I don't-- I don't know what-- So, first of all, you were right. Damian and Vicky did have a fight the night she died, and she did tell him she wanted a divorce. As a matter of fact, she showed him a large manila envelope full of papers from her lawyer that she was going to sign.</content></utterance>
+<utterance uid="27-9"><speaker>BECKETT</speaker><content>An envelope with legal papers? There wasn't anything about this in the CSU report.</content></utterance>
+<utterance uid="27-10"><speaker>CASTLE</speaker><content>Exactly. Blanca, please tell them what happened to it.</content></utterance>
+<utterance uid="27-11"><speaker>BLANCA</speaker><content>Then I can go back to my route?</content></utterance>
+<utterance uid="27-12"><speaker>CASTLE</speaker><content>Yes, of course.</content></utterance>
+<utterance uid="27-13"><speaker>BLANCA</speaker><content>I was delivering the mail Wednesday afternoon. As I made my way up 69 towards Park, I passed by Westlake and Mr. Utley. I said hello, they said hello back. A couple of minutes later, I get to the Westlakes' residence, the door opens, and Mrs. Westlake comes running out and hands me a large manila envelope. She said she wanted to make sure it went out in that day's mail.</content></utterance>
+<utterance uid="27-14"><speaker>BECKETT</speaker><content>Wait a minute. So, you're positive that you saw Mrs. Westlake after you saw Damian?</content></utterance>
+<utterance uid="27-15"><speaker>BLANCA</speaker><content>Lady, I couldn't be more sure. Anything else?</content></utterance>
+<utterance uid="27-16"><speaker>CASTLE</speaker><content>No, that's it. Thank you.</content></utterance>
+<utterance uid="27-17"><speaker>BLANCA</speaker><content>Then I'm leaving now.</content></utterance>
+<utterance uid="27-18"><speaker>CASTLE</speaker><content>Of course. Thank you, Blanca.</content></utterance>
+<utterance uid="27-19"><speaker>RYAN</speaker><content>So, Vicky was alive after Damian left the house.</content></utterance>
+<utterance uid="27-20"><speaker>ESPOSITO</speaker><content>And he was with Charles Utley until they came back and found her dead.</content></utterance>
+<utterance uid="27-21"><speaker>CASTLE</speaker><content>Which means...</content></utterance>
+<utterance uid="27-22"><speaker>BECKETT</speaker><content>Damian couldn't have killed her.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>MONTGOMERY</speaker><content>Got it. D.A.'s office just kicked Damian Westlake loose, and they weren't too happy about it either.</content></utterance>
+<utterance uid="28-2"><speaker>BECKETT</speaker><content>Sir, if Westlake didn't kill his wife, then he hired someone else to do it for him, just like he did the last time.</content></utterance>
+<utterance uid="28-3"><speaker>CASTLE</speaker><content>Wasn't it you that said that bad guys always bring their own weapons?</content></utterance>
+<utterance uid="28-4"><speaker>BECKETT</speaker><content>Not when they're trying to make it look like a push-in robbery gone wrong?</content></utterance>
+<utterance uid="28-5"><speaker>CASTLE</speaker><content>What about the dog that didn't bark?</content></utterance>
+<utterance uid="28-6"><speaker>BECKETT</speaker><content>He got the dog used to the guy.</content></utterance>
+<utterance uid="28-7"><speaker>CASTLE</speaker><content>Come on. You just can't get over the fact that Damian was a person of interest in his father's murder.</content></utterance>
+<utterance uid="28-8"><speaker>BECKETT</speaker><content>I won't ignore the fact that there is a pattern here. People close to this guy seem to die violently.</content></utterance>
+<utterance uid="28-9"><speaker>CASTLE</speaker><content>Or maybe somebody is using Damian's tragic past to frame him for Vicky's murder. Now, there's another suspect right in front of you that you're not even looking at. Someone who had motive, means, and opportunity.</content></utterance>
+<utterance uid="28-10"><speaker>BECKETT</speaker><content>And that would be whom, exactly?</content></utterance>
+<utterance uid="28-11"><speaker>CASTLE</speaker><content>Simon Campbell, Vicky's ex-husband. Think about it. Abandoned, cuckolded Simon. Do we really know this guy? Do we have any idea what he's capable of?</content></utterance>
+<utterance uid="28-12"><speaker>MONTGOMERY</speaker><content>Well, do we?</content></utterance>
+<utterance uid="28-13"><speaker>BECKETT</speaker><content>All the evidence points to Damian.</content></utterance>
+<utterance uid="28-14"><speaker>CASTLE</speaker><content>Yes, but wouldn't that evidence be less conclusive if Damian didn't have this old murder hanging over his head? Or, better yet, if there was proof that Phillip Westlake was killed by a random intruder?</content></utterance>
+<utterance uid="28-15"><speaker>BECKETT</speaker><content>Castle, there isn't any proof.</content></utterance>
+<utterance uid="28-16"><speaker>CASTLE</speaker><content>Not yet, there isn't. Since you can't see through the cloud of suspicion surrounding Damian, I'm gonna clear the air. I'm gonna solve Phillip Westlake's murder, prove my friend didn't do it. Meanwhile, you can check out Simon Campbell.</content></utterance>
+<utterance uid="28-17"><speaker>MONTGOMERY</speaker><content>I need to go to the D.A. with something solid. Can you prove Westlake hired somebody to off his wife?</content></utterance>
+<utterance uid="28-18"><speaker>BECKETT</speaker><content>I just need a couple of days.</content></utterance>
+<utterance uid="28-19"><speaker>RYAN</speaker><content>So, what's our next move? If Damian hired someone to kill Vicky, then there's a money trail. I'll find it. Meanwhile, you guys look into Simon Campbell.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>MARTHA</speaker><content>I'm sure he'll love it. Darling! You're daughter's a genius.</content></utterance>
+<utterance uid="29-2"><speaker>CASTLE</speaker><content>I knew that already.</content></utterance>
+<utterance uid="29-3"><speaker>MARTHA</speaker><content>For Valentine's Day, she bought Ashley a frame, had it engraved "True Love," and put in a picture of his pet rat, Theodore.</content></utterance>
+<utterance uid="29-4"><speaker>CASTLE</speaker><content>Heartfelt, yet humorous. Genius.</content></utterance>
+<utterance uid="29-5"><speaker>ALEXIS</speaker><content>What's in the box?</content></utterance>
+<utterance uid="29-6"><speaker>CASTLE</speaker><content>This is Phillip Westlake's murder file. I told Beckett I'm gonna solve the case.</content></utterance>
+<utterance uid="29-7"><speaker>MARTHA</speaker><content>Oh, Richard.</content></utterance>
+<utterance uid="29-8"><speaker>CASTLE</speaker><content>What? You're the one who told me to follow my heart.</content></utterance>
+<utterance uid="29-9"><speaker>MARTHA</speaker><content>Yes, but you know what I--</content></utterance>
+<utterance uid="29-10"><speaker>ALEXIS</speaker><content>Dad, that case is older than me.</content></utterance>
+<utterance uid="29-11"><speaker>CASTLE</speaker><content>This doesn't sound like encouragement.</content></utterance>
+<utterance uid="29-12"><speaker>ALEXIS</speaker><content>Then...would you like some help?</content></utterance>
+<utterance uid="29-13"><speaker>CASTLE</speaker><content>Yes, I would.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>BECKETT</speaker><content>To hire a gunman, you need cash. And according to every that we've been through here, Damian didn't have any.</content></utterance>
+<utterance uid="30-2"><speaker>ESPOSITO</speaker><content>Yeah, well, it's somewhere. We just haven't found it yet.</content></utterance>
+<utterance uid="30-3"><speaker>RYAN</speaker><content>All the expensive knickknacks in the house, maybe he pawned a figurine.</content></utterance>
+<utterance uid="30-4"><speaker>BECKETT</speaker><content>Vicky was a designer. She was meticulous. She would've noticed if something went missing, like the engagement ring.</content></utterance>
+<utterance uid="30-5"><speaker>ESPOSITO</speaker><content>Got something?</content></utterance>
+<utterance uid="30-6"><speaker>BECKETT</speaker><content>Omar Lincoln overheard Vicky call Damian a thief, and when Vicky apologized to Morris Hasberg for accusing him of stealing her engagement ring, she cried. Maybe she wasn't crying because of Morris. Maybe she was crying because she realized that her husband was stealing from her.</content></utterance>
+<utterance uid="30-7"><speaker>RYAN</speaker><content>CSU said the ring was accounted for.</content></utterance>
+<utterance uid="30-8"><speaker>BECKETT</speaker><content>Vicky's credit card, wasn't there an appraiser on it?</content></utterance>
+<utterance uid="30-9"><speaker>ESPOSITO</speaker><content>Yeah. Why?</content></utterance>
+<utterance uid="30-10"><speaker>BECKETT</speaker><content>I think I know how Damian got his money.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>WALLACE BENNER</speaker><content>It was terrible what happened to Mrs. Westlake.</content></utterance>
+<utterance uid="31-2"><speaker>BECKETT</speaker><content>She came to see you Tuesday afternoon.</content></utterance>
+<utterance uid="31-3"><speaker>RYAN</speaker><content>What for?</content></utterance>
+<utterance uid="31-4"><speaker>WALLACE BENNER</speaker><content>Well, she wanted her jewelry appraised. I'm afraid I had some bad news for her. The stones were imitation, and I see that quite a bit. People need cash in a hurry, but they don't want to give up their jewelry, so they sell the diamonds and they replace them with high quality silicon carbide.</content></utterance>
+<utterance uid="31-5"><speaker>BECKETT</speaker><content>Was one of the pieces an eleven karat engagement ring?</content></utterance>
+<utterance uid="31-6"><speaker>WALLACE BENNER</speaker><content>Yes. The entire basket setting had been replaced. She said that's how she knew something was wrong.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>CASTLE</speaker><content>This whole case file is just one long loop leading back to Damian.</content></utterance>
+<utterance uid="32-2"><speaker>ALEXIS</speaker><content>Apparently, neighbors saw someone loitering outside the Westlake home the night of the murder. Here's a sketch. What?</content></utterance>
+<utterance uid="32-3"><speaker>CASTLE</speaker><content>Alexis, I know this guy.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>DAMIAN WESTLAKE</speaker><content>Detective Beckett.</content></utterance>
+<utterance uid="33-2"><speaker>BECKETT</speaker><content>Can we talk for a moment?</content></utterance>
+<utterance uid="33-3"><speaker>DAMIAN WESTLAKE</speaker><content>Sure.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>DAMIAN WESTLAKE</speaker><content>Have you come to apologize?</content></utterance>
+<utterance uid="34-2"><speaker>BECKETT</speaker><content>No.</content></utterance>
+<utterance uid="34-3"><speaker>DAMIAN WESTLAKE</speaker><content>At least you're honest. What can I do for you, Detective?</content></utterance>
+<utterance uid="34-4"><speaker>BECKETT</speaker><content>You could show me the diamonds that you stole from Vicky. I spoke to Wallace Benner, the jeweler on the West Side. He said that he replaced your wife's diamonds with imitation ones. Over a period of several weeks, he exchanged twenty-six diamonds worth over eight million dollars, and gave you the real ones.</content></utterance>
+<utterance uid="34-5"><speaker>DAMIAN WESTLAKE</speaker><content>But doesn't this argue against your theory? That I killed my wife? If I have eight million dollars, why wouldn't I just leave? Be with Callie?</content></utterance>
+<utterance uid="34-6"><speaker>BECKETT</speaker><content>Greed. You used the first diamond as a down payment for the contract to kill her. Once Vicky was dead, you'd inherit and double your take.</content></utterance>
+<utterance uid="34-7"><speaker>DAMIAN WESTLAKE</speaker><content>You really think I'm that cold?</content></utterance>
+<utterance uid="34-8"><speaker>BECKETT</speaker><content>Personally, I have no doubt. But Richard Castle believes in you, and I believe in him. So, show me those diamonds. Show me that none of them are missing, or I will haul your ass back to jail.</content></utterance>
+<utterance uid="34-9"><speaker>DAMIAN WESTLAKE</speaker><content>I only changed the diamonds I had given her. Those pieces cost me millions of dollars, and I knew she'd have no particular attachment to them once we were over. I've led a careless and wasteful life, Detective. But I'm no killer. Twenty-six diamonds, they're all there.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>CASTLE</speaker><content>Detective Salazar? I'm Richard Castle. Thank you very much for meeting me.</content></utterance>
+<utterance uid="35-2"><speaker>RAY SALAZAR</speaker><content>I'm retired now, so you can call me Ray.</content></utterance>
+<utterance uid="35-3"><speaker>CASTLE</speaker><content>All right. So, Ray, what kind of man leaves beautiful Puerto Rico to retire in freezing cold New York?</content></utterance>
+<utterance uid="35-4"><speaker>RAY SALAZAR</speaker><content>The kind of man whose beautiful wife is from Long Island.</content></utterance>
+<utterance uid="35-5"><speaker>CASTLE</speaker><content>Understood.</content></utterance>
+<utterance uid="35-6"><speaker>RAY SALAZAR</speaker><content>So, you said on the phone this was about the Phillip Westlake case?</content></utterance>
+<utterance uid="35-7"><speaker>CASTLE</speaker><content>That's right.</content></utterance>
+<utterance uid="35-8"><speaker>RAY SALAZAR</speaker><content>I really hated leaving the job with that one still unsolved.</content></utterance>
+<utterance uid="35-9"><speaker>CASTLE</speaker><content>Well, maybe I can help with that. Did you ever manage to identify the man that neighbors saw outside the Westlake home the night of the murder?</content></utterance>
+<utterance uid="35-10"><speaker>RAY SALAZAR</speaker><content>Thought we did. He looked a lot like a local tough named Enrique Molina, but when we brought Molina in, the neighbors couldn't pick him out of a lineup.</content></utterance>
+<utterance uid="35-11"><speaker>CASTLE</speaker><content>That's because it wasn't Molina.</content></utterance>
+<utterance uid="35-12"><speaker>RAY SALAZAR</speaker><content>I'm listening.</content></utterance>
+<utterance uid="35-13"><speaker>CASTLE</speaker><content>Michael Rutherford was a scholarship kid at Edgewick Academy where Damian Westlake and I went to school. He was smart, but a sociopath, a thief. The kid barely graduated.</content></utterance>
+<utterance uid="35-14"><speaker>RAY SALAZAR</speaker><content>Were Rutherford and Westlake friends?</content></utterance>
+<utterance uid="35-15"><speaker>CASTLE</speaker><content>No. As a matter of fact, it was Damian who turned him in to the headmaster for stealing. But they did run in some of the same circles, sometimes went to the same parties. What if Michael Rutherford heard about the Westlake vacation home in Puerto Rico? It was nearly always vacant, full of treasure. He could've made a small fortune and gotten revenge on Damian at the same time.</content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>RYAN</speaker><content>Hey, how'd it go?</content></utterance>
+<utterance uid="36-2"><speaker>BECKETT</speaker><content>Damian Westlake is a thief and a cheater, but he might not be our killer. You guys, I hate admitting it, but Castle might be right.</content></utterance>
+<utterance uid="36-3"><speaker>RYAN</speaker><content>We've also been thinking that Castle might be right.</content></utterance>
+<utterance uid="36-4"><speaker>ESPOSITO</speaker><content>Info's back on Simon Campbell. Vicky's ex-husband is what they like to call overextended.</content></utterance>
+<utterance uid="36-5"><speaker>RYAN</speaker><content>Campbell's real estate firm took a big hit two years ago and he borrowed heavily to cover cost. Man needs a cash transfusion stat.</content></utterance>
+<utterance uid="36-6"><speaker>BECKETT</speaker><content>Is Simon in Vicky's will?</content></utterance>
+<utterance uid="36-7"><speaker>RYAN</speaker><content>He gets the deed to the brownstone, which is worth over five million. He's also the executor of their children's estate.</content></utterance>
+<utterance uid="36-8"><speaker>ESPOSITO</speaker><content>Now, he was at home with the kids at the time of the murder. But he was on the second floor and they were on the third.</content></utterance>
+<utterance uid="36-9"><speaker>BECKETT</speaker><content>So, he could've snuck out and been back before anyone noticed.</content></utterance>
+<utterance uid="36-10"><speaker>RYAN</speaker><content>Which brings us to the Campbell brownstone and its very sophisticated security system. It records every door opening, every window.</content></utterance>
+<utterance uid="36-11"><speaker>ESPOSITO</speaker><content>My friend in the ADA got us a warrant and we talked to the alarm company. At 4:37 p.m. on Wednesday, the front door opens. 5:42, it opened again.</content></utterance>
+<utterance uid="36-12"><speaker>BECKETT</speaker><content>Which means someone left before the murder, and then returned after. You know, I'd like to talk to our Mr. Simon Campbell.</content></utterance>
+<utterance uid="36-13"><speaker>ESPOSITO</speaker><content>Well, we called his place. He's out all evening on personal business and he's not picking up his cell phone.</content></utterance>
+<utterance uid="36-14"><speaker>BECKETT</speaker><content>Mm-kay. Sit on his house. When he gets back home, bring him in.</content></utterance>
+</scene>
+<scene id="37"><utterance uid="37-1"><speaker>RYAN</speaker><content>So, what did you decide about Lanie and Valentine's Day?</content></utterance>
+<utterance uid="37-2"><speaker>ESPOSITO</speaker><content>Oh. I'm gonna play it safe and show up with a gift.</content></utterance>
+<utterance uid="37-3"><speaker>RYAN</speaker><content>Hm.</content></utterance>
+<utterance uid="37-4"><speaker>ESPOSITO</speaker><content>I found this little jewelry store that sells stuff, you know, that girlfriends like. Necklaces, charm bracelets. What about you? What are you gonna do?</content></utterance>
+<utterance uid="37-5"><speaker>RYAN</speaker><content>Oh, Jenny loves chocolate.</content></utterance>
+<utterance uid="37-6"><speaker>ESPOSITO</speaker><content>Jenny's planning her wedding. Your girl's on a diet and you're gonna give her chocolate?</content></utterance>
+<utterance uid="37-7"><speaker>RYAN</speaker><content>Hey, hey, hey. It's Simon.</content></utterance>
+<utterance uid="37-8"><speaker>ESPOSITO</speaker><content>Oh, he's got a little Valentine of his own, doesn't he? Is that Amber Patinelli, Vicky Westlake's employee?</content></utterance>
+</scene>
+<scene id="38"><utterance uid="38-1"><speaker>BECKETT</speaker><content>You sure it's her? So much for Simon saying that he wanted to reconcile with Vicky.</content></utterance>
+</scene>
+<scene id="39"><utterance uid="39-1"><speaker>ESPOSITO</speaker><content>What do you want us to do? Thought so.  Let's bring them both in.</content></utterance>
+</scene>
+<scene id="40"><utterance uid="40-1"><speaker>CASTLE</speaker><content>I was hoping you'd still be here.</content></utterance>
+<utterance uid="40-2"><speaker>BECKETT</speaker><content>I was just about to call you.</content></utterance>
+</scene>
+<scene id="41"><utterance uid="41-1"><speaker>BECKETT</speaker><content>I appreciate you coming in.</content></utterance>
+<utterance uid="41-2"><speaker>SIMON CAMPBELL</speaker><content>Detective, it's very late.</content></utterance>
+<utterance uid="41-3"><speaker>BECKETT</speaker><content>Oh, this'll be quick. I didn't realize that the two of you were a couple.</content></utterance>
+<utterance uid="41-4"><speaker>SIMON CAMPBELL</speaker><content>Well, it's very casual.</content></utterance>
+<utterance uid="41-5"><speaker>AMBER PATINELLI</speaker><content>Well, for a long time we were just friends. I was a shoulder to cry on after the divorce. It's only been recently that, uh...</content></utterance>
+<utterance uid="41-6"><speaker>BECKETT</speaker><content>Any plans for Valentine's Day?</content></utterance>
+<utterance uid="41-7"><speaker>SIMON CAMPBELL</speaker><content>Uh, nothing special, no.</content></utterance>
+<utterance uid="41-8"><speaker>CASTLE</speaker><content>You were hoping to spend it with Vicky, right?</content></utterance>
+<utterance uid="41-9"><speaker>AMBER PATINELLI</speaker><content>What does that mean? Simon?</content></utterance>
+<utterance uid="41-10"><speaker>SIMON CAMPBELL</speaker><content>Uh, Vicky and I have been talking, that's all. How is this relevant to anything, Detective?</content></utterance>
+<utterance uid="41-11"><speaker>BECKETT</speaker><content>Did Vicky know about you and Amber?</content></utterance>
+<utterance uid="41-12"><speaker>SIMON CAMPBELL</speaker><content>No. I didn't want her to know.</content></utterance>
+<utterance uid="41-13"><speaker>CASTLE</speaker><content>So, it's possible that Vicky innocently confided in her friend, Amber? Telling her she was leaving Damian, going back to Simon, not knowing that he was your Simon now.</content></utterance>
+<utterance uid="41-14"><speaker>BECKETT</speaker><content>Amber, you called for a company car at 4:15 on Wednesday afternoon, we just talked to the dispatcher. He says you ordered a sedan and kept it for an hour. A round trip to the Westlake's and back. We found a nail gun with fingerprints that we couldn't identify. If we compare them to yours, do you think we'd find a match? You didn't go there intending to kill her, did you?</content></utterance>
+<utterance uid="41-15"><speaker>AMBER PATINELLI</speaker><content>No. I just wanted to talk. she could have any man she wanted, and I begged her to let me have you. She said no. I love you so much. She could never love you the way that I do.</content></utterance>
+</scene>
+<scene id="42"><utterance uid="42-1"><speaker>DAMIAN WESTLAKE</speaker><content>So, you're saying that Amber didn't even know about my past? Wasn't a frame, just a strange coincidence?</content></utterance>
+<utterance uid="42-2"><speaker>CASTLE</speaker><content>Or kismet. Where're you off to?</content></utterance>
+<utterance uid="42-3"><speaker>DAMIAN WESTLAKE</speaker><content>Barcelona. I gotta get away. Thank Detective Beckett for me, will you? Congratulate her on solving the case.</content></utterance>
+<utterance uid="42-4"><speaker>CASTLE</speaker><content>Well, actually, we solved two cases.</content></utterance>
+<utterance uid="42-5"><speaker>DAMIAN WESTLAKE</speaker><content>What's this?</content></utterance>
+<utterance uid="42-6"><speaker>CASTLE</speaker><content>That's a sketch of Michael Rutherford. I found it in your father's murder file.</content></utterance>
+<utterance uid="42-7"><speaker>DAMIAN WESTLAKE</speaker><content>Michael Rutherford. From school? I don't understand.</content></utterance>
+<utterance uid="42-8"><speaker>CASTLE</speaker><content>He broke into your house. He shot your father.</content></utterance>
+<utterance uid="42-9"><speaker>DAMIAN WESTLAKE</speaker><content>Oh, my God.</content></utterance>
+<utterance uid="42-10"><speaker>CASTLE</speaker><content>They found him, Damian. He's been arrested.</content></utterance>
+<utterance uid="42-11"><speaker>DAMIAN WESTLAKE</speaker><content>After all this time? Can they even prove that he did it?</content></utterance>
+<utterance uid="42-12"><speaker>CASTLE</speaker><content>There was a cigarette butt left at the scene. Detective Salazar made sure it was preserved. The DNA is a match.</content></utterance>
+<utterance uid="42-13"><speaker>DAMIAN WESTLAKE</speaker><content>Mm.</content></utterance>
+<utterance uid="42-14"><speaker>CASTLE</speaker><content>Michael made a deal, Damian. He confessed.</content></utterance>
+<utterance uid="42-15"><speaker>DAMIAN WESTLAKE</speaker><content>Wow, this is, uh... it is pretty overwhelming. I got a plane to catch, so maybe we should just talk about this later.</content></utterance>
+<utterance uid="42-16"><speaker>CASTLE</speaker><content>Michael told the cops you got in touch with them, asked him if he wanted to make a lot of money for one night's work. You gave him your Rolex and your car as a down payment. When your inheritance came through, he got half a million dollars, and a one way ticket to Los Angeles. He still has your Rolex. And a map that you drew of your father's house with a path leading straight to his bedroom.</content></utterance>
+<utterance uid="42-17"><speaker>DAMIAN WESTLAKE</speaker><content>Rick, he's ly-- he's lying.</content></utterance>
+<utterance uid="42-18"><speaker>CASTLE</speaker><content>Tell me you didn't do it.</content></utterance>
+<utterance uid="42-19"><speaker>DAMIAN WESTLAKE</speaker><content>Ricky, I...</content></utterance>
+<utterance uid="42-20"><speaker>CASTLE</speaker><content>Tell me I haven't been believing in you all this time for nothing.</content></utterance>
+<utterance uid="42-21"><speaker>CASTLE</speaker><content>That's them. Detective Salazar and some New York detectives. They're here to take you in.</content></utterance>
+<utterance uid="42-22"><speaker>CASTLE</speaker><content>I told them you'd be a gentleman.</content></utterance>
+</scene>
+<scene id="43"><utterance uid="43-1"><speaker>BECKETT</speaker><content>"Show me a hero and I'll write you a tragedy." F. Scott Fitzgerald said that.</content></utterance>
+<utterance uid="43-2"><speaker>CASTLE</speaker><content>It must've been Ernest Hemingway who said, "Man, I sure could use a drink right about now."</content></utterance>
+<utterance uid="43-3"><speaker>BECKETT</speaker><content>Lead the way. I'm buying.</content></utterance>
+<utterance uid="43-4"><speaker>CASTLE</speaker><content>It's Valentine's Day. Shouldn't you be at a nice candlelit restaurant wearing a new dress ordering surf 'n' turf?</content></utterance>
+<utterance uid="43-5"><speaker>BECKETT</speaker><content>I've got a couple of hours. You okay?</content></utterance>
+<utterance uid="43-6"><speaker>CASTLE</speaker><content>Yeah, I'm fine.</content></utterance>
+<utterance uid="43-7"><speaker>BECKETT</speaker><content>Liar.</content></utterance>
+</scene>
+</script>

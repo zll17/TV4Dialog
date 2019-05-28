@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>RICHIE FALCO</speaker><content>Wait! Please! We can talk about this.</content></utterance>
+<utterance uid="1-2"><speaker>RICHIE</speaker><content>No, no!</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>ALEXIS CASTLE</speaker><content>A crime is a wrong arising from the violation of a public duty. A tort is a wrong arising from the violation of a private duty.</content></utterance>
+<utterance uid="2-2"><speaker>KATE BECKETT</speaker><content>Yes!</content></utterance>
+<utterance uid="2-3"><speaker>ALEXIS</speaker><content>Okay. I think my brain is crammed to the limit.</content></utterance>
+<utterance uid="2-4"><speaker>BECKETT</speaker><content>Well, I think you and your brain are more than ready.</content></utterance>
+<utterance uid="2-5"><speaker>RICHARD CASTLE</speaker><content>Hey, Alexis. Don’t you have a midterm this morning?</content></utterance>
+<utterance uid="2-6"><speaker>ALEXIS</speaker><content>I’m leaving now. Beckett was just giving me a last minute review.</content></utterance>
+<utterance uid="2-7"><speaker>BECKETT</speaker><content>All right. Bye.</content></utterance>
+<utterance uid="2-8"><speaker>ALEXIS</speaker><content>Bye. Thanks for your help.</content></utterance>
+<utterance uid="2-9"><speaker>CASTLE</speaker><content>Bye. Good luck.</content></utterance>
+<utterance uid="2-10"><speaker>BECKETT</speaker><content>You know, she’s got an amazing brain. If she wanted to she’d make an incredible lawyer.</content></utterance>
+<utterance uid="2-11"><speaker>CASTLE</speaker><content>Yeah, like I don’t lose enough arguments to her already.  What about you? You ever regret it? Not getting your law degree?</content></utterance>
+<utterance uid="2-12"><speaker>BECKETT</speaker><content>Um, I’d rather take criminals down than send them up.</content></utterance>
+<utterance uid="2-13"><speaker>CASTLE</speaker><content>Really?</content></utterance>
+<utterance uid="2-14"><speaker>BECKETT</speaker><content>Mmhmm.</content></utterance>
+<utterance uid="2-15"><speaker>CASTLE</speaker><content>Because with your mind I bet you could have made Chief Justice.  You have all the qualifications. You’re smart. You are intimidating. And you look very, very good in a robe.</content></utterance>
+<utterance uid="2-16"><speaker>BECKETT</speaker><content>Wow, really?</content></utterance>
+<utterance uid="2-17"><speaker>CASTLE</speaker><content>Mmhmm.</content></utterance>
+<utterance uid="2-18"><speaker>BECKETT</speaker><content>Care to take a ten minute recess in my chambers?</content></utterance>
+<utterance uid="2-19"><speaker>CASTLE</speaker><content>If it would please the court, I would.</content></utterance>
+<utterance uid="2-20"><speaker>BECKETT</speaker><content>Oh. I think we’re going to need a continuance.</content></utterance>
+<utterance uid="2-21"><speaker>CASTLE</speaker><content>Uh, objection.</content></utterance>
+<utterance uid="2-22"><speaker>BECKETT</speaker><content> Overruled.</content></utterance>
+<utterance uid="2-23"><speaker>BECKETT</speaker><content>Beckett.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>CASTLE</speaker><content>Ryan. Give it to me.</content></utterance>
+<utterance uid="3-2"><speaker>KEVIN RYAN</speaker><content>Sorry, Castle. I’m not telling.</content></utterance>
+<utterance uid="3-3"><speaker>CASTLE</speaker><content>Well, it’s too bad. I already know. It’s John Legend. "All of me cuffed all of you."</content></utterance>
+<utterance uid="3-4"><speaker>RYAN</speaker><content> No.</content></utterance>
+<utterance uid="3-5"><speaker>BECKETT</speaker><content>Wait a minute. Are you guys talking about the Policeman’s Benevolent Fundraiser?</content></utterance>
+<utterance uid="3-6"><speaker>CASTLE</speaker><content>Yeah. The talent competition is on Friday night but he won’t tell me what he and Espo are doing.</content></utterance>
+<utterance uid="3-7"><speaker>BECKETT</speaker><content>So how are you guys even going to top the Dirty Dancing lift scene from last year?</content></utterance>
+<utterance uid="3-8"><speaker>RYAN</speaker><content>Ah. "Crime of our Lives." Classic Espo/Ryan. Rest assured, as two time champs, whatever we do is going to blow the rest of the field away.</content></utterance>
+<utterance uid="3-9"><speaker>CASTLE</speaker><content>Well, that’s only because not being a cop I’m ineligible. But if Beckett and I were competing? You’d be out a trophy.</content></utterance>
+<utterance uid="3-10"><speaker>BECKETT</speaker><content>Oh, yeah. We’d so take you down.</content></utterance>
+<utterance uid="3-11"><speaker>RYAN</speaker><content>Back in reality, our John Doe was found this morning by sanitation workers. No phone, no wallet.</content></utterance>
+<utterance uid="3-12"><speaker>BECKETT</speaker><content>Cause?</content></utterance>
+<utterance uid="3-13"><speaker>LANIE PARISH</speaker><content>Blunt force trauma to the back of the head. Probably a pipe or a baseball bat. Based on lividity I’d say it happened between 12 and 2AM this morning.</content></utterance>
+<utterance uid="3-14"><speaker>CASTLE</speaker><content>Any witnesses?</content></utterance>
+<utterance uid="3-15"><speaker>JAVIER ESPOSITO</speaker><content>A guy who lives nearby heard screams around 1AM. When he looked out his window he saw a car speeding away.</content></utterance>
+<utterance uid="3-16"><speaker>BECKETT</speaker><content>He get a make and model?</content></utterance>
+<utterance uid="3-17"><speaker>ESPOSITO</speaker><content>Just tail lights. But he said it looked like a sports car. Ryan and I are going to keep looking for witnesses and street cam footage, but it’s an industrial area so coverage is spotty.</content></utterance>
+<utterance uid="3-18"><speaker>BECKETT</speaker><content>Wait a minute, I think I know this guy. He’s the personal injury attorney on TV who has the late night ads.</content></utterance>
+<utterance uid="3-19"><speaker>LANIE</speaker><content>Oh my God, you’re right. That’s uh …</content></utterance>
+<utterance uid="3-20"><speaker>CASTLE</speaker><content>The Pitbull.</content></utterance>
+<utterance uid="3-21"><speaker>ESPOSITO</speaker><content>The Pitbull.</content></utterance>
+<utterance uid="3-22"><speaker>RYAN</speaker><content>The Pitbull?</content></utterance>
+<utterance uid="3-23"><speaker>CASTLE</speaker><content>Yeah. Richie “The Pitbull” Falco.  Come on. You’ve seen the ads. A guy’s head on a dog’s body.  “You in an accident? Take the law by the tail.”</content></utterance>
+<utterance uid="3-24"><speaker>LANIE</speaker><content> “And get a bite at the settlement you deserve.”</content></utterance>
+<utterance uid="3-25"><speaker>BECKETT</speaker><content> “I’ll make the law – “</content></utterance>
+<utterance uid="3-26"><speaker>LANIE</speaker><content>“- your b*tch.”</content></utterance>
+<utterance uid="3-27"><speaker>BECKETT</speaker><content>“- your b*tch.”</content></utterance>
+<utterance uid="3-28"><speaker>ESPOSITO</speaker><content>“- your b*tch.”</content></utterance>
+<utterance uid="3-29"><speaker>CASTLE</speaker><content>“- your b*tch.”</content></utterance>
+<utterance uid="3-30"><speaker>ESPOSITO</speaker><content>“El tipo tambièn habla español.”</content></utterance>
+<utterance uid="3-31"><speaker>RYAN</speaker><content>Why am I the only one who’s never seen this commercial?</content></utterance>
+<utterance uid="3-32"><speaker>ESPOSITO</speaker><content>Because it comes on late at night, and when you’re not moonlighting, your honeymilk-sipping ass is in bed by 10.</content></utterance>
+<utterance uid="3-33"><speaker>CASTLE</speaker><content>Why would anyone want to kill the Pitbull?</content></utterance>
+<utterance uid="3-34"><speaker>BECKETT</speaker><content>Maybe CSU’ll get lucky and find the murder weapon. Meanwhile let’s get the body to the morgue and see what it can tell us. Castle, you and I should go to Pitbull’s office, see what we can find there.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>CASTLE</speaker><content>Wow. Richie’s clients may be suffering but his business wasn’t.</content></utterance>
+<utterance uid="4-2"><speaker>BECKETT</speaker><content>Yeah, well, there’s always going to be people looking for a quick settlement and plenty of opportunistic bottom feeders like Richie ready to help them cash in.</content></utterance>
+<utterance uid="4-3"><speaker>CASTLE</speaker><content> I bet half these people are faking.  See that guy over there?</content></utterance>
+<utterance uid="4-4"><speaker>BECKETT</speaker><content>Mmhmm.</content></utterance>
+<utterance uid="4-5"><speaker>CASTLE</speaker><content>Watch this. Excuse me, sir?</content></utterance>
+<utterance uid="4-6"><speaker>MAN</speaker><content>Huh?</content></utterance>
+<utterance uid="4-7"><speaker>CASTLE</speaker><content>Throw this away for me?</content></utterance>
+<utterance uid="4-8"><speaker>CASTLE</speaker><content>Sorry, my aim is a little – maybe …  He’s probably legit.</content></utterance>
+<utterance uid="4-9"><speaker>ANNIE KLEIN</speaker><content>Sorry for the wait, folks. I’m sure Pitbull will be here any minute.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>ANNIE</speaker><content>The way he’s been acting the last few days, I –  – I knew something was wrong.</content></utterance>
+<utterance uid="5-2"><speaker>BECKETT</speaker><content>How was he acting?</content></utterance>
+<utterance uid="5-3"><speaker>ANNIE</speaker><content>Anxious. Paranoid. Before he’d leave the office he’d look out the window. It’s like he thought someone might be watching him. And yesterday morning he called to say he wasn’t coming in at all.</content></utterance>
+<utterance uid="5-4"><speaker>CASTLE</speaker><content>Was that unusual?</content></utterance>
+<utterance uid="5-5"><speaker>ANNIE</speaker><content>He never missed a day in the three years I worked for him.</content></utterance>
+<utterance uid="5-6"><speaker>BECKETT</speaker><content>Do you know what he was working on?</content></utterance>
+<utterance uid="5-7"><speaker>ANNIE</speaker><content>He wouldn’t talk about it. I – I asked if it had something to do with one of the cases and he –  - he said no, and he um, he told me not to worry, and that it would all be over soon.</content></utterance>
+<utterance uid="5-8"><speaker>CASTLE</speaker><content>Was he having any problems with anyone? Clients? A girlfriend?</content></utterance>
+<utterance uid="5-9"><speaker>ANNIE</speaker><content>He didn’t have a girlfriend.  I kept hoping. Look, I – I know what you guys are thinking. Personal injury lawyers are gutter rats, right? But Richie was different. He really cared. He thought the law was there to protect everyone and not just corporations who could afford it. And his clients, they loved him for it.</content></utterance>
+<utterance uid="5-10"><speaker>CASTLE</speaker><content>And his adversaries?</content></utterance>
+<utterance uid="5-11"><speaker>ANNIE</speaker><content>Sure, people he sued got pissed sometimes. I mean, he won some big settlements, but nothing I can imagine anyone killing for.</content></utterance>
+<utterance uid="5-12"><speaker>BECKETT</speaker><content>Ms. Klein, I need a list of all of his active cases, along with anyone that he’s won a judgment against in the last few years.</content></utterance>
+<utterance uid="5-13"><speaker>ANNIE</speaker><content>Of course.</content></utterance>
+<utterance uid="5-14"><speaker>BECKETT</speaker><content>So I understand that Mr. Falco lived in Brooklyn?</content></utterance>
+<utterance uid="5-15"><speaker>ANNIE</speaker><content>Yeah. Park Slope.</content></utterance>
+<utterance uid="5-16"><speaker>BECKETT</speaker><content>You know, his body was found in Hamilton Heights. Do you have any idea what he was doing up there last night?</content></utterance>
+<utterance uid="5-17"><speaker>ANNIE</speaker><content>Saint Simon’s is up there.</content></utterance>
+<utterance uid="5-18"><speaker>CASTLE</speaker><content>The hospital?</content></utterance>
+<utterance uid="5-19"><speaker>ANNIE</speaker><content>Yeah. Sometimes he would make rounds at emergency rooms to see if anyone needed his services.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>ESPOSITO</speaker><content>Got your text. You have something for us?</content></utterance>
+<utterance uid="6-2"><speaker>LANIE</speaker><content>Yep. I know what your victim was doing before he died.</content></utterance>
+<utterance uid="6-3"><speaker>RYAN</speaker><content>What?</content></utterance>
+<utterance uid="6-4"><speaker>LANIE</speaker><content>Uh uh. You first.</content></utterance>
+<utterance uid="6-5"><speaker>RYAN</speaker><content>Oh, I get it.  She wants us to tell her about our routine.</content></utterance>
+<utterance uid="6-6"><speaker>ESPOSITO</speaker><content>Ah. You know that we cannot be giving that away, girl.</content></utterance>
+<utterance uid="6-7"><speaker>ESPOSITO</speaker><content>You are going to have to buy a ticket, just like everyone else. Now, what’ve you got?</content></utterance>
+<utterance uid="6-8"><speaker>LANIE</speaker><content> Fine. Pitbull spent some time in the countryside. You see this sticky yellow powder on Richie’s pant leg, about ankle high? Pollen from the tussilago flower, also known as coltsfoot. It’s not found in the city, so it didn’t happen here.  But there’s something else. Something a lot less fun than frolicking in the flowers.</content></utterance>
+<utterance uid="6-9"><speaker>ESPOSITO</speaker><content>Those are taser marks.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>BECKETT</speaker><content>He was tortured?</content></utterance>
+<utterance uid="7-2"><speaker>ESPOSITO</speaker><content>Yeah, Lanie says the injuries he sustained were within an hour of his death.</content></utterance>
+<utterance uid="7-3"><speaker>CASTLE</speaker><content>So either the killer wanted something from him, something Pitbull didn’t want to give up -</content></utterance>
+<utterance uid="7-4"><speaker>BECKETT</speaker><content>Or the killer wanted him to suffer.</content></utterance>
+<utterance uid="7-5"><speaker>ESPOSITO</speaker><content>This might have something to do with one of his old cases.</content></utterance>
+<utterance uid="7-6"><speaker>BECKETT</speaker><content>Yeah, but nothing jumped out from his client list.  It’s all slip-and-falls, workman’s comp, insurance claims. Nothing that would explain torture or a trip outside of the city. So where did he go?</content></utterance>
+<utterance uid="7-7"><speaker>CAPTAIN VICTORIA GATES</speaker><content>Mr. Castle? A word?</content></utterance>
+<utterance uid="7-8"><speaker>CASTLE</speaker><content>Of course.</content></utterance>
+<utterance uid="7-9"><speaker>GATES</speaker><content>As you know, the PBA talent competition is this Friday, and every year we line up a celebrity to perform.</content></utterance>
+<utterance uid="7-10"><speaker>ESPOSITO</speaker><content>Yeah, to help boost ticket sales. Isn’t Kimmel doing it this year?</content></utterance>
+<utterance uid="7-11"><speaker>GATES</speaker><content>He was supposed to. But due to a last second conflict he just dropped out.</content></utterance>
+<utterance uid="7-12"><speaker>ESPOSITO</speaker><content> What?</content></utterance>
+<utterance uid="7-13"><speaker>GATES</speaker><content>And I’ve been told we need a replacement celebrity.</content></utterance>
+<utterance uid="7-14"><speaker>GATES</speaker><content> I’ve been asked to ask you.</content></utterance>
+<utterance uid="7-15"><speaker>CASTLE</speaker><content>You want me to perform?</content></utterance>
+<utterance uid="7-16"><speaker>GATES</speaker><content>It would earn us both some much needed goodwill down at 1PP.</content></utterance>
+<utterance uid="7-17"><speaker>ESPOSITO</speaker><content>But what about ticket sales?</content></utterance>
+<utterance uid="7-18"><speaker>CASTLE</speaker><content>Beckett and I would be happy to.</content></utterance>
+<utterance uid="7-19"><speaker>BECKETT</speaker><content>Wait, what?</content></utterance>
+<utterance uid="7-20"><speaker>CASTLE</speaker><content>On one condition.  Even though I am not a cop, we compete for the trophy.</content></utterance>
+<utterance uid="7-21"><speaker>GATES</speaker><content>Done.</content></utterance>
+<utterance uid="7-22"><speaker>ESPOSITO</speaker><content> Oh, Castle. You really don’t think you have a shot at winning that trophy?</content></utterance>
+<utterance uid="7-23"><speaker>CASTLE</speaker><content>Oh, I think I have more than just a shot.</content></utterance>
+<utterance uid="7-24"><speaker>BECKETT</speaker><content>Castle –</content></utterance>
+<utterance uid="7-25"><speaker>ESPOSITO</speaker><content>You do understand that me and Ryan have been rehearsing for months.</content></utterance>
+<utterance uid="7-26"><speaker>CASTLE</speaker><content>Well, what Beckett and I have cannot be rehearsed. It’s chemistry. An intuitive bond. Each person knowing what the other is thinking.</content></utterance>
+<utterance uid="7-27"><speaker>BECKETT</speaker><content>Castle, can we talk for a second? Over there?</content></utterance>
+<utterance uid="7-28"><speaker>CASTLE</speaker><content> I knew she was going to say that.</content></utterance>
+<utterance uid="7-29"><speaker>BECKETT</speaker><content>Don’t you think you should have … asked me before signing me up for this?</content></utterance>
+<utterance uid="7-30"><speaker>CASTLE</speaker><content>I thought you were on board? Uh, you were trash talking Ryan about it before.</content></utterance>
+<utterance uid="7-31"><speaker>BECKETT</speaker><content>Yeah, that’s before, when I thought there was no chance in hell that we would actually do it.</content></utterance>
+<utterance uid="7-32"><speaker>CASTLE</speaker><content> Oh, relax. We’ll just do our routine.</content></utterance>
+<utterance uid="7-33"><speaker>BECKETT</speaker><content>We don’t have a routine.</content></utterance>
+<utterance uid="7-34"><speaker>CASTLE</speaker><content>Come on! That thing in the shower? That is delightful.</content></utterance>
+<utterance uid="7-35"><speaker>BECKETT</speaker><content>No, That’s not a routine! That’s two naked people singing when there’s no one around to see or hear it.</content></utterance>
+<utterance uid="7-36"><speaker>CASTLE</speaker><content>So we’ll add some dance steps, some clothes. It’s can’t-miss.</content></utterance>
+<utterance uid="7-37"><speaker>RYAN</speaker><content>Uh, guys?</content></utterance>
+<utterance uid="7-38"><speaker>ESPOSITO</speaker><content>Give them a second, bro. They’re rehearsing their chemistry.</content></utterance>
+<utterance uid="7-39"><speaker>BECKETT</speaker><content> Ryan, you got something?</content></utterance>
+<utterance uid="7-40"><speaker>RYAN</speaker><content>Yeah. Turns out that Richie was at Saint Simon’s last night and he was not alone.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>RYAN</speaker><content>All right, so here is the parking lot behind Saint Simon’s. There’s Richie. Now watch this.</content></utterance>
+<utterance uid="8-2"><speaker>ESPOSITO</speaker><content>It’s a sports car. Like the one seen fleeing the crime scene.</content></utterance>
+<utterance uid="8-3"><speaker>RYAN</speaker><content>Yeah. And apparently the driver had some kind of beef with Pitbull. He shoves him in the car and drives off.</content></utterance>
+<utterance uid="8-4"><speaker>BECKETT</speaker><content>Can we make out the plate?</content></utterance>
+<utterance uid="8-5"><speaker>RYAN</speaker><content>Yeah. Already ran it. It is registered to this guy. Derek Bolt.</content></utterance>
+<utterance uid="8-6"><speaker>ESPOSITO</speaker><content>Derek “Lightning” Bolt, the ex-NFL running back?</content></utterance>
+<utterance uid="8-7"><speaker>CASTLE</speaker><content>What’s a former MVP doing with our ambulance-chasing Pitbull?</content></utterance>
+<utterance uid="8-8"><speaker>RYAN</speaker><content>Nothing good. Check out the time stamp. 11PM. Just hours before Richie was killed.</content></utterance>
+<utterance uid="8-9"><speaker>BECKETT</speaker><content>Leaving enough time for him to be tortured first.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>ESPOSITO</speaker><content>There he is.</content></utterance>
+<utterance uid="9-2"><speaker>RYAN</speaker><content>Derek Bolt?</content></utterance>
+<utterance uid="9-3"><speaker>ESPOSITO</speaker><content>We’d like a word.</content></utterance>
+<utterance uid="9-4"><speaker>DEREK BOLT</speaker><content>Oh, man. Get off me, man! I just –</content></utterance>
+<utterance uid="9-5"><speaker>ESPOSITO</speaker><content>What, Bolt? You just got benched.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>DEREK</speaker><content>Finally. Is someone going to explain to me what I’m doing in here?</content></utterance>
+<utterance uid="10-2"><speaker>RYAN</speaker><content>So I guess you running away from us was, what, exercise, Derek?</content></utterance>
+<utterance uid="10-3"><speaker>DEREK</speaker><content>Hey, I didn’t know you were cops. Look, I’ve got some financial troubles, all right? And you two look like collection agents, so my instincts kicked in. You can take Lightning out of the NFL, but you can’t take the NFL out of Lightning, you know?</content></utterance>
+<utterance uid="10-4"><speaker>BECKETT</speaker><content>We know all about your financial troubles, Derek.</content></utterance>
+<utterance uid="10-5"><speaker>RYAN</speaker><content>Yeah, we were just reading about how you got hit with a lawsuit last year after you busted up some guy outside of a club.</content></utterance>
+<utterance uid="10-6"><speaker>DEREK</speaker><content>Hell yeah. He dented the Boltmobile. Look, I lost my head, all right? But I’ve left him alone since. Lightning don’t strike twice.</content></utterance>
+<utterance uid="10-7"><speaker>BECKETT</speaker><content>Except you weren’t so forgiving of his lawyer, were you?</content></utterance>
+<utterance uid="10-8"><speaker>DEREK</speaker><content>Pitbull? What’s he got to do with any of this?</content></utterance>
+<utterance uid="10-9"><speaker>BECKETT</speaker><content>He won a big settlement against you last year and sent you into bankruptcy.</content></utterance>
+<utterance uid="10-10"><speaker>DEREK</speaker><content>So?</content></utterance>
+<utterance uid="10-11"><speaker>RYAN</speaker><content>So Pitbull’s dead, Derek.</content></utterance>
+<utterance uid="10-12"><speaker>DEREK</speaker><content>What?</content></utterance>
+<utterance uid="10-13"><speaker>BECKETT</speaker><content>And the last time he was seen he was being shoved into your Boltmobile at 11PM.</content></utterance>
+<utterance uid="10-14"><speaker>DEREK</speaker><content>Hey, that ain’t what it looks like.</content></utterance>
+<utterance uid="10-15"><speaker>BECKETT</speaker><content>Really? Because right now it looks like revenge.</content></utterance>
+<utterance uid="10-16"><speaker>DEREK</speaker><content>Whoa, whoa, whoa. I did not kill Pitbull, all right? Look, dog did such a good job against me in court I wanted him on my team. So I went and hired his ass.</content></utterance>
+<utterance uid="10-17"><speaker>BECKETT</speaker><content>Richie was working for you? Well then, why weren’t you on his client list?</content></utterance>
+<utterance uid="10-18"><speaker>DEREK</speaker><content>It’s a paternity thing, all right? My old lady’s just about had it with me so he was handling this off the books.</content></utterance>
+<utterance uid="10-19"><speaker>RYAN</speaker><content>All right, but none of that explains your little joyride last night.</content></utterance>
+<utterance uid="10-20"><speaker>DEREK</speaker><content> Me and Richie were supposed to meet up with my baby mama and her lawyer yesterday afternoon. Only Richie never showed up and it made me look bad. So I invited him into my car for a little conversation. And he said he was sorry and that some urgent business matter came up.</content></utterance>
+<utterance uid="10-21"><speaker>BECKETT</speaker><content>What kind of business?</content></utterance>
+<utterance uid="10-22"><speaker>DEREK</speaker><content>Something about settling a debt. He told me he’d handle my thing but he wanted me to take him to some diner for a late night meet. Said someone’s life depended on it. Guess maybe it was his.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>RYAN</speaker><content>So the manager at the 24 hour gym confirms that Derek was working out there during Richie’s time of death window, so he’s not our killer.</content></utterance>
+<utterance uid="11-2"><speaker>CASTLE</speaker><content>Which means Derek might have been telling the truth about dropping Richie off a that diner.</content></utterance>
+<utterance uid="11-3"><speaker>RYAN</speaker><content>Yeah. I’ll head over there, see if the wait staff remembers Richie talking with anyone last night.</content></utterance>
+<utterance uid="11-4"><speaker>BECKETT</speaker><content>It still doesn’t explain where he was during the day. Why he missed work, or blew off that client meeting.</content></utterance>
+<utterance uid="11-5"><speaker>ESPOSITO</speaker><content>I may know someone we can ask.</content></utterance>
+<utterance uid="11-6"><speaker>BECKETT</speaker><content>Espo, what happened?</content></utterance>
+<utterance uid="11-7"><speaker>ESPOSITO</speaker><content>I twisted my knee when I was tackling Lightning.</content></utterance>
+<utterance uid="11-8"><speaker>BECKETT</speaker><content>Well – are you going to be okay?</content></utterance>
+<utterance uid="11-9"><speaker>ESPOSITO</speaker><content>Yeah, I’ll be fine. I just, uh – I just tweaked it. It’s probably a sprain.</content></utterance>
+<utterance uid="11-10"><speaker>CASTLE</speaker><content>That’s too bad. I was looking forward to beating you in the talent competition.</content></utterance>
+<utterance uid="11-11"><speaker>ESPOSITO</speaker><content>Oh, you think this is going to take me out?</content></utterance>
+<utterance uid="11-12"><speaker>CASTLE</speaker><content>Yes. Yes I do.</content></utterance>
+<utterance uid="11-13"><speaker>ESPOSITO</speaker><content>No. It’s still on.</content></utterance>
+<utterance uid="11-14"><speaker>BECKETT</speaker><content>How? I mean, Espo, you can barely walk.</content></utterance>
+<utterance uid="11-15"><speaker>ESPOSITO</speaker><content>Yeah. And even on one leg Ryan and I are still going to whip your sorry asses. In fact, how about a wager?</content></utterance>
+<utterance uid="11-16"><speaker>RYAN</speaker><content>Uh, partner, you know, maybe we should discuss –</content></utterance>
+<utterance uid="11-17"><speaker>ESPOSITO</speaker><content>Uh uh.  If we win then you will dedicate your next book to “Esposito and Ryan, two guys who are funnier, handsomer, and better than me in every way”.</content></utterance>
+<utterance uid="11-18"><speaker>CASTLE</speaker><content>Oh, you’re serious.</content></utterance>
+<utterance uid="11-19"><speaker>CASTLE</speaker><content>And if Beckett and I win?</content></utterance>
+<utterance uid="11-20"><speaker>ESPOSITO</speaker><content>Well then, Ryan and I will call you King Castle. For a month.</content></utterance>
+<utterance uid="11-21"><speaker>RYAN</speaker><content>Hey, Javi –  I mean it’s – </content></utterance>
+<utterance uid="11-22"><speaker>ESPOSITO</speaker><content>What do you say?</content></utterance>
+<utterance uid="11-23"><speaker>BECKETT</speaker><content> You know what? I think Ryan’s right. I mean, we don’t need to make a bet out of this.</content></utterance>
+<utterance uid="11-24"><speaker>ESPOSITO</speaker><content>Why? Because you’re chicken?</content></utterance>
+<utterance uid="11-25"><speaker>BECKETT</speaker><content>No. Because I am a grownup.</content></utterance>
+<utterance uid="11-26"><speaker>ESPOSITO</speaker><content>Yeah. A grownup chicken.</content></utterance>
+<utterance uid="11-27"><speaker>CASTLE</speaker><content>I will also accept Your Royal Highness. You’re on, gimpy.</content></utterance>
+<utterance uid="11-28"><speaker>ESPOSITO</speaker><content>Oooh. That’s clever.</content></utterance>
+<utterance uid="11-29"><speaker>CASTLE</speaker><content>I work with what you give me.</content></utterance>
+<utterance uid="11-30"><speaker>ESPOSITO</speaker><content>I’m going to take you down.</content></utterance>
+<utterance uid="11-31"><speaker>CASTLE</speaker><content>With what, your crutches?</content></utterance>
+<utterance uid="11-32"><speaker>BECKETT</speaker><content>Can we get back to the dead guy? You said you found someone who could tell us why Richie missed work yesterday.</content></utterance>
+<utterance uid="11-33"><speaker>ESPOSITO</speaker><content>Yes. I pulled his phone and financials. There were no charges on his credit card yesterday, but he made a call. They only call he made from his cell all day.</content></utterance>
+<utterance uid="11-34"><speaker>BECKETT</speaker><content>To whom?</content></utterance>
+<utterance uid="11-35"><speaker>ESPOSITO</speaker><content>Someone he hasn’t called in years. His ex-wife, Elise Resner.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>ELISE RESNER</speaker><content>He said he was in trouble and needed my help.</content></utterance>
+<utterance uid="12-2"><speaker>BECKETT</speaker><content>Uh, what kind of trouble, exactly?</content></utterance>
+<utterance uid="12-3"><speaker>ELISE</speaker><content>Detective, you have to understand. I hadn’t spoken to him in years and then he just calls out of the blue.</content></utterance>
+<utterance uid="12-4"><speaker>BECKETT</speaker><content>You never asked.</content></utterance>
+<utterance uid="12-5"><speaker>ELISE</speaker><content>I didn’t want to know. After everything that happened between us I knew I couldn’t’ get involved again.</content></utterance>
+<utterance uid="12-6"><speaker>BECKETT</speaker><content>What happened between the two of you?</content></utterance>
+<utterance uid="12-7"><speaker>ELISE</speaker><content>We were at the same corporate firm. It’s how we met.</content></utterance>
+<utterance uid="12-8"><speaker>BECKETT</speaker><content>Corporate law? How did he end up a personal injury attorney?</content></utterance>
+<utterance uid="12-9"><speaker>ELISE</speaker><content>He was a superstar. Harvard Law review, partner track. But the pressure got to be too much for him. About five years back he self-destructed. Drinking, drugs, losing all of his cases. Uh, his job. And then finally me.</content></utterance>
+<utterance uid="12-10"><speaker>ESPOSITO</speaker><content>Hey Beckett. We got a situation.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>ANNIE</speaker><content>I came back from lunch to find the door half open, the lock was broken, and you can – you can see the rest.</content></utterance>
+<utterance uid="13-2"><speaker>ESPOSITO</speaker><content>Any idea what they were looking for?</content></utterance>
+<utterance uid="13-3"><speaker>ANNIE</speaker><content>I’m still sorting through the mess. But Richie’s computer is gone and there’s something else. All of his case files are missing.</content></utterance>
+<utterance uid="13-4"><speaker>BECKETT</speaker><content>Why would anyone want Richie’s files?</content></utterance>
+<utterance uid="13-5"><speaker>ESPOSITO</speaker><content>This must have something to do with one of his cases. A client, maybe a witness? Someone or something he was looking into. Something he was hiding, even from you.</content></utterance>
+<utterance uid="13-6"><speaker>BECKETT</speaker><content>Okay. Let’s canvass the building. See if anyone else saw something. And get CSU down here? Prints, fibers, DNA, the whole thing.</content></utterance>
+<utterance uid="13-7"><speaker>ESPOSITO</speaker><content>Okay.</content></utterance>
+<utterance uid="13-8"><speaker>BECKETT</speaker><content> Excuse me.  Beckett.</content></utterance>
+<utterance uid="13-9"><speaker>RYAN</speaker><content>It’s me. Do you remember that meeting that Richie said he had in that diner last night?</content></utterance>
+<utterance uid="13-10"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="13-11"><speaker>RYAN</speaker><content>Well, waitress saw the whole thing. A lot more like a fight. Richie got into a shouting match with another guy.</content></utterance>
+<utterance uid="13-12"><speaker>BECKETT</speaker><content>You get a description?</content></utterance>
+<utterance uid="13-13"><speaker>RYAN</speaker><content> Better than that. Waitress knew exactly who he was. I’ll send you a picture.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>ANNIE</speaker><content>That’s Archie Bronstein, the Savannah Hammer.</content></utterance>
+<utterance uid="14-2"><speaker>BECKETT</speaker><content>Is there any reason that Richie and the Hammer would be fighting?</content></utterance>
+<utterance uid="14-3"><speaker>ANNIE</speaker><content>They were always stealing clients from each other, only Richie was better at it. It got to be where Hammer was so sick of losing business to him that he –  – he promised to put an end to it. One way or another.</content></utterance>
+<utterance uid="14-4"><speaker>BECKETT</speaker><content>Where can we find him?</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>ARCHIE BRONSTEIN</speaker><content>Call me, friend. Whatever happened to you is nothing compared to what I’m going to do to the other guy.</content></utterance>
+<utterance uid="15-2"><speaker>BECKETT</speaker><content>Mr. Archie Bronstein.</content></utterance>
+<utterance uid="15-3"><speaker>ARCHIE</speaker><content>The Savannah Hammer. No case too small, no settlement too big. Now, what can I help you with? Slip and fall? Work injury? Medical malpractice?</content></utterance>
+<utterance uid="15-4"><speaker>BECKETT</speaker><content>We’re here about the murder of Richie the Pitbull.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>ARCHIE</speaker><content>Sure, I was at that diner last night.</content></utterance>
+<utterance uid="16-2"><speaker>BECKETT</speaker><content>Well, this urgent meeting that the two of you had, what was it about?</content></utterance>
+<utterance uid="16-3"><speaker>ARCHIE</speaker><content>I’d hardly call it a meeting. I went in there to get some pecan pie and I saw him sitting there.</content></utterance>
+<utterance uid="16-4"><speaker>CASTLE</speaker><content>So the meeting wasn’t planned?</content></utterance>
+<utterance uid="16-5"><speaker>ARCHIE</speaker><content>Well, maybe he was planning on meeting someone else, but when I saw him sitting in that booth he was alone and we got into it.</content></utterance>
+<utterance uid="16-6"><speaker>BECKETT</speaker><content>About what?</content></utterance>
+<utterance uid="16-7"><speaker>ARCHIE</speaker><content>The usual. I caught him here last night trying to poach one of my clients. We had words here and then again at the diner.</content></utterance>
+<utterance uid="16-8"><speaker>CASTLE</speaker><content>So Richie was paranoid he was being followed, disappeared all day, says he’s in trouble, then comes here to poach a client?</content></utterance>
+<utterance uid="16-9"><speaker>BECKETT</speaker><content>Uh, Mr. Bronstein, was there a specific reason that he was interested in this client?</content></utterance>
+<utterance uid="16-10"><speaker>ARCHIE</speaker><content>He smelled an easy win.  Poor girl gets three pieces of flying metal in her heart when a scrap truck ploughs into her car. Now that is a slam dunk settlement, so you bet when I saw Richie at that diner we got loud. Until the waitress told us to take it outside, where I advised him to steer clear of my clients.</content></utterance>
+<utterance uid="16-11"><speaker>BECKETT</speaker><content>And what time was that?</content></utterance>
+<utterance uid="16-12"><speaker>ARCHIE</speaker><content>11:45, maybe. Look, I didn’t kill him. I didn’t steal his files. But it might be related to his extracurricular activities.</content></utterance>
+<utterance uid="16-13"><speaker>CASTLE</speaker><content>Uh, what’s that mean?</content></utterance>
+<utterance uid="16-14"><speaker>ARCHIE</speaker><content>Richie liked to come off like he was better than all of us, with his Harvard degree and his champion of the little guy act. But trust me, he was into some things.</content></utterance>
+<utterance uid="16-15"><speaker>CASTLE</speaker><content>What kind of things?</content></utterance>
+<utterance uid="16-16"><speaker>ARCHIE</speaker><content>Bad things. Word on the street was there was nothing he wouldn’t do for a price. And I mean nothing.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>ESPOSITO</speaker><content>Hey. So it looks like Hammer’s not our killer. Apparently after he left the diner he spent the rest of the night “nailing” one of his clients. Anything else turn up missing besides the files and the computer?</content></utterance>
+<utterance uid="17-2"><speaker>RYAN</speaker><content>No, not so far. Here’s what I don’t get. If all they wanted was files, why’d they turn this place upside down?</content></utterance>
+<utterance uid="17-3"><speaker>ESPOSITO</speaker><content>Must have been looking for something else.</content></utterance>
+<utterance uid="17-4"><speaker>RYAN</speaker><content>Mmm.</content></utterance>
+<utterance uid="17-5"><speaker>CSU TECH</speaker><content>Detectives. You need to see this.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>CSU TECH</speaker><content>We found a false panel in the wall. Take a look.</content></utterance>
+<utterance uid="18-2"><speaker>ESPOSITO</speaker><content>Rope, duct tape, rags, gloves. Chloroform.</content></utterance>
+<utterance uid="18-3"><speaker>RYAN</speaker><content>Looks like somebody was planning an abduction.</content></utterance>
+<utterance uid="18-4"><speaker>ESPOSITO</speaker><content>It might have went past the planning phase.</content></utterance>
+<utterance uid="18-5"><speaker>RYAN</speaker><content>Glow sticks last, what, 24 to 48 hours once activated? And they’re still glowing?</content></utterance>
+<utterance uid="18-6"><speaker>ESPOSITO</speaker><content>Which means he must have used this bag within the last two days.</content></utterance>
+<utterance uid="18-7"><speaker>RYAN</speaker><content>Yeah. But for what?</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>RYAN</speaker><content>Well, I just got off with CSU. That rag tested positive for chloroform.</content></utterance>
+<utterance uid="19-2"><speaker>BECKETT</speaker><content>So he must have used it to knock someone out.</content></utterance>
+<utterance uid="19-3"><speaker>CASTLE</speaker><content>Not very lawyerly of Mr. Pitbull.</content></utterance>
+<utterance uid="19-4"><speaker>BECKETT</speaker><content>So wire cutters, alarm schematics, night vision goggles, and glow sticks.</content></utterance>
+<utterance uid="19-5"><speaker>RYAN</speaker><content>He’s breaking in somewhere. But where?</content></utterance>
+<utterance uid="19-6"><speaker>ESPOSITO</speaker><content>All right, I’ll check the blotter, see if there were any B and E’s in the last two days. See if I can link any of them to Richie’s cases.</content></utterance>
+<utterance uid="19-7"><speaker>BECKETT</speaker><content>Yeah, and look into missing persons reports. We still can’t rule out an abduction.</content></utterance>
+<utterance uid="19-8"><speaker>ESPOSITO</speaker><content>No.  Hum. Check this out.</content></utterance>
+<utterance uid="19-9"><speaker>BECKETT</speaker><content>Cities and dates.  “January 3rd, 2009. Seattle. March 18th, 2011. Tulsa.”</content></utterance>
+<utterance uid="19-10"><speaker>CASTLE</speaker><content>Six of them all within the last five years. What do you think that means?</content></utterance>
+<utterance uid="19-11"><speaker>BECKETT</speaker><content> Have Tory run this through the database, see if she can find anything. And let’s see if she can trace where Richie was when he made that phone call to his ex.</content></utterance>
+<utterance uid="19-12"><speaker>ESPOSITO</speaker><content>You think any of this is connected to that girl in the hospital?</content></utterance>
+<utterance uid="19-13"><speaker>BECKETT</speaker><content>No, that was a straight up car accident, nothing that speaks to any of this. But someone out there has to know what Richie was up to.</content></utterance>
+<utterance uid="19-14"><speaker>RYAN</speaker><content>Well, maybe we should ask Mr. Sampson.</content></utterance>
+<utterance uid="19-15"><speaker>BECKETT</speaker><content>Who’s Mr. Sampson?</content></utterance>
+<utterance uid="19-16"><speaker>RYAN</speaker><content>I don’t know, but these are his night vision goggles.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>MIKE SAMPSON</speaker><content>Yeah, they’re mine.</content></utterance>
+<utterance uid="20-2"><speaker>BECKETT</speaker><content>How did you know the victim, Mr. Sampson?</content></utterance>
+<utterance uid="20-3"><speaker>SAMPSON</speaker><content>Uh, I did work for Richie here and there. Surveillance, information gathering, the usual PI stuff. He came to me a couple days ago asking me to borrow them.</content></utterance>
+<utterance uid="20-4"><speaker>BECKETT</speaker><content>Did he say what he needed them for?</content></utterance>
+<utterance uid="20-5"><speaker>SAMPSON</speaker><content>Sometimes he would slip me some extra cash not to ask questions.</content></utterance>
+<utterance uid="20-6"><speaker>CASTLE</speaker><content>Anything else you helped him with?</content></utterance>
+<utterance uid="20-7"><speaker>SAMPSON</speaker><content>Yeah. He had some questions about alarm schematics.</content></utterance>
+<utterance uid="20-8"><speaker>BECKETT</speaker><content>Like – like these?</content></utterance>
+<utterance uid="20-9"><speaker>SAMPSON</speaker><content>Yeah.</content></utterance>
+<utterance uid="20-10"><speaker>CASTLE</speaker><content>What about chloroform, Mr. Sampson? Did he you give him that, too?</content></utterance>
+<utterance uid="20-11"><speaker>SAMPSON</speaker><content>No. He had chloroform?</content></utterance>
+<utterance uid="20-12"><speaker>BECKETT</speaker><content>Yeah. Why? What’s wrong?</content></utterance>
+<utterance uid="20-13"><speaker>SAMPSON</speaker><content>When I gave him the goggles I asked if there was anything else he needed. He said something. I thought he was joking.</content></utterance>
+<utterance uid="20-14"><speaker>CASTLE</speaker><content>What did he say?</content></utterance>
+<utterance uid="20-15"><speaker>SAMPSON</speaker><content>He asked me what’s the best way to get rid of a body.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>CASTLE</speaker><content>Get rid of a body?</content></utterance>
+<utterance uid="21-2"><speaker>BECKETT</speaker><content>I’m starting to think that our lawyer for the little guy did abduct someone.</content></utterance>
+<utterance uid="21-3"><speaker>CASTLE</speaker><content>Yeah, and apparently killed him.</content></utterance>
+<utterance uid="21-4"><speaker>BECKETT</speaker><content>Maybe that’s what he meant by settling a debt.</content></utterance>
+<utterance uid="21-5"><speaker>CASTLE</speaker><content>But what was the debt, whom did he kill, and how did it cost him his life?</content></utterance>
+<utterance uid="21-6"><speaker>BECKETT</speaker><content>We need to check where Ryan and Espo are with that missing persons list. If we can find a connection between Richie and one of the people on the list that should give us some answers.</content></utterance>
+<utterance uid="21-7"><speaker>BECKETT</speaker><content>Where are Ryan and Espo, anyway?</content></utterance>
+<utterance uid="21-8"><speaker>GATES</speaker><content>I think I saw them go into interrogation.</content></utterance>
+<utterance uid="21-9"><speaker>CASTLE</speaker><content>Who are they interrogating?</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>BECKETT</speaker><content>Hey, is there another suspect that we don’t know about? What’s going on?</content></utterance>
+<utterance uid="22-2"><speaker>OFFICER JENKINS</speaker><content>I’m not supposed to say.</content></utterance>
+<utterance uid="22-3"><speaker>OFFICER JENKINS</speaker><content>Or let anyone in.</content></utterance>
+<utterance uid="22-4"><speaker>BECKETT</speaker><content>Okay.</content></utterance>
+<utterance uid="22-5"><speaker>OFFICER JENKINS</speaker><content>Hey!</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>CASTLE</speaker><content>What are they doing?</content></utterance>
+<utterance uid="23-2"><speaker>BECKETT</speaker><content>Are you seeing what I’m seeing?</content></utterance>
+<utterance uid="23-3"><speaker>CASTLE</speaker><content>Sprained my ass. His knee is fine. Daft Punk’s "Get Lucky". I bet they’re changing the lyrics to “you’re guilty”. Oh, that’s good.</content></utterance>
+<utterance uid="23-4"><speaker>BECKETT</speaker><content>Castle, he lied to us just so he could sucker you into a bet, which you fell for.</content></utterance>
+<utterance uid="23-5"><speaker>CASTLE</speaker><content>He’s going to regret this. Now we have to win.</content></utterance>
+<utterance uid="23-6"><speaker>BECKETT</speaker><content>With what? Our shower routine?</content></utterance>
+<utterance uid="23-7"><speaker>TORY ELLIS</speaker><content>Hey guys, got a sec? I think I’ve got something.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>TORY</speaker><content>I haven’t had any luck connecting that list of dates and cities you gave me, but when I traced Richie’s call to his ex yesterday I did find something interesting. Turns out it pinged off a cell tower near Croton-on-Hudson.</content></utterance>
+<utterance uid="24-2"><speaker>CASTLE</speaker><content>That’s an hour north of the city. What was Richie doing up there?</content></utterance>
+<utterance uid="24-3"><speaker>TORY</speaker><content>I don’t know. But by triangulating the signal off of other nearby cell towers I was able to dial in a more precise location.</content></utterance>
+<utterance uid="24-4"><speaker>BECKETT</speaker><content>Montrose State Forest?</content></utterance>
+<utterance uid="24-5"><speaker>TORY</speaker><content>To be exact, the call came from this parking lot, right at a trailhead into this large wooded area.</content></utterance>
+<utterance uid="24-6"><speaker>CASTLE</speaker><content>An out of the way forest well north of the city. Now is it just me, or does that sound like –</content></utterance>
+<utterance uid="24-7"><speaker>BECKETT</speaker><content>The perfect place to get rid of a body.</content></utterance>
+</scene>
+
+<scene id="25"><utterance uid="25-1"><speaker>BECKETT</speaker><content>You know this is a longshot, right?</content></utterance>
+<utterance uid="25-2"><speaker>CASTLE</speaker><content>If Richie parked in the lot like Tory said, then he would have come down this trail right here. And given how unwieldy it is to carry a dead body –  – that’s research, not experience - now then, he wouldn’t have gone very far before burying it. Which means we just have to look for freshly disturbed dirt in this general area like … right here.</content></utterance>
+<utterance uid="25-3"><speaker>BECKETT</speaker><content>Yeah. Like I said. Longshot. Just like our chances at winning that competition.</content></utterance>
+<utterance uid="25-4"><speaker>CASTLE</speaker><content>Oh, don’t think like that. I need my partner to have a positive attitude.</content></utterance>
+<utterance uid="25-5"><speaker>BECKETT</speaker><content>Well then, maybe you should have checked with your partner before signing her up for this.</content></utterance>
+<utterance uid="25-6"><speaker>CASTLE</speaker><content>Oh, what’s the big deal? It’ll be fun.</content></utterance>
+<utterance uid="25-7"><speaker>BECKETT</speaker><content>Castle, did you see those knuckleheads? I mean, what if I want to be a captain one day, of my own precinct? I kinda need people to take me seriously.</content></utterance>
+<utterance uid="25-8"><speaker>CASTLE</speaker><content>Oh, they do. Trust me.</content></utterance>
+<utterance uid="25-9"><speaker>BECKETT</speaker><content>And I’d like to keep it that way. Which won’t be possible if I’m acting like an idiot in front of the entire police force.</content></utterance>
+<utterance uid="25-10"><speaker>CASTLE</speaker><content>Okay, how about this. We do something simple. Dignified. Elegant. Something like, uh … a patch of tussilago.</content></utterance>
+<utterance uid="25-11"><speaker>BECKETT</speaker><content>I don’t know that one.</content></utterance>
+<utterance uid="25-12"><speaker>CASTLE</speaker><content>No, no. Um, remember Lanie said there was yellow pollen on Richie’s pants from a tussilago flower?  Check out this little yellow patch right here, about ankle high.</content></utterance>
+<utterance uid="25-13"><speaker>CASTLE</speaker><content>Beckett.</content></utterance>
+<utterance uid="25-14"><speaker>BECKETT</speaker><content>Yep.</content></utterance>
+<utterance uid="25-15"><speaker>BECKETT</speaker><content>Richie did bury someone out here.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>CASTLE</speaker><content>Look, about the routine. I know you’re worried, but –</content></utterance>
+<utterance uid="26-2"><speaker>BECKETT</speaker><content>It’s okay, Castle. It doesn’t matter what we do.</content></utterance>
+<utterance uid="26-3"><speaker>CASTLE</speaker><content>That’s the spirit!</content></utterance>
+<utterance uid="26-4"><speaker>BECKETT</speaker><content>It’s going to be a disaster.</content></utterance>
+<utterance uid="26-5"><speaker>CASTLE</speaker><content>That’s not the spirit.</content></utterance>
+<utterance uid="26-6"><speaker>BECKETT</speaker><content>I’m probably going to trip, my dress is going to split, the video’s going to go viral –</content></utterance>
+<utterance uid="26-7"><speaker>CASTLE</speaker><content>Okay, now you’re just sounding paranoid. Where is this coming from?</content></utterance>
+<utterance uid="26-8"><speaker>BECKETT</speaker><content>I’m just saying, Castle. It could happen. I mean, there’s a reason why Captain Gates doesn’t get up on the stage and have fun.</content></utterance>
+<utterance uid="26-9"><speaker>CASTLE</speaker><content>I just always assumed it was because she was genetically incapable of it. Look, you want me to cancel?</content></utterance>
+<utterance uid="26-10"><speaker>BECKETT</speaker><content>No. No. That would just make me lose face in another way.</content></utterance>
+<utterance uid="26-11"><speaker>BECKETT</speaker><content>I just hit something.</content></utterance>
+<utterance uid="26-12"><speaker>CASTLE</speaker><content>That’s a body bag.</content></utterance>
+<utterance uid="26-13"><speaker>GUNMAN</speaker><content>Put the bag down and step away from the body.</content></utterance>
+<utterance uid="26-14"><speaker>CASTLE</speaker><content>I think we may just have dug our own graves.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>CASTLE</speaker><content>I don’t hear anything.</content></utterance>
+<utterance uid="27-2"><speaker>BECKETT</speaker><content>Me either.</content></utterance>
+<utterance uid="27-3"><speaker>CASTLE</speaker><content>What’s he doing?</content></utterance>
+<utterance uid="27-4"><speaker>BECKETT</speaker><content>He’s gone.</content></utterance>
+<utterance uid="27-5"><speaker>CASTLE</speaker><content>What?</content></utterance>
+<utterance uid="27-6"><speaker>CASTLE</speaker><content>So’s the body. He stole the body. Why would anyone steal a body?</content></utterance>
+<utterance uid="27-7"><speaker>BECKETT</speaker><content>He must be connected to this somehow.</content></utterance>
+<utterance uid="27-8"><speaker>CASTLE</speaker><content>Maybe he and Richie are partners. Maybe they killed that person together.</content></utterance>
+<utterance uid="27-9"><speaker>BECKETT</speaker><content>Well, there’ll be time for questions later. Right now we just have to find a way to saw through these zip ties before he gets back.</content></utterance>
+<utterance uid="27-10"><speaker>CASTLE</speaker><content>Yes, well, he took our keys and our phones, so … oh! Wait a minute. As part of my PI training I saw a video on how to break the zip tie cuffs. All you have to do is just hit them as hard as you can against your ass.  Ow.  It said it might take a few tries.</content></utterance>
+<utterance uid="27-11"><speaker>BECKETT</speaker><content>Okay.</content></utterance>
+<utterance uid="27-12"><speaker>CASTLE</speaker><content>Ow!</content></utterance>
+<utterance uid="27-13"><speaker>BECKETT</speaker><content>This isn’t working.</content></utterance>
+<utterance uid="27-14"><speaker>CASTLE</speaker><content>No. But on the bright side, I think we came up with a new move for our dance routine.  Too soon? Yeah.</content></utterance>
+<utterance uid="27-15"><speaker>CASTLE</speaker><content>Yes!</content></utterance>
+<utterance uid="27-16"><speaker>BECKETT</speaker><content>Oh!</content></utterance>
+<utterance uid="27-17"><speaker>CASTLE</speaker><content>Sweet!</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>RYAN</speaker><content>He stole the body?</content></utterance>
+<utterance uid="28-2"><speaker>BECKETT</speaker><content>Yeah. Send a team up to those woods to comb for trace evidence and check these zip ties for DNA.</content></utterance>
+<utterance uid="28-3"><speaker>RYAN</speaker><content>Did you get a look at this guy?</content></utterance>
+<utterance uid="28-4"><speaker>CASTLE</speaker><content>He was masked, came up behind us, kept us facing away from him the whole time.</content></utterance>
+<utterance uid="28-5"><speaker>BECKETT</speaker><content>Anything from missing persons? Anyone in Richie’s life that disappeared?</content></utterance>
+<utterance uid="28-6"><speaker>RYAN</speaker><content>Well, we’ve looked into every disappearance and break-in in the tristate area. So far no connection to any one of them and Richie.</content></utterance>
+<utterance uid="28-7"><speaker>ESPOSITO</speaker><content>And I, uh, checked with known associates, clients, people he was suing. They’re all accounted for.</content></utterance>
+<utterance uid="28-8"><speaker>BECKETT</speaker><content>Yeah, well, somebody was in that bag, so let’s dig deeper.</content></utterance>
+<utterance uid="28-9"><speaker>CASTLE</speaker><content>Oh, and uh … you can lose the limp. We saw you rehearsing.  If I might add, it’s no "I’ve Had ".</content></utterance>
+<utterance uid="28-10"><speaker>ESPOSITO</speaker><content>Well. It’s still good enough to take the both of you down.</content></utterance>
+<utterance uid="28-11"><speaker>BECKETT</speaker><content>Come on, guys. This isn’t really about the competition. It’s about doing our best for a good cause, right?</content></utterance>
+<utterance uid="28-12"><speaker>CASTLE</speaker><content>It’s about the competition.</content></utterance>
+<utterance uid="28-13"><speaker>RYAN</speaker><content>It’s about the competition.</content></utterance>
+<utterance uid="28-14"><speaker>ESPOSITO</speaker><content>It’s about the competition.</content></utterance>
+</scene>
+
+<scene id="29"><utterance uid="29-1"><speaker>MARTHA RODGERS</speaker><content>Whoa! Bravo! And Brava. Wonderful, darlings, just wonderful.</content></utterance>
+<utterance uid="29-2"><speaker>BECKETT</speaker><content>Thank you.</content></utterance>
+<utterance uid="29-3"><speaker>CASTLE</speaker><content>And you were worried. See, it’s elegant, dignified, and above all, a trophy winning performance. Am I right, Mother?</content></utterance>
+<utterance uid="29-4"><speaker>MARTHA</speaker><content>Well, it will be when I’m done with it.</content></utterance>
+<utterance uid="29-5"><speaker>CASTLE</speaker><content>Okay.</content></utterance>
+<utterance uid="29-6"><speaker>MARTHA</speaker><content>We just need to tweak a few little things, and I do wish you would go for that split.</content></utterance>
+<utterance uid="29-7"><speaker>CASTLE</speaker><content>Okay, well, I will leave you to convince Ginger. I will be right back.</content></utterance>
+<utterance uid="29-8"><speaker>BECKETT</speaker><content>Wait, where – where are you going?</content></utterance>
+<utterance uid="29-9"><speaker>CASTLE</speaker><content>I am going to call Esposito. I think it’s time we raise the stakes on that bet.</content></utterance>
+<utterance uid="29-10"><speaker>BECKETT</speaker><content>What? Castle? Wait.</content></utterance>
+<utterance uid="29-11"><speaker>MARTHA</speaker><content>Oh, darling, don’t you worry about him. Do not worry about that trophy, because the only thing that anyone is going to remember from the final performance is that you sound like an angel.</content></utterance>
+<utterance uid="29-12"><speaker>BECKETT</speaker><content>Except, Martha, I won’t.</content></utterance>
+<utterance uid="29-13"><speaker>MARTHA</speaker><content>Well, of course you will. You just did!</content></utterance>
+<utterance uid="29-14"><speaker>BECKETT</speaker><content>No, Martha, that’s because it was just you. And Rick. We weren’t in public in front of strangers.</content></utterance>
+<utterance uid="29-15"><speaker>MARTHA</speaker><content>Oh, no. Stage fright.</content></utterance>
+<utterance uid="29-16"><speaker>BECKETT</speaker><content>Well, it’s – it’s more like song fright. I mean, my heart just starts palpitating and I start sweating and my throat just chokes up –</content></utterance>
+<utterance uid="29-17"><speaker>MARTHA</speaker><content>I know, I know, I know. It’s classic and it’s awful. And why in the world would Richard sign you up for this?</content></utterance>
+<utterance uid="29-18"><speaker>BECKETT</speaker><content> He doesn’t know.</content></utterance>
+<utterance uid="29-19"><speaker>MARTHA</speaker><content>Oh, honey. You have to tell him.</content></utterance>
+<utterance uid="29-20"><speaker>BECKETT</speaker><content>Oh, I don’t – I don’t want to let him down. He wants this so badly, I want to give it to him. But I just … I don’t know that I can.</content></utterance>
+<utterance uid="29-21"><speaker>MARTHA</speaker><content> Oh.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>CASTLE</speaker><content>I cannot wait to see the looks on their faces when they get a load of our routine.</content></utterance>
+<utterance uid="30-2"><speaker>BECKETT</speaker><content>Yeah, I can imagine it. Vividly.</content></utterance>
+<utterance uid="30-3"><speaker>CASTLE</speaker><content>Ah, trust me. You’ll be great.</content></utterance>
+<utterance uid="30-4"><speaker>ESPOSITO</speaker><content>If it’s going to be so great then why don’t we up the bet? Again.</content></utterance>
+<utterance uid="30-5"><speaker>CASTLE</speaker><content>Well Esposito, what did you have in mind?</content></utterance>
+<utterance uid="30-6"><speaker>GATES</speaker><content>Sorry fellas. All bets are off. I just heard from 1PP. Kimmel rearranged his schedule and he’s back in. Oh, so unfortunately we will not be needing your services, Mr. Castle.</content></utterance>
+<utterance uid="30-7"><speaker>BECKETT</speaker><content>Really?</content></utterance>
+<utterance uid="30-8"><speaker>CASTLE</speaker><content>But we rehearsed and everything.</content></utterance>
+<utterance uid="30-9"><speaker>GATES</speaker><content>Out of my hands.</content></utterance>
+<utterance uid="30-10"><speaker>CASTLE</speaker><content>This isn’t over.</content></utterance>
+<utterance uid="30-11"><speaker>RYAN</speaker><content>Hey guys, we got him.</content></utterance>
+<utterance uid="30-12"><speaker>BECKETT</speaker><content>Who?</content></utterance>
+<utterance uid="30-13"><speaker>RYAN</speaker><content>That guy who jacked you for that body in the woods. When CSU went up there they noticed something in the trees. Cameras triggered by motion sensors to carry out wildlife census.  Guess what kind of wildlife we found?</content></utterance>
+<utterance uid="30-14"><speaker>BECKETT</speaker><content>Mike Sampson.</content></utterance>
+<utterance uid="30-15"><speaker>CASTLE</speaker><content>Richie’s PI.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>RYAN</speaker><content>NYPD!</content></utterance>
+<utterance uid="31-2"><speaker>ESPOSITO</speaker><content>Let me see your hands. Now!</content></utterance>
+<utterance uid="31-3"><speaker>BECKETT</speaker><content>Where is it, Mike? Where’s the body?</content></utterance>
+<utterance uid="31-4"><speaker>SAMPSON</speaker><content>What’s going on? What are you talking about?</content></utterance>
+<utterance uid="31-5"><speaker>BECKETT</speaker><content> Search his place. Espo, pop the trunk.</content></utterance>
+<utterance uid="31-6"><speaker>ESPOSITO</speaker><content> Hands on the car.  All right.</content></utterance>
+<utterance uid="31-7"><speaker>CASTLE</speaker><content>It’s here.</content></utterance>
+<utterance uid="31-8"><speaker>BECKETT</speaker><content>Who’s in the bag, Mike?</content></utterance>
+<utterance uid="31-9"><speaker>CASTLE</speaker><content>What the - ?</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>BECKETT</speaker><content>Sampson’s not talking, about Richie or the dummy.</content></utterance>
+<utterance uid="32-2"><speaker>CASTLE</speaker><content>I don’t get it. Why would Richie bury a crash test dummy in the middle of nowhere and why would Sampson steal it?</content></utterance>
+<utterance uid="32-3"><speaker>BECKETT</speaker><content>I don’t know, but he probably told us that story about Richie dumping a body so we could lead him straight to it.</content></utterance>
+<utterance uid="32-4"><speaker>RYAN</speaker><content>Well, it turns out that dummy’s not the only thing that Sampson stole. Unis found Richie’s missing client files in his apartment. Shredded.</content></utterance>
+<utterance uid="32-5"><speaker>BECKETT</speaker><content>This must have something to do with one of Richie’s cases.</content></utterance>
+<utterance uid="32-6"><speaker>RYAN</speaker><content>Yeah, but which one?</content></utterance>
+<utterance uid="32-7"><speaker>BECKETT</speaker><content>You know, if Sampson won’t talk, maybe the dummy will.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>LANIE</speaker><content>You do know I’m a doctor, not a puppeteer.</content></utterance>
+<utterance uid="33-2"><speaker>BECKETT</speaker><content>Yes, and as a doctor I was hoping you could tell us what’s so special about this … dummy.</content></utterance>
+<utterance uid="33-3"><speaker>LANIE</speaker><content>I’ll tell you what’s special about it. This dummy has been murdered.</content></utterance>
+<utterance uid="33-4"><speaker>CASTLE</speaker><content> Murdered?</content></utterance>
+<utterance uid="33-5"><speaker>LANIE</speaker><content>See the holes in its chest?</content></utterance>
+<utterance uid="33-6"><speaker>CASTLE</speaker><content>They look like bullet holes.</content></utterance>
+<utterance uid="33-7"><speaker>LANIE</speaker><content>That’s basically what they are. As far as I can tell they were made by small metal pieces projected with significant force.</content></utterance>
+<utterance uid="33-8"><speaker>BECKETT</speaker><content>What would explain that?</content></utterance>
+<utterance uid="33-9"><speaker>LANIE</speaker><content>It’s hard to say. Lots of people use these dummies. Car companies, the airline industry, the military.</content></utterance>
+<utterance uid="33-10"><speaker>BECKETT</speaker><content>So someone could’ve been testing the effects of an IED or a new firearm?</content></utterance>
+<utterance uid="33-11"><speaker>CASTLE</speaker><content>I don’t think it’s a firearm. Three holes, three bits of flying metal around the heart. Where have we heard that before?</content></utterance>
+<utterance uid="33-12"><speaker>BECKETT</speaker><content>Hammer’s client. The one Pitbull tried to poach.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>JODY</speaker><content>Last thing I remember was that salvage truck hitting the median before me. That’s when the metal started to fly. The paramedics said that I was lucky. That I almost died.</content></utterance>
+<utterance uid="34-2"><speaker>BECKETT</speaker><content>Uh, Jody, do you remember this guy?</content></utterance>
+<utterance uid="34-3"><speaker>JODY</speaker><content>Yeah. The Pitbull. He wanted to represent me but I already had a lawyer. But then he wouldn’t stop asking about the accident, like he didn’t believe what happened.</content></utterance>
+<utterance uid="34-4"><speaker>CASTLE</speaker><content>Jody, what kind of car were you driving?</content></utterance>
+<utterance uid="34-5"><speaker>JODY</speaker><content>I’m not sure. It was a rental. Why does everyone keep asking that?</content></utterance>
+<utterance uid="34-6"><speaker>CASTLE</speaker><content>Who’s been asking?</content></utterance>
+<utterance uid="34-7"><speaker>JODY</speaker><content>The Pitbull. And the lady who was here yesterday.</content></utterance>
+<utterance uid="34-8"><speaker>BECKETT</speaker><content>What lady?</content></utterance>
+<utterance uid="34-9"><speaker>JODY</speaker><content>She said he was from my insurance company. When I woke up she was looking at my chart. She asked me about my injuries and wanted to know all about the car.</content></utterance>
+<utterance uid="34-10"><speaker>CASTLE</speaker><content>That doesn’t make any sense. The insurance company would have that information from the accident report.</content></utterance>
+<utterance uid="34-11"><speaker>BECKETT</speaker><content>Yeah. Do you think you could describe her to a sketch artist?</content></utterance>
+<utterance uid="34-12"><speaker>JODY</speaker><content> Yeah.</content></utterance>
+<utterance uid="34-13"><speaker>BECKETT</speaker><content>Okay. And one more thing: what was the name of car rental company?</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>ESPOSITO</speaker><content>According to the rental firm Jody was driving a Modesto sedan. Now I couldn’t find any safety recalls to explain her injuries, but on a hunch I checked the cities and dates on that slip of paper we found. Turns out that each one corresponded to a Modesto car accident where the driver suffered puncture wounds to the chest.</content></utterance>
+<utterance uid="35-2"><speaker>BECKETT</speaker><content>Just like Jody Evans and that crash test dummy.</content></utterance>
+<utterance uid="35-3"><speaker>ESPOSITO</speaker><content>Yeah, but in each case the wounds were attributed to something outside the vehicle. Road debris, even gunshots.</content></utterance>
+<utterance uid="35-4"><speaker>BECKETT</speaker><content>Give the velocity of the shrapnel, this must be related to a defect in the airbags.</content></utterance>
+<utterance uid="35-5"><speaker>CASTLE</speaker><content>And judging by the holes in that dummy, Modesto was aware of that defect and chose to sweep it under the rug. Richie was onto a cover up.</content></utterance>
+<utterance uid="35-6"><speaker>ESPOSITO</speaker><content>Yeah, one that he might have been a part of. I looked into that big time law firm where Richie used to work five years ago before he became the Pitbull. Guess who their biggest client was.</content></utterance>
+<utterance uid="35-7"><speaker>BECKETT</speaker><content>Modesto Motors.</content></utterance>
+<utterance uid="35-8"><speaker>ESPOSITO</speaker><content>Yeah. And Richie handled their account.</content></utterance>
+<utterance uid="35-9"><speaker>CASTLE</speaker><content>You know, about five years ago Modesto was nearly bankrupt.</content></utterance>
+<utterance uid="35-10"><speaker>BECKETT</speaker><content>So rather than spend millions of dollars to fix the problem they decided that the cost of recall outweighed the potential cost to human life.</content></utterance>
+<utterance uid="35-11"><speaker>ESPOSITO</speaker><content>Looks like Richie’s conscience couldn’t take it. That problem he had with drinking and drugs started just a few months after that first accident.</content></utterance>
+<utterance uid="35-12"><speaker>CASTLE</speaker><content>That debt that Richie told Derek he was settling, it was a karmic one.</content></utterance>
+<utterance uid="35-13"><speaker>BECKETT</speaker><content>He wanted to make it right. Expose the cover up.</content></utterance>
+<utterance uid="35-14"><speaker>CASTLE</speaker><content>He needed to prove that Modesto knew about the defect even before people started dying. That crash test dummy, that was his smoking gun.</content></utterance>
+<utterance uid="35-15"><speaker>ESPOSITO</speaker><content>Which explains the break in equipment. He needed it to steal the dummy from Modesto.</content></utterance>
+<utterance uid="35-16"><speaker>BECKETT</speaker><content>No wonder Richie was paranoid and buried that dummy in the woods. Guys, if the truth about the defect came out then Modesto would be liable for hundreds of millions of dollars in damages.</content></utterance>
+<utterance uid="35-17"><speaker>CASTLE</speaker><content>He knew they’d stop at nothing to get it back.</content></utterance>
+<utterance uid="35-18"><speaker>BECKETT</speaker><content>Okay, this is a hell of a theory, but with Richie dead, the files all destroyed, and with absolutely no connection between the dummy and Modesto, it’s just that. It’s a theory.</content></utterance>
+<utterance uid="35-19"><speaker>RYAN</speaker><content>Uh, it’s more than a theory. We just got the sketch back from Jody of the woman who visited her claiming to be from an insurance company.  Look familiar?</content></utterance>
+<utterance uid="35-20"><speaker>ESPOSITO</speaker><content>Richie’s ex. What the hell does she have to do with any of this?</content></utterance>
+<utterance uid="35-21"><speaker>RYAN</speaker><content>She was recently poached from the law firm that she and Richie worked at. She’s now lead council for Modesto.</content></utterance>
+<utterance uid="35-22"><speaker>CASTLE</speaker><content>Richie was a threat. He knew where the bodies were buried so his ex-wife decided to add him to the pile.</content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>ELISE</speaker><content>I’m not sure why I’m here. I’ve told you everything I know.</content></utterance>
+<utterance uid="36-2"><speaker>BECKETT</speaker><content>No. Not everything. You didn’t tell us you were lead council for Modesto Motors and you didn’t tell us about the airbags.</content></utterance>
+<utterance uid="36-3"><speaker>CASTLE</speaker><content>You know, those airbags with the habit of putting holes in people. Like Jody Evans.</content></utterance>
+<utterance uid="36-4"><speaker>ELISE</speaker><content>Excuse me?</content></utterance>
+<utterance uid="36-5"><speaker>BECKETT</speaker><content>Ms. Resner, why did Richie really call you the other day?</content></utterance>
+<utterance uid="36-6"><speaker>CASTLE</speaker><content>Was it to give you a little heads up? You know, for old time’s sake. Because that defect he helped cover up back then, you were in on that, too.</content></utterance>
+<utterance uid="36-7"><speaker>BECKETT</speaker><content>He was going public with it and he didn’t want you to be blindsided.</content></utterance>
+<utterance uid="36-8"><speaker>CASTLE</speaker><content>But you couldn’t let that happen. Not to Modesto and certainly not to you. So you had him silenced.</content></utterance>
+<utterance uid="36-9"><speaker>ELISE</speaker><content>You think I killed my ex-husband? Detective, I had nothing to do with Richie’s death. And by the way, there is no defect or cover up.</content></utterance>
+<utterance uid="36-10"><speaker>CASTLE</speaker><content>Richie knew otherwise. In fact, he committed a break in just to prove it.</content></utterance>
+<utterance uid="36-11"><speaker>BECKETT</speaker><content>We found that a silent alarm was tripped at a Modesto Motors storage facility three nights ago but when police responded, they were told that it was set off by mistake.</content></utterance>
+<utterance uid="36-12"><speaker>CASTLE</speaker><content>Yet an ambulance was called there that night to treat a guard for chloroform inhalation.</content></utterance>
+<utterance uid="36-13"><speaker>ELISE</speaker><content>I’m not familiar with that incident.</content></utterance>
+<utterance uid="36-14"><speaker>BECKETT</speaker><content>Well are you familiar with this?</content></utterance>
+<utterance uid="36-15"><speaker>BECKETT</speaker><content>It’s evidence of your cover up.</content></utterance>
+<utterance uid="36-16"><speaker>ELISE</speaker><content>If this dummy was illegally obtained from a Modesto storage facility then it is the property of Modesto and we’d like it back.</content></utterance>
+<utterance uid="36-17"><speaker>BECKETT</speaker><content>I’m sure you would. Especially considering it could cost your company hundreds of millions of dollars. Which is why you hired this man to retrieve it.</content></utterance>
+<utterance uid="36-18"><speaker>BECKETT</speaker><content>We’re looking into his financial records right now. It’s only a matter of time before we connect him to Modesto.</content></utterance>
+<utterance uid="36-19"><speaker>ELISE</speaker><content> You’re barking up the wrong tree, Detective. Modesto has its own in-house investigators. If we wanted to recover this dummy, as you claim, why would we entrust such a sensitive task to an outsider?</content></utterance>
+<utterance uid="36-20"><speaker>ELISE</speaker><content>But I have seen this man before.</content></utterance>
+<utterance uid="36-21"><speaker>CASTLE</speaker><content>Where?</content></utterance>
+<utterance uid="36-22"><speaker>ELISE</speaker><content>In front of Saint Simon’s hospital. He was sitting in a car conferring with someone else.</content></utterance>
+<utterance uid="36-23"><speaker>BECKETT</speaker><content>Conferring with whom?</content></utterance>
+</scene>
+<scene id="37"><utterance uid="37-1"><speaker>ARCHIE</speaker><content>Owed a cash settlement? It’s Hammer time. I’ll pound and pound away until I’ve nailed down the cash you’ve got coming. Anyone gets in your way, they’ll have to deal with me. The Savannah Hammer.</content></utterance>
+<utterance uid="37-2"><speaker>CASTLE</speaker><content>Is that what happened to Richie Falco? He got in your way so you pounded him ‘til he was dead?</content></utterance>
+<utterance uid="37-3"><speaker>ARCHIE</speaker><content>Excuse me, we’re filming here.  Mr. Castle, I will thank you and your ridiculous allegations to wait outside.</content></utterance>
+<utterance uid="37-4"><speaker>BECKETT</speaker><content>They’re not just allegations. Not anymore. Mike Sampson gave you up. A witness placed the two of you together and Sampson was more than eager to distance himself from the murder.</content></utterance>
+<utterance uid="37-5"><speaker>CASTLE</speaker><content>But he did admit to breaking into Richie’s office and hijacking the crash test dummy from us because you paid him to.</content></utterance>
+<utterance uid="37-6"><speaker>ARCHIE</speaker><content>I really don’t know what you’re talking about.</content></utterance>
+<utterance uid="37-7"><speaker>CASTLE</speaker><content>I think you do. You knew Modesto would pay millions to get that dummy back. Matter of fact, you were so sure you promised Mike a cut.</content></utterance>
+<utterance uid="37-8"><speaker>ARCHIE</speaker><content>This is crazy. I never paid anyone to steal anything and I didn’t kill the Pitbull. I have an alibi.</content></utterance>
+<utterance uid="37-9"><speaker>BECKETT</speaker><content>No. Not anymore. Once your alibi found out she was facing accessory to murder charges she recanted and admitted that you paid her.</content></utterance>
+<utterance uid="37-10"><speaker>CASTLE</speaker><content>We found the taser, Hammer. In the back of your car, right next to that tire iron.</content></utterance>
+<utterance uid="37-11"><speaker>BECKETT</speaker><content>Which you bleached. But you forgot about the droplets of blood residue on the carpet. What do you think is going to happen when we test it against Richie’s DNA?  It’s over.</content></utterance>
+<utterance uid="37-12"><speaker>CASTLE</speaker><content>You know what I can’t figure out? Is why?</content></utterance>
+<utterance uid="37-13"><speaker>ARCHIE</speaker><content> Why? Because he couldn’t see that that dummy was a gold mine. And all he wanted was justice? You’re as naïve as he was.</content></utterance>
+<utterance uid="37-14"><speaker>BECKETT</speaker><content>Let’s go, Hammer.</content></utterance>
+<utterance uid="37-15"><speaker>CASTLE</speaker><content>Yeah. It’s slammer time.</content></utterance>
+</scene>
+
+<scene id="38"><utterance uid="38-1"><speaker>RYAN</speaker><content>Hey. Look who decided to show up.</content></utterance>
+<utterance uid="38-2"><speaker>ESPOSISTO</speaker><content>Where were you guys? You missed the competition.</content></utterance>
+<utterance uid="38-3"><speaker>BECKETT</speaker><content>Yeah, sorry, you guys. We got held up giving a statement at NTSB.</content></utterance>
+<utterance uid="38-4"><speaker>CASTLE</speaker><content>But you’ll be happy to know they’re launching a full investigation of Modesto Motors.</content></utterance>
+<utterance uid="38-5"><speaker>RYAN</speaker><content>Well it looks like Pitbull’s going to get what he wanted: justice for all the victims of that defect.</content></utterance>
+<utterance uid="38-6"><speaker>CASTLE</speaker><content>Yeah. What about you gentlemen? Did you get what you wanted at the show?</content></utterance>
+<utterance uid="38-7"><speaker>RYAN</speaker><content>Well, um … let’s put it this way. We’re no longer two time champs.</content></utterance>
+<utterance uid="38-8"><speaker>ESPOSITO</speaker><content>Three years in a row, baby!</content></utterance>
+<utterance uid="38-9"><speaker>BECKETT</speaker><content>That’s awesome! Oh, I’m so happy for you guys.</content></utterance>
+<utterance uid="38-10"><speaker>CASTLE</speaker><content>Yes, very nice. Very nice. Even though the field of competition was a little light this year.</content></utterance>
+<utterance uid="38-11"><speaker>ESPOSITO</speaker><content>Speaking of which –</content></utterance>
+<utterance uid="38-12"><speaker>RYAN</speaker><content>Huh.</content></utterance>
+<utterance uid="38-13"><speaker>ESPOSITO</speaker><content>- isn’t there a certain bet that needs settling?</content></utterance>
+<utterance uid="38-14"><speaker>RYAN</speaker><content>Ah... right. The dedication. I guess it’s just a matter of how big to make that font size.</content></utterance>
+<utterance uid="38-15"><speaker>CASTLE</speaker><content>Seriously? Come on, guys. We didn’t even get a chance to square off.</content></utterance>
+<utterance uid="38-16"><speaker>RYAN</speaker><content>Which is why we’re not going to hold you to it. You’re off the hook, Castle.</content></utterance>
+<utterance uid="38-17"><speaker>CASTLE</speaker><content>Ah. Thank you. Thank you. It’s very big of you.  Especially considering we would have kicked your asses.</content></utterance>
+<utterance uid="38-18"><speaker>ESPOSITO</speaker><content>Uh … now, you’re going to talk smack, well, then we are going to settle this.  Right here, right now.</content></utterance>
+<utterance uid="38-19"><speaker>RYAN</speaker><content>Why don’t we clear all these desks, go head to head.  Let the precinct decide.</content></utterance>
+<utterance uid="38-20"><speaker>CASTLE</speaker><content>Um… no. You want bragging rights? They’re yours. Our routine’s too good for you, anyway.</content></utterance>
+<utterance uid="38-21"><speaker>RYAN</speaker><content>Mmhmm.</content></utterance>
+<utterance uid="38-22"><speaker>ESPOSITO</speaker><content>That’s what I thought.</content></utterance>
+<utterance uid="38-23"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+</scene>
+<scene id="39"><utterance uid="39-1"><speaker>BECKETT</speaker><content>Since when do you turn down a challenge?</content></utterance>
+<utterance uid="39-2"><speaker>CASTLE</speaker><content>Oh, they know we’re better. No sense in embarrassing them.</content></utterance>
+<utterance uid="39-3"><speaker>BECKETT</speaker><content>You know, don’t you?</content></utterance>
+<utterance uid="39-4"><speaker>CASTLE</speaker><content> Know what?</content></utterance>
+<utterance uid="39-5"><speaker>BECKETT</speaker><content>That’s why we got pulled from the lineup. Kimmel’s your bud. You must have called him and told him to perform so we wouldn’t have to. Or so that I wouldn’t have to.</content></utterance>
+<utterance uid="39-6"><speaker>CASTLE</speaker><content>I … may have overheard you talking to my mother.</content></utterance>
+<utterance uid="39-7"><speaker>BECKETT</speaker><content>You did that for me?</content></utterance>
+<utterance uid="39-8"><speaker>CASTLE</speaker><content>No more of a sacrifice than what you were going to do for me. Kate, why wouldn’t you just say something?</content></utterance>
+<utterance uid="39-9"><speaker>BECKETT</speaker><content>I didn’t want you to think less of me.  And I really didn’t want anyone else to know, so … stupid.</content></utterance>
+<utterance uid="39-10"><speaker>CASTLE</speaker><content>No, not stupid. Just human.</content></utterance>
+<utterance uid="39-11"><speaker>BECKETT</speaker><content>Aren’t you disappointed you’re not going to be able to perform for an audience?</content></utterance>
+<utterance uid="39-12"><speaker>CASTLE</speaker><content>Only audience I care about is you.</content></utterance>
+</scene>
+<scene id="40"><utterance uid="40-1"><speaker>CASTLE</speaker><content> Don’t you know, little fool, you never can win.</content></utterance>
+<utterance uid="40-2"><speaker>BECKETT</speaker><content> Use your mentality –</content></utterance>
+<utterance uid="40-3"><speaker>CASTLE</speaker><content> Wake up to reality.</content></utterance>
+<utterance uid="40-4"><speaker>BECKETT</speaker><content> But each time I do just the thought of you –</content></utterance>
+<utterance uid="40-5"><speaker>CASTLE</speaker><content> – makes me stop before I begin. ‘cause I’ve got you under my skin.</content></utterance>
+<utterance uid="40-6"><speaker>BECKETT</speaker><content> – makes me stop before I begin. ‘cause I’ve got you under my skin.</content></utterance>
+<utterance uid="40-7"><speaker>THE END</speaker><content>CASTLE</content></utterance>
+</scene>
+</script>

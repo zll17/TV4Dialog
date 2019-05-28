@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+
+<scene id="1"><utterance uid="1-1"><speaker>MARTHA RODGERS</speaker><content>Oh, I had the most exquisite class this evening. My students are rehearsing the boxing scene from Who’s Afraid of Virginia Woolf?.</content></utterance>
+<utterance uid="1-2"><speaker>RICHARD CASTLE</speaker><content>I’m just glad they were using your studio and not my living room.</content></utterance>
+<utterance uid="1-3"><speaker>MARTHA</speaker><content>Oh… you’re making me your fabulous pasta carbonara. Oh! You shouldn’t have.</content></utterance>
+<utterance uid="1-4"><speaker>CASTLE</speaker><content>I didn’t. Actually, it’s for Alexis. She’s just been, you know, a little busy lately. I thought we’d uh… reconnect. So, her favorite dish and then a screening of Saw 4: The Director’s Cut.</content></utterance>
+<utterance uid="1-5"><speaker>MARTHA</speaker><content>Ah. I hate to tell you this, darling, but she won’t be here.</content></utterance>
+<utterance uid="1-6"><speaker>CASTLE</speaker><content>What do you mean? Where else would she be?</content></utterance>
+<utterance uid="1-7"><speaker>MARTHA</speaker><content>She’s starting a new internship.</content></utterance>
+<utterance uid="1-8"><speaker>CASTLE</speaker><content> Another one?</content></utterance>
+<utterance uid="1-9"><speaker>MARTHA</speaker><content>She did say she wanted to try a few things to find her passion.</content></utterance>
+<utterance uid="1-10"><speaker>CASTLE</speaker><content>It’s 9 o’clock. What kind of passion is she finding at this time of night?</content></utterance>
+<utterance uid="1-11"><speaker>MARTHA</speaker><content>Um…  Ah ha. There. Your better half.</content></utterance>
+<utterance uid="1-12"><speaker>CASTLE</speaker><content>Don’t change the subject. What is this internship, exactly?</content></utterance>
+<utterance uid="1-13"><speaker>MARTHA</speaker><content>Richard, Alexis swore me to secrecy.</content></utterance>
+<utterance uid="1-14"><speaker>CASTLE</speaker><content>Yes, but as her father –</content></utterance>
+<utterance uid="1-15"><speaker>MARTHA</speaker><content>Ah ah ah ah.  My lips are sealed.</content></utterance>
+<utterance uid="1-16"><speaker>CASTLE</speaker><content>Then you won’t be using them to eat my  pasta carbonara.</content></utterance>
+<utterance uid="1-17"><speaker>MARTHA</speaker><content> All right. Well, let me say this. This internship has my personal seal of approval.</content></utterance>
+<utterance uid="1-18"><speaker>CASTLE</speaker><content>That doesn’t make me feel any better.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>CASTLE</speaker><content>Truth is, the internship isn’t the problem. It’s the fact she now has three of them.</content></utterance>
+<utterance uid="2-2"><speaker>KATE BECKETT</speaker><content>Yeah, well you never know, Castle. This might be the one that brings you two closer together somehow.</content></utterance>
+<utterance uid="2-3"><speaker>CASTLE</speaker><content>I doubt it. Best I can hope for now is she learns to become more of an underachiever.</content></utterance>
+<utterance uid="2-4"><speaker>BECKETT</speaker><content>Yeah well, I’m sure you’ll be able to give her some tips.</content></utterance>
+<utterance uid="2-5"><speaker>JAVIER ESPOSITO</speaker><content>So, neighbors heard a hellacious fight and then our victim here sailed out of that fourth floor window.</content></utterance>
+<utterance uid="2-6"><speaker>BECKETT</speaker><content>Was that his apartment?</content></utterance>
+<utterance uid="2-7"><speaker>ESPOSITO</speaker><content>We’re checking, but it doesn’t look like it. Tenants don’t recognize him and he doesn’t have any ID.</content></utterance>
+<utterance uid="2-8"><speaker>LANIE PARISH</speaker><content>No ID, but lots of causes of death.</content></utterance>
+<utterance uid="2-9"><speaker>CASTLE</speaker><content>You mean, other than gravity?</content></utterance>
+<utterance uid="2-10"><speaker>LANIE</speaker><content>Oh yeah. See that bullet wound?</content></utterance>
+<utterance uid="2-11"><speaker>BECKETT</speaker><content>So he was shot before he fell?</content></utterance>
+<utterance uid="2-12"><speaker>LANIE</speaker><content>And stabbed.</content></utterance>
+<utterance uid="2-13"><speaker>BECKETT</speaker><content>Shot and stabbed?</content></utterance>
+<utterance uid="2-14"><speaker>LANIE</speaker><content>And choked. And has a pencil jammed in the side of his neck.</content></utterance>
+<utterance uid="2-15"><speaker>CASTLE</speaker><content>Ah. Gives new meaning to the term ‘overkill’.</content></utterance>
+<utterance uid="2-16"><speaker>BECKETT</speaker><content>Did anyone see his attacker?</content></utterance>
+<utterance uid="2-17"><speaker>ESPOSITO</speaker><content>Uh, we’re checking with witnesses, but I figure that our perp slipped out of the building during all of the confusion.</content></utterance>
+<utterance uid="2-18"><speaker>BECKETT</speaker><content>All right, let’s go see what they got.</content></utterance>
+<utterance uid="2-19"><speaker>CASTLE</speaker><content>Hey, Alexis.</content></utterance>
+<utterance uid="2-20"><speaker>ALEXIS CASTLE</speaker><content>Hey.</content></utterance>
+<utterance uid="2-21"><speaker>CASTLE</speaker><content>Alexis?</content></utterance>
+<utterance uid="2-22"><speaker>ALEXIS</speaker><content>Hey, Dad.</content></utterance>
+<utterance uid="2-23"><speaker>CASTLE</speaker><content>What are you doing here? Is this – is this your new internship?</content></utterance>
+<utterance uid="2-24"><speaker>ALEXIS</speaker><content>Dr. Parish agreed to let me shadow her. I thought if I go to med school this would give me a better grasp of forensic pathology. I’ve learned so much in just two days.</content></utterance>
+<utterance uid="2-25"><speaker>CASTLE</speaker><content>Sweetie … why wouldn’t you tell me?</content></utterance>
+<utterance uid="2-26"><speaker>ALEXIS</speaker><content>I guess I was afraid you’d veto it. Like maybe me being here was invading your territory or –</content></utterance>
+<utterance uid="2-27"><speaker>CASTLE</speaker><content>What?</content></utterance>
+<utterance uid="2-28"><speaker>CASTLE</speaker><content>That’s crazy. I wouldn’t – think that. That’s – this is great.</content></utterance>
+<utterance uid="2-29"><speaker>ALEXIS</speaker><content>Yeah.</content></utterance>
+<utterance uid="2-30"><speaker>CASTLE</speaker><content>This is – I just – I just don’t know if you should be exposed to crime scenes and dead bodies.</content></utterance>
+<utterance uid="2-31"><speaker>ALEXIS</speaker><content>Oh, I’m already used to it. It’s equal parts gross and cool.</content></utterance>
+<utterance uid="2-32"><speaker>LANIE</speaker><content>I heard that and I couldn’t agree with you more.</content></utterance>
+<utterance uid="2-33"><speaker>ALEXIS</speaker><content>I finally get why you’re into this, Dad. Now I’m into it, too.</content></utterance>
+<utterance uid="2-34"><speaker>CASTLE</speaker><content>That’s great.</content></utterance>
+<utterance uid="2-35"><speaker>CASTLE</speaker><content>Great.</content></utterance>
+<utterance uid="2-36"><speaker>CASTLE</speaker><content>My worlds are colliding.</content></utterance>
+<utterance uid="2-37"><speaker>BECKETT</speaker><content>You mean Alexis?</content></utterance>
+<utterance uid="2-38"><speaker>CASTLE</speaker><content>You knew about this?</content></utterance>
+<utterance uid="2-39"><speaker>BECKETT</speaker><content>C’mon, Castle. You’re the one that said you wanted to find a way to spend more time with her.</content></utterance>
+<utterance uid="2-40"><speaker>CASTLE</speaker><content>Not like this. This is my thing. This is our thing. It’s a violation of church and state.</content></utterance>
+<utterance uid="2-41"><speaker>CASTLE</speaker><content>This would be like me just showing up at her school and teaching.</content></utterance>
+<utterance uid="2-42"><speaker>BECKETT</speaker><content>I really think that you’re overreacting.</content></utterance>
+<utterance uid="2-43"><speaker>CASTLE</speaker><content>But what if I’m not? What if this upsets the delicate synergy of our partnership? What if it undermines our unit cohesion?</content></utterance>
+<utterance uid="2-44"><speaker>CASTLE</speaker><content>See? Major problem.</content></utterance>
+<utterance uid="2-45"><speaker>BECKETT</speaker><content>Not that. This.</content></utterance>
+<utterance uid="2-46"><speaker>CASTLE</speaker><content>That’s a lot of blood.</content></utterance>
+<utterance uid="2-47"><speaker>BECKETT</speaker><content>One of our witnesses saw a man leaving the building. He was limping.</content></utterance>
+<utterance uid="2-48"><speaker>CASTLE</speaker><content>Our suspect was injured.</content></utterance>
+<utterance uid="2-49"><speaker>BECKETT</speaker><content>Yeah, and the trail goes that way.</content></utterance>
+<utterance uid="2-50"><speaker>CASTLE</speaker><content>A brutal killer betrayed by the frailty of his own flesh, his path revealed by that most primal stain. Except the path ends here.</content></utterance>
+<utterance uid="2-51"><speaker>BECKETT</speaker><content>Multiple drops in one spot? He must have stood here for a minute.</content></utterance>
+<utterance uid="2-52"><speaker>CASTLE</speaker><content>He got into a car.</content></utterance>
+<utterance uid="2-53"><speaker>BECKETT</speaker><content>Well, if he did, maybe he got caught on tape.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>KEVIN RYAN</speaker><content>First 911 call came at 8:42, just after our victim crash landed. So our guy probably made it to the corner a minute or two later.  Hey, pretty cool about Alexis’s internship.  Or not.</content></utterance>
+<utterance uid="3-2"><speaker>BECKETT</speaker><content>There. That’s gotta be him.</content></utterance>
+<utterance uid="3-3"><speaker>CASTLE</speaker><content>He’s wounded, the cops are after him, and he’s looking for a place to go.</content></utterance>
+<utterance uid="3-4"><speaker>BECKETT</speaker><content>He’s got a hostage. Track the taxi off the medallion number. Find out where it went.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>BECKETT</speaker><content>NYPD, hands in the air! Show us your hands!</content></utterance>
+<utterance uid="4-2"><speaker>BECKETT</speaker><content>Get up, hands in the air.</content></utterance>
+<utterance uid="4-3"><speaker>ESPOSITO</speaker><content>Get up! Put your hands in the air. Hands on your head, now!</content></utterance>
+<utterance uid="4-4"><speaker>ESPOSITO</speaker><content>Drop to your knees.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>BECKETT</speaker><content>Thomas Gage. For the record, have I advised you of your rights?</content></utterance>
+<utterance uid="5-2"><speaker>THOMAS GAGE</speaker><content>Yes.</content></utterance>
+<utterance uid="5-3"><speaker>BECKETT</speaker><content>Including your right to an attorney?</content></utterance>
+<utterance uid="5-4"><speaker>GAGE</speaker><content>I won’t need one.</content></utterance>
+<utterance uid="5-5"><speaker>BECKETT</speaker><content>Do you recognize this man?</content></utterance>
+<utterance uid="5-6"><speaker>GAGE</speaker><content>Looks like he took a nasty fall.</content></utterance>
+<utterance uid="5-7"><speaker>BECKETT</speaker><content>Well, he had a little help. Fingerprint evidence will show that he was thrown out a window. By you.</content></utterance>
+<utterance uid="5-8"><speaker>CASTLE</speaker><content>After which, you kidnapped Tina Massey in full view of a security camera.</content></utterance>
+<utterance uid="5-9"><speaker>BECKETT</speaker><content>Murder plus kidnapping. That equals more years in prison than you have left. Unless you cooperate.</content></utterance>
+<utterance uid="5-10"><speaker>GAGE</speaker><content>Everything that you have on me? Or you think you have? It’s all going away.  And we’re done here.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>BECKETT</speaker><content>This guy should be sweating bullets. This doesn’t feel right.</content></utterance>
+<utterance uid="6-2"><speaker>CASTLE</speaker><content>It’s like he knows something we don’t.</content></utterance>
+<utterance uid="6-3"><speaker>BECKETT</speaker><content> I want you to pull everything you can on Thomas Gage.</content></utterance>
+<utterance uid="6-4"><speaker>RYAN</speaker><content>Problem is, that’s not his real name. His driver’s license is bogus and his prints aren’t in the system. Bottom line is, we have no idea who this man is.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>TINA</speaker><content>The guy was super calm the whole time. Not big on chit chat, either. His opening line was ‘Get your ass in the cab or I’ll kill you’.</content></utterance>
+<utterance uid="7-2"><speaker>BECKETT</speaker><content>And what about when you went back to your apartment? What did he talk about?</content></utterance>
+<utterance uid="7-3"><speaker>TINA</speaker><content>After he promised not to murder me, he asked me to patch up his leg. He had a real gash.</content></utterance>
+<utterance uid="7-4"><speaker>BECKETT</speaker><content>Could you tell how he got the injury?</content></utterance>
+<utterance uid="7-5"><speaker>TINA</speaker><content>He said he got slashed with a knife. While he was killing a guy.</content></utterance>
+<utterance uid="7-6"><speaker>BECKETT</speaker><content>And he admitted that to you?</content></utterance>
+<utterance uid="7-7"><speaker>TINA</speaker><content>More like just made the statement.</content></utterance>
+<utterance uid="7-8"><speaker>CASTLE</speaker><content>And did he say who this guy was or why he killed him?</content></utterance>
+<utterance uid="7-9"><speaker>TINA</speaker><content>All he told me was that the man doesn’t exist.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>LANIE</speaker><content>The man doesn’t exist as far as I can tell.</content></utterance>
+<utterance uid="8-2"><speaker>BECKETT</speaker><content>So you haven’t ID’d him yet?</content></utterance>
+<utterance uid="8-3"><speaker>LANIE</speaker><content>Look, I’m trying. But his fingerprints aren’t in any database, which is weird because I thought for sure he’d have a criminal record.</content></utterance>
+<utterance uid="8-4"><speaker>CASTLE</speaker><content>How come?</content></utterance>
+<utterance uid="8-5"><speaker>LANIE</speaker><content>It’s not the first time this guy’s mixed it up. Old gunshot wounds, calloused hands from martial arts training. More broken bones than Evel Knievel. You’re not going to believe his x-rays.</content></utterance>
+<utterance uid="8-6"><speaker>LANIE</speaker><content>Where’s my John Doe?</content></utterance>
+<utterance uid="8-7"><speaker>LANIE</speaker><content>Where’s my John Doe?</content></utterance>
+<utterance uid="8-8"><speaker>ALEXIS</speaker><content>He was right there when I left. I was only gone a minute.</content></utterance>
+<utterance uid="8-9"><speaker>LANIE</speaker><content>I know he was right there, I was just about to cut him open.</content></utterance>
+<utterance uid="8-10"><speaker>CASTLE</speaker><content>Well, now he really doesn’t exist.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>BECKETT</speaker><content>How does a body just vanish from a morgue?</content></utterance>
+<utterance uid="9-2"><speaker>CASTLE</speaker><content>I don’t know. Thomas Gage does. Remember what he said? Whatever you think you have is going away? He’s in on this.</content></utterance>
+<utterance uid="9-3"><speaker>BECKETT</speaker><content>Espo, did Gage get transferred to central booking yet?</content></utterance>
+<utterance uid="9-4"><speaker>ESPOSITO</speaker><content>No, he’s still in holding.</content></utterance>
+<utterance uid="9-5"><speaker>BECKETT</speaker><content>He’s going to give us some answers.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>BECKETT</speaker><content>Where is this guy?</content></utterance>
+<utterance uid="10-2"><speaker>ESPOSITO</speaker><content>He was here. I – I secured him myself.</content></utterance>
+<utterance uid="10-3"><speaker>BECKETT</speaker><content>Lock down the precinct.</content></utterance>
+<utterance uid="10-4"><speaker>ESPOSITO</speaker><content>All right. On it.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>ALEXIS</speaker><content>Hey Dad.  I tried to wait up but you must have gotten in really late.</content></utterance>
+<utterance uid="11-2"><speaker>CASTLE</speaker><content>Not by choice. Our suspect pulled a Houdini so they locked down the entire station. But by then the mysterious, steely killer, going by the nom de guerre of Thomas Gage, was long gone.  Writing up notes on this case is solid gold material for my next book.</content></utterance>
+<utterance uid="11-3"><speaker>ALEXIS</speaker><content>Wait, the guy who threw John Doe out the window, he escaped?</content></utterance>
+<utterance uid="11-4"><speaker>CASTLE</speaker><content>Uh huh. But only after orchestrating the theft of John Doe’s body from the morgue. How awesome is that?</content></utterance>
+<utterance uid="11-5"><speaker>ALEXIS</speaker><content>Not so awesome if you’re the person who let it happen.</content></utterance>
+<utterance uid="11-6"><speaker>CASTLE</speaker><content>Oh honey, it’s not your fault.</content></utterance>
+<utterance uid="11-7"><speaker>ALEXIS</speaker><content>I was with that body. But a friend called. I stepped away to talk. I didn’t –</content></utterance>
+<utterance uid="11-8"><speaker>CASTLE</speaker><content>Okay, hang on. Listen to me. I’m glad you weren’t there. Because the kind of person that took John Doe’s body is the kind of person who wouldn’t think twice about hurting whoever got in the way.</content></utterance>
+<utterance uid="11-9"><speaker>ALEXIS</speaker><content>Still, I thought working with Dr. Parish there’d be zero chance I’d make a mistake that would affect a patient. I mean, how could I, right? But then I found a way.</content></utterance>
+<utterance uid="11-10"><speaker>CASTLE</speaker><content>You know, honey, if this internship isn’t the right fit I’m sure Lanie would understand.</content></utterance>
+<utterance uid="11-11"><speaker>ALEXIS</speaker><content>No. Dr. Parish gave me this opportunity and I want to see it through.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>VICTORA GATES</speaker><content>Well?</content></utterance>
+<utterance uid="12-2"><speaker>RYAN</speaker><content>The apartment where John Doe was killed, we think Thomas Gage was squatting there -</content></utterance>
+<utterance uid="12-3"><speaker>GATES</speaker><content>I don’t care where Gage was unless it tells me where he is now. But I’m very interested in knowing how he got out of that holding cell on your watch.</content></utterance>
+<utterance uid="12-4"><speaker>ESPOSITO</speaker><content>We’re not clear on that, sir. But we do know how he left this precinct.</content></utterance>
+<utterance uid="12-5"><speaker>GATES</speaker><content>I assume he snuck out of the back exit?</content></utterance>
+<utterance uid="12-6"><speaker>RYAN</speaker><content>Actually, he went out through the front door.  This is him heading to the lobby.</content></utterance>
+<utterance uid="12-7"><speaker>GATES</speaker><content>Where did this man get a uniform?</content></utterance>
+<utterance uid="12-8"><speaker>RYAN</speaker><content>He stole it. From the locker room.</content></utterance>
+<utterance uid="12-9"><speaker>GATES</speaker><content>Find out what else he did. Check our security video and retrace his steps. I want to know every move that he made.</content></utterance>
+<utterance uid="12-10"><speaker>ESPOSITO</speaker><content>Okay.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>BECKETT</speaker><content>Gage has been two steps ahead of us this whole time.</content></utterance>
+<utterance uid="13-2"><speaker>CASTLE</speaker><content>Not only that, but he must have a partner who took John Doe from the morgue.</content></utterance>
+<utterance uid="13-3"><speaker>BECKETT</speaker><content>Which still doesn’t explain why he ended up wearing those blues.  Why risk stealing a uniform when he could have just walked out of the building?</content></utterance>
+<utterance uid="13-4"><speaker>RYAN</speaker><content>I’ll tell you why. He needed something inside our precinct.  The guy got into our database.</content></utterance>
+<utterance uid="13-5"><speaker>BECKETT</speaker><content>Looking for what?</content></utterance>
+<utterance uid="13-6"><speaker>ESPOSITO</speaker><content>Not what. Who.</content></utterance>
+<utterance uid="13-7"><speaker>ESPOSITO</speaker><content>Tracy McGrath of Queens. He ran her name and I think I know why. Her address is unlisted.</content></utterance>
+<utterance uid="13-8"><speaker>CASTLE</speaker><content>What if getting arrested was part of Gage’s plan? So he could access our data for Tracy’s address.</content></utterance>
+<utterance uid="13-9"><speaker>BECKETT</speaker><content>All right, you guys pull up everything you can on Tracy. Castle and I’ll go over there now.</content></utterance>
+<utterance uid="13-10"><speaker>ESPOSITO</speaker><content>Okay.</content></utterance>
+</scene>
+
+<scene id="14"><utterance uid="14-1"><speaker>BECKETT</speaker><content>Her phone’s going straight to voicemail.</content></utterance>
+<utterance uid="14-2"><speaker>CASTLE</speaker><content>What is her connection to all this? Why is Gage so interested in her?</content></utterance>
+<utterance uid="14-3"><speaker>BECKETT</speaker><content>With any luck, she knows who Gage really is.</content></utterance>
+<utterance uid="14-4"><speaker>BECKETT</speaker><content>Tracy McGrath? NYPD.</content></utterance>
+<utterance uid="14-5"><speaker>BECKETT</speaker><content>Castle.</content></utterance>
+<utterance uid="14-6"><speaker>BECKETT</speaker><content> Espo? Yeah, we got here too late. Uh, she’s got one to the back of the head. Can you call Lanie and get her to bring CSU down here?</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>ESPOSITO</speaker><content>Yeah, I’m on it.</content></utterance>
+<utterance uid="15-2"><speaker>ESPOSITO</speaker><content>Captain Gates. Looks like Tracy McGrath was Gage’s next victim.</content></utterance>
+<utterance uid="15-3"><speaker>GATES</speaker><content>What do we know about her?</content></utterance>
+<utterance uid="15-4"><speaker>RYAN</speaker><content>Well, she’s 33, no family, a scientist at a research foundation.</content></utterance>
+<utterance uid="15-5"><speaker>GATES</speaker><content>All right. Talk to her coworkers. Find out why Gage would have wanted her dead.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>CASTLE</speaker><content>Looks like she’s been here awhile.</content></utterance>
+<utterance uid="16-2"><speaker>BECKETT</speaker><content>Yeah well, it makes sense. Gage escaped last night. He had a 10 hour lead on us. You stay put. I’m going to check the rest of the place.</content></utterance>
+<utterance uid="16-3"><speaker>BECKETT</speaker><content>Castle? What –</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>ALEXIS</speaker><content>Where is everybody?</content></utterance>
+<utterance uid="17-2"><speaker>LANIE</speaker><content>We usually beat the uniforms to the scene. It’s not like they want to hurry and stand around.</content></utterance>
+<utterance uid="17-3"><speaker>ALEXIS</speaker><content>Just so you know, I’m not letting this victim out of my sight.</content></utterance>
+<utterance uid="17-4"><speaker>LANIE</speaker><content>Crazy.</content></utterance>
+<utterance uid="17-5"><speaker>ALEXIS</speaker><content>What is?</content></utterance>
+<utterance uid="17-6"><speaker>LANIE</speaker><content>The fact that Richard Castle, a man unburdened by regret and guilt, has a child that carries the weight of the world. It is not on you that a dead man came up missing.</content></utterance>
+<utterance uid="17-7"><speaker>ALEXIS</speaker><content>Well, how often does something like that happen, anyway?</content></utterance>
+<utterance uid="17-8"><speaker>LANIE</speaker><content>It never happens, honey. So relax. It was a freak thing. Bodies just don’t disappear.</content></utterance>
+<utterance uid="17-9"><speaker>LANIE</speaker><content>Detective Beckett? Detective Beckett.</content></utterance>
+<utterance uid="17-10"><speaker>LANIE</speaker><content>Okay, I see where the blood stain is.</content></utterance>
+<utterance uid="17-11"><speaker>ALEXIS</speaker><content>Where’s the body?</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>CASTLE</speaker><content>You okay?</content></utterance>
+<utterance uid="18-2"><speaker>BECKETT</speaker><content>Yeah. You?</content></utterance>
+<utterance uid="18-3"><speaker>CASTLE</speaker><content>Who are you?</content></utterance>
+<utterance uid="18-4"><speaker>BECKETT</speaker><content>Where the hell are you taking us?</content></utterance>
+<utterance uid="18-5"><speaker>CASTLE</speaker><content>Wherever it is, it’s way down.</content></utterance>
+<utterance uid="18-6"><speaker>BECKETT</speaker><content>What is this place?</content></utterance>
+<utterance uid="18-7"><speaker>CASTLE</speaker><content>Uh … uh … I don’t know. I have no idea.</content></utterance>
+<utterance uid="18-8"><speaker>SOPHIA TURNER</speaker><content>Rick Castle, at a loss for words?  That must be a first for you.</content></utterance>
+<utterance uid="18-9"><speaker>CASTLE</speaker><content>Sophia Turner.</content></utterance>
+<utterance uid="18-10"><speaker>SOPHIA</speaker><content>Hello, Rick. Welcome to the CIA.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>RYAN</speaker><content>And what kind of work did Tracy do, exactly?</content></utterance>
+<utterance uid="19-2"><speaker>ESPOSITO</speaker><content>Did she have any enemies? Anybody that might want to do her harm?</content></utterance>
+<utterance uid="19-3"><speaker>RYAN</speaker><content>Do you have an idea where she went?</content></utterance>
+<utterance uid="19-4"><speaker>ESPOSITO</speaker><content>We’re going to need access to her computer, her email, her documents, everything.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>CASTLE</speaker><content>Secret underground headquarters? This is straight out of James Bond.</content></utterance>
+<utterance uid="20-2"><speaker>BECKETT</speaker><content>Castle, you’re avoiding the question. Who’s Sophia Turner? How do you know her?</content></utterance>
+<utterance uid="20-3"><speaker>CASTLE</speaker><content>Ah… it’s a… long story.</content></utterance>
+<utterance uid="20-4"><speaker>BECKETT</speaker><content>Well, I’ll take the short version.</content></utterance>
+<utterance uid="20-5"><speaker>SOPHIA</speaker><content>Let me give it to you.</content></utterance>
+<utterance uid="20-6"><speaker>SOPHIA</speaker><content>What’s it been? 12 years?</content></utterance>
+<utterance uid="20-7"><speaker>CASTLE</speaker><content>11 and a half.</content></utterance>
+<utterance uid="20-8"><speaker>SOPHIA</speaker><content>Rick and I met when he was just beginning to do research on his first Derrick Storm novel. He wanted an up close and personal look at the life of a female CIA agent.  So I gave him one.</content></utterance>
+<utterance uid="20-9"><speaker>BECKETT</speaker><content>You’re Clara Strike? The Clara Strike from the Derrick Storm books?</content></utterance>
+<utterance uid="20-10"><speaker>SOPHIA</speaker><content>I wouldn’t say that I am Clara Strike, but  I like to think that I inspired Rick in some small way.</content></utterance>
+<utterance uid="20-11"><speaker>BECKETT</speaker><content>Well, that is just fascinating.</content></utterance>
+<utterance uid="20-12"><speaker>SOPHIA</speaker><content> You look good.</content></utterance>
+<utterance uid="20-13"><speaker>CASTLE</speaker><content>You too.</content></utterance>
+<utterance uid="20-14"><speaker>BECKETT</speaker><content>Okay, so I hate to interrupt this reunion, but we’re being illegally detained. At least, I am.</content></utterance>
+<utterance uid="20-15"><speaker>SOPHIA</speaker><content>This is not a detention. This is a debriefing. Approved by the NYPD. Feel free to call Ted McQuinn.</content></utterance>
+<utterance uid="20-16"><speaker>BECKETT</speaker><content>The chief of detectives?</content></utterance>
+<utterance uid="20-17"><speaker>SOPHIA</speaker><content>He assured me you’d give us your full cooperation. I need to know everything you know about Thomas Gage.</content></utterance>
+<utterance uid="20-18"><speaker>BECKETT</speaker><content>No, not until you tell me what the hell is going on here.</content></utterance>
+<utterance uid="20-19"><speaker>SOPHIA</speaker><content>Fine. But that would be getting into highly classified information regarding national security, which if you were to reveal it to anyone would be considered a treasonable offense against the United States of America punishable by death. So, you still want to know?</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>MARTIN DANBERG</speaker><content>We recruited Thomas Gage out of SEAL Team Six in 1997. Smart, highly trained, fluent in 11 languages, Gage was our most effective asset. We sent him into conflict zones, failed states all over the world. Gage was adept in every situation. Unfortunately, he went rogue.</content></utterance>
+<utterance uid="21-2"><speaker>SOPHIA</speaker><content>Based on NSA intercepts, we believe that Gage is trying to initiate a catastrophic event which poses an imminent threat to the country.</content></utterance>
+<utterance uid="21-3"><speaker>CASTLE</speaker><content>So that man that Gage pushed out the window, he was CIA.</content></utterance>
+<utterance uid="21-4"><speaker>SOPHIA</speaker><content>Gary Harper. One of our best. We got a tip on Gage’s whereabouts, we sent Harper to bring him in. Obviously, that operation didn’t go as planned.</content></utterance>
+<utterance uid="21-5"><speaker>CASTLE</speaker><content>At which point, you took the body from the morgue.</content></utterance>
+<utterance uid="21-6"><speaker>DANBERG</speaker><content>This is a national security crisis. We didn’t want the NYPD underfoot.</content></utterance>
+<utterance uid="21-7"><speaker>BECKETT</speaker><content>Well, good to know. So how did you guys get on to Tracy McGrath?</content></utterance>
+<utterance uid="21-8"><speaker>SOPHIA</speaker><content>We monitored data from your precinct. Her name came up, but unfortunately by the time our agent got there she was already dead.</content></utterance>
+<utterance uid="21-9"><speaker>CASTLE</speaker><content>So why did Gage kill her?</content></utterance>
+<utterance uid="21-10"><speaker>SOPHIA</speaker><content> We were hoping you would know.</content></utterance>
+<utterance uid="21-11"><speaker>SOPHIA</speaker><content>You can go ahead and answer that.</content></utterance>
+<utterance uid="21-12"><speaker>BECKETT</speaker><content>Yeah, I was planning on it.</content></utterance>
+<utterance uid="21-13"><speaker>SOPHIA</speaker><content>Would you mind terribly putting it on speaker?</content></utterance>
+<utterance uid="21-14"><speaker>BECKETT</speaker><content> Espo, you’re on speaker.</content></utterance>
+<utterance uid="21-15"><speaker>ESPOSITO</speaker><content>Yeah. So uh … word came down from chief of d’s. That said you were on some sort of special assignment. What’s that about?</content></utterance>
+<utterance uid="21-16"><speaker>BECKETT</speaker><content>It’s a long story. What’d you get on Tracy McGrath?</content></utterance>
+<utterance uid="21-17"><speaker>ESPOSITO</speaker><content>It may be nothing, but she ditched work yesterday for two hours. She has a notation in her day planner but all it says is ‘Pandora’.</content></utterance>
+<utterance uid="21-18"><speaker>BECKETT</speaker><content>You know what? Let me get back to you.</content></utterance>
+<utterance uid="21-19"><speaker>BECKETT</speaker><content>What’s Pandora?</content></utterance>
+<utterance uid="21-20"><speaker>DANBERG</speaker><content>According to the chatter, Pandora is the code name for Gage’s mission, which means that the McGrath woman is mixed up in it.</content></utterance>
+<utterance uid="21-21"><speaker>SOPHIA</speaker><content>Now the two of you know as much as we do. Look, you have done impressive work on this case. I want you to take the lead in finding Thomas Gage.</content></utterance>
+<utterance uid="21-22"><speaker>DANBERG</speaker><content>Sophia.</content></utterance>
+<utterance uid="21-23"><speaker>SOPHIA</speaker><content>Martin, we are up against the wall. CIA is barred from domestic investigation.</content></utterance>
+<utterance uid="21-24"><speaker>BECKETT</speaker><content>Well, isn’t that what the FBI is for?</content></utterance>
+<utterance uid="21-25"><speaker>SOPHIA</speaker><content>Thomas Gage is a hired gun. We don’t know who he works for or how deep this goes. All I am asking is that you continue your investigation and we will share all information we get on him.</content></utterance>
+<utterance uid="21-26"><speaker>BECKETT</speaker><content>And what’s the catch?</content></utterance>
+<utterance uid="21-27"><speaker>SOPHIA</speaker><content>That you do the same. And that you report only to me. This has to stay between us. Our techs have uploaded icons on both your phones which will connect you to my direct line. You’ve seen what Gage is capable of. He’s one of our most dangerous operatives and I have no doubt that whatever he is planning he is completely capable of carrying out.</content></utterance>
+<utterance uid="21-28"><speaker>SOPHIA</speaker><content>I wouldn’t put you in this position, but this man has to be stopped.  Can I count on you for your help?</content></utterance>
+<utterance uid="21-29"><speaker>CASTLE</speaker><content>Yes.</content></utterance>
+</scene>
+
+<scene id="22"><utterance uid="22-1"><speaker>CASTLE</speaker><content>Do you realize what this means? We’re spies. This is like being in a Jason Bourne movie, only he’s the bad guy and the CIA are the good guys.</content></utterance>
+<utterance uid="22-2"><speaker>BECKETT</speaker><content>That remains to be seen.</content></utterance>
+<utterance uid="22-3"><speaker>CASTLE</speaker><content>Ooh, wait. I’ve got to see those direct dial icons they put on our phones.</content></utterance>
+<utterance uid="22-4"><speaker>CASTLE</speaker><content>Hey! Why’s mine a panic button?</content></utterance>
+<utterance uid="22-5"><speaker>BECKETT</speaker><content>I guess she really does know you well.</content></utterance>
+<utterance uid="22-6"><speaker>CASTLE</speaker><content>Okay. You’re upset.</content></utterance>
+<utterance uid="22-7"><speaker>BECKETT</speaker><content>I’m not upset.</content></utterance>
+<utterance uid="22-8"><speaker>CASTLE</speaker><content>Then what are you?</content></utterance>
+<utterance uid="22-9"><speaker>BECKETT</speaker><content>I am … just a little bit uncomfortable with the new command structure.  I don’t like keeping secrets from my own people.</content></utterance>
+<utterance uid="22-10"><speaker>CASTLE</speaker><content>You’re sure this isn’t about Sophia?</content></utterance>
+<utterance uid="22-11"><speaker>BECKETT</speaker><content>No, why would it be?</content></utterance>
+<utterance uid="22-12"><speaker>CASTLE</speaker><content>Oh, I don’t know. Maybe because I based a character on her?</content></utterance>
+<utterance uid="22-13"><speaker>BECKETT</speaker><content>Oh, don’t flatter yourself, Castle. It’s not that big an honor.</content></utterance>
+<utterance uid="22-14"><speaker>CASTLE</speaker><content>Good. Because Sophia is on our side. We’re on the same team.</content></utterance>
+<utterance uid="22-15"><speaker>BECKETT</speaker><content>And that doesn’t concern you? You don’t think that that will undermine our ‘unit cohesion’?</content></utterance>
+<utterance uid="22-16"><speaker>CASTLE</speaker><content>Hey, I am willing to let that slide in the interest of national security.</content></utterance>
+<utterance uid="22-17"><speaker>BECKETT</speaker><content>Yeah well, I guess I am, too.</content></utterance>
+<utterance uid="22-18"><speaker>BECKETT</speaker><content>It’s just, I might have been a little bit taken aback to find out that you had … researched with someone else.</content></utterance>
+<utterance uid="22-19"><speaker>CASTLE</speaker><content>Look, it was never the way it is with you and me. I just hung out with her for a while, to … lend some authenticity to Clara Strike. It was a brief moment a long time ago.  And besides, Nikki Heat is a far more nuanced a character.  She is. And I’m a far more experienced a writer. More mature.</content></utterance>
+<utterance uid="22-20"><speaker>CASTLE</speaker><content>One out of two is …</content></utterance>
+<utterance uid="22-21"><speaker>BECKETT</speaker><content>So how long did the two of you hang out?</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>BECKETT</speaker><content>A year? That’s your idea of a brief moment.</content></utterance>
+<utterance uid="23-2"><speaker>CASTLE</speaker><content>I was young and she had a lot to teach me.</content></utterance>
+<utterance uid="23-3"><speaker>BECKETT</speaker><content>Yeah, I’ll bet.</content></utterance>
+<utterance uid="23-4"><speaker>CASTLE</speaker><content>About the shadowy world of espionage.</content></utterance>
+<utterance uid="23-5"><speaker>BECKETT</speaker><content>Let me ask you this.  How many other women have you semi stalked in the name of research?</content></utterance>
+<utterance uid="23-6"><speaker>CASTLE</speaker><content>Is this a trick question?</content></utterance>
+<utterance uid="23-7"><speaker>BECKETT</speaker><content>You know what? I don’t even want to know.</content></utterance>
+<utterance uid="23-8"><speaker>GATES</speaker><content>Detective Beckett. Mr. Castle. Good of you to drop by. So, tell me about this special assignment of yours.</content></utterance>
+<utterance uid="23-9"><speaker>BECKETT</speaker><content>I’m afraid I can’t, sir.</content></utterance>
+<utterance uid="23-10"><speaker>GATES</speaker><content>Excuse me?</content></utterance>
+<utterance uid="23-11"><speaker>CASTLE</speaker><content>Yes … it’s on a need-to-know basis.</content></utterance>
+<utterance uid="23-12"><speaker>GATES</speaker><content>And I need to know.</content></utterance>
+<utterance uid="23-13"><speaker>BECKETT</speaker><content>Sir, I think that the chief of detectives would back me up on this one.</content></utterance>
+<utterance uid="23-14"><speaker>GATES</speaker><content>Well. We’ll see about that.</content></utterance>
+<utterance uid="23-15"><speaker>CASTLE</speaker><content>Whoa. Did you see how mad she was?  God, that was so good.</content></utterance>
+<utterance uid="23-16"><speaker>RYAN</speaker><content>So, seriously. What’s going on?</content></utterance>
+<utterance uid="23-17"><speaker>BECKETT</speaker><content>Guys, I’m sorry. We really can’t talk about it.</content></utterance>
+<utterance uid="23-18"><speaker>ESPOSITO</speaker><content>C’mon. This is us.</content></utterance>
+<utterance uid="23-19"><speaker>CASTLE</speaker><content>No. Hey, sorry boys. Classified. Top secret. Our eyes only, def-com one. And if I did tell you? Well then, I’d have to kill you.</content></utterance>
+<utterance uid="23-20"><speaker>ESPOSITO</speaker><content>Yeah? Good luck with that.</content></utterance>
+<utterance uid="23-21"><speaker>CASTLE</speaker><content>Yeah, realistically that’s not –</content></utterance>
+<utterance uid="23-22"><speaker>ESPOSITO</speaker><content>I’m gonna go on record and say that this sucks.</content></utterance>
+<utterance uid="23-23"><speaker>RYAN</speaker><content>Sucks.</content></utterance>
+<utterance uid="23-24"><speaker>BECKETT</speaker><content>And noted. Now, let’s move on to Tracy McGrath. Where’d she go after she left work?</content></utterance>
+<utterance uid="23-25"><speaker>RYAN</speaker><content>Well, according to her EZ-Pass, she drove down the Jersey turnpike and exited somewhere near Newark Airport. We’re still trying to figure out where she went.</content></utterance>
+<utterance uid="23-26"><speaker>CASTLE</speaker><content>Maybe the answer’s still at the crime scene.</content></utterance>
+</scene>
+
+<scene id="24"><utterance uid="24-1"><speaker>BECKETT</speaker><content>There’s no signs of forced entry or struggle. It’s like she knew our killer, she let him in, she walked in front of him and he shot her in the back of her head.</content></utterance>
+<utterance uid="24-2"><speaker>CASTLE</speaker><content>Which means she knew Gage. So how’s a climate scientist mixed up with a ruthless ex-CIA agent?</content></utterance>
+<utterance uid="24-3"><speaker>BECKETT</speaker><content>And how is she connected with Pandora?</content></utterance>
+<utterance uid="24-4"><speaker>BECKETT</speaker><content>There’s gotta be something here that ties them together.</content></utterance>
+<utterance uid="24-5"><speaker>CASTLE</speaker><content>Well, she has excellent taste in cars.  An auto repair manual for a 1967 Pontiac GTO.</content></utterance>
+<utterance uid="24-6"><speaker>BECKETT</speaker><content>Hmm.</content></utterance>
+<utterance uid="24-7"><speaker>CASTLE</speaker><content>That’s funny. Keys are sitting on a pile of yesterday’s mail. She drove it before she died.</content></utterance>
+<utterance uid="24-8"><speaker>BECKETT</speaker><content>Except there’s no GTO on the street.</content></utterance>
+<utterance uid="24-9"><speaker>CASTLE</speaker><content>Or in the garage. So where’s the car?</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>RYAN</speaker><content>I see a recurring charge on her credit card. Looks like she’s paying $100 bucks a month for Frenchie’s Parking.</content></utterance>
+<utterance uid="25-2"><speaker>CASTLE</speaker><content>$100 bucks? That’s not going to get you a space in Manhattan.</content></utterance>
+<utterance uid="25-3"><speaker>RYAN</speaker><content>Bingo. Billing info says that Frenchie’s is in Elizabethport, New Jersey.</content></utterance>
+<utterance uid="25-4"><speaker>BECKETT</speaker><content>That’s right near Newark Airport.</content></utterance>
+<utterance uid="25-5"><speaker>CASTLE</speaker><content>So the mystery ride Tracey took has to do with the GTO.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>CASTLE</speaker><content>There it is. Now that is some classic Motor City iron.</content></utterance>
+<utterance uid="26-2"><speaker>BECKETT</speaker><content>400 cubic inches with a Rochester four barrel and 360-horsepower.</content></utterance>
+<utterance uid="26-3"><speaker>CASTLE</speaker><content>You know muscle cars?</content></utterance>
+<utterance uid="26-4"><speaker>BECKETT</speaker><content>Oh yeah.  We should go to the track sometime, see who laps who.</content></utterance>
+<utterance uid="26-5"><speaker>BECKETT</speaker><content>So, why do you think Tracy took off work to come down here?</content></utterance>
+<utterance uid="26-6"><speaker>CASTLE</speaker><content>Maybe to drive it to a clandestine, Pandora related uh … rendezvous?</content></utterance>
+<utterance uid="26-7"><speaker>BECKETT</speaker><content>No, look at the dust on this. This hasn’t gone anywhere in a while.</content></utterance>
+<utterance uid="26-8"><speaker>BECKETT</speaker><content>Castle, look. Maybe she came to stash something in the trunk.</content></utterance>
+<utterance uid="26-9"><speaker>CASTLE</speaker><content>Handprints indicating someone’s been in there.</content></utterance>
+<utterance uid="26-10"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="26-11"><speaker>CASTLE</speaker><content>That is not original equipment.</content></utterance>
+<utterance uid="26-12"><speaker>BECKETT</speaker><content>No, but it’s probably why she came here.</content></utterance>
+<utterance uid="26-13"><speaker>CASTLE</speaker><content>Whoa, whoa, whoa, whoa. Wait a minute – wait a minute. We don’t know what’s in there.</content></utterance>
+<utterance uid="26-14"><speaker>BECKETT</speaker><content>Yeah well, there’s only one way to find out.</content></utterance>
+<utterance uid="26-15"><speaker>CASTLE</speaker><content>Yeah, but it might be Pandora.</content></utterance>
+<utterance uid="26-16"><speaker>CASTLE</speaker><content>As in, Pandora’s box. As in, opening that could unleash an unstoppable tide of evil.</content></utterance>
+<utterance uid="26-17"><speaker>BECKETT</speaker><content>Castle, that’s a myth.</content></utterance>
+<utterance uid="26-18"><speaker>CASTLE</speaker><content>I’m speaking metaphorically. Gage is planning a catastrophic event, right? So what if there’s a doomsday device in that case set to go off when you open it.</content></utterance>
+<utterance uid="26-19"><speaker>BECKETT</speaker><content>And ground zero is a parking garage in New Jersey? I doubt it.</content></utterance>
+<utterance uid="26-20"><speaker>CASTLE</speaker><content>I just – ah…</content></utterance>
+<utterance uid="26-21"><speaker>CASTLE</speaker><content>That is a military grade cell phone and a scrambler. That’s spy equipment.</content></utterance>
+<utterance uid="26-22"><speaker>BECKETT</speaker><content>Tracy came here to make a phone call and I bet you that the last number she dialed is still on the phone.</content></utterance>
+<utterance uid="26-23"><speaker>GAGE</speaker><content>Close the case and turn around.  Hands in the air.</content></utterance>
+<utterance uid="26-24"><speaker>BECKETT</speaker><content>Gage.</content></utterance>
+<utterance uid="26-25"><speaker>GAGE</speaker><content>Your weapon and phones on the ground.</content></utterance>
+<utterance uid="26-26"><speaker>BECKETT</speaker><content>Really? You put your hands in the air.</content></utterance>
+<utterance uid="26-27"><speaker>CASTLE</speaker><content>Whoa.</content></utterance>
+<utterance uid="26-28"><speaker>GAGE</speaker><content>The phones? On the ground?</content></utterance>
+<utterance uid="26-29"><speaker>CASTLE</speaker><content>I just upgraded. This is a brand new phone –</content></utterance>
+<utterance uid="26-30"><speaker>GAGE</speaker><content>Now. I’m afraid you’re not going to like what comes next.</content></utterance>
+</scene>
+
+<scene id="27"><utterance uid="27-1"><speaker>BECKETT</speaker><content>Castle.</content></utterance>
+<utterance uid="27-2"><speaker>BECKETT</speaker><content>Castle, what’re you doing?</content></utterance>
+<utterance uid="27-3"><speaker>CASTLE</speaker><content>Bracing myself to shield you from a hail of bullets.</content></utterance>
+<utterance uid="27-4"><speaker>BECKETT</speaker><content>Yeah well, that’s very gallant of you but you can stop bracing. I think he left.</content></utterance>
+<utterance uid="27-5"><speaker>CASTLE</speaker><content>Ah. My life was passing before my eyes. I think I lost track of time.</content></utterance>
+<utterance uid="27-6"><speaker>BECKETT</speaker><content>What do you know about trunk latches?</content></utterance>
+<utterance uid="27-7"><speaker>CASTLE</speaker><content>Um… well… bad news is this one was not designed to open from the inside.</content></utterance>
+<utterance uid="27-8"><speaker>BECKETT</speaker><content>And the good news?</content></utterance>
+<utterance uid="27-9"><speaker>CASTLE</speaker><content>At least this time we’re not handcuffed together.</content></utterance>
+<utterance uid="27-10"><speaker>BECKETT</speaker><content>Hmm.</content></utterance>
+<utterance uid="27-11"><speaker>CASTLE</speaker><content>It’s surprisingly roomy in here.</content></utterance>
+<utterance uid="27-12"><speaker>BECKETT</speaker><content>Well it’s not that roomy. Sooner or later we’re going to run out of air. We gotta get out of here.</content></utterance>
+<utterance uid="27-13"><speaker>CASTLE</speaker><content>Well maybe somebody will find us.</content></utterance>
+<utterance uid="27-14"><speaker>BECKETT</speaker><content>Castle, we are locked in the trunk of a car in long term parking. It’s going to be hours before anyone notices we’re missing. Who do you think is going to find us?</content></utterance>
+<utterance uid="27-15"><speaker>CASTLE</speaker><content>I just feel that in situations like this it’s important to have faith.</content></utterance>
+<utterance uid="27-16"><speaker>BECKETT</speaker><content>You pressed the panic button, didn’t you?</content></utterance>
+<utterance uid="27-17"><speaker>CASTLE</speaker><content>Well if there was ever a time to panic I think this is it.</content></utterance>
+<utterance uid="27-18"><speaker>CASTLE</speaker><content>You should be thanking me!</content></utterance>
+<utterance uid="27-19"><speaker>BECKETT</speaker><content>No! I am not gonna be rescued by your girlfriend.  Move, Castle.</content></utterance>
+<utterance uid="27-20"><speaker>CASTLE</speaker><content>Ah! What are you –</content></utterance>
+<utterance uid="27-21"><speaker>BECKETT</speaker><content>I need to get under there.</content></utterance>
+<utterance uid="27-22"><speaker>CASTLE</speaker><content>Hey!  Hey! What are you doing?</content></utterance>
+<utterance uid="27-23"><speaker>BECKETT</speaker><content>I got it.</content></utterance>
+<utterance uid="27-24"><speaker>CASTLE</speaker><content>What?</content></utterance>
+<utterance uid="27-25"><speaker>BECKETT</speaker><content>This. Here.  Is it in?</content></utterance>
+<utterance uid="27-26"><speaker>CASTLE</speaker><content>To the left.</content></utterance>
+<utterance uid="27-27"><speaker>BECKETT</speaker><content>Okay.</content></utterance>
+<utterance uid="27-28"><speaker>CASTLE</speaker><content>Push.</content></utterance>
+<utterance uid="27-29"><speaker>BECKETT</speaker><content>Scoot down.</content></utterance>
+<utterance uid="27-30"><speaker>BECKETT</speaker><content>Yes.</content></utterance>
+<utterance uid="27-31"><speaker>CASTLE</speaker><content>Nice.</content></utterance>
+<utterance uid="27-32"><speaker>AGENT JONES</speaker><content>For you.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>SOPHIA</speaker><content>I believe this is yours. Agent Jones found it in the parking structure.</content></utterance>
+<utterance uid="28-2"><speaker>SOPHIA</speaker><content>Finding the car was great work. I think it might just be the break we need.</content></utterance>
+<utterance uid="28-3"><speaker>CASTLE</speaker><content>Well, I can’t take all the credit.</content></utterance>
+<utterance uid="28-4"><speaker>BECKETT</speaker><content>Yeah, especially because it was Detective Ryan who found it.</content></utterance>
+<utterance uid="28-5"><speaker>SOPHIA</speaker><content>Well, in any case, the phone is obviously key or else Gage wouldn’t have gone after it.</content></utterance>
+<utterance uid="28-6"><speaker>CASTLE</speaker><content>Tracy McGrath used it on the day she died. Maybe she called someone connected to Pandora –</content></utterance>
+<utterance uid="28-7"><speaker>SOPHIA</speaker><content>And then Gage eliminated her and took the phone to tie off all loose ends.</content></utterance>
+<utterance uid="28-8"><speaker>BECKETT</speaker><content>Which still doesn’t explain where Gage is now or who Tracy called.</content></utterance>
+<utterance uid="28-9"><speaker>SOPHIA</speaker><content>Well we’ll find that out when we trace the call she made.</content></utterance>
+<utterance uid="28-10"><speaker>CASTLE</speaker><content>But Gage took the phone. How can you do that when you don’t know what number she called or even the number she called it from?</content></utterance>
+<utterance uid="28-11"><speaker>SOPHIA</speaker><content>By using all the coolest toys.</content></utterance>
+<utterance uid="28-12"><speaker>SOPHIA</speaker><content>Bring up Newton Foundation to Frenchie’s Parking commute time by car at 3PM yesterday via the turnpike.</content></utterance>
+<utterance uid="28-13"><speaker>SOPHIA</speaker><content>Factoring in the time it would have taken her to get to her car, let’s say she got there at 3:45PM. Pull up all cell phone traffic for the next 15 minutes.</content></utterance>
+<utterance uid="28-14"><speaker>SOPHIA</speaker><content>Filter it to calls just to New York and New Jersey.</content></utterance>
+<utterance uid="28-15"><speaker>SOPHIA</speaker><content>Now just payphones and unregistered cells.</content></utterance>
+<utterance uid="28-16"><speaker>SOPHIA</speaker><content>Calls under a minute. She would have kept it brief.</content></utterance>
+<utterance uid="28-17"><speaker>SOPHIA</speaker><content>Okay, now triangulate those 42 signals and let’s see which one originates closest to that parking structure.</content></utterance>
+<utterance uid="28-18"><speaker>CASTLE</speaker><content>Wow.</content></utterance>
+<utterance uid="28-19"><speaker>SOPHIA</speaker><content>That’s gotta bet the number Tracy McGrath called. Get me eyes on that payphone. Any local surveillance yesterday at 3:56PM.</content></utterance>
+<utterance uid="28-20"><speaker>SOPHIA</speaker><content>Zoom in.</content></utterance>
+<utterance uid="28-21"><speaker>SOPHIA</speaker><content>He looks familiar. Freeze there?</content></utterance>
+<utterance uid="28-22"><speaker>SOPHIA</speaker><content>Oh my God. That’s impossible. He’s supposed to be dead.</content></utterance>
+<utterance uid="28-23"><speaker>CASTLE</speaker><content>Who is he?</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>DANBERG</speaker><content>Dr. Charles Blakely. Mathematics professor. He was a legend at the agency. Genius. Consulted for us, but died in 2002. Or at least that’s what we thought until just now.</content></utterance>
+<utterance uid="29-2"><speaker>CASTLE</speaker><content>So he faked his own death. This just keeps getting better.</content></utterance>
+<utterance uid="29-3"><speaker>SOPHIA</speaker><content>No, it doesn’t. Not with what this man is capable of. Blakely devised math based predictive models for us. Models to help create geopolitical change.</content></utterance>
+<utterance uid="29-4"><speaker>BECKETT</speaker><content>What do you mean by that?</content></utterance>
+<utterance uid="29-5"><speaker>DANBERG</speaker><content>The agency would bring him a problem – how can we prevent country A from getting a bomb, or cause regime change in country B. Blakely found solutions using what he called linchpin theory. His approach was to find a small even that could trigger a large event.</content></utterance>
+<utterance uid="29-6"><speaker>CASTLE</speaker><content>Like the assassination of Archduke Ferdinand causing World War I.</content></utterance>
+<utterance uid="29-7"><speaker>SOPHIA</speaker><content>Exactly. He once said that you only had to knock over one domino but if it was the right domino the rest would fall.  If Blakely is the one who planned Pandora this is beyond a worst case scenario.</content></utterance>
+<utterance uid="29-8"><speaker>DANBERG</speaker><content>What if Blakely is just a hired gun. Like Gage?</content></utterance>
+<utterance uid="29-9"><speaker>SOPHIA</speaker><content>He’s not the one behind this.</content></utterance>
+<utterance uid="29-10"><speaker>SOPHIA</speaker><content>What’s he saying?</content></utterance>
+<utterance uid="29-11"><speaker>BLAKELY</speaker><content> Meet me Thursday at 5PM. Bishop A5, bishop C4, pawn E3.</content></utterance>
+<utterance uid="29-12"><speaker>CASTLE</speaker><content>Chess moves?</content></utterance>
+<utterance uid="29-13"><speaker>DANBERG</speaker><content>Blakely was a world class chess player. It’s some sort of code. Run that pattern against anything in the encryption database.</content></utterance>
+<utterance uid="29-14"><speaker>SOPHIA</speaker><content>This takes us into a sensitive area.</content></utterance>
+<utterance uid="29-15"><speaker>CASTLE</speaker><content>For your eyes only. I get it.</content></utterance>
+<utterance uid="29-16"><speaker>SOPHIA</speaker><content>Thank you so much for everything.</content></utterance>
+<utterance uid="29-17"><speaker>SOPHIA</speaker><content>Agent Jones will show you out.</content></utterance>
+<utterance uid="29-18"><speaker>BECKETT</speaker><content>Wait a minute. What about Gage?</content></utterance>
+<utterance uid="29-19"><speaker>SOPHIA</speaker><content>We need to invest all of our resources into finding Blakely. He’s the weak link here.</content></utterance>
+<utterance uid="29-20"><speaker>BECKETT</speaker><content>Right, but if you find something on Gage you’ll let us know?</content></utterance>
+<utterance uid="29-21"><speaker>SOPHIA</speaker><content>Absolutely. We’re in this together.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>CASTLE</speaker><content>You know what I think? I think we should crack that chess code.</content></utterance>
+<utterance uid="30-2"><speaker>BECKETT</speaker><content>CIA can handle it, Castle.</content></utterance>
+<utterance uid="30-3"><speaker>CASTLE</speaker><content>With their track record? I’m not so sure.  Just saying.  Look, we decipher that code, we can save this country from a nameless cataclysmic event.</content></utterance>
+<utterance uid="30-4"><speaker>BECKETT</speaker><content>Look, if you want to go after Blakely, go ahead. I’m a homicide detective. I have to find Thomas Gage and I can’t do that by answering to Sophia Turner.</content></utterance>
+<utterance uid="30-5"><speaker>CASTLE</speaker><content>What do you mean?</content></utterance>
+<utterance uid="30-6"><speaker>BECKETT</speaker><content>He killed two people, Castle. Do you think she even cares about that? No. She’s got a whole different agenda.</content></utterance>
+<utterance uid="30-7"><speaker>CASTLE</speaker><content>Yeah, like saving the world. We’re all on the same team here.</content></utterance>
+<utterance uid="30-8"><speaker>BECKETT</speaker><content>No, you’re on her team. Because the way you look at her you’re sure as hell not on mine.</content></utterance>
+<utterance uid="30-9"><speaker>BECKETT</speaker><content>Seriously?</content></utterance>
+<utterance uid="30-10"><speaker>AGENT JONES</speaker><content>This is a secure facility. We need to keep it that way.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>MARTHA</speaker><content>I just had a talk with Alexis. I am so pleased you are on board with this internship.</content></utterance>
+<utterance uid="31-2"><speaker>CASTLE</speaker><content>Because I was forced to be on board. How could you let that happen, Mother?</content></utterance>
+<utterance uid="31-3"><speaker>MARTHA</speaker><content>Oh darling, don’t be silly. And you’re just in a foul mood because you had a spat with Beckett.</content></utterance>
+<utterance uid="31-4"><speaker>CASTLE</speaker><content>I’m not in a –  How did you find out about that?</content></utterance>
+<utterance uid="31-5"><speaker>CASTLE</speaker><content>No, wait. Let me guess. Beckett to Lanie to Alexis to you. See? This – this  is what I was afraid of. For your information, we did not have a spat. I simply chose to work at home today.</content></utterance>
+<utterance uid="31-6"><speaker>MARTHA</speaker><content>On a case involving vanishing bodies and special assignments.</content></utterance>
+<utterance uid="31-7"><speaker>CASTLE</speaker><content>Really? She told you that, too? Is nothing sacred?</content></utterance>
+<utterance uid="31-8"><speaker>MARTHA</speaker><content>Not much.</content></utterance>
+<utterance uid="31-9"><speaker>CASTLE</speaker><content>Yes well, in any event, I’m not allowed to discuss it.</content></utterance>
+<utterance uid="31-10"><speaker>MARTHA</speaker><content>Oh, please. When has that stopped you before?</content></utterance>
+<utterance uid="31-11"><speaker>CASTLE</speaker><content>Well clearly it’s time I started setting some boundaries around here.</content></utterance>
+<utterance uid="31-12"><speaker>MARTHA</speaker><content>All right.</content></utterance>
+<utterance uid="31-13"><speaker>CASTLE</speaker><content>I can tell you this much. I’m working on a code involving these three chess pieces, the answer to which could avert a catastrophe.</content></utterance>
+<utterance uid="31-14"><speaker>MARTHA</speaker><content>Two bishops and a pawn. What could it mean?</content></utterance>
+<utterance uid="31-15"><speaker>CASTLE</speaker><content>I don’t know.</content></utterance>
+<utterance uid="31-16"><speaker>MARTHA</speaker><content>Oh.</content></utterance>
+<utterance uid="31-17"><speaker>CASTLE</speaker><content>I’ve been looking up classic strategies, I’ve looked up famous chess matches with Fischer, Karpov, Kasparov, but this pattern never occurs.</content></utterance>
+<utterance uid="31-18"><speaker>MARTHA</speaker><content>Maybe the pieces have nothing to do with the chess game. Maybe the pieces represent something else entirely.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>ESPOSITO</speaker><content>Yo Beckett. Nothing on Gage, but remember you asked me to look for a link between Tracy McGrath and some guy named Nelson Blakely?</content></utterance>
+<utterance uid="32-2"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="32-3"><speaker>ESPOSITO</speaker><content>I found one. From 10 years ago. Tracy and a bunch of her grad student friends went on a white water rafting trip with a Dr. Blakely, their professor. Although it wasn’t a good time for him. He drowned during the trip.</content></utterance>
+<utterance uid="32-4"><speaker>BECKETT</speaker><content>So he fakes his death and Tracy was in on it.</content></utterance>
+<utterance uid="32-5"><speaker>ESPOSITO</speaker><content>Who fakes his death? Blakely?</content></utterance>
+<utterance uid="32-6"><speaker>BECKETT</speaker><content>Uh – I’m sorry. I can’t tell you.</content></utterance>
+<utterance uid="32-7"><speaker>ESPOSITO</speaker><content>You know, a man can only take so much.</content></utterance>
+<utterance uid="32-8"><speaker>CASTLE</speaker><content>Hey.</content></utterance>
+<utterance uid="32-9"><speaker>BECKETT</speaker><content>Hey. What’re you doing here?</content></utterance>
+<utterance uid="32-10"><speaker>CASTLE</speaker><content>I found something. It’s about Blakely.</content></utterance>
+<utterance uid="32-11"><speaker>BECKETT</speaker><content>Well shouldn’t you tell Sophia about it?</content></utterance>
+<utterance uid="32-12"><speaker>CASTLE</speaker><content>She’s not my partner. You are.</content></utterance>
+<utterance uid="32-13"><speaker>CASTLE</speaker><content>May I?</content></utterance>
+<utterance uid="32-14"><speaker>CASTLE</speaker><content>All right. Bishop, bishop, pawn. We know Blakely was a world class chess player. Tracy McGrath played too; she had a game timer. Yet this placement makes no tactical sense.</content></utterance>
+<utterance uid="32-15"><speaker>BECKETT</speaker><content>I’m guessing you’ve got a theory?</content></utterance>
+<utterance uid="32-16"><speaker>CASTLE</speaker><content>I don’t think the pieces have anything to do with the game. I think Blakely was leaving Tracy a coded message telling her where to meet him. Maybe even a place where they play chess.</content></utterance>
+<utterance uid="32-17"><speaker>BECKETT</speaker><content>Okay, well uh … people play chess in parks. Uh, Central Park, Washington Square Park. Those would be great places to meet up with someone without drawing attention.</content></utterance>
+<utterance uid="32-18"><speaker>CASTLE</speaker><content>Exactly. Now, what if each piece stood for a first letter of a word. Bishop for B, pawn for P.</content></utterance>
+<utterance uid="32-19"><speaker>BECKETT</speaker><content>Okay, B and then 7 spaces. That could be …  Brooklyn. And Blakely make his phone call from Brooklyn, so BBP. Uh… Brooklyn Bridge Park?</content></utterance>
+<utterance uid="32-20"><speaker>CASTLE</speaker><content>That meeting is at 5 o’clock. That’s in half an hour. If Blakely shows we can find out what Pandora is. And we can find Gage. What do you say?</content></utterance>
+</scene>
+
+<scene id="33"><utterance uid="33-1"><speaker>BECKETT</speaker><content>Blakely should have been here by now. Maybe he knows that Tracy’s dead or maybe Gage already killed him.</content></utterance>
+<utterance uid="33-2"><speaker>CASTLE</speaker><content>Choose the audacity of hope. I say he’ll be here.</content></utterance>
+<utterance uid="33-3"><speaker>BECKETT</speaker><content>Shouldn’t you call Sophia?</content></utterance>
+<utterance uid="33-4"><speaker>CASTLE</speaker><content>And look like an ass if I’m wrong? </content></utterance>
+<utterance uid="33-5"><speaker>BECKETT</speaker><content>You know, I have to admit. I’m actually kind of surprised that you’ve never mentioned her before.</content></utterance>
+<utterance uid="33-6"><speaker>CASTLE</speaker><content>I wasn’t allowed to. She is an active CIA agent.</content></utterance>
+<utterance uid="33-7"><speaker>BECKETT</speaker><content>I see.</content></utterance>
+<utterance uid="33-8"><speaker>CASTLE</speaker><content>Look. If you want, I will answer any question you have about her. Anything at all.</content></utterance>
+<utterance uid="33-9"><speaker>BECKETT</speaker><content>No, thanks.</content></utterance>
+<utterance uid="33-10"><speaker>CASTLE</speaker><content>Are you sure?</content></utterance>
+<utterance uid="33-11"><speaker>BECKETT</speaker><content>Yeah, I mean, it’s really none of my business.</content></utterance>
+<utterance uid="33-12"><speaker>CASTLE</speaker><content>Okay. Well then, we’re done with it then.</content></utterance>
+<utterance uid="33-13"><speaker>BECKETT</speaker><content>Fine.</content></utterance>
+<utterance uid="33-14"><speaker>BECKETT</speaker><content>So … how close where the two of you exactly?</content></utterance>
+<utterance uid="33-15"><speaker>CASTLE</speaker><content>There he is.</content></utterance>
+<utterance uid="33-16"><speaker>BECKETT</speaker><content>C’mon Castle. You said I could ask you anything.</content></utterance>
+<utterance uid="33-17"><speaker>CASTLE</speaker><content>No, seriously. There he is.</content></utterance>
+<utterance uid="33-18"><speaker>BECKETT</speaker><content>Dr. Blakely.</content></utterance>
+<utterance uid="33-19"><speaker>BECKETT</speaker><content>No, there is no mistake.</content></utterance>
+<utterance uid="33-20"><speaker>BLAKELY</speaker><content>How did you find me?</content></utterance>
+<utterance uid="33-21"><speaker>BECKETT</speaker><content>Through Tracy. She’s dead.</content></utterance>
+<utterance uid="33-22"><speaker>BLAKELY</speaker><content>If they got to her they can get to me. We need to leave here. Now.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>BLAKELY</speaker><content>I always knew this day would come. But Tracy?</content></utterance>
+<utterance uid="34-2"><speaker>BECKETT</speaker><content>Dr. Blakely, what’s going on? What’s Pandora?</content></utterance>
+<utterance uid="34-3"><speaker>BLAKELY</speaker><content>I need you to drive me to Pier 32.</content></utterance>
+<utterance uid="34-4"><speaker>BECKETT</speaker><content>You’re not in a position to bargain.</content></utterance>
+<utterance uid="34-5"><speaker>BLAKELY</speaker><content>I got in this car voluntarily and I’ll get right back out if you don’t take me where I want to go!</content></utterance>
+<utterance uid="34-6"><speaker>CASTLE</speaker><content>Okay, what’s at Pier 32?</content></utterance>
+<utterance uid="34-7"><speaker>BLAKELY</speaker><content>Once we’re there I’ll tell you what you want to know.</content></utterance>
+<utterance uid="34-8"><speaker>CASTLE</speaker><content>You were top of your field. A professor. An advisor for the CIA. Why fake your own death?</content></utterance>
+<utterance uid="34-9"><speaker>BLAKELY</speaker><content>I brought down nations for the agency. I played God. But my linchpin theory didn’t factor in the human cost. I knew they’d never let me leave, so I died. And was reborn.</content></utterance>
+<utterance uid="34-10"><speaker>CASTLE</speaker><content>And the only one that knew was Tracy.</content></utterance>
+<utterance uid="34-11"><speaker>BLAKELY</speaker><content>She was my lifeline. She steered consulting work my way. I … helped reduce cholera in Africa. I predicted that a lone act of civil disobedience would trigger an uprising and remake the Arab world. I – I did good things.  Who killed her?</content></utterance>
+<utterance uid="34-12"><speaker>BECKETT</speaker><content>The same man who’s trying to pull off Pandora.</content></utterance>
+<utterance uid="34-13"><speaker>BLAKELY</speaker><content>You mean they’re trying to make it happen? This is even worse than I thought.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>BECKETT</speaker><content>All right. Talk.</content></utterance>
+<utterance uid="35-2"><speaker>BLAKELY</speaker><content>I need to go inside first.</content></utterance>
+<utterance uid="35-3"><speaker>BECKETT</speaker><content>You’re not going anywhere until you tell me about Pandora. What is it?</content></utterance>
+<utterance uid="35-4"><speaker>BLAKELY</speaker><content>It was the name of a white paper that I wrote.</content></utterance>
+<utterance uid="35-5"><speaker>CASTLE</speaker><content>For whom?</content></utterance>
+<utterance uid="35-6"><speaker>BLAKELY</speaker><content>I was hired by a think tank to identify weaknesses in US security, so they could be shored up, protected.  I found an alarming vulnerability. A linchpin that was tied to the economy that would cause crisis and devastation beyond anything that we’d ever seen. The dominos would just never stop falling. I asked Tracy to follow up with the think tank, but they don’t exist. Whoever they are, I gave them the blueprint that will bring about the end of our country as we know it.</content></utterance>
+<utterance uid="35-7"><speaker>CASTLE</speaker><content>Dr. Blakely, what is the linchpin?</content></utterance>
+<utterance uid="35-8"><speaker>BLAKELY</speaker><content>A flock of pigeons.</content></utterance>
+<utterance uid="35-9"><speaker>BECKETT</speaker><content>Blakely, the linchpin. What is it?</content></utterance>
+<utterance uid="35-10"><speaker>BLAKELY</speaker><content>Pigeons don’t fly in flocks unless they’re fleeing a predator. They’re here.</content></utterance>
+<utterance uid="35-11"><speaker>BECKETT</speaker><content>Wait! Wait, wait!</content></utterance>
+<utterance uid="35-12"><speaker>CASTLE</speaker><content>Hey!</content></utterance>
+<utterance uid="35-13"><speaker>BECKETT</speaker><content>Blakely!</content></utterance>
+<utterance uid="35-14"><speaker>BECKETT</speaker><content>C’mon, c’mon!</content></utterance>
+<utterance uid="35-15"><speaker>BECKETT</speaker><content>Hold on, Castle! Hold on!</content></utterance>
+<utterance uid="35-16"><speaker>CASTLE</speaker><content>Break! Beckett!</content></utterance>
+<utterance uid="35-17"><speaker>BECKETT</speaker><content>Hold on, Castle!</content></utterance>
+<utterance uid="35-18"><speaker>TO BE CONTINUED</speaker><content/></utterance>
+</scene>
+</script>

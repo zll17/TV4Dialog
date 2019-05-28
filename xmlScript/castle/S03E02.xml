@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>PENNY</speaker><content>Mom? Mom!  Mom? Are you here?</content></utterance>
+<utterance uid="1-2"><speaker>PENNY</speaker><content>C’mon. C’mon mom, answer.</content></utterance>
+</scene>
+
+<scene id="2"><utterance uid="2-1"><speaker>MARTHA</speaker><content>Oh, hello! Shouldn’t you been in school already?</content></utterance>
+<utterance uid="2-2"><speaker>ALEXIS</speaker><content>School doesn’t start for another hour.</content></utterance>
+<utterance uid="2-3"><speaker>CASTLE</speaker><content>Yeah, if you were hoping to do the walk of shame in private, you’re out of luck.</content></utterance>
+<utterance uid="2-4"><speaker>MARTHA</speaker><content>Oh, don’t be silly. I just didn’t realize how early it was. I have been a bit distracted this morning.</content></utterance>
+<utterance uid="2-5"><speaker>CASTLE</speaker><content>Did you mean distracted or hypnotized by that giant rock on your finger?</content></utterance>
+<utterance uid="2-6"><speaker>ALEXIS</speaker><content>Did Chet Palaburn propose?</content></utterance>
+<utterance uid="2-7"><speaker>CASTLE</speaker><content>Uh, Alexis? I think it’s about time we start calling him Uncle Chet.</content></utterance>
+<utterance uid="2-8"><speaker>MARTHA</speaker><content>Oh now, wait a minute, wait a minute you two. I am not engaged, all right? Yes, Chet did propose last night and I told him, you know, I needed time to think about it and he insisted I keep the ring while I make up my mind, so…</content></utterance>
+<utterance uid="2-9"><speaker>CASTLE</speaker><content>Mmm… smart man. Diamonds can be very persuasive. I can hear it now whispering ‘keep me… keep me.’</content></utterance>
+<utterance uid="2-10"><speaker>MARTHA</speaker><content>Unfortunately now that Chet has upped the ante, as they say, I’m going to have to decide whether I’m in or I’m out.</content></utterance>
+<utterance uid="2-11"><speaker>ALEXIS</speaker><content>I thought you loved Chet.</content></utterance>
+<utterance uid="2-12"><speaker>MARTHA</speaker><content>Oh, I do love him, darling, I really do. I just … well, you know, for me it’s uh…</content></utterance>
+<utterance uid="2-13"><speaker>CASTLE</speaker><content>The thrill is gone.</content></utterance>
+<utterance uid="2-14"><speaker>MARTHA</speaker><content>Yes. And it’s been gone for quite awhile. Although this little fella  did bring it back for about ten minutes.</content></utterance>
+<utterance uid="2-15"><speaker>ALEXIS</speaker><content>Well, if he’s not the one then I guess you shouldn’t marry him.</content></utterance>
+<utterance uid="2-16"><speaker>CASTLE</speaker><content>It’s never stopped her before.</content></utterance>
+<utterance uid="2-17"><speaker>ALEXIS</speaker><content>And we miss having you here all the time. Don’t we, dad?</content></utterance>
+<utterance uid="2-18"><speaker>ALEXIS_MARTHA</speaker><content>Dad?</content></utterance>
+<utterance uid="2-19"><speaker>MARTHA</speaker><content>Saved by the bell.</content></utterance>
+<utterance uid="2-20"><speaker>CASTLE</speaker><content>Ah, it’s Beckett.  Castle!</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>CASTLE</speaker><content>Hey! Did I hear you right? Our victim is Vivien Marchand, the psychic medium?</content></utterance>
+<utterance uid="3-2"><speaker>KEVIN RYAN</speaker><content>You’ve heard of her?</content></utterance>
+<utterance uid="3-3"><speaker>CASTLE</speaker><content>Yeah, she was very popular in certain Manhattan circles. Matter of fact, she did a reading for me at a society party about eight years ago. It was pretty extraordinary.</content></utterance>
+<utterance uid="3-4"><speaker>KATE BECKETT</speaker><content>Extraordinary?</content></utterance>
+<utterance uid="3-5"><speaker>CASTLE</speaker><content>She got everything right. You know, come to think of it, she told me that a beautiful woman would one day move into my loft and stay with me forever. She neglected to mention it was my mother. How did she die?</content></utterance>
+<utterance uid="3-6"><speaker>LANIE PARISH</speaker><content>Stabbed in the back of a neck with an ice pick and then stuffed into the sofa.</content></utterance>
+<utterance uid="3-7"><speaker>CASTLE</speaker><content>So she didn’t see that coming.</content></utterance>
+<utterance uid="3-8"><speaker>BECKETT</speaker><content>When did she die?</content></utterance>
+<utterance uid="3-9"><speaker>LANIE</speaker><content>She’s in full rigor – I’d say yesterday afternoon is the approximate time of death.</content></utterance>
+<utterance uid="3-10"><speaker>JAVIER ESPOSITO</speaker><content>I’ve got a maintenance worker said he saw a man leaving the back door of Vivien’s office around two-thirty yesterday afternoon.</content></utterance>
+<utterance uid="3-11"><speaker>BECKETT</speaker><content>Description?</content></utterance>
+<utterance uid="3-12"><speaker>ESPOSITO</speaker><content>Tall, Caucasian, and tough looking.</content></utterance>
+<utterance uid="3-13"><speaker>BECKETT</speaker><content>All right, Ryan, check Vivien’s calendar, and let’s interview her clients from yesterday. Maybe one of them saw the guy.</content></utterance>
+<utterance uid="3-14"><speaker>RYAN</speaker><content>What I don’t get is, why put her in the couch?</content></utterance>
+<utterance uid="3-15"><speaker>LANIE</speaker><content>She was alive when she went in. These scratches on her face indicate that she tried to move. I’m going to get her back to the lab.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>RYAN</speaker><content>She’s got a notation here for three PM yesterday. It just says ‘TJ’.</content></utterance>
+<utterance uid="4-2"><speaker>BECKETT</speaker><content>And nothing else?</content></utterance>
+<utterance uid="4-3"><speaker>RYAN</speaker><content>Nope. Maybe TJ was a a ghost coming to visit. Mediums are the ones that can see ghosts, right Castle?</content></utterance>
+<utterance uid="4-4"><speaker>CASTLE</speaker><content>Yes. Psychics can tell the future, mediums can tell the future and talk to the dead.</content></utterance>
+<utterance uid="4-5"><speaker>BECKETT</speaker><content>That’s like saying psychics are con artists and mediums are con artists and charlatans. I mean in the end they’re all just fakes.</content></utterance>
+<utterance uid="4-6"><speaker>CASTLE</speaker><content>You sound pretty certain of yourself.</content></utterance>
+<utterance uid="4-7"><speaker>BECKETT</speaker><content>That’s because when I started as a cop I wasted a lot of time on clairvoyants calling tip lines with information that never led to anything. I mean, I’m surprised you’re so gullible.</content></utterance>
+<utterance uid="4-8"><speaker>CASTLE</speaker><content>I’m not saying I can speak with the dead. I’m just willing to admit there are people in this world who are more sensitive than me.</content></utterance>
+<utterance uid="4-9"><speaker>BECKETT</speaker><content>Now that’s not hard to believe.</content></utterance>
+<utterance uid="4-10"><speaker>CASTLE</speaker><content>Walked right into that one.</content></utterance>
+<utterance uid="4-11"><speaker>RYAN</speaker><content>Mmmm.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>BECKETT</speaker><content>Ms. Marchand, do you know of anyone who wanted to harm your mother?</content></utterance>
+<utterance uid="5-2"><speaker>PENNY</speaker><content>She was a very spiritual person. She didn’t have any enemies.</content></utterance>
+<utterance uid="5-3"><speaker>BECKETT</speaker><content>A witness saw a tall, dark haired man leaving here around two-thirty yesterday. Does that sound like anyone your mother knows?</content></utterance>
+<utterance uid="5-4"><speaker>BECKETT</speaker><content>When was the last time you two talked?</content></utterance>
+<utterance uid="5-5"><speaker>PENNY</speaker><content>Around one o’clock. She said she had her last client of the day and then she was going to spend the rest of the afternoon in meditation.</content></utterance>
+<utterance uid="5-6"><speaker>BECKETT</speaker><content>Do you know the client’s name?</content></utterance>
+<utterance uid="5-7"><speaker>PENNY</speaker><content>No. It was a mother and a daughter. The names should be in her book.</content></utterance>
+<utterance uid="5-8"><speaker>BECKETT</speaker><content>Well, there was a notation in her calendar at three, the initials ‘TJ’. Does that mean anything to you?</content></utterance>
+<utterance uid="5-9"><speaker>PENNY</speaker><content>No. I’m sorry I can’t be more helpful.</content></utterance>
+<utterance uid="5-10"><speaker>CASTLE</speaker><content>Hey. I remember this case. A guy’s wife goes missing, he seems genuinely distraught, and then the cops find out he had a girlfriend and that his marriage was on the rocks.</content></utterance>
+<utterance uid="5-11"><speaker>PENNY</speaker><content>Yeah.</content></utterance>
+<utterance uid="5-12"><speaker>CASTLE</speaker><content>Did your mother help on that case?</content></utterance>
+<utterance uid="5-13"><speaker>PENNY</speaker><content>Yeah, she had a vision of him at this local bar with this pretty blonde named Amber, so she went to the police with the information. That’s when they started looking at him as a suspect.</content></utterance>
+<utterance uid="5-14"><speaker>CASTLE</speaker><content>And then what happened?</content></utterance>
+<utterance uid="5-15"><speaker>PENNY</speaker><content>He went to prison. That case really put my mom on the map.</content></utterance>
+<utterance uid="5-16"><speaker>CASTLE</speaker><content>Did your mother continue offering the police help after that?</content></utterance>
+<utterance uid="5-17"><speaker>PENNY</speaker><content>Yes, all over the country. My mother helped put over a dozen people away in the last ten years.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>BECKETT</speaker><content>So here’s a list of all the people that Penny Marchand claims her mom helped to convict. Let’s see if any of them are out of jail and still holding a grudge.</content></utterance>
+<utterance uid="6-2"><speaker>RYAN</speaker><content>On it. Vivien’s one o’clock Monday clients are here. They say they got a good look of the dark haired guy that was in her office. Names are Paula and Marina Casillas.</content></utterance>
+<utterance uid="6-3"><speaker>CASTLE</speaker><content>Casillas? That’s a good name. Hard to possessive pluralize, though.  The Casillases’ car has broken down, so they will be late for the symphony.</content></utterance>
+<utterance uid="6-4"><speaker>RYAN</speaker><content>The Casillas  … Casillases … they’re waiting for you in the lobby.</content></utterance>
+<utterance uid="6-5"><speaker>BECKETT</speaker><content>All right, thanks.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>MARINA CASILLAS</speaker><content>Usually we’re her last clients on Monday. But when we left, there was a man there waiting for Vivien. She seemed surprised to see him, like he wasn’t expected. Oh, and he seemed upset, I could tell.</content></utterance>
+<utterance uid="7-2"><speaker>BECKETT</speaker><content>Could you describe him?</content></utterance>
+<utterance uid="7-3"><speaker>MARINA</speaker><content>He was wearing dark clothes, he had black hair, going gray at the temples, oh, and he had a scar on his face.</content></utterance>
+<utterance uid="7-4"><speaker>PAULA CASILLAS</speaker><content>I think she called him Alfred. Or was it Albert?</content></utterance>
+<utterance uid="7-5"><speaker>BECKETT</speaker><content>Okay. Well thank you both, you’ve been very helpful.</content></utterance>
+<utterance uid="7-6"><speaker>CASTLE</speaker><content>How long had you been going to see Vivien?</content></utterance>
+<utterance uid="7-7"><speaker>PAULA</speaker><content>Four months. My husband, Emilio, passed away in April. We both miss him so much.</content></utterance>
+<utterance uid="7-8"><speaker>CASTLE</speaker><content>So she was helping you get closure?</content></utterance>
+<utterance uid="7-9"><speaker>PAULA</speaker><content>Yes. Even at our first session, Vivien already knew so much about my Emilio.</content></utterance>
+<utterance uid="7-10"><speaker>CASTLE</speaker><content>Like what?</content></utterance>
+<utterance uid="7-11"><speaker>PAULA</speaker><content>Well, she knew he made vitamins for a living. She knew he loved arroz con pollo. She also knew he was a workaholic –</content></utterance>
+<utterance uid="7-12"><speaker>MARINA</speaker><content>And that he even died at the office. Vivien said she thought daddy had something very important to tell us. She was going to commune with his spirit last night. Now we’ll never know.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>ESPOSITO</speaker><content>You’re not going to believe this. Vivien’s daughter is pretty sure Albert is Albert Moreno.</content></utterance>
+<utterance uid="8-2"><speaker>BECKETT</speaker><content>Albert ‘the Blade’ Moreno?</content></utterance>
+<utterance uid="8-3"><speaker>ESPOSITO</speaker><content>Former muscle for the Spolano crime family.</content></utterance>
+<utterance uid="8-4"><speaker>CASTLE</speaker><content>So Vivien helped put him away?</content></utterance>
+<utterance uid="8-5"><speaker>ESPOSITO</speaker><content>Uh uh. He’s her client. Vivien told Albert that if he invested in a New Jersey real estate deal, true happiness would be his. The deal fell through a month ago. He lost everything.</content></utterance>
+<utterance uid="8-6"><speaker>CASTLE</speaker><content>Ouch. You give a guy like that bad advice and he’ll see to it that you’re sleeping with the fishes.</content></utterance>
+<utterance uid="8-7"><speaker>BECKETT</speaker><content>Or you get stabbed in the neck with an ice pick.  And stuffed in a couch.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>CASTLE</speaker><content>Woah. Albert Moreno was sure living large for a low level mobster.</content></utterance>
+<utterance uid="9-2"><speaker>BECKETT</speaker><content>Well, I guess mob money goes a little farther when you don’t have to pay taxes on it.</content></utterance>
+<utterance uid="9-3"><speaker>CASTLE</speaker><content>And yet for Albert, not far enough.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>LOREEN CARTER</speaker><content>I’m Loreen Carter, from Real Smart Real Estate. This house is a Tuscan jewel. And it’s perfect for a young couple.</content></utterance>
+<utterance uid="10-2"><speaker>BECKETT</speaker><content> We’re here for Mr. Moreno.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>ALBERT MORENO</speaker><content>Yes, I went to see her. Three months ago Vivien told me I should invest in some real estate deal. She knew I had … quit my day job. I was looking to set myself up for retirement.</content></utterance>
+<utterance uid="11-2"><speaker>CASTLE</speaker><content>She told you the investment would bring you true happiness, but instead you lost it all.</content></utterance>
+<utterance uid="11-3"><speaker>MORENO</speaker><content>I was … upset. And then she canceled our last appointment and stopped returning my phone calls …</content></utterance>
+<utterance uid="11-4"><speaker>BECKETT</speaker><content>And then you decided to pay her a visit yesterday around two o’clock.</content></utterance>
+<utterance uid="11-5"><speaker>MORENO</speaker><content>I told her, I’m on my way to meet my broker. I’m selling my home because I can’t pay my mortgage no more.</content></utterance>
+<utterance uid="11-6"><speaker>BECKETT</speaker><content>And then what happened Mr. Moreno? Did you get angry? Did things get physical?</content></utterance>
+<utterance uid="11-7"><speaker>MORENO</speaker><content>No. But I was mad. And when I’m mad, sometimes people get nervous. She begged me to let the universe sort itself</content></utterance>
+<utterance uid="11-8"><speaker>BECKETT</speaker><content>Did she say with whom?</content></utterance>
+<utterance uid="11-9"><speaker>MORENO</speaker><content>No. By then I was late to meet my broker so I left, about two thirty. And just like that,  the universe? It sorted itself out.</content></utterance>
+<utterance uid="11-10"><speaker>BECKETT</speaker><content> I’m … I’m sorry, I don’t understand.</content></utterance>
+<utterance uid="11-11"><speaker>MORENO</speaker><content>Turns out, my broker’s partner is Loreen here, my high school sweetheart.</content></utterance>
+<utterance uid="11-12"><speaker>LOREEN</speaker><content>We broke up in ’82, but we never got over each other.</content></utterance>
+<utterance uid="11-13"><speaker>MORENO</speaker><content>The minute I laid eyes on her again, I haven’t left her side. And I’ve never been so happy.</content></utterance>
+<utterance uid="11-14"><speaker>CASTLE</speaker><content>So … Vivien was right. Investing in the real estate deal brought you to bankruptcy, which in turn brought you to Loreen and true happiness.  Extraordinary.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>CASTLE</speaker><content>So, what do you think?</content></utterance>
+<utterance uid="12-2"><speaker>BECKETT</speaker><content>Well, I think it’s possible that he killed Vivien before the universe righted itself.</content></utterance>
+<utterance uid="12-3"><speaker>CASTLE</speaker><content>Not about that, about them. Albert and Loreen, star crossed lovers, reunited by fate.</content></utterance>
+<utterance uid="12-4"><speaker>BECKETT</speaker><content>You mean, reunited by coincidence?</content></utterance>
+<utterance uid="12-5"><speaker>CASTLE</speaker><content>Oh, let me guess. You don’t believe in fate. Soul mates?</content></utterance>
+<utterance uid="12-6"><speaker>BECKETT</speaker><content>No.</content></utterance>
+<utterance uid="12-7"><speaker>CASTLE</speaker><content>Unicorns? Fairies? Double rainbows? Didn’t you ever think your dolls used to get up at night and play with your toys?</content></utterance>
+<utterance uid="12-8"><speaker>BECKETT</speaker><content>Sorry.</content></utterance>
+<utterance uid="12-9"><speaker>CASTLE</speaker><content>Mmm. Let me guess, you were one of those annoying six year olds that stopped believing in Santa Claus because you figured out he couldn’t travel faster than the speed of light.</content></utterance>
+<utterance uid="12-10"><speaker>BECKETT</speaker><content>I was three and we didn’t have a chimney.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>ESPOSITO</speaker><content>How did it go with Moreno?</content></utterance>
+<utterance uid="13-2"><speaker>BECKETT</speaker><content>My gut says it’s not him, but we still have to look into his alibi.</content></utterance>
+<utterance uid="13-3"><speaker>CASTLE</speaker><content>Oh, so you don’t believe in fate, but your gut has magical properties. That’s cool … Scully.</content></utterance>
+<utterance uid="13-4"><speaker>RYAN</speaker><content>We got calls out on most of Vivien’s dirty dozen and should hear back tomorrow. Meanwhile we’ve been going through her client files. Trips to the hall of records, internet searches, even got a hold of some autopsy files. Pretty intimate stuff, too.</content></utterance>
+<utterance uid="13-5"><speaker>BECKETT</speaker><content>You see Castle? Research. That’s how she made people believe that she has a gift. And I bet that she even looked into you eight years ago when she went to that party. And I bet she looked up Paula Casillas as well. That’s how she knew her husband Emilio had a vitamin business.</content></utterance>
+<utterance uid="13-6"><speaker>CASTLE</speaker><content>Is that also how she knew Albert Moreno would find true love through bankruptcy?</content></utterance>
+<utterance uid="13-7"><speaker>BECKETT</speaker><content>She got lucky.</content></utterance>
+<utterance uid="13-8"><speaker>CASTLE</speaker><content>Oh. Or maybe it’s just that she couldn’t get everything she needed from her abilities alone and needed to do a little extra digging. I have a fantastic imagination, yet I still do a ton of research when I write a book.</content></utterance>
+<utterance uid="13-9"><speaker>CASTLE</speaker><content>Surrounded by skeptics.</content></utterance>
+<utterance uid="13-10"><speaker>ESPOSITO</speaker><content>It’s called being a cop, bro.</content></utterance>
+</scene>
+
+<scene id="14"><utterance uid="14-1"><speaker>ALEXIS</speaker><content>Oh great and powerful spirits, tell us, should Gram break up with Chet Palaburn?</content></utterance>
+<utterance uid="14-2"><speaker>MARTHA</speaker><content>Ugh, this thing must be broken. Well luckily, I don’t need the spirits to tell me when it’s time to say goodbye.  Goodbye, my love.</content></utterance>
+<utterance uid="14-3"><speaker>ALEXIS</speaker><content>What if you’re being too hasty? Relationships take work, right?</content></utterance>
+<utterance uid="14-4"><speaker>MARTHA</speaker><content>No no no, love is not about work. Trust me. It’s about passion, it’s about chemistry … romance.</content></utterance>
+<utterance uid="14-5"><speaker>CASTLE</speaker><content>It’s about your heart pounding faster because you can’t wait to see her.</content></utterance>
+<utterance uid="14-6"><speaker>ALEXIS</speaker><content>Can either of you look back on a relationship that ended because the thrill was gone and admit that maybe you gave up on love too soon?</content></utterance>
+<utterance uid="14-7"><speaker>ALEXIS</speaker><content>Dad, you’re back with your ex-wife –</content></utterance>
+<utterance uid="14-8"><speaker>CASTLE</speaker><content>Ooh, no, she’s right. With Gina, the thrill was long, long gone. Now, it is back with a vengeance. Of course, it brought along its friends, high maintenance and shopaholic.</content></utterance>
+<utterance uid="14-9"><speaker>MARTHA</speaker><content>Oh, I’m sorry, honey. I’m sorry. But it’s just … it’s over. I know it.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>CASTLE</speaker><content>Hey. Any news on the dirty dozen?</content></utterance>
+<utterance uid="15-2"><speaker>RYAN</speaker><content>Well, most are still in prison, but we’re thinking this line of investigation might not get us anywhere.</content></utterance>
+<utterance uid="15-3"><speaker>CASTLE</speaker><content>Why not?</content></utterance>
+<utterance uid="15-4"><speaker>RYAN</speaker><content>I called around to a couple of lead detectives, just to check out the level of Vivien’s involvement, and they say they’ve never even heard of her.</content></utterance>
+<utterance uid="15-5"><speaker>BECKETT</speaker><content>She exaggerated her involvement in these cases in order to build her reputation back up.</content></utterance>
+<utterance uid="15-6"><speaker>CASTLE</speaker><content>Or maybe, the cops didn’t want to admit they had a psychic actually helping them. I mean, what police detective would willingly acknowledge that a lay person is as talented at solving crimes as she is? </content></utterance>
+<utterance uid="15-7"><speaker>BECKETT</speaker><content>Vivien Marchand is not a psychic. I bet my badge on it.</content></utterance>
+<utterance uid="15-8"><speaker>ESPOSITO</speaker><content>Don’t throw those dice until you take a look at this.</content></utterance>
+<utterance uid="15-9"><speaker>CASTLE</speaker><content> New York Homicide Division Detective Squad. It’s from Vivien Marchand.</content></utterance>
+<utterance uid="15-10"><speaker>ESPOSITO</speaker><content>Yeah, it arrived this morning. Postmarked Monday, the day she died.</content></utterance>
+<utterance uid="15-11"><speaker>CASTLE</speaker><content>That is her letterhead.</content></utterance>
+<utterance uid="15-12"><speaker>BECKETT</speaker><content> “To whom it may concern, I feel that my murder is imminent.”</content></utterance>
+<utterance uid="15-13"><speaker>BECKETT</speaker><content> “And although I have no idea where or when this even will occur, I have had a vision of my death. In the vision I could not breathe. I saw a man dressed in black, the numbers 7 5 1 8, and I could hear a furious pounding from what seemed to be far away. I’m sorry I cannot be more specific – “</content></utterance>
+<utterance uid="15-14"><speaker>CASTLE</speaker><content>Psychic predicted her own murder!</content></utterance>
+<utterance uid="15-15"><speaker>BECKETT</speaker><content>Or the killer wrote this in order to throw us off. Run it. Maybe we’ll get lucky with the prints.</content></utterance>
+<utterance uid="15-16"><speaker>RYAN</speaker><content>Do you think she really –</content></utterance>
+<utterance uid="15-17"><speaker>ESPOSITO</speaker><content>No!</content></utterance>
+<utterance uid="15-18"><speaker>RYAN</speaker><content>Yeah, me neither.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>BECKETT</speaker><content>Hey Lanie, what do we got?</content></utterance>
+<utterance uid="16-2"><speaker>LANIE</speaker><content>We’ve got cause of death. Blood loss and asphyxiation and I’m officially putting time of death between five and seven PM on Monday evening.</content></utterance>
+<utterance uid="16-3"><speaker>BECKETT</speaker><content>So that rules out Albert Moreno. What else?</content></utterance>
+<utterance uid="16-4"><speaker>LANIE</speaker><content>There were no scratches on the ice pick blade. It was brand new, probably bought special just for the occasion. And, her cell phone was in her hand. She may have tried to dial for help before she expired. The digits match the beginning of her daughter’s phone number - 1-718-55 –</content></utterance>
+<utterance uid="16-5"><speaker>CASTLE</speaker><content> 7 1 8 5? Those are the numbers from the letter. They’re in a different order, but those are the same numbers.</content></utterance>
+<utterance uid="16-6"><speaker>CASTLE</speaker><content>Oh, go on. Say it. Say coincidence.</content></utterance>
+<utterance uid="16-7"><speaker>BECKETT</speaker><content>Coincidence.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>CASTLE</speaker><content>I’m just saying, it’s irrefutable, that’s all.</content></utterance>
+<utterance uid="17-2"><speaker>BECKETT</speaker><content>It’s not irrefutable, Castle. As a matter of fact, it is completely refutable.</content></utterance>
+<utterance uid="17-3"><speaker>CASTLE</speaker><content>Okay, go on. Refute me.</content></utterance>
+<utterance uid="17-4"><speaker>BECKETT</speaker><content>Okay, how about this. Vivien is dialing her daughter’s number, our killer comes in, stabs her in the neck, picks up her phone, drops it into the sofa after her, and then puts the numbers into the letter along with the rest of the fake predictions.  Refuted!</content></utterance>
+<utterance uid="17-5"><speaker>CASTLE</speaker><content>No one types a number into a cell phone anymore.</content></utterance>
+<utterance uid="17-6"><speaker>ESPOSITO</speaker><content>Preliminaries on the letter aren’t giving us very much. There are no usable prints and no DNA. And the pickup at the mail drop in Vivien’s building is six PM.</content></utterance>
+<utterance uid="17-7"><speaker>BECKETT</speaker><content>Time enough for the killer to have written it and mailed it after she was dead.</content></utterance>
+<utterance uid="17-8"><speaker>CASTLE</speaker><content>But why? Why go through all that trouble?</content></utterance>
+<utterance uid="17-9"><speaker>BECKETT</speaker><content>To keep us spinning wild theories and chasing after men dressed in black instead of following hard evidence. I mean, c’mon, Castle. The letter’s not even signed.</content></utterance>
+<utterance uid="17-10"><speaker>ESPOSITO</speaker><content>Actually, I talked to Penny Marchand about that. She says it’s possible that her mother would type a letter and not sign it in case a prediction was wrong. She wouldn’t want anybody selling her mistakes on the internet.</content></utterance>
+<utterance uid="17-11"><speaker>BECKETT</speaker><content>But we still can’t prove that Vivien actually wrote the letter.</content></utterance>
+<utterance uid="17-12"><speaker>CASTLE</speaker><content>Until her other predictions come true.</content></utterance>
+<utterance uid="17-13"><speaker>ESPOSITO</speaker><content> Yeah, I’m just gonna –</content></utterance>
+<utterance uid="17-14"><speaker>RYAN</speaker><content>Good, you’re back. I think I’ve got something. Remember Vivien’s first big case?</content></utterance>
+<utterance uid="17-15"><speaker>BECKETT</speaker><content>Yeah, the guy with the missing wife and the blonde girlfriend named Amber.</content></utterance>
+<utterance uid="17-16"><speaker>RYAN</speaker><content>His name is Steve Adams. Unis are bringing him over right now. They never found his wife’s body. He did seven years for second degree. They released him two months ago on parole, only after he agreed to wear an anklet with a tracking device. So, I called his PO and he sent over this.</content></utterance>
+<utterance uid="17-17"><speaker>BECKETT</speaker><content>The GPS readout puts Steve at Vivien’s address Monday afternoon. So Vivien finishes with Paula and Marina Casillas at two, Albert Moreno exits out the back door at two thirty, and now it’s time for her three PM with “TJ”.</content></utterance>
+<utterance uid="17-18"><speaker>CASTLE</speaker><content>Steve Adams was there from 1:36 to 2:48. Waiting for his opportunity?</content></utterance>
+<utterance uid="17-19"><speaker>BECKETT</speaker><content>So he waits there until she’s alone, jumps her, stabs her, and then stuffs her in the couch.</content></utterance>
+<utterance uid="17-20"><speaker>STEVE ADAMS</speaker><content>This is harassment! I haven’t done anything wrong!</content></utterance>
+<utterance uid="17-21"><speaker>CASTLE</speaker><content>Ah … he’s wearing all black.</content></utterance>
+<utterance uid="17-22"><speaker>BECKETT</speaker><content>It’s gotta be a coincidence.</content></utterance>
+<utterance uid="17-23"><speaker>CASTLE</speaker><content>Or black is the new guilty.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>ADAMS</speaker><content>I didn’t kill her.</content></utterance>
+<utterance uid="18-2"><speaker>BECKETT</speaker><content>You were the last one to see her alive. The GPS on your anklet indicates that you were at her office for over an hour on the day she was killed.</content></utterance>
+<utterance uid="18-3"><speaker>ADAMS</speaker><content>Yeah, but it’s not what you think. Last week I got a call from a guy named Cody Donnelly. He’s a reality TV producer. He said he could help me clear my name.</content></utterance>
+<utterance uid="18-4"><speaker>CASTLE</speaker><content>How was he going to do that?</content></utterance>
+<utterance uid="18-5"><speaker>ADAMS</speaker><content>The day after my wife disappeared, Vivien Marchand told the cops she had a vision of me in a bar with my girlfriend Amber.</content></utterance>
+<utterance uid="18-6"><speaker>CASTLE</speaker><content>Which was true.</content></utterance>
+<utterance uid="18-7"><speaker>ADAMS</speaker><content>That I was there? Yeah. But then she started saying that she had other visions, visions that I had murdered my wife, which I did not do. But she was right once, about Amber, so everyone believed her. Only Vivien had lied about that, too.</content></utterance>
+<utterance uid="18-8"><speaker>BECKETT</speaker><content>What do you mean?</content></utterance>
+<utterance uid="18-9"><speaker>ADAMS</speaker><content>Cody Donnelly told me that he had proof that Vivien was a customer in the same bar where I took Amber that day. So she saw me, all right, with her own eyes. There was nothing psychic about it. Nothing.</content></utterance>
+<utterance uid="18-10"><speaker>BECKETT</speaker><content>So you figured that if you could prove that Vivien was a fraud that maybe people would believe that you hadn’t killed your wife as well?</content></utterance>
+<utterance uid="18-11"><speaker>ADAMS</speaker><content>I’m an innocent man. But thanks to Vivien, everyone in the state believed that I killed my wife. She got a book deal. I got seven to ten.</content></utterance>
+<utterance uid="18-12"><speaker>BECKETT</speaker><content>And what was in it for Cody Donnelly?</content></utterance>
+<utterance uid="18-13"><speaker>ADAMS</speaker><content>He wanted me and Vivien to be in his reality show You’ve Ruined My Life.</content></utterance>
+<utterance uid="18-14"><speaker>CASTLE</speaker><content>Oh, I love that show! It’s where people unleash their righteous fury against those who’ve wronged them. Usually ends in tears and a hug.</content></utterance>
+<utterance uid="18-15"><speaker>ADAMS</speaker><content>Cody and me, we went to her office with a camera crew. We sat outside in the van for almost an hour. When she finally came out, I confronted her. I called her a fake. Cody told me to make it big, so I did.</content></utterance>
+<utterance uid="18-16"><speaker>BECKETT</speaker><content>And what did Vivien do?</content></utterance>
+<utterance uid="18-17"><speaker>ADAMS</speaker><content>Mostly she freaked. Then she got into a cab and took off. Cody dropped me off at my apartment on Second and Forty-Fifth and I never saw her again.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>BECKETT</speaker><content>GPS puts Adams at his apartment at the time Vivien was murdered. Find me some witnesses that can verify that.</content></utterance>
+<utterance uid="19-2"><speaker>RYAN</speaker><content>You don’t trust the GPS?</content></utterance>
+<utterance uid="19-3"><speaker>BECKETT</speaker><content>No, those things can be tampered with. So, Vivien told her daughter that she was going to be at the office all afternoon and then at two forty-five she takes a cab and leaves. To see TJ, whoever that is. Let’s get a hold of Steve Adam’s producer, Cody Donnelly. I want to see him and his footage of Vivien first thing in the morning.</content></utterance>
+<utterance uid="19-4"><speaker>RYAN</speaker><content>You got it.</content></utterance>
+</scene>
+
+<scene id="20"><utterance uid="20-1"><speaker>CASTLE</speaker><content>I am so glad that you are home. You would not believe the day I had.</content></utterance>
+<utterance uid="20-2"><speaker>MARTHA</speaker><content>Oh, I think I got you beat.</content></utterance>
+<utterance uid="20-3"><speaker>CASTLE</speaker><content>Mother, what’s wrong? And why are you still engaged to Uncle Chet?</content></utterance>
+<utterance uid="20-4"><speaker>MARTHA</speaker><content>Oh, Richard. Chet is dead.</content></utterance>
+<utterance uid="20-5"><speaker>CASTLE</speaker><content> What? How?</content></utterance>
+<utterance uid="20-6"><speaker>MARTHA</speaker><content>I went to his apartment this morning and his kids are there - Boomer and Lottie. They said he’d had a stroke in his sleep. I mean, God I – he was so young and – </content></utterance>
+<utterance uid="20-7"><speaker>CASTLE</speaker><content>Mother, I am so sorry.</content></utterance>
+<utterance uid="20-8"><speaker>MARTHA</speaker><content>So Boomer and Lottie see the ring and naturally they assume that their father and I engaged and now they’re worried about how I’ll handle the news and … and uh, I spent the whole day with them, receiving visitors and … and they kept telling me how happy their father had been since we’d been together and how I was …  … the love of his life.</content></utterance>
+<utterance uid="20-9"><speaker>MARTHA</speaker><content>And there I was, about to break his heart.  Oh, and now they want me to give the eulogy.</content></utterance>
+<utterance uid="20-10"><speaker>MARTHA</speaker><content>I don’t think I can. Oh, Richard …</content></utterance>
+<utterance uid="20-11"><speaker>CASTLE</speaker><content>I’m sorry. I’m sorry.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>ADAMS</speaker><content>Vivien Marchand? You remember me? You told the cops you had a vision of me in a bar.</content></utterance>
+<utterance uid="21-2"><speaker>BECKETT</speaker><content>Is that the footage from Cody Donnelly?</content></utterance>
+<utterance uid="21-3"><speaker>ESPOSITO</speaker><content>Yep. He’s waiting for you in interrogation. Where’s Castle?</content></utterance>
+<utterance uid="21-4"><speaker>BECKETT</speaker><content>Oh, he had some personal issues he had to deal with. What do we got?</content></utterance>
+<utterance uid="21-5"><speaker>RYAN</speaker><content>So far it’s going just as Steve Adams says. Vivien comes out, gets in her face …</content></utterance>
+<utterance uid="21-6"><speaker>ESPOSITO</speaker><content>She gets in a cab.</content></utterance>
+<utterance uid="21-7"><speaker>RYAN</speaker><content>And we got a partial on the license plate. I’ll run it down, see if I can find out where the taxi dropped her off.</content></utterance>
+<utterance uid="21-8"><speaker>BECKETT</speaker><content>Turn it off, turn it off.</content></utterance>
+<utterance uid="21-9"><speaker>PENNY</speaker><content>Detective Beckett?</content></utterance>
+<utterance uid="21-10"><speaker>BECKETT</speaker><content>Hi, Penny. What are you doing here?</content></utterance>
+<utterance uid="21-11"><speaker>PENNY</speaker><content>Is there somewhere that we could talk privately?</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>BECKETT</speaker><content>What’s wrong, did you remember something?</content></utterance>
+<utterance uid="22-2"><speaker>PENNY</speaker><content>No, it’s not that. I’m afraid I wasn’t completely honest with you the other day. The fact is, I have a little bit of what my mother did. Sometimes I have dreams that are meaningful. Last night, I had a dream about you.</content></utterance>
+<utterance uid="22-3"><speaker>BECKETT</speaker><content> Okay?</content></utterance>
+<utterance uid="22-4"><speaker>PENNY</speaker><content>And I can’t really explain why, but I feel very strongly that I’m supposed to tell you something. Something important. Are you ready?</content></utterance>
+<utterance uid="22-5"><speaker>BECKETT</speaker><content>I’m ready?</content></utterance>
+<utterance uid="22-6"><speaker>PENNY</speaker><content>Alexander.</content></utterance>
+<utterance uid="22-7"><speaker>BECKETT</speaker><content>Alexand -?</content></utterance>
+<utterance uid="22-8"><speaker>PENNY</speaker><content>Alexander. I don’t know who he is or what he means to you.</content></utterance>
+<utterance uid="22-9"><speaker>BECKETT</speaker><content>I don’t know any Alexander.</content></utterance>
+<utterance uid="22-10"><speaker>PENNY</speaker><content>You will. You will meet an Alexander and he will be extremely important to you. At some future date, he may save your life.</content></utterance>
+<utterance uid="22-11"><speaker>BECKETT</speaker><content>Okay, um … good to know.</content></utterance>
+<utterance uid="22-12"><speaker>PENNY</speaker><content>Thank you, detective.</content></utterance>
+<utterance uid="22-13"><speaker>BECKETT</speaker><content>Thank you, Penny.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>CODY DONNELLY</speaker><content>Candid reality gold, mate. Cody Donnelly presents, famous mystery writer follows a tough but beautiful New York cop around “for research”.</content></utterance>
+<utterance uid="23-2"><speaker>CASTLE</speaker><content> Ah, she’d never go for it. She’s a real bi-</content></utterance>
+<utterance uid="23-3"><speaker>BECKETT</speaker><content>Mr. Donnelly, I appreciate you coming…  What are you doing here?</content></utterance>
+<utterance uid="23-4"><speaker>CASTLE</speaker><content>Uh…  For the record, I was going to say ‘big rule follower’.  I was not discussing the case, swear to God. Uh, Naked Heat comes out tomorrow and Cody here was admiring the billboards.</content></utterance>
+<utterance uid="23-5"><speaker>DONNELLY</speaker><content>Is that your smoking hot silhouette on the posters there?</content></utterance>
+<utterance uid="23-6"><speaker>BECKETT</speaker><content> No. So, Mr. Donnelly, where did you go after you left Vivien’s office?</content></utterance>
+<utterance uid="23-7"><speaker>DONNELLY</speaker><content>After we got all that great footage, I dropped Steve off at his place around, uh, three thirty or so? It was just before Vivien Marchand called me.</content></utterance>
+<utterance uid="23-8"><speaker>BECKETT</speaker><content>Really? And what did she want?</content></utterance>
+<utterance uid="23-9"><speaker>DONNELLY</speaker><content>To save what was left of her career. I mean, she knew the film I had on her was damaging. She said if I buried it, she’d give me something better.</content></utterance>
+<utterance uid="23-10"><speaker>CASTLE</speaker><content>Better like what?</content></utterance>
+<utterance uid="23-11"><speaker>DONNELLY</speaker><content>Better like murder.</content></utterance>
+<utterance uid="23-12"><speaker>DONNELLY</speaker><content>You see, Vivien said she was hot on a killer, said it was bigger than Steve Adams. This time, there was a body. She was going to let me film the moment she confronted the soon to be accused. She said that she had to confirm one last suspicion and that I had to be ready to go at a moment’s notice, because we were going to catch a killer.</content></utterance>
+<utterance uid="23-13"><speaker>CASTLE</speaker><content>And when was this confrontation going to take place?</content></utterance>
+<utterance uid="23-14"><speaker>DONNELLY</speaker><content>Straight away. I got an urgent text about two hours later. I gathered up my crew, including security, thinking this was it. Then when I called her back, no answer. I’m guessing she was already dead.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>CASTLE</speaker><content>Any news on Vivien’s hunt for a murderer?</content></utterance>
+<utterance uid="24-2"><speaker>BECKETT</speaker><content>Well, she had several clients who came to her because of unsolved crimes in the family, but the ones that we talked to said that their cases are just as cold now as when they first came to her.</content></utterance>
+<utterance uid="24-3"><speaker>RYAN</speaker><content>Hey, I found the cab. Driver says he took Vivien to a residence at 112th and Riverside. The doorman says he remembers Vivien going up to apartment 2C. It’s rented to Nick and Toni Johnston.</content></utterance>
+<utterance uid="24-4"><speaker>BECKETT</speaker><content>Toni Johnston?</content></utterance>
+<utterance uid="24-5"><speaker>CASTLE</speaker><content>TJ.</content></utterance>
+</scene>
+
+<scene id="25"><utterance uid="25-1"><speaker>CASTLE</speaker><content>So if Vivien came to see Toni Johnston the day she died, it had to have been about something important. Like this killer she was chasing. But you’ll probably say it as just a coincidence.</content></utterance>
+<utterance uid="25-2"><speaker>BECKETT</speaker><content>Castle, why is it so important to you that I believe all this stuff about fates and psychics and Santa Claus?</content></utterance>
+<utterance uid="25-3"><speaker>CASTLE</speaker><content>Because... If you don’t believe in even the possibility of magic, you’ll never ever find it.</content></utterance>
+<utterance uid="25-4"><speaker>TONI JOHNSTON</speaker><content>Can I help you?</content></utterance>
+<utterance uid="25-5"><speaker>BECKETT</speaker><content>Toni? I’m Detective Kate Beckett and this is Richard Castle –</content></utterance>
+<utterance uid="25-6"><speaker>TONI</speaker><content>Oh, my God. Oh my God, oh my God, oh my God…</content></utterance>
+<utterance uid="25-7"><speaker>TONI</speaker><content>I’m so stressed out. I can’t believe this is happening.</content></utterance>
+<utterance uid="25-8"><speaker>BECKETT</speaker><content>So you know that Vivien was murdered.</content></utterance>
+<utterance uid="25-9"><speaker>TONI</speaker><content>When I saw the paper yesterday, I nearly puked up my oatmeal.</content></utterance>
+<utterance uid="25-10"><speaker>BECKETT</speaker><content>Why did Vivien come to visit you on Monday?</content></utterance>
+<utterance uid="25-11"><speaker>TONI</speaker><content>Look, this is all very personal and private. And it involves my sex life - will you promise to keep it confidential?</content></utterance>
+<utterance uid="25-12"><speaker>CASTLE</speaker><content>Absolutely.</content></utterance>
+<utterance uid="25-13"><speaker>TONI</speaker><content>Okay. Earlier this year, I did a terrible thing. I had an affair with my husband’s boss. Very discreet, no one ever knew about it. That’s why Vivien called me.</content></utterance>
+<utterance uid="25-14"><speaker>CASTLE</speaker><content>She knew about the affair?</content></utterance>
+<utterance uid="25-15"><speaker>TONI</speaker><content>She called me out of the blue. She knew we met at the company Christmas party, that we used to … rendezvous … at the Starburst Hotel. Everything.</content></utterance>
+<utterance uid="25-16"><speaker>CASTLE</speaker><content>Extraordinary.</content></utterance>
+<utterance uid="25-17"><speaker>TONI</speaker><content>I know, right? I mean, my mind was totally blown.</content></utterance>
+<utterance uid="25-18"><speaker>BECKETT</speaker><content>An affair? Ms. Johnston, did Vivien ever talk to you about murder?</content></utterance>
+<utterance uid="25-19"><speaker>TONI</speaker><content>No. She just told me she knew how I had cheated on Nick. My husband? And then she asked me a lot of questions about him.</content></utterance>
+<utterance uid="25-20"><speaker>CASTLE</speaker><content>What kind of questions?</content></utterance>
+<utterance uid="25-21"><speaker>TONI</speaker><content>She asked if he had a temper. And if I felt safe. She was sure Nick did know about the affair. Vivien said the spouse always knows.</content></utterance>
+<utterance uid="25-22"><speaker>CASTLE</speaker><content>Did she ever say how she knew all of this?  All of this incredibly personal information, the details of which could not be readily found at the Hall of Records or through an internet search?</content></utterance>
+<utterance uid="25-23"><speaker>TONI</speaker><content>Oh yeah. The guy I was cheating with? He told her everything.</content></utterance>
+<utterance uid="25-24"><speaker>BECKETT</speaker><content>You know, I’m going to have to speak with him.</content></utterance>
+<utterance uid="25-25"><speaker>TONI</speaker><content>Oh, you can’t. I mean, you can’t. He said. That’s why we stopped seeing each other. He died last April. Heart attack.</content></utterance>
+<utterance uid="25-26"><speaker>BECKETT</speaker><content>You’re telling me that your dead lover told Vivien about your affair.</content></utterance>
+<utterance uid="25-27"><speaker>TONI</speaker><content>That’s right. She said Emilio came to her in a dream.</content></utterance>
+<utterance uid="25-28"><speaker>BECKETT</speaker><content>Emilio?</content></utterance>
+<utterance uid="25-29"><speaker>TONI</speaker><content>Emilio Casillas.</content></utterance>
+<utterance uid="25-30"><speaker>CASTLE</speaker><content>Your lover was Emilio Casillas?</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>CASTLE</speaker><content>Well?</content></utterance>
+<utterance uid="26-2"><speaker>LANIE</speaker><content>Emilio Casillas’ autopsy file makes for some very interesting reading.</content></utterance>
+<utterance uid="26-3"><speaker>CASTLE</speaker><content>But do you think he was murdered?</content></utterance>
+<utterance uid="26-4"><speaker>LANIE</speaker><content>According to the ME’s notes, in addition to the cause of death – which was massive heart failure – Casillas showed signs of alopecia and his fingernails were thinning.</content></utterance>
+<utterance uid="26-5"><speaker>CASTLE</speaker><content>Which means what, exactly?</content></utterance>
+<utterance uid="26-6"><speaker>LANIE</speaker><content>I’d have to exhume the body and run some tests, but it could be toxic overdose of selenium.</content></utterance>
+<utterance uid="26-7"><speaker>BECKETT</speaker><content>And, what’s selenium?</content></utterance>
+<utterance uid="26-8"><speaker>LANIE</speaker><content>It’s a mineral that’s naturally found in the body and in small amounts is good for you. They even sometimes add it to diet pills, health drinks. But too much of it can be poisonous.</content></utterance>
+<utterance uid="26-9"><speaker>CASTLE</speaker><content>Health drinks? Maybe it was also in the vitamins that the Casillases' made. So that would mean that it was at the factory.</content></utterance>
+<utterance uid="26-10"><speaker>BECKETT</speaker><content>Vivien told Toni that her husband knew about the affair with Emilio Casillas.</content></utterance>
+<utterance uid="26-11"><speaker>CASTLE</speaker><content>So Toni’s husband Nick works at the Casillases’ company. He would have easy access to the selenium and to Emilio.</content></utterance>
+<utterance uid="26-12"><speaker>BECKETT</speaker><content>And didn’t the Casillases’ daughter say that her father died in the office? That’s probably where he received the fatal dose.</content></utterance>
+<utterance uid="26-13"><speaker>CASTLE</speaker><content>So Nick Johnston figures out his wife is sleeping with his boss and he poisons him.</content></utterance>
+<utterance uid="26-14"><speaker>BECKETT</speaker><content>And then Nick discovers that Vivien is on to him and kills her too.</content></utterance>
+</scene>
+
+<scene id="27"><utterance uid="27-1"><speaker>BECKETT</speaker><content>Well, that would have been plenty of time for him to get to Vivien’s office, murder her, write the letter, all before the mail was picked up. But how did he find out that Vivien talked to Toni? Toni wouldn’t have told him.</content></utterance>
+<utterance uid="27-2"><speaker>ESPOSITO</speaker><content>Oh, Toni didn’t. But Vivien did. The foreman said that Nick asked for the time off after he was visited by a woman. A woman who looked a lot like Vivien Marchand.</content></utterance>
+<utterance uid="27-3"><speaker>CASTLE</speaker><content>So Vivien was putting her plan into action. She’d bring Nick down to her office, call Cody Donnelly. She’d have him bring his camera crew. She would confront Nick about Emilio Casillas’ murder, capture it all on film.</content></utterance>
+<utterance uid="27-4"><speaker>BECKETT</speaker><content>Vivien was about to solve Emilio’s murder and then be returned to her former glory as New York’s most famous psychic medium.</content></utterance>
+<utterance uid="27-5"><speaker>CASTLE</speaker><content>It’s a pretty bold move.</content></utterance>
+<utterance uid="27-6"><speaker>BECKETT</speaker><content>But how did she get on to Emilio’s murder in the first place?</content></utterance>
+<utterance uid="27-7"><speaker>CASTLE</speaker><content>How many times do I have to say it? She was a  psychic.</content></utterance>
+<utterance uid="27-8"><speaker>ESPOSITO</speaker><content>I’m sorry, what?</content></utterance>
+<utterance uid="27-9"><speaker>CASTLE</speaker><content>Psychic.</content></utterance>
+<utterance uid="27-10"><speaker>RYAN</speaker><content>Or. Maybe just very intuitive. According to Vivien’s notes, Paula said Emilio had been working longer hours in the months before his death. She wrote, ‘affair, question mark.’</content></utterance>
+<utterance uid="27-11"><speaker>ESPOSITO</speaker><content>She also wrote this.  Starburst Hotel. It’s the closest place to Emilio’s office that rents by the hour.</content></utterance>
+<utterance uid="27-12"><speaker>RYAN</speaker><content>The manager there said Vivien came by last week. He confirmed, to Vivien, that the lovebirds had been regulars early this year. And she gave him two hundred bucks for his trouble.</content></utterance>
+<utterance uid="27-13"><speaker>CASTLE</speaker><content>Okay. But how does Vivien go from ‘affair’ in general to ‘affair with Toni Johnston’? That, my friends, is a pretty big leap.</content></utterance>
+<utterance uid="27-14"><speaker>RYAN</speaker><content>Yeah, uh, that is until you see the picture. This is from Vivien’s research. This is Toni, in the red dress, and Emilio next to her at the company’s last Christmas party. Pretty cozy, huh?</content></utterance>
+<utterance uid="27-15"><speaker>CASTLE</speaker><content>But how … where did she get this?</content></utterance>
+<utterance uid="27-16"><speaker>RYAN</speaker><content>Well, there’s a bulletin board at the Casillases’ vitamin factory where employees post pictures. She could have taken it from there.</content></utterance>
+<utterance uid="27-17"><speaker>BECKETT</speaker><content>So Vivien suspects that Emilio is a cheater. She gets a hold of his autopsy file, starts thinking that maybe his cheating got him killed and she starts doing her usual research  to prove her theory  and all of this investigation leads her right back to Nick Johnston.</content></utterance>
+<utterance uid="27-18"><speaker>CASTLE</speaker><content>She had it all worked out. Right up until that awkward moment where Nick Johnston stabbed her in the neck with an ice pick and fed her to the couch.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>NICK JOHNSTON</speaker><content>You’ve got the wrong guy. I didn’t kill that psychic.</content></utterance>
+<utterance uid="28-2"><speaker>BECKETT</speaker><content>We know she came to see you.</content></utterance>
+<utterance uid="28-3"><speaker>NICK</speaker><content>She said she needed to talk to me in private. She said it was urgent, said it had something to do with my wife, so I punched out early and went uptown to her office.</content></utterance>
+<utterance uid="28-4"><speaker>BECKETT</speaker><content>And what did you do when you got there?</content></utterance>
+<utterance uid="28-5"><speaker>NICK</speaker><content>Nothing. The door was locked. I pounded on it for ten minutes, nobody answered, I figured she was blowing me off. So I went home.</content></utterance>
+<utterance uid="28-6"><speaker>BECKETT</speaker><content>That’s a pretty convenient story.</content></utterance>
+<utterance uid="28-7"><speaker>NICK</speaker><content>It’s the truth.</content></utterance>
+<utterance uid="28-8"><speaker>BECKETT</speaker><content>Okay, why don’t we start talking about Emilio Casillas?</content></utterance>
+<utterance uid="28-9"><speaker>NICK</speaker><content>What about him?</content></utterance>
+<utterance uid="28-10"><speaker>BECKETT</speaker><content>You knew he was sleeping with your wife.</content></utterance>
+<utterance uid="28-11"><speaker>NICK</speaker><content>They thought they were being so careful, but yeah, I knew.</content></utterance>
+<utterance uid="28-12"><speaker>BECKETT</speaker><content>So what did you do?</content></utterance>
+<utterance uid="28-13"><speaker>NICK</speaker><content>Nothing.</content></utterance>
+<utterance uid="28-14"><speaker>BECKETT</speaker><content>Seriously, Nick? Do you actually expect me to believe that you just sat by and let your boss take your wife away from you? Do you think I’m that dumb?</content></utterance>
+<utterance uid="28-15"><speaker>CASTLE</speaker><content> She’s not that dumb.</content></utterance>
+<utterance uid="28-16"><speaker>NICK</speaker><content>Ah, I guess it doesn’t matter now. I… When I found out, I went to Emilio and I asked him to stop seeing her.</content></utterance>
+<utterance uid="28-17"><speaker>CASTLE</speaker><content>And what happened?</content></utterance>
+<utterance uid="28-18"><speaker>NICK</speaker><content>He said no. He was in love with her. I threatened to tell his wife, and he just said, do what you gotta do. So I decided that I wasn’t going to do his dirty work for him. If he wanted to leave his wife of thirty years then he should just be a man and do it himself. But I wanted to save my marriage, so I kept my mouth shut. Two weeks later, Emilio was dead.</content></utterance>
+<utterance uid="28-19"><speaker>BECKETT</speaker><content>And you did nothing to help that along. Is that what you’re saying?</content></utterance>
+<utterance uid="28-20"><speaker>NICK</speaker><content>Help what along? He had a heart attack. The stress of being a lying, cheating asshat finally did him in.</content></utterance>
+<utterance uid="28-21"><speaker>RYAN</speaker><content>Penny Marchard is here? She says it’s urgent.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>BECKETT</speaker><content>Penny? What is it?</content></utterance>
+<utterance uid="29-2"><speaker>PENNY</speaker><content>Detective. I have something important to tell you.</content></utterance>
+<utterance uid="29-3"><speaker>BECKETT</speaker><content>Oh Penny, is this about the mystery man? Because I really don’t know any Alexander.</content></utterance>
+<utterance uid="29-4"><speaker>CASTLE</speaker><content>Alexander?</content></utterance>
+<utterance uid="29-5"><speaker>BECKETT</speaker><content> Yeah, I’ll tell you about it later. Penny, I’m in the middle of a very important –</content></utterance>
+<utterance uid="29-6"><speaker>PENNY</speaker><content>Detective, you have to listen to me. I know who murdered my mother.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>BECKETT</speaker><content>So let me just … get this straight. You’re telling me that you had a dream, that your mother was murdered by the Freemasons.</content></utterance>
+<utterance uid="30-2"><speaker>PENNY</speaker><content>In the dream, I was having dinner with my mother in a Masonic hall. She was very concerned. She kept pointing to men around the room and saying ‘ask the Masons what happened. That’s the only way you’ll get closure.’</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>BECKETT</speaker><content>Where are we?</content></utterance>
+<utterance uid="31-2"><speaker>RYAN</speaker><content>Steve Adams’ alibi checked out.</content></utterance>
+<utterance uid="31-3"><speaker>ESPOSITO</speaker><content>What about Nick Johnston?</content></utterance>
+<utterance uid="31-4"><speaker>BECKETT</speaker><content>Well, I told him not to take any trips out of town until we got this sorted out.</content></utterance>
+<utterance uid="31-5"><speaker>CASTLE</speaker><content>Well, the good news is, with this Freemasons lead we have a whole new crop of suspects.</content></utterance>
+<utterance uid="31-6"><speaker>RYAN_ESPOSITO</speaker><content>Freemasons?</content></utterance>
+<utterance uid="31-7"><speaker>BECKETT</speaker><content>Ignore him.</content></utterance>
+<utterance uid="31-8"><speaker>BECKETT</speaker><content> So Paula and Marina Casillas. If they knew that Emilio was cheating, that would be motive.</content></utterance>
+<utterance uid="31-9"><speaker>CASTLE</speaker><content>Maybe they found out that Vivien was investigating his death.</content></utterance>
+<utterance uid="31-10"><speaker>BECKETT</speaker><content>But they were Vivien’s clients. Why would murderers go to a psychic for closure?</content></utterance>
+<utterance uid="31-11"><speaker>RYAN</speaker><content>They also have an alibi for the evening Vivien was killed. Uniforms canvassed the restaurant where they were dining with friends … they were there from five PM ‘til after seven.</content></utterance>
+<utterance uid="31-12"><speaker>BECKETT</speaker><content>Was this restaurant anywhere near Vivien’s office?</content></utterance>
+<utterance uid="31-13"><speaker>RYAN</speaker><content>Yeah, around the corner. A new place. Mason’s.</content></utterance>
+<utterance uid="31-14"><speaker>CASTLE</speaker><content> Ask the Masons and they will give you closure.</content></utterance>
+<utterance uid="31-15"><speaker>BECKETT</speaker><content>Let’s not get carried away.</content></utterance>
+<utterance uid="31-16"><speaker>CASTLE</speaker><content> Ask the Masons. Please? Just this once. Believe.</content></utterance>
+<utterance uid="31-17"><speaker>ESPOSITO</speaker><content> You know what’s going on here?</content></utterance>
+<utterance uid="31-18"><speaker>RYAN</speaker><content>No, not really.</content></utterance>
+<utterance uid="31-19"><speaker>ESPOSITO</speaker><content>Me neither.</content></utterance>
+<utterance uid="31-20"><speaker>BECKETT</speaker><content> No matter what happens, we will never speak of this again.</content></utterance>
+<utterance uid="31-21"><speaker>BECKETT</speaker><content>Hello, this is Detective Kate Beckett with the NYPD, could I speak with the owner, please? Hello, Mr. Mason? I have a couple of questions to ask you.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>BECKETT</speaker><content>Mrs. Casillas, whose idea was it to go and visit Vivien Marchand in the first place?</content></utterance>
+<utterance uid="32-2"><speaker>PAULA</speaker><content>We have had a very long day …</content></utterance>
+<utterance uid="32-3"><speaker>BECKETT</speaker><content>Please answer the question.</content></utterance>
+<utterance uid="32-4"><speaker>MARINA</speaker><content>It was my idea. Mother thought it cost too much, but I missed daddy so much I was willing to try anything.</content></utterance>
+<utterance uid="32-5"><speaker>BECKETT</speaker><content>And when she knew so many private things about your father?</content></utterance>
+<utterance uid="32-6"><speaker>MARINA</speaker><content>It was almost like being with him. Like he was in the room with us.</content></utterance>
+<utterance uid="32-7"><speaker>BECKETT</speaker><content>The night that Vivien Marchand was murdered the two of you went to dinner with friends at Mason’s.</content></utterance>
+<utterance uid="32-8"><speaker>MARINA</speaker><content>That’s right. It’s a new place, my mother wanted to try it.</content></utterance>
+<utterance uid="32-9"><speaker>BECKETT</speaker><content>The waiter confirmed that you were there from five until seven thirty. How was your meal? Did you order wine with dinner?</content></utterance>
+<utterance uid="32-10"><speaker>MARINA</speaker><content>Yes. No, I mean, they don’t have a liquor license yet, so you bring your own.</content></utterance>
+<utterance uid="32-11"><speaker>BECKETT</speaker><content>So you brought our own bottle of wine with you, then?</content></utterance>
+<utterance uid="32-12"><speaker>MARINA</speaker><content>No. Mother went out to the liquor store and brought us a bottle. She was gone about twenty minutes.</content></utterance>
+<utterance uid="32-13"><speaker>BECKETT</speaker><content>And what time was that?</content></utterance>
+<utterance uid="32-14"><speaker>MARINA</speaker><content>Five fifteen, maybe? What’s this all about?</content></utterance>
+<utterance uid="32-15"><speaker>BECKETT</speaker><content>Paula, we went to the liquor store. You didn’t buy that bottle of wine at five fifteen. According to this receipt, you bought it at three twelve. And at the same time, you bought an ice pick.</content></utterance>
+<utterance uid="32-16"><speaker>MARINA</speaker><content>I don’t understand.</content></utterance>
+<utterance uid="32-17"><speaker>BECKETT</speaker><content>You bought that bottle of wine and then you put it aside and then at five fifteen you left the restaurant and went straight to Vivien’s office and you murdered her.</content></utterance>
+<utterance uid="32-18"><speaker>CASTLE</speaker><content>And then you went and you retrieved the bottle of wine, you returned to the restaurant, and you had dinner with your daughter and your friends.</content></utterance>
+<utterance uid="32-19"><speaker>MARINA</speaker><content>That’s crazy! Mom, tell them!</content></utterance>
+<utterance uid="32-20"><speaker>MARINA</speaker><content>Why would she do something like that?</content></utterance>
+<utterance uid="32-21"><speaker>CASTLE</speaker><content>To cover up another murder. Your father’s.</content></utterance>
+<utterance uid="32-22"><speaker>BECKETT</speaker><content>Did you figure out that Emilio was cheating or did he tell you?</content></utterance>
+<utterance uid="32-23"><speaker>PAULA</speaker><content>He told me. That he had met someone. That she was young and beautiful. And that I was just a boring old lady.</content></utterance>
+<utterance uid="32-24"><speaker>PAULA</speaker><content>I took some selenium from the factory, and every morning I’d put a little bit in his coffee.</content></utterance>
+<utterance uid="32-25"><speaker>MARINA</speaker><content>Oh, my God. Mom?</content></utterance>
+<utterance uid="32-26"><speaker>PAULA</speaker><content>When you wanted to go see Vivien, I went along to humor you, but she knew things that she shouldn’t have known.</content></utterance>
+<utterance uid="32-27"><speaker>BECKETT</speaker><content>And when she told you Emilio wanted to tell you something important…</content></utterance>
+<utterance uid="32-28"><speaker>CASTLE</speaker><content>And she said she was going to spend the evening communing with his spirit…</content></utterance>
+<utterance uid="32-29"><speaker>PAULA</speaker><content>That cheating son of a b*itch was going to tell on me. After everything he had done, I couldn’t let that happen. I had to kill her to stop him.</content></utterance>
+<utterance uid="32-30"><speaker>MARINA</speaker><content>Mother, stop talking! We want a lawyer.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>BECKETT</speaker><content>Well, the Casillases lawyered up. He’s already trying to suppress her confession.</content></utterance>
+<utterance uid="33-2"><speaker>CASTLE</speaker><content>Will that work?</content></utterance>
+<utterance uid="33-3"><speaker>BECKETT</speaker><content>You know, I doubt it. But Paula’s done talking.</content></utterance>
+<utterance uid="33-4"><speaker>CASTLE</speaker><content>Did you ask her who wrote the letter?</content></utterance>
+<utterance uid="33-5"><speaker>BECKETT</speaker><content>You know, I didn’t get a chance, so I guess it’ll have to remain a mystery.</content></utterance>
+<utterance uid="33-6"><speaker>CASTLE</speaker><content>Uh, actually, not quite. Do you remember the last clue? The sound of knocking from far away?  That would be Nick Johnston. He said he pounded on that door for quite some time before he finally gave up and went home. Vivien was already dead.</content></utterance>
+<utterance uid="33-7"><speaker>BECKETT</speaker><content>Yeah, but Paula could have still been in the office waiting for him to leave. She would have heard the knocking just like she saw the phone, just like she saw Albert Moreno who was probably dressed in black, so she just put it into the letter to throw us off.</content></utterance>
+<utterance uid="33-8"><speaker>CASTLE</speaker><content>Hmm. Only according to your timeline on the murder board, by the time Nick got to the office at five forty five, Paula was back at the restaurant, so the office was empty. Except of course, for Vivien.</content></utterance>
+<utterance uid="33-9"><speaker>CASTLE</speaker><content>Oh, before I forget? What did Penny say about Alexander?</content></utterance>
+<utterance uid="33-10"><speaker>BECKETT</speaker><content>Oh, nothing. Just some silly stuff that didn’t really make any sense. Why?</content></utterance>
+<utterance uid="33-11"><speaker>CASTLE</speaker><content>Because my middle name is Alexander.</content></utterance>
+<utterance uid="33-12"><speaker>BECKETT</speaker><content>I thought your middle name was Edgar.</content></utterance>
+<utterance uid="33-13"><speaker>CASTLE</speaker><content>Been perusing the personal section of the Richard Castle website again, have we? No, I changed my middle name to Edgar for Edgar Allen Poe back when I changed my last name to Castle. My given name is Richard Alexander Rodgers. What a coincidence, huh?</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>CASTLE</speaker><content>Well, I think that was a lovely service. And, if I may say, your speech was the best.</content></utterance>
+<utterance uid="34-2"><speaker>MARTHA</speaker><content>Ah, well, thank you for writing it.  And I think, you know, between the two of us, we managed to capture the essence of Chet.</content></utterance>
+<utterance uid="34-3"><speaker>CASTLE</speaker><content>Yes.</content></utterance>
+<utterance uid="34-4"><speaker>MARTHA</speaker><content>And Boomer and Lottie? Very, very gracious about taking the ring back and the whole …</content></utterance>
+<utterance uid="34-5"><speaker>MARTHA</speaker><content>Oh God, I feel terrible.</content></utterance>
+<utterance uid="34-6"><speaker>CASTLE</speaker><content>You know, you really have nothing to feel guilty about.</content></utterance>
+<utterance uid="34-7"><speaker>MARTHA</speaker><content>Oh Richard, please.</content></utterance>
+<utterance uid="34-8"><speaker>CASTLE</speaker><content>No really. If anything, by telling Chet you wanted to think about getting engaged you gave him one more day of hope.</content></utterance>
+<utterance uid="34-9"><speaker>MARTHA</speaker><content>But now he knows. He’s up there, I assume, and he knows everything. He knows he gave his heart to a woman who is shallow and a little cowardly and … didn’t really deserve him.</content></utterance>
+<utterance uid="34-10"><speaker>CASTLE</speaker><content>Move over.</content></utterance>
+<utterance uid="34-11"><speaker>MARTHA</speaker><content>What?</content></utterance>
+<utterance uid="34-12"><speaker>CASTLE</speaker><content>C’mere.</content></utterance>
+<utterance uid="34-13"><speaker>MARTHA</speaker><content>Oh honey, I …</content></utterance>
+<utterance uid="34-14"><speaker>CASTLE</speaker><content>Nope, go on. Now you can ask Chet anything you want to know.</content></utterance>
+<utterance uid="34-15"><speaker>MARTHA</speaker><content>Chet, darling, do you forgive me?</content></utterance>
+<utterance uid="34-16"><speaker>CASTLE</speaker><content>There. Yes. Now you know.</content></utterance>
+<utterance uid="34-17"><speaker>MARTHA</speaker><content>Oh! You moved it.</content></utterance>
+<utterance uid="34-18"><speaker>CASTLE</speaker><content>Yes, I did. And let me tell you something else. Chet was nobody’s fool. He knew you. All of you. And he loved you. I’m sure that wherever he is now, he still does.</content></utterance>
+<utterance uid="34-19"><speaker>CASTLE</speaker><content>C’mon. Get some sleep.</content></utterance>
+<utterance uid="34-20"><speaker>MARTHA</speaker><content>Richard? Whatever mistakes I’ve made in my life, I raised a good man.</content></utterance>
+</scene>
+</script>

@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+
+
+<scene id="1"><utterance uid="1-1"><speaker>JACK SINCLAIR</speaker><content>Living room, 9:03PM. EMF level spiking off the chart.</content></utterance>
+<utterance uid="1-2"><speaker>JACK</speaker><content>Hello? Is anyone there?</content></utterance>
+<utterance uid="1-3"><speaker>JACK</speaker><content>Mercy … I can see it. Mercy.</content></utterance>
+<utterance uid="1-4"><speaker>JACK</speaker><content>No! No!....!</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>ALEXIS</speaker><content>Dad, are you using me as a shield against flesh eating zombies?</content></utterance>
+<utterance uid="2-2"><speaker>CASTLE</speaker><content>No. No, I just wanted you to have a better view.</content></utterance>
+<utterance uid="2-3"><speaker>CASTLE</speaker><content>Oh, whoa, whoa, whoa, whoa … where’re you going.  I really think we’re safe, we’re in pairs.</content></utterance>
+<utterance uid="2-4"><speaker>ALEXIS</speaker><content>Sorry, Dad. You’re going to have to fend for yourself. I’m Skyping with Ashley.</content></utterance>
+<utterance uid="2-5"><speaker>CASTLE</speaker><content>What? Right in the middle of father daughter zombie time? Can’t you do it later?</content></utterance>
+<utterance uid="2-6"><speaker>ALEXIS</speaker><content>He’s not available later. He’s got a dorm meeting, then a seminar after that.</content></utterance>
+<utterance uid="2-7"><speaker>CASTLE</speaker><content>I know he’s busy. And you are very thoughtful to be so accommodating, sweetheart. But a healthy relationship is based on mutual respect. I mean, think about what kind of signal you’re sending if you’re the one always rearranging your schedule at the other one’s beck and call. I mean, if you just drop everything the very moment that –</content></utterance>
+<utterance uid="2-8"><speaker>CASTLE</speaker><content>Sorry. Hang on.</content></utterance>
+<utterance uid="2-9"><speaker>CASTLE</speaker><content>Detective Beckett.</content></utterance>
+<utterance uid="2-10"><speaker>CASTLE</speaker><content>I’ll be right there.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>CASTLE</speaker><content>I’m worried about Alexis. I think her not getting into Stanford has upset the balance of power in her relationship with Ashley.</content></utterance>
+<utterance uid="3-2"><speaker>KATE BECKETT</speaker><content>Oh Castle, I wouldn’t worry about that. I mean, Alexis is a girl and Ashley is a teenage boy. I’d say she still holds most of the power.</content></utterance>
+<utterance uid="3-3"><speaker>CASTLE</speaker><content>The Ghost Wranglers are here? Okay, that’s why I love these guys. The body’s not even cold, they’re already tracking down the ghost.</content></utterance>
+<utterance uid="3-4"><speaker>BECKETT</speaker><content>Why doesn’t it surprise me that you actually watch that ridiculous show?</content></utterance>
+<utterance uid="3-5"><speaker>CASTLE</speaker><content>Ridiculously awesome. Jack Sinclair is hands down America’s most accomplished ghost hunter.</content></utterance>
+<utterance uid="3-6"><speaker>BECKETT</speaker><content>Um … Castle… Jack Sinclair is the name of our victim.</content></utterance>
+<utterance uid="3-7"><speaker>CASTLE</speaker><content>And the hunter becomes the hunted.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>STEVE FULLER</speaker><content>He was here doing a special about the house. You know, for his TV show.</content></utterance>
+<utterance uid="4-2"><speaker>CASTLE</speaker><content>Why this place?</content></utterance>
+<utterance uid="4-3"><speaker>STEVE</speaker><content>It has a bit of a history.</content></utterance>
+<utterance uid="4-4"><speaker>BECKETT</speaker><content>You mean paranormal history?</content></utterance>
+<utterance uid="4-5"><speaker>STEVE</speaker><content>Detective, I’m not saying I believe in that stuff, okay? But I’ve owned the McClaren house for over twenty years and when the phone rings about this place, odds are it’s not a busted toilet.</content></utterance>
+<utterance uid="4-6"><speaker>BECKETT</speaker><content>Anybody living there now?</content></utterance>
+<utterance uid="4-7"><speaker>STEVE</speaker><content>Not for years. It’s hard getting tenants to stick around. So when this Sinclair guy called, I figured what the hell. Maybe he could clear the place up. Make it rentable. But after what just happened…</content></utterance>
+<utterance uid="4-8"><speaker>CASTLE</speaker><content>What exactly did just happen?</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>LANIE PARISH</speaker><content>His throat was slit almost from ear to ear. Jugular, superior thyroid, common carotid left and right. You name it, it’s been severed.</content></utterance>
+<utterance uid="5-2"><speaker>CASTLE</speaker><content>Well, that explains all the blood.</content></utterance>
+<utterance uid="5-3"><speaker>LANIE</speaker><content>Here’s what I can’t explain. Depth and nature of the wounds tell me that the killer got up close and personal.</content></utterance>
+<utterance uid="5-4"><speaker>BECKETT</speaker><content>Then where are the footprints?</content></utterance>
+<utterance uid="5-5"><speaker>LANIE</speaker><content>Not just that. Look at the blood spatter. You cut all those arteries and the spray is going to come fast and it’s gonna come strong.</content></utterance>
+<utterance uid="5-6"><speaker>CASTLE</speaker><content>I’ll say. It went everywhere.</content></utterance>
+<utterance uid="5-7"><speaker>BECKETT</speaker><content>But it shouldn’t’ve. Some of it should have landed on the killer.</content></utterance>
+<utterance uid="5-8"><speaker>CASTLE</speaker><content>Yet every drop of it landed on the floor. The spray is completely unobstructed.</content></utterance>
+<utterance uid="5-9"><speaker>LANIE</speaker><content>Exactly. It doesn’t make sense.</content></utterance>
+<utterance uid="5-10"><speaker>CASTLE</speaker><content>Unless … the blood passed right through the killer.</content></utterance>
+<utterance uid="5-11"><speaker>LANIE</speaker><content>Are you saying a ghost did this?</content></utterance>
+<utterance uid="5-12"><speaker>BECKETT</speaker><content>Please don’t encourage him.</content></utterance>
+<utterance uid="5-13"><speaker>CASTLE</speaker><content>I’m saying, maybe Mr. Sinclair finally met a wraith he couldn’t wrangle.</content></utterance>
+<utterance uid="5-14"><speaker>BECKETT</speaker><content>Lanie, who called this in?</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>LULU</speaker><content>I’m Jack’s producer. I worked with him for the last four years.</content></utterance>
+<utterance uid="6-2"><speaker>BECKETT</speaker><content>Okay, Lulu, we just need to know everything that happened before you called 911.</content></utterance>
+<utterance uid="6-3"><speaker>LULU</speaker><content>Okay. Jack went into the house around 7 and then he went on lockdown a few minutes after that.</content></utterance>
+<utterance uid="6-4"><speaker>CASTLE</speaker><content>Uh, he locks himself into the house for the night. It’s standard protocol for ghost hunters.</content></utterance>
+<utterance uid="6-5"><speaker>BECKETT</speaker><content>Uh huh. And was he in there alone?</content></utterance>
+<utterance uid="6-6"><speaker>LULU</speaker><content>Yeah. We always do a clean sweep of the place right before we start. So he – he locked the doors and then I went into the tech van to watch the feed.</content></utterance>
+<utterance uid="6-7"><speaker>BECKETT</speaker><content>And were the cameras rolling the whole time?</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>CASTLE</speaker><content> The infrared cameras are to detect unexplained thermal anomalies.</content></utterance>
+<utterance uid="7-2"><speaker>JACK SINCLAIR</speaker><content>Living room, 9:03PM. EMF level spiking off the chart.</content></utterance>
+<utterance uid="7-3"><speaker>CASTLE</speaker><content>That’s an electromagnetic field meter. That’s a tool of the ghost busting trade. It’s used to measure spikes in paranormal … energy.</content></utterance>
+<utterance uid="7-4"><speaker>CASTLE</speaker><content>Let’s just watch.</content></utterance>
+<utterance uid="7-5"><speaker>JACK</speaker><content>Hello? Is anyone there? Mercy. I can see it. Mercy.</content></utterance>
+<utterance uid="7-6"><speaker>BECKETT</speaker><content>Sounds like he was begging his killer for mercy.</content></utterance>
+<utterance uid="7-7"><speaker>BECKETT</speaker><content>What happened?</content></utterance>
+<utterance uid="7-8"><speaker>LULU</speaker><content>That’s – that’s it. That’s when all the camera signals cut at once.</content></utterance>
+<utterance uid="7-9"><speaker>BECKETT</speaker><content>And what could explain the picture suddenly going out like that?</content></utterance>
+<utterance uid="7-10"><speaker>LULU</speaker><content>I don’t know. It’s never happened before.</content></utterance>
+<utterance uid="7-11"><speaker>CASTLE</speaker><content>Well, there was that last episode of The Sopranos.</content></utterance>
+<utterance uid="7-12"><speaker>BECKETT</speaker><content>No. There’s no way. Jack had to have been in there with someone else.</content></utterance>
+<utterance uid="7-13"><speaker>BECKETT</speaker><content>Did he have any enemies? Anybody he was having problems with recently?</content></utterance>
+<utterance uid="7-14"><speaker>LULU</speaker><content>No, not that I know of. He… he did show up to lockdown upset.</content></utterance>
+<utterance uid="7-15"><speaker>BECKETT</speaker><content>Do you know where he was coming from?</content></utterance>
+<utterance uid="7-16"><speaker>LULU</speaker><content>No. He pulled up in a cab, grabbed his gear, and just went inside.</content></utterance>
+<utterance uid="7-17"><speaker>BECKETT</speaker><content>Did anyone else have keys to this place?</content></utterance>
+<utterance uid="7-18"><speaker>LULU</speaker><content>Just Jack and Barry B.</content></utterance>
+<utterance uid="7-19"><speaker>CASTLE</speaker><content>Barry Bavetta. That’s Jack’s cameraman.  Where is Barry? Doesn’t he usually do lockdown with Jack?</content></utterance>
+<utterance uid="7-20"><speaker>LULU</speaker><content>He and Jack had an argument this afternoon. Things got pretty heated and then Barry just quit.</content></utterance>
+<utterance uid="7-21"><speaker>BECKETT</speaker><content>Could he have programmed the cameras to turn off like that?</content></utterance>
+<utterance uid="7-22"><speaker>LULU</speaker><content>Actually, yeah, he could.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>JAVIER ESPOSITO</speaker><content>Barry Bavetta checked out of his hotel in a hurry at 7:30.</content></utterance>
+<utterance uid="8-2"><speaker>KEVIN RYAN</speaker><content>Mmm. That’s enough time to make it back to the house by 9 when Jack was killed.  Barry’s phone is still going straight to voicemail.</content></utterance>
+<utterance uid="8-3"><speaker>ESPOSITO</speaker><content>Well, the manager gave me his credit card info, so if we’re lucky he’s out there using it.</content></utterance>
+<utterance uid="8-4"><speaker>RYAN</speaker><content>All right. I’m going to start scrubbing this footage from inside the house. Maybe there’s something in there that can implicate this guy.</content></utterance>
+<utterance uid="8-5"><speaker>ESPOSITO</speaker><content>Right. Hey, we’re still on for dinner tomorrow night, right?</content></utterance>
+<utterance uid="8-6"><speaker>RYAN</speaker><content>Oh, yeah. Jenny’s totally psyched. She’s never really hung out with Lanie before, so cool.</content></utterance>
+<utterance uid="8-7"><speaker>ESPOSITO</speaker><content>Well, just to let you know, Lanie’s going to be getting off a double shift, so she could be a little cranky.</content></utterance>
+<utterance uid="8-8"><speaker>RYAN</speaker><content>Oh. Maybe we should reschedule. I mean, isn’t the whole point for Jenny and Lanie to get along?</content></utterance>
+<utterance uid="8-9"><speaker>ESPOSITO</speaker><content>Nah, she’ll be cool. Just don’t say anything … controversial.</content></utterance>
+<utterance uid="8-10"><speaker>RYAN</speaker><content>Like what? What’s controversial?</content></utterance>
+<utterance uid="8-11"><speaker>ESPOSITO</speaker><content>Bingo.</content></utterance>
+<utterance uid="8-12"><speaker>RYAN</speaker><content>Bingo? Don’t talk about bingo?</content></utterance>
+<utterance uid="8-13"><speaker>ESPOSITO</speaker><content>No, Barry Bavetta’s been busy and so has his lap. Dude has racked up a hell of a tab at a strip club by the airport. First charge, a hour after the murder.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>BECKETT</speaker><content>Sorry to interrupt your fun, Barry.</content></utterance>
+<utterance uid="9-2"><speaker>CASTLE</speaker><content>We heard you were racking up quite a bill. Or is that billing quite a rack?</content></utterance>
+<utterance uid="9-3"><speaker>BARRY BAVETTA</speaker><content>So what, getting a lap dance is illegal now? Look, I was just blowing off some steam. Haven’t had the best day.</content></utterance>
+<utterance uid="9-4"><speaker>BECKETT</speaker><content>Yeah, so we heard. Your producer said that you and Jack Sinclair had a falling out today.</content></utterance>
+<utterance uid="9-5"><speaker>BARRY</speaker><content>So this is about Jack? Yeah, we got into it. It wasn’t the first fight we ever had, but I made sure it’ll be the last.</content></utterance>
+<utterance uid="9-6"><speaker>CASTLE</speaker><content>Why don’t you tell us what happened, Barry.</content></utterance>
+<utterance uid="9-7"><speaker>BARRY</speaker><content>Jack screwed me over is what happened. Told me last minute I wasn’t going on lockdown with him tonight.</content></utterance>
+<utterance uid="9-8"><speaker>BECKETT</speaker><content>Any reason?</content></utterance>
+<utterance uid="9-9"><speaker>BARRY</speaker><content>The only on he gave is, ‘he’s the boss’, but It’s ‘cause he’s jealous. Worried I’m going to walk off with all the credit.</content></utterance>
+<utterance uid="9-10"><speaker>CASTLE</speaker><content>Why’s that?</content></utterance>
+<utterance uid="9-11"><speaker>BARRY</speaker><content>Because the episode we’re doing tonight, the McClaren house, was my idea. I did all the research. Jack didn’t even want to do the damn show.</content></utterance>
+<utterance uid="9-12"><speaker>CASTLE</speaker><content>Why wouldn’t Jack want to do a show about a haunted mansion in New York? That sounds like ratings gold.</content></utterance>
+<utterance uid="9-13"><speaker>BARRY</speaker><content>Jack’s weird about New York. He was brought up here, but he’s got some strange aversion to coming back. He tried to torpedo the whole thing. Said he wouldn’t be caught dead in that house.</content></utterance>
+<utterance uid="9-14"><speaker>CASTLE</speaker><content>And you decided to prove him wrong.</content></utterance>
+<utterance uid="9-15"><speaker>BARRY</speaker><content>What?</content></utterance>
+<utterance uid="9-16"><speaker>BECKETT</speaker><content>Jack Sinclair was killed in the McClaren house tonight.</content></utterance>
+<utterance uid="9-17"><speaker>BARRY</speaker><content>Killed?</content></utterance>
+<utterance uid="9-18"><speaker>BECKETT</speaker><content>Barry, why didn’t you give your keys back to the owner?</content></utterance>
+<utterance uid="9-19"><speaker>BARRY</speaker><content>Uh – um – I was – I was upset. I forgot. Is – is he really dead?</content></utterance>
+<utterance uid="9-20"><speaker>CASTLE</speaker><content>You were the one who set up the cameras, right?</content></utterance>
+<utterance uid="9-21"><speaker>BARRY</speaker><content>Yeah.  So?</content></utterance>
+<utterance uid="9-22"><speaker>BECKETT</speaker><content>So you knew exactly where they were placed and how to avoid them when you snuck back into the house. You even knew how to program them to turn off at a certain point.</content></utterance>
+<utterance uid="9-23"><speaker>BARRY</speaker><content>Whoa, whoa. I did not kill Jack. I wasn’t even there. I got stuck in the security line and missed my flight to LA, I went to the strip club right after that. You can check that.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>BECKETT</speaker><content>So TSA has Barry going through security at 9:15 at JFK. There’s no way that he was in the house at the time of the murder.</content></utterance>
+<utterance uid="10-2"><speaker>ESPOSITO</speaker><content>Plus, tech checked out those cameras. They weren’t programmed to turn off. The only thing Barry is guilty of killing is time at a strip club.</content></utterance>
+<utterance uid="10-3"><speaker>CASTLE</speaker><content>So. If Barry’s not our guy, I think it’s time that we revisit the possibility that our killer is a –</content></utterance>
+<utterance uid="10-4"><speaker>BECKETT</speaker><content>If you say ghost I’m sending you home.</content></utterance>
+<utterance uid="10-5"><speaker>CASTLE</speaker><content>Apparition-American.</content></utterance>
+<utterance uid="10-6"><speaker>CASTLE</speaker><content>Have you figured out another way to explain the blood spatter?</content></utterance>
+<utterance uid="10-7"><speaker>BECKETT</speaker><content>No I haven’t, but I will. Apparently Jack Sinclair was very upset when he arrived in a taxicab tonight, so let’s find out where that cab picked him up and what he was doing there.</content></utterance>
+<utterance uid="10-8"><speaker>ESPOSITO</speaker><content>Roger that.</content></utterance>
+<utterance uid="10-9"><speaker>BECKETT</speaker><content>You’ll see, Castle. This’ll turn out like every other murder investigation. Once we find out more about our victim’s life, the details surrounding his death, everything will be explained.</content></utterance>
+<utterance uid="10-10"><speaker>RYAN</speaker><content>Um… maybe not everything.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>RYAN</speaker><content>I was reviewing the footage shot inside the house tonight looking for signs someone else was there, a shadow, a reflection, something. Instead, I found, uh … well, you better see for yourself.</content></utterance>
+<utterance uid="11-2"><speaker>RYAN</speaker><content>So I slowed down the video, but watch the tripod in the background.</content></utterance>
+<utterance uid="11-3"><speaker>RYAN</speaker><content>There. You see it?</content></utterance>
+<utterance uid="11-4"><speaker>BECKETT</speaker><content>Well… um …  I’m sure there’s a perfectly simple explanation for all of that.</content></utterance>
+<utterance uid="11-5"><speaker>CASTLE</speaker><content>There is.</content></utterance>
+<utterance uid="11-6"><speaker>CASTLE</speaker><content>They’re he-ere.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>BECKETT</speaker><content>Whoa. Did you get any sleep?</content></utterance>
+<utterance uid="12-2"><speaker>CASTLE</speaker><content>Not a wink, but it was worth it. After researching the history of the McClaren mansion, I think I know what happened to our victim ghost hunter Jack Sinclair.  That coffee is for you, by the way.</content></utterance>
+<utterance uid="12-3"><speaker>BECKETT</speaker><content>Oh.</content></utterance>
+<utterance uid="12-4"><speaker>CASTLE</speaker><content>Oh, the other one. That’s –</content></utterance>
+<utterance uid="12-5"><speaker>CASTLE</speaker><content>That’s –  I’ll make you a – I’ll make you one.</content></utterance>
+<utterance uid="12-6"><speaker>CASTLE</speaker><content>Since the McClaren mansion was built in 1898, bodies have been piling up faster than a Tarantino movie, 8 killings in all, starting with the original owner, Robert Pettigrew, strangled, 1903, all the way to Melanie Benton, hacked to pieces, 1991. The current owner, Steve Fuller, tried to have the house torn down, but it was declared a landmark by the Society for Historical –</content></utterance>
+<utterance uid="12-7"><speaker>BECKETT</speaker><content>I’m sorry, Castle. I appreciate your work, I do, but what does this have to do with our case?</content></utterance>
+<utterance uid="12-8"><speaker>CASTLE</speaker><content>Just getting to that. It seems that in almost all of these killings, the killer claimed that there was – ready for this –  that a demon was responsible.</content></utterance>
+<utterance uid="12-9"><speaker>BECKETT</speaker><content>A demon. Really?</content></utterance>
+<utterance uid="12-10"><speaker>CASTLE</speaker><content>I’m not making this up! It’s in the books.</content></utterance>
+<utterance uid="12-11"><speaker>BECKETT</speaker><content>Fine. A demon killed Jack Sinclair. So what’s our next step? Are we going to stake out the house? Wait for the demon to show up? Zap him with our proton pack?</content></utterance>
+<utterance uid="12-12"><speaker>CASTLE</speaker><content>That’s not a real thing, you know. That real ghost hunters use.</content></utterance>
+<utterance uid="12-13"><speaker>ESPOSITO</speaker><content>Real ghost hunters? Isn’t that a contradiction of terms, bro?</content></utterance>
+<utterance uid="12-14"><speaker>BECKETT</speaker><content>Okay, does anyone have anything pertinent to our case?</content></utterance>
+<utterance uid="12-15"><speaker>ESPOSITO</speaker><content>I do.</content></utterance>
+<utterance uid="12-16"><speaker>BECKETT</speaker><content>Okay.</content></utterance>
+<utterance uid="12-17"><speaker>ESPOSITO</speaker><content>I tracked down that cab that our vic took last night. The driver’s trip logs say that he picked up Jack on the corner of 38th and 9th.</content></utterance>
+<utterance uid="12-18"><speaker>BECKETT</speaker><content>Have uniforms canvass the area with Jack’s photo. Let’s see what he was up to.</content></utterance>
+<utterance uid="12-19"><speaker>ESPOSITO</speaker><content>Oh, and phone records, too. Maybe that’ll shed some light on things.</content></utterance>
+<utterance uid="12-20"><speaker>RYAN</speaker><content>I think I can shed some light on why Jack didn’t want to do the show here. Talked to an old high school pal that Jack had breakfast with a couple years ago. Turns out that our vic actually used to live right near the McClaren house. Said that he used to walk a couple blocks out of his way just to avoid walking past it. Said it gave him a creeped out feeling.</content></utterance>
+<utterance uid="12-21"><speaker>CASTLE</speaker><content>You see … I’m telling you. There was something going on with this house.</content></utterance>
+<utterance uid="12-22"><speaker>CASTLE</speaker><content>The last people … to …</content></utterance>
+<utterance uid="12-23"><speaker>CASTLE</speaker><content>The last people to live there moved out 4 years ago in a hurry.</content></utterance>
+<utterance uid="12-24"><speaker>RYAN</speaker><content>Why?</content></utterance>
+<utterance uid="12-25"><speaker>CASTLE</speaker><content>I don’t know, but I think it’s time we found out.</content></utterance>
+<utterance uid="12-26"><speaker>BECKETT</speaker><content>Knock yourself out, Castle.</content></utterance>
+<utterance uid="12-27"><speaker>CASTLE</speaker><content>You’re not coming?</content></utterance>
+<utterance uid="12-28"><speaker>BECKETT</speaker><content>No. I’ve got a murder to solve.</content></utterance>
+<utterance uid="12-29"><speaker>RYAN</speaker><content>I’ll go.</content></utterance>
+<utterance uid="12-30"><speaker>CASTLE</speaker><content> Ooh. That’s a look.</content></utterance>
+<utterance uid="12-31"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+<utterance uid="12-32"><speaker>CASTLE</speaker><content>I get these a lot. Just start walking.</content></utterance>
+<utterance uid="12-33"><speaker>CASTLE</speaker><content>Faster.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>ESPOSITO</speaker><content>Yo. I just saw Ryan downstairs? I can’t believe you let him go chasing ghosts with Castle.</content></utterance>
+<utterance uid="13-2"><speaker>BECKETT</speaker><content>Yeah. Maybe Shaggy’ll keep Scooby out of trouble.  Besides, you never know. Maybe they’ll come up with something useful.</content></utterance>
+<utterance uid="13-3"><speaker>ESPOSITO</speaker><content>Oh. You want useful? ‘Cause I just spoke to CSU. They found fingerprints at the scene. From a real live person.  So …</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>ESPOSITO</speaker><content>His name is Ron Berger, lives in Queens. They’re picking him up now.</content></utterance>
+<utterance uid="14-2"><speaker>BECKETT</speaker><content>Does he have a record?</content></utterance>
+<utterance uid="14-3"><speaker>ESPOSITO</speaker><content>Yeah. Chuckles did 8 years for armed robbery with a knife. He’s also dabbled in B and E, which makes breaking into a locked house no problem for this guy.</content></utterance>
+<utterance uid="14-4"><speaker>BECKETT</speaker><content>When did he get out of prison?</content></utterance>
+<utterance uid="14-5"><speaker>ESPOSITO</speaker><content>Five weeks ago.</content></utterance>
+<utterance uid="14-6"><speaker>BECKETT</speaker><content>Ah… finally, a lead that makes sense.</content></utterance>
+<utterance uid="14-7"><speaker>ESPOSITO</speaker><content>Oh, it gets better. Ron has a history with our vic. Ghost Wranglers did a piece on Five Points Correctional and Ron was featured. Claims he was sharing a cell with a spirit.</content></utterance>
+<utterance uid="14-8"><speaker>BECKETT</speaker><content>Well, that’s prison overcrowding for you.</content></utterance>
+<utterance uid="14-9"><speaker>ESPOSITO</speaker><content>Apparently Casper was being a little too friendly. Touching Ron in all the wrong places.</content></utterance>
+<utterance uid="14-10"><speaker>BECKETT</speaker><content>Molested by a ghost? Wow, some people will do anything to get on TV.</content></utterance>
+<utterance uid="14-11"><speaker>ESPOSITO</speaker><content>Yeah, except it backfired on him. Ron became a laughing stock of the prison yard. He got all pissed off and he wrote the show a letter.</content></utterance>
+<utterance uid="14-12"><speaker>BECKETT</speaker><content>“I’m going to make Jack Sinclair bleed for what he did to me.”</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>RON BERGER</speaker><content>I wrote that letter, yeah, but that’s as far as it went. I didn’t kill him.</content></utterance>
+<utterance uid="15-2"><speaker>BECKETT</speaker><content>Where were you last night at 9PM?</content></utterance>
+<utterance uid="15-3"><speaker>RON</speaker><content>I was at home. Watching cartoons.</content></utterance>
+<utterance uid="15-4"><speaker>ESPOSITO</speaker><content>Hmm.</content></utterance>
+<utterance uid="15-5"><speaker>RON</speaker><content>You can ask my mom.</content></utterance>
+<utterance uid="15-6"><speaker>ESPOSITO</speaker><content>Well, we have a problem, Ron. Because we found your fingerprints inside the McClaren house.</content></utterance>
+<utterance uid="15-7"><speaker>RON</speaker><content>I – I – I can explain that.</content></utterance>
+<utterance uid="15-8"><speaker>ESPOSITO</speaker><content>I’m waiting.</content></utterance>
+<utterance uid="15-9"><speaker>RON</speaker><content>I can’t violate my parole. I can’t go back to Five Points. Not – not in that cell. Not with that … thing.</content></utterance>
+<utterance uid="15-10"><speaker>BECKETT</speaker><content>You’re worried about your ghost? Ron, you’re looking at murder. You’ve got a flimsy alibi, your fingerprints are all over the crime scene. You had means, motive, and opportunity.</content></utterance>
+<utterance uid="15-11"><speaker>RON</speaker><content>All right, all right. I was there. Just, not last night. About a month ago. I was there because of Jack. He – he called me after I got out.</content></utterance>
+<utterance uid="15-12"><speaker>BECKETT</speaker><content>Jack Sinclair called you after you threatened him?</content></utterance>
+<utterance uid="15-13"><speaker>RON</speaker><content>To apologize for the prison show thing, and he – he had a request.</content></utterance>
+<utterance uid="15-14"><speaker>BECKETT</speaker><content>What kind of a request?</content></utterance>
+<utterance uid="15-15"><speaker>RON</speaker><content>Uh, it was a strange one. He wanted me to take pictures inside the McClaren house.</content></utterance>
+<utterance uid="15-16"><speaker>ESPOSITO</speaker><content>Why you?</content></utterance>
+<utterance uid="15-17"><speaker>RON</speaker><content>It was locked up, so uh … I had to break in.</content></utterance>
+<utterance uid="15-18"><speaker>BECKETT</speaker><content>Did he give you any reason for asking for those pictures?</content></utterance>
+<utterance uid="15-19"><speaker>BECKETT</speaker><content>Okay, we’re going to need to see the photos.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>ESPOSITO</speaker><content>So tech analyzed the SD card. Time and date stamp was not messed with.</content></utterance>
+<utterance uid="16-2"><speaker>BECKETT</speaker><content>So then Ron was telling the truth?</content></utterance>
+<utterance uid="16-3"><speaker>ESPOSITO</speaker><content>Well, about the photos. I’m still not buying the whole ‘touched by a phantom’ routine.</content></utterance>
+<utterance uid="16-4"><speaker>BECKETT</speaker><content>I wonder what Jack wanted with all these photos. You know, all of the pictures are of just one room, the living room. That’s the same room as the crime scene.</content></utterance>
+<utterance uid="16-5"><speaker>ESPOSITO</speaker><content>So Jack hired Ron Berger to take pictures of the very room he was going to die in.</content></utterance>
+<utterance uid="16-6"><speaker>ESPOSITO</speaker><content>That’s creepy.</content></utterance>
+<utterance uid="16-7"><speaker>BECKETT</speaker><content>That’s not creepy, Castle. I’m sure it can all be explained, and I’m sure that that living room has absolutely nothing to do with ghosts or demons.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>MARGARET BOYER</speaker><content>It was the living room, definitely. That was the epicenter of the activity.</content></utterance>
+<utterance uid="17-2"><speaker>RYAN</speaker><content>Ms. Boyer, when you say activity …</content></utterance>
+<utterance uid="17-3"><speaker>MARGARET</speaker><content>We didn’t buy it, either. We had heard all about the McClaren house, its history. We laughed about it.</content></utterance>
+<utterance uid="17-4"><speaker>HARRY BOYER</speaker><content>At first, everything was fine.</content></utterance>
+<utterance uid="17-5"><speaker>MARGARET</speaker><content>Then it started. Lights going off, strange noises, doors slamming.</content></utterance>
+<utterance uid="17-6"><speaker>CASTLE</speaker><content>Did anything violent ever happen?</content></utterance>
+<utterance uid="17-7"><speaker>HARRY</speaker><content>One night we heard noises from the living room. We went downstairs, found the whole room trashed.</content></utterance>
+<utterance uid="17-8"><speaker>MARGARET</speaker><content>Tables flipped over, books ripped apart, pictures smashed.</content></utterance>
+<utterance uid="17-9"><speaker>CASTLE</speaker><content>Oh my God, that’s terrible. Is that when you decided to move out?</content></utterance>
+<utterance uid="17-10"><speaker>HARRY</speaker><content>Not without a fight. We found this woman, this ghost hunter.</content></utterance>
+<utterance uid="17-11"><speaker>MARGARET</speaker><content>Said she was the best. Said all other ghost hunters came to her for help. But she took one look and told us to run like hell.</content></utterance>
+<utterance uid="17-12"><speaker>HARRY</speaker><content>Yeah… what was her name. Um… Mercy. That’s right. Mercy LaGrande.</content></utterance>
+<utterance uid="17-13"><speaker>CASTLE</speaker><content>‘Mercy, I can see it, Mercy’?</content></utterance>
+<utterance uid="17-14"><speaker>RYAN</speaker><content>Maybe Jack Sinclair wasn’t begging for mercy when he died.</content></utterance>
+<utterance uid="17-15"><speaker>CASTLE</speaker><content>He was saying her name.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>BECKETT</speaker><content>Mercy LeGrande, real name Mercedes King, runs an unlicensed business doing paranormal consultations.</content></utterance>
+<utterance uid="18-2"><speaker>ESPOSITO</speaker><content>There’s a reason why she’s unlicensed. Check out this rap sheet. We’ve got ID theft, fraud, check fraud, and impersonating a religious official.</content></utterance>
+<utterance uid="18-3"><speaker>BECKETT</speaker><content>Look at where her business is located. 38th and 9th.</content></utterance>
+<utterance uid="18-4"><speaker>ESPOSITO</speaker><content>It’s on the same block our vic caught that cab.</content></utterance>
+<utterance uid="18-5"><speaker>CASTLE</speaker><content>So Jack paid Mercy a visit, and then goes to the McClaren house upset.</content></utterance>
+<utterance uid="18-6"><speaker>RYAN</speaker><content>Hours later he says Mercy’s name right before he dies.</content></utterance>
+<utterance uid="18-7"><speaker>BECKETT</speaker><content>So the question is, how is she involved in all of this?</content></utterance>
+<utterance uid="18-8"><speaker>CASTLE</speaker><content>Ah, well …you know, Ryan and I will be happy to go check this out if you guys are too busy solving that murder.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>MERCY</speaker><content>I did what I could to help him, but I’d say it wasn’t enough.</content></utterance>
+<utterance uid="19-2"><speaker>CASTLE</speaker><content>Why did Jack Sinclair come to see you?</content></utterance>
+<utterance uid="19-3"><speaker>MERCY</speaker><content>I’ve been in the McClaren house. He was going to face whatever’s in there and he wanted my advice.</content></utterance>
+<utterance uid="19-4"><speaker>BECKETT</speaker><content>Which you gave him. For a fee.</content></utterance>
+<utterance uid="19-5"><speaker>MERCY</speaker><content>I’m not a charlatan, Detective. Someone with Jack Sinclair’s experience wouldn’t be seeking my counsel if I was. Please.</content></utterance>
+<utterance uid="19-6"><speaker>BECKETT</speaker><content>If he were that good, why would he seek your help?</content></utterance>
+<utterance uid="19-7"><speaker>MERCY</speaker><content>This was not like any other house to him. When he took the assignment, the dreams started. Just glimpses, at first. Bits and pieces of a room, but then the dreams became nightmares. Figures. Bodies.</content></utterance>
+<utterance uid="19-8"><speaker>CASTLE</speaker><content>Whose bodies?</content></utterance>
+<utterance uid="19-9"><speaker>MERCY</speaker><content>He didn’t know. But when we talked, more became clear to me. These weren’t dreams.</content></utterance>
+<utterance uid="19-10"><speaker>BECKETT</speaker><content>Well, what were they?</content></utterance>
+<utterance uid="19-11"><speaker>MERCY</speaker><content>Memories.</content></utterance>
+<utterance uid="19-12"><speaker>MERCY</speaker><content>He witnessed great evil. Repressed it all these years, but the memories were too strong. They were coming back.</content></utterance>
+<utterance uid="19-13"><speaker>BECKETT</speaker><content>And what was he remembering, exactly?</content></utterance>
+<utterance uid="19-14"><speaker>MERCY</speaker><content>A woman. A lot of blood. A man, with a knife.</content></utterance>
+<utterance uid="19-15"><speaker>CASTLE</speaker><content>Who was the man?</content></utterance>
+<utterance uid="19-16"><speaker>MERCY</speaker><content>He said the face was blurred but getting clearer. I told him if he returned to the room where it happened, it might all come back to him.</content></utterance>
+<utterance uid="19-17"><speaker>CASTLE</speaker><content> ‘Mercy, I can see it.’ That’s the murderer’s face.</content></utterance>
+<utterance uid="19-18"><speaker>BECKETT</speaker><content>Jack recovered the memory just before he was killed.</content></utterance>
+<utterance uid="19-19"><speaker>CASTLE</speaker><content>The last murder in that house was twenty years ago. I read about the case. There were no witnesses.</content></utterance>
+<utterance uid="19-20"><speaker>MERCY</speaker><content>Oh, there was one. Jack Sinclair was there the night that woman died. He was there.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>ESPOSITO</speaker><content>The pictures aren’t pretty. Melanie Benton, sliced up the in the McClaren house on the night of April 20th, 1991. One guess where she was found.</content></utterance>
+<utterance uid="20-2"><speaker>CASTLE</speaker><content>The living room.</content></utterance>
+<utterance uid="20-3"><speaker>ESPOSITO</speaker><content>Give that man a prize.</content></utterance>
+<utterance uid="20-4"><speaker>CASTLE</speaker><content>So, 1991. Jack Sinclair is what, 11? Still living in the neighborhood. I’m betting this is the murder he witnessed.</content></utterance>
+<utterance uid="20-5"><speaker>BECKETT</speaker><content>Yeah, but how did he witness a murder without the killer knowing?</content></utterance>
+<utterance uid="20-6"><speaker>RYAN</speaker><content>I did some digging. Jack had a paper route and the McClaren house was on it.</content></utterance>
+<utterance uid="20-7"><speaker>CASTLE</speaker><content>Okay, so … Jack shows up, maybe to collect money? Hears screams and he peers in through those windows. He started having dreams about what he’d seen all those years ago and he wanted to make sense of them.</content></utterance>
+<utterance uid="20-8"><speaker>ESPOSITO</speaker><content>That’s why our vic hired Ron Berger to break in and take pictures of the living room.</content></utterance>
+<utterance uid="20-9"><speaker>BECKETT</speaker><content>Was there ever an arrest made?</content></utterance>
+<utterance uid="20-10"><speaker>RYAN</speaker><content>Nope. Which means the killer’s still out there.</content></utterance>
+<utterance uid="20-11"><speaker>CASTLE</speaker><content>So Jack Sinclair is just about to recover his memory and possibly ID our killer and he’s silenced.</content></utterance>
+<utterance uid="20-12"><speaker>BECKETT</speaker><content>Who was the investigating officer on the case?</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>DETECTIVE ADDISON SMITH</speaker><content>I’ve been retired 10 years and I still think about this one. I was the first one on the scene and I gotta tell you, the pictures don’t even do it justice. What Matt Benton did to his poor wife…</content></utterance>
+<utterance uid="21-2"><speaker>BECKETT</speaker><content>Matt Benton? You think that Melanie was killed by her own husband?</content></utterance>
+<utterance uid="21-3"><speaker>SMITH</speaker><content>Well, the neighbors complained about constant fighting, we put out an APB on Benton the night that Melanie was murdered, but he got away and he’s been on the lam ever since, so … it doesn’t take a genius to put it together.</content></utterance>
+<utterance uid="21-4"><speaker>BECKETT</speaker><content>Did you hear anything about his whereabouts after he disappeared?</content></utterance>
+<utterance uid="21-5"><speaker>SMITH</speaker><content>We got one tip once about him being in Europe. But that’s – that’s got to be a good 15 years ago now.</content></utterance>
+<utterance uid="21-6"><speaker>CASTLE</speaker><content>So somebody spotted him?</content></utterance>
+<utterance uid="21-7"><speaker>SMITH</speaker><content>No, he sent postcards to his brother. They were postmarked Vienna.</content></utterance>
+<utterance uid="21-8"><speaker>CASTLE</speaker><content>What did they say? Do you remember?</content></utterance>
+<utterance uid="21-9"><speaker>SMITH</speaker><content>They all said the same thing. Benton claimed he wasn’t responsible for his wife’s death, something about a demon.</content></utterance>
+<utterance uid="21-10"><speaker>CASTLE</speaker><content>Really. He claimed there was a demon involved?</content></utterance>
+<utterance uid="21-11"><speaker>SMITH</speaker><content>I know, like anyone’s going to fall for that, right? I mean, what kind of jackass did he think he was dealing with?</content></utterance>
+<utterance uid="21-12"><speaker>BECKETT</speaker><content>Did you ever follow up on any of those postcards, Detective Smith?</content></utterance>
+<utterance uid="21-13"><speaker>SMITH</speaker><content>We got Interpol involved, but without any hard evidence against the guy – no murder weapon, no witness – you know, I don’t think they ever took it too seriously.</content></utterance>
+<utterance uid="21-14"><speaker>BECKETT</speaker><content>And what if a witness came forward now? Would that change anything?</content></utterance>
+<utterance uid="21-15"><speaker>SMITH</speaker><content>That would change everything.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>CASTLE</speaker><content>It sounds more and more like Matt Benton found out about Jack, decided to keep him quiet.</content></utterance>
+<utterance uid="22-2"><speaker>BECKETT</speaker><content>But how did Matt find out Jack was recovering his memories?</content></utterance>
+<utterance uid="22-3"><speaker>ESPOSITO</speaker><content>I have an idea about that. I was rechecking our vic’s phone records. It turns out, a week before he died Jack Sinclair called the law firm of Lockhart, Wheelin, and Benton.</content></utterance>
+<utterance uid="22-4"><speaker>CASTLE</speaker><content>Benton? As in –</content></utterance>
+<utterance uid="22-5"><speaker>ESPOSITO</speaker><content>Pete Benton. Matt’s brother.</content></utterance>
+<utterance uid="22-6"><speaker>BECKETT</speaker><content>That’s the brother that Matt was sending those postcards to and –</content></utterance>
+<utterance uid="22-7"><speaker>CASTLE</speaker><content>He could have easily informed Matt that someone was asking questions. The wrong kind of questions.</content></utterance>
+</scene>
+
+<scene id="23"><utterance uid="23-1"><speaker>PETE BENTON</speaker><content>My brother sent me those postcards over 15 years ago. I gave them to the cops. I haven’t heard from him since.</content></utterance>
+<utterance uid="23-2"><speaker>BECKETT</speaker><content>And no contact since then, Mr. Benton?</content></utterance>
+<utterance uid="23-3"><speaker>PETE</speaker><content>No.</content></utterance>
+<utterance uid="23-4"><speaker>BECKETT</speaker><content>Not even after talking to Jack Sinclair?</content></utterance>
+<utterance uid="23-5"><speaker>PETE</speaker><content>Jack Sinclair?</content></utterance>
+<utterance uid="23-6"><speaker>CASTLE</speaker><content>The ghost hunter. He was killed in the McClaren house last night.</content></utterance>
+<utterance uid="23-7"><speaker>PETE</speaker><content>I never spoke to Jack Sinclair.</content></utterance>
+<utterance uid="23-8"><speaker>BECKETT</speaker><content>Well, his phone records show otherwise.</content></utterance>
+<utterance uid="23-9"><speaker>PETE</speaker><content>I get calls every year from some TV producer looking to exploit my family’s tragedy and the legend of the McClaren mansion. Look, it’s a shame whatever happened to this guy, but if he called here, I did not talk to him. And I certainly haven’t spoken to my brother.</content></utterance>
+<utterance uid="23-10"><speaker>CASTLE</speaker><content>So if we check your phone records, we won’t find calls to Vienna?</content></utterance>
+<utterance uid="23-11"><speaker>PETE</speaker><content>We’re an international law firm. We have clients all over Europe, including Vienna.</content></utterance>
+<utterance uid="23-12"><speaker>BECKETT</speaker><content>We’re going to need access to those phone logs.</content></utterance>
+<utterance uid="23-13"><speaker>PETE</speaker><content>Then you need a warrant. And you don’t have enough to get one.</content></utterance>
+<utterance uid="23-14"><speaker>SECRETARY</speaker><content>Mr. Benton, your car is downstairs.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>RYAN</speaker><content>Law firm’s car service of choice is Execudrive. Here are Pete Benton’s billing slips, going back a month or so.</content></utterance>
+<utterance uid="24-2"><speaker>BECKETT</speaker><content>Was there any unusual activity?</content></utterance>
+<utterance uid="24-3"><speaker>RYAN</speaker><content>No, the daily routine was the same, to and from work. Except for 4 days ago, when Pete authorized a pickup at JFK. International terminal.</content></utterance>
+<utterance uid="24-4"><speaker>BECKETT</speaker><content>Okay, so maybe Pete did have his brother on speed dial. Where’d they go?</content></utterance>
+<utterance uid="24-5"><speaker>RYAN</speaker><content>Fairwick Hotel.</content></utterance>
+<utterance uid="24-6"><speaker>BECKETT</speaker><content>All right, let’s take this down to the Fairwick and see if anyone recognizes Matt Benton.</content></utterance>
+<utterance uid="24-7"><speaker>ESPOSITO</speaker><content>Actually, I had tech mock up an aged version of the photo.  You know, Matt 20 years later.</content></utterance>
+<utterance uid="24-8"><speaker>RYAN</speaker><content>Hmm.</content></utterance>
+<utterance uid="24-9"><speaker>BECKETT</speaker><content>Wait a minute. Don’t you guys have dinner plans tonight?</content></utterance>
+<utterance uid="24-10"><speaker>RYAN</speaker><content>Ah… we can move it to some night when Lanie’s not coming off a double shift.</content></utterance>
+<utterance uid="24-11"><speaker>ESPOSITO</speaker><content>Uh, actually, Lanie’s really looking forward to it.</content></utterance>
+<utterance uid="24-12"><speaker>BECKETT</speaker><content>You know what? No worries. It’s on my way home.</content></utterance>
+<utterance uid="24-13"><speaker>RYAN</speaker><content>You sure?</content></utterance>
+<utterance uid="24-14"><speaker>ESPOSITO</speaker><content>You sure?</content></utterance>
+<utterance uid="24-15"><speaker>BECKETT</speaker><content>That I don’t want to be the one to blame for ruining Lanie’s night out? Oh yeah. I’m sure.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>MARTHA RODGERS</speaker><content>Honestly Richard, how do you plan to solve a one day old murder by reading a book about a hundred year old house?</content></utterance>
+<utterance uid="25-2"><speaker>CASTLE</speaker><content>You sound just like Beckett.</content></utterance>
+<utterance uid="25-3"><speaker>CASTLE</speaker><content>There has to be a reason why all these things happened in the living room. All these murders … the tenants that had their furniture smashed. All in the same room.</content></utterance>
+<utterance uid="25-4"><speaker>MARTHA</speaker><content>Maybe that demon of yours did not like the furniture. You bring in a decorator, snazz up the place  … all this nonsense might stop.</content></utterance>
+<utterance uid="25-5"><speaker>CASTLE</speaker><content>Less like Beckett.</content></utterance>
+<utterance uid="25-6"><speaker>CASTLE</speaker><content>Oh… no need of snazzing up here. Look at you.</content></utterance>
+<utterance uid="25-7"><speaker>CASTLE</speaker><content>Wow, you’re really taking these Skype dates with Ashley seriously.</content></utterance>
+<utterance uid="25-8"><speaker>ALEXIS</speaker><content>I’m going to a party. Ash was supposed to call me hours ago, but I’m tired of waiting.</content></utterance>
+<utterance uid="25-9"><speaker>CASTLE</speaker><content>Oh, good for you, sweetheart. Have a good time.</content></utterance>
+<utterance uid="25-10"><speaker>ALEXIS</speaker><content>Thanks, Dad. I’ll be back by midnight.</content></utterance>
+<utterance uid="25-11"><speaker>CASTLE</speaker><content>Thank you.</content></utterance>
+<utterance uid="25-12"><speaker>ALEXIS</speaker><content>Bye.</content></utterance>
+<utterance uid="25-13"><speaker>CASTLE</speaker><content>Wow. Did you see that outfit? Should I be worried?</content></utterance>
+<utterance uid="25-14"><speaker>MARTHA</speaker><content>Ashley’s the one that should be worried. Trust me, if he could see how she looked going out now he wouldn’t be so quick to leave her hanging.</content></utterance>
+<utterance uid="25-15"><speaker>MARTHA</speaker><content>Oh, isn’t this funny? It’s Ashley.  Decline.  It’s almost as if he was listening in to our conversation.</content></utterance>
+<utterance uid="25-16"><speaker>CASTLE</speaker><content>Listening in. The architect for the McClaren house, he’s from Scotland.</content></utterance>
+<utterance uid="25-17"><speaker>MARTHA</speaker><content>Is that important?</content></utterance>
+<utterance uid="25-18"><speaker>CASTLE</speaker><content>It’s the key.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>CASTLE</speaker><content>Two words. Laird’s Lug.</content></utterance>
+<utterance uid="26-2"><speaker>BECKETT</speaker><content>Laird’s Lug?</content></utterance>
+<utterance uid="26-3"><speaker>CASTLE</speaker><content>Literally ‘Lord’s Ear’. It refers to a hidden alcove above a dining hall of many Scottish castles. The host could use it to eavesdrop on his guests.</content></utterance>
+<utterance uid="26-4"><speaker>BECKETT</speaker><content>I think I’ve either had too much wine or not enough.</content></utterance>
+<utterance uid="26-5"><speaker>CASTLE</speaker><content>Seamus McClaren, builder of the McClaren house, grew up right next to Edinburgh Castle, notable for its Laird’s Lug. The concept so tickled him he put modern versions of it in several of his houses.</content></utterance>
+<utterance uid="26-6"><speaker>BECKETT</speaker><content>So you’re saying that the McClaren house has a hidden alcove.</content></utterance>
+<utterance uid="26-7"><speaker>CASTLE</speaker><content>It explains everything. How come the killings only happen place in that one room? How did the killers seemingly appear and disappear at will? Answers that have thus far remained elusive.</content></utterance>
+<utterance uid="26-8"><speaker>CASTLE</speaker><content>Speaking of which, how did your canvassing go?</content></utterance>
+<utterance uid="26-9"><speaker>BECKETT</speaker><content>Came up empty. There’s absolutely no evidence that Matt Benton was ever at the Fairwick.</content></utterance>
+<utterance uid="26-10"><speaker>CASTLE</speaker><content>Maybe the evidence of his return will be in that alcove. It’s worth a shot.</content></utterance>
+<utterance uid="26-11"><speaker>BECKETT</speaker><content>We’ll go first thing in the morning. See what we come up with.</content></utterance>
+<utterance uid="26-12"><speaker>BECKETT</speaker><content>You wanna go now?</content></utterance>
+<utterance uid="26-13"><speaker>CASTLE</speaker><content>Well, unless of course, you’re afraid.</content></utterance>
+<utterance uid="26-14"><speaker>BECKETT</speaker><content>Yeah, right.</content></utterance>
+<utterance uid="26-15"><speaker>CASTLE</speaker><content>No, I get it. I mean, it is a haunted house.</content></utterance>
+<utterance uid="26-16"><speaker>BECKETT</speaker><content>I’m not scared, Castle.</content></utterance>
+<utterance uid="26-17"><speaker>CASTLE</speaker><content>Nah, nah. You’re right. You’re right. I mean, the demon has tasted fresh blood. Its thirst might not be slaked with just one victim.</content></utterance>
+<utterance uid="26-18"><speaker>BECKETT</speaker><content>Okay, c’mon.</content></utterance>
+<utterance uid="26-19"><speaker>CASTLE</speaker><content>Listen, if you’re not scared, just say it.</content></utterance>
+<utterance uid="26-20"><speaker>BECKETT</speaker><content>No.</content></utterance>
+<utterance uid="26-21"><speaker>CASTLE</speaker><content>C’mon. You know you want to.</content></utterance>
+<utterance uid="26-22"><speaker>BECKETT</speaker><content>I don’t want to say it, Castle.</content></utterance>
+<utterance uid="26-23"><speaker>CASTLE</speaker><content>For me. Please.</content></utterance>
+<utterance uid="26-24"><speaker>BECKETT</speaker><content>I ain’t afraid of no ghosts.</content></utterance>
+<utterance uid="26-25"><speaker>CASTLE</speaker><content> Thank you.</content></utterance>
+</scene>
+
+<scene id="27"><utterance uid="27-1"><speaker>BECKETT</speaker><content>I don’t know, Castle. There have been a lot of murder investigations in here over the years, and I think they would have found a secret room if there actually was one.</content></utterance>
+<utterance uid="27-2"><speaker>CASTLE</speaker><content>Not if it was hidden well enough.</content></utterance>
+<utterance uid="27-3"><speaker>BECKETT</speaker><content>You know, you’re going to regret it if we actually find this room.</content></utterance>
+<utterance uid="27-4"><speaker>CASTLE</speaker><content>Why is that?</content></utterance>
+<utterance uid="27-5"><speaker>BECKETT</speaker><content>Because then you’re going to have to admit that there is no demon behind all of this, that it’s nothing more than a boring old psycho killer hiding in a room.</content></utterance>
+<utterance uid="27-6"><speaker>CASTLE</speaker><content>Well, unless it’s a psycho killer possessed by a demon.</content></utterance>
+<utterance uid="27-7"><speaker>BECKETT</speaker><content>Why are you so determined to find the supernatural in all of this?</content></utterance>
+<utterance uid="27-8"><speaker>CASTLE</speaker><content>Why are you so determined not to?</content></utterance>
+<utterance uid="27-9"><speaker>BECKETT</speaker><content>You know what? I am just following the evidence, wherever it may lead, and as a cop I’m going to consider every possible worldly explanation.</content></utterance>
+<utterance uid="27-10"><speaker>CASTLE</speaker><content>Mmhmm. And what if there is none?</content></utterance>
+<utterance uid="27-11"><speaker>BECKETT</speaker><content>Well then, I’m open to the alternatives.</content></utterance>
+<utterance uid="27-12"><speaker>CASTLE</speaker><content>You? Skepticus maximus?</content></utterance>
+<utterance uid="27-13"><speaker>BECKETT</speaker><content>You know what? Just because I don’t talk about it nonstop doesn’t mean I don’t believe in another plane. I’ve actually had my own experiences.</content></utterance>
+<utterance uid="27-14"><speaker>CASTLE</speaker><content>Get out. Like what?</content></utterance>
+<utterance uid="27-15"><speaker>BECKETT</speaker><content>When I was a little girl, my parents rented a cabin by a lake. And one night I had to go to the bathroom…  You know what? You’re just gonna think I’m crazy.</content></utterance>
+<utterance uid="27-16"><speaker>CASTLE</speaker><content>No, no, no. Go ahead, tell me.</content></utterance>
+<utterance uid="27-17"><speaker>BECKETT</speaker><content>And on the way there I heard this voice whispering, “Kate. Kate.” It was coming from this room that the owners had locked up and told my parents to never go in it. Except that night there was this weird glow underneath the door and I heard the voice again, “Kate.” And so I walked up to the door, and this time it wasn’t locked. Then I turned the doorknob and I opened it up. Then I saw it…</content></utterance>
+<utterance uid="27-18"><speaker>CASTLE</speaker><content> What was it? What did you see?</content></utterance>
+<utterance uid="27-19"><speaker>CASTLE</speaker><content>Ah. Heh ha. Very funny. Yes, you got me.</content></utterance>
+<utterance uid="27-20"><speaker>BECKETT</speaker><content>How long have you known me, Castle? Of course I don’t believe in ghosts.</content></utterance>
+<utterance uid="27-21"><speaker>CASTLE</speaker><content>What was that?</content></utterance>
+<utterance uid="27-22"><speaker>BECKETT</speaker><content>Well, that’s odd.</content></utterance>
+<utterance uid="27-23"><speaker>CASTLE</speaker><content>No, that’s more than just odd. This is the same sequence of events that preceded Jack Sinclair’s murder.</content></utterance>
+<utterance uid="27-24"><speaker>BECKETT</speaker><content>Except Jack just had an EMF meter. I’ve got a gun and a flashlight.</content></utterance>
+<utterance uid="27-25"><speaker>CASTLE</speaker><content>With dead batteries.</content></utterance>
+<utterance uid="27-26"><speaker>BECKETT</speaker><content>I could swear I just put in new ones.</content></utterance>
+<utterance uid="27-27"><speaker>BECKETT</speaker><content>I know I saw some matches by these candles here.</content></utterance>
+<utterance uid="27-28"><speaker>BECKETT</speaker><content>Wow, Castle. Mature.</content></utterance>
+<utterance uid="27-29"><speaker>CASTLE</speaker><content>Sorry.</content></utterance>
+<utterance uid="27-30"><speaker>BECKETT</speaker><content>Yeah, here we go.</content></utterance>
+<utterance uid="27-31"><speaker>BECKETT</speaker><content>Castle.</content></utterance>
+<utterance uid="27-32"><speaker>CASTLE</speaker><content>That was not me.</content></utterance>
+<utterance uid="27-33"><speaker>BECKETT</speaker><content>Okay, so … maybe there’s a draft here.</content></utterance>
+<utterance uid="27-34"><speaker>BECKETT</speaker><content>Right … I think I can feel it. Right here. Give me a boost.</content></utterance>
+<utterance uid="27-35"><speaker>CASTLE</speaker><content>Okay. Ready?</content></utterance>
+<utterance uid="27-36"><speaker>BECKETT</speaker><content>Yep.</content></utterance>
+<utterance uid="27-37"><speaker>BECKETT</speaker><content>Oh God, Castle.</content></utterance>
+<utterance uid="27-38"><speaker>CASTLE</speaker><content>This is easy.</content></utterance>
+<utterance uid="27-39"><speaker>CASTLE</speaker><content>Hey.</content></utterance>
+<utterance uid="27-40"><speaker>BECKETT</speaker><content>Castle … c’mon. Just hold still. Geez.</content></utterance>
+<utterance uid="27-41"><speaker>CASTLE</speaker><content>That’s the noise on the tape, right before Jack Sinclair was killed.</content></utterance>
+<utterance uid="27-42"><speaker>BECKETT</speaker><content>Okay, I’m going to go up. Ready? Grab my legs.</content></utterance>
+<utterance uid="27-43"><speaker>BECKETT</speaker><content>Castle, I said legs! Okay?</content></utterance>
+<utterance uid="27-44"><speaker>CASTLE</speaker><content>Oh, right. Legs. Sorry.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>LANIE</speaker><content>Not as sorry as I was. I’m around dead people all day. When I get home, I want a live one.</content></utterance>
+<utterance uid="28-2"><speaker>ESPOSITO</speaker><content>I was tired.</content></utterance>
+<utterance uid="28-3"><speaker>JENNY</speaker><content> I can’t believe we waited so long to do this, babe.</content></utterance>
+<utterance uid="28-4"><speaker>RYAN</speaker><content>Yeah… yeah, it really did turn out to be a perfect night.</content></utterance>
+<utterance uid="28-5"><speaker>RYAN</speaker><content>I would like to propose a toast. I know that it’s kind of corny, but it’s me, so … there we go. Uh, to best friends. Now and forever.</content></utterance>
+<utterance uid="28-6"><speaker>JENNY</speaker><content>Cheers.</content></utterance>
+<utterance uid="28-7"><speaker>ESPOSITO</speaker><content>And to the future newlyweds.</content></utterance>
+<utterance uid="28-8"><speaker>JENNY</speaker><content>Awww.</content></utterance>
+<utterance uid="28-9"><speaker>RYAN</speaker><content>You are so thoughtful.</content></utterance>
+<utterance uid="28-10"><speaker>JENNY</speaker><content>You know, Kevin said you guys made a great couple, but I had no idea.</content></utterance>
+<utterance uid="28-11"><speaker>JENNY</speaker><content>So … when are you two getting married?</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>CASTLE</speaker><content>Isn’t this awkward.</content></utterance>
+<utterance uid="29-2"><speaker>BECKETT</speaker><content>Yeah well, secret passageways aren’t supposed to be the most convenient of places.</content></utterance>
+<utterance uid="29-3"><speaker>CASTLE</speaker><content>The killer could have hung upside down from this bar when he slit Jack Sinclair’s throat. That would provide you with your demon free explanation of the undisturbed blood spatter.</content></utterance>
+<utterance uid="29-4"><speaker>BECKETT</speaker><content>Well Castle, I appreciate the assist, but I could do without the massage.</content></utterance>
+<utterance uid="29-5"><speaker>CASTLE</speaker><content>What are you talking about?</content></utterance>
+<utterance uid="29-6"><speaker>BECKETT</speaker><content>Aren’t you rubbing my neck?</content></utterance>
+<utterance uid="29-7"><speaker>CASTLE</speaker><content>No…</content></utterance>
+<utterance uid="29-8"><speaker>BECKETT</speaker><content>Deep breaths, Castle. It’s just a rat.</content></utterance>
+<utterance uid="29-9"><speaker>BECKETT</speaker><content>There’s something over there. C’mon.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>BECKETT</speaker><content>Hidden passageways, secret rooms? I don’t know, Castle. The mystery of the McClaren mansion is looking less supernatural by the minute.</content></utterance>
+<utterance uid="30-2"><speaker>CASTLE</speaker><content>What is this?</content></utterance>
+<utterance uid="30-3"><speaker>CASTLE</speaker><content>It’s a magnetic field generator to knock out the video feed to the cameras. Someone planned very carefully how to kill Jack Sinclair the night he was filming here.</content></utterance>
+<utterance uid="30-4"><speaker>BECKETT</speaker><content>Taxing the power supply. That could explain the lights flickering just before Jack’s death.</content></utterance>
+<utterance uid="30-5"><speaker>CASTLE</speaker><content>You know, the magnetic field could also explain the tripod moving that we saw in the video.</content></utterance>
+<utterance uid="30-6"><speaker>BECKETT</speaker><content>Castle, look at these marks.  There was a bed here. Matt Benton could have been here for days before Jack showed up.</content></utterance>
+<utterance uid="30-7"><speaker>CASTLE</speaker><content>You know, this house has been largely unoccupied since the Melanie Benton killing. Maybe the reason they couldn’t find Matt Benton is because he never left. He could have been living here the whole time.</content></utterance>
+<utterance uid="30-8"><speaker>CASTLE</speaker><content> And maybe he’s here now.</content></utterance>
+<utterance uid="30-9"><speaker>BECKETT</speaker><content> Open the door.</content></utterance>
+<utterance uid="30-10"><speaker>CASTLE</speaker><content>Oh my God, my heart. I was so scared.</content></utterance>
+<utterance uid="30-11"><speaker>CASTLE</speaker><content>What?</content></utterance>
+<utterance uid="30-12"><speaker>CASTLE</speaker><content>Really? Really?</content></utterance>
+<utterance uid="30-13"><speaker>CASTLE</speaker><content>I am throwing away this coat.</content></utterance>
+<utterance uid="30-14"><speaker>BECKETT</speaker><content>Look. His cuffs are monogrammed.</content></utterance>
+<utterance uid="30-15"><speaker>CASTLE</speaker><content>‘MB’.</content></utterance>
+<utterance uid="30-16"><speaker>BECKETT</speaker><content>Looks like you were right, Castle. Matt Benton never did leave the McClaren mansion.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>LANIE</speaker><content>Dental records confirm it. That’s Matt Benton.</content></utterance>
+<utterance uid="31-2"><speaker>CASTLE</speaker><content>Tech really needs better software.</content></utterance>
+<utterance uid="31-3"><speaker>BECKETT</speaker><content>Cause of death?</content></utterance>
+<utterance uid="31-4"><speaker>LANIE</speaker><content>Don’t know yet, but I’m guessing it wasn’t the world’s longest game of hide and seek.</content></utterance>
+<utterance uid="31-5"><speaker>BECKETT</speaker><content>How long was he in there for?</content></utterance>
+<utterance uid="31-6"><speaker>LANIE</speaker><content>Still waiting on the test results, but prelim reports on the tissue samples suggest he died about twenty years ago.</content></utterance>
+<utterance uid="31-7"><speaker>BECKETT</speaker><content>Okay, so odds are he was killed at the same time his wife was.</content></utterance>
+<utterance uid="31-8"><speaker>CASTLE</speaker><content>So the killer hides Matt’s body, making it appear as though he fled, framing Matt for his wife’s murder, and throwing everyone off the trail of the real killer.</content></utterance>
+<utterance uid="31-9"><speaker>LANIE</speaker><content>And it worked, too. For 20 years.</content></utterance>
+<utterance uid="31-10"><speaker>BECKETT</speaker><content>Yeah, until Jack Sinclair showed up.</content></utterance>
+<utterance uid="31-11"><speaker>BECKETT</speaker><content>Let me know about the test results.</content></utterance>
+<utterance uid="31-12"><speaker>LANIE</speaker><content>Okay.</content></utterance>
+<utterance uid="31-13"><speaker>CASTLE</speaker><content>Hey. How did that double date go?</content></utterance>
+<utterance uid="31-14"><speaker>CASTLE</speaker><content>Uh … I just …</content></utterance>
+<utterance uid="31-15"><speaker>BECKETT</speaker><content>Hey guys, one thing. If Matt was killed 20 years ago, then how’d he send those post cards to Pete 15 years ago?</content></utterance>
+<utterance uid="31-16"><speaker>CASTLE</speaker><content>I think it’s time we took a harder look at Pete Benton.</content></utterance>
+<utterance uid="31-17"><speaker>CASTLE</speaker><content> Don’t ask about the date.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>RYAN</speaker><content>Look, I said I’m sorry, okay? I didn’t mean to jinx the dinner.</content></utterance>
+<utterance uid="32-2"><speaker>ESPOSITO</speaker><content> ‘It really is the perfect night.’</content></utterance>
+<utterance uid="32-3"><speaker>RYAN</speaker><content>Jenny … got a little caught up in the moment.</content></utterance>
+<utterance uid="32-4"><speaker>ESPOSITO</speaker><content> ‘When are you two getting married?’ That is a question you do not ask.</content></utterance>
+<utterance uid="32-5"><speaker>ESPOSITO</speaker><content>All right. It’s – it’s not entirely your guys’ fault.</content></utterance>
+<utterance uid="32-6"><speaker>RYAN</speaker><content>You guys have a big fight after?</content></utterance>
+<utterance uid="32-7"><speaker>ESPOSITO</speaker><content>Big fight?  No. Mega fight, yes.</content></utterance>
+<utterance uid="32-8"><speaker>ESPOSITO</speaker><content>The point is, we … um, we decided that we’re going to cool things off.</content></utterance>
+<utterance uid="32-9"><speaker>RYAN</speaker><content>What, do you mean split up?</content></utterance>
+<utterance uid="32-10"><speaker>ESPOSITO</speaker><content>Yeah. Just until we both figure out what we want.</content></utterance>
+<utterance uid="32-11"><speaker>RYAN</speaker><content>Man, I’m so sorry.</content></utterance>
+<utterance uid="32-12"><speaker>ESPOSITO</speaker><content>Anyway …</content></utterance>
+<utterance uid="32-13"><speaker>RYAN</speaker><content>Look brother, if you need me for anything you know I’m always here to …</content></utterance>
+<utterance uid="32-14"><speaker>RYAN</speaker><content>What?</content></utterance>
+<utterance uid="32-15"><speaker>ESPOSITO</speaker><content>Well, it may be nothing, but this light bulb? It’s brand new.</content></utterance>
+</scene>
+
+<scene id="33"><utterance uid="33-1"><speaker>PETE</speaker><content>Are you kidding me? Detective, this is bordering on harassment. I told you everything I know about my brother.</content></utterance>
+<utterance uid="33-2"><speaker>BECKETT</speaker><content>Not everything. You were engaged once, weren’t you Mr. Benton?</content></utterance>
+<utterance uid="33-3"><speaker>CASTLE</speaker><content>To a Melanie Wendell? Until Melanie broke it off and married your brother instead.</content></utterance>
+<utterance uid="33-4"><speaker>PETE</speaker><content>Things didn’t work out for us. I didn’t expect Melanie to stay single for forever.</content></utterance>
+<utterance uid="33-5"><speaker>CASTLE</speaker><content>But you never married. Because you never got over her.</content></utterance>
+<utterance uid="33-6"><speaker>BECKETT</speaker><content>Who really sent those postcards, Pete? Did you send them yourself?</content></utterance>
+<utterance uid="33-7"><speaker>PETE</speaker><content>I don’t know what you’re talking about. My brother sent me those postcards.</content></utterance>
+<utterance uid="33-8"><speaker>BECKETT</speaker><content>You and I both know that’s not possible. Your brother has been dead for 20 years.</content></utterance>
+<utterance uid="33-9"><speaker>PETE</speaker><content>What?</content></utterance>
+<utterance uid="33-10"><speaker>BECKETT</speaker><content>We found his remains in the McClaren house. It’s over.</content></utterance>
+<utterance uid="33-11"><speaker>PETE</speaker><content>You think I killed my brother? You think I killed Melanie?</content></utterance>
+<utterance uid="33-12"><speaker>BECKETT</speaker><content>Where were you that night, Pete?</content></utterance>
+<utterance uid="33-13"><speaker>PETE</speaker><content>I’ll tell you exactly where I was. I went to dinner with my friend Marie. 7:30, Café Joie. We were out by 9, stopped at Dorian’s for a drink. I had a 7 and 7. Our server was Patrick.</content></utterance>
+<utterance uid="33-14"><speaker>PETE</speaker><content>When something like that happens, it’s burned into your brain. Every detail of what happened the night you heard. I couldn’t forget it if I tried.</content></utterance>
+<utterance uid="33-15"><speaker>BECKETT</speaker><content>We’re going to have to verify your story, Pete.</content></utterance>
+<utterance uid="33-16"><speaker>PETE</speaker><content>So, my – my brother didn’t kill Melanie?</content></utterance>
+<utterance uid="33-17"><speaker>CASTLE</speaker><content>We don’t think so.</content></utterance>
+<utterance uid="33-18"><speaker>PETE</speaker><content>I always assumed that he did. Matt had a terrible temper. He was convinced Melanie was cheating on him.</content></utterance>
+<utterance uid="33-19"><speaker>BECKETT</speaker><content>Was she?</content></utterance>
+<utterance uid="33-20"><speaker>PETE</speaker><content>Wouldn’t surprise me if she was. Matt thought it was somebody at work.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>RYAN</speaker><content>It wasn’t someone Melanie worked with. I just tracked down George Banner, Melanie’s manager at Flywide Travel from 20 years ago. He said Melanie had two coworkers, both guys.</content></utterance>
+<utterance uid="34-2"><speaker>CASTLE</speaker><content>Aha.</content></utterance>
+<utterance uid="34-3"><speaker>RYAN</speaker><content>Married.</content></utterance>
+<utterance uid="34-4"><speaker>CASTLE</speaker><content>Still.</content></utterance>
+<utterance uid="34-5"><speaker>RYAN</speaker><content>To each other.</content></utterance>
+<utterance uid="34-6"><speaker>CASTLE</speaker><content>Oh.</content></utterance>
+<utterance uid="34-7"><speaker>BECKETT</speaker><content>Well, Flywide was in a high rise in Midtown, so maybe it was someone else in the building. Let’s get a list of all the tenants that were there when Melanie worked there.</content></utterance>
+<utterance uid="34-8"><speaker>ESPOSITO</speaker><content>I’m not sure that’s necessary. Remember the light bulb I took from that secret room?</content></utterance>
+<utterance uid="34-9"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="34-10"><speaker>ESPOSITO</speaker><content>Well, I traced the serial number. Belongs to a lot that was sold by the manufacturer directly to Fuller Estate Management.</content></utterance>
+<utterance uid="34-11"><speaker>BECKETT</speaker><content>As in, Steve Fuller?</content></utterance>
+<utterance uid="34-12"><speaker>ESPOSITO</speaker><content>Owner of the McClaren mansion.</content></utterance>
+<utterance uid="34-13"><speaker>RYAN</speaker><content>That means that Fuller knew about that room and didn’t tell us.</content></utterance>
+<utterance uid="34-14"><speaker>CASTLE</speaker><content>There’s only one reason why he wouldn’t tell us.</content></utterance>
+<utterance uid="34-15"><speaker>CASTLE</speaker><content>Because he’s the killer. Maybe Matt Benton was right about Melanie having an affair, only wrong about who she was having the affair with.</content></utterance>
+<utterance uid="34-16"><speaker>BECKETT</speaker><content>But –</content></utterance>
+<utterance uid="34-17"><speaker>ESPOSITO</speaker><content>Only when things went bad, he killed her, killed Matt, and stashed his body in his own house where he knew no one would find it.</content></utterance>
+<utterance uid="34-18"><speaker>CASTLE</speaker><content>And, he planned on destroying the evidence. He wanted to have the house torn down right after those murders but it was declared a landmark.</content></utterance>
+<utterance uid="34-19"><speaker>RYAN</speaker><content>So he used that passageway to scare off tenants like the Boyers, growing the mansion’s legend so that no one would want to live there.</content></utterance>
+<utterance uid="34-20"><speaker>CASTLE</speaker><content>And when Jack Sinclair came sniffing around, he had to kill him, too.</content></utterance>
+<utterance uid="34-21"><speaker>BECKETT</speaker><content>You guys.</content></utterance>
+<utterance uid="34-22"><speaker>BECKETT</speaker><content>Great story. DA will never buy it. It’s all circumstantial.</content></utterance>
+<utterance uid="34-23"><speaker>ESPOSITO</speaker><content>She’s right. Anyone could have put that bulb in there. We have no proof.</content></utterance>
+<utterance uid="34-24"><speaker>CASTLE</speaker><content>But we will. And I think I know just how to get Mr. Fuller to give up the ghost.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>CASTLE</speaker><content>Think he’ll show?</content></utterance>
+<utterance uid="35-2"><speaker>BECKETT</speaker><content>I don’t know.</content></utterance>
+<utterance uid="35-3"><speaker>CASTLE</speaker><content>You told him about tomorrow, right?</content></utterance>
+<utterance uid="35-4"><speaker>BECKETT</speaker><content>Yes, Castle. He thinks we’re going through that wall tomorrow morning. So if Fuller’s our guy, he should be coming for Matt Benton’s body tonight. If he’s our guy. I mean, he might not be our guy.</content></utterance>
+<utterance uid="35-5"><speaker>CASTLE</speaker><content>And yet … there he is. Of course, he might just be here to fix a busted toilet.</content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>CASTLE</speaker><content>You need a hand with that, Fuller?</content></utterance>
+<utterance uid="36-2"><speaker>BECKETT</speaker><content>Detective Smith?</content></utterance>
+<utterance uid="36-3"><speaker>SMITH</speaker><content>Detective Beckett.</content></utterance>
+<utterance uid="36-4"><speaker>BECKETT</speaker><content>It was … you … all this time? Why?</content></utterance>
+<utterance uid="36-5"><speaker>SMITH</speaker><content>You know, he was abusing her. Terrible things. I don’t think a month went by when we didn’t get called up to this house. And one day I stopped by just to check on her.</content></utterance>
+<utterance uid="36-6"><speaker>BECKETT</speaker><content>You were the affair.</content></utterance>
+<utterance uid="36-7"><speaker>SMITH</speaker><content>It wasn’t an affair. It was love.</content></utterance>
+<utterance uid="36-8"><speaker>CASTLE</speaker><content>Then why did you kill her?</content></utterance>
+<utterance uid="36-9"><speaker>SMITH</speaker><content>I didn’t mean to. I just – she wanted to call it off with me and I couldn’t let that happen.</content></utterance>
+<utterance uid="36-10"><speaker>CASTLE</speaker><content>And Matt Benton?</content></utterance>
+<utterance uid="36-11"><speaker>SMITH</speaker><content>The way he treated her, he deserved what he got.</content></utterance>
+<utterance uid="36-12"><speaker>BECKETT</speaker><content>And as the lead officer you knew you could steer the investigation off yourself and onto someone they’d never find.</content></utterance>
+<utterance uid="36-13"><speaker>CASTLE</speaker><content>And then you sent those postcards. To keep your suspect alive.</content></utterance>
+<utterance uid="36-14"><speaker>SMITH</speaker><content>I let them think that he did it. It was his fault, anyway.</content></utterance>
+<utterance uid="36-15"><speaker>BECKETT</speaker><content>What about Jack Sinclair? How did you find out about him?</content></utterance>
+<utterance uid="36-16"><speaker>SMITH</speaker><content>I promised Fuller that I would solve this case one day and I asked him to keep me informed of any developments.</content></utterance>
+<utterance uid="36-17"><speaker>BECKETT</speaker><content>So that when Jack contacted Fuller about the crime scene, he called you.</content></utterance>
+<utterance uid="36-18"><speaker>CASTLE</speaker><content>And when we told Fuller we were going to check out that room tomorrow he called you then, too.</content></utterance>
+<utterance uid="36-19"><speaker>SMITH</speaker><content>You’re both very smart. But you’re forgetting one thing. This house is haunted.</content></utterance>
+<utterance uid="36-20"><speaker>SMITH</speaker><content>Thanks for the gun, Detective. I really appreciate it. You know, I felt bad about Sinclair. I really did. But he knew too much about that night. Stuff that wasn’t in the papers.</content></utterance>
+<utterance uid="36-21"><speaker>CASTLE</speaker><content>So he had to go.</content></utterance>
+<utterance uid="36-22"><speaker>SMITH</speaker><content>Get on your knees.</content></utterance>
+<utterance uid="36-23"><speaker>BECKETT</speaker><content>Don’t worry, Castle. He’s not going to shoot us. That won’t fit the legend.</content></utterance>
+<utterance uid="36-24"><speaker>CASTLE</speaker><content>Any more helpful hints you’d care to pass along to our killer?</content></utterance>
+<utterance uid="36-25"><speaker>SMITH</speaker><content>On your knees.</content></utterance>
+<utterance uid="36-26"><speaker>BECKETT</speaker><content>I don’t think so, Addison.</content></utterance>
+<utterance uid="36-27"><speaker>CASTLE</speaker><content>You see, the demon only really kills when no one is looking. And tonight, we have an audience.</content></utterance>
+<utterance uid="36-28"><speaker>BECKETT</speaker><content>They recorded your full confession.</content></utterance>
+<utterance uid="36-29"><speaker>OFFICER</speaker><content>You have the right to remain silent …</content></utterance>
+<utterance uid="36-30"><speaker>ESPOSITO</speaker><content>So busted.</content></utterance>
+<utterance uid="36-31"><speaker>RYAN</speaker><content>Ghost busted.</content></utterance>
+<utterance uid="36-32"><speaker>RYAN</speaker><content>Thanks to Lulu.</content></utterance>
+<utterance uid="36-33"><speaker>LULU</speaker><content>It’s the least I could do for him, you know? For Jack.</content></utterance>
+</scene>
+<scene id="37"><utterance uid="37-1"><speaker>CASTLE</speaker><content>So Fuller had no idea about that room.</content></utterance>
+<utterance uid="37-2"><speaker>BECKETT</speaker><content>Well, like we said before. Anyone could have grabbed the light bulb from another part of the house and placed it there. I guess Smith did it. He’s in with the DA right now writing his confession.</content></utterance>
+<utterance uid="37-3"><speaker>CASTLE</speaker><content>Yeah well, what I don’t get is if he was so in love with Melanie, why would he kill her?</content></utterance>
+<utterance uid="37-4"><speaker>BECKETT</speaker><content>He said that a demon made him do it.</content></utterance>
+<utterance uid="37-5"><speaker>BECKETT</speaker><content>Just laying the groundwork for his insanity plea, I’m sure.</content></utterance>
+<utterance uid="37-6"><speaker>CASTLE</speaker><content>Perhaps.</content></utterance>
+<utterance uid="37-7"><speaker>BECKETT</speaker><content>C’mon Castle. Even you have to admit everything, every haunting, every death, everything even remotely connected to paranormal activity in the McClaren house can be explained by that passageway.</content></utterance>
+<utterance uid="37-8"><speaker>CASTLE</speaker><content>I don’t know. What about last night, when we were in the living room? How about the door? The light? The candle?</content></utterance>
+<utterance uid="37-9"><speaker>BECKETT</speaker><content>Old wiring,  drafty house.</content></utterance>
+<utterance uid="37-10"><speaker>CASTLE</speaker><content>Well, maybe it was something more. Think about it. If you hadn’t gone looking for the draft that blew out the candle you would have never found the passageway or Matt Benton’s body.</content></utterance>
+<utterance uid="37-11"><speaker>BECKETT</speaker><content>Spell it out for those of us that are … paranormally impaired.</content></utterance>
+<utterance uid="37-12"><speaker>CASTLE</speaker><content>Maybe someone wanted us to find that passageway.  Maybe Jack Sinclair’s ghost was helping solve his own murder.</content></utterance>
+<utterance uid="37-13"><speaker>BECKETT</speaker><content>Okay. I will tell you what. I’ll admit to that possibility if you admit that there is no demon.</content></utterance>
+<utterance uid="37-14"><speaker>CASTLE</speaker><content>Done.</content></utterance>
+<utterance uid="37-15"><speaker>CASTLE</speaker><content>Did anyone … see …</content></utterance>
+</scene>
+<scene id="38"><utterance uid="38-1"><speaker>ALEXIS</speaker><content>Hi, Dad.</content></utterance>
+<utterance uid="38-2"><speaker>CASTLE</speaker><content>Hey, you’re up late. Playing Skype tag with Ashley?</content></utterance>
+<utterance uid="38-3"><speaker>ALEXIS</speaker><content>No. We finally connected.</content></utterance>
+<utterance uid="38-4"><speaker>CASTLE</speaker><content>Ah… was it everything you hoped for in a peer-to-peer video conference and more?</content></utterance>
+<utterance uid="38-5"><speaker>ALEXIS</speaker><content>Honestly, it was … blah. I mean, he was preoccupied and I was tired and … this whole time difference thing is a real drag.</content></utterance>
+<utterance uid="38-6"><speaker>CASTLE</speaker><content>Nobody said long distance was easy.</content></utterance>
+<utterance uid="38-7"><speaker>ALEXIS</speaker><content>Yeah, but is it supposed to be this hard?</content></utterance>
+<utterance uid="38-8"><speaker>CASTLE</speaker><content>Well, I can tell you this. Any relationship that lasts longer than a breath mint is gonna have challenges. But if a relationship isn’t going to work out, it’s usually not because of the challenges. It’s usually because the relationship wasn’t strong enough to begin with.</content></utterance>
+<utterance uid="38-9"><speaker>CASTLE</speaker><content>Does this help?</content></utterance>
+<utterance uid="38-10"><speaker>ALEXIS</speaker><content>Not really.</content></utterance>
+<utterance uid="38-11"><speaker>CASTLE</speaker><content>Yeah.</content></utterance>
+<utterance uid="38-12"><speaker>ALEXIS</speaker><content>But this always does.</content></utterance>
+<utterance uid="38-13"><speaker>CASTLE</speaker><content>Hmm. I promise you this.</content></utterance>
+<utterance uid="38-14"><speaker>ALEXIS</speaker><content>Hmm.</content></utterance>
+<utterance uid="38-15"><speaker>CASTLE</speaker><content>If two people believe in something, really believe, anything, even the impossible, is possible.</content></utterance>
+<utterance uid="38-16"><speaker>ALEXIS</speaker><content>Even flesh eating zombies?</content></utterance>
+<utterance uid="38-17"><speaker>CASTLE</speaker><content>Oh, especially flesh eating zombies.</content></utterance>
+<utterance uid="38-18"><speaker>CASTLE</speaker><content>Now where were we?</content></utterance>
+<utterance uid="38-19"><speaker>ALEXIS</speaker><content>Yeah, right there.</content></utterance>
+</scene>
+</script>

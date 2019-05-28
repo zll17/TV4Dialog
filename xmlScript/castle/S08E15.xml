@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+
+
+<scene id="1"><utterance uid="1-1"><speaker>KATE BECKETT</speaker><content>Good morning.</content></utterance>
+<utterance uid="1-2"><speaker>RICHARD CASTLE</speaker><content>Hey.</content></utterance>
+<utterance uid="1-3"><speaker>BECKETT</speaker><content>I’m surprised you’re up, given how late you got in from L.A. last night.</content></utterance>
+<utterance uid="1-4"><speaker>CASTLE</speaker><content>Oh. Well, I thought we could play a little catch-up before you got off to work. Oh!</content></utterance>
+<utterance uid="1-5"><speaker>BECKETT</speaker><content>I’m all yours.  Thanks.</content></utterance>
+<utterance uid="1-6"><speaker>CASTLE</speaker><content>Careful. I made it a little strong this morning.</content></utterance>
+<utterance uid="1-7"><speaker>BECKETT</speaker><content>Yes, that will wake the dead.</content></utterance>
+<utterance uid="1-8"><speaker>CASTLE</speaker><content>It would certainly make your job a lot easier. One interview, “he’s the guy who killed me”, case closed.</content></utterance>
+<utterance uid="1-9"><speaker>BECKETT</speaker><content>Castle, I am guessing that you found out something about your missing time and that’s what you want to catch up with me on?</content></utterance>
+<utterance uid="1-10"><speaker>CASTLE</speaker><content>Uh – actually, yeah, actually, I did. Um … but I was thinking, how about we eat first?</content></utterance>
+<utterance uid="1-11"><speaker>BECKETT</speaker><content>Oh. Wow. That bad?</content></utterance>
+<utterance uid="1-12"><speaker>MARTHA RODGERS</speaker><content>Knock knock! Are you decent?</content></utterance>
+<utterance uid="1-13"><speaker>CASTLE</speaker><content>Mother!</content></utterance>
+<utterance uid="1-14"><speaker>MARTHA</speaker><content>Oh, welcome home, darling.</content></utterance>
+<utterance uid="1-15"><speaker>CASTLE</speaker><content>Oh, what a pleasant surprise. You know – you – you could have called first.</content></utterance>
+<utterance uid="1-16"><speaker>MARTHA</speaker><content>Well, I didn’t want to disturb you in case you wanted to sleep in.  Oh, darling, I thought I would just sneak in and make my boy a little breakfast.  Oh, well, phooey. You beat me to it.</content></utterance>
+<utterance uid="1-17"><speaker>CASTLE</speaker><content>Yeah, I, well –</content></utterance>
+<utterance uid="1-18"><speaker>MARTHA</speaker><content>You expecting someone?</content></utterance>
+<utterance uid="1-19"><speaker>CASTLE</speaker><content>Oh, just old habits. So did you really come just to make me breakfast? Because that does not sound like you.</content></utterance>
+<utterance uid="1-20"><speaker>MARTHA</speaker><content>Oh, pish posh.  Actually, I just got an advance copy of my book that I wanted you to see.</content></utterance>
+<utterance uid="1-21"><speaker>CASTLE</speaker><content> Unsolicited Advice by Martha Rodgers. Mother, I am so proud of you!</content></utterance>
+<utterance uid="1-22"><speaker>MARTHA</speaker><content>Oh, thank you. Read the dedication.</content></utterance>
+<utterance uid="1-23"><speaker>CASTLE</speaker><content> ”For Richard”.  “Without your constant stumbles in life the advice in this book would not have been possible.” Constant stumbles?</content></utterance>
+<utterance uid="1-24"><speaker>MARTHA</speaker><content>Let’s not make this about you.</content></utterance>
+<utterance uid="1-25"><speaker>CASTLE</speaker><content>It –  – one second.  Hey! Where are you?</content></utterance>
+<utterance uid="1-26"><speaker>BECKETT</speaker><content>Hallway. I uh, snuck out through the bedroom. That would be the height of irony, huh? We managed to successfully hide our relationship from LokSat only to get outed by your mom. Look, do you want me to sneak back at lunch so we can talk about what you found?</content></utterance>
+<utterance uid="1-27"><speaker>CASTLE</speaker><content>No, no, okay, that’s – I’ll see you tonight.</content></utterance>
+<utterance uid="1-28"><speaker>BECKETT</speaker><content>Okay.  Listen, I gotta go. I love you.</content></utterance>
+<utterance uid="1-29"><speaker>CASTLE</speaker><content>Bye.</content></utterance>
+<utterance uid="1-30"><speaker>MARTHA</speaker><content>So I just wanted to say –</content></utterance>
+<utterance uid="1-31"><speaker>BECKETT</speaker><content>This is Beckett.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>BECKETT</speaker><content>All right, guys, what’ve we got?</content></utterance>
+<utterance uid="2-2"><speaker>JAVIER ESPOSITO</speaker><content>Right now our victim is a John Doe. There’s no phone or ID on the victim but we’ve scanned his prints and we’re running them now.</content></utterance>
+<utterance uid="2-3"><speaker>KEVIN RYAN</speaker><content>From the blood trail it looks like he was shot around the corner and collapsed here.</content></utterance>
+<utterance uid="2-4"><speaker>BECKETT</speaker><content>Okay, I’m still not sure why you needed the captain to come down.</content></utterance>
+<utterance uid="2-5"><speaker>LANIE PARRISH</speaker><content>Our victim was shot in the back. He bled out within a few minutes, then the killer took the time and the risk to cut out the bullet.</content></utterance>
+<utterance uid="2-6"><speaker>ESPOSITO</speaker><content>Obviously our killer was worried that ballistics would lead back to him.</content></utterance>
+<utterance uid="2-7"><speaker>BECKETT</speaker><content>Which means the gun’s already in the system. Do you have a time of death?</content></utterance>
+<utterance uid="2-8"><speaker>LANIE</speaker><content>Between 9 and midnight.</content></utterance>
+<utterance uid="2-9"><speaker>RYAN</speaker><content>Got a hit on the fingerprint match. Our victim’s name is Daniel Bardot.  He’s a recruit officer at the NYPD Academy.</content></utterance>
+<utterance uid="2-10"><speaker>ESPOSITO</speaker><content>He’s one of us.</content></utterance>
+</scene>
+
+<scene id="3"><utterance uid="3-1"><speaker>ESPOSITO</speaker><content>I got Bardot’s phone records, but unfortunately the GPS was turned off on his cell so we still don’t know what he was doing in that neighborhood.</content></utterance>
+<utterance uid="3-2"><speaker>BECKETT</speaker><content>What about calls?</content></utterance>
+<utterance uid="3-3"><speaker>ESPOSITO</speaker><content>Last call he made was at 5:30 to a law firm in Midtown. Only lasted a minute. Vikram’s checking it out.</content></utterance>
+<utterance uid="3-4"><speaker>TRAINING OFFICER</speaker><content>My Granny’s stronger than all three of you guys combined!</content></utterance>
+<utterance uid="3-5"><speaker>ESPOSITO</speaker><content>Bad flashbacks, bro.</content></utterance>
+<utterance uid="3-6"><speaker>TRAINING OFFICER</speaker><content>You gotta want it!</content></utterance>
+<utterance uid="3-7"><speaker>RYAN</speaker><content>Pushups were the answer to everything around this place. Police work is more than just strength and endurance. It’s about intellectual rigor.</content></utterance>
+<utterance uid="3-8"><speaker>BECKETT</speaker><content>Oh, come on, you guys. It wasn’t all that bad here.</content></utterance>
+<utterance uid="3-9"><speaker>RYAN</speaker><content>Says the Academy All Star. Oh, look. Recruit Officer Beckett … Recruit Officer Beckett … oh, Recruit Officer Beckett.</content></utterance>
+<utterance uid="3-10"><speaker>BECKETT</speaker><content>I’m going to go download with the Academy commissioner. You guys head over to Bardot’s dorm room. There’s gotta be a clue here as to who his killer is.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>BECKETT</speaker><content>Hi, Deputy Commissioner Malone, I’m Kate Beckett.</content></utterance>
+<utterance uid="4-2"><speaker>DEPUTY COMMISSIONER MALONE</speaker><content>Captain, nice to finally meet you. You’re a bit of a legend around these parts. Recruits have been gunning for your records since I got here five years ago. So far no one’s gotten close.</content></utterance>
+<utterance uid="4-3"><speaker>BECKETT</speaker><content>Yeah, well, they will. Every record falls in the end.</content></utterance>
+<utterance uid="4-4"><speaker>MALONE</speaker><content>Here’s Bardot’s file. I’ve assigned his instructor, Sergeant Ortiz, to be your liaison.  You know Sergeant Ortiz.</content></utterance>
+<utterance uid="4-5"><speaker>BECKETT</speaker><content>Yeah, I do. He was my instructor when I was here. His tough love is the reason why my name’s on all of those plaques out there.</content></utterance>
+<utterance uid="4-6"><speaker>MALONE</speaker><content>Come in, Sergeant.</content></utterance>
+<utterance uid="4-7"><speaker>SERGEANT ORTIZ</speaker><content>Thank you, sir.</content></utterance>
+<utterance uid="4-8"><speaker>SERGEANT ORTIZ</speaker><content>Captain Beckett.</content></utterance>
+<utterance uid="4-9"><speaker>BECKETT</speaker><content>It’s so good to see you, Sergeant.  So what can you tell me about Daniel Bardot?</content></utterance>
+<utterance uid="4-10"><speaker>MALONE</speaker><content>He was an admirable kid. Got a rough start in life. His parents were killed in a robbery when he was nine.</content></utterance>
+<utterance uid="4-11"><speaker>ORTIZ</speaker><content>That’s not surprising when you grow up in Hunt’s Point.</content></utterance>
+<utterance uid="4-12"><speaker>BECKETT</speaker><content>The Irish mafia’s backyard. There’s not a lot of good cops coming out of that dirty furnace.</content></utterance>
+<utterance uid="4-13"><speaker>ORTIZ</speaker><content>Don’t have to tell me. I went toe to toe with that Lucky Jack Flanagan long before I was teaching you. Never could make a charge stick on that guy.</content></utterance>
+<utterance uid="4-14"><speaker>BECKETT</speaker><content>Bardot must have had a lot of fortitude to make it all the way over here.</content></utterance>
+<utterance uid="4-15"><speaker>ORTIZ</speaker><content>He was definitely driven. But he also had a tendency to let emotion to get the best of him. He’d rush into situations without thinking, and it had gotten worse the last couple of days.</content></utterance>
+<utterance uid="4-16"><speaker>BECKETT</speaker><content>What do you mean?</content></utterance>
+<utterance uid="4-17"><speaker>ORTIZ</speaker><content>He kept fumbling a tactical drill he usually aced, so I pulled him aside and confronted him. He said he screwed something up in his personal life, he didn’t know what to do. I told him to cowboy up, set it right. Now I’m thinking he died trying to do just that.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>HAYLEY SHIPTON</speaker><content>You didn’t tell Kate what happened in Los Angeles? You chickened out.</content></utterance>
+<utterance uid="5-2"><speaker>CASTLE</speaker><content>I did not chicken out, all right? I was interrupted. And now I’m wondering if it was a sign from the universe.</content></utterance>
+<utterance uid="5-3"><speaker>HAYLEY</speaker><content>What? The universe sent your mother to tell you what?</content></utterance>
+<utterance uid="5-4"><speaker>CASTLE</speaker><content>Take my own advice.</content></utterance>
+<utterance uid="5-5"><speaker>CASTLE</speaker><content>I am erasing our mind for a reason. To protect Kate.</content></utterance>
+<utterance uid="5-6"><speaker>HAYLEY</speaker><content>Okay. Enough. Go and talk to your wife.</content></utterance>
+<utterance uid="5-7"><speaker>CASTLE</speaker><content>If I hadn’t wiped my memory, Beckett’s friends at the AG’s office might still be alive. What if she can’t forgive me?</content></utterance>
+<utterance uid="5-8"><speaker>HAYLEY</speaker><content>That decision’s not yours to make, Rick.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>RYAN</speaker><content>What? Bardot’s room is huge compared to the one I lived in. That thing was barely a closet.</content></utterance>
+<utterance uid="6-2"><speaker>ESPOSITO</speaker><content>Yeah, I never really bunked on campus. I got enough of communal living when I was in the army, and besides, you can’t really bring a ménage of cop groupies home to a dorm room.</content></utterance>
+<utterance uid="6-3"><speaker>RACHEL DECKER</speaker><content>What are you doing in here?</content></utterance>
+<utterance uid="6-4"><speaker>ESPOSITO</speaker><content>We’re investigating a homicide. Who are you?</content></utterance>
+<utterance uid="6-5"><speaker>DECKER</speaker><content>Recruit Officer Rachel Decker.</content></utterance>
+<utterance uid="6-6"><speaker>ESPOSITO</speaker><content>Did you know Daniel Bardot?</content></utterance>
+<utterance uid="6-7"><speaker>DECKER</speaker><content>Yes, sir. He was in my training company.</content></utterance>
+<utterance uid="6-8"><speaker>ESPOSITO</speaker><content>You know what he was doing last night?</content></utterance>
+<utterance uid="6-9"><speaker>DECKER</speaker><content>No, sir. We invited him to go out with us but he begged off. Sir, if there’s any way I can help with this investigation, I want in.</content></utterance>
+<utterance uid="6-10"><speaker>ORTIZ</speaker><content>You forget your place, Decker? You’re not even a lowly uniform. What could you possibly offer these distinguished detectives?</content></utterance>
+<utterance uid="6-11"><speaker>BECKETT</speaker><content>Insight. Did you train along Officer Bardot?</content></utterance>
+<utterance uid="6-12"><speaker>DECKER</speaker><content>Yes, ma’am.</content></utterance>
+<utterance uid="6-13"><speaker>BECKETT</speaker><content>So you forged a bond with him against the evil Sergeant Ortiz, which means you have information on Bardot that his higher ups do not, is that correct, recruit?</content></utterance>
+<utterance uid="6-14"><speaker>DECKER</speaker><content>Yes.</content></utterance>
+<utterance uid="6-15"><speaker>BECKETT</speaker><content>So tell me, what was he struggling with? What did he need to set right?</content></utterance>
+<utterance uid="6-16"><speaker>DECKER</speaker><content> I don’t know. Sorry.</content></utterance>
+<utterance uid="6-17"><speaker>ORTIZ</speaker><content>Way to face plant in front of a superior, Decker. This is Captain Beckett.</content></utterance>
+<utterance uid="6-18"><speaker>DECKER</speaker><content>Captain, I –</content></utterance>
+<utterance uid="6-19"><speaker>ORTIZ</speaker><content>You’re dismissed, recruit!</content></utterance>
+<utterance uid="6-20"><speaker>BECKETT</speaker><content>That was a little harsh, don’t you think?</content></utterance>
+<utterance uid="6-21"><speaker>ORTIZ</speaker><content>I do not. Being put in her place is exactly what Decker needs. She’s the real deal. Her name could very well be on all of your trophies by the time she’s done here. But she desperately needs to learn a little humility.</content></utterance>
+<utterance uid="6-22"><speaker>BECKETT</speaker><content>Lanie, you find anything in the autopsy?</content></utterance>
+<utterance uid="6-23"><speaker>LANIE</speaker><content>I did. The bullet broke up when it hit a rib. Bardot’s killer didn’t get all the pieces. I managed to pull a small fragment from a kidney. I got a ballistics match. The 9mm that fired it is in the database. Kate, it’s NYPD. Registered to the Academy.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>RYAN</speaker><content>The murder weapon is missing from the weapons cage assigned to Bardot’s company, company thirty eight.</content></utterance>
+<utterance uid="7-2"><speaker>ESPOSITO</speaker><content>The lock on the CCTV security closet was jimmied open. Someone killed the security cams in the weapons room between 7:30 and 7:35 last night.</content></utterance>
+<utterance uid="7-3"><speaker>MALONE</speaker><content>At that hour it’s mainly recruits left in the building. All faculty resides off campus. And only members of company thirty eight has access to that weapons cage.</content></utterance>
+<utterance uid="7-4"><speaker>BECKETT</speaker><content>So our killer is one of Bardot’s fellow recruits.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>BECKETT</speaker><content>Fourteen suspects who eat, drink, and sleep police training and techniques.</content></utterance>
+<utterance uid="8-2"><speaker>DAVE CHAMBERS</speaker><content>Captain on deck!</content></utterance>
+<utterance uid="8-3"><speaker>BECKETT</speaker><content>Who spent months learning how we catch killers. Which makes them uniquely equipped to plan a murder.</content></utterance>
+<utterance uid="8-4"><speaker>BECKETT</speaker><content>So we are going to have to use every trick in the book to uncover who killed Daniel Bardot.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>BECKETT</speaker><content>At ease, officers. Take a seat.</content></utterance>
+<utterance uid="9-2"><speaker>ORTIZ</speaker><content>Company thirty eight, this is Captain Beckett of the Twelfth Precinct. Because of last night’s tragic event she will be joining us today as a special guest instructor. Respect her or your ass will meet my boot.</content></utterance>
+<utterance uid="9-3"><speaker>BECKETT</speaker><content>Thank you, Sergeant.  First of all, let me assure you that I have the best NYPD detectives looking into Officer Bardot’s murder. That being said, this is not going to be the last time that you lose one of your coworkers.  That is a reality of this job. The temptation is going to be to remain stoic in the face of adversity. To lock up your emotions so as not to appear weak. That is a mistake. Avoid that temptation at all costs, trust me. I have been on the edge of that map and monsters lie there. Now look around. This is your team. No one is going to understand what you are feeling better than the woman or man sitting next to you, so use them.  Officer Chambers, I’m very sorry about the loss of your fellow recruit. How do you feel?</content></utterance>
+<utterance uid="9-4"><speaker>CHAMBERS</speaker><content>The city lost a great cop, ma’am. We should all aspire to be a guardian of justice like he was.</content></utterance>
+<utterance uid="9-5"><speaker>BECKETT</speaker><content>Is that a PR statement for the Post? One of your brothers was gunned down. I asked you how you felt.</content></utterance>
+<utterance uid="9-6"><speaker>JANE LOPEZ</speaker><content>We feel pissed off, Captain.</content></utterance>
+<utterance uid="9-7"><speaker>STEVE TAKATA</speaker><content>Yeah. Set us loose. Let us track down the son of a b*tch who did this.</content></utterance>
+<utterance uid="9-8"><speaker>BECKETT</speaker><content>Well, Officer Decker already volunteered her services for that very role.</content></utterance>
+<utterance uid="9-9"><speaker>DECKER</speaker><content>The offer still stands, Captain. And frankly, I didn’t become a cop to get in touch with my feelings. I’m here because bad people exist in the world and I can’t wait to start putting them in prison where they belong.</content></utterance>
+<utterance uid="9-10"><speaker>BECKETT</speaker><content>All right, get ready for a training session.</content></utterance>
+<utterance uid="9-11"><speaker>ORTIZ</speaker><content>I just checked the front gate log. Ten of the recruits were off campus at the time of Bardot’s murder.</content></utterance>
+<utterance uid="9-12"><speaker>BECKETT</speaker><content>All right, well, these three all have the same hand stamp. The club across the street had a sign from last night offering karaoke, so I’m going to have my detectives run those photos over there, but I’m guessing they’re going to alibi out.</content></utterance>
+<utterance uid="9-13"><speaker>ORTIZ</speaker><content>Leaving these seven.</content></utterance>
+<utterance uid="9-14"><speaker>BECKETT</speaker><content>Mmhmm.</content></utterance>
+<utterance uid="9-15"><speaker>ORTIZ</speaker><content>You know, if word gets out that these recruits are suspects it’ll haunt their careers. Even if proved innocent.</content></utterance>
+<utterance uid="9-16"><speaker>BECKETT</speaker><content>Well then, we need to keep it to a tight circle.</content></utterance>
+<utterance uid="9-17"><speaker>ORTIZ</speaker><content>What’s the next move?</content></utterance>
+<utterance uid="9-18"><speaker>BECKETT</speaker><content>Well, I think it’s a safe bet that if one of these seven killed Bardot, it was their first murder and unless they’re a complete psychopath, which the psych eval would have revealed, that they spent a long, dark night at the soul, reliving the recoil of the gun and the knife cutting into Bardot’s body to get that bullet out.</content></utterance>
+<utterance uid="9-19"><speaker>ORTIZ</speaker><content>Meaning what?</content></utterance>
+<utterance uid="9-20"><speaker>BECKETT</speaker><content>Meaning they’re on a razor’s edge. And I want to put them in a high stress simulation and watch them shoot a gun.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>ORTIZ</speaker><content>Lopez, Takada, you’re up.</content></utterance>
+<utterance uid="10-2"><speaker>BECKETT</speaker><content>There. That pause. What was that?</content></utterance>
+<utterance uid="10-3"><speaker>ORTIZ</speaker><content>Hate to break it to you, but that’s normal for Takada. Guy’s got a hitch in his giddyup I cannot cure.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>ORTIZ</speaker><content>Decker, Chambers, you’re up.</content></utterance>
+<utterance uid="11-2"><speaker>BECKETT</speaker><content>What about Decker? The other recruits don’t seem to like her.</content></utterance>
+<utterance uid="11-3"><speaker>ORTIZ</speaker><content>Every recruit’s got a problem with Decker. She’s ultra focused, competitive as hell, and is walled off from everyone. Kind of like you were.</content></utterance>
+<utterance uid="11-4"><speaker>BECKETT</speaker><content>Wait a second. Bardot’s tactical gear. We didn’t find it in his dorm room.</content></utterance>
+<utterance uid="11-5"><speaker>ORTIZ</speaker><content>No, we put lockers in so they could keep it here.</content></utterance>
+<utterance uid="11-6"><speaker>BECKETT</speaker><content>And which locker is Bardot’s?</content></utterance>
+<utterance uid="11-7"><speaker>ORTIZ</speaker><content>Seven.</content></utterance>
+<utterance uid="11-8"><speaker>ORTIZ</speaker><content>Am I witnessing one of Kate Beckett’s famous hunches?</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>RYAN</speaker><content>The lab couldn’t pull any prints off of that blue index card. We’ve got our handwriting expert comparing it against samples from the other suspects, but he’s not optimistic given the block letters.</content></utterance>
+<utterance uid="12-2"><speaker>ESPOSITO</speaker><content>Is that Beckett?</content></utterance>
+<utterance uid="12-3"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+<utterance uid="12-4"><speaker>ESPOSITO</speaker><content>Let me holler at her.  Beckett, hey. You remember that phone call that Bardot made to that Midtown law firm the day he died? Yeah, I went over there, only no one remembers the call. So without more to go on it looks like a dead end.  Yeah, I’ll keep you posted.</content></utterance>
+<utterance uid="12-5"><speaker>ESPOSITO</speaker><content>Beckett’s not here. She’s at the Police Academy working a high profile murder. One of the recruit officers was killed.</content></utterance>
+<utterance uid="12-6"><speaker>CASTLE</speaker><content>That’s a little close to home. These the suspects?</content></utterance>
+<utterance uid="12-7"><speaker>ESPOSITO</speaker><content>Yeah, and three more recruits just alibied out.</content></utterance>
+<utterance uid="12-8"><speaker>CASTLE</speaker><content>Your victim was killed by a fellow recruit?</content></utterance>
+<utterance uid="12-9"><speaker>ESPOSITO</speaker><content>Appears so, and word is these four were watching the fights at a local boxing gym at the time of the murder, but that alibi’s soft.</content></utterance>
+<utterance uid="12-10"><speaker>RYAN</speaker><content>Hey. Just spoke with Liz from Vice. The boxing gym is a notorious hotpot for illegal steroids. Rumor has it that one of the trainers was dealing to a cop at the Academy.</content></utterance>
+<utterance uid="12-11"><speaker>CASTLE</speaker><content>So the victim, Bardot, stumbled onto a dirty cop.</content></utterance>
+<utterance uid="12-12"><speaker>RYAN</speaker><content>Well, that would explain the threatening note, “dead men tell no tales”.</content></utterance>
+<utterance uid="12-13"><speaker>CASTLE</speaker><content>But Bardot wouldn’t back down so the cop kills him.</content></utterance>
+<utterance uid="12-14"><speaker>RYAN</speaker><content>Hmm.</content></utterance>
+<utterance uid="12-15"><speaker>CASTLE</speaker><content>What was the name of the cop who was dealing?</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>RYAN</speaker><content>Arthur Stenson. Today’s not your lucky day.</content></utterance>
+<utterance uid="13-2"><speaker>ESPOSITO</speaker><content>It’s actually the complete opposite of your lucky day.</content></utterance>
+<utterance uid="13-3"><speaker>ARTHUR STENSON</speaker><content>Look, man, I don’t know what people been telling you, but I don’t sell drugs.</content></utterance>
+<utterance uid="13-4"><speaker>RYAN</speaker><content>Oh, really? Because that’s exactly what they’ve been telling us.</content></utterance>
+<utterance uid="13-5"><speaker>ESPOSITO</speaker><content>And the stash that we found hidden in the false bottom of your locker confirms it.</content></utterance>
+<utterance uid="13-6"><speaker>RYAN</speaker><content>So here’s the deal. We say nice things about you to the DA, maybe get you a suspended sentence, if you give up that cop you’ve been dealing to at the Academy.</content></utterance>
+<utterance uid="13-7"><speaker>ARTHUR</speaker><content> I can’t.</content></utterance>
+<utterance uid="13-8"><speaker>RYAN</speaker><content>Well, I guess we’re done here, then. Say hi to the jury for us.</content></utterance>
+<utterance uid="13-9"><speaker>ARTHUR</speaker><content>I can’t because we’ve never met! All right? Look. The cop puts cash in the locker, I pick it up, I leave the drugs. That’s it.</content></utterance>
+<utterance uid="13-10"><speaker>ESPOSITO</speaker><content>So how do you know you’re dealing to a police officer?</content></utterance>
+<utterance uid="13-11"><speaker>ARTHUR</speaker><content>The buyer only arranges pickups on police appreciation nights. The NYPD doesn’t pay a cover. The gym’s crawling with cops.</content></utterance>
+<utterance uid="13-12"><speaker>RYAN</speaker><content>How does the buyer contact you?</content></utterance>
+<utterance uid="13-13"><speaker>ARTHUR</speaker><content>They shove an index card in my locker. The note says when they want delivery.</content></utterance>
+<utterance uid="13-14"><speaker>RYAN</speaker><content>Hold on. A blue index card?</content></utterance>
+<utterance uid="13-15"><speaker>ARTHUR</speaker><content> Yeah.</content></utterance>
+<utterance uid="13-16"><speaker>ESPOSITO</speaker><content> I think I know how Beckett can smoke out our killer.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>BECKETT</speaker><content>The thing about interviewing a suspect is you have to find what works for you. Your own personal style. Now, some people like good cop/bad cop, others like bad cop/worse cop. But choosing just one method is a mistake. Every suspect is different and sometimes you don’t know how you’re going to go at them until they start talking. Because you only get one shot in interrogation and if you screw it up –  – a killer might walk free. So, I want to try something. I need a volunteer.</content></utterance>
+<utterance uid="14-2"><speaker>BECKETT</speaker><content>Yeah. Lopez. Right over here.  Miss Lopez, thank you for coming in.</content></utterance>
+<utterance uid="14-3"><speaker>LOPEZ</speaker><content>Anything I can do to help the NYPD.</content></utterance>
+<utterance uid="14-4"><speaker>BECKETT</speaker><content>So a crime was committed last night and your name was mentioned. I was wondering if you could tell me where you were.</content></utterance>
+<utterance uid="14-5"><speaker>LOPEZ</speaker><content>Sure. I went to the fights over at Harry’s Gym.</content></utterance>
+<utterance uid="14-6"><speaker>BECKETT</speaker><content>Mmhm. You go alone?</content></utterance>
+<utterance uid="14-7"><speaker>LOPEZ</speaker><content>No, Takada, Chambers, Decker, we all went.</content></utterance>
+<utterance uid="14-8"><speaker>BECKETT</speaker><content>You have anything to drink?</content></utterance>
+<utterance uid="14-9"><speaker>LOPEZ</speaker><content> Yeah, we had a few drinks.</content></utterance>
+<utterance uid="14-10"><speaker>BECKETT</speaker><content>How many?</content></utterance>
+<utterance uid="14-11"><speaker>LOPEZ</speaker><content>I don’t remember. What’s in the bag?</content></utterance>
+<utterance uid="14-12"><speaker>BECKETT</speaker><content>Why?</content></utterance>
+<utterance uid="14-13"><speaker>LOPEZ</speaker><content>I don’t know. You put it on the table. It must mean something.</content></utterance>
+<utterance uid="14-14"><speaker>BECKETT</speaker><content>Decker! Take her place.</content></utterance>
+<utterance uid="14-15"><speaker>BECKETT</speaker><content>Was Miss Lopez telling the truth? Were you out last night?</content></utterance>
+<utterance uid="14-16"><speaker>DECKER</speaker><content>Yeah.</content></utterance>
+<utterance uid="14-17"><speaker>BECKETT</speaker><content>And were the four of you out together all night?</content></utterance>
+<utterance uid="14-18"><speaker>BECKETT</speaker><content>Don’t look at them. Look at me. Were the four of you together all night watching the fight?</content></utterance>
+<utterance uid="14-19"><speaker>DECKER</speaker><content>No. Uh, Lopez and Takada left early. Chambers was still there when I left, which was right before the last fight.</content></utterance>
+<utterance uid="14-20"><speaker>BECKETT</speaker><content>Do you know what a PED is?</content></utterance>
+<utterance uid="14-21"><speaker>DECKER</speaker><content> Yeah. It’s a performance enhancing drug.</content></utterance>
+<utterance uid="14-22"><speaker>BECKETT</speaker><content>Chambers. Take Decker’s place.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>ESPOSITO</speaker><content>Where’re you running to, recruit?</content></utterance>
+<utterance uid="15-2"><speaker>RYAN</speaker><content>You don’t want to miss the rest of Captain’s lecture, do you? Turn over.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>BECKETT</speaker><content>Ready to earn some extra credit?</content></utterance>
+<utterance uid="16-2"><speaker>CHAMBERS</speaker><content>I want a lawyer.</content></utterance>
+<utterance uid="16-3"><speaker>BECKETT</speaker><content>Yeah well, you better get a good one. Juries don’t like cop killers.</content></utterance>
+<utterance uid="16-4"><speaker>CHAMBERS</speaker><content>Wait, you think I popped Bardot?</content></utterance>
+<utterance uid="16-5"><speaker>BECKETT</speaker><content>We found a stack of identical cards in your dorm room desk.</content></utterance>
+<utterance uid="16-6"><speaker>CHAMBERS</speaker><content>Lawyer.</content></utterance>
+<utterance uid="16-7"><speaker>BECKETT</speaker><content>You sent that to Bardot because he found that out you were dealing drugs.</content></utterance>
+<utterance uid="16-8"><speaker>CHAMBERS</speaker><content>Lawyer.</content></utterance>
+<utterance uid="16-9"><speaker>BECKETT</speaker><content>Fine.  You want in on a bet?</content></utterance>
+<utterance uid="16-10"><speaker>CHAMBERS</speaker><content>On what?</content></utterance>
+<utterance uid="16-11"><speaker>BECKETT</speaker><content>On you. You’re not cooperating so I’m taking protective custody off the table, and a bunch of us are wagering on how long you’re going to last once the inmates find out that you’re a cop. I’m guessing under twelve hours and I’m feeling really lucky right now.</content></utterance>
+<utterance uid="16-12"><speaker>CHAMBERS</speaker><content> Wait. Can I make a deal?</content></utterance>
+<utterance uid="16-13"><speaker>BECKETT</speaker><content>Depends. Start talking.</content></utterance>
+<utterance uid="16-14"><speaker>CHAMBERS</speaker><content>Look, the fights didn’t let out until after Bardot was murdered. Witnesses can verify I was there.</content></utterance>
+<utterance uid="16-15"><speaker>BECKETT</speaker><content>So why did you threaten him?</content></utterance>
+<utterance uid="16-16"><speaker>CHAMBERS</speaker><content> Bardot caught me with my stash the morning that he was killed. I sent the note hoping to keep him from ratting me out, only Bardot wasn’t intimidated. But he offered a deal; five grand for his silence. Apparently he was desperate for cash. So I paid up and he flagged a cab to the city.</content></utterance>
+<utterance uid="16-17"><speaker>BECKETT</speaker><content>And why did he need the money so urgently?</content></utterance>
+<utterance uid="16-18"><speaker>CHAMBERS</speaker><content>Beats me.</content></utterance>
+<utterance uid="16-19"><speaker>BECKETT</speaker><content>Nah. You’re going to have to do better than that.</content></utterance>
+<utterance uid="16-20"><speaker>CHAMBERS</speaker><content>I don’t know! But if anyone does it’d be his girlfriend.</content></utterance>
+<utterance uid="16-21"><speaker>BECKETT</speaker><content>Okay. Does his girlfriend have a name?</content></utterance>
+<utterance uid="16-22"><speaker>CHAMBERS</speaker><content> Recruit officer Decker.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>BECKETT</speaker><content>I used to come here between classes, too. I always enjoyed the extra practice. Except a mannequin doesn’t resist arrest.</content></utterance>
+<utterance uid="17-2"><speaker>DECKER</speaker><content>I got it, Captain. Thanks.</content></utterance>
+<utterance uid="17-3"><speaker>BECKETT</speaker><content>Show me.</content></utterance>
+<utterance uid="17-4"><speaker>BECKETT</speaker><content>Can I make a suggestion?</content></utterance>
+<utterance uid="17-5"><speaker>DECKER</speaker><content>I tripped, okay? I got it.</content></utterance>
+<utterance uid="17-6"><speaker>BECKETT</speaker><content>Shut up and listen, recruit. You might actually learn something. Turn around. Now, the fact that you’re a woman is an advantage, especially over men. You have a lower center of gravity so use it. Drop into your hips and then pull him past the tipping point.  Got it?  Okay.</content></utterance>
+<utterance uid="17-7"><speaker>BECKETT</speaker><content>Once the chest goes through the rest will follow.</content></utterance>
+<utterance uid="17-8"><speaker>BECKETT</speaker><content>Try it?  All right.</content></utterance>
+<utterance uid="17-9"><speaker>BECKETT</speaker><content>Good. You’re a quick study.</content></utterance>
+<utterance uid="17-10"><speaker>DECKER</speaker><content>Thanks, Captain.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>ESPOSITO</speaker><content>We’ve got the murder weapon. Dumpster diver found it buried in a bag of garbage. The gun was wiped clean but not the rounds in the magazine. Check this out. The prints are a match to Bardot’s.</content></utterance>
+<utterance uid="18-2"><speaker>RYAN</speaker><content>If Bardot loaded it then he had to have been the one who stole it from the Academy.  So he was shot with his own gun?</content></utterance>
+<utterance uid="18-3"><speaker>ESPOSITO</speaker><content>Question is, what was he doing with it out there in the first place?</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>BECKETT</speaker><content>The Academy is a stressful place. Plenty of pressures here. Especially since one mistake can put a stink on an entire cop career. Like, uh, getting caught fraternizing with another recruit.</content></utterance>
+<utterance uid="19-2"><speaker>DECKER</speaker><content>Are you going to have me booted?</content></utterance>
+<utterance uid="19-3"><speaker>BECKETT</speaker><content>No. But I need you to be on the up and up with me from now on.</content></utterance>
+<utterance uid="19-4"><speaker>DECKER</speaker><content> Of course. Anything you want to know.</content></utterance>
+<utterance uid="19-5"><speaker>BECKETT</speaker><content>Officer Bardot leveraged Chambers for five grand. Apparently he needed that money urgently. Do you know why?</content></utterance>
+<utterance uid="19-6"><speaker>DECKER</speaker><content> No, no clue. I swear. Look, the truth is, Danny was hiding something from me. He had been going out the last few nights, which was really unlike him. He’d slip into my room late, said he’d been out for a midnight jog but, I mean, I knew that was total BS because when he came in he wasn’t tired, he wasn’t sweaty. He just always smelled like rotten fish.</content></utterance>
+<utterance uid="19-7"><speaker>BECKETT</speaker><content>Really?</content></utterance>
+<utterance uid="19-8"><speaker>DECKER</speaker><content>Yeah. It was weird. I asked him about it. He said he accidentally stepped in garbage on his run. But if that was the case then –</content></utterance>
+<utterance uid="19-9"><speaker>BECKETT</speaker><content>Then why did he smell like rotten fish every night?</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>RYAN</speaker><content>Sweet and spicy shrimp?</content></utterance>
+<utterance uid="20-2"><speaker>BECKETT</speaker><content>Where from?</content></utterance>
+<utterance uid="20-3"><speaker>RYAN</speaker><content>Chinatown. Across the street from the back alley computer repair shop where Bardot was dropped with five grand burning a hole in his pocket.</content></utterance>
+<utterance uid="20-4"><speaker>BECKETT</speaker><content>What was he doing there?</content></utterance>
+<utterance uid="20-5"><speaker>RYAN</speaker><content>Owner refused to talk when I showed her his photo. So I looked into her. Word is, she deals in black market software and hardware. Bardot may have bought something from her.</content></utterance>
+<utterance uid="20-6"><speaker>BECKETT</speaker><content>I wonder why. Let’s get Bardot’s laptop to Vikram, have him run a deeper search.</content></utterance>
+<utterance uid="20-7"><speaker>RYAN</speaker><content>All right.</content></utterance>
+<utterance uid="20-8"><speaker>ESPOSITO</speaker><content>Yo. Decker’s tip on Bardot’s shoes paid off. The lab identified wild Scottish salmon scales on the soles. And only three fish markets import Scottish salmon.</content></utterance>
+<utterance uid="20-9"><speaker>BECKETT</speaker><content>That’s the same neighborhood as the crime scene, and apparently Bardot went there on consecutive nights.</content></utterance>
+<utterance uid="20-10"><speaker>ESPOSITO</speaker><content>We’ll canvass the fish market, see if we can find out what he was up to.</content></utterance>
+<utterance uid="20-11"><speaker>BECKETT</speaker><content>Okay.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>CASTLE</speaker><content>You were right. I uncovered the real reason I had my memories erased, and it’s bad.  I knew about LokSat a year and a half ago. Before your AG team was murdered, before Vikram sought you out and his squads came gunning. Beckett, this was on me before it was on you.</content></utterance>
+<utterance uid="21-2"><speaker>BECKETT</speaker><content>You knew about LokSat? Everything? Including their connection to Bracken? And you chose to forget this? Why?</content></utterance>
+<utterance uid="21-3"><speaker>CASTLE</speaker><content>For reasons you know all too well. I was trying to protect you.</content></utterance>
+<utterance uid="21-4"><speaker>BECKETT</speaker><content>From who?</content></utterance>
+<utterance uid="21-5"><speaker>CASTLE</speaker><content>From yourself.</content></utterance>
+<utterance uid="21-6"><speaker>ESPOSITO</speaker><content>Hey, Captain. Uh … we found something you need to see.</content></utterance>
+<utterance uid="21-7"><speaker>BECKETT</speaker><content>I’ll be right there.</content></utterance>
+<utterance uid="21-8"><speaker>BECKETT</speaker><content>I need time to process this.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>BECKETT</speaker><content>What is it?</content></utterance>
+<utterance uid="22-2"><speaker>RYAN</speaker><content>We found street cam footage of Bardot before he was killed. This is Bardot an hour before he was murdered walking past the fish market, which is right across the alley from a lingerie wholesaler. It’s a known front for Jack Flanagan, aka Lucky Jack. He’s the mafia boss who runs Hunt’s Point.</content></utterance>
+<utterance uid="22-3"><speaker>BECKETT</speaker><content>Bardot grew up in Hunt’s Point.</content></utterance>
+<utterance uid="22-4"><speaker>ESPOSITO</speaker><content>Check this out. The law firm that Bardot contacted? They represent Jack Flanagan.</content></utterance>
+<utterance uid="22-5"><speaker>RYAN</speaker><content>Bardot was communicating to Flanagan through a third party so it couldn’t be traced.</content></utterance>
+<utterance uid="22-6"><speaker>ESPOSITO</speaker><content>And it gets better. Show her.</content></utterance>
+<utterance uid="22-7"><speaker>RYAN</speaker><content>Our victim was in league with the Irish mafia.</content></utterance>
+<utterance uid="22-8"><speaker>BECKETT</speaker><content>Flanagan must have planted Bardot in the NYPD as his mole. For all we know he’s been grooming Bardot since he was a kid in the old neighborhood.</content></utterance>
+<utterance uid="22-9"><speaker>RYAN</speaker><content>What I don’t get is if Bardot was working for Flanagan why did Bardot bring a gun to the meeting?</content></utterance>
+<utterance uid="22-10"><speaker>BECKETT</speaker><content>Protection. Ortiz said that Bardot was looking to set something right. He had second thoughts about being the mole for Flanagan and then Flanagan killed him for it.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>CASTLE</speaker><content>I was trying to protect you.</content></utterance>
+<utterance uid="23-2"><speaker>BECKETT</speaker><content>From who?</content></utterance>
+<utterance uid="23-3"><speaker>CASTLE</speaker><content>From yourself.</content></utterance>
+<utterance uid="23-4"><speaker>RYAN</speaker><content>Bardot’s computer. Vikram found a hidden folder that contains every NYPD file of Flanagan and his crew.</content></utterance>
+<utterance uid="23-5"><speaker>BECKETT</speaker><content>Surveillance photos, wiretaps, CIs. Everything that Flanagan would need to stay one step ahead of the police.</content></utterance>
+<utterance uid="23-6"><speaker>ESPOSITO</speaker><content>But how did Bardot hack in to the NYPD secured network? It’s hardwired into select department computers.</content></utterance>
+<utterance uid="23-7"><speaker>BECKETT</speaker><content>Including the computer in Commissioner Malone’s office at the Academy. Bardot must have snuck into Malone’s office, used a portable password cracker on it – that’s what he got at the black market with the five grand he squeezed out of Chambers.</content></utterance>
+<utterance uid="23-8"><speaker>RYAN</speaker><content>Flanagan used Bardot to get these files. After he got them he turned on his own mole.</content></utterance>
+<utterance uid="23-9"><speaker>ESPOSITO</speaker><content>Bardot must have seen the double cross coming. He pulled his gun, they fought, Flanagan got the upper hand and he shot Bardot in the back.</content></utterance>
+<utterance uid="23-10"><speaker>BECKETT</speaker><content>All right, let’s dig into Flanagan, see if we can corroborate this.</content></utterance>
+<utterance uid="23-11"><speaker>RYAN</speaker><content>You want us to pick him up?</content></utterance>
+<utterance uid="23-12"><speaker>BECKETT</speaker><content>Nope. Not yet. I’m going to have a sit down with Lucky Jack, see if I can rattle his cage.</content></utterance>
+</scene>
+
+<scene id="24"><utterance uid="24-1"><speaker>BECKETT</speaker><content>So you deny that Bardot supplied you with confidential NYPD files?</content></utterance>
+<utterance uid="24-2"><speaker>JACK FLANAGAN</speaker><content>Absolutely. With prejudice. That kid came in here looking for a job as a lingerie salesman.</content></utterance>
+<utterance uid="24-3"><speaker>BECKETT</speaker><content>Bardot was working for you. And I’m going to prove that you killed him.</content></utterance>
+<utterance uid="24-4"><speaker>FLANAGAN</speaker><content>Twenty years. Twenty years you guys have been coming in here with all these accusations against old Lucky Jack. The problem is that none of you ever followed up with the proof. So … unless you’re here to buy a pair of crotchless panties for that special someone in your life I suggest you grab your hat and books and you get the hell out of my store.</content></utterance>
+<utterance uid="24-5"><speaker>BECKETT</speaker><content>See, that’s how I know I’m going to take you down. It’s the cocky ones that are the easiest. You’re so busy being clever you don’t see the matchstick falling out of your pocket. Well, I’m going to find that matchstick. And then I’m going to burn you with it.</content></utterance>
+</scene>
+
+<scene id="25"><utterance uid="25-1"><speaker>CASTLE</speaker><content>Hey.</content></utterance>
+<utterance uid="25-2"><speaker>BECKETT</speaker><content>How did we end up here again? You lie to protect me, I lie to protect you.</content></utterance>
+<utterance uid="25-3"><speaker>BECKETT</speaker><content>I’m not going to yell. Or throw around blame.</content></utterance>
+<utterance uid="25-4"><speaker>CASTLE</speaker><content>You know, the novelist George Sand, who was a woman, by the way, once wrote, “Lying, like license, has its degrees” -</content></utterance>
+<utterance uid="25-5"><speaker>CASTLE</speaker><content>Anything.</content></utterance>
+<utterance uid="25-6"><speaker>BECKETT</speaker><content>Stop talking.</content></utterance>
+<utterance uid="25-7"><speaker>CASTLE</speaker><content>So if we’re not talking, what are we doing?</content></utterance>
+</scene>
+
+<scene id="26"><utterance uid="26-1"><speaker>ESPOSITO</speaker><content>Captain! Captain. Looks like Jack Flanagan’s reach goes deeper inside the Academy than just Bardot.</content></utterance>
+<utterance uid="26-2"><speaker>BECKETT</speaker><content>What are you talking about?</content></utterance>
+<utterance uid="26-3"><speaker>RYAN</speaker><content>Well, one of the recruits went to college on a scholarship awarded by a trust created by Flanagan’s law firm. Now, that scholarship was financed by Flanagan himself.</content></utterance>
+<utterance uid="26-4"><speaker>BECKETT</speaker><content>So Flanagan has a second mole in the Police Academy? Who?</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>DECKER</speaker><content>I am not his mole! And neither was Danny!</content></utterance>
+<utterance uid="27-2"><speaker>BECKETT</speaker><content>We found the police files that he hacked into and then handed over to Flanagan.</content></utterance>
+<utterance uid="27-3"><speaker>DECKER</speaker><content> Oh no. No, no, no. Danny must have made a deal in order to save me.</content></utterance>
+<utterance uid="27-4"><speaker>BECKETT</speaker><content>Save you from what?</content></utterance>
+<utterance uid="27-5"><speaker>DECKER</speaker><content>The man that knocked up my mother.</content></utterance>
+<utterance uid="27-6"><speaker>BECKETT</speaker><content>You’re Flanagan’s daughter?</content></utterance>
+<utterance uid="27-7"><speaker>DECKER</speaker><content>A one night stand does not make him a parent. It makes him a donor.</content></utterance>
+<utterance uid="27-8"><speaker>BECKETT</speaker><content>You took his blood money.</content></utterance>
+<utterance uid="27-9"><speaker>DECKER</speaker><content>He and my mother had an arrangement: staying quiet on my paternity in exchange for monthly payouts to her and a college fund for me. But that was it.</content></utterance>
+<utterance uid="27-10"><speaker>BECKETT</speaker><content>Then why did Bardot need to save you?</content></utterance>
+<utterance uid="27-11"><speaker>DECKER</speaker><content>A few weeks ago Flanagan found out that I’d joined the Academy. He demanded that I be his inside woman. His mole. Threatened to out me as his daughter if I didn’t. Ruin my entire career before it even began.</content></utterance>
+<utterance uid="27-12"><speaker>BECKETT</speaker><content>Because no cop will ever trust Lucky Jack’s kid.</content></utterance>
+<utterance uid="27-13"><speaker>DECKER</speaker><content>I panicked. I ended up opening up to Danny. He was the one that talked me off the edge. Told me that Flanagan was bluffing. I had no idea he was going to offer himself up in my place. What do I do, Captain?</content></utterance>
+<utterance uid="27-14"><speaker>BECKETT</speaker><content>There is only one move that you can make. Do you want to arrests Bardot’s killer? Bring down Flanagan? Something the NYPD hasn’t done for twenty years? You’re the one person Flanagan might open up to. You need to wear a wire.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>BECKETT</speaker><content>All right, you get into trouble what are you going to say?  Decker?</content></utterance>
+<utterance uid="28-2"><speaker>DECKER</speaker><content>What?</content></utterance>
+<utterance uid="28-3"><speaker>BECKETT</speaker><content>Panic phrase.</content></utterance>
+<utterance uid="28-4"><speaker>DECKER</speaker><content>Oh, um… I could really use a drink right now. Do you have any Scotch?</content></utterance>
+<utterance uid="28-5"><speaker>BECKETT</speaker><content>Exactly. You say that and we’re going to rush right in.</content></utterance>
+<utterance uid="28-6"><speaker>BECKETT</speaker><content>You’re going to be fine.</content></utterance>
+<utterance uid="28-7"><speaker>DECKER</speaker><content> Okay.</content></utterance>
+<utterance uid="28-8"><speaker>ESPOSITO</speaker><content>You really think she’s ready for this, Cap? Not everybody is as strong as you.</content></utterance>
+<utterance uid="28-9"><speaker>RYAN</speaker><content>I’ll be damned if Flanagan makes her. He won’t hesitate to put a bullet in her skull.</content></utterance>
+<utterance uid="28-10"><speaker>BECKETT</speaker><content>She can handle this.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>BECKETT</speaker><content>Come on, come on. You got it.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>FLANAGAN</speaker><content>The prodigal daughter returns. You know, I am a bit surprised to see you, considering last time we spoke I think you told me to screw myself, right?  Why am I blessed with your presence on this day, huh? Come on, speak up, child.</content></utterance>
+<utterance uid="30-2"><speaker>BECKETT</speaker><content>You got it. Nice and slow.</content></utterance>
+<utterance uid="30-3"><speaker>FLANAGAN</speaker><content>Speak.</content></utterance>
+<utterance uid="30-4"><speaker>DECKER</speaker><content>You know, it didn’t have to play out this way. It was one thing to ask me to be your rat. But when the man I loved volunteered and delivered? Why did you kill Danny?</content></utterance>
+<utterance uid="30-5"><speaker>FLANAGAN</speaker><content>You know, it’s funny. You’re the second lady cop in as many days to stand there and accuse me of said crime. Funny.</content></utterance>
+<utterance uid="30-6"><speaker>RYAN</speaker><content>Damn it, she’s made.</content></utterance>
+<utterance uid="30-7"><speaker>ESPOSITO</speaker><content>They’re going to smoke her, Captain.</content></utterance>
+<utterance uid="30-8"><speaker>FLANAGAN</speaker><content>Whoa.</content></utterance>
+<utterance uid="30-9"><speaker>DECKER</speaker><content>I’m not afraid of you anymore.</content></utterance>
+<utterance uid="30-10"><speaker>BECKETT</speaker><content>Where the hell did she get a gun?</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>DECKER</speaker><content>Now admit to killing Danny or I will end you.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>FLANAGAN</speaker><content>Look, I had nothing to do with your boyfriend’s murder.</content></utterance>
+<utterance uid="32-2"><speaker>DECKER</speaker><content>For once in your miserable life own up to what you did!</content></utterance>
+<utterance uid="32-3"><speaker>FLANAGAN</speaker><content>I’m not lying!</content></utterance>
+<utterance uid="32-4"><speaker>DECKER</speaker><content>I don’t believe you.</content></utterance>
+<utterance uid="32-5"><speaker>ESPOSITO</speaker><content>NYPD!</content></utterance>
+<utterance uid="32-6"><speaker>RYAN</speaker><content>Police!</content></utterance>
+<utterance uid="32-7"><speaker>BECKETT</speaker><content>Decker, look at me.  I said, look at me! You can take him down. Just not like this. You are not him. Put the gun down.</content></utterance>
+<utterance uid="32-8"><speaker>DECKER</speaker><content>As soon as you start telling the truth.</content></utterance>
+<utterance uid="32-9"><speaker>FLANAGAN</speaker><content>Come on, Captain, do something.</content></utterance>
+<utterance uid="32-10"><speaker>BECKETT</speaker><content>Flanagan! Start talking!</content></utterance>
+<utterance uid="32-11"><speaker>FLANAGAN</speaker><content>Okay –  – your boyfriend has a set of balls on him. I mean, he marches in here and tells me to back down. And you know what I do? I say sure. But you got to do a little something for me, okay? Now, your boy comes through, we shake hands, and that’s it.</content></utterance>
+<utterance uid="32-12"><speaker>DECKER</speaker><content>Then who killed him?</content></utterance>
+<utterance uid="32-13"><speaker>FLANAGAN</speaker><content>I don’t know who killed him.</content></utterance>
+<utterance uid="32-14"><speaker>BECKETT</speaker><content>Did he mention having problems with anyone?</content></utterance>
+<utterance uid="32-15"><speaker>FLANAGAN</speaker><content>No, no, no. Look, um … when he left this car started down the street. Now, for a minute I thought maybe he was being tailed. It was a dark sedan. Now that’s it. That’s it, I swear.</content></utterance>
+<utterance uid="32-16"><speaker>DECKER</speaker><content>What do you think?</content></utterance>
+<utterance uid="32-17"><speaker>BECKETT</speaker><content>He’s telling the truth. Stand down. Stand down.</content></utterance>
+<utterance uid="32-18"><speaker>FLANAGAN</speaker><content>Look at that. You are more like me than you know.</content></utterance>
+</scene>
+
+<scene id="33"><utterance uid="33-1"><speaker>HAYLEY</speaker><content>You are a hot mess. I take it your talk with Beckett last night went well?</content></utterance>
+<utterance uid="33-2"><speaker>CASTLE</speaker><content>Less of a discussion, more of an Irish intervention.</content></utterance>
+<utterance uid="33-3"><speaker>HAYLEY</speaker><content>So you just sat around drinking whiskey and avoiding the subject.</content></utterance>
+<utterance uid="33-4"><speaker>CASTLE</speaker><content>Yes. But I can tell she’s still upset with me. She left this morning without waking me.</content></utterance>
+<utterance uid="33-5"><speaker>HAYLEY</speaker><content>So what do you plan on doing about that?</content></utterance>
+<utterance uid="33-6"><speaker>CASTLE</speaker><content>Nothing.</content></utterance>
+<utterance uid="33-7"><speaker>HAYLEY</speaker><content>Well, that has to be the stupidest thing I’ve heard all day.</content></utterance>
+<utterance uid="33-8"><speaker>CASTLE</speaker><content>I am holding onto the thin hope that Beckett can find it in her heart to forgive me.</content></utterance>
+<utterance uid="33-9"><speaker>HAYLEY</speaker><content>Rick! Come on! Stop moping about. Go do something about it.</content></utterance>
+<utterance uid="33-10"><speaker>CASTLE</speaker><content>What? Have Beckett’s memory wiped?</content></utterance>
+<utterance uid="33-11"><speaker>HAYLEY</speaker><content>No. We track down LokSat. Our west coast adventure yielded fruit. We have a window of time in which LokSat arrived in L.A. If we scrub the identities of everyone who landed in any area airport, be it public or private, then sooner or later we’ll find our target. I can start now. Just say the word.</content></utterance>
+<utterance uid="33-12"><speaker>CASTLE</speaker><content>I’m not making any more decisions concerning LokSat without Beckett.</content></utterance>
+<utterance uid="33-13"><speaker>HAYLEY</speaker><content>Now that is the smartest thing I’ve heard all day!</content></utterance>
+<utterance uid="33-14"><speaker>HAYLEY</speaker><content>Oh, I’m so sorry! Okay, I’ll get more aspirin.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>BECKETT</speaker><content>You are not quitting!</content></utterance>
+<utterance uid="34-2"><speaker>DECKER</speaker><content>I’m unfit to be a cop, Captain. If you hadn’t talked me down back there … I had every intention of pulling that trigger.</content></utterance>
+<utterance uid="34-3"><speaker>BECKETT</speaker><content>But you didn’t. You regained your wits. You made the right decision. And that’s what counts.  There was a point in my career where I wanted to quit. I lost faith that I became a cop for the right reason.</content></utterance>
+<utterance uid="34-4"><speaker>DECKER</speaker><content>How did you get your faith back?</content></utterance>
+<utterance uid="34-5"><speaker>BECKETT</speaker><content>A man named Roy Montgomery helped me. He was my captain and he didn’t give up on me and I’m not giving up on you. So don’t let your father define who you are.</content></utterance>
+<utterance uid="34-6"><speaker>DECKER</speaker><content>I have been trying to outrun him my entire life. I’m tired of running. I’m going to head back to the Academy, clean out my room.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>BECKETT</speaker><content>Decker’s quitting.</content></utterance>
+<utterance uid="35-2"><speaker>ORTIZ</speaker><content>Oh. It’s always disappointing. It happens.</content></utterance>
+<utterance uid="35-3"><speaker>BECKETT</speaker><content>No. Not to recruits like her. Not on my watch.</content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>ESPOSITO</speaker><content>Ryan, check this out. Flanagan was telling the truth. Street cam caught this.</content></utterance>
+<utterance uid="36-2"><speaker>RYAN</speaker><content>A dark sedan that was following Bardot after he left Flanagan’s. Can’t make out the driver, though.</content></utterance>
+<utterance uid="36-3"><speaker>ESPOSITO</speaker><content>But you can make out the plate.</content></utterance>
+<utterance uid="36-4"><speaker>RYAN</speaker><content>Who is this registered to?</content></utterance>
+<utterance uid="36-5"><speaker>ESPOSITO</speaker><content>It’s one of ours. Issued to the Police Academy motor pool.</content></utterance>
+</scene>
+<scene id="37"><utterance uid="37-1"><speaker>ORTIZ</speaker><content>Oh, come on, Beckett. Just because she’s got good scores doesn’t mean she’ll make a good cop.</content></utterance>
+<utterance uid="37-2"><speaker>BECKETT</speaker><content>I’d put her on the street before any of the other recruits I met.</content></utterance>
+<utterance uid="37-3"><speaker>BECKETT</speaker><content>Hey Espo, what’ve you got?  Okay. Who’s the car registered to?</content></utterance>
+<utterance uid="37-4"><speaker>BECKETT</speaker><content>Yeah. Thanks for the update.</content></utterance>
+<utterance uid="37-5"><speaker>ORTIZ</speaker><content>Everything all right?</content></utterance>
+<utterance uid="37-6"><speaker>BECKETT</speaker><content>Put your weapon down. Now.</content></utterance>
+</scene>
+<scene id="38"><utterance uid="38-1"><speaker>ORTIZ</speaker><content>You lost your damn mind, Beckett? What’re you doing?</content></utterance>
+<utterance uid="38-2"><speaker>BECKETT</speaker><content>Damn it, Ortiz! Don’t make this harder than it needs to be! I know what you did.</content></utterance>
+<utterance uid="38-3"><speaker>ORTIZ</speaker><content>What, you think I killed Bardot?</content></utterance>
+<utterance uid="38-4"><speaker>BECKETT</speaker><content>You suspected that Bardot was working for Flanagan so you followed him. And then when you found out he was a mole you took him out.</content></utterance>
+<utterance uid="38-5"><speaker>ORTIZ</speaker><content>Where’re you getting this?</content></utterance>
+<utterance uid="38-6"><speaker>BECKETT</speaker><content>We tracked your service vehicle.</content></utterance>
+<utterance uid="38-7"><speaker>ORTIZ</speaker><content> I – I haven’t used that car for days.  I lent it to –</content></utterance>
+<utterance uid="38-8"><speaker>BECKETT</speaker><content>Come on!</content></utterance>
+<utterance uid="38-9"><speaker>BECKETT</speaker><content>Don’t move. You okay?</content></utterance>
+<utterance uid="38-10"><speaker>BECKETT</speaker><content>So it was you, Malone? Why? Why didn’t you just turn Bardot over to IA?</content></utterance>
+<utterance uid="38-11"><speaker>MALONE</speaker><content>I couldn’t! Not after what he found.</content></utterance>
+<utterance uid="38-12"><speaker>BECKETT</speaker><content>Your office computer. He found something when he hacked into it.</content></utterance>
+<utterance uid="38-13"><speaker>MALONE</speaker><content>Caught my hand in the cookie jar. Forty years I protected this city. And the thanks I got? Three busted marriages and a handful of debt. Took what I was owed.</content></utterance>
+<utterance uid="38-14"><speaker>BECKETT</speaker><content>It doesn’t have to end like this.</content></utterance>
+<utterance uid="38-15"><speaker>MALONE</speaker><content>Actually it does.</content></utterance>
+<utterance uid="38-16"><speaker>BECKETT</speaker><content> I’m going to draw him away.</content></utterance>
+<utterance uid="38-17"><speaker>BECKETT</speaker><content>Just give up, Malone! My detectives are on to you.</content></utterance>
+<utterance uid="38-18"><speaker>MALONE</speaker><content>No, they’re onto Ortiz.</content></utterance>
+<utterance uid="38-19"><speaker>MALONE</speaker><content>Damn it.</content></utterance>
+<utterance uid="38-20"><speaker>BECKETT</speaker><content>So what are you going to do, Malone? Kill me and stage it like Ortiz did it? Say you shot him in self-defense?</content></utterance>
+<utterance uid="38-21"><speaker>MALONE</speaker><content>Good plan, huh? They ought to give me a medal.</content></utterance>
+<utterance uid="38-22"><speaker>BECKETT</speaker><content>Peek-a-boo.</content></utterance>
+</scene>
+<scene id="39"><utterance uid="39-1"><speaker>BECKETT</speaker><content>Sarge. I thought we finally got rid of you.</content></utterance>
+<utterance uid="39-2"><speaker>ORTIZ</speaker><content>Oh, it’s going to take more than a bullet to put me down for the long dirt nap.</content></utterance>
+<utterance uid="39-3"><speaker>ESPOSITO</speaker><content>Well, you best heal up quick. You got a new batch of recruits coming in a few weeks.</content></utterance>
+<utterance uid="39-4"><speaker>RYAN</speaker><content>All right, Sarge. We’ll get you out of here. Medic?</content></utterance>
+<utterance uid="39-5"><speaker>ORTIZ</speaker><content> Thanks.</content></utterance>
+<utterance uid="39-6"><speaker>BECKETT</speaker><content> Yeah.</content></utterance>
+<utterance uid="39-7"><speaker>BECKETT</speaker><content>Hey. How’re you holding up?</content></utterance>
+<utterance uid="39-8"><speaker>DECKER</speaker><content>Well, we caught Danny’s killer but Lucky Jack Flanagan’s still free.</content></utterance>
+<utterance uid="39-9"><speaker>BECKETT</speaker><content>Yeah well, his time will come. Stay with the NYPD and you can help with that.  But you can’t keep going at it alone. Do you want to be a cop? Or not?</content></utterance>
+<utterance uid="39-10"><speaker>DECKER</speaker><content> Yes.</content></utterance>
+</scene>
+<scene id="40"><utterance uid="40-1"><speaker>BECKETT</speaker><content>I can’t do this anymore.</content></utterance>
+<utterance uid="40-2"><speaker>CASTLE</speaker><content>Good. Neither can I.</content></utterance>
+<utterance uid="40-3"><speaker>BECKETT</speaker><content>Wait, what are you talking about?</content></utterance>
+<utterance uid="40-4"><speaker>CASTLE</speaker><content>What are you talking about?</content></utterance>
+<utterance uid="40-5"><speaker>BECKETT</speaker><content>I asked first.</content></utterance>
+<utterance uid="40-6"><speaker>CASTLE</speaker><content>And I asked second. So you should answer first and I’ll answer second.</content></utterance>
+<utterance uid="40-7"><speaker>BECKETT</speaker><content>Castle.</content></utterance>
+<utterance uid="40-8"><speaker>CASTLE</speaker><content>Ok – okay. I can’t sit on the sidelines anymore where LokSat is concerned. People have lost their lives and in a way I am culpable. And I know you are trying to protect me but … I am begging you not to. I want in.</content></utterance>
+<utterance uid="40-9"><speaker>BECKETT</speaker><content>Good. Because I need you in. This is our fight now.</content></utterance>
+<utterance uid="40-10"><speaker>CASTLE</speaker><content>Okay.</content></utterance>
+<utterance uid="40-11"><speaker>CASTLE</speaker><content>Okay, then there’s something you should know.  That mystery bullet wound that I got when I disappeared. I was shot in Los Angeles. Two hours before I took that bullet, LokSat came to town arriving by plane.</content></utterance>
+<utterance uid="40-12"><speaker>BECKETT</speaker><content>Uh, okay … there are three major airports along with dozens of private ones in the Los Angeles area. We’re talking tens of thousands of people. But maybe Vikram can whittle that number down.</content></utterance>
+<utterance uid="40-13"><speaker>CASTLE</speaker><content>We’re looking for a needle in a stack of needles, but LokSat is one of those needles. What do you say, Beckett? It’s a place to start.</content></utterance>
+<utterance uid="40-14"><speaker>BECKETT</speaker><content>No. This is.</content></utterance>
+<utterance uid="40-15"><speaker>THE END</speaker><content>CASTLE</content></utterance>
+</scene>
+</script>

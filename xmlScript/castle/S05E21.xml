@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>KATE BECKETT</speaker><content> Hey.</content></utterance>
+<utterance uid="1-2"><speaker>RICHARD CASTLE</speaker><content>Hey.  You got in late last night. Catch a case?</content></utterance>
+<utterance uid="1-3"><speaker>BECKETT</speaker><content>Yeah.  Actually, it’s this one.  Someone blew up an apartment downtown.</content></utterance>
+<utterance uid="1-4"><speaker>CASTLE</speaker><content>Seriously? And you didn’t call me?</content></utterance>
+<utterance uid="1-5"><speaker>BECKETT</speaker><content>Castle, you said you had a chapter due.</content></utterance>
+<utterance uid="1-6"><speaker>CASTLE</speaker><content>Yes, which is writer-speak for “all procrastinations welcome”. So what was it? A terrorist plot? A meth lab?</content></utterance>
+<utterance uid="1-7"><speaker>BECKETT</speaker><content>Um … a canvass turned up a description of a guy fleeing the scene in a silver hatchback.  We called in for traffic cam footage which is already probably in, so I gotta get going.</content></utterance>
+<utterance uid="1-8"><speaker>CASTLE</speaker><content>Or … you have Esposito check that out. He’s very good at it. I feel like I haven’t seen you in days.</content></utterance>
+<utterance uid="1-9"><speaker>BECKETT</speaker><content>You know, I really do have to get going, but –</content></utterance>
+<utterance uid="1-10"><speaker>CASTLE</speaker><content>But you’re powerless to resist me. You always have been.</content></utterance>
+<utterance uid="1-11"><speaker>BECKETT</speaker><content> Really?</content></utterance>
+<utterance uid="1-12"><speaker>CASTLE</speaker><content>Mmm.</content></utterance>
+<utterance uid="1-13"><speaker>BECKETT</speaker><content>Do you remember when we first met? I kind of thought you were an ass.</content></utterance>
+<utterance uid="1-14"><speaker>CASTLE</speaker><content>I know you pretended you thought that, but c’mon. We’re together now. You can admit it. You fell for me the first moment you saw me.</content></utterance>
+<utterance uid="1-15"><speaker>BECKETT</speaker><content> No I didn’t.</content></utterance>
+<utterance uid="1-16"><speaker>CASTLE</speaker><content>Please. You did.</content></utterance>
+<utterance uid="1-17"><speaker>BECKETT</speaker><content>You believe that, don’t you?</content></utterance>
+<utterance uid="1-18"><speaker>CASTLE</speaker><content>It’s true.</content></utterance>
+<utterance uid="1-19"><speaker>BECKETT</speaker><content>Hold on.  Beckett.  Okay. I’ll be right there.  Traffic cam footage turned up a match to the plates.  We got him.</content></utterance>
+<utterance uid="1-20"><speaker>CASTLE</speaker><content>Nice.</content></utterance>
+<utterance uid="1-21"><speaker>BECKETT</speaker><content>Wait. Wait, wait, wait.</content></utterance>
+<utterance uid="1-22"><speaker>CASTLE</speaker><content>Did you see the hearts?</content></utterance>
+<utterance uid="1-23"><speaker>BECKETT</speaker><content>Let’s go, Castle.</content></utterance>
+<utterance uid="1-24"><speaker>CASTLE</speaker><content>Took me, like, 6 minutes.</content></utterance>
+</scene>
+
+<scene id="2"><utterance uid="2-1"><speaker>KEVIN RYAN</speaker><content>The car’s license plate was register to an Archibald Fosse. He lives alone in a fourth floor apartment. This isn’t his first rodeo, either. He got in trouble playing the ponies so he took out his bookie with a car bomb six years ago.</content></utterance>
+<utterance uid="2-2"><speaker>BECKET</speaker><content>Six years and he’s already out?</content></utterance>
+<utterance uid="2-3"><speaker>RYAN</speaker><content>Well, he’s supposed to do 20 years to life, but his case got overturned on an appeal three months ago.</content></utterance>
+<utterance uid="2-4"><speaker>CASTLE</speaker><content>Any idea about the motivation for last night’s bombing?</content></utterance>
+<utterance uid="2-5"><speaker>RYAN</speaker><content>No. We just ID’d him 20 minutes ago. There’s a lot we have to learn about him yet.</content></utterance>
+<utterance uid="2-6"><speaker>JAVIER ESPOSITO</speaker><content>Yo Beckett. This is Diego Jiminez. Uniforms intercepted him on his way up to pay Mr. Fosse a visit.</content></utterance>
+<utterance uid="2-7"><speaker>BECKETT</speaker><content>How do you know him?</content></utterance>
+<utterance uid="2-8"><speaker>DIEGO JIMINEZ</speaker><content>I don’t, really. I’ve never even met him. We connected online. I’m a collector. He said he had some baseball cards from the ‘30s he wanted to sell. That’s all.</content></utterance>
+<utterance uid="2-9"><speaker>CASTLE</speaker><content>Well, we know this much. If Diego had an appointment Fosse’s probably in there.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>SWAT</speaker><content>Move, move! Go, go, go!</content></utterance>
+<utterance uid="3-2"><speaker>BECKETT</speaker><content>NYPD!</content></utterance>
+<utterance uid="3-3"><speaker>BECKETT</speaker><content>Ryan, Espo? He’s coming your way.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>RYAN</speaker><content>Freeze! NYPD!</content></utterance>
+<utterance uid="4-2"><speaker>ESPOSITO</speaker><content>Stop right there!</content></utterance>
+<utterance uid="4-3"><speaker>RYAN</speaker><content>Hey, hey, hey!</content></utterance>
+<utterance uid="4-4"><speaker>ESPOSITO</speaker><content>Let me see your hands.</content></utterance>
+<utterance uid="4-5"><speaker>ESPOSITO</speaker><content>Drop it! Drop it now!</content></utterance>
+<utterance uid="4-6"><speaker>ESPOSITO</speaker><content>What is that? Why is it flashing? Huh? Answer me!</content></utterance>
+<utterance uid="4-7"><speaker>ESPOSITO</speaker><content>Answer me!</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>CASTLE</speaker><content>Baseball cards. Just like he said.</content></utterance>
+<utterance uid="5-2"><speaker>ESPOSITO</speaker><content>Beckett, Castle, get out of there now. The suspect had some sort of device in his pocket. I think he armed something.</content></utterance>
+<utterance uid="5-3"><speaker>BECKETT</speaker><content> Copy that. Everyone out, now. Let’s go. You guys, out.</content></utterance>
+<utterance uid="5-4"><speaker>CASTLE</speaker><content>What was that?</content></utterance>
+<utterance uid="5-5"><speaker>BECKETT</speaker><content> Castle. I think I’m standing on a bomb.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>CASTLE</speaker><content> How long do you think we’ll have to stand here?</content></utterance>
+<utterance uid="6-2"><speaker>BECKETT</speaker><content>Once bomb disposal finishes their sweep we’ll know if there are any other bombs you could step on or if I’m standing on the only one.</content></utterance>
+<utterance uid="6-3"><speaker>CASTLE</speaker><content>We don’t know that you’re standing on a bomb. It could be nothing.</content></utterance>
+<utterance uid="6-4"><speaker>BECKETT</speaker><content>It didn’t feel like nothing. Something gave way under my feet. Felt like a trigger plate.</content></utterance>
+<utterance uid="6-5"><speaker>CASTLE</speaker><content> Could be a wonky floorboard.</content></utterance>
+<utterance uid="6-6"><speaker>BECKETT</speaker><content>With a metallic click?</content></utterance>
+<utterance uid="6-7"><speaker>CASTLE</speaker><content>Loose nail. That’s how floorboards get wonky.</content></utterance>
+<utterance uid="6-8"><speaker>BECKETT</speaker><content>Well I hope you’re right.</content></utterance>
+<utterance uid="6-9"><speaker>CASTLE</speaker><content>I’m right. I mean, think about it. Who puts a live bomb in their own apartment? Makes no sense.  You hungry?</content></utterance>
+<utterance uid="6-10"><speaker>BECKETT</speaker><content>Why?</content></utterance>
+<utterance uid="6-11"><speaker>CASTLE</speaker><content>Because any minute someone’s going to come through that door and give us the all clear and there is an amazing diner not three blocks from here.</content></utterance>
+<utterance uid="6-12"><speaker>BECKETT</speaker><content>Yeah? Well, I did miss my breakfast this morning.</content></utterance>
+<utterance uid="6-13"><speaker>CASTLE</speaker><content>Yeah, oh, they make these incredible foamy lattes. Cups as big as your head and a goat cheese omelet to die for.  Which would be a poor choice of words if you were standing on a bomb, but guess what? You’re not.</content></utterance>
+<utterance uid="6-14"><speaker>BECKETT</speaker><content>You know, if I have to be stuck not standing on a bomb, then I’m glad I’m stuck with you.</content></utterance>
+<utterance uid="6-15"><speaker>CASTLE</speaker><content>I know.</content></utterance>
+<utterance uid="6-16"><speaker>CAPTAIN MAHONEY</speaker><content>Captain Mahoney, bomb disposal unit. Which one of you is Detective Beckett?</content></utterance>
+<utterance uid="6-17"><speaker>BECKETT</speaker><content>I’m Detective Beckett. This is Castle.</content></utterance>
+<utterance uid="6-18"><speaker>MAHONEY</speaker><content>Castle, you can relax. We’re x-rayed the entire apartment from the floor below. There are no other explosives.</content></utterance>
+<utterance uid="6-19"><speaker>CASTLE</speaker><content>No other explosives, so…?</content></utterance>
+<utterance uid="6-20"><speaker>MAHONEY</speaker><content>Detective, I’m afraid you’ve stepped on a senor plate wired to a detonator. Depressing that plate was sort of like cocking the hammer of a gun. You take your weight off there it’s like pulling the trigger. So it’s very important that you don’t move ‘til we figure out how to disarm it.</content></utterance>
+</scene>
+
+<scene id="7"><utterance uid="7-1"><speaker>CAPTAIN VICTORIA GATES</speaker><content>BDU just confirmed it. Beckett’s standing on a bomb. Trace detection estimates 10 kilograms of RDX, enough to take out the whole building.</content></utterance>
+<utterance uid="7-2"><speaker>ESPOSITO</speaker><content>So what’s the plan?</content></utterance>
+<utterance uid="7-3"><speaker>RYAN</speaker><content>Sir, tell me there’s a plan.</content></utterance>
+<utterance uid="7-4"><speaker>GATES</speaker><content>They’re working on it. What do we have on that bomber?</content></utterance>
+<utterance uid="7-5"><speaker>RYAN</speaker><content>It looks like his motive was revenge. Kelly Runther, the woman he blew up last night, testified against him in his arson trial six years ago.</content></utterance>
+<utterance uid="7-6"><speaker>GATES</speaker><content>Then why would he booby trap his own apartment?</content></utterance>
+<utterance uid="7-7"><speaker>ESPOSITO</speaker><content>The defense at his trial centered on allegations of evidence tampering by police, so …</content></utterance>
+<utterance uid="7-8"><speaker>GATES</speaker><content>He’s got a vendetta against cops.</content></utterance>
+<utterance uid="7-9"><speaker>ESPOSITO</speaker><content>Yes, sir. He wanted this to happen.</content></utterance>
+<utterance uid="7-10"><speaker>GATES</speaker><content>Well we’re not going to let. You get him in the box. I want to know how to deactivate that bomb.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>ARCHIBALD FOSSE</speaker><content>What makes you think it can be deactivated?</content></utterance>
+<utterance uid="8-2"><speaker>ESPOSITO</speaker><content>You better pray that it can, because the person standing on it, she’s a friend of mine.</content></utterance>
+<utterance uid="8-3"><speaker>FOSSE</speaker><content>Not for long.</content></utterance>
+<utterance uid="8-4"><speaker>RYAN</speaker><content>That’s where you’re wrong. See, you’re going to help us. You know how the bomb is made. The detonator, the fuse, all the other little parts. If they can stop any one of those parts from working, the bomb fails.</content></utterance>
+<utterance uid="8-5"><speaker>FOSSE</speaker><content>It’s not going to fail. I’m not done yet. None of this is over.</content></utterance>
+<utterance uid="8-6"><speaker>ESPOSITO</speaker><content>Well then you’re going back to jail as a cop killer. And there’s not a prison around that’s gonna –</content></utterance>
+<utterance uid="8-7"><speaker>FOSSE</speaker><content>You want to save your friend? I want a lawyer. Now.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>MAHONEY</speaker><content>We’re estimating the trigger plate is about three feet by three feet. So no one crosses this line.</content></utterance>
+<utterance uid="9-2"><speaker>CASTLE</speaker><content>And the disarming process? How long does that usually take?</content></utterance>
+<utterance uid="9-3"><speaker>MAHONEY</speaker><content>Well that depends on the bomb. We still don’t know what kind of device we’re dealing with.</content></utterance>
+<utterance uid="9-4"><speaker>CASTLE</speaker><content>So what are we supposed to do in the meantime? Just - can’t have her just stand there.</content></utterance>
+<utterance uid="9-5"><speaker>BECKETT</speaker><content>I’m okay, Castle.</content></utterance>
+<utterance uid="9-6"><speaker>CASTLE</speaker><content>No, you’re not okay. You’re standing –  - um – you said stepping on the plate was like cocking the hammer and stepping off the plate was like pulling the trigger. What if we replaced Beckett with something of equal weight? You know, just the old Indiana Jones-golden idol-bag of sand trick?</content></utterance>
+<utterance uid="9-7"><speaker>BECKETT</speaker><content>Remember how that turned out?</content></utterance>
+<utterance uid="9-8"><speaker>MAHONEY</speaker><content>Look, the plate she’s standing on can sense even minor fluctuations in pressure. You try to transfer the weight, you’ll set off the bomb. Put any type of protective gear on her, you’ll set off the bomb. She shifts too quickly from one foot to the other –</content></utterance>
+<utterance uid="9-9"><speaker>CASTLE</speaker><content>- set off the bomb. I – I get it. Thank you. I’m sorry. I – so what are we supposed to do? Just stand here?</content></utterance>
+<utterance uid="9-10"><speaker>MAHONEY</speaker><content>Not you, Mr. Castle. All nonessential personnel must evacuate.</content></utterance>
+<utterance uid="9-11"><speaker>CASTLE</speaker><content>Oh, no. I am essential personnel.</content></utterance>
+<utterance uid="9-12"><speaker>BECKETT</speaker><content>Castle. It’s okay.</content></utterance>
+<utterance uid="9-13"><speaker>MAHONEY</speaker><content>We’ll take good care of her. I’ve got guys downstairs right now figuring this out. Meantime, Detective, sit tight. I’ll check back with you soon.</content></utterance>
+<utterance uid="9-14"><speaker>CASTLE</speaker><content>I appreciate it. I’m staying.</content></utterance>
+<utterance uid="9-15"><speaker>BECKETT</speaker><content> Castle, please. There is no reason to put yourself in danger. There’s nothing that you can do here.</content></utterance>
+<utterance uid="9-16"><speaker>CASTLE</speaker><content>Nothing? Excuse me, who’s going to be your bomb buddy?</content></utterance>
+<utterance uid="9-17"><speaker>BECKETT</speaker><content>My bomb buddy?</content></utterance>
+<utterance uid="9-18"><speaker>CASTLE</speaker><content>You heard what he said. You’re going to be standing here, maybe for hours. If I don’t stay, who’s going to keep your spirits up? Who’s going to keep your mind off of getting tired?</content></utterance>
+<utterance uid="9-19"><speaker>BECKETT</speaker><content>Castle, I’m going to be fine. I feel fine.</content></utterance>
+<utterance uid="9-20"><speaker>CASTLE</speaker><content>That would be great if you were a reliable judge of your own feelings, which clearly, you’re not.</content></utterance>
+<utterance uid="9-21"><speaker>BECKETT</speaker><content>What does that mean?</content></utterance>
+<utterance uid="9-22"><speaker>CASTLE</speaker><content>I’m sorry, exhibit A. According to you, you felt nothing for me when we first met.  Which we both know –</content></utterance>
+<utterance uid="9-23"><speaker>BECKETT</speaker><content>Are you actu – oh, I get it. I know what you’re doing.</content></utterance>
+<utterance uid="9-24"><speaker>CASTLE</speaker><content>What?</content></utterance>
+<utterance uid="9-25"><speaker>BECKETT</speaker><content>You know what, Castle? Forget it. I’m not going down that path. You can just go now.</content></utterance>
+<utterance uid="9-26"><speaker>CASTLE</speaker><content>Fine. I’ll leave. If you admit to me you had feelings for me when we first met.</content></utterance>
+<utterance uid="9-27"><speaker>BECKETT</speaker><content>Fine. I did have feelings for you when we first me.  I couldn’t stand you. Do you even remember what you were like in the beginning?</content></utterance>
+<utterance uid="9-28"><speaker>CASTLE</speaker><content>Well apparently I was irresistible.</content></utterance>
+<utterance uid="9-29"><speaker>BECKETT</speaker><content>Irresistible? Are you joking?</content></utterance>
+<utterance uid="9-30"><speaker>BECKETT</speaker><content>Richard Castle, you are under arrest for obstruction of justice.</content></utterance>
+<utterance uid="9-31"><speaker>CASTLE</speaker><content>You forgot making you look bad.</content></utterance>
+<utterance uid="9-32"><speaker>BECKETT</speaker><content>Cuff him.</content></utterance>
+<utterance uid="9-33"><speaker>CASTLE</speaker><content>Bondage. My safe word is apples.</content></utterance>
+<utterance uid="9-34"><speaker>CASTLE</speaker><content>Do I look like a killer to you?</content></utterance>
+<utterance uid="9-35"><speaker>BECKETT</speaker><content>Yes. You kill my patience.</content></utterance>
+<utterance uid="9-36"><speaker>CASTLE</speaker><content>Guess who’s got a date with a prostitute!</content></utterance>
+<utterance uid="9-37"><speaker>CASTLE</speaker><content>So many lonely women approached me thinking I was their Tom Hanks. I got laid –</content></utterance>
+<utterance uid="9-38"><speaker>BECKETT</speaker><content>Castle.</content></utterance>
+<utterance uid="9-39"><speaker>BECKETT</speaker><content>Don’t make me shoot you.</content></utterance>
+<utterance uid="9-40"><speaker>CASTLE</speaker><content>I really am ruggedly handsome, aren’t I?</content></utterance>
+<utterance uid="9-41"><speaker>BECKETT</speaker><content> I’m gonna kill you.</content></utterance>
+<utterance uid="9-42"><speaker>BECKETT</speaker><content>Do I have to wait for him to sign or can I shoot him now?</content></utterance>
+<utterance uid="9-43"><speaker>BECKETT</speaker><content>How shallow are you?</content></utterance>
+<utterance uid="9-44"><speaker>CASTLE</speaker><content>Very.</content></utterance>
+<utterance uid="9-45"><speaker>BECKETT</speaker><content>Call me a muse again and I will break both your legs, ‘kay?</content></utterance>
+<utterance uid="9-46"><speaker>CASTLE</speaker><content>‘kay.</content></utterance>
+<utterance uid="9-47"><speaker>BECKETT</speaker><content>In your dreams.</content></utterance>
+<utterance uid="9-48"><speaker>CASTLE</speaker><content>Actually, in my dreams you’re never jealous. In my dreams you just join i-</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>CASTLE</speaker><content>Okay, if you couldn’t stand me when we first met, tell me this. Why couldn’t you keep your hands off me?</content></utterance>
+<utterance uid="10-2"><speaker>BECKETT</speaker><content>What are you even talking about?</content></utterance>
+<utterance uid="10-3"><speaker>CASTLE</speaker><content>Oh, you know what I’m talking about.</content></utterance>
+<utterance uid="10-4"><speaker>BECKETT</speaker><content>Mmhmm. Of course. Sure, I’ll be right there.</content></utterance>
+<utterance uid="10-5"><speaker>CASTLE</speaker><content>Ooww!</content></utterance>
+<utterance uid="10-6"><speaker>CASTLE</speaker><content>Ow!</content></utterance>
+<utterance uid="10-7"><speaker>CASTLE</speaker><content>Ow, ow! Apples, apples!</content></utterance>
+<utterance uid="10-8"><speaker>BECKETT</speaker><content>Hold my hand.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>BECKETT</speaker><content>That? Castle, that was called survival. We were just huddling for warmth.</content></utterance>
+<utterance uid="11-2"><speaker>CASTLE</speaker><content>Cuddling?</content></utterance>
+<utterance uid="11-3"><speaker>BECKETT</speaker><content>Huddling.</content></utterance>
+<utterance uid="11-4"><speaker>CASTLE</speaker><content>Or, one could say it’s a small part of a larger pattern. Unwanted touching in the workplace.</content></utterance>
+<utterance uid="11-5"><speaker>BECKETT</speaker><content>Oh, so you’re being harassed? Is that it?</content></utterance>
+<utterance uid="11-6"><speaker>CASTLE</speaker><content>You know, you’re very lucky. A less understanding man would press charges with all the inappropriate things you’ve said to me.</content></utterance>
+<utterance uid="11-7"><speaker>BECKETT</speaker><content>Really? Like what?</content></utterance>
+<utterance uid="11-8"><speaker>CASTLE</speaker><content>Oh, geez. How do you even get in that position?</content></utterance>
+<utterance uid="11-9"><speaker>ESPOSITO</speaker><content>Right?</content></utterance>
+<utterance uid="11-10"><speaker>RYAN</speaker><content>It’s not even possible.</content></utterance>
+<utterance uid="11-11"><speaker>BECKETT</speaker><content>Oh, it’s possible.</content></utterance>
+<utterance uid="11-12"><speaker>BECKETT</speaker><content>Okay, gauntlet your right wrist in your left palm.</content></utterance>
+<utterance uid="11-13"><speaker>CASTLE</speaker><content>Whoa! Shot too soon.</content></utterance>
+<utterance uid="11-14"><speaker>BECKETT</speaker><content>You know, we could always just cuddle, Castle.</content></utterance>
+<utterance uid="11-15"><speaker>CASTLE</speaker><content>Did you just use the work veritable?</content></utterance>
+<utterance uid="11-16"><speaker>BECKETT</speaker><content>Yes, I did.</content></utterance>
+<utterance uid="11-17"><speaker>CASTLE</speaker><content>Sexy.</content></utterance>
+<utterance uid="11-18"><speaker>BECKETT</speaker><content>You should hear me say fallacious.</content></utterance>
+<utterance uid="11-19"><speaker>BECKETT</speaker><content>The closest I ever came to taking an art class was posing for one as a model.</content></utterance>
+<utterance uid="11-20"><speaker>CASTLE</speaker><content>Wait, posing in -?</content></utterance>
+<utterance uid="11-21"><speaker>BECKETT</speaker><content>Not a stitch.</content></utterance>
+<utterance uid="11-22"><speaker>BECKETT</speaker><content>What’s the matter, Castle? You afraid of a little role play?</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>BECKETT</speaker><content>That’s it? That’s all you’ve got?</content></utterance>
+<utterance uid="12-2"><speaker>CASTLE</speaker><content>There’s more, but on thinking back I was momentarily distracted by your dizzying array of hairstyles over the years.  Anyway …</content></utterance>
+<utterance uid="12-3"><speaker>BECKETT</speaker><content>I don’t know, Castle. Me, in a swim suit, under the hot, blistering sun?</content></utterance>
+<utterance uid="12-4"><speaker>CASTLE</speaker><content> I’d be happy to rub lotion on you.</content></utterance>
+<utterance uid="12-5"><speaker>BECKETT</speaker><content>You think this is crazy you should see some of the clubs I’ve been to.</content></utterance>
+<utterance uid="12-6"><speaker>CASTLE</speaker><content>You know any good tricks?</content></utterance>
+<utterance uid="12-7"><speaker>BECKETT</speaker><content>I do this one thing, with ice cubes.</content></utterance>
+<utterance uid="12-8"><speaker>BECKETT</speaker><content>There is one hot, wild, kinky thing that I do like doing.  Putting killers behind bars.</content></utterance>
+<utterance uid="12-9"><speaker>BECKETT</speaker><content>Please, let’s just stick it in and get this over with.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>BECKETT</speaker><content>That’s not how I meant it. I can’t help it if you get off by putting things in my mouth.</content></utterance>
+<utterance uid="13-2"><speaker>CASTLE</speaker><content>See, like that. I can’t even. It’s like candy.</content></utterance>
+<utterance uid="13-3"><speaker>BECKETT</speaker><content>Oh, like you’ve never been inappropriate.</content></utterance>
+<utterance uid="13-4"><speaker>CASTLE</speaker><content>Me?</content></utterance>
+<utterance uid="13-5"><speaker>BECKETT</speaker><content>Mmhmm.</content></utterance>
+<utterance uid="13-6"><speaker>CASTLE</speaker><content>I’ve never been anything but a perfect gentleman.</content></utterance>
+<utterance uid="13-7"><speaker>BECKETT</speaker><content>Really?</content></utterance>
+<utterance uid="13-8"><speaker>CASTLE</speaker><content>You ever have any fun? Let your hair down? Drop your top? A little ‘Cops Gone Wild’?</content></utterance>
+<utterance uid="13-9"><speaker>BECKETT</speaker><content>You do know I’m wearing a gun.</content></utterance>
+<utterance uid="13-10"><speaker>CASTLE</speaker><content>Ooh.</content></utterance>
+<utterance uid="13-11"><speaker>CASTLE</speaker><content>Yes, beat my pants off if you dare.</content></utterance>
+<utterance uid="13-12"><speaker>BECKETT</speaker><content>Sex?</content></utterance>
+<utterance uid="13-13"><speaker>CASTLE</speaker><content>I’ll explain how that works later.</content></utterance>
+<utterance uid="13-14"><speaker>CASTLE</speaker><content>Slutty nurse.</content></utterance>
+<utterance uid="13-15"><speaker>CASTLE</speaker><content>You’re very good at bossing men around.</content></utterance>
+<utterance uid="13-16"><speaker>CASTLE</speaker><content>I find that hot.</content></utterance>
+<utterance uid="13-17"><speaker>CASTLE</speaker><content>Let me tell you something about crazy people. The sex is unbelievable.</content></utterance>
+<utterance uid="13-18"><speaker>CASTLE</speaker><content>Did you call to tell me a bedtime story?</content></utterance>
+<utterance uid="13-19"><speaker>CASTLE</speaker><content>I’d be happy to let you spank me.</content></utterance>
+<utterance uid="13-20"><speaker>CASTLE</speaker><content>We’re handcuffed.  Kinky.</content></utterance>
+<utterance uid="13-21"><speaker>CASTLE</speaker><content>Strangely arousing.</content></utterance>
+<utterance uid="13-22"><speaker>BECKETT</speaker><content>You better not be enjoying this.</content></utterance>
+<utterance uid="13-23"><speaker>CASTLE</speaker><content>I’ll let you know in a minute.</content></utterance>
+<utterance uid="13-24"><speaker>CASTLE</speaker><content>If you are not comfortable in a swimsuit you can just skinny dip.</content></utterance>
+<utterance uid="13-25"><speaker>CASTLE</speaker><content>So I wear boxers, what do you wear? Thong? Cheekies? Bloomers? Granny panties?</content></utterance>
+<utterance uid="13-26"><speaker>CASTLE</speaker><content> Commando?</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>BECKETT</speaker><content>And talk about unwanted touching?</content></utterance>
+<utterance uid="14-2"><speaker>BECKETT</speaker><content>Ready?</content></utterance>
+<utterance uid="14-3"><speaker>CASTLE</speaker><content>Yep.</content></utterance>
+<utterance uid="14-4"><speaker>BECKETT</speaker><content>Okay, I’m gonna go up. Ready? Grab my legs.</content></utterance>
+<utterance uid="14-5"><speaker>BECKETT</speaker><content>Cas – I said legs, okay?</content></utterance>
+<utterance uid="14-6"><speaker>CASTLE</speaker><content>Oh. Legs. Sorry.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>CASTLE</speaker><content>Yeah, that’s simply because your legs are so close to your … other bits.</content></utterance>
+<utterance uid="15-2"><speaker>BECKETT</speaker><content>Oh, yeah. Keep telling yourself that, Castle.</content></utterance>
+<utterance uid="15-3"><speaker>BECKETT</speaker><content>It’s going to be okay, right?</content></utterance>
+<utterance uid="15-4"><speaker>CASTLE</speaker><content> Yeah, those guys downstairs, they’ve done this thousands of times.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>BOMB SQUAD TECH</speaker><content>Captain Mahoney, tactical wants an update.</content></utterance>
+<utterance uid="16-2"><speaker>MAHONEY</speaker><content>Well, lack of access is limiting our options. What did you find out about that handheld remote he had?</content></utterance>
+<utterance uid="16-3"><speaker>BOMB SQUAD TECH</speaker><content>It definitely activated the bomb. Good news, tech thinks he can deactivate it as well. But we need the right 5 digit code.</content></utterance>
+<utterance uid="16-4"><speaker>MAHONEY</speaker><content>That’s what, 100,000 combinations?</content></utterance>
+<utterance uid="16-5"><speaker>BOMB SQUAD TECH</speaker><content>Yeah. And it’s tamper proof. Enter the wrong code and …</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>MIKE BOYER</speaker><content>My client says he’s willing to give you the disarm code, but he has some demands.</content></utterance>
+<utterance uid="17-2"><speaker>RYAN</speaker><content>Full amnesty. You’ve got to be kidding me, right? This guy killed someone last night.</content></utterance>
+<utterance uid="17-3"><speaker>BOYER</speaker><content>Uh, allegedly killed.  Look, I know. I told him you wouldn’t go for it, but if you haven’t noticed he’s got a screw loose.</content></utterance>
+<utterance uid="17-4"><speaker>RYAN</speaker><content>I can work on these other things. Food, clothes, even the phone isn’t impossible, but –</content></utterance>
+<utterance uid="17-5"><speaker>BOYER</speaker><content>He won’t go back to prison, okay? He walks or he won’t help her.</content></utterance>
+<utterance uid="17-6"><speaker>RYAN</speaker><content>Boyer, right?</content></utterance>
+<utterance uid="17-7"><speaker>BOYER</speaker><content>Yeah.</content></utterance>
+<utterance uid="17-8"><speaker>RYAN</speaker><content>You’ve been out of law school, what? Two, three years?</content></utterance>
+<utterance uid="17-9"><speaker>BOYER</speaker><content> Ten months.</content></utterance>
+<utterance uid="17-10"><speaker>RYAN</speaker><content>Ten months.</content></utterance>
+<utterance uid="17-11"><speaker>BOYER</speaker><content>Yeah.</content></utterance>
+<utterance uid="17-12"><speaker>RYAN</speaker><content>Okay, listen to me. That detective standing on that bomb, she needs to get through this. You understand me?</content></utterance>
+<utterance uid="17-13"><speaker>BOYER</speaker><content> I - I swear, I’m doing what I can.</content></utterance>
+<utterance uid="17-14"><speaker>RYAN</speaker><content>All right. I’ll take this list to the DA, but we’re gonna need a plan B.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>GATES</speaker><content>DA’s not going for it. Nor should he. Turning this madman loose on society to save a single life, even hers, is against everything we stand for. And Beckett, she’d be the first to agree with that.</content></utterance>
+<utterance uid="18-2"><speaker>RYAN</speaker><content>I’ll go back to the lawyer. See if he can get through to Fosse.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>BOYER</speaker><content>So I told him there was a deal to be had, just not for amnesty –</content></utterance>
+<utterance uid="19-2"><speaker>RYAN</speaker><content>And?</content></utterance>
+<utterance uid="19-3"><speaker>BOYER</speaker><content>And he’s still insisting he walk.  I figured I’d give him a few minutes to think and try again. Detective, I swear I’m doing everything I can.</content></utterance>
+<utterance uid="19-4"><speaker>RYAN</speaker><content> Thanks.</content></utterance>
+<utterance uid="19-5"><speaker>BOYER</speaker><content>Yeah.</content></utterance>
+<utterance uid="19-6"><speaker>ESPOSITO</speaker><content>Yo, do me a favor. Why don’t you keep junior over there busy for me, will you? I’m going to go see our boy in holding.</content></utterance>
+<utterance uid="19-7"><speaker>RYAN</speaker><content>Why?</content></utterance>
+<utterance uid="19-8"><speaker>ESPOSITO</speaker><content>You want that code, right?</content></utterance>
+<utterance uid="19-9"><speaker>RYAN</speaker><content>Javi, what are you going to do?</content></utterance>
+<utterance uid="19-10"><speaker>ESPOSITO</speaker><content>That’s up to him.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>ESPOSITO</speaker><content>Medic! I need a medic in holding now!</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>GATES</speaker><content>How in the hell did he get that pen?</content></utterance>
+<utterance uid="21-2"><speaker>ESPOSITO</speaker><content>That frigging lawyer gave it to him. He was trying to encourage Fosse to come up with some alternate demands.</content></utterance>
+<utterance uid="21-3"><speaker>GATES</speaker><content>And instead he just cost us any hope of getting that disarm code.</content></utterance>
+<utterance uid="21-4"><speaker>ESPOSITO</speaker><content>The guy just got out of prison a couple months ago. Why would he start killing people and why would he take his own life?</content></utterance>
+<utterance uid="21-5"><speaker>RYAN</speaker><content>I think I can answer that. Turns out, Fosse had stage four brain cancer. He found out last month. He was going to die anyway.</content></utterance>
+<utterance uid="21-6"><speaker>GATES</speaker><content>So if he was dying why not take his enemies with him?</content></utterance>
+<utterance uid="21-7"><speaker>RYAN</speaker><content>Exactly. And his enemies weren’t limited to cops and last night’s bombing victim. There was another bombing last week in Connecticut. That victim worked for the ADA that put Fosse in jail sex years ago.</content></utterance>
+<utterance uid="21-8"><speaker>ESPOSITO</speaker><content>Hey, Fosse said “I’m not done yet”.</content></utterance>
+<utterance uid="21-9"><speaker>GATES</speaker><content>Make a list of everyone involved with the prosecution at his trial. We need to warn them. There may be other bombs out there. And get all the information on any fragments that were recovered from both bombings.</content></utterance>
+<utterance uid="21-10"><speaker>RYAN</speaker><content> If those bombs were made with any common components could help BDU deactivate the device that Beckett’s on.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>MAHONEY</speaker><content>Without the disarm code we need to get eyes on the device. We use a fiber optic scope, go in through the ceiling downstairs.</content></utterance>
+<utterance uid="22-2"><speaker>CASTLE</speaker><content>Is that dangerous?</content></utterance>
+<utterance uid="22-3"><speaker>MAHONEY</speaker><content>Well, we’ll do everything we can to minimize the risk. We’ll start across the room, snake the cable over. Still, there’ll be some vibrations so there’s always a chance that –</content></utterance>
+<utterance uid="22-4"><speaker>BECKETT</speaker><content>Just … do it. I can’t keep standing here forever.</content></utterance>
+<utterance uid="22-5"><speaker>MAHONEY</speaker><content>All right. We’ll go as fast as we can but as slow as we have to.</content></utterance>
+<utterance uid="22-6"><speaker>CASTLE</speaker><content>Thank you.</content></utterance>
+<utterance uid="22-7"><speaker>BECKETT</speaker><content> Castle, listen to me –</content></utterance>
+<utterance uid="22-8"><speaker>CASTLE</speaker><content>I’m not leaving.</content></utterance>
+<utterance uid="22-9"><speaker>BECKETT</speaker><content>Look, I know. But depending on what happens there’s something I need you to do. Something that I can’t do myself.</content></utterance>
+<utterance uid="22-10"><speaker>CASTLE</speaker><content>You need me to hind your porn stash so your dad doesn’t find it?</content></utterance>
+<utterance uid="22-11"><speaker>BECKETT</speaker><content>Could you just be serious for a second, please?</content></utterance>
+<utterance uid="22-12"><speaker>CASTLE</speaker><content>Okay. What? What do you need me to do?</content></utterance>
+<utterance uid="22-13"><speaker>BECKETT</speaker><content> Not now, okay? Just promise me you’ll do it?</content></utterance>
+<utterance uid="22-14"><speaker>CASTLE</speaker><content>Yeah. Okay, yeah. But you don’t need to be thinking like this.</content></utterance>
+<utterance uid="22-15"><speaker>BECKETT</speaker><content>I’m just – I’m trying to be realistic, Castle. I’ve been standing here for hours and I’m feeling the fatigue set in.</content></utterance>
+<utterance uid="22-16"><speaker>CASTLE</speaker><content>Don’t think about it. Beating fatigue, it’s just … um… it’s mind over body. Escaped POWs have walked hundreds of miles to gain their freedom. Polar explorer Ernest Shackleton rode in a lifeboat 800 miles to save his crew all because of – </content></utterance>
+<utterance uid="22-17"><speaker>CASTLE</speaker><content>You can convince yourself of almost anything. Much like you convinced yourself you weren’t crazy about me.</content></utterance>
+<utterance uid="22-18"><speaker>BECKETT</speaker><content>Castle, I know what you’re trying to do. You’re trying to take my mind off of it and I appreciate that, but do we really have to –</content></utterance>
+<utterance uid="22-19"><speaker>CASTLE</speaker><content>And by the way, you may have convinced yourself, but –  – you weren’t fooling anyone else. Not me and certainly not your friends.</content></utterance>
+<utterance uid="22-20"><speaker>BECKETT</speaker><content>Really? ‘cause no one ever said anything to me.</content></utterance>
+<utterance uid="22-21"><speaker>LANIE</speaker><content>Girl, I’m gonna smack you. You work side by side every day. He writes a sex scene in his book about you that had me reaching for ice water. Now little miss bride shows up. Don’t tell me you’re not the least bit jealous.</content></utterance>
+<utterance uid="22-22"><speaker>BECKETT</speaker><content>Oh, please. You’ve been inhaling too many autopsy fluids.</content></utterance>
+<utterance uid="22-23"><speaker>LANIE</speaker><content>Honey, just because you can’t see what’s going on doesn’t mean everyone else doesn’t see what’s going on.</content></utterance>
+<utterance uid="22-24"><speaker>BECKETT</speaker><content>Shut up!</content></utterance>
+<utterance uid="22-25"><speaker>NATALIE RHODES</speaker><content>He’s into you. But you’re determined not to give into these feelings that you clearly have for him. So he fantasizes about you through his writing. It’s literally verbal masturbation.</content></utterance>
+<utterance uid="22-26"><speaker>MADISON</speaker><content>No, no, no. I get it. You’re hot for Castle. You want to make little Castle babies.</content></utterance>
+<utterance uid="22-27"><speaker>LANIE</speaker><content>Despite your act, you’re crazy about him.  Oh, what? Was that supposed to be some big secret?</content></utterance>
+<utterance uid="22-28"><speaker>BECKETT</speaker><content>Yes.  No.  Do you think he knows?</content></utterance>
+<utterance uid="22-29"><speaker>KYRA</speaker><content>He’s all yours.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>BECKETT</speaker><content>Okay, okay. They might have said something, but –</content></utterance>
+<utterance uid="23-2"><speaker>CASTLE</speaker><content>Uh huh.</content></utterance>
+<utterance uid="23-3"><speaker>BECKETT</speaker><content>They were completely misreading the situation.</content></utterance>
+<utterance uid="23-4"><speaker>CASTLE</speaker><content>Oh. Much like I must have been misreading the situation all those times you dressed up in revealing outfits to try to turn my head.</content></utterance>
+<utterance uid="23-5"><speaker>CASTLE</speaker><content>- no one …</content></utterance>
+<utterance uid="23-6"><speaker>CASTLE</speaker><content>Undercover. I like it. You might want to pop one more button just in case.</content></utterance>
+<utterance uid="23-7"><speaker>CASTLE</speaker><content>Is it my imagination or did you change?</content></utterance>
+<utterance uid="23-8"><speaker>BECKETT</speaker><content>Castle, could you get some backup please?</content></utterance>
+<utterance uid="23-9"><speaker>CASTLE</speaker><content>Yeah.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>BECKETT</speaker><content>The only reason that I was dressed up was to go undercover.</content></utterance>
+<utterance uid="24-2"><speaker>CASTLE</speaker><content>Oh, I guess it was just a coincidence that each time I just so happened to be there.</content></utterance>
+<utterance uid="24-3"><speaker>BECKETT</speaker><content>No, it wasn’t a coincidence because you were always following me around. Why? ‘cause you were into me.</content></utterance>
+<utterance uid="24-4"><speaker>CASTLE</speaker><content>Me into you?</content></utterance>
+<utterance uid="24-5"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="24-6"><speaker>CASTLE</speaker><content>Hmm. I – I admit I found you not unattractive and occasionally fun to be around. Into you …  ... no. Definitely not.</content></utterance>
+<utterance uid="24-7"><speaker>BECKETT</speaker><content>Okay, fine. Then why were you following me around? And don’t say that it was research, because no one believed that for a second.</content></utterance>
+<utterance uid="24-8"><speaker>CASTLE</speaker><content>You really want to know?</content></utterance>
+<utterance uid="24-9"><speaker>BECKETT</speaker><content>Mmhmm.</content></utterance>
+<utterance uid="24-10"><speaker>CASTLE</speaker><content> It was because I was …  … having so much fun playing cop.</content></utterance>
+<utterance uid="24-11"><speaker>CASTLE</speaker><content>Dead body?  Yes!</content></utterance>
+<utterance uid="24-12"><speaker>CASTLE</speaker><content>Drop the gun, dirt bag!</content></utterance>
+<utterance uid="24-13"><speaker>BRIAN</speaker><content>What did you call me?</content></utterance>
+<utterance uid="24-14"><speaker>CASTLE</speaker><content> Dirt – dirtbag. Dirtbag.</content></utterance>
+<utterance uid="24-15"><speaker>CASTLE</speaker><content>Booya.</content></utterance>
+<utterance uid="24-16"><speaker>CASTLE</speaker><content>Is there a police code for zombie on the loose?</content></utterance>
+<utterance uid="24-17"><speaker>CASTLE</speaker><content>I love this case.</content></utterance>
+<utterance uid="24-18"><speaker>CASTLE</speaker><content>Secrets, murder, and gambling. Three of my favorite pastimes.</content></utterance>
+<utterance uid="24-19"><speaker>CASTLE</speaker><content>I got him!  I got him!</content></utterance>
+<utterance uid="24-20"><speaker>CASTLE</speaker><content>Bam! So you admit you vandalized Wilder’s apartment.</content></utterance>
+<utterance uid="24-21"><speaker>BECKETT</speaker><content> Castle!</content></utterance>
+<utterance uid="24-22"><speaker>CASTLE</speaker><content>I sometimes forget I’m not actually a cop.</content></utterance>
+<utterance uid="24-23"><speaker>CASTLE</speaker><content>Want me to break out Jake and The Fatman again?</content></utterance>
+<utterance uid="24-24"><speaker>CASTLE</speaker><content>Woohoo! I always wanted to do that!</content></utterance>
+<utterance uid="24-25"><speaker>JONATHAN TISDALE</speaker><content>Drop the gun or I swear to God I’ll –</content></utterance>
+<utterance uid="24-26"><speaker>CASTLE</speaker><content>Tell me you saw that!</content></utterance>
+<utterance uid="24-27"><speaker>CASTLE</speaker><content>Sorry!</content></utterance>
+<utterance uid="24-28"><speaker>CASTLE</speaker><content>A little help?</content></utterance>
+<utterance uid="24-29"><speaker>CASTLE</speaker><content>That was awesome! I mean, obviously it was horrible, but –</content></utterance>
+<utterance uid="24-30"><speaker>BECKETT</speaker><content>I hate this case.</content></utterance>
+<utterance uid="24-31"><speaker>CASTLE</speaker><content>I know. Isn’t it great?</content></utterance>
+<utterance uid="24-32"><speaker>CASTLE</speaker><content>Put your hands in the air and get on your knees while you’re at it!</content></utterance>
+<utterance uid="24-33"><speaker>CASTLE</speaker><content>Gentlemen, if I’ve learned one thing, it’s to not let a little thing like murder get in the way of having a good time.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>BECKETT</speaker><content> That’s not why you were following me around.</content></utterance>
+<utterance uid="25-2"><speaker>CASTLE</speaker><content>It is too. And anything else that you come up with is strictly a product of your imagination.</content></utterance>
+<utterance uid="25-3"><speaker>BECKETT</speaker><content>Well it’s obvious that you and I are not going to resolve this.</content></utterance>
+<utterance uid="25-4"><speaker>CASTLE</speaker><content>So you concede?</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>ESPOSITO</speaker><content>Seriously? Who liked who first?</content></utterance>
+<utterance uid="26-2"><speaker>BECKETT</speaker><content>That’s right. Who was in to whom first? Me or Castle?</content></utterance>
+<utterance uid="26-3"><speaker>ESPOSITO</speaker><content>You do realize that I’m busy trying to save your life?</content></utterance>
+<utterance uid="26-4"><speaker>BECKETT</speaker><content>Just answer the question, Espo. Don’t be afraid to hurt his feelings.</content></utterance>
+<utterance uid="26-5"><speaker>CASTLE</speaker><content>And don’t forget how jealous she got that time we worked that case at my ex-girlfriend’s wedding.</content></utterance>
+<utterance uid="26-6"><speaker>BECKETT</speaker><content>Or how jealous he got when I was with Demming.</content></utterance>
+<utterance uid="26-7"><speaker>CASTLE</speaker><content>Or before that how jealous she got about me and my ex-wife.</content></utterance>
+<utterance uid="26-8"><speaker>RYAN</speaker><content>Who’re you talking to?</content></utterance>
+<utterance uid="26-9"><speaker>BECKETT</speaker><content>Or how about when you wrote that sex scene?</content></utterance>
+<utterance uid="26-10"><speaker>ESPOSITO</speaker><content>It’s Castle and Beckett. I think they’re starting to crack. Check it out.</content></utterance>
+<utterance uid="26-11"><speaker>CASTLE</speaker><content>Or … jealous about me and Serena Kaye. Or Sophia from the CIA. Or Agent Shaw from the FBI.</content></utterance>
+<utterance uid="26-12"><speaker>BECKETT</speaker><content>Or how about when you wrote that sex scene -</content></utterance>
+<utterance uid="26-13"><speaker>RYAN</speaker><content>Yeah, well, totally losing it.</content></utterance>
+<utterance uid="26-14"><speaker>ESPOSITO</speaker><content>Yep.</content></utterance>
+<utterance uid="26-15"><speaker>RYAN</speaker><content>Listen, I ran down the bomb fragments from Fosse’s previous attacks. The components he used her completely different. It’s not going to be any help determining what this third bomb is like.</content></utterance>
+<utterance uid="26-16"><speaker>ESPOSITO</speaker><content>So it’s up to BDU now.</content></utterance>
+<utterance uid="26-17"><speaker>RYAN</speaker><content>Yep.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>MAHONEY</speaker><content>Oh God. There’s a timer, too.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>MAHONEY</speaker><content>Seems like the timer was activated when she stepped on that triggering plate.</content></utterance>
+<utterance uid="28-2"><speaker>CASTLE</speaker><content>Okay. Well, how much time is left?</content></utterance>
+<utterance uid="28-3"><speaker>MAHONEY</speaker><content>Thirty minutes and forty-seven seconds.</content></utterance>
+<utterance uid="28-4"><speaker>CASTLE</speaker><content>Oh …. All right. Um, can we deactivate it by then.</content></utterance>
+<utterance uid="28-5"><speaker>MAHONEY</speaker><content>We’ll try. Trouble is, our usual target’s the fuse, the detonator, the topping pin. They’re all shielded by a steel plate.</content></utterance>
+<utterance uid="28-6"><speaker>CASTLE</speaker><content>Well there’s gotta be something we can do. We could line the floor with armor. I could just put on one of those Hurt Locker suits, I could just tackle her right off of it.</content></utterance>
+<utterance uid="28-7"><speaker>MAHONEY</speaker><content>Castle, if that thing goes off the whole building goes with it. There’s not a suit in the world that’s gonna –</content></utterance>
+<utterance uid="28-8"><speaker>BECKETT</speaker><content>Hey Castle, what’s going on?</content></utterance>
+<utterance uid="28-9"><speaker>CASTLE</speaker><content> Uh, be right there.</content></utterance>
+<utterance uid="28-10"><speaker>MAHONEY</speaker><content>I promise that we’ll do all that we can, but I urge you to be realistic.</content></utterance>
+<utterance uid="28-11"><speaker>CASTLE</speaker><content>Okay. Thank you, Captain. Thank you.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>BECKETT</speaker><content>What did he say?</content></utterance>
+<utterance uid="29-2"><speaker>CASTLE</speaker><content>Good news. They’ve isolated the bomb and they’re deploying their bomb disposal robot. It’s a new prototype model with advanced AI. They’ve had a lot of success in field simulations. It’s –</content></utterance>
+<utterance uid="29-3"><speaker>CASTLE</speaker><content>What?</content></utterance>
+<utterance uid="29-4"><speaker>BECKETT</speaker><content>A prototype robot? I can tell when you’re lying, Castle. You know that. Like when you said that you were following me just to play cop. Now what did he actually say?</content></utterance>
+<utterance uid="29-5"><speaker>CASTLE</speaker><content>There’s a timer on the bomb.</content></utterance>
+<utterance uid="29-6"><speaker>BECKETT</speaker><content>How long?</content></utterance>
+<utterance uid="29-7"><speaker>CASTLE</speaker><content>About thirty minutes.</content></utterance>
+<utterance uid="29-8"><speaker>BECKETT</speaker><content>Yeah well, it’s probably just as well. I can’t keep standing here anyway.</content></utterance>
+<utterance uid="29-9"><speaker>CASTLE</speaker><content>Hey, we will get you out of this.</content></utterance>
+<utterance uid="29-10"><speaker>BECKETT</speaker><content>What makes you so sure?</content></utterance>
+<utterance uid="29-11"><speaker>CASTLE</speaker><content>We’ve been in bad situations before.</content></utterance>
+<utterance uid="29-12"><speaker>DICK COONAN</speaker><content>Here’s what’s going to happen. We’re just going to stroll on over to the elevator together. You made a sound and I’ll put a round in this man’s liver and he will die slowly.</content></utterance>
+<utterance uid="29-13"><speaker>JERRY TYSON</speaker><content>How close to death do you want to get?</content></utterance>
+<utterance uid="29-14"><speaker>JERRY TYSON</speaker><content>Castle! Are you watching? I got your girl!</content></utterance>
+<utterance uid="29-15"><speaker>CASTLE</speaker><content>I feel in situations like this it’s important to have faith.</content></utterance>
+<utterance uid="29-16"><speaker>BECKETT</speaker><content>Help! Castle!</content></utterance>
+<utterance uid="29-17"><speaker>BECKETT</speaker><content> Castle, thank you. For being there.</content></utterance>
+<utterance uid="29-18"><speaker>CASTLE</speaker><content>Always.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>BECKETT</speaker><content>Yeah, there is something about us that seems to draw trouble.</content></utterance>
+<utterance uid="30-2"><speaker>CASTLE</speaker><content>Mmhmm.</content></utterance>
+<utterance uid="30-3"><speaker>BECKETT</speaker><content>But you’re forgetting the scariest one of them all.</content></utterance>
+<utterance uid="30-4"><speaker>MARTHA</speaker><content>Richard! I’m home!</content></utterance>
+<utterance uid="30-5"><speaker>CASTLE</speaker><content>Oh my God!</content></utterance>
+<utterance uid="30-6"><speaker>MARTHA</speaker><content>Darling, we need to talk.</content></utterance>
+<utterance uid="30-7"><speaker>CASTLE</speaker><content> Hide.</content></utterance>
+<utterance uid="30-8"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="30-9"><speaker>CASTLE</speaker><content>Hide!</content></utterance>
+<utterance uid="30-10"><speaker>BECKETT</speaker><content>Are you serious?</content></utterance>
+<utterance uid="30-11"><speaker>CASTLE</speaker><content>Get in the closet.</content></utterance>
+<utterance uid="30-12"><speaker>BECKETT</speaker><content>No, I’m not going in the closet!</content></utterance>
+<utterance uid="30-13"><speaker>CASTLE</speaker><content> Get in the closet!</content></utterance>
+<utterance uid="30-14"><speaker>MARTHA</speaker><content>What’s going on?</content></utterance>
+<utterance uid="30-15"><speaker>CASTLE</speaker><content>I’m just … making the bed.</content></utterance>
+<utterance uid="30-16"><speaker>MARTHA</speaker><content>Oh.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>CASTLE</speaker><content>That was terrifying. But, still, as bad as the situation gets we still always find a way out.</content></utterance>
+<utterance uid="31-2"><speaker>BECKETT</speaker><content>Okay, fine. So how are we going to find our way out of this one?</content></utterance>
+<utterance uid="31-3"><speaker>CASTLE</speaker><content>I keep thinking, the answer is in Fosse’s story. I mean, something must have set him off. But what?</content></utterance>
+<utterance uid="31-4"><speaker>BECKETT</speaker><content>Castle, why does his story matter?</content></utterance>
+<utterance uid="31-5"><speaker>CASTLE</speaker><content>The story always matters. That’s actually why we make such a great team. You find the evidence, the evidence helps me build a story, the story points us to the solution.</content></utterance>
+<utterance uid="31-6"><speaker>BECKETT</speaker><content>The keycard.</content></utterance>
+<utterance uid="31-7"><speaker>CASTLE</speaker><content>Mike’s keycard!</content></utterance>
+<utterance uid="31-8"><speaker>BECKETT</speaker><content>Scarlett gave it to him so the two of them could go into business together.</content></utterance>
+<utterance uid="31-9"><speaker>CASTLE</speaker><content>Making for one angry blackmailer.</content></utterance>
+<utterance uid="31-10"><speaker>CASTLE</speaker><content>She was in on it from the start.</content></utterance>
+<utterance uid="31-11"><speaker>BECKETT</speaker><content>How did you know?</content></utterance>
+<utterance uid="31-12"><speaker>CASTLE</speaker><content>I was thinking the exact same thing.</content></utterance>
+<utterance uid="31-13"><speaker>CASTLE</speaker><content>I think I figured out who Zahlman was paid to kill.</content></utterance>
+<utterance uid="31-14"><speaker>BECKETT</speaker><content>Billionaire philanthropist Christian Dahl?</content></utterance>
+<utterance uid="31-15"><speaker>CASTLE</speaker><content>It’s like we could be twins.</content></utterance>
+<utterance uid="31-16"><speaker>CASTLE_BECKETT</speaker><content>I think I know who the killer is.</content></utterance>
+<utterance uid="31-17"><speaker>CASTLE_BECKETT</speaker><content>Him.</content></utterance>
+<utterance uid="31-18"><speaker>CASTLE_BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="31-19"><speaker>CASTLE_BECKETT</speaker><content>He lied.</content></utterance>
+<utterance uid="31-20"><speaker>CASTLE_BECKETT</speaker><content>The con is still on.</content></utterance>
+<utterance uid="31-21"><speaker>CASTLE_BECKETT</speaker><content>There!</content></utterance>
+<utterance uid="31-22"><speaker>CASTLE_BECKETT</speaker><content>I know who the killer is.</content></utterance>
+<utterance uid="31-23"><speaker>RYAN</speaker><content>Do you two practice this when we’re not around?</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>CASTLE</speaker><content>See? The story. It’s our secret ingredient.</content></utterance>
+<utterance uid="32-2"><speaker>BECKETT</speaker><content>Except when your storytelling devolves into wild speculation. Then it’s just maddening.</content></utterance>
+<utterance uid="32-3"><speaker>CASTLE</speaker><content>Hey. That wild speculation almost always points us to our killer.</content></utterance>
+<utterance uid="32-4"><speaker>ESPOSITO</speaker><content>You know what I don’t get is who would steal a dead body?</content></utterance>
+<utterance uid="32-5"><speaker>CASTLE</speaker><content>Organ harvesters. Cadaverless med students. Satanists. Mad scientists looking to create their own monster.</content></utterance>
+<utterance uid="32-6"><speaker>CASTLE</speaker><content>The bullet was made of ice.</content></utterance>
+<utterance uid="32-7"><speaker>BECKETT</speaker><content>Gun toting Viking? That’s your theory?</content></utterance>
+<utterance uid="32-8"><speaker>CASTLE</speaker><content>Or he’s a vampire.</content></utterance>
+<utterance uid="32-9"><speaker>CASTLE</speaker><content>Recently fired postal workers?</content></utterance>
+<utterance uid="32-10"><speaker>BECKETT</speaker><content>Here I am looking for evidence and all I had to do was just make something up.</content></utterance>
+<utterance uid="32-11"><speaker>CASTLE</speaker><content>The clock was commissioned by a secret society to count down the end of days. A secret society of Santas who are the guardians of time.  Oh, that’s good.</content></utterance>
+<utterance uid="32-12"><speaker>BECKETT</speaker><content>Don’t say spy.</content></utterance>
+<utterance uid="32-13"><speaker>BECKETT</speaker><content>Or mob it.</content></utterance>
+<utterance uid="32-14"><speaker>CASTLE</speaker><content>Mob hit of a spy?</content></utterance>
+<utterance uid="32-15"><speaker>CASTLE</speaker><content>Ninja assassin.</content></utterance>
+<utterance uid="32-16"><speaker>CASTLE</speaker><content>Mad doctors and B-movie Nazis.</content></utterance>
+<utterance uid="32-17"><speaker>CASTLE</speaker><content> Time travelling killer.</content></utterance>
+<utterance uid="32-18"><speaker>CASTLE</speaker><content>Maybe … no, I got nothing.</content></utterance>
+<utterance uid="32-19"><speaker>CASTLE</speaker><content>The mummy himself has risen from the grave and is roaming New York seeking vengeance.</content></utterance>
+<utterance uid="32-20"><speaker>CASTLE</speaker><content>Ooh, that’d be cool if it was actually a ghost.</content></utterance>
+<utterance uid="32-21"><speaker>CASTLE</speaker><content>Don’t ruin my story with your logic.</content></utterance>
+<utterance uid="32-22"><speaker>CASTLE</speaker><content>The actual DVD will not kill me, Esposito, it will be the spirit inside the DVD. Just like in The Ring.</content></utterance>
+<utterance uid="32-23"><speaker>ETHAN SLAUGHTER</speaker><content>Yeah, that’s the stupidest thing you’ve said yet.</content></utterance>
+<utterance uid="32-24"><speaker>CASTLE</speaker><content>So killer cyborg sent from the future, resistance fighters intercept his coordinates redirect him into a pizza oven saving humanity.</content></utterance>
+<utterance uid="32-25"><speaker>CASTLE</speaker><content>Who needs proof? What a great story!</content></utterance>
+<utterance uid="32-26"><speaker>CASTLE</speaker><content> Men in black.</content></utterance>
+<utterance uid="32-27"><speaker>CASTLE</speaker><content>Psychic predicted her own murder!</content></utterance>
+<utterance uid="32-28"><speaker>CASTLE</speaker><content>Our killer’s a zombie.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>CASTLE</speaker><content>I said ‘almost always’.</content></utterance>
+<utterance uid="33-2"><speaker>CASTLE</speaker><content>You know what bugs me? Why would a guy in a bombing spree be worried about selling his baseball card collection?</content></utterance>
+<utterance uid="33-3"><speaker>BECKETT</speaker><content>He wouldn’t. Do you think Fosse was trying to lure the collector here?</content></utterance>
+<utterance uid="33-4"><speaker>CASTLE</speaker><content>Yeah, I’d say so, seeing as how this receipt says he just bought this collection a week ago. That card collector was going down to the station to make a statement, right?</content></utterance>
+<utterance uid="33-5"><speaker>BECKETT</speaker><content>Yes. Yes. If he’s still there maybe Ryan and Esposito can figure out what Fosse wanted with him.</content></utterance>
+<utterance uid="33-6"><speaker>CASTLE</speaker><content>Already on it.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>ESPOSITO</speaker><content>You’re sure you never met him before? No previous interactions?</content></utterance>
+<utterance uid="34-2"><speaker>DIEGO</speaker><content>No. He friended me on Facebook a few weeks ago, saw me posting about some trading cards,, said he had some old ones for me to take a look at.</content></utterance>
+<utterance uid="34-3"><speaker>RYAN</speaker><content>How about any connection to his trial? Even indirectly.</content></utterance>
+<utterance uid="34-4"><speaker>ESPOSITO</speaker><content>Maybe jobs related to the legal field somehow.</content></utterance>
+<utterance uid="34-5"><speaker>DIEGO</speaker><content>I’m an administrator for NYSED up in Albany. This is the first time I’ve even been in the city in years.</content></utterance>
+<utterance uid="34-6"><speaker>RYAN</speaker><content>What about his victims, Jeffery Sklar, Kelly Runther? Any connection to them?</content></utterance>
+<utterance uid="34-7"><speaker>DIEGO</speaker><content>Sorry. I’ve never seen them before.</content></utterance>
+<utterance uid="34-8"><speaker>ESPOSITO</speaker><content>What about this list of names connected to the Fosse trial? Do any of those names look familiar?  Look again. We’re running out of time.</content></utterance>
+<utterance uid="34-9"><speaker>DIEGO</speaker><content>I want to help, I do. But I don’t know anything.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>CASTLE</speaker><content>Yeah, no. I understand. Thank you, Esposito.</content></utterance>
+<utterance uid="35-2"><speaker>MAHONEY</speaker><content>Detective Beckett.</content></utterance>
+<utterance uid="35-3"><speaker>BECKETT</speaker><content>Ten minutes. I know.  It’s okay, Captain. You did everything you could.</content></utterance>
+<utterance uid="35-4"><speaker>MAHONEY</speaker><content>We are not giving up. There’ll be guys down there working on this until the last possible moment.  But I have to withdraw everyone else. And that includes you, Castle.</content></utterance>
+<utterance uid="35-5"><speaker>BECKETT</speaker><content>Can I just … can I have a moment alone with him, please?</content></utterance>
+<utterance uid="35-6"><speaker>MAHONEY</speaker><content>Of course.</content></utterance>
+<utterance uid="35-7"><speaker>BECKETT</speaker><content>It’s time to say goodbye.</content></utterance>
+<utterance uid="35-8"><speaker>CASTLE</speaker><content> I’m not leaving.</content></utterance>
+<utterance uid="35-9"><speaker>BECKETT</speaker><content>Castle, you promised you would help me with something when the time came. This is it.</content></utterance>
+<utterance uid="35-10"><speaker>CASTLE</speaker><content>Beckett, no.</content></utterance>
+<utterance uid="35-11"><speaker>BECKETT</speaker><content>Please, Castle. Please don’t make this any harder than it needs to be.</content></utterance>
+<utterance uid="35-12"><speaker>CASTLE</speaker><content>I – I wish I could kiss you. I wish – so many things.</content></utterance>
+<utterance uid="35-13"><speaker>BECKETT</speaker><content>No. There’s no regrets. All in all I think we’ve had a great run.</content></utterance>
+<utterance uid="35-14"><speaker>BECKETT</speaker><content> You should go.</content></utterance>
+<utterance uid="35-15"><speaker>BECKETT</speaker><content>Rick.  I love you.</content></utterance>
+<utterance uid="35-16"><speaker>CASTLE</speaker><content>I love you, too.</content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>JIM BECKETT</speaker><content>You’ve reached the voicemail of Jim Beckett. Please leave a message.</content></utterance>
+<utterance uid="36-2"><speaker>BECKETT</speaker><content>Hey Dad, it’s me. I just wanted to hear your voice and … I wanted to tell you that I love you.  Okay, that’s all. ‘bye.</content></utterance>
+<utterance uid="36-3"><speaker>MONTGOMERY</speaker><content>We speak for the dead. That’s the job. We are all they’ve got once the wicked rob them of their voices. We owe them that. But we don’t owe them our lives.</content></utterance>
+<utterance uid="36-4"><speaker>JIM BECKETT</speaker><content>Your mother always said that life never delivers anything that we can’t handle.</content></utterance>
+<utterance uid="36-5"><speaker>CASTLE</speaker><content>Let me take you someplace, Kate.</content></utterance>
+<utterance uid="36-6"><speaker>CASTLE</speaker><content>Someplace you’ll be safe.</content></utterance>
+<utterance uid="36-7"><speaker>BECKETT</speaker><content>I’ll never be safe.</content></utterance>
+<utterance uid="36-8"><speaker>MONTGOMERY</speaker><content>There are no victories. There’s only the battle and the best that you can hope for is that you find someplace to make your stand.</content></utterance>
+<utterance uid="36-9"><speaker>BECKETT</speaker><content>I wish that I had someone who would be there for me and I could be there for him and we could just dive into it together.</content></utterance>
+</scene>
+<scene id="37"><utterance uid="37-1"><speaker>BECKETT</speaker><content>Even on the worst days there’s a possibility for joy.</content></utterance>
+<utterance uid="37-2"><speaker>CASTLE</speaker><content>Kate!</content></utterance>
+<utterance uid="37-3"><speaker>BECKETT</speaker><content>I almost died, and all I could think about was you. I just want you.</content></utterance>
+</scene>
+<scene id="38"><utterance uid="38-1"><speaker>LANIE</speaker><content>Don’t die on me!</content></utterance>
+<utterance uid="38-2"><speaker>LANIE</speaker><content>C’mon!</content></utterance>
+<utterance uid="38-3"><speaker>CASTLE</speaker><content>Kate, I love you. I love you, Kate.</content></utterance>
+</scene>
+<scene id="39"><utterance uid="39-1"><speaker>CASTLE</speaker><content>Hey. What are you doing?</content></utterance>
+<utterance uid="39-2"><speaker>CASTLE</speaker><content>Napping? ‘cause I can come back later.</content></utterance>
+<utterance uid="39-3"><speaker>BECKETT</speaker><content>Castle, what are you doing here? You promised.</content></utterance>
+<utterance uid="39-4"><speaker>CASTLE</speaker><content>Yeah, I promised I’d leave, but I didn’t promise I wouldn’t come back. Got coffee for later, when you’re off that thing.</content></utterance>
+<utterance uid="39-5"><speaker>BECKETT</speaker><content>No, Castle, please, you have to leave. There’s no reason for both of us to die.</content></utterance>
+<utterance uid="39-6"><speaker>CASTLE</speaker><content>Oh, I didn’t come here to die. I came here to diffuse the bomb. There’s still a chance.</content></utterance>
+<utterance uid="39-7"><speaker>BECKETT</speaker><content>Yes, a one in one hundred thousand chance.</content></utterance>
+<utterance uid="39-8"><speaker>CASTLE</speaker><content>Great. While there is a chance I’m not giving up.</content></utterance>
+<utterance uid="39-9"><speaker>BECKETT</speaker><content>Castle, listen to me. I’ve already come to peace with this, and that doesn’t include Alexis losing her father or Martha her son.</content></utterance>
+<utterance uid="39-10"><speaker>CASTLE</speaker><content>C’mon, what am I supposed to do? Walk out the door while you’re standing all the way over there by yourself?</content></utterance>
+<utterance uid="39-11"><speaker>BECKETT</speaker><content>Yes! Yes, that’s exactly –</content></utterance>
+<utterance uid="39-12"><speaker>CASTLE</speaker><content>Wait a second. Why are you standing all the way over there? If Fosse set the bomb why not – why not set it by the door so they’d hit it when they came in, unless –</content></utterance>
+<utterance uid="39-13"><speaker>BECKETT</speaker><content>This wasn’t for cops. Then who was it for?</content></utterance>
+<utterance uid="39-14"><speaker>CASTLE</speaker><content>The card collector kid. What was his name? Diego. He was on his way up here.</content></utterance>
+<utterance uid="39-15"><speaker>BECKETT</speaker><content>Maybe Fosse was trying to leverage him for information.</content></utterance>
+<utterance uid="39-16"><speaker>CASTLE</speaker><content>Okay, great. So uh, what’s near where you’re standing? The island, cards, computer.</content></utterance>
+<utterance uid="39-17"><speaker>BECKETT</speaker><content>Castle, I think I can reach that computer from here.</content></utterance>
+<utterance uid="39-18"><speaker>CASTLE</speaker><content>You stay there. I’ll – I’ll check it.</content></utterance>
+<utterance uid="39-19"><speaker>BECKETT</speaker><content>Do you think Fosse wanted Diego to look something up?</content></utterance>
+<utterance uid="39-20"><speaker>CASTLE</speaker><content>Maybe. But what? Checking the browser history – porn … more porn … websites for a couple of PIs … peopletracker.pro? He’s looking for someone.</content></utterance>
+<utterance uid="39-21"><speaker>BECKETT</speaker><content>Maybe someone else responsible for putting him in prison.</content></utterance>
+<utterance uid="39-22"><speaker>CASTLE</speaker><content>No, you can find practically anyone with the click of a mouse. Why hire a private investigator?</content></utterance>
+</scene>
+
+<scene id="40"><utterance uid="40-1"><speaker>RYAN</speaker><content>I think I might have an answer for you. I went through the list of all the people involved in Fosse’s trial. One woman’s been completely scrubbed from the system. Driver’s license, social security number, all gone.</content></utterance>
+<utterance uid="40-2"><speaker>CASTLE</speaker><content>Who was that?</content></utterance>
+<utterance uid="40-3"><speaker>RYAN</speaker><content>Dorothy Novak. The prosecution’s main witness and Fosse’s girlfriend at the time. The DA just confirmed that his office set her up with a new identity when Fosse got out three months ago. She was afraid Fosse would come after her.</content></utterance>
+<utterance uid="40-4"><speaker>ESPOSITO</speaker><content>Looks like she was right.</content></utterance>
+<utterance uid="40-5"><speaker>CASTLE</speaker><content>Okay, but how is this Diego Jiminez supposed to help find her?</content></utterance>
+<utterance uid="40-6"><speaker>ESPOSITO</speaker><content>I don’t know. He worked at the NYSED.</content></utterance>
+<utterance uid="40-7"><speaker>CASTLE</speaker><content>New York State Education Department.  Wait, were the first two victims related to Fosse’s girlfriend?</content></utterance>
+<utterance uid="40-8"><speaker>ESPOSITO</speaker><content>Yeah. The woman he killed last night was the girlfriend’s cousin.</content></utterance>
+<utterance uid="40-9"><speaker>CASTLE</speaker><content>And the first victim worked for the DA’s office. They helped relocate her.</content></utterance>
+<utterance uid="40-10"><speaker>BECKETT</speaker><content>Fosse didn’t want revenge. He was looking for information from them.</content></utterance>
+<utterance uid="40-11"><speaker>CASTLE</speaker><content>He wanted to find out his girlfriend’s new identity. He was desperate to find them.</content></utterance>
+<utterance uid="40-12"><speaker>BECKETT</speaker><content> Castle –</content></utterance>
+<utterance uid="40-13"><speaker>CASTLE</speaker><content>Right there with you.  Does she have a kid?</content></utterance>
+<utterance uid="40-14"><speaker>RYAN</speaker><content>Yeah, she gave birth eight months after the trial. How did you know?</content></utterance>
+<utterance uid="40-15"><speaker>BECKETT</speaker><content>It’s his. He didn’t find out about it until got out.</content></utterance>
+<utterance uid="40-16"><speaker>CASTLE</speaker><content>And that’s why he lured Diego here. Diego had access to state school records. He was trying to find his kid. It was all find-  That’s the code. It has to be.</content></utterance>
+<utterance uid="40-17"><speaker>BECKETT</speaker><content>Ryan, see if you can find the kid’s name.</content></utterance>
+<utterance uid="40-18"><speaker>RYAN</speaker><content>Working on it.</content></utterance>
+<utterance uid="40-19"><speaker>CASTLE</speaker><content>Okay, work fast, buddy. We got two minutes.  A story makes sense. Fosse was desperate to see his kid just once before he dies. But the mother has hidden the child away so Fosse lashed out, doing whatever it took to track them down. Told you we’d figure this out.</content></utterance>
+<utterance uid="40-20"><speaker>BECKETT</speaker><content>Castle, there’s barely a minute left. You’ve got to go.</content></utterance>
+<utterance uid="40-21"><speaker>CASTLE</speaker><content>Not yet.</content></utterance>
+<utterance uid="40-22"><speaker>BECKETT</speaker><content>Please, if he finds the name, I’ll type it in myself. If not –</content></utterance>
+<utterance uid="40-23"><speaker>CASTLE</speaker><content> He’ll come through.</content></utterance>
+<utterance uid="40-24"><speaker>CASTLE</speaker><content>He has to.</content></utterance>
+<utterance uid="40-25"><speaker>RYAN</speaker><content>William. The kid’s name is William.</content></utterance>
+<utterance uid="40-26"><speaker>CASTLE</speaker><content>Seven letters.  Billy.</content></utterance>
+<utterance uid="40-27"><speaker>RYAN</speaker><content>Or … Willy.</content></utterance>
+<utterance uid="40-28"><speaker>ESPOSITO</speaker><content>What kind of mother’s gonna call her kid Willy unless she wants his ass kicked every day at the playground?</content></utterance>
+<utterance uid="40-29"><speaker>CASTLE</speaker><content>Guys, fifteen seconds.  Your call, Beckett.</content></utterance>
+<utterance uid="40-30"><speaker>BECKETT</speaker><content>Billy.  Go.</content></utterance>
+<utterance uid="40-31"><speaker>CASTLE</speaker><content>B .. I … L … L .. –</content></utterance>
+<utterance uid="40-32"><speaker>CASTLE</speaker><content> She’s off. … She’s off.</content></utterance>
+</scene>
+<scene id="41"><utterance uid="41-1"><speaker>BECKETT</speaker><content>Wait, Castle. Listen. Thank you for staying with me.</content></utterance>
+<utterance uid="41-2"><speaker>CASTLE</speaker><content>Always.</content></utterance>
+<utterance uid="41-3"><speaker>CASTLE</speaker><content>Perfect timing.</content></utterance>
+<utterance uid="41-4"><speaker>ESPOSITO</speaker><content>You good?</content></utterance>
+<utterance uid="41-5"><speaker>BECKETT</speaker><content>Yeah. Did she see?</content></utterance>
+<utterance uid="41-6"><speaker>GATES</speaker><content>Glad to see you, Detective. Even you, Mr. Castle.  I have to say, I don’t know too many men who would have done what you did.</content></utterance>
+<utterance uid="41-7"><speaker>BECKETT</speaker><content>Neither do I.</content></utterance>
+<utterance uid="41-8"><speaker>GATES</speaker><content>Oh, for heaven sake, Detective. Just kiss the man.</content></utterance>
+<utterance uid="41-9"><speaker>BECKETT</speaker><content>Sir, you know?</content></utterance>
+<utterance uid="41-10"><speaker>GATES</speaker><content>What? Do you think I’m an idiot? I needed to maintain plausible deniability, which I can continue, as long as you two both act professionally at the precinct.</content></utterance>
+<utterance uid="41-11"><speaker>CASTLE</speaker><content>I know I can, but Captain, she has a long history of coming on to me at work –</content></utterance>
+<utterance uid="41-12"><speaker>BECKETT</speaker><content>I don’t think it will be a problem, sir.</content></utterance>
+<utterance uid="41-13"><speaker>GATES</speaker><content>Good. Meanwhile, as long as we’re on neutral ground here, I’d say uh, he deserves it. Wouldn’t you?</content></utterance>
+<utterance uid="41-14"><speaker>BECKETT</speaker><content> Yes sir, I would.</content></utterance>
+<utterance uid="41-15"><speaker>BECKETT</speaker><content>You know Castle, when I was standing up there I kept thinking about all the times we’ve kissed. And I was trying to decide on the best one.</content></utterance>
+<utterance uid="41-16"><speaker>CASTLE</speaker><content>And what do you think?</content></utterance>
+</scene>
+<scene id="42"><utterance uid="42-1"><speaker>BECKETT</speaker><content>I think we’re just getting started.</content></utterance>
+</scene>
+</script>

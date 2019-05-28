@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+
+<scene id="1"><utterance uid="1-1"><speaker>ANNOUNCER</speaker><content>They were on top of the world until the financial crisis struck and they flamed out. That’s when their wives got busy taking over. The Wives of Wall Street. Penelope, the fashion mogul.</content></utterance>
+<utterance uid="1-2"><speaker>PENELOPE</speaker><content>You look amazing in my dress!</content></utterance>
+<utterance uid="1-3"><speaker>ANNOUNCER</speaker><content>Margo, the cosmetics queen.</content></utterance>
+<utterance uid="1-4"><speaker>MARGO</speaker><content>If you weren’t my son I’d fire your ass.</content></utterance>
+<utterance uid="1-5"><speaker>ANNOUNCER</speaker><content>Colette, home décor diva.</content></utterance>
+<utterance uid="1-6"><speaker>COLETTE</speaker><content> Let’s sell today, people.</content></utterance>
+<utterance uid="1-7"><speaker>ANNOUNCER</speaker><content>And then of course there’s Hannah. What will she do next?</content></utterance>
+<utterance uid="1-8"><speaker>PETER MONROE</speaker><content>No, no, no. We need more Hannah. She’s the reason our numbers are spiking.</content></utterance>
+<utterance uid="1-9"><speaker>ASSISTANT</speaker><content>We all liked this at the network, Peter. It’s balance.</content></utterance>
+<utterance uid="1-10"><speaker>PETER</speaker><content>Maybe that works for your brain numbing finance shows, but this is reality TV. We need to hype the conflict. We need the unexpected.</content></utterance>
+<utterance uid="1-11"><speaker>JEFF</speaker><content>Sorry to interrupt, Mr. Monroe. The police are calling for you. There’s been a murder.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>RICHARD CASTLE</speaker><content>Okay, heart shaped cufflinks.</content></utterance>
+<utterance uid="2-2"><speaker>KATE BECKETT</speaker><content> Could you stop guessing?</content></utterance>
+<utterance uid="2-3"><speaker>CASTLE</speaker><content>Okay, a pony. It’s a rocket. It’s a limited edition Star Wars lightsaber signed by George Lucas.</content></utterance>
+<utterance uid="2-4"><speaker>BECKETT</speaker><content>Yes, because nothing says “Happy Valentine’s Day” like a Star Wars toy.</content></utterance>
+<utterance uid="2-5"><speaker>BECKETT</speaker><content>Wait, wait, wait. Please tell me that you didn’t get me a lightsaber for our first Valentine’s Day together.</content></utterance>
+<utterance uid="2-6"><speaker>CASTLE</speaker><content>Please. Give me some credit. You are gonna love what I got you.</content></utterance>
+<utterance uid="2-7"><speaker>BECKETT</speaker><content>And you’re gonna love what I got you.</content></utterance>
+<utterance uid="2-8"><speaker>CASTLE</speaker><content>What about you, Espo? Any plans for Valentine’s Day tomorrow?</content></utterance>
+<utterance uid="2-9"><speaker>JAVIER ESPOSITO</speaker><content>Uh, yeah. Investigating a murder.</content></utterance>
+<utterance uid="2-10"><speaker>CASTLE</speaker><content>I see.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>ESPOSITO</speaker><content>Victim was Hanna Green, 23. She’s one of the stars of the show The Wives of Wall Street. Her brother’s on his way in to the precinct from Jersey.</content></utterance>
+<utterance uid="3-2"><speaker>CASTLE</speaker><content>The Wives of Wall Street, the reality show?</content></utterance>
+<utterance uid="3-3"><speaker>ESPOSITO</speaker><content>Yeah. Seen it?</content></utterance>
+<utterance uid="3-4"><speaker>CASTLE</speaker><content>Just long enough to make me want to kill myself. One minute of lunatics backstabbing each other is enough.</content></utterance>
+<utterance uid="3-5"><speaker>ESPOSITO</speaker><content>Speaking of backstabbing.</content></utterance>
+<utterance uid="3-6"><speaker>BECKETT</speaker><content>She almost looks like she’s asleep.</content></utterance>
+<utterance uid="3-7"><speaker>ESPOSITO</speaker><content>Bus driver that came through last night at 11:15 thought she was. Wasn’t until this morning anyone realized she was dead.</content></utterance>
+<utterance uid="3-8"><speaker>LANIE PARISH</speaker><content>Based on liver temp the earliest she could have died is 10, 10:30.</content></utterance>
+<utterance uid="3-9"><speaker>BECKETT</speaker><content>‘kay, so she was killed in that hour.</content></utterance>
+<utterance uid="3-10"><speaker>ESPOSITO</speaker><content>Looks that way. There’s no purse or cell phone on the body. But if she was mugged, the doer missed that diamond tennis bracelet on her right wrist.</content></utterance>
+<utterance uid="3-11"><speaker>CASTLE</speaker><content>And if it was a mugger he’s got exquisite taste in cutlery. That’s a Takahara VG Chef knife. Runs about 200 bucks.</content></utterance>
+<utterance uid="3-12"><speaker>BECKETT</speaker><content>That’s pretty high end for a murder weapon.</content></utterance>
+<utterance uid="3-13"><speaker>LANIE</speaker><content>Well, whoever attacked her, it looks like she fought back. She’s got defensive wounds, abrasions on her wrist, and some possible genetic material underneath her fingernails. I’ll run DNA once I get back to the morgue.</content></utterance>
+<utterance uid="3-14"><speaker>BECKETT</speaker><content>Did she live in the area?</content></utterance>
+<utterance uid="3-15"><speaker>ESPOSITO</speaker><content>No. Downtown. Thompson Hotel.</content></utterance>
+<utterance uid="3-16"><speaker>BECKETT</speaker><content>So what was she doing up here?</content></utterance>
+<utterance uid="3-17"><speaker>ESPOSITO</speaker><content>I don’t know. The producer of The Wives of Wall Street said they weren’t filming in this area.</content></utterance>
+<utterance uid="3-18"><speaker>KEVIN RYAN</speaker><content>Hey. Sorry I’m late.</content></utterance>
+<utterance uid="3-19"><speaker>ESPOSITO</speaker><content>Yeah? Jenny again?</content></utterance>
+<utterance uid="3-20"><speaker>RYAN</speaker><content>Yeah… her temperature has spiked this morning and suddenly it’s show time. She’s got this baby-making down to a science.</content></utterance>
+<utterance uid="3-21"><speaker>CASTLE</speaker><content>Sounds romantic.</content></utterance>
+<utterance uid="3-22"><speaker>RYAN</speaker><content>I feel like a rooster in a hen house, except for there’s only one hen. A very bossy hen.</content></utterance>
+<utterance uid="3-23"><speaker>BECKETT</speaker><content>Okay Espo, you and the rooster start a canvass and Castle and I’ll talk to the producer, see if he can give us any background on Hannah’s life.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>HANNAH GREEN</speaker><content>Look, I am not this person. Things just happen and they end up defining you, but it’s – it’s not always fair.</content></utterance>
+<utterance uid="4-2"><speaker>PETER</speaker><content>That’s it. That’s the last image we shot of Hannah. Poor girl. Such a loss. She was ratings gold.  You have to find who did this. The audience will want to know.</content></utterance>
+<utterance uid="4-3"><speaker>CASTLE</speaker><content>Yeah, not to mention her family, the DA …</content></utterance>
+<utterance uid="4-4"><speaker>BECKETT</speaker><content>Mr. Monroe, when was this shot?</content></utterance>
+<utterance uid="4-5"><speaker>PETER</speaker><content>Uh … day before yesterday. About 8PM. Why?</content></utterance>
+<utterance uid="4-6"><speaker>BECKETT</speaker><content>Because she’s wearing the same clothes that we found her in. That’s a full day later. Do you know where she went after filming or why she would have been on the Upper West Side?</content></utterance>
+<utterance uid="4-7"><speaker>PETER</speaker><content>Well, to be honest, when the cameras go away so do I. So I don’t even know what she did on her free time.</content></utterance>
+<utterance uid="4-8"><speaker>CASTLE</speaker><content>In the video she seems upset. Any idea what about?</content></utterance>
+<utterance uid="4-9"><speaker>PETER</speaker><content>Oh, you gotta understand. We brought Hannah in to be Penelope’s assistant. You know, mix things up a little bit. The small town girl with the big time dreams of becoming a fashion designer. Will she make it with the wives of Wall Street? She’s just milking it for the camera. They all do.</content></utterance>
+<utterance uid="4-10"><speaker>CASTLE</speaker><content>So it’s a reality show, just without the reality.</content></utterance>
+<utterance uid="4-11"><speaker>PETER</speaker><content>I like to think of it as heightened reality.  Reality-ish.</content></utterance>
+<utterance uid="4-12"><speaker>BECKETT</speaker><content>In real reality did she have problems with anyone on the show?</content></utterance>
+<utterance uid="4-13"><speaker>PETER</speaker><content>Well, you put a bunch of tough minded women together, you’re gonna get a spat or two. But Hannah was part of the family.</content></utterance>
+<utterance uid="4-14"><speaker>BECKETT</speaker><content>Okay, well, I’m going to need all of her tapes, just in case there’s something relevant.</content></utterance>
+<utterance uid="4-15"><speaker>PETER</speaker><content>Of course.  Although, you might want to check out her own family. I know that she had trouble with her brother, Charlie Green.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>CHARLIE GREEN</speaker><content>Hannah always wanted to make it big in the city and when she came here she … she lost her way.</content></utterance>
+<utterance uid="5-2"><speaker>CHARLIE</speaker><content> I should have done more. I was her brother. I should have protected her.</content></utterance>
+<utterance uid="5-3"><speaker>RYAN</speaker><content>Mr. Green, when was the last time you talked to Hannah?</content></utterance>
+<utterance uid="5-4"><speaker>CHARLIE</speaker><content>Uh … a few days ago. I called her. We fought.</content></utterance>
+<utterance uid="5-5"><speaker>ESPOSITO</speaker><content>About what?</content></utterance>
+<utterance uid="5-6"><speaker>CHARLIE</speaker><content>The usual. About how she was putting her life out there for the world to see. What it was doing to the family. She – she said I didn’t understand. That there was more going on than I knew. But to me it was simple. She needed to come home.</content></utterance>
+<utterance uid="5-7"><speaker>RYAN</speaker><content>So you didn’t approve of her being on The Wives of Wall Street.</content></utterance>
+<utterance uid="5-8"><speaker>CHARLIE</speaker><content>Approve? No. It was killing us. See the choices she made, the way she was living her life. All of it out there on national television. And that was before she started having the affair.</content></utterance>
+<utterance uid="5-9"><speaker>ESPOSITO</speaker><content>Affair?</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>PENELOPE</speaker><content>You screw my husband, you think you’re welcome here?</content></utterance>
+<utterance uid="6-2"><speaker>HANNAH</speaker><content>He chose me, Penelope. Deal with it.</content></utterance>
+<utterance uid="6-3"><speaker>PENELOPE</speaker><content>I am coming for you.</content></utterance>
+<utterance uid="6-4"><speaker>BECKETT</speaker><content>So our victim was sleeping with the husband of one of the other women of the show?</content></utterance>
+<utterance uid="6-5"><speaker>ESPOSITO</speaker><content>Not just sleeping with. Hannah and Bob moved in together after Penelope found out about them.</content></utterance>
+<utterance uid="6-6"><speaker>BECKETT</speaker><content>And yet the show’s producer said nothing about it.</content></utterance>
+<utterance uid="6-7"><speaker>CASTLE</speaker><content>I’d say he was covering his own ass …et.</content></utterance>
+<utterance uid="6-8"><speaker>BECKETT</speaker><content>This affair was broadcast on national television. Did he really think that we weren’t going to find out about it?</content></utterance>
+<utterance uid="6-9"><speaker>CAPTAIN VICTORIA GATES</speaker><content>Oh my goodness, it was Penelope, wasn’t it?</content></utterance>
+<utterance uid="6-10"><speaker>GATES</speaker><content>Oh, after what Hannah did to her marriage I wouldn’t blame her.  Okay, see, Penelope kept her family afloat after Bob lost his job. And then she gives Hannah this – this big break. And then Hannah repays her by screwing her worthless excuse of a husband.</content></utterance>
+<utterance uid="6-11"><speaker>CASTLE</speaker><content>You’re a fan of Wives of Wall Street?</content></utterance>
+<utterance uid="6-12"><speaker>GATES</speaker><content>Oh yeah, it’s the best show on TV. Why?</content></utterance>
+<utterance uid="6-13"><speaker>CASTLE</speaker><content>I don’t – I just assumed that a woman like you would prefer more sophisticated fare.</content></utterance>
+<utterance uid="6-14"><speaker>GATES</speaker><content>Excuse me? What did you just say?</content></utterance>
+<utterance uid="6-15"><speaker>BECKETT</speaker><content>Hey Lanie. What’s up?</content></utterance>
+<utterance uid="6-16"><speaker>LANIE</speaker><content>I’m sending you a picture of a fingernail fragment I pulled from the victim’s scalp. I figured it came from the killer during the attack.</content></utterance>
+<utterance uid="6-17"><speaker>BECKETT</speaker><content>Can you run DNA?</content></utterance>
+<utterance uid="6-18"><speaker>LANIE</speaker><content>It’s already happening.</content></utterance>
+<utterance uid="6-19"><speaker>BECKETT</speaker><content>Great. Thank you.</content></utterance>
+<utterance uid="6-20"><speaker>CASTLE</speaker><content>‘sito, is it just me or … ?</content></utterance>
+<utterance uid="6-21"><speaker>ESPOSITO</speaker><content>Or is that a perfect match?</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>PETER</speaker><content>Okay, wait a minute. You’re reading too much into this.  Can you at least wait until we’re done filming?</content></utterance>
+<utterance uid="7-2"><speaker>COLETTE</speaker><content>We’re not canceling the wedding.</content></utterance>
+<utterance uid="7-3"><speaker>ASHLEY</speaker><content>Look, I’m just saying this sucks, okay? Hannah dying a month before our wedding.</content></utterance>
+<utterance uid="7-4"><speaker>STONE</speaker><content>Ashley’s right. Maybe you should postpone it, or something.</content></utterance>
+<utterance uid="7-5"><speaker>PENELOPE</speaker><content>Postpone? For that b*tch?</content></utterance>
+<utterance uid="7-6"><speaker>MARGO</speaker><content>Penelope!</content></utterance>
+<utterance uid="7-7"><speaker>PENELOPE</speaker><content>Look, it’s not like I killed her.</content></utterance>
+<utterance uid="7-8"><speaker>BECKETT</speaker><content>Excuse me, Ms. Foster.  Detective Beckett, NYPD.</content></utterance>
+<utterance uid="7-9"><speaker>PENELOPE</speaker><content>How do you do?</content></utterance>
+<utterance uid="7-10"><speaker>BECKETT</speaker><content>I’m fine.  But you are under arrest for the murder of Hannah Green.</content></utterance>
+<utterance uid="7-11"><speaker>CASTLE</speaker><content>So I guess it is like you killed her.</content></utterance>
+<utterance uid="7-12"><speaker>PETER</speaker><content> Are you still rolling? Did you get that?</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>PENELOPE</speaker><content>How dare you arrest me in front of the cast and crew!</content></utterance>
+<utterance uid="8-2"><speaker>BECKETT</speaker><content>You should be more worried about this, Penelope.  That’s a lab report for a fingernail fragment found in Hannah’s hair. It’s a DNA match to you. You want to tell me how it got there? Because if you won’t, I’m sure your husband Bob will.</content></utterance>
+<utterance uid="8-3"><speaker>PENELOPE</speaker><content>Bob? C’mon. What do you think he’s going to tell you? That poor bastard is so stupid he thought that Hannah actually had feelings for him and everybody knew all she wanted to do was up her profile on the show. She was just using him.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>BOB</speaker><content>It was true love. Hannah and I were in love.</content></utterance>
+<utterance uid="9-2"><speaker>ESPOSITO</speaker><content>We know your wife, Penelope, and Hannah had a fight. Had things been escalating between them lately?</content></utterance>
+<utterance uid="9-3"><speaker>BOB</speaker><content>Hannah and I never talked about Penelope.</content></utterance>
+<utterance uid="9-4"><speaker>RYAN</speaker><content>But you lived with Hannah. Do you know where she was last night?</content></utterance>
+<utterance uid="9-5"><speaker>BOB</speaker><content>No. She didn’t come home last night and I didn’t see her all day yesterday.</content></utterance>
+<utterance uid="9-6"><speaker>RYAN</speaker><content>Was that unusual?</content></utterance>
+<utterance uid="9-7"><speaker>BOB</speaker><content>Yeah, I was worried. But do you really think that Penelope could have killed her?</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>PENELOPE</speaker><content>Oh yeah, I wanted to kill her. But with all of America watching? How stupid do you think I am?</content></utterance>
+<utterance uid="10-2"><speaker>BECKETT</speaker><content>What about the fingernail?</content></utterance>
+<utterance uid="10-3"><speaker>PENELOPE</speaker><content>The truth is, Hannah and I did have a little … dust up. But not the night that she was killed. It was the night before.</content></utterance>
+<utterance uid="10-4"><speaker>BECKETT</speaker><content>Okay, so what was the nature of this dust up?</content></utterance>
+<utterance uid="10-5"><speaker>PENELOPE</speaker><content>We were filming confessionals. Hannah waited for me outside the studio. Said she wanted to talk.</content></utterance>
+<utterance uid="10-6"><speaker>BECKETT</speaker><content>About what?</content></utterance>
+<utterance uid="10-7"><speaker>PENELOPE</speaker><content>Margo. Margo hired Hannah after I fired her ass. And no surprise, Hannah and Margo were having trouble at work. And crazy as it sounds, that b*tch wanted me to rehire her.</content></utterance>
+<utterance uid="10-8"><speaker>BECKETT</speaker><content>Do you actually expect me to believe that she asked you for her job back after she ruined your marriage?</content></utterance>
+<utterance uid="10-9"><speaker>PENELOPE</speaker><content>Why do you think I lost it? I yanked her hair and broke my nail.  But that was it. She broke free, took off, and that was the last I saw of Hannah.</content></utterance>
+<utterance uid="10-10"><speaker>BECKETT</speaker><content>And I suppose you won’t mind me asking where you were between 10:15 and 11:15 last night?</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>BECKETT</speaker><content>Okay, so the kickboxing teacher at NoHo Gym confirms that Penelope was “sweating her ass off” downtown in a class ‘til 11. So whoever killed Hannah, it wasn’t Penelope Foster.</content></utterance>
+<utterance uid="11-2"><speaker>CASTLE</speaker><content>Okay then. Where are we on the murder weapon?</content></utterance>
+<utterance uid="11-3"><speaker>BECKETT</speaker><content>You know what? There’s no fingerprints. But they did find antimony oxide on the knife’s handle.</content></utterance>
+<utterance uid="11-4"><speaker>CASTLE</speaker><content>A fire retardant, if memory serves.</content></utterance>
+<utterance uid="11-5"><speaker>BECKETT</speaker><content>And also, based on the wound, it looks like the knife was new or had never been used.</content></utterance>
+<utterance uid="11-6"><speaker>ESPOSITO</speaker><content>Hey guys, check this out. A fan took this and posted it to a “Wives of Wall Street” fan site the night of the murder.</content></utterance>
+<utterance uid="11-7"><speaker>BECKETT</speaker><content>That’s Hannah.</content></utterance>
+<utterance uid="11-8"><speaker>ESPOSITO</speaker><content>Yeah. It’s time stamped. This is 20 minutes before she was killed.</content></utterance>
+<utterance uid="11-9"><speaker>CASTLE</speaker><content>20 minutes? So that building must have something to do with the murder. Uh, any idea where it is?</content></utterance>
+<utterance uid="11-10"><speaker>ESPOSITO</speaker><content>The photo wasn’t geo-tagged, but you can see part of the building’s number. Ends in 46.</content></utterance>
+<utterance uid="11-11"><speaker>GATES</speaker><content>And I can tell you who lives here. I know this building.  It’s from the show. This is Margo’s place. Somewhere on the Upper West. South of 83rd.</content></utterance>
+<utterance uid="11-12"><speaker>BECKETT</speaker><content>Wait, that means Margo lives right around the corner from where Hannah was killed.</content></utterance>
+</scene>
+
+<scene id="12"><utterance uid="12-1"><speaker>STONE</speaker><content>My mom’s just wrapping up a call, but she’ll be right out as soon as …</content></utterance>
+<utterance uid="12-2"><speaker>MARGO</speaker><content> I’ll talk to you later.  Here I am. Thank you, sweetheart.  How can I help you?</content></utterance>
+<utterance uid="12-3"><speaker>BECKETT</speaker><content>We just needed to go over the last 24 hours of Hannah’s life and we were wondering, when was it that you last saw her.</content></utterance>
+<utterance uid="12-4"><speaker>MARGO</speaker><content>She came by about 10 o’clock last night for a few minutes. Why?</content></utterance>
+<utterance uid="12-5"><speaker>CASTLE</speaker><content>Because she was killed around the corner from here just after leaving.</content></utterance>
+<utterance uid="12-6"><speaker>MARGO</speaker><content>That’s terrible.</content></utterance>
+<utterance uid="12-7"><speaker>BECKETT</speaker><content>Yes. Yes, it is. Um, would you mid telling us why she came by?</content></utterance>
+<utterance uid="12-8"><speaker>MARGO</speaker><content>To apologize.</content></utterance>
+<utterance uid="12-9"><speaker>BECKETT</speaker><content>For what?</content></utterance>
+<utterance uid="12-10"><speaker>MARGO</speaker><content> After Penelope fired Hannah for the affair, I hired her to develop a clothing line with my son, Stone. I heard she had talent and it wouldn’t hurt to get some screen time. Bob and Hannah’s affair has been the big story arc these past few months. Three days ago she was supposed to come by and present her ideas. The “Wives of Wall Street” cameras were here and ready to roll and Hannah’s a no-show.</content></utterance>
+<utterance uid="12-11"><speaker>CASTLE</speaker><content>Did she say why?</content></utterance>
+<utterance uid="12-12"><speaker>MARGO</speaker><content>No. If it was anyone else, I would fire her.</content></utterance>
+<utterance uid="12-13"><speaker>CASTLE</speaker><content>But it didn’t hurt that you had a little more screen time.</content></utterance>
+<utterance uid="12-14"><speaker>MARGO</speaker><content>I know that’s crass, but that how this works. When she came that night, Hannah only said that she was sorry and promised to recommit to her job.</content></utterance>
+<utterance uid="12-15"><speaker>BECKETT</speaker><content>Did she tell you where she was going afterwards?</content></utterance>
+<utterance uid="12-16"><speaker>MARGO</speaker><content>No, I – I assumed that she was going home.</content></utterance>
+<utterance uid="12-17"><speaker>BECKETT</speaker><content>And what did you do once she left?</content></utterance>
+<utterance uid="12-18"><speaker>MARGO</speaker><content>I jumped on a conference call with my entertainment attorney to discuss Stone and Ashley’s spinoff.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>BECKETT</speaker><content>So phone records confirm that Margo made a 56 minute call to her entertainment lawyer at 10:23 from her landline at the apartment.</content></utterance>
+<utterance uid="13-2"><speaker>CASTLE</speaker><content>You know, the truth is, anyone who subscribes to the “Wives of Wall Street” website would have known that Hannah was at Margo’s building from that photo. They send out text alerts any time there’s a new post and they have hundreds of thousands of subscribers.</content></utterance>
+<utterance uid="13-3"><speaker>ESPOSITO</speaker><content>Hey. I got a little mystery here.</content></utterance>
+<utterance uid="13-4"><speaker>CASTLE</speaker><content>You mean besides your Valentine’s Day plans?</content></utterance>
+<utterance uid="13-5"><speaker>ESPOSITO</speaker><content>Shhh.</content></utterance>
+<utterance uid="13-6"><speaker>ESPOSITO</speaker><content>Hannah’s financials. For the past two months she’s been making weekly cash deposits of $5 grand. Now I checked with the family, everyone on the show. No one knows where it’s coming from.</content></utterance>
+<utterance uid="13-7"><speaker>BECKETT</speaker><content>I take it she didn’t make it selling girl scout cookies.</content></utterance>
+<utterance uid="13-8"><speaker>ESPOSITO</speaker><content>Well, maybe it has something to do with where she was when she missed the pitch meeting with Margo. On her Fashion Line credit card charge puts her at a dive bar in Brooklyn called The Last Stop.</content></utterance>
+<utterance uid="13-9"><speaker>BECKETT</speaker><content>At a dive bar? What was she doing there instead of at the most important meeting of her life?</content></utterance>
+<utterance uid="13-10"><speaker>ESPOSITO</speaker><content>I don’t know. The bartender said she was having a pretty heated discussion with some dude. So I’ve got the bartender sitting down with a sketch artist. See if we can figure out who he is.</content></utterance>
+<utterance uid="13-11"><speaker>RYAN</speaker><content>Hey. Uh, sorry. I had to run home and uh …</content></utterance>
+<utterance uid="13-12"><speaker>CASTLE</speaker><content> ****-a-doodle-doo?</content></utterance>
+<utterance uid="13-13"><speaker>ESPOSITO</speaker><content>That’s good.</content></utterance>
+<utterance uid="13-14"><speaker>RYAN</speaker><content>Uh, yeah. Tomorrow’s going to be the least romantic Valentine’s Day ever.</content></utterance>
+<utterance uid="13-15"><speaker>RYAN</speaker><content>Oh. Thank you.</content></utterance>
+<utterance uid="13-16"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="13-17"><speaker>RYAN</speaker><content>So I had tech look into Hannah’s last 24 hours after her fight with Penelope and before showing up at Margo’s.</content></utterance>
+<utterance uid="13-18"><speaker>BECKETT</speaker><content>And did they find anything useful?</content></utterance>
+<utterance uid="13-19"><speaker>RYAN</speaker><content>They didn’t find anything at all. She didn’t make any calls, didn’t answer any calls, sent no texts. She didn’t log into her email or any other online accounts. No digital fingerprints whatsoever.</content></utterance>
+<utterance uid="13-20"><speaker>ESPOSITO</speaker><content>It’s like she disappeared.</content></utterance>
+<utterance uid="13-21"><speaker>CASTLE</speaker><content>Why would she go radio silent for 24 hours?</content></utterance>
+<utterance uid="13-22"><speaker>BECKETT</speaker><content>And where the hell was she?</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>LANIE</speaker><content>I’ll tell you where she was. Madagascar.</content></utterance>
+<utterance uid="14-2"><speaker>CASTLE</speaker><content>As in the country off the southeastern coast of Africa made famous by the adorable animated film?</content></utterance>
+<utterance uid="14-3"><speaker>LANIE</speaker><content>Yep. The material I found underneath her fingernails? Not skin from an attacker. It’s alluaudia.</content></utterance>
+<utterance uid="14-4"><speaker>BECKETT</speaker><content>And what is alluaudia?</content></utterance>
+<utterance uid="14-5"><speaker>LANIE</speaker><content> A rare spiny plant cultivated primarily in Madagascar.</content></utterance>
+<utterance uid="14-6"><speaker>CASTLE</speaker><content>So how did it get underneath her fingernails?</content></utterance>
+<utterance uid="14-7"><speaker>LANIE</speaker><content>Beats me. As for her defensive wounds, they were not sustained at the time of murder. They’re from 24 hours prior.</content></utterance>
+<utterance uid="14-8"><speaker>BECKETT</speaker><content>That’s about the time that she went off the grid. Which means there’s got to be a connection.</content></utterance>
+<utterance uid="14-9"><speaker>LANIE</speaker><content>Well I think there is. Remember this abrasion?</content></utterance>
+<utterance uid="14-10"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="14-11"><speaker>LANIE</speaker><content>Well I figured out what caused it. He diamond tennis bracelet.</content></utterance>
+<utterance uid="14-12"><speaker>CASTLE</speaker><content>But wasn’t that on her right wrist?</content></utterance>
+<utterance uid="14-13"><speaker>LANIE</speaker><content>Good memory.</content></utterance>
+<utterance uid="14-14"><speaker>CASTLE</speaker><content>So her wrists were tied together.</content></utterance>
+<utterance uid="14-15"><speaker>LANIE</speaker><content>Tight. And for several hours.</content></utterance>
+<utterance uid="14-16"><speaker>BECKETT</speaker><content>Now it’s making sense. Wearing the same clothes overnight –</content></utterance>
+<utterance uid="14-17"><speaker>CASTLE</speaker><content>The radio silence.</content></utterance>
+<utterance uid="14-18"><speaker>BECKETT</speaker><content>And the defensive wounds 24 hours prior to death.</content></utterance>
+<utterance uid="14-19"><speaker>CASTLE</speaker><content>Hannah was held hostage.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>BECKETT</speaker><content>If Hannah was being held hostage, then why didn’t she report it?</content></utterance>
+<utterance uid="15-2"><speaker>RYAN</speaker><content>And how did she get magically transported to Madagascar?</content></utterance>
+<utterance uid="15-3"><speaker>CASTLE</speaker><content>And why would she go afterwards to Margo’s to apologize for missing work?</content></utterance>
+<utterance uid="15-4"><speaker>BECKETT</speaker><content>It has to have something to do with those $5 thousand dollar payments and that meeting with that mystery man at the bar in Brooklyn.</content></utterance>
+<utterance uid="15-5"><speaker>CASTLE</speaker><content>It all seems so random. I mean, I know by the end of this all these clues will fit together beautifully in a murderous mosaic.</content></utterance>
+<utterance uid="15-6"><speaker>RYAN</speaker><content>Ah.</content></utterance>
+<utterance uid="15-7"><speaker>CASTLE</speaker><content>But how?  Wait. Is this your Valentine’s Day gift to me? A complex mystery where nothing makes sense? You know me so well.</content></utterance>
+<utterance uid="15-8"><speaker>ESPOSITO</speaker><content>Um, I hate to interrupt your little, uh … love connection, but I checked traffic cameras. I found footage of Hannah arriving at Margo’s building. I got the medallion, talked to the cabbie, whose log showed that he picked up Hannah at 78th and Lex.</content></utterance>
+<utterance uid="15-9"><speaker>BECKETT</speaker><content>Did he say where she was coming from? Building? Store?</content></utterance>
+<utterance uid="15-10"><speaker>ESPOSITO</speaker><content>He didn’t know. Said that she was standing on the corner when she flagged him down.</content></utterance>
+<utterance uid="15-11"><speaker>RYAN</speaker><content>Well then she could have come from anywhere. There’s no way we can narrow that down, bro.</content></utterance>
+<utterance uid="15-12"><speaker>GATES</speaker><content>Maybe there is. I spoke to a regulator at the Department of Agriculture. It seems alluaudia is used in green sustainable architecture. In rugs, flooring, wallpaper. Possibly from a building nearby.</content></utterance>
+<utterance uid="15-13"><speaker>BECKETT</speaker><content>All right. Espo, you get uniforms to canvass the area around 78th and Lex. Let’s see if there’s any green sustainable buildings that use that allu – whatever the plant is.</content></utterance>
+<utterance uid="15-14"><speaker>ESPOSITO</speaker><content>As you wish.</content></utterance>
+<utterance uid="15-15"><speaker>CASTLE</speaker><content>Captain Gates, participating in the case. Engaging in idle speculation. We are not so different, you and I.</content></utterance>
+<utterance uid="15-16"><speaker>CASTLE</speaker><content>There’s … there’s a difference. We’re different.</content></utterance>
+<utterance uid="15-17"><speaker>GATES</speaker><content> You know, this could actually be our big break. Only we may not have gotten to it if I hadn’t recognized Margo’s building in that photo. Which is why I think each of you should watch some “Wives of Wall Street” episodes tonight. For the good of the case.</content></utterance>
+<utterance uid="15-18"><speaker>CASTLE</speaker><content>So, want to come over for a little viewing party?</content></utterance>
+<utterance uid="15-19"><speaker>BECKETT</speaker><content>So you can badger me about what I’m getting you for Valentine’s Day?  No, thanks. I think I will pass.</content></utterance>
+<utterance uid="15-20"><speaker>CASTLE</speaker><content>Okay. But I’m warning you. I’m kind of competitive when it comes to giving gifts. Don’t feel bad if yours isn’t as good as mine.</content></utterance>
+<utterance uid="15-21"><speaker>BECKETT</speaker><content>What if it’s better?</content></utterance>
+<utterance uid="15-22"><speaker>CASTLE</speaker><content>Better?</content></utterance>
+<utterance uid="15-23"><speaker>BECKETT</speaker><content>Mmhmm.</content></utterance>
+<utterance uid="15-24"><speaker>CASTLE</speaker><content>How could it possibly be better?</content></utterance>
+<utterance uid="15-25"><speaker>BECKETT</speaker><content>Oh, I guess it just depends on what you got me?</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>MARTHA</speaker><content>Oh Richard, these are breathtaking.</content></utterance>
+<utterance uid="16-2"><speaker>ALEXIS</speaker><content>Beckett is going to love them, Dad.</content></utterance>
+<utterance uid="16-3"><speaker>CASTLE</speaker><content>Right? She’ll have a tough time competing with that. One of the perils of dating a gift ninja.</content></utterance>
+<utterance uid="16-4"><speaker>MARTHA</speaker><content>Oh, you want to be a real ninja? You just slip these into her coat pocket when she’s not looking.</content></utterance>
+<utterance uid="16-5"><speaker>ALEXIS</speaker><content>Ooh.</content></utterance>
+<utterance uid="16-6"><speaker>CASTLE</speaker><content>Oh Mother, I like that idea. The element of surprise. The ninja way.</content></utterance>
+<utterance uid="16-7"><speaker>CASTLE</speaker><content>What about you, Alexis? Any plans with Max?</content></utterance>
+<utterance uid="16-8"><speaker>ALEXIS</speaker><content>Uh, we’re just going to study together.</content></utterance>
+<utterance uid="16-9"><speaker>CASTLE</speaker><content>That doesn’t sound very special.</content></utterance>
+<utterance uid="16-10"><speaker>ALEXIS</speaker><content>Well I think we’ll mostly just study each other’s eyes.</content></utterance>
+<utterance uid="16-11"><speaker>CASTLE</speaker><content>And you, Mother. Any special plans?</content></utterance>
+<utterance uid="16-12"><speaker>MARTHA</speaker><content>We’re going to do dramatic readings of love letters at my studio.</content></utterance>
+<utterance uid="16-13"><speaker>CASTLE</speaker><content>Oh well, that’s nice. And speaking of drama, would anyone like to join me for a screening of “Wives of Wall Street”? Popcorn included.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>MARGO</speaker><content>Three hours is not acceptable, Hannah! We’re running a business, here!</content></utterance>
+<utterance uid="17-2"><speaker>HANNAH</speaker><content>I wasn’t at lunch, I was getting fabric samples.</content></utterance>
+<utterance uid="17-3"><speaker>MARGO</speaker><content>That is no excuse for being late. You are not in Kansas, Toto.</content></utterance>
+<utterance uid="17-4"><speaker>CASTLE</speaker><content>Shoot me now.</content></utterance>
+<utterance uid="17-5"><speaker>MARTHA</speaker><content>Boy, I wish I’d had these reality shows in my day. No script, overacting, screaming at everybody. What a gig.</content></utterance>
+<utterance uid="17-6"><speaker>MARGO</speaker><content>Now, I have written new provocopy. Read it.</content></utterance>
+<utterance uid="17-7"><speaker>PENELOPE</speaker><content>So what’s going on between you two?</content></utterance>
+<utterance uid="17-8"><speaker>BOB</speaker><content>Nothing. What do you mean?</content></utterance>
+<utterance uid="17-9"><speaker>PENELOPE</speaker><content>You’re sleeping with her, aren’t you, Bob?</content></utterance>
+<utterance uid="17-10"><speaker>HANNAH</speaker><content>No. No.</content></utterance>
+<utterance uid="17-11"><speaker>PENELOPE</speaker><content>Don’t lie to me! You’re screwing Hannah! Admit it! Admit it!</content></utterance>
+<utterance uid="17-12"><speaker>BOB</speaker><content>Yes, all right? I’m sorry!</content></utterance>
+<utterance uid="17-13"><speaker>HANNAH</speaker><content>He chose me, Penelope. Deal with it.</content></utterance>
+<utterance uid="17-14"><speaker>PENELOPE</speaker><content>You come near me again and I will rip your throat out.</content></utterance>
+<utterance uid="17-15"><speaker>ANNOUNCER</speaker><content>Coming up next week, Margo’s son Stone, who’s learning the family business from mom, and Colette’s daughter Ashley, budding ceramic entrepreneur, get engaged. Strap in as their moms get busy planning their fairy tale wedding.</content></utterance>
+<utterance uid="17-16"><speaker>ANNOUNCER</speaker><content>Coming up next, the Shark Pool with bad boy billionaire Mike Chilean.</content></utterance>
+<utterance uid="17-17"><speaker>MIKE CHILEAN</speaker><content>You’re funded!</content></utterance>
+<utterance uid="17-18"><speaker>ALEXIS</speaker><content>Oh my God, Dad. You’re still watching?</content></utterance>
+<utterance uid="17-19"><speaker>CASTLE</speaker><content>I can’t feel my butt.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>CASTLE</speaker><content>That’s exactly what I mean. Hannah didn’t stand a chance. I mean, she’s a small town, naïve young woman. She was chum to piranhas.</content></utterance>
+<utterance uid="18-2"><speaker>GATES</speaker><content>But – but look what she did to Bob.</content></utterance>
+<utterance uid="18-3"><speaker>CASTLE</speaker><content>Okay. Okay. Do you really think that she played him? That Penelope was right about that?</content></utterance>
+<utterance uid="18-4"><speaker>GATES</speaker><content>Oh, that girl was smarter than anybody gave her credit for.</content></utterance>
+<utterance uid="18-5"><speaker>CASTLE</speaker><content>You know what? I think you’re right.</content></utterance>
+<utterance uid="18-6"><speaker>GATES</speaker><content>What about you, Detective? Did you watch “Wives of Wall Street” last night?</content></utterance>
+<utterance uid="18-7"><speaker>BECKETT</speaker><content> I watched an episode.</content></utterance>
+<utterance uid="18-8"><speaker>CASTLE</speaker><content>Just one episode? That’s like eating one potato chip.</content></utterance>
+<utterance uid="18-9"><speaker>BECKETT</speaker><content>I usually just eat one potato chip.</content></utterance>
+<utterance uid="18-10"><speaker>GATES</speaker><content>So what’s the status on the canvass, Detective?</content></utterance>
+<utterance uid="18-11"><speaker>BECKETT</speaker><content>Uh, uniforms are still making their way through every building that uses any trace of alluaudia on the Upper East Side, so nothing yet.</content></utterance>
+<utterance uid="18-12"><speaker>ESPOSITO</speaker><content>Yo. You guys aren’t going to believe this. The sketch of the guy Hannah met in Brooklyn out at the little restaurant just came in.</content></utterance>
+<utterance uid="18-13"><speaker>BECKETT</speaker><content>Was anyone at the bar able to ID him?</content></utterance>
+<utterance uid="18-14"><speaker>ESPOSITO</speaker><content>They didn’t need to.</content></utterance>
+<utterance uid="18-15"><speaker>CASTLE</speaker><content>That’s Mike Chilean.</content></utterance>
+<utterance uid="18-16"><speaker>GATES</speaker><content>The crazy billionaire?</content></utterance>
+<utterance uid="18-17"><speaker>ESPOSITO</speaker><content>And the entrepreneur host of the Financial Channel’s other hit reality TV show “The Shark Pool”.</content></utterance>
+<utterance uid="18-18"><speaker>GATES</speaker><content>So why would Hannah ditch her shot to pitch Margo a clothing line and meet with Chilean at a seedy bar in Brooklyn?</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>MIKE CHILEAN</speaker><content>Meeting at that dump was her idea. Me, I’m more of a Le Cirque guy. But she said she needed privacy.</content></utterance>
+<utterance uid="19-2"><speaker>BECKETT</speaker><content>For what?</content></utterance>
+<utterance uid="19-3"><speaker>CHILEAN</speaker><content>We met last month at a Financial Channel party. She was … cute. And young. Then a few days ago she calls me out of the blue and asks to meet.</content></utterance>
+<utterance uid="19-4"><speaker>BECKETT</speaker><content>So it was a date?</content></utterance>
+<utterance uid="19-5"><speaker>CHILEAN</speaker><content>That’s what I thought, yes. But when I get there she goes all Shark Pool on me. Starts pitching her idea for a vegan, organic, hipster clothing line.</content></utterance>
+<utterance uid="19-6"><speaker>BECKETT</speaker><content>Wait, she asked you to fund her clothing line? Margo Gower was set to back it on the show.</content></utterance>
+<utterance uid="19-7"><speaker>CHILEAN</speaker><content>Well that was the weird part. I was ready to offer her financing.  Her name recognition from the show almost guarantees a profit. But then she says ‘what if I were to leave the show? Would that make a difference?’.</content></utterance>
+<utterance uid="19-8"><speaker>BECKETT</speaker><content>She told you that she might leave the show.</content></utterance>
+<utterance uid="19-9"><speaker>CHILEAN</speaker><content>Yep. So I said, ‘yes, sweetie. That would make a big difference.’ Without the show, her brand isn’t worth jack.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>CASTLE</speaker><content>Why would Hannah suddenly want to leave the show after everything she ever dreamed of started happening for her?</content></utterance>
+<utterance uid="20-2"><speaker>BECKETT</speaker><content>Well, whatever was going on she clearly wanted to keep it under wraps.</content></utterance>
+<utterance uid="20-3"><speaker>GATES</speaker><content>Hey, uniforms just got a hit on the canvass from a pretzel vendor who saw Hannah walk in to a nearby building right in our abduction time frame. Records show it’s lead certified, green construction.</content></utterance>
+<utterance uid="20-4"><speaker>CASTLE</speaker><content>Any evidence of alluaudia in the building?</content></utterance>
+<utterance uid="20-5"><speaker>GATES</speaker><content>I checked. It’s in the wallpaper. She was held hostage someplace in the building. Find out where.</content></utterance>
+<utterance uid="20-6"><speaker>BECKETT</speaker><content>Castle, let’s go.</content></utterance>
+<utterance uid="20-7"><speaker>CASTLE</speaker><content>On my way.</content></utterance>
+<utterance uid="20-8"><speaker>CASTLE</speaker><content>Oh, you’ve got the wrong blazer there.</content></utterance>
+<utterance uid="20-9"><speaker>BECKETT</speaker><content>No I don’t. Let’s go.</content></utterance>
+<utterance uid="20-10"><speaker>GATES</speaker><content>Is everything all right, Mr. Castle?</content></utterance>
+<utterance uid="20-11"><speaker>CASTLE</speaker><content>Uh …</content></utterance>
+<utterance uid="20-12"><speaker>BECKETT</speaker><content>Castle.  C’mon.</content></utterance>
+</scene>
+
+<scene id="21"><utterance uid="21-1"><speaker>BECKETT</speaker><content>Have you ever seen her in the building before?</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>BECKETT</speaker><content>And who owns 29J?</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>BECKETT</speaker><content>Is there a name listed on it?</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>BECKETT</speaker><content>Wait, wait, wait. Do you hear that?</content></utterance>
+<utterance uid="24-2"><speaker>CASTLE</speaker><content>Sounds like someone pounding on a wall.</content></utterance>
+<utterance uid="24-3"><speaker>BECKETT</speaker><content>Penelope?</content></utterance>
+<utterance uid="24-4"><speaker>CASTLE</speaker><content>And Bob? You two are back toget - ?  Spoiler alert.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>GATES</speaker><content>Bob and Penelope are together? I can’t believe it.</content></utterance>
+<utterance uid="25-2"><speaker>CASTLE</speaker><content>I know, right?</content></utterance>
+<utterance uid="25-3"><speaker>BECKETT</speaker><content>Neither of them is talking about Hannah.</content></utterance>
+<utterance uid="25-4"><speaker>GATES</speaker><content>Well clearly they have a lot more to hide than the fact that they were sleeping together.</content></utterance>
+<utterance uid="25-5"><speaker>CASTLE</speaker><content>Well this is a plot twist I didn’t see coming.</content></utterance>
+<utterance uid="25-6"><speaker>RYAN</speaker><content>Hey, so I did some digging into the apartment. Ocean Terrace Holdings? It’s a shell company owned by Bob. The lease began just after he and Hannah started their affair.</content></utterance>
+<utterance uid="25-7"><speaker>GATES</speaker><content>That’s odd. When Bob left Penelope he moved into the Thompson Hotel with Hannah. So why would he lease another apartment?</content></utterance>
+<utterance uid="25-8"><speaker>ESPOSITO</speaker><content>Yo.</content></utterance>
+<utterance uid="25-9"><speaker>ESPOSITO</speaker><content>I looked into Penelope’s financials. Remember those $5 thousand dollar payments that Hannah got? They line up exactly with withdrawals that Penelope made from her checking account.</content></utterance>
+<utterance uid="25-10"><speaker>GATES</speaker><content>Penelope was paying Hannah? Wha – why would she do that?</content></utterance>
+<utterance uid="25-11"><speaker>BECKETT</speaker><content>There’s no way to know unless we get her to talk.</content></utterance>
+<utterance uid="25-12"><speaker>CASTLE</speaker><content>I’m sorry – I’m sorry. Have you seen this show? Penelope is the strong one. If anyone’s going to talk  it’s Bob.</content></utterance>
+<utterance uid="25-13"><speaker>BECKETT</speaker><content>But he’s not. My guess is he’s afraid of Penelope.</content></utterance>
+<utterance uid="25-14"><speaker>CASTLE</speaker><content>Well then perhaps it’s time to tear a page from Penelope’s playbook.</content></utterance>
+<utterance uid="25-15"><speaker>BECKETT</speaker><content>Oh, c’mon. You guys aren’t actually –</content></utterance>
+<utterance uid="25-16"><speaker>GATES</speaker><content>Couldn’t hurt.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>BOB</speaker><content>I told you, I have nothing to say –</content></utterance>
+<utterance uid="26-2"><speaker>BECKETT</speaker><content>Did I say you could talk?</content></utterance>
+<utterance uid="26-3"><speaker>BECKETT</speaker><content>Did someone give you permission to open your sorry little mouth? No! So sit down, shut up, and listen. We know that apartment’s yours, Bob. We know that Hannah was held hostage there. Which means, I can nail you for kidnapping. That’s 20 years, easy.</content></utterance>
+<utterance uid="26-4"><speaker>BOB</speaker><content>What? No! I –</content></utterance>
+<utterance uid="26-5"><speaker>BECKETT</speaker><content>But you know what? I’m not going to stop there. I‘m going to fry you for murder.</content></utterance>
+<utterance uid="26-6"><speaker>BOB</speaker><content>Wait, me? I didn’t kill her.</content></utterance>
+<utterance uid="26-7"><speaker>BECKETT</speaker><content>Don’t lie to me! You locked her up, you held her hostage. Who does that to someone that they love, you lying sack of –</content></utterance>
+<utterance uid="26-8"><speaker>BOB</speaker><content>We weren’t in love, okay? It was a lie! The whole thing was a lie. There was no relationship. Hannah and I were never even together.</content></utterance>
+<utterance uid="26-9"><speaker>GATES</speaker><content>What?</content></utterance>
+<utterance uid="26-10"><speaker>CASTLE</speaker><content>What?</content></utterance>
+<utterance uid="26-11"><speaker>BOB</speaker><content>We only did it for the ratings.</content></utterance>
+<utterance uid="26-12"><speaker>BECKETT</speaker><content> The ratings?</content></utterance>
+<utterance uid="26-13"><speaker>BOB</speaker><content>Ashley and Stone’s engagement was sucking up all the attention on the show. Penelope’s screen time was dropping which was killing her clothing sales. She was out of her mind. So we came up with a plan. Hannah was reluctant at first, but Penelope can be pretty persuasive.</content></utterance>
+<utterance uid="26-14"><speaker>BECKETT</speaker><content>So the $5 thousand dollars that Penelope was paying Hannah, that was to fake a relationship?</content></utterance>
+<utterance uid="26-15"><speaker>BOB</speaker><content>We never intended for it to end like this.</content></utterance>
+<utterance uid="26-16"><speaker>BECKETT</speaker><content>What happened, Bob?</content></utterance>
+<utterance uid="26-17"><speaker>BOB</speaker><content>The other night, after taping a confessional, Hannah said that she needed to talk. Well the three of us couldn’t be seen together so we met at the apartment. She told us that she couldn’t bear everyone thinking she was this home wrecker. She couldn’t go on living a lie. Then she said she was going to go public. Reveal the affair had been faked all along.</content></utterance>
+<utterance uid="26-18"><speaker>BECKETT</speaker><content>That’s a pretty big bombshell. How’d you guys take it?</content></utterance>
+<utterance uid="26-19"><speaker>BOB</speaker><content>How’d we take it? We panicked. If we let her go through with it, it would blow up the show. We’d lose all credibility. No one would buy Penelope’s clothes anymore. Plus we’d be in breach of contract and the show could sue us for every cent we had. Our whole lives would be ruined.</content></utterance>
+<utterance uid="26-20"><speaker>BECKETT</speaker><content>So then you guys tied her up.</content></utterance>
+<utterance uid="26-21"><speaker>BOB</speaker><content>We didn’t know what to do. So after a whole day went by, we realized we couldn’t hold her forever, so  … so we made a call.</content></utterance>
+<utterance uid="26-22"><speaker>BECKETT</speaker><content>So who did you call?  Bob! Who’d you call?</content></utterance>
+<utterance uid="26-23"><speaker>BOB</speaker><content>Peter Monroe.</content></utterance>
+<utterance uid="26-24"><speaker>BECKETT</speaker><content>The “Wives of Wall Street” producer?</content></utterance>
+<utterance uid="26-25"><speaker>BOB</speaker><content>We needed help. It’s his show. He had as much to lose as we did.</content></utterance>
+<utterance uid="26-26"><speaker>BECKETT</speaker><content>What did you tell him?</content></utterance>
+<utterance uid="26-27"><speaker>BOB</speaker><content>Everything. Then he came over and told Penelope and me to leave. That he would handle Hannah. And we thought he was just going to talk some sense into her. You know. Maybe sweeten her deal. But the next thing we knew  Hannah was dead.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>JEFF</speaker><content>I’m so sorry, sir. I tried to stop them –</content></utterance>
+<utterance uid="27-2"><speaker>PETER</speaker><content>Jeff, get out of here.</content></utterance>
+<utterance uid="27-3"><speaker>JEFF</speaker><content>Right.</content></utterance>
+<utterance uid="27-4"><speaker>BECKETT</speaker><content>Mr. Monroe, are you pathologically incapable of telling the truth?</content></utterance>
+<utterance uid="27-5"><speaker>PETER</speaker><content>Well, that depends. What’s this about?</content></utterance>
+<utterance uid="27-6"><speaker>CASTLE</speaker><content>Your role in Hannah’s murder.</content></utterance>
+<utterance uid="27-7"><speaker>PETER</speaker><content>Whoa. I had nothing to do with her murder.</content></utterance>
+<utterance uid="27-8"><speaker>BECKETT</speaker><content>Bob thinks you did. We know about him calling you from the apartment. About Hannah just before she died.</content></utterance>
+<utterance uid="27-9"><speaker>PETER</speaker><content>Okay. Penelope and Bob called me. A couple of moron idiots, taking her hostage like that.</content></utterance>
+<utterance uid="27-10"><speaker>CASTLE</speaker><content>So you went over there.</content></utterance>
+<utterance uid="27-11"><speaker>PETER</speaker><content>Of course I went over there. Hell, I saved her from those two lunatics. I’m the good guy. You know what I did when I got there? I let her go. Water?</content></utterance>
+<utterance uid="27-12"><speaker>CASTLE</speaker><content>Please. Look, if Hannah exposed that your main storyline was faked your show would go down in flames.</content></utterance>
+<utterance uid="27-13"><speaker>CASTLE</speaker><content>The fans would be outraged. Hell, I’m outraged.</content></utterance>
+<utterance uid="27-14"><speaker>PETER</speaker><content>I was trying to stop her. I offered her more money. Her own series. Anything she wanted to not blow the lid off the show. I mean,  … she was going to ruin everything. I begged her to stay. I followed her out and gave her every decent pitch I had. But she wouldn’t deal. She got into a taxi and I never saw her again.</content></utterance>
+<utterance uid="27-15"><speaker>BECKETT</speaker><content>Here’s a better story. You grabbed a knife and you followed her.</content></utterance>
+<utterance uid="27-16"><speaker>PETER</speaker><content>No, I didn’t. I swear. I went straight to the Player’s Club. Ordered a couple of cocktails and waited for my world to start to cave in. But nothing happened.  Next morning I found out she was dead.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>BECKETT</speaker><content>So the manager at the Player’s Club confirms that Monroe was there from 10PM to well after midnight. He’s not our guy.</content></utterance>
+<utterance uid="28-2"><speaker>CASTLE</speaker><content>Which leaves Margo. ‘cause that’s where Hannah went next. But after being held hostage and demanding to leave the show I doubt she went there to recommit to the job. Margo had to have been lying to us.</content></utterance>
+<utterance uid="28-3"><speaker>ESPOSITO</speaker><content>Margo was lying, all right. She told you she buzzed up Hannah that night, right?</content></utterance>
+<utterance uid="28-4"><speaker>BECKETT</speaker><content>Uh huh.</content></utterance>
+<utterance uid="28-5"><speaker>ESPOSITO</speaker><content>That’s impossible. The buzzer in her building connects through her phone. According to the phone records Hannah was buzzed up at 9:57PM. Well, according to Margo’s financials, at almost exactly the same time – 9:58PM – she was using her credit card at Lorenzo’s Deli ten blocks away.</content></utterance>
+<utterance uid="28-6"><speaker>BECKETT</speaker><content>Thanks Espo.  Margo’s got some explaining to do. If she didn’t buzz Hannah in then who did?</content></utterance>
+<utterance uid="28-7"><speaker>CASTLE</speaker><content>And why would she lie about it?</content></utterance>
+<utterance uid="28-8"><speaker>BECKETT</speaker><content>Castle, what’s going on with you and Gates today?</content></utterance>
+<utterance uid="28-9"><speaker>CASTLE</speaker><content>What do you mean?</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>BECKETT</speaker><content>Seriously Castle, what were you thinking?</content></utterance>
+<utterance uid="29-2"><speaker>CASTLE</speaker><content>Well, I wanted to surprise you.</content></utterance>
+<utterance uid="29-3"><speaker>BECKETT</speaker><content>By putting my gift in Gates’ blazer? Okay, I’m surprised.</content></utterance>
+<utterance uid="29-4"><speaker>CASTLE</speaker><content>But why do you and Gates have to wear such similar blazers?</content></utterance>
+<utterance uid="29-5"><speaker>BECKETT</speaker><content>Did you write a note?</content></utterance>
+<utterance uid="29-6"><speaker>CASTLE</speaker><content>Of course I wrote a note. I’m a writer.</content></utterance>
+<utterance uid="29-7"><speaker>BECKETT</speaker><content>Was it romantic?</content></utterance>
+<utterance uid="29-8"><speaker>CASTLE</speaker><content>It’s Valentine’s Day, so yeah, it was romantic.</content></utterance>
+<utterance uid="29-9"><speaker>BECKETT</speaker><content>Did you put my name on it?</content></utterance>
+<utterance uid="29-10"><speaker>BECKETT</speaker><content>Oh God, Castle, did you put my name on it?</content></utterance>
+<utterance uid="29-11"><speaker>CASTLE</speaker><content>I can’t remember. I put my name on it. I know that much.</content></utterance>
+<utterance uid="29-12"><speaker>BECKETT</speaker><content>If Gates finds out that we’re dating, then that’s it. We’re not going to be working together anymore.</content></utterance>
+<utterance uid="29-13"><speaker>CASTLE</speaker><content>Why do you think I’ve been trying so hard to get it back?</content></utterance>
+<utterance uid="29-14"><speaker>BECKETT</speaker><content>Oh, we will get it back. Right when we get back to the precinct. But right now we’ve got a murder to solve. Maybe our last.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>MARGO</speaker><content>Come in.</content></utterance>
+<utterance uid="30-2"><speaker>BECKETT</speaker><content>Thanks for buzzing us in.</content></utterance>
+<utterance uid="30-3"><speaker>MARGO</speaker><content> What can I do for you?</content></utterance>
+<utterance uid="30-4"><speaker>BECKETT</speaker><content>You know, the interesting thing about this building is that the buzzer system runs through your telephone.</content></utterance>
+<utterance uid="30-5"><speaker>MARGO</speaker><content>So?</content></utterance>
+<utterance uid="30-6"><speaker>BECKETT</speaker><content>So anytime anyone gets buzzed up it gets time stamped. And since we know you were at Lorenzo’s Deli buying onions you couldn’t have buzzed Hannah up the night of the murder.</content></utterance>
+<utterance uid="30-7"><speaker>CASTLE</speaker><content>Which means that somebody else did. Why did you lie to us?  From watching the show, I know that your husband is in Brussels working on a deal, so it couldn’t have been him. Which leaves only one other person living in this house.</content></utterance>
+<utterance uid="30-8"><speaker>BECKETT</speaker><content>Your son, Stone. He worked with Hannah, didn’t he?</content></utterance>
+<utterance uid="30-9"><speaker>MARGO</speaker><content>I don’t like what you’re implying.</content></utterance>
+<utterance uid="30-10"><speaker>CASTLE</speaker><content>Were they having problems with each other?</content></utterance>
+<utterance uid="30-11"><speaker>BECKETT</speaker><content>Where is Stone right now, Ms. Gower?</content></utterance>
+<utterance uid="30-12"><speaker>MARGO</speaker><content>I don’t know. He’s an adult.</content></utterance>
+<utterance uid="30-13"><speaker>CASTLE</speaker><content>Really? Because in season 3 episode 5 you said that you are your son’s keeper, always knowing where he is and what he’s doing.  It looks like one of us did their homework. Now Ms. Gower, where is Stone?</content></utterance>
+<utterance uid="30-14"><speaker>MARGO</speaker><content>I would like to talk to my attorney.</content></utterance>
+<utterance uid="30-15"><speaker>BECKETT</speaker><content>Entertainment or criminal?</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>RYAN</speaker><content>Sir, we got him.</content></utterance>
+<utterance uid="31-2"><speaker>GATES</speaker><content>Where’s he headed?</content></utterance>
+<utterance uid="31-3"><speaker>RYAN</speaker><content>Stone bought a one way ticked to Buenos Aires. Flight departs in an hour.</content></utterance>
+<utterance uid="31-4"><speaker>GATES</speaker><content>Bob and Penelope fake their break up and now poor, sweet, innocent Stone’s a killer? Is anything real on that reality show?</content></utterance>
+<utterance uid="31-5"><speaker>RYAN</speaker><content>Just the headache I get when I watch it.</content></utterance>
+<utterance uid="31-6"><speaker>GATES</speaker><content>Call TSA. Do not let him get on that flight.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>BECKETT</speaker><content>Why the sudden trip to Argentina, Stone?</content></utterance>
+<utterance uid="32-2"><speaker>STONE</speaker><content>I just needed a little time away.</content></utterance>
+<utterance uid="32-3"><speaker>BECKETT</speaker><content>We know that Hannah showed up at your apartment the night that she was killed and we know that you let her in.</content></utterance>
+<utterance uid="32-4"><speaker>CASTLE</speaker><content>And then for some reason your mother lied about it. Now why would she do that?</content></utterance>
+<utterance uid="32-5"><speaker>BECKETT</speaker><content>Was it because that Hannah told you that she was going to blow up the show and you suddenly saw your dreams of an Ashley/Stone spinoff going out the window? Is that why your mom lied? Because you followed Hannah out of the apartment and you killed her?</content></utterance>
+<utterance uid="32-6"><speaker>STONE</speaker><content>I didn’t kill her! Don’t you guys get it? I was in love with her.</content></utterance>
+<utterance uid="32-7"><speaker>CASTLE</speaker><content>Whoa, love? What about Ashley?</content></utterance>
+<utterance uid="32-8"><speaker>STONE</speaker><content>That was my mom’s idea. Look, I like Ash. We’ve known each other since we were kids, but  … then I met Hannah. We bonded over being forced into things that weren’t really us.</content></utterance>
+<utterance uid="32-9"><speaker>BECKETT</speaker><content>Did anyone else know about the two of you?</content></utterance>
+<utterance uid="32-10"><speaker>STONE</speaker><content>No. There was too much at stake. For the past few weeks Hannah just couldn’t take it anymore. What the show was doing to her. Her family.</content></utterance>
+<utterance uid="32-11"><speaker>CASTLE</speaker><content>She was looking for a way out.</content></utterance>
+<utterance uid="32-12"><speaker>STONE</speaker><content>We both were. But the lies had just gotten so big. Her fake affair, my engagement. Ash and my mom, they were counting on that spinoff.</content></utterance>
+<utterance uid="32-13"><speaker>BECKETT</speaker><content>What happened the night that Hannah showed up?</content></utterance>
+<utterance uid="32-14"><speaker>STONE</speaker><content>She was hysterical. She said she wanted to leave town right away. That it was now or never. And I was going to, but …</content></utterance>
+<utterance uid="32-15"><speaker>BECKETT</speaker><content>But what?</content></utterance>
+<utterance uid="32-16"><speaker>STONE</speaker><content> Then my mom came home. When she found out about our relationship, she went crazy. She threw Hannah out. But the worst part was that Hannah begged me to go with her. But I couldn’t. In the moment that she needed me - to stand up to my mother - I couldn’t.</content></utterance>
+<utterance uid="32-17"><speaker>CASTLE</speaker><content>Stone. Did your mother go after her?</content></utterance>
+<utterance uid="32-18"><speaker>STONE</speaker><content>No. As soon as Hannah left, I knew I had made a mistake. So I ran out to catch up with her in the street. And I kissed her. I told her I loved her.  But she said it was too late. That she never wanted to see any of us again.</content></utterance>
+<utterance uid="32-19"><speaker>BECKETT</speaker><content>Can anyone verify your whereabouts after you and Hannah went your separate ways?</content></utterance>
+<utterance uid="32-20"><speaker>STONE</speaker><content>I took a long walk, so no.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>GATES</speaker><content>So what do you think? You believe him?</content></utterance>
+<utterance uid="33-2"><speaker>CASTLE</speaker><content>He had motive. She was leaving him.</content></utterance>
+<utterance uid="33-3"><speaker>BECKETT</speaker><content>And he was the last one to see her alive a block away from where she was killed, so …</content></utterance>
+<utterance uid="33-4"><speaker>GATES</speaker><content>Only problem is we don’t have any proof. We can’t tie Stone to the crime scene.</content></utterance>
+<utterance uid="33-5"><speaker>RYAN</speaker><content>Actually, we can. On a hunch I took a look at his wedding registry. Turns out, Ashley and Stone are registered for a set of Takahara VG knives, including the 240 millimeter that was shipped out three weeks ago.</content></utterance>
+<utterance uid="33-6"><speaker>CASTLE</speaker><content>The lab report did say that it was a new knife.</content></utterance>
+<utterance uid="33-7"><speaker>GATES</speaker><content>Then that seals it.</content></utterance>
+<utterance uid="33-8"><speaker>BECKETT</speaker><content>No, not necessarily. We’re forgetting wedding etiquette. The gifts don’t go to the groom.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>BECKETT</speaker><content>Thank you for coming, Ashley.</content></utterance>
+<utterance uid="34-2"><speaker>ASHLEY</speaker><content>Oh, anything I can do to help.</content></utterance>
+<utterance uid="34-3"><speaker>BECKETT</speaker><content>You must be so busy planning for the wedding right now, and dealing with all of the gifts.</content></utterance>
+<utterance uid="34-4"><speaker>ASHLEY</speaker><content>Oh, yeah. </content></utterance>
+<utterance uid="34-5"><speaker>BECKETT</speaker><content>Well, we know that your cousin bought you that set of Takahara VG knives. The ones that you have on your registry.</content></utterance>
+<utterance uid="34-6"><speaker>ASHLEY</speaker><content>Okay.</content></utterance>
+<utterance uid="34-7"><speaker>CASTLE</speaker><content>The funny thing is, when we went to your apartment you don’t have the 240 millimeter. Isn’t it just a little weird that she wouldn’t get you the whole set?</content></utterance>
+<utterance uid="34-8"><speaker>ASHLEY</speaker><content>You were in my apartment?</content></utterance>
+<utterance uid="34-9"><speaker>BECKETT</speaker><content>Yeah, we also went to your ceramics studio as well.</content></utterance>
+<utterance uid="34-10"><speaker>CASTLE</speaker><content>Oh, your work is lovely, by the way. The colors of your glazes are stunning. I mean, it must take a lot of work to get – to get them just right. A lot of chemicals.  Like the um … antimony oxide we found, for example. What is that for?</content></utterance>
+<utterance uid="34-11"><speaker>ASHLEY</speaker><content>It’s an opacifier. It makes things opaque.</content></utterance>
+<utterance uid="34-12"><speaker>BECKETT</speaker><content>Only in this case it seems to make things clear.  The knife that was used in Hannah’s murder. We found traces of antimony oxide on it. From you.</content></utterance>
+<utterance uid="34-13"><speaker>ASHLEY</speaker><content>No.</content></utterance>
+<utterance uid="34-14"><speaker>CASTLE</speaker><content>You got an alert on your phone from the fan site, didn’t you? That photo of Hannah at Stone’s apartment. I mean, you already had your suspicions. You just confirmed your worst fears.</content></utterance>
+<utterance uid="34-15"><speaker>ASHLEY</speaker><content>No. No. I think we’re done here. I’m going to go. Excuse me.</content></utterance>
+<utterance uid="34-16"><speaker>ASHLEY</speaker><content>Excuse me. I – just – let me find my keys and I will go –</content></utterance>
+<utterance uid="34-17"><speaker>ASHLEY</speaker><content>Fine! I had my suspicions. And when I saw that picture I grabbed the knife, just to scare her. But when I got there Stone was kissing her. And saying he loved her. I couldn’t just let her steal my fiancé. Our spinoff was in final negotiations, for God’s sakes.</content></utterance>
+<utterance uid="34-18"><speaker>ASHLEY</speaker><content>So when Stone left I followed Hannah. I put an end to the threat.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>BECKETT</speaker><content>The next generation of the “Wives of Wall Street” and Ashley takes it to a whole new level.</content></utterance>
+<utterance uid="35-2"><speaker>CASTLE</speaker><content>Maybe she was just following their motto. “Don’t let anyone stop you from getting what you want.”</content></utterance>
+<utterance uid="35-3"><speaker>BECKETT</speaker><content>As if being on TV somehow made her immune to the consequences. You know, at least we can tell Hannah’s family that the affair wasn’t real. She was actually planning on going home.  Speaking of consequences, why hasn’t Gates said anything yet?</content></utterance>
+<utterance uid="35-4"><speaker>CASTLE</speaker><content>Yeah, I don’t know. Maybe she’s choosing to ignore it, or just biding her time. Like a shark.</content></utterance>
+<utterance uid="35-5"><speaker>RYAN</speaker><content>Night guys. Happy Valentine’s Day.</content></utterance>
+<utterance uid="35-6"><speaker>CASTLE</speaker><content>Ah … once more unto the breach?</content></utterance>
+<utterance uid="35-7"><speaker>RYAN</speaker><content>Uh, actually Jenny just texted me and I have the night off. I mean, we’ll probably still uh … you know, but tonight it’ll be for romantic reasons.</content></utterance>
+<utterance uid="35-8"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="35-9"><speaker>BECKETT</speaker><content>Hey Espo! Your date’s here.</content></utterance>
+<utterance uid="35-10"><speaker>CASTLE</speaker><content> I knew they had plans! You knew they had plans and you didn’t tell me?</content></utterance>
+<utterance uid="35-11"><speaker>BECKETT</speaker><content>Yeah, because she asked me to keep it a secret. This is a really big deal for them. She doesn’t want you making fun of them.</content></utterance>
+<utterance uid="35-12"><speaker>CASTLE</speaker><content>I wouldn’t make fun – no, that’s not true.  It’d be fish in a barrel.</content></utterance>
+<utterance uid="35-13"><speaker>CASTLE</speaker><content>Oh.</content></utterance>
+<utterance uid="35-14"><speaker>BECKETT</speaker><content>Lanie, you look great.</content></utterance>
+<utterance uid="35-15"><speaker>LANIE</speaker><content>Yeah? It’s not too much?</content></utterance>
+<utterance uid="35-16"><speaker>BECKETT</speaker><content>No. It might be a little too much for Castle.  Eyes up, bud.</content></utterance>
+<utterance uid="35-17"><speaker>CASTLE</speaker><content>I do.</content></utterance>
+<utterance uid="35-18"><speaker>ESPOSITO</speaker><content>You look amazing, Lanie.</content></utterance>
+<utterance uid="35-19"><speaker>LANIE</speaker><content>Thanks, Javi.</content></utterance>
+<utterance uid="35-20"><speaker>ESPOSITO</speaker><content>Mmhmm.</content></utterance>
+<utterance uid="35-21"><speaker>LANIE</speaker><content>So, what’s the plan?</content></utterance>
+<utterance uid="35-22"><speaker>ESPOSITO</speaker><content>Oh, reservations at Le Fouquet.</content></utterance>
+<utterance uid="35-23"><speaker>LANIE</speaker><content>French? I love French.</content></utterance>
+<utterance uid="35-24"><speaker>ESPOSITO</speaker><content>Je le sais, mon petit chou chou. Allons-y.</content></utterance>
+<utterance uid="35-25"><speaker>ESPOSITO</speaker><content>Au revoir.</content></utterance>
+<utterance uid="35-26"><speaker>LANIE</speaker><content>Au revoir.</content></utterance>
+<utterance uid="35-27"><speaker>CASTLE</speaker><content>Ah, the magic of Valentine’s Day is upon us.</content></utterance>
+<utterance uid="35-28"><speaker>GATES</speaker><content>Mr. Castle.</content></utterance>
+<utterance uid="35-29"><speaker>GATES</speaker><content>My office. Now.</content></utterance>
+<utterance uid="35-30"><speaker>CASTLE</speaker><content>And there it goes.</content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>GATES</speaker><content>Did you really think that I, of all people, would be okay with this?</content></utterance>
+<utterance uid="36-2"><speaker>CASTLE</speaker><content>No, I – thought –</content></utterance>
+<utterance uid="36-3"><speaker>GATES</speaker><content>“You are beauty, passion, and fierce intellect. Be my Valentine. Rick.”</content></utterance>
+<utterance uid="36-4"><speaker>CASTLE</speaker><content>Is that all I wrote in there?</content></utterance>
+<utterance uid="36-5"><speaker>GATES</speaker><content>Isn’t that enough? What the hell is wrong with you? I’m a married woman.</content></utterance>
+<utterance uid="36-6"><speaker>CASTLE</speaker><content>I – I know. No, I know. I just thought –</content></utterance>
+<utterance uid="36-7"><speaker>GATES</speaker><content>Is this some lame, harebrained scheme to garner favor with me?</content></utterance>
+<utterance uid="36-8"><speaker>CASTLE</speaker><content> Yeah. That’s – that’s what this is.</content></utterance>
+<utterance uid="36-9"><speaker>GATES</speaker><content>Well, it backfired. And I am willing to forget this ever happened if you can assure me you can tame your childish nonsense and accord me some respect.</content></utterance>
+<utterance uid="36-10"><speaker>CASTLE</speaker><content>I – I will. I can. I will.</content></utterance>
+<utterance uid="36-11"><speaker>GATES</speaker><content>And now I will go home. To my husband. Because I’m his Valentine.</content></utterance>
+</scene>
+<scene id="37"><utterance uid="37-1"><speaker>BECKETT</speaker><content>She already hated you, Castle, so it doesn’t sound like you’re any worse off.</content></utterance>
+<utterance uid="37-2"><speaker>CASTLE</speaker><content>I do respect the way that she handled it, though. Strong. Decisive. I feel like somehow it brought us closer. I am sorry about the earrings, though.</content></utterance>
+<utterance uid="37-3"><speaker>BECKETT</speaker><content>Yeah, me too. They were … stunning.</content></utterance>
+<utterance uid="37-4"><speaker>CASTLE</speaker><content>Mmm. I will get you something else even more beautiful.  Just try not to give it to another woman first.</content></utterance>
+<utterance uid="37-5"><speaker>BECKETT</speaker><content>Well, that’d be nice.</content></utterance>
+<utterance uid="37-6"><speaker>CASTLE</speaker><content> Which reminds me. What did you get me?</content></utterance>
+<utterance uid="37-7"><speaker>BECKETT</speaker><content>Open it.</content></utterance>
+<utterance uid="37-8"><speaker>CASTLE</speaker><content> Maybe it’s in another drawer.</content></utterance>
+<utterance uid="37-9"><speaker>BECKETT</speaker><content>It is the drawer.</content></utterance>
+<utterance uid="37-10"><speaker>BECKETT</speaker><content>It’s your drawer.</content></utterance>
+<utterance uid="37-11"><speaker>BECKETT</speaker><content>I mean, I know it’s not a lightsaber, but –</content></utterance>
+<utterance uid="37-12"><speaker>CASTLE</speaker><content>No. It’s perfect.</content></utterance>
+<utterance uid="37-13"><speaker>BECKETT</speaker><content>Happy Valentine’s Day.  Now –  … take your clothes off, put them in your drawer, and meet me in the bed.</content></utterance>
+<utterance uid="37-14"><speaker>CASTLE</speaker><content>Seriously?</content></utterance>
+</scene>
+</script>

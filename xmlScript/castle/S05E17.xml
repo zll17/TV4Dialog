@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>OPERATOR</speaker><content>911, what’s your emergency?</content></utterance>
+<utterance uid="1-2"><speaker>VAL BUTLER</speaker><content>You have to help me. Please. I only have a few seconds left.</content></utterance>
+<utterance uid="1-3"><speaker>OPERATOR</speaker><content>Ma’am, what’s your address?</content></utterance>
+<utterance uid="1-4"><speaker>VAL</speaker><content>250 Avenue C. Please hurry.</content></utterance>
+<utterance uid="1-5"><speaker>OPERATOR</speaker><content>We’ll send help right away. Can you tell me what’s happening?</content></utterance>
+<utterance uid="1-6"><speaker>OPERATOR</speaker><content>Ma’am? I need you to tell me what’s going on.</content></utterance>
+<utterance uid="1-7"><speaker>VAL</speaker><content>Oh my God.</content></utterance>
+<utterance uid="1-8"><speaker>OPERATOR</speaker><content>Ma’am, can you hear me?</content></utterance>
+<utterance uid="1-9"><speaker>VAL</speaker><content>The lights went out.  It’s coming for me.</content></utterance>
+<utterance uid="1-10"><speaker>OPERATOR</speaker><content>What’s coming for you, ma’am?  Ma’am? Ma’am?</content></utterance>
+<utterance uid="1-11"><speaker>VAL</speaker><content>I’m gonna die.</content></utterance>
+<utterance uid="1-12"><speaker>OPERATOR</speaker><content>Ma’am, are you there? Hello? Ma’am? Are you there? Hello?</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>JAVIER ESPOSITO</speaker><content>Hear that? That call came in at 11:59 from our vic, Val Butler. She’s an ad exec downtown. First responders came moments later. That door was locked and that couch was in front of it. No sign of forced entry.</content></utterance>
+<utterance uid="2-2"><speaker>RICHARD CASTLE</speaker><content>Wow. She looks like she’s been scared to death. Literally.</content></utterance>
+<utterance uid="2-3"><speaker>SIDNEY PERLMUTTER</speaker><content>Is that based on your vast medical experience, Mr. Castle?</content></utterance>
+<utterance uid="2-4"><speaker>CASTLE</speaker><content>No. Based on the fact she looks like an Edvard Munch painting. Really freaky.</content></utterance>
+<utterance uid="2-5"><speaker>KATE BECKETT</speaker><content>So what was the cause of death?</content></utterance>
+<utterance uid="2-6"><speaker>PERLMUTTER</speaker><content>Well, there’s no external trauma. No puncture or stab wounds. Once I get her on the slab I’ll know more about how she died and who did it.</content></utterance>
+<utterance uid="2-7"><speaker>CASTLE</speaker><content>If it was a who.</content></utterance>
+<utterance uid="2-8"><speaker>ESPOSITO</speaker><content>Meaning?</content></utterance>
+<utterance uid="2-9"><speaker>CASTLE</speaker><content>Meaning she said, “it’s coming for me”. Not he or she, but it.</content></utterance>
+<utterance uid="2-10"><speaker>CASTLE</speaker><content>Look at what she was researching here.  “How to keep away evil.” “How to ward off evil spirits.”  A book on urban legends. Over by the door, horseshoes. I count two Indian wind chimes, there and there. These are things used to ward off evil spirits. Like Perlmutter.</content></utterance>
+<utterance uid="2-11"><speaker>PERLMUTTER</speaker><content>I heard that.</content></utterance>
+<utterance uid="2-12"><speaker>ESPOSITO</speaker><content>What are you saying, Castle?  Oh, was the boogey man out to get her?</content></utterance>
+<utterance uid="2-13"><speaker>CASTLE</speaker><content>I’m saying maybe that’s what she thought. Why she said “it’s coming for me”. Why the lights went out. Why she inexplicably died and why she looked so scared.</content></utterance>
+<utterance uid="2-14"><speaker>BECKETT</speaker><content>She was scared because she was about to be killed. By an actual person. So we should spend our time looking for that person.  Let’s set up a canvass and talk to everyone in the building that might have seen or heard something.</content></utterance>
+<utterance uid="2-15"><speaker>AMANDA</speaker><content>What happened to Val?  What’s going on?</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>AMANDA</speaker><content>I work nights as a research assistant at the college. But I should have stayed home last night. I knew something was up with her.</content></utterance>
+<utterance uid="3-2"><speaker>BECKETT</speaker><content>What do you mean?</content></utterance>
+<utterance uid="3-3"><speaker>AMANDA</speaker><content>She’s been weird the last couple of days. She hadn’t been eating or sleeping. She was really paranoid, always locking the doors.</content></utterance>
+<utterance uid="3-4"><speaker>CASTLE</speaker><content>Did she say what was wrong?</content></utterance>
+<utterance uid="3-5"><speaker>AMANDA</speaker><content>I asked, but she said she didn’t want to talk about it.</content></utterance>
+<utterance uid="3-6"><speaker>BECKETT</speaker><content>Amanda, do you know of anyone that may have wanted to hurt her?</content></utterance>
+<utterance uid="3-7"><speaker>AMANDA</speaker><content> Her ex-boyfriend.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>KEVIN RYAN</speaker><content>Boyfriend’s name is Freddie Baker, 31. Quite the resume. Resisting arrest, assault and battery.</content></utterance>
+<utterance uid="4-2"><speaker>CASTLE</speaker><content>Sounds like a prince.</content></utterance>
+<utterance uid="4-3"><speaker>RYAN</speaker><content>Yeah. Val wised up, though. She filed a restraining order against him after they broke up. Esposito’s checking into where he was last night.</content></utterance>
+<utterance uid="4-4"><speaker>BECKETT</speaker><content>What’d we get from Val’s family and friends?</content></utterance>
+<utterance uid="4-5"><speaker>RYAN</speaker><content>Just that they hadn’t heard from her in the last three days. She wasn’t returning their messages.</content></utterance>
+<utterance uid="4-6"><speaker>CASTLE</speaker><content>Three days. That’s how long Val’s roommate said she had been acting strangely.</content></utterance>
+<utterance uid="4-7"><speaker>RYAN</speaker><content>Yeah. So I dug into the last 72 hours of her life.  Besides a credit card charge for a train ticket to Greenwich there was nothing else unusual.</content></utterance>
+<utterance uid="4-8"><speaker>BECKETT</speaker><content>What was she doing in Greenwich?</content></utterance>
+<utterance uid="4-9"><speaker>RYAN</speaker><content>We’re still looking into that, but as far as abnormalities for the last few days that was it.</content></utterance>
+<utterance uid="4-10"><speaker>CASTLE</speaker><content>Uh, no. There’s more. The wind chime, the horseshoe, the book on urban legends. All bought online two days ago. Almost as if Val thought some sort of evil spirit was coming for her.</content></utterance>
+<utterance uid="4-11"><speaker>BECKETT</speaker><content>Castle, what she thought was going to happen versus what actually happened are two completely different things.</content></utterance>
+<utterance uid="4-12"><speaker>ESPOSITO</speaker><content>Yeah, because if Val was a victim of anything it was her lousy taste in men. Canvass popped. One of her neighbors saw Freddie in the building an hour before her death.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>FREDDIE BAKER</speaker><content>I’d never hurt Val. I loved her.</content></utterance>
+<utterance uid="5-2"><speaker>BECKETT</speaker><content>Really? Then how do you explain this restraining order that she filed against you? Was that a love letter?</content></utterance>
+<utterance uid="5-3"><speaker>FREDDIE</speaker><content> A misunderstanding.</content></utterance>
+<utterance uid="5-4"><speaker>ESPOSITO</speaker><content>Well, we have a witness that saw you in Val’s apartment last night.</content></utterance>
+<utterance uid="5-5"><speaker>FREDDIE</speaker><content>But I didn’t kill her. Yes, I went over there. But only because she begged me to.</content></utterance>
+<utterance uid="5-6"><speaker>BECKETT</speaker><content>Do you actually expect us to believe that she invited you over to her apartment after she filed a restraining order?</content></utterance>
+<utterance uid="5-7"><speaker>FREDDIE</speaker><content>It’s true. She said she wanted to get back together. But when I got there all she did was accuse me of sending her some package.</content></utterance>
+<utterance uid="5-8"><speaker>ESPOSITO</speaker><content>What package?</content></utterance>
+<utterance uid="5-9"><speaker>FREDDIE</speaker><content>I have no idea. But when I told her I didn’t send her anything, she started freaking out.</content></utterance>
+<utterance uid="5-10"><speaker>BECKETT</speaker><content>How was she freaking out?</content></utterance>
+<utterance uid="5-11"><speaker>FREDDIE</speaker><content>She kept saying, “It’s real.”</content></utterance>
+<utterance uid="5-12"><speaker>ESPOSITO</speaker><content>What’s real?</content></utterance>
+<utterance uid="5-13"><speaker>FREDDIE</speaker><content>I don’t know. She wasn’t making any sense. She kept asking me if I believed in the power of evil.</content></utterance>
+<utterance uid="5-14"><speaker>FREDDIE</speaker><content>I didn’t want to get in trouble for breaking the R.O. so I went to hang out with friends, but when I left the apartment Val was alive. I swear.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>ESPOSITO</speaker><content>Freddie’s alibi checks out. Friends confirm that he met them at 11. They hung out at a club until dawn.</content></utterance>
+<utterance uid="6-2"><speaker>BECKETT</speaker><content>So he’s not our guy.</content></utterance>
+<utterance uid="6-3"><speaker>CASTLE</speaker><content>Well, I’ll just point out that Val asked him if he believed in the power of evil and then was talking about how it was real. I hate to say it –</content></utterance>
+<utterance uid="6-4"><speaker>BECKETT</speaker><content>Then don’t.  Did CSU find a package at her apartment?</content></utterance>
+<utterance uid="6-5"><speaker>ESPOSITO</speaker><content>No, but they were looking for evidence of a murder, not mail.</content></utterance>
+<utterance uid="6-6"><speaker>BECKETT</speaker><content>So maybe that’s what freaked Val out. She knew that that package was coming from her killer.</content></utterance>
+</scene>
+
+<scene id="7"><utterance uid="7-1"><speaker>BECKETT</speaker><content>You find anything yet?</content></utterance>
+<utterance uid="7-2"><speaker>CASTLE</speaker><content>Yes. A closet with more stilettos than yours. Didn’t think it was possible.  How about you? Any luck?</content></utterance>
+<utterance uid="7-3"><speaker>BECKETT</speaker><content>Uh, yes. Looks like there’s a package that she got. It had a CD or a DVD, so be on the lookout for a disc.</content></utterance>
+<utterance uid="7-4"><speaker>CASTLE</speaker><content>Disc. Gotcha.</content></utterance>
+<utterance uid="7-5"><speaker>VIDEO</speaker><content>Help me.</content></utterance>
+<utterance uid="7-6"><speaker>CASTLE</speaker><content>Uh, Beckett?</content></utterance>
+<utterance uid="7-7"><speaker>CASTLE</speaker><content>Beckett? Can you come here?</content></utterance>
+<utterance uid="7-8"><speaker>VIDEO</speaker><content>You saw. On midnight of the third day, you die.</content></utterance>
+<utterance uid="7-9"><speaker>BECKETT</speaker><content>You okay? You find something?</content></utterance>
+<utterance uid="7-10"><speaker>CASTLE</speaker><content>When did you say Val got that package?</content></utterance>
+<utterance uid="7-11"><speaker>BECKETT</speaker><content>Three days before she died.</content></utterance>
+<utterance uid="7-12"><speaker>CASTLE</speaker><content>That was midnight on the third day.  She died because she saw this disc. And now I saw it. Which means I’m next.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>CASTLE</speaker><content>Legend tells of a mysterious video that can harness the forces of evil from the beyond. The disc is a harbinger of grave misfortune, marking its watchers to certain and unavoidable death. I saw it, just like Val did. That’s why she said “it’s coming for me”. That’s how she knew when she was going to die. Why she was trying to ward off spirits. Because of the message on that disc.</content></utterance>
+<utterance uid="8-2"><speaker>ESPOSITO</speaker><content>How’s a DVD going to kill you? Is it going to come at you like a ninja star? Cut your head off?</content></utterance>
+<utterance uid="8-3"><speaker>CASTLE</speaker><content>The actual DVD will not kill me, Esposito. It will be the spirit inside the DVD. Just like in The Ring.</content></utterance>
+<utterance uid="8-4"><speaker>RYAN</speaker><content>Ooh, ooh, the one with the creepy, waterlogged little girl that crawls out of the TV. I didn’t sleep for days after that movie.</content></utterance>
+<utterance uid="8-5"><speaker>BECKETT</speaker><content>Yes! Exactly! Thank you. That movie. It’s fiction. It’s a horror story in a book about urban legends.</content></utterance>
+<utterance uid="8-6"><speaker>RYAN</speaker><content>Yeah. I mean, because that’s … all it is, right? A legend.</content></utterance>
+<utterance uid="8-7"><speaker>CASTLE</speaker><content>Many legends are based in truth. I saw the video. At midnight in three days’ time I will die.</content></utterance>
+<utterance uid="8-8"><speaker>BECKETT</speaker><content>Oh Castle, that message wasn’t for you. It was a threat, for Val. And it wasn’t made by spirits. It was made by her murderer.  So, tracing the disc to whoever sent it should lead us straight to him. Espo –</content></utterance>
+<utterance uid="8-9"><speaker>ESPOSITO</speaker><content>Yeah.</content></utterance>
+<utterance uid="8-10"><speaker>BECKETT</speaker><content>There’s a PO Box on this air bill. Will you look into it?</content></utterance>
+<utterance uid="8-11"><speaker>ESPOSITO</speaker><content>Yeah.</content></utterance>
+<utterance uid="8-12"><speaker>BECKETT</speaker><content>And Ryan, why don’t you take a look at this disc and see –</content></utterance>
+<utterance uid="8-13"><speaker>RYAN</speaker><content>Oh, um … I’m sorry. What?</content></utterance>
+<utterance uid="8-14"><speaker>ESPOSITO</speaker><content>E tu, bro?</content></utterance>
+<utterance uid="8-15"><speaker>CASTLE</speaker><content>What did you say about the story being a legend?</content></utterance>
+<utterance uid="8-16"><speaker>RYAN</speaker><content>Um, well … uh … Jenny and I, we are trying to make a baby, so we’re abiding by every superstition in the book.</content></utterance>
+<utterance uid="8-17"><speaker>BECKETT</speaker><content>Okay, fine. Here, Espo.</content></utterance>
+<utterance uid="8-18"><speaker>ESPOSITO</speaker><content>Uh … nah. I can’t. I can’t watch that. If I watch that it’s going to make my partner out to be a wimp.</content></utterance>
+<utterance uid="8-19"><speaker>ESPOSITO</speaker><content>And I can’t have that.</content></utterance>
+<utterance uid="8-20"><speaker>RYAN</speaker><content>Thanks, bro.</content></utterance>
+<utterance uid="8-21"><speaker>ESPOSITO</speaker><content>Yeah.</content></utterance>
+<utterance uid="8-22"><speaker>BECKETT</speaker><content>This is so pathetic. Okay, fine. I will watch it.</content></utterance>
+<utterance uid="8-23"><speaker>CASTLE</speaker><content>Wait, no. What are you doing?</content></utterance>
+<utterance uid="8-24"><speaker>BECKETT</speaker><content>Castle, I’m doing my job. Someone here has to.</content></utterance>
+<utterance uid="8-25"><speaker>CASTLE</speaker><content>Okay, think of the risks. You may not think there’s anything to this, but what if you’re wrong?</content></utterance>
+<utterance uid="8-26"><speaker>BECKETT</speaker><content>You know, I appreciate your concern, but it’s just a DVD.</content></utterance>
+<utterance uid="8-27"><speaker>CASTLE</speaker><content>No – you just can’t play it. Let me take precautions here. Don’t want the whole precinct suffering my fate.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>CASTLE</speaker><content> Okay, okay. You want to hold my hand?</content></utterance>
+<utterance uid="9-2"><speaker>BECKETT</speaker><content>Castle, I’m not scared.</content></utterance>
+<utterance uid="9-3"><speaker>CASTLE</speaker><content>Well, I wasn’t asking for you.</content></utterance>
+<utterance uid="9-4"><speaker>BECKETT</speaker><content>Mmm.</content></utterance>
+<utterance uid="9-5"><speaker>BECKETT</speaker><content>Are you ready?</content></utterance>
+<utterance uid="9-6"><speaker>CASTLE</speaker><content>Does it matter?</content></utterance>
+<utterance uid="9-7"><speaker>BECKETT</speaker><content>What are those sounds?</content></utterance>
+<utterance uid="9-8"><speaker>CASTLE</speaker><content>It gets worse.  Wait for it.</content></utterance>
+<utterance uid="9-9"><speaker>VIDEO</speaker><content>You saw. Midnight on the third day, you die.</content></utterance>
+<utterance uid="9-10"><speaker>BECKETT</speaker><content>You’re right. It is kinda creepy.</content></utterance>
+<utterance uid="9-11"><speaker>CASTLE</speaker><content>Thank you.</content></utterance>
+<utterance uid="9-12"><speaker>BECKETT</speaker><content>Because the killer made it creepy, Castle.  Maybe those images meant something to the victim. Clues to the relationship between her and the killer.</content></utterance>
+<utterance uid="9-13"><speaker>CASTLE</speaker><content>Wait. Go back.  That one – that one there. That’s the um … that’s the Tibetan Wheel. It symbolizes rebirth.</content></utterance>
+<utterance uid="9-14"><speaker>CASTLE</speaker><content>Hang on, that is the Masonic Compass. That’s – they felt it represented resurrection.</content></utterance>
+<utterance uid="9-15"><speaker>BECKETT</speaker><content>Your point being?</content></utterance>
+<utterance uid="9-16"><speaker>CASTLE</speaker><content>Rebirth? Resurrection? This video obviously resurrects something from the great beyond. Something dangerous. Something murderous. I mean, what other explanation can there be?</content></utterance>
+<utterance uid="9-17"><speaker>BECKETT</speaker><content>There are plenty of explanations, Castle. And none of them are supernatural.  In fact, I bet Perlmutter has our cause of death by now. Those tox and autopsy reports should be done.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>PERLMUTTER</speaker><content>Ah, Detective Beckett. And defective Castle.</content></utterance>
+<utterance uid="10-2"><speaker>BECKETT</speaker><content>So Perlmutter. How was Val Butler killed?</content></utterance>
+<utterance uid="10-3"><speaker>PERLMUTTER</speaker><content> It appears she died of heart failure.</content></utterance>
+<utterance uid="10-4"><speaker>CASTLE</speaker><content>At 27?</content></utterance>
+<utterance uid="10-5"><speaker>BECKETT</speaker><content>Did she have heart problems?</content></utterance>
+<utterance uid="10-6"><speaker>PERLMUTTER</speaker><content>Well, she certainly did once it stopped beating.</content></utterance>
+<utterance uid="10-7"><speaker>BECKETT</speaker><content>What made it stop? Is it possible she was poisoned? Or OD’ed on drugs?</content></utterance>
+<utterance uid="10-8"><speaker>PERLMUTTER</speaker><content>Nothing showed up on her blood panels.</content></utterance>
+<utterance uid="10-9"><speaker>CASTLE</speaker><content>What about what caused her … um … </content></utterance>
+<utterance uid="10-10"><speaker>PERLMUTTER</speaker><content>Well, post mortem contractions of the facial muscles are not unheard of.</content></utterance>
+<utterance uid="10-11"><speaker>CASTLE</speaker><content>You don’t know what killed her.</content></utterance>
+<utterance uid="10-12"><speaker>PERLMUTTER</speaker><content>I wouldn’t say that.</content></utterance>
+<utterance uid="10-13"><speaker>CASTLE</speaker><content>Do you have a theory?</content></utterance>
+<utterance uid="10-14"><speaker>PERLMUTTER</speaker><content>Not at the present time.</content></utterance>
+<utterance uid="10-15"><speaker>CASTLE</speaker><content>That means you don’t know.  And the only explanation is that Val faced something so scary it stopped her heart and froze her face in the last expression she had. Terror. Admit it.</content></utterance>
+<utterance uid="10-16"><speaker>PERLMUTTER</speaker><content>All I’ll say, Mr. Castle, is that for now cause of death is unknown.</content></utterance>
+<utterance uid="10-17"><speaker>CASTLE</speaker><content>Unknown. Hear that?  Not good.</content></utterance>
+<utterance uid="10-18"><speaker>BECKETT</speaker><content>What are you doing?</content></utterance>
+<utterance uid="10-19"><speaker>CASTLE</speaker><content> Checking my bucket list. See how many things I can get done in two days.  Can either one of you introduce me to Bill Shatner?</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>RYAN</speaker><content>Finding who sent this disc should make Castle feel a whole lot better.</content></utterance>
+<utterance uid="11-2"><speaker>ESPOSITO</speaker><content>Yeah. But what if the worst happens and Castle’s right? Do you think he put me in his will?</content></utterance>
+<utterance uid="11-3"><speaker>RYAN</speaker><content>Dude. Uncool.</content></utterance>
+<utterance uid="11-4"><speaker>ESPOSITO</speaker><content>What? I’m just wondering. I mean, Castle’s death will be sad and all, but his Ferrari sure would lessen my grief.</content></utterance>
+<utterance uid="11-5"><speaker>RYAN</speaker><content>You do realize that even putting that out in the universe is bad karma.</content></utterance>
+<utterance uid="11-6"><speaker>ESPOSITO</speaker><content>Please. Castle’s not going to die. We’re not dealing with an evil spirit. We’re dealing with a guy who has a return address.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>TOMMY</speaker><content>Why does everyone keep asking about box 1135?</content></utterance>
+<utterance uid="12-2"><speaker>RYAN</speaker><content>Wait, who else has been asking about it?</content></utterance>
+<utterance uid="12-3"><speaker>TOMMY</speaker><content>Some brunette chick came in here a couple days ago.</content></utterance>
+<utterance uid="12-4"><speaker>ESPOSITO</speaker><content> Probably Val. What did you tell her?</content></utterance>
+<utterance uid="12-5"><speaker>TOMMY</speaker><content>Nothing, bro. It’s against company policy.</content></utterance>
+<utterance uid="12-6"><speaker>RYAN</speaker><content>Well, I think this trumps company policy so, who owns the box?</content></utterance>
+<utterance uid="12-7"><speaker>TOMMY</speaker><content>Ah, that’s the weird thing. Guy who owns it died like, three months ago. So he couldn’t have sent that package, unless he sent it from the great beyond.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>RYAN</speaker><content>The box was last rented by an Andrew Levine who died of liver failure three months ago. Somehow I don’t think he’s connected to this case.</content></utterance>
+<utterance uid="13-2"><speaker>BECKETT</speaker><content>So the killer covered his tracks. He must have written a random PO Box on the packaging slip.</content></utterance>
+<utterance uid="13-3"><speaker>RYAN</speaker><content>Or –</content></utterance>
+<utterance uid="13-4"><speaker>BECKETT</speaker><content>No. Ryan! There is no "or".</content></utterance>
+<utterance uid="13-5"><speaker>RYAN</speaker><content>I’m just saying, maybe the reason we can’t trace the package’s origins is because it was sent from another realm.</content></utterance>
+<utterance uid="13-6"><speaker>ESPOSITO</speaker><content>Ryan is right. It was sent from another realm. New Jersey.  I looked into the air bill number on Val’s package. Turns out it’s one in a sequence of air bills all sent from the same guy.  Jason Bennett. Lives in Hoboken.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>RYAN</speaker><content>NYPD!</content></utterance>
+<utterance uid="14-2"><speaker>ESPOSITO</speaker><content>Hey bro, I just want you to know ­–  – just thought you should know that I really value our friendship.</content></utterance>
+<utterance uid="14-3"><speaker>CASTLE</speaker><content>Okay. Thanks.</content></utterance>
+<utterance uid="14-4"><speaker>ESPOSITO</speaker><content>It’s priceless to me.</content></utterance>
+<utterance uid="14-5"><speaker>CASTLE</speaker><content>Great.</content></utterance>
+<utterance uid="14-6"><speaker>ESPOSITO</speaker><content>But if we could put a price on it, what would it be?</content></utterance>
+<utterance uid="14-7"><speaker>CASTLE</speaker><content>What are you talking about?</content></utterance>
+<utterance uid="14-8"><speaker>ESPOSITO</speaker><content>I just want to know how much our friendship would be worth if you were, you know –</content></utterance>
+<utterance uid="14-9"><speaker>CASTLE</speaker><content>Dead!</content></utterance>
+<utterance uid="14-10"><speaker>BECKETT</speaker><content>We got to Bennett too late.</content></utterance>
+<utterance uid="14-11"><speaker>RYAN</speaker><content>Yeah, uh … about two days too late. That looks like about how long he’s been dead. He couldn’t have killed Val.</content></utterance>
+<utterance uid="14-12"><speaker>BECKETT</speaker><content> And he got a package with a disc in it just like Val four days ago.</content></utterance>
+<utterance uid="14-13"><speaker>ESPOSITO</speaker><content>There was a blackout here, too. Same MO, same freaky ass body.</content></utterance>
+<utterance uid="14-14"><speaker>CASTLE</speaker><content>Third day at midnight.  I knew I shouldn’t have let you watch that disc. Now in 48 hours we’ll both be dead.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>ESPOSITO</speaker><content>CSU just found a stack of air bills at Jason’s place.</content></utterance>
+<utterance uid="15-2"><speaker>BECKETT</speaker><content>So then the killer used one of them to send the disc to Val.</content></utterance>
+<utterance uid="15-3"><speaker>CASTLE</speaker><content>Maybe we should make a copy of the DVD and send it to someone else. That’s how they saved people in The Ring.</content></utterance>
+<utterance uid="15-4"><speaker>RYAN</speaker><content>Yeah, but all those people that got a copy died.</content></utterance>
+<utterance uid="15-5"><speaker>ESPOSITO</speaker><content>Yeah, and you’d just be passing the buck off to someone else. That’s cold, bro.</content></utterance>
+<utterance uid="15-6"><speaker>CASTLE</speaker><content>Okay, does anyone have a better solution? Because we need one. If not for me, at least for Beckett.</content></utterance>
+<utterance uid="15-7"><speaker>BECKETT</speaker><content> Castle, that’s so sweet. You want me to outlive you?</content></utterance>
+<utterance uid="15-8"><speaker>CASTLE</speaker><content>Of course. Who else is going to tell my tale of sacrifice and selflessness?</content></utterance>
+<utterance uid="15-9"><speaker>BECKETT</speaker><content>Okay, we won’t be telling anyone anything. We’re both going to be fine.</content></utterance>
+<utterance uid="15-10"><speaker>CASTLE</speaker><content>How can you say that when we have not one, but two dead DVD watchers?</content></utterance>
+<utterance uid="15-11"><speaker>BECKETT</speaker><content>There’s gotta be a better connection between our two victims than that disc. Ryan, can you check in with Jason’s family, see if anyone recognizes Val?</content></utterance>
+<utterance uid="15-12"><speaker>RYAN</speaker><content>Yeah. On it.</content></utterance>
+<utterance uid="15-13"><speaker>BECKETT</speaker><content>Espo, why don’t you cross reference their records and see if there’re any similarities between the two of them.</content></utterance>
+<utterance uid="15-14"><speaker>CASTLE</speaker><content>You know, if there are going to be pictures of us hanging up there we should really pick them out now.</content></utterance>
+<utterance uid="15-15"><speaker>BECKETT</speaker><content>You know, Castle -  - we could always use the photo I took of you in bed the other night.</content></utterance>
+<utterance uid="15-16"><speaker>CASTLE</speaker><content> I don’t know if that’s how I want to be remembered.</content></utterance>
+<utterance uid="15-17"><speaker>BECKETT</speaker><content> Castle, I was joking. There will be no photos of us on that murder board. By tomorrow we are going to find a connection between our two victims that will lead us straight to a flesh and blood killer. In the meantime, it’s getting kinda late, ‘kay? So why don’t we just call it a night?  You know what? Actually, we could go back to my place tonight and take some more photos. </content></utterance>
+<utterance uid="15-18"><speaker>CASTLE</speaker><content> Well, I might be convinced – whoa, wait a minute.  In every horror movie I’ve ever seen -  - having sex pretty much guarantees we will die. So for the safety of us both, I say we just … hold off.</content></utterance>
+<utterance uid="15-19"><speaker>BECKETT</speaker><content>Are you sure? I mean, think about it, Castle. This could be our last time.</content></utterance>
+<utterance uid="15-20"><speaker>CASTLE</speaker><content>That’s –  – okay, what you’re doing? Right now? This is not helping. This – I’m gonna remove myself from temptation.  A good night’s sleep will give me some perspective.</content></utterance>
+</scene>
+
+<scene id="16"><utterance uid="16-1"><speaker>CASTLE</speaker><content>This is –</content></utterance>
+<utterance uid="16-2"><speaker>WES CRAVEN</speaker><content>Hello?</content></utterance>
+<utterance uid="16-3"><speaker>CASTLE</speaker><content>Wes! Hey, it’s Rick!</content></utterance>
+<utterance uid="16-4"><speaker>WES CRAVEN</speaker><content>Geez Rick, it’s after midnight.</content></utterance>
+<utterance uid="16-5"><speaker>CASTLE</speaker><content>Yeah, sorry. I just, um – I need some advice.</content></utterance>
+<utterance uid="16-6"><speaker>WES CRAVEN</speaker><content>Is Stephan King beating you at Texas Hold’em again?</content></utterance>
+<utterance uid="16-7"><speaker>CASTLE</speaker><content>Right?  No, but um – this is actually about your movies. I mean, the name Wes Craven is synonymous with horror. You’ve made a fortune</content></utterance>
+<utterance uid="16-8"><speaker>WES CRAVEN</speaker><content>So you call me up in the middle of the night to join my fan club? What?</content></utterance>
+<utterance uid="16-9"><speaker>CASTLE</speaker><content> Ha ha. No. I know that you’ve researched evil spirits who reach out from the beyond for all your films.</content></utterance>
+<utterance uid="16-10"><speaker>WES CRAVEN</speaker><content>Well, of course.</content></utterance>
+<utterance uid="16-11"><speaker>CASTLE</speaker><content>I was just wondering if you knew how to stop those pesky suckers.</content></utterance>
+<utterance uid="16-12"><speaker>WES CRAVEN</speaker><content>Is this you making your own movie? I mean, are you writing a horror screenplay?</content></utterance>
+<utterance uid="16-13"><speaker>CASTLE</speaker><content>Yes. I just thought I’d give you a little friendly competition. Just got a little writer’s block is all.</content></utterance>
+<utterance uid="16-14"><speaker>WES CRAVEN</speaker><content>Okay, what’s the story?</content></utterance>
+<utterance uid="16-15"><speaker>CASTLE</speaker><content>Um … ruggedly handsome hero and his notoriously practical lady friend watch a disc that’s killing its viewers within three days.</content></utterance>
+<utterance uid="16-16"><speaker>WES CRAVEN</speaker><content>Really? You don’t think that’s a little derivative?</content></utterance>
+<utterance uid="16-17"><speaker>CASTLE</speaker><content>Yes … but … I am hoping to distinguish the ending. You know, make the third act a survival tale rather than a blood bath. I just can’t figure out how to get my heroes out of this mess.</content></utterance>
+<utterance uid="16-18"><speaker>WES CRAVEN</speaker><content>So the key is always in the spirit’s origin story. Once you have that you can start to figure out the spirit’s weaknesses. If it’s using the disc as its portal into our world, then –</content></utterance>
+<utterance uid="16-19"><speaker>CASTLE</speaker><content>Then the disc would contain clues as to the spirit’s story.  Wes, thank you! Thank you.  Listen buddy, it’s late. I gotta go.</content></utterance>
+<utterance uid="16-20"><speaker>WES CRAVEN</speaker><content>Friendly competition my ass.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>BECKETT</speaker><content>You guys have got to be kidding me. We didn’t find a single connection between our victims?</content></utterance>
+<utterance uid="17-2"><speaker>ESPOSITO</speaker><content>Nope. The two were as different as night and day.</content></utterance>
+<utterance uid="17-3"><speaker>RYAN</speaker><content>Jason was a retired ex-army doc, Val was a young Manhattan ad exec.</content></utterance>
+<utterance uid="17-4"><speaker>ESPOSITO</speaker><content>Val was born in Florida, Jason grew up in Idaho.</content></utterance>
+<utterance uid="17-5"><speaker>RYAN</speaker><content>They didn’t share any friends, they weren’t family.</content></utterance>
+<utterance uid="17-6"><speaker>BECKETT</speaker><content>And none of Jason’s relatives recognized Val’s photo?</content></utterance>
+<utterance uid="17-7"><speaker>ESPOSITO</speaker><content>No, and no one from Val’s family had seen or heard of Jason.</content></utterance>
+<utterance uid="17-8"><speaker>RYAN</speaker><content>We’re still looking through their records, but so far nothing.</content></utterance>
+<utterance uid="17-9"><speaker>BECKETT</speaker><content>So we’re at a dead end?</content></utterance>
+<utterance uid="17-10"><speaker>CASTLE</speaker><content>Ah … maybe not. After much reflection, I realized the key to solving this is figuring out the story on the DVD. To that end, I crowd sourced one of the images to my legion of followers.</content></utterance>
+<utterance uid="17-11"><speaker>RYAN</speaker><content>And someone recognized it?</content></utterance>
+<utterance uid="17-12"><speaker>CASTLE</speaker><content>Oh, you betcha. According to BedazzleCat39, you’re looking at the Brunswick Inn in Port Campbell.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>RYAN</speaker><content>Bingo. Val’s credit card records show that she spent a few nights at the Brunswick Inn in November 2008.</content></utterance>
+<utterance uid="18-2"><speaker>ESPOSITO</speaker><content>And it looks like Jason crashed there too, also in November 2008.</content></utterance>
+<utterance uid="18-3"><speaker>BECKETT</speaker><content>Okay, so both of our victims stayed at that inn at the same time. So … maybe they were having an affair.</content></utterance>
+<utterance uid="18-4"><speaker>RYAN</speaker><content>In 2008 Val would have been … 24. Jason would have been 66 and an affair would have been –</content></utterance>
+<utterance uid="18-5"><speaker>CASTLE</speaker><content>Gross.</content></utterance>
+<utterance uid="18-6"><speaker>RYAN</speaker><content>I was going to say unlikely.</content></utterance>
+<utterance uid="18-7"><speaker>ESPOSITO</speaker><content>It doesn’t look like an affair. They stayed in separate rooms.</content></utterance>
+<utterance uid="18-8"><speaker>RYAN</speaker><content>Well the victims were at the inn and the inn was on the disc. There’s got to be a connection.</content></utterance>
+<utterance uid="18-9"><speaker>CASTLE</speaker><content>The inn must be the place where some unspeakable horror befell the spirits. Think about it. The Ring, Psycho, The Shining. It’s when they get to the creepy old motel that everything starts really going south. So this must be the location of the spirit’s origin story.</content></utterance>
+<utterance uid="18-10"><speaker>BECKETT</speaker><content>Or, somehow Val and Jason connected with the human killer at that inn.</content></utterance>
+<utterance uid="18-11"><speaker>CASTLE</speaker><content> My version’s better.</content></utterance>
+<utterance uid="18-12"><speaker>BECKETT</speaker><content>Why don’t you look into the Brunswick Inn. See if there are any red flags, past crimes. Castle and I’ll go to Port Campbell and see what we can find.</content></utterance>
+<utterance uid="18-13"><speaker>CASTLE</speaker><content>Maybe I should … stay here. I mean, the inn is just one piece of the puzzle. I should really … check the other images on the video. See what I can figure out.</content></utterance>
+<utterance uid="18-14"><speaker>RYAN</speaker><content>Whoa, you’re volunteering to watch that thing again?</content></utterance>
+<utterance uid="18-15"><speaker>CASTLE</speaker><content>Yeah. It’s not like I can get any deader.</content></utterance>
+</scene>
+
+<scene id="19"><utterance uid="19-1"><speaker>BECKETT</speaker><content>Hello?  It doesn’t look like there’s anyone here.</content></utterance>
+<utterance uid="19-2"><speaker>ESPOSITO</speaker><content>It doesn’t look like anyone’s been here this century.</content></utterance>
+<utterance uid="19-3"><speaker>BECKETT</speaker><content>You’re not buying into Castle’s spirit craziness, are you?</content></utterance>
+<utterance uid="19-4"><speaker>ESPOSITO</speaker><content>No.  You think I’m afraid of some old campfire story? I’m a grown-ass man.</content></utterance>
+<utterance uid="19-5"><speaker>MITCH</speaker><content>Need help?</content></utterance>
+<utterance uid="19-6"><speaker>ESPOSITO</speaker><content>Just so you know, um… that was me being startled, not scared.</content></utterance>
+<utterance uid="19-7"><speaker>ESPOSITO</speaker><content>You run this place?</content></utterance>
+<utterance uid="19-8"><speaker>MITCH</speaker><content>41 years now. But you’re in the wrong place. We’re closed for the season.</content></utterance>
+<utterance uid="19-9"><speaker>BECKETT</speaker><content>We just need to ask you a few questions.  Do you recognize these people? Val Butler and Jason Bennett. They – they stayed here back in 2008.</content></utterance>
+<utterance uid="19-10"><speaker>MITCH</speaker><content>Long time ago, 2008. I’ve seen a lot of faces come and go.</content></utterance>
+<utterance uid="19-11"><speaker>BECKETT</speaker><content>They would have been here in November. Do you remember anything unusual from that period?</content></utterance>
+<utterance uid="19-12"><speaker>MITCH</speaker><content>You wouldn’t happen to know their room numbers?</content></utterance>
+<utterance uid="19-13"><speaker>ESPOSITO</speaker><content>Yeah. 213 and 313.</content></utterance>
+<utterance uid="19-14"><speaker>MITCH</speaker><content>The 13’s. Those rooms, they’re not normal rooms. They’re reserved for people involved in trials at the courthouse. Down at 1135 Elm.</content></utterance>
+<utterance uid="19-15"><speaker>ESPOSITO</speaker><content>1135, that’s the same number as the PO Box on the package.</content></utterance>
+<utterance uid="19-16"><speaker>BECKETT</speaker><content>That’s gotta be it then. The murders have to be connected to a trial held at the courthouse in November of ’08.</content></utterance>
+<utterance uid="19-17"><speaker>MITCH</speaker><content>There’s only one trial took place in November ’08. It was a terrible thing.</content></utterance>
+<utterance uid="19-18"><speaker>ESPOSITO</speaker><content>You remember a trial from five years ago?</content></utterance>
+<utterance uid="19-19"><speaker>MITCH</speaker><content>No one here can forget. It was the trial of the century. That man murdered half a dozen people.</content></utterance>
+<utterance uid="19-20"><speaker>BECKETT</speaker><content>Who are you talking about?</content></utterance>
+<utterance uid="19-21"><speaker>MITCH</speaker><content>Nigel Malloy.</content></utterance>
+<utterance uid="19-22"><speaker>BECKETT</speaker><content>The serial killer.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>RYAN</speaker><content>This is all about Nigel Malloy.</content></utterance>
+<utterance uid="20-2"><speaker>CASTLE</speaker><content>It makes perfect sense. The clock tower from the DVD? It’s the same clock tower from the courthouse where he was tried.</content></utterance>
+<utterance uid="20-3"><speaker>RYAN</speaker><content>The rooftop and the alley were the scenes of this third and fourth murders.</content></utterance>
+<utterance uid="20-4"><speaker>CASTLE</speaker><content>Yeah, and Jason and Val? Both witnesses in his 2008 murder trial.</content></utterance>
+<utterance uid="20-5"><speaker>BECKETT</speaker><content>Okay, so somehow Nigel Malloy must be taking revenge against the people that testified against him.</content></utterance>
+<utterance uid="20-6"><speaker>CASTLE</speaker><content>Uh yeah, there’s only one problem. Nigel Malloy is dead. He died in prison three years ago.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>CASTLE</speaker><content>Nigel Malloy. They called him the Grim Reaper. His signature? Searing symbols – like the ones we saw in the video – into the flesh of his victims.</content></utterance>
+<utterance uid="21-2"><speaker>RYAN</speaker><content>Turns out that Val and Jason were witnesses to the kidnapping of his first victim, Esther Alonzo.</content></utterance>
+<utterance uid="21-3"><speaker>CASTLE</speaker><content>Yeah, he abducted her from an amusement park in New Jersey. Tortured her in his basement for days before killing her.</content></utterance>
+<utterance uid="21-4"><speaker>RYAN</speaker><content>Had the local police running around in circles. They even arrested the wrong guy before capturing him five bodies later.</content></utterance>
+<utterance uid="21-5"><speaker>BECKETT</speaker><content>Well, considering he died in prison, I’d say he’s got a pretty good alibi for our two murders. It’s gotta be someone else.</content></utterance>
+<utterance uid="21-6"><speaker>CASTLE</speaker><content>Don’t be so sure. Take a look at what Nigel Malloy said in an interview he did right before he died.</content></utterance>
+<utterance uid="21-7"><speaker>INTERVIEWER</speaker><content>So, Mr. Malloy. Are you saying you actually believe you can’t die?</content></utterance>
+<utterance uid="21-8"><speaker>NIGEL MALLOY</speaker><content>My victims gave me unique inside information into death. Into its secrets. Even when my body perishes my essence will continue on. I will continue on. You see, death is just the beginning.</content></utterance>
+<utterance uid="21-9"><speaker>BECKETT</speaker><content>Wow. That guy gives a whole new meaning to the word psycho.</content></utterance>
+<utterance uid="21-10"><speaker>CASTLE</speaker><content>I wonder if did.  Find a way to let his spirit live on.</content></utterance>
+<utterance uid="21-11"><speaker>RYAN</speaker><content>Like the killer in those Chucky moves who transferred his spirit into that spooky doll.</content></utterance>
+<utterance uid="21-12"><speaker>CASTLE</speaker><content>Exactly. Only instead of a doll it’s a DVD. That explains the message ‘you saw you die’. The witness saw his crimes so they must die.</content></utterance>
+<utterance uid="21-13"><speaker>BECKETT</speaker><content>Well then given that logic we’d both be okay because –  – we’re not witnesses.</content></utterance>
+<utterance uid="21-14"><speaker>CASTLE</speaker><content>But you’re a cop! I’m a cop – helper. I mean, you don’t think a convicted serial killer is going to have an axe to grind with the NYPD?</content></utterance>
+<utterance uid="21-15"><speaker>BECKETT</speaker><content>Castle, Nigel Malloy is not involved. He’s dead. But, someone else might be acting in his behalf. Ryan, talk to the DA in Port Campbell. Let’s locate those other witnesses and make sure they’re safe.</content></utterance>
+<utterance uid="21-16"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+<utterance uid="21-17"><speaker>CASTLE</speaker><content>The court records were sealed. How would the killer know who the witnesses were?</content></utterance>
+<utterance uid="21-18"><speaker>RYAN</speaker><content>Uh … wait a minute. Um, Nigel Malloy had a brother, Leopold. The DA accused him of helping dispose of the bodies.</content></utterance>
+<utterance uid="21-19"><speaker>CASTLE</speaker><content>Yes. The defense said that Nigel had an almost hypnotic hold over his brother.</content></utterance>
+<utterance uid="21-20"><speaker>RYAN</speaker><content>He was found not guilty by reason of insanity and they shipped him off to an asylum.</content></utterance>
+<utterance uid="21-21"><speaker>BECKETT</speaker><content>Is he still there?</content></utterance>
+<utterance uid="21-22"><speaker>RYAN</speaker><content>I’m checking. Oh, wait, this is interesting.</content></utterance>
+<utterance uid="21-23"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="21-24"><speaker>RYAN</speaker><content>The Asylum they send him to? It’s in Greenwich.</content></utterance>
+<utterance uid="21-25"><speaker>CASTLE</speaker><content>That’s where Val went the day she got the DVD.</content></utterance>
+<utterance uid="21-26"><speaker>BECKETT</speaker><content>She went to see Leopold Malloy.</content></utterance>
+</scene>
+
+<scene id="22"><utterance uid="22-1"><speaker>NURSE LOCKHEART</speaker><content>Uh, yeah. That young lady did stop by a few days ago.</content></utterance>
+<utterance uid="22-2"><speaker>BECKETT</speaker><content>Do you have any idea what they might have talked about or what he might have said to her?</content></utterance>
+<utterance uid="22-3"><speaker>NURSE LOCKHEART</speaker><content>I’m afraid not, dear. You’ll have to ask Mr. Malloy yourself.</content></utterance>
+<utterance uid="22-4"><speaker>CASTLE</speaker><content>You know, not for nothing, but what’s he like?  I mean, on a scale of one to Hannibal Lector, what are we dealing with here?</content></utterance>
+<utterance uid="22-5"><speaker>NURSE LOCKHEART</speaker><content> I’m sorry. But doctor/patient privilege prohibits us from characterizing or describing our patient’s behavior.</content></utterance>
+<utterance uid="22-6"><speaker>BECKETT</speaker><content>No, that’s okay. We understand.</content></utterance>
+<utterance uid="22-7"><speaker>NURSE LOCKHEART</speaker><content>Here we are. Let’s go over the rules. Please don’t had him any objects or take anything from him. Don’t stand too close to the glass. And if you need any help just press the red button on the door behind you. Okay, now please just sign here acknowledging that you understand the rules. </content></utterance>
+<utterance uid="22-8"><speaker>CASTLE</speaker><content>Eeh.  I feel like I’m signing my life away.</content></utterance>
+<utterance uid="22-9"><speaker>NURSE LOCKHEART</speaker><content>Well let’s hope not!</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>BECKETT</speaker><content>Thank you.</content></utterance>
+<utterance uid="23-2"><speaker>LEOPOLD MALLOY</speaker><content>Please, have a seat. I so rarely receive visitors.</content></utterance>
+<utterance uid="23-3"><speaker>BECKETT</speaker><content>But you have received a visitor recently. Val Butler. Why was she here?</content></utterance>
+<utterance uid="23-4"><speaker>LEOPOLD</speaker><content>Oh, sweet girl. She came to see if I’d sent her something.</content></utterance>
+<utterance uid="23-5"><speaker>CASTLE</speaker><content>And did you?</content></utterance>
+<utterance uid="23-6"><speaker>LEOPOLD</speaker><content>How could I? I can’t send anything to anyone.</content></utterance>
+<utterance uid="23-7"><speaker>BECKETT</speaker><content>You could have just gotten someone else to send it to her just like you could have gotten someone else to kill her.</content></utterance>
+<utterance uid="23-8"><speaker>LEOPOLD</speaker><content>And why would I do such a thing?</content></utterance>
+<utterance uid="23-9"><speaker>BECKETT</speaker><content>To perpetuate the myth of your brother’s immortality. Or to avenge his death.</content></utterance>
+<utterance uid="23-10"><speaker>LEOPOLD</speaker><content>I am not my brother’s keeper, Detective Beckett.  I never was. And I don’t share his murderous impulses.</content></utterance>
+<utterance uid="23-11"><speaker>CASTLE</speaker><content>Yet you’re still in here.</content></utterance>
+<utterance uid="23-12"><speaker>LEOPOLD</speaker><content>For now. But when my appeal comes through, who knows? We might all meet on the street one day.</content></utterance>
+<utterance uid="23-13"><speaker>CASTLE</speaker><content> I might cross the street that day.</content></utterance>
+<utterance uid="23-14"><speaker>LEOPOLD</speaker><content>I’m no danger to anyone. I never was. So why would I jeopardize my appeal by being party to a murder?</content></utterance>
+<utterance uid="23-15"><speaker>BECKETT</speaker><content>Because you knew you could get away with it. You’re locked up. You have the perfect alibi.</content></utterance>
+<utterance uid="23-16"><speaker>LEOPOLD</speaker><content> I have the perfect alibi because I’m innocent. I don’t have TV or internet access. I don’t send or receive mail. The only personal contact I have is through visitors, and Val was the last one I’ve had in years. So who could I have sent to dispatch her or the other witness?</content></utterance>
+<utterance uid="23-17"><speaker>CASTLE</speaker><content>Ah, we never actually said anything about the other witness being killed, so how would you know anything about that?</content></utterance>
+<utterance uid="23-18"><speaker>LEOPOLD</speaker><content>I think it’s time for you to go. I have nothing more to say.</content></utterance>
+</scene>
+
+<scene id="24"><utterance uid="24-1"><speaker>BECKETT</speaker><content>Look, he told us everything. That slip up proves that he’s been talking to someone about those murders.</content></utterance>
+<utterance uid="24-2"><speaker>CASTLE</speaker><content>There is one other way he could have gotten that information. He could be talking to his brother.</content></utterance>
+<utterance uid="24-3"><speaker>BECKETT</speaker><content>Castle, he was talking to someone on the outside. He hasn’t been communing with the dead.</content></utterance>
+<utterance uid="24-4"><speaker>CASTLE</speaker><content>Well, we can’t be sure.  And we’re running out of time. So I’m going to scratch off number 27 on my bucket list.  You remember that uh, blue porcelain vāse you had on your dining room table?</content></utterance>
+<utterance uid="24-5"><speaker>BECKETT</speaker><content>Yeah, the one the wind blew over.</content></utterance>
+<utterance uid="24-6"><speaker>CASTLE</speaker><content>Yeah, about that. I was playing Wii Tennis in the living room –</content></utterance>
+<utterance uid="24-7"><speaker>BECKETT</speaker><content>You broke my vase?</content></utterance>
+<utterance uid="24-8"><speaker>CASTLE</speaker><content>Vāse. Vase is acceptable too.</content></utterance>
+<utterance uid="24-9"><speaker>BECKETT</speaker><content>You know what? You can stop worrying about the spirits getting to you because I just might kill you myself.</content></utterance>
+<utterance uid="24-10"><speaker>CASTLE</speaker><content>Seriously? You want to spend our last day on Earth fighting?</content></utterance>
+<utterance uid="24-11"><speaker>RYAN</speaker><content>Ryan.</content></utterance>
+<utterance uid="24-12"><speaker>BECKETT</speaker><content>Hey. We need you to subpoena the records from the asylum. See who Leopold was in contact with by phone or over email.</content></utterance>
+<utterance uid="24-13"><speaker>RYAN</speaker><content>Yeah, sure. But just so you know, there’s been a development.</content></utterance>
+<utterance uid="24-14"><speaker>BECKETT</speaker><content>What do you mean? What kind of development?</content></utterance>
+<utterance uid="24-15"><speaker>RYAN</speaker><content>Well, while looking into the Malloys Nigel’s name came up on a police report.</content></utterance>
+<utterance uid="24-16"><speaker>BECKETT</speaker><content>What kind of a report?</content></utterance>
+<utterance uid="24-17"><speaker>RYAN</speaker><content>He was … reported missing … a few days ago.</content></utterance>
+<utterance uid="24-18"><speaker>BECKETT</speaker><content>Missing? The guy has been dead for over three years.</content></utterance>
+<utterance uid="24-19"><speaker>RYAN</speaker><content>Yeah … about that. The groundskeeper at the cemetery where Nigel was buried noticed that his plot has been … disturbed.</content></utterance>
+<utterance uid="24-20"><speaker>CASTLE</speaker><content>As in dug up?</content></utterance>
+<utterance uid="24-21"><speaker>RYAN</speaker><content>Well, not just dug up.  Nigel Malloy’s body has disappeared.</content></utterance>
+<utterance uid="24-22"><speaker>CASTLE</speaker><content>It hasn’t disappeared. He’s risen from the grave.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>CASTLE</speaker><content>All right, let’s hear it.</content></utterance>
+<utterance uid="25-2"><speaker>BECKETT</speaker><content>Hear what?</content></utterance>
+<utterance uid="25-3"><speaker>CASTLE</speaker><content>Your explanation for this. If there’s one thing I can always count on it’s you and your logic, so …</content></utterance>
+<utterance uid="25-4"><speaker>BECKETT</speaker><content>You want me to explain the dead serial killer’s missing body?</content></utterance>
+<utterance uid="25-5"><speaker>BECKETT</speaker><content>I don’t know what happened here. Yet.</content></utterance>
+<utterance uid="25-6"><speaker>CASTLE</speaker><content>That’s it? That’s all you’ve got?</content></utterance>
+<utterance uid="25-7"><speaker>BECKETT</speaker><content>But I can assure you it has nothing to do with Nigel Malloy rising from the dead. It’s his brother. Leopold Malloy is behind all of this.</content></utterance>
+<utterance uid="25-8"><speaker>ESPOSITO</speaker><content>Yo. Doesn’t look like Leopold has anything to do with this.</content></utterance>
+<utterance uid="25-9"><speaker>BECKETT</speaker><content>No, that can’t be right.</content></utterance>
+<utterance uid="25-10"><speaker>ESPOSITO</speaker><content>The guy’s crazy, but he was right about one thing. He has no phone, no email, and no visitors besides Val.</content></utterance>
+<utterance uid="25-11"><speaker>BECKETT</speaker><content>There’s gotta be some way of proving that Leopold’s behind all of this.</content></utterance>
+<utterance uid="25-12"><speaker>ESPOSITO</speaker><content>I can’t tell you how he did it, but I can tell you who’s next. I checked into the court documents on the Malloy trial. I noticed a pattern. Jason was the first person to testify and he was also the first one to die. A day later Val, the second person to testify, was killed.</content></utterance>
+<utterance uid="25-13"><speaker>BECKETT</speaker><content>Okay, so they’re being killed in order of their testimonies.</content></utterance>
+<utterance uid="25-14"><speaker>CASTLE</speaker><content>Who’s lucky number three?</content></utterance>
+<utterance uid="25-15"><speaker>ESPOSITO</speaker><content> Uh … Mike Heller. I talked to his girlfriend. He received a disc three days ago.</content></utterance>
+<utterance uid="25-16"><speaker>CASTLE</speaker><content>That means he’s due to die tonight at midnight. That’s in four hours.</content></utterance>
+<utterance uid="25-17"><speaker>BECKETT</speaker><content>And where is Mike Heller now?</content></utterance>
+<utterance uid="25-18"><speaker>ESPOSITO</speaker><content>That’s the problem. He watched the video and freaked out. He left the house. Nobody knows where he went.</content></utterance>
+<utterance uid="25-19"><speaker>RYAN</speaker><content>I might. Heller’s financials show that he bought groceries at a store outside Kingston yesterday. His family owns a cabin up there.</content></utterance>
+<utterance uid="25-20"><speaker>ESPOSITO</speaker><content>That’s probably where he’s holed up.</content></utterance>
+<utterance uid="25-21"><speaker>BECKETT</speaker><content>Okay, Esposito you keep digging into Leopold. Ryan, find the other witnesses. Make sure they’re safe. Castle and I’ll head off to Kingston and see if we can get Heller.</content></utterance>
+<utterance uid="25-22"><speaker>CASTLE</speaker><content>Uh … we’re going to a cabin in the woods in the middle of nowhere.</content></utterance>
+<utterance uid="25-23"><speaker>BECKETT</speaker><content>Yeah, so?</content></utterance>
+<utterance uid="25-24"><speaker>CASTLE</speaker><content>So it’s like the coed checking out the strange noise in the basement in a slasher flick. It’s a recipe for disaster.</content></utterance>
+<utterance uid="25-25"><speaker>BECKETT</speaker><content>It’s not a slasher flick, it’s a murder investigation. And I’m going up to that cabin so … are you coming or what?</content></utterance>
+<utterance uid="25-26"><speaker>CASTLE</speaker><content>Well I can’t let you go alone.</content></utterance>
+<utterance uid="25-27"><speaker>CASTLE</speaker><content>But I need to make a stop first.</content></utterance>
+</scene>
+
+<scene id="26"><utterance uid="26-1"><speaker>CASTLE</speaker><content>Okay, so I’ve got incense, palaspas, Ba Gua Mirror. This is a veritable war chest for fighting evil spirits.</content></utterance>
+<utterance uid="26-2"><speaker>BECKETT</speaker><content>Is that holy water?</content></utterance>
+<utterance uid="26-3"><speaker>CASTLE</speaker><content>Yeah.</content></utterance>
+<utterance uid="26-4"><speaker>BECKETT</speaker><content>Where did you get that from?</content></utterance>
+<utterance uid="26-5"><speaker>CASTLE</speaker><content>A priest blessed this for me two years ago.</content></utterance>
+<utterance uid="26-6"><speaker>BECKETT</speaker><content>And you just keep it around?</content></utterance>
+<utterance uid="26-7"><speaker>CASTLE</speaker><content>Knew it would come in handy one day. Now, what weapon do you want?</content></utterance>
+<utterance uid="26-8"><speaker>BECKETT</speaker><content>I think I’ll be fine with my gun.</content></utterance>
+<utterance uid="26-9"><speaker>CASTLE</speaker><content>There’s not just one tiny part of you that wonders if I might be right?</content></utterance>
+<utterance uid="26-10"><speaker>RYAN</speaker><content>Beckett?</content></utterance>
+<utterance uid="26-11"><speaker>BECKETT</speaker><content>Ryan?</content></utterance>
+<utterance uid="26-12"><speaker>RYAN</speaker><content>Hey Beckett?</content></utterance>
+<utterance uid="26-13"><speaker>BECKETT</speaker><content>Hey. Uh –  Ryan, I think we’re in a bad area. I’m having a hard time hearing you.</content></utterance>
+<utterance uid="26-14"><speaker>RYAN</speaker><content>Okay then I’ll make it quick. I just finished with the last of the remaining witnesses. None of them got a disc.</content></utterance>
+<utterance uid="26-15"><speaker>BECKETT</speaker><content>So the killer only targeted the first three witnesses.</content></utterance>
+<utterance uid="26-16"><speaker>RYAN</speaker><content>Well either that or he hasn’t got around to the others yet.</content></utterance>
+<utterance uid="26-17"><speaker>CASTLE</speaker><content>Dude, you’re breaking up.</content></utterance>
+<utterance uid="26-18"><speaker>RYAN</speaker><content>Uh, hang on.</content></utterance>
+<utterance uid="26-19"><speaker>ESPOSITO</speaker><content>Yo, check this out. Looks like Val, Jason, and Mark Heller all had something else in common.</content></utterance>
+<utterance uid="26-20"><speaker>RYAN</speaker><content>Hey Beckett? We missed something. It’s not what we think. It’s all –</content></utterance>
+<utterance uid="26-21"><speaker>RYAN</speaker><content>Beckett? Beckett!</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>BECKETT</speaker><content>I can’t get him back. I don’t have any reception.</content></utterance>
+<utterance uid="27-2"><speaker>BECKETT</speaker><content>There’s Heller’s car. He’s here.</content></utterance>
+<utterance uid="27-3"><speaker>CASTLE</speaker><content>Yeah, I haven’t got any bars either.</content></utterance>
+<utterance uid="27-4"><speaker>BECKETT</speaker><content>Yeah well, we are in the middle of nowhere.</content></utterance>
+<utterance uid="27-5"><speaker>CASTLE</speaker><content>Can this get any worse? A dead serial killer has gone missing, we’ve both seen a cursed disc, we’re at a cabin in the woods with no cell phone reception. I don’t need Wes Craven to tell me how this ends.</content></utterance>
+<utterance uid="27-6"><speaker>BECKETT</speaker><content>Well think about it this way, Castle. In all of those horror movies someone survives.</content></utterance>
+<utterance uid="27-7"><speaker>CASTLE</speaker><content>Yeah, someone. One of us. And the other one is cursed with being charming and funny. I don’t think I need to tell you what kind of chances the comic relief guy has.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>BECKETT</speaker><content>Mark Heller?</content></utterance>
+<utterance uid="28-2"><speaker>BECKETT</speaker><content>Mark Heller?</content></utterance>
+<utterance uid="28-3"><speaker>CASTLE</speaker><content>Geez! Can’t say I’m a fan of the décor.</content></utterance>
+<utterance uid="28-4"><speaker>BECKETT</speaker><content>Yeah well, neither am I but we’re just here to find –</content></utterance>
+<utterance uid="28-5"><speaker>MARK HELLER</speaker><content>Unless you leave you’re gonna die.</content></utterance>
+<utterance uid="28-6"><speaker>BECKETT</speaker><content>Mr. Heller, I’m Detective Beckett, NYPD.</content></utterance>
+<utterance uid="28-7"><speaker>MARK</speaker><content>Well then you won’t mind showing me ID.  Can’t be too cautious, not with Malloy witnesses dropping like flies.</content></utterance>
+<utterance uid="28-8"><speaker>BECKETT</speaker><content>Look, we know about the disc. We’re here to take you to the Precinct where we can protect you.</content></utterance>
+<utterance uid="28-9"><speaker>MARK</speaker><content>You can’t protect me. He’s back.</content></utterance>
+<utterance uid="28-10"><speaker>CASTLE</speaker><content>Look Mark, if the pattern holds, you’ve got two minutes before –  – you know. So let’s talk about this in the car.</content></utterance>
+<utterance uid="28-11"><speaker>MARK</speaker><content>You know, being in the same courtroom as Malloy was enough to make a grown man wet himself. Psycho yammering about death and rebirth and all that hoo-ha.</content></utterance>
+<utterance uid="28-12"><speaker>CASTLE</speaker><content>Okay, hoo-ha we can be talking about in the –</content></utterance>
+<utterance uid="28-13"><speaker>MARK</speaker><content>You know, neither me nor Val nor Jason wanted to testify against him. Or the other guy.</content></utterance>
+<utterance uid="28-14"><speaker>BECKETT</speaker><content>What do you mean the other guy? Are you talking about Leopold?</content></utterance>
+<utterance uid="28-15"><speaker>MARK</speaker><content>Oh God.</content></utterance>
+<utterance uid="28-16"><speaker>CASTLE</speaker><content>Time’s up.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>CASTLE</speaker><content>It’s here. Do you think it’ll matter that we still have a day left, or will it be a three person one stone thing?</content></utterance>
+<utterance uid="29-2"><speaker>BECKETT</speaker><content>Where are your circuit breakers?</content></utterance>
+<utterance uid="29-3"><speaker>MARK</speaker><content>Outside, by the tool shed.</content></utterance>
+<utterance uid="29-4"><speaker>BECKETT</speaker><content>Someone’s out there.</content></utterance>
+<utterance uid="29-5"><speaker>CASTLE</speaker><content>Seriously?  What’s it like? It is ghastly and pale? Pissed?</content></utterance>
+<utterance uid="29-6"><speaker>BECKETT</speaker><content>I can’t get a good look at his face.  Do you have a back door?</content></utterance>
+<utterance uid="29-7"><speaker>MARK</speaker><content>Yeah. Yeah, through the kitchen.</content></utterance>
+<utterance uid="29-8"><speaker>BECKETT</speaker><content>Okay. Castle, you keep an eye on Mark. I’m gonna head out back, double around. See if I can surprise him.</content></utterance>
+<utterance uid="29-9"><speaker>CASTLE</speaker><content>Wait, what? We’re splitting up?</content></utterance>
+<utterance uid="29-10"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>BECKETT</speaker><content>NYPD! Hold it right there!</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>MARK</speaker><content>Why can’t he just leave us alone? We suffered so much all ready. The guilt nearly killed the three of us.</content></utterance>
+<utterance uid="31-2"><speaker>CASTLE</speaker><content>Why would you have guilt about getting a serial killer convicted?</content></utterance>
+<utterance uid="31-3"><speaker>MARK</speaker><content>Because that’s not the whole story. We all have blood on our hands.</content></utterance>
+<utterance uid="31-4"><speaker>CASTLE</speaker><content>Blood? What blood?  Mark, talk to me. I need to know, what blood is on your hands?</content></utterance>
+<utterance uid="31-5"><speaker>MARK</speaker><content> What does it matter? He’s come back for us. We’re all going to die.</content></utterance>
+<utterance uid="31-6"><speaker>CASTLE</speaker><content>It matters because if you did something wrong it could be the key to getting out of this alive.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>BECKETT</speaker><content>Hey!</content></utterance>
+<utterance uid="32-2"><speaker>NURSE LOCKHEART</speaker><content>Get off of me! Let me go!</content></utterance>
+<utterance uid="32-3"><speaker>BECKETT</speaker><content>You? Leopold’s nurse? Leopold. It was you.</content></utterance>
+<utterance uid="32-4"><speaker>NURSE LOCKHEART</speaker><content>No. No!</content></utterance>
+<utterance uid="32-5"><speaker>BECKETT</speaker><content>You’re the one that’s killing for him.</content></utterance>
+<utterance uid="32-6"><speaker>NURSE LOCKHEART</speaker><content>No. No, you don’t understand.</content></utterance>
+<utterance uid="32-7"><speaker>BECKETT</speaker><content>That’s how he got to the witnesses. He was using you.</content></utterance>
+<utterance uid="32-8"><speaker>NURSE LOCKHEART</speaker><content>You don’t get it! I’m not here to kill Heller. I’m here to save him.</content></utterance>
+<utterance uid="32-9"><speaker>BECKETT</speaker><content>What are you even talking about?</content></utterance>
+<utterance uid="32-10"><speaker>NURSE LOCKHEART</speaker><content>That’s why Leopold sent me.</content></utterance>
+<utterance uid="32-11"><speaker>BECKETT</speaker><content>Step back. Back!</content></utterance>
+<utterance uid="32-12"><speaker>NURSE LOCKHEART</speaker><content>All right!</content></utterance>
+<utterance uid="32-13"><speaker>NURSE LOCKHEART</speaker><content>He knew that people would think that he was behind the murders and then he wouldn’t be able to get out of the asylum.  I love him. I was just trying to protect him. We knew we had to stop the murders. It – it’s not us. I swear.</content></utterance>
+<utterance uid="32-14"><speaker>BECKETT</speaker><content>If it’s not you then who is it?</content></utterance>
+<utterance uid="32-15"><speaker>NURSE LOCKHEART</speaker><content>I don’t know. But I went to Nigel’s grave just to be sure. I dug it up. He was gone.</content></utterance>
+<utterance uid="32-16"><speaker>BECKETT</speaker><content>No. Evil spirits don’t kill. People do.</content></utterance>
+</scene>
+
+<scene id="33"><utterance uid="33-1"><speaker>MARK</speaker><content>Before Nigel, the police arrested someone else. David Collier. Guy had a history of mental illness. Me, Val, and Jason had to pick him out of a lineup. None of us were sure, but the police, they just –</content></utterance>
+<utterance uid="33-2"><speaker>CASTLE</speaker><content>They pressured you into saying it was Collier.  What happened to him?</content></utterance>
+<utterance uid="33-3"><speaker>MARK</speaker><content>He couldn’t take it. The accusations, what people were saying. He smashed a light bulb in his cell and used the wire to electrocute himself.</content></utterance>
+<utterance uid="33-4"><speaker>CASTLE</speaker><content>So his heart stopped. When did he die? Mark, exactly when did he die?</content></utterance>
+<utterance uid="33-5"><speaker>MARK</speaker><content>At midnight. Third night he was in prison.</content></utterance>
+<utterance uid="33-6"><speaker>CASTLE</speaker><content> ‘You saw, midnight third day, you die.’ This isn’t about Nigel. It’s about Collier. Mark, you gotta think. Did he have any friends? Any relatives?</content></utterance>
+<utterance uid="33-7"><speaker>MARK</speaker><content>Yeah, he had a daughter. Amanda.</content></utterance>
+<utterance uid="33-8"><speaker>CASTLE</speaker><content>Val’s roommate’s name is Amanda.  Someone’s here.</content></utterance>
+<utterance uid="33-9"><speaker>AMANDA</speaker><content>Your three days are up, Mark. The same three days of fear my father had.</content></utterance>
+<utterance uid="33-10"><speaker>CASTLE</speaker><content>Stop right there!</content></utterance>
+<utterance uid="33-11"><speaker>CASTLE</speaker><content>Wow, right in my eyes!</content></utterance>
+<utterance uid="33-12"><speaker>MARK</speaker><content>The gun! I can’t see. Where is she?</content></utterance>
+<utterance uid="33-13"><speaker>AMANDA</speaker><content>This is for my father.</content></utterance>
+<utterance uid="33-14"><speaker>BECKETT</speaker><content>Castle!</content></utterance>
+<utterance uid="33-15"><speaker>CASTLE</speaker><content>See? Told you this holy water would come in handy.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>BECKETT</speaker><content>So according to Amanda’s psych records, she suffered a mental break about a year ago.</content></utterance>
+<utterance uid="34-2"><speaker>CASTLE</speaker><content>That must be when she started fixating on revenge. Planning to punish all those who wrongly ID’ed her dad.</content></utterance>
+<utterance uid="34-3"><speaker>BECKETT</speaker><content>You know, she must have cozied up to Val to find out where Jason and Mark were.</content></utterance>
+<utterance uid="34-4"><speaker>ESPOSITO</speaker><content>And she used this to knock them out.</content></utterance>
+<utterance uid="34-5"><speaker>CASTLE</speaker><content>The mug?</content></utterance>
+<utterance uid="34-6"><speaker>ESPOSITO</speaker><content>No, the taser.  It’s a modified taser. Emits a disorienting light and amplified voltage.</content></utterance>
+<utterance uid="34-7"><speaker>BECKETT</speaker><content>Enough voltage to stop a heart.</content></utterance>
+<utterance uid="34-8"><speaker>ESPOSITO</speaker><content>And make the facial muscles contract.</content></utterance>
+<utterance uid="34-9"><speaker>CASTLE</speaker><content>I guess Amanda wanted the people responsible for her father’s death to suffer the same way he did.</content></utterance>
+<utterance uid="34-10"><speaker>BECKETT</speaker><content>So three days of fear capped with a dark, heart stopping death.</content></utterance>
+<utterance uid="34-11"><speaker>ESPOSITO</speaker><content>Yeah, but how did she get the power to go out?</content></utterance>
+<utterance uid="34-12"><speaker>BECKETT</speaker><content>She used this.  She attached it to the cabin’s circuit breaker. It emits a magnetic charge that interferes with the system. So, I guess that there is a logical explanation for everything.</content></utterance>
+<utterance uid="34-13"><speaker>CASTLE</speaker><content>Oh, I don’t know. What about Nigel? How did his body go missing form his grave?</content></utterance>
+<utterance uid="34-14"><speaker>RYAN</speaker><content>I can answer that. Turns out, he was never buried. His body disappeared from the morgue shortly after his death. The police didn’t want to make it known, so they buried an empty coffin. But here’s the odd thing. His body was never found.</content></utterance>
+<utterance uid="34-15"><speaker>CASTLE</speaker><content>So … he could still be out there … somewhere.</content></utterance>
+</scene>
+
+<scene id="35"><utterance uid="35-1"><speaker>BECKETT</speaker><content>Okay, so … here’s to a job well done.  And now you can finally get rid of this bucket … list … of yours.</content></utterance>
+<utterance uid="35-2"><speaker>CASTLE</speaker><content>What’s that look for?</content></utterance>
+<utterance uid="35-3"><speaker>BECKETT</speaker><content>‘Be with Kate’? That’s your number one? When did you write this?</content></utterance>
+<utterance uid="35-4"><speaker>CASTLE</speaker><content>What like, three years ago?  Ooh! I can cross that one off.</content></utterance>
+<utterance uid="35-5"><speaker>CASTLE</speaker><content>Um … um …  Sorry, still one minute ‘til midnight.</content></utterance>
+<utterance uid="35-6"><speaker>BECKETT</speaker><content>Are you serious Castle?</content></utterance>
+<utterance uid="35-7"><speaker>CASTLE</speaker><content>Yes. I’m not taking any chances. This is one deadline I want to miss.</content></utterance>
+<utterance uid="35-8"><speaker>BECKETT</speaker><content>You know, you’re right.  It would be a shame if something happened to us because there’s one thing on my bucket list that I would like to accomplish.  And it involves a little trick that I do.  With ice.</content></utterance>
+<utterance uid="35-9"><speaker>CASTLE</speaker><content>See, that sounds worth living for.</content></utterance>
+<utterance uid="35-10"><speaker>BECKETT</speaker><content>Hey Castle, ice is melting.</content></utterance>
+<utterance uid="35-11"><speaker>CASTLE</speaker><content>I just –  Okay, just – I just –  – in three … two …</content></utterance>
+<utterance uid="35-12"><speaker>THE END</speaker><content>CASTLE</content></utterance>
+</scene>
+</script>

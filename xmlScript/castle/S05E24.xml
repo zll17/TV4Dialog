@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+
+
+
+<scene id="1"><utterance uid="1-1"><speaker>FREEDMAN</speaker><content>Sorry to keep you waiting, Detective Beckett.</content></utterance>
+<utterance uid="1-2"><speaker>KATE BECKETT</speaker><content>Not a problem, sir. You’re a busy man.</content></utterance>
+<utterance uid="1-3"><speaker>FREEDMAN</speaker><content>Tell that to the Attorney General. He just had his first grandchild and he wants to show me pictures.  So, Agent Stack spoke very highly of you. Smart, tenacious, innovative thinker. Said you were a good candidate for the opening on the AG investigative team.</content></utterance>
+<utterance uid="1-4"><speaker>BECKETT</speaker><content>Well, I appreciate his confidence, sir.</content></utterance>
+<utterance uid="1-5"><speaker>FREEDMAN</speaker><content>You don’t agree?</content></utterance>
+<utterance uid="1-6"><speaker>BECKETT</speaker><content>No, sir, it’s that –  - well, I’m a homicide detective.  I don’t have any federal experience.</content></utterance>
+<utterance uid="1-7"><speaker>FREEDMAN</speaker><content>The Attorney General’s not looking for federal experience. He wants people that can get the job done. And from everything I’ve read, that might be you.</content></utterance>
+<utterance uid="1-8"><speaker>BECKETT</speaker><content>Well, that’s very kind of you, sir.</content></utterance>
+<utterance uid="1-9"><speaker>FREEDMAN</speaker><content>It’s not kind. It’s what you believe to be true, isn’t it? It’s why you got on the plane this morning, because given your background, your qualifications, and your track record, you know that you’re headed for bigger things. Just like you know that opportunities like this come along once, maybe twice in a lifetime. But, if that’s not what you believe, if you think you’re just a homicide cop –  – door’s right over there.</content></utterance>
+<utterance uid="1-10"><speaker>BECKETT</speaker><content>No sir. I know why I’m here.</content></utterance>
+<utterance uid="1-11"><speaker>FREEDMAN</speaker><content> Well, take a seat. Let’s get started.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>ALEXIS CASTLE</speaker><content>Dad, we need to talk.</content></utterance>
+<utterance uid="2-2"><speaker>RICHARD CASTLE</speaker><content>Which of these do you like better?</content></utterance>
+<utterance uid="2-3"><speaker>ALEXIS</speaker><content>Dad, I’m serious.</content></utterance>
+<utterance uid="2-4"><speaker>CASTLE</speaker><content>I like the green one, but it kind of looks like a giant green lizard’s attacking the city. Which is cool, but it’s not what the book’s about, so I either rewrite the book to make it about a giant lizard, or –</content></utterance>
+<utterance uid="2-5"><speaker>ALEXIS</speaker><content>Dad?</content></utterance>
+<utterance uid="2-6"><speaker>CASTLE</speaker><content>Magenta. You’re right. It’s classic. It’s cool. It tells the story –</content></utterance>
+<utterance uid="2-7"><speaker>ALEXIS</speaker><content> Dad!</content></utterance>
+<utterance uid="2-8"><speaker>CASTLE</speaker><content>What?</content></utterance>
+<utterance uid="2-9"><speaker>ALEXIS</speaker><content>Professor Rankowski still hasn’t received the check for my Costa Rica trip.</content></utterance>
+<utterance uid="2-10"><speaker>CASTLE</speaker><content> He didn’t? That’s so weird.</content></utterance>
+<utterance uid="2-11"><speaker>ALEXIS</speaker><content>You didn’t send it, did you?</content></utterance>
+<utterance uid="2-12"><speaker>CASTLE</speaker><content>Why – why do you want to go study the rainforest for six weeks anyway?</content></utterance>
+<utterance uid="2-13"><speaker>ALEXIS</speaker><content>Dad, we talked about this.</content></utterance>
+<utterance uid="2-14"><speaker>CASTLE</speaker><content>I know. But you’re going to be staying in the middle of a jungle, miles away from the nearest phone, hours from the nearest hospital. You could be bitten by a poisonous spider, or a poisonous snake. I looked it up. Toucans are extremely aggressive this time of year.</content></utterance>
+<utterance uid="2-15"><speaker>ALEXIS</speaker><content> Is this about Paris?</content></utterance>
+<utterance uid="2-16"><speaker>CASTLE</speaker><content>I will admit to being slightly overprotective in light of recent events.</content></utterance>
+<utterance uid="2-17"><speaker>ALEXIS</speaker><content>Dad, I can’t stop living my life because of what happened. And yeah, I still have nightmares. But that’s one of the reasons I want to go. I don’t want to let fear win.</content></utterance>
+<utterance uid="2-18"><speaker>CASTLE</speaker><content>No. No, of course. You’re right. I’ll – I’ll write the check. But it’s not going to stop me from worrying about you. Or missing you.</content></utterance>
+<utterance uid="2-19"><speaker>ALEXIS</speaker><content>I wouldn’t want you to. But it’s only six weeks. It’s not like I’m going away forever.</content></utterance>
+<utterance uid="2-20"><speaker>CASTLE</speaker><content>No. But it sounds like someone has.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>CASTLE</speaker><content>Hey there. Nice to see you.</content></utterance>
+<utterance uid="3-2"><speaker>CASTLE</speaker><content>Hey ‘sito.</content></utterance>
+<utterance uid="3-3"><speaker>JAVIER ESPOSITO</speaker><content>Hey.</content></utterance>
+<utterance uid="3-4"><speaker>CASTLE</speaker><content>Where’s Beckett?</content></utterance>
+<utterance uid="3-5"><speaker>ESPOSITO</speaker><content>How the hell should I know? Aren’t you two practically living together now?</content></utterance>
+<utterance uid="3-6"><speaker>CASTLE</speaker><content>Ah, well, she left me alone for a couple of days so I could finish Deadly Heat, which, by the way, is both deadly and hot, thank you very much for asking.</content></utterance>
+<utterance uid="3-7"><speaker>ESPOSITO</speaker><content>I didn’t.</content></utterance>
+<utterance uid="3-8"><speaker>CASTLE</speaker><content>Right.</content></utterance>
+<utterance uid="3-9"><speaker>BECKETT</speaker><content>Hey. Sorry I’m late.</content></utterance>
+<utterance uid="3-10"><speaker>CASTLE</speaker><content>Everything okay?</content></utterance>
+<utterance uid="3-11"><speaker>BECKETT</speaker><content>Um… yeah. Fine. So, what’ve we got?</content></utterance>
+<utterance uid="3-12"><speaker>ESPOSITO</speaker><content>This way.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>KEVIN RYAN</speaker><content>The Cedric’s a pretty typical, no star, residential hotel. Mostly transients and foreign tourists that don’t know any better. Guests started complaining of a strange colored water and also a foul odor coming from the pipes this morning. Maintenance finally checked it out and they found her.</content></utterance>
+<utterance uid="4-2"><speaker>BECKETT</speaker><content>Hey Lanie.</content></utterance>
+<utterance uid="4-3"><speaker>LANIE PARISH</speaker><content>Hey. So we’ve got a Caucasian female, probably 20, 21 years old.</content></utterance>
+<utterance uid="4-4"><speaker>BECKETT</speaker><content>How’d she die?</content></utterance>
+<utterance uid="4-5"><speaker>LANIE</speaker><content>Not sure yet. There’s evidence of blunt force trauma to the head but I won’t know cause until I get her back to the morgue.</content></utterance>
+<utterance uid="4-6"><speaker>ESPOSITO</speaker><content>CSU found traces of blood and hair on that ventilation fan. They’re running it for a match.</content></utterance>
+<utterance uid="4-7"><speaker>CASTLE</speaker><content>So someone smashed her on the head and dumped her in the tank?</content></utterance>
+<utterance uid="4-8"><speaker>RYAN</speaker><content>Looks like it. They found blood on the base of that ladder and on the hand railing. And also a bloody partial print.</content></utterance>
+<utterance uid="4-9"><speaker>BECKETT</speaker><content>Who else had access to the roof?</content></utterance>
+<utterance uid="4-10"><speaker>ESPOSITO</speaker><content>Pretty much anyone. The latch on the door’s been busted for years and often the residents will sneak up here for a smoke.</content></utterance>
+<utterance uid="4-11"><speaker>BECKETT</speaker><content>And what do we know about her?</content></utterance>
+<utterance uid="4-12"><speaker>RYAN</speaker><content>Building manager identified her as a resident named Crystal Sky. Checked in ten days ago into a room on the 18th floor. Paid in cash.</content></utterance>
+<utterance uid="4-13"><speaker>ESPOSITO</speaker><content>Crystal Sky? That name’s so fake it sounds like something out of one of your books.</content></utterance>
+<utterance uid="4-14"><speaker>CASTLE</speaker><content> Right?  Whoa, whoa. What is that supposed to mean?</content></utterance>
+<utterance uid="4-15"><speaker>ESPOSITO</speaker><content>What do you mean, what is that supposed to mean? Derrick Storm? Nikki Heat? Jameson Rook? Would it kill you to name someone Gonzalez every once in a while?</content></utterance>
+<utterance uid="4-16"><speaker>RYAN</speaker><content>Well, with no ID found on the body, no purse, wallet or phone in the room, it’s hard to know who she is.</content></utterance>
+<utterance uid="4-17"><speaker>BECKETT</speaker><content>Well, she’s been here for ten days. She must have made some friends.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>ZIFF FALGRAD</speaker><content>Yeah, I knew her. We talked sometimes in the laundry room.</content></utterance>
+<utterance uid="5-2"><speaker>BECKETT</speaker><content>Did she tell you anything about herself? Like where she was from?</content></utterance>
+<utterance uid="5-3"><speaker>ZIFF</speaker><content>Texas. Lubbock, I think. You know, things were bad at home, her dad.</content></utterance>
+<utterance uid="5-4"><speaker>CASTLE</speaker><content>Any idea what she was doing in the city?</content></utterance>
+<utterance uid="5-5"><speaker>WOMAN</speaker><content>Oh, I can tell you what she was doing. The girl was a prostitute.</content></utterance>
+<utterance uid="5-6"><speaker>ZIFF</speaker><content>She wasn’t a prostitute. Why you gotta say that?</content></utterance>
+<utterance uid="5-7"><speaker>WOMAN</speaker><content>Because it’s true! The way she dressed, the sounds coming out of her room at all hours of the night. We all knew it.</content></utterance>
+<utterance uid="5-8"><speaker>CASTLE</speaker><content>What kind of sounds?</content></utterance>
+<utterance uid="5-9"><speaker>MARTIN TILLAGE</speaker><content>Her with her johns. Walls here are pretty thin.</content></utterance>
+<utterance uid="5-10"><speaker>ZIFF</speaker><content>Hey, you don’t know what you’re talking about, okay?</content></utterance>
+<utterance uid="5-11"><speaker>WOMAN</speaker><content>Ziff, I know you liked her. But somebody killed that poor girl. These folks need to know the truth.</content></utterance>
+<utterance uid="5-12"><speaker>BECKETT</speaker><content>When was the last time any of you folks saw her?</content></utterance>
+<utterance uid="5-13"><speaker>WOMAN</speaker><content>I saw her yesterday around 11PM. She was heading toward the laundry room.</content></utterance>
+<utterance uid="5-14"><speaker>CASTLE</speaker><content>Was anybody with her?</content></utterance>
+<utterance uid="5-15"><speaker>WOMAN</speaker><content>She was alone.</content></utterance>
+<utterance uid="5-16"><speaker>BECKETT</speaker><content>Okay. Thank you.</content></utterance>
+<utterance uid="5-17"><speaker>ESPOSITO</speaker><content>Yo. CSU just finished their sweep.</content></utterance>
+<utterance uid="5-18"><speaker>BECKETT</speaker><content>Did they find anything?</content></utterance>
+<utterance uid="5-19"><speaker>ESPOSITO</speaker><content>It’s what they didn’t find. There were no prints. It’s like the place has been wiped down.</content></utterance>
+<utterance uid="5-20"><speaker>CASTLE</speaker><content>The killer must have come back to the room to get rid of the evidence.</content></utterance>
+<utterance uid="5-21"><speaker>BECKETT</speaker><content>All right, set up a canvass. See if anyone else entered or exited that room. And uh, let’s pull footage from the security cam in the elevator. Maybe it’ll tell us who she was with.</content></utterance>
+<utterance uid="5-22"><speaker>ESPOSITO</speaker><content>Right on.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>CASTLE</speaker><content>It doesn’t take a best-selling mystery writer to figure this one out. Small town girl with big city dreams ends up turning tricks to survive. It’s a tragic, yet all too familiar tale.</content></utterance>
+<utterance uid="6-2"><speaker>RYAN</speaker><content>Except that’s not this girl’s story. We just got a fingerprint off the victim’s body. Uh, her name’s not Crystal Sky and she’s definitely not from Lubbock, Texas.</content></utterance>
+<utterance uid="6-3"><speaker>BECKETT</speaker><content>Well, who is she?</content></utterance>
+<utterance uid="6-4"><speaker>RYAN</speaker><content>Erika Albrook. She’s an honors student at Harvard.</content></utterance>
+<utterance uid="6-5"><speaker>BECKETT</speaker><content>Our skid row hooker’s a Harvard honors student?</content></utterance>
+<utterance uid="6-6"><speaker>CASTLE</speaker><content>Like I said, a tragic, yet not so familiar tale.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>BECKETT</speaker><content>When?</content></utterance>
+<utterance uid="7-2"><speaker>CASTLE</speaker><content>Same day she checked into that hotel. Any idea what she’d be doing in the city?</content></utterance>
+<utterance uid="7-3"><speaker>BECKETT</speaker><content>Were there any personal issues we should know about? Did she have any problems with –  – drugs or money?</content></utterance>
+<utterance uid="7-4"><speaker>CASTLE</speaker><content>Is it possible she met someone in the city? A new boyfriend?</content></utterance>
+<utterance uid="7-5"><speaker>BECKETT</speaker><content>Are you sure about that?</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>CASTLE</speaker><content>Straight A student, no history of trouble, on a dream European vacation, turns into a hooker in a ratty hotel. There is no way I’m letting Alexis go to Costa Rica now.</content></utterance>
+<utterance uid="8-2"><speaker>BECKETT</speaker><content>Maybe she broke under the pressure of being perfect. Or maybe she just decided she needed a change.</content></utterance>
+<utterance uid="8-3"><speaker>CASTLE</speaker><content>Honors student to prostitute in less than a week? That’s quite a change.</content></utterance>
+<utterance uid="8-4"><speaker>BECKETT</speaker><content>Yeah, it doesn’t make any sense.</content></utterance>
+<utterance uid="8-5"><speaker>CASTLE</speaker><content>Hey, where were you this morning?</content></utterance>
+<utterance uid="8-6"><speaker>BECKETT</speaker><content>What do you mean?</content></utterance>
+<utterance uid="8-7"><speaker>CASTLE</speaker><content> Just called you. Bunch of times.</content></utterance>
+<utterance uid="8-8"><speaker>BECKETT</speaker><content>Uh … my phone must have been off.</content></utterance>
+<utterance uid="8-9"><speaker>CASTLE</speaker><content>Ah.</content></utterance>
+<utterance uid="8-10"><speaker>ESPOSITO</speaker><content>Hey guys. Come check this out.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>ESPOSITO</speaker><content>11PM the night Erika died. She takes the elevator down to the laundry room.  Now this is 11:05. She takes the elevator back up to her room.</content></utterance>
+<utterance uid="9-2"><speaker>CASTLE</speaker><content>Seems perfectly normal.</content></utterance>
+<utterance uid="9-3"><speaker>ESPOSITO</speaker><content>Yeah, but watch.  This is just after midnight. She takes the elevator up to the top floor alone. But watch what happens when she gets there.</content></utterance>
+<utterance uid="9-4"><speaker>BECKETT</speaker><content>It looks like she’s making sure no one sees her.</content></utterance>
+<utterance uid="9-5"><speaker>ESPOSITO</speaker><content>Or following her. But that’s it. She doesn’t come back down. And no one goes back up there until 4AM.</content></utterance>
+<utterance uid="9-6"><speaker>CASTLE</speaker><content>What about earlier?</content></utterance>
+<utterance uid="9-7"><speaker>ESPOSITO</speaker><content>Nope. The last person to go up to the top floor was another hotel guest an hour earlier. But the guy’s 80 years old. There’s no way he’s climbing a water tower with a body.</content></utterance>
+<utterance uid="9-8"><speaker>BECKETT</speaker><content>Sounds like whoever killed her used the stairs.</content></utterance>
+<utterance uid="9-9"><speaker>RYAN</speaker><content>Hey. So, no recent activity on her phone. She left it with her parents since she was supposed to be in Europe. But um … check this out.</content></utterance>
+<utterance uid="9-10"><speaker>BECKETT</speaker><content>Credit card charge?</content></utterance>
+<utterance uid="9-11"><speaker>RYAN</speaker><content>Yeah. From two days ago. It’s her only transaction since checking into the hotel.</content></utterance>
+<utterance uid="9-12"><speaker>CASTLE</speaker><content>Margo’s. It’s a restaurant in Midtown. It’s expensive.</content></utterance>
+<utterance uid="9-13"><speaker>RYAN</speaker><content>Yeah. And she wasn’t alone. Turns out she spilt the check with a Talia McTeague.</content></utterance>
+<utterance uid="9-14"><speaker>BECKETT</speaker><content>Okay. Run her down. Maybe she can give us some answers.  Hey, is there anything on the canvass?</content></utterance>
+<utterance uid="9-15"><speaker>RYAN</speaker><content>Nothing useful. None of the occupants of the hotel admit to seeing anyone going in and out of her hotel room, but given what they heard coming from her room at night it’s pretty clear she was a prostitute.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>LANIE</speaker><content>If she was a prostitute, she wasn’t very good at it.</content></utterance>
+<utterance uid="10-2"><speaker>CASTLE</speaker><content>Seriously? You can tell that?</content></utterance>
+<utterance uid="10-3"><speaker>LANIE</speaker><content>Prostitution usually means sex and there’s no evidence of sexual activity. But what I did find were defensive wounds, bruising around the neck, and evidence of multiple blows to the head. I’m guessing someone held her by her throat and slammed her head into that ventilation fan. Lack of water in the lungs indicate that she was dead before she went into the tank.</content></utterance>
+<utterance uid="10-4"><speaker>CASTLE</speaker><content>Then why even bother putting her in there?</content></utterance>
+<utterance uid="10-5"><speaker>LANIE</speaker><content>Water has a great way of washing away things like trace DNA.</content></utterance>
+<utterance uid="10-6"><speaker>BECKETT</speaker><content>Wait a minute, I don’t understand. If she wasn’t having sex then what were all of those sounds coming out of her room?</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>CASTLE</speaker><content>Okay, so she wasn’t really a hooker, she just wanted everyone to think that she was. Why?</content></utterance>
+<utterance uid="11-2"><speaker>BECKETT</speaker><content>I don’t know, but not everyone thought she was a hooker. That guy next door? He was pretty adamant that she wasn’t.</content></utterance>
+<utterance uid="11-3"><speaker>CASTLE</speaker><content>So what did he know that the others didn’t?</content></utterance>
+</scene>
+
+<scene id="12"><utterance uid="12-1"><speaker>ZIFF</speaker><content>I already told you guys what I know.</content></utterance>
+<utterance uid="12-2"><speaker>BECKETT</speaker><content>Not everything, Ziff. How did you know she wasn’t a prostitute?</content></utterance>
+<utterance uid="12-3"><speaker>ZIFF</speaker><content>Look, please, I don’t want any trouble.</content></utterance>
+<utterance uid="12-4"><speaker>BECKETT</speaker><content>Did you murder her?</content></utterance>
+<utterance uid="12-5"><speaker>ZIFF</speaker><content>What? No!</content></utterance>
+<utterance uid="12-6"><speaker>BECKETT</speaker><content>Then nothing you say is going to get you into trouble.</content></utterance>
+<utterance uid="12-7"><speaker>ZIFF</speaker><content>Well, I heard those … sounds, you know.</content></utterance>
+<utterance uid="12-8"><speaker>BECKETT</speaker><content>C’mon, Ziff.</content></utterance>
+<utterance uid="12-9"><speaker>ZIFF</speaker><content>There’s a hole. In the wall. In the back of the closet.</content></utterance>
+<utterance uid="12-10"><speaker>BECKETT</speaker><content>You were spying on her?</content></utterance>
+<utterance uid="12-11"><speaker>CASTLE</speaker><content>What did you see?</content></utterance>
+<utterance uid="12-12"><speaker>ZIFF</speaker><content>Well, that’s the thing. I heard all those sounds, but there was nothing going on. It was just her sitting on the bed all night, fully dressed, with her headphones on, typing on her laptop.</content></utterance>
+<utterance uid="12-13"><speaker>BECKETT</speaker><content>There wasn’t a laptop in the room.</content></utterance>
+<utterance uid="12-14"><speaker>ZIFF</speaker><content>There used to be. She’d be up all night staring at the screen.</content></utterance>
+<utterance uid="12-15"><speaker>CASTLE</speaker><content>Did you ever seen anyone else in there with her?</content></utterance>
+<utterance uid="12-16"><speaker>ZIFF</speaker><content>No. It was always just her.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>RYAN</speaker><content>Thanks for coming in, Miss McTeague.</content></utterance>
+<utterance uid="13-2"><speaker>TALIA MCTEAGUE</speaker><content>Of course. I can’t belive she’s dead.</content></utterance>
+<utterance uid="13-3"><speaker>ESPOSITO</speaker><content>So, how did you know Erika?</content></utterance>
+<utterance uid="13-4"><speaker>TALIA</speaker><content>We were friends from Harvard. We were both computer science majors.</content></utterance>
+<utterance uid="13-5"><speaker>RYAN</speaker><content>Do you know what she was doing in the city?</content></utterance>
+<utterance uid="13-6"><speaker>TALIA</speaker><content>No.</content></utterance>
+<utterance uid="13-7"><speaker>ESPOSITO</speaker><content>But you had lunch with her two days ago. Why?</content></utterance>
+<utterance uid="13-8"><speaker>TALIA</speaker><content>It was weird. That morning I was getting coffee from this place in the Village, and I saw her in this big argument with some guy. She was dressed very different, sexed up and her hair was pink. Anyway, he storms up and I go up to her to say hello and she just looks at me with this panicked look on her face and bolts. Later that day she tracked me down, called me at my office, and said we needed to meet up right away.</content></utterance>
+<utterance uid="13-9"><speaker>RYAN</speaker><content>So what happened at lunch?</content></utterance>
+<utterance uid="13-10"><speaker>TALIA</speaker><content>She begged me not to tell anyone that she was in the city. That if people found out she could be in a lot of trouble.</content></utterance>
+<utterance uid="13-11"><speaker>ESPOSITO</speaker><content>Did she say why?</content></utterance>
+<utterance uid="13-12"><speaker>TALIA</speaker><content>I kept asking her what was going on. She said she was on some sort of a mission.</content></utterance>
+<utterance uid="13-13"><speaker>ESPOSITO</speaker><content>A mission?</content></utterance>
+<utterance uid="13-14"><speaker>RYAN</speaker><content>This guy that she was arguing with. Do you know who he was or what they were arguing about?</content></utterance>
+<utterance uid="13-15"><speaker>TALIA</speaker><content>No. I just heard him say ‘you have no idea what you’re up against. These people don’t mess around.’</content></utterance>
+<utterance uid="13-16"><speaker>ESPOSITO</speaker><content>Can you describe him?</content></utterance>
+<utterance uid="13-17"><speaker>TALIA</speaker><content>Yeah.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>ESPOSITO</speaker><content>Uniforms are canvassing the Cedric but so far nobody recognizes him.</content></utterance>
+<utterance uid="14-2"><speaker>RYAN</speaker><content>Here’s what I don’t get. Why go through all the trouble of creating a fake persona when you’re just going to be on your laptop all night?</content></utterance>
+<utterance uid="14-3"><speaker>CASTLE</speaker><content>Wait. Does the Cedric have wi-fi?</content></utterance>
+<utterance uid="14-4"><speaker>RYAN</speaker><content>Yeah, that’s about all it has.</content></utterance>
+<utterance uid="14-5"><speaker>CASTLE</speaker><content> Computer science major? Hours on her laptop?</content></utterance>
+<utterance uid="14-6"><speaker>BECKETT</speaker><content>She’s a hacker. Which is why she was staying at the Cedric. She could pay in cash, remain anonymous while she was using the IP address.</content></utterance>
+<utterance uid="14-7"><speaker>CASTLE</speaker><content>Exactly. And whatever she was hacking into was either so illegal or so dangerous she had to make sure they couldn’t trace it back to her. And even if they did trace it back to her, they’d still have to find her amongst hundreds of residents.</content></utterance>
+<utterance uid="14-8"><speaker>BECKETT</speaker><content>So she created a false persona. And who’s going to look twice at a runaway hooker? I mean, she’s like the girl with the dragon tattoo.</content></utterance>
+<utterance uid="14-9"><speaker>CASTLE</speaker><content>Only they did find her, which is why we can’t find her laptop. Whoever she went up against killed her and took it.</content></utterance>
+<utterance uid="14-10"><speaker>ESPOSITO</speaker><content>Uh, problem. We don’t know who she went up against and none of her friends seem to know either.</content></utterance>
+<utterance uid="14-11"><speaker>BECKETT</speaker><content>Okay. Contact the Cedric’s internet provider and get a list of the IP addresses accessed by residents over the past two weeks.  There’s gotta be an answer somewhere in there.</content></utterance>
+<utterance uid="14-12"><speaker>CASTLE</speaker><content>How about I take a break from writing tonight? You come to my place, I open a bottle of wine.</content></utterance>
+<utterance uid="14-13"><speaker>CAPTAIN VICTORIA GATES</speaker><content>Detective Beckett? Can I have a word?</content></utterance>
+<utterance uid="14-14"><speaker>BECKETT</speaker><content>Yes.  I’ll catch you later?</content></utterance>
+<utterance uid="14-15"><speaker>CASTLE</speaker><content>She’s all yours.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>BECKETT</speaker><content>Sir?</content></utterance>
+<utterance uid="15-2"><speaker>GATES</speaker><content>Shut the door.</content></utterance>
+<utterance uid="15-3"><speaker>GATES</speaker><content>Have a seat.</content></utterance>
+<utterance uid="15-4"><speaker>GATES</speaker><content>I uh … just got a call about you? From the Deputy Director of the FBI. Apparently you had quite the interview in DC. This morning.</content></utterance>
+<utterance uid="15-5"><speaker>BECKETT</speaker><content>Look, sir, it was –</content></utterance>
+<utterance uid="15-6"><speaker>GATES</speaker><content>I just want to tell you that … I gave you my highest recommendation.</content></utterance>
+<utterance uid="15-7"><speaker>BECKETT</speaker><content>You did?</content></utterance>
+<utterance uid="15-8"><speaker>GATES</speaker><content>Kate, this is the kind of work you were meant to be doing. You’d be on the national stage utilizing all your talents. This is an incredible opportunity. I would have killed to have a shot at something like this when I was your age.</content></utterance>
+<utterance uid="15-9"><speaker>BECKETT</speaker><content> Thank you, sir, but it was just an interview. It’s a long shot at best.</content></utterance>
+<utterance uid="15-10"><speaker>GATES</speaker><content>No, I wouldn’t be so sure about that. From what I hear, you’re on a short list. And with any luck, this could be your last case.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>LANIE</speaker><content>Girl, you scared me. What are you doing here so early?</content></utterance>
+<utterance uid="16-2"><speaker>BECKETT</speaker><content>I just wanted to see if you had anything new on the victim.</content></utterance>
+<utterance uid="16-3"><speaker>LANIE</speaker><content>Well, I was able to place time of death between 12 midnight and 1AM.</content></utterance>
+<utterance uid="16-4"><speaker>BECKETT</speaker><content>Mmhmm.</content></utterance>
+<utterance uid="16-5"><speaker>LANIE</speaker><content>Oh, and I found traces of creosote under her fingernails, which is probably meaningless since the boiler room is right next to the laundry room and it could have gotten on her hands when she went down there.</content></utterance>
+<utterance uid="16-6"><speaker>LANIE</speaker><content>But … that’s not why you’re here, is it?  Okay. What’s wrong?</content></utterance>
+<utterance uid="16-7"><speaker>BECKETT</speaker><content>Nothing.  Yet. Lanie, if you had the opportunity to do something that you wanted to do but it would mean that … everything in your life might change. Would you take it?</content></utterance>
+<utterance uid="16-8"><speaker>LANIE</speaker><content>Well, it depends. How good is the opportunity?</content></utterance>
+<utterance uid="16-9"><speaker>BECKETT</speaker><content>Great. Really, really great.  But the job’s in DC.</content></utterance>
+<utterance uid="16-10"><speaker>LANIE</speaker><content>But you’re worried about Castle.</content></utterance>
+<utterance uid="16-11"><speaker>BECKETT</speaker><content>I mean, we’re in this relationship but … we never talk about where we’re going. And that’s okay, for now. It’s just – what if I get that job?</content></utterance>
+<utterance uid="16-12"><speaker>LANIE</speaker><content>Then you’re going to have to.</content></utterance>
+<utterance uid="16-13"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="16-14"><speaker>LANIE</speaker><content>Maybe that’s not such a bad thing.</content></utterance>
+<utterance uid="16-15"><speaker>BECKETT</speaker><content>Yeah, but what if it is?  Hey, Castle.  Yeah, no. I just wanted to get an early start on the day. I didn’t want to wake you up.  Okay, all right. I’ll meet you there.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>TORY ELLIS</speaker><content>So I ran down all the IP addresses that were accessed through the hotel’s server to find out what our victim was up to.</content></utterance>
+<utterance uid="17-2"><speaker>ESPOSITO</speaker><content>Any luck?</content></utterance>
+<utterance uid="17-3"><speaker>TORY</speaker><content>The majority of the IPs were to porn sites.</content></utterance>
+<utterance uid="17-4"><speaker>ESPOSITO</speaker><content>Really? Which ones?</content></utterance>
+<utterance uid="17-5"><speaker>TORY</speaker><content>I took the liberty of ruling those out, as well as commercial sites: Google, Amazon, YouTube. That narrowed it down to a couple hundred sites.</content></utterance>
+<utterance uid="17-6"><speaker>RYAN</speaker><content>So we’re still looking for a needle in a haystack.</content></utterance>
+<utterance uid="17-7"><speaker>TORY</speaker><content>Not necessarily. I took those and went back and looked for multiple unique site hits that coincided with the dates your victim was checked into the hotel. That left about 20.</content></utterance>
+<utterance uid="17-8"><speaker>ESPOSITO</speaker><content>Ooh. Now we’re talking, girl. I can deal with 20.</content></utterance>
+<utterance uid="17-9"><speaker>TORY</speaker><content>You might not have to. Of those 20, I looked for IPs that were accessed late at night during the period when your witness claimed your victim was on her laptop.  This is your most likely candidate. The server IP was accessed multiple times a night nearly every night Erika was at the hotel.</content></utterance>
+<utterance uid="17-10"><speaker>ESPOSITO</speaker><content>And who’s it belong to?</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>RYAN</speaker><content>The IP was traced to Banks and Bauer. It’s a boutique law firm in Midtown represents high level politicos and corporations.</content></utterance>
+<utterance uid="18-2"><speaker>CASTLE</speaker><content>Maybe Erika was some kind of an online Erin Brockovich. You know, a crusader for good delving into the seedy underbelly of the legal system to uncover some seedy truth.</content></utterance>
+<utterance uid="18-3"><speaker>BECKETT</speaker><content>Or maybe she was just hired by a rival firm to steal privileged information.</content></utterance>
+<utterance uid="18-4"><speaker>CASTLE</speaker><content>Now why must you be so cynical?</content></utterance>
+<utterance uid="18-5"><speaker>BECKETT</speaker><content>It’s in my job description.</content></utterance>
+<utterance uid="18-6"><speaker>CASTLE</speaker><content>Which is why you need me.</content></utterance>
+<utterance uid="18-7"><speaker>BECKETT</speaker><content>Okay, why don’t you dig into Erika’s life? Castle and I will hit the law firm, see if there’s any connection.</content></utterance>
+<utterance uid="18-8"><speaker>RYAN</speaker><content>Thank you?</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>JESSICA BANKS</speaker><content>No, I’ve never seen her before in my life.</content></utterance>
+<utterance uid="19-2"><speaker>BECKETT</speaker><content>Banks, you’re sure?</content></utterance>
+<utterance uid="19-3"><speaker>BANKS</speaker><content>Oh, I’m positive. Mitch!  He’s my partner, Mitch Bauer.  Do you know this girl?</content></utterance>
+<utterance uid="19-4"><speaker>MITCH BAUER</speaker><content>No. Should I?</content></utterance>
+<utterance uid="19-5"><speaker>BANKS</speaker><content>Well, police think she might have hacked our server.</content></utterance>
+<utterance uid="19-6"><speaker>BAUER</speaker><content>Why? What’d she access?</content></utterance>
+<utterance uid="19-7"><speaker>BECKETT</speaker><content>We don’t know.</content></utterance>
+<utterance uid="19-8"><speaker>BAUER</speaker><content>Well, is she in custody?</content></utterance>
+<utterance uid="19-9"><speaker>CASTLE</speaker><content>Sort of.</content></utterance>
+<utterance uid="19-10"><speaker>BAUER</speaker><content>What do you mean, sort of?</content></utterance>
+<utterance uid="19-11"><speaker>CASTLE</speaker><content>She’s dead.</content></utterance>
+<utterance uid="19-12"><speaker>BECKETT</speaker><content>Actually, she was murdered and we believe it might have to do with whatever she was trying to access from your system.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>TECH</speaker><content>Security software and firewall protection don’t indicate any incursion.</content></utterance>
+<utterance uid="20-2"><speaker>BECKETT</speaker><content>Yeah, but if the hacker’s good your software might not pick it up. Is there any way to track network activity on your server for the past week?</content></utterance>
+<utterance uid="20-3"><speaker>TECH</speaker><content>Yeah.</content></utterance>
+<utterance uid="20-4"><speaker>CASTLE</speaker><content>There. Between 11PM and 3AM all last week.</content></utterance>
+<utterance uid="20-5"><speaker>TECH</speaker><content>But according to the usage logs, no one was signed onto the system at that time.</content></utterance>
+<utterance uid="20-6"><speaker>BANKS</speaker><content>Are you telling me this girl had access to our records for the last week and a half and you have no idea what she was doing?</content></utterance>
+<utterance uid="20-7"><speaker>TECH</speaker><content>I’m afraid so.</content></utterance>
+<utterance uid="20-8"><speaker>BECKETT</speaker><content>Are there any cases or litigation that your firm’s involved in currently that might hinge on privileged information?</content></utterance>
+<utterance uid="20-9"><speaker>BANKS</speaker><content>Are you kidding me, Detective? We’re a law firm. All of them.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>ESPOSITO</speaker><content>So no one at the law firm knew what she was looking for either?</content></utterance>
+<utterance uid="21-2"><speaker>BECKETT</speaker><content>Either that, or they’re covering something up. But the only evidence of what she was up to is on that missing laptop.</content></utterance>
+<utterance uid="21-3"><speaker>CASTLE</speaker><content>So without it we’re dead in the water. Much like Erika.</content></utterance>
+<utterance uid="21-4"><speaker>CASTLE_ESPOSITO</speaker><content>Too soon.</content></utterance>
+<utterance uid="21-5"><speaker>RYAN</speaker><content>Hey guys. I got something. That phone call that she made to her friend to arrange lunch had me wondering where exactly that call came from. Turns out, it was a pay phone from the hotel, so I ran down the other calls made from that phone. One of them popped.</content></utterance>
+<utterance uid="21-6"><speaker>BECKETT</speaker><content>Ian Blaylock?</content></utterance>
+<utterance uid="21-7"><speaker>RYAN</speaker><content>Yeah. He was an attorney at Banks and Bauer until he was fired six months ago. She made three phone calls to him from that phone, each lasting over five minutes. This is Blaylock.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>BECKETT</speaker><content>Mr. Blaylock! NYPD!  Mr. Blaylock! Open up!</content></utterance>
+<utterance uid="22-2"><speaker>CASTLE</speaker><content> I think our plot just thickened.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>LANIE</speaker><content>I’m pretty sure this wasn’t a suicide.</content></utterance>
+<utterance uid="23-2"><speaker>BECKETT</speaker><content>How can you tell?</content></utterance>
+<utterance uid="23-3"><speaker>LANIE</speaker><content>See that diagonal ligature mark running up his neck? </content></utterance>
+<utterance uid="23-4"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="23-5"><speaker>LANIE</speaker><content>Well, that’s what we expect to find because the weight of the body pulls the cord into a vertical line.</content></utterance>
+<utterance uid="23-6"><speaker>CASTLE</speaker><content>But?</content></utterance>
+<utterance uid="23-7"><speaker>LANIE</speaker><content>But this other faint ligature mark, see how it runs horizontally across his neck?</content></utterance>
+<utterance uid="23-8"><speaker>BECKETT</speaker><content>He was strangled first.</content></utterance>
+<utterance uid="23-9"><speaker>LANIE</speaker><content>Mmhmm. Then strung up.</content></utterance>
+<utterance uid="23-10"><speaker>CASTLE</speaker><content>So we have a second murder.</content></utterance>
+<utterance uid="23-11"><speaker>LANIE</speaker><content>Well, technically it’s the first murder. Given temperature and decomposition, I’d say he died a day before our lady in the water tank.</content></utterance>
+<utterance uid="23-12"><speaker>RYAN</speaker><content>Beckett.</content></utterance>
+<utterance uid="23-13"><speaker>RYAN</speaker><content>So I was going through Blaylock’s recent activity. I found this chat exchange between him and an anonymous user.</content></utterance>
+<utterance uid="23-14"><speaker>BECKETT</speaker><content> ‘Changed my mind, can’t live like this anymore. Will tell you everything I know. Where can we meet?’</content></utterance>
+<utterance uid="23-15"><speaker>RYAN</speaker><content>The person replies, ‘There’s a place near where I’m staying. Cedric Hotel. Rooftop. At midnight.’</content></utterance>
+<utterance uid="23-16"><speaker>BECKETT</speaker><content>She asked him to meet her up there.</content></utterance>
+<utterance uid="23-17"><speaker>RYAN</speaker><content>She must have thought it was a location she could control.</content></utterance>
+<utterance uid="23-18"><speaker>CASTLE</speaker><content>Uh, guys? Look at what time he sent the message.</content></utterance>
+<utterance uid="23-19"><speaker>RYAN</speaker><content>10PM the night she was murdered.</content></utterance>
+<utterance uid="23-20"><speaker>CASTLE</speaker><content>Right, but according to Lanie’s time of death, Blaylock was already dead.</content></utterance>
+<utterance uid="23-21"><speaker>BECKETT</speaker><content>So this was sent by whoever killed him. He lured her out.</content></utterance>
+<utterance uid="23-22"><speaker>CASTLE</speaker><content>And killed her too.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>BECKETT</speaker><content>So the folks at the law firm claim that they have no idea why anyone would murder Blaylock or why Erika was looking for him.</content></utterance>
+<utterance uid="24-2"><speaker>CASTLE</speaker><content>Did they at least tell you why they let Blaylock go?</content></utterance>
+<utterance uid="24-3"><speaker>BECKETT</speaker><content>Only that it was a personal issue.</content></utterance>
+<utterance uid="24-4"><speaker>ESPOSITO</speaker><content>It must have been pretty serious. We checked with friends. Apparently he was a rising star at the firm, until about a year ago when out of the blue he became distant and withdrawn. Marriage fell apart and he started doing drugs. It’s like something happened.</content></utterance>
+<utterance uid="24-5"><speaker>BECKETT</speaker><content>So Erika was looking into the firm. Blaylock used to work at the firm. And now they’re both dead. Why?</content></utterance>
+<utterance uid="24-6"><speaker>RYAN</speaker><content>Hey. Just heard back from Erika’s parents. The law firm rang a bell. Turns out that Erika’s best friend from high school interned there last summer. A Pam Bonner.</content></utterance>
+<utterance uid="24-7"><speaker>BECKETT</speaker><content>Okay. Maybe she can give us some answers. Where do we find her?</content></utterance>
+<utterance uid="24-8"><speaker>RYAN</speaker><content> Uh, Mount Hope Cemetery in Westchester. She was killed last summer in a car crash.</content></utterance>
+<utterance uid="24-9"><speaker>CASTLE</speaker><content>What were the circumstances?</content></utterance>
+<utterance uid="24-10"><speaker>RYAN</speaker><content>Well, there were no witnesses but according to the police report she was driving home from the firm’s summer party. She lost control, crashed into a tree. Autopsy indicates she was intoxicated at the time, but Erika never believed the official account.</content></utterance>
+<utterance uid="24-11"><speaker>BECKETT</speaker><content>Any reason why?</content></utterance>
+<utterance uid="24-12"><speaker>RYAN</speaker><content>Well, she believed that Pam would never drive drunk. And when they found Pam she was wearing high heels and Erika said she never drove in heels.</content></utterance>
+<utterance uid="24-13"><speaker>CASTLE</speaker><content>Three deaths, all leading back to the law firm of Banks and Bauer.  Is it just me, or is this starting to smell like a John Grisham novel? A single car accident with no witnesses? Guys, this is a classic conspiracy cover up. Though only a lowly intern, Pam stumbles on to something the firm is doing, something big. Nefarious. She has to be silenced, only after the accident Blaylock can’t take the guilt. Or admit the truth. So his only bastion is to escape the sweet oblivion of drugs.</content></utterance>
+<utterance uid="24-14"><speaker>BECKETT</speaker><content>And then when Erika starts coming around they realize that they’re going to have to act by eliminating them both. But what are they covering up?</content></utterance>
+<utterance uid="24-15"><speaker>RYAN</speaker><content>Whatever it is, the only possible evidence is on Erika’s laptop, which our killer took.</content></utterance>
+<utterance uid="24-16"><speaker>CASTLE</speaker><content>Yeah.  Wait, are we sure about that? Erika was meeting Blaylock on the roof, right? A guy, according to the emails, she didn’t know very well. If I’m Erika I’m hiding that laptop.</content></utterance>
+<utterance uid="24-17"><speaker>ESPOSITO</speaker><content>Well, we searched her room. It wasn’t in there.</content></utterance>
+<utterance uid="24-18"><speaker>BECKETT</speaker><content>Wait, do you guys remember the footage from the elevator?</content></utterance>
+<utterance uid="24-19"><speaker>CASTLE</speaker><content>Yes. She went down to the laundry room first.</content></utterance>
+<utterance uid="24-20"><speaker>BECKETT</speaker><content>And Lanie said she found traces of creosote under her fingernails from the boiler room next door.</content></utterance>
+<utterance uid="24-21"><speaker>CASTLE_BECKETT</speaker><content>The laptop’s in the basement.</content></utterance>
+</scene>
+
+<scene id="25"><utterance uid="25-1"><speaker>RYAN</speaker><content>Man. This was Castle’s theory. How did we draw the short straw?</content></utterance>
+<utterance uid="25-2"><speaker>ESPOSITO</speaker><content>I don’t know. Let me ask you something. You notice anything weird about Beckett?</content></utterance>
+<utterance uid="25-3"><speaker>RYAN</speaker><content>What do you mean?</content></utterance>
+<utterance uid="25-4"><speaker>ESPOSITO</speaker><content>Well, she’s - she’s different. Something’s off.</content></utterance>
+<utterance uid="25-5"><speaker>RYAN</speaker><content>What are you saying? Like she’s pregnant?</content></utterance>
+<utterance uid="25-6"><speaker>ESPOSITO</speaker><content>What are you talking about? Where did that even come from?</content></utterance>
+<utterance uid="25-7"><speaker>RYAN</speaker><content>Well, you said she was acting different. They’re consenting adults –</content></utterance>
+<utterance uid="25-8"><speaker>ESPOSITO</speaker><content> Beckett is not pregnant. C’mon, man.</content></utterance>
+<utterance uid="25-9"><speaker>RYAN</speaker><content>What’s so wrong with being pregnant?</content></utterance>
+<utterance uid="25-10"><speaker>ESPOSITO</speaker><content>You know, I can’t even talk to you about this right now.</content></utterance>
+<utterance uid="25-11"><speaker>RYAN</speaker><content>Okay. Well, um … try to get over it before Jenny tells you the news, okay?</content></utterance>
+<utterance uid="25-12"><speaker>ESPOSITO</speaker><content>What?  Are you serious? Wow, congratulations, man. That’s great!</content></utterance>
+<utterance uid="25-13"><speaker>RYAN</speaker><content>Thanks, bro.</content></utterance>
+<utterance uid="25-14"><speaker>ESPOSITO</speaker><content>Hold up. There’s something up here.</content></utterance>
+<utterance uid="25-15"><speaker>ESPOSITO</speaker><content>What’s that?</content></utterance>
+<utterance uid="25-16"><speaker>RYAN</speaker><content>That’s a laptop.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>BECKETT</speaker><content>No, that’s great. Thank you.  So they found the laptop.</content></utterance>
+<utterance uid="26-2"><speaker>CASTLE</speaker><content>I knew it. So what was on it?</content></utterance>
+<utterance uid="26-3"><speaker>BECKETT</speaker><content>Well, the hard drive is encrypted so techs are going through it now.</content></utterance>
+<utterance uid="26-4"><speaker>CASTLE</speaker><content>Well, somewhere on that computer is a conspiracy of lies so heinous, so deadly –</content></utterance>
+<utterance uid="26-5"><speaker>CASTLE</speaker><content>What’s this?</content></utterance>
+<utterance uid="26-6"><speaker>BECKETT</speaker><content>What’s what?</content></utterance>
+<utterance uid="26-7"><speaker>CASTLE</speaker><content> Boarding pass.</content></utterance>
+<utterance uid="26-8"><speaker>BECKETT</speaker><content> Castle –</content></utterance>
+<utterance uid="26-9"><speaker>BECKETT</speaker><content> Did you fly to DC yesterday?</content></utterance>
+<utterance uid="26-10"><speaker>BECKETT</speaker><content>Yes. I did.</content></utterance>
+<utterance uid="26-11"><speaker>CASTLE</speaker><content>Why?</content></utterance>
+<utterance uid="26-12"><speaker>BECKETT</speaker><content>I was invited down for an interview.</content></utterance>
+<utterance uid="26-13"><speaker>CASTLE</speaker><content>What kind of interview?</content></utterance>
+<utterance uid="26-14"><speaker>BECKETT</speaker><content>For a position. With the Federal Task Force.</content></utterance>
+<utterance uid="26-15"><speaker>CASTLE</speaker><content>I’m sorry, you interviewed for another job in another city … and you didn’t tell me?</content></utterance>
+<utterance uid="26-16"><speaker>BECKETT</speaker><content>I didn’t tell you about it because it was just an interview and I knew you would be upset.</content></utterance>
+<utterance uid="26-17"><speaker>CASTLE</speaker><content> Oh … yeah. Yeah. You’re damn right I’m upset.</content></utterance>
+<utterance uid="26-18"><speaker>BECKETT</speaker><content>Castle, I just wanted to see what was out there. What’s wrong with that?</content></utterance>
+<utterance uid="26-19"><speaker>CASTLE</speaker><content>What’s wrong with it is that you hid it from me. In fact, you lied about it. I wouldn’t do that to you.</content></utterance>
+<utterance uid="26-20"><speaker>BECKETT</speaker><content>Castle, this isn’t about you.  This is about me. This is about my life.</content></utterance>
+<utterance uid="26-21"><speaker>CASTLE</speaker><content>So you’re seriously considering this?</content></utterance>
+<utterance uid="26-22"><speaker>BECKETT</speaker><content>Yes! This is a wonderful opportunity. It’ll be a chance to do more.</content></utterance>
+<utterance uid="26-23"><speaker>CASTLE</speaker><content> Without me.</content></utterance>
+<utterance uid="26-24"><speaker>BECKETT</speaker><content>Castle, please don’t do this. Don’t make this about us.</content></utterance>
+<utterance uid="26-25"><speaker>CASTLE</speaker><content>I’m sorry, tell me how this isn’t about us. You get this job, you move to DC, I’ll never see you. That’s pretty much the end of our relationship, isn’t it?</content></utterance>
+<utterance uid="26-26"><speaker>BECKETT</speaker><content> You don’t know that. And I probably won’t even get the job.</content></utterance>
+<utterance uid="26-27"><speaker>CASTLE</speaker><content>That’s not the point.  The point is, you knew what this could mean. And it didn’t occur to you to include me.  Or worse, it did occur to you. And you chose not to. Now what does that say about us?  Not much, you ask me.</content></utterance>
+<utterance uid="26-28"><speaker>BECKETT</speaker><content>Castle.</content></utterance>
+<utterance uid="26-29"><speaker>CASTLE</speaker><content>I can’t be here right now.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>ESPOSITO</speaker><content>Hey.</content></utterance>
+<utterance uid="27-2"><speaker>BECKETT</speaker><content>Hey.</content></utterance>
+<utterance uid="27-3"><speaker>ESPOSITO</speaker><content>You okay?</content></utterance>
+<utterance uid="27-4"><speaker>BECKETT</speaker><content>Yep.</content></utterance>
+<utterance uid="27-5"><speaker>ESPOSITO</speaker><content>Where’s Castle?</content></utterance>
+<utterance uid="27-6"><speaker>BECKETT</speaker><content>I don’t know.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>BECKETT</speaker><content>We had a fight, okay?</content></utterance>
+<utterance uid="28-2"><speaker>ESPOSITO</speaker><content>Like a regular fight, or –</content></utterance>
+<utterance uid="28-3"><speaker>ESPOSITO</speaker><content>How bad?</content></utterance>
+<utterance uid="28-4"><speaker>RYAN</speaker><content>Hey guys. We got something.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>TORY</speaker><content>Once your victim hacked into the law firm, she started with the basics – emails, calendars, payroll. Then she moved on to client and personal files.</content></utterance>
+<utterance uid="29-2"><speaker>ESPOSITO</speaker><content>Do we know what she was looking for?</content></utterance>
+<utterance uid="29-3"><speaker>RYAN</speaker><content>Hard to say. But for the last few nights Erika became very focused on the firm’s accounting department.</content></utterance>
+<utterance uid="29-4"><speaker>ESPOSITO</speaker><content>The accounting department?</content></utterance>
+<utterance uid="29-5"><speaker>RYAN</speaker><content>It appears that she was looking into Ian Blaylock’s billable hours records.</content></utterance>
+<utterance uid="29-6"><speaker>TORY</speaker><content>Focusing exclusively on one week last summer.</content></utterance>
+<utterance uid="29-7"><speaker>BECKETT</speaker><content>Wait a minute. That’s the same week as Pamela Bonner’s car accident.</content></utterance>
+<utterance uid="29-8"><speaker>RYAN</speaker><content>Right. Now, check it out. The highway patrol determined that Pam Bonner’s accident occurred between 1:30 and 2AM. And Ian Blaylock billed for an incoming phone call from a client at 1:45AM.</content></utterance>
+<utterance uid="29-9"><speaker>ESPOSITO</speaker><content>So you think one of his clients might have been involved. Maybe ran her off the road.</content></utterance>
+<utterance uid="29-10"><speaker>RYAN</speaker><content>According to the highway patrol it was a one car accident.</content></utterance>
+<utterance uid="29-11"><speaker>BECKETT</speaker><content>You guys, what if Erika was right? What if Pamela wasn’t driving drunk or in her high heels? In fact, what if Pamela wasn’t driving at all?</content></utterance>
+<utterance uid="29-12"><speaker>ESPOSITO</speaker><content>Someone else was driving. Someone who crashed and didn’t want to be blamed for Pam’s death, so he put her behind the wheel, fled the scene.</content></utterance>
+<utterance uid="29-13"><speaker>BECKETT</speaker><content>And then called their lawyer.  Who made that phone call to Blaylock?</content></utterance>
+<utterance uid="29-14"><speaker>TORI</speaker><content>For security the firm replaces its clients names with codes. This one’s 47BGO.</content></utterance>
+<utterance uid="29-15"><speaker>BECKETT</speaker><content>Okay, the firm’s never going to give up that information. Let’s see where else that code shows up. Cross reference it. See if we can identify it from there.</content></utterance>
+<utterance uid="29-16"><speaker>TORY</speaker><content>You don’t have to look too far. Blaylock billed that very same client for a round of golf the day after the car crash.</content></utterance>
+<utterance uid="29-17"><speaker>ESPOSITO</speaker><content>Well, that would be a perfect place to discuss details. No one would overhear them.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>BECKETT</speaker><content>So according to the starter at the pro shop, Blaylock was playing golf with another member, a Colin Rigsdale III.</content></utterance>
+<utterance uid="30-2"><speaker>RYAN</speaker><content>Of the Rigsdale political family?</content></utterance>
+<utterance uid="30-3"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="30-4"><speaker>RYAN</speaker><content>Word is Daddy’s grooming him for a state senate run.</content></utterance>
+<utterance uid="30-5"><speaker>ESPOSITO</speaker><content>Not if this gets out. A fatal car crash with a college chick? No, he’d be done.</content></utterance>
+<utterance uid="30-6"><speaker>BECKETT</speaker><content>That’s why he was covering it up.</content></utterance>
+<utterance uid="30-7"><speaker>RYAN</speaker><content>With Blaylock’s help – ‘til the guilt set in.</content></utterance>
+<utterance uid="30-8"><speaker>BECKETT</speaker><content>Then Erika started poking around and people started dying.</content></utterance>
+<utterance uid="30-9"><speaker>RYAN</speaker><content>It says here Rigsdale is still represented by Banks and Bauer.</content></utterance>
+<utterance uid="30-10"><speaker>BECKETT</speaker><content>Give them a call. Tell them I’m coming.</content></utterance>
+<utterance uid="30-11"><speaker>ESPOSITO</speaker><content>Right.</content></utterance>
+<utterance uid="30-12"><speaker>RYAN</speaker><content>Hey. What’s going on? Where’s Castle?</content></utterance>
+<utterance uid="30-13"><speaker>ESPOSITO</speaker><content>Don’t ask.</content></utterance>
+</scene>
+
+<scene id="31"><utterance uid="31-1"><speaker>BECKETT</speaker><content>Thank you for meeting with me, Mr. Rigsdale.</content></utterance>
+<utterance uid="31-2"><speaker>COLIN RIGSDALE III</speaker><content>Well, when Jessica told me someone hacked into their system I was of course concerned. I think we all know what my political opponents might do if they managed to access confidential information.</content></utterance>
+<utterance uid="31-3"><speaker>BANKS</speaker><content>So the girl who hacked into our system, did you find out what she was after?</content></utterance>
+<utterance uid="31-4"><speaker>BECKETT</speaker><content>Yes. And we also believe we know why she was killed. Are you familiar with a girl named Pamela Bonner?</content></utterance>
+<utterance uid="31-5"><speaker>BANKS</speaker><content>Detective, what is this about?</content></utterance>
+<utterance uid="31-6"><speaker>BECKETT</speaker><content>Mr. Rigsdale?</content></utterance>
+<utterance uid="31-7"><speaker>RIGSDALE</speaker><content> Name’s not familiar.</content></utterance>
+<utterance uid="31-8"><speaker>BECKETT</speaker><content>Really? I understand that she was an intern here at the firm last year, isn’t that correct? And isn’t it also correct that you attended the Banks and Bauer summer associate party last year?</content></utterance>
+<utterance uid="31-9"><speaker>BANKS</speaker><content>Don’t answer that.  Detective, what are you doing?</content></utterance>
+<utterance uid="31-10"><speaker>BECKETT</speaker><content>The same thing that my victim, Erika Albrook, was doing. Trying to figure out how her best friend, Pamela Bonner, actually died.</content></utterance>
+<utterance uid="31-11"><speaker>BANKS</speaker><content>Her death was an accident.</content></utterance>
+<utterance uid="31-12"><speaker>BECKETT</speaker><content>Really? Then why do we have a record of Ian Blaylock, Mr. Rigsdale’s attorney at the time, receiving a phone call from him at 1:45 that night?</content></utterance>
+<utterance uid="31-13"><speaker>BANKS</speaker><content>Detective, this is privileged information. It’s inadmissible.</content></utterance>
+<utterance uid="31-14"><speaker>BECKETT</speaker><content>And we’re not in court.</content></utterance>
+<utterance uid="31-15"><speaker>BANKS</speaker><content>This meeting is over. You need to leave. Now.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>CASTLE</speaker><content>Just tell me. How am I supposed to trust her? How am I even supposed to – to be in a relationship with her if she won’t let me in?</content></utterance>
+<utterance uid="32-2"><speaker>MARTHA RODGERS</speaker><content>Well, Richard –</content></utterance>
+<utterance uid="32-3"><speaker>CASTLE</speaker><content>After everything that we’ve been through together, I – I just don’t understand.</content></utterance>
+<utterance uid="32-4"><speaker>MARTHA</speaker><content>I hate to say it, kiddo, but I do. Look, the truth is, Katherine is a bright, ambitious woman. She should be interviewing for that job.</content></utterance>
+<utterance uid="32-5"><speaker>CASTLE</speaker><content>Whose side are you on?</content></utterance>
+<utterance uid="32-6"><speaker>MARTHA</speaker><content>You want her to put you first when neither one of you knows where the relationship is going. Do you know how absurd that is? I mean, that is as bad as your not signing that check for Alexis’s program.</content></utterance>
+<utterance uid="32-7"><speaker>CASTLE</speaker><content>This isn’t about me.</content></utterance>
+<utterance uid="32-8"><speaker>MARTHA</speaker><content>Are you sure? I know you. You do not hold back. Except this thing with Katherine. It took you what, three years to tell her how you felt, another year to act on it, and now, at the first sign of trouble, you’re ready to run. Why?  Now, you’re having a good time. You both are and I know you say you love her, but darling, this is who she is. So is it possible that the reason you have held back is because, somewhere deep down inside, you don’t think this is going to really work?</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>ESPOSITO</speaker><content>I take it he didn’t confess?</content></utterance>
+<utterance uid="33-2"><speaker>BECKETT</speaker><content>I didn’t need him to. I just needed to see his eyes. It’s him.</content></utterance>
+<utterance uid="33-3"><speaker>RYAN</speaker><content>Well, the evidence begs to differ. His fingerprints are in the system from a political protest a decade ago. I ran them against the partial. It’s not a match. And the papers put him at his family’s compound in Maine during Erika’s murder.</content></utterance>
+<utterance uid="33-4"><speaker>BECKETT</speaker><content>Yeah well, he’d never do this himself. And hiring someone else is too risky for a public figure. He’d - he’d get a close associate or a trusted friend to do it, so why don’t we dig into his life, find out who.</content></utterance>
+<utterance uid="33-5"><speaker>BECKETT</speaker><content>Beckett.</content></utterance>
+<utterance uid="33-6"><speaker>FREEDMAN</speaker><content>Detective. Deputy Director Anthony Freedman calling.  Do you remember? From the interview.</content></utterance>
+<utterance uid="33-7"><speaker>BECKETT</speaker><content>Uh, yes, sir. Yes, I do. What can I do for you?</content></utterance>
+<utterance uid="33-8"><speaker>FREEDMAN</speaker><content>You can say yes. Detective, you got the job.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>RYAN</speaker><content>Hey. Where’s Beckett?</content></utterance>
+<utterance uid="34-2"><speaker>ESPOSITO</speaker><content>She took off about an hour ago. Something’s going on but she wouldn’t tell me what.</content></utterance>
+<utterance uid="34-3"><speaker>RYAN</speaker><content>Huh. Well, I was looking into Rigsdale’s known associates. I came across this photo.  That is Martin Tillage, Rigsdale’s half-brother and the black sheep of the family. Look familiar?</content></utterance>
+<utterance uid="34-4"><speaker>ESPOSITO</speaker><content>Yeah, we interviewed this guy. He was one of the guests at the Cedric.</content></utterance>
+<utterance uid="34-5"><speaker>RYAN</speaker><content>He must have checked in to try to find her and hung around so his departure didn’t look suspicious. He’s gotta be our guy.</content></utterance>
+<utterance uid="34-6"><speaker>ESPOSITO</speaker><content>I’ll have uniforms pick him up. See if you can find Beckett.</content></utterance>
+<utterance uid="34-7"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+</scene>
+
+<scene id="35"><utterance uid="35-1"><speaker>JIM BECKETT</speaker><content>Sounds like a great offer.</content></utterance>
+<utterance uid="35-2"><speaker>BECKETT</speaker><content>Yeah, it is.</content></utterance>
+<utterance uid="35-3"><speaker>JIM</speaker><content>Your mom would be proud. Hell, I’m proud.</content></utterance>
+<utterance uid="35-4"><speaker>JIM</speaker><content>So… what are you going to do?</content></utterance>
+<utterance uid="35-5"><speaker>BECKETT</speaker><content>I don’t know, Dad.  It’s like I’m standing at a crossroads and I have to choose between two possible futures.</content></utterance>
+<utterance uid="35-6"><speaker>JIM</speaker><content>What do you think you have to choose?</content></utterance>
+<utterance uid="35-7"><speaker>BECKETT</speaker><content>Because Dad, he’s right. If I take this job, then there’s not going to be time for anyone else, and then if I don’t –</content></utterance>
+<utterance uid="35-8"><speaker>JIM</speaker><content>It’ll be because of him and you’ll end up resenting him for it.</content></utterance>
+<utterance uid="35-9"><speaker>BECKETT</speaker><content>Or –  – worse. Dad, I don’t know what we have. I don’t know if it’s real. It’s like we’ve been doing this dance for the past five years and … I mean, what happens when the music stops? That if all we were in love with was the dance?</content></utterance>
+<utterance uid="35-10"><speaker>JIM</speaker><content>You know, your whole life you’ve never had a relationship go this far. You know, right around here you always end them. Now why is that? Look, Katie, I know you. When you get scared you hide in your work. And I just want to be sure whatever decision you make, it’s because it’s what you want. Not because you’re afraid.</content></utterance>
+<utterance uid="35-11"><speaker>BECKETT</speaker><content> This job. It’s what I want.</content></utterance>
+<utterance uid="35-12"><speaker>JIM</speaker><content>Then tell him.</content></utterance>
+<utterance uid="35-13"><speaker>BECKETT</speaker><content> He’s gonna hate me, Dad.</content></utterance>
+<utterance uid="35-14"><speaker>JIM</speaker><content>That’s something you’re going to have to live with.</content></utterance>
+<utterance uid="35-15"><speaker>BECKETT</speaker><content> My last case. I better go end it.</content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>CASTLE</speaker><content>There you are. I’m sorry it took me so long to write it. Go have fun.</content></utterance>
+<utterance uid="36-2"><speaker>ALEXIS</speaker><content> Thanks, Dad.</content></utterance>
+<utterance uid="36-3"><speaker>ALEXIS</speaker><content>Dad, are you okay?</content></utterance>
+<utterance uid="36-4"><speaker>CASTLE</speaker><content>Yeah.</content></utterance>
+<utterance uid="36-5"><speaker>ALEXIS</speaker><content>You seem sad.</content></utterance>
+<utterance uid="36-6"><speaker>CASTLE</speaker><content>No. I’m fine.</content></utterance>
+<utterance uid="36-7"><speaker>ALEXIS</speaker><content>It’s only Costa Rica. I’ll be back before you know it.</content></utterance>
+<utterance uid="36-8"><speaker>CASTLE</speaker><content>Oh, that’s sweet. But no, it’s not about that. It’s uh – something your grandmother told me. There comes a point in our lives when we have to stop fooling ourselves into thinking life’s going to be the way we want it to be and start seeing things for how they really are.</content></utterance>
+</scene>
+
+<scene id="37"><utterance uid="37-1"><speaker>MARTIN</speaker><content>So I was there. So what? I needed a place to stay for a couple of nights. Is that a crime?</content></utterance>
+<utterance uid="37-2"><speaker>BECKETT</speaker><content>No, but killing a girl is. What did you brother promise you, Martin? Respectability for the black sheep, a place at the family table –</content></utterance>
+<utterance uid="37-3"><speaker>MARTIN</speaker><content>I told you. I’ve never seen this girl before in my life. You’re wasting your time.</content></utterance>
+<utterance uid="37-4"><speaker>BECKETT</speaker><content>Do you have any idea how many people have sat across that table and confessed their sins to me?  What makes you think that you’re any different? Any smarter?  You’ve only been in this room for one hour. But this room –  - this room has been my life. My home. And I will not let you sit there and lie to me in my own home.  This is a partial print found at the crime scene in the victim’s blood. It’s a match to yours, Martin. Am I still wasting my time?</content></utterance>
+<utterance uid="37-5"><speaker>BECKETT</speaker><content>I’ve got enough to convict you. So the question is, how many years of your own life are you going to sacrifice for someone else’s future? Or are you ready to deal?</content></utterance>
+</scene>
+<scene id="38"><utterance uid="38-1"><speaker>BECKETT</speaker><content>He’s prepared to give a statement implicating his brother in both murders as well as the accident. Would you guys mind taking it?</content></utterance>
+<utterance uid="38-2"><speaker>ESPOSITO</speaker><content>Yo Kate.</content></utterance>
+<utterance uid="38-3"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="38-4"><speaker>ESPOSITO</speaker><content>What’s up?</content></utterance>
+<utterance uid="38-5"><speaker>RYAN</speaker><content>Yeah, what’s going on?</content></utterance>
+<utterance uid="38-6"><speaker>BECKETT</speaker><content> Look, there’s something that I have to tell you guys, but there’s someone else that I have to tell first.</content></utterance>
+</scene>
+<scene id="39"><utterance uid="39-1"><speaker>CASTLE</speaker><content>Castle.</content></utterance>
+<utterance uid="39-2"><speaker>BECKETT</speaker><content>It’s me. We need to talk.</content></utterance>
+<utterance uid="39-3"><speaker>CASTLE</speaker><content>Yeah, we do.</content></utterance>
+</scene>
+<scene id="40"><utterance uid="40-1"><speaker>BECKETT</speaker><content>I’m sorry.  I shouldn’t have kept secrets.</content></utterance>
+<utterance uid="40-2"><speaker>CASTLE</speaker><content>It’s who you are. You don’t let people in. I’ve had to scratch and claw for every inch.</content></utterance>
+<utterance uid="40-3"><speaker>BECKETT</speaker><content>Castle -</content></utterance>
+<utterance uid="40-4"><speaker>CASTLE</speaker><content>Please let me finish.  I’ve been doing a lot of thinking about us. About our relationship, what we have, where we’re headed.  I’ve decided I want more.</content></utterance>
+<utterance uid="40-5"><speaker>CASTLE</speaker><content>We both deserve more.</content></utterance>
+<utterance uid="40-6"><speaker>BECKETT</speaker><content>I agree.</content></utterance>
+<utterance uid="40-7"><speaker>CASTLE</speaker><content>So whatever happens, and whatever you decide, Katherine Houghton Beckett –  – will you marry me?</content></utterance>
+</scene>
+</script>

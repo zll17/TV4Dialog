@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+
+<scene id="1"><utterance uid="1-1"><speaker>MAN</speaker><content>Don’t do it. That one’s overripe.</content></utterance>
+<utterance uid="1-2"><speaker>WOMAN</speaker><content>Really? You can tell?</content></utterance>
+<utterance uid="1-3"><speaker>MAN</speaker><content>Trust me. This is the one. Sweet and firm.</content></utterance>
+<utterance uid="1-4"><speaker>WOMAN</speaker><content>I like sweet. And I like firm.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>RICHARD CASTLE</speaker><content>Ahhh! What are you drinking? Toxic waste?</content></utterance>
+<utterance uid="2-2"><speaker>CASTLE</speaker><content>Oh, he forgot it. Are you – are you sure?</content></utterance>
+<utterance uid="2-3"><speaker>RYAN</speaker><content>Actually, I’ve never felt better in my entire life.  Water, lime juice, no solid food.</content></utterance>
+<utterance uid="2-4"><speaker>RYAN</speaker><content>Jenny and I are going to start our marriage perfectly cleansed.</content></utterance>
+<utterance uid="2-5"><speaker>JENNY</speaker><content>We’ve already made it a week. We only have three days to go.</content></utterance>
+<utterance uid="2-6"><speaker>KATE BECKETT</speaker><content>I can’t even believe you guys are already getting married on Sunday.</content></utterance>
+<utterance uid="2-7"><speaker>JENNY</speaker><content>I know. Isn’t that crazy?  I better go. My mom is freaking out about place cards.  See you there.</content></utterance>
+<utterance uid="2-8"><speaker>RYAN</speaker><content>Thank you, sweetie. I love you.</content></utterance>
+<utterance uid="2-9"><speaker>JENNY</speaker><content>I love you more.</content></utterance>
+<utterance uid="2-10"><speaker>RYAN</speaker><content>It’s not possible.</content></utterance>
+<utterance uid="2-11"><speaker>RYAN</speaker><content>I know, I know, I know. We’re nauseating.</content></utterance>
+<utterance uid="2-12"><speaker>JAVIER ESPOSITO</speaker><content>Well, I am looking forward to meeting some of Jenny’s sorority sisters. I’m about to show them some of New York’s finest.</content></utterance>
+<utterance uid="2-13"><speaker>RYAN</speaker><content>Oh, good. Then I guess you won’t care that Lanie’s bringing a plus one.</content></utterance>
+<utterance uid="2-14"><speaker>ESPOSITO</speaker><content>Who?</content></utterance>
+<utterance uid="2-15"><speaker>RYAN</speaker><content>Um, I don’t know. She just RSVP’d plus one.</content></utterance>
+<utterance uid="2-16"><speaker>ESPOSITO</speaker><content>How can – how can she already have a boyfriend? We just broke up.</content></utterance>
+<utterance uid="2-17"><speaker>BECKETT</speaker><content>Don’t worry, Espo. I’m going alone, so if the sorority sisters don’t work out I’ll dance with you.</content></utterance>
+<utterance uid="2-18"><speaker>ESPOSITO</speaker><content>Esposito.</content></utterance>
+<utterance uid="2-19"><speaker>RYAN</speaker><content>Castle, Jenny tells me that you RSVP’d plus one.</content></utterance>
+<utterance uid="2-20"><speaker>CASTLE</speaker><content>Mmhmm.</content></utterance>
+<utterance uid="2-21"><speaker>BECKETT</speaker><content>You’re bringing a date?</content></utterance>
+<utterance uid="2-22"><speaker>CASTLE</speaker><content>I am.</content></utterance>
+<utterance uid="2-23"><speaker>BECKETT</speaker><content>Who?</content></utterance>
+<utterance uid="2-24"><speaker>CASTLE</speaker><content>Oh. Well, she’s beautiful, she’s intelligent, she’s funny. The way she smiles at me sometimes just melts my heart.</content></utterance>
+<utterance uid="2-25"><speaker>CASTLE</speaker><content>It’s Alexis.</content></utterance>
+<utterance uid="2-26"><speaker>ESPOSITO</speaker><content>Guys. We got a fresh one.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>BECKETT</speaker><content>Hey Lanie. We got a jumper?</content></utterance>
+<utterance uid="3-2"><speaker>LANIE</speaker><content>Judging by the impact, I’d say he came from one of those windows above the 7th floor. Ryan and Esposito are already in to find the room with the hotel staff.</content></utterance>
+<utterance uid="3-3"><speaker>CASTLE</speaker><content>So … he’s naked.</content></utterance>
+<utterance uid="3-4"><speaker>LANIE</speaker><content>Perceptive.</content></utterance>
+<utterance uid="3-5"><speaker>CASTLE</speaker><content>Well, it is pretty cold out. If this were a suicide, wouldn’t you rather be warm and toasty on your way down to your certain, yet citrusy death?</content></utterance>
+<utterance uid="3-6"><speaker>LANIE</speaker><content>If it were suicide would you really have these?  Fingernail marks, only an hour old?</content></utterance>
+<utterance uid="3-7"><speaker>BECKETT</speaker><content>Well, it looks like he did the deed before taking the dive.</content></utterance>
+<utterance uid="3-8"><speaker>CASTLE</speaker><content>Last item on your bucket list?</content></utterance>
+<utterance uid="3-9"><speaker>ESPOSITO</speaker><content>Yo. Two hotel clerks saw a white lady with long red hair hurrying out after birthday suit hit the fruit.</content></utterance>
+<utterance uid="3-10"><speaker>BECKETT</speaker><content>All right. See if you can get a better description from those clerks and let’s set up a canvass. We gotta find that woman.</content></utterance>
+<utterance uid="3-11"><speaker>LANIE</speaker><content>Antonio, could you refrigerate these samples in the van, please?</content></utterance>
+<utterance uid="3-12"><speaker>ESPOSITO</speaker><content>Is this the guy?</content></utterance>
+<utterance uid="3-13"><speaker>BECKETT</speaker><content>Huh?</content></utterance>
+<utterance uid="3-14"><speaker>ESPOSITO</speaker><content>Mr. Plus One.</content></utterance>
+<utterance uid="3-15"><speaker>RYAN</speaker><content>Hey Beckett! Found the room. Eighth floor!</content></utterance>
+<utterance uid="3-16"><speaker>BECKETT</speaker><content>Okay.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>CASTLE</speaker><content>Music to set the mood by?</content></utterance>
+<utterance uid="4-2"><speaker>BECKETT</speaker><content>Yeah. And then there’s the lipstick on the pillow.</content></utterance>
+<utterance uid="4-3"><speaker>CASTLE</speaker><content>Looks like Lanie was right about our victim getting lucky before he ran out of luck.</content></utterance>
+<utterance uid="4-4"><speaker>RYAN</speaker><content>So, our vic’s name is Michael Bailey.  28. Lives at West 93rd Street. And according to his business card, he’s a junior analyst at Global Twelve Consolidated in midtown.</content></utterance>
+<utterance uid="4-5"><speaker>BECKETT</speaker><content>Who booked the room?</content></utterance>
+<utterance uid="4-6"><speaker>RYAN</speaker><content>Booked under Jane Eyre, paid with cash, no credit card on file.</content></utterance>
+<utterance uid="4-7"><speaker>CASTLE</speaker><content>Suggests premeditation. She knew she was going to kill him, so she booked the room anonymously.</content></utterance>
+<utterance uid="4-8"><speaker>BECKETT</speaker><content>Yeah, but then why sleep with him? Why not just push him out the window?</content></utterance>
+<utterance uid="4-9"><speaker>CASTLE</speaker><content>Because. She’s a black widow.</content></utterance>
+<utterance uid="4-10"><speaker>CASTLE</speaker><content>Coldest hearted creature on Earth. She lures an unsuspecting male, takes him into her web, and then, the moment they culminate – as soon as he feels the ecstasy of achieving his biological destiny – she opens up her jaws and eats him alive.</content></utterance>
+<utterance uid="4-11"><speaker>RYAN</speaker><content>I’m glad I’m in a healthy relationship.</content></utterance>
+<utterance uid="4-12"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="4-13"><speaker>CASTLE</speaker><content>I bet male black widow spiders think they’re in healthy relationships, too.</content></utterance>
+<utterance uid="4-14"><speaker>BECKETT</speaker><content>Well, black widow or not, I think I figured out how we can find her.</content></utterance>
+<utterance uid="4-15"><speaker>BECKETT</speaker><content>Bingo.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>HOLLY FRANKLIN</speaker><content>Do you have any idea who I am? I’m a founding partner of Keller, Brawn and Franklin. I’m Franklin.</content></utterance>
+<utterance uid="5-2"><speaker>BECKETT</speaker><content>Okay, I don’t care about your law firm. A man fell to his death tonight and fingerprints confirm that you were at the crime scene.</content></utterance>
+<utterance uid="5-3"><speaker>HOLLY</speaker><content>No, I had nothing to do with it.</content></utterance>
+<utterance uid="5-4"><speaker>BECKETT</speaker><content>Okay, maybe you can tell me why people saw you fleeing the crime scene.</content></utterance>
+<utterance uid="5-5"><speaker>BECKETT</speaker><content>Ms. Franklin, evidence suggests that you and Michael –</content></utterance>
+<utterance uid="5-6"><speaker>HOLLY</speaker><content>Michael?</content></utterance>
+<utterance uid="5-7"><speaker>BECKETT</speaker><content>- Bailey were romantically involved.</content></utterance>
+<utterance uid="5-8"><speaker>HOLLY</speaker><content>Michael who?</content></utterance>
+<utterance uid="5-9"><speaker>BECKETT</speaker><content>This man.</content></utterance>
+<utterance uid="5-10"><speaker>HOLLY</speaker><content>No, that’s not Michael. That’s Jake. That’s Jake Hendricks.</content></utterance>
+<utterance uid="5-11"><speaker>BECKETT</speaker><content>No, that’s Michael Bailey.</content></utterance>
+<utterance uid="5-12"><speaker>HOLLY</speaker><content>I think I would know who I was sleeping with.</content></utterance>
+<utterance uid="5-13"><speaker>BECKETT</speaker><content>Well, apparently you don’t.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>ESPOSITO</speaker><content>You think I should pull her phone records?</content></utterance>
+<utterance uid="6-2"><speaker>RYAN</speaker><content>Nah, what’s the point? We already have her at the hotel with the victim.</content></utterance>
+<utterance uid="6-3"><speaker>ESPOSITO</speaker><content>Not her. Lanie.</content></utterance>
+<utterance uid="6-4"><speaker>RYAN</speaker><content>What?</content></utterance>
+<utterance uid="6-5"><speaker>ESPOSITO</speaker><content>I’m not going to go to your wedding without knowing who this guy is.</content></utterance>
+<utterance uid="6-6"><speaker>RYAN</speaker><content>Jenny has to find out for the place cards. I’ll get you his name.</content></utterance>
+<utterance uid="6-7"><speaker>ESPOSITO</speaker><content>Okay.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>HOLLY</speaker><content>Because he told me his name was Jake. Um, he said that he flies in from Chicago to make sales calls for his family business. He was really sweet. I didn’t kill him.  I was falling in love with him.</content></utterance>
+<utterance uid="7-2"><speaker>BECKETT</speaker><content>Well, he fell pretty hard, too. So how long were the two of you dating?</content></utterance>
+<utterance uid="7-3"><speaker>HOLLY</speaker><content>Uh, well we … we actually, uh, just met tonight, at um, Wilmer’s Bar at around 7.</content></utterance>
+<utterance uid="7-4"><speaker>BECKETT</speaker><content>Tonight? And you were already falling in love with him?</content></utterance>
+<utterance uid="7-5"><speaker>HOLLY</speaker><content>Look, I know – I know it sounds crazy, but it felt like one of those magical connections that you read about, you know? After we … you know… um, he started to get dizzy and sweaty, so he opened up a window to get some fresh air and he was leaning against the windowsill when suddenly … he just .. </content></utterance>
+<utterance uid="7-6"><speaker>BECKETT</speaker><content>Okay, so you’re saying that he fell out the window and your first instinct wasn’t to call 911 but to run away?</content></utterance>
+<utterance uid="7-7"><speaker>HOLLY</speaker><content>I knew how it would look. But I panicked and I made a really bad decision, but I swear, it was an accident.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>LANIE</speaker><content>It was not an accident.</content></utterance>
+<utterance uid="8-2"><speaker>CASTLE</speaker><content>You can tell he was pushed?</content></utterance>
+<utterance uid="8-3"><speaker>LANIE</speaker><content>I didn’t say he was pushed. Michael Bailey was poisoned with a lethal dose of colchicine. He was dead before he hit the fruit.</content></utterance>
+<utterance uid="8-4"><speaker>CASTLE</speaker><content>Colchicine? Isn’t that a drug for rheumatism?</content></utterance>
+<utterance uid="8-5"><speaker>LANIE</speaker><content>Yes. Which Bailey does not have. But he had fifty times the normal dosage in his system. I’m putting the time of ingestion between 4 and 6PM.</content></utterance>
+<utterance uid="8-6"><speaker>CASTLE</speaker><content>Which is 45 minutes before Holly said she met him at Wilmer’s Bar.</content></utterance>
+<utterance uid="8-7"><speaker>BECKETT</speaker><content>Any idea how that drug was delivered?</content></utterance>
+<utterance uid="8-8"><speaker>LANIE</speaker><content>It was in something he drank. I found lots of whey protein isolate in his stomach, along with chocolate.</content></utterance>
+<utterance uid="8-9"><speaker>CASTLE</speaker><content>So a chocolate protein shake.</content></utterance>
+<utterance uid="8-10"><speaker>LANIE</speaker><content>It’d be sweet enough to mask the taste of the drug.</content></utterance>
+<utterance uid="8-11"><speaker>CASTLE</speaker><content>Speaking of sweet, who’s your date for Ryan’s wedding?</content></utterance>
+<utterance uid="8-12"><speaker>CASTLE</speaker><content>Took a shot.</content></utterance>
+<utterance uid="8-13"><speaker>BECKETT</speaker><content>All right. Thanks, Lanie.</content></utterance>
+<utterance uid="8-14"><speaker>LANIE</speaker><content>One more thing. I ran a DNA test just to confirm that Superman here had sex before dying –</content></utterance>
+<utterance uid="8-15"><speaker>BECKETT</speaker><content>No, it’s okay. Our suspect –</content></utterance>
+<utterance uid="8-16"><speaker>LANIE</speaker><content>Let me finish. The test shows he had sex, all right. With two different women within hours of his death.</content></utterance>
+<utterance uid="8-17"><speaker>CASTLE</speaker><content>You dog.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>RYAN</speaker><content>Ms. Franklin, it – it seems that you weren’t the only woman that Mr. Bailey was, uh … with, in the hours prior to his death.</content></utterance>
+<utterance uid="9-2"><speaker>HOLLY</speaker><content>Um… what do you mean, with?</content></utterance>
+<utterance uid="9-3"><speaker>RYAN</speaker><content>Was there another woman in the hotel room with you?</content></utterance>
+<utterance uid="9-4"><speaker>HOLLY</speaker><content>I didn’t think this could get any more humiliating.</content></utterance>
+<utterance uid="9-5"><speaker>RYAN</speaker><content>Was that a yes?</content></utterance>
+<utterance uid="9-6"><speaker>HOLLY</speaker><content>No, Detective!</content></utterance>
+<utterance uid="9-7"><speaker>RYAN</speaker><content>Thank you. Oh, and you should know that our ME has been able to determine that Mr. Bailey was, uh … wearing a condom both times, so that’s …</content></utterance>
+<utterance uid="9-8"><speaker>HOLLY</speaker><content> That makes it all better.</content></utterance>
+<utterance uid="9-9"><speaker>HOLLY</speaker><content>Now I wish I pushed him!</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>RYAN</speaker><content>Hell hath no fury, all right, but I’m pretty sure she’s telling the truth.</content></utterance>
+<utterance uid="10-2"><speaker>BECKETT</speaker><content>Yeah, maybe. But let’s just confirm her alibi before releasing her.</content></utterance>
+<utterance uid="10-3"><speaker>CASTLE</speaker><content>In the meantime, we need to find out where Bailey was and who he was with between 4 and 6PM when he was poisoned.</content></utterance>
+<utterance uid="10-4"><speaker>BECKETT</speaker><content>Exactly. That is our kill zone.</content></utterance>
+<utterance uid="10-5"><speaker>ESPOSITO</speaker><content>Hey, so I can’t find any next of kin on the guy. Parents died years ago. There’s no siblings, no nothing.</content></utterance>
+<utterance uid="10-6"><speaker>ESPOSITO</speaker><content> You okay?</content></utterance>
+<utterance uid="10-7"><speaker>RYAN</speaker><content>Fine.</content></utterance>
+<utterance uid="10-8"><speaker>BECKETT</speaker><content>So then everything Bailey told Holly about himself was a lie.</content></utterance>
+<utterance uid="10-9"><speaker>CASTLE</speaker><content>Well, maybe that was his shtick. In from out of town, family guy, own business, that’s how he got women into bed.</content></utterance>
+<utterance uid="10-10"><speaker>RYAN</speaker><content>Whatever his reason for lying to Holly, I’m betting that our killer is whoever Bailey slept with earlier in the day. She got on to his philandering and got even.</content></utterance>
+<utterance uid="10-11"><speaker>BECKETT</speaker><content>All right. Go through his phone records. We’ve got to find that other woman.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>ALEXIS CASTLE</speaker><content>Good morning, Dad.</content></utterance>
+<utterance uid="11-2"><speaker>CASTLE</speaker><content>Good morning.</content></utterance>
+<utterance uid="11-3"><speaker>MARTHA RODGERS</speaker><content>Darling, where’s your credit card?</content></utterance>
+<utterance uid="11-4"><speaker>CASTLE</speaker><content>Oh, I liked "good morning" better.</content></utterance>
+<utterance uid="11-5"><speaker>CASTLE</speaker><content>Let me ask you two something. If you found out a man was cheating on you, how would you kill him?</content></utterance>
+<utterance uid="11-6"><speaker>MARTHA</speaker><content>Knife. To the heart.</content></utterance>
+<utterance uid="11-7"><speaker>CASTLE</speaker><content>All right, what if you don’t have the stomach for that?</content></utterance>
+<utterance uid="11-8"><speaker>ALEXIS</speaker><content>Shoot him. </content></utterance>
+<utterance uid="11-9"><speaker>CASTLE</speaker><content>You don’t have the stomach for that, either.</content></utterance>
+<utterance uid="11-10"><speaker>MARTHA</speaker><content>What is wrong with our stomachs?</content></utterance>
+<utterance uid="11-11"><speaker>ALEXIS</speaker><content>There’s always poison.</content></utterance>
+<utterance uid="11-12"><speaker>MARTHA</speaker><content>True. Watch him writhe. And suffer.</content></utterance>
+<utterance uid="11-13"><speaker>ALEXIS</speaker><content>Die like the rodent he is.</content></utterance>
+<utterance uid="11-14"><speaker>CASTLE</speaker><content>Wow. All these years writing about murderers, I had no idea I was living among them.</content></utterance>
+<utterance uid="11-15"><speaker>CASTLE</speaker><content>Speaking of murder, what’s the credit card for?</content></utterance>
+<utterance uid="11-16"><speaker>ALEXIS</speaker><content>Oh, we’re going shopping to pick out my dress to be your date at Ryan’s wedding.</content></utterance>
+<utterance uid="11-17"><speaker>CASTLE</speaker><content>What’s wrong with the ones you have?</content></utterance>
+<utterance uid="11-18"><speaker>MARTHA</speaker><content>Darling. Beauty does not happen by accident.</content></utterance>
+<utterance uid="11-19"><speaker>ALEXIS</speaker><content>That’s why when it goes unappreciated by cheating scum,  we want revenge.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>CASTLE</speaker><content>Even their hypothetical fury is unnerving. William Congreve had it right when he talked about scorned women.</content></utterance>
+<utterance uid="12-2"><speaker>BECKETT</speaker><content>Yeah well, you haven’t heard what I would do.</content></utterance>
+<utterance uid="12-3"><speaker>CASTLE</speaker><content>Yeah, I don’t think I ever want to know.</content></utterance>
+<utterance uid="12-4"><speaker>BECKETT</speaker><content>Hey guys. Any luck tracking down Bailey’s other woman?</content></utterance>
+<utterance uid="12-5"><speaker>RYAN</speaker><content>Uh …</content></utterance>
+<utterance uid="12-6"><speaker>ESPOSITO</speaker><content>A lot of luck.</content></utterance>
+<utterance uid="12-7"><speaker>CASTLE</speaker><content>It’s like the beginning of The Bachelor but without the appletinis.</content></utterance>
+<utterance uid="12-8"><speaker>BECKETT</speaker><content>Bailey was involved with all of them?</content></utterance>
+<utterance uid="12-9"><speaker>RYAN</speaker><content>Uh, yeah. And each of them thought that they were his one and only.</content></utterance>
+<utterance uid="12-10"><speaker>CASTLE</speaker><content>That’s a lot of scorned women. And a lot of fury.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>CASTLE</speaker><content>Yeah, yeah … I don’t get it. How does an average looking guy with a dime a dozen analyst job end up dating all of these gorgeous women?</content></utterance>
+<utterance uid="13-2"><speaker>BECKETT</speaker><content>By lying to them.</content></utterance>
+<utterance uid="13-3"><speaker>ESPOSITO</speaker><content>Actually, he wasn’t lying to these women. At least not about who he was anyway. They all knew him by his real name.</content></utterance>
+<utterance uid="13-4"><speaker>CASTLE</speaker><content>Then why would he tell Holly he’s Jake from Chicago?</content></utterance>
+<utterance uid="13-5"><speaker>BECKETT</speaker><content>Was Bailey with any of those women between 4 and 6 yesterday?</content></utterance>
+<utterance uid="13-6"><speaker>ESPOSITO</speaker><content>So far, no. But they all deny knowing that he was even in the city. A month ago he told every one of them he was going to Europe for 6 weeks.</content></utterance>
+<utterance uid="13-7"><speaker>CASTLE</speaker><content>A month ago? So why’d he come back early?</content></utterance>
+<utterance uid="13-8"><speaker>ESPOSITO</speaker><content>He never went. And as far as I can tell from his credit card use, he never even left New York.</content></utterance>
+<utterance uid="13-9"><speaker>BECKETT</speaker><content>So why tell them that he was leaving? I mean, was that just a cowardly way of breaking up with them?</content></utterance>
+<utterance uid="13-10"><speaker>ESPOSITO</speaker><content>I think there’s something else going on. I called the personnel department at Global Twelve Consolidated and they said he’s been on a leave of absence for the last month.</content></utterance>
+<utterance uid="13-11"><speaker>CASTLE</speaker><content>That’s a big month. Taking a leave from work and your girlfriends.</content></utterance>
+<utterance uid="13-12"><speaker>RYAN</speaker><content>And his apartment.</content></utterance>
+<utterance uid="13-13"><speaker>RYAN</speaker><content>Doorman at Bailey’s building said that for the past month he’s only spent a couple nights a week there.</content></utterance>
+<utterance uid="13-14"><speaker>ESPOSITO</speaker><content>The past month?</content></utterance>
+<utterance uid="13-15"><speaker>RYAN</speaker><content>Yeah. He wasn’t there at all yesterday, so it’s not where he was poisoned. And I looked in his dresser and I found this.  Illinois driver’s license.</content></utterance>
+<utterance uid="13-16"><speaker>BECKETT</speaker><content>Jake Hendricks, Chicago. That’s the name that he gave Holly.</content></utterance>
+<utterance uid="13-17"><speaker>CASTLE</speaker><content>So he is Jake Hendricks?</content></utterance>
+<utterance uid="13-18"><speaker>RYAN</speaker><content>No, he’s Mike Bailey. That’s a fake.</content></utterance>
+<utterance uid="13-19"><speaker>CASTLE</speaker><content>He did not buy this on some street corner. This is government grade.</content></utterance>
+<utterance uid="13-20"><speaker>RYAN</speaker><content>Yeah, right down to the security hologram. It’s like he was living undercover. And, I found this.</content></utterance>
+<utterance uid="13-21"><speaker>ESPOSITO</speaker><content>That’s a lot of cake.</content></utterance>
+<utterance uid="13-22"><speaker>RYAN</speaker><content>Why do you have to call it cake? It’s – it’s money. It’s a lot of money. It’s about $60 grand.</content></utterance>
+<utterance uid="13-23"><speaker>BECKETT</speaker><content>Cash … fake ID… what the hell was Bailey in to?</content></utterance>
+<utterance uid="13-24"><speaker>CASTLE</speaker><content>Something bigger than just lying about who he was just to get laid.  Jake Hendricks has fake web search hits. Lives in Chicago. Works for the family business.</content></utterance>
+<utterance uid="13-25"><speaker>ESPOSITO</speaker><content>Just like he told Holly Franklin.</content></utterance>
+<utterance uid="13-26"><speaker>CASTLE</speaker><content>Mmhmm. Family business has a fake website.</content></utterance>
+<utterance uid="13-27"><speaker>BECKETT</speaker><content>That’s a pretty deep cover.</content></utterance>
+<utterance uid="13-28"><speaker>CASTLE</speaker><content>Yeah. Our Don Juan is starting to look more like Jason Bourne.</content></utterance>
+<utterance uid="13-29"><speaker>BECKETT</speaker><content>All right. You guys get a hold of FBI and CIA and any other intelligence agencies. See if he’s one of theirs. C’mon Castle, let’s talk to Bailey’s boss at Global Twelve Consolidated. Find out why our vic took that leave of absence.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>HARRIS</speaker><content>You guys mind if we take a few minutes?</content></utterance>
+<utterance uid="14-2"><speaker>RON HILL</speaker><content>No problem. We’re still working up the financing terms on subordinated debt anyway.</content></utterance>
+<utterance uid="14-3"><speaker>AMY KEMP</speaker><content>Sure. It’s not like these negotiations are going anywhere.</content></utterance>
+<utterance uid="14-4"><speaker>HARRIS</speaker><content>Mike was a junior analyst in our acquisition department. He was a good kid. Bright future.</content></utterance>
+<utterance uid="14-5"><speaker>BECKETT</speaker><content>I understand that he took a leave of absence a month ago. Did he give you a reason why?</content></utterance>
+<utterance uid="14-6"><speaker>HARRIS</speaker><content>Personal issues. He didn’t say why, but I could tell it was serious.</content></utterance>
+<utterance uid="14-7"><speaker>CASTLE</speaker><content>So you have no idea why he would have a fake ID and $60 thousand cash?</content></utterance>
+<utterance uid="14-8"><speaker>HARRIS</speaker><content> No. But maybe it had something to do with that woman that tried to break into his office yesterday.</content></utterance>
+<utterance uid="14-9"><speaker>BECKETT</speaker><content>Who was that?</content></utterance>
+<utterance uid="14-10"><speaker>HARRIS</speaker><content>I don’t know. She was gone before security got there.</content></utterance>
+<utterance uid="14-11"><speaker>BECKETT</speaker><content>And who reported it?</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>AMY</speaker><content>I had stepped out of negotiations to go to the restroom and in the hallway I noticed a woman was trying to pick an office door lock using a wrench and an opened up paperclip. I assumed she had just locked herself out of her office and joked that a key would work better. Well, she was startled and shoved me over and made a dash for the stairwell.</content></utterance>
+<utterance uid="15-2"><speaker>BECKETT</speaker><content>Did you get a good look at her?</content></utterance>
+<utterance uid="15-3"><speaker>AMY</speaker><content>Yeah. And I told security. She was exotic, 30-ish, dark wavy hair. She had on an overcoat but it was open and she was wearing a pin with the Star of David on it. I’m pretty sure it’s the insignia from El Al Airlines.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>ESPOSITO</speaker><content>Name’s Colette Roth. She’s 27. She’s been an El Al flight attendant for three years making the Tel Aviv – JFK run twice a week.</content></utterance>
+<utterance uid="16-2"><speaker>RYAN</speaker><content>Intel agencies used to use flight attendants as spies, didn’t they?</content></utterance>
+<utterance uid="16-3"><speaker>ESPOSITO</speaker><content>Yeah. And get this. She’s former Israeli military.</content></utterance>
+<utterance uid="16-4"><speaker>RYAN</speaker><content>Mossad is famous for poisoning.</content></utterance>
+<utterance uid="16-5"><speaker>ESPOSITO</speaker><content>Yeah, big time. Castle might not be that far off with his Jason Bourne theory.</content></utterance>
+<utterance uid="16-6"><speaker>ESPOSITO</speaker><content>Uniforms are tracking her down now.</content></utterance>
+<utterance uid="16-7"><speaker>RYAN</speaker><content>Ah … Jenny just texted me Lanie’s plus one. Name is Toby Lang.</content></utterance>
+<utterance uid="16-8"><speaker>ESPOSITO</speaker><content>What? Toby Lang. All right. Let’s check this punk out.</content></utterance>
+<utterance uid="16-9"><speaker>ESPOSITO</speaker><content>Doctor Toby Lang? Guy’s the chief administrator at Saint Samuel’s Hospital. Big job.</content></utterance>
+<utterance uid="16-10"><speaker>RYAN</speaker><content>Lanie did her residency there, didn’t she?</content></utterance>
+<utterance uid="16-11"><speaker>ESPOSITO</speaker><content>Yeah.</content></utterance>
+<utterance uid="16-12"><speaker>RYAN</speaker><content>Good looking guy.</content></utterance>
+<utterance uid="16-13"><speaker>ESPOSITO</speaker><content>Played college hoops at Kentucky, ground breaking cancer researcher … are you kidding me? Put me down for plus one.</content></utterance>
+<utterance uid="16-14"><speaker>RYAN</speaker><content>Jenny already did the tables.</content></utterance>
+<utterance uid="16-15"><speaker>RYAN</speaker><content>What about her sorority sisters?</content></utterance>
+<utterance uid="16-16"><speaker>ESPOSITO</speaker><content>Dude. I’m not showing up solo when she’s bringing Captain America over here.</content></utterance>
+<utterance uid="16-17"><speaker>RYAN</speaker><content>Okay. I’ll talk to Jenny. But her mom is going to need a name for that place card.</content></utterance>
+<utterance uid="16-18"><speaker>ESPOSITO</speaker><content>Esposito.  Copy that.  Colette Roth just checked in for a flight at JFK. Unis are picking her up now.</content></utterance>
+<utterance uid="16-19"><speaker>RYAN</speaker><content>All right.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>COLETTE ROTH</speaker><content>I am not a spy. I’m a flight attendant.</content></utterance>
+<utterance uid="17-2"><speaker>BECKETT</speaker><content>Well then, maybe you can explain your relationship with Michael Bailey.</content></utterance>
+<utterance uid="17-3"><speaker>COLETTE</speaker><content>We were soul mates.</content></utterance>
+<utterance uid="17-4"><speaker>CASTLE</speaker><content>Well, then. I’m sure you’ll be able to tell us where the two of you were yesterday between the hours of 4 and 6PM.</content></utterance>
+<utterance uid="17-5"><speaker>COLETTE</speaker><content>I was outside his apartment waiting for him. But he never came.</content></utterance>
+<utterance uid="17-6"><speaker>BECKETT</speaker><content>You had a very busy day yesterday. You were seen trying to break into his office just hours before that.</content></utterance>
+<utterance uid="17-7"><speaker>COLETTE</speaker><content>I was hoping to find some sort of clue. Something that might lead me to his enemies.</content></utterance>
+<utterance uid="17-8"><speaker>CASTLE</speaker><content>His enemies?</content></utterance>
+<utterance uid="17-9"><speaker>COLETTE</speaker><content>Michael was a hunted man.</content></utterance>
+<utterance uid="17-10"><speaker>BECKETT</speaker><content>Hunted? By who?</content></utterance>
+<utterance uid="17-11"><speaker>COLETTE</speaker><content>I don’t know. I just know he was in trouble. Four weeks ago, he said he was going to Europe, but I kept seeing him in the city. And he kept pretending not to notice me. So I staked out his apartment.</content></utterance>
+<utterance uid="17-12"><speaker>CASTLE</speaker><content>So you stalked him?</content></utterance>
+<utterance uid="17-13"><speaker>COLETTE</speaker><content>Staked, stalked … what’s the difference? I was looking out for him. But he wasn’t coming home. Then a few days ago I finally confronted him. He said he couldn’t talk, but he told me to meet him the next day and he’d explain everything.</content></utterance>
+<utterance uid="17-14"><speaker>BECKETT</speaker><content>Let me guess. That was the last time that you saw him?</content></utterance>
+<utterance uid="17-15"><speaker>COLETTE</speaker><content>No. We met the next day. But before he could tell me what was going on, this car came out of nowhere and they were on us.</content></utterance>
+<utterance uid="17-16"><speaker>CASTLE</speaker><content>Who?</content></utterance>
+<utterance uid="17-17"><speaker>COLETTE</speaker><content>Ruffians. In ski masks. They grabbed him and threw him in the back. I fought with all of my strength, but it was in vain.</content></utterance>
+<utterance uid="17-18"><speaker>BECKETT</speaker><content> Bet you did.</content></utterance>
+<utterance uid="17-19"><speaker>CASTLE</speaker><content>Did you report this?</content></utterance>
+<utterance uid="17-20"><speaker>COLETTE</speaker><content>No. They said they’d kill him if I did. That’s why I was trying to find him the next day. To see if they’d let him go. But they killed him. The ruffians killed him.</content></utterance>
+<utterance uid="17-21"><speaker>BECKETT</speaker><content>Mmhmm. And where did this all happen?</content></utterance>
+<utterance uid="17-22"><speaker>COLETTE</speaker><content>On the street. For all to see.</content></utterance>
+<utterance uid="17-23"><speaker>BECKETT</speaker><content>Okay.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>RYAN</speaker><content>Corner of Washington and Greenwich. ATM cam. This is where Colette said the abduction went down, but I’ve been over it and there’s nothing.</content></utterance>
+<utterance uid="18-2"><speaker>BECKETT</speaker><content>All right. Unless you guys are enjoying the Warhol-esque quality of this, we can just shut it down. I’m going to go check on Esposito, see where he’s at with Colette’s alibi.</content></utterance>
+<utterance uid="18-3"><speaker>CASTLE</speaker><content>Wait … there’s Bailey.</content></utterance>
+<utterance uid="18-4"><speaker>RYAN</speaker><content>And here comes Colette.</content></utterance>
+<utterance uid="18-5"><speaker>BECKETT</speaker><content>Seriously?</content></utterance>
+<utterance uid="18-6"><speaker>CASTLE</speaker><content>Whoa. Ruffians in ski masks.</content></utterance>
+<utterance uid="18-7"><speaker>BECKETT</speaker><content>You’ve gotta be kidding me.</content></utterance>
+<utterance uid="18-8"><speaker>RYAN</speaker><content>Oh! Looks like Colette just broke that ruffian’s nose.</content></utterance>
+<utterance uid="18-9"><speaker>CASTLE</speaker><content>Fake ID, bricks of cash, brazen abduction.  He really was Jason Bourne!</content></utterance>
+<utterance uid="18-10"><speaker>BECKETT</speaker><content>You’ve gotta be kidding me.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>CASTLE</speaker><content>Can’t you see it? Bailey is in covert ops. They placed him at a giant multinational company – Global Twelve Consolidated – as a cover. Then, a month ago  they activate him. They give him an alias. You know, a backstory. They give him unlimited walking around money. And then, somehow, the enemy gets to him. They grab him off the streets. He manages to escape so they exploit his Achilles heel. His love of beautiful women. They send in a super sexy secret agent. She seduces him. And then kills him by feeding him a poisoned protein shake.</content></utterance>
+<utterance uid="19-2"><speaker>BECKETT</speaker><content>I can’t think of anything better.</content></utterance>
+<utterance uid="19-3"><speaker>BECKETT</speaker><content>Beckett.  Really? Okay. Thank you.</content></utterance>
+<utterance uid="19-4"><speaker>BECKETT</speaker><content>The CIA, the FBI, and the DHS have never heard of Bailey or his alias.</content></utterance>
+<utterance uid="19-5"><speaker>CASTLE</speaker><content>Do you really think they’d tell you if they did?</content></utterance>
+<utterance uid="19-6"><speaker>RYAN</speaker><content>Hey. Tech just got the plate number off the kidnapper’s car.</content></utterance>
+<utterance uid="19-7"><speaker>BECKETT</speaker><content>I thought that the plates weren’t visible on the ATM footage?</content></utterance>
+<utterance uid="19-8"><speaker>RYAN</speaker><content>Ah… they weren’t. But I found a traffic cam up the block where they were. Car is registered to a Pablo Barnes, 28, insurance salesman.</content></utterance>
+<utterance uid="19-9"><speaker>CASTLE</speaker><content> That’s probably a cover, too.</content></utterance>
+<utterance uid="19-10"><speaker>BECKETT</speaker><content> Did you get an address?</content></utterance>
+<utterance uid="19-11"><speaker>RYAN</speaker><content>Sure did.</content></utterance>
+<utterance uid="19-12"><speaker>BECKETT</speaker><content>All right. Let’s go.  Where’s Espo?</content></utterance>
+<utterance uid="19-13"><speaker>RYAN</speaker><content>In the break room, trying to score his plus one.</content></utterance>
+<utterance uid="19-14"><speaker>BECKETT</speaker><content>Espo, let’s go!</content></utterance>
+<utterance uid="19-15"><speaker>ESPOSITO</speaker><content>Sorry … I gotta go!</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>ESPOSITO</speaker><content>I was this close to getting my plus one.</content></utterance>
+<utterance uid="20-2"><speaker>CASTLE</speaker><content>Hey, relax man. It happens to a lot of guys. Get a little excited, lose control of your steamer.</content></utterance>
+<utterance uid="20-3"><speaker>RYAN</speaker><content>NYPD, let me see your hands!</content></utterance>
+<utterance uid="20-4"><speaker>BECKETT</speaker><content>NYPD!</content></utterance>
+<utterance uid="20-5"><speaker>ESPOSITO</speaker><content>Don’t move!</content></utterance>
+<utterance uid="20-6"><speaker>WOMAN</speaker><content>What the hell, Pablo?</content></utterance>
+<utterance uid="20-7"><speaker>BECKETT</speaker><content>Pablo Barnes?</content></utterance>
+<utterance uid="20-8"><speaker>PABLO</speaker><content>Yeah, yeah, yeah. Please don’t shoot.</content></utterance>
+<utterance uid="20-9"><speaker>MAX LANDON</speaker><content>I don’t know what you’re doing here, but we didn’t do anything.</content></utterance>
+<utterance uid="20-10"><speaker>RYAN</speaker><content> Broken nose. Other masked man.</content></utterance>
+<utterance uid="20-11"><speaker>BECKETT</speaker><content>Espo, get him, too.</content></utterance>
+<utterance uid="20-12"><speaker>ESPOSITO</speaker><content>Turn around!</content></utterance>
+<utterance uid="20-13"><speaker>MAX</speaker><content>Seriously, I don’t know why – you guys have the wrong people.</content></utterance>
+<utterance uid="20-14"><speaker>MAX</speaker><content>Does it have to be that tight? It’s very tight. Ow.</content></utterance>
+<utterance uid="20-15"><speaker>CASTLE</speaker><content>Hey. "Bolero." Just like in the hotel.</content></utterance>
+<utterance uid="20-16"><speaker>PABLO</speaker><content> See? I told you we were badass.  Ah!</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>BECKETT</speaker><content>That’s your car, Pablo. What were you and Bailey up to and why did you kill him?</content></utterance>
+<utterance uid="21-2"><speaker>PABLO</speaker><content>Wait … are you telling me Mike’s dead?</content></utterance>
+<utterance uid="21-3"><speaker>BECKETT</speaker><content>Cut the act, Pablo. We know you kidnapped him two days ago. Why?</content></utterance>
+<utterance uid="21-4"><speaker>PABLO</speaker><content>No, no, no, no. It’s not what you it looks like. It’s an exstalktion.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>ESPOSITO</speaker><content>Exstalk-a what?</content></utterance>
+<utterance uid="22-2"><speaker>MAX</speaker><content>Mike's our buddy. He got involved with this crazy stalker chick. Colette something. So we staged an abduction to scare her off. We call it an exstalktion.</content></utterance>
+<utterance uid="22-3"><speaker>RYAN</speaker><content>Are you saying Bailey was in on it?</content></utterance>
+<utterance uid="22-4"><speaker>MAX</speaker><content>Yeah. The three of us are a crew.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>BECKETT</speaker><content>What kind of crew?</content></utterance>
+<utterance uid="23-2"><speaker>CASTLE</speaker><content>Special forces? Private military contractors.</content></utterance>
+<utterance uid="23-3"><speaker>PABLO</speaker><content>We’re pickup artists.</content></utterance>
+<utterance uid="23-4"><speaker>CASTLE</speaker><content>As in … picking up women?</content></utterance>
+<utterance uid="23-5"><speaker>PABLO</speaker><content>Mmhmm.</content></utterance>
+<utterance uid="23-6"><speaker>BECKETT</speaker><content>You?</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>MAX</speaker><content>We dedicate our lives to picking up as many hot women as possible.</content></utterance>
+<utterance uid="24-2"><speaker>RYAN</speaker><content> That would explain all of Bailey’s women.</content></utterance>
+<utterance uid="24-3"><speaker>ESPOSITO</speaker><content>Those girls at the apartment were pretty hot.</content></utterance>
+<utterance uid="24-4"><speaker>MAX</speaker><content>Yeah.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>CASTLE</speaker><content>That music that was playing. Is that part of your seduction strategy?</content></utterance>
+<utterance uid="25-2"><speaker>PABLO</speaker><content>Oh, yeah.  "Bolero" increases the chances of closing the deal by 12%.</content></utterance>
+<utterance uid="25-3"><speaker>BECKETT</speaker><content>Okay, assuming you are telling the truth, you were with Mike the night before he was killed. Did he tell you what he was up to?</content></utterance>
+<utterance uid="25-4"><speaker>PABLO</speaker><content>Nah. He was being all secretive. I mean, he stopped hanging out with us like, a month ago?</content></utterance>
+<utterance uid="25-5"><speaker>CASTLE</speaker><content>Really? A month?</content></utterance>
+<utterance uid="25-6"><speaker>PABLO</speaker><content>Yeah. When he called about the exstalktion a couple days ago, that’s the first time we’ve heard from him since then.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>MAX</speaker><content>So when he said he was going out after the exstalktion, naturally we followed him.</content></utterance>
+<utterance uid="26-2"><speaker>ESPOSITO</speaker><content>Where’d he go?</content></utterance>
+<utterance uid="26-3"><speaker>MAX</speaker><content>He went to this totally lame bar. The Magic Bottle. I mean, not target rich at all.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>PABLO</speaker><content>And when he found us there, he kind of freaked. But he agreed to let us stay and be his wingmen, but only if we referred to him as Jake. Like he was undercover.</content></utterance>
+<utterance uid="27-2"><speaker>CASTLE</speaker><content>Jake. That’s the same identity he gave to Holly Franklin the next day.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>MAX</speaker><content>So we do our usual couple laps of recon. There’s actually some pretty decent MILFs. And I think Mike’s just expanding his palate, right?</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>PABLO</speaker><content>But he wasn’t interested in any of them.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>MAX</speaker><content>No. Instead he finds this one mark, like ugh, nothing special, and plants his flag.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>PABLO</speaker><content>Then I see that she’s got a ring on her finger. She’s a married chick. We stay away from married chicks.</content></utterance>
+<utterance uid="31-2"><speaker>BECKETT</speaker><content> ‘Cause you’re so ethical.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>MAX</speaker><content>No. They’re just trouble. But he doesn’t care. He’s all in on her.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>CASTLE</speaker><content>So you think he went to this bar for this particular woman. Like he was targeting her?</content></utterance>
+<utterance uid="33-2"><speaker>PABLO</speaker><content>Exactly.</content></utterance>
+<utterance uid="33-3"><speaker>BECKETT</speaker><content>Did he say why?</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>MAX</speaker><content>No. But he was working her like his life depended on it. I mean, it was like he was on a mission.</content></utterance>
+<utterance uid="34-2"><speaker>RYAN</speaker><content>Did she go for him?</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>PABLO</speaker><content>Nah, total red light. Gate’s down, train’s coming, time to move on. But not Mike. Not on this night.</content></utterance>
+<utterance uid="35-2"><speaker>CASTLE</speaker><content>So what’d he do?</content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>MAX</speaker><content>He counters with some authorizing.</content></utterance>
+<utterance uid="36-2"><speaker>ESPOSITO</speaker><content>Authorizing, huh?</content></utterance>
+<utterance uid="36-3"><speaker>MAX</speaker><content>Make it seem like the last thing on his mind is hooking up. Nah. He just finds her interesting and wants to talk.</content></utterance>
+</scene>
+<scene id="37"><utterance uid="37-1"><speaker>PABLO</speaker><content>But she doesn’t bite. So he tries an m-swig. Tells her he knows this girl is cheating on his friend. Should he tell his friend?</content></utterance>
+</scene>
+<scene id="38"><utterance uid="38-1"><speaker>MAX</speaker><content>‘Cause women love to give advice. But she’s still giving him the Heisman, so he tries a butter job.</content></utterance>
+<utterance uid="38-2"><speaker>ESPOSITO</speaker><content>A butter job, what’s that?</content></utterance>
+<utterance uid="38-3"><speaker>MAX</speaker><content>It’s when you flirt with the mark’s friend.</content></utterance>
+</scene>
+<scene id="39"><utterance uid="39-1"><speaker>PABLO</speaker><content>And that’s when he started getting traction. Immediately follows with a yank-and-chain reversal, sees he’s got her on the hook –</content></utterance>
+</scene>
+<scene id="40"><utterance uid="40-1"><speaker>MAX</speaker><content>So he goes right for the Bailey ultimatum. Boom! Signature move. Says he has to leave, forcing the mark to make a quick decision whether to go with you or not.</content></utterance>
+</scene>
+<scene id="41"><utterance uid="41-1"><speaker>CASTLE</speaker><content>And what did she do?</content></utterance>
+<utterance uid="41-2"><speaker>PABLO</speaker><content>Next thing you know, two of them are walking on their way out of there.  You know, you have some beautiful eyes.</content></utterance>
+<utterance uid="41-3"><speaker>BECKETT</speaker><content>Seriously?</content></utterance>
+<utterance uid="41-4"><speaker>PABLO</speaker><content>What? It’s a numbers game. I strike out 90% of the time.</content></utterance>
+<utterance uid="41-5"><speaker>BECKETT</speaker><content>Thus restoring my faith in my gender. So, this mark that he was working. Does she have a name?</content></utterance>
+<utterance uid="41-6"><speaker>PABLO</speaker><content>Lisa. The greatest pickup I have ever seen. It’s a damn shame that she’ll never make it into Mike’s ledger.</content></utterance>
+<utterance uid="41-7"><speaker>BECKETT</speaker><content>What ledger?</content></utterance>
+</scene>
+<scene id="42"><utterance uid="42-1"><speaker>CASTLE</speaker><content>It’s literally hundreds of women that Bailey slept with.</content></utterance>
+<utterance uid="42-2"><speaker>BECKETT</speaker><content>Or so he claims.</content></utterance>
+<utterance uid="42-3"><speaker>ESPOSITO</speaker><content>Seems legit to me. Most of these shots are pretty racy.</content></utterance>
+<utterance uid="42-4"><speaker>CASTLE</speaker><content>All with nicknames and dates. June 9th, 2010. Carnal Carrie. June 12th, 2010. Mesmerizing Marjan.</content></utterance>
+<utterance uid="42-5"><speaker>CASTLE</speaker><content>Whoa.</content></utterance>
+<utterance uid="42-6"><speaker>ESPOSITO</speaker><content>Sorry.</content></utterance>
+<utterance uid="42-7"><speaker>BECKETT</speaker><content>Is there a Lisa in there from two days ago?</content></utterance>
+<utterance uid="42-8"><speaker>CASTLE</speaker><content>Uh, no. The last entry was over a month ago, so Pablo was right. She didn’t make it in.</content></utterance>
+<utterance uid="42-9"><speaker>BECKETT</speaker><content> We’ve gotta find Lisa. She could be our other woman.</content></utterance>
+<utterance uid="42-10"><speaker>RYAN</speaker><content>Hey. So our friends Max and Pablo just alibied out. They were both at work when Mike was poisoned.</content></utterance>
+<utterance uid="42-11"><speaker>CASTLE</speaker><content>Limber Lucy. And boy is she ever.</content></utterance>
+<utterance uid="42-12"><speaker>ESPOSITO</speaker><content>I don’t know what this dude Bailey was in to, but whatever it was he had it going on.</content></utterance>
+<utterance uid="42-13"><speaker>RYAN</speaker><content>Really? This impresses you? These women are pathetic for falling for this guy and Bailey? Bailey was just a con man and a liar.</content></utterance>
+<utterance uid="42-14"><speaker>BECKETT</speaker><content>Thank you. At least there is one real man amongst us. Ryan, why don’t you take The Situation down to The Magic Bottle and see if we can get an ID on Lisa. And find out why Bailey might have been targeting her.</content></utterance>
+<utterance uid="42-15"><speaker>CASTLE</speaker><content>Beckett, when exactly did Ryan and Jenny start dating?</content></utterance>
+<utterance uid="42-16"><speaker>BECKETT</speaker><content>Mmm… I think it was around 2009. She got him that ugly tie for their two week anniversary, so like … Easter, April.</content></utterance>
+<utterance uid="42-17"><speaker>CASTLE</speaker><content>Meaning by May 2009 they’d been dating a month?</content></utterance>
+<utterance uid="42-18"><speaker>BECKETT</speaker><content>Yeah. Why?</content></utterance>
+<utterance uid="42-19"><speaker>CASTLE</speaker><content>Bailey’s May 20th, 2009 entry.</content></utterance>
+<utterance uid="42-20"><speaker>BECKETT</speaker><content>Oh my gosh, that’s Jenny.</content></utterance>
+<utterance uid="42-21"><speaker>CASTLE</speaker><content> Not just Jenny. Gyrating Jenny.</content></utterance>
+</scene>
+<scene id="43"><utterance uid="43-1"><speaker>BARTENDER</speaker><content>Yeah, I recognize him. In here with a couple of friends two nights ago.</content></utterance>
+<utterance uid="43-2"><speaker>RYAN</speaker><content>Those friends told us he left with a woman, Lisa. Do you know her?</content></utterance>
+<utterance uid="43-3"><speaker>BARTENDER</speaker><content>Yeah. She’s a regular.</content></utterance>
+<utterance uid="43-4"><speaker>ESPOSITO</speaker><content>Does she have a last name?</content></utterance>
+<utterance uid="43-5"><speaker>BARTENDER</speaker><content>Give me a sec.</content></utterance>
+<utterance uid="43-6"><speaker>ESPOSITO</speaker><content>I think I like this place, partner.</content></utterance>
+<utterance uid="43-7"><speaker>RYAN</speaker><content>Dude, you’re a cop. This is a midtown bar. Women here are looking for lawyers and bankers.</content></utterance>
+<utterance uid="43-8"><speaker>ESPOSITO</speaker><content>I bank.</content></utterance>
+<utterance uid="43-9"><speaker>RYAN</speaker><content>Well, you are on your own. I’m getting married on Sunday.</content></utterance>
+<utterance uid="43-10"><speaker>ESPOSITO</speaker><content>Exactly. So this is your last chance to be my wingman. Help me get a plus one. I’m going to try an m-swig.</content></utterance>
+<utterance uid="43-11"><speaker>RYAN</speaker><content>Dude, you can’t be serious.</content></utterance>
+<utterance uid="43-12"><speaker>ESPOSITO</speaker><content>What are you thinking? Butter job?</content></utterance>
+<utterance uid="43-13"><speaker>BARTENDER</speaker><content>I checked credit card slips from the other night. Her name’s Lisa Hill.</content></utterance>
+<utterance uid="43-14"><speaker>RYAN</speaker><content>Lisa Hill.</content></utterance>
+</scene>
+<scene id="44"><utterance uid="44-1"><speaker>BECKETT</speaker><content>So not only is Lisa Hill married, she is also an heiress. Daughter to Stephanie Dashby.</content></utterance>
+<utterance uid="44-2"><speaker>CASTLE</speaker><content>Of Dashby Publishing?</content></utterance>
+<utterance uid="44-3"><speaker>BECKETT</speaker><content>Which puts her in Forbes Top 400.</content></utterance>
+<utterance uid="44-4"><speaker>CASTLE</speaker><content>Bailey was hunting big game. He knew he couldn’t close the deal as a junior analyst, that’s why he used the alias with her. The same way he used it with big shot lawyer Holly Franklin.</content></utterance>
+<utterance uid="44-5"><speaker>BECKETT</speaker><content>Yeah well, according to her maid, Lisa Hill packed up and left her apartment for her house in Montauk at 6:30PM.</content></utterance>
+<utterance uid="44-6"><speaker>CASTLE</speaker><content>Half an hour after our kill zone.</content></utterance>
+<utterance uid="44-7"><speaker>BECKETT</speaker><content>Plus she also had easy access to our poison. Her sister owns a drug company that manufactures it.</content></utterance>
+<utterance uid="44-8"><speaker>CASTLE</speaker><content>This is about the money. Bailey only used the Jake identity with Holly and Lisa. They’re both rich.</content></utterance>
+<utterance uid="44-9"><speaker>BECKETT</speaker><content>So what are you thinking? An extortion plot?</content></utterance>
+<utterance uid="44-10"><speaker>CASTLE</speaker><content>Bricks of cash probably from previous successes.</content></utterance>
+<utterance uid="44-11"><speaker>BECKETT</speaker><content>He targets wealthy women, tries to put them in compromising situations …</content></utterance>
+<utterance uid="44-12"><speaker>CASTLE</speaker><content>And then makes them pay their way out.</content></utterance>
+<utterance uid="44-13"><speaker>BECKETT</speaker><content>Except Lisa Hill wouldn’t pay.</content></utterance>
+<utterance uid="44-14"><speaker>CASTLE</speaker><content>We need to get her in here.</content></utterance>
+<utterance uid="44-15"><speaker>BECKETT</speaker><content>And we will. First thing in the morning.</content></utterance>
+<utterance uid="44-16"><speaker>CASTLE</speaker><content>So. What are we going to do?</content></utterance>
+<utterance uid="44-17"><speaker>BECKETT</speaker><content>About what?</content></utterance>
+<utterance uid="44-18"><speaker>CASTLE</speaker><content>Well, we have to tell Ryan about Jenny.</content></utterance>
+<utterance uid="44-19"><speaker>BECKETT</speaker><content>What? Why? Castle, if we were getting married would you want to know about all the guys that I’ve slept with?</content></utterance>
+<utterance uid="44-20"><speaker>CASTLE</speaker><content>All?</content></utterance>
+<utterance uid="44-21"><speaker>BECKETT</speaker><content>Seriously? You sign women’s chests at book readings. You cannot be shocked that I’m not a virgin.</content></utterance>
+<utterance uid="44-22"><speaker>CASTLE</speaker><content>I – it’s just the word –all- suggests a lot. How many are we talking … exactly?</content></utterance>
+<utterance uid="44-23"><speaker>BECKETT</speaker><content>Are you really asking for my number?</content></utterance>
+<utterance uid="44-24"><speaker>CASTLE</speaker><content>You show me yours, I’ll show you mine.</content></utterance>
+<utterance uid="44-25"><speaker>BECKETT</speaker><content>Men. You all want to know, but you don’t want to know.</content></utterance>
+<utterance uid="44-26"><speaker>BECKETT</speaker><content>Listen, every woman has her secrets, including Jenny. And sometimes, for the sake of a relationship, it is better not to share.</content></utterance>
+</scene>
+
+
+<scene id="45"><utterance uid="45-1"><speaker>CASTLE</speaker><content>Wow. That is some dress.</content></utterance>
+<utterance uid="45-2"><speaker>MARTHA</speaker><content>Isn’t she stunning?</content></utterance>
+<utterance uid="45-3"><speaker>ALEXIS</speaker><content>After striking out all day we finally tried JDF’s on Madison.</content></utterance>
+<utterance uid="45-4"><speaker>MARTHA</speaker><content>And boy did we score.</content></utterance>
+<utterance uid="45-5"><speaker>ALEXIS</speaker><content>Mmhmm.</content></utterance>
+<utterance uid="45-6"><speaker>CASTLE</speaker><content>That sounds like it’s about more than just a dress.</content></utterance>
+<utterance uid="45-7"><speaker>MARTHA</speaker><content>Well, not only did Alexis find this exquisite little number, we were completely charmed by the proprietor, John Danton Farnsworth.</content></utterance>
+<utterance uid="45-8"><speaker>CASTLE</speaker><content>JDF.</content></utterance>
+<utterance uid="45-9"><speaker>ALEXIS</speaker><content>So, as we’re paying Mr. Farnsworth is about to close up when his grandson, John Danton Farnsworth III, picked him up for dinner. Who goes by JD. So cute.</content></utterance>
+<utterance uid="45-10"><speaker>MARTHA</speaker><content>Oh, he is a lovely young man. Freshman at Columbia.</content></utterance>
+<utterance uid="45-11"><speaker>ALEXIS</speaker><content>Which I am applying to, so of course I grilled him about it.</content></utterance>
+<utterance uid="45-12"><speaker>MARTHA</speaker><content>And the next thing you know they invite us to join them for dinner.</content></utterance>
+<utterance uid="45-13"><speaker>CASTLE</speaker><content>So … who was the wingman? The grandpa or the kid?</content></utterance>
+<utterance uid="45-14"><speaker>MARTHA</speaker><content>The what?</content></utterance>
+<utterance uid="45-15"><speaker>ALEXIS</speaker><content>Dad.  They were total gentlemen. They even invited us to their family’s annual charity event. A private concert with Lady Gaga.</content></utterance>
+<utterance uid="45-16"><speaker>CASTLE</speaker><content> Oh.</content></utterance>
+<utterance uid="45-17"><speaker>ALEXIS</speaker><content>But it’s the same time as the wedding.</content></utterance>
+<utterance uid="45-18"><speaker>CASTLE</speaker><content>Oh.</content></utterance>
+<utterance uid="45-19"><speaker>ALEXIS</speaker><content>I know I promised, and of course I’ll go if you want me to, it’s just … this is the first time I’ve felt this way since Ashley and –</content></utterance>
+<utterance uid="45-20"><speaker>CASTLE</speaker><content>You don’t have to go to the wedding. You are released from your plus one duties.</content></utterance>
+<utterance uid="45-21"><speaker>ALEXIS</speaker><content>Thanks, Dad.</content></utterance>
+<utterance uid="45-22"><speaker>CASTLE</speaker><content>Which I guess means you don’t need this dress.</content></utterance>
+<utterance uid="45-23"><speaker>MARTHA</speaker><content>Don’t be silly, darling. It is a black tie benefit.</content></utterance>
+<utterance uid="45-24"><speaker>ALEXIS</speaker><content>Yeah.</content></utterance>
+<utterance uid="45-25"><speaker>MARTHA</speaker><content>And, after dinner, John opened the shop and I got one, too!</content></utterance>
+<utterance uid="45-26"><speaker>CASTLE</speaker><content>So it’s a win win?</content></utterance>
+</scene>
+<scene id="46"><utterance uid="46-1"><speaker>ESPOSITO</speaker><content>I can’t believe you bailed on me.</content></utterance>
+<utterance uid="46-2"><speaker>RYAN</speaker><content>You were there until 2:30 in the morning.</content></utterance>
+<utterance uid="46-3"><speaker>ESPOSITO</speaker><content>Yeah, I was 5 minutes away from sealing the deal with my plus one.</content></utterance>
+<utterance uid="46-4"><speaker>RYAN</speaker><content>You really think after standing there for 3 hours another 5 minutes of me standing there would have made any difference?</content></utterance>
+<utterance uid="46-5"><speaker>ESPOSITO</speaker><content>Yeah. She was in to me.</content></utterance>
+<utterance uid="46-6"><speaker>RYAN</speaker><content>She said that she thought solving murders was cute.</content></utterance>
+<utterance uid="46-7"><speaker>ESPOSITO</speaker><content>Yeah, but you didn’t have to tell her friend you were engaged.</content></utterance>
+<utterance uid="46-8"><speaker>RYAN</speaker><content>Oh no, no, you’re right. I could have totally just lied to her and hooked up with her.  And do you have to be such a cliché? Stuffing your face with that –that – that thing?</content></utterance>
+<utterance uid="46-9"><speaker>ESPOSITO</speaker><content>Hey. Don’t touch my donut.</content></utterance>
+<utterance uid="46-10"><speaker>ESPOSITO</speaker><content>Hey!</content></utterance>
+<utterance uid="46-11"><speaker>RYAN</speaker><content>I’ve had enough of you!</content></utterance>
+<utterance uid="46-12"><speaker>CASTLE</speaker><content>Hey, hey, hey! Break it up!</content></utterance>
+<utterance uid="46-13"><speaker>BECKETT</speaker><content>God! What the hell is going on?</content></utterance>
+<utterance uid="46-14"><speaker>ESPOSITO</speaker><content>Talk to hunger strike over here.</content></utterance>
+<utterance uid="46-15"><speaker>RYAN</speaker><content>He was flaunting that donut!</content></utterance>
+<utterance uid="46-16"><speaker>ESPOSITO</speaker><content> I was eating it.</content></utterance>
+<utterance uid="46-17"><speaker>BECKETT</speaker><content>Ryan, you okay? Cleanse for 9 days, don’t you think it’s time to let it go?</content></utterance>
+<utterance uid="46-18"><speaker>RYAN</speaker><content>No, no. I – I’m fine. I – I’m sorry, everybody. Sorry, bro.</content></utterance>
+<utterance uid="46-19"><speaker>ESPOSITO</speaker><content>So, any luck finding Lisa Hill?</content></utterance>
+<utterance uid="46-20"><speaker>BECKETT</speaker><content>Yeah, we tracked her down at a spa in Montauk.</content></utterance>
+<utterance uid="46-21"><speaker>CASTLE</speaker><content>Yeah, she’s going from mud wrap to murder rap. Exfoliation to interrogation. Manicure to manacles. Shiatsu to …</content></utterance>
+<utterance uid="46-22"><speaker>CASTLE</speaker><content>… shiatsu …</content></utterance>
+<utterance uid="46-23"><speaker>BECKETT</speaker><content>Unis are on their way to pick her up now.</content></utterance>
+</scene>
+<scene id="47"><utterance uid="47-1"><speaker>BECKETT</speaker><content>Do you recognize him, Ms. Hill?</content></utterance>
+<utterance uid="47-2"><speaker>LISA HILL</speaker><content>Yes, it’s Jake.</content></utterance>
+<utterance uid="47-3"><speaker>BECKETT</speaker><content>Yes, Jake Hendricks. Or so you thought until you found out his real name was Michael Bailey and he was trying to blackmail you, isn’t that right?</content></utterance>
+<utterance uid="47-4"><speaker>LISA</speaker><content>Blackmail? I – don’t know what you’re talking about.</content></utterance>
+<utterance uid="47-5"><speaker>BECKETT</speaker><content>I think you do. You realized that you had been played and you decided to take your revenge.</content></utterance>
+<utterance uid="47-6"><speaker>BECKETT</speaker><content>Your sister owns a – um, drug company? She must have given you the colchicine you used to poison him, didn’t she?</content></utterance>
+<utterance uid="47-7"><speaker>LISA</speaker><content>No! Look, I didn’t get revenge because I didn’t know what he was up to. But he was up to something. I should have realized when he was hitting on me so hard at the bar, but he was cute and my husband is more interested in work than actually living. So, I brought him home. And it was nice. But then I came out of the bathroom and caught him on the computer. I figured he was trying to steal credit cards, banking info, so I kicked his ass out. But I swear, that was the last time I saw him.</content></utterance>
+</scene>
+<scene id="48"><utterance uid="48-1"><speaker>ESPOSITO</speaker><content>Oh yeah. Bailey sent an email all right. To himself.</content></utterance>
+<utterance uid="48-2"><speaker>BECKETT</speaker><content>Why would he email himself?</content></utterance>
+<utterance uid="48-3"><speaker>ESPOSITO</speaker><content>Because he attached several documents from Hill’s computer.</content></utterance>
+<utterance uid="48-4"><speaker>CASTLE</speaker><content>What kind of documents?</content></utterance>
+<utterance uid="48-5"><speaker>ESPOSITO</speaker><content>Confidential ones.  Relating to KPW Mining Corporation. Lisa Hill’s husband Ron Hill is the investment banker representing KPW in the possible sale of the company.</content></utterance>
+<utterance uid="48-6"><speaker>CASTLE</speaker><content>That’s Lisa Hill’s husband?  We saw him at the Global Twelve offices.</content></utterance>
+<utterance uid="48-7"><speaker>ESPOSITO</speaker><content>Yep. And Ron Hill is representing KPW. It’s a multibillion dollar deal.</content></utterance>
+<utterance uid="48-8"><speaker>CASTLE</speaker><content>So Bailey was engaged in covert ops. He targeted Ron Hill’s wife Lisa and slept with her in order to steal KPW corporate secrets.</content></utterance>
+<utterance uid="48-9"><speaker>BECKETT</speaker><content>That’s espionage.</content></utterance>
+<utterance uid="48-10"><speaker>CASTLE</speaker><content>More like … sexpionage.</content></utterance>
+<utterance uid="48-11"><speaker>BECKETT</speaker><content>More like motive.</content></utterance>
+</scene>
+<scene id="49"><utterance uid="49-1"><speaker>CASTLE</speaker><content>So Bailey was using his pickup artist skills to sleep with Ron Hill’s wife and steal corporate secrets. Man, there’s a penetrating enemy lines joke here somewhere.</content></utterance>
+<utterance uid="49-2"><speaker>BECKETT</speaker><content>You know, Ron must have hit the roof when he discovered that those files were stolen.</content></utterance>
+<utterance uid="49-3"><speaker>CASTLE</speaker><content>Ah, sure. Ron got screwed on the deal. And his wife got screwed. Boy, if anyone ever had a motive for murder it was Ron Hill.</content></utterance>
+<utterance uid="49-4"><speaker>ESPOSITO</speaker><content>Yeah, except he was in negotiations during the poisoning kill zone and his wife Lisa alibi’d too.</content></utterance>
+<utterance uid="49-5"><speaker>RYAN</speaker><content>I’ve been looking at the KPW deal. Turns out they’re represented by Keller, Brawn and Franklin. Guess who their lead attorney is.</content></utterance>
+<utterance uid="49-6"><speaker>BECKETT</speaker><content>Holly Franklin?</content></utterance>
+<utterance uid="49-7"><speaker>RYAN</speaker><content>Yep, Miss No-Tell-Hotel herself. The only reason you guys didn’t run into her at Global Twelve Consolidated was that we were still holding her.</content></utterance>
+<utterance uid="49-8"><speaker>BECKETT</speaker><content>That explains the Lisa and Holly connection.</content></utterance>
+<utterance uid="49-9"><speaker>CASTLE</speaker><content>Yeah, but it begs the question – how many other women did Bailey target in this little sexpionage scheme?</content></utterance>
+<utterance uid="49-10"><speaker>BECKETT</speaker><content>Okay, you guys get a list of all the people at KPW that were working the sale, including the banking and legal teams.</content></utterance>
+<utterance uid="49-11"><speaker>ESPOSITO</speaker><content>All right.</content></utterance>
+<utterance uid="49-12"><speaker>BECKETT</speaker><content>There’s no way that Bailey was working this alone. He’s too junior.</content></utterance>
+<utterance uid="49-13"><speaker>CASTLE</speaker><content>And besides, he was on leave.</content></utterance>
+<utterance uid="49-14"><speaker>BECKETT</speaker><content>And who authorized the leave?</content></utterance>
+</scene>
+<scene id="50"><utterance uid="50-1"><speaker>HARRIS</speaker><content>Yes, I authorized his leave.</content></utterance>
+<utterance uid="50-2"><speaker>BECKETT</speaker><content>You gave him a fake ID and cash bonuses, Mr. Harris.</content></utterance>
+<utterance uid="50-3"><speaker>HARRIS</speaker><content>I already told you, I don’t know anything about that.</content></utterance>
+<utterance uid="50-4"><speaker>BECKETT</speaker><content>Okay, well how about this? Bailey slept with Holly Franklin and Ron Hill’s wife Lisa to steal KPW secrets for your negotiation. Did you know about that?</content></utterance>
+<utterance uid="50-5"><speaker>CASTLE</speaker><content>Oh, c’mon Harris. This couldn’t be Bailey’s idea. You’re his boss. And you’re Global Twelve Consolidated’s lead negotiator for the KPW deal. So … how did it start? Did you happen to see Bailey out one night at some bar? Working his magic? Realize that you could use his ability to your advantage?</content></utterance>
+<utterance uid="50-6"><speaker>HARRIS</speaker><content> This is nothing but wild speculation. You have no proof whatsoever of any wrongdoing on my part or Global Twelve.</content></utterance>
+<utterance uid="50-7"><speaker>BECKETT</speaker><content>Look, I don’t care about corporate malfeasance. I want Michael Bailey’s killer.</content></utterance>
+<utterance uid="50-8"><speaker>HARRIS</speaker><content>And how do you think I can help?</content></utterance>
+<utterance uid="50-9"><speaker>BECKETT</speaker><content>You tell me where he’s been staying for the past month. Tell me who else was targeted and who he was with the day he was killed.</content></utterance>
+<utterance uid="50-10"><speaker>HARRIS</speaker><content>Unless you’re actually going to charge me with something?  I’m leaving.</content></utterance>
+</scene>
+<scene id="51"><utterance uid="51-1"><speaker>BECKETT</speaker><content>There are more than 300 female executives at KPW. Bailey could have targeted any one of them.</content></utterance>
+<utterance uid="51-2"><speaker>CASTLE</speaker><content>Not to mention any of the women at the law firm and the investment bank also working on the deal.</content></utterance>
+<utterance uid="51-3"><speaker>BECKETT</speaker><content>We still have no idea where he was poisoned.</content></utterance>
+<utterance uid="51-4"><speaker>ESPOSITO</speaker><content>Any luck?</content></utterance>
+<utterance uid="51-5"><speaker>BECKETT</speaker><content>No, there’s too big a pool of possible marks that Bailey could have slept with.</content></utterance>
+<utterance uid="51-6"><speaker>ESPOSITO</speaker><content>Yeah, uh … speaking of that. You know, Ryan’s my boy. So I gotta tell him about Jenny and Bailey.</content></utterance>
+<utterance uid="51-7"><speaker>CASTLE</speaker><content>You only told me I couldn’t tell Ryan.</content></utterance>
+<utterance uid="51-8"><speaker>BECKETT</speaker><content>Look Espo, I appreciate your point of view, but the guy hasn’t eaten in a week and a half, and after that donut incident I don’t –</content></utterance>
+<utterance uid="51-9"><speaker>RYAN</speaker><content>I’ll just take these back to my desk.</content></utterance>
+<utterance uid="51-10"><speaker>ESPOSITO</speaker><content>Sit down, bro.</content></utterance>
+<utterance uid="51-11"><speaker>RYAN</speaker><content>What?  What?</content></utterance>
+<utterance uid="51-12"><speaker>RYAN</speaker><content>Why do you guys look so serious?</content></utterance>
+<utterance uid="51-13"><speaker>ESPOSITO</speaker><content>You should … eat something.</content></utterance>
+<utterance uid="51-14"><speaker>BECKETT</speaker><content>Yeah. You look hungry. You’ve got the posture of a feral cat.</content></utterance>
+<utterance uid="51-15"><speaker>RYAN</speaker><content>Guys, I made a sacred vow to the woman I love –  Is that mushu pork?</content></utterance>
+<utterance uid="51-16"><speaker>ESPOSITO</speaker><content>Yes. And it is delicious. C’mon bro. Just eat.</content></utterance>
+<utterance uid="51-17"><speaker>RYAN</speaker><content>You’re not kidding about this mushu pork. C’mon!</content></utterance>
+<utterance uid="51-18"><speaker>ESPOSITO</speaker><content>Right?</content></utterance>
+<utterance uid="51-19"><speaker>RYAN</speaker><content>Pass the spring rolls, please?</content></utterance>
+<utterance uid="51-20"><speaker>ESPOSITO</speaker><content>Yeah.  So … you know how we all love Jenny, right?</content></utterance>
+<utterance uid="51-21"><speaker>RYAN</speaker><content>Yeah, what about her?</content></utterance>
+<utterance uid="51-22"><speaker>ESPOSITO</speaker><content>Well, it’s just that, uh … that ledger of Bailey’s?</content></utterance>
+<utterance uid="51-23"><speaker>RYAN</speaker><content>Hey, is she in that? I’ve been meaning to ask, but I have been having these – these memory lapses. Mmm… pass the fried rice?</content></utterance>
+<utterance uid="51-24"><speaker>CASTLE</speaker><content>Yeah.</content></utterance>
+<utterance uid="51-25"><speaker>CASTLE</speaker><content>So you’ve known all along?</content></utterance>
+<utterance uid="51-26"><speaker>RYAN</speaker><content>No… I – I was telling Jenny about Javi’s antics last night and we got to talking about the case. She told me she met Bailey at a bar a month or so after we started up.</content></utterance>
+<utterance uid="51-27"><speaker>ESPOSITO</speaker><content>She told you about that?</content></utterance>
+<utterance uid="51-28"><speaker>RYAN</speaker><content>Yeah. She had no idea he was some kind of professional pickup artist.</content></utterance>
+<utterance uid="51-29"><speaker>CASTLE</speaker><content>And you’re not upset at all?</content></utterance>
+<utterance uid="51-30"><speaker>RYAN</speaker><content>I mean – it’s not like we were exclusive.</content></utterance>
+<utterance uid="51-31"><speaker>RYAN</speaker><content>Is that Mongolian beef? Oh man.</content></utterance>
+<utterance uid="51-32"><speaker>OFFICER DI</speaker><content>Here you go.</content></utterance>
+<utterance uid="51-33"><speaker>RYAN</speaker><content>Thanks, Di.  Oh, get this. So I’ve been trying to figure out where Bailey might have been staying for the past month, and when we got on to his corporate spying for Global Twelve Consolidated I looked into their corporate housing.</content></utterance>
+<utterance uid="51-34"><speaker>BECKETT</speaker><content>That’s … a great idea.</content></utterance>
+<utterance uid="51-35"><speaker>CASTLE</speaker><content>Yeah. Why didn’t I think of that?</content></utterance>
+<utterance uid="51-36"><speaker>RYAN</speaker><content>Turns out Mike Bailey has been checked into The Oaks on Park Avenue for the last month under his alias Jake Hendricks.</content></utterance>
+<utterance uid="51-37"><speaker>BECKETT</speaker><content>Well, what are you sitting around for?</content></utterance>
+<utterance uid="51-38"><speaker>RYAN</speaker><content>Oh!  Do you mind if I take the spareribs?</content></utterance>
+</scene>
+<scene id="52"><utterance uid="52-1"><speaker>OAKS MANAGER</speaker><content>You’re welcome to look, but we got the call yesterday that Mr. Hendricks wasn’t coming back.</content></utterance>
+<utterance uid="52-2"><speaker>ESPOSITO</speaker><content>What did you do with all his stuff?</content></utterance>
+<utterance uid="52-3"><speaker>OAKS MANAGER</speaker><content>Per his company’s instructions we gave his clothes and personal belongings to Goodwill. And the place has been scrubbed, bedding laundered.</content></utterance>
+<utterance uid="52-4"><speaker>RYAN</speaker><content>Hey Javier, check this out. Chocolate Blast. It’s a protein shake.  Made with whey protein isolate.</content></utterance>
+<utterance uid="52-5"><speaker>ESPOSITO</speaker><content>You always stock this drink?</content></utterance>
+<utterance uid="52-6"><speaker>OAKS MANAGER</speaker><content>Yeah, it’s all standard.</content></utterance>
+<utterance uid="52-7"><speaker>RYAN</speaker><content>It’s exactly what Lanie said that Bailey had in his system that delivered the colchicine.</content></utterance>
+<utterance uid="52-8"><speaker>ESPOSITO</speaker><content>This is where he was poisoned, bro.</content></utterance>
+</scene>
+<scene id="53"><utterance uid="53-1"><speaker>BECKETT</speaker><content>Looks like we found the murder weapon. Lanie says that the chocolate shake from The Oaks is a perfect match for the contents of Bailey’s stomach. It’s what delivered the lethal dose of colchicine.</content></utterance>
+<utterance uid="53-2"><speaker>ESPOSITO</speaker><content>Yo. So the doorman at The Oaks confirms that Bailey was there during the whole poison time window. He asked not to be disturbed.</content></utterance>
+<utterance uid="53-3"><speaker>CASTLE</speaker><content>Yeah, I bet. Because sexpionage can be so much more demanding than espionage.</content></utterance>
+<utterance uid="53-4"><speaker>ESPOSITO</speaker><content>Ooh.</content></utterance>
+<utterance uid="53-5"><speaker>BECKETT</speaker><content>So I’m guessing he had a visitor?</content></utterance>
+<utterance uid="53-6"><speaker>RYAN</speaker><content>Yep. Someone that had been there a few times before.  Security cam photo capture.</content></utterance>
+<utterance uid="53-7"><speaker>CASTLE</speaker><content>Look familiar?</content></utterance>
+</scene>
+<scene id="54"><utterance uid="54-1"><speaker>RON HILL</speaker><content>If we could focus on the third quarter I believe that would be the most productive way to move forward.</content></utterance>
+<utterance uid="54-2"><speaker>BECKETT</speaker><content>Excuse me. Sorry to interrupt again.</content></utterance>
+<utterance uid="54-3"><speaker>AMY</speaker><content>What’s up, Seth?</content></utterance>
+<utterance uid="54-4"><speaker>HARRIS</speaker><content>Nothing. Nothing at all. Look, Detective, I have already told you everything that I know about Michael Bailey. Now please, leave.</content></utterance>
+<utterance uid="54-5"><speaker>BECKETT</speaker><content>Actually, we’re not here for you, Mr. Harris.</content></utterance>
+<utterance uid="54-6"><speaker>CASTLE</speaker><content>That would be the SEC, soon.</content></utterance>
+<utterance uid="54-7"><speaker>BECKETT</speaker><content>Today we are here for a woman.</content></utterance>
+<utterance uid="54-8"><speaker>BECKETT</speaker><content>Someone who works for KPW and also knew Michael Bailey. Your COO, Amy Kemp. You’re under arrest for the murder of Michael Bailey.</content></utterance>
+<utterance uid="54-9"><speaker>AMY</speaker><content>Pleasure doing business with you, Seth.</content></utterance>
+</scene>
+<scene id="55"><utterance uid="55-1"><speaker>CASTLE</speaker><content>She said killing him was just business. He had to die to protect the corporate secrets.</content></utterance>
+<utterance uid="55-2"><speaker>BECKETT</speaker><content>Yeah, I guess the fact that he won’t be around to dupe other women was an added benefit. Bailey worked her like all the other women. Made her feel special, got her to fall for him, but somewhere along the way she figured out what he was up to.</content></utterance>
+<utterance uid="55-3"><speaker>RYAN</speaker><content>I’m just glad I’m out of the game.</content></utterance>
+<utterance uid="55-4"><speaker>CASTLE</speaker><content>Oh… the games are only beginning for you, my friend.</content></utterance>
+<utterance uid="55-5"><speaker>BECKETT</speaker><content> Hey, so what’s up with your plus one?</content></utterance>
+<utterance uid="55-6"><speaker>ESPOSITO</speaker><content>Oh… it’s on. It’s all I’m sayin’.</content></utterance>
+</scene>
+<scene id="56"><utterance uid="56-1"><speaker>ESPOSITO</speaker><content>Lanie, hey.</content></utterance>
+<utterance uid="56-2"><speaker>LANIE</speaker><content>Hello, Javier.  This is Toby.</content></utterance>
+<utterance uid="56-3"><speaker>TOBY</speaker><content>Pleased to meet you.</content></utterance>
+<utterance uid="56-4"><speaker>ESPOSITO</speaker><content>Yeah. You too.  This is Jody.</content></utterance>
+<utterance uid="56-5"><speaker>LANIE</speaker><content>Nice to meet you.</content></utterance>
+<utterance uid="56-6"><speaker>JODY</speaker><content>Pleasure.  Excuse me, I need to find the ladies' room.</content></utterance>
+<utterance uid="56-7"><speaker>ESPOSITO</speaker><content>Okay.</content></utterance>
+<utterance uid="56-8"><speaker>TOBY</speaker><content>Uh, you two talk. I’ll get us seats.</content></utterance>
+<utterance uid="56-9"><speaker>LANIE</speaker><content>Thank you, Toby.</content></utterance>
+<utterance uid="56-10"><speaker>ESPOSITO</speaker><content>Toby, huh?</content></utterance>
+<utterance uid="56-11"><speaker>LANIE</speaker><content>What do you mean, ‘Toby, huh’?</content></utterance>
+<utterance uid="56-12"><speaker>ESPOSITO</speaker><content>I don’t know, you tell me.</content></utterance>
+<utterance uid="56-13"><speaker>LANIE</speaker><content>You and I broke up two months ago, so unless you thought I joined a convent, you need to take a step back.</content></utterance>
+<utterance uid="56-14"><speaker>ESPOSITO</speaker><content>So are you two serious now?</content></utterance>
+<utterance uid="56-15"><speaker>LANIE</speaker><content>Yeah, we’re serious. About dancing. That’s why his boyfriend let me borrow him. Besides, I figured I’d need somebody to keep me company while you flirted with Jenny’s sorority sisters.</content></utterance>
+<utterance uid="56-16"><speaker>ESPOSITO</speaker><content>Toby’s … boyfriend?</content></utterance>
+<utterance uid="56-17"><speaker>LANIE</speaker><content>And I seem to recall you here with the center for the New York Liberty.</content></utterance>
+<utterance uid="56-18"><speaker>ESPOSITO</speaker><content>She’s my cousin. I heard you were coming with a date so I thought I had to have somebody …  You look great, you know.</content></utterance>
+<utterance uid="56-19"><speaker>LANIE</speaker><content>Yeah, I know.</content></utterance>
+<utterance uid="56-20"><speaker>ESPOSITO</speaker><content>Can I show you to your seat?</content></utterance>
+<utterance uid="56-21"><speaker>LANIE</speaker><content>That would be nice.</content></utterance>
+<utterance uid="56-22"><speaker>BECKETT</speaker><content>Castle!</content></utterance>
+<utterance uid="56-23"><speaker>BECKETT</speaker><content>You look like a lost puppy. Where’s your date?</content></utterance>
+<utterance uid="56-24"><speaker>CASTLE</speaker><content>At a Lady Gaga concert with a teenage boy. How do I compete with that?</content></utterance>
+<utterance uid="56-25"><speaker>BECKETT</speaker><content>Oh, no. I’m sorry.</content></utterance>
+<utterance uid="56-26"><speaker>CASTLE</speaker><content>Yeah, me too. I hate going to weddings alone.</content></utterance>
+<utterance uid="56-27"><speaker>BECKETT</speaker><content>Well, maybe we could be each other’s plus one.</content></utterance>
+<utterance uid="56-28"><speaker>CASTLE</speaker><content>Yeah! And then avoid the stigma of sitting at the singles table. Yes, that would be nice. I would like that.</content></utterance>
+<utterance uid="56-29"><speaker>BECKETT</speaker><content>Oh, look at him. He looks so happy!</content></utterance>
+<utterance uid="56-30"><speaker>RYAN</speaker><content>Hey! Oh, I’m so glad you’re here.</content></utterance>
+<utterance uid="56-31"><speaker>BECKETT</speaker><content>Where else were we gonna be?</content></utterance>
+<utterance uid="56-32"><speaker>BECKETT</speaker><content>You look fantastic.</content></utterance>
+<utterance uid="56-33"><speaker>ESPOSITO</speaker><content>Yeah, we clean up pretty nice, huh?</content></utterance>
+<utterance uid="56-34"><speaker>CASTLE</speaker><content>Oh Jenny, you look amazing.</content></utterance>
+<utterance uid="56-35"><speaker>JENNY</speaker><content>Thank you, Rick.</content></utterance>
+<utterance uid="56-36"><speaker>BECKETT</speaker><content>No, no, no, no, no… you can’t see her.</content></utterance>
+<utterance uid="56-37"><speaker>CASTLE</speaker><content>Kevin, you are a lucky man.</content></utterance>
+<utterance uid="56-38"><speaker>RYAN</speaker><content>Don’t I know it.</content></utterance>
+<utterance uid="56-39"><speaker>ESPOSITO</speaker><content>Ready, bro?</content></utterance>
+<utterance uid="56-40"><speaker>RYAN</speaker><content>I think so.</content></utterance>
+<utterance uid="56-41"><speaker>BECKETT</speaker><content>Okay, we’re gonna see you in there.</content></utterance>
+<utterance uid="56-42"><speaker>RYAN</speaker><content>Okay.</content></utterance>
+<utterance uid="56-43"><speaker>CASTLE</speaker><content>You know, I gotta say. I kind of envy him.</content></utterance>
+<utterance uid="56-44"><speaker>BECKETT</speaker><content>Well, who knows, Castle. Maybe third time’s a charm.</content></utterance>
+<utterance uid="56-45"><speaker>CASTLE</speaker><content>Yeah. Could be.  Shall we?</content></utterance>
+<utterance uid="56-46"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="56-47"><speaker>THE END</speaker><content>CASTLE</content></utterance>
+</scene>
+</script>

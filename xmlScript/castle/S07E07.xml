@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>EMT</speaker><content>Whitney Williams, 22. She went into convulsions on the E train. In and out of consciousness ever since.</content></utterance>
+<utterance uid="1-2"><speaker>DOCTOR</speaker><content>I want a CBC and an EKG. Any sign of drugs on her?</content></utterance>
+<utterance uid="1-3"><speaker>EMT</speaker><content>Nothing. But at one point she said that someone did this to her.</content></utterance>
+<utterance uid="1-4"><speaker>DOCTOR</speaker><content>Whitney. Can you tell me what happened?</content></utterance>
+<utterance uid="1-5"><speaker>WHITNEY WILLIAMS</speaker><content> Diamondback.</content></utterance>
+<utterance uid="1-6"><speaker>DOCTOR</speaker><content>She’s seizing. Push 4 milligrams Ativan.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>RICHARD CASTLE</speaker><content>Friends. Thank you for coming on such short notice. It’s times like these that I’m reminded of Shakespeare, who wrote: “It’s not in the stars – “</content></utterance>
+<utterance uid="2-2"><speaker>MARTHA RODGERS</speaker><content>Ah ha ha. He also said, "brevity is the soul of wit”, so get to it, darling.</content></utterance>
+<utterance uid="2-3"><speaker>KATE BECKETT</speaker><content> Yeah, okay.  We just returned from the Hamptons. And –</content></utterance>
+<utterance uid="2-4"><speaker>BECKETT</speaker><content>We got married!</content></utterance>
+<utterance uid="2-5"><speaker>CASTLE</speaker><content>We got married!</content></utterance>
+<utterance uid="2-6"><speaker>MARTHA</speaker><content> Yes!</content></utterance>
+<utterance uid="2-7"><speaker>ESPOSITO</speaker><content>You guys suck.</content></utterance>
+<utterance uid="2-8"><speaker>RYAN</speaker><content>What – why did you do that?</content></utterance>
+<utterance uid="2-9"><speaker>LANIE</speaker><content>Hold – hold up. No, no, no, no, no. You guys jumped the broom and didn’t invite us?</content></utterance>
+<utterance uid="2-10"><speaker>BECKETT</speaker><content>It was spur of the moment?</content></utterance>
+<utterance uid="2-11"><speaker>CASTLE</speaker><content>Spur.</content></utterance>
+<utterance uid="2-12"><speaker>MARTHA</speaker><content>Oh, and it was perfection. I mean, you should have been there.  It was fire and love and at one point there were all these doves that just soared into the –</content></utterance>
+<utterance uid="2-13"><speaker>ALEXIS</speaker><content>Gram. Gram, maybe we don’t rub it in.  Let’s go get you another drink.</content></utterance>
+<utterance uid="2-14"><speaker>MARTHA</speaker><content>Drink. Okay.</content></utterance>
+<utterance uid="2-15"><speaker>LANIE</speaker><content> Hold this.</content></utterance>
+<utterance uid="2-16"><speaker>LANIE</speaker><content>I am your maid of honor. I haven’t had a carb in months, just in case I had to put that damn dress back on.</content></utterance>
+<utterance uid="2-17"><speaker>BECKETT</speaker><content>And you look great.</content></utterance>
+<utterance uid="2-18"><speaker>LANIE</speaker><content>Save the flattery. Kate, you owe me dinner. I’m picking the restaurant and we’re ordering all the desserts.</content></utterance>
+<utterance uid="2-19"><speaker>BECKETT</speaker><content> Okay.</content></utterance>
+<utterance uid="2-20"><speaker>LANIE</speaker><content>Oh girl, you’re married! Come here!</content></utterance>
+<utterance uid="2-21"><speaker>CASTLE</speaker><content>Ow!</content></utterance>
+<utterance uid="2-22"><speaker>CASTLE</speaker><content>Guys!</content></utterance>
+<utterance uid="2-23"><speaker>CASTLE</speaker><content>Guys, come on.</content></utterance>
+<utterance uid="2-24"><speaker>ESPOSITO</speaker><content>No. We were really looking forward to this for a long time too, Castle. We had a speech prepared and everything.</content></utterance>
+<utterance uid="2-25"><speaker>RYAN</speaker><content>Oh. Plus we wrote that song.</content></utterance>
+<utterance uid="2-26"><speaker>ESPOSITO</speaker><content>Yep.</content></utterance>
+<utterance uid="2-27"><speaker>CASTLE</speaker><content>Seriously? You wrote a song? We’re planning a little reception. You guys could do the song at the reception.</content></utterance>
+<utterance uid="2-28"><speaker>ESPOSITO</speaker><content>You had your chance.</content></utterance>
+<utterance uid="2-29"><speaker>RYAN</speaker><content>No song for you.</content></utterance>
+<utterance uid="2-30"><speaker>BECKETT</speaker><content>Guys, we’re going to have to cut the celebration short. There’s been a murder.</content></utterance>
+<utterance uid="2-31"><speaker>ESPOSITO</speaker><content>Really? We didn’t get that call.</content></utterance>
+<utterance uid="2-32"><speaker>RYAN</speaker><content>Once again, not invited.  Cheers.</content></utterance>
+<utterance uid="2-33"><speaker>BECKETT</speaker><content>Fine. We’ll meet you at the precinct.</content></utterance>
+</scene>
+
+<scene id="3"><utterance uid="3-1"><speaker>CASTLE</speaker><content>Well, it could have been worse.</content></utterance>
+<utterance uid="3-2"><speaker>BECKETT</speaker><content>It still might be. I mean, who knows what they’re doing to our place right now.</content></utterance>
+<utterance uid="3-3"><speaker>CASTLE</speaker><content>Hear what you just said?</content></utterance>
+<utterance uid="3-4"><speaker>BECKETT</speaker><content>Hmm?</content></utterance>
+<utterance uid="3-5"><speaker>CASTLE</speaker><content>Our place. Our. We’re married. We’re married.  We did it, Mrs. Castle.</content></utterance>
+<utterance uid="3-6"><speaker>BECKETT</speaker><content>We certainly did, Mr. Beckett.  Although, this arguably isn’t the most romantic post-wedding activity.</content></utterance>
+<utterance uid="3-7"><speaker>CASTLE</speaker><content>Or, perhaps it’s fitting, considering how we met. But you bring up an excellent point. The honeymoon.</content></utterance>
+<utterance uid="3-8"><speaker>BECKETT</speaker><content>Yes.  About the exotic island getaway. It’s going to have to wait.</content></utterance>
+<utterance uid="3-9"><speaker>CASTLE</speaker><content>Why?</content></utterance>
+<utterance uid="3-10"><speaker>BECKETT</speaker><content>Because when you went missing I used up all of my vacation days … looking for you.</content></utterance>
+<utterance uid="3-11"><speaker>CASTLE</speaker><content>So no honeymoon?</content></utterance>
+<utterance uid="3-12"><speaker>BECKETT</speaker><content>Not for a while, I’m afraid.</content></utterance>
+<utterance uid="3-13"><speaker>CASTLE</speaker><content>So instead of mai tais … we get murder?</content></utterance>
+<utterance uid="3-14"><speaker>CASTLE</speaker><content>Great.  No, it’ll be great.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>DOCTOR</speaker><content>Whitney Williams. She went into convulsions and cardiac arrest. We couldn’t bring her back.</content></utterance>
+<utterance uid="4-2"><speaker>CASTLE</speaker><content>And her last words were ‘diamondback’? What does that mean?</content></utterance>
+<utterance uid="4-3"><speaker>DOCTOR</speaker><content>I have no idea.</content></utterance>
+<utterance uid="4-4"><speaker>BECKETT</speaker><content>And she believed she was a victim of foul play?</content></utterance>
+<utterance uid="4-5"><speaker>DOCTOR</speaker><content>Yes, and so do I. We ran a full blood workup and it came back with high traces of digoxin.</content></utterance>
+<utterance uid="4-6"><speaker>CASTLE</speaker><content>That’s a heart medication.</content></utterance>
+<utterance uid="4-7"><speaker>DOCTOR</speaker><content>Derived from the foxglove plant. According to our pathologist, this was unpurified digoxin. Taken directly from the plant? It’s lethal.</content></utterance>
+<utterance uid="4-8"><speaker>BECKETT</speaker><content>So she was poisoned. Any way to tell how long ago she ingested the foxglove?</content></utterance>
+<utterance uid="4-9"><speaker>DOCTOR</speaker><content>We’re estimating 10 to 14 hours.</content></utterance>
+<utterance uid="4-10"><speaker>BECKETT</speaker><content>Have you contacted the next of kin?</content></utterance>
+<utterance uid="4-11"><speaker>DOCTOR</speaker><content>I thought you would want to handle that.  This is her in case of emergency card.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>ESPOSITO</speaker><content>Thanks for coming in, Mr. and Mrs. Dagmar.</content></utterance>
+<utterance uid="5-2"><speaker>PHILIP DAGMAR</speaker><content>Well, since her mom passed I suppose we’re the closest thing to family that Whitney has.</content></utterance>
+<utterance uid="5-3"><speaker>LENANNE DAGMAR</speaker><content>She was our first Dagmar scholar.</content></utterance>
+<utterance uid="5-4"><speaker>RYAN</speaker><content>Dagmar scholar?</content></utterance>
+<utterance uid="5-5"><speaker>PHILIP</speaker><content>We sponsor disadvantaged children. Send them to the finest schools.</content></utterance>
+<utterance uid="5-6"><speaker>RYAN</speaker><content>The poisoning occurred ten to fourteen hours ago. Do you happen to know where Whitney was or who she was with at the time?</content></utterance>
+<utterance uid="5-7"><speaker>LENANNE</speaker><content>No. The last time we saw her was a week ago when she came over for supper.</content></utterance>
+<utterance uid="5-8"><speaker>RYAN</speaker><content>Did she mention if she was having problems with anyone? Perhaps at work?</content></utterance>
+<utterance uid="5-9"><speaker>LENANNE</speaker><content>She did say she was going to take some time off from her internship.</content></utterance>
+<utterance uid="5-10"><speaker>ESPOSITO</speaker><content>Do you know why?</content></utterance>
+<utterance uid="5-11"><speaker>LENANNE</speaker><content>Her mother’s death was recent. Whitney needed some time to get over the loss.</content></utterance>
+<utterance uid="5-12"><speaker>ESPOSITO</speaker><content>Does the word ‘diamondback’ mean anything to either of you?</content></utterance>
+<utterance uid="5-13"><speaker>LENANNE</speaker><content>No.</content></utterance>
+<utterance uid="5-14"><speaker>PHILIP</speaker><content>No, I’m afraid not.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>CASTLE</speaker><content>Okay. ‘Diamondback.’ I’ve whittled it down to three possibilities as to what that means and why Whitney would utter it with her dying breath.</content></utterance>
+<utterance uid="6-2"><speaker>BECKETT</speaker><content>And I am sure that none of them will be a waste of my time.</content></utterance>
+<utterance uid="6-3"><speaker>CASTLE</speaker><content>Possibility number one: it’s the password for a murderous, underground snake handling fight club.  Granted, that’s probably not what it means, but it might be the basis for my next Nikki Heat novel. Possibility number two: she was killed by the Marvel character Diamondback, whose special skill was throwing diamond-shaped spikes filled with poison.</content></utterance>
+<utterance uid="6-4"><speaker>CASTLE</speaker><content>Third possibility –</content></utterance>
+<utterance uid="6-5"><speaker>ESPOSITO</speaker><content>It was a dude ranch in Arizona.</content></utterance>
+<utterance uid="6-6"><speaker>RYAN</speaker><content>We struck out with the Dagmars, but we found an email to Whitney from a Diamondback Old West Ranch confirming a two week stay in bunkhouse number 14.</content></utterance>
+<utterance uid="6-7"><speaker>CASTLE</speaker><content>Old west dude ranch. That’s my number three. It’s exactly what I was going to say. Good work, boys.</content></utterance>
+<utterance uid="6-8"><speaker>ESPOSITO</speaker><content>You still suck.</content></utterance>
+<utterance uid="6-9"><speaker>RYAN</speaker><content>And you owe us for those tuxedo rentals.</content></utterance>
+<utterance uid="6-10"><speaker>CASTLE</speaker><content>Right.</content></utterance>
+<utterance uid="6-11"><speaker>BECKETT</speaker><content>So she was on vacation in Arizona for two weeks.</content></utterance>
+<utterance uid="6-12"><speaker>ESPOSITO</speaker><content>Yep.</content></utterance>
+<utterance uid="6-13"><speaker>BECKETT</speaker><content>Did she go with anyone?</content></utterance>
+<utterance uid="6-14"><speaker>RYAN</speaker><content>No, but it looks like the city slickers/cowboy thing didn’t really agree with her. Whitney cut her trip short. After only three days there she paid for a last minute ticket change for an 8 AM flight out of Phoenix this morning.</content></utterance>
+<utterance uid="6-15"><speaker>BECKETT</speaker><content>This morning? So she was poisoned in Arizona. Somewhere between 1 and 5 AM local time.</content></utterance>
+<utterance uid="6-16"><speaker>ESPOSITO</speaker><content>And all indications are that she left in a big hurry. She even forgot to turn in her bunkhouse key.</content></utterance>
+<utterance uid="6-17"><speaker>BECKETT</speaker><content>Okay, I need every detail we can get on that place.</content></utterance>
+<utterance uid="6-18"><speaker>CASTLE</speaker><content>Well, according to this, Diamondback Old West Ranch is “a living history resort where both staff and guest dress in old west attire and engage in cowboy activities”.  This sounds pretty cool.</content></utterance>
+<utterance uid="6-19"><speaker>BECKETT</speaker><content>Or not, considering Whitney might have been poisoned there.  Wait a minute. If Whitney flew back today, then she was coming in on the E train from JFK when she had that seizure. But the only personal effect that we found at the hospital was her purse. So where’s her luggage?</content></utterance>
+<utterance uid="6-20"><speaker>ESPOSITO</speaker><content>Maybe it was left on the subway when the medics took her.</content></utterance>
+<utterance uid="6-21"><speaker>BECKETT</speaker><content>Well, something happened at that ranch and there might be evidence of it in her suitcases.</content></utterance>
+<utterance uid="6-22"><speaker>ESPOSITO</speaker><content>I’ll look into it.</content></utterance>
+<utterance uid="6-23"><speaker>RYAN</speaker><content>And I’ll keep looking into her financials. Maybe there’s somewhere else she went in Arizona.</content></utterance>
+<utterance uid="6-24"><speaker>BECKETT</speaker><content>And I’ll touch base with the local sheriff and coordinate with him on the investigation.</content></utterance>
+<utterance uid="6-25"><speaker>RYAN</speaker><content>Thanks, big boy.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>SHERIFF</speaker><content>Look, Detective, the way I see it, this is not an Arizona matter.</content></utterance>
+<utterance uid="7-2"><speaker>BECKETT</speaker><content>Sheriff, we have evidence that Whitney was poisoned in your jurisdiction.</content></utterance>
+<utterance uid="7-3"><speaker>SHERIFF</speaker><content>No, what you have is speculation. She could have been poisoned on the plane, or at the airport. Hell, I wouldn’t know where to begin.</content></utterance>
+<utterance uid="7-4"><speaker>BECKETT</speaker><content>Well, I’m telling you where to begin. Diamondback Old West Ranch.</content></utterance>
+<utterance uid="7-5"><speaker>SHERIFF</speaker><content>Detective, you’ve got to understand. That resort is the lifeblood of our little tourist town.</content></utterance>
+<utterance uid="7-6"><speaker>BECKETT</speaker><content>So this is political.</content></utterance>
+<utterance uid="7-7"><speaker>SHERIFF</speaker><content>No, it’s personal. Look, I’ve got people here. Folks I grew up with. And I can’t just go in and disrupt business until there’s some concrete proof.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>CAPTAIN VICTORIA GATES</speaker><content>I’m sorry. Without the sheriff’s cooperation there’s only so much we can do.</content></utterance>
+<utterance uid="8-2"><speaker>BECKETT</speaker><content>So we’re just going to let him get away with this?</content></utterance>
+<utterance uid="8-3"><speaker>ESPOSITO</speaker><content>Kind of like how we let you get away with not inviting us to the wedding?</content></utterance>
+<utterance uid="8-4"><speaker>GATES</speaker><content>Well, at least you were invited to the champagne toast.</content></utterance>
+<utterance uid="8-5"><speaker>BECKETT</speaker><content>Sorry, sir.</content></utterance>
+<utterance uid="8-6"><speaker>GATES</speaker><content>Oh, no, no, no. I’m sure it was Mr. Castle’s fault. Now, regarding the case, I’ll call the Feds and see if they can intercede on our behalf.</content></utterance>
+<utterance uid="8-7"><speaker>BECKETT</speaker><content>Sir, that could take weeks. By then any evidence or witnesses could be long gone.</content></utterance>
+<utterance uid="8-8"><speaker>RYAN</speaker><content>Uh, excuse me, sir. I checked Whitney’s financials. She used a car service to get to the airport in Arizona this morning. And I spoke with the driver. He said she seemed upset when she left the ranch.</content></utterance>
+<utterance uid="8-9"><speaker>ESPOSITO</speaker><content>Something happened there.</content></utterance>
+<utterance uid="8-10"><speaker>RYAN</speaker><content>Yeah, but we have no way to investigate it.</content></utterance>
+<utterance uid="8-11"><speaker>CASTLE</speaker><content>Wait.  Maybe we do.</content></utterance>
+<utterance uid="8-12"><speaker>BECKETT</speaker><content>We do?</content></utterance>
+<utterance uid="8-13"><speaker>CASTLE</speaker><content>Well, look at this place. I mean, it’s got beautiful skies, wide open spaces, the thrill of the old west?  What better place for an impromptu honeymoon?  For the investigation, of course. We could jump on a plane and be there in a few hours.</content></utterance>
+<utterance uid="8-14"><speaker>BECKETT</speaker><content>Castle, you cannot be serious.</content></utterance>
+<utterance uid="8-15"><speaker>CASTLE</speaker><content>We can find Whitney’s killer. And have a honeymoon at the same time. It’s perfect.</content></utterance>
+<utterance uid="8-16"><speaker>BECKETT</speaker><content>No, Castle. We are not having a honeymoon at a dude ranch!</content></utterance>
+<utterance uid="8-17"><speaker>CASTLE</speaker><content>Well – it could be our cover story. We’re a newlywed couple with a hankering for the wild frontier, right? And look, Beckett. I know you want to see justice brought to this young woman’s killer. And … this … this is the only way.</content></utterance>
+<utterance uid="8-18"><speaker>GATES</speaker><content>I hate to say this, but your husband may be right. This could be our best shot at solving the case.</content></utterance>
+<utterance uid="8-19"><speaker>BECKETT</speaker><content> Fine.</content></utterance>
+<utterance uid="8-20"><speaker>CASTLE</speaker><content>Excellent. Saddle up, honey, because we are honeymooning out west.</content></utterance>
+<utterance uid="8-21"><speaker>CASTLE</speaker><content>Yee-haw.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>CASTLE</speaker><content>It’s like we rolled right into a John Ford movie.</content></utterance>
+<utterance uid="9-2"><speaker>BECKETT</speaker><content>Okay there, Hoss. Just remember we’re here for a reason: to find Whitney’s killer.</content></utterance>
+<utterance uid="9-3"><speaker>CASTLE</speaker><content>Best honeymoon ever.</content></utterance>
+<utterance uid="9-4"><speaker>CASTLE</speaker><content>Eww.</content></utterance>
+<utterance uid="9-5"><speaker>BECKETT</speaker><content>This is so not our honeymoon.</content></utterance>
+<utterance uid="9-6"><speaker>CASTLE</speaker><content>I think in the old west that was a sign of good fortune.</content></utterance>
+<utterance uid="9-7"><speaker>BECKETT</speaker><content>Lucky me.</content></utterance>
+<utterance uid="9-8"><speaker>JAMES GRADY</speaker><content>Say, you all must be the newlyweds. Well, welcome to the Diamondback Old West Ranch, folks. They call me Gentleman James Grady and I’m the proprietor of this here establishment.</content></utterance>
+<utterance uid="9-9"><speaker>CASTLE</speaker><content>Uh, I am Rick, this is Kate and may I just say, this place is amazing.</content></utterance>
+<utterance uid="9-10"><speaker>BECKETT</speaker><content>Yeah, very authentic.</content></utterance>
+<utterance uid="9-11"><speaker>GRADY</speaker><content>Well that’s what you jackaroos came for, ain’t it? The legend, and dare I say, romance of the old west?  Now uh, these brochures in your hands detail all the activities that we have to offer here: from cattle driving to nature walking, we’ve got it all. And my friendly staff of ranch hands, they’re the ones in red bandanas in the brochure and all around here -  – they will guide you through any adventure your hearts desire. So, shall we begin?</content></utterance>
+<utterance uid="9-12"><speaker>BECKETT</speaker><content>Actually, we just got in on the redeye and were kind of hoping to check into our room.</content></utterance>
+<utterance uid="9-13"><speaker>GRADY</speaker><content>Oh, no problem-o. Seeing as you’re newlyweds, I upgraded you to a suite in our Grand Hotel.</content></utterance>
+<utterance uid="9-14"><speaker>CASTLE</speaker><content>Oh, well, we’re much obliged.</content></utterance>
+<utterance uid="9-15"><speaker>BECKETT</speaker><content>Sure are, but we were looking for a more … authentic experience. We were kind od hoping to stay at one of the … bunkhouse rooms.</content></utterance>
+<utterance uid="9-16"><speaker>CASTLE</speaker><content>Whatever the little lady wants.</content></utterance>
+<utterance uid="9-17"><speaker>GRADY</speaker><content>I can see who wears the ten gallon hat in your house.</content></utterance>
+<utterance uid="9-18"><speaker>BECKETT</speaker><content>Yeah, and um … Mr. Grady, I know that this sounds silly, but my lucky number is fourteen. Is that room available?</content></utterance>
+<utterance uid="9-19"><speaker>GRADY</speaker><content>Uh … Daisy May!  Daisy May! We need you, dear.  That’s my missus. Like yours, she runs the show here.  Uh, hun, these lovebirds want to stay in bunkhouse fourteen. Is it vacant?</content></utterance>
+<utterance uid="9-20"><speaker>DAISY MAY GRADY</speaker><content>Well, sure is. But why? It’s a single room with a twin bed.</content></utterance>
+<utterance uid="9-21"><speaker>CASTLE</speaker><content>Oh, that’s okay. We’re – we’re cuddlers.</content></utterance>
+<utterance uid="9-22"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="9-23"><speaker>GRADY</speaker><content>Well, all righty then. But first, folks, we’ve got to get you out of those bibs and tuckers.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>GRADY</speaker><content>Woo wee. Take a look at this belvedere.</content></utterance>
+<utterance uid="10-2"><speaker>CASTLE</speaker><content>I do look good, don’t I?</content></utterance>
+<utterance uid="10-3"><speaker>CASTLE</speaker><content>Whoa. This is like, three fantasies coming true all at one. Only thing missing is … Gentlemen James, where do we get the replica guns?  Like yours.</content></utterance>
+<utterance uid="10-4"><speaker>GRADY</speaker><content>Replica? Son, this is Arizona. It’s open carry.</content></utterance>
+<utterance uid="10-5"><speaker>GRADY</speaker><content>Say. Do either of you two know what’s quicker than lightning?</content></utterance>
+<utterance uid="10-6"><speaker>CASTLE</speaker><content>What?</content></utterance>
+<utterance uid="10-7"><speaker>GRADY</speaker><content>This gun tamed the wild west. A Colt .45 single action peacemaker.</content></utterance>
+<utterance uid="10-8"><speaker>CASTLE</speaker><content> I want to be him when I grow up.</content></utterance>
+<utterance uid="10-9"><speaker>BECKETT</speaker><content> Well yeah, if you grow up.</content></utterance>
+<utterance uid="10-10"><speaker>GRADY</speaker><content>It’s all about practice, which you can do with one of our firearms, available for purchase at our gift shop. In fact, why don’t we mosey on over –</content></utterance>
+<utterance uid="10-11"><speaker>BECKETT</speaker><content>Yeah, Mr. Grady, you know what? Maybe later. Right now we’re both a bit knackered, so we were hoping to go to our room.</content></utterance>
+<utterance uid="10-12"><speaker>BECKETT</speaker><content>Thank you.</content></utterance>
+<utterance uid="10-13"><speaker>GRADY</speaker><content>So glad you’re staying with us.  Much obliged, ma’am.</content></utterance>
+<utterance uid="10-14"><speaker>CASTLE</speaker><content>Much obliged, ma’am.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>BECKETT</speaker><content>We were wrong. The key that Whitney had with her wasn’t her room key.</content></utterance>
+<utterance uid="11-2"><speaker>CASTLE</speaker><content>Well then, what does it go to?</content></utterance>
+<utterance uid="11-3"><speaker>BECKETT</speaker><content>I don’t know.  Here’s fourteen.</content></utterance>
+<utterance uid="11-4"><speaker>CASTLE</speaker><content>Oh, wait. Whether we like it or not, we are on our honeymoon, so … we must act accordingly.</content></utterance>
+<utterance uid="11-5"><speaker>BECKETT</speaker><content>Oh, geez!</content></utterance>
+<utterance uid="11-6"><speaker>BECKETT</speaker><content> Oh, yeah. So not our honeymoon.</content></utterance>
+<utterance uid="11-7"><speaker>CASTLE</speaker><content>Are you looking for disinfectant?</content></utterance>
+<utterance uid="11-8"><speaker>BECKETT</speaker><content>Clues. Remember? Whitney was staying here.</content></utterance>
+<utterance uid="11-9"><speaker>CASTLE</speaker><content>I highly doubt we’re going to find anything in this room that can help us.</content></utterance>
+<utterance uid="11-10"><speaker>TOBIAS</speaker><content>Howdy, partner.</content></utterance>
+<utterance uid="11-11"><speaker>CASTLE</speaker><content>I don’t know if it comes with the room, but there’s a naked cowboy shaving in our bathroom.</content></utterance>
+<utterance uid="11-12"><speaker>BECKETT</speaker><content>I’m sorry, what?</content></utterance>
+<utterance uid="11-13"><speaker>TOBIAS</speaker><content>My fault. I forgot to lock the door. It’s a jack and jill bathroom. I’m in the room on the other side.</content></utterance>
+<utterance uid="11-14"><speaker>CASTLE</speaker><content>Oh, ok – I’m Rick. This is Kate.  We just checked in. Newlyweds.</content></utterance>
+<utterance uid="11-15"><speaker>TOBIAS</speaker><content>Oh, congratulations! I’m Tobias.</content></utterance>
+<utterance uid="11-16"><speaker>BECKETT</speaker><content>Hi.  Didn’t Mr. Grady say that there was a woman staying in our room before?</content></utterance>
+<utterance uid="11-17"><speaker>CASTLE</speaker><content>Oh – yes. I’m surprised they let her stay so close with menfolk considering the customs of the old west.</content></utterance>
+<utterance uid="11-18"><speaker>TOBIAS</speaker><content> Well, I guess when they found out that me and her both enjoyed chasing cowboys they figured what the heck.</content></utterance>
+<utterance uid="11-19"><speaker>BECKETT</speaker><content> You know, we’re about to brew some coffee. Would you care for a cup?</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>TOBIAS</speaker><content>I like my coffee like I like my men: strong, black, and bitter.</content></utterance>
+<utterance uid="12-2"><speaker>BECKETT</speaker><content>Ooh, you’re fun. I bet you and your old bunkhousemate got into all sorts of trouble.</content></utterance>
+<utterance uid="12-3"><speaker>TOBIAS</speaker><content>Not me. But Whitney, on the other hand, don’t get me wrong. She’s a sweetheart, but she’s a bit of a hell raiser.</content></utterance>
+<utterance uid="12-4"><speaker>BECKETT</speaker><content>Really?</content></utterance>
+<utterance uid="12-5"><speaker>TOBIAS</speaker><content>Yeah.</content></utterance>
+<utterance uid="12-6"><speaker>BECKETT</speaker><content>How so?</content></utterance>
+<utterance uid="12-7"><speaker>TOBIAS</speaker><content>Okay, like our first day here, we went on a horseback riding tour. She snuck off in the middle of it.</content></utterance>
+<utterance uid="12-8"><speaker>CASTLE</speaker><content>Get out. Where’d she go?</content></utterance>
+<utterance uid="12-9"><speaker>TOBIAS</speaker><content>Probably went to go hang out with her ranch hand. One of the red bandana boys that work here? She used to stay out with him all night, every night.</content></utterance>
+<utterance uid="12-10"><speaker>CASTLE</speaker><content>Sounds like I better keep him clear of my missus. Who was this Romeo?</content></utterance>
+<utterance uid="12-11"><speaker>TOBIAS</speaker><content>I don’t know. She wouldn’t say. She just said he was tall, dark, and handsome. Oh, and married!</content></utterance>
+<utterance uid="12-12"><speaker>BECKETT</speaker><content>Married? Get out!</content></utterance>
+<utterance uid="12-13"><speaker>TOBIAS</speaker><content>Yes.</content></utterance>
+<utterance uid="12-14"><speaker>BECKETT</speaker><content>Oh, I wonder if there was any trouble. I kind of think the reason we got this room is because Whitney left so early.</content></utterance>
+<utterance uid="12-15"><speaker>TOBIAS</speaker><content>She sure did. Her last night here, she rolled in at 3 AM, upset. She woke me up with all her crying.</content></utterance>
+<utterance uid="12-16"><speaker>BECKETT</speaker><content>What happened?</content></utterance>
+<utterance uid="12-17"><speaker>TOBIAS</speaker><content>She said she didn’t want to talk about it, she left before the sun came up. Didn’t even say goodbye.  Oh, I’m late for chow. Thanks for the coffee. See you all around.</content></utterance>
+<utterance uid="12-18"><speaker>BECKETT</speaker><content>Okay.</content></utterance>
+<utterance uid="12-19"><speaker>CASTLE</speaker><content>An affair with a married man?</content></utterance>
+<utterance uid="12-20"><speaker>BECKETT</speaker><content>Yes! And she was with him until 3AM. That’s right in the middle of our time of poisoning window.</content></utterance>
+<utterance uid="12-21"><speaker>CASTLE</speaker><content>We’ve got to find this guy.</content></utterance>
+<utterance uid="12-22"><speaker>BECKETT</speaker><content>But how? We’re undercover. I just can’t flash my badge and get people to talk.</content></utterance>
+<utterance uid="12-23"><speaker>CASTLE</speaker><content>Exactly. Which is why we don’t approach this like cops. We approach this like writers.</content></utterance>
+<utterance uid="12-24"><speaker>BECKETT</speaker><content>So we procrastinate and make stuff up?</content></utterance>
+<utterance uid="12-25"><speaker>CASTLE</speaker><content>No.  Well, yes. But … no. In this particular instance we approach the investigation like writers by … doing research.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>CASTLE</speaker><content>Now there are seven ranch hands to fit the bill of tall, dark, and handsome. But in order to figure out which one was fooling around with Whitney we have to first determine who of them are married. That means we need to go on a wedding ring search and these are the possibilities.</content></utterance>
+<utterance uid="13-2"><speaker>CASTLE</speaker><content>So I split their classes up between us.</content></utterance>
+<utterance uid="13-3"><speaker>BECKETT</speaker><content>Whoa. Hold up. Harmonica for beginners? Cowboy saloon? How come you get all the cool activities and I get hogtying?</content></utterance>
+<utterance uid="13-4"><speaker>CASTLE</speaker><content>Because this was my idea.  Though it will be a shame we’re spending the first day of our honeymoon apart.</content></utterance>
+<utterance uid="13-5"><speaker>BECKETT</speaker><content>Except we’re not, because this is not our honeymoon.  Okay, ‘bye. Be safe.</content></utterance>
+<utterance uid="13-6"><speaker>BECKETT</speaker><content>Hey Ryan, how’s it going?</content></utterance>
+<utterance uid="13-7"><speaker>RYAN</speaker><content>Oh, wonderful. In fact, we were just discussing your nuptials.</content></utterance>
+<utterance uid="13-8"><speaker>ESPOSITO</speaker><content>Not the actual event, since neither of us were there.</content></utterance>
+<utterance uid="13-9"><speaker>BECKETT</speaker><content>Guys, is this really why you’re calling?</content></utterance>
+<utterance uid="13-10"><speaker>RYAN</speaker><content>Partly, yes.</content></utterance>
+<utterance uid="13-11"><speaker>ESPOSITO</speaker><content>And we have news. Here’s the good: MTA cameras show that Whitney’s bags were left on the subway.</content></utterance>
+<utterance uid="13-12"><speaker>RYAN</speaker><content>Here’s the bad news: they were stolen by a homeless man. But we put out a BOLO. Hopefully somebody will recognize him.</content></utterance>
+<utterance uid="13-13"><speaker>ESPOSITO</speaker><content>Also, Lanie found something during her autopsy. She found traces of a wax covered cardboard under Whitney’s nails and on the waistband of her pants.</content></utterance>
+<utterance uid="13-14"><speaker>BECKETT</speaker><content>Wax covered cardboard? Like … butcher paper?</content></utterance>
+<utterance uid="13-15"><speaker>ESPOSITO</speaker><content>Well, Lanie says it’s too hard to tell. What about you and Hopalong? Learn anything?</content></utterance>
+<utterance uid="13-16"><speaker>BECKETT</speaker><content>Uh … well, so far it looks like our victim was having an affair with a married man. But the problem is, his identity is a mystery.</content></utterance>
+<utterance uid="13-17"><speaker>RYAN</speaker><content>Well, speaking of mysteries, we spoke with Whitney’s friends. They said prior to her departure she was spending a good deal of time at the historical society.</content></utterance>
+<utterance uid="13-18"><speaker>BECKETT</speaker><content>Do they know what she was doing there?</content></utterance>
+<utterance uid="13-19"><speaker>RYAN</speaker><content>Well, we’re still looking into it, but –</content></utterance>
+<utterance uid="13-20"><speaker>BECKETT</speaker><content>Okay, guys? I gotta go.</content></utterance>
+<utterance uid="13-21"><speaker>TOBIAS</speaker><content>Hey, Kate! Kate! Are you going to hogtying class?</content></utterance>
+<utterance uid="13-22"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="13-23"><speaker>TOBIAS</speaker><content>Me too! Oh my God, we’re going to have so much fun!</content></utterance>
+<utterance uid="13-24"><speaker>BECKETT</speaker><content>Yeah, we sure are. Hogtying. Yee-haw.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>CASTLE</speaker><content>No ring. One down.</content></utterance>
+<utterance uid="14-2"><speaker>BARTENDER</speaker><content>What’ll it be, fella?</content></utterance>
+<utterance uid="14-3"><speaker>CASTLE</speaker><content>I’ll take a coffin varnish.</content></utterance>
+<utterance uid="14-4"><speaker>BARTENDER</speaker><content>Some what?</content></utterance>
+<utterance uid="14-5"><speaker>CASTLE</speaker><content>You know, a gut warmer. Face burner. Nose paint? Cowboy cocktail?  What do you all call whiskey here?</content></utterance>
+<utterance uid="14-6"><speaker>BARTENDER</speaker><content>Whiskey.</content></utterance>
+<utterance uid="14-7"><speaker>MARSHALL</speaker><content>Hey, mister. I sure could use your help.  I’m looking for the Peacock Boys.</content></utterance>
+<utterance uid="14-8"><speaker>CASTLE</speaker><content>Well, I haven’t seen them, Marshall, but I’ll keep an eye out.</content></utterance>
+<utterance uid="14-9"><speaker>DEALER</speaker><content>You just going to bat your eyes, mister? Or are you going to play?</content></utterance>
+<utterance uid="14-10"><speaker>CASTLE</speaker><content>Oh yeah. Hey, I’m a – I’m a sporting man.</content></utterance>
+<utterance uid="14-11"><speaker>CASTLE</speaker><content>There we go.  Hey there, partner. Couldn’t help but notice you got a ring on your finger.  Just had mine put on. Newlywed.</content></utterance>
+<utterance uid="14-12"><speaker>OLLIE</speaker><content>This isn’t a ring. It’s a noose.</content></utterance>
+<utterance uid="14-13"><speaker>CASTLE</speaker><content>That bad, huh? Ooh. Yeah, I suppose one woman for the rest of your life is a tall order. What’s your secret?</content></utterance>
+<utterance uid="14-14"><speaker>OLLIE</speaker><content>You’ll figure it out.</content></utterance>
+<utterance uid="14-15"><speaker>CASTLE</speaker><content>Oh, come on. What, have you got a little left-handed missus on the side?</content></utterance>
+<utterance uid="14-16"><speaker>OLLIE</speaker><content> I don’t cheat on my wife, friend.</content></utterance>
+<utterance uid="14-17"><speaker>CASTLE</speaker><content>Oh. Well, that’s uh … not what I heard.</content></utterance>
+<utterance uid="14-18"><speaker>OLLIE</speaker><content>No good mangy cur! You’ve got an ace up your sleeve!</content></utterance>
+<utterance uid="14-19"><speaker>DEALER</speaker><content>You know what we do with card cheats in here, mister?</content></utterance>
+<utterance uid="14-20"><speaker>DAISY MAY</speaker><content>Hold it, boys. Hear them bells? It’s high noon. That means it's show time! Take it out back. Time for a good old fashioned gunfight!</content></utterance>
+<utterance uid="14-21"><speaker>DAISY MAY</speaker><content>Yee-haw!</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>OLLIE</speaker><content>What do you know? Huh? My wife send you?</content></utterance>
+<utterance uid="15-2"><speaker>CASTLE</speaker><content>Hey, I’ve never met your wife.</content></utterance>
+<utterance uid="15-3"><speaker>OLLIE</speaker><content>Who told you I was a cheater?</content></utterance>
+<utterance uid="15-4"><speaker>CASTLE</speaker><content>Whitney did.</content></utterance>
+<utterance uid="15-5"><speaker>OLLIE</speaker><content>Damn it! I knew it. Look, everything that woman said to you was a lie.</content></utterance>
+<utterance uid="15-6"><speaker>DAISY MAY</speaker><content>Ollie, what in tarnation?  Mister, are you okay?</content></utterance>
+<utterance uid="15-7"><speaker>CASTLE</speaker><content>You thought that was real? Yes! … Ollie, up high.</content></utterance>
+<utterance uid="15-8"><speaker>DAISY MAY</speaker><content>He – you asked him to throw you out?</content></utterance>
+<utterance uid="15-9"><speaker>CASTLE</speaker><content>Yeah, like old west style. Ollie’s been fantastic. He’s been all yee-haw and pew-pew – </content></utterance>
+<utterance uid="15-10"><speaker>DAISY MAY</speaker><content>Well, all righty then. Just as long as you’re enjoying yourself.</content></utterance>
+<utterance uid="15-11"><speaker>OLLIE</speaker><content>Damn. That could have cost me my job. Look, mister, I’m sorry.</content></utterance>
+<utterance uid="15-12"><speaker>CASTLE</speaker><content>Save it. You want my silence? Tell me about Whitney. What happened between you two?</content></utterance>
+<utterance uid="15-13"><speaker>OLLIE</speaker><content>Look, she came on to me. Started flirting, getting all handsy. A bunch of the boys saw us and figured we hooked up, but we didn’t. I swear it. In fact, I think she was just after my ranch key.</content></utterance>
+<utterance uid="15-14"><speaker>CASTLE</speaker><content>Ranch key?</content></utterance>
+<utterance uid="15-15"><speaker>OLLIE</speaker><content>A snake keychain. I think she picked it off me when she was pawing at me.</content></utterance>
+<utterance uid="15-16"><speaker>CASTLE</speaker><content>What does the key open?</content></utterance>
+<utterance uid="15-17"><speaker>OLLIE</speaker><content>The ranch shed.</content></utterance>
+<utterance uid="15-18"><speaker>CASTLE</speaker><content>Wait a minute. You’re saying that she stole you key to open the ranch shed? What’s in the shed?</content></utterance>
+<utterance uid="15-19"><speaker>OLLIE</speaker><content>Nothing. Just ranch supplies.</content></utterance>
+</scene>
+
+<scene id="16"><utterance uid="16-1"><speaker>CASTLE</speaker><content>I don’t get it. Why would Whitney steal a key to this place?</content></utterance>
+<utterance uid="16-2"><speaker>BECKETT</speaker><content>I don’t know, but clearly it has nothing to do with the affair.</content></utterance>
+<utterance uid="16-3"><speaker>CASTLE</speaker><content>Right. So what was she after?</content></utterance>
+<utterance uid="16-4"><speaker>BECKETT</speaker><content>Castle, do you remember how Lanie said she found traces of wax covered cardboard under Whitney’s nails and in her waistband?</content></utterance>
+<utterance uid="16-5"><speaker>CASTLE</speaker><content>Yeah, so?</content></utterance>
+<utterance uid="16-6"><speaker>BECKETT</speaker><content>So you know what’s covered in wax covered cardboard?  Dynamite. She broke in here to steal sticks of these.</content></utterance>
+<utterance uid="16-7"><speaker>CASTLE</speaker><content>Ranchers use dynamite to clear the land. What the hell was Whitney using it for?</content></utterance>
+</scene>
+
+<scene id="17"><utterance uid="17-1"><speaker>RYAN</speaker><content>Is there any indication why Whitney would steal dynamite?</content></utterance>
+<utterance uid="17-2"><speaker>BECKETT</speaker><content>Not yet, but Castle and I have been retracing every move she made, starting with that horseback riding tour that she snuck away from.</content></utterance>
+<utterance uid="17-3"><speaker>ESPOSITO</speaker><content>Any idea where she was going?</content></utterance>
+<utterance uid="17-4"><speaker>BECKETT</speaker><content>I asked around and apparently the trail that she took led to the Native American reservation.</content></utterance>
+<utterance uid="17-5"><speaker>ESPOSITO</speaker><content>Wait a minute, it wasn’t the Yavapai reservation, was it?</content></utterance>
+<utterance uid="17-6"><speaker>BECKETT</speaker><content>Yeah. How’d you know?</content></utterance>
+<utterance uid="17-7"><speaker>RYAN</speaker><content>The historical society. Whitney was looking up obscure documents and maps from the late 18th, early 19th century.</content></utterance>
+<utterance uid="17-8"><speaker>ESPOSITO</speaker><content>Yeah. Most of them had to do with the construction of a dam near the Yavapai reservation.</content></utterance>
+<utterance uid="17-9"><speaker>BECKETT</speaker><content>Well, did anyone know why she was researching that area?</content></utterance>
+<utterance uid="17-10"><speaker>ESPOSITO</speaker><content>No, but it’s probably the reason why she went out there in the first place.</content></utterance>
+<utterance uid="17-11"><speaker>RYAN</speaker><content>But it doesn’t explain why Whitney needed dynamite or why she was poisoned.</content></utterance>
+<utterance uid="17-12"><speaker>BECKETT</speaker><content>Look, it’s all got to be related. Castle and I are headed out to the reservation to get some answers … now.  Uh … guys? I gotta go.</content></utterance>
+<utterance uid="17-13"><speaker>CASTLE</speaker><content>Hey there. Beckett, meet the boys.  This one’s Esposito and I’m calling the little one Ryan. You ready?</content></utterance>
+<utterance uid="17-14"><speaker>BECKETT</speaker><content>Uh, Castle, when I asked you to find us a ride I was thinking something more along the lines of a pickup truck. The reservation’s fifteen miles away. This is going to take forever.</content></utterance>
+<utterance uid="17-15"><speaker>CASTLE</speaker><content>Yeah well, what can I tell you? Everything is authentic old west.</content></utterance>
+<utterance uid="17-16"><speaker>BECKETT</speaker><content>Really? Couldn’t resist. You just had to get a six-shooter.</content></utterance>
+<utterance uid="17-17"><speaker>CASTLE</speaker><content>Right? Isn’t it great? And it gets better.  I got you one, too. His and hers matching set.</content></utterance>
+<utterance uid="17-18"><speaker>BECKETT</speaker><content>And who says romance dies after you say ‘I do’?</content></utterance>
+<utterance uid="17-19"><speaker>CASTLE</speaker><content>Esposito! Ryan! He-yaw!</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>YAVAPAI ELDER</speaker><content>Seriously? You’re rolling up to the reservation dressed like extras from a Gene Autry movie? That’s some real cultural insensitivity.</content></utterance>
+<utterance uid="18-2"><speaker>BECKETT</speaker><content>Sorry. Sir, we didn’t mean any offense. We’re – we’re vacationing at Diamondback.</content></utterance>
+<utterance uid="18-3"><speaker>YAVAPAI ELDER</speaker><content>Yeah, I figured that. I was just messing with you folks. Relax.</content></utterance>
+<utterance uid="18-4"><speaker>CASTLE</speaker><content>He got me.</content></utterance>
+<utterance uid="18-5"><speaker>YAVAPAI ELDER</speaker><content>Welcome.</content></utterance>
+<utterance uid="18-6"><speaker>CASTLE</speaker><content>Well, I’m Rick.</content></utterance>
+<utterance uid="18-7"><speaker>BECKETT</speaker><content>Yes.</content></utterance>
+<utterance uid="18-8"><speaker>CASTLE</speaker><content>This here is Kate. And we are on our honeymoon. Ain’t we, honey?</content></utterance>
+<utterance uid="18-9"><speaker>BECKETT</speaker><content>Yeah, we sure are. Um, so we met a guest at Diamondback. Her name was Whitney. She said that she came out here and she discovered some breathtaking views.</content></utterance>
+<utterance uid="18-10"><speaker>YAVAPAI ELDER</speaker><content>Yeah sure, I remember Whitney. Nice girl.</content></utterance>
+<utterance uid="18-11"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="18-12"><speaker>YAVAPAI ELDER</speaker><content>She came out a few days ago riding an Appaloosa. But she wasn’t interested in the scenery.</content></utterance>
+<utterance uid="18-13"><speaker>CASTLE</speaker><content>Really? What was she uh, … interested in?</content></utterance>
+<utterance uid="18-14"><speaker>BECKETT</speaker><content>Did it have anything to do with dynamite?</content></utterance>
+<utterance uid="18-15"><speaker>YAVAPAI ELDER</speaker><content>Dynamite? No. She just had a question about a Yavapai word.</content></utterance>
+<utterance uid="18-16"><speaker>CASTLE</speaker><content>What word was that?</content></utterance>
+<utterance uid="18-17"><speaker>YAVAPAI ELDER</speaker><content>A’hag’a’haila. She wanted to know if it could be misinterpreted.</content></utterance>
+<utterance uid="18-18"><speaker>CASTLE</speaker><content>Seems an odd question.</content></utterance>
+<utterance uid="18-19"><speaker>YAVAPAI ELDER</speaker><content>Not really. Many of our words change depending on the context. A’hag’a’haila means river, but sometimes it means stream.</content></utterance>
+<utterance uid="18-20"><speaker>BECKETT</speaker><content>Why would she want to know about that word?</content></utterance>
+<utterance uid="18-21"><speaker>YAVAPAI ELDER</speaker><content>I have no idea. But Whitney was happy with my answer. She thanked me and left.</content></utterance>
+<utterance uid="18-22"><speaker>CASTLE</speaker><content>And that was it? I don’t get it.</content></utterance>
+<utterance uid="18-23"><speaker>YAVAPAI ELDER</speaker><content>Yeah well, I don’t get newlyweds dressing up like cowboys on their honeymoon.  But I try not to judge.</content></utterance>
+</scene>
+
+<scene id="19"><utterance uid="19-1"><speaker>CASTLE</speaker><content>You know, the more we learn about Whitney the less I understand what she was up to.</content></utterance>
+<utterance uid="19-2"><speaker>BECKETT</speaker><content>Yeah. I mean, the historical society, the Yavapai word, the dynamite. How does all of that add up to someone poisoning Whitney? It just doesn’t make sense.</content></utterance>
+<utterance uid="19-3"><speaker>CASTLE</speaker><content>You know what else doesn’t make sense is that we’re married. And … we’re not acting like it.</content></utterance>
+<utterance uid="19-4"><speaker>BECKETT</speaker><content>Oh? What do you got in mind, cowboy?</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>CASTLE</speaker><content>Admit it. You’re impressed.</content></utterance>
+<utterance uid="20-2"><speaker>BECKETT</speaker><content>Yeah, you’re right. I am. This is actually … kind of magical.</content></utterance>
+<utterance uid="20-3"><speaker>CASTLE</speaker><content>To us. To the journey and to what lies ahead.</content></utterance>
+<utterance uid="20-4"><speaker>CASTLE</speaker><content>What?</content></utterance>
+<utterance uid="20-5"><speaker>BECKETT</speaker><content>You know, maybe this is our honeymoon.  Hmm?</content></utterance>
+<utterance uid="20-6"><speaker>BECKET</speaker><content>Castle? Don’t move.</content></utterance>
+<utterance uid="20-7"><speaker>CASTLE</speaker><content> Your wish is my command.</content></utterance>
+<utterance uid="20-8"><speaker>BECKETT</speaker><content>No, I’m serious. Don’t move an inch.</content></utterance>
+<utterance uid="20-9"><speaker>CASTLE</speaker><content>Oh, no. No! No, no. No, no, no. Espo! Ryan! Come back! Guys, no! Come back!</content></utterance>
+<utterance uid="20-10"><speaker>CASTLE</speaker><content>Well, you were right before. This is so not our honeymoon.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>GRADY</speaker><content>Well, thank goodness. We were fixing to put together a posse to go searching for the two of you.</content></utterance>
+<utterance uid="21-2"><speaker>BECKETT</speaker><content>Yeah, sorry, Mr. Grady. We tried to call you but we couldn’t get a signal in the hills.</content></utterance>
+<utterance uid="21-3"><speaker>GRADY</speaker><content>Your horses came back hours ago. What happened up there?</content></utterance>
+<utterance uid="21-4"><speaker>CASTLE</speaker><content> We met a namesake of your ranch.</content></utterance>
+<utterance uid="21-5"><speaker>GRADY</speaker><content>Oh… rattler. Yeah. Well, why don’t you mosey on over to the cantina and strap on a feedbag and get some fresh jitter juice in you?</content></utterance>
+<utterance uid="21-6"><speaker>BECKETT</speaker><content>Yeah, I think we’ll do that.</content></utterance>
+<utterance uid="21-7"><speaker>CASTLE</speaker><content>Yeah, just as soon as we get on some fresh union suits.</content></utterance>
+<utterance uid="21-8"><speaker>CASTLE</speaker><content>Yee-haw.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>GATES</speaker><content>You found our victim’s suitcases?</content></utterance>
+<utterance uid="22-2"><speaker>ESPOSITO</speaker><content>Yes, sir. Our BOLO got a hit on the homeless guy who took them from the subway.</content></utterance>
+<utterance uid="22-3"><speaker>RYAN</speaker><content>Inside –  - Whitney’s research. And something we haven’t seen before. A letter.</content></utterance>
+<utterance uid="22-4"><speaker>ESPOSITO</speaker><content>There’s no return address, but it’s got an Arizona postmark dated 1992.</content></utterance>
+<utterance uid="22-5"><speaker>GATES</speaker><content>A twenty year old letter?  “Slim, care of Rebecca Doolin”. Jersey address.</content></utterance>
+<utterance uid="22-6"><speaker>ESPOSITO</speaker><content>We’re hoping to track down Ms. Doolin so we can get some answers.</content></utterance>
+<utterance uid="22-7"><speaker>RYAN</speaker><content>The letter’s from a guy named Clyde. We assume that the photograph is him.</content></utterance>
+<utterance uid="22-8"><speaker>GATES</speaker><content>It says here that Clyde was a seasonal worker at Diamondback.</content></utterance>
+<utterance uid="22-9"><speaker>RYAN</speaker><content>Yeah, twenty years ago before the place was a resort. But here’s the interesting part. In the letter Clyde goes on about how he and a guy named Dutch were close to figuring out some big secret.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>CASTLE</speaker><content>What big secret?</content></utterance>
+<utterance uid="23-2"><speaker>RYAN</speaker><content>Uh, it doesn’t say. But Clyde wrote, “I just need a few more weeks, Slim. Dutch and I are so close. It all comes down to a mistranslation of a Yavapai word –“</content></utterance>
+<utterance uid="23-3"><speaker>CASTLE</speaker><content>Let me guess. A’hag’a’haila.</content></utterance>
+<utterance uid="23-4"><speaker>RYAN</speaker><content>Yeah. How’d you know?</content></utterance>
+<utterance uid="23-5"><speaker>CASTLE</speaker><content>It’s the same word Whitney was asking the Yavapai elder about.</content></utterance>
+<utterance uid="23-6"><speaker>RYAN</speaker><content>Well, Clyde goes on to write, “I can hardly believe it. One little old word is the key to the secret of the Peacock Boys. Soon as I find it, I’m coming on home to you. Love, Clyde.”</content></utterance>
+<utterance uid="23-7"><speaker>CASTLE</speaker><content> The Peacock Boys - How do I know that –  They’re wanted men. Cornelius and Percy Pea – - ****.</content></utterance>
+<utterance uid="23-8"><speaker>BECKETT</speaker><content>Hey Ryan, any idea who those people in the letter are?</content></utterance>
+<utterance uid="23-9"><speaker>RYAN</speaker><content>No, but Javi’s trying to track down the lady who the letter was sent to. I’ll keep you posted.</content></utterance>
+<utterance uid="23-10"><speaker>CASTLE</speaker><content> Yes, posted. Keep – keep us – thank you. Thank you, Ryan.</content></utterance>
+<utterance uid="23-11"><speaker>BECKETT</speaker><content>Eyes back in their sockets, cowboy. We’ve got a murder to solve.</content></utterance>
+<utterance uid="23-12"><speaker>CASTLE</speaker><content>Right.</content></utterance>
+<utterance uid="23-13"><speaker>BECKETT</speaker><content>Now, who is this Clyde fellow and why did our victim have his letter? And what does any of this have to do with the Peacock Boys?</content></utterance>
+<utterance uid="23-14"><speaker>CASTLE</speaker><content>Good questions, and I know who has the answers.</content></utterance>
+<utterance uid="23-15"><speaker>BECKETT</speaker><content>You do?</content></utterance>
+<utterance uid="23-16"><speaker>CASTLE</speaker><content>The same person who always has the answers in westerns. The affable, all-knowing barkeep.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>BARTENDER</speaker><content>Train robbers. Held up the Southern Pacific back in 1893. Made off with fifty bars of U.S Treasury gold.</content></utterance>
+<utterance uid="24-2"><speaker>CASTLE</speaker><content>Gold?</content></utterance>
+<utterance uid="24-3"><speaker>BARTENDER</speaker><content>Twenty-four carat AU, fella. Them Peacock Boys, they outrun a whole squad of soldiers by traversing Dead Man’s Gorge. Two days later they was gunned down just outside of Phoenix. But the gold was gone.</content></utterance>
+<utterance uid="24-4"><speaker>BECKETT</speaker><content>And no one knows anything about it?</content></utterance>
+<utterance uid="24-5"><speaker>BARTENDER</speaker><content>There were rumors. In 1947 missionaries started writing down the old stories of the Yavapai people. One of them was about Black Fox. Just a kid, abducted by them Peacock Boys, forced him to be their guide. But during their journey they stopped and they tied that poor Black Fox to a tree. It was just south of the river. They rode off in their gold-laden wagon. But when they returned … it was empty.</content></utterance>
+<utterance uid="24-6"><speaker>CASTLE</speaker><content>The Peacock Brothers stashed the gold.</content></utterance>
+<utterance uid="24-7"><speaker>BARTENDER</speaker><content>That’s what everybody thought. When the story surfaced, treasure hunters, they came a-coming.</content></utterance>
+<utterance uid="24-8"><speaker>CASTLE</speaker><content>Anybody ever find it?</content></utterance>
+<utterance uid="24-9"><speaker>BARTENDER</speaker><content>Nope. And that’s why this is just another legend of the old west.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>CASTLE</speaker><content>Whitney was after the gold. What if, when those missionaries wrote down Black Fox’s story, they wrote it down incorrectly? That Yavapai word has two meanings, remember. What if the Peacocks didn’t stash the gold near a river? What if they stashed it near a stream?</content></utterance>
+<utterance uid="25-2"><speaker>BECKETT</speaker><content>Castle, look at these maps from Whitney’s research.  In 1893 there was a stream north of the river and then in 1920 it was dammed off.</content></utterance>
+<utterance uid="25-3"><speaker>CASTLE</speaker><content>Wait, that means for all those years, everyone was looking for the gold in the wrong place.</content></utterance>
+<utterance uid="25-4"><speaker>BECKETT</speaker><content>- in the wrong place.</content></utterance>
+<utterance uid="25-5"><speaker>CASTLE</speaker><content>That’s why Whitney needed the dynamite – to blast open whatever hiding place it was in. But what do you do when you discover fifty bars of gold? Fly it home in your carryon? Of course not. So she left it there, she went back to New York for help, but perhaps the killer caught on to her, poisoned her to silence her, and to keep the gold for themselves.</content></utterance>
+<utterance uid="25-6"><speaker>BECKETT</speaker><content>When she went home Whitney was upset. Does that sound like someone who just found gold?</content></utterance>
+<utterance uid="25-7"><speaker>CASTLE</speaker><content>Okay. You got me there. But if Whitney was searching for the gold and the killer tracked her … there could be clues.</content></utterance>
+<utterance uid="25-8"><speaker>BECKETT</speaker><content>We keep assuming that the gold’s still out there. Don’t forget, Clyde and Dutch were looking for it. They might have found it.</content></utterance>
+<utterance uid="25-9"><speaker>CASTLE</speaker><content>Not if they didn’t have those old maps that Whitney had.</content></utterance>
+<utterance uid="25-10"><speaker>BECKETT</speaker><content>You just want to go after the gold.</content></utterance>
+<utterance uid="25-11"><speaker>CASTLE</speaker><content>Of course I want to go after the gold! It’s gold!  Okay, look. If we use Whitney’s research, we may find Whitney’s killer, too.  Come on, Beckett. What do you say?</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>REBECCA DOOLIN</speaker><content>Yeah, that’s me. But I haven’t lived at this address in years.</content></utterance>
+<utterance uid="26-2"><speaker>ESPOSITO</speaker><content>Rebecca, who is Slim?</content></utterance>
+<utterance uid="26-3"><speaker>REBECCA</speaker><content>She was a friend of mine. Her real name’s Virginia Williams.</content></utterance>
+<utterance uid="26-4"><speaker>ESPOSITO</speaker><content>Wait. Does she have a daughter named Whitney?</content></utterance>
+<utterance uid="26-5"><speaker>REBECCA</speaker><content>Virginia was pregnant with Whitney when she stayed with me. Virginia was a real mess back then.</content></utterance>
+<utterance uid="26-6"><speaker>ESPOSITO</speaker><content>How so?</content></utterance>
+<utterance uid="26-7"><speaker>REBECCA</speaker><content>Knocked up, no money, no prospects. Virginia got so fed up with getting letters like these she finally wrote Clyde a dear John letter and moved on.</content></utterance>
+<utterance uid="26-8"><speaker>ESPOSITO</speaker><content>Wait, are you saying that Clyde is Whitney’s father?</content></utterance>
+<utterance uid="26-9"><speaker>REBECCA</speaker><content>Uh huh.</content></utterance>
+<utterance uid="26-10"><speaker>ESPOSITO</speaker><content>Do you have any idea where Clyde is now?</content></utterance>
+<utterance uid="26-11"><speaker>REBECCA</speaker><content>It’s been twenty years. How would I know?</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>BECKETT</speaker><content>Whitney must have found Clyde’s letters after her mother passed.</content></utterance>
+<utterance uid="27-2"><speaker>CASTLE</speaker><content>Yeah, and that’s what started her quest. Now … according to the map, the stream used to be right around here.  I think. Maybe.  I don’t know.</content></utterance>
+<utterance uid="27-3"><speaker>BECKETT</speaker><content>Castle, what are you doing?</content></utterance>
+<utterance uid="27-4"><speaker>CASTLE</speaker><content>I am tracking Whitney’s path to the gold.</content></utterance>
+<utterance uid="27-5"><speaker>BECKETT</speaker><content>And … how are you doing that?</content></utterance>
+<utterance uid="27-6"><speaker>CASTLE</speaker><content> By staring at the dirt. That’s how they do it in all the old Westerns.</content></utterance>
+<utterance uid="27-7"><speaker>BECKETT</speaker><content>Yes, because they’re cowboys. You’re a New Yorker. An easterner. A city slicker.</content></utterance>
+<utterance uid="27-8"><speaker>CASTLE</speaker><content>Yes, and because I’m a city slicker I can tell you with absolute certainty, Whitney was here.</content></utterance>
+<utterance uid="27-9"><speaker>BECKETT</speaker><content>How? You don’t know how to read tracks.</content></utterance>
+<utterance uid="27-10"><speaker>CASTLE</speaker><content>No. No, no. But because I’m a New Yorker, I know how to read litter.  Check this out. Charred, wax covered cardboard.</content></utterance>
+<utterance uid="27-11"><speaker>BECKETT</speaker><content>Whitney must have detonated the dynamite nearby.  We’re close.</content></utterance>
+<utterance uid="27-12"><speaker>CASTLE</speaker><content>Ah. More there.  Beckett … look at this.</content></utterance>
+<utterance uid="27-13"><speaker>CASTLE</speaker><content>There’s gold in them there hills.  You go first. Check for snakes.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>CASTLE</speaker><content>Oh ho ho. This place is old. This mine must have been abandoned before the Peacock Boys stashed their loot.</content></utterance>
+<utterance uid="28-2"><speaker>BECKETT</speaker><content>Slow down, Castle. Just be careful.</content></utterance>
+<utterance uid="28-3"><speaker>CASTLE</speaker><content>Are you kidding? There’s treasure in here. Whitney found the gold.</content></utterance>
+<utterance uid="28-4"><speaker>BECKETT</speaker><content>Or Clyde found the gold and split it with his buddy Dutch and simply abandoned Whitney and her mom.</content></utterance>
+<utterance uid="28-5"><speaker>CASTLE</speaker><content>I’m absolutely positive Clyde didn’t find the gold.</content></utterance>
+<utterance uid="28-6"><speaker>BECKETT</speaker><content>And how can you be so sure, huh?</content></utterance>
+<utterance uid="28-7"><speaker>CASTLE</speaker><content>Because it’s still here. For over a century, fifty ingots of pure gold have been trapped in this cold, dark tomb, waiting patiently to be rescued.  You hear that, Beckett? You hear them calling?</content></utterance>
+<utterance uid="28-8"><speaker>CASTLE</speaker><content>Calling to me? Your wait is over, my golden friends. I’m here to save you.</content></utterance>
+<utterance uid="28-9"><speaker>CASTLE</speaker><content>Okay! That’s not gold!</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>BECKETT</speaker><content>That’s blunt force trauma.</content></utterance>
+<utterance uid="29-2"><speaker>CASTLE</speaker><content>Yep. And given this hat, I’m pretty sure I know who the victim is.</content></utterance>
+<utterance uid="29-3"><speaker>BECKETT</speaker><content>It’s Clyde.</content></utterance>
+<utterance uid="29-4"><speaker>CASTLE</speaker><content>Yep.</content></utterance>
+<utterance uid="29-5"><speaker>BECKETT</speaker><content>Castle, do you think that Whitney came out here to find her dad?</content></utterance>
+<utterance uid="29-6"><speaker>CASTLE</speaker><content>Well, it explains why she was so upset when she left. You were right. Clyde found the treasure years ago.</content></utterance>
+<utterance uid="29-7"><speaker>BECKETT</speaker><content>Yeah, but then his buddy Dutch double-crossed him. Dutch took the gold for himself, left his bloodstained shirt behind –</content></utterance>
+<utterance uid="29-8"><speaker>CASTLE</speaker><content>And if he killed once, what’s to stop him from killing again to protect his secret? Wait. If Whitney found her murdered father, why not just go straight to the sheriff? Why take the first flight home?</content></utterance>
+<utterance uid="29-9"><speaker>BECKETT</speaker><content>To confront her father’s killer. Dutch was just his nickname. Castle, look. There’s a laundry tag on this shirt. It has the initials “P.D.”.</content></utterance>
+<utterance uid="29-10"><speaker>CASTLE</speaker><content>Phillip Dagmar.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>DAGMAR</speaker><content>I had nothing to do with Whitney’s death.</content></utterance>
+<utterance uid="30-2"><speaker>RYAN</speaker><content>Are you sure about that, Mr. Dagmar? Or should we call you Dutch?</content></utterance>
+<utterance uid="30-3"><speaker>RYAN</speaker><content>We checked your phone records. There was a call from the ranch payphone to your cell phone the morning of Whitney’s murder.</content></utterance>
+<utterance uid="30-4"><speaker>ESPOSITO</speaker><content>She called you, didn’t she? What did she say?</content></utterance>
+<utterance uid="30-5"><speaker>DAGMAR</speaker><content>That she was flying home. She needed to speak with me in person.</content></utterance>
+<utterance uid="30-6"><speaker>ESPOSITO</speaker><content>Why didn’t you tell me this before?</content></utterance>
+<utterance uid="30-7"><speaker>DAGMAR</speaker><content>Because it makes me look guilty.</content></utterance>
+<utterance uid="30-8"><speaker>ESPOSITO</speaker><content>You’re right. It does.</content></utterance>
+<utterance uid="30-9"><speaker>RYAN</speaker><content>I bet you still got connections in that one horse town, don’t you?</content></utterance>
+<utterance uid="30-10"><speaker>DAGMAR</speaker><content>Why would I kill Whitney?</content></utterance>
+<utterance uid="30-11"><speaker>ESPOSITO</speaker><content>Because she knew about your secret, Dutch. We found Clyde’s skeleton.</content></utterance>
+<utterance uid="30-12"><speaker>RYAN</speaker><content>The skeleton you left when you took those fifty bars of gold.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>GRADY</speaker><content>So you’re saying that the story about the Peacock Boys and the gold is true?</content></utterance>
+<utterance uid="31-2"><speaker>CASTLE</speaker><content>Yep. And someone found out the hard way.</content></utterance>
+<utterance uid="31-3"><speaker>DAISY MAY</speaker><content>Well, that’s not going to be good for business.</content></utterance>
+<utterance uid="31-4"><speaker>SHERIFF</speaker><content>Now don’t you worry none. All that nonsense is from long before you all bought the place. It’s not going to scare anyone off. And I’ll make sure of it.</content></utterance>
+<utterance uid="31-5"><speaker>DAISY MAY</speaker><content>I appreciate that, Sheriff.</content></utterance>
+<utterance uid="31-6"><speaker>SHERIFF</speaker><content>Jimmy, I should could use the ranch’s ATVs to get up to this mine.</content></utterance>
+<utterance uid="31-7"><speaker>GRADY</speaker><content>Of course. We’ve got two of them. They’re all yours.</content></utterance>
+<utterance uid="31-8"><speaker>DAISY MAY</speaker><content>Come on. I’ll take you to them.</content></utterance>
+<utterance uid="31-9"><speaker>SHERIFF</speaker><content>Detective, would you mind showing me the way?</content></utterance>
+<utterance uid="31-10"><speaker>BECKETT</speaker><content>Not a problem.  Try to stay out of trouble while I’m gone, Castle.</content></utterance>
+<utterance uid="31-11"><speaker>CASTLE</speaker><content>Where’s the fun in that?</content></utterance>
+<utterance uid="31-12"><speaker>GRADY</speaker><content>Sounds like you had a hell of a day, son.  Want to bend an elbow and tell me all about it?  Drinks are on me.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>DAGMAR</speaker><content>I did the best I could, for Whitney. All these years. But she wanted to find out what happened to her father. God, I can’t believe she found him.</content></utterance>
+<utterance uid="32-2"><speaker>ESPOSITO</speaker><content>And when she did you knew exactly what to do, didn’t you?</content></utterance>
+<utterance uid="32-3"><speaker>RYAN</speaker><content>So you hired someone to poison her.</content></utterance>
+<utterance uid="32-4"><speaker>DAGMAR</speaker><content>No, no, no. I didn’t kill Whitney. But I think I know who did.</content></utterance>
+<utterance uid="32-5"><speaker>ESPOSITO</speaker><content>Come on, Dutch. We know it was you.</content></utterance>
+<utterance uid="32-6"><speaker>DAGMAR</speaker><content>Clyde and I couldn’t find the location of the old stream. So we enlisted the help of someone who grew up in the town. Clyde and I planned to turn in the gold and collect the finder’s fee from the treasury. But our new partner disagreed. They fought. And Clyde fell, landed on a rock, and hit his head. He was dead in minutes. That’s when I sold my soul. For twenty five bars of gold.</content></utterance>
+<utterance uid="32-7"><speaker>RYAN</speaker><content>Mr. Dagmar, who was your other partner?</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>CASTLE</speaker><content> Smooth.</content></utterance>
+<utterance uid="33-2"><speaker>CASTLE</speaker><content>Oh. Excuse me. Ah.  Ryan, they didn’t have mobile phones in the old west so you’re kind of killing the vibe. And my buzz.</content></utterance>
+<utterance uid="33-3"><speaker>RYAN</speaker><content>Listen, is Beckett with you?</content></utterance>
+<utterance uid="33-4"><speaker>CASTLE</speaker><content>No, why?</content></utterance>
+<utterance uid="33-5"><speaker>RYAN</speaker><content>I’ve been calling and texting. She’s not answering.</content></utterance>
+<utterance uid="33-6"><speaker>CASTLE</speaker><content>Oh, she’s on an ATV. She probably can’t hear her phone. What’s up?</content></utterance>
+<utterance uid="33-7"><speaker>RYAN</speaker><content>There was a third partner. He’s the killer.</content></utterance>
+<utterance uid="33-8"><speaker>CASTLE</speaker><content>The Sheriff?</content></utterance>
+<utterance uid="33-9"><speaker>RYAN</speaker><content>No. It’s James Grady.</content></utterance>
+<utterance uid="33-10"><speaker>GRADY</speaker><content>Well, I guess this is goodbye.</content></utterance>
+<utterance uid="33-11"><speaker>CASTLE</speaker><content>Grady, stop.</content></utterance>
+<utterance uid="33-12"><speaker>GRADY</speaker><content>Who’s going to make me, son? You?</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>CASTLE</speaker><content>Well, look, Grady, you uh … you kill me, that’s just another murder you’re going to have to answer for.</content></utterance>
+<utterance uid="34-2"><speaker>GRADY</speaker><content>Not if I make it to Mexico first.</content></utterance>
+<utterance uid="34-3"><speaker>CASTLE</speaker><content>I can’t let that happen.</content></utterance>
+<utterance uid="34-4"><speaker>GRADY</speaker><content> You’ve got sand, boy, I’ll give you that much. Why don’t you just sit on down and have another drink. Come on, son. Think of your wife.</content></utterance>
+<utterance uid="34-5"><speaker>CASTLE</speaker><content>I am.</content></utterance>
+<utterance uid="34-6"><speaker>GRADY</speaker><content>Fine. You got a hankering for a residence in the bone orchard, I’ll accommodate you.  Any last words?</content></utterance>
+<utterance uid="34-7"><speaker>CASTLE</speaker><content>Yeah. If I survive this I’m giving this place a scathing review on Yelp.</content></utterance>
+<utterance uid="34-8"><speaker>CASTLE</speaker><content>Hey! I uh, guess you got Ryan’s message.</content></utterance>
+<utterance uid="34-9"><speaker>BECKETT</speaker><content>Castle, I leave you alone for five minutes and you end up in a showdown?</content></utterance>
+<utterance uid="34-10"><speaker>CASTLE</speaker><content>Yeah well –  – good thing I married the fastest gun from the east.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>SHERIFF</speaker><content>Given that Whitney checked in under her own name, Grady may have been on to her from the moment she arrived.</content></utterance>
+<utterance uid="35-2"><speaker>CASTLE</speaker><content>Probably didn’t take him long to figure out why she came.</content></utterance>
+<utterance uid="35-3"><speaker>BECKETT</speaker><content>And when he did he must have followed her to the mine and seen what she discovered.</content></utterance>
+<utterance uid="35-4"><speaker>SHERIFF</speaker><content>Yep. On the morning she left, Grady made specific internet searches on foxglove poisoning.</content></utterance>
+<utterance uid="35-5"><speaker>BECKETT</speaker><content>Sounds like you’ve got him dead-to-rights, Sheriff.</content></utterance>
+<utterance uid="35-6"><speaker>SHERIFF</speaker><content>Well, with what you did here, we sure do.  Detective, I’m in your debt.  You all take care of yourselves.</content></utterance>
+<utterance uid="35-7"><speaker>CASTLE</speaker><content>Thank you, Sheriff.</content></utterance>
+<utterance uid="35-8"><speaker>CASTLE</speaker><content>Well, I guess we cleaned up this town.</content></utterance>
+<utterance uid="35-9"><speaker>BECKETT</speaker><content>Yeah, I reckon we did.</content></utterance>
+<utterance uid="35-10"><speaker>CASTLE</speaker><content>So I guess it’s time to go home.</content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>ESPOSITO</speaker><content>Nah, nah. You know what really gets me? Is that they only invited immediate family. What, we’re not family?</content></utterance>
+<utterance uid="36-2"><speaker>RYAN</speaker><content>More like poor relations.</content></utterance>
+<utterance uid="36-3"><speaker>RYAN</speaker><content>And we’re probably the reason they fell in love in the first place.</content></utterance>
+<utterance uid="36-4"><speaker>ESPOSITO</speaker><content>Right?</content></utterance>
+<utterance uid="36-5"><speaker>GATES</speaker><content>You know, I’ve been listening to your bellyaching for the last few days. And I have to ask, what the hell’s wrong with you two?</content></utterance>
+<utterance uid="36-6"><speaker>ESPOSITO</speaker><content>Come on, sir. It doesn’t bother you?</content></utterance>
+<utterance uid="36-7"><speaker>GATES</speaker><content>You really want to know what I think, Detectives? I think that the two of you should stop whining like two little schoolgirls who weren’t invited to the dance and be happy that your friends, you very dear friends, have found a way to make it work. Especially after all the hell those two have been through. Now, that’s what I think.</content></utterance>
+<utterance uid="36-8"><speaker>RYAN</speaker><content>Well, when you put it that way …</content></utterance>
+<utterance uid="36-9"><speaker>ESPOSITO</speaker><content>Yeah, I mean, I guess in some opinions we have been kind of jerks about it, so …</content></utterance>
+<utterance uid="36-10"><speaker>RYAN</speaker><content>Right.</content></utterance>
+<utterance uid="36-11"><speaker>GATES</speaker><content>Yeah. You have. But, if you’re interested there might be something you can do to make it up to them.</content></utterance>
+</scene>
+<scene id="37"><utterance uid="37-1"><speaker>TOBIAS</speaker><content>Well, Rick, I’m sorry to see you guys go.</content></utterance>
+<utterance uid="37-2"><speaker>CASTLE</speaker><content>Oh, yeah, me too. But it couldn’t be helped.</content></utterance>
+<utterance uid="37-3"><speaker>BECKETT</speaker><content>Hey there, cowboy. Where’re you off to in such a hurry?</content></utterance>
+<utterance uid="37-4"><speaker>CASTLE</speaker><content>Beckett, what are you doing? We’re going to miss our flight. You’ve gotta be in the office by morning.</content></utterance>
+<utterance uid="37-5"><speaker>BECKETT</speaker><content>No, I don’t.</content></utterance>
+<utterance uid="37-6"><speaker>CASTLE</speaker><content>Yeah, you do. You don’t have any personal days left.</content></utterance>
+<utterance uid="37-7"><speaker>BECKETT</speaker><content>Actually, I kinda do.  For our wedding gift Ryan and Esposito have both agreed to give me two of their vacation days each.</content></utterance>
+<utterance uid="37-8"><speaker>CASTLE</speaker><content>They did?</content></utterance>
+<utterance uid="37-9"><speaker>BECKETT</speaker><content>Yeah. So now we have four days to do whatever … we … want.</content></utterance>
+<utterance uid="37-10"><speaker>CASTLE</speaker><content>And you want to stay here?</content></utterance>
+<utterance uid="37-11"><speaker>BECKETT</speaker><content>Of course I want to stay. After all, this is our honeymoon.</content></utterance>
+<utterance uid="37-12"><speaker>BECKETT</speaker><content>Oh, wait. We’re still gonna go to that island getaway, right?</content></utterance>
+<utterance uid="37-13"><speaker>CASTLE</speaker><content>Yes, absolutely.</content></utterance>
+<utterance uid="37-14"><speaker>BECKETT</speaker><content>Okay.</content></utterance>
+</scene>
+</script>

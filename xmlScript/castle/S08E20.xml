@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>ZANE</speaker><content>To be, or not to be, that is the question. Whether it is nobler -  Whether it - Whether it’s - What?  Whether ’tis - Whether ’tis - ’tis - ’tis.</content></utterance>
+<utterance uid="1-2"><speaker>ZANE</speaker><content>Connect to the words. Connect to me. Connect the words to me.</content></utterance>
+<utterance uid="1-3"><speaker>ZANE</speaker><content>To be, or not to be, that is the question. Whether ’tis nobler in the mind to suffer -</content></utterance>
+<utterance uid="1-4"><speaker>ZANE</speaker><content>Hello?  Who’s there?</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>RICHARD CASTLE</speaker><content>Yes!</content></utterance>
+<utterance uid="2-2"><speaker>KATE BECKETT</speaker><content>Wow, I haven’t seen you this excited since - uh, well, earlier this morning, so…</content></utterance>
+<utterance uid="2-3"><speaker>CASTLE</speaker><content>You know what this is, Beckett?</content></utterance>
+<utterance uid="2-4"><speaker>BECKETT</speaker><content>No, but I know that a very secure messenger just brought it in.</content></utterance>
+<utterance uid="2-5"><speaker>CASTLE</speaker><content>Oh, my. It’s absolutely beautiful.</content></utterance>
+<utterance uid="2-6"><speaker>BECKETT</speaker><content>What is it?</content></utterance>
+<utterance uid="2-7"><speaker>CASTLE</speaker><content>The YOLO card.</content></utterance>
+<utterance uid="2-8"><speaker>BECKETT</speaker><content>Like, “Dude, I just drove my mom’s car into the river, hashtag YOLO”?</content></utterance>
+<utterance uid="2-9"><speaker>CASTLE</speaker><content>No, no, no, this - work of art will forever release YOLO from internet jail. You see, each card was painstakingly handcrafted by an international team of artisans. Note the flecks of actual black diamond embedded in the card. The state-of-the-art radio frequency I.D. chip. The - the best part - Only 10,000 people in the world were chosen to have a YOLO card, and I’m one of them.</content></utterance>
+<utterance uid="2-10"><speaker>BECKETT</speaker><content>Castle, it’s just a credit card.</content></utterance>
+<utterance uid="2-11"><speaker>CASTLE</speaker><content>*Just* a credit card? I think not, my good woman. This is a YOLO, as in, “You only live once.” It is a way of life.</content></utterance>
+<utterance uid="2-12"><speaker>BECKETT</speaker><content>No, it’s a way to be obnoxious.</content></utterance>
+<utterance uid="2-13"><speaker>CASTLE</speaker><content>Oh, is it? You see, for every dollar I spend seizing my own day, YOLO matches it to help someone less fortunate seize their dreams.</content></utterance>
+<utterance uid="2-14"><speaker>BECKETT</speaker><content>Oh, okay. Well, that’s a little less obnoxious.</content></utterance>
+<utterance uid="2-15"><speaker>CASTLE</speaker><content>That’s what I thought. So, you want to try it out, take it for a spin? Might help you with tonight.</content></utterance>
+<utterance uid="2-16"><speaker>BECKETT</speaker><content>Hmm? What’s tonight?</content></utterance>
+<utterance uid="2-17"><speaker>CASTLE</speaker><content>Come on, don’t tell me you forgot. Our weekly date night. It’s new. It’s our thing. It’s - it’s your turn to arrange it, remember?</content></utterance>
+<utterance uid="2-18"><speaker>BECKETT</speaker><content>Yeah. Of cour - Of course I remember.  I don’t need a YOLO card to help me out with that. I’ve already got it planned.</content></utterance>
+<utterance uid="2-19"><speaker>CASTLE</speaker><content>Oh, do you? So tell me, how are you going to top my American Revolution evening I arranged with the carriage ride to see Hamilton on Broadway, the dinner served by waiters dressed as Founding Fathers?</content></utterance>
+<utterance uid="2-20"><speaker>BECKETT</speaker><content>Yes, that was fun. Except when Ben Franklin started hitting on me.</content></utterance>
+<utterance uid="2-21"><speaker>CASTLE</speaker><content>That’s nothing. George Washington slipped me his digits.</content></utterance>
+<utterance uid="2-22"><speaker>BECKETT</speaker><content>What?!</content></utterance>
+<utterance uid="2-23"><speaker>CASTLE</speaker><content>So, what are we doing tonight?</content></utterance>
+<utterance uid="2-24"><speaker>BECKETT</speaker><content>Uh, well, it’s a surprise, Castle.</content></utterance>
+<utterance uid="2-25"><speaker>CASTLE</speaker><content>Oh, I love surprises. At least tell me what to wear. On a wardrobe scale of 1 to 10 - 10 being James Bond, 1 being “Big Lebowski” - give me a number.</content></utterance>
+<utterance uid="2-26"><speaker>BECKETT</speaker><content>For now, 5 — crime-scene casual.  Hey. Beckett. Uh, yeah.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>JAVIER ESPOSITO</speaker><content>That’s great. Thanks.</content></utterance>
+<utterance uid="3-2"><speaker>CASTLE</speaker><content>Is that Zane Cannon?</content></utterance>
+<utterance uid="3-3"><speaker>ESPOSITO</speaker><content>Yep, star of the Apocalypse Runner movie franchise.</content></utterance>
+<utterance uid="3-4"><speaker>CASTLE</speaker><content>I love those movies.</content></utterance>
+<utterance uid="3-5"><speaker>ESPOSITO</speaker><content>Yeah, me too, even though - no disrespect to the dead - this guy couldn’t act to save his life.</content></utterance>
+<utterance uid="3-6"><speaker>CASTLE</speaker><content>Quite literally, by the looks of things.</content></utterance>
+<utterance uid="3-7"><speaker>ESPOSITO</speaker><content>Yeah.</content></utterance>
+<utterance uid="3-8"><speaker>CASTLE</speaker><content>Was Zane rehearsing Hamlet alone this morning?</content></utterance>
+<utterance uid="3-9"><speaker>ESPOSITO</speaker><content>Actually, it was last night. The M.E. places time of death between 8:00 and 11:00 p.m.</content></utterance>
+<utterance uid="3-10"><speaker>CASTLE</speaker><content>A quill pen. Odd choice for a murder weapon, unless, of course, the murderer was the ghost of William Shakespeare killing Zane for butchering his words. It’s all the talk on Broadway that Zane had no business performing the Bard’s most famous role.</content></utterance>
+<utterance uid="3-11"><speaker>ESPOSITO</speaker><content>Why cast him, then?</content></utterance>
+<utterance uid="3-12"><speaker>CASTLE</speaker><content>Because movie stars sell tickets. Just ask my mother. She can’t stop talking about the Hollywood-ization of Broadway.</content></utterance>
+<utterance uid="3-13"><speaker>ESPOSITO</speaker><content> Hold on.  Hey, what are you doing? Give me that.</content></utterance>
+<utterance uid="3-14"><speaker>JAKE</speaker><content>I was just -  Nice try. I already uploaded it to the cloud.</content></utterance>
+<utterance uid="3-15"><speaker>ESPOSITO</speaker><content>Hey Officer, escort this dirtbag out of here and confiscate that jacket.</content></utterance>
+<utterance uid="3-16"><speaker>JAKE</speaker><content>That - That - That’s my phone. You - you legally can’t have that phone. Hey, gimme my phone!</content></utterance>
+<utterance uid="3-17"><speaker>ESPOSITO</speaker><content>See that? Our victim’s fame is already turning this into a media circus.</content></utterance>
+<utterance uid="3-18"><speaker>RYAN</speaker><content>Hey, fellas, may I introduce to you Erin Cherloff? She is the play’s director and a true artist.  Your production of Antigone was a revelation.</content></utterance>
+<utterance uid="3-19"><speaker>ERIN</speaker><content>Oh, well, thank you.  I can’t believe this is happening. Zane and I finally get a chance to work together after all these years, and this happens.</content></utterance>
+<utterance uid="3-20"><speaker>CASTLE</speaker><content>The two of you were friends?</content></utterance>
+<utterance uid="3-21"><speaker>ERIN</speaker><content>Yeah, since theater school. Zane dropped out to go to Hollywood, but we stayed close.</content></utterance>
+<utterance uid="3-22"><speaker>ESPOSITO</speaker><content>Do you know what he was doing here in the theater by himself last night?</content></utterance>
+<utterance uid="3-23"><speaker>ERIN</speaker><content>He was terrified…of Hamlet. He really wanted to show his acting chops in this role. Sometimes he would come here after hours to work more.</content></utterance>
+<utterance uid="3-24"><speaker>RYAN</speaker><content>Was Zane having problems with anyone you know of?</content></utterance>
+<utterance uid="3-25"><speaker>ERIN</speaker><content>It’s no secret he had a reputation for sleeping with his leading ladies.</content></utterance>
+<utterance uid="3-26"><speaker>CASTLE</speaker><content>Are you saying Zane was sleeping with the actress playing Ophelia?</content></utterance>
+<utterance uid="3-27"><speaker>ERIN</speaker><content>Naomi Fox. Mm-hmm. They had a messy breakup recently. She sort of went all Fatal Attraction. So she took a baseball bat to his DB9. He had me take photos for his insurance. </content></utterance>
+<utterance uid="3-28"><speaker>CASTLE</speaker><content>Oh. Did he report that to the police?</content></utterance>
+<utterance uid="3-29"><speaker>ERIN</speaker><content>No. Look, I’ve worked with Naomi before, and she’s crazy, but actor crazy, not murderer crazy. However , there is one teeny, tiny little thing you should know about. Naomi’s a method actor, meaning she doesn’t play the characters - she becomes them.</content></utterance>
+<utterance uid="3-30"><speaker>CASTLE</speaker><content>Do you know where we can find her?</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>RYAN</speaker><content>I just hope I wasn’t too obvious back there. I’m just such a big fan of Erin Cherloff.</content></utterance>
+<utterance uid="4-2"><speaker>ESPOSITO</speaker><content>Who, the director?</content></utterance>
+<utterance uid="4-3"><speaker>RYAN</speaker><content>Yeah, she’s amazing. I’m - Just speaking with her, I got this great idea for the play at Sarah Grace’s preschool where I’m a volunteer at.</content></utterance>
+<utterance uid="4-4"><speaker>ESPOSITO</speaker><content>Wait, preschools have plays now? My preschool was going to work with my mom every day.</content></utterance>
+<utterance uid="4-5"><speaker>CASTLE</speaker><content>Oh, same here. I grew up in hallways just like this. Spending time in my mother’s dressing room, experimenting with her costumes, her makeup.</content></utterance>
+<utterance uid="4-6"><speaker>CASTLE</speaker><content>Oh, get over it. Anyway, maybe our method actress has gone a little too method. In the play, Hamlet drives Ophelia mad. If this is life imitating art and she’s gone full Ophelia, we should be ready for anything.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>RYAN</speaker><content>Ms. Fox?</content></utterance>
+<utterance uid="5-2"><speaker>ESPOSITO</speaker><content>Ms. Fox? NYPD. We need to ask you a few questions.  Ms. Fox.</content></utterance>
+<utterance uid="5-3"><speaker>CASTLE</speaker><content>Um, may I?  Ophelia?</content></utterance>
+<utterance uid="5-4"><speaker>NAOMI</speaker><content>Aye, my lord?</content></utterance>
+<utterance uid="5-5"><speaker>CASTLE</speaker><content>These fair gentlemen are constables and wish to speak with you in matters regarding the murder most foul and unnatural of Zane Cannon.</content></utterance>
+<utterance uid="5-6"><speaker>NAOMI</speaker><content>’Tis too much to bear to think on it.</content></utterance>
+<utterance uid="5-7"><speaker>RYAN</speaker><content>How now, fair Ophelia. We have queries and thou shall answer, or we shall force perforce be moved to make a star chamber -</content></utterance>
+<utterance uid="5-8"><speaker>ESPOSITO</speaker><content>Stop. We are SO not doing this.  Look, Naomi, we know that you were having a show-mance with Zane. He dumped you, and then you busted up his car.</content></utterance>
+<utterance uid="5-9"><speaker>NAOMI</speaker><content>My lord, he speaks with a curious tongue. Car?</content></utterance>
+<utterance uid="5-10"><speaker>CASTLE</speaker><content>It’s what he’s gonna put you in the back of when he arrests you for murder.</content></utterance>
+<utterance uid="5-11"><speaker>ESPOSITO</speaker><content>So stop the Daniel Day-Lewis routine and start talking, or…</content></utterance>
+<utterance uid="5-12"><speaker>NAOMI</speaker><content>Okay, look, I wasn’t in my right mind when I smashed up Zane’s car, but I didn’t kill him. You have to believe me. I was out late last night bar-hopping with some of the cast. You can check it out.</content></utterance>
+<utterance uid="5-13"><speaker>RYAN</speaker><content>Bar-hopping? So you’re not full Method.</content></utterance>
+<utterance uid="5-14"><speaker>CASTLE</speaker><content>Unless she was drinking mead and eating with her fingers.</content></utterance>
+<utterance uid="5-15"><speaker>NAOMI</speaker><content>Look, I really cared for Zane, but he was acting like he was cheating on me, showing up at my place at all hours of the night, lame excuses. So I confronted him, and he blew up, told me never to ask where he goes again.</content></utterance>
+<utterance uid="5-16"><speaker>RYAN</speaker><content>Any idea who this other woman might be?</content></utterance>
+<utterance uid="5-17"><speaker>NAOMI</speaker><content>No. But whoever she was, she brought out his dark side.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>WOMAN</speaker><content>We have breaking news on the shocking death of Hollywood megastar Zane Cannon, whose body was found this morning onstage at the off-Broadway Citizens Theater. </content></utterance>
+<utterance uid="6-2"><speaker>BECKETT</speaker><content>So, why is there a video of Zane’s body on the news?</content></utterance>
+<utterance uid="6-3"><speaker>ESPOSITO</speaker><content>A stalker-azzi snuck onto the crime scene wearing an NYPD windbreaker.</content></utterance>
+<utterance uid="6-4"><speaker>NEWS PRESENTER</speaker><content>A source at the scene reveals that leading the investigation into the star’s murder is none other than acclaimed mystery writer Richard Castle with an assist from the NYPD’s 12th Precinct…</content></utterance>
+<utterance uid="6-5"><speaker>BECKETT</speaker><content>1PP has been on my ass about keeping media under control, and now my husband is the face of the investigation.</content></utterance>
+<utterance uid="6-6"><speaker>CASTLE</speaker><content>It’s not all bad news, Beckett.</content></utterance>
+<utterance uid="6-7"><speaker>BECKETT</speaker><content>How?</content></utterance>
+<utterance uid="6-8"><speaker>CASTLE</speaker><content>That’s a great photo of me.</content></utterance>
+<utterance uid="6-9"><speaker>BECKETT</speaker><content>Do we have a suspect?</content></utterance>
+<utterance uid="6-10"><speaker>ESPOSITO</speaker><content>Not yet. Naomi’s alibi checked out. But we do have a lead on this mystery woman that Zane was seeing. His financials came in.  They say that he rented a limo yesterday morning.</content></utterance>
+<utterance uid="6-11"><speaker>CASTLE</speaker><content>Which makes sense, since Naomi trashed his DB9.</content></utterance>
+<utterance uid="6-12"><speaker>BECKETT</speaker><content>And where was this limo going?</content></utterance>
+<utterance uid="6-13"><speaker>ESPOSITO</speaker><content>I don’t know yet. I’m still waiting for the driver to call me back, but hopefully he knows who this woman is.</content></utterance>
+<utterance uid="6-14"><speaker>RYAN</speaker><content>I have already found her. It turns out that Zane was renting a suite at the Black Door Hotel under a fake name.</content></utterance>
+<utterance uid="6-15"><speaker>CASTLE</speaker><content>Ah, the Black Door. Yes, very fancy.</content></utterance>
+<utterance uid="6-16"><speaker>ESPOSITO</speaker><content>Mm.</content></utterance>
+<utterance uid="6-17"><speaker>CASTLE</speaker><content>Known for being discreet…  …from what I’ve heard from other people who were once single and now married.</content></utterance>
+<utterance uid="6-18"><speaker>RYAN</speaker><content>Well, they certainly seem to be living up to that reputation. Wouldn’t say a word until I accused them of obstruction. But Zane has had a suite there for the past two weeks, and he was with a woman there every night.</content></utterance>
+<utterance uid="6-19"><speaker>BECKETT</speaker><content>Okay, who is this woman?</content></utterance>
+<utterance uid="6-20"><speaker>RYAN</speaker><content>No idea. She’s not a registered guest, but get this, not only did she arrive after our time-of-death window, she’s still there.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>CASTLE</speaker><content>Privacy light is on.</content></utterance>
+<utterance uid="7-2"><speaker>ESPOSITO</speaker><content>She must still be here.</content></utterance>
+<utterance uid="7-3"><speaker>RYAN</speaker><content>NYPD.  Could you open it, please?</content></utterance>
+<utterance uid="7-4"><speaker>RYAN</speaker><content>Police.</content></utterance>
+<utterance uid="7-5"><speaker>ESPOSITO</speaker><content>NYPD.</content></utterance>
+<utterance uid="7-6"><speaker>ESPOSITO</speaker><content>Psst.  There’s a ginger in the bed.</content></utterance>
+<utterance uid="7-7"><speaker>CASTLE</speaker><content>Mother?!</content></utterance>
+<utterance uid="7-8"><speaker>MARTHA RODGERS</speaker><content>Richard?</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>MARTHA</speaker><content>I, um, I got tired, waiting for Zane last night, so I just, uh, crawled into bed. Never could I imagine what happened to him.</content></utterance>
+<utterance uid="8-2"><speaker>CASTLE</speaker><content>Mother, why are you - why - Why -  Why were you in Zane’s bed?</content></utterance>
+<utterance uid="8-3"><speaker>MARTHA</speaker><content>Because he was late for our session.</content></utterance>
+<utterance uid="8-4"><speaker>RYAN</speaker><content> What kind of session?</content></utterance>
+<utterance uid="8-5"><speaker>ESPOSITO</speaker><content>Is that what they call it?</content></utterance>
+<utterance uid="8-6"><speaker>CASTLE</speaker><content>That’s enough.</content></utterance>
+<utterance uid="8-7"><speaker>ESPOSITO</speaker><content>Okay.</content></utterance>
+<utterance uid="8-8"><speaker>CASTLE</speaker><content>Mother, are you saying you were sleeping with Zane Cannon?</content></utterance>
+<utterance uid="8-9"><speaker>MARTHA</speaker><content>Oh, drop the gavel, Richard! I was his acting coach, certainly not his mistress. The poor boy was out of his depth trying to play Hamlet, so he was referred to me. Zane needed me to be on call 24 hours a day, so he had this suite so that we could meet comfortably at any time. We turned this room into a temple to the Bard. It also became a temple to a new life.</content></utterance>
+<utterance uid="8-10"><speaker>ESPOSITO</speaker><content>What do you mean, new life?</content></utterance>
+<utterance uid="8-11"><speaker>MARTHA</speaker><content>Well, you know I’m a life coach. I helped Zane to just clear out the clutter of stardom so that he could focus on his craft.</content></utterance>
+<utterance uid="8-12"><speaker>RYAN</speaker><content>Did he ever mention having any enemies?</content></utterance>
+<utterance uid="8-13"><speaker>MARTHA</speaker><content>No, but he did have some demons, though. There was something in his past that was a real block for him.</content></utterance>
+<utterance uid="8-14"><speaker>CASTLE</speaker><content>Certainly he told you what the block was.</content></utterance>
+<utterance uid="8-15"><speaker>MARTHA</speaker><content>No, he was very secretive about it, frightened, even. Oh, of course, I encouraged him to engage with those demons, and… Wait a minute, the last time we spoke, he said that he had made arrangements to do just that. Oh, dear God. Don’t tell me that I might have pushed him into something that got him killed.</content></utterance>
+<utterance uid="8-16"><speaker>CASTLE</speaker><content>No. No. Nothing like that. No.</content></utterance>
+<utterance uid="8-17"><speaker>MARTHA</speaker><content>No? </content></utterance>
+<utterance uid="8-18"><speaker>CASTLE</speaker><content>No. Come on. Let’s get you home. Come on.</content></utterance>
+</scene>
+
+<scene id="9"><utterance uid="9-1"><speaker>BECKETT</speaker><content>Ryan, wait. Hey, listen. It’s my turn to plan date night, but I forgot, and Castle’s gonna lord it over me if I don’t outdo what he did last week. So I need a few ideas.</content></utterance>
+<utterance uid="9-2"><speaker>RYAN</speaker><content>Wait - for Castle?</content></utterance>
+<utterance uid="9-3"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="9-4"><speaker>RYAN</speaker><content>Wait, wait, wait, wait. The, uh - the guy who, uh, took you on an urban spelunking adventure through the city subway tunnels last Halloween, and then he hired actors to re-enact scenes from the movie C.H.U.D. Yeah, I can’t - I can’t come up with stuff like that.</content></utterance>
+<utterance uid="9-5"><speaker>ESPOSITO</speaker><content>Yo. I just heard back from that limo driver that Zane hired the morning of his murder. You’ll never believe where he went — Sing Sing Penitentiary.</content></utterance>
+<utterance uid="9-6"><speaker>BECKETT</speaker><content>Why did he go there?</content></utterance>
+<utterance uid="9-7"><speaker>ESPOSITO</speaker><content>To pick up a newly released inmate — Johnny Toro, who also happens to be his estranged older stepbrother.</content></utterance>
+<utterance uid="9-8"><speaker>BECKETT</speaker><content>How did we not know that Zane had a stepbrother?</content></utterance>
+<utterance uid="9-9"><speaker>ESPOSITO</speaker><content>Different dads, different names, and according to Zane’s publicist, he kept it quiet. He didn’t want to be associated with this guy.</content></utterance>
+<utterance uid="9-10"><speaker>RYAN</speaker><content>Then why’d he show up at the prison?</content></utterance>
+<utterance uid="9-11"><speaker>ESPOSITO</speaker><content>I don’t know. According to the limo driver, though, it was far from a happy family reunion. The privacy screen was up, but he could tell that Toro was yelling at Zane.</content></utterance>
+<utterance uid="9-12"><speaker>BECKETT</speaker><content>He served 12 years for a B_E.</content></utterance>
+<utterance uid="9-13"><speaker>ESPOSITO</speaker><content>Where he stewed on how much he hated Zane. Check out the prison psychologist’s notes. Apparently there was a lot of built-up rage against Zane.</content></utterance>
+<utterance uid="9-14"><speaker>BECKETT</speaker><content>You know, evidence suggests that this break-in was a two-man job.</content></utterance>
+<utterance uid="9-15"><speaker>ESPOSITO</speaker><content>Cops suspected Zane but only had evidence against Toro.</content></utterance>
+<utterance uid="9-16"><speaker>BECKETT</speaker><content>And then Toro took the fall.</content></utterance>
+<utterance uid="9-17"><speaker>ESPOSITO</speaker><content>And Zane moves to Hollywood and becomes a movie star.</content></utterance>
+<utterance uid="9-18"><speaker>BECKETT</speaker><content>All right, get him in here.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>TORO</speaker><content>This what it’s gonna be like now I’m on parole? Just can’t go a day without being harassed by the cops?</content></utterance>
+<utterance uid="10-2"><speaker>RYAN</speaker><content>Not when you set a record for fastest recidivism.</content></utterance>
+<utterance uid="10-3"><speaker>ESPOSITO</speaker><content>You were out all of 10 hours before you murdered Zane.</content></utterance>
+<utterance uid="10-4"><speaker>TORO</speaker><content>See? Soon as I saw the news, I knew y’all were gonna hang that on me.</content></utterance>
+<utterance uid="10-5"><speaker>RYAN</speaker><content>Really? That’s your response? Not, “Boo-hoo, my stepbrother’s dead.”</content></utterance>
+<utterance uid="10-6"><speaker>TORO</speaker><content>Screw you. I’m busted up over what happened to Z.</content></utterance>
+<utterance uid="10-7"><speaker>ESPOSITO</speaker><content>No, you’re pissed that he let you take the rap all those years ago.</content></utterance>
+<utterance uid="10-8"><speaker>TORO</speaker><content>I don’t know what the hell you’re talking about, man. I was the big brother. I made Z keep his mouth shut on that B_E we pulled, man. Told him to make something of himself.</content></utterance>
+<utterance uid="10-9"><speaker>ESPOSITO</speaker><content>Come on, bro. Your prison shrink noted that you had a giant hate-on for Zane.</content></utterance>
+<utterance uid="10-10"><speaker>TORO</speaker><content>He abandoned me. And not one visit. No calls. Didn’t put any money on my books. Nothing. Just went off to become a star, and he left me to rot.</content></utterance>
+<utterance uid="10-11"><speaker>RYAN</speaker><content>Limo driver said things got pretty heated when he picked you up.</content></utterance>
+<utterance uid="10-12"><speaker>TORO</speaker><content>Yeah, but what the limo driver didn’t hear was us squashing our beef, ‘cause he apologized, said he would set me up for the rest of my life. Just had to get his financial problems figured out.</content></utterance>
+<utterance uid="10-13"><speaker>RYAN</speaker><content>What financial problems? Zane had $10 million in the bank.</content></utterance>
+<utterance uid="10-14"><speaker>TORO</speaker><content>He owed the IRS 15 mil in back taxes. He was gonna be broke in like two months.</content></utterance>
+<utterance uid="10-15"><speaker>RYAN</speaker><content>Then why’d he walk away from an $8 million payday in that Safe Word movie to go do Shakespeare?</content></utterance>
+<utterance uid="10-16"><speaker>TORO</speaker><content>He said he had a plan to get paid. Something big, man.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>ESPOSITO</speaker><content>Sounds like whatever money-making scheme Zane was involved in is probably what got him killed. Only question is -</content></utterance>
+<utterance uid="11-2"><speaker>ESPOSITO</speaker><content>- what the hell are you doing, Kevin?</content></utterance>
+<utterance uid="11-3"><speaker>RYAN</speaker><content>Yeah, figured it out.</content></utterance>
+<utterance uid="11-4"><speaker>ESPOSITO</speaker><content>What he was involved in?</content></utterance>
+<utterance uid="11-5"><speaker>RYAN</speaker><content>No, no, no, no, no. The new choreography for Sarah Grace’s preschool play.</content></utterance>
+<utterance uid="11-6"><speaker>ESPOSITO</speaker><content>Oh, good. Why don’t you keep working on that while I solve our homicide?  Let me get a plain hot dog.</content></utterance>
+<utterance uid="11-7"><speaker>RYAN</speaker><content>Hey, Javi.</content></utterance>
+<utterance uid="11-8"><speaker>ESPOSITO</speaker><content>Yeah?</content></utterance>
+<utterance uid="11-9"><speaker>RYAN</speaker><content>We are being filmed.</content></utterance>
+<utterance uid="11-10"><speaker>ESPOSITO</speaker><content>That’s that stalker-azzi I chased off the crime scene.</content></utterance>
+<utterance uid="11-11"><speaker>RYAN</speaker><content>Hey, buddy, what’s your name? </content></utterance>
+<utterance uid="11-12"><speaker>STALKERAZZI</speaker><content>This is a public street. I have a right to film here.</content></utterance>
+<utterance uid="11-13"><speaker>RYAN</speaker><content>Oh, cool, cool, cool. We just want to know why you’re filming us.</content></utterance>
+<utterance uid="11-14"><speaker>STALKERAZZI</speaker><content>Well, I want the same thing you guys do — an ending to Zane Cannon’s story.</content></utterance>
+<utterance uid="11-15"><speaker>ESPOSITO</speaker><content>Wait a minute. You’ve been tracking our investigation by tracking us?</content></utterance>
+<utterance uid="11-16"><speaker>STALKERAZZI</speaker><content>I’ve been working on an expose on Zane ever since he dropped out of the movie Safe Word to play Hamlet.  I knew that pretty boy was a train wreck waiting to happen.</content></utterance>
+<utterance uid="11-17"><speaker>RYAN</speaker><content>You’ve been following Zane?</content></utterance>
+<utterance uid="11-18"><speaker>STALKERAZZI</speaker><content>On and off, ever since he got to New York a month ago.</content></utterance>
+<utterance uid="11-19"><speaker>ESPOSITO</speaker><content>So did you see him on the night of his murder?</content></utterance>
+<utterance uid="11-20"><speaker>RYAN</speaker><content>Look, come on, you want an ending to your story? Why don’t you show us what you got?</content></utterance>
+<utterance uid="11-21"><speaker>STALKERAZZI</speaker><content>Yeah, I don’t work for favors. I want an interview with the killer.</content></utterance>
+<utterance uid="11-22"><speaker>RYAN</speaker><content> Yeah, and I want a baby unicorn with a rainbow tail —  for my daughter. We’re both gonna be disappointed, pal.</content></utterance>
+<utterance uid="11-23"><speaker>ESPOSITO</speaker><content>Come on, man, show us what you got. If it’s any good, when we make an arrest, we’ll let you film the perp walk. Deal?</content></utterance>
+<utterance uid="11-24"><speaker>RYAN</speaker><content>Let’s go for a walk.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>STALKERAZZI</speaker><content>I filmed this yesterday at the theater around 4:00.</content></utterance>
+<utterance uid="12-2"><speaker>RYAN</speaker><content>That’s about six hours before Zane was killed.</content></utterance>
+<utterance uid="12-3"><speaker>MAN ON SCREEN</speaker><content>Oh, yeah, it’s right here.</content></utterance>
+<utterance uid="12-4"><speaker>BECKETT</speaker><content>Who’s the guy with the tats?</content></utterance>
+<utterance uid="12-5"><speaker>STALKERAZZI</speaker><content>No idea.</content></utterance>
+<utterance uid="12-6"><speaker>STALKERAZZI</speaker><content>Who’s that, Zane?</content></utterance>
+<utterance uid="12-7"><speaker>ZANE</speaker><content>Yo!</content></utterance>
+<utterance uid="12-8"><speaker>STALKERAZZI</speaker><content>Why’d you pay him all that cash for the phone?</content></utterance>
+<utterance uid="12-9"><speaker>ZANE</speaker><content>Come on, come on! Give me that camera. You’re gonna get me killed.</content></utterance>
+<utterance uid="12-10"><speaker>STALKERAZZI</speaker><content> Hell, I thought Zane was just being dramatic. I guess I was dead wrong.</content></utterance>
+<utterance uid="12-11"><speaker>BECKETT</speaker><content>Okay, we’re gonna need you to leave the room, Jake.</content></utterance>
+<utterance uid="12-12"><speaker>RYAN</speaker><content>Heck, maybe get that facial recognition - we’ll print out something.</content></utterance>
+<utterance uid="12-13"><speaker>BECKETT</speaker><content>Yeah - no, no, no. Leave the laptop.</content></utterance>
+<utterance uid="12-14"><speaker>STALKERAZZI</speaker><content>No way, lady. This is my property.</content></utterance>
+<utterance uid="12-15"><speaker>BECKETT</speaker><content>Jake. Now.</content></utterance>
+<utterance uid="12-16"><speaker>STALKERAZZI</speaker><content>Geez. </content></utterance>
+<utterance uid="12-17"><speaker>RYAN</speaker><content>What the hell did Zane get himself mixed up with?</content></utterance>
+<utterance uid="12-18"><speaker>BECKETT</speaker><content>There’s only one way to know. We’ve got to find this mystery man.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>ESPOSITO</speaker><content>Yo, L. T., you seen Ryan?</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>RYAN</speaker><content>elodie, thank you very much for taking time to Skype with me. I just - I wanted to share with you my vision of the play.</content></utterance>
+<utterance uid="14-2"><speaker>ELODIE</speaker><content>Your vision?</content></utterance>
+<utterance uid="14-3"><speaker>RYAN</speaker><content>Yeah, I see the kids as embodying the circle of life.</content></utterance>
+<utterance uid="14-4"><speaker>ELODIE</speaker><content>It’s just a flower dance.</content></utterance>
+<utterance uid="14-5"><speaker>RYAN</speaker><content>Let me just show you what I mean. Okay, so, the kids — They’re stacked up, and then —  flower, flower - They’re exploding, fanning out. Flower, flower, flower!</content></utterance>
+<utterance uid="14-6"><speaker>RYAN</speaker><content>Fun!  Flower growing in the sun — And then, then they circle back. Kind of a, you know, Busby Berkeley thing.</content></utterance>
+<utterance uid="14-7"><speaker>ELODIE</speaker><content>Kevin. Kevin. The oldest kids are five. We’ll be lucky if they can just sing the song.</content></utterance>
+<utterance uid="14-8"><speaker>RYAN</speaker><content>I think we need to think outside the box here.</content></utterance>
+<utterance uid="14-9"><speaker>ELODIE</speaker><content>Think outside of the box next year, after my kid has graduated.</content></utterance>
+<utterance uid="14-10"><speaker>RYAN</speaker><content>Oh, well, hey, elodie, if you’re gonna be like that, maybe we need to look into your unpaid parking tickets, run them through the system…</content></utterance>
+<utterance uid="14-11"><speaker>ESPOSITO</speaker><content>Kevin.</content></utterance>
+<utterance uid="14-12"><speaker>RYAN</speaker><content>…see if there’s any lien…</content></utterance>
+<utterance uid="14-13"><speaker>ESPOSITO</speaker><content>We’ve got that, uh, case that we’re working.</content></utterance>
+<utterance uid="14-14"><speaker>ELODIE</speaker><content>Yeah, okay, bye.</content></utterance>
+<utterance uid="14-15"><speaker>ESPOSITO</speaker><content>Stop. Step away from the laptop.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>BECKETT</speaker><content>Yeah, that’s the same guy that Zane bought the burner phone off of.</content></utterance>
+<utterance uid="15-2"><speaker>RYAN</speaker><content>This footage is dated four weeks ago, so obviously he and Zane had an ongoing arrangement.</content></utterance>
+<utterance uid="15-3"><speaker>ESPOSITO</speaker><content>Hold up. I recognize this guy.  Yeah, that’s Alejandro Guzman. He’s a big shot-caller for a gang called Los Maldives - The Damned. They operate out of Spanish Harlem.</content></utterance>
+<utterance uid="15-4"><speaker>BECKETT</speaker><content>That’s the same neighborhood that Zane grew up in. Maybe the two of them knew each other back in the day.</content></utterance>
+<utterance uid="15-5"><speaker>RYAN</speaker><content>Before Zane got famous doing all those Apocalypse Runner movies. We’ll go up to Spanish Harlem and see if we can track down this guy.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>GUZMAN</speaker><content>I know nothing about nothing.</content></utterance>
+<utterance uid="16-2"><speaker>ESPOSITO</speaker><content>Well, got video of you meeting with Zane on the day he was murdered.</content></utterance>
+<utterance uid="16-3"><speaker>GUZMAN</speaker><content>You got me on video killing him?  Yeah, that’s what I thought. May I go?</content></utterance>
+<utterance uid="16-4"><speaker>ESPOSITO</speaker><content>Not yet.</content></utterance>
+<utterance uid="16-5"><speaker>RYAN</speaker><content>No.</content></utterance>
+<utterance uid="16-6"><speaker>ESPOSITO</speaker><content>See, we did our homework.</content></utterance>
+<utterance uid="16-7"><speaker>RYAN</speaker><content>Yeah, we know that your little brother Antonio is doing a little stretch update at Fishkill.</content></utterance>
+<utterance uid="16-8"><speaker>ESPOSITO</speaker><content>That’s a long way for your mother to travel on visiting day. Especially with her bad knees.</content></utterance>
+<utterance uid="16-9"><speaker>GUZMAN</speaker><content>How you know about my mama?</content></utterance>
+<utterance uid="16-10"><speaker>ESPOSITO</speaker><content>Oh, I got an old Army buddy who works for the Federal Bureau of Prisons. He slipped me your file.</content></utterance>
+<utterance uid="16-11"><speaker>RYAN</speaker><content>Hey, Javi, I bet your old Army buddy could get his brother transferred closer to the city, make those visits a little easier on mama.</content></utterance>
+<utterance uid="16-12"><speaker>ESPOSITO</speaker><content>Yeah, but he’d have to be willing to talk.</content></utterance>
+<utterance uid="16-13"><speaker>RYAN</speaker><content>Oh.</content></utterance>
+<utterance uid="16-14"><speaker>GUZMAN</speaker><content>I don’t make deals with police.</content></utterance>
+<utterance uid="16-15"><speaker>ESPOSITO</speaker><content>Oh, that’s fine.  My buddy also tells me that there’s a bunch of openings at a federal penitentiary in Georgia.</content></utterance>
+<utterance uid="16-16"><speaker>RYAN</speaker><content>It would be, like, what, a 13-, 14-hour bus ride?</content></utterance>
+<utterance uid="16-17"><speaker>ESPOSITO</speaker><content>At least.</content></utterance>
+<utterance uid="16-18"><speaker>RYAN</speaker><content>Kind of rough on mama.</content></utterance>
+<utterance uid="16-19"><speaker>GUZMAN</speaker><content>All right. I’ll talk about Zane, but I’m not giving you names. I’m not ratting anyone out in my crew. I knew Zane back in the day. Just a neighborhood punk. A month ago, he shows up out of the blue asking to get in touch with my boss.</content></utterance>
+<utterance uid="16-20"><speaker>RYAN</speaker><content>Who’s your boss?</content></utterance>
+<utterance uid="16-21"><speaker>ESPOSITO</speaker><content>Hold up, are you talking about… the *boss* boss? El Oso?</content></utterance>
+<utterance uid="16-22"><speaker>GUZMAN</speaker><content>I said no names.</content></utterance>
+<utterance uid="16-23"><speaker>RYAN</speaker><content>Wait, El Oso? Head of the cartel? The Mexican government, the DEA, the FBI — They’re all looking for this guy. He escaped from prison in Mexico three months ago. Are you saying that you know where El Oso is hiding?</content></utterance>
+<utterance uid="16-24"><speaker>GUZMAN</speaker><content>Of course not.</content></utterance>
+<utterance uid="16-25"><speaker>ESPOSITO</speaker><content>Then why would Zane come to see you?</content></utterance>
+<utterance uid="16-26"><speaker>GUZMAN</speaker><content>Because I got a little bird, and I put out my little bird to the right people until the message gets to you know who.</content></utterance>
+<utterance uid="16-27"><speaker>RYAN</speaker><content>Clearly, you charge for this little-bird service.</content></utterance>
+<utterance uid="16-28"><speaker>GUZMAN</speaker><content>Ten grand gets you a burner. If the boss wants to talk, you get a phone call.</content></utterance>
+<utterance uid="16-29"><speaker>RYAN</speaker><content>And a month ago, Zane wanted to talk to your boss.</content></utterance>
+<utterance uid="16-30"><speaker>GUZMAN</speaker><content>Some kind of business proposition. Zane even got himself a face-to-face with the boss ‘cause he’s a movie star and all. Only, from what I hear, it didn’t go so good.</content></utterance>
+<utterance uid="16-31"><speaker>ESPOSITO</speaker><content>So why did Zane buy another burner from you on the day he was killed?</content></utterance>
+<utterance uid="16-32"><speaker>GUZMAN</speaker><content>I don’t know. But if he pissed off the boss a second time, it’s not on me he ended up dead.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>ESPOSITO</speaker><content>Jorge “El Oso” Zamacona. He’s part folk hero, part demon, the rest pure monster.</content></utterance>
+<utterance uid="17-2"><speaker>RYAN</speaker><content>The man kills anyone who crosses him — cops, journalists, politicians.</content></utterance>
+<utterance uid="17-3"><speaker>BECKETT</speaker><content>Zane must have been real desperate for money to want to do business with this guy.</content></utterance>
+<utterance uid="17-4"><speaker>CASTLE</speaker><content>Maybe he wanted to be El Oso’s new drug pipeline to Hollywood.</content></utterance>
+<utterance uid="17-5"><speaker>RYAN</speaker><content>Well, chances are we’ll never find out. I mean, if the DEA, FBI, and the Mexican government can’t find him, then what chances do we have?</content></utterance>
+<utterance uid="17-6"><speaker>BECKETT</speaker><content>I’ll reach out to my Fed contacts.</content></utterance>
+<utterance uid="17-7"><speaker>ESPOSITO</speaker><content>Well, we’ll drill down all of El Oso’s stateside connections.</content></utterance>
+<utterance uid="17-8"><speaker>BECKETT</speaker><content>Okay.</content></utterance>
+<utterance uid="17-9"><speaker>CASTLE</speaker><content>Well, I suppose that puts the brakes on our date night.</content></utterance>
+<utterance uid="17-10"><speaker>BECKETT</speaker><content>Uh, yeah. Sorry, Castle.</content></utterance>
+<utterance uid="17-11"><speaker>CASTLE</speaker><content>Oh, no, I’m sorry for you. You’re the one who put all the planning into our special evening.</content></utterance>
+<utterance uid="17-12"><speaker>BECKETT</speaker><content>Yeah, I - I did. I - Yeah, I did.</content></utterance>
+<utterance uid="17-13"><speaker>CASTLE</speaker><content>You know what? I think I’ll take my mother out to dinner, maybe cheer her up after all this.</content></utterance>
+<utterance uid="17-14"><speaker>BECKETT</speaker><content>You’re such a good son.</content></utterance>
+<utterance uid="17-15"><speaker>CASTLE</speaker><content>And you’re such a good everything.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>CASTLE</speaker><content>Uh…</content></utterance>
+<utterance uid="18-2"><speaker>CASTLE</speaker><content>Uh…  Hey buddy. Parked a little close. Hey.  You look…  Okay, don’t mind me.  I’m just gonna go out the passenger side.</content></utterance>
+<utterance uid="18-3"><speaker>CASTLE</speaker><content>Catch a — Oh. Didn’t mean to —  Meant to do that.</content></utterance>
+<utterance uid="18-4"><speaker>CASTLE</speaker><content>Oh, now you move? Thanks, you idiot.</content></utterance>
+<utterance uid="18-5"><speaker>CASTLE</speaker><content>Oh! </content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>CASTLE</speaker><content>Who are you guys? What do you want? Where am I?</content></utterance>
+<utterance uid="19-2"><speaker>MAN</speaker><content>Buenas noches.</content></utterance>
+<utterance uid="19-3"><speaker>CASTLE</speaker><content>Hi.</content></utterance>
+<utterance uid="19-4"><speaker>MAN</speaker><content>Do you know who I am?</content></utterance>
+<utterance uid="19-5"><speaker>CASTLE</speaker><content>El Oso.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>BECKETT</speaker><content>Listen, you get me a lead on Zamacona, and we will run it. Yeah. Okay, I got to go. Bye.</content></utterance>
+<utterance uid="20-2"><speaker>BECKETT</speaker><content>Hey.</content></utterance>
+<utterance uid="20-3"><speaker>MARTHA</speaker><content>Hi, darling, I know you’re busy, but is Richard here?</content></utterance>
+<utterance uid="20-4"><speaker>BECKETT</speaker><content>No. I thought he was at dinner with you.</content></utterance>
+<utterance uid="20-5"><speaker>MARTHA</speaker><content>Yeah, well, he didn’t show up, and his cell went right to voicemail, so I figured he must be here immersed in the case.</content></utterance>
+<utterance uid="20-6"><speaker>BECKETT</speaker><content>Well, he’s probably out playing with his fancy new credit card, but let me check in on him. Alexis put new tracking software on my laptop. I’ll just ping his cell. There we go. 7th and 53rd.</content></utterance>
+<utterance uid="20-7"><speaker>MARTHA</speaker><content>That’s the parking garage across from the restaurant where we were supposed to meet an hour ago.</content></utterance>
+<utterance uid="20-8"><speaker>BECKETT</speaker><content>Uh, you know what? Just give me a second.  Hi, uh, this is Captain Beckett. I need a unit at 53rd and 7th.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>ZAMACONA</speaker><content>I saw you on the news. You’re working with the Federales to investigate Zane Cannon’s death.</content></utterance>
+<utterance uid="21-2"><speaker>CASTLE</speaker><content>You mean his murder. Well, uh, I mean that we knew Zane was in contact with you about a business proposition and that you were in contact with him just hours before his - untimely demise.</content></utterance>
+<utterance uid="21-3"><speaker>ZAMACONA</speaker><content>You think I killed him.</content></utterance>
+<utterance uid="21-4"><speaker>CASTLE</speaker><content>You have been associated with a fair amount of violence in your past.</content></utterance>
+<utterance uid="21-5"><speaker>ZAMACONA</speaker><content>I believe the adjective you’re looking for is, uh, “epic”.  An epic amount of violence. Some might even say biblical.</content></utterance>
+<utterance uid="21-6"><speaker>CASTLE</speaker><content>So you can see why your involvement with Zane would have the police curious.</content></utterance>
+<utterance uid="21-7"><speaker>ZAMACONA</speaker><content>If I wanted him dead, I would have cut him open when he was standing where you are now. I wouldn’t kill him with a pen. That’s cute. Do I look like a man who kills cute?</content></utterance>
+<utterance uid="21-8"><speaker>CASTLE</speaker><content>No. No, certainly not. You also don’t look like the sort of man who needs to resort to cheap scare tactics. I mean, why don’t you just untie me? We’ll sit down, and you tell me why you brought me here.</content></utterance>
+<utterance uid="21-9"><speaker>CASTLE</speaker><content>Thank you.</content></utterance>
+<utterance uid="21-10"><speaker>ZAMACONA</speaker><content>You think Zane contacted me about drugs, no?</content></utterance>
+<utterance uid="21-11"><speaker>CASTLE</speaker><content>What else is there?</content></utterance>
+<utterance uid="21-12"><speaker>ZAMACONA</speaker><content>Yo. Yo miso. El Oso. The most infamous cartel boss in history.</content></utterance>
+<utterance uid="21-13"><speaker>CASTLE</speaker><content>Zane wanted the rights to your life story — the El Oso biopic.</content></utterance>
+<utterance uid="21-14"><speaker>ZAMACONA</speaker><content>He thought portraying me would win him an Oscar.</content></utterance>
+<utterance uid="21-15"><speaker>CASTLE</speaker><content>So what happened?</content></utterance>
+<utterance uid="21-16"><speaker>ZAMACONA</speaker><content>I said no. He may be big box office, but the man cannot act. He got upstaged by a CGI aardvark in that pelicula de fantasia. So I made him an ultimatum.</content></utterance>
+<utterance uid="21-17"><speaker>CASTLE</speaker><content>You’re the one who made him drop Safe Word and do Hamlet.</content></utterance>
+<utterance uid="21-18"><speaker>ZAMACONA</speaker><content>I needed to see that he was serious. That he really could act. So I told him if he got a good review in the Times, my life rights were his.</content></utterance>
+<utterance uid="21-19"><speaker>CASTLE</speaker><content>But he had contact with you before the show premiered.</content></utterance>
+<utterance uid="21-20"><speaker>ZAMACONA</speaker><content>He wanted to meet with me again.</content></utterance>
+<utterance uid="21-21"><speaker>CASTLE</speaker><content>Why?</content></utterance>
+<utterance uid="21-22"><speaker>ZAMACONA</speaker><content>I don’t know. He said it had to do with the movie, but I could smell his desperation through the phone, especially when I said no. And later that night he was dead. Pero mira. I didn’t bring you all the way out here to talk about los muertos.</content></utterance>
+<utterance uid="21-23"><speaker>CASTLE</speaker><content>You didn’t?</content></utterance>
+<utterance uid="21-24"><speaker>ZAMACONA</speaker><content>No, no, no, no.</content></utterance>
+<utterance uid="21-25"><speaker>ZAMACONA</speaker><content>When I saw you on television, I knew fate had put you in my path, Richard Castle. I’m a man of the people. You are a popular writer. You write for the people. That’s why you must tell my story.</content></utterance>
+<utterance uid="21-26"><speaker>CASTLE</speaker><content>You want me to write the script for your movie?</content></utterance>
+<utterance uid="21-27"><speaker>ZAMACONA</speaker><content>Si! Si! It will be fun! I will tell you all about myself. And then you will just typey, typey, typey. It should only take six months, maybe a year. And you will stay here with me!</content></utterance>
+<utterance uid="21-28"><speaker>ZAMACONA</speaker><content>Or I will mail your body home… piece by piece.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>ESPOSITO</speaker><content>We got security footage from the garage, and it’s not good.</content></utterance>
+<utterance uid="22-2"><speaker>MARTHA</speaker><content> Oh, my — oh, my God.</content></utterance>
+<utterance uid="22-3"><speaker>RYAN</speaker><content>The Escalade is registered to a shell corp that’s a known front for El Oso.</content></utterance>
+<utterance uid="22-4"><speaker>MARTHA</speaker><content>You can track the SUV, can’t you?</content></utterance>
+<utterance uid="22-5"><speaker>BECKETT</speaker><content>We can, but they probably swapped cars at least once by now, and with a two-hour head start, we’re looking at a 100-mile search radius, and we still have no idea what we’re looking for.</content></utterance>
+<utterance uid="22-6"><speaker>MARTHA</speaker><content>There must be something that you can do. This is Richard’s life.</content></utterance>
+<utterance uid="22-7"><speaker>BECKETT</speaker><content>YOLO.</content></utterance>
+<utterance uid="22-8"><speaker>ESPOSITO</speaker><content>That’s cold, Beckett.</content></utterance>
+<utterance uid="22-9"><speaker>BECKETT</speaker><content>No - Castle’s new credit card. The kidnappers left his cell phone by the car, but he might still have his wallet with him. And the new YOLO card has an upgraded RFID chip in it.</content></utterance>
+<utterance uid="22-10"><speaker>RYAN</speaker><content>And if they passed within range of a tollbooth or a gas station…</content></utterance>
+<utterance uid="22-11"><speaker>BECKETT</speaker><content>Then it’ll pick up the chip, and we’ll be able to track his movement.</content></utterance>
+<utterance uid="22-12"><speaker>ESPOSITO</speaker><content>All right, I’ll call the credit card company, see if that card has pinged anywhere.</content></utterance>
+<utterance uid="22-13"><speaker>MARTHA</speaker><content>Oh, poor Richard. I can’t even imagine how he must be suffering.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>CASTLE</speaker><content>Your life is, without a doubt, a Shakespearean drama.</content></utterance>
+<utterance uid="23-2"><speaker>ZAMACONA</speaker><content>I’ve always felt a strong connection to Macbeth. Ambitious, but tortured by his conscience.</content></utterance>
+<utterance uid="23-3"><speaker>CASTLE</speaker><content>With your relationship to torture, I think you’re a little more Richard III, am I right? </content></utterance>
+<utterance uid="23-4"><speaker>ZAMACONA</speaker><content>The hunchback?!</content></utterance>
+<utterance uid="23-5"><speaker>CASTLE</speaker><content>I was thinking, uh, more along the lines of Sir Laurence Olivier.</content></utterance>
+<utterance uid="23-6"><speaker>ZAMACONA</speaker><content>A man does not achieve what I have without great personal cost!</content></utterance>
+<utterance uid="23-7"><speaker>CASTLE</speaker><content>Jorge, I only meant you —</content></utterance>
+<utterance uid="23-8"><speaker>ZAMACONA</speaker><content>Do you think I cannot see that the stains on my soul appear upon my sleeve, as well? Are you the royal fool who dares believe he can mock the king he serves?!</content></utterance>
+<utterance uid="23-9"><speaker>CASTLE</speaker><content>No — I’m just the funny kind of court jester.</content></utterance>
+<utterance uid="23-10"><speaker>ZAMACONA</speaker><content>Then give me proof of your humility by giving me your life!</content></utterance>
+<utterance uid="23-11"><speaker>ZAMACONA</speaker><content>Ah, Ricardo, I wish you could see your face! It’s priceless!</content></utterance>
+<utterance uid="23-12"><speaker>CASTLE</speaker><content> Yes, good one.</content></utterance>
+<utterance uid="23-13"><speaker>ZAMACONA</speaker><content>Richard III had no sense of humor, but I do. These are the facets of my character that you must capture.</content></utterance>
+<utterance uid="23-14"><speaker>CASTLE</speaker><content>You know, you should really play yourself in this movie.</content></utterance>
+<utterance uid="23-15"><speaker>ZAMACONA</speaker><content>Ah, if only. But sadly, I’m a fugitive, persecuted and misunderstood. Until you tell my story, that is. Now, let’s talk money, huh?</content></utterance>
+<utterance uid="23-16"><speaker>ZAMACONA</speaker><content>Will 5 million be enough?</content></utterance>
+<utterance uid="23-17"><speaker>AGENT RICHMOND</speaker><content>Jorge Zamacona, this is the DEA. We have you surrounded.</content></utterance>
+<utterance uid="23-18"><speaker>CASTLE</speaker><content>No, no, no — Jorge, wait, wait, wait! You remember how Richard III ended. You could write your own ending here.</content></utterance>
+<utterance uid="23-19"><speaker>ZAMACONA</speaker><content>An artist must be true to the material and himself.</content></utterance>
+<utterance uid="23-20"><speaker>ZAMACONA</speaker><content>Open the hatch!</content></utterance>
+<utterance uid="23-21"><speaker>MAN</speaker><content>Hey, over there!</content></utterance>
+<utterance uid="23-22"><speaker>MAN</speaker><content>He’s down, he’s down!</content></utterance>
+<utterance uid="23-23"><speaker>MAN</speaker><content>Three down. Castle’s here.</content></utterance>
+<utterance uid="23-24"><speaker>MAN</speaker><content>Are you hurt, Mr. Castle?</content></utterance>
+<utterance uid="23-25"><speaker>CASTLE</speaker><content>No, I’m fine. I’m fine. I —</content></utterance>
+<utterance uid="23-26"><speaker>CASTLE</speaker><content>But I may not be for long.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>CASTLE</speaker><content>It was just instinct. He was running by and I tripped him.</content></utterance>
+<utterance uid="24-2"><speaker>RYAN</speaker><content>You did good, Castle.</content></utterance>
+<utterance uid="24-3"><speaker>CASTLE</speaker><content>No, not good! Not good at all. I tripped a drug lord. It’s my fault he got caught.</content></utterance>
+<utterance uid="24-4"><speaker>BECKETT</speaker><content>The DEA had the building surrounded. El Oso wasn’t getting away, even if you didn’t trip him.</content></utterance>
+<utterance uid="24-5"><speaker>RYAN</speaker><content>Sadly, despite your abduction being a fantastic story, we’re still no closer to finding out who killed Zane.</content></utterance>
+<utterance uid="24-6"><speaker>ESPOSITO</speaker><content>I wouldn’t be so sure about that. The DEA confiscated a dozen burner phones from El Oso’s barn. One of those phones was the one he used to call Zane the day he was killed.</content></utterance>
+<utterance uid="24-7"><speaker>BECKETT</speaker><content>So they have Zane’s burner phone number, which means we can find out if he called anyone else.</content></utterance>
+<utterance uid="24-8"><speaker>ESPOSITO</speaker><content>We can, and he did. An international line in Mexico, and you won’t believe who it belongs to — El Oso’s younger brother, Hector Zamacona, a legit businessman who publicly condemns El Oso every chance he gets.</content></utterance>
+<utterance uid="24-9"><speaker>RYAN</speaker><content>If he’s in Mexico, how did Zane connect with him?</content></utterance>
+<utterance uid="24-10"><speaker>ESPOSITO</speaker><content>Both ends of that call from Zane’s phone pinged off towers here in the city. Baby bro’s in town.</content></utterance>
+<utterance uid="24-11"><speaker>BECKETT</speaker><content>Do we know where he is now?</content></utterance>
+<utterance uid="24-12"><speaker>ESPOSITO</speaker><content>Not yet.</content></utterance>
+<utterance uid="24-13"><speaker>BECKETT</speaker><content>Hector Zamacona might have been the last person to speak to Zane, which means he may know something.</content></utterance>
+<utterance uid="24-14"><speaker>ESPOSITO</speaker><content>Hey, what’s your wife doing here?</content></utterance>
+<utterance uid="24-15"><speaker>RYAN</speaker><content>I don’t know. Excuse me.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>RYAN</speaker><content>So, what’s up?</content></utterance>
+<utterance uid="25-2"><speaker>JENNY</speaker><content>elodie from the preschool called about the play. It seems some of the parents have some…concerns.</content></utterance>
+<utterance uid="25-3"><speaker>RYAN</speaker><content>Ah, yeah. Um, they’re, uh, struggling with my vision. I’ll call elodie in the morning. I’ll walk her through it.</content></utterance>
+<utterance uid="25-4"><speaker>JENNY</speaker><content>Actually, they have decided to go a different direction.</content></utterance>
+<utterance uid="25-5"><speaker>RYAN</speaker><content>Wait, they’re firing me? The play’s tomorrow. It’s that elodie, isn’t it? PTA’s not enough for that mom-ster. She has to —</content></utterance>
+<utterance uid="25-6"><speaker>JENNY</speaker><content>Kevin, it’s all the parents.</content></utterance>
+<utterance uid="25-7"><speaker>RYAN</speaker><content>Oh.</content></utterance>
+<utterance uid="25-8"><speaker>JENNY</speaker><content>Everybody loves your enthusiasm. It’s just — they’re preschoolers. They’re not Broadway stars.</content></utterance>
+<utterance uid="25-9"><speaker>RYAN</speaker><content>So, no soft-shoe?</content></utterance>
+<utterance uid="25-10"><speaker>JENNY</speaker><content>No. No soft-shoe.</content></utterance>
+<utterance uid="25-11"><speaker>RYAN</speaker><content>Okay.</content></utterance>
+<utterance uid="25-12"><speaker>JENNY</speaker><content>Come here.  It happens.</content></utterance>
+<utterance uid="25-13"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>BECKETT</speaker><content>So, other than pissing off a homicidal drug lord, how did you enjoy our surprise date night?</content></utterance>
+<utterance uid="26-2"><speaker>CASTLE</speaker><content>Are you saying you planned my abduction by a fugitive cartel leader?</content></utterance>
+<utterance uid="26-3"><speaker>BECKETT</speaker><content>Yeah, complete with the daring rescue and everything.  It was fun, huh?</content></utterance>
+<utterance uid="26-4"><speaker>CASTLE</speaker><content>I don’t think date night counts when it’s a candlelit dinner with the butcher of Guadalajara.</content></utterance>
+<utterance uid="26-5"><speaker>BECKETT</speaker><content>Well, I’ll — I’ll plan something else.</content></utterance>
+<utterance uid="26-6"><speaker>CASTLE</speaker><content>Something else?  You didn’t have a plan.</content></utterance>
+<utterance uid="26-7"><speaker>BECKETT</speaker><content> Do you realize how pressure-filled this is, always trying to top each other?</content></utterance>
+<utterance uid="26-8"><speaker>CASTLE</speaker><content>That’s half the fun of it. Our rivalry is what fuels the passionate fire…  Rivalry.</content></utterance>
+<utterance uid="26-9"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="26-10"><speaker>CASTLE</speaker><content>Rivalry. Between two brothers.</content></utterance>
+<utterance uid="26-11"><speaker>BECKETT</speaker><content>What? What rivalry?</content></utterance>
+<utterance uid="26-12"><speaker>CASTLE</speaker><content>The one between Jorge “El Oso” Zamacona and his brother, Hector.</content></utterance>
+<utterance uid="26-13"><speaker>BECKETT</speaker><content>A rivalry would explain why Zane was working with both brothers, but how do we prove it?</content></utterance>
+<utterance uid="26-14"><speaker>CASTLE</speaker><content>I just need to find one piece of evidence to see that I’m on the right track. And that could be it.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>CASTLE</speaker><content>All right, my Spanish is a little rusty, but my handy translator says… </content></utterance>
+<utterance uid="27-2"><speaker>ESPOSITO</speaker><content>Hector Zamacona’s been sleeping with his brother’s wife.</content></utterance>
+<utterance uid="27-3"><speaker>CASTLE</speaker><content>They have been shacking up ever since El Oso went on the run.</content></utterance>
+<utterance uid="27-4"><speaker>BECKETT</speaker><content>So Zane might have been caught in a rivalry between the brothers, and that’s what got him killed.</content></utterance>
+<utterance uid="27-5"><speaker>RYAN</speaker><content>Hector wants more than just El Oso’s wife. According to the DEA, all of his, uh, “legitimate” businesses — they’re suspected fronts for money laundering.</content></utterance>
+<utterance uid="27-6"><speaker>ESPOSITO</speaker><content>So with big brother on the run, Hector can make a play to rule the family in his place.</content></utterance>
+<utterance uid="27-7"><speaker>CASTLE</speaker><content>But Hector can never truly own the throne until his brother is dead. A powerful family, a cartel for a kingdom, two brothers locked in a battle for control. Guys, this is just like the play. Hamlet’s father is killed by his brother, who then takes the throne and marries the dead brother’s wife. There’s a reason they say Shakespeare endures. This is a real-life Hamlet.</content></utterance>
+<utterance uid="27-8"><speaker>BECKETT</speaker><content>Okay, so, thematic similarities aside, why would Hector need Zane to take down El Oso?</content></utterance>
+<utterance uid="27-9"><speaker>CASTLE</speaker><content>Because Hector didn’t know where to find his brother.</content></utterance>
+<utterance uid="27-10"><speaker>RYAN</speaker><content>And movie-star Zane had a face-to-face with El Oso.</content></utterance>
+<utterance uid="27-11"><speaker>CASTLE</speaker><content>Making Zane the perfect Trojan Horse to lead Hector to his brother.</content></utterance>
+<utterance uid="27-12"><speaker>ESPOSITO</speaker><content>Why would Zane agree to do that? He wanted to star in the El Oso movie.</content></utterance>
+<utterance uid="27-13"><speaker>BECKETT</speaker><content>Money. Hector’s worth hundreds of millions. Zane needed the money now, not in three years, when the movie could get off the ground.</content></utterance>
+<utterance uid="27-14"><speaker>ESPOSITO</speaker><content>So Hector offers to solve Zane’s money problems in exchange for Zane leading him to El Oso.</content></utterance>
+<utterance uid="27-15"><speaker>CASTLE</speaker><content>But El Oso refuses to meet with Zane.</content></utterance>
+<utterance uid="27-16"><speaker>BECKETT</speaker><content>Then, rather than wait to see if Zane’s Hamlet reviews are good enough to meet with El Oso, Hector decides to cut his losses.</content></utterance>
+<utterance uid="27-17"><speaker>CASTLE</speaker><content>Which, in this family, translates to murder.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>HECTOR</speaker><content>My brother’s bloody hand has brought shame on our family. We’re better off with him back in a cage.</content></utterance>
+<utterance uid="28-2"><speaker>BECKETT</speaker><content>Well, yeah, I mean, you’re definitely better off. You didn’t even have to pay for Zane Cannon’s tax debts.</content></utterance>
+<utterance uid="28-3"><speaker>HECTOR</speaker><content>Why would I pay a movie star’s taxes?</content></utterance>
+<utterance uid="28-4"><speaker>CASTLE</speaker><content>To get him to lead you to your brother. That way you could kill El Oso and take over the family business, much in the same way you took over the family bed.</content></utterance>
+<utterance uid="28-5"><speaker>BECKETT</speaker><content>And when Zane couldn’t get a second meeting with El Oso, he was a loose end, so you killed him.</content></utterance>
+<utterance uid="28-6"><speaker>HECTOR</speaker><content>I did not kill Zane.</content></utterance>
+<utterance uid="28-7"><speaker>BECKETT</speaker><content>We know that Zane called you from a burner phone hours before he was killed. We also know that you put $15 million into a holding account.</content></utterance>
+<utterance uid="28-8"><speaker>CASTLE</speaker><content>The exact amount of his tax bill.</content></utterance>
+<utterance uid="28-9"><speaker>HECTOR</speaker><content>Let’s say I did have a deal with him. Why would I kill him a week before Hamlet previews? According to you, good reviews would have gotten him another meeting with my brother.</content></utterance>
+<utterance uid="28-10"><speaker>BECKETT</speaker><content>But that would have put Zane out in the cold for his Oscar-winning role. And even with a big payoff, it would have been tough to get him to walk away from that role.</content></utterance>
+<utterance uid="28-11"><speaker>CASTLE</speaker><content>Unless you promised him he could keep it anyway. With your brother dead, the life rights would revert to you.</content></utterance>
+<utterance uid="28-12"><speaker>HECTOR</speaker><content>I could care less about the El Oso biopic. I told him he could direct it for all I cared.</content></utterance>
+<utterance uid="28-13"><speaker>CASTLE</speaker><content>Wait — you told Zane he could star in and direct his dream project?</content></utterance>
+<utterance uid="28-14"><speaker>HECTOR</speaker><content>Only I guess Zane had already promised the job to someone else — someone who would not be happy to lose it.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>OPHELIA</speaker><content>O, woe is me. T’have seen what I have seen —</content></utterance>
+<utterance uid="29-2"><speaker>ERIN</speaker><content>No. You - You’ve got to feel it more. This isn’t just some guy who broke up with you on Snapchat. Hamlet betrayed you. He never loved you. “Get thee to a nunnery,” right? Hamlet took everything from you.</content></utterance>
+<utterance uid="29-3"><speaker>CASTLE</speaker><content>That’s certainly a scene you can relate to, isn’t it, Ms. Cherloff?</content></utterance>
+<utterance uid="29-4"><speaker>ERIN</speaker><content>Uh, this is a private rehearsal. We have a break in 20. Can you let us finish?</content></utterance>
+<utterance uid="29-5"><speaker>RYAN</speaker><content>I think maybe you are finished.</content></utterance>
+<utterance uid="29-6"><speaker>CASTLE</speaker><content>All respect to the Bard, we’re here with a tale of our own — one with betrayal and jealousy, though sadly classic.</content></utterance>
+<utterance uid="29-7"><speaker>ESPOSITO</speaker><content>A truly gifted director watches as her former classmate’s star rises in Hollywood, while she fought like hell for every opportunity.</content></utterance>
+<utterance uid="29-8"><speaker>ERIN</speaker><content>I love what I do. So what if Zane made millions because he chose the gym over acting school? I make art.</content></utterance>
+<utterance uid="29-9"><speaker>CASTLE</speaker><content>But when Zane asked you to cast him as Hamlet, you told him no, didn’t you?</content></utterance>
+<utterance uid="29-10"><speaker>ERIN</speaker><content>Yes, until he convinced me he was right for the part.</content></utterance>
+<utterance uid="29-11"><speaker>RYAN</speaker><content>By offering you your big break directing the El Oso biopic?</content></utterance>
+<utterance uid="29-12"><speaker>CASTLE</speaker><content>But it was a Hollywood promise. Not worth a damn. Tell me, did he confess to you that he would be directing the picture on his own, or did he just tell you you lost the job?</content></utterance>
+<utterance uid="29-13"><speaker>ERIN</speaker><content>Neither. Because it didn’t happen. I don’t know anything about an El Oso project.</content></utterance>
+<utterance uid="29-14"><speaker>ESPOSITO</speaker><content>Then how do you explain the browser history on your laptop?</content></utterance>
+<utterance uid="29-15"><speaker>RYAN</speaker><content>Or the shoes in your closet with Zane’s blood on them?</content></utterance>
+<utterance uid="29-16"><speaker>ERIN</speaker><content>You have no idea what a risk it was putting Zane in this play. And the only thing that made it worthwhile was directing that movie. And then he tells me that he’s gonna do it — and I’m left with maybe the worst production of Hamlet in history. I mean, my career is as good as over. Do you have any idea how difficult it is as a woman to break into directing film? And he took away my shot like it was nothing.  I heard him that night, torturing maybe the most beautiful words ever written for the stage, and I just snapped.</content></utterance>
+<utterance uid="29-17"><speaker>RYAN</speaker><content>This way, Ms. Cherloff.</content></utterance>
+<utterance uid="29-18"><speaker>OPHELIA</speaker><content>Is that a wrap on rehearsal?</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>ESPOSITO</speaker><content>You still mad about being fired off Sarah Grace’s preschool play?</content></utterance>
+<utterance uid="30-2"><speaker>RYAN</speaker><content>Ah, only at myself. I swore I’d never be that dad.</content></utterance>
+<utterance uid="30-3"><speaker>ESPOSITO</speaker><content>What, the kind that makes an ass of himself by dancing around like a flower for his daughter?</content></utterance>
+<utterance uid="30-4"><speaker>RYAN</speaker><content>No, the kind —  — the kind who gets caught up in what he wants, not what his kid does.</content></utterance>
+<utterance uid="30-5"><speaker>JENNY</speaker><content>Yeah, okay, let’s go.</content></utterance>
+<utterance uid="30-6"><speaker>SARAH GRACE</speaker><content>Daddy!</content></utterance>
+<utterance uid="30-7"><speaker>RYAN</speaker><content>Hey! Look at my little sunflower!</content></utterance>
+<utterance uid="30-8"><speaker>SARAH GRACE</speaker><content>Uncle Javi! </content></utterance>
+<utterance uid="30-9"><speaker>ESPOSITO</speaker><content>Ohh!</content></utterance>
+<utterance uid="30-10"><speaker>RYAN</speaker><content> Hey baby.</content></utterance>
+<utterance uid="30-11"><speaker>JENNY</speaker><content>Hey.</content></utterance>
+<utterance uid="30-12"><speaker>RYAN</speaker><content>I was just leaving. Aren’t you guys already supposed to be there?</content></utterance>
+<utterance uid="30-13"><speaker>JENNY</speaker><content>Uh, she didn’t want to go. Wouldn’t say why. She just wants you.</content></utterance>
+<utterance uid="30-14"><speaker>RYAN</speaker><content>Uh…hey, sweetie. Look, you don’t have to sing if you don’t want to. That’s the law.</content></utterance>
+<utterance uid="30-15"><speaker>SARAH GRACE</speaker><content>But you’ll be sad if I don’t.</content></utterance>
+<utterance uid="30-16"><speaker>RYAN</speaker><content>What? No.</content></utterance>
+<utterance uid="30-17"><speaker>JENNY</speaker><content> I think it’s more she forgot the words.</content></utterance>
+<utterance uid="30-18"><speaker>RYAN</speaker><content>Oh, do — do you want me to help you remember the words?  Okay, I’ll do it with you. Ready? Okay. Get your hands ready.  Flower, flower, flower fun —</content></utterance>
+<utterance uid="30-19"><speaker>RYAN</speaker><content> Flower growing in the sun — Raindrops fall from clouds up high —  We spin around!</content></utterance>
+<utterance uid="30-20"><speaker>RYAN</speaker><content>Yay!</content></utterance>
+<utterance uid="30-21"><speaker>ESPOSITO</speaker><content>Yay! Nice!</content></utterance>
+<utterance uid="30-22"><speaker>RYAN</speaker><content>I think you’re ready, S.G. All right?  So we’ll go to the play?</content></utterance>
+<utterance uid="30-23"><speaker>SARAH GRACE</speaker><content>Yeah.</content></utterance>
+<utterance uid="30-24"><speaker>RYAN</speaker><content>She’s ready.</content></utterance>
+<utterance uid="30-25"><speaker>JENNY</speaker><content> Yeah.</content></utterance>
+<utterance uid="30-26"><speaker>SARAH GRACE</speaker><content>This time I want to…</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>CASTLE</speaker><content>Mmm!</content></utterance>
+<utterance uid="31-2"><speaker>CASTLE</speaker><content>This date night is everything I dreamed it would be.</content></utterance>
+<utterance uid="31-3"><speaker>BECKETT</speaker><content>Aww. Well, given all the recent excitement, I thought that a quiet night in would be nice for a change.</content></utterance>
+<utterance uid="31-4"><speaker>CASTLE</speaker><content>Ohhh, you did plan something. What is it? Flash mob, treasure hunt, land shark?</content></utterance>
+<utterance uid="31-5"><speaker>BECKETT</speaker><content>No, no, I swear. I don’t know who’s at the door.</content></utterance>
+<utterance uid="31-6"><speaker>CASTLE</speaker><content>Oh. Thank you.</content></utterance>
+<utterance uid="31-7"><speaker>BECKETT</speaker><content>Oh, no. Castle, is that another credit card? Because I am YOLO’d out.</content></utterance>
+<utterance uid="31-8"><speaker>CASTLE</speaker><content>Not a credit card.</content></utterance>
+<utterance uid="31-9"><speaker>CASTLE</speaker><content>Script notes, biographical materials. It’s from El Oso. Beckett, you know what this means?</content></utterance>
+<utterance uid="31-10"><speaker>BECKETT</speaker><content>He still wants you to write his script.</content></utterance>
+<utterance uid="31-11"><speaker>CASTLE</speaker><content>And he doesn’t want me dead.</content></utterance>
+<utterance uid="31-12"><speaker>BECKETT</speaker><content>Until he reads the first draft.</content></utterance>
+<utterance uid="31-13"><speaker>CASTLE</speaker><content>Well, there’s that.  “These materials only cover the first two acts of our movie. The third act is yet to come, and it starts with a bang.”</content></utterance>
+<utterance uid="31-14"><speaker>BECKETT</speaker><content>Hey, Espo. — Seriously?  El Oso just escaped federal detention.</content></utterance>
+<utterance uid="31-15"><speaker>CASTLE</speaker><content>What?! They should call this guy El Houdini.</content></utterance>
+<utterance uid="31-16"><speaker>BECKETT</speaker><content>No, wait, hey, Castle, where are you going? Date night’s not over yet.</content></utterance>
+<utterance uid="31-17"><speaker>CASTLE</speaker><content>It is for me. I gotta start writing this script. Typey, typey, typey!</content></utterance>
+</scene>
+</script>

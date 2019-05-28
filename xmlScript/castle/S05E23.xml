@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>DALE TANNER</speaker><content>Here you go.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>RICHARD CASTLE</speaker><content>An explosion! Is this incoming artillery fire from above? No, Rommel’s troops have driven our boys into a minefield. Will the M4 Sherman tank’s armor be able to withstand this cowardly barrage from below?</content></utterance>
+<utterance uid="2-2"><speaker>CASTLE</speaker><content>Yes it can! And the Sherman smashes through Nazi lines to reach the –  Whoa. That is not the Suez Canal.</content></utterance>
+<utterance uid="2-3"><speaker>CASTLE</speaker><content>If you’re trying to decide what to wear, just keep wearing what you’re wearing now. Or less.</content></utterance>
+<utterance uid="2-4"><speaker>KATE BECKETT</speaker><content>Pervert!</content></utterance>
+<utterance uid="2-5"><speaker>CASTLE</speaker><content>That is Field Marshal Pervert to you.</content></utterance>
+<utterance uid="2-6"><speaker>BECKETT</speaker><content>Castle? Can you grab that?</content></utterance>
+<utterance uid="2-7"><speaker>CASTLE</speaker><content>Got it.</content></utterance>
+<utterance uid="2-8"><speaker>BECKETT</speaker><content>This is Detective Beckett’s office.  Seriously? A car bomb?</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>CASTLE</speaker><content>Wow. Talk about heightened police presence.</content></utterance>
+<utterance uid="3-2"><speaker>BECKETT</speaker><content>Wait a minute. What is this? Something’s not right. Hey Espo. Why are they taking the car away? CSU’s not done with it, is it?</content></utterance>
+<utterance uid="3-3"><speaker>JAVIER ESPOSITO</speaker><content>They were barely started before the Feds came in and seized the vehicle.</content></utterance>
+<utterance uid="3-4"><speaker>CASTLE</speaker><content>Why would they seize the vehicle?</content></utterance>
+<utterance uid="3-5"><speaker>ESPOSITO</speaker><content>I tried to ask but they iced me out.</content></utterance>
+<utterance uid="3-6"><speaker>BECKETT</speaker><content>Who’s in charge?</content></utterance>
+<utterance uid="3-7"><speaker>ESPOSITO</speaker><content>See that guy over there?  His name is Agent Guerrero.</content></utterance>
+<utterance uid="3-8"><speaker>ESPOSITO</speaker><content>Trust me. He’s not going to budge.</content></utterance>
+<utterance uid="3-9"><speaker>BECKETT</speaker><content>Agent Guerrero, I’m Detective Beckett –</content></utterance>
+<utterance uid="3-10"><speaker>AGENT GUERRERO</speaker><content>Let me save you the trouble. We’re taking the car.</content></utterance>
+<utterance uid="3-11"><speaker>BECKETT</speaker><content>CSU hasn’t finished processing it yet. This is a murder scene. I’m going to need to find out who the victim was.</content></utterance>
+<utterance uid="3-12"><speaker>AGENT GUERRERO</speaker><content>I’m sorry, but that vehicle is part of a federal investigation.  And if you people hinder us in any way, I’ll arrest you for obstruction.</content></utterance>
+<utterance uid="3-13"><speaker>BECKETT</speaker><content>What the hell is going on here?</content></utterance>
+<utterance uid="3-14"><speaker>CASTLE</speaker><content>And why is Homeland Security involved?</content></utterance>
+<utterance uid="3-15"><speaker>KEVIN RYAN</speaker><content>I don’t know. This whole thing stinks. According to witnesses, those two guys were staking out the car even before it blew up. And Homeland Security isn’t letting me talk to them.</content></utterance>
+<utterance uid="3-16"><speaker>CASTLE</speaker><content>A mysterious car bombing, the Feds giving us the boot, and now men in black. I’ll say it. I’m intrigued.</content></utterance>
+<utterance uid="3-17"><speaker>BECKETT</speaker><content>Who are you guys? Identify yourselves.</content></utterance>
+<utterance uid="3-18"><speaker>CASTLE</speaker><content>Hey guys. You get this a lot? Agent J, Agent K?</content></utterance>
+<utterance uid="3-19"><speaker>BECKETT</speaker><content>Why were you guys surveilling that car? Who was in it when it exploded?</content></utterance>
+<utterance uid="3-20"><speaker>BECKETT</speaker><content>Hey! Hey!  Well, we don’t have a body, we don’t have a crime scene, and we don’t have any witnesses, but –</content></utterance>
+<utterance uid="3-21"><speaker>CASTLE</speaker><content>At least we have each other.</content></utterance>
+<utterance uid="3-22"><speaker>BECKETT</speaker><content>We still have a homicide to solve.</content></utterance>
+<utterance uid="3-23"><speaker>CASTLE</speaker><content>And that.</content></utterance>
+<utterance uid="3-24"><speaker>ESPOSITO</speaker><content>Hey. I think I got an ID on our vic.  A uniform found this wallet about a half a block down that way. Matches the description of the guy that witnesses saw get in the car. His name is Dale Tanner.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>BETH TANNER</speaker><content>I always knew this day might come. Dale did too. It was one of the hazards of his job.</content></utterance>
+<utterance uid="4-2"><speaker>BECKETT</speaker><content>What kind of a job would lead to this?</content></utterance>
+<utterance uid="4-3"><speaker>BETH</speaker><content>When Dale was 16 his father was convicted of murder in Texas. Wrongly convicted. Right before the retrial his father died in prison and so fighting for the underdog, that kind of became his life’s mission.</content></utterance>
+<utterance uid="4-4"><speaker>SHAWN TANNER</speaker><content>So about 10 years ago he started the website. Whistleblower Anonymous.</content></utterance>
+<utterance uid="4-5"><speaker>CASTLE</speaker><content>I know that site. He exposed the waterboarding memos, the Orton geo-fracking scandal. I had no idea he was the one behind it.</content></utterance>
+<utterance uid="4-6"><speaker>BETH</speaker><content>Dale felt it was more important to keep attention on the issues rather than himself.</content></utterance>
+<utterance uid="4-7"><speaker>CASTLE</speaker><content>Was your husband working on anything recently?</content></utterance>
+<utterance uid="4-8"><speaker>BETH</speaker><content>Yeah, I think he was planning on posting some documents. And whatever they were they were making him nervous.</content></utterance>
+<utterance uid="4-9"><speaker>BECKETT</speaker><content>Where are the documents now?</content></utterance>
+<utterance uid="4-10"><speaker>BETH</speaker><content>Probably at his law office in Queens.</content></utterance>
+<utterance uid="4-11"><speaker>CASTLE</speaker><content>Why would Homeland Security be interested in your husband?</content></utterance>
+<utterance uid="4-12"><speaker>BETH</speaker><content>Half the government was interested in my husband. After he posted those photos of Abu-Grave they tried to get him to reveal his sources. They harassed him, followed him everywhere he went. It got so bad that we actually moved into our rental unit in Queens. He said that he was concerned about our safety.</content></utterance>
+<utterance uid="4-13"><speaker>SHAWN</speaker><content>And now he’s dead.</content></utterance>
+<utterance uid="4-14"><speaker>BECKETT</speaker><content>Mrs. Tanner, witnesses say that your husband parked on Mercer just before 8, waited on the sidewalk until 8:15, and then got back into his car. Do you know what he was doing downtown?</content></utterance>
+<utterance uid="4-15"><speaker>BETH</speaker><content> I have no idea. He felt like the less we knew the better. I should have talked to him more.</content></utterance>
+<utterance uid="4-16"><speaker>BECKETT</speaker><content>Did he work with anyone else who might have known what he was involved in?</content></utterance>
+<utterance uid="4-17"><speaker>BETH</speaker><content>He had a partner, but I have no idea who it was.</content></utterance>
+<utterance uid="4-18"><speaker>SHAWN</speaker><content>Why are we even talking to them, Mom?  The government killed my father and you’re helping them cover it up.</content></utterance>
+<utterance uid="4-19"><speaker>BETH</speaker><content>Shawn, please.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>RYAN</speaker><content>Now I’m not going to call this a cover up, but I will say this. The Feds are not helping us out. They won’t tell us what evidence they found in Tanner’s car.</content></utterance>
+<utterance uid="5-2"><speaker>BECKETT</speaker><content>Okay, so we’ll just work it from other angles. We know he had a partner. Why don’t we look into his phone records, see who it was.</content></utterance>
+<utterance uid="5-3"><speaker>RYAN</speaker><content>Because they’re not being released to us. Neither are Tanner’s financials.</content></utterance>
+<utterance uid="5-4"><speaker>BECKETT</speaker><content>Maybe we can get it from his law office?</content></utterance>
+<utterance uid="5-5"><speaker>RYAN</speaker><content>We tried to search there; they sealed the place and they took his computers.</content></utterance>
+<utterance uid="5-6"><speaker>CASTLE</speaker><content>Wow. I’m starting to see what you mean by the Feds not helping.</content></utterance>
+<utterance uid="5-7"><speaker>BECKETT</speaker><content>Then we’re just going to solve this without their help. Where are we on motive?</content></utterance>
+<utterance uid="5-8"><speaker>RYAN</speaker><content>Well there’s plenty of that to go around. Tanner wasn’t afraid to take on the big boys. Banks, big oil, dirty politicians. In the past year he posted highly damaging, and, I might add, truthful information on 30 corporations, government agencies, and individuals. And that’s just what I found before his site was taken offline. With no solid information it’s hard to even know where to start.</content></utterance>
+<utterance uid="5-9"><speaker>BECKETT</speaker><content>We start with manner of death. We know we’re dealing with a bomb, a bomb that was already in Tanner’s car.</content></utterance>
+<utterance uid="5-10"><speaker>RYAN</speaker><content>Right, because if he stayed near the vehicle no one could have tampered with it.</content></utterance>
+<utterance uid="5-11"><speaker>CASTLE</speaker><content>And whoever planted the bomb had to have access to the car at an earlier point.</content></utterance>
+<utterance uid="5-12"><speaker>ESPOSITO</speaker><content>Like in his garage. That’s where the car was before Tanner drove it down town and when I talked to neighbors, one of them saw an unfamiliar motorcycle jet out of the garage last night at 1AM.</content></utterance>
+<utterance uid="5-13"><speaker>CASTLE</speaker><content>Did they happen to get a plate?</content></utterance>
+<utterance uid="5-14"><speaker>ESPOSITO</speaker><content>No.  But this traffic cam did. Bike’s registered to a Monica Lane and get this, she works as a security contractor at Orton Geo.</content></utterance>
+<utterance uid="5-15"><speaker>CASTLE</speaker><content>That’s the fracking company Tanner almost put out of business.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>MONICA LANE</speaker><content>Man, the camera really does add 10 pounds.</content></utterance>
+<utterance uid="6-2"><speaker>RYAN</speaker><content>You were coming from an apartment building garage before that was taken. What were you doing there?</content></utterance>
+<utterance uid="6-3"><speaker>MONICA</speaker><content>That’s none of your business.</content></utterance>
+<utterance uid="6-4"><speaker>ESPOSITO</speaker><content>It became our business when Dale Tanner got blown to bits.</content></utterance>
+<utterance uid="6-5"><speaker>MONICA</speaker><content>What? He’s dead?</content></utterance>
+<utterance uid="6-6"><speaker>RYAN</speaker><content>Yeah. And I bet the company you work for likes him a whole lot better that way.</content></utterance>
+<utterance uid="6-7"><speaker>MONICA</speaker><content>Look, I had nothing to do with his death. This is not what you think.</content></utterance>
+<utterance uid="6-8"><speaker>ESPOSITO</speaker><content>Then what is it, Monica?</content></utterance>
+<utterance uid="6-9"><speaker>MONICA</speaker><content> He and I were seeing each other.</content></utterance>
+<utterance uid="6-10"><speaker>ESPOSITO</speaker><content>Wait a minute, you and Dale Tanner?</content></utterance>
+<utterance uid="6-11"><speaker>MONICA</speaker><content>We met in the park a few months ago. We just connected.</content></utterance>
+<utterance uid="6-12"><speaker>ESPOSITO</speaker><content>Yeah. I can see you’re real busted up.</content></utterance>
+<utterance uid="6-13"><speaker>RYAN</speaker><content>You were spying on him.  Isn’t that what this is really about?</content></utterance>
+<utterance uid="6-14"><speaker>MONICA</speaker><content>Okay, Orton Geo lost half a billion dollars in contracts because of Dale Tanner. My job was to get close to him and find out who was leaking him information. But it did not involve killing him.</content></utterance>
+<utterance uid="6-15"><speaker>RYAN</speaker><content>Was anyone else after him? Besides you, of course.</content></utterance>
+<utterance uid="6-16"><speaker>MONICA</speaker><content>Oh, God. His wife. He said she had called. She had just found out about us. She threatened to kill him.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>BETH</speaker><content>I felt betrayed. Don’t you see? I stood by him for 24 years.</content></utterance>
+<utterance uid="7-2"><speaker>BECKETT</speaker><content>You withheld that he was having an affair and then you went out of your way to make it look like his work got him killed.</content></utterance>
+<utterance uid="7-3"><speaker>BETH</speaker><content>Because it did. All right, look, I admit it. I said some things to Dale. I was upset. Besides, I didn’t go near that apartment –</content></utterance>
+<utterance uid="7-4"><speaker>BECKETT</speaker><content>You could have hired someone else to do it.</content></utterance>
+<utterance uid="7-5"><speaker>BETH</speaker><content>With what money, huh?  It’s not like Dale and his website ever made anybody rich.</content></utterance>
+<utterance uid="7-6"><speaker>RYAN</speaker><content>Beckett? There’s something you need to see.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>RYAN</speaker><content>So CSU sent this over. Based on what little they had they were able to piece together where the explosion originated.</content></utterance>
+<utterance uid="8-2"><speaker>CASTLE</speaker><content>I’m going to go out on a limb here and say the explosion originated in the car.</content></utterance>
+<utterance uid="8-3"><speaker>RYAN</speaker><content>Right, well, normally a car bomb is placed inside the engine compartment or underneath, but this one went off near the front seat.</content></utterance>
+<utterance uid="8-4"><speaker>BECKETT</speaker><content>So it was planted inside the car.</content></utterance>
+<utterance uid="8-5"><speaker>RYAN</speaker><content>Actually it wasn’t planted at all. CSU found these metal fragments and they were able to trace it to a very specific device. They put together this reconstruction of the explosion.</content></utterance>
+<utterance uid="8-6"><speaker>BECKETT</speaker><content>Is that a missile?</content></utterance>
+<utterance uid="8-7"><speaker>RYAN</speaker><content>Specifically a kind of missile deployed from an unmanned aerial vehicle.</content></utterance>
+<utterance uid="8-8"><speaker>CASTLE</speaker><content>Dale Tanner was taken out by a drone?</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>RYAN</speaker><content>One second Dale Tanner’s sitting in his car, the next – boom.</content></utterance>
+<utterance uid="9-2"><speaker>RYAN</speaker><content>Poor guy didn’t even know what hit him.</content></utterance>
+<utterance uid="9-3"><speaker>ESPOSITO</speaker><content>This couldn’t have been a drone strike. There’s gotta be a mistake here.</content></utterance>
+<utterance uid="9-4"><speaker>RYAN</speaker><content>There isn’t. CSU found PVXN-112 explosive residue and fluoridated aluminum from a missile casing.</content></utterance>
+<utterance uid="9-5"><speaker>ESPOSITO</speaker><content>There’s no way that a military drone could fly over New York City and smoke a guy.</content></utterance>
+<utterance uid="9-6"><speaker>BECKETT</speaker><content>Actually, it could. There’s a drone training facility at Fort Drummond. Ryan, while Castle and I look into that, can you talk to anyone that knew Tanner? Let’s see if we can find out who his partner was.</content></utterance>
+<utterance uid="9-7"><speaker>ESPOSITO</speaker><content>What, you and Castle are going to Fort Drummond?</content></utterance>
+<utterance uid="9-8"><speaker>BECKETT</speaker><content>Yeah, the head of the drone program agreed to a meeting.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>CASTLE</speaker><content>What is going on here? Do you really think the military took him out?</content></utterance>
+<utterance uid="10-2"><speaker>BECKETT</speaker><content>I don’t see how they could.</content></utterance>
+<utterance uid="10-3"><speaker>CASTLE</speaker><content>Because they wouldn’t cross that line?</content></utterance>
+<utterance uid="10-4"><speaker>BECKETT</speaker><content>Because in my experience huge bureaucracies don’t act with that kind of efficiency.</content></utterance>
+<utterance uid="10-5"><speaker>CASTLE</speaker><content>Well that’s comforting.</content></utterance>
+<utterance uid="10-6"><speaker>BECKET</speaker><content>No wild theories about the military industrial complex.</content></utterance>
+<utterance uid="10-7"><speaker>CASTLE</speaker><content>I just don’t want to believe my country could do something like this.</content></utterance>
+<utterance uid="10-8"><speaker>BECKETT</speaker><content>Me neither.</content></utterance>
+</scene>
+
+<scene id="11"><utterance uid="11-1"><speaker>HOOPER</speaker><content>Detective Beckett. Mr. Castle. Thank you for visiting For Drummond.  So we gathered that you believe that occurred in the city that –</content></utterance>
+<utterance uid="11-2"><speaker>BECKETT</speaker><content>No, not an incident. A murder from a drone strike.</content></utterance>
+<utterance uid="11-3"><speaker>COLONEL FORTIS</speaker><content>That’s an outrageous accusation, Detective. What do you base it on?</content></utterance>
+<utterance uid="11-4"><speaker>BECKETT</speaker><content>Forensic evidence at the crime scene is consistent with a drone fired missile.  How many drones were in the area this morning?</content></utterance>
+<utterance uid="11-5"><speaker>FORTIS</speaker><content>That information is classified.</content></utterance>
+<utterance uid="11-6"><speaker>BECKETT</speaker><content>Colonel Fortis, was there a drone flying over New York City at 8:15AM?</content></utterance>
+<utterance uid="11-7"><speaker>FORTIS</speaker><content>That’s classified.</content></utterance>
+<utterance uid="11-8"><speaker>CASTLE</speaker><content>Okay, how about this. Did anyone else have access to the drones? Any federal agencies, corporations –</content></utterance>
+<utterance uid="11-9"><speaker>FORTIS</speaker><content>That’s classified.</content></utterance>
+<utterance uid="11-10"><speaker>CASTLE</speaker><content> – classified.</content></utterance>
+<utterance uid="11-11"><speaker>BECKETT</speaker><content>Okay, then I would like to take a look at your flight logs –</content></utterance>
+<utterance uid="11-12"><speaker>FORTIS</speaker><content>This meeting is over.</content></utterance>
+<utterance uid="11-13"><speaker>HOOPER</speaker><content>Keep in mind, the waivers that you signed prohibit you from discussing what was said here.</content></utterance>
+<utterance uid="11-14"><speaker>CASTLE</speaker><content>Nothing was said here.</content></utterance>
+<utterance uid="11-15"><speaker>HOOPER</speaker><content>Well then we shouldn’t have a problem.</content></utterance>
+<utterance uid="11-16"><speaker>CASTLE</speaker><content>Touché.</content></utterance>
+<utterance uid="11-17"><speaker>BECKETT</speaker><content>That man over there. He was at the crime scene.  Who is he? Does he work for you?</content></utterance>
+<utterance uid="11-18"><speaker>CASTLE</speaker><content> Don’t bother. It’s classified.</content></utterance>
+<utterance uid="11-19"><speaker>BECKETT</speaker><content>You know, I don’t know what the hell you guys are up to, but I promise you I will find out.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>CASTLE</speaker><content>Now might be the time for wild military industrial complex theories. And here’s one. Tanner was about to post super-secret military documents. They took him out with a drone and now they’re covering it up. Which, actually, isn’t so wild.</content></utterance>
+<utterance uid="12-2"><speaker>BECKETT</speaker><content>I don’t know. Maybe they just fired the missile by mistake.</content></utterance>
+<utterance uid="12-3"><speaker>CASTLE</speaker><content>And just so happened to hit a vocal critic of the U.S government? And the guy form the crime scene shows up at our Kafka-esque meeting? I don’t think so.</content></utterance>
+<utterance uid="12-4"><speaker>BECKETT</speaker><content>I don’t even know why they took that meeting. All they did was stonewall.  Beckett.</content></utterance>
+<utterance uid="12-5"><speaker>ESPOSITO</speaker><content>Yo. Got a call from CSU. Feds just came in a seized all materials related to the Tanner case.</content></utterance>
+<utterance uid="12-6"><speaker>CASTLE</speaker><content>The explosive residue, the fragment samples?</content></utterance>
+<utterance uid="12-7"><speaker>ESPOSITO</speaker><content>All of it.</content></utterance>
+<utterance uid="12-8"><speaker>BECKETT</speaker><content>We’ve been played. They just met with us to find out where everything was and what we knew and then they grabbed all the evidence.</content></utterance>
+<utterance uid="12-9"><speaker>ESPOSITO</speaker><content>Yeah, and now we have no proof that a drone strike ever happened.</content></utterance>
+<utterance uid="12-10"><speaker>CASTLE</speaker><content>We’re no closer to finding out why it happened or who did it.</content></utterance>
+<utterance uid="12-11"><speaker>RYAN</speaker><content> Well maybe Tanner’s partner can tell us.</content></utterance>
+<utterance uid="12-12"><speaker>BECKETT</speaker><content>Do you know who it is?</content></utterance>
+<utterance uid="12-13"><speaker>RYAN</speaker><content>Turns out Tanner taught law classes at Eastborough College to make ends meet and his colleagues say they remember seeing a former student named Omar Dixon hanging around. I talked to Omar’s girlfriend. She said that he did work for Tanner but it was all hush-hush what he did.</content></utterance>
+<utterance uid="12-14"><speaker>BECKETT</speaker><content>And where’s Omar now?</content></utterance>
+<utterance uid="12-15"><speaker>RYAN</speaker><content>The girlfriend said she has no idea, but Shawn Tanner might. He attends Eastborough too. Used to drop by and see his dad. Maybe he knows Omar.</content></utterance>
+<utterance uid="12-16"><speaker>CASTLE</speaker><content>Oh, I think he does.  Remember what he did when you asked if he knew his dad’s partner?</content></utterance>
+<utterance uid="12-17"><speaker>BECKETT</speaker><content>He changed the subject.</content></utterance>
+<utterance uid="12-18"><speaker>CASTLE</speaker><content>Boom.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>SHAWN</speaker><content>I’m telling you, I don’t know him. I don’t know anyone named Omar Dixon.</content></utterance>
+<utterance uid="13-2"><speaker>RYAN</speaker><content>Look Shawn, I know that law enforcement hasn’t already been on your guys’ side.</content></utterance>
+<utterance uid="13-3"><speaker>SHAWN</speaker><content>Try never.</content></utterance>
+<utterance uid="13-4"><speaker>RYAN</speaker><content>But we’re not the Feds, Shawn. We’re the guys trying to solve your dad’s murder. And no matter what you think, we’re not going to stop until that job is done.</content></utterance>
+<utterance uid="13-5"><speaker>ESPSOTIO</speaker><content>Here’s the thing, bro. If your dad was killed for what he put on that website, your boy Omar’s in danger, too.</content></utterance>
+<utterance uid="13-6"><speaker>RYAN</speaker><content>Help us out, Shawn.</content></utterance>
+<utterance uid="13-7"><speaker>SHAWN</speaker><content>Yeah, I met Omar. I knew him a little. He worked with my dad.</content></utterance>
+<utterance uid="13-8"><speaker>ESPOSITO</speaker><content>Where can we find him?</content></utterance>
+<utterance uid="13-9"><speaker>SHAWN</speaker><content>My dad gave me a number for him.</content></utterance>
+<utterance uid="13-10"><speaker>RYAN</speaker><content>We need you to call that number. Tell Omar you’d like to meet.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>BECKETT</speaker><content>Omar?  I’m Detective Kate Beckett.</content></utterance>
+<utterance uid="14-2"><speaker>OMAR DIXON</speaker><content>Whoa. Where’s – where’s Shawn?</content></utterance>
+<utterance uid="14-3"><speaker>BECKET</speaker><content>The couldn’t make it. We need to ask you a few questions about Dale Tanner.</content></utterance>
+<utterance uid="14-4"><speaker>OMAR</speaker><content>I’m not getting involved.</content></utterance>
+<utterance uid="14-5"><speaker>BECKETT</speaker><content>Omar, you’re already involved.</content></utterance>
+<utterance uid="14-6"><speaker>OMAR</speaker><content>Then I’m not getting any more involved. It’s bad enough I saw his blown up car on the news, now I’ve got people following me. And not just you.</content></utterance>
+<utterance uid="14-7"><speaker>BECKETT</speaker><content>What people?</content></utterance>
+<utterance uid="14-8"><speaker>OMAR</speaker><content>I have no idea, lady. No idea who they are.</content></utterance>
+<utterance uid="14-9"><speaker>BECKETT</speaker><content>Who killed Tanner? Was it because of the documents he was going to post?</content></utterance>
+<utterance uid="14-10"><speaker>OMAR</speaker><content> How they hell should I know?</content></utterance>
+<utterance uid="14-11"><speaker>BECKETT</speaker><content>You’re his partner, aren’t you?</content></utterance>
+<utterance uid="14-12"><speaker>OMAR</speaker><content>His partner? Is that what people think? Is that why they’re after me?</content></utterance>
+<utterance uid="14-13"><speaker>BECKETT</speaker><content>If you’re not his partner then who are you?</content></utterance>
+<utterance uid="14-14"><speaker>OMAR</speaker><content>His assistant. I’m his part-time IT guy. I set up his website. He gave me files, I upload them, and for that the cheap bastard paid me $15 bucks and hour.</content></utterance>
+<utterance uid="14-15"><speaker>BECKETT</speaker><content>Did he tell you what he was working on?</content></utterance>
+<utterance uid="14-16"><speaker>OMAR</speaker><content>I didn’t know and I didn’t care. It was just a gig for me. And right now, I’m sorry I ever took it.</content></utterance>
+<utterance uid="14-17"><speaker>BECKETT</speaker><content>Don’t move.</content></utterance>
+<utterance uid="14-18"><speaker>OMAR</speaker><content>That’s him. That’s one of the guys that was following me.</content></utterance>
+<utterance uid="14-19"><speaker>BECKETT</speaker><content>Omar!  Omar!  Steady.  You’re under arrest.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>CASTLE</speaker><content>He’s awfully calm for a guy walking around with a silenced pistol.</content></utterance>
+<utterance uid="15-2"><speaker>BECKETT</speaker><content>Yeah well, he’s been in rooms like this before.</content></utterance>
+<utterance uid="15-3"><speaker>CASTLE</speaker><content>Hey.</content></utterance>
+<utterance uid="15-4"><speaker>ESPOSITO</speaker><content>Hey.</content></utterance>
+<utterance uid="15-5"><speaker>BECKETT</speaker><content>So what do we know about Robert Williams?</content></utterance>
+<utterance uid="15-6"><speaker>ESPOSITO</speaker><content>His ID is fake.</content></utterance>
+<utterance uid="15-7"><speaker>BECKETT</speaker><content>What about his prints?</content></utterance>
+<utterance uid="15-8"><speaker>ESPOSITO</speaker><content>There’s no record of them in the system. I don’t know who this guy is.</content></utterance>
+<utterance uid="15-9"><speaker>CASTLE</speaker><content>As is my way, I’m going to go with … government assassin.</content></utterance>
+<utterance uid="15-10"><speaker>BECKETT</speaker><content>Well, time to find out.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>BECKETT</speaker><content>What’s your name?</content></utterance>
+<utterance uid="16-2"><speaker>STACK</speaker><content>Does it matter? It’s not like we’re going to get to know each other.</content></utterance>
+<utterance uid="16-3"><speaker>BECKETT</speaker><content>Who had Dale Tanner killed?  Were you a part of it? Or was your job just to clean up the mess?</content></utterance>
+<utterance uid="16-4"><speaker>STACK</speaker><content>You’re tenacious. I respect that.</content></utterance>
+<utterance uid="16-5"><speaker>BECKETT</speaker><content>Was Omar Dixon a part of the mess?</content></utterance>
+<utterance uid="16-6"><speaker>STACK</speaker><content>He went into hiding. By the way, how did you manage to draw him out?</content></utterance>
+<utterance uid="16-7"><speaker>BECKETT</speaker><content>I’ll be asking the questions.</content></utterance>
+<utterance uid="16-8"><speaker>STACK</speaker><content>You just won’t be getting the answers.</content></utterance>
+<utterance uid="16-9"><speaker>BECKETT</speaker><content>We’ll see. I can keep you for 24 hours and I fully intend to do so.</content></utterance>
+<utterance uid="16-10"><speaker>STACK</speaker><content>You have me for five more seconds. Use them well.</content></utterance>
+<utterance uid="16-11"><speaker>RYAN</speaker><content>Beckett? You’ve got a phone call.</content></utterance>
+<utterance uid="16-12"><speaker>STACK</speaker><content>Time’s up.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>BECKETT</speaker><content>This is Detective Kate Beckett.</content></utterance>
+<utterance uid="17-2"><speaker>SECRETARY</speaker><content>Hold for the Attorney General.</content></utterance>
+<utterance uid="17-3"><speaker>BECKETT</speaker><content>I’m sorry, what? Hold for who?</content></utterance>
+<utterance uid="17-4"><speaker>ATTORNEY GENERAL</speaker><content>Thank you. Is this Detective Beckett?</content></utterance>
+<utterance uid="17-5"><speaker>BECKETT</speaker><content>Uh, good evening, Mr. Attorney General, yes it is.</content></utterance>
+<utterance uid="17-6"><speaker>ATTORNEY GENERAL</speaker><content>Do you have a man by the name of Robert Williams in custody?</content></utterance>
+<utterance uid="17-7"><speaker>BECKETT</speaker><content>Yes we do.</content></utterance>
+<utterance uid="17-8"><speaker>ATTORNEY GENERAL</speaker><content>I need you to release him.</content></utterance>
+<utterance uid="17-9"><speaker>BECKETT</speaker><content>Release him? I –</content></utterance>
+<utterance uid="17-10"><speaker>ATTORNEY GENERAL</speaker><content>I’m asking this of you as the highest ranking law enforcement official in the country.</content></utterance>
+<utterance uid="17-11"><speaker>BECKETT</speaker><content>Look, sir, with all due respect, a man has been killed and he is a person of interest.</content></utterance>
+<utterance uid="17-12"><speaker>ATTORNEY GENERAL</speaker><content>This is a direct order and I expect you to follow it.</content></utterance>
+<utterance uid="17-13"><speaker>BECKETT</speaker><content>Fine. But then I’m gonna want something in return.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>STACK</speaker><content>Yes, sir.  I fully understand. Thank you, sir.</content></utterance>
+<utterance uid="18-2"><speaker>STACK</speaker><content>Well played, Detective Beckett. So, what do you want to know.</content></utterance>
+<utterance uid="18-3"><speaker>BECKETT</speaker><content>Why don’t we start with who are you?</content></utterance>
+<utterance uid="18-4"><speaker>STACK</speaker><content>Jared Stack, special investigator for the Attorney General’s office.</content></utterance>
+<utterance uid="18-5"><speaker>CASTLE</speaker><content>I’ve never heard of it.</content></utterance>
+<utterance uid="18-6"><speaker>STACK</speaker><content> You’re not supposed to.</content></utterance>
+<utterance uid="18-7"><speaker>BECKETT</speaker><content>And what is your connection with Dale Tanner?</content></utterance>
+<utterance uid="18-8"><speaker>STACK</speaker><content>Tanner was under scrutiny by the FBI, DHS, and the pentagon, not to mention the NYPD counterterrorism unit. Somebody objective needed to look into his death, so they picked me.</content></utterance>
+<utterance uid="18-9"><speaker>BECKETT</speaker><content>When did you realize he was killed by a drone and not a car bomb?</content></utterance>
+<utterance uid="18-10"><speaker>STACK</speaker><content>Once our people examined the wreckage.</content></utterance>
+<utterance uid="18-11"><speaker>CASTLE</speaker><content>Why the fake ID?</content></utterance>
+<utterance uid="18-12"><speaker>STACK</speaker><content>I didn’t know where this was headed. The AG needs deniability.</content></utterance>
+<utterance uid="18-13"><speaker>CASTLE</speaker><content> The secretary will disavow all knowledge of your actions.  It’s Mission Impossible.</content></utterance>
+<utterance uid="18-14"><speaker>STACK</speaker><content>Pretty much. I’m even wearing a mask.</content></utterance>
+<utterance uid="18-15"><speaker>CASTLE</speaker><content>Really?</content></utterance>
+<utterance uid="18-16"><speaker>STACK</speaker><content>No.</content></utterance>
+<utterance uid="18-17"><speaker>BECKETT</speaker><content>You claim that you have no idea where this is headed, but it seems pretty clear to me. The military launched an attack against Tanner.</content></utterance>
+<utterance uid="18-18"><speaker>STACK</speaker><content>I went over the logs at Fort Drummond. It didn’t come from there.</content></utterance>
+<utterance uid="18-19"><speaker>CASTLE</speaker><content>Where did it come from?</content></utterance>
+<utterance uid="18-20"><speaker>STACK</speaker><content>That’s what I’m trying to find out. The fact is, we’ve lost a number of drones. Some of them have fallen into enemy hands.</content></utterance>
+<utterance uid="18-21"><speaker>BECKETT</speaker><content>So one of our enemies killed Tanner? With a drone?</content></utterance>
+<utterance uid="18-22"><speaker>CASTLE</speaker><content>That theory is highly improbable. And coming from me, that’s saying something.</content></utterance>
+<utterance uid="18-23"><speaker>STACK</speaker><content>Think of it this way. Let’s say our government wanted Tanner dead. Why not just gun him down on the streets? Why use a drone. Why get rid of him in a way that could bounce back on them?</content></utterance>
+<utterance uid="18-24"><speaker>BECKETT</speaker><content>Same reason most killers do. ‘cause they think they’re going to get away with it.</content></utterance>
+<utterance uid="18-25"><speaker>STACK</speaker><content>Stack.  What? You’re sure. All right, uh … send me a link to that feed.</content></utterance>
+<utterance uid="18-26"><speaker>BECKETT</speaker><content>What is it?</content></utterance>
+<utterance uid="18-27"><speaker>STACK</speaker><content>That was one of my colleagues. The drone wasn’t from Fort Drummond, but it was one of ours.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>STACK</speaker><content>This is video feed off a drone on a routine training run from the international guard base near Syracuse at 8:16 this morning.  Would you mind shutting those blinds?</content></utterance>
+<utterance uid="19-2"><speaker>BECKETT</speaker><content>Who’s flying the drone?</content></utterance>
+<utterance uid="19-3"><speaker>STACK</speaker><content>Funny you should ask. The pilot lost control 9 minutes earlier over Long Island.</content></utterance>
+<utterance uid="19-4"><speaker>CASTLE</speaker><content>Whoa, what do you mean, lost control?</content></utterance>
+<utterance uid="19-5"><speaker>STACK</speaker><content>Take a listen for yourself.</content></utterance>
+<utterance uid="19-6"><speaker>COMMANDER</speaker><content>Okay, try rebooting the console software.</content></utterance>
+<utterance uid="19-7"><speaker>COMMANDER</speaker><content>Wait, what the hell is that? Are you running a targeting protocol on that vehicle?</content></utterance>
+<utterance uid="19-8"><speaker>COMMANDER</speaker><content>Oh my God.</content></utterance>
+<utterance uid="19-9"><speaker>STACK</speaker><content>Somebody hacked into that drone and took out Dale Tanner.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>RYAN</speaker><content>Why is it so hard to believe? People hack in to banks all the time. The Pentagon, NASA.</content></utterance>
+<utterance uid="20-2"><speaker>ESPOSITO</speaker><content>Yeah, but a drone? Maybe the pilot was just pretending he wasn’t flying.</content></utterance>
+<utterance uid="20-3"><speaker>BECKETT</speaker><content>No, no, you can’t fake that kind of panic.</content></utterance>
+<utterance uid="20-4"><speaker>CASTLE</speaker><content>I agree. He was having a pants-soiling moment. But there is one possibility we are neglecting.  The drone itself. It’s Rise of the Machines. Not unlike SkyNet and the Terminator.</content></utterance>
+<utterance uid="20-5"><speaker>CASTLE</speaker><content>The machines have achieved consciousness and they a pissed.</content></utterance>
+<utterance uid="20-6"><speaker>STACK</speaker><content>Sorry to disappoint, Mr. Castle, but it’s a human perp we’re after. NSA picked up an encrypted signal that was sent out the exact moment the pilot lost control. That signal basically overrode the controls and allowed the hacker to take over the drone.</content></utterance>
+<utterance uid="20-7"><speaker>BECKETT</speaker><content>And where did this signal come from?</content></utterance>
+<utterance uid="20-8"><speaker>STACK</speaker><content>From the lower half of the state of New York. Uh, NSA’s trying to narrow that down as we speak.</content></utterance>
+<utterance uid="20-9"><speaker>RYAN</speaker><content>So for all we know we’re looking for some 14 year old nerd with a computer?</content></utterance>
+<utterance uid="20-10"><speaker>STACK</speaker><content>It’s not likely. Whoever did this had to know how to defeat the signal encryption and have the software to run the drone.  Warburg.</content></utterance>
+<utterance uid="20-11"><speaker>ESPOSITO</speaker><content>What’s a Warburg?</content></utterance>
+<utterance uid="20-12"><speaker>STACK</speaker><content>It’s not a what, it’s a who. He’s the only guy that could have pulled this off.</content></utterance>
+<utterance uid="20-13"><speaker>BECKETT</speaker><content>Okay. How do we find him?</content></utterance>
+<utterance uid="20-14"><speaker>STACK</speaker><content>He’s been off grid for about a year. The guy’s a real ghost. You’ll never find him.  But I might by tracing the signal.</content></utterance>
+<utterance uid="20-15"><speaker>BECKETT</speaker><content>Maybe we can work on this together.</content></utterance>
+<utterance uid="20-16"><speaker>STACK</speaker><content>Hey. I agreed to tell you what I knew, which I’ve done. It’s been real fun, Detective Beckett, but I’ll take things from here, all right?</content></utterance>
+<utterance uid="20-17"><speaker>CASTLE</speaker><content>Wow. And here I thought we all had bonded.</content></utterance>
+<utterance uid="20-18"><speaker>BECKETT</speaker><content>If Warburg hacked that drone then he’s our murder suspect and I’m not buying Stack’s word that we can’t find him. Let’s dig into this guy and see what we’re dealing with.</content></utterance>
+<utterance uid="20-19"><speaker>ESPOSITO</speaker><content>Right.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>ESPOSITO</speaker><content>Simon Warburg, a programming legend, overcame severe OCD to become chief designer for the operational software used in military drones.</content></utterance>
+<utterance uid="21-2"><speaker>BECKETT</speaker><content>And then what?</content></utterance>
+<utterance uid="21-3"><speaker>RYAN</speaker><content>Well, he got busted for sabotaging that software but he fled before the FBI could arrest him.</content></utterance>
+<utterance uid="21-4"><speaker>CASTLE</speaker><content>Warburg. Sounds like a Bond villain, right? Petting his cat while forming a plan for world domination. And what is that plan, you ask?</content></utterance>
+<utterance uid="21-5"><speaker>BECKETT</speaker><content>Actually I didn’t ask.</content></utterance>
+<utterance uid="21-6"><speaker>CASTLE</speaker><content>Talking about the boys.  To create a drone army. A drone army that can think. That possesses awareness. And who better than the programming genius who designed their software to give them that spark of life?</content></utterance>
+<utterance uid="21-7"><speaker>BECKETT</speaker><content>Castle, you don’t actually believe that. And keep in mind, if you say yes I will find you less attractive.</content></utterance>
+<utterance uid="21-8"><speaker>CASTLE</speaker><content>Well it is conceivable and I have to say, a far better story.</content></utterance>
+<utterance uid="21-9"><speaker>ESPOSITO</speaker><content>Yo, check it. Warburg posted a video just before he went into hiding.</content></utterance>
+<utterance uid="21-10"><speaker>SIMON WARBURG</speaker><content>People don’t understand why I tampered with the drone software.</content></utterance>
+<utterance uid="21-11"><speaker>CASTLE</speaker><content>That’s Warburg? I was expecting –</content></utterance>
+<utterance uid="21-12"><speaker>RYAN</speaker><content>Doctor Evil?</content></utterance>
+<utterance uid="21-13"><speaker>CASTLE</speaker><content>Well, someone a little less nerdy.</content></utterance>
+<utterance uid="21-14"><speaker>WARBURG</speaker><content>It’s because I’ve seen the future. And I know their plan.</content></utterance>
+<utterance uid="21-15"><speaker>CASTLE</speaker><content>Here it is. Building a drone army.</content></utterance>
+<utterance uid="21-16"><speaker>WARBURG</speaker><content>They’ll introduce surveillance drones to monitor traffic.  Seems harmless enough, right? So we let it happen. Next there’ll be security drones. Because who doesn’t like to feel safer. And then armed drones, to protect our skies. And by then it’s too late. Because the system to monitor, to control, to kill any one of us will already be in place. Someone has to stop this. Even if that someone is me.</content></utterance>
+<utterance uid="21-17"><speaker>CASTLE</speaker><content>He wasn’t building a drone army, he was preventing one from being built. I was pretty close.</content></utterance>
+<utterance uid="21-18"><speaker>BECKETT</speaker><content>If by close you mean opposite. Warburg believed that drones were going to be used to target US citizens. That’s why he killed an activist like Dale Tanner – to show us the future was already here.</content></utterance>
+<utterance uid="21-19"><speaker>ESPOSITO</speaker><content>This guy basically framed the government to try to stop drone use.</content></utterance>
+<utterance uid="21-20"><speaker>BECKETT</speaker><content>So we get Warburg, we get our killer. And I think I know how.  Guys, look at those books.</content></utterance>
+<utterance uid="21-21"><speaker>CASTLE</speaker><content>All on science, all first editions.  That’s Origins of Species.</content></utterance>
+<utterance uid="21-22"><speaker>ESPOSITO</speaker><content>So?</content></utterance>
+<utterance uid="21-23"><speaker>BECKETT</speaker><content>So he was a book collector.</content></utterance>
+<utterance uid="21-24"><speaker>CASTLE</speaker><content>A book collector with OCD. A habit like that would die hard.</content></utterance>
+<utterance uid="21-25"><speaker>RYAN</speaker><content>I’ll start checking antique book stores in the morning, see if Warburg contacted any of them.</content></utterance>
+</scene>
+
+<scene id="22"><utterance uid="22-1"><speaker>CASTLE</speaker><content> Beckett.</content></utterance>
+<utterance uid="22-2"><speaker>CASTLE</speaker><content>The tank is going to get it.</content></utterance>
+<utterance uid="22-3"><speaker>CASTLE</speaker><content>Beckett!  Beckett, get up. We’ve gotta go.</content></utterance>
+<utterance uid="22-4"><speaker>BECKETT</speaker><content>You totally fell for it. You acted like it was Rise of the Machines!</content></utterance>
+<utterance uid="22-5"><speaker>CASTLE</speaker><content>No I didn’t. I – I didn’t think it was Rise of the –</content></utterance>
+<utterance uid="22-6"><speaker>BECKETT</speaker><content>If that was actually a killer tank, you bailed!</content></utterance>
+<utterance uid="22-7"><speaker>CASTLE</speaker><content> I went to get the bat to protect you and eliminate the threat.</content></utterance>
+<utterance uid="22-8"><speaker>BECKETT</speaker><content>Really?  There’s a camera here, Castle. I saw the look on your face.  Beckett.</content></utterance>
+<utterance uid="22-9"><speaker>RYAN</speaker><content>Hey Beckett, sorry to call you so late, but I think I got something.</content></utterance>
+<utterance uid="22-10"><speaker>BECKETT</speaker><content>Ryan, what are you doing at the precinct?</content></utterance>
+<utterance uid="22-11"><speaker>RYAN</speaker><content>Well, I was looking at websites of antique bookstores and I was checking out one near Woodstock and I think I’ve noticed a pattern.</content></utterance>
+<utterance uid="22-12"><speaker>BECKETT</speaker><content>What kind of a pattern?</content></utterance>
+<utterance uid="22-13"><speaker>RYAN</speaker><content>According to this inventory grid, the bookseller sold seven books on the same day last month. And I see all seven of those books on one shelf of Warburg’s bookcase.</content></utterance>
+<utterance uid="22-14"><speaker>CASTLE</speaker><content>Either that’s a statistical impossibility, or -</content></utterance>
+<utterance uid="22-15"><speaker>BECKETT</speaker><content>Or Warburg is rebuilding his book collection one shelf at a time.</content></utterance>
+<utterance uid="22-16"><speaker>RYAN</speaker><content>Which would mean he ordered books from this bookstore.</content></utterance>
+</scene>
+
+<scene id="23"><utterance uid="23-1"><speaker>CASTLE</speaker><content>Ah… that aroma. Old leather and moldering paper. It’s official. I love this place.</content></utterance>
+<utterance uid="23-2"><speaker>BECKETT</speaker><content>Castle, look. It’s ‘Storm Season’.</content></utterance>
+<utterance uid="23-3"><speaker>CASTLE</speaker><content>Oh.</content></utterance>
+<utterance uid="23-4"><speaker>BECKETT</speaker><content>Oh, on the clearance table.</content></utterance>
+<utterance uid="23-5"><speaker>CASTLE</speaker><content>And the love fades.</content></utterance>
+<utterance uid="23-6"><speaker>MARTIN TILLAGE</speaker><content>Can I help you?</content></utterance>
+<utterance uid="23-7"><speaker>BECKETT</speaker><content> Yeah, as a matter of fact, you can.  Do you recognize this man?</content></utterance>
+<utterance uid="23-8"><speaker>MARTIN</speaker><content>Oh, yes indeed. It’s Mr. Smith. He’s quite a discerning collector. He’s purchased quite a few books from us here.</content></utterance>
+<utterance uid="23-9"><speaker>CASTLE</speaker><content>Really? Smith? That’s original.</content></utterance>
+<utterance uid="23-10"><speaker>BECKETT</speaker><content>Do you have his address? Does he have his books delivered?</content></utterance>
+<utterance uid="23-11"><speaker>MARTIN</speaker><content>No, no. He comes in and he picks them up.</content></utterance>
+<utterance uid="23-12"><speaker>BECKETT</speaker><content>Do you know what kind of car he drives?</content></utterance>
+<utterance uid="23-13"><speaker>MARTIN</speaker><content> Well, he usually rides a bicycle.</content></utterance>
+<utterance uid="23-14"><speaker>CASTLE</speaker><content>So he’s local.</content></utterance>
+<utterance uid="23-15"><speaker>BECKETT</speaker><content>All right.  I’m going to get the boys to look up all the properties bought or sold in the area over the past year since Warburg went missing.  Um…</content></utterance>
+<utterance uid="23-16"><speaker>CASTLE</speaker><content>Seriously?</content></utterance>
+<utterance uid="23-17"><speaker>MARTIN</speaker><content>Uh … uh … it’s a nice book.</content></utterance>
+<utterance uid="23-18"><speaker>CASTLE</speaker><content> Thank you.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>BECKETT</speaker><content>So according to Ryan, the house at the end of this driveway was purchased ten months ago by an attorney.</content></utterance>
+<utterance uid="24-2"><speaker>CASTLE</speaker><content>Warburg is here. I can feel it.</content></utterance>
+<utterance uid="24-3"><speaker>BECKETT</speaker><content>Castle, you’ve said that about every place we’ve been to so far.</content></utterance>
+<utterance uid="24-4"><speaker>CASTLE</speaker><content>Yeah, but this time I mean it. The force is stronger with this one.</content></utterance>
+<utterance uid="24-5"><speaker>BECKETT</speaker><content>The problem is, it’s private property and I don’t have a warrant.</content></utterance>
+<utterance uid="24-6"><speaker>CASTLE</speaker><content>Just pretend you don’t see the sign. Look, we’re at the cusp of finding Warburg. At least he’s a person of interest and at most a maniacal supervillian with the power to bend drones to his will. And –  – gate’s unlocked.</content></utterance>
+<utterance uid="24-7"><speaker>CASTLE</speaker><content>Burning daylight.</content></utterance>
+<utterance uid="24-8"><speaker>BECKETT</speaker><content>Maybe Warburg is here. It is remote and secluded.</content></utterance>
+<utterance uid="24-9"><speaker>CASTLE</speaker><content>I just had a deeply disturbing thought.</content></utterance>
+<utterance uid="24-10"><speaker>BECKETT</speaker><content>Much like most of your thoughts?</content></utterance>
+<utterance uid="24-11"><speaker>CASTLE</speaker><content>What if Warburg isn’t involved. I mean, we’ve been played before. What if Stack just mentioned his name to send us on a wild goose chase?</content></utterance>
+<utterance uid="24-12"><speaker>BECKETT</speaker><content>Oh Castle, I don’t think so.</content></utterance>
+<utterance uid="24-13"><speaker>CASTLE</speaker><content>Well, still. There’s no more proof that Warburg is involved than there is that the drone acted on its own.</content></utterance>
+<utterance uid="24-14"><speaker>BECKETT</speaker><content> Seriously? I haven’t gotten that SkyNet thing out of your system yet?</content></utterance>
+<utterance uid="24-15"><speaker>CASTLE</speaker><content>You mock me, but mark my words. The day will come. The experts call it the singularity, the emergence of a technological super intelligence.</content></utterance>
+<utterance uid="24-16"><speaker>BECKETT</speaker><content>Wait, Castle. Wait, wait.  Wait, do you here that?</content></utterance>
+<utterance uid="24-17"><speaker>CASTLE</speaker><content>Like a buzzing.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>CASTLE</speaker><content>You okay?</content></utterance>
+<utterance uid="25-2"><speaker>BECKETT</speaker><content>Yeah. I think so.</content></utterance>
+<utterance uid="25-3"><speaker>CASTLE</speaker><content>That was just like North By Northwest.</content></utterance>
+<utterance uid="25-4"><speaker>BECKETT</speaker><content>Castle, don’t get too excited. It’s coming back.</content></utterance>
+<utterance uid="25-5"><speaker>CASTLE</speaker><content>What are you doing? We’ve gotta run.</content></utterance>
+<utterance uid="25-6"><speaker>BECKETT</speaker><content>We’re never gonna make it to cover. As soon as it gets in range I’m going to shoot it.</content></utterance>
+<utterance uid="25-7"><speaker>CASTLE</speaker><content>Okay. Okay, okay.</content></utterance>
+<utterance uid="25-8"><speaker>CASTLE</speaker><content>Wow.  I can’t believe you missed with every shot.</content></utterance>
+<utterance uid="25-9"><speaker>BECKETT</speaker><content>Really? Do you think that you shot down that drone with your marksmanship?</content></utterance>
+<utterance uid="25-10"><speaker>CASTLE</speaker><content>I rose to the occasion. No, this time I really did protect you.</content></utterance>
+<utterance uid="25-11"><speaker>BECKETT</speaker><content>Yeah, along with yourself.</content></utterance>
+<utterance uid="25-12"><speaker>CASTLE</speaker><content>You know, this makes up for what may be considered a momentary lack of manliness. No, I have eared my redemption. Nothing can take that away from me.</content></utterance>
+<utterance uid="25-13"><speaker>BECKETT</speaker><content>These aren’t real bullets. These are blanks.</content></utterance>
+<utterance uid="25-14"><speaker>CASTLE</speaker><content>Blanks? Well, I didn’t know that, so that doesn’t – that doesn’t diminish the act of heroism. That doesn’t – are those really blanks?</content></utterance>
+<utterance uid="25-15"><speaker>SIMON WARBURG</speaker><content>Of course they’re blanks, you idiot. Meant to deter trespassers like you. You just obliterated my finest drone. I’m having the cops arrest you.</content></utterance>
+<utterance uid="25-16"><speaker>BECKETT</speaker><content>Let me save you a phone call.  We’re here about Dale Tanner, Mr. Warburg.</content></utterance>
+<utterance uid="25-17"><speaker>WARBURG</speaker><content>Knew somebody would be eventually.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>WARBURG</speaker><content>Check out the quad. It’s my favorite.</content></utterance>
+<utterance uid="26-2"><speaker>CASTLE</speaker><content>Oh, sweet.  Ow!</content></utterance>
+<utterance uid="26-3"><speaker>WARBURG</speaker><content>Payback for wrecking my drone.</content></utterance>
+<utterance uid="26-4"><speaker>BECKETT</speaker><content>Mr. Warburg, let’s talk about Dale Tanner.</content></utterance>
+<utterance uid="26-5"><speaker>WARBURG</speaker><content>You want to know if I killed him, the answer is yes I did.</content></utterance>
+<utterance uid="26-6"><speaker>BECKETT</speaker><content> Would you like to tell me why?</content></utterance>
+<utterance uid="26-7"><speaker>WARBURG</speaker><content>It began two years ago.  With this.</content></utterance>
+<utterance uid="26-8"><speaker>BECKETT</speaker><content>I don’t understand what a car driving through the desert has to do with Dale Tanner.</content></utterance>
+<utterance uid="26-9"><speaker>WARBURG</speaker><content>Intelligence support said there were three high ranking Afghan militants in this car. It was the right make and model traveling at a high rate of speed, so the drone pilot was given the green light to strike. But then he saw those red dots on the trunk and he had a feeling. So he aborted the mission. There were no militants in that car; the red dots were roses because the young couple driving down that desert rode had just gotten married. That’s when I knew I could no longer be a part of the drone program.</content></utterance>
+<utterance uid="26-10"><speaker>CASTLE</speaker><content>I don’t understand why. They pilot didn’t fire.</content></utterance>
+<utterance uid="26-11"><speaker>WARBURG</speaker><content>Because the next generation of drones won’t have pilots. The new AI software will give drones decision making capability. They’ll assess the data and take lethal action all on their own.</content></utterance>
+<utterance uid="26-12"><speaker>CASTLE</speaker><content>It really will be Rise of the Machines.</content></utterance>
+<utterance uid="26-13"><speaker>WARBURG</speaker><content>Those new drones would turn that car to ash without hesitation. That’s why, when lives are at stake, we need a man who sees roses. We need the human factor.</content></utterance>
+<utterance uid="26-14"><speaker>BECKETT</speaker><content>And where was the human factor when you killed Dale Tanner.</content></utterance>
+<utterance uid="26-15"><speaker>WARBURG</speaker><content>Let me show you something.  I wrote this program myself. Note the user-friendly interface. I’m rather proud of it. Now, these red dots are individual drones currently over New York state. Now if I click on one, I can monitor the drone’s function in real time.  And with the push of a button I can take over control of the aircraft.</content></utterance>
+<utterance uid="26-16"><speaker>CASTLE</speaker><content>Just like you did with Tanner.</content></utterance>
+<utterance uid="26-17"><speaker>WARBURG</speaker><content>I was on a bike ride that day and nowhere near a computer.</content></utterance>
+<utterance uid="26-18"><speaker>BECKETT</speaker><content>You just said that you killed him.</content></utterance>
+<utterance uid="26-19"><speaker>WARBURG</speaker><content>Well I meant my software led to his death. But I didn’t do it. In fact, I was in touch with Dale Tanner. I wanted him to post the program, so I loaded it onto a flash drive and got it to him.</content></utterance>
+<utterance uid="26-20"><speaker>CASTLE</speaker><content>You wanted Tanner to post your drone hacking software on his website. If the Pentagon found out they’d have to ground their entire drone fleet.</content></utterance>
+<utterance uid="26-21"><speaker>WARBURG</speaker><content>Precisely. It’d bring drone development to a grinding halt. But Tanner refused to post the program. He sent it back saying he didn’t want any idiot with a computer being able to take over control of a drone. Realized he might have a point, so I decided to keep the program to yourself.</content></utterance>
+<utterance uid="26-22"><speaker>BECKETT</speaker><content>So if you didn’t use this and Tanner didn’t post it, then who killed him?</content></utterance>
+<utterance uid="26-23"><speaker>WARBURG</speaker><content>After I heard about his death I checked out the flash drive I sent him. Someone copied my program off of it onto a USB drive. Now it wasn’t Tanner. He wouldn’t order a drone strike on himself, and it was anyone on my end, because, well –  - who else is there?</content></utterance>
+<utterance uid="26-24"><speaker>BECKETT</speaker><content>So then it had to be someone close to Tanner with access to his work.</content></utterance>
+<utterance uid="26-25"><speaker>CASTLE</speaker><content>And we only know one person like that – his assistant. Omar Dixon.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>CASTLE</speaker><content>Okay, here’s my theory. Omar Dixon is working for Tanner, but he’s just scraping by. Along comes Warburg’s drone hack. Tanner doesn’t want it, but Dixon sees an opportunity.</content></utterance>
+<utterance uid="27-2"><speaker>BECKETT</speaker><content>He realizes how much a drone hacking program would be worth on the open market.</content></utterance>
+<utterance uid="27-3"><speaker>CASTLE</speaker><content>Exactly. He burns a copy, learns how to use it. The next step is a real world test. And Tanner’s a cheap bastard anyway, so –  – I’ll get it.  For Richard Castle press one. For Beckett, press two.</content></utterance>
+<utterance uid="27-4"><speaker>ESPOSITO</speaker><content>Yo. How about I just talk, jackass?  So, I put out an APB on Omar Dixon, but it looks like he’s already in the wind. His girlfriend says he packed a bag and snuck out down the fire escape.</content></utterance>
+<utterance uid="27-5"><speaker>BECKETT</speaker><content>Okay. Circulate his photo to airports and bus and train stations.</content></utterance>
+<utterance uid="27-6"><speaker>ESPOSITO</speaker><content>Already on it.</content></utterance>
+<utterance uid="27-7"><speaker>STACK</speaker><content>Detective Beckett, I sure do appreciate you finding Simon Warburg for me.</content></utterance>
+<utterance uid="27-8"><speaker>BECKETT</speaker><content>Was that what you’re hoping for when you gave us his name?</content></utterance>
+<utterance uid="27-9"><speaker>STACK</speaker><content>Oh, I just thought you might think of something that we hadn’t. When I pinged your cell phone I realized I was right. FBI’s picking him up right now.</content></utterance>
+<utterance uid="27-10"><speaker>CASTLE</speaker><content>Well then it might interest you to know, he didn’t kill Tanner.</content></utterance>
+<utterance uid="27-11"><speaker>STACK</speaker><content>What are you talking about?</content></utterance>
+<utterance uid="27-12"><speaker>BECKETT</speaker><content>We have reason to believe it was Omar Dixon, Tanner’s assistant. The problem is, he’s on the run.</content></utterance>
+<utterance uid="27-13"><speaker>STACK</speaker><content>I can help with that.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>STACK</speaker><content>The facial recognition system is scanning footage over the last two hours from all the main departure points.</content></utterance>
+<utterance uid="28-2"><speaker>ESPOSITO</speaker><content>How accurate is this thin really?</content></utterance>
+<utterance uid="28-3"><speaker>STACK</speaker><content>Well, if he passed in front of one of those cameras it’ll spot him.</content></utterance>
+<utterance uid="28-4"><speaker>RYAN</speaker><content>Man, talk about Big Brother. There’s got to be a way to beat the system though, right?</content></utterance>
+<utterance uid="28-5"><speaker>STACK</speaker><content>Wear sunglasses, let your bangs hang down over your forehead. It totally messes with the software.</content></utterance>
+<utterance uid="28-6"><speaker>ESPOSITO</speaker><content>What if you don’t have bangs?</content></utterance>
+<utterance uid="28-7"><speaker>STACK</speaker><content>Wear heavy makeup. Paint random colored shapes all over your face.</content></utterance>
+<utterance uid="28-8"><speaker>ESPOSITO</speaker><content> Yeah, I’m not doing that.</content></utterance>
+<utterance uid="28-9"><speaker>STACK</speaker><content>And there he is. JKF International terminal 92 minutes ago. We got him.  Now it’ll track him off his face and the color of his clothes.  Damn it. Omar Dixon caught a flight to Beirut. Left an hour ago. He’s gone.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>ESPOSITO</speaker><content>We reached the airline. Omar Dixon was definitely on that flight to Beirut by way of Abu Dhabi.</content></utterance>
+<utterance uid="29-2"><speaker>BECKETT</speaker><content>Why Beirut?</content></utterance>
+<utterance uid="29-3"><speaker>ESPOSITO</speaker><content>He’s got family on his mom’s side and dual citizenship. He flew out on a Lebanese passport.</content></utterance>
+<utterance uid="29-4"><speaker>BECKETT</speaker><content>Can we have him detained when he lands?</content></utterance>
+<utterance uid="29-5"><speaker>ESPOSITO</speaker><content>No, there’s a no extradition agreement. Probably why he went there.</content></utterance>
+<utterance uid="29-6"><speaker>CASTLE</speaker><content>And it’s an excellent part of the world if you want to sell some drone hacking software.</content></utterance>
+<utterance uid="29-7"><speaker>STACK</speaker><content>Speaking of drone hacking, say hello to our friend Omar Dixon.</content></utterance>
+<utterance uid="29-8"><speaker>STACK</speaker><content>See you later, Omar.</content></utterance>
+<utterance uid="29-9"><speaker>BECKETT</speaker><content>I thought he was heading to Beirut.</content></utterance>
+<utterance uid="29-10"><speaker>STACK</speaker><content>He was. Until I asked the Attorney General to contact the FAA and have them recall the flight back to JFK. One of the perks of working for an 800 pound gorilla.</content></utterance>
+<utterance uid="29-11"><speaker>BECKETT</speaker><content>Did you already interview him?</content></utterance>
+<utterance uid="29-12"><speaker>STACK</speaker><content>Well, you’re the reason we got him, Detective Beckett. Why don’t you do the honors?</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>STACK</speaker><content>Look at that. How she uses the silence. She’s a force to be reckoned with.</content></utterance>
+<utterance uid="30-2"><speaker>CASTLE</speaker><content>Ha, you don’t know the half of it.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>BECKETT</speaker><content>Omar, right now your bags are being searched for a USB drive. Your best bet it to tell me the truth before it turns up.</content></utterance>
+<utterance uid="31-2"><speaker>OMAR</speaker><content>I told you the truth. I had nothing to do with what happened to Tanner.</content></utterance>
+<utterance uid="31-3"><speaker>BECKETT</speaker><content>Then why did you flee the country?</content></utterance>
+<utterance uid="31-4"><speaker>OMAR</speaker><content>Because I like being alive, that’s why. Somebody put a bomb in his car. I had people chasing me.</content></utterance>
+<utterance uid="31-5"><speaker>BECKETT</speaker><content>You and I both know there was no bomb.</content></utterance>
+<utterance uid="31-6"><speaker>OMAR</speaker><content>What do you mean?</content></utterance>
+<utterance uid="31-7"><speaker>BECKETT</speaker><content>You used the software hack to fire a missile from a drone.</content></utterance>
+<utterance uid="31-8"><speaker>OMAR</speaker><content>You’re out of your mind. Why is this happening to me?</content></utterance>
+<utterance uid="31-9"><speaker>BECKETT</speaker><content>You’re going to sit there and tell me that you had no idea about the flash drive Warburg gave Tanner?</content></utterance>
+<utterance uid="31-10"><speaker>OMAR</speaker><content>I had an idea, sure. Tanner sent me to pick it up from the dead drop.</content></utterance>
+<utterance uid="31-11"><speaker>BECKETT</speaker><content>At which time you copied it.</content></utterance>
+<utterance uid="31-12"><speaker>OMAR</speaker><content>I never copied anything! I didn’t even know what was on it. The next day, Tanner said he didn’t want it, and so he told me to return the flash drive to the dead drop so that’s what I did. That’s all I did.</content></utterance>
+<utterance uid="31-13"><speaker>BECKETT</speaker><content>Did anyone else know about the flash drive or have access to it?</content></utterance>
+<utterance uid="31-14"><speaker>OMAR</speaker><content>Yeah. Just one person.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>BECKETT</speaker><content>Hey Shawn. You mind if we come in?</content></utterance>
+<utterance uid="32-2"><speaker>SHAWN</speaker><content>I guess.</content></utterance>
+<utterance uid="32-3"><speaker>BECKETT</speaker><content>Where’s your mom, Shawn?</content></utterance>
+<utterance uid="32-4"><speaker>SHAWN</speaker><content>She went to get groceries. What’s up? Is there news about my dad?</content></utterance>
+<utterance uid="32-5"><speaker>BECKETT</speaker><content>We talked to Omar. He said you started dropping by the office two months ago, mostly when your dada wasn’t around.</content></utterance>
+<utterance uid="32-6"><speaker>SHAWN</speaker><content> I like hanging with Omar. So what?</content></utterance>
+<utterance uid="32-7"><speaker>BECKETT</speaker><content>Or was it to connect with your dad? I mean, two months ago, that’s when he moved out, wasn’t it?</content></utterance>
+<utterance uid="32-8"><speaker>SHAWN</speaker><content>Okay, I – I’m not exactly sure why we’re talking about this.</content></utterance>
+<utterance uid="32-9"><speaker>CASTLE</speaker><content>Is that why you went to the college where he taught classes? So you could connect? I mean, it had to be hard, Shawn, having a father like that. So absent. So driven. A crusader who put his mission above all else, even the people who loved him.</content></utterance>
+<utterance uid="32-10"><speaker>BECKETT</speaker><content>Warburg’s drone hack was copied onto a 4 gig USB drive.</content></utterance>
+<utterance uid="32-11"><speaker>CASTLE</speaker><content>It just so happens you bought the same kind of drive the day that copy was made.</content></utterance>
+<utterance uid="32-12"><speaker>BECKETT</speaker><content>You called your dad, you asked him to meet with you because you wanted to know exactly where he would be. Isn’t that right, Shawn?</content></utterance>
+<utterance uid="32-13"><speaker>CASTLE</speaker><content>So what pushed you over the edge, Shawn? Was it when you found out about the affair?</content></utterance>
+<utterance uid="32-14"><speaker>SHAWN</speaker><content>My mom held us together. Dad was always gone. We never had any money. We were being watched all the time. No friends, because of all the rumor and whispers. And that was it. That was our life. Also, he could expose wrongdoing and hold the authorities accountable. What about his family? Why didn’t we matter as much as some stupid scandal? And then, after all of it, after everything he put us through, he leaves my mom for another woman?</content></utterance>
+<utterance uid="32-15"><speaker>CASTLE</speaker><content>And you wanted to make him pay.</content></utterance>
+<utterance uid="32-16"><speaker>SHAWN</speaker><content>He broke her heart!  Me. He broke mine, too.</content></utterance>
+<utterance uid="32-17"><speaker>BETH</speaker><content>What’s going on?</content></utterance>
+</scene>
+
+<scene id="33"><utterance uid="33-1"><speaker>CASTLE</speaker><content>How about a nice glass of Zinfandel when we get back to my place?</content></utterance>
+<utterance uid="33-2"><speaker>BECKETT</speaker><content> After the day we’ve had today that sounds great.</content></utterance>
+<utterance uid="33-3"><speaker>STACK</speaker><content>Detective Beckett and Mr. Castle. Both the President and the Attorney General have asked me to convey their thanks for your work on this case.</content></utterance>
+<utterance uid="33-4"><speaker>CASTLE</speaker><content>I don’t suppose the President’s appreciation could come in the form of a blurb for my book?</content></utterance>
+<utterance uid="33-5"><speaker>STACK</speaker><content>Yeah, that’s not gonna happen.  But Detective Beckett, could I have a word?</content></utterance>
+<utterance uid="33-6"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>STACK</speaker><content>Let me ask you something. Where do you see yourself five years from now?</content></utterance>
+<utterance uid="34-2"><speaker>BECKETT</speaker><content> I haven’t really given it that much thought.</content></utterance>
+<utterance uid="34-3"><speaker>STACK</speaker><content>As Lieutenant? Captain? At 1 Police Plaza, climbing the ladder?</content></utterance>
+<utterance uid="34-4"><speaker>BECKETT</speaker><content>That’s not really where my heart is.</content></utterance>
+<utterance uid="34-5"><speaker>STACK</speaker><content>Where is your heart? In that room? You want to be in that room five years from now busting some killer’s balls?</content></utterance>
+<utterance uid="34-6"><speaker>BECKETT</speaker><content>I don’t know you. Certainly not well enough to have this conversation.</content></utterance>
+<utterance uid="34-7"><speaker>STACK</speaker><content>I used to work homicide, too.</content></utterance>
+<utterance uid="34-8"><speaker>BECKETT</speaker><content>Really?</content></utterance>
+<utterance uid="34-9"><speaker>STACK</speaker><content>Yeah.</content></utterance>
+<utterance uid="34-10"><speaker>BECKETT</speaker><content>Hm.</content></utterance>
+<utterance uid="34-11"><speaker>STACK</speaker><content>Chicago. ‘til some guy tapped me on the shoulder. Today I’m that guy. What I’m saying is this. I think you’re exceptional. You’re smart. You’re strong. You’re an asymmetrical thinker. I see bigger things for you.</content></utterance>
+<utterance uid="34-12"><speaker>BECKETT</speaker><content>Who says I want bigger things?</content></utterance>
+<utterance uid="34-13"><speaker>STACK</speaker><content> Practically everything about you screams it. There’s a job opening in DC.</content></utterance>
+<utterance uid="34-14"><speaker>BECKETT</speaker><content>What job?</content></utterance>
+<utterance uid="34-15"><speaker>STACK</speaker><content>With the Attorney General. We report directly to him, we work with total autonomy on the biggest, most challenging cases. Cases like this. Where the stakes are high and the outcome can affect history. Not everybody has what it takes for the job. I think you do.  Call that number to schedule an interview.  Think about it.</content></utterance>
+<utterance uid="34-16"><speaker>BECKETT</speaker><content>I will.</content></utterance>
+<utterance uid="34-17"><speaker>STACK</speaker><content>I’ll be talking to you, Detective Beckett.</content></utterance>
+</scene>
+
+<scene id="35"><utterance uid="35-1"><speaker>BECKETT</speaker><content>So you can rest easy, Castle. It looks like the Rise of the Machines is still a few years off.</content></utterance>
+<utterance uid="35-2"><speaker>CASTLE</speaker><content>That’s what the autonomous drones want you to think.</content></utterance>
+<utterance uid="35-3"><speaker>BECKETT</speaker><content>Well the fact is, an autonomous drone would never have killed Dale Tanner.</content></utterance>
+<utterance uid="35-4"><speaker>CASTLE</speaker><content>Mmm, that’s true. Because with people, observations are personal. And where one person might see roses another may see the chance to move on from an old life and on to a new one.</content></utterance>
+<utterance uid="35-5"><speaker>BECKETT</speaker><content>The human factor.</content></utterance>
+<utterance uid="35-6"><speaker>CASTLE</speaker><content>The human factor.  And this human needs a shower. Care to join me?</content></utterance>
+<utterance uid="35-7"><speaker>BECKETT</speaker><content>I’ll be there in a minute.</content></utterance>
+<utterance uid="35-8"><speaker>CASTLE</speaker><content>You never did tell me what Stack wanted to talk to you about.</content></utterance>
+<utterance uid="35-9"><speaker>BECKETT</speaker><content>Nothing.  It’s nothing.</content></utterance>
+</scene>
+</script>

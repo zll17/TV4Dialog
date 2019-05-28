@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>SPIKE RIDENHAUER</speaker><content>Ahh. You meet up with that baby last night?</content></utterance>
+<utterance uid="1-2"><speaker>JUAN COSTA</speaker><content>Yeah.</content></utterance>
+<utterance uid="1-3"><speaker>SPIKE</speaker><content>Yeah? No sleep again?</content></utterance>
+<utterance uid="1-4"><speaker>JUAN</speaker><content>Never. No sleep, baby. That's how we do it.</content></utterance>
+<utterance uid="1-5"><speaker>SPIKE</speaker><content>Chef? Chef?</content></utterance>
+<utterance uid="1-6"><speaker>JUAN</speaker><content>Check his pulse.</content></utterance>
+<utterance uid="1-7"><speaker>SPIKE</speaker><content>Ah!</content></utterance>
+<utterance uid="1-8"><speaker>JUAN</speaker><content>Whoa.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>RICHARD CASTLE</speaker><content>What broke?</content></utterance>
+<utterance uid="2-2"><speaker>ALEXIS CASTLE</speaker><content>A stupid glass.</content></utterance>
+<utterance uid="2-3"><speaker>CASTLE</speaker><content>Remind me to get smarter glasses. Somehow I feel that the glass is not quite the problem.</content></utterance>
+<utterance uid="2-4"><speaker>ALEXIS</speaker><content>I got invited to the Hamptons with Lacey's family and a couple of other friends.</content></utterance>
+<utterance uid="2-5"><speaker>CASTLE</speaker><content>Well, that sounds like fun. So why do you look like someone who just got voted off the island?</content></utterance>
+<utterance uid="2-6"><speaker>ALEXIS</speaker><content>A.P. tests are next week, so I really need to study all weekend. But I really want to go to the Hamptons.</content></utterance>
+<utterance uid="2-7"><speaker>CASTLE</speaker><content>The eternal struggle between work and play. The trick is, when you grow up, find work that feels like play.</content></utterance>
+<utterance uid="2-8"><speaker>ALEXIS</speaker><content>Speaking of work... What are you doing up and dressed so early?</content></utterance>
+<utterance uid="2-9"><speaker>CASTLE</speaker><content>Oh, no reason. Just thought I'd get an early start to my day.</content></utterance>
+<utterance uid="2-10"><speaker>ALEXIS</speaker><content>Mm-hmm. Bye.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>BECKETT</speaker><content>All right. So, um, I'll see you tomorrow night?</content></utterance>
+<utterance uid="3-2"><speaker>DEMMING</speaker><content>Yeah. Good. Okay.</content></utterance>
+<utterance uid="3-3"><speaker>BECKETT</speaker><content>Okay.</content></utterance>
+<utterance uid="3-4"><speaker>DEMMING</speaker><content>See ya.</content></utterance>
+<utterance uid="3-5"><speaker>CASTLE</speaker><content>What's Demming doing in our break room? Is there something wrong with the coffee downstairs?</content></utterance>
+<utterance uid="3-6"><speaker>BECKETT</speaker><content>Well, you're the one who bought us the cappuccino machine, Castle.</content></utterance>
+<utterance uid="3-7"><speaker>CASTLE</speaker><content>Yes, but I bought it for Homicide, not the entire precinct.</content></utterance>
+<utterance uid="3-8"><speaker>BECKETT</speaker><content>Oh.</content></utterance>
+<utterance uid="3-9"><speaker>CASTLE</speaker><content>What's tomorrow night?</content></utterance>
+<utterance uid="3-10"><speaker>BECKETT</speaker><content>What? Oh, Tom was wondering if I wanted to get together tomorrow night. Why? Is that a problem?</content></utterance>
+<utterance uid="3-11"><speaker>CASTLE</speaker><content>Why would I have a problem with that?</content></utterance>
+<utterance uid="3-12"><speaker>BECKETT</speaker><content>Hmm.  Excuse me.  Beckett. Okay. Be right there. </content></utterance>
+<utterance uid="3-13"><speaker>CASTLE</speaker><content> Tom.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>ESPOSITO</speaker><content> Right. Right.</content></utterance>
+<utterance uid="4-2"><speaker>CASTLE</speaker><content>The murder is at Q3? This place has only been open three months. I can't even get a reservation here. I've been dying to eat here.</content></utterance>
+<utterance uid="4-3"><speaker>BECKETT</speaker><content>Well, evidently, you're not the only one. Where are we?</content></utterance>
+<utterance uid="4-4"><speaker>ESPOSITO</speaker><content>In the kitchen. Victim's name is Balthazar Wolf. He's the head chef here.</content></utterance>
+<utterance uid="4-5"><speaker>CASTLE</speaker><content>Big Bad Wolf? Winner of Kitchen Wars, season six?</content></utterance>
+<utterance uid="4-6"><speaker>ESPOSITO</speaker><content>I know, right?</content></utterance>
+<utterance uid="4-7"><speaker>CASTLE</speaker><content>Aw, man. I never got to taste his foie gras sandwich.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>ESPOSITO</speaker><content>He was found this morning by the pastry chef-- Spike Ridenhauer- and one of the dishwashers -- Juan Costa.</content></utterance>
+<utterance uid="5-2"><speaker>CASTLE</speaker><content>Oh.</content></utterance>
+<utterance uid="5-3"><speaker>CASTLE</speaker><content>Is that actually his hand?</content></utterance>
+<utterance uid="5-4"><speaker>PERLMUTTER</speaker><content>That's the effect of LN-2. Commonly known as liquid nitrogen, a cryogenic refrigerant. It instantly freezes anything it comes in touch with, including Mr. Wolf - made him fragile as glass.</content></utterance>
+<utterance uid="5-5"><speaker>CASTLE</speaker><content>This is both literally and figuratively cool. Uh, Wolf was a follower of molecular gastronomy. It's using the science to manipulate the ...  ... and you don't care.</content></utterance>
+<utterance uid="5-6"><speaker>PERLMUTTER</speaker><content>It's usually pretty safe, unless someone dumps it on you.</content></utterance>
+<utterance uid="5-7"><speaker>BECKETT</speaker><content>Time of death?</content></utterance>
+<utterance uid="5-8"><speaker>PERLMUTTER</speaker><content>Well, all our normal indicators ... are contaminated by the LN-2. I'll see what I can do once I get to the morgue. But, uh, we're gonna have to let him thaw a bit before we can move him.</content></utterance>
+<utterance uid="5-9"><speaker>CASTLE</speaker><content>Looks like there was a struggle.</content></utterance>
+<utterance uid="5-10"><speaker>BECKETT</speaker><content>Robbery?</content></utterance>
+<utterance uid="5-11"><speaker>RYAN</speaker><content>No, no sign of forced entry, nothing's missing. According to Mr. Ridenhauer and Mr. Costa here, our victim stayed at the restaurant long after everyone else had left.</content></utterance>
+<utterance uid="5-12"><speaker>BECKETT</speaker><content>And what time was that?</content></utterance>
+<utterance uid="5-13"><speaker>RIDENHAUER</speaker><content>It was around 11:00. One of our clients had special ordered a cake, and Wolf stayed behind to finish it up.</content></utterance>
+<utterance uid="5-14"><speaker>CASTLE</speaker><content>Aren't you the pastry chef?</content></utterance>
+<utterance uid="5-15"><speaker>RIDENHAUER</speaker><content>Yeah, but I don't do crazy stuff like Wolf does. I just, uh, I made the cushion, and he sculpted the crown, uh, the heart and the jewels. That's probably why he had the rotary evaporator out and the liquid nitrogen.</content></utterance>
+<utterance uid="5-16"><speaker>BECKETT</speaker><content>All right, after Perlmutter gets the body out, I'm gonna want CSU to come in and sweep for fibers and prints.</content></utterance>
+<utterance uid="5-17"><speaker>RYAN</speaker><content>Yeah, yeah.</content></utterance>
+<utterance uid="5-18"><speaker>ESPOSITO</speaker><content>Yo, Beckett. The owner's here.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>MADISON QUELLER</speaker><content>Say there's been an accident.</content></utterance>
+<utterance uid="6-2"><speaker>BECKETT</speaker><content>Madison?</content></utterance>
+<utterance uid="6-3"><speaker>MADISON</speaker><content>Becks? What are you doing here?</content></utterance>
+<utterance uid="6-4"><speaker>BECKETT</speaker><content>I'm a homicide Detective.</content></utterance>
+<utterance uid="6-5"><speaker>MADISON</speaker><content>Shut the front door.</content></utterance>
+<utterance uid="6-6"><speaker>BECKETT</speaker><content>I know. I- I know, right?</content></utterance>
+<utterance uid="6-7"><speaker>MADISON</speaker><content>What a messed up way for us to reconnect.</content></utterance>
+<utterance uid="6-8"><speaker>BECKETT</speaker><content>Madison Queller, this is Richard Castle.</content></utterance>
+<utterance uid="6-9"><speaker>MADISON</speaker><content>Hi.</content></utterance>
+<utterance uid="6-10"><speaker>CASTLE</speaker><content>Hi. Please call me Rick. How do you two know each other?</content></utterance>
+<utterance uid="6-11"><speaker>MADISON</speaker><content>High school. Ninth grade French. I can't believe the biggest scofflaw at Stuy became a cop.</content></utterance>
+<utterance uid="6-12"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>BECKETT</speaker><content>So I'm gonna need contact information for all the restaurant staff.</content></utterance>
+<utterance uid="7-2"><speaker>MADISON</speaker><content>Come on, Becks. You think somebody here might have done it?</content></utterance>
+<utterance uid="7-3"><speaker>BECKETT</speaker><content>You know, no forced entry usually means that the killer either knew the chef or was someone who had keys. So I'm gonna need alibis from everyone, including you. Sorry.</content></utterance>
+<utterance uid="7-4"><speaker>MADISON</speaker><content>No. No, I, uh... I understand. I was at a party until the wee hours. Lots of people saw me.</content></utterance>
+<utterance uid="7-5"><speaker>BECKETT</speaker><content>Now, did you know if Wolf had any enemies - anyone that wanted to do him harm?</content></utterance>
+<utterance uid="7-6"><speaker>MADISON</speaker><content>He was the bad boy America loved to hate. I was a guest judge. That's how we met.  Seriously? You never heard of Kitchen Wars?</content></utterance>
+<utterance uid="7-7"><speaker>BECKETT</speaker><content>Uh... No. I don't really get a lot of time to watch TV.</content></utterance>
+<utterance uid="7-8"><speaker>MADISON</speaker><content>This from the girl who'd spend hours watching Saved By the Bell reruns?</content></utterance>
+<utterance uid="7-9"><speaker>CASTLE</speaker><content>Really? What else did she spend hours doing?</content></utterance>
+<utterance uid="7-10"><speaker>BECKETT</speaker><content>Castle, real crime scene. Not mystery writer research time, okay?  Did you notice anything unusual about Wolf lately? Anything at all.</content></utterance>
+<utterance uid="7-11"><speaker>MADISON</speaker><content>There was one thing. Wolf usually worked nonstop. You couldn't tear him away from the kitchen. But for the last couple of weeks, he'd disappear around 3:00, and come back just in time to prep at 5:00.</content></utterance>
+<utterance uid="7-12"><speaker>BECKETT</speaker><content>Did he say where he was going?</content></utterance>
+<utterance uid="7-13"><speaker>MADISON</speaker><content>No. He said it was personal.</content></utterance>
+<utterance uid="7-14"><speaker>RYAN</speaker><content>Hey, guys. I found something.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>RYAN</speaker><content>Juan the dishwasher was the last one here last night, and he swears he finished every single dish.</content></utterance>
+<utterance uid="8-2"><speaker>BECKETT</speaker><content>Two dirty bowls, two spoons and a soup pot?</content></utterance>
+<utterance uid="8-3"><speaker>CASTLE</speaker><content>Looks like Wolf had some late-night company.</content></utterance>
+<utterance uid="8-4"><speaker>MADISON</speaker><content>It's popcorn soup. It's Domingo's specialty.</content></utterance>
+<utterance uid="8-5"><speaker>CASTLE</speaker><content>Domingo?</content></utterance>
+<utterance uid="8-6"><speaker>MADISON</speaker><content>Our line chef. He must have come back after everybody left.</content></utterance>
+<utterance uid="8-7"><speaker>BECKETT</speaker><content>That means he's the last one to have seen Wolf alive. Do you have an address?</content></utterance>
+<utterance uid="8-8"><speaker>MADISON</speaker><content>Of course.</content></utterance>
+<utterance uid="8-9"><speaker>BECKETT</speaker><content> All right, track down Domingo and see why he was here so late and what he saw.  I'll also need the contact info for Wolf's next of kin.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>CASTLE</speaker><content>High school friend, huh? I bet she knows where all your bodies are buried.</content></utterance>
+<utterance uid="9-2"><speaker>BECKETT</speaker><content>You can dig all you want, Castle. My secrets are safe with her.</content></utterance>
+<utterance uid="9-3"><speaker>CASTLE</speaker><content>How can you be sure?</content></utterance>
+<utterance uid="9-4"><speaker>BECKETT</speaker><content>Because whatever she knows about me, I know worse about her. We used to hang out, big group of us, had a good time.</content></utterance>
+<utterance uid="9-5"><speaker>CASTLE</speaker><content>And... what's a good time?</content></utterance>
+<utterance uid="9-6"><speaker>BECKETT</speaker><content>Well, if you don't know by now, I'm sure it's too late to show you one.</content></utterance>
+<utterance uid="9-7"><speaker>MADISON</speaker><content>Here's Wolf's emergency contact -- David Nicolaides.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>DAVID</speaker><content>Wolf didn't have any real family. He spent most of his childhood in and out of foster homes, which is why we're listed as, uh, next of kin. My girlfriend Cecily and I are about as close as it gets.</content></utterance>
+<utterance uid="10-2"><speaker>CECILY</speaker><content>They were like brothers.</content></utterance>
+<utterance uid="10-3"><speaker>BECKETT</speaker><content>How long did you know each other?</content></utterance>
+<utterance uid="10-4"><speaker>DAVID</speaker><content>Since our teens. My dad gave him a job in our restaurant as a busboy, uh, when he got out of juvie. It didn't take long to tell that he had a real gift for food. Been like family ever since.</content></utterance>
+<utterance uid="10-5"><speaker>BECKETT</speaker><content>Did he have any enemies that you know of?</content></utterance>
+<utterance uid="10-6"><speaker>CECILY</speaker><content>He had a bad-boy image from the show, but he was actually sweet.</content></utterance>
+<utterance uid="10-7"><speaker>CASTLE</speaker><content>Winning Kitchen Wars must have been huge for him. How was he handling it?</content></utterance>
+<utterance uid="10-8"><speaker>DAVID</speaker><content>He loved it -- the fame, the fortune. It was everything he ever dreamed of, except...</content></utterance>
+<utterance uid="10-9"><speaker>BECKETT</speaker><content>Except what?</content></utterance>
+<utterance uid="10-10"><speaker>DAVID</speaker><content>I- I think he might have had some financial troubles.</content></utterance>
+<utterance uid="10-11"><speaker>BECKETT</speaker><content>What do you mean?</content></utterance>
+<utterance uid="10-12"><speaker>DAVID</speaker><content>When my dad passed away a few months back, he left his restaurant to Wolf and me. It was nothing fancy like Q3. It was just a little diner in Queens. But about two weeks ago, he came to me asking if I would buy him out. I tried to talk him out of it. I even told him that I would loan him the money, but he refused. And in the end, I gave in and I bought out his share.</content></utterance>
+<utterance uid="10-13"><speaker>BECKETT</speaker><content>For how much?</content></utterance>
+<utterance uid="10-14"><speaker>DAVID</speaker><content>Forty thousand.</content></utterance>
+<utterance uid="10-15"><speaker>CASTLE</speaker><content>Didn't he just win a lot of money on Kitchen Wars?</content></utterance>
+<utterance uid="10-16"><speaker>DAVID</speaker><content>Well, he put it all into the new restaurant. I tried to tell him to hold some of it back, but he was an all-or-nothing kind of guy.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>HOST KITCHEN WARS</speaker><content>Jennifer, Wolf, we've scored your dishes, and although it was very close, Balthazar Wolf, you're the winner of Kitchen Wars, New York!</content></utterance>
+<utterance uid="11-2"><speaker>CASTLE</speaker><content>Look at his face. See how happy he is?</content></utterance>
+<utterance uid="11-3"><speaker>BECKETT</speaker><content>Hmm.</content></utterance>
+<utterance uid="11-4"><speaker>CASTLE</speaker><content>He had no idea in eight months, he'd be dead.</content></utterance>
+<utterance uid="11-5"><speaker>BECKETT</speaker><content>Well, the bank has the warrant, so we should have his financials in a couple of hours. If he was having money troubles, we'll find out.</content></utterance>
+<utterance uid="11-6"><speaker>RYAN</speaker><content>Beckett.</content></utterance>
+<utterance uid="11-7"><speaker>BECKETT</speaker><content>Hey, how'd it go with the late-night soup maker? You guys find him?</content></utterance>
+<utterance uid="11-8"><speaker>ESPOSITO</speaker><content>Oh, we found him all right. In line at the airport with $5,000 cash in his suitcase and a one-way ticket to Ecuador.</content></utterance>
+<utterance uid="11-9"><speaker>CASTLE</speaker><content>Mmm. Nothing says "I'm guilty" like an attempt to flee the country.</content></utterance>
+</scene>
+
+<scene id="12"><utterance uid="12-1"><speaker>CASTLE</speaker><content>The next time you decide to go all Mr. Freeze on someone, you should really clean up after yourself. We found your bowls in the sink.</content></utterance>
+<utterance uid="12-2"><speaker>DOMINGO</speaker><content>I don't understand.</content></utterance>
+<utterance uid="12-3"><speaker>BECKETT</speaker><content>We found you with a packed suitcase, plane tickets to Ecuador, and $5,000 in cash.</content></utterance>
+<utterance uid="12-4"><speaker>DOMINGO</speaker><content>That is not a crime. I have a passport.</content></utterance>
+<utterance uid="12-5"><speaker>BECKETT</speaker><content>Which you were using to flee a murder.</content></utterance>
+<utterance uid="12-6"><speaker>DOMINGO</speaker><content>Murder? Who do you think I killed?</content></utterance>
+<utterance uid="12-7"><speaker>CASTLE</speaker><content>Your boss in the big white hat.</content></utterance>
+<utterance uid="12-8"><speaker>DOMINGO</speaker><content>Wolf? Wolf's dead? How?</content></utterance>
+<utterance uid="12-9"><speaker>BECKETT</speaker><content>Mr. Verdugo, sit down.</content></utterance>
+<utterance uid="12-10"><speaker>DOMINGO</speaker><content>I did not kill anyone.</content></utterance>
+<utterance uid="12-11"><speaker>BECKETT</speaker><content>We know you came to see him last night.</content></utterance>
+<utterance uid="12-12"><speaker>DOMINGO</speaker><content>Yes. I came back to the restaurant last night. My sister, she's in Ecuador. She's very sick. She needs surgery. I came to ask Chef if I can go home.</content></utterance>
+<utterance uid="12-13"><speaker>BECKETT</speaker><content>$5,000 is a lot of money. Where did you get it from?</content></utterance>
+<utterance uid="12-14"><speaker>DOMINGO</speaker><content>Chef Wolf gave it to me for my sister's operation. Told him he was crazy, but he insisted. He said, "Go take care of your sister." Look, five years, I've worked with Wolf. He's my friend. I didn't kill him.</content></utterance>
+<utterance uid="12-15"><speaker>BECKETT</speaker><content>And he just happened to have 5 grand on him?</content></utterance>
+<utterance uid="12-16"><speaker>DOMINGO</speaker><content>Yes, in his backpack. Look, I promised to pay him back.</content></utterance>
+<utterance uid="12-17"><speaker>CASTLE</speaker><content>He had that much money in a backpack?</content></utterance>
+<utterance uid="12-18"><speaker>DOMINGO</speaker><content>Yeah, he had more, a lot more. Look, I told him he shouldn't carry so much cash. He could get... killed.</content></utterance>
+<utterance uid="12-19"><speaker>BECKETT</speaker><content>There was no backpack at the scene.</content></utterance>
+<utterance uid="12-20"><speaker>DOMINGO</speaker><content>Maybe that angry lady stole it. Maybe she's the one who killed Wolf.</content></utterance>
+<utterance uid="12-21"><speaker>BECKETT</speaker><content>What angry lady?</content></utterance>
+<utterance uid="12-22"><speaker>DOMINGO</speaker><content>One of his girlfriends. I left when she came.</content></utterance>
+<utterance uid="12-23"><speaker>BECKETT</speaker><content>When?</content></utterance>
+<utterance uid="12-24"><speaker>DOMINGO</speaker><content>After midnight, like around 12:45.</content></utterance>
+<utterance uid="12-25"><speaker>BECKETT</speaker><content>Do you know her name?</content></utterance>
+<utterance uid="12-26"><speaker>DOMINGO</speaker><content>No. But she came into the restaurant all the time.</content></utterance>
+<utterance uid="12-27"><speaker>BECKETT</speaker><content>Can you describe her?</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>BECKETT</speaker><content>So the kitchen staff confirms that Wolf did have a backpack with him yesterday, and the only reason that they noticed it is because he didn't usually carry one.</content></utterance>
+<utterance uid="13-2"><speaker>CASTLE</speaker><content>Hmm. So Domingo was telling the truth.</content></utterance>
+<utterance uid="13-3"><speaker>BECKETT</speaker><content>Well, just because the backpack exists doesn't mean that the rest of his story is credible.</content></utterance>
+<utterance uid="13-4"><speaker>ESPOSITO</speaker><content>No, but he's telling the truth about the money. Wolf's financials came in. There's nothing out of the ordinary over the last six months, but then -- bam -- two weeks ago, he withdraws all his savings from his checking account.</content></utterance>
+<utterance uid="13-5"><speaker>RYAN</speaker><content>Fifteen thousand dollars.</content></utterance>
+<utterance uid="13-6"><speaker>BECKETT</speaker><content>2 weeks ago? That's about the time that Wolf asked his foster brother David to buy his share.</content></utterance>
+<utterance uid="13-7"><speaker>ESPOSITO</speaker><content>Yeah, and as soon as that check cleared, he withdrew that $40,000 in cash.</content></utterance>
+<utterance uid="13-8"><speaker>RYAN</speaker><content>On the day he was killed.</content></utterance>
+<utterance uid="13-9"><speaker>CASTLE</speaker><content>Why would someone need $40,000 in cash?</content></utterance>
+<utterance uid="13-10"><speaker>BECKETT</speaker><content>Well, nothing legal. You know, Madison said that he would disappear every day between 3:00 and 5:00 PM. Maybe where he went had something to do with the money. Why don't you guys talk to the kitchen staff again? And let's look into his credit card receipts. Maybe we can figure out where he was going. And where are we on the phone records?</content></utterance>
+<utterance uid="13-11"><speaker>RYAN</speaker><content>Oh, the SIM card was damaged from the freezing. Tech's seeing what they can salvage. And we subpoenaed his phone records from the provider. We're waiting on those.</content></utterance>
+<utterance uid="13-12"><speaker>BECKETT</speaker><content>Okay.</content></utterance>
+<utterance uid="13-13"><speaker>CASTLE</speaker><content>Mm. She looks kinda sketchy to me.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>MADISON</speaker><content>That's Sandra. She and her husband are in every Saturday.</content></utterance>
+<utterance uid="14-2"><speaker>CASTLE</speaker><content>Husband?</content></utterance>
+<utterance uid="14-3"><speaker>MADISON</speaker><content>Yeah.</content></utterance>
+<utterance uid="14-4"><speaker>BECKETT</speaker><content>Domingo hinted at a romantic relationship.</content></utterance>
+<utterance uid="14-5"><speaker>CASTLE</speaker><content>Which has to violate several health codes.</content></utterance>
+<utterance uid="14-6"><speaker>BECKETT</speaker><content>Do you remember their last name?</content></utterance>
+<utterance uid="14-7"><speaker>MADISON</speaker><content>No, no. But her information should be in the reservation book.</content></utterance>
+<utterance uid="14-8"><speaker>BECKETT</speaker><content>How you holding up?</content></utterance>
+<utterance uid="14-9"><speaker>MADISON</speaker><content>I'm still reeling, and I have no time to grieve. Wolf was a friend, but like it or not, I have to interview replacement chefs. I still haven't found that customer slip for that cake Wolf was making, and I have this charity event tomorrow night at Rocco DiSpirito's. If I don't show up, people will think Wolf's death means the death of Q3. Hey, maybe you should come with me. I could use the moral support, and maybe we can catch up on old times.</content></utterance>
+<utterance uid="14-10"><speaker>BECKETT</speaker><content>You know, I would love to. It's just, I have something.</content></utterance>
+<utterance uid="14-11"><speaker>MADISON</speaker><content>"Something"?</content></utterance>
+<utterance uid="14-12"><speaker>CASTLE</speaker><content>You know, I'm available for moral support. And I've been dying to try out Rocco's new place.</content></utterance>
+<utterance uid="14-13"><speaker>MADISON</speaker><content>A charming raconteur. That's just what the doctor ordered. Thank you, Rick.</content></utterance>
+<utterance uid="14-14"><speaker>CASTLE</speaker><content> Unless that's a problem.</content></utterance>
+<utterance uid="14-15"><speaker>BECKETT</speaker><content>No, not a problem.</content></utterance>
+<utterance uid="14-16"><speaker>MADISON</speaker><content>Oh, here it is. Sandra Meyers.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>BECKETT</speaker><content>What was the exact nature of your relationship with Wolf?</content></utterance>
+<utterance uid="15-2"><speaker>SANDRA</speaker><content>Food turns me on. Not as a sex toy, but the sensual act of cooking. And when I saw Wolf on Kitchen Wars, how passionate he was with his ingredients, I fell in lust. My husband and I were the first through the doors when Q3 opened. And when Wolf came by to check on our meal, I slipped him my number.</content></utterance>
+<utterance uid="15-3"><speaker>CASTLE</speaker><content>Did you always have sex in the restaurant?</content></utterance>
+<utterance uid="15-4"><speaker>SANDRA</speaker><content>Well, Wolf did his best work in the kitchen.</content></utterance>
+<utterance uid="15-5"><speaker>CASTLE</speaker><content>Ow.</content></utterance>
+<utterance uid="15-6"><speaker>BECKETT</speaker><content>And your husband never suspected?</content></utterance>
+<utterance uid="15-7"><speaker>SANDRA</speaker><content>When he's not working nights at the ER., he's conked out on sleeping pills. I could shoot porn in my living room, he'd have no idea.  Are you gonna tell my husband?</content></utterance>
+<utterance uid="15-8"><speaker>BECKETT</speaker><content>You're the primary suspect in a murder investigation. Your husband is the least of your worries.</content></utterance>
+<utterance uid="15-9"><speaker>CASTLE</speaker><content>So what happened that night, Sandra? The sex turn deadly?</content></utterance>
+<utterance uid="15-10"><speaker>SANDRA</speaker><content>No, there was no sex. Two weeks ago, Wolf called me out of the blue to tell me we were through.</content></utterance>
+<utterance uid="15-11"><speaker>CASTLE</speaker><content> Two weeks.</content></utterance>
+<utterance uid="15-12"><speaker>SANDRA</speaker><content>I tried calling him, but he wouldn't call me back. So I went to the restaurant</content></utterance>
+<utterance uid="15-13"><speaker>BECKETT</speaker><content>And?</content></utterance>
+<utterance uid="15-14"><speaker>SANDRA</speaker><content>He said he was done screwing around, that it was time to grow up, turn over a new damn leaf.</content></utterance>
+<utterance uid="15-15"><speaker>BECKETT</speaker><content>And that clearly made you angry.</content></utterance>
+<utterance uid="15-16"><speaker>SANDRA</speaker><content>Sure. But I didn't kill him.</content></utterance>
+<utterance uid="15-17"><speaker>BECKETT</speaker><content>Mrs. Meyers, you cheat on your husband on a regular basis. Why should we believe you?</content></utterance>
+<utterance uid="15-18"><speaker>SANDRA</speaker><content>Ask the doorman at my building. I was back before 1:30. When I left the restaurant at 1:15, Wolf was alive.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>ESPOSITO</speaker><content>Yo. Doorman confirms Mrs. Meyers' story and the hospital has Dr. Meyers logged as working the graveyard shift.</content></utterance>
+<utterance uid="16-2"><speaker>CASTLE</speaker><content>Well, our lying, cheating wife was telling the truth.</content></utterance>
+<utterance uid="16-3"><speaker>BECKETT</speaker><content>Yeah, but until we figure out Wolf's time of death, she's still our best suspect.</content></utterance>
+<utterance uid="16-4"><speaker>RYAN</speaker><content>Hey. So I ran down Wolf's daily disappearance. His credit card records show a charge at Cafe Rex every day the last couple of weeks around 3:45.</content></utterance>
+<utterance uid="16-5"><speaker>CASTLE</speaker><content>Cafe Rex? That's on 2nd in the 70's. What was Wolf doing there?</content></utterance>
+<utterance uid="16-6"><speaker>BECKETT</speaker><content>Why don't you guys head up and see if he was meeting with anyone?  Beckett. Okay. We'll be right there.  Come on. Perlmutter found something.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>CASTLE</speaker><content>How's our corpse-sicle?</content></utterance>
+<utterance uid="17-2"><speaker>PERLMUTTER</speaker><content>Thawing nicely. Uh, in spite of the obvious challenges, I found enough unaffected tissue to narrow time of death to between 2:00 and 4:00 A.M.</content></utterance>
+<utterance uid="17-3"><speaker>CASTLE</speaker><content>Well, that knocks out both Domingo and Mrs. Meyers.</content></utterance>
+<utterance uid="17-4"><speaker>PERLMUTTER</speaker><content>Now once we got him under the heat lamps, some bruising began to present. Uh, first... there were significant contusions along his back and legs.</content></utterance>
+<utterance uid="17-5"><speaker>BECKETT</speaker><content>Wow. This looks like a pretty bad beating. Did this happen the night of the murder?</content></utterance>
+<utterance uid="17-6"><speaker>PERLMUTTER</speaker><content>Uh uh, these bruises are at least two weeks old.</content></utterance>
+<utterance uid="17-7"><speaker>CASTLE</speaker><content>Bruising on the body, $40,000 in cash... sold his shares in the diner to his foster brother...</content></utterance>
+<utterance uid="17-8"><speaker>BECKETT</speaker><content>All within the same 2-week time span.</content></utterance>
+<utterance uid="17-9"><speaker>PERLMUTTER</speaker><content>I also found a fresh bruise from a blow he suffered just before he was frozen. I went through the crime scene photos from CSU, and the bruise pattern matches one of the objects from the kitchen.</content></utterance>
+<utterance uid="17-10"><speaker>CASTLE</speaker><content>Ah! Rotary evaporator. It's a tool that chefs use to distill and extract flavors from... and again, you don't care.</content></utterance>
+<utterance uid="17-11"><speaker>PERLMUTTER</speaker><content>Yeah, we didn't find any prints on the body of the appliance, but there were some partials on its shattered glass tube. Now the guys in the lab were able to humpty-dumpty together a usable print. Didn't match any of the restaurant employees, but when they ran it through AFIS, they got a hit.</content></utterance>
+<utterance uid="17-12"><speaker>BECKETT</speaker><content>Jennifer Wong.</content></utterance>
+<utterance uid="17-13"><speaker>CASTLE</speaker><content>No.</content></utterance>
+<utterance uid="17-14"><speaker>BECKETT</speaker><content>Who's Jennifer Wong?</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>JENNIFER</speaker><content>You knew I was using the veal, so you went straight to the butcher and bought everything he had.</content></utterance>
+<utterance uid="18-2"><speaker>WOLF</speaker><content>You think I care about sabotaging you? I can cook you off the show with one hand tied behind my back. You lost because you cook with your head. I cook with my soul.</content></utterance>
+<utterance uid="18-3"><speaker>JENNIFER</speaker><content>He's a liar. He stole that recipe from me. I swear to God, if Wolf wins, I'm gonna kill that son of a b itch.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>JENNIFER</speaker><content> He stole that recipe from me. I swear to God, if Wolf wins, I'm gonna kill that son of a b itch.</content></utterance>
+<utterance uid="19-2"><speaker>BECKETT</speaker><content>Sounds like you and Mr. Wolf had quite the rivalry.</content></utterance>
+<utterance uid="19-3"><speaker>JENNIFER</speaker><content>What about it?</content></utterance>
+<utterance uid="19-4"><speaker>CASTLE</speaker><content>Oh, come on. It had to be difficult, watching him walk away with that $100,000 prize. Not to mention the publicity and fame that catapulted his career.</content></utterance>
+<utterance uid="19-5"><speaker>BECKETT</speaker><content>And it's not hard to believe that the resentment was building up over the past couple of months until the pressure finally put you over the edge.</content></utterance>
+<utterance uid="19-6"><speaker>JENNIFER</speaker><content>Wait. You think I killed him? That rivalry between Wolf and me... it was just an act.</content></utterance>
+<utterance uid="19-7"><speaker>CASTLE</speaker><content>An act?</content></utterance>
+<utterance uid="19-8"><speaker>BECKETT</speaker><content>I thought that Kitchen Wars was a reality show.</content></utterance>
+<utterance uid="19-9"><speaker>JENNIFER</speaker><content>Emphasis on "show." And win or lose, you want people to remember your name when it's over. That's how you build your brand.</content></utterance>
+<utterance uid="19-10"><speaker>CASTLE</speaker><content>And who doesn't remember a great villain?</content></utterance>
+<utterance uid="19-11"><speaker>JENNIFER</speaker><content>Exactly. Hey, we made for great TV. Why do you think they kept us on until the final two?</content></utterance>
+<utterance uid="19-12"><speaker>BECKETT</speaker><content>But then he won.</content></utterance>
+<utterance uid="19-13"><speaker>CASTLE</speaker><content>Personally, I was shocked that your oven-roasted pork belly glaze didn't take top prize. That was... just...</content></utterance>
+<utterance uid="19-14"><speaker>JENNIFER</speaker><content>But look, we both won. Yes, Wolf got his own restaurant, but I secured financing for a catering company, and I'm doing great.</content></utterance>
+<utterance uid="19-15"><speaker>BECKETT</speaker><content>Well, then if you didn't kill him, maybe you can explain why we found your prints at the scene. They were all over the appliance used to bludgeon Mr. Wolf to death.</content></utterance>
+<utterance uid="19-16"><speaker>JENNIFER</speaker><content>Are you talking about the rotary evaporator? My prints are on it because it's mine. I loaned it to him the day before yesterday. He said he needed it to make something really special.</content></utterance>
+<utterance uid="19-17"><speaker>BECKETT</speaker><content>Wait, you saw him the day he died?</content></utterance>
+<utterance uid="19-18"><speaker>JENNIFER</speaker><content>He called me early in the morning and asked to meet.</content></utterance>
+<utterance uid="19-19"><speaker>CASTLE</speaker><content>Was he carrying a backpack?</content></utterance>
+<utterance uid="19-20"><speaker>JENNIFER</speaker><content> Yeah. He seemed in a rush, like he had a lot of things to do and not a lot of time to do it. I gave him the evaporator, and then he said he had a meeting in Midtown. He asked me to drop him off on my way home.</content></utterance>
+<utterance uid="19-21"><speaker>BECKETT</speaker><content>And where was that?</content></utterance>
+<utterance uid="19-22"><speaker>JENNIFER</speaker><content>Uh, the northeast corner of 47th and Lex-- one of those big office buildings.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>BECKETT</speaker><content>Jennifer's employees confirm that she had a catering job in the Hamptons and that she stayed the night.</content></utterance>
+<utterance uid="20-2"><speaker>CASTLE</speaker><content>Well, just as well. Her culinary talents would've been wasted in a prison kitchen.</content></utterance>
+<utterance uid="20-3"><speaker>BECKETT</speaker><content>Hey, you guys. I need you to check on the tenants at this address.</content></utterance>
+<utterance uid="20-4"><speaker>ESPOSITO</speaker><content>423 East 47th?</content></utterance>
+<utterance uid="20-5"><speaker>BECKETT</speaker><content>Apparently, Wolf visited someone there the day that he died.</content></utterance>
+<utterance uid="20-6"><speaker>CASTLE</speaker><content>And he had the backpack with him.</content></utterance>
+<utterance uid="20-7"><speaker>BECKETT</speaker><content>Hey, how'd things go Uptown?</content></utterance>
+<utterance uid="20-8"><speaker>RYAN</speaker><content>Well, we talked to every waiter, busboy and manager at Cafe Rex. They remember Wolf coming in and said he sat at the same table out front, but he was always alone.</content></utterance>
+<utterance uid="20-9"><speaker>BECKETT</speaker><content>What was he doing?</content></utterance>
+<utterance uid="20-10"><speaker>ESPOSITO</speaker><content>Sipping tea, staring.</content></utterance>
+<utterance uid="20-11"><speaker>RYAN</speaker><content>Sometimes, he ordered the brioche.</content></utterance>
+<utterance uid="20-12"><speaker>ESPOSITO</speaker><content>That's right.</content></utterance>
+<utterance uid="20-13"><speaker>BECKETT</speaker><content>That's it? Every day for the last two weeks? Why would he go all the way to the Upper East Side just to sit there alone?</content></utterance>
+<utterance uid="20-14"><speaker>CASTLE</speaker><content>Maybe he had a rendezvous with destiny, and it stood him up. Which reminds me, what color shirt do you think Madison would like on me?</content></utterance>
+</scene>
+
+<scene id="21"><utterance uid="21-1"><speaker>MARTHA</speaker><content>Going out with Beckett's old friend?</content></utterance>
+<utterance uid="21-2"><speaker>MARTHA</speaker><content>That's a mistake.</content></utterance>
+<utterance uid="21-3"><speaker>CASTLE</speaker><content>Oh, Beckett didn't seem to mind.</content></utterance>
+<utterance uid="21-4"><speaker>MARTHA</speaker><content>Oh, honey.</content></utterance>
+<utterance uid="21-5"><speaker>CASTLE</speaker><content>Do you want to hand me an apple?</content></utterance>
+<utterance uid="21-6"><speaker>MARTHA</speaker><content>Yeah. Stop frowning, Alexis, or your father will freeze your face like that.</content></utterance>
+<utterance uid="21-7"><speaker>ALEXIS</speaker><content>He doesn't have to. I just found out I have to study slides with a microscope for my AP Chem exam. I can't take a microscope to the Hamptons.</content></utterance>
+<utterance uid="21-8"><speaker>CASTLE</speaker><content>Oh, so you're canceling your trip?</content></utterance>
+<utterance uid="21-9"><speaker>ALEXIS</speaker><content>Well, when I'm studying, I'll want to be on the beach with the girls, and when I'm on the beach, I'll feel guilty for not studying.</content></utterance>
+<utterance uid="21-10"><speaker>MARTHA</speaker><content>Well, don't look at me. I'm from the "have your cake and eat it, too" school of decision making. I say do both.</content></utterance>
+<utterance uid="21-11"><speaker>CASTLE</speaker><content>Or maybe by this weekend, I'll figure out a way to take this tank of liquid nitrogen and build it into a weather machine. I'll make it rain, your friends will have to cancel their trip. You won't have to choose, and then we can take over the world!</content></utterance>
+<utterance uid="21-12"><speaker>ALEXIS</speaker><content>Not helpful.</content></utterance>
+<utterance uid="21-13"><speaker>CASTLE</speaker><content>But evil.</content></utterance>
+<utterance uid="21-14"><speaker>MARTHA</speaker><content>Shouldn't you be getting ready for your date?</content></utterance>
+<utterance uid="21-15"><speaker>CASTLE</speaker><content>Mm. Shouldn't you be back home with Chet? Oh, you're right. I...  Hey. I froze time.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>BECKETT</speaker><content>Maddie?</content></utterance>
+<utterance uid="22-2"><speaker>MADISON</speaker><content>Oh, hey.</content></utterance>
+<utterance uid="22-3"><speaker>BECKETT</speaker><content>You look amazing.</content></utterance>
+<utterance uid="22-4"><speaker>MADISON</speaker><content>Thanks. Hey, I, um... I wanted to drop this off. It's my way of saying thank you for everything you guys are doing.</content></utterance>
+<utterance uid="22-5"><speaker>BECKETT</speaker><content>Oh, y-- You know, it's what we do. But we are always very grateful for cookies. I love oatmeal cookies!</content></utterance>
+<utterance uid="22-6"><speaker>MADISON</speaker><content>I'm glad. Hey, Becks... Do you remember when we used to like the same guy in English class?</content></utterance>
+<utterance uid="22-7"><speaker>BECKETT</speaker><content>Yes. Brent Edwards.</content></utterance>
+<utterance uid="22-8"><speaker>MADISON</speaker><content>Yes.</content></utterance>
+<utterance uid="22-9"><speaker>BECKETT</speaker><content>He was very hot.</content></utterance>
+<utterance uid="22-10"><speaker>MADISON</speaker><content>Yes. Do you also remember what happened senior year?</content></utterance>
+<utterance uid="22-11"><speaker>BECKETT</speaker><content>Uh, yeah. Why?</content></utterance>
+<utterance uid="22-12"><speaker>MADISON</speaker><content>This date with Rick. If you guys are at all...</content></utterance>
+<utterance uid="22-13"><speaker>BECKETT</speaker><content>Castle? N-no.</content></utterance>
+<utterance uid="22-14"><speaker>MADISON</speaker><content>Are you sure? Because I really wouldn't want Brent Edwards to happen all over again.</content></utterance>
+<utterance uid="22-15"><speaker>BECKETT</speaker><content>Trust me. It's not.</content></utterance>
+<utterance uid="22-16"><speaker>MADISON</speaker><content>Okay. Great.</content></utterance>
+<utterance uid="22-17"><speaker>BECKETT</speaker><content>So have fun tonight.</content></utterance>
+<utterance uid="22-18"><speaker>MADISON</speaker><content>Thanks. You, too.</content></utterance>
+<utterance uid="22-19"><speaker>DEMMING</speaker><content>Hey.</content></utterance>
+<utterance uid="22-20"><speaker>BECKETT</speaker><content>Hey. Uh, so you ready?</content></utterance>
+<utterance uid="22-21"><speaker>TOM</speaker><content>No. My lieutenant just brought down the hammer. Fives have to be written up before shift end tonight. I'm sorry.</content></utterance>
+<utterance uid="22-22"><speaker>BECKETT</speaker><content>Uh, no. Uh, you know, I have-- I have, uh, some paperwork to do as well. So maybe another time.</content></utterance>
+<utterance uid="22-23"><speaker>TOM</speaker><content>Well, the thing is, I kinda had my heart set on tonight. You like Chinese?</content></utterance>
+<utterance uid="22-24"><speaker>BECKETT</speaker><content>It's my favourite.</content></utterance>
+<utterance uid="22-25"><speaker>TOM</speaker><content>Great. Wait here.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>ROCCO</speaker><content>Madison, I'm so sorry.</content></utterance>
+<utterance uid="23-2"><speaker>MADISON</speaker><content>Hi.</content></utterance>
+<utterance uid="23-3"><speaker>ROCCO</speaker><content>It's a tragic loss. Wolf was a good friend.</content></utterance>
+<utterance uid="23-4"><speaker>MADISON</speaker><content>Yeah, he really admired you.</content></utterance>
+<utterance uid="23-5"><speaker>ROCCO</speaker><content>Thanks for coming tonight. It means a lot to me.</content></utterance>
+<utterance uid="23-6"><speaker>MADISON</speaker><content>Rocco, this is Richard Castle.</content></utterance>
+<utterance uid="23-7"><speaker>ROCCO</speaker><content>I ought to punch you in the face, Castle...  ... for killing Derrick Storm like that. He was my favourite character.  But I'll admit, Heat Wave's fun, too.</content></utterance>
+<utterance uid="23-8"><speaker>MADISON</speaker><content>Based on my friend, Kate Beckett. I should introduce you. You guys might hit it off.</content></utterance>
+<utterance uid="23-9"><speaker>ROCCO</speaker><content>I'd like that. If she's half as interesting in person as she is on the page, I think I like her already. Well, you guys have fun. Enjoy your dinner.</content></utterance>
+<utterance uid="23-10"><speaker>CASTLE</speaker><content>Thanks.</content></utterance>
+<utterance uid="23-11"><speaker>MADISON</speaker><content>Fabulous chef.</content></utterance>
+<utterance uid="23-12"><speaker>CASTLE</speaker><content>You... you really think he's Beckett's type?</content></utterance>
+<utterance uid="23-13"><speaker>MADISON</speaker><content>Well, Becks never had a type. She dated a guitarist in a grunge band, a med student, and this French guy, but I'm pretty sure he was some kind of royalty. Who is she seeing now?</content></utterance>
+<utterance uid="23-14"><speaker>CASTLE</speaker><content>Oh, just... some guy. I don't see it going anywhere.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>BECKETT</speaker><content>This food's amazing. Where did you get it from?</content></utterance>
+<utterance uid="24-2"><speaker>TOM</speaker><content>Hung's China Sea.</content></utterance>
+<utterance uid="24-3"><speaker>BECKETT</speaker><content>Oh, get out. Hung's doesn't deliver.</content></utterance>
+<utterance uid="24-4"><speaker>TOM</speaker><content>Well, he delivers to me.  Mr. Hung had this medal-- a 15th-century Chinese medal, Ming Dynasty. It was passed down through the generations, right? Well, last year it was stolen along with some cash and some kitchen appliances and whatnot. The only thing that mattered to Mr. Hung was the medal. So I got it back for him. And because I delivered, now so does he.</content></utterance>
+<utterance uid="24-5"><speaker>BECKETT</speaker><content>Really? Hmm. Well, then maybe I should get you to figure out why our victim was carrying a backpack full of cash.</content></utterance>
+<utterance uid="24-6"><speaker>TOM</speaker><content>Well, maybe you should. You know, I got some guys on the street. If you want, I can put out feelers, see if anybody knows anything.</content></utterance>
+<utterance uid="24-7"><speaker>BECKETT</speaker><content>Yeah, sure.</content></utterance>
+<utterance uid="24-8"><speaker>ESPOSITO</speaker><content>Excuse me, Detectives.</content></utterance>
+<utterance uid="24-9"><speaker>BECKETT</speaker><content>Hey, guys.</content></utterance>
+<utterance uid="24-10"><speaker>ESPOSITO</speaker><content>Wow. Nice candle.</content></utterance>
+<utterance uid="24-11"><speaker>BECKETT</speaker><content>Come on in. What'd you find?</content></utterance>
+<utterance uid="24-12"><speaker>ESPOSITO</speaker><content>Well, we checked the sign-in log at that building where Jennifer Wong dropped off Wolf.</content></utterance>
+<utterance uid="24-13"><speaker>BECKETT</speaker><content>Mm-hmm.</content></utterance>
+<utterance uid="24-14"><speaker>ESPOSITO</speaker><content>Turns out he was seeing a guy named Simon Haim, Esquire.</content></utterance>
+<utterance uid="24-15"><speaker>BECKETT</speaker><content>He was delivering a backpack full of cash to a lawyer?</content></utterance>
+<utterance uid="24-16"><speaker>RYAN</speaker><content>Well, according to Mr. Haim, Wolf had the backpack in his possession, but he never opened it and he never even mentioned the cash.</content></utterance>
+<utterance uid="24-17"><speaker>ESPOSITO</speaker><content>But he did mention your high school friend, Madison. Apparently, Wolf wanted out of his contract. He wanted to leave the restaurant, and he wanted his investment back.</content></utterance>
+<utterance uid="24-18"><speaker>TOM</speaker><content>But the restaurant just opened. Why would he want to leave?</content></utterance>
+<utterance uid="24-19"><speaker>RYAN</speaker><content>Creative differences, but Ms. Queller refused to release him. Wolf was planning to sue.</content></utterance>
+<utterance uid="24-20"><speaker>BECKETT</speaker><content>She'd built the restaurant on his reputation. If he left, she would've lost everything. So what happens to Q3 now that Wolf is dead?</content></utterance>
+<utterance uid="24-21"><speaker>ESPOSITO</speaker><content>She had business insurance on him. So with the payout, Madison gets the restaurant, free and clear.</content></utterance>
+<utterance uid="24-22"><speaker>RYAN</speaker><content>Wolf's death protects her from potentially losing $2 million in real estate, appliances and fixtures.</content></utterance>
+<utterance uid="24-23"><speaker>TOM</speaker><content>Sounds like motive to me.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>MADISON</speaker><content>Mmm. Mmm. Mmm.</content></utterance>
+<utterance uid="25-2"><speaker>CASTLE</speaker><content>This... Mmm.</content></utterance>
+<utterance uid="25-3"><speaker>MADISON</speaker><content>Mmm.</content></utterance>
+<utterance uid="25-4"><speaker>CASTLE</speaker><content>Right?</content></utterance>
+<utterance uid="25-5"><speaker>MADISON</speaker><content>Mm. Oh, my God.</content></utterance>
+<utterance uid="25-6"><speaker>CASTLE</speaker><content>This is...</content></utterance>
+<utterance uid="25-7"><speaker>MADISON</speaker><content>This caviar parfait is delicious.</content></utterance>
+<utterance uid="25-8"><speaker>CASTLE</speaker><content>Trade you for some of my black truffle risotto with crispy shrimp.</content></utterance>
+<utterance uid="25-9"><speaker>MADISON</speaker><content>Oh, well... how could I resist?</content></utterance>
+<utterance uid="25-10"><speaker>CASTLE</speaker><content>Mmm. Oh. Mmm. That is...</content></utterance>
+<utterance uid="25-11"><speaker>BECKETT</speaker><content>I'm sorry to interrupt.</content></utterance>
+<utterance uid="25-12"><speaker>MADISON</speaker><content>Hey.</content></utterance>
+<utterance uid="25-13"><speaker>CASTLE</speaker><content>Beckett. What are you doing here?</content></utterance>
+<utterance uid="25-14"><speaker>BECKETT</speaker><content>I- I need to ask Madison a few questions.</content></utterance>
+<utterance uid="25-15"><speaker>MADISON</speaker><content>Oh, well, pull up a chair.</content></utterance>
+<utterance uid="25-16"><speaker>BECKETT</speaker><content>Not here. Downtown.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>CASTLE</speaker><content>You realize Madison and I weren't halfway through our tasting menus when you stomped in there like the fun police?</content></utterance>
+<utterance uid="26-2"><speaker>BECKETT</speaker><content>What part of her being a suspect in a murder investigation do you not get?</content></utterance>
+<utterance uid="26-3"><speaker>CASTLE</speaker><content>The waiter was about to come out with the duck confit en croute, Rocco Dispirito's pumpkin gnocchi, not to mention the langoustine, the lavender crème brûlee that was coming up. And don't even get me started on the wine pairings.</content></utterance>
+<utterance uid="26-4"><speaker>BECKETT</speaker><content>I won’t.</content></utterance>
+<utterance uid="26-5"><speaker>CASTLE</speaker><content>I'm just saying, you could've been more civilized and allowed us to finish our meal.</content></utterance>
+<utterance uid="26-6"><speaker>BECKETT</speaker><content>Unh-unh. You can watch from the observation room.</content></utterance>
+<utterance uid="26-7"><speaker>CASTLE</speaker><content>And now...  And now you're benching me?</content></utterance>
+<utterance uid="26-8"><speaker>BECKETT</speaker><content>You were just giggling over the risotto with our suspect.</content></utterance>
+<utterance uid="26-9"><speaker>CASTLE</speaker><content>Which was to die for, by the way.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>MADISON</speaker><content>Okay. Next time I'm hitting on a guy you like, come clean with me before I go out with him so you don't have to arrest me to break up the date.</content></utterance>
+<utterance uid="27-2"><speaker>BECKETT</speaker><content>Madison, that's not—</content></utterance>
+<utterance uid="27-3"><speaker>MADISON</speaker><content>No, no, no, no, no. I get it. You're hot for Castle. You want to make little Castle babies. Why couldn't you just be honest?</content></utterance>
+<utterance uid="27-4"><speaker>BECKETT</speaker><content> Maddie.</content></utterance>
+<utterance uid="27-5"><speaker>MADISON</speaker><content>What?</content></utterance>
+<utterance uid="27-6"><speaker>BECKETT</speaker><content> He can hear us.</content></utterance>
+<utterance uid="27-7"><speaker>MADISON</speaker><content>Oh, really?</content></utterance>
+<utterance uid="27-8"><speaker>BECKETT</speaker><content>Yes.</content></utterance>
+<utterance uid="27-9"><speaker>MADISON</speaker><content>Rick's behind the mirror?</content></utterance>
+<utterance uid="27-10"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="27-11"><speaker>MADISON</speaker><content>Oh. Like on tv?  Hey there! Sorry we missed the pumpkin gnocchi. They're really good.  I have to Tweet about this.</content></utterance>
+<utterance uid="27-12"><speaker>BECKETT</speaker><content>Madison, put the phone down.  Sit. You lied to me. You knew that Wolf wanted out of Q3, and you knew that he was gonna sue you.</content></utterance>
+<utterance uid="27-13"><speaker>MADISON</speaker><content>You know about that?</content></utterance>
+<utterance uid="27-14"><speaker>BECKETT</speaker><content>Yeah, I know about that.</content></utterance>
+<utterance uid="27-15"><speaker>MADISON</speaker><content>Okay, but I didn't lie. I just neglected to say anything about it. Okay, you know how hard it is to open a restaurant in Manhattan? If word got out that Wolf was trying to leave, it would've ruined me.</content></utterance>
+<utterance uid="27-16"><speaker>BECKETT</speaker><content>But if he dies, with your insurance policy, you make out just fine. So what happened, Maddie? Did you guys get into a fight? Did you throw something at him? Because I remember you throwing things at people when you got angry.</content></utterance>
+<utterance uid="27-17"><speaker>MADISON</speaker><content>Oh, come on. Don't you people have rules about using personal knowledge against suspects?</content></utterance>
+<utterance uid="27-18"><speaker>BECKETT</speaker><content>Maddie, you better start being straight with me.</content></utterance>
+<utterance uid="27-19"><speaker>MADISON</speaker><content>Becks, I didn't kill him. Two weeks ago, Wolf tells me he wants out of the restaurant biz, completely out of nowhere. Says he's trying to change his life. Now I'm thinking he's being poached. So I start offering better equipment, a bigger piece in the business, whatever he wants. He insists he's really getting out and that I can't change his mind. It was like something changed in his life. Now I was gonna let him out of his contract. I just needed time to find a new chef. But I swear, Becks, I didn't kill him.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>CASTLE</speaker><content>You don't really think she did it, do you?</content></utterance>
+<utterance uid="28-2"><speaker>BECKETT</speaker><content>Well, until I can rule her out, it doesn't matter what I think. She has motive.</content></utterance>
+<utterance uid="28-3"><speaker>CASTLE</speaker><content>Yeah, she also has an alibi, which you're conveniently ignoring.</content></utterance>
+<utterance uid="28-4"><speaker>BECKETT</speaker><content>I'm not ignoring. I'm just rechecking. I asked her to stay in town in any case.</content></utterance>
+<utterance uid="28-5"><speaker>CASTLE</speaker><content>Yes, I know. I heard...  everything.</content></utterance>
+<utterance uid="28-6"><speaker>BECKETT</speaker><content>Uh... so, uh, selling his stake in the restaurant, a backpack full of cash... That sounds like Wolf was getting ready to run.</content></utterance>
+<utterance uid="28-7"><speaker>CASTLE</speaker><content>Yes, but from what?</content></utterance>
+<utterance uid="28-8"><speaker>DEMMING</speaker><content>Hey, you guys.</content></utterance>
+<utterance uid="28-9"><speaker>BECKETT</speaker><content>Hey. I'm so sorry to cut out on you earlier.</content></utterance>
+<utterance uid="28-10"><speaker>DEMMING</speaker><content>No worries. It gave me time to put the word out on your vic.</content></utterance>
+<utterance uid="28-11"><speaker>BECKETT</speaker><content>And?</content></utterance>
+<utterance uid="28-12"><speaker>TOM</speaker><content>Well, a guy I know runs paper for a local bookmaking ring. Turns out he's a bit of a foodie. He clocked Wolf doing business with a bookie at Two Bridges bar. Apparently, your boy likes to bet big.</content></utterance>
+<utterance uid="28-13"><speaker>CASTLE</speaker><content>He was in deep with a bookie.</content></utterance>
+<utterance uid="28-14"><speaker>BECKETT</speaker><content>That explains the beating and the cash. Does this bookie have a name?</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>BECKETT</speaker><content>Wesley Slade? Detective Beckett, NYPD. We're investigating the murder of Balthazar Wolf.</content></utterance>
+<utterance uid="29-2"><speaker>WESLEY</speaker><content>Never heard of him.</content></utterance>
+<utterance uid="29-3"><speaker>BECKETT</speaker><content>Really? Well, given the marks on his body after the beating your boys gave him, I think you have.</content></utterance>
+<utterance uid="29-4"><speaker>CASTLE</speaker><content>What happened? He get in too deep with you, so you had to take him out?</content></utterance>
+<utterance uid="29-5"><speaker>WESLEY</speaker><content>You really think I'm gonna tell my business to a cop?</content></utterance>
+<utterance uid="29-6"><speaker>BECKETT</speaker><content>It's either that or you face murder charges. That can't be good for business.</content></utterance>
+<utterance uid="29-7"><speaker>WESLEY</speaker><content>All right. Let's say, hypothetically, that I made book for him. And let's say for the sake of argument that he owed me a lot.</content></utterance>
+<utterance uid="29-8"><speaker>CASTLE</speaker><content>How much, hypothetically?</content></utterance>
+<utterance uid="29-9"><speaker>WESLEY</speaker><content>25 thou, which maybe he couldn't pay. So maybe he needed some encouragement.</content></utterance>
+<utterance uid="29-10"><speaker>BECKETT</speaker><content>Maybe the encouragement went too far.</content></utterance>
+<utterance uid="29-11"><speaker>WESLEY</speaker><content>Or maybe it was the right amount. So he paid what he owed and went his merry way.</content></utterance>
+<utterance uid="29-12"><speaker>BECKETT</speaker><content>When?</content></utterance>
+<utterance uid="29-13"><speaker>WESLEY</speaker><content>The day he died, he comes in with a backpack full of cash, puts 25 thou on the table and asks for his ring back.</content></utterance>
+<utterance uid="29-14"><speaker>CASTLE</speaker><content>His ring? What kind of ring?</content></utterance>
+<utterance uid="29-15"><speaker>WESLEY</speaker><content>Diamond engagement ring.</content></utterance>
+<utterance uid="29-16"><speaker>BECKETT</speaker><content>Why'd you have it? Hypothetically.</content></utterance>
+<utterance uid="29-17"><speaker>WESLEY</speaker><content>Couple of weeks back, I sent my guys to collect, didn't have the money, gave some sob story about a woman, how he spent everything he had on a diamond ring. So when my guys go to give him some... encouragement, oh, what do they find? A nice diamond ring. Nice. Must have set him back 10, 15 grand... of my money.</content></utterance>
+<utterance uid="29-18"><speaker>CASTLE</speaker><content>So your guys took it for collateral?</content></utterance>
+<utterance uid="29-19"><speaker>WESLEY</speaker><content>No, as incentive. And it worked. I got my money, he got his ring, and he goes home alive... hypothetically.</content></utterance>
+<utterance uid="29-20"><speaker>CASTLE</speaker><content>An engagement ring makes perfect sense. That's why he broke things off with Mrs. Meyers. That's why he took $15,000 out of his account two weeks ago.</content></utterance>
+<utterance uid="29-21"><speaker>BECKETT</speaker><content>Well, then where is it? He went to the restaurant right after, and we didn't find it at the crime scene.</content></utterance>
+<utterance uid="29-22"><speaker>CASTLE</speaker><content>Unless we did find it and we just didn't know it.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>MAN</speaker><content>Just straight back.</content></utterance>
+<utterance uid="30-2"><speaker>CASTLE</speaker><content>Thank you.  You remember what Spike was saying about why Wolf was staying late?</content></utterance>
+<utterance uid="30-3"><speaker>BECKETT</speaker><content>Yeah, he was finishing off that cake.</content></utterance>
+<utterance uid="30-4"><speaker>CASTLE</speaker><content>A cake... with a heart-shaped mold on it. (He smashes the mold on the counter and a ring comes out of it.</content></utterance>
+<utterance uid="30-5"><speaker>BECKETT</speaker><content>But to who? And why hasn't she come forward yet?</content></utterance>
+<utterance uid="30-6"><speaker>CASTLE</speaker><content>Maybe she's scared. Maybe she's in danger.</content></utterance>
+<utterance uid="30-7"><speaker>BECKETT</speaker><content>Or maybe she killed him.</content></utterance>
+</scene>
+
+<scene id="31"><utterance uid="31-1"><speaker>MARTHA</speaker><content>Who puts an engagement ring inside a cake?</content></utterance>
+<utterance uid="31-2"><speaker>CASTLE</speaker><content>It's romantic.</content></utterance>
+<utterance uid="31-3"><speaker>MARTHA</speaker><content>Oh, pl-- it's a choking hazard. I swear, men act as though there's some cosmic reward for crazy proposals. And what a woman really wants is a man down on one knee, tears in his eyes, ring in his hand.</content></utterance>
+<utterance uid="31-4"><speaker>CASTLE</speaker><content>My proposal to Gina was very romantic.</content></utterance>
+<utterance uid="31-5"><speaker>MARTHA</speaker><content>A balloon ride is lovely, but not in February.</content></utterance>
+<utterance uid="31-6"><speaker>CASTLE</speaker><content>Her hand was shaking so much from the cold, it was difficult getting that ring on.</content></utterance>
+<utterance uid="31-7"><speaker>MARTHA</speaker><content>It was a sign.</content></utterance>
+<utterance uid="31-8"><speaker>CASTLE</speaker><content>Mm.</content></utterance>
+<utterance uid="31-9"><speaker>MARTHA</speaker><content>Mm-hmm. Mm-hmm.</content></utterance>
+<utterance uid="31-10"><speaker>CASTLE</speaker><content>So have you decided?</content></utterance>
+<utterance uid="31-11"><speaker>ALEXIS</speaker><content>No.</content></utterance>
+<utterance uid="31-12"><speaker>MARTHA</speaker><content>Ah.</content></utterance>
+</scene>
+
+<scene id="32"><utterance uid="32-1"><speaker>BECKETT</speaker><content>Again, David, I'm sorry for your loss.</content></utterance>
+<utterance uid="32-2"><speaker>CASTLE</speaker><content>Hey. Shed any light?</content></utterance>
+<utterance uid="32-3"><speaker>BECKETT</speaker><content>So David said that he wouldn't have believed it unless I'd shown him the ring. He had no idea who Wolf was proposing to, and neither did anyone else in his life. It's like the guy was in love with a ghost.</content></utterance>
+<utterance uid="32-4"><speaker>CASTLE</speaker><content>Ooh, that'd be cool, if it was actually a ghost.</content></utterance>
+<utterance uid="32-5"><speaker>RYAN</speaker><content>Went back through the phone logs from the restaurant and Wolf's cell. Every call's accounted for.</content></utterance>
+<utterance uid="32-6"><speaker>BECKETT</speaker><content>What about the cafe uptown?</content></utterance>
+<utterance uid="32-7"><speaker>ESPOSITO</speaker><content>The waitstaff all checked out. They're adamant that Wolf never met anybody there.</content></utterance>
+<utterance uid="32-8"><speaker>CASTLE</speaker><content>How do you have a relationship with somebody without leaving any evidence?</content></utterance>
+<utterance uid="32-9"><speaker>ESPOSITO</speaker><content>Maybe the ring wasn't his. Maybe he was holding it for a friend.</content></utterance>
+<utterance uid="32-10"><speaker>CASTLE</speaker><content>No, it had to be his. Look at his behaviour-- he stops sleeping around, he was paying off his debts, he sold the one thing in life he actually cared about just to get that ring back. There's only one reason a man cleans up his act.</content></utterance>
+<utterance uid="32-11"><speaker>RYAN</speaker><content>Ahh.</content></utterance>
+<utterance uid="32-12"><speaker>BECKETT</speaker><content>Yeah, but murder isn't the usual response to a proposal.</content></utterance>
+<utterance uid="32-13"><speaker>CASTLE</speaker><content>Unless you got something to lose.</content></utterance>
+<utterance uid="32-14"><speaker>ESPOSITO</speaker><content>He did like married women.</content></utterance>
+<utterance uid="32-15"><speaker>BECKETT</speaker><content>All right. Have CSU re-sweep his apartment. If this girl spent any time there, she must have left some evidence behind.  Hey, Maddie. Thanks for coming.</content></utterance>
+<utterance uid="32-16"><speaker>MADISON</speaker><content>I thought you said I was off the hook.</content></utterance>
+<utterance uid="32-17"><speaker>BECKETT</speaker><content>Yeah, uh, witnesses have you at the party until after the time of death.</content></utterance>
+<utterance uid="32-18"><speaker>MADISON</speaker><content>Then why am I here?</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>MADISON</speaker><content> Anyone ever offered you one of these?</content></utterance>
+<utterance uid="33-2"><speaker>BECKETT</speaker><content>No. You?</content></utterance>
+<utterance uid="33-3"><speaker>MADISON</speaker><content>Not yet. I had no idea Wolf was even serious with anyone.</content></utterance>
+<utterance uid="33-4"><speaker>BECKETT</speaker><content>Can you think of any girl that he was close to?</content></utterance>
+<utterance uid="33-5"><speaker>MADISON</speaker><content>Every time I saw him, he was with someone different. It's hard to believe he'd ever commit.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>ESPOSITO</speaker><content>The guy lived his job 24/7. It had to be somebody at the restaurant.</content></utterance>
+<utterance uid="34-2"><speaker>CASTLE</speaker><content>Not necessarily. I've fallen in love with random women on the subway.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>BECKETT</speaker><content>Well, if you can think of anyone, call me.</content></utterance>
+<utterance uid="35-2"><speaker>MADISON</speaker><content>Yeah. And, Becks... I'm sorry... about lying to you.</content></utterance>
+<utterance uid="35-3"><speaker>BECKETT</speaker><content>And I might have come down a little harder than I needed to.</content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>RYAN</speaker><content>I've fallen in love with operators on the phone. Even asked one out a couple of years ago, but she was in Bangladesh.</content></utterance>
+</scene>
+<scene id="37"><utterance uid="37-1"><speaker>MADISON</speaker><content>Yeah, I guess I wasn't seeing you as a cop, but as my friend-- you know, the girl who stole her mom's makeup to give me a makeover, the first who told me that kissing boys might involve some tongue.</content></utterance>
+<utterance uid="37-2"><speaker>BECKETT</speaker><content>Oh, yeah. </content></utterance>
+</scene>
+<scene id="38"><utterance uid="38-1"><speaker>ESPOSITO</speaker><content>I bought a falafel from this stand every day for two months just so I could talk to the falafel girl.</content></utterance>
+<utterance uid="38-2"><speaker>RYAN</speaker><content>Yeah, you mean like Demming showing up every morning for coffee just to run into Beckett?</content></utterance>
+<utterance uid="38-3"><speaker>ESPOSITO</speaker><content>What?</content></utterance>
+</scene>
+<scene id="39"><utterance uid="39-1"><speaker>MADISON</speaker><content>The one who dragged me to stand outside Brent Edwards' brownstone for hours on end just to catch a glimpse of him through the window.</content></utterance>
+<utterance uid="39-2"><speaker>BECKETT</speaker><content>Through the window. Oh.</content></utterance>
+</scene>
+<scene id="40"><utterance uid="40-1"><speaker>CASTLE</speaker><content>Wolf wasn't going to Café Rex to meet his girl.</content></utterance>
+<utterance uid="40-2"><speaker>BECKETT</speaker><content>He was watching her out the cafe window.</content></utterance>
+<utterance uid="40-3"><speaker>CASTLE</speaker><content>That's why there were no phone calls.</content></utterance>
+<utterance uid="40-4"><speaker>BECKETT</speaker><content>He was trying to gather up the courage to propose to her.</content></utterance>
+</scene>
+
+<scene id="41"><utterance uid="41-1"><speaker>BECKETT</speaker><content>So that's the store with the clearest view from the cafe.</content></utterance>
+<utterance uid="41-2"><speaker>CASTLE</speaker><content>Well, either our mystery girl works here, or Wolf was really into women's clothes.  Maybe it's him. Maybe that's Wolf's big secret.</content></utterance>
+<utterance uid="41-3"><speaker>BECKETT</speaker><content>That's not his secret. She is.</content></utterance>
+<utterance uid="41-4"><speaker>CASTLE</speaker><content>That's his foster brother's girlfriend.</content></utterance>
+<utterance uid="41-5"><speaker>BECKETT</speaker><content>Yep.</content></utterance>
+<utterance uid="41-6"><speaker>CASTLE</speaker><content>Well, it definitely made proposing tricky.</content></utterance>
+</scene>
+
+<scene id="42"><utterance uid="42-1"><speaker>CECILY</speaker><content>I don't understand. Why am I here?</content></utterance>
+<utterance uid="42-2"><speaker>BECKETT</speaker><content>How well did you know Wolf, Cecily?</content></utterance>
+<utterance uid="42-3"><speaker>CECILY</speaker><content>He was like family.</content></utterance>
+<utterance uid="42-4"><speaker>BECKETT</speaker><content>So you knew him for a long time.</content></utterance>
+<utterance uid="42-5"><speaker>CECILY</speaker><content>Well, ten years, ever since David's father hired me at his restaurant.</content></utterance>
+<utterance uid="42-6"><speaker>BECKETT</speaker><content>Did the two of you ever...</content></utterance>
+<utterance uid="42-7"><speaker>CECILY</speaker><content>Why are you asking me this?</content></utterance>
+<utterance uid="42-8"><speaker>BECKETT</speaker><content>Every day for the last two weeks, Wolf went to Cafe Rex, which is right across the street from where you work. He would just sit there and look out the window.</content></utterance>
+<utterance uid="42-9"><speaker>CASTLE</speaker><content>Looking at you.</content></utterance>
+<utterance uid="42-10"><speaker>BECKETT</speaker><content>Now why would he do that?</content></utterance>
+<utterance uid="42-11"><speaker>CECILY</speaker><content>I don't know.</content></utterance>
+<utterance uid="42-12"><speaker>BECKETT</speaker><content>I think you do.</content></utterance>
+<utterance uid="42-13"><speaker>CASTLE</speaker><content>In the last two weeks, Wolf made a lot of changes. He'd stopped sleeping around, paid off all his debts...</content></utterance>
+<utterance uid="42-14"><speaker>BECKETT</speaker><content>And he bought this...  For you.</content></utterance>
+<utterance uid="42-15"><speaker>CASTLE</speaker><content>What makes a man- a self-professed bad boy-- suddenly declare himself after ten years? Unless something changed.</content></utterance>
+<utterance uid="42-16"><speaker>BECKETT</speaker><content>Cecily, these are your phone records. Four months ago, you started calling your OB/GYN regularly. You're pregnant. It's Wolf's, isn't it?</content></utterance>
+<utterance uid="42-17"><speaker>CECILY</speaker><content>No one was supposed to know. It was supposed to be my secret. But when David told Wolf we were pregnant, somehow he knew. He... He... he knew. God, you must think I'm awful.</content></utterance>
+<utterance uid="42-18"><speaker>BECKETT</speaker><content>It's not my job to judge. I'm just here to get the truth.</content></utterance>
+<utterance uid="42-19"><speaker>CECILY</speaker><content>David's father had just died, so David went out of the country to bury his father in his hometown. Wolf came by. He held my hand, and I remembered... how much I loved him, that I'd always loved him.</content></utterance>
+<utterance uid="42-20"><speaker>CASTLE</speaker><content>If you loved him so much, why stay with David?</content></utterance>
+<utterance uid="42-21"><speaker>CECILY</speaker><content>Because David doesn't leave. David doesn't sleep with every girl who walks by. You have no idea how hard it is to love someone, knowing they're gonna break your heart. If I couldn't trust him as a man, how could he be a father? I had to make a choice. Oh, God. Please don't tell David.</content></utterance>
+<utterance uid="42-22"><speaker>BECKETT</speaker><content>Are you sure he doesn't already know? Where was he the night that Wolf was murdered?</content></utterance>
+<utterance uid="42-23"><speaker>CECILY</speaker><content>At home... with me in bed.</content></utterance>
+<utterance uid="42-24"><speaker>CASTLE</speaker><content>All night?</content></utterance>
+<utterance uid="42-25"><speaker>CECILY</speaker><content>Oh, God.</content></utterance>
+<utterance uid="42-26"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="42-27"><speaker>CECILY</speaker><content>I had been having trouble sleeping. So David gave me a pill, the kind the doctor said was okay. It was the only time he's ever given me a pill.</content></utterance>
+</scene>
+<scene id="43"><utterance uid="43-1"><speaker>ESPOSITO</speaker><content>He's not talking.</content></utterance>
+<utterance uid="43-2"><speaker>RYAN</speaker><content>Yeah, but he didn't have to. We found Wolf's backpack in their apartment along with the extra cash.</content></utterance>
+<utterance uid="43-3"><speaker>ESPOSITO</speaker><content>We also found a pair of his shoes with cracked soles from the liquid nitrogen.</content></utterance>
+<utterance uid="43-4"><speaker>RYAN</speaker><content>I can't imagine the betrayal he must have felt.</content></utterance>
+<utterance uid="43-5"><speaker>BECKETT</speaker><content>It's still not an excuse to kill.</content></utterance>
+<utterance uid="43-6"><speaker>CASTLE</speaker><content>You ask me... she should've followed her heart-- left David, gone with Wolf.</content></utterance>
+<utterance uid="43-7"><speaker>BECKETT</speaker><content>You know, I can see the virtue in staying. I mean, guys like Wolf, they come in, they upset the apple cart. Of course he makes you feel alive, but eventually, you know he's just gonna let you down. So why risk it?</content></utterance>
+<utterance uid="43-8"><speaker>CASTLE</speaker><content>Because the heart wants what the heart wants. Speaking of... I gotta get outta here.</content></utterance>
+<utterance uid="43-9"><speaker>BECKETT</speaker><content>Madison?</content></utterance>
+<utterance uid="43-10"><speaker>CASTLE</speaker><content>No. Actually, with everything going on, she said she didn't have time to date. She didn't tell you that?</content></utterance>
+<utterance uid="43-11"><speaker>BECKETT</speaker><content>Mnh-mnh.</content></utterance>
+<utterance uid="43-12"><speaker>CASTLE</speaker><content>So I gotta get home. Alexis has a little head-heart problem of her own, and I want to be there for the decision.</content></utterance>
+<utterance uid="43-13"><speaker>DEMMING</speaker><content>Case closed?</content></utterance>
+<utterance uid="43-14"><speaker>BECKETT</speaker><content>Yes. Thank you so much for all of your help.</content></utterance>
+<utterance uid="43-15"><speaker>DEMMING</speaker><content>Anytime. But, you know, we never really finished our dinner. No more fives. You want to grab a beer and a burger at Remy's?</content></utterance>
+<utterance uid="43-16"><speaker>BECKETT</speaker><content>You know, I would love to, it's, just, uh... can I take a rain check?</content></utterance>
+<utterance uid="43-17"><speaker>DEMMING</speaker><content>Somewhere else you need to be?</content></utterance>
+<utterance uid="43-18"><speaker>BECKETT</speaker><content>Yeah. How about tomorrow?</content></utterance>
+<utterance uid="43-19"><speaker>DEMMING</speaker><content>Yeah. You're on.</content></utterance>
+<utterance uid="43-20"><speaker>BECKETT</speaker><content>Okay.</content></utterance>
+</scene>
+<scene id="44"><utterance uid="44-1"><speaker>CASTLE</speaker><content>Oh. You decided to go away for the weekend with your friends.</content></utterance>
+<utterance uid="44-2"><speaker>ALEXIS</speaker><content>They're picking me up in an hour.</content></utterance>
+<utterance uid="44-3"><speaker>CASTLE</speaker><content>You don't sound thrilled with your decision.</content></utterance>
+<utterance uid="44-4"><speaker>ALEXIS</speaker><content>I'm not. I feel awful about it, but either way, it's the same.</content></utterance>
+<utterance uid="44-5"><speaker>CASTLE</speaker><content>Well, is there anything I can do to make it easier on you?</content></utterance>
+<utterance uid="44-6"><speaker>ALEXIS</speaker><content>Yes. You can order me to stay home.</content></utterance>
+<utterance uid="44-7"><speaker>CASTLE</speaker><content>Y-you're serious?  All right.  Alexis, your A.P. exams are far too important for you to go gallivanting around the weekend with your friends at the beach. You have to stay home and study. I insist.</content></utterance>
+<utterance uid="44-8"><speaker>ALEXIS</speaker><content>Oh, I gotta call Lacey.  Lacey. Yeah, I'm so sorry. But my dad just told me I can't go. I have to stay home and study for exams this weekend. Yeah, I know. I know. Can you believe it? Yeah, so much for having a cool dad.</content></utterance>
+<utterance uid="44-9"><speaker>CASTLE</speaker><content>Dude--</content></utterance>
+<utterance uid="44-10"><speaker>ALEXIS</speaker><content>Well, I'm sorry. And just take lots of pictures and text 'em to me. Okay. Bye.  Thank you.</content></utterance>
+<utterance uid="44-11"><speaker>CASTLE</speaker><content>You won't be thanking me when you see what I have planned for this weekend. 1,001 ways to distract someone who's studying. We start by freezing ping-pong balls.</content></utterance>
+<utterance uid="44-12"><speaker>ALEXIS</speaker><content>Hey!</content></utterance>
+</scene>
+<scene id="45"><utterance uid="45-1"><speaker>MADISON</speaker><content>Okay, guys, let's remember to be sharp, respectful and attentive. Okay? Have a good night.  Hey!</content></utterance>
+<utterance uid="45-2"><speaker>BECKETT</speaker><content>Hey, you're reopening.</content></utterance>
+<utterance uid="45-3"><speaker>MADISON</speaker><content>Yes. I found a hot new chef to step into Wolf's shoes.</content></utterance>
+<utterance uid="45-4"><speaker>BECKETT</speaker><content>Oh, that's so great.</content></utterance>
+<utterance uid="45-5"><speaker>MADISON</speaker><content>Yeah.</content></utterance>
+<utterance uid="45-6"><speaker>JENNIFER</speaker><content>Hello, Detective. You're not here to question me again?</content></utterance>
+<utterance uid="45-7"><speaker>BECKETT</speaker><content>No, I'm just here as a friend. Congratulations.</content></utterance>
+<utterance uid="45-8"><speaker>JENNIFER</speaker><content>Thank you.</content></utterance>
+<utterance uid="45-9"><speaker>MADISON</speaker><content>So David killed Wolf?</content></utterance>
+<utterance uid="45-10"><speaker>BECKETT</speaker><content>Yeah. It turns out that he intercepted a text that Wolf sent Cecily asking about the baby. And at first, he was gonna approach Cecily about it until he realized that eventually she would leave him as long as Wolf was alive.</content></utterance>
+<utterance uid="45-11"><speaker>MADISON</speaker><content>Wow. Very Cane and Abel.</content></utterance>
+<utterance uid="45-12"><speaker>BECKETT</speaker><content>Yeah. So I take it that you're swamped.</content></utterance>
+<utterance uid="45-13"><speaker>MADISON</speaker><content>Always. Why?</content></utterance>
+<utterance uid="45-14"><speaker>BECKETT</speaker><content>I thought that we could get a drink and catch up.</content></utterance>
+<utterance uid="45-15"><speaker>MADISON</speaker><content>That'd be great. Apparently, we have a lot of catching up to do.</content></utterance>
+</scene>
+</script>

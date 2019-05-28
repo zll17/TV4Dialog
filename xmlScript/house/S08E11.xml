@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+
+<scene id="1"><utterance uid="1-1"><speaker>Taub</speaker><content> Pressure. I need pressure.</content></utterance>
+<utterance uid="1-2"><speaker>Adams</speaker><content> Get me sutures on a Kelly.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>Taub</speaker><content> Need an epi.</content></utterance>
+<utterance uid="2-2"><speaker>Adams</speaker><content> Get O.R. ten unpacked. Alert trauma.</content></utterance>
+</scene>
+
+
+<scene id="3"><utterance uid="3-1"><speaker>Cofield</speaker><content>Let the record show that we are officially convening a disciplinary hearing regarding the events of February 3, 2012 in patient room 209. Dr. House, this recording will be transcribed and published along with all supporting documentation and rulings. Do you have any questions before we get started?</content></utterance>
+<utterance uid="3-2"><speaker>House</speaker><content>Yeah. Who the hell are you?</content></utterance>
+<utterance uid="3-3"><speaker>Cofield</speaker><content>I'm Walter Cofield, Chief of Neurology, Mercy Hospital. I'll be deciding your fate today.</content></utterance>
+<utterance uid="3-4"><speaker>House</speaker><content>Cofield.  You were the Residency Director at Hopkins before you moved to Mercy, which means it's safe to assume that you trained Foreman. Which means it's also safe to assume that he trusts you.</content></utterance>
+<utterance uid="3-5"><speaker>Cofield</speaker><content>This hearing isn't about me, Dr. House. I know you'd like to make it about me, because then it wouldn't be about you.</content></utterance>
+<utterance uid="3-6"><speaker>House</speaker><content>It's interesting that he'd pick the old mentor to judge the new one.</content></utterance>
+<utterance uid="3-7"><speaker>Cofield</speaker><content>Interesting, but not relevant. The facts of this case, on the other hand—</content></utterance>
+<utterance uid="3-8"><speaker>House</speaker><content> The facts are in the file. If you have trouble reading my handwriting, give me a call. I'm going back to work.</content></utterance>
+<utterance uid="3-9"><speaker>Cofield</speaker><content>If I just consider the file, the facts aren't in your favor. The facts say you should be suspended, which, from what I understand, would mean a revocation of your parole.</content></utterance>
+<utterance uid="3-10"><speaker>House</speaker><content>The patient was a 32-year-old high school chemistry teacher. He collapsed while out jogging. He was paralyzed in all four extremities despite the fact that the scans…</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>Foreman</speaker><content>Show no sign of stroke or structural lesions.</content></utterance>
+<utterance uid="4-2"><speaker>House</speaker><content>Put out an APB for a car with a man-shaped dent in the grill?</content></utterance>
+<utterance uid="4-3"><speaker>Foreman</speaker><content>No broken bones, no signs of trauma.</content></utterance>
+<utterance uid="4-4"><speaker>House</speaker><content>Transverse myelitis. Boring.</content></utterance>
+<utterance uid="4-5"><speaker>Foreman</speaker><content>No enhancement on the MRI. I just don't know what to do.  Please. You have to help me solve this thing.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>House</speaker><content>A little poetic license. </content></utterance>
+<utterance uid="5-2"><speaker>Cofield</speaker><content>What are you doing?</content></utterance>
+<utterance uid="5-3"><speaker>House</speaker><content>Taking my Vic-amins.</content></utterance>
+<utterance uid="5-4"><speaker>Cofield</speaker><content>Those are Vicodin? Did you have surgery recently?</content></utterance>
+<utterance uid="5-5"><speaker>House</speaker><content>About a decade ago. My leg is no good at judging time.</content></utterance>
+<utterance uid="5-6"><speaker>Cofield</speaker><content>Were you taking Vicodin during this case?</content></utterance>
+<utterance uid="5-7"><speaker>House</speaker><content>Uhh… Yes.  And during about nine years of previous cases.  My process is proven. Good things usually happen. Bad things sometimes happen.</content></utterance>
+<utterance uid="5-8"><speaker>Cofield</speaker><content>And when bad things happen, we should figure out what went wrong, so we can learn from it and correct it.</content></utterance>
+<utterance uid="5-9"><speaker>House</speaker><content>So that we can assign blame instead of recognizing that bad things sometimes happen. It was nobody's fault.</content></utterance>
+<utterance uid="5-10"><speaker>Cofield</speaker><content>And then what happened?</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>House</speaker><content>Those who can, do. Those who can't, teach. Those who can't teach, teach gym. Those who can't move their arms or legs teach us to laugh at others.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>Cofield</speaker><content>House actually presented the case in that way, or are you just trying to make him look bad?</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>Adams</speaker><content>Why would I be trying to make him look bad?</content></utterance>
+<utterance uid="8-2"><speaker>Cofield</speaker><content>Could be your not-so-subtle way of implying this was House's fault.  Given what's happened, it's understandable that your opinion would color your testimony, but I just want to know what you said, what you did, and what you were thinking at the time.</content></utterance>
+<utterance uid="8-3"><speaker>Adams</speaker><content>I don't think it was his fault.</content></utterance>
+<utterance uid="8-4"><speaker>Cofield</speaker><content>Just tell me your initial theory.</content></utterance>
+<utterance uid="8-5"><speaker>Taub</speaker><content>I thought the patient had a liver problem. Hepatic encephalopathy explained why he passed out, why he couldn't move his limbs.</content></utterance>
+<utterance uid="8-6"><speaker>Cofield</speaker><content>But that's not the idea House went with.</content></utterance>
+<utterance uid="8-7"><speaker>Park</speaker><content>He thought Taub's idea was stupid.</content></utterance>
+<utterance uid="8-8"><speaker>Cofield</speaker><content>And what about your idea?</content></utterance>
+<utterance uid="8-9"><speaker>Park</speaker><content>He thought that was stupid too.</content></utterance>
+<utterance uid="8-10"><speaker>Cofield</speaker><content> No, I meant, what was it?</content></utterance>
+<utterance uid="8-11"><speaker>Park</speaker><content>Oh. I thought the patient had normal pressure hydrocephalus.</content></utterance>
+<utterance uid="8-12"><speaker>Cofield</speaker><content>And why did House think that was stupid?</content></utterance>
+<utterance uid="8-13"><speaker>House</speaker><content>Oh, come on. Unless you're an idiot, you know why I thought Park was an idiot.</content></utterance>
+<utterance uid="8-14"><speaker>Cofield</speaker><content> The patient had low opening pressure on his LP.</content></utterance>
+<utterance uid="8-15"><speaker>House</speaker><content>That's what I said.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>House</speaker><content>No, you idiot. The patient had low opening pressure on his LP. Try unsquinting your eyes and reading the labs next time.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>Cofield</speaker><content>Are you intentionally trying to get me to dislike you?</content></utterance>
+<utterance uid="10-2"><speaker>House</speaker><content>That wasn't me. The chair squeaked.</content></utterance>
+<utterance uid="10-3"><speaker>Cofield</speaker><content>You're testifying, for the record, that you actually used the phrasing "unsquint your eyes"? It's not the place to exorcise your guilt just b—</content></utterance>
+<utterance uid="10-4"><speaker>House</speaker><content>I actually used the phrasing  "unsquint your eyes."</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>Chase</speaker><content> He's hypokalemic. Could indicate a problem with his heart, which would…</content></utterance>
+<utterance uid="11-2"><speaker>Adams</speaker><content>EKG was normal.</content></utterance>
+<utterance uid="11-3"><speaker>House</speaker><content>But Chase, a doctor who actually takes the time to read the lab reports, has a point. The guy's potassium is off. Could be thyrotoxic paralysis. Start him on…</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>House</speaker><content>…steroids, PTU, and beta blockers.</content></utterance>
+<utterance uid="12-2"><speaker>Cofield</speaker><content>Mm-hmm. And how did these orange smudges get on the patient files?</content></utterance>
+<utterance uid="12-3"><speaker>House</speaker><content>Seriously? That's your follow-up? I eat a lot of Cheetos, I forget to wash my hands. Is my snacking really relevant to this case?</content></utterance>
+<utterance uid="12-4"><speaker>Cofield</speaker><content>Might be, if these were actually Cheetos stains. What are they?</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>Chase</speaker><content>Seriously, House?</content></utterance>
+<utterance uid="13-2"><speaker>House</speaker><content>You're blaming me? You used Adams' shampoo.</content></utterance>
+<utterance uid="13-3"><speaker>Adams</speaker><content> I didn't do it.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>House</speaker><content>It was a harmless prank. My team is made up of Type A personalities. They need something to break the tension every once in a while.</content></utterance>
+<utterance uid="14-2"><speaker>Cofield</speaker><content>So this was a team-building exercise?</content></utterance>
+<utterance uid="14-3"><speaker>Adams</speaker><content>Is that what he called it?</content></utterance>
+<utterance uid="14-4"><speaker>Cofield</speaker><content>That's what he implied.</content></utterance>
+<utterance uid="14-5"><speaker>Adams</speaker><content>House prefers chaos over cohesion. He believes that disagreement and mistrust lead to better ideas. He's not wrong.</content></utterance>
+<utterance uid="14-6"><speaker>Cofield</speaker><content>As opposed to being right?  So you treated with steroids. And then what happened?</content></utterance>
+<utterance uid="14-7"><speaker>Adams</speaker><content>They worked. Our patient woke up.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>Emily</speaker><content>Bill? Can you hear me?</content></utterance>
+<utterance uid="15-2"><speaker>Bill</speaker><content>Yeah. I'm thirsty.</content></utterance>
+<utterance uid="15-3"><speaker>Adams</speaker><content> That's normal. You've been in a coma for several hours. Can you tell me your name?</content></utterance>
+<utterance uid="15-4"><speaker>Bill</speaker><content>Uh, Bill. Bill Koppelman. Can you tell me what happened to me?</content></utterance>
+<utterance uid="15-5"><speaker>Taub</speaker><content>We're treating you for an overactive thyroid. We think that's why you passed out and couldn't move.</content></utterance>
+<utterance uid="15-6"><speaker>Adams</speaker><content>Can you wiggle your fingers for me?</content></utterance>
+<utterance uid="15-7"><speaker>Jordan</speaker><content>Is he going to be okay?</content></utterance>
+<utterance uid="15-8"><speaker>Taub</speaker><content>Excuse me, but only family members are allowed.</content></utterance>
+<utterance uid="15-9"><speaker>Bill</speaker><content>It's okay. They're my students.</content></utterance>
+<utterance uid="15-10"><speaker>Jordan</speaker><content>Everyone back at school is so worried about you.</content></utterance>
+<utterance uid="15-11"><speaker>Madison</speaker><content>Is he sick because of the explosion?</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>Cofield</speaker><content>What explosion?</content></utterance>
+<utterance uid="16-2"><speaker>Taub</speaker><content>A chemistry demonstration he was doing for his class went wrong.</content></utterance>
+<utterance uid="16-3"><speaker>Cofield</speaker><content>Why was it not already in the patient history?</content></utterance>
+<utterance uid="16-4"><speaker>Taub</speaker><content>Because the patient was unconscious.</content></utterance>
+<utterance uid="16-5"><speaker>Cofield</speaker><content>But I'm assuming Dr. House spoke to the wife.</content></utterance>
+<utterance uid="16-6"><speaker>Taub</speaker><content>The wife didn't know about the explosion. And I was the one who questioned her, so, if there was an oversight, it was mine.</content></utterance>
+<utterance uid="16-7"><speaker>Cofield</speaker><content>Does Dr. House not attach importance to patient histories?</content></utterance>
+<utterance uid="16-8"><speaker>Taub</speaker><content>No, he thinks they're crucial. He just doesn't think being in the same room as the patient is crucial. House thinks avoiding patients allows him to stay as objective as possible.  He's not wrong.</content></utterance>
+<utterance uid="16-9"><speaker>Cofield</speaker><content>Sounds like a very diplomatic way of saying he's lazy.</content></utterance>
+<utterance uid="16-10"><speaker>House</speaker><content>That's also true. Either way, I'm covered. If you want an accurate patient history, don't ever talk to the patient. Everybody lies. Except me. To you. Would never do that.</content></utterance>
+<utterance uid="16-11"><speaker>Cofield</speaker><content>Okay. Say you're right. If you had actually been in the room, questioning the patient, you could read body language, you could ask follow-up questions, warn him of the costs of lying to you.</content></utterance>
+<utterance uid="16-12"><speaker>House</speaker><content>Don't forget the thumbscrews.</content></utterance>
+<utterance uid="16-13"><speaker>Cofield</speaker><content>Can you dispute the possibility that, had you visited the patient sooner, maybe talked to the wife, been directed to one of the students, that this case might have ended very differently?</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>Bill</speaker><content>It wasn't exactly an explosion. It was a controlled reaction that went a little haywire.</content></utterance>
+<utterance uid="17-2"><speaker>Jordan</speaker><content>It was too an explosion. Simon Harris filmed the whole thing on his camera phone and posted it on YouTube.</content></utterance>
+<utterance uid="17-3"><speaker>Madison</speaker><content>It got, like, over 75,000 hits already.</content></utterance>
+<utterance uid="17-4"><speaker>Emily</speaker><content>Looks like you've gone viral, hon.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>House</speaker><content>He had a loss of consciousness, temporary paralysis… But when I was told the patient coughed up blood, then things really started to get interesting.</content></utterance>
+<utterance uid="18-2"><speaker>Cofield</speaker><content>Your patient was doubled over in pain and coughing up blood, and you found that interesting?</content></utterance>
+<utterance uid="18-3"><speaker>House</speaker><content>Why, is that bad?</content></utterance>
+<utterance uid="18-4"><speaker>Cofield</speaker><content>It's interesting.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>Bill</speaker><content>I do this demonstration every year. I usually have a student aide help me set it up, and apparently this year he added extra hydrofluoric acid, which is why it exploded.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>Adams</speaker><content>The student aide was just trying to make a viral video, not hurt anyone. Ended up doing both. So we figured the patient inhaled the extra large dose of hydrofluoric acid and…</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>Adams</speaker><content>…burned his lungs, which is why he coughed up blood.</content></utterance>
+<utterance uid="21-2"><speaker>Taub</speaker><content>If only burnt lungs explained the passing out and paralysis.</content></utterance>
+<utterance uid="21-3"><speaker>Park</speaker><content>The explosion does. Check out the video again. He smacked his head against the wall. If that caused swelling in his brainstem, that would have led to eventual loss of consciousness and paralysis.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>Park</speaker><content>So we discussed it a little longer, and House decided to treat with heparin.</content></utterance>
+<utterance uid="22-2"><speaker>Cofield</speaker><content>I wouldn't mind a couple more details.</content></utterance>
+<utterance uid="22-3"><speaker>Park</speaker><content>It was aerosolized heparin.</content></utterance>
+<utterance uid="22-4"><speaker>Cofield</speaker><content>You skipped over the actual DDX, and now you're averting your eyes. I'm growing more and more curious by the moment.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>Park</speaker><content>He smacked his head against the wall. If that caused swelling in his brainstem, that would have led to eventual loss of consciousness and paralysis.</content></utterance>
+<utterance uid="23-2"><speaker>House</speaker><content> Nobody move.</content></utterance>
+<utterance uid="23-3"><speaker>Taub</speaker><content>Aagh!</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>Cofield</speaker><content>He… he had on a what?</content></utterance>
+<utterance uid="24-2"><speaker>Park</speaker><content>Gas mask.  The stink bomb was Chase's. He was getting revenge for the orange hair and rigged it in House's office. But House found it.</content></utterance>
+<utterance uid="24-3"><speaker>Cofield</speaker><content>Mm-hmm.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>House</speaker><content>You can leave when I have an answer.</content></utterance>
+<utterance uid="25-2"><speaker>Chase</speaker><content> It might help if we knew the question.</content></utterance>
+<utterance uid="25-3"><speaker>House</speaker><content>How do we treat chemical burns inside the lungs?</content></utterance>
+<utterance uid="25-4"><speaker>Adams</speaker><content> Maybe we can use a bronchoalveolar lavage to wash 'em out with water.</content></utterance>
+<utterance uid="25-5"><speaker>House</speaker><content>Sorry. My fault. Should have clarified. How do we treat chemical burns inside the lungs without killing the patient?</content></utterance>
+<utterance uid="25-6"><speaker>Park</speaker><content> Silver sulfadiazine works well on chemical burns.</content></utterance>
+<utterance uid="25-7"><speaker>House</speaker><content>Burn cream would drown him faster than water.  Well?</content></utterance>
+<utterance uid="25-8"><speaker>Taub</speaker><content> Aerosolized heparin.</content></utterance>
+<utterance uid="25-9"><speaker>House</speaker><content>Me likey.</content></utterance>
+<utterance uid="25-10"><speaker>Park</speaker><content>But that's only experimental. It's never actually been used before.</content></utterance>
+<utterance uid="25-11"><speaker>House</speaker><content>Not true.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>House</speaker><content>Been used in sheep.</content></utterance>
+<utterance uid="26-2"><speaker>Cofield</speaker><content>Uh-huh.</content></utterance>
+<utterance uid="26-3"><speaker>House</speaker><content>The guy was going downhill fast. We needed a treatment that was a… slope changer.</content></utterance>
+<utterance uid="26-4"><speaker>Cofield</speaker><content>So you busted out the sulfur dioxide stink bomb?</content></utterance>
+<utterance uid="26-5"><speaker>House</speaker><content>It was a team-building exercise.</content></utterance>
+<utterance uid="26-6"><speaker>Cofield</speaker><content>No. It was manipulation. You were pressuring your team into coming up with unsafe medical ideas just to get out of that room.</content></utterance>
+<utterance uid="26-7"><speaker>House</speaker><content>You say pressure, I say inspire. The usual safe ideas were not gonna work. Aerosolized heparin might.</content></utterance>
+<utterance uid="26-8"><speaker>Cofield</speaker><content>And everyone else just went along with this?</content></utterance>
+<utterance uid="26-9"><speaker>Park</speaker><content>No. I told House I thought it was a mistake.</content></utterance>
+<utterance uid="26-10"><speaker>Cofield</speaker><content>And those were your exact words?</content></utterance>
+<utterance uid="26-11"><speaker>Park</speaker><content>I think I might have said insane.</content></utterance>
+<utterance uid="26-12"><speaker>Cofield</speaker><content>You thought it was insane, and yet you let it happen.</content></utterance>
+<utterance uid="26-13"><speaker>Park</speaker><content>No, I…</content></utterance>
+<utterance uid="26-14"><speaker>Cofield</speaker><content>If you disagree with Dr. House on patient safety, doctor, it is your duty to speak up. Otherwise, you are equally to blame.</content></utterance>
+<utterance uid="26-15"><speaker>Park</speaker><content>I did speak up. I tried.</content></utterance>
+<utterance uid="26-16"><speaker>Cofield</speaker><content>And you failed.</content></utterance>
+<utterance uid="26-17"><speaker>Park</speaker><content>And that's why I went to Dr. Foreman.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>Park</speaker><content>The heparin could cause the patient to bleed into his lungs even faster.</content></utterance>
+<utterance uid="27-2"><speaker>Foreman</speaker><content>It is crazy, but House doesn't do crazy just for crazy's sake. If he thinks this is the only way to help your patient…</content></utterance>
+<utterance uid="27-3"><speaker>Cofield</speaker><content>You did not tell me you were involved in this case when you asked me to do this.</content></utterance>
+<utterance uid="27-4"><speaker>Foreman</speaker><content>I wasn't. The heparin decision didn't have anything to do with the outcome.</content></utterance>
+<utterance uid="27-5"><speaker>Cofield</speaker><content>If signing off on everything House does is a pattern, it affects the way House behaves, it affects the way House's team reacts to the way House behaves.</content></utterance>
+<utterance uid="27-6"><speaker>Foreman</speaker><content>House… is brilliant. I give him the benefit of the doubt most of the time because I've seen what he can do.</content></utterance>
+<utterance uid="27-7"><speaker>Cofield</speaker><content>Getting House out of prison is the biggest decision you've made as Dean of Medicine, right? And if he's suspended as a result of this hearing, he violates his parole and he goes back. And that probably leaves you as former Dean of Medicine.</content></utterance>
+<utterance uid="27-8"><speaker>Foreman</speaker><content>I suppose so.</content></utterance>
+<utterance uid="27-9"><speaker>Cofield</speaker><content>You didn't choose me to oversee this because you thought I could be objective. You chose me because you thought I'd have your back and I'd think twice about making a decision that would get you fired.  Eric. I'm sorry. But if your get-House-out-of-jail-free experiment blows up in your face, it's not my job to get you out of it.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>Cofield</speaker><content>After you'd administered the heparin, I see there was a discharge order on the chart, and yet the patient never left.</content></utterance>
+<utterance uid="28-2"><speaker>Adams</speaker><content>House ordered a therapeutic bath first to wash off any residual chemicals from the blast. But we wound up finding something.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>Adams</speaker><content>You have a bit of a rash. Can you raise both your arms? I just need to see how far it goes.</content></utterance>
+<utterance uid="29-2"><speaker>Bill</speaker><content> You told me it was going to be okay. And now there's still something wrong with me.</content></utterance>
+<utterance uid="29-3"><speaker>Park</speaker><content>It probably doesn't mean anything, but we want to make sure.</content></utterance>
+<utterance uid="29-4"><speaker>Bill</speaker><content>Of course you do. I got to get out of here, okay?</content></utterance>
+<utterance uid="29-5"><speaker>Adams</speaker><content>Ju-just relax.</content></utterance>
+<utterance uid="29-6"><speaker>Bill</speaker><content>Please just let me get out of here.</content></utterance>
+<utterance uid="29-7"><speaker>Adams</speaker><content>It'll just take a minute. We just need to get a good look at the rash.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>Park</speaker><content>The rash? That was nothing. Just some irritation from lying in bed all day. The problem was the patient's brain. He freaked out.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>Bill</speaker><content>I got to… I got to get out. I got to get out of here.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>Adams</speaker><content>"Freak out" is a little strong. In my opinion at the time, it was the rash that was gonna kill him. Invasive strep.</content></utterance>
+<utterance uid="32-2"><speaker>Cofield</speaker><content>Reasonable theory, supported by the evidence.</content></utterance>
+<utterance uid="32-3"><speaker>Park</speaker><content>The evidence pointed to psychosis. We caused it by giving him steroids when he first came in.</content></utterance>
+<utterance uid="32-4"><speaker>Cofield</speaker><content>What'd you think?</content></utterance>
+<utterance uid="32-5"><speaker>Taub</speaker><content>I thought Park and Adams were both right but that their conclusions were both wrong. The neuro symptoms and the rash were both signs of an underlying disease. Together with the lung, it added up to Wegener's.</content></utterance>
+<utterance uid="32-6"><speaker>Cofield</speaker><content>How does Dr. House handle it when three smart doctors come up with three different but equally valid ideas?</content></utterance>
+<utterance uid="32-7"><speaker>House</speaker><content>I run a diagnostic trial.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>House</speaker><content>Start the patient on high-dose steroids. Multiple birds, single stone. If Taub is right, then he will walk out of here cured. If Adams is right, he'll spike a fever, get hypotensive, we can treat it. He can walk out of here cured. If Park is right, he goes all cuckoo's nest on us, we can cross "brain" off the list…</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>House</speaker><content>…diagnose him, and he can walk out of here cured.</content></utterance>
+<utterance uid="34-2"><speaker>Cofield</speaker><content>Are you trying to make this easy for me? By your own admission, if you give the patient steroids, two of the three outcomes are gonna make him worse.</content></utterance>
+<utterance uid="34-3"><speaker>House</speaker><content>What was making the patient worse was not having a diagnosis. This was the fastest way to get it. It was a perfect diagnostic moment.</content></utterance>
+<utterance uid="34-4"><speaker>Cofield</speaker><content>In light of what happened, you still think it was the perfect diagnostic moment?</content></utterance>
+<utterance uid="34-5"><speaker>House</speaker><content>Yes. My theory accounted for all the medical outcomes.  It did not account for the disobedience of my own team.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>Adams</speaker><content>What are you doing?</content></utterance>
+<utterance uid="35-2"><speaker>Chase</speaker><content>I think you're right about the strep.  Can't hurt to biopsy the rash while we're waiting.</content></utterance>
+<utterance uid="35-3"><speaker>Adams</speaker><content>Thanks.</content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>Adams</speaker><content>At the time, it seemed like a good idea.</content></utterance>
+<utterance uid="36-2"><speaker>Cofield</speaker><content>I know this is hard, but please tell me exactly what happened next.</content></utterance>
+</scene>
+<scene id="37"><utterance uid="37-1"><speaker>Chase</speaker><content>Draw up a little anesthetic.</content></utterance>
+<utterance uid="37-2"><speaker>Adams</speaker><content>Two CCS Lidocaine.</content></utterance>
+<utterance uid="37-3"><speaker>Bill</speaker><content>Get away from me.</content></utterance>
+<utterance uid="37-4"><speaker>Chase</speaker><content>You're in a hospital. Calm down.</content></utterance>
+<utterance uid="37-5"><speaker>Adams</speaker><content> Code grey!</content></utterance>
+</scene>
+<scene id="38"><utterance uid="38-1"><speaker>Cofield</speaker><content>So your position is that your team's disobedience caused this?</content></utterance>
+<utterance uid="38-2"><speaker>House</speaker><content>That's not what I said.</content></utterance>
+<utterance uid="38-3"><speaker>Cofield</speaker><content>You said you didn't anticipate their defiance. You implied that all would have been fine otherwise. So who do you blame, Dr. Adams or Dr. Chase? Or both?</content></utterance>
+<utterance uid="38-4"><speaker>House</speaker><content>I don't blame either one.</content></utterance>
+<utterance uid="38-5"><speaker>Cofield</speaker><content>So who do you blame, Dr. House?</content></utterance>
+</scene>
+<scene id="39"><utterance uid="39-1"><speaker>Adams</speaker><content>Code grey!</content></utterance>
+<utterance uid="39-2"><speaker>Adams</speaker><content>Get haloperidol.</content></utterance>
+<utterance uid="39-3"><speaker>Taub</speaker><content>Got it.</content></utterance>
+<utterance uid="39-4"><speaker>Bill</speaker><content>Ah… ah…</content></utterance>
+<utterance uid="39-5"><speaker>Adams</speaker><content>Oh, my God, Chase.</content></utterance>
+<utterance uid="39-6"><speaker>Taub</speaker><content>Prep the O.R. and get a gurney. Start an I.V.</content></utterance>
+<utterance uid="39-7"><speaker>Adams</speaker><content>Come on. The bleeder's got to be in here.  Got it.</content></utterance>
+<utterance uid="39-8"><speaker>Taub</speaker><content>Which artery?</content></utterance>
+<utterance uid="39-9"><speaker>Adams</speaker><content>It's his heart.</content></utterance>
+</scene>
+<scene id="40"><utterance uid="40-1"><speaker>Adams</speaker><content>Fortunately, only the knife tip reached the cardiac muscle. Made a laceration in the left ventricle about the size of the tip of my index finger. At that moment, he could only stay alive as long as my finger plugged the hole.  It could have been me on the floor. It should have been me. It was my theory. I held the needle in front of the patient that set off his paranoia. If you're looking for someone to blame… blame me.</content></utterance>
+<utterance uid="40-2"><speaker>Cofield</speaker><content>Please continue.</content></utterance>
+</scene>
+<scene id="41"><utterance uid="41-1"><speaker>Adams</speaker><content>Getting some ectopy.</content></utterance>
+<utterance uid="41-2"><speaker>Nurse</speaker><content>Coming through.</content></utterance>
+<utterance uid="41-3"><speaker>Park</speaker><content>Good carotid pulse.</content></utterance>
+<utterance uid="41-4"><speaker>Adams</speaker><content>Regular?</content></utterance>
+<utterance uid="41-5"><speaker>Park</speaker><content>No.</content></utterance>
+<utterance uid="41-6"><speaker>Adams</speaker><content>Got a PVC.</content></utterance>
+<utterance uid="41-7"><speaker>Nurse</speaker><content>Got to move it, people.</content></utterance>
+</scene>
+<scene id="42"><utterance uid="42-1"><speaker>House</speaker><content>My diagnostic test worked. It proved the patient had a steroid-induced psychosis.</content></utterance>
+<utterance uid="42-2"><speaker>Cofield</speaker><content>And that's what you took away from this situation?</content></utterance>
+<utterance uid="42-3"><speaker>House</speaker><content>The brain was not a symptom of an underlying disease.</content></utterance>
+<utterance uid="42-4"><speaker>Cofield</speaker><content>Your colleague was stabbed. Are you telling me you didn't care?</content></utterance>
+</scene>
+<scene id="43"><utterance uid="43-1"><speaker>House</speaker><content>How bad is it?</content></utterance>
+<utterance uid="43-2"><speaker>Taub</speaker><content>Bad. Patch.  Ready?</content></utterance>
+<utterance uid="43-3"><speaker>Adams</speaker><content>I can't take my finger out. He'll bleed. I don't think he can take it.</content></utterance>
+<utterance uid="43-4"><speaker>House</speaker><content>Oxygenation's at 100%. He's as ready as he's gonna be.</content></utterance>
+<utterance uid="43-5"><speaker>Taub</speaker><content>We got to go for it.</content></utterance>
+<utterance uid="43-6"><speaker>Adams</speaker><content>On my count.</content></utterance>
+<utterance uid="43-7"><speaker>Adams</speaker><content>One, two, three.</content></utterance>
+<utterance uid="43-8"><speaker>Taub</speaker><content>Suture.  Got it.</content></utterance>
+<utterance uid="43-9"><speaker>Park</speaker><content>BP is stable.</content></utterance>
+<utterance uid="43-10"><speaker>Taub</speaker><content>Patch is holding.</content></utterance>
+<utterance uid="43-11"><speaker>House</speaker><content>What was his heart rate?</content></utterance>
+<utterance uid="43-12"><speaker>Park</speaker><content>He doesn't have one. He's on bypass.</content></utterance>
+<utterance uid="43-13"><speaker>House</speaker><content>Not Chase. The patient.</content></utterance>
+<utterance uid="43-14"><speaker>Adams</speaker><content> You're DDX-ing?</content></utterance>
+<utterance uid="43-15"><speaker>House</speaker><content>Park, come with me. Taub's got this.</content></utterance>
+<utterance uid="43-16"><speaker>Park</speaker><content>My friend is here because you didn't listen to me.</content></utterance>
+<utterance uid="43-17"><speaker>House</speaker><content>I did listen to you. Chase didn't listen to me. At this point, being here makes you feel better. You're not helping Chase or our patient.  Fine.</content></utterance>
+</scene>
+<scene id="44"><utterance uid="44-1"><speaker>Cofield</speaker><content>So he just walked out?</content></utterance>
+<utterance uid="44-2"><speaker>Taub</speaker><content>There really was nothing for him to do.</content></utterance>
+<utterance uid="44-3"><speaker>Cofield</speaker><content>Speaks to a certain callousness on Dr. House's part, don't you think?</content></utterance>
+<utterance uid="44-4"><speaker>Taub</speaker><content>Who cares if House was callous? Are you gonna punish callousness?</content></utterance>
+<utterance uid="44-5"><speaker>Cofield</speaker><content>Hmm. But you agree that empathy is a useful quality for doctors?</content></utterance>
+<utterance uid="44-6"><speaker>Taub</speaker><content>House is not the problem.</content></utterance>
+<utterance uid="44-7"><speaker>Cofield</speaker><content>Your friend got stabbed. He may die from those wounds. If you had been in that room, maybe that could have been you.</content></utterance>
+<utterance uid="44-8"><speaker>Taub</speaker><content>I wouldn't have been in the room.</content></utterance>
+<utterance uid="44-9"><speaker>Cofield</speaker><content>Implicitly, you just said that Chase was at fault.</content></utterance>
+<utterance uid="44-10"><speaker>Taub</speaker><content> We all knew a psychotic episode was one of the three possible outcomes. And Chase brought a scalpel in there. He endangered Dr. Adams, he endangered himself, and he endangered the patient.</content></utterance>
+<utterance uid="44-11"><speaker>Caufield</speaker><content>Thank you.</content></utterance>
+</scene>
+
+<scene id="45"><utterance uid="45-1"><speaker>House</speaker><content>Lungs, rash, now excessive RR variability. Go.</content></utterance>
+<utterance uid="45-2"><speaker>Taub</speaker><content>It's a hospital. There are lots of doctors who can take care of him.</content></utterance>
+<utterance uid="45-3"><speaker>House</speaker><content>And your thinking is that only you guys are qualified to sit in this room, doing nothing? If you're motivated by caring, just bear in mind he's a dedicated chemistry teacher with a pretty wife and adoring students, baby on the way.</content></utterance>
+<utterance uid="45-4"><speaker>Adams</speaker><content>She's not pregnant.</content></utterance>
+<utterance uid="45-5"><speaker>House</speaker><content>Would it make a difference? 'Cause I could knock her up. Autonomic dysregulation.</content></utterance>
+<utterance uid="45-6"><speaker>Adams</speaker><content>Shut up.</content></utterance>
+<utterance uid="45-7"><speaker>Chase</speaker><content> Could you guys keep it down?</content></utterance>
+<utterance uid="45-8"><speaker>Taub</speaker><content>You made it, bud.</content></utterance>
+<utterance uid="45-9"><speaker>Adams</speaker><content>You're in the PACU. Been in surgery. The anesthesia's just wearing off.</content></utterance>
+<utterance uid="45-10"><speaker>Chase</speaker><content>Did I have an epidural?</content></utterance>
+<utterance uid="45-11"><speaker>Taub</speaker><content>Uh… no.</content></utterance>
+<utterance uid="45-12"><speaker>Chase</speaker><content>'Cause I can't feel my legs.</content></utterance>
+</scene>
+<scene id="46"><utterance uid="46-1"><speaker>Cofield</speaker><content>Dr. Chase? Robert?</content></utterance>
+<utterance uid="46-2"><speaker>Chase</speaker><content>Yeah.</content></utterance>
+<utterance uid="46-3"><speaker>Cofield</speaker><content>I'm Walter Cofield. I'm a neurologist over at…</content></utterance>
+<utterance uid="46-4"><speaker>Chase</speaker><content> I know who you are.</content></utterance>
+<utterance uid="46-5"><speaker>Cofield</speaker><content>Good.  Think you're up for answering a couple questions?</content></utterance>
+<utterance uid="46-6"><speaker>Chase</speaker><content>Well, it's not like I can get up and run away. Wasn't my best joke.</content></utterance>
+<utterance uid="46-7"><speaker>Cofield</speaker><content>I'm smiling because, for the last 12 hours, I've been picturing you with orange hair.</content></utterance>
+<utterance uid="46-8"><speaker>Chase</speaker><content>I dyed it back.</content></utterance>
+<utterance uid="46-9"><speaker>Cofield</speaker><content>Were you angry with Dr. House?</content></utterance>
+<utterance uid="46-10"><speaker>Chase</speaker><content>It was a prank. It wasn't uncommon.</content></utterance>
+<utterance uid="46-11"><speaker>Cofield</speaker><content>So I've heard. That doesn't mean you couldn't get angry. Might actually contribute to that reaction.</content></utterance>
+<utterance uid="46-12"><speaker>Chase</speaker><content>May I ask why that matters? Are you trying to prove that I was distracted, that my judgment was compromised?</content></utterance>
+<utterance uid="46-13"><speaker>Cofield</speaker><content>Who do you think was at fault for what happened to you, Dr. Chase?</content></utterance>
+<utterance uid="46-14"><speaker>Chase</speaker><content>Again, why does it matter?</content></utterance>
+<utterance uid="46-15"><speaker>Cofield</speaker><content>You're a smart doctor. You know what happened here better than anyone, and you've worked with Dr. House longer than anyone. And I suspect that you've spent every minute since this has happened trying to answer that very question.</content></utterance>
+<utterance uid="46-16"><speaker>Chase</speaker><content>I don't think it was anyone's fault. I was angry, but I wasn't distracted. And I think that, if there's any chance I'm gonna walk again, it's because Dr. House is a genius.</content></utterance>
+</scene>
+<scene id="47"><utterance uid="47-1"><speaker>House</speaker><content>How about warmth? Can you feel the sheets on your skin?</content></utterance>
+<utterance uid="47-2"><speaker>Chase</speaker><content>I just said I don't feel anything. Objectivity, House.  What about posttraumatic syringomyelia? Syrinx formed in the subarachnoid space, blocking the flow of cerebrospinal fluid.</content></utterance>
+<utterance uid="47-3"><speaker>Adams</speaker><content>That'd mean the damage was permanent.</content></utterance>
+<utterance uid="47-4"><speaker>House</speaker><content>No.  Forget the nerves.</content></utterance>
+<utterance uid="47-5"><speaker>Taub</speaker><content>House, if it's total paralysis, he must have…</content></utterance>
+<utterance uid="47-6"><speaker>House</speaker><content>Not necessarily. Think arteries. Blood flow to his spinal column is cut off. It's a clot in the radicular artery.</content></utterance>
+<utterance uid="47-7"><speaker>Chase</speaker><content>That could be fixable.</content></utterance>
+<utterance uid="47-8"><speaker>House</speaker><content>Prep a room for an embolectomy. Let's get that thing out of there before it does any more damage.</content></utterance>
+<utterance uid="47-9"><speaker>Chase</speaker><content>And if it's not a clot?</content></utterance>
+<utterance uid="47-10"><speaker>House</speaker><content>Then you can ask Foreman if hospital insurance covers ramp-vans.</content></utterance>
+</scene>
+<scene id="48"><utterance uid="48-1"><speaker>Park</speaker><content>You're through the aorta.</content></utterance>
+<utterance uid="48-2"><speaker>Chase</speaker><content>There.</content></utterance>
+<utterance uid="48-3"><speaker>Adams</speaker><content>Sensory level is at L5. It must be the descending branch.</content></utterance>
+<utterance uid="48-4"><speaker>Chase</speaker><content>Can I see the monitor?</content></utterance>
+<utterance uid="48-5"><speaker>Park</speaker><content>Stop there. Shoot the dye.</content></utterance>
+<utterance uid="48-6"><speaker>Chase</speaker><content>There it is.</content></utterance>
+<utterance uid="48-7"><speaker>Taub</speaker><content>Don't get too excited. We still got to get it out. Still could have done permanent damage.</content></utterance>
+<utterance uid="48-8"><speaker>House</speaker><content>Patient does not have autonomic dysregulation. There's blood in his urine bag. Kidneys are failing.</content></utterance>
+<utterance uid="48-9"><speaker>Adams</speaker><content>House, not now.</content></utterance>
+<utterance uid="48-10"><speaker>House</speaker><content>Got to be now. Foreman is transferring our guy to Princeton general as soon as there's a bed available. Says the doctors here can no longer be objective since the stabbing.</content></utterance>
+</scene>
+<scene id="49"><utterance uid="49-1"><speaker>Cofield</speaker><content>In the middle of a procedure that could basically save your life, House is actually trying to drag people away? How do you work with a guy like that?</content></utterance>
+<utterance uid="49-2"><speaker>Chase</speaker><content>He wasn't trying to pull anybody away. Everyone had already refused to work on that case. He knew the answer. He wanted to check on me. But he needed an excuse. Otherwise, he could be accused of caring.</content></utterance>
+<utterance uid="49-3"><speaker>Cofield</speaker><content>So your testimony is that Dr. House's complete lack of concern is evidence of his deep concern?  Did you just do that?</content></utterance>
+<utterance uid="49-4"><speaker>Chase</speaker><content>What?</content></utterance>
+<utterance uid="49-5"><speaker>Cofield</speaker><content>Wiggle your toes.</content></utterance>
+<utterance uid="49-6"><speaker>Cofield</speaker><content>Do you feel that?  Congratulations. It was the clot. Short occlusion time of the artery, when the swelling goes down, you should… gain back at least some of the function.  One more thing. Sorry. You knew that your patient was at risk for a psychotic break when you brought a scalpel within his reach. Why did you ignore that risk?</content></utterance>
+<utterance uid="49-7"><speaker>Chase</speaker><content>I thought I was right about the rash. I would do it again.</content></utterance>
+<utterance uid="49-8"><speaker>Cofield</speaker><content>I thought so. </content></utterance>
+<utterance uid="49-9"><speaker>Chase</speaker><content>What, that's it? "I thought so"? What the hell does that mean?</content></utterance>
+<utterance uid="49-10"><speaker>Cofield</speaker><content>You brazenly defied your boss. Now that happened either because Dr. House has established that that's okay in his world, or his prank war distracted you, or House makes medicine a game, and you just wanted to beat him. Whatever the reason, it boils down to the fact that you may never walk again because House created an atmosphere that promotes recklessness.</content></utterance>
+</scene>
+<scene id="50"><utterance uid="50-1"><speaker>Cofield</speaker><content>This will be our last round of questions. I've spoken with Dr. Chase. You know he regained movement.</content></utterance>
+<utterance uid="50-2"><speaker>House</speaker><content>No.</content></utterance>
+<utterance uid="50-3"><speaker>Cofield</speaker><content>Are you really this indifferent to the fact that Dr. Chase is hurt?</content></utterance>
+<utterance uid="50-4"><speaker>House</speaker><content>We're going off the record because this is irrelevant, or are you gonna hit me?</content></utterance>
+<utterance uid="50-5"><speaker>Cofield</speaker><content>Why don't you go tell the guy you're sorry…</content></utterance>
+<utterance uid="50-6"><speaker>House</speaker><content>I didn't do anything wrong.</content></utterance>
+<utterance uid="50-7"><speaker>Cofield</speaker><content>It's not an admission of guilt. He's your friend, and he's not well.</content></utterance>
+<utterance uid="50-8"><speaker>House</speaker><content>He's a coworker.</content></utterance>
+<utterance uid="50-9"><speaker>Cofield</speaker><content>Coworker whom you've known for almost ten years who nearly died and who's still scared he may not walk.</content></utterance>
+<utterance uid="50-10"><speaker>House</speaker><content>Are you going to have me fired for bad manners?</content></utterance>
+<utterance uid="50-11"><speaker>Cofield</speaker><content>Just trying to understand you. Why a man in your position, with your abilities, is incapable of shaking the impulse to act like an ass.</content></utterance>
+<utterance uid="50-12"><speaker>House</speaker><content> Could we go back on the record and get this over with?</content></utterance>
+<utterance uid="50-13"><speaker>Cofield</speaker><content>Put the Vicodin away, Dr. House.</content></utterance>
+<utterance uid="50-14"><speaker>House</speaker><content>My leg hurts.</content></utterance>
+<utterance uid="50-15"><speaker>Cofield</speaker><content> Is that supposed to be funny?</content></utterance>
+<utterance uid="50-16"><speaker>House</speaker><content>Two explosions.</content></utterance>
+<utterance uid="50-17"><speaker>Cofield</speaker><content>We're not done here.</content></utterance>
+</scene>
+<scene id="51"><utterance uid="51-1"><speaker>House</speaker><content>Hey, hold on.</content></utterance>
+<utterance uid="51-2"><speaker>EMT 1</speaker><content>Close it up.</content></utterance>
+<utterance uid="51-3"><speaker>House</speaker><content>Take him out of there.</content></utterance>
+<utterance uid="51-4"><speaker>EMT 1</speaker><content>Dr. Foreman said you'd try this. Said to tell you he's no longer your patient.</content></utterance>
+<utterance uid="51-5"><speaker>EMT 2</speaker><content>Let's go! </content></utterance>
+<utterance uid="51-6"><speaker>House</speaker><content>Hey!</content></utterance>
+<utterance uid="51-7"><speaker>House</speaker><content>Wait.  Wait.</content></utterance>
+<utterance uid="51-8"><speaker>Emily</speaker><content>I have to get to my car. I don’t… I n—</content></utterance>
+<utterance uid="51-9"><speaker>House</speaker><content>Your husband has a tumor in his lymph nodes.</content></utterance>
+<utterance uid="51-10"><speaker>Emily</speaker><content>You've been wrong every time.</content></utterance>
+<utterance uid="51-11"><speaker>House</speaker><content>Yeah, well, not this time.  The explosion in the classroom caused the cancer cells to break open. It's called tumor lysis syndrome. His body's flooded with an excess of phosphates, potassium, acids, all kinds of cancerous junk. It explains the paralysis, the bleeding, the heart and kidney issues, everything.</content></utterance>
+<utterance uid="51-12"><speaker>Emily</speaker><content>What about the psychotic break?</content></utterance>
+<utterance uid="51-13"><speaker>House</speaker><content>Turns out we caused that.  This is treatable. Okay?  You have to tell the new doctors that he needs total body radiation and plasmapheresis.</content></utterance>
+<utterance uid="51-14"><speaker>Emily</speaker><content>Move your cane, please.</content></utterance>
+</scene>
+<scene id="52"><utterance uid="52-1"><speaker>House</speaker><content>Where's Cofield?</content></utterance>
+<utterance uid="52-2"><speaker>Foreman</speaker><content>He said you walked out.</content></utterance>
+<utterance uid="52-3"><speaker>House</speaker><content>Well, I'm walking back. I'm not done testifying.</content></utterance>
+<utterance uid="52-4"><speaker>Foreman</speaker><content>Apparently you were. Said he'd have his decision tomorrow.</content></utterance>
+</scene>
+
+
+
+
+
+<scene id="53"><utterance uid="53-1"><speaker>Cofield</speaker><content>This case is a fiasco. Didn't sleep last night.  Dr. House is obviously brilliant…</content></utterance>
+<utterance uid="53-2"><speaker>House</speaker><content>Well, I think we've heard enough.</content></utterance>
+<utterance uid="53-3"><speaker>Cofield</speaker><content>But Dr. House is also a fiasco. If I were to exonerate him, condone his completely reckless, immature, almost misanthropic behavior, I would essentially be sending a message to all the other doctors in this hospital that it's okay to act that way and… it… is—</content></utterance>
+<utterance uid="53-4"><speaker>Emily</speaker><content>Sorry.</content></utterance>
+<utterance uid="53-5"><speaker>Cofield</speaker><content>We're in the middle of something.</content></utterance>
+<utterance uid="53-6"><speaker>Emily</speaker><content>I know. I came to speak with Dr. House. And when they told me he was in here, I thought I should say something. I mean… he wasn't the nicest doctor I've ever met.</content></utterance>
+<utterance uid="53-7"><speaker>House</speaker><content>Well, I think we've heard enough.</content></utterance>
+<utterance uid="53-8"><speaker>Emily</speaker><content>But he was right. They found the tumor. They are removing it, and they are starting plasmapheresis. They expect a full recovery. He saved my husband's life.  Well… I guess that's it. Thanks again. </content></utterance>
+<utterance uid="53-9"><speaker>Cofield</speaker><content>As I was saying, Dr. House's process is dangerous, inappropriate. But he is effective. I've decided that I would be doing this hospital a disservice if I did anything to change that process.  Congratulations, Dr. House. This unfortunate stabbing incident is officially nobody's fault.</content></utterance>
+<utterance uid="53-10"><speaker>House</speaker><content>Coward.</content></utterance>
+<utterance uid="53-11"><speaker>Cofield</speaker><content>Excuse me?</content></utterance>
+<utterance uid="53-12"><speaker>House</speaker><content>You've got, like, 20 pages of notes there. You were expecting to bore us for at least half an hour.  You got my parole form in here. You were gonna send me back to prison.</content></utterance>
+<utterance uid="53-13"><speaker>Foreman</speaker><content>House, stop.</content></utterance>
+<utterance uid="53-14"><speaker>House</speaker><content>Good things usually happen; Bad things sometimes happen. The fact that that would-be widow came in just in time to sob all over your soft, mushy heart and the fact that her husband's gonna live does not change whether or not I did the right thing.</content></utterance>
+</scene>
+
+<scene id="54"><utterance uid="54-1"><speaker>House</speaker><content>How'd you get the firing wire into the Vicodin bottle without me noticing?</content></utterance>
+<utterance uid="54-2"><speaker>Chase</speaker><content>Why'd I even have to? What was the point of the orange hair?</content></utterance>
+<utterance uid="54-3"><speaker>House</speaker><content>Your hair smelled like Adams. And since there's no way that you're doing her without me knowing, it means you were just doing her shampoo. Which means you were out late drinking with some new girl or, because there is no new girl, you were trying to make up time by showering at the hospital because you're too lazy to buy your own shampoo. So I found a way to let you know to not be late.</content></utterance>
+<utterance uid="54-4"><speaker>Chase</speaker><content>You couldn't just ask me to stop being late?</content></utterance>
+<utterance uid="54-5"><speaker>House</speaker><content>What fun would that be?</content></utterance>
+<utterance uid="54-6"><speaker>Chase</speaker><content>None of this is fun, House.</content></utterance>
+<utterance uid="54-7"><speaker>House</speaker><content>They decided that your being stabbed… was nobody's fault.  They're wrong. I'm sorry.</content></utterance>
+<utterance uid="54-8"><speaker>Chase</speaker><content>Anything else? I'm kind of busy.</content></utterance>
+<utterance uid="54-9"><speaker>House</speaker><content>No. That was it.</content></utterance>
+<utterance uid="54-10"><speaker>Chase</speaker><content> I've got it.</content></utterance>
+</scene>
+</script>

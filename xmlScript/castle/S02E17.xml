@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>CASTLE</speaker><content> Yeah, Paula, that sounds perfect. Yeah, close the deal. Thank you. And to you.  Hey.</content></utterance>
+<utterance uid="1-2"><speaker>BECKETT</speaker><content>Hey.</content></utterance>
+<utterance uid="1-3"><speaker>CASTLE</speaker><content>Ask me why I’m here.</content></utterance>
+<utterance uid="1-4"><speaker>BECKETT</speaker><content>You know, I ask myself that question every day.</content></utterance>
+<utterance uid="1-5"><speaker>CASTLE</speaker><content>That was Paula, my agent, with big news about my book Heat Wave.</content></utterance>
+<utterance uid="1-6"><speaker>BECKETT</speaker><content>Mmhmmm.</content></utterance>
+<utterance uid="1-7"><speaker>CASTLE</speaker><content>Wanna guess?</content></utterance>
+<utterance uid="1-8"><speaker>BECKETT</speaker><content>Guessing would imply caring.</content></utterance>
+<utterance uid="1-9"><speaker>CASTLE</speaker><content>I’ll give you a hint. The headlines in the trades might read, "Castle best seller to ‘heat’ up big screen".</content></utterance>
+<utterance uid="1-10"><speaker>BECKETT</speaker><content>Your book is being made into a movie?</content></utterance>
+<utterance uid="1-11"><speaker>CASTLE</speaker><content> And you are about to be immortalized on the silver screen.</content></utterance>
+<utterance uid="1-12"><speaker>BECKETT</speaker><content>Actually, Nikki Heat is going to be immortalized, not me.</content></utterance>
+<utterance uid="1-13"><speaker>CASTLE</speaker><content>Yes, well, technically, but it’s been widely publicized that you are the inspiration. So who would you like to play you in the movie?</content></utterance>
+<utterance uid="1-14"><speaker>RYAN</speaker><content> Whoa. Are you kidding? They’re really making a Nikki Heat movie?  Dude, did I call it or what?</content></utterance>
+<utterance uid="1-15"><speaker>ESPOSITO</speaker><content>Ah, congrats, bro.</content></utterance>
+<utterance uid="1-16"><speaker>CASTLE</speaker><content>Thank you!</content></utterance>
+<utterance uid="1-17"><speaker>RYAN</speaker><content>What do you think, can we get James McAvoy for detective Raley?</content></utterance>
+<utterance uid="1-18"><speaker>ESPOSITO</speaker><content>I’m gonna go with Javier Bardem.</content></utterance>
+<utterance uid="1-19"><speaker>BECKETT</speaker><content> Beckett.</content></utterance>
+<utterance uid="1-20"><speaker>CASTLE</speaker><content> You cast your dreams?</content></utterance>
+<utterance uid="1-21"><speaker>MAN ON TELEPHONE</speaker><content>Yes, I’d like to report a murder.</content></utterance>
+<utterance uid="1-22"><speaker>BECKETT</speaker><content>Do you have an address?</content></utterance>
+<utterance uid="1-23"><speaker>MAN</speaker><content>Where is the fun in that?</content></utterance>
+<utterance uid="1-24"><speaker>BECKETT</speaker><content> Okay… Who is this?</content></utterance>
+<utterance uid="1-25"><speaker>MAN</speaker><content>Oh, a fan.</content></utterance>
+<utterance uid="1-26"><speaker>BECKETT</speaker><content>Tell me more about this murder.</content></utterance>
+<utterance uid="1-27"><speaker>RYAN</speaker><content>Tracing.</content></utterance>
+<utterance uid="1-28"><speaker>MAN</speaker><content>Well, I did it. And that’s all you need to know.</content></utterance>
+<utterance uid="1-29"><speaker>RYAN</speaker><content>Got it.</content></utterance>
+<utterance uid="1-30"><speaker>BECKETT</speaker><content>Hello?</content></utterance>
+<utterance uid="1-31"><speaker>RYAN</speaker><content>42nd and Lex.</content></utterance>
+<utterance uid="1-32"><speaker>CASTLE</speaker><content>That’s Grand Central Station.</content></utterance>
+<utterance uid="1-33"><speaker>BECKETT</speaker><content>Yeah, let’s go.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>RYAN</speaker><content>According to tech, the phone call came from the second booth on the end.</content></utterance>
+<utterance uid="2-2"><speaker>CSU MAN</speaker><content>Here’s his wallet.</content></utterance>
+<utterance uid="2-3"><speaker>LANIE</speaker><content>Thank you.</content></utterance>
+<utterance uid="2-4"><speaker>CSU MAN</speaker><content>You got it.</content></utterance>
+<utterance uid="2-5"><speaker>BECKETT</speaker><content>His name’s Alex Peterman, lives in Dobbs Ferry. So it wasn’t a robbery. He’s a personal injury attorney.</content></utterance>
+<utterance uid="2-6"><speaker>CASTLE</speaker><content>Taking the late train home.</content></utterance>
+<utterance uid="2-7"><speaker>BECKETT</speaker><content>Anything other than GSWs?</content></utterance>
+<utterance uid="2-8"><speaker>LANIE</speaker><content>Nope, just the five shots to the chest from a .45.</content></utterance>
+<utterance uid="2-9"><speaker>CASTLE</speaker><content>A .45 makes a pretty loud snap, crackle and pop. I find it hard to believe no one heard it on the main concourse.</content></utterance>
+<utterance uid="2-10"><speaker>BECKETT</speaker><content>He must have used a suppressor and waited for the train to pass by.</content></utterance>
+<utterance uid="2-11"><speaker>LANIE</speaker><content>And – Let’s face it – New Yorkers are famous for their ‘Hear no evil, see no evil’ attitude. I’ll give you a call with an update once I get him back to the lab.</content></utterance>
+<utterance uid="2-12"><speaker>BECKETT</speaker><content>Thank you.</content></utterance>
+<utterance uid="2-13"><speaker>CASTLE</speaker><content> Hey, quick. Who do you want to play you in the Nikki Heat movie?</content></utterance>
+<utterance uid="2-14"><speaker>LANIE</speaker><content>Halle Berry.</content></utterance>
+<utterance uid="2-15"><speaker>CASTLE</speaker><content> See? Some people are just great at that game. You know who we could get for you? Angelina. No. Kate Beckett, Kate Beckinsale.  We’ll call you K-Becks.</content></utterance>
+<utterance uid="2-16"><speaker>BECKETT</speaker><content> Hey guys, where are we on the case?</content></utterance>
+<utterance uid="2-17"><speaker>ESPOSITO</speaker><content>We got a woman who says that she heard a loud sound around 8:45 – sounded like a car door slamming.</content></utterance>
+<utterance uid="2-18"><speaker>RYAN</speaker><content>And she said she saw a white male, 30s, average height, exiting the waiting room, moving very quickly to the 42nd Street exit.</content></utterance>
+<utterance uid="2-19"><speaker>ESPOSITO</speaker><content>Said he was wearing a black coat, black ball cap, sunglasses, and had some sort of beard, maybe a goatee.</content></utterance>
+<utterance uid="2-20"><speaker>BECKETT</speaker><content>All right, let’s see if anyone can corroborate her description, and let’s make up a sketch, show it to Alex Peterman’s family, see if they recognize the killer.</content></utterance>
+<utterance uid="2-21"><speaker>RYAN</speaker><content>Right.</content></utterance>
+<utterance uid="2-22"><speaker>CASTLE</speaker><content>What is it?</content></utterance>
+<utterance uid="2-23"><speaker>BECKETT</speaker><content>He called to report his crime. And that voice… It’s like he did this for fun.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>ALEXIS</speaker><content>Hey, you’re up early.</content></utterance>
+<utterance uid="3-2"><speaker>CASTLE</speaker><content>Yes, I have a date with Beckett at the morgue. What nefarious plot are you two hatching?</content></utterance>
+<utterance uid="3-3"><speaker>MARTHA</speaker><content>Uh –</content></utterance>
+<utterance uid="3-4"><speaker>CASTLE</speaker><content>My birthday is coming up.</content></utterance>
+<utterance uid="3-5"><speaker>MARTHA</speaker><content>Ah…</content></utterance>
+<utterance uid="3-6"><speaker>ALEXIS</speaker><content>I think you should tell him, Gram. Sometimes he gives good advice.</content></utterance>
+<utterance uid="3-7"><speaker>CASTLE</speaker><content>Sometimes?</content></utterance>
+<utterance uid="3-8"><speaker>MARTHA</speaker><content>Yeah, maybe you’re right. But I am not in the mood for any of your cavalier quips.</content></utterance>
+<utterance uid="3-9"><speaker>CASTLE</speaker><content>I’ll be serious as a shark attack.</content></utterance>
+<utterance uid="3-10"><speaker>MARTHA</speaker><content>Chet has asked me to move in with him.</content></utterance>
+<utterance uid="3-11"><speaker>ALEXIS</speaker><content>I told her.. that I thought it was too soon. They’ve been only dating a few months.</content></utterance>
+<utterance uid="3-12"><speaker>MARTHA</speaker><content>When you get to be our age, every minute counts. To that end, I have made a list of pros and cons. So far the pros are winning.</content></utterance>
+<utterance uid="3-13"><speaker>CASTLE</speaker><content> “Pro – he makes me feel young.”</content></utterance>
+<utterance uid="3-14"><speaker>MARTHA</speaker><content>Well…</content></utterance>
+<utterance uid="3-15"><speaker>ALEXIS</speaker><content>I make you feel young.</content></utterance>
+<utterance uid="3-16"><speaker>MARTHA</speaker><content>Oh, darling.</content></utterance>
+<utterance uid="3-17"><speaker>CASTLE</speaker><content>“Cons – I don’t want to live in another man’s home.” </content></utterance>
+<utterance uid="3-18"><speaker>MARTHA</speaker><content>You are not another man. Besides, I trained you. Who knows what bad habits Chet picked up along the way, you know?</content></utterance>
+<utterance uid="3-19"><speaker>ALEXIS</speaker><content>Mmhmm.</content></utterance>
+<utterance uid="3-20"><speaker>CASTLE</speaker><content>Mother, whatever you decide, I will support you, the same way I have since the last man you lived with stole your life savings.</content></utterance>
+<utterance uid="3-21"><speaker>MARTHA</speaker><content/></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>LANIE</speaker><content>Cause of death is multiple gunshot wounds. Tox indicates he had a martini about an hour before he died. Other than that, there is nothing interesting about the body.</content></utterance>
+<utterance uid="4-2"><speaker>BECKETT</speaker><content>So, then why the call?</content></utterance>
+<utterance uid="4-3"><speaker>LANIE</speaker><content>The body isn’t interesting.  Excuse me.  But the bullets are. Check out the marking on the end of the slugs.</content></utterance>
+<utterance uid="4-4"><speaker>BECKETT</speaker><content>Aftermarket factory stamps?</content></utterance>
+<utterance uid="4-5"><speaker>LANIE</speaker><content>No.</content></utterance>
+<utterance uid="4-6"><speaker>CASTLE</speaker><content>Those aren’t stamps. They’re letters. And look, they're hand-etched. They spell something.  They spell… ‘kinki’.</content></utterance>
+<utterance uid="4-7"><speaker>BECKETT</speaker><content>No.  ‘Nikki’. Nikki Heat. That’s why he called me. That’s why he said he was a fan. He dedicated this murder to me.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>MONTGOMERY</speaker><content>Does he realize she’s a fictional character, not a real person?</content></utterance>
+<utterance uid="5-2"><speaker>CASTLE</speaker><content>Obviously, he’s delusional, but given that Nikki Heat is based on detective Beckett, maybe he’s confusing the two. And we showed Alex Peterman’s family the sketch of our suspect. He did not look familiar.</content></utterance>
+<utterance uid="5-3"><speaker>MONTGOMERY</speaker><content>How are we on forensics?</content></utterance>
+<utterance uid="5-4"><speaker>BECKETT</speaker><content>C.S.U grabbed about 200 fingerprints, a thousand fibers and 60 odd DNA samples, and that was just from the phone box. They’re working them up now… After they clear their backlog.</content></utterance>
+<utterance uid="5-5"><speaker>RYAN</speaker><content>Beckett. Guy on the phone’s asking for Detective Heat.</content></utterance>
+<utterance uid="5-6"><speaker>BECKETT</speaker><content> Beckett.</content></utterance>
+<utterance uid="5-7"><speaker>MAN ON THE PHONE</speaker><content>Nikki, did you get the first part of my message?</content></utterance>
+<utterance uid="5-8"><speaker>BECKETT</speaker><content>Yes, I did.</content></utterance>
+<utterance uid="5-9"><speaker>MAN</speaker><content>Well, the second is at the Central Park carousel.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>LANIE</speaker><content>Same M.O. She was shot four times with a .45. There are contusions on the victim’s left side consistent with the muzzle of a .45 being jammed into her ribs. I’m guessing the killer is left-handed.</content></utterance>
+<utterance uid="6-2"><speaker>BECKETT</speaker><content>C.S.U pull the slugs from the back of the carriage?</content></utterance>
+<utterance uid="6-3"><speaker>LANIE</speaker><content>Yes, there were letters on the slugs. They spell ‘W-I-L-L.’</content></utterance>
+<utterance uid="6-4"><speaker>BECKETT</speaker><content>So he’s sending a message. ‘Nikki will…’</content></utterance>
+<utterance uid="6-5"><speaker>CASTLE</speaker><content>What? Nikki will what?</content></utterance>
+<utterance uid="6-6"><speaker>BECKETT</speaker><content>Thank you, Lanie.</content></utterance>
+<utterance uid="6-7"><speaker>LANIE</speaker><content>Mm-hmm.</content></utterance>
+<utterance uid="6-8"><speaker>CASTLE</speaker><content>I guess it’s official. Our guy is a serial killer.</content></utterance>
+<utterance uid="6-9"><speaker>BECKETT</speaker><content>I would think that a serial killer would be like the holy grail for a crime novelist.</content></utterance>
+<utterance uid="6-10"><speaker>CASTLE</speaker><content>I guess it would be if it weren’t for the Nikki Heat of it all.</content></utterance>
+<utterance uid="6-11"><speaker>BECKETT</speaker><content>Ah.</content></utterance>
+<utterance uid="6-12"><speaker>CASTLE</speaker><content>I’m feeling a little bit responsible.</content></utterance>
+<utterance uid="6-13"><speaker>BECKETT</speaker><content>Really? Like the Beatles are responsible for Charles Manson 'cause of "Helter Skelter", or is it more like Jodie Foster is responsible for John Hinckley shooting Reagan?</content></utterance>
+<utterance uid="6-14"><speaker>CASTLE</speaker><content>If I hadn’t created Nikki Heat –</content></utterance>
+<utterance uid="6-15"><speaker>BECKETT</speaker><content>He would still be killing. He’d just find another reason why.</content></utterance>
+<utterance uid="6-16"><speaker>MAN</speaker><content>All right, folks. Make way.</content></utterance>
+<utterance uid="6-17"><speaker>WOMAN</speaker><content>Now what’s going on?</content></utterance>
+<utterance uid="6-18"><speaker>CASTLE</speaker><content>Either a U.F.O. just landed on the other side of the park…</content></utterance>
+<utterance uid="6-19"><speaker>BECKETT</speaker><content>Or else the FBI is here to claim jurisdiction over this case.</content></utterance>
+<utterance uid="6-20"><speaker>CASTLE</speaker><content>Maybe they just want to ride on the carousel before the line gets too long.</content></utterance>
+<utterance uid="6-21"><speaker>AGENT JORDAN SHAW</speaker><content>Rope off a 10-foot circumference around the carousel. Sweep for prints and trace evidence. Close off the park entrance at 6th. Work up the entire footpath.</content></utterance>
+<utterance uid="6-22"><speaker>MAN</speaker><content>Mm-hmm.</content></utterance>
+<utterance uid="6-23"><speaker>BECKETT</speaker><content>Here goes.</content></utterance>
+<utterance uid="6-24"><speaker>SHAW</speaker><content>Nikki Heat, I presume.</content></utterance>
+<utterance uid="6-25"><speaker>BECKETT</speaker><content>It’s Beckett. Detective Kate Beckett.</content></utterance>
+<utterance uid="6-26"><speaker>SHAW</speaker><content>Yeah, I read all about you in Cosmo. And you must be the celebrity writer tagalong, Richard Castle. Special Agent Jordan Shaw.</content></utterance>
+<utterance uid="6-27"><speaker>CASTLE</speaker><content>Jor-Jordan Shaw? The same Jordan Shaw that broke the Hudson Valley Strangler case back in 1991?</content></utterance>
+<utterance uid="6-28"><speaker>SHAW</speaker><content>I also play a mean game of Scrabble. Now that we all know each other, I’d like to see the body.</content></utterance>
+<utterance uid="6-29"><speaker>BECKETT</speaker><content>Agent Shaw, my people have already secured the area. C.S.U. is on the scene, and we are canvassing the park. So as happy as I am to see the cavalry, there is really not much left here for you to do.</content></utterance>
+<utterance uid="6-30"><speaker>SHAW</speaker><content>Detective, the gods in the marble halls have sent me here to catch a killer, which I will do with or without your help, okay? Now could I see the body?</content></utterance>
+<utterance uid="6-31"><speaker>CASTLE</speaker><content>That is so going in the movie. Can you say that again, but start from “marble halls”? .</content></utterance>
+<utterance uid="6-32"><speaker>RYAN</speaker><content> Unis pulled this from a trash bin. Wallet’s inside. The vic’s name is Michelle Lewis.</content></utterance>
+<utterance uid="6-33"><speaker>ESPOSITO</speaker><content>According to her business card, she’s a dog walker.</content></utterance>
+<utterance uid="6-34"><speaker>BECKETT</speaker><content>There’s a print here, and it’s too large to be our victim’s. Let’s get it to the lab for –</content></utterance>
+<utterance uid="6-35"><speaker>BECKETT</speaker><content>What are you doing?</content></utterance>
+<utterance uid="6-36"><speaker>SHAW</speaker><content>That print is already in the lab and being processed. No muss, no fuss, no black powder on your clothes.</content></utterance>
+<utterance uid="6-37"><speaker>CASTLE</speaker><content>Wow, there’s an app for that?</content></utterance>
+<utterance uid="6-38"><speaker>SHAW</speaker><content>That’s why I joined the FBI, Mr. Castle, for the toys. I’m really eager to see that body. </content></utterance>
+<utterance uid="6-39"><speaker>CASTLE</speaker><content> Can I take a look at that –</content></utterance>
+<utterance uid="6-40"><speaker>CASTLE</speaker><content>Be a chance to check it later.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>CASTLE</speaker><content>What’s going on?</content></utterance>
+<utterance uid="7-2"><speaker>BECKETT</speaker><content>They’re setting up the war room.</content></utterance>
+<utterance uid="7-3"><speaker>CASTLE</speaker><content>War room?</content></utterance>
+<utterance uid="7-4"><speaker>BECKETT</speaker><content> Tell me everything you know about Jordan Shaw.</content></utterance>
+<utterance uid="7-5"><speaker>CASTLE</speaker><content>She is like the federal you. She is good. She is real good. She cracked open that Hudson Valley Strangler case when she was just 25.</content></utterance>
+<utterance uid="7-6"><speaker>BECKETT</speaker><content>I thought they caught him off of a speeding ticket?</content></utterance>
+<utterance uid="7-7"><speaker>CASTLE</speaker><content>Well, don’t ask me how, but she profiled that he drove a Yugo.</content></utterance>
+<utterance uid="7-8"><speaker>BECKETT</speaker><content>They found a girl tied up in the back.</content></utterance>
+<utterance uid="7-9"><speaker>CASTLE</speaker><content>Uh-huh. Jordan Shaw saved that girl’s life.</content></utterance>
+<utterance uid="7-10"><speaker>BECKETT</speaker><content>I’ve never seen you so excited to meet anyone before.</content></utterance>
+<utterance uid="7-11"><speaker>CASTLE</speaker><content>No, I just – I’m – Oh, I’m impressed with…</content></utterance>
+<utterance uid="7-12"><speaker>MAN</speaker><content>Excuse us.</content></utterance>
+<utterance uid="7-13"><speaker>OTHER MAN</speaker><content>Watch it.</content></utterance>
+<utterance uid="7-14"><speaker>CASTLE</speaker><content>I… Can we go see the war room now?</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>SHAW</speaker><content>You’re running partials too, right?</content></utterance>
+<utterance uid="8-2"><speaker>AVERY</speaker><content>Through all databases. The lab’s getting us information as fast as we can follow up.</content></utterance>
+<utterance uid="8-3"><speaker>BECKETT</speaker><content>I thought there was a backlog at the lab.</content></utterance>
+<utterance uid="8-4"><speaker>SHAW</speaker><content>I have a federal fast pass, so I get to jump the line.</content></utterance>
+<utterance uid="8-5"><speaker>SHAW</speaker><content>Currently we are running 35 solid leads based on D.N.A prints, trace evidence found from both crime scenes, and we’re running through the FBI data matrix. The matrix also looks for a connection between the victims in case the killer has a type or a favorite hunting ground or isn’t killing randomly.</content></utterance>
+<utterance uid="8-6"><speaker>CASTLE</speaker><content>Both Alex Peterman and Michelle Lewis belonged to the same Wessex gym, but they went to different locations. They were both members of MoMA. Hmm. They both adopted their dogs from the same A.S.P.C.A.</content></utterance>
+<utterance uid="8-7"><speaker>BECKETT</speaker><content>Wow! Sounds like it does your job for you.</content></utterance>
+<utterance uid="8-8"><speaker>SHAW</speaker><content>A machine can collate. It can’t think. . It takes a mind to hunt a mind.  Take this guy.</content></utterance>
+<utterance uid="8-9"><speaker>BECKETT</speaker><content>Wow.</content></utterance>
+<utterance uid="8-10"><speaker>SHAW</speaker><content>He calls the police to report his own crime, likes to kill in heavily populated areas and uses bullets as messages. Now, most of these stalker types can barely tie their own shoes. This one’s different, smarter.</content></utterance>
+<utterance uid="8-11"><speaker>BECKETT</speaker><content>You almost sound like you admire him.</content></utterance>
+<utterance uid="8-12"><speaker>SHAW</speaker><content>I admire him the way Robert Shaw admired the shark in Jaws. The better I know him, the easier it’ll be to catch him.</content></utterance>
+<utterance uid="8-13"><speaker>CASTLE</speaker><content>That’s like when I’m writing. The killer’s voice doesn’t sound authentic unless I understand his motivation.</content></utterance>
+<utterance uid="8-14"><speaker>SHAW</speaker><content>Well, this guy likes to make a scene. I wouldn’t be surprised if he was also an arsonist. In fact, I think that’s what drew him to the Nikki Heat character in the first place – her name. Speaking of Detective Heat –</content></utterance>
+<utterance uid="8-15"><speaker>CASTLE</speaker><content>Oh. Whoa, whoa, guys, listen. Not that I don’t appreciate the royalties, but, uh, why do you need a hundred copies of Heat Wave?</content></utterance>
+<utterance uid="8-16"><speaker>SHAW</speaker><content>If our killer’s obsessed with Nikki Heat, then so are we. Avery, "Cliff Notes," please.</content></utterance>
+<utterance uid="8-17"><speaker>AVERY</speaker><content>A real estate tycoon is killed. Detective Nikki Heat catches the case and investigates suspects who wanted the man dead. There’s a trophy wife, of course, dangerous mobsters –</content></utterance>
+<utterance uid="8-18"><speaker>CASTLE</speaker><content>Uh – Uh, excuse me. It’s – it’s a – It’s a New York Times best-seller. I don’t think there’s a need to make it sound quite so dry. Thanks.</content></utterance>
+<utterance uid="8-19"><speaker>AVERY</speaker><content>Heat’s life is complicated by a reporter named Jameson Rook, who’s following her around for an article he’s writing. Heat and Rook verbally spar, and in chapter 11, they admit their attraction for one another and have sex.</content></utterance>
+<utterance uid="8-20"><speaker>AVERY</speaker><content>Mm-hmm.</content></utterance>
+<utterance uid="8-21"><speaker>BECKETT</speaker><content>It’s fiction.</content></utterance>
+<utterance uid="8-22"><speaker>AVERY</speaker><content>In the end, when the killer’s revealed, it turns out it is actually –</content></utterance>
+<utterance uid="8-23"><speaker>CASTLE</speaker><content>Oh. Oh. Oh. Spoiler alert.</content></utterance>
+<utterance uid="8-24"><speaker>SHAW</speaker><content>In deference to Mr. Castle’s artistic sensitivity, you can all read the book to find out the identity of the killer.</content></utterance>
+<utterance uid="8-25"><speaker>CASTLE</speaker><content>Thank you. And if you want me to autograph those for you, just form a single file line right here.  Or not.</content></utterance>
+<utterance uid="8-26"><speaker>AVERY</speaker><content>We got a hit. That pinkie print off the second victim’s purse belongs to a Donald Salt, 2-time loser, on parole for a manslaughter conviction in 2005. They just matched it to the partial pinkie print your team recovered from Grand Central.</content></utterance>
+<utterance uid="8-27"><speaker>CASTLE</speaker><content>Two pinkie prints? So he was at the station and the carousel.</content></utterance>
+<utterance uid="8-28"><speaker>BECKETT</speaker><content>And the purse puts him with our victim.</content></utterance>
+<utterance uid="8-29"><speaker>SHAW</speaker><content>Let’s mount up.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>SHAW</speaker><content> Yeah. Okay. Just pulling up now. Yep, got it.  Salt lives in that brick building. His supervisor says he left work an hour ago. So he should be home by now. When the others get here, we’ll take him.</content></utterance>
+<utterance uid="9-2"><speaker>SHAW</speaker><content> What is he doing?</content></utterance>
+<utterance uid="9-3"><speaker>BECKETT</speaker><content>He, um, touches things.</content></utterance>
+<utterance uid="9-4"><speaker>CASTLE</speaker><content>Night vision goggles. I think I have the newer model though. You know, maybe in my third book Nikki Heat will cross swords with a good-looking, yet coldhearted FBI profiler. Call it Federal Heat.  Or maybe not.</content></utterance>
+<utterance uid="9-5"><speaker>SHAW</speaker><content>So how long have you two been sleeping together?</content></utterance>
+<utterance uid="9-6"><speaker>BECKETT</speaker><content>I’m… we’re – We’re not sleeping together. We – he –</content></utterance>
+<utterance uid="9-7"><speaker>BECKETT</speaker><content>He just observes me.</content></utterance>
+<utterance uid="9-8"><speaker>SHAW</speaker><content>Yeah, I’ve seen how he observes you.</content></utterance>
+<utterance uid="9-9"><speaker>CASTLE</speaker><content>No, she’s right. Aside from my second wife, this is the most sexless relationship I’ve ever been in.</content></utterance>
+<utterance uid="9-10"><speaker>SHAW</speaker><content>I’ve been profiling people for a long time. I’m hardly ever wrong.</content></utterance>
+<utterance uid="9-11"><speaker>BECKETT</speaker><content>Well, this time you are… wrong.</content></utterance>
+<utterance uid="9-12"><speaker>SHAW</speaker><content>So if you’re not sleeping together, why do you keep him around?</content></utterance>
+<utterance uid="9-13"><speaker>CASTLE</speaker><content>You know I can hear you?</content></utterance>
+<utterance uid="9-14"><speaker>BECKETT</speaker><content>He’s actually proven to be surprisingly helpful.</content></utterance>
+<utterance uid="9-15"><speaker>SHAW</speaker><content>Hmm. Have to take your word on that.</content></utterance>
+<utterance uid="9-16"><speaker>SHAW</speaker><content>Put the taser down.</content></utterance>
+<utterance uid="9-17"><speaker>SHAW</speaker><content>Okay, the team’s here. You stay in the car.</content></utterance>
+<utterance uid="9-18"><speaker>BECKETT</speaker><content>You heard her, Castle. Stay.</content></utterance>
+<utterance uid="9-19"><speaker>CASTLE</speaker><content>Could you at least crack the window for me?</content></utterance>
+<utterance uid="9-20"><speaker>MAN</speaker><content>Come on. Let’s go. Move, move.</content></utterance>
+<utterance uid="9-21"><speaker>SHAW</speaker><content>Let’s make it quick and bloodless.</content></utterance>
+<utterance uid="9-22"><speaker>MAN</speaker><content>Go, go, go.</content></utterance>
+<utterance uid="9-23"><speaker>SHAW</speaker><content>Hang on. Stop! FBI! Hey!</content></utterance>
+<utterance uid="9-24"><speaker>SALT</speaker><content>Aah! Oh! </content></utterance>
+<utterance uid="9-25"><speaker>CASTLE</speaker><content>See, I’m helping.</content></utterance>
+<utterance uid="9-26"><speaker>SHAW</speaker><content>Yeah, I’ll buy you an ice cream later.</content></utterance>
+<utterance uid="9-27"><speaker>BECKETT</speaker><content>Agent Shaw, we got a problem. His pinkie finger’s missing.</content></utterance>
+<utterance uid="9-28"><speaker>SALT</speaker><content>Which one of you is Nikki Heat?</content></utterance>
+<utterance uid="9-29"><speaker>BECKETT</speaker><content/></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>SALT</speaker><content>So I was on one of those internet barter sites, and I was looking – It, uh, doesn’t matter what I was looking for. But I came across the ad. “Finger wanted. Will pay top dollar.”</content></utterance>
+<utterance uid="10-2"><speaker>BECKETT</speaker><content>And what’s top dollar for a pinkie finger?</content></utterance>
+<utterance uid="10-3"><speaker>SALT</speaker><content>5,000 bucks.</content></utterance>
+<utterance uid="10-4"><speaker>SHAW</speaker><content>Sounds like a real deal.</content></utterance>
+<utterance uid="10-5"><speaker>SALT</speaker><content>Hey, you get less than that for a kidney. So anyway, I e-mailed him back. I told him I had everything he wanted.</content></utterance>
+<utterance uid="10-6"><speaker>SHAW</speaker><content>You gave him the finger. What more did he want?</content></utterance>
+<utterance uid="10-7"><speaker>SALT</speaker><content>He wanted me to have a violent felony conviction and to be recently paroled. And you also had to be willing to suffer through the indignity of a false arrest. He told me Detective Nikki Heat would be coming for me… and it might get physical. He didn’t mention anything about Captain America with the taser gun.</content></utterance>
+<utterance uid="10-8"><speaker>BECKETT</speaker><content>So he warned you that he would be planting your finger print at a murder scene.</content></utterance>
+<utterance uid="10-9"><speaker>SHAW</speaker><content>Which is why you have an alibi.</content></utterance>
+<utterance uid="10-10"><speaker>SALT</speaker><content>I was perched on my favorite bar stool at McSorley’s until closing every night since that man took my digit and walked away with it in his cooler.</content></utterance>
+<utterance uid="10-11"><speaker>SHAW</speaker><content>Is this the man?</content></utterance>
+<utterance uid="10-12"><speaker>SALT</speaker><content>I’m not sure. I didn’t really see him. He had a hat and sunglasses.</content></utterance>
+<utterance uid="10-13"><speaker>BECKETT</speaker><content>Who bandaged your finger?</content></utterance>
+<utterance uid="10-14"><speaker>SALT</speaker><content>He did. He said you’d notice. </content></utterance>
+<utterance uid="10-15"><speaker>SALT</speaker><content>Oh, be gentle with me, Nikki.</content></utterance>
+<utterance uid="10-16"><speaker>BECKETT</speaker><content>There’s numbers here. This looks like a code.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>CASTLE</speaker><content>Severed digits, a secret code – This is like one of my books.</content></utterance>
+<utterance uid="11-2"><speaker>SHAW</speaker><content>You should have been with me on the Recapitator case.</content></utterance>
+<utterance uid="11-3"><speaker>CASTLE</speaker><content>What, that guy in Phoenix who switched his victims’ heads? That was your case?</content></utterance>
+<utterance uid="11-4"><speaker>AVERY</speaker><content>Our techs have run the numbers through all conventional cryptology. We can’t crack it.</content></utterance>
+<utterance uid="11-5"><speaker>CASTLE</speaker><content>Which means what?</content></utterance>
+<utterance uid="11-6"><speaker>AVERY</speaker><content>There’s either a reference key that we don’t have or the code itself is just a random string of numbers.</content></utterance>
+<utterance uid="11-7"><speaker>SHAW</speaker><content>It’s not random. He bought another man’s finger so he could leave a print that would lead us directly to this code. It’s how he taunts Nikki. “Are you clever enough to solve my riddle?” So whatever this reference key is, he thinks you can find it.</content></utterance>
+<utterance uid="11-8"><speaker>BECKETT</speaker><content>Those numbers could mean anything.</content></utterance>
+<utterance uid="11-9"><speaker>CASTLE</speaker><content>Well, the left-hand column is less than 300. Right-hand column is no more than 260.</content></utterance>
+<utterance uid="11-10"><speaker>SHAW</speaker><content>And the combination of the joined pair most likely yields a word.</content></utterance>
+<utterance uid="11-11"><speaker>CASTLE</speaker><content>Words. It’s Heat Wave. When we typeset a manuscript, it’s usually 300 words a page. And Heat Wave is less than 300 pages. First column is a page number…</content></utterance>
+<utterance uid="11-12"><speaker>BECKETT</speaker><content>Counting backwards from the bottom.</content></utterance>
+<utterance uid="11-13"><speaker>CASTLE</speaker><content>79. Second column is a word. 32-33. “I.”</content></utterance>
+<utterance uid="11-14"><speaker>SHAW</speaker><content>126-80. “Will.”</content></utterance>
+<utterance uid="11-15"><speaker>BECKETT</speaker><content>145-204. “Kill.”</content></utterance>
+<utterance uid="11-16"><speaker>CASTLE</speaker><content>“I will kill”…</content></utterance>
+<utterance uid="11-17"><speaker>AVERY</speaker><content>Hang on. I’m uploading the text right now.</content></utterance>
+<utterance uid="11-18"><speaker>CASTLE</speaker><content>“I will kill someone else before midnight tonight unless you stop me."</content></utterance>
+<utterance uid="11-19"><speaker>BECKETT</speaker><content>Midnight. That’s eight hours away. He’s putting us on the clock. He’s daring us to stop him.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>CASTLE</speaker><content>Kickin’ it old-school?</content></utterance>
+<utterance uid="12-2"><speaker>BECKETT</speaker><content>The white board’s always worked for me. I’ve been going over subway routes, trying to see if I can trace a pattern from Grand Central to the carousel to the next location, and so far, nothing definitive.</content></utterance>
+<utterance uid="12-3"><speaker>CASTLE</speaker><content>Well, maybe there’s something about how he chooses his victims. First a man, then a woman.</content></utterance>
+<utterance uid="12-4"><speaker>BECKETT</speaker><content>A lawyer and a dog walker? Let’s face it. There’s no pattern there. There is no way to predict where he’s gonna go next and it’s already 9:00, and we’re out of time. And every murder he commits in the name of Nikki Heat…</content></utterance>
+<utterance uid="12-5"><speaker>CASTLE</speaker><content>A very wise woman once told me you can’t blame Jodie Foster for John Hinckley. But you can blame her for Nim’s Island.</content></utterance>
+<utterance uid="12-6"><speaker>BECKETT</speaker><content/></utterance>
+<utterance uid="12-7"><speaker>MAN</speaker><content>Lead just came in now.</content></utterance>
+<utterance uid="12-8"><speaker>MAN</speaker><content>Let’s get it to Avery.</content></utterance>
+<utterance uid="12-9"><speaker>MAN</speaker><content>Guys, can we put it on the computer real quick?</content></utterance>
+<utterance uid="12-10"><speaker>BECKETT</speaker><content>What have you got?</content></utterance>
+<utterance uid="12-11"><speaker>AVERY</speaker><content>Lab results came back on that bandage. Tested positive for formaldehyde, methanol, and ethanol.</content></utterance>
+<utterance uid="12-12"><speaker>SHAW</speaker><content>The lab found traces of formaldehyde at Grand Central and ethanol at the carousel.</content></utterance>
+<utterance uid="12-13"><speaker>CASTLE</speaker><content>Our killer works at a mortuary.</content></utterance>
+<utterance uid="12-14"><speaker>BECKETT</speaker><content>Or he could be a hospital employee or a janitor at a morgue.</content></utterance>
+<utterance uid="12-15"><speaker>SHAW</speaker><content>No. Castle’s theory is more likely. Bring up all the mortuaries in the city.</content></utterance>
+<utterance uid="12-16"><speaker>AVERY</speaker><content>We’ve got over a thousand in the New York city area alone. We can’t hit all these before midnight.</content></utterance>
+<utterance uid="12-17"><speaker>CASTLE</speaker><content>Can you cross-reference mortuary experience with criminal records?</content></utterance>
+<utterance uid="12-18"><speaker>SHAW</speaker><content>Or job finder groups for ex-cons.</content></utterance>
+<utterance uid="12-19"><speaker>CASTLE</speaker><content>Yes!</content></utterance>
+<utterance uid="12-20"><speaker>AVERY</speaker><content>I can try. Six names.</content></utterance>
+<utterance uid="12-21"><speaker>SHAW</speaker><content>Mobilize the troops. I want every one of these guys in our custody before midnight.  I see what you mean about him being helpful.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>MONTGOMERY</speaker><content>Any of these undertakers look good for it?</content></utterance>
+<utterance uid="13-2"><speaker>CASTLE</speaker><content>They all say the same thing. “We work with dead bodies all day, we don’t need to make more.”</content></utterance>
+<utterance uid="13-3"><speaker>BECKETT</speaker><content>He baited us, just like with that fingerprint. We’re wasting our time.</content></utterance>
+<utterance uid="13-4"><speaker>RYAN</speaker><content> He’s on the phone. He’s asking for Nikki Heat.</content></utterance>
+<utterance uid="13-5"><speaker>SHAW</speaker><content>We’re tracing the call.</content></utterance>
+<utterance uid="13-6"><speaker>BECKETT</speaker><content> Hello.</content></utterance>
+<utterance uid="13-7"><speaker>MAN ON THE PHONE</speaker><content>Nikki? You were supposed to stop me. I wanted you to stop me.</content></utterance>
+<utterance uid="13-8"><speaker>BECKETT</speaker><content>Tell me where you are.</content></utterance>
+<utterance uid="13-9"><speaker>MAN</speaker><content>Will you come alone?</content></utterance>
+<utterance uid="13-10"><speaker>BECKETT</speaker><content>Yes, just you and me. We can figure this out. I can help you. You just need to trust me.</content></utterance>
+<utterance uid="13-11"><speaker>MAN</speaker><content>Tell me something… How does it feel to know that you have failed?</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>SHAW</speaker><content>Check the stairs. Get a unit on the roof. I want eyes on every inch of this structure.</content></utterance>
+<utterance uid="14-2"><speaker>BECKETT</speaker><content>He was just here. That body can’t be too far.</content></utterance>
+<utterance uid="14-3"><speaker>RYAN</speaker><content>Over here! A lot of blood. A woman’s shoe. Got a broken heel.</content></utterance>
+<utterance uid="14-4"><speaker>SHAW</speaker><content>Strands of hair. Looks like she put up a fight.</content></utterance>
+<utterance uid="14-5"><speaker>BECKETT</speaker><content>There’s four shell casings. There’s no way she would’ve survived without medical attention.</content></utterance>
+<utterance uid="14-6"><speaker>CASTLE</speaker><content>Then where’s the body? He always leaves the body where he kills.</content></utterance>
+<utterance uid="14-7"><speaker>SHAW</speaker><content>And he always kills in famous places with lots of foot traffic. He’s changing his M.O.</content></utterance>
+<utterance uid="14-8"><speaker>CASTLE</speaker><content>Which makes him more unpredictable, which makes him more dangerous.</content></utterance>
+<utterance uid="14-9"><speaker>AVERY</speaker><content>Structure’s clear. There’s no body.</content></utterance>
+<utterance uid="14-10"><speaker>SHAW</speaker><content>Where the hell did he put her?</content></utterance>
+<utterance uid="14-11"><speaker>BECKETT</speaker><content>He put her in his trunk. That blood trail ends right here.</content></utterance>
+<utterance uid="14-12"><speaker>CASTLE</speaker><content>So he waited, probably left his car idling, takes down his victim, popped his trunk, put her in, drove away, body on board.</content></utterance>
+<utterance uid="14-13"><speaker>SHAW</speaker><content>Get the parking attendant to give us a list of all the vehicles through here and the video footage.</content></utterance>
+<utterance uid="14-14"><speaker>AVERY</speaker><content>Mm-hmm.</content></utterance>
+<utterance uid="14-15"><speaker>CASTLE</speaker><content>What, you think he used his own car?</content></utterance>
+<utterance uid="14-16"><speaker>SHAW</speaker><content>No, but if he stole it tonight, he might not have had time to switch the plates. We put out an A.P.B.</content></utterance>
+<utterance uid="14-17"><speaker>BECKETT</speaker><content>I’ll get my guys to get a roster of all the people who had monthlies on this floor.</content></utterance>
+<utterance uid="14-18"><speaker>SHAW</speaker><content>My people are already on it, and I got way more people than you do. Your captain has a unit on your apartment. Go home, get some rest.</content></utterance>
+<utterance uid="14-19"><speaker>BECKETT</speaker><content>It’s not necess –</content></utterance>
+<utterance uid="14-20"><speaker>SHAW</speaker><content>No argument. You’re no good to me if you’re burned out.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>MARTHA ON TELEVISON</speaker><content>He roars like an angry, caged animal. Concentrate towards the outer hatch area. The blows don’t seem to be injuring his hands. There’s no – There’s no blood that I can see.</content></utterance>
+<utterance uid="15-2"><speaker>CASTLE</speaker><content>Hey.</content></utterance>
+<utterance uid="15-3"><speaker>MARTHA</speaker><content>Hi.</content></utterance>
+<utterance uid="15-4"><speaker>CASTLE</speaker><content>What are you still doing up?</content></utterance>
+<utterance uid="15-5"><speaker>MARTHA</speaker><content>Oh, can’t sleep. Too much on my mind. You know, decisions to make and…</content></utterance>
+<utterance uid="15-6"><speaker>CASTLE</speaker><content> Wow. One of your old wedding videos.</content></utterance>
+<utterance uid="15-7"><speaker>MARTHA</speaker><content> Oh-ho-ho. Are you kidding? This guy’s a pushover compared to my ex-husbands. </content></utterance>
+<utterance uid="15-8"><speaker>CASTLE</speaker><content>So the pros outweighed the cons?</content></utterance>
+<utterance uid="15-9"><speaker>MARTHA</speaker><content>Darling, this was always supposed to be a temporary situation – un-until I got back on my feet, you know.</content></utterance>
+<utterance uid="15-10"><speaker>CASTLE</speaker><content>Well, the Rodgers women always follow their hearts.</content></utterance>
+<utterance uid="15-11"><speaker>MARTHA</speaker><content>Yeah. You okay?</content></utterance>
+<utterance uid="15-12"><speaker>CASTLE</speaker><content>This case, it just… If it wasn’t for my book –</content></utterance>
+<utterance uid="15-13"><speaker>MARTHA</speaker><content>What are you gonna do, darling, stop writing because some idiot has got a screw loose?</content></utterance>
+<utterance uid="15-14"><speaker>CASTLE</speaker><content>No, it’s just… I never intended to put her in harm’s way.</content></utterance>
+<utterance uid="15-15"><speaker>MARTHA</speaker><content>Let me tell you something about Kate Beckett. That gal can take care of herself. Really.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>CASTLE</speaker><content>WHOO! Wow!</content></utterance>
+<utterance uid="16-2"><speaker>BECKETT</speaker><content>Castle? What are you doing here?</content></utterance>
+<utterance uid="16-3"><speaker>CASTLE</speaker><content>Wine? So what happened to your security detail? I didn’t see anyone outside.</content></utterance>
+<utterance uid="16-4"><speaker>BECKETT</speaker><content>I sent them home after I got in.</content></utterance>
+<utterance uid="16-5"><speaker>BECKETT</speaker><content>What? The windows are locked, the door is locked, I’m armed. So our guy killed the others where they were found. Why not this girl? Why didn’t he just leave her in the garage where we’d find her?</content></utterance>
+<utterance uid="16-6"><speaker>CASTLE</speaker><content>He’s changing it up.</content></utterance>
+<utterance uid="16-7"><speaker>BECKETT</speaker><content>Or this victim is special.  No, thanks.</content></utterance>
+<utterance uid="16-8"><speaker>CASTLE</speaker><content>No, no, Agent Shaw said we need to decompress. Nothing decompresses like a 2000 Châteauneuf-du-Pape.</content></utterance>
+<utterance uid="16-9"><speaker>BECKETT</speaker><content>Oh, well, if Special Agent Shaw said so…</content></utterance>
+<utterance uid="16-10"><speaker>CASTLE</speaker><content>What is that supposed to mean?</content></utterance>
+<utterance uid="16-11"><speaker>BECKETT</speaker><content>Nothing. I just see the way that you listen to her, the way that you look at all of her fancy equipment. Now my murder board’s not enough for you? Now you need a smart board?</content></utterance>
+<utterance uid="16-12"><speaker>CASTLE</speaker><content>Are you jealous?</content></utterance>
+<utterance uid="16-13"><speaker>BECKETT</speaker><content>I’m not jealous. I’m just embarrassed the way that you act like a ten-year-old, all impressed by her data matrix. “Oh, it collates information so quickly, Agent Shaw, tell me all about it.”</content></utterance>
+<utterance uid="16-14"><speaker>CASTLE</speaker><content>You are ridiculous.</content></utterance>
+<utterance uid="16-15"><speaker>BECKETT</speaker><content>And then to top it off, you are now building theory with her.</content></utterance>
+<utterance uid="16-16"><speaker>CASTLE</speaker><content>So?</content></utterance>
+<utterance uid="16-17"><speaker>BECKETT</speaker><content>So you’re supposed to be building theory with me. You’re supposed to be on my team.</content></utterance>
+<utterance uid="16-18"><speaker>CASTLE</speaker><content>Well, I thought we were all on the same team?</content></utterance>
+<utterance uid="16-19"><speaker>BECKETT</speaker><content>We are. It’s just… I think that if you have an insight, you should run it by me first.</content></utterance>
+<utterance uid="16-20"><speaker>CASTLE</speaker><content>Fine. I will. Now drink your wine.</content></utterance>
+<utterance uid="16-21"><speaker>BECKETT</speaker><content>Thanks. But I am tired. And… I need to go to bed.</content></utterance>
+<utterance uid="16-22"><speaker>CASTLE</speaker><content>Oh, no. I’m not leaving. I’m here to protect you.</content></utterance>
+<utterance uid="16-23"><speaker>BECKETT</speaker><content>What, with your vast arsenal of rapier wit?</content></utterance>
+<utterance uid="16-24"><speaker>CASTLE</speaker><content>There is a madman gunning for you because of me. I am not going to leave you alone.</content></utterance>
+<utterance uid="16-25"><speaker>BECKETT</speaker><content>Okay, fine. I’m too tired to argue. But I see that doorknob turn, I will have you know, Mr. Castle, that I sleep with a gun.</content></utterance>
+<utterance uid="16-26"><speaker>CASTLE</speaker><content>Understood.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>BECKETT</speaker><content>You’re still here… and you’re making pancakes?</content></utterance>
+<utterance uid="17-2"><speaker>CASTLE</speaker><content>I was hoping for bacon and eggs, but your eggs are expired and your bacon has something furry on it.</content></utterance>
+<utterance uid="17-3"><speaker>BECKETT</speaker><content>Yeah, well, I mostly order in.</content></utterance>
+<utterance uid="17-4"><speaker>CASTLE</speaker><content>I figured that from the Styrofoam temple you’ve got going on in that refrigerator. Coffee’s brewed. I think your filter’s broken though. I’ll order you a new one later.</content></utterance>
+<utterance uid="17-5"><speaker>BECKETT</speaker><content>Wow. Looks like you thought of everything.</content></utterance>
+<utterance uid="17-6"><speaker>CASTLE</speaker><content> Except the paper.</content></utterance>
+<utterance uid="17-7"><speaker>BECKETT</speaker><content>Castle, we don’t have time for the paper. There’s a body out there that I gotta find.</content></utterance>
+<utterance uid="17-8"><speaker>CASTLE</speaker><content> Ah! Looks like it found you.</content></utterance>
+<utterance uid="17-9"><speaker>RYAN</speaker><content>So you had just gotten up, right?</content></utterance>
+<utterance uid="17-10"><speaker>BECKETT</speaker><content>Yeah. Castle just finished making breakfast and he went to the door –</content></utterance>
+<utterance uid="17-11"><speaker>RYAN</speaker><content>What kind of breakfast?</content></utterance>
+<utterance uid="17-12"><speaker>BECKETT</speaker><content>Uh, I’m sorry?</content></utterance>
+<utterance uid="17-13"><speaker>RYAN</speaker><content>What kind of breakfast was he making?</content></utterance>
+<utterance uid="17-14"><speaker>BECKETT</speaker><content>Pancakes.</content></utterance>
+<utterance uid="17-15"><speaker>RYAN</speaker><content>Well, isn’t that domestic?</content></utterance>
+<utterance uid="17-16"><speaker>BECKETT</speaker><content>Anyway, the paper usually arrives at 4:00, and we were up at 7:00. So that means the killer had a 3-hour window where he could have left the body there unnoticed.</content></utterance>
+<utterance uid="17-17"><speaker>RYAN</speaker><content>And exactly what time did you and Mr. Castle go to bed last night?</content></utterance>
+<utterance uid="17-18"><speaker>BECKETT</speaker><content>I think we’re done here.</content></utterance>
+<utterance uid="17-19"><speaker>ESPOSITO</speaker><content>Dude, I see Beckett in her jammies… Wine glasses on the table.</content></utterance>
+<utterance uid="17-20"><speaker>CASTLE</speaker><content>There’s nothing going on between Beckett and me. No more than there was yesterday.</content></utterance>
+<utterance uid="17-21"><speaker>RYAN</speaker><content>Dude, you made her pancakes?</content></utterance>
+<utterance uid="17-22"><speaker>CASTLE</speaker><content>It’s just breakfast.</content></utterance>
+<utterance uid="17-23"><speaker>ESPOSITO</speaker><content>Pancakes is not just breakfast. It’s an edible way of saying, “Thank you so much for last night.”</content></utterance>
+<utterance uid="17-24"><speaker>RYAN</speaker><content>Castle, come on. We’re your friends. Details.</content></utterance>
+<utterance uid="17-25"><speaker>CASTLE</speaker><content>All right, come here.</content></utterance>
+<utterance uid="17-26"><speaker>CASTLE</speaker><content> There are no details.</content></utterance>
+<utterance uid="17-27"><speaker>ESPOSITO</speaker><content>I can’t even look at you right now.</content></utterance>
+<utterance uid="17-28"><speaker>RYAN</speaker><content> Witness refuses to cooperate.</content></utterance>
+<utterance uid="17-29"><speaker>SHAW</speaker><content>Now we know why he took the body.</content></utterance>
+<utterance uid="17-30"><speaker>BECKETT</speaker><content>“I know where you live.” This was a threat.</content></utterance>
+<utterance uid="17-31"><speaker>SHAW</speaker><content>More than that. He’s saying he’s disappointed in you. In his mind, he gave you a fair warning that he was going to kill again. If you had been smarter, you would’ve been able to stop him. He’s saying, “This one is on you.”  I’m profiling him, Detective, not agreeing with him. The guy’s a freaking nut-bar. Don’t let him get to you.</content></utterance>
+<utterance uid="17-32"><speaker>CASTLE</speaker><content> Talk about irony.</content></utterance>
+<utterance uid="17-33"><speaker>BECKETT</speaker><content>Do we have an I.D. on our vic?</content></utterance>
+<utterance uid="17-34"><speaker>SHAW</speaker><content>No, not yet. There’s no purse, no missing persons report filed. The coronor’s van’s downstairs. We need to get the body to the morgue and pull the slugs. Only four entry wounds. If the pattern holds, he should have a 4-letter word for us.</content></utterance>
+<utterance uid="17-35"><speaker>BECKETT</speaker><content>That’s funny. I have a 4-letter word for him, too.</content></utterance>
+<utterance uid="17-36"><speaker>SHAW</speaker><content>Why don’t you two escort the body to the morgue and let me know what you find?</content></utterance>
+<utterance uid="17-37"><speaker>BECKETT</speaker><content>Okay.</content></utterance>
+<utterance uid="17-38"><speaker>SHAW</speaker><content>Once you’re dressed, of course.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>LANIE</speaker><content>Hey. Heard you two were making pancakes when the body dropped.</content></utterance>
+<utterance uid="18-2"><speaker>BECKETT</speaker><content>Nothing happened.</content></utterance>
+<utterance uid="18-3"><speaker>LANIE</speaker><content>Right.</content></utterance>
+<utterance uid="18-4"><speaker>BECKETT</speaker><content>So what do you got?</content></utterance>
+<utterance uid="18-5"><speaker>LANIE</speaker><content>Letters on the slugs. B-U-R-</content></utterance>
+<utterance uid="18-6"><speaker>BECKETT</speaker><content>“Burn.” Nikki will burn.</content></utterance>
+<utterance uid="18-7"><speaker>CASTLE</speaker><content>Well, that’s chilling.</content></utterance>
+<utterance uid="18-8"><speaker>BECKETT</speaker><content>Our victim’s fingerprints aren’t in the system. Do you have anything that can I.D. her?</content></utterance>
+<utterance uid="18-9"><speaker>LANIE</speaker><content>Well, I found formaldehyde on her.</content></utterance>
+<utterance uid="18-10"><speaker>BECKETT</speaker><content>Yeah, that’s from the killer. He left it on the other scenes as well.</content></utterance>
+<utterance uid="18-11"><speaker>LANIE</speaker><content>Not traces. It was under her fingernails, in her hair. She worked with embalming fluid. I also found traces of clay, polyurethane, and animal blood. I don’t know who she is, but I can tell you what she does.</content></utterance>
+<utterance uid="18-12"><speaker>LANIE</speaker><content>It’s so cute, the way you two do that.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>SHAW</speaker><content>Taxidermy?</content></utterance>
+<utterance uid="19-2"><speaker>CASTLE</speaker><content>Embalming fluid plus animal hair equals Norman Bates’ favorite pastime.</content></utterance>
+<utterance uid="19-3"><speaker>BECKETT</speaker><content>It can’t be just a coincidence that we found embalming fluid at our first two crime scenes as well.</content></utterance>
+<utterance uid="19-4"><speaker>SHAW</speaker><content>So the killer and this victim were connected.</content></utterance>
+<utterance uid="19-5"><speaker>BECKETT</speaker><content>It seems so. So there’s only seven taxidermy shops in the city. My guys are running them down right now.</content></utterance>
+<utterance uid="19-6"><speaker>SHAW</speaker><content>But if there was a connection between them, why didn’t the comparison matrix find it?</content></utterance>
+<utterance uid="19-7"><speaker>BECKETT</speaker><content>Maybe it’s not as simple as a work relationship or going to the same gym. Like you said, it takes a mind to hunt a mind.</content></utterance>
+<utterance uid="19-8"><speaker>ESPOSITO</speaker><content>Yo. We got an I.D. on our third vic. Her name is Sandra Keller. She works at a taxidermy shop downtown.</content></utterance>
+<utterance uid="19-9"><speaker>BECKETT</speaker><content>Any connection between her and our killer?</content></utterance>
+<utterance uid="19-10"><speaker>RYAN</speaker><content>A colleague of hers said she had a run-in with a guy who maybe matched our sketch – a customer whose Bichon Frise had been killed in the park by another dog – a Rottweiler.</content></utterance>
+<utterance uid="19-11"><speaker>ESPOSITO</speaker><content>Customer was heartbroken. He paid half up front to have his Mr. Bumpkins preserved for eternity. When he came back to pick up his dog, didn’t have the fee.</content></utterance>
+<utterance uid="19-12"><speaker>RYAN</speaker><content>When Sandra refused to give up stuffed Bumpkins, the guy went ballistic and stormed out of the store. Two nights later, they had a break-in. Among the things that went missing are this guy’s stuffed Bichon Frise and a bunch of embalming fluid.</content></utterance>
+<utterance uid="19-13"><speaker>SHAW</speaker><content>That explains why we found traces of it at the murder scenes.</content></utterance>
+<utterance uid="19-14"><speaker>ESPOSITO</speaker><content>He also trashed the store’s computer. There’s no client data, no name.</content></utterance>
+<utterance uid="19-15"><speaker>SHAW</speaker><content>My agent interviewed all of Michelle Lewis’ dog walking clients. One couple had to put their Rottweiler down because Michelle lost control of it, and it killed another dog.</content></utterance>
+<utterance uid="19-16"><speaker>CASTLE</speaker><content>Mr. Bumpkins. So, grief-stricken, our killer blames Michelle and Sandra for the loss of his best friend and decides to get revenge.</content></utterance>
+<utterance uid="19-17"><speaker>BECKETT</speaker><content>All of this about a dog? What does this have to do with Nikki Heat?</content></utterance>
+<utterance uid="19-18"><speaker>SHAW</speaker><content>The dog’s the trigger. Maybe he was reading the book when it was killed. When he snapped, he somehow blamed Nikki for it.</content></utterance>
+<utterance uid="19-19"><speaker>BECKETT</speaker><content>It seems a little absurd.</content></utterance>
+<utterance uid="19-20"><speaker>SHAW</speaker><content>You must be a cat lover. Detective, he’s looking for a reason to kill. This is it.</content></utterance>
+<utterance uid="19-21"><speaker>ESPOSITO</speaker><content>What about our first vic? How does Peterman fit in to all this?</content></utterance>
+<utterance uid="19-22"><speaker>CASTLE</speaker><content>Well, he was a personal injury lawyer. Maybe our murderer wanted to file a wrongful doggy death suit.</content></utterance>
+<utterance uid="19-23"><speaker>AVERY</speaker><content>According to Peterman’s notes, back in January, he had a meeting with a Ben Conrad over a lawsuit about a dead dog. Peterman declined to take the case though.</content></utterance>
+<utterance uid="19-24"><speaker>CASTLE</speaker><content>That’s the last piece of our puzzle.</content></utterance>
+<utterance uid="19-25"><speaker>BECKETT</speaker><content>What do you have on Conrad?</content></utterance>
+<utterance uid="19-26"><speaker>AVERY</speaker><content>Just a photo from the D.M.V.</content></utterance>
+<utterance uid="19-27"><speaker>SHAW</speaker><content>Got you, you son of a *****.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>SHAW</speaker><content> Yeah. Okay, sweetie. Mommy’s gotta go arrest somebody, okay? I’ll be home for dinner. All right. I love you. Bye.</content></utterance>
+<utterance uid="20-2"><speaker>BECKETT</speaker><content>You’re a mom?</content></utterance>
+<utterance uid="20-3"><speaker>SHAW</speaker><content>Yeah. And you can holster your gun. You’re both staying here.</content></utterance>
+<utterance uid="20-4"><speaker>CASTLE</speaker><content>What? No, come on. This is the final takedown.  You can’t let her do this to us.</content></utterance>
+<utterance uid="20-5"><speaker>BECKETT</speaker><content>No, Agent Shaw is right. I’m his target. I can’t compromise your team by walking into the line of fire.</content></utterance>
+<utterance uid="20-6"><speaker>SHAW</speaker><content>We’ll take him down. It’ll still be your collar.</content></utterance>
+<utterance uid="20-7"><speaker>BECKETT</speaker><content>Mm-hmm. Wow. She’s a mom. I never would’ve pegged her for that. I figured she was a career-driven woman with no time for a family.</content></utterance>
+<utterance uid="20-8"><speaker>CASTLE</speaker><content>Well, not everybody makes that choice.</content></utterance>
+<utterance uid="20-9"><speaker>BECKETT</speaker><content> Beckett.</content></utterance>
+<utterance uid="20-10"><speaker>MONTGOMERY</speaker><content>He’s calling for you.</content></utterance>
+<utterance uid="20-11"><speaker>BECKETT</speaker><content>Put him on. Hello?</content></utterance>
+<utterance uid="20-12"><speaker>MAN</speaker><content>Oh, you think you’re so smart, don’t you, Nikki? You think, what, just because you found me that you won?</content></utterance>
+<utterance uid="20-13"><speaker>BECKETT</speaker><content> He knows we’re here.  It’s over, Ben. Time to give up.</content></utterance>
+<utterance uid="20-14"><speaker>MAN</speaker><content>No, it’s not over.</content></utterance>
+<utterance uid="20-15"><speaker>BECKETT</speaker><content>Ben, listen to me. You’re surrounded. I need you to put the gun down.</content></utterance>
+<utterance uid="20-16"><speaker>MAN</speaker><content>You know I can’t do that, Nikki.</content></utterance>
+<utterance uid="20-17"><speaker>BECKETT</speaker><content>Ben, I need you to step outside of your apartment with your hands raised.</content></utterance>
+<utterance uid="20-18"><speaker>MAN</speaker><content>That’s not our game. One of us has to die.</content></utterance>
+<utterance uid="20-19"><speaker>BECKETT</speaker><content>No one has to die.</content></utterance>
+<utterance uid="20-20"><speaker>MAN</speaker><content>Somebody always has to die! And since it can’t be you…</content></utterance>
+<utterance uid="20-21"><speaker>BECKETT</speaker><content>Ben!</content></utterance>
+<utterance uid="20-22"><speaker>SHAW</speaker><content>Go!</content></utterance>
+<utterance uid="20-23"><speaker>MAN</speaker><content>Go! Go! Go!</content></utterance>
+<utterance uid="20-24"><speaker>MAN</speaker><content>Kitchen’s clear!</content></utterance>
+<utterance uid="20-25"><speaker>MAN</speaker><content>Bathroom’s clear!</content></utterance>
+<utterance uid="20-26"><speaker>MAN</speaker><content>Clear!</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>SHAW</speaker><content>We’re sending the gun to ballistics, but given it’s a .45, it’s probably the same one he used on our other victims.</content></utterance>
+<utterance uid="21-2"><speaker>CASTLE</speaker><content>And probably the same one he was gonna use on you.</content></utterance>
+<utterance uid="21-3"><speaker>SHAW</speaker><content>Uh, actually, no. He was planning something a little bit more spectacular.</content></utterance>
+<utterance uid="21-4"><speaker>CASTLE</speaker><content>Cell phones?</content></utterance>
+<utterance uid="21-5"><speaker>BECKETT</speaker><content>He was making a detonator.</content></utterance>
+<utterance uid="21-6"><speaker>MALE VOICE IN THE PHONE</speaker><content>Good-bye, Nikki. Good-bye, Nikki.</content></utterance>
+<utterance uid="21-7"><speaker>SHAW</speaker><content>He was extracting formaldehyde from the embalming fluid he stole to create cyclonite – a near military-grade explosive.</content></utterance>
+<utterance uid="21-8"><speaker>CASTLE</speaker><content>When you profiled him, you said he was probably an arsonist.</content></utterance>
+<utterance uid="21-9"><speaker>SHAW</speaker><content>I also said he liked to make a big scene. Schematics of the precinct. He was planning on killing you and taking the whole station with you.</content></utterance>
+<utterance uid="21-10"><speaker>CASTLE</speaker><content>“Nikki will burn.” I can see the poetry in that. The terrible, homicidal poetry.</content></utterance>
+<utterance uid="21-11"><speaker>SHAW</speaker><content>I just wouldn’t have profiled this guy as suicidal. I guess once we found him, it was the only way he could control the situation.</content></utterance>
+<utterance uid="21-12"><speaker>BECKETT</speaker><content>Well, at least Conrad saved us the trouble of a trial.</content></utterance>
+<utterance uid="21-13"><speaker>SHAW</speaker><content>And the best news is, I’m out of your hair.</content></utterance>
+<utterance uid="21-14"><speaker>BECKETT</speaker><content>The best news… is that it’s over.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>CASTLE</speaker><content>Hey. I thought you went to bed an hour ago.</content></utterance>
+<utterance uid="22-2"><speaker>ALEXIS</speaker><content>I couldn’t sleep. I thought the case was over.</content></utterance>
+<utterance uid="22-3"><speaker>CASTLE</speaker><content>Oh, it is. Wrapped up all nice and neat.</content></utterance>
+<utterance uid="22-4"><speaker>ALEXIS</speaker><content>That’s a good thing, right?</content></utterance>
+<utterance uid="22-5"><speaker>CASTLE</speaker><content>In a book, that’s a good thing. In real life, nothing is that neat. What’s got you still up?</content></utterance>
+<utterance uid="22-6"><speaker>ALEXIS</speaker><content>Gram. I can’t believe she’s leaving tomorrow. I mean, yeah, when she first moved in, I couldn’t imagine having her around all the time. But now I… can’t imagine her being gone.</content></utterance>
+<utterance uid="22-7"><speaker>CASTLE</speaker><content>Listen. It’s a fact of life. People we love leave us. Unless you chain ‘em to a radiator, which for some reason is illegal.</content></utterance>
+<utterance uid="22-8"><speaker>ALEXIS</speaker><content/></utterance>
+<utterance uid="22-9"><speaker>CASTLE</speaker><content>But, uh… Knowing her…  She’ll be back in six months.</content></utterance>
+<utterance uid="22-10"><speaker>MARTHA</speaker><content>Oh, good. You’re both up. Darling, I need you to help me decide on what to take. Oh, and I need to get my bags down. Richard, could you give us a hand?</content></utterance>
+<utterance uid="22-11"><speaker>CASTLE</speaker><content>A hand.</content></utterance>
+<utterance uid="22-12"><speaker>ALEXIS</speaker><content>What?</content></utterance>
+<utterance uid="22-13"><speaker>CASTLE</speaker><content>The bruising pattern on the second victim – the killer used his left hand. And… you see his handwriting? Look at the slope on the ‘4’ and the loop on the ‘6’.</content></utterance>
+<utterance uid="22-14"><speaker>MARTHA</speaker><content>Yeah. So he was left-handed.</content></utterance>
+<utterance uid="22-15"><speaker>CASTLE</speaker><content>Well, Ben Conrad shot himself with his right hand. If the man in the window was Ben Conrad, he would’ve shot himself on the left side. Ben Conrad didn’t kill himself. Ben Conrad was murdered by the man in the window. Ben – Ben’s not our killer. The real killer was just playing with us.</content></utterance>
+<utterance uid="22-16"><speaker>ALEXIS</speaker><content>But the evidence –</content></utterance>
+<utterance uid="22-17"><speaker>CASTLE</speaker><content>No, it was – it was planted there to lead us to Ben. He wants us to think it’s over. He wants us to drop our guard. He wants to make a big scene. “Nikki will burn.” Beckett.</content></utterance>
+<utterance uid="22-18"><speaker>MARTHA</speaker><content>Oh, God.</content></utterance>
+<utterance uid="22-19"><speaker>CASTLE</speaker><content>Montgomery took the detail off her place. She’s alone. </content></utterance>
+</scene>
+
+<scene id="23"><utterance uid="23-1"><speaker>CASTLE</speaker><content>Call the precinct. Tell them to get over there right away. Tell them we were wrong. Tell them the killer’s still alive.  You lock this door behind me. Don’t let anyone in.</content></utterance>
+<utterance uid="23-2"><speaker>MARTHA</speaker><content> Captain Montgomery, please. Yes, tell him it’s an emergency.</content></utterance>
+</scene>
+
+<scene id="24"><utterance uid="24-1"><speaker>CASTLE</speaker><content>Come on, Beckett. Pick up. Pick up the phone. Pick it up!</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>BECKETT</speaker><content>What, Castle?</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>CASTLE</speaker><content>It wasn’t Ben Conrad. He’s not the killer! The killer’s still alive! The killer’s still alive!</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>MALE VOICE IN A CELL PHONE</speaker><content>Goodbye, Nikki. Goodbye, Nikki.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>CASTLE</speaker><content>Kate!</content></utterance>
+</scene>
+</script>

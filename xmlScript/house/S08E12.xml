@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>Cindy</speaker><content>You're bleeding through your bandage.</content></utterance>
+<utterance uid="1-2"><speaker>Chase</speaker><content>Good morning.</content></utterance>
+<utterance uid="1-3"><speaker>Cindy</speaker><content>Don't we need to get you to a doctor?</content></utterance>
+<utterance uid="1-4"><speaker>Chase</speaker><content>I am a doctor. That didn't come up last night?</content></utterance>
+<utterance uid="1-5"><speaker>Cindy</speaker><content>We didn't do a lot of talking.</content></utterance>
+<utterance uid="1-6"><speaker>Chase</speaker><content>I'm good.</content></utterance>
+<utterance uid="1-7"><speaker>Cindy</speaker><content>You never told me what caused your accident.</content></utterance>
+<utterance uid="1-8"><speaker>Chase</speaker><content>I was stabbed by a patient. That'll teach me to overbill.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>House</speaker><content> If she likes crippled guys, I'm free for the next six minutes.</content></utterance>
+<utterance uid="2-2"><speaker>Chase</speaker><content>What do you want?</content></utterance>
+<utterance uid="2-3"><speaker>House</speaker><content>45 year-old truck driver, recurrent seizures. No metabolic or structural…</content></utterance>
+<utterance uid="2-4"><speaker>Chase</speaker><content> Does this look like a good time?</content></utterance>
+<utterance uid="2-5"><speaker>House</speaker><content>Sort of. At least as good as the other 12 times that I've called and paged you in the last three weeks.</content></utterance>
+<utterance uid="2-6"><speaker>Chase</speaker><content>Those times I just didn't feel like talking to you. Kinda like now.</content></utterance>
+<utterance uid="2-7"><speaker>House</speaker><content>I'd apologize again, but I'm still waiting for you to accept the first one.  You do work for me. I am entitled to ask when you're coming back.</content></utterance>
+<utterance uid="2-8"><speaker>Chase</speaker><content>I don't know when I'm coming back. I don't know if I'm coming back. Got a problem with that, fire me.</content></utterance>
+</scene>
+
+<scene id="3"><utterance uid="3-1"><speaker>Therapist</speaker><content> Nice.</content></utterance>
+<utterance uid="3-2"><speaker>Foreman</speaker><content>It's good to see you in the hospital, as a patient if not as a doctor.</content></utterance>
+<utterance uid="3-3"><speaker>Chase</speaker><content>Believe me, I'd rather be the guy with the clipboard.</content></utterance>
+<utterance uid="3-4"><speaker>Foreman</speaker><content>How you doing?</content></utterance>
+<utterance uid="3-5"><speaker>Chase</speaker><content>Arrhythmias are gone. Fine motor control is improving.</content></utterance>
+<utterance uid="3-6"><speaker>Foreman</speaker><content>Not what I meant. If you need to talk to someone, a professional…</content></utterance>
+<utterance uid="3-7"><speaker>Chase</speaker><content>I'm fine.</content></utterance>
+<utterance uid="3-8"><speaker>Foreman</speaker><content>Fine enough to get back to work? You don't have to work for House, but you do owe me 20 clinic hours.</content></utterance>
+<utterance uid="3-9"><speaker>Chase</speaker><content>What, getting knifed doesn't buy me an extension?</content></utterance>
+<utterance uid="3-10"><speaker>Foreman</speaker><content>Buys you whatever you need. But I know you. If all you do is physical therapy and your nighttime version of it, you'll lose your mind faster than you regain those fine motor skills. </content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>Moira</speaker><content>Uh, have this terrible pain in my left shoulder. It came out of nowhere.</content></utterance>
+<utterance uid="4-2"><speaker>Sister Joan</speaker><content>And nothing seems to help.</content></utterance>
+<utterance uid="4-3"><speaker>Chase</speaker><content>Any other symptoms? Chest pain? Lightheadedness?</content></utterance>
+<utterance uid="4-4"><speaker>Moira</speaker><content>No. None at all.</content></utterance>
+<utterance uid="4-5"><speaker>Chase</speaker><content>What were you doing when the pain came on?</content></utterance>
+<utterance uid="4-6"><speaker>Moira</speaker><content>Just sitting and praying.</content></utterance>
+<utterance uid="4-7"><speaker>Sister Joan</speaker><content>She'd been helping to make the altar breads that morning, but no hard physical work or repetitive motion.</content></utterance>
+<utterance uid="4-8"><speaker>Chase</speaker><content>A couple of possibilities. You have enlarged lymph nodes, so I'd like to start by ruling out breast cancer. And I do mean "rule out." It's probably nothing.  I'm gonna do a quick breast exam. Do you mind stepping out for a moment?</content></utterance>
+<utterance uid="4-9"><speaker>Sister Joan</speaker><content>Not at all. </content></utterance>
+<utterance uid="4-10"><speaker>Chase</speaker><content> That was so I could ask about the second possibility. Left-sided pain means it could be angina, which is made worse by stress. Might not be a coincidence that the pain started on the verge of a major life change.</content></utterance>
+<utterance uid="4-11"><speaker>Moira</speaker><content>How did you know?</content></utterance>
+<utterance uid="4-12"><speaker>Chase</speaker><content>Blue Veil means you're a postulant, haven't taken your vows yet. Brown Vestments means you're Carmelites, cloistered nuns, which explains the chaperone.  You're about to withdraw from the world for good. I was a seminarian.</content></utterance>
+<utterance uid="4-13"><speaker>Moira</speaker><content>Who obviously didn't take his vows.</content></utterance>
+<utterance uid="4-14"><speaker>Chase</speaker><content> Cassock made my ass look fat.  Do you mind unbuttoning your shirt and lying down for me?</content></utterance>
+<utterance uid="4-15"><speaker>Moira</speaker><content>Okay. I have had second thoughts. I'm kind of a wreck.</content></utterance>
+<utterance uid="4-16"><speaker>Chase</speaker><content>A life of perpetual enclosure and almost complete silence? If you weren't wrestling with this, I'd say there's something really wrong with you.</content></utterance>
+<utterance uid="4-17"><speaker>Chase</speaker><content>I'm going to admit you. There's a little mass here, and I'd like to get it checked out.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>Wilson</speaker><content>It's just a benign fat deposit. Her imaging's clean.</content></utterance>
+<utterance uid="5-2"><speaker>Chase</speaker><content>Stress test too. It's not angina. So why the shoulder pain?</content></utterance>
+<utterance uid="5-3"><speaker>House</speaker><content> Is it possible that she hurt her shoulder?</content></utterance>
+<utterance uid="5-4"><speaker>Chase</speaker><content> Thanks a lot.</content></utterance>
+<utterance uid="5-5"><speaker>Wilson</speaker><content>I didn't tell him.</content></utterance>
+<utterance uid="5-6"><speaker>House</speaker><content> You were cagey about where you were going. And Chase being cagey in general. Good chance I'd find the two of you in the same cage. So I had Park follow you.</content></utterance>
+<utterance uid="5-7"><speaker>Adams</speaker><content> How you feeling?</content></utterance>
+<utterance uid="5-8"><speaker>Chase</speaker><content>Better. Heard your arm's healing nicely.</content></utterance>
+<utterance uid="5-9"><speaker>Taub</speaker><content>Good to see you on your feet.</content></utterance>
+<utterance uid="5-10"><speaker>House</speaker><content> Patient's a nun? You turning back to your long-abandoned faith in time of trouble?</content></utterance>
+<utterance uid="5-11"><speaker>Chase</speaker><content>She was next up in the clinic.  And I don't want your help.</content></utterance>
+<utterance uid="5-12"><speaker>House</speaker><content>You got stabbed. You blame me.</content></utterance>
+<utterance uid="5-13"><speaker>House</speaker><content>But what did you learn about me that you hadn't known for years?</content></utterance>
+<utterance uid="5-14"><speaker>Chase</speaker><content>Maybe I was an idiot before and I'm not one now.</content></utterance>
+<utterance uid="5-15"><speaker>House</speaker><content>Or maybe the reverse is true.</content></utterance>
+<utterance uid="5-16"><speaker>Chase</speaker><content> Thanks for all your help.</content></utterance>
+<utterance uid="5-17"><speaker>House</speaker><content> Your soul sister is having a fungal infection from the unprocessed wheat in the altar breads. Explains the shoulder pain and the jumbo lymph nodes.</content></utterance>
+<utterance uid="5-18"><speaker>House</speaker><content> Thanks for all my help.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>Park</speaker><content>I'm… I'm sorry I led House to you.</content></utterance>
+<utterance uid="6-2"><speaker>Chase</speaker><content>It's part of the job.</content></utterance>
+<utterance uid="6-3"><speaker>Park</speaker><content>Maybe we could get a meal after work tonight, if you want some companionship.</content></utterance>
+<utterance uid="6-4"><speaker>Chase</speaker><content> You asking me out on a date?</content></utterance>
+<utterance uid="6-5"><speaker>Park</speaker><content>No. I just… I guess that sounded… must be scary to be back. All those knives and needles. Infected blood and tissue everywhere you look. Just thought you might need someone to talk to about it.</content></utterance>
+<utterance uid="6-6"><speaker>Chase</speaker><content>Just knowing you're there for me is enough. Thanks. </content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>Moira</speaker><content>Ever surf Kirra Point? Obviously you're Australian.</content></utterance>
+<utterance uid="7-2"><speaker>Chase</speaker><content>I've surfed all over the Gold Coast. Don't tell me you have?</content></utterance>
+<utterance uid="7-3"><speaker>Moira</speaker><content>The closest I got was Waimea Bay. I grew up on Maui.</content></utterance>
+<utterance uid="7-4"><speaker>Chase</speaker><content>If you don't mind me asking, why are you becoming a nun?</content></utterance>
+<utterance uid="7-5"><speaker>Moira</speaker><content>You asking 'cause I surf?</content></utterance>
+<utterance uid="7-6"><speaker>Chase</speaker><content>Well, I know that Jesus walked on water but…  Plus the average postulant is a lot younger than you. What were you doing before this?</content></utterance>
+<utterance uid="7-7"><speaker>Moira</speaker><content>Not much of anything. Worked as a nanny. Moved around a lot. Bunch of failed relationships.</content></utterance>
+<utterance uid="7-8"><speaker>Chase</speaker><content>And then what? God spoke to you? You heard the calling?</content></utterance>
+<utterance uid="7-9"><speaker>Moira</speaker><content>Something like that. Does there have to be some dramatic moment where the skies part?</content></utterance>
+<utterance uid="7-10"><speaker>Chase</speaker><content>Usually, yeah.</content></utterance>
+<utterance uid="7-11"><speaker>Moira</speaker><content>Is that what happened to you when you entered the seminary?</content></utterance>
+<utterance uid="7-12"><speaker>Chase</speaker><content>Mom drank, dad worked. They stuck me in catholic school. Priests and nuns were the closest I had to family. Turned out that wasn't much of a reason to join the priesthood.</content></utterance>
+<utterance uid="7-13"><speaker>Moira</speaker><content>Is that why you left?</content></utterance>
+<utterance uid="7-14"><speaker>Chase</speaker><content>Something like that.</content></utterance>
+<utterance uid="7-15"><speaker>Moira</speaker><content> I think, I may throw up.</content></utterance>
+<utterance uid="7-16"><speaker>Moira</speaker><content>What's wrong with me?</content></utterance>
+<utterance uid="7-17"><speaker>Chase</speaker><content>Not a fungal infection.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>House</speaker><content>You're probably wondering, why the soda balloons?</content></utterance>
+<utterance uid="8-2"><speaker>Chase</speaker><content>I'm not.</content></utterance>
+<utterance uid="8-3"><speaker>House</speaker><content>Well, I'll tell you. You're not the only one whose life spiraled out of control when you got knifed in the ventricle. Taub has decided…</content></utterance>
+<utterance uid="8-4"><speaker>Chase</speaker><content> I need help with my patient. She's vomiting. That's not from a fungal infection.</content></utterance>
+<utterance uid="8-5"><speaker>House</speaker><content>What are you planning to do now that you're not working for me?</content></utterance>
+<utterance uid="8-6"><speaker>Chase</speaker><content>I have no idea. Almost dying's been clarifying. I can do anything.</content></utterance>
+<utterance uid="8-7"><speaker>House</speaker><content>You can do anything. So you come back to the same building you've worked in for years. Guess you can cross that off your bucket list.</content></utterance>
+<utterance uid="8-8"><speaker>Chase</speaker><content>Can we get to my patient sometime soon?</content></utterance>
+<utterance uid="8-9"><speaker>House</speaker><content>As soon as you admit that you're a confused mess, sure.</content></utterance>
+<utterance uid="8-10"><speaker>Chase</speaker><content>You'll help me. 'Cause even though you don't find my case interesting, you find my interest in it interesting.</content></utterance>
+<utterance uid="8-11"><speaker>House</speaker><content>Well, when you put it that way… Ascending colangitis.</content></utterance>
+<utterance uid="8-12"><speaker>Taub</speaker><content> Missed me.</content></utterance>
+<utterance uid="8-13"><speaker>Chase</speaker><content>Can't be, bilirubin's normal.</content></utterance>
+<utterance uid="8-14"><speaker>House</speaker><content> Clinical signs can show up days before lab signs.</content></utterance>
+<utterance uid="8-15"><speaker>Taub</speaker><content> Ha ha ha!</content></utterance>
+<utterance uid="8-16"><speaker>House</speaker><content>This is great. We should make this a regular thing.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>Nurse</speaker><content>She can't feel her foot at all.</content></utterance>
+<utterance uid="9-2"><speaker>Moira</speaker><content>What does this mean?</content></utterance>
+<utterance uid="9-3"><speaker>Chase</speaker><content>It means I've got to spend more time consulting with a colleague.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>Adams</speaker><content>Ketosteroid levels are low. How can he be hyper-sexual?</content></utterance>
+<utterance uid="10-2"><speaker>House</speaker><content>He tried to tongue-kiss Park when you were closer. You think his sexuality is normal?</content></utterance>
+<utterance uid="10-3"><speaker>Chase</speaker><content>I need more help. My patient has a new symptom. Ischemic foot. Get the lecture out of your system so we can talk about my case.</content></utterance>
+<utterance uid="10-4"><speaker>House</speaker><content>Let me start with an allegory.</content></utterance>
+<utterance uid="10-5"><speaker>Park</speaker><content> Ah.</content></utterance>
+<utterance uid="10-6"><speaker>Chase</speaker><content>Okay, I'm curious.</content></utterance>
+<utterance uid="10-7"><speaker>House</speaker><content>Your overreaction to your stabbing is to blame me even as you are drawn to me. Taub's is to take moronic self-defense classes that won't defend him against anything.</content></utterance>
+<utterance uid="10-8"><speaker>Taub</speaker><content>Krav Maga. Which helped me block your shot and will continue to help me defend myself in a building full of drugged-up strangers.</content></utterance>
+<utterance uid="10-9"><speaker>House</speaker><content>Taub has to accept that by instinct and genetics he is a coward, who's better off running and hiding at the first sign of danger.</content></utterance>
+<utterance uid="10-10"><speaker>Taub</speaker><content>I've already fended off six of your blitzkriegs in a row.</content></utterance>
+<utterance uid="10-11"><speaker>House</speaker><content>And the seventh? And the eighth? And the Nth?</content></utterance>
+<utterance uid="10-12"><speaker>Chase</speaker><content>If you get him, what's that gonna prove?</content></utterance>
+<utterance uid="10-13"><speaker>House</speaker><content>That unexpected things happen. By definition, no class can teach you to expect them. Which is why Taub is idiotic to study them, and you're idiotic to attach any significance to them.</content></utterance>
+<utterance uid="10-14"><speaker>House</speaker><content> Blood clot.</content></utterance>
+<utterance uid="10-15"><speaker>Chase</speaker><content>Her D-dimer's normal.</content></utterance>
+<utterance uid="10-16"><speaker>House</speaker><content>On the other hand…</content></utterance>
+<utterance uid="10-17"><speaker>Taub</speaker><content>Yah!</content></utterance>
+<utterance uid="10-18"><speaker>Adams</speaker><content>What if he's right about the blockage but wrong about the cause? Vasospasm.</content></utterance>
+<utterance uid="10-19"><speaker>Chase</speaker><content>That explains everything but the lymph nodes. And any minor infection</content></utterance>
+<utterance uid="10-20"><speaker>House</speaker><content>Calcium channel blocker to treat. </content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>Adams</speaker><content>You okay?</content></utterance>
+<utterance uid="11-2"><speaker>Chase</speaker><content>I almost got you killed by bringing a scalpel into that room. I could feel better about that.</content></utterance>
+<utterance uid="11-3"><speaker>Adams</speaker><content>You saved my life too. I think the ledger's clear. But how can you not be traumatized?</content></utterance>
+<utterance uid="11-4"><speaker>Chase</speaker><content>Can't change what happened. Can only make better choices from here.</content></utterance>
+<utterance uid="11-5"><speaker>Adams</speaker><content>So you're Zen about it but won't let go of your anger toward House? I'm seeing a trauma counselor. I think you should too.</content></utterance>
+<utterance uid="11-6"><speaker>Chase</speaker><content>I'm okay. Just knowing you're there for me is enough. </content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>Chase</speaker><content>Convent lets you have this?</content></utterance>
+<utterance uid="12-2"><speaker>Moira</speaker><content>I borrowed it from one of the nurses. I'm still on temporary vows. It may be the last time I hear Eminem for a while.</content></utterance>
+<utterance uid="12-3"><speaker>Chase</speaker><content>You're using an iPod. But I've never seen you use rosary beads.</content></utterance>
+<utterance uid="12-4"><speaker>Chase</speaker><content>What day did Jesus die?</content></utterance>
+<utterance uid="12-5"><speaker>Moira</speaker><content>I know, one gospel says Passover; another says the day before.</content></utterance>
+<utterance uid="12-6"><speaker>Chase</speaker><content>How many times did the cock crow before Peter's third denial? Once or twice?</content></utterance>
+<utterance uid="12-7"><speaker>Moira</speaker><content>You can't argue away my faith.</content></utterance>
+<utterance uid="12-8"><speaker>Chase</speaker><content>Why? Because it's so strong even plain contradictions…</content></utterance>
+<utterance uid="12-9"><speaker>Moira</speaker><content> Because it's not that strong. I'm not saying I don't have faith. I just haven't felt the calling yet.</content></utterance>
+<utterance uid="12-10"><speaker>Chase</speaker><content>No one joins the clergy without having that epiphany. That God's love is speaking to you directly.</content></utterance>
+<utterance uid="12-11"><speaker>Moira</speaker><content>It's the silence, the contemplation, the order. I need them. Hoping everything else will come later.</content></utterance>
+<utterance uid="12-12"><speaker>Chase</speaker><content>That's not an answer. If you want silence, you can get ear plugs.</content></utterance>
+<utterance uid="12-13"><speaker>Moira</speaker><content>I tried the outside world. It wasn't enough.</content></utterance>
+<utterance uid="12-14"><speaker>Chase</speaker><content>Ever been married?</content></utterance>
+<utterance uid="12-15"><speaker>Moira</speaker><content>No.</content></utterance>
+<utterance uid="12-16"><speaker>Chase</speaker><content>No kids. You never found a career. Doesn't sound like the outside world got much of a try. What you're headed towards now, 14 hours a day in silent prayer, never having a family, never touching another human being.</content></utterance>
+<utterance uid="12-17"><speaker>Moira</speaker><content>Just because that's what you'd miss the most. The nurses talk.</content></utterance>
+<utterance uid="12-18"><speaker>Chase</speaker><content> Nothing's wrong with having fun.</content></utterance>
+<utterance uid="12-19"><speaker>Moira</speaker><content>They said you were almost killed three weeks ago. You go right back to fun?</content></utterance>
+<utterance uid="12-20"><speaker>Chase</speaker><content>Is that why you wanna be a nun? Someone broke your heart?</content></utterance>
+<utterance uid="12-21"><speaker>Moira</speaker><content>No. I'm just looking for something more.</content></utterance>
+<utterance uid="12-22"><speaker>Chase</speaker><content>So am I.</content></utterance>
+<utterance uid="12-23"><speaker>Chase</speaker><content>I'm late for work in the clinic.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>Chase</speaker><content>Really? George Washingbaum?</content></utterance>
+<utterance uid="13-2"><speaker>Taub</speaker><content>He was a character in the Flintsteins. Just hiding out till House leaves the cafeteria.</content></utterance>
+<utterance uid="13-3"><speaker>Chase</speaker><content>The self-defense classes, you think they're making any kind of difference?</content></utterance>
+<utterance uid="13-4"><speaker>Taub</speaker><content>Not as much as House's surprise attacks. He thinks three steps ahead, so I do too. Which is why you should accept his apology and come back on the team. He's annoying, he's maddening, but he makes us all better.</content></utterance>
+<utterance uid="13-5"><speaker>Chase</speaker><content> Note to self.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>Chase</speaker><content>Foot color's good. Arterial pulse is good. Capillary refill's good.</content></utterance>
+<utterance uid="14-2"><speaker>Sister Joan</speaker><content>And her shoulder pain’s all gone.</content></utterance>
+<utterance uid="14-3"><speaker>Chase</speaker><content>Looks like your ready to go…home.</content></utterance>
+<utterance uid="14-4"><speaker>Sister Joan</speaker><content>I’ll get the car and meet you out front. </content></utterance>
+<utterance uid="14-5"><speaker>Chase</speaker><content>I’d say I’m in the book but not the one you’ll be reading from now on.</content></utterance>
+<utterance uid="14-6"><speaker>Moira</speaker><content>Six years ago I…was a nanny in Honolulu.  For this beautiful two-year old boy. I loved him, probably spent more time with him than his own parents. One day I was in the park talking with another nanny. He wandered out of the sandbox, into the street, into the path of a moving car.</content></utterance>
+<utterance uid="14-7"><speaker>Chase</speaker><content>That could have happened to anyone.</content></utterance>
+<utterance uid="14-8"><speaker>Moira</speaker><content>I don't think so. And even if it did, they'd blame themselves for the rest of their lives too.</content></utterance>
+<utterance uid="14-9"><speaker>Chase</speaker><content>You shouldn't.  You shouldn't run from what can still be a good life.</content></utterance>
+<utterance uid="14-10"><speaker>Moira</speaker><content>I'm running to God. After what happened to you, don't you wanna remake your life?</content></utterance>
+<utterance uid="14-11"><speaker>Chase</speaker><content>Not by hiding myself away. I hope it works out for you.</content></utterance>
+<utterance uid="14-12"><speaker>Moira</speaker><content> It is gonna be hard. Not touching anyone.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>House</speaker><content>Who knew mother inferior was a smoking hottie. No wonder you're playing handsies with her.</content></utterance>
+<utterance uid="15-2"><speaker>Chase</speaker><content> You think I'm hitting on a nun? Angry at God or I just need a challenge?</content></utterance>
+<utterance uid="15-3"><speaker>House</speaker><content>Or you're terrified of intimacy, which is why you're a serial slut. But right now you're grasping at an emotional life raft. Ideally someone for whom intimacy's not an option. That actually makes sense, which I can't say about anything else you've been doing.</content></utterance>
+<utterance uid="15-4"><speaker>Chase</speaker><content>I'm not emotionally involved with her. And much as I'd love to hear you contradict me, I have a 7:30 appointment to explore my intimacy issues at La Scala. </content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>Leisha</speaker><content>I'm talking to this agent. He's a bit of a sleaze. But he's really excited about representing me.</content></utterance>
+<utterance uid="16-2"><speaker>Leisha</speaker><content>Although he can't take on any new clients right now, he's trying to get me an audition for one of those online soaps. Have you ever watched one of those?  Am I boring you?</content></utterance>
+<utterance uid="16-3"><speaker>Chase</speaker><content> Unfortunately, yeah. Sorry. </content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>Moira</speaker><content>Hi.</content></utterance>
+<utterance uid="17-2"><speaker>Chase</speaker><content>You're not supposed to be here. Or anywhere.</content></utterance>
+<utterance uid="17-3"><speaker>Moira</speaker><content> You were right. I was running away.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>Chase</speaker><content>Oh, now you're shy.</content></utterance>
+<utterance uid="18-2"><speaker>Moira</speaker><content>It's brighter in the morning.</content></utterance>
+<utterance uid="18-3"><speaker>Chase</speaker><content>So, are we gonna spend the rest of eternity in a lake of fire while pointy-tailed demons poke at us with sticks?</content></utterance>
+<utterance uid="18-4"><speaker>Moira</speaker><content>This is a little scary for me. I had a whole life planned. Not that I wasn't struggling with it. And then I met you. Don't worry, I know you're not the relationship type.</content></utterance>
+<utterance uid="18-5"><speaker>Chase</speaker><content>I'm not, not the relationship type. I was married once.</content></utterance>
+<utterance uid="18-6"><speaker>Moira</speaker><content> Relax. You're fine.</content></utterance>
+<utterance uid="18-7"><speaker>Chase</speaker><content> So what's next for you?</content></utterance>
+<utterance uid="18-8"><speaker>Moira</speaker><content>I have to find a place to live. Get my old job back. Sure, I'll feel guilty, start doubting.</content></utterance>
+<utterance uid="18-9"><speaker>Chase</speaker><content>As long as you keep dealing with your doubts in the same way then… Moira?</content></utterance>
+<utterance uid="18-10"><speaker>Moira</speaker><content>sorry, did you say something?</content></utterance>
+<utterance uid="18-11"><speaker>Chase</speaker><content> Your neck.</content></utterance>
+<utterance uid="18-12"><speaker>Moira</speaker><content>What?</content></utterance>
+<utterance uid="18-13"><speaker>Chase</speaker><content>Are your ears ringing?</content></utterance>
+<utterance uid="18-14"><speaker>Moira</speaker><content>Yeah. What does that mean?</content></utterance>
+<utterance uid="18-15"><speaker>Chase</speaker><content>We've got to get you back to the hospital right away.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>Chase</speaker><content>The artery that's bringing blood to your brain, it's coming apart. Means you could stroke. I've paged a team of our best doctors.</content></utterance>
+<utterance uid="19-2"><speaker>Moira</speaker><content>I don't have to cough as much.</content></utterance>
+<utterance uid="19-3"><speaker>Chase</speaker><content>It's clotted up.</content></utterance>
+<utterance uid="19-4"><speaker>Moira</speaker><content>Is that bad?</content></utterance>
+<utterance uid="19-5"><speaker>Chase</speaker><content>We're almost there.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>Chase</speaker><content> Get me her O-two level. What are you doing?</content></utterance>
+<utterance uid="20-2"><speaker>Park</speaker><content>I want to make sure I can position her wrist properly.</content></utterance>
+<utterance uid="20-3"><speaker>Chase</speaker><content>For what?</content></utterance>
+<utterance uid="20-4"><speaker>Park</speaker><content>A.B.G.</content></utterance>
+<utterance uid="20-5"><speaker>Chase</speaker><content>I don't need an A.B.G., just get a pulse OX.  I'll do it. Grab a consent form.  Go!  We need to operate right now, okay?</content></utterance>
+<utterance uid="20-6"><speaker>Moira</speaker><content> Good to operate.</content></utterance>
+<utterance uid="20-7"><speaker>Chase</speaker><content>Repeat this: no ifs, ands, or buts about it.</content></utterance>
+<utterance uid="20-8"><speaker>Moira</speaker><content>No about it and no ifs.</content></utterance>
+<utterance uid="20-9"><speaker>Chase</speaker><content>Get her into O.R. eleven.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>Chase</speaker><content>Carotid dissection, four-inch pulsatile mass in her neck, and some Broca's aphasia. It's got to be a clot keeping her from bleeding out.</content></utterance>
+<utterance uid="21-2"><speaker>Taub</speaker><content>Pulse?</content></utterance>
+<utterance uid="21-3"><speaker>Chase</speaker><content>Bounding, four-plus. It was a three-plus 20 minutes ago.</content></utterance>
+<utterance uid="21-4"><speaker>House</speaker><content>Twenty? Thought she just got here.  That blood looks pretty dry. Cut yourself shaving? You know, that can happen when the nun you woke up with coughs blood on you.</content></utterance>
+<utterance uid="21-5"><speaker>Taub</speaker><content>You slept with a nun?</content></utterance>
+<utterance uid="21-6"><speaker>Adams</speaker><content>Forget nun, you slept with a patient?</content></utterance>
+<utterance uid="21-7"><speaker>Chase</speaker><content>Former, to both.</content></utterance>
+<utterance uid="21-8"><speaker>House</speaker><content>Internal neck trauma, that's impressive. It's happened to me a few times.  Up high.</content></utterance>
+<utterance uid="21-9"><speaker>Nurse</speaker><content> Dr. Chase.</content></utterance>
+<utterance uid="21-10"><speaker>Chase</speaker><content>Clot’s broken. Bring her in and pack her nose. I'm gonna need number three Vicryls.  I'm gonna fix this.</content></utterance>
+<utterance uid="21-11"><speaker>Adams</speaker><content>You're not gonna operate on her.</content></utterance>
+<utterance uid="21-12"><speaker>Chase</speaker><content>Kapur and Carlyle are unavailable. Reilly's done far fewer dissections than I have.</content></utterance>
+<utterance uid="21-13"><speaker>Taub</speaker><content>He's also slept with her far fewer times than you have.</content></utterance>
+<utterance uid="21-14"><speaker>Adams</speaker><content>Your judgment's compromised.</content></utterance>
+<utterance uid="21-15"><speaker>Chase</speaker><content>I spent the night with her. Doesn't change how I make an incision.</content></utterance>
+<utterance uid="21-16"><speaker>Adams</speaker><content> Tell him!</content></utterance>
+<utterance uid="21-17"><speaker>House</speaker><content>Do the surgery.</content></utterance>
+<utterance uid="21-18"><speaker>Adams</speaker><content>You're trying to score points with him at the risk of a patient's life.</content></utterance>
+<utterance uid="21-19"><speaker>House</speaker><content>He’s the better surgeon.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>Chase</speaker><content>Vascular clamp.</content></utterance>
+<utterance uid="22-2"><speaker>Taub</speaker><content>You're not gonna put her on bypass?</content></utterance>
+<utterance uid="22-3"><speaker>Chase</speaker><content>It'd take a half hour to set up.</content></utterance>
+<utterance uid="22-4"><speaker>Adams</speaker><content>You clamp now, she could stroke out.</content></utterance>
+<utterance uid="22-5"><speaker>Chase</speaker><content>She's already got neurological symptoms. We wait 30 minutes, she'll definitely have brain damage.</content></utterance>
+<utterance uid="22-6"><speaker>Adams</speaker><content>You're trying to make sure she's either perfect or dead.</content></utterance>
+<utterance uid="22-7"><speaker>Chase</speaker><content>She's not going to die. If I get this done in five minutes, she won't stroke out.</content></utterance>
+<utterance uid="22-8"><speaker>Adams</speaker><content>You don't know that you will. And you can't know because you can't think clearly about her.</content></utterance>
+<utterance uid="22-9"><speaker>Chase</speaker><content> Vascular clamp.</content></utterance>
+<utterance uid="22-10"><speaker>Chase</speaker><content>Occlusion time 9:46 and 24 seconds. Vascular scissors.</content></utterance>
+<utterance uid="22-11"><speaker>Adams</speaker><content> We're over five minutes.</content></utterance>
+<utterance uid="22-12"><speaker>Chase</speaker><content>Ultrasound.</content></utterance>
+<utterance uid="22-13"><speaker>Chase</speaker><content>Good flow. Lighten the anesthesia.</content></utterance>
+<utterance uid="22-14"><speaker>Taub</speaker><content>You're not gonna close the wound first?</content></utterance>
+<utterance uid="22-15"><speaker>Chase</speaker><content>No.</content></utterance>
+<utterance uid="22-16"><speaker>Chase</speaker><content> Can you hear me?  Repeat this: no ifs, ands, or buts.</content></utterance>
+<utterance uid="22-17"><speaker>Moira</speaker><content>No ifs, ands, or buts. </content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>Park</speaker><content>I'm sorry about before.</content></utterance>
+<utterance uid="23-2"><speaker>Chase</speaker><content> You're scared, aren't you? That's why you wanted companionship. That's why you cried out when House shot at Taub. What exactly are you scared of? A needle stick? Some other nut pulling a scalpel?</content></utterance>
+<utterance uid="23-3"><speaker>Park</speaker><content>I'm scared of everything.</content></utterance>
+<utterance uid="23-4"><speaker>Chase</speaker><content>It sucks that there was a stabbing. But you'll get over it.</content></utterance>
+<utterance uid="23-5"><speaker>Park</speaker><content>Like you have?</content></utterance>
+<utterance uid="23-6"><speaker>Chase</speaker><content>You weren't even there.</content></utterance>
+<utterance uid="23-7"><speaker>Park</speaker><content>I know, I… I left the room. It was pure luck.</content></utterance>
+<utterance uid="23-8"><speaker>Chase</speaker><content>I was in the room. That was pure luck too. I get that you're scared and guilty. You're still a doctor. I don't have time to teach you to act like one.</content></utterance>
+<utterance uid="23-9"><speaker>Chase</speaker><content>We removed the artery. I found nodules.</content></utterance>
+<utterance uid="23-10"><speaker>House</speaker><content>Could mean lupus.</content></utterance>
+<utterance uid="23-11"><speaker>Chase</speaker><content>Negative A.N.A.  Where are you going?</content></utterance>
+<utterance uid="23-12"><speaker>House</speaker><content>Great thing about assigning Taub fraudulent lab work is you know exactly where he's gonna end up. Great thing about assigning Taub obviously fraudulent lab work is you get to watch his inner paranoiac at work.</content></utterance>
+<utterance uid="23-13"><speaker>House</speaker><content>And then…</content></utterance>
+<utterance uid="23-14"><speaker>House</speaker><content>Two to the head.</content></utterance>
+<utterance uid="23-15"><speaker>Chase</speaker><content>Can we talk about my patient?</content></utterance>
+<utterance uid="23-16"><speaker>House</speaker><content>Quite a journey. Starts with a surgical tool in your heart and ends with a surgeon's tool in a nun. What's the plan?</content></utterance>
+<utterance uid="23-17"><speaker>Chase</speaker><content>Plan's to cure her.</content></utterance>
+<utterance uid="23-18"><speaker>House</speaker><content>Well, if it's not meaningless sex, kinda screams out for an end game. You're the dog that's chasing the popemobile. You sure you want…</content></utterance>
+<utterance uid="23-19"><speaker>House</speaker><content>Oh, my God. Taub is interrogating the janitor. He must think that I hired him to attack… actually, why didn't I do that? Plaques could be confused for nodules. Which would mean…</content></utterance>
+<utterance uid="23-20"><speaker>Chase</speaker><content>Syphilis.</content></utterance>
+<utterance uid="23-21"><speaker>House</speaker><content>Explains the shoulder and foot involvement. Hope you practiced immaculate contraception.</content></utterance>
+<utterance uid="23-22"><speaker>House</speaker><content>Lock and load.</content></utterance>
+<utterance uid="23-23"><speaker>House</speaker><content> Boo-yah!</content></utterance>
+<utterance uid="23-24"><speaker>House</speaker><content> Pfft!</content></utterance>
+<utterance uid="23-25"><speaker>Taub</speaker><content> Boo-yah to you too.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>Moira</speaker><content>But I hadn't had sex in years.</content></utterance>
+<utterance uid="24-2"><speaker>Chase</speaker><content>Tertiary syphilis means you've had the disease for at least that long.</content></utterance>
+<utterance uid="24-3"><speaker>Moira</speaker><content>Does that mean you also have it?</content></utterance>
+<utterance uid="24-4"><speaker>Chase</speaker><content>Probably not contagious at this point.</content></utterance>
+<utterance uid="24-5"><speaker>Moira</speaker><content>Can it cause hallucinations?</content></utterance>
+<utterance uid="24-6"><speaker>Chase</speaker><content>It's unlikely. Why?</content></utterance>
+<utterance uid="24-7"><speaker>Moira</speaker><content>While I was on the operating table, it didn't feel like a dream. I saw the boy who I was caring for. The one who died. He walked right up to me.</content></utterance>
+<utterance uid="24-8"><speaker>Chase</speaker><content>What did he say?</content></utterance>
+<utterance uid="24-9"><speaker>Moira</speaker><content>He just held my hand. It was like he forgave me. Do you think that's crazy?</content></utterance>
+<utterance uid="24-10"><speaker>Chase</speaker><content>I think it should give you solace, help you to move on.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>Foreman</speaker><content>You slept with your patient? You're off the case.</content></utterance>
+<utterance uid="25-2"><speaker>Chase</speaker><content>I saved her from brain damage. You think my judgment's the least bit compromised?</content></utterance>
+<utterance uid="25-3"><speaker>Foreman</speaker><content>She's still sick. If she dies, we'll be in the middle of a brand-new investigation.</content></utterance>
+<utterance uid="25-4"><speaker>Chase</speaker><content>This is about you covering your own ass.</content></utterance>
+<utterance uid="25-5"><speaker>Foreman</speaker><content>I gave you time, leeway, and you decided to do whatever the hell you wanted.</content></utterance>
+<utterance uid="25-6"><speaker>Chase</speaker><content>House can dance all over the rules, gets me knifed, and he gets a pass. I break a rule, no one gets hurt, but you kick me off my own case?</content></utterance>
+<utterance uid="25-7"><speaker>Foreman</speaker><content>Unfortunately, yes. </content></utterance>
+<utterance uid="25-8"><speaker>Adams</speaker><content>I'm sorry.</content></utterance>
+<utterance uid="25-9"><speaker>Chase</speaker><content> I took that scalpel for you.</content></utterance>
+<utterance uid="25-10"><speaker>Adams</speaker><content>That's why I did this. Three weeks ago, you never would have slept with a patient. And you never would have operated on her after. You need help.</content></utterance>
+<utterance uid="25-11"><speaker>Chase</speaker><content>I need to get away from House and everything that reminds me of him.</content></utterance>
+<utterance uid="25-12"><speaker>Adams</speaker><content>By breaking the rules, not caring what anyone else thinks. You're gonna get away from him by turning into him? </content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>Moira</speaker><content>It hurts.</content></utterance>
+<utterance uid="26-2"><speaker>Adams</speaker><content>Right upper quadrant, pain and distension.</content></utterance>
+<utterance uid="26-3"><speaker>Moira</speaker><content>What's wrong with my stomach?</content></utterance>
+<utterance uid="26-4"><speaker>Adams</speaker><content> Nothing. This is your liver.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>Park</speaker><content>The liver failure could be from intraoperative hypotension.</content></utterance>
+<utterance uid="27-2"><speaker>Chase</speaker><content>Checked the anesthesia sheet, pressure was fine throughout. Thrombus?</content></utterance>
+<utterance uid="27-3"><speaker>House</speaker><content>That voice in the hall that none of us have any reason to be listening to is, not surprisingly, wrong. Abdominal ultrasound was negative.</content></utterance>
+<utterance uid="27-4"><speaker>Adams</speaker><content>Then we have to assume liver failure is just another symptom of whatever she's got.</content></utterance>
+<utterance uid="27-5"><speaker>Taub</speaker><content>Trousseau's syndrome could send clots, cause the ischemic foot. Add the enlarged lymph node, macrocytosis.</content></utterance>
+<utterance uid="27-6"><speaker>Park</speaker><content>Disseminated T-cell lymphoma.</content></utterance>
+<utterance uid="27-7"><speaker>Chase</speaker><content>Wilson said it wasn't cancer.</content></utterance>
+<utterance uid="27-8"><speaker>House</speaker><content>Wilson says it's not breast cancer.</content></utterance>
+<utterance uid="27-9"><speaker>Chase</speaker><content>Sarcoidosis.</content></utterance>
+<utterance uid="27-10"><speaker>Adams</speaker><content>Normal ace level.</content></utterance>
+<utterance uid="27-11"><speaker>Chase</speaker><content>Highly insensitive for sarcoid.</content></utterance>
+<utterance uid="27-12"><speaker>Taub</speaker><content>Negative chest X-rays aren't.</content></utterance>
+<utterance uid="27-13"><speaker>Chase</speaker><content>Then we've got to biopsy.</content></utterance>
+<utterance uid="27-14"><speaker>House</speaker><content>Yeah, Foreman's clearly wrong. You're clearly not grasping at straws 'cause you're clearly not emotionally involved. I know you want to believe that this is something we can cure. It's not. I'm sorry. </content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>Moira</speaker><content>How soon will they know if it's cancer?</content></utterance>
+<utterance uid="28-2"><speaker>Chase</speaker><content>Within hours.</content></utterance>
+<utterance uid="28-3"><speaker>Moira</speaker><content>And if it is?</content></utterance>
+<utterance uid="28-4"><speaker>Chase</speaker><content>There's always chemo.</content></utterance>
+<utterance uid="28-5"><speaker>Moira</speaker><content>You say that like it's not gonna work.</content></utterance>
+<utterance uid="28-6"><speaker>Chase</speaker><content>Could extend your life.</content></utterance>
+<utterance uid="28-7"><speaker>Moira</speaker><content>Years?</content></utterance>
+<utterance uid="28-8"><speaker>Chase</speaker><content>I'll be here as much as you need.</content></utterance>
+<utterance uid="28-9"><speaker>Moira</speaker><content>You still never told me why you left the seminary.</content></utterance>
+<utterance uid="28-10"><speaker>Chase</speaker><content>Mary Knoller. Wife of the groundskeeper. He caught me with her, got me with a rake. Those scars on my ass you may have noticed.</content></utterance>
+<utterance uid="28-11"><speaker>Moira</speaker><content> Why didn't you tell me that before?</content></utterance>
+<utterance uid="28-12"><speaker>Chase</speaker><content>Because it was so shallow. I wasn't exactly wrestling with great theological questions.</content></utterance>
+<utterance uid="28-13"><speaker>Moira</speaker><content>I don't believe that. You don't sleep with the groundskeeper's wife, not unless you're struggling with whether you belong there.</content></utterance>
+<utterance uid="28-14"><speaker>Chase</speaker><content>I always wanted to believe. It would have made my life a lot easier. It never took.</content></utterance>
+<utterance uid="28-15"><speaker>Moira</speaker><content> Doesn't… mean… it's too late.</content></utterance>
+<utterance uid="28-16"><speaker>Chase</speaker><content>Are you having trouble talking, like before?</content></utterance>
+<utterance uid="28-17"><speaker>Moira</speaker><content>I can get the words out. Just feels heavy when I do.</content></utterance>
+<utterance uid="28-18"><speaker>Chase</speaker><content>Where?</content></utterance>
+<utterance uid="28-19"><speaker>Moira</speaker><content> Wherever my chewing muscles are.</content></utterance>
+<utterance uid="28-20"><speaker>Chase</speaker><content>I'll be right back.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>Chase</speaker><content> House finally got you.</content></utterance>
+<utterance uid="29-2"><speaker>Taub</speaker><content>He tried but…</content></utterance>
+<utterance uid="29-3"><speaker>Chase</speaker><content>I gotta go.</content></utterance>
+<utterance uid="29-4"><speaker>Taub</speaker><content>You shoulda seen it. It was perfect.</content></utterance>
+<utterance uid="29-5"><speaker>Chase</speaker><content>She has jaw claudication. If you only heard claudication and carotid dissection…</content></utterance>
+<utterance uid="29-6"><speaker>House</speaker><content>I'd say giant cell arteritis. And I'd tell your former teammates to put her on steroids.</content></utterance>
+<utterance uid="29-7"><speaker>Chase</speaker><content>She's gonna live.</content></utterance>
+<utterance uid="29-8"><speaker>House</speaker><content>Yeah. And then what? </content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>Moira</speaker><content>They say my liver function's better. That I can get out of here soon.</content></utterance>
+<utterance uid="30-2"><speaker>Chase</speaker><content> And when you do, I'm gonna take you to Puerto Escondido.</content></utterance>
+<utterance uid="30-3"><speaker>Moira</speaker><content>Mexico?</content></utterance>
+<utterance uid="30-4"><speaker>Chase</speaker><content>The Mexican pipeline. Early May is when the surf really picks up but… what's wrong?</content></utterance>
+<utterance uid="30-5"><speaker>Moira</speaker><content>I spoke to the prioress.</content></utterance>
+<utterance uid="30-6"><speaker>Chase</speaker><content>You're going back?</content></utterance>
+<utterance uid="30-7"><speaker>Moira</speaker><content>I felt the calling.</content></utterance>
+<utterance uid="30-8"><speaker>Chase</speaker><content>When you saw the boy.</content></utterance>
+<utterance uid="30-9"><speaker>Moira</speaker><content>I felt God's love, his grace. I've been waiting my entire life for that.</content></utterance>
+<utterance uid="30-10"><speaker>Chase</speaker><content>It's not real.</content></utterance>
+<utterance uid="30-11"><speaker>Moira</speaker><content>I know you didn't feel anything when you almost died. I did.</content></utterance>
+<utterance uid="30-12"><speaker>Chase</speaker><content>You felt oxygen depravation. You felt your brain releasing noradrenaline.</content></utterance>
+<utterance uid="30-13"><speaker>Moira</speaker><content>You didn't say that before.</content></utterance>
+<utterance uid="30-14"><speaker>Chase</speaker><content>I wanted you to move on with your life. I wanted to reassure you. I wanted you to feel better.</content></utterance>
+<utterance uid="30-15"><speaker>Moira</speaker><content>And now you don't?</content></utterance>
+<utterance uid="30-16"><speaker>Chase</speaker><content>Now… I think I love you.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>House</speaker><content> "Noradrenaline and near-death experiences." Oh, dear. You saw God?</content></utterance>
+<utterance uid="31-2"><speaker>Chase</speaker><content>She did. She wants to go back to the monastery.</content></utterance>
+<utterance uid="31-3"><speaker>House</speaker><content>So now you're preparing a Powerpoint presentation to keep her in your garden of earthly delights. You're an idiot.</content></utterance>
+<utterance uid="31-4"><speaker>Chase</speaker><content>Because I found someone I love?</content></utterance>
+<utterance uid="31-5"><speaker>House</speaker><content>Because you're an idiot.  At least you two have that in common.</content></utterance>
+<utterance uid="31-6"><speaker>Chase</speaker><content>Her feelings are based on a chemical process. They're gonna wear off.</content></utterance>
+<utterance uid="31-7"><speaker>House</speaker><content>You just slept with her. Your brain is exploding with oxytocin. You think that's gonna last through the ages?</content></utterance>
+<utterance uid="31-8"><speaker>Chase</speaker><content> She's throwing away her life because of blind faith.</content></utterance>
+<utterance uid="31-9"><speaker>House</speaker><content>So are you! She's found something she wants to build her life around. It's a total illusion, but apparently she'll take a little ignorance with her bliss. And you want to take that away?</content></utterance>
+<utterance uid="31-10"><speaker>Chase</speaker><content>How many times have you thrown the truth in people's faces?</content></utterance>
+<utterance uid="31-11"><speaker>House</speaker><content>Because it's the truth, not because we're gonna live happily ever after.</content></utterance>
+<utterance uid="31-12"><speaker>House</speaker><content>Either your relationship just blows up like every other non-magical romance, or she stays with you but blames you for stripping all the meaning out of her life.</content></utterance>
+<utterance uid="31-13"><speaker>Chase</speaker><content> This has nothing to do with the truth. You don't like that I'm reassessing my life, that I want to change it, that I can.</content></utterance>
+<utterance uid="31-14"><speaker>House</speaker><content>Anyone can screw up a life. I never said that wasn't possible.</content></utterance>
+<utterance uid="31-15"><speaker>Chase</speaker><content>You're incapable of human connection, so you want everyone to be like you.</content></utterance>
+<utterance uid="31-16"><speaker>House</speaker><content>If I wanted you to be like me… I would be urging you to make a stupid, stubborn decision that blows up your life and leaves you lonely and miserable. You reassess your life when you've made mistakes. You didn't. You just got stabbed. </content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>Chase</speaker><content>Don't look at the book.</content></utterance>
+<utterance uid="32-2"><speaker>Park</speaker><content>I haven't done a jugular line since my residency. I don't want to needle the carotid.</content></utterance>
+<utterance uid="32-3"><speaker>Chase</speaker><content>What's the first step?</content></utterance>
+<utterance uid="32-4"><speaker>Park</speaker><content>Palpate the S.C.M.</content></utterance>
+<utterance uid="32-5"><speaker>Chase</speaker><content>Where?</content></utterance>
+<utterance uid="32-6"><speaker>Park</speaker><content>Middle third of the neck.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>Chase</speaker><content>I'm happy I knew you.</content></utterance>
+<utterance uid="33-2"><speaker>Moira</speaker><content>So am I.</content></utterance>
+<utterance uid="33-3"><speaker>Moira</speaker><content>Robert.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>Foreman</speaker><content>40 year-old water treatment worker with pyrexia and double vision.</content></utterance>
+<utterance uid="34-2"><speaker>House</speaker><content>… You said he worked in a sewer…</content></utterance>
+<utterance uid="34-3"><speaker>Taub</speaker><content>Abscess?</content></utterance>
+<utterance uid="34-4"><speaker>Adams</speaker><content>Would have seen it on the MRI.</content></utterance>
+<utterance uid="34-5"><speaker>Chase</speaker><content>Diphtheria paralyzing the ocular muscles?</content></utterance>
+<utterance uid="34-6"><speaker>Park</speaker><content>No, paralysis was first. Aneurysm?</content></utterance>
+<utterance uid="34-7"><speaker>Taub</speaker><content>Not with this fever. Maybe we're thinking about this the wrong way. Retro-ocular infection?</content></utterance>
+<utterance uid="34-8"><speaker>Park</speaker><content>With no local symptoms?</content></utterance>
+</scene>
+</script>

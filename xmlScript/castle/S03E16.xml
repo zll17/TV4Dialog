@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>CASTLE</speaker><content>You can't just-- You can't! Just-- At least tell me how serious it is!</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>BECKETT</speaker><content>What's with the stripped cab?</content></utterance>
+<utterance uid="2-2"><speaker>ESPOSITO</speaker><content>Security guard wondered the same thing. That's when he came across the body.</content></utterance>
+<utterance uid="2-3"><speaker>BECKETT</speaker><content>Who's our victim?</content></utterance>
+<utterance uid="2-4"><speaker>ESPOSITO</speaker><content>Amir Alhabi, taxi driver.</content></utterance>
+<utterance uid="2-5"><speaker>BECKETT</speaker><content>All right, contact auto theft. Have them on the lookout for these stolen car parts.</content></utterance>
+<utterance uid="2-6"><speaker>ESPOSITO</speaker><content>Already done.</content></utterance>
+<utterance uid="2-7"><speaker>BECKETT</speaker><content>Was there money on the body?</content></utterance>
+<utterance uid="2-8"><speaker>ESPOSITO</speaker><content>Not on the body, not in the cab. Everything points to him being popped for cash and car parts.</content></utterance>
+<utterance uid="2-9"><speaker>LANIE</speaker><content>Not everything, baby.</content></utterance>
+<utterance uid="2-10"><speaker>BECKETT</speaker><content>Did you just call him baby?</content></utterance>
+<utterance uid="2-11"><speaker>LANIE</speaker><content>Ooh. Did I?</content></utterance>
+<utterance uid="2-12"><speaker>CASTLE</speaker><content>You did.</content></utterance>
+<utterance uid="2-13"><speaker>BECKETT</speaker><content>Anyway, you found something unusual?</content></utterance>
+<utterance uid="2-14"><speaker>LANIE</speaker><content>Not at first. Time of death fits a robbery. He was killed at 11:15.</content></utterance>
+<utterance uid="2-15"><speaker>CASTLE</speaker><content>So specific. I'm impressed.</content></utterance>
+<utterance uid="2-16"><speaker>LANIE</speaker><content>His watch broke when he fell.</content></utterance>
+<utterance uid="2-17"><speaker>CASTLE</speaker><content>Ah, you shouldn't've told me. Less impressed.</content></utterance>
+<utterance uid="2-18"><speaker>LANIE</speaker><content>Cause of death fits, too. Looks like a 9mm to the noggin. But there's something that doesn't fit. His fingers were broken one at a time.</content></utterance>
+<utterance uid="2-19"><speaker>CASTLE</speaker><content>Cabbies sometimes hide their money. Maybe they tortured him to tell them where the money was.</content></utterance>
+<utterance uid="2-20"><speaker>BECKETT</speaker><content>All right, let's find out where he was driving and who he picked up before he wound up here.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>RYAN</speaker><content>Amir Alhabi, a real immigrant success story. Came over from Syria seven years ago, became a citizen last June. According to the taxi and limo commission, he owned his cab and medallion with a cousin, Jamal.</content></utterance>
+<utterance uid="3-2"><speaker>BECKETT</speaker><content>Um, right. Well, TLC would know where Amir was, right? They track cabs?</content></utterance>
+<utterance uid="3-3"><speaker>RYAN</speaker><content>Only when the meter is running. Amir shut his off at 10:02 p.m.</content></utterance>
+<utterance uid="3-4"><speaker>CASTLE</speaker><content>So, there's no way to tell where he went before he died.</content></utterance>
+<utterance uid="3-5"><speaker>RYAN</speaker><content>Actually, there is. Amir subscribed to a GPS tracking service. It helps cabbies map out the best place to troll for fares, stuff like that.</content></utterance>
+<utterance uid="3-6"><speaker>RYAN</speaker><content>Anyway, after Amir shut off his meter, he drove up to Washington Heights. He parked in the 1600 block of St. Nicholas Avenue for six minutes, motor running, and then he drove to the warehouse.</content></utterance>
+<utterance uid="3-7"><speaker>BECKETT</speaker><content>Okay, Washington Heights is a shady place that time of night and if he turned off his meter, he wasn't looking for a fare.</content></utterance>
+<utterance uid="3-8"><speaker>CASTLE</speaker><content>Maybe he was carjacked and forced to drive to that warehouse.</content></utterance>
+<utterance uid="3-9"><speaker>BECKETT</speaker><content>All right, have unis canvass the area. See if anyone remembers seeing him. What about his last phone call?</content></utterance>
+<utterance uid="3-10"><speaker>RYAN</speaker><content>10:01 to his wife, Nazihah Alhabi.</content></utterance>
+<utterance uid="3-11"><speaker>BECKETT</speaker><content>Okay. Let's go.</content></utterance>
+<utterance uid="3-12"><speaker>RYAN</speaker><content>Actually, there was one more thing on the phone. Amir opened a notebook application and he, uh, wrote down this.</content></utterance>
+<utterance uid="3-13"><speaker>CASTLE</speaker><content>Uh, C4121652. And it was written down just about an hour before he died.</content></utterance>
+<utterance uid="3-14"><speaker>RYAN</speaker><content>And it's not a license tag.</content></utterance>
+<utterance uid="3-15"><speaker>BECKETT</speaker><content>All right, see if you can figure it out.</content></utterance>
+<utterance uid="3-16"><speaker>CASTLE</speaker><content>I got it. Seven digits. It's a phone number. C is the initial of the person to whom it belongs.</content></utterance>
+<utterance uid="3-17"><speaker>RYAN</speaker><content>I already tried that.</content></utterance>
+<utterance uid="3-18"><speaker>CASTLE</speaker><content>With all the New York area codes?</content></utterance>
+<utterance uid="3-19"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+<utterance uid="3-20"><speaker>CASTLE</speaker><content>Intriguing. Maybe--</content></utterance>
+<utterance uid="3-21"><speaker>BECKETT</speaker><content>Castle!</content></utterance>
+<utterance uid="3-22"><speaker>CASTLE</speaker><content>Coming.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>BECKETT</speaker><content>Mrs. Alhabi, we understand that Amir called you at ten. What did the two of you talk about?</content></utterance>
+<utterance uid="4-2"><speaker>NAZIHAH ALHABI</speaker><content>Just that he'd be late. The plays were getting out on Broadway and he wanted to pick up more fares.</content></utterance>
+<utterance uid="4-3"><speaker>BECKETT</speaker><content>Actually, he didn't do that. He turned his meter off and he went up to Washington Heights. That part of town is known for drug dealing and prostitution.</content></utterance>
+<utterance uid="4-4"><speaker>NAZIHAH ALHABI</speaker><content>No. He would never do such things.</content></utterance>
+<utterance uid="4-5"><speaker>NAZIHAH ALHABI</speaker><content>Jamal, thank you.</content></utterance>
+<utterance uid="4-6"><speaker>CASTLE</speaker><content>Uh, there was annotation on Amir's phone. Do you have any idea what this is?</content></utterance>
+<utterance uid="4-7"><speaker>JAMAL ALHABI</speaker><content>C4121652. No, I--I thought that this was a robbery, that he was robbed.</content></utterance>
+<utterance uid="4-8"><speaker>BECKETT</speaker><content>It was. It's just, any minor detail might be relevant. How did he seem lately?</content></utterance>
+<utterance uid="4-9"><speaker>NAZIHAH ALHABI</speaker><content>Worried about money. Mollica, our daughter, she needed surgery. It's been very hard.  She'll never know her father. Please excuse me.</content></utterance>
+<utterance uid="4-10"><speaker>BECKETT</speaker><content>Jamal, you and Amir were business partners?</content></utterance>
+<utterance uid="4-11"><speaker>BECKETT</speaker><content>How was the business doing?</content></utterance>
+<utterance uid="4-12"><speaker>JAMAL ALHABI</speaker><content>You don't get rich driving a cab, but we made money. Amir drove and we rented shifts to other drivers.</content></utterance>
+<utterance uid="4-13"><speaker>BECKETT</speaker><content>And who were they?</content></utterance>
+<utterance uid="4-14"><speaker>JAMAL ALHABI</speaker><content>Uh, Kevin McCann and, uh, Dmitri Voldov.</content></utterance>
+<utterance uid="4-15"><speaker>CASTLE</speaker><content>So, you didn't drive the cab?</content></utterance>
+<utterance uid="4-16"><speaker>JAMAL ALHABI</speaker><content>For me the taxi medallion was an investment. I just started a new business, a moving company.</content></utterance>
+<utterance uid="4-17"><speaker>CASTLE</speaker><content>TLC doesn't issue a lot of medallions. Would've been worth a small fortune. So, who inherits Amir's share?</content></utterance>
+<utterance uid="4-18"><speaker>JAMAL ALHABI</speaker><content>Nazihah will. She'll need it.</content></utterance>
+<utterance uid="4-19"><speaker>BECKETT</speaker><content>Excuse me.  Beckett.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>ESPOSITO</speaker><content>Auto Theft got a hit on the stolen car parts. Guy named Leman Jones was selling them at a chop shop. VIN number on the parts matches our cab.</content></utterance>
+<utterance uid="5-2"><speaker>BECKETT</speaker><content>Where's Jones now?</content></utterance>
+<utterance uid="5-3"><speaker>ESPOSITO</speaker><content>Interrogation.</content></utterance>
+<utterance uid="5-4"><speaker>LEMAN JONES</speaker><content>I found those car parts.</content></utterance>
+<utterance uid="5-5"><speaker>BECKETT</speaker><content>On the car that you stripped. We have a witness who places you at the scene. So, please, just stop with the lying.</content></utterance>
+<utterance uid="5-6"><speaker>LEMAN JONES</speaker><content>A witness? Okay, I stripped that taxi. It's what I do.</content></utterance>
+<utterance uid="5-7"><speaker>BECKETT</speaker><content>After you killed the driver.</content></utterance>
+<utterance uid="5-8"><speaker>LEMAN JONES</speaker><content>After I what? No. I didn't kill any driver, 'cause there was no driver.</content></utterance>
+<utterance uid="5-9"><speaker>CASTLE</speaker><content>He was left in the warehouse.</content></utterance>
+<utterance uid="5-10"><speaker>BECKETT</speaker><content>Robbed and shot in the head.</content></utterance>
+<utterance uid="5-11"><speaker>LEMAN JONES</speaker><content>Well, not by me. Okay? I was cruising and I saw the cab sitting empty, and I figure, no sense in letting good parts go to waste.</content></utterance>
+<utterance uid="5-12"><speaker>BECKETT</speaker><content>What time was that?</content></utterance>
+<utterance uid="5-13"><speaker>LEMAN JONES</speaker><content>I don't know. About 11:15 probably.</content></utterance>
+<utterance uid="5-14"><speaker>BECKETT</speaker><content>Oh!</content></utterance>
+<utterance uid="5-15"><speaker>CASTLE</speaker><content>Well, there you go, that's right when he died.</content></utterance>
+<utterance uid="5-16"><speaker>LEMAN JONES</speaker><content>Look, no, I don't hurt people! I'm just a car guy! Your witness must've done it. That's it. And I was just playing innocent bystander or something.</content></utterance>
+<utterance uid="5-17"><speaker>BECKETT</speaker><content>There was no witness.</content></utterance>
+<utterance uid="5-18"><speaker>LEMAN JONES</speaker><content>What do you mean?</content></utterance>
+<utterance uid="5-19"><speaker>BECKETT</speaker><content>I was bluffing.</content></utterance>
+<utterance uid="5-20"><speaker>LEMAN JONES</speaker><content>Bluffing?</content></utterance>
+<utterance uid="5-21"><speaker>BECKETT</speaker><content>Yes.</content></utterance>
+<utterance uid="5-22"><speaker>LEMAN JONES</speaker><content>No!</content></utterance>
+<utterance uid="5-23"><speaker>CASTLE</speaker><content>Yeah, she's allowed to do that. I'm surprised you don't know that.</content></utterance>
+<utterance uid="5-24"><speaker>LEMAN JONES</speaker><content>No! I mean, there was a guy there! I saw him!</content></utterance>
+<utterance uid="5-25"><speaker>BECKETT</speaker><content>What guy? Describe him.</content></utterance>
+<utterance uid="5-26"><speaker>LEMAN JONES</speaker><content>I didn't get a clear look. He ran off when I pulled up. But he was there. He was there looking for something in the car.</content></utterance>
+<utterance uid="5-27"><speaker>CASTLE</speaker><content>What makes you say that?</content></utterance>
+<utterance uid="5-28"><speaker>LEMAN JONES</speaker><content>Because he did a number on the interior. He tore up the upholstery.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>ESPOSITO</speaker><content>Think he's telling the truth?</content></utterance>
+<utterance uid="6-2"><speaker>CASTLE</speaker><content>That guy does not have the improv skills to make up a lie like that.</content></utterance>
+<utterance uid="6-3"><speaker>BECKETT</speaker><content>Have CSU check the car for signs that someone else tampered with it.</content></utterance>
+<utterance uid="6-4"><speaker>ESPOSITO</speaker><content>You got it.</content></utterance>
+<utterance uid="6-5"><speaker>BECKETT</speaker><content>Yeah, I... Sorry, you guys. I gotta get this.</content></utterance>
+<utterance uid="6-6"><speaker>BECKETT</speaker><content>Not now, Ryan.</content></utterance>
+<utterance uid="6-7"><speaker>CASTLE</speaker><content>What's going on with her?</content></utterance>
+<utterance uid="6-8"><speaker>ESPOSITO</speaker><content>You know Beckett. She plays it close to the vest.</content></utterance>
+<utterance uid="6-9"><speaker>RYAN</speaker><content>So, I, uh, spoke to one of the drivers who rents a shift with Amir's cab.</content></utterance>
+<utterance uid="6-10"><speaker>CASTLE</speaker><content>Kevin McCann?</content></utterance>
+<utterance uid="6-11"><speaker>RYAN</speaker><content>Uh, no. The other one. Dmitri Voldov. He alibied out, but he had lots to say about McCann. Him and Amir got in a major fight two days ago.</content></utterance>
+<utterance uid="6-12"><speaker>CASTLE</speaker><content>About what?</content></utterance>
+<utterance uid="6-13"><speaker>RYAN</speaker><content>Well, Dmitri didn't know, but Amir told him he was gonna fire McCann.</content></utterance>
+<utterance uid="6-14"><speaker>CASTLE</speaker><content>And where's McCann now?</content></utterance>
+<utterance uid="6-15"><speaker>RYAN</speaker><content>Renting a shift at Allied Taxi.</content></utterance>
+<utterance uid="6-16"><speaker>CASTLE</speaker><content>So, I'll-- I'll tell Beckett then.</content></utterance>
+<utterance uid="6-17"><speaker>RYAN</speaker><content>Could you? That'd be best.</content></utterance>
+<utterance uid="6-18"><speaker>CASTLE</speaker><content>Yeah.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>KEVIN MCCANN</speaker><content>Amir and I had words. No law against that, right?</content></utterance>
+<utterance uid="7-2"><speaker>BECKETT</speaker><content>Where were you last night at 11:15?</content></utterance>
+<utterance uid="7-3"><speaker>KEVIN MCCANN</speaker><content>In this cab driving a drunk bond trader to the Upper West, why?</content></utterance>
+<utterance uid="7-4"><speaker>BECKETT</speaker><content>Well, because that's when he was murdered.</content></utterance>
+<utterance uid="7-5"><speaker>KEVIN MCCANN</speaker><content>You're kidding me. Look, I didn't lay a hand on that guy.</content></utterance>
+<utterance uid="7-6"><speaker>CASTLE</speaker><content>Why did you and he fight two days ago?</content></utterance>
+<utterance uid="7-7"><speaker>KEVIN MCCANN</speaker><content>Because he was raping me on rent. Look, the guy could afford it, he was flashing a roll that could choke a horse. Five grand easy.</content></utterance>
+<utterance uid="7-8"><speaker>BECKETT</speaker><content>Wait, was he known for carrying around that much money?</content></utterance>
+<utterance uid="7-9"><speaker>KEVIN MCCANN</speaker><content>First I saw of it. Look, um, are we done here? Because my meter's running.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>CASTLE</speaker><content>If Amir was struggling to pay medical bills, what was he doing with that much cash?</content></utterance>
+<utterance uid="8-2"><speaker>BECKETT</speaker><content>It's Esposito. He needs us back at the crime scene ASAP.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>ESPOSITO</speaker><content>Remember Leman Jones said that some other dude messed with the cab?</content></utterance>
+<utterance uid="9-2"><speaker>BECKETT</speaker><content>Uh-huh.</content></utterance>
+<utterance uid="9-3"><speaker>ESPOSITO</speaker><content>Well, CSU just figured out why.</content></utterance>
+<utterance uid="9-4"><speaker>BECKETT</speaker><content>The car had cameras.</content></utterance>
+<utterance uid="9-5"><speaker>ESPOSITO</speaker><content>Pinhole cameras. Microphones, too.</content></utterance>
+<utterance uid="9-6"><speaker>CASTLE</speaker><content>Great. All we have to do is rewind to last night, see who was after him, case closed.</content></utterance>
+<utterance uid="9-7"><speaker>ESPOSITO</speaker><content>We can't. They ripped out the hard drives with all the video data.</content></utterance>
+<utterance uid="9-8"><speaker>BECKETT</speaker><content>What the hell's going on here?</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>CASTLE</speaker><content>Strange thing is, Amir's wife, his cousin, other drivers, none of them knew that he'd installed those cameras.</content></utterance>
+<utterance uid="10-2"><speaker>ALEXIS</speaker><content>Maybe Amir was doing a reality show.</content></utterance>
+<utterance uid="10-3"><speaker>CASTLE</speaker><content>See, I thought that, too. But turns out no. And they weren't installed by law enforcement either.</content></utterance>
+<utterance uid="10-4"><speaker>ALEXIS</speaker><content>You think someone was spying on him.</content></utterance>
+<utterance uid="10-5"><speaker>CASTLE</speaker><content>Or his passengers. Or both. Maybe it's like in The Conversation and he overheard a murder plot. Whatever it is, it's juicy.</content></utterance>
+<utterance uid="10-6"><speaker>MARTHA</speaker><content>Have you, uh-- have you talked to your father about our little trip?</content></utterance>
+<utterance uid="10-7"><speaker>ALEXIS</speaker><content>Not yet.</content></utterance>
+<utterance uid="10-8"><speaker>MARTHA</speaker><content>Oh, what are you waiting for? I have scored two incredibly hard to get spots at the Oasis of Serenity.</content></utterance>
+<utterance uid="10-9"><speaker>CASTLE</speaker><content>That's fantastic. What is that?</content></utterance>
+<utterance uid="10-10"><speaker>MARTHA</speaker><content>You haven't heard of the Serenity?</content></utterance>
+<utterance uid="10-11"><speaker>ALEXIS</speaker><content>It's a spiritual retreat.</content></utterance>
+<utterance uid="10-12"><speaker>MARTHA</speaker><content>Oh, it's nestled in the Catskills. It's a sanctuary, a place for reflection, getting in touch with your inner self.</content></utterance>
+<utterance uid="10-13"><speaker>CASTLE</speaker><content>Well, in-- in your case, is that wise?</content></utterance>
+<utterance uid="10-14"><speaker>ALEXIS</speaker><content>Gram wants to shed her ego in preparation for teaching her acting classes.</content></utterance>
+<utterance uid="10-15"><speaker>MARTHA</speaker><content>Yes. And who better to do that with than Alexis? We will stay in luxury yurts. We will have meditation classes, yoga classes. We go tomorrow night. That is, if you will allow her.</content></utterance>
+<utterance uid="10-16"><speaker>CASTLE</speaker><content>Well, I suppose...</content></utterance>
+<utterance uid="10-17"><speaker>ALEXIS</speaker><content>Physics.</content></utterance>
+<utterance uid="10-18"><speaker>CASTLE</speaker><content>Fizzy...physic--</content></utterance>
+<utterance uid="10-19"><speaker>ALEXIS</speaker><content>Physics.</content></utterance>
+<utterance uid="10-20"><speaker>CASTLE</speaker><content>Physics. Physics exam! Don't you have a physics exam?</content></utterance>
+<utterance uid="10-21"><speaker>ALEXIS</speaker><content>My-- my physics exam. I almost forgot. It's on Monday morning, I haven't studied, and it counts for 20% of my grade.</content></utterance>
+<utterance uid="10-22"><speaker>CASTLE</speaker><content>Twenty percent.</content></utterance>
+<utterance uid="10-23"><speaker>MARTHA</speaker><content>Carpe diem. Seize the day. Clearly, I didn't teach that to my son. All right, darling, well, another time. I guess I will just have to find my inner self by myself. Hm. I can do it.</content></utterance>
+<utterance uid="10-24"><speaker>CASTLE</speaker><content>Best dad ever.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>JOSH</speaker><content/></utterance>
+<utterance uid="11-2"><speaker>BECKETT</speaker><content>...if you were here, that would be great.</content></utterance>
+<utterance uid="11-3"><speaker>JOSH</speaker><content>That helps.</content></utterance>
+<utterance uid="11-4"><speaker>BECKETT</speaker><content>I didn't .</content></utterance>
+<utterance uid="11-5"><speaker>JOSH</speaker><content>Hey.</content></utterance>
+<utterance uid="11-6"><speaker>CASTLE</speaker><content>Hey.  What brings Motorcycle Boy here? Dr. Motorcycle Boy.</content></utterance>
+<utterance uid="11-7"><speaker>BECKETT</speaker><content>Does he need a reason?</content></utterance>
+<utterance uid="11-8"><speaker>CASTLE</speaker><content>It just looked personal.</content></utterance>
+<utterance uid="11-9"><speaker>BECKETT</speaker><content>It was. Where are we on those hidden cameras?</content></utterance>
+<utterance uid="11-10"><speaker>MONTGOMERY</speaker><content>Just that they were installed by a pro. Techs are running the serial numbers now to find out where they came from. A guy with surveillance in his cabs, too much money in his pocket, the whole thing feels hinky.</content></utterance>
+<utterance uid="11-11"><speaker>RYAN</speaker><content>Based on his financials, it looks hinky, too. Guy had medical bills up the wazoo, but then there's this from five days ago.</content></utterance>
+<utterance uid="11-12"><speaker>BECKETT</speaker><content>A cash deposit for ten thousand dollars?</content></utterance>
+<utterance uid="11-13"><speaker>CASTLE</speaker><content>What's a struggling cab driver doing with that kind of cash?</content></utterance>
+<utterance uid="11-14"><speaker>ESPOSITO</speaker><content>Yo. I just found something weird. I logged into Amir's GPS account to track where he drove the day he died. At 4:07 p.m., Amir picked up a cash fare at 15th and Avenue of the Americas.</content></utterance>
+<utterance uid="11-15"><speaker>CASTLE</speaker><content>What's weird about that?</content></utterance>
+<utterance uid="11-16"><speaker>ESPOSITO</speaker><content>Well, the passenger rode for 26 minutes, then got dropped off at the same corner where Amir picked him up. Now, who would pay thirty bucks to go in a circle?</content></utterance>
+<utterance uid="11-17"><speaker>BECKETT</speaker><content>Someone who wanted to talk to Amir.</content></utterance>
+<utterance uid="11-18"><speaker>MONTGOMERY</speaker><content>Check those traffic cameras, see if we can get a look at that passenger.</content></utterance>
+<utterance uid="11-19"><speaker>ESPOSITO</speaker><content>On it, Captain.</content></utterance>
+<utterance uid="11-20"><speaker>MONTGOMERY</speaker><content>We got a match on those cameras hidden in Amir's cab. Cameras were ordered a week ago by a Techno Pro Systems.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>CRAIG</speaker><content>I don't know what you guys are talking about. I didn't install any hidden cameras.</content></utterance>
+<utterance uid="12-2"><speaker>BECKETT</speaker><content>Your name's on the purchase order.</content></utterance>
+<utterance uid="12-3"><speaker>CASTLE</speaker><content>As is your signature.</content></utterance>
+<utterance uid="12-4"><speaker>BECKETT</speaker><content>You violated the expectation of privacy act. Do you know that I could arrest you for that?</content></utterance>
+<utterance uid="12-5"><speaker>CRAIG</speaker><content>Yeah. I mean-- I mean, no.</content></utterance>
+<utterance uid="12-6"><speaker>CASTLE</speaker><content>Or you could just tell her who hired you to install the surveillance equipment.</content></utterance>
+<utterance uid="12-7"><speaker>CRAIG</speaker><content>I promised him I'd keep it on the DL.</content></utterance>
+<utterance uid="12-8"><speaker>BECKETT</speaker><content>Who hired you?</content></utterance>
+<utterance uid="12-9"><speaker>CRAIG</speaker><content>Amir Alhabi.</content></utterance>
+<utterance uid="12-10"><speaker>CASTLE</speaker><content>You put it in for Amir?</content></utterance>
+<utterance uid="12-11"><speaker>CRAIG</speaker><content>Yeah.</content></utterance>
+<utterance uid="12-12"><speaker>BECKETT</speaker><content>Why would he have you put cameras in his cab?</content></utterance>
+<utterance uid="12-13"><speaker>CRAIG</speaker><content>Security reasons. That's all he said.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>ESPOSITO</speaker><content>Yo, Cap! Caught a break on our mystery passenger off a traffic cam where Amir dropped the guy off. Notice anything?</content></utterance>
+<utterance uid="13-2"><speaker>MONTGOMERY</speaker><content>He's carrying.</content></utterance>
+<utterance uid="13-3"><speaker>ESPOSITO</speaker><content>Yeah. He's not police. Suit's way too fancy.</content></utterance>
+<utterance uid="13-4"><speaker>MONTGOMERY</speaker><content>Canvass where this was taken. See if anyone knows who he is.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>NAZIHAH ALHABI</speaker><content>I keep track of the expenses for the cab. There was never any bill for cameras.</content></utterance>
+<utterance uid="14-2"><speaker>CASTLE</speaker><content>What about the $10,000?</content></utterance>
+<utterance uid="14-3"><speaker>NAZIHAH ALHABI</speaker><content>The first time I heard about the money is today. I can't imagine where it came from.</content></utterance>
+<utterance uid="14-4"><speaker>BECKETT</speaker><content>Money, cameras, Washington Heights. Nazihah, your husband was clearly hiding something from you. Do you have any idea what it was?</content></utterance>
+<utterance uid="14-5"><speaker>NAZIHAH ALHABI</speaker><content>No. No, I don't understand this at all.</content></utterance>
+<utterance uid="14-6"><speaker>BECKETT</speaker><content>Hey, do you recognize this man? He rode in your husband's cab.</content></utterance>
+<utterance uid="14-7"><speaker>NAZIHAH ALHABI</speaker><content>Yes. Y--yes. He was here.</content></utterance>
+<utterance uid="14-8"><speaker>BECKETT</speaker><content>When?</content></utterance>
+<utterance uid="14-9"><speaker>NAZIHAH ALHABI</speaker><content>Last week. He and Amir were talking in the street.</content></utterance>
+<utterance uid="14-10"><speaker>CASTLE</speaker><content>Who was he?</content></utterance>
+<utterance uid="14-11"><speaker>NAZIHAH ALHABI</speaker><content>I asked Amir. He said that the man had mistaken him for someone else.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>BECKETT</speaker><content>Amir clearly knew the guy. Why would he lie to her?</content></utterance>
+<utterance uid="15-2"><speaker>CASTLE</speaker><content>How does he end up dead the same day this guy rides in his cab?</content></utterance>
+<utterance uid="15-3"><speaker>BECKETT</speaker><content>Beckett.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>ESPOSITO</speaker><content>We just got a hit on our canvass for the mystery passenger.</content></utterance>
+<utterance uid="16-2"><speaker>BECKETT</speaker><content>We got a name on that face?</content></utterance>
+<utterance uid="16-3"><speaker>ESPOSITO</speaker><content>Not yet, but he's a big fan of this coffee shop on 14th. He shows up every afternoon for an espresso at two.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>BECKETT</speaker><content>Sir! In the cream suit! Stop! NYPD, turn around.</content></utterance>
+<utterance uid="17-2"><speaker>BECKETT</speaker><content>It's a 9mm, just like our murder weapon. Do you have a concealed weapons permit?</content></utterance>
+<utterance uid="17-3"><speaker>FARIQ YUSEF</speaker><content>Inside left pocket of my jacket, along with my credentials.</content></utterance>
+<utterance uid="17-4"><speaker>BECKETT</speaker><content>Fariq Yusef, Syrian Consulate.</content></utterance>
+<utterance uid="17-5"><speaker>FARIQ YUSEF</speaker><content>At your service.</content></utterance>
+<utterance uid="17-6"><speaker>BECKETT</speaker><content>Put your hands down.</content></utterance>
+<utterance uid="17-7"><speaker>FARIQ YUSEF</speaker><content>Thank you.</content></utterance>
+<utterance uid="17-8"><speaker>BECKETT</speaker><content>Two days ago, you were driving in a cab with Amir Alhabi. He's been murdered.</content></utterance>
+<utterance uid="17-9"><speaker>FARIQ YUSEF</speaker><content>I am saddened to hear that.</content></utterance>
+<utterance uid="17-10"><speaker>BECKETT</speaker><content>You were in that cab for half an hour. What's the nature of your relationship?</content></utterance>
+<utterance uid="17-11"><speaker>FARIQ YUSEF</speaker><content>I have diplomatic immunity, you have no stand...</content></utterance>
+<utterance uid="17-12"><speaker>BECKETT</speaker><content>Who killed him? Was it you?</content></utterance>
+<utterance uid="17-13"><speaker>FARIQ YUSEF</speaker><content>in questioning...or detaining me.</content></utterance>
+<utterance uid="17-14"><speaker>BECKETT</speaker><content>Answer my question, did you kill him?</content></utterance>
+<utterance uid="17-15"><speaker>FARIQ YUSEF</speaker><content>I'd like my pistol, please.</content></utterance>
+<utterance uid="17-16"><speaker>BECKETT</speaker><content>You can collect it at the 12th Precinct.</content></utterance>
+<utterance uid="17-17"><speaker>FARIQ YUSEF</speaker><content>And so I shall.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>RYAN</speaker><content>Fariq Yusef 's official title at the consulate is the Head of Security. He's a member of the Secret Police.</content></utterance>
+<utterance uid="18-2"><speaker>CASTLE</speaker><content>Well, he's probably broken a few fingers in his day.</content></utterance>
+<utterance uid="18-3"><speaker>BECKETT</speaker><content>And Yusef also owned a 9mm gun, which was the same kind of gun that killed Amir.</content></utterance>
+<utterance uid="18-4"><speaker>CASTLE</speaker><content>Maybe Yusef recruited him here, drew him into the shadowy world of espionage. Once he finished his mission, his fate was sealed. Yusef killed him to tie up loose ends, and then took the data drive containing the explosive revelations.</content></utterance>
+<utterance uid="18-5"><speaker>BECKETT</speaker><content>And that would be what, exactly?</content></utterance>
+<utterance uid="18-6"><speaker>CASTLE</speaker><content>I'm-- still thinking on that. But it's a perfect fit.</content></utterance>
+<utterance uid="18-7"><speaker>ESPOSITO</speaker><content>Yeah, except that Fariq Yusef isn't the killer.</content></utterance>
+<utterance uid="18-8"><speaker>CASTLE</speaker><content>Are you sure? Because that would ruin a perfectly good theory.</content></utterance>
+<utterance uid="18-9"><speaker>ESPOSITO</speaker><content>Yeah. The night Amir was killed, Fariq was with the Syrian ambassador at a soccer game at Bennett Field. There are photos online to prove it.</content></utterance>
+<utterance uid="18-10"><speaker>BECKETT</speaker><content>Which brings us back to square one. Okay. So, Amir and Yusef take a tour of Lower Manhattan. And then later on that same night, he calls his wife, tells her that he's still working, and instead went up to Washington Heights.</content></utterance>
+<utterance uid="18-11"><speaker>ESPOSITO</speaker><content>And he ends up dead at the warehouse with the data drive ripped out.</content></utterance>
+<utterance uid="18-12"><speaker>CASTLE</speaker><content>C4121652. Amir took his cab down St. Nicholas Ave. to the 1600 block. He parked mid-block.</content></utterance>
+<utterance uid="18-13"><speaker>CASTLE</speaker><content>So-- So, I'm just thinking the 1652 part of C4121652 is an address. What's at St. Nicholas Ave. at 1652?</content></utterance>
+<utterance uid="18-14"><speaker>RYAN</speaker><content>North Manhattan Storage.</content></utterance>
+<utterance uid="18-15"><speaker>BECKETT</speaker><content>C412 is a storage unit.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>CASTLE</speaker><content>Murder, political intrigue, cash payments, and now a mysterious storage locker? Oh, this is too good. Wait, how're we gonna get it open?</content></utterance>
+<utterance uid="19-2"><speaker>BECKETT</speaker><content>Well, if all else fails...</content></utterance>
+<utterance uid="19-3"><speaker>CASTLE</speaker><content>For reasons-- too disturbing to mention, I-- I find that hot.</content></utterance>
+<utterance uid="19-4"><speaker>BECKETT</speaker><content>Or. I grabbed Amir's keys from property. So, hopefully, this is his locker.</content></utterance>
+<utterance uid="19-5"><speaker>CASTLE</speaker><content>Which it is. What do you think's in there?</content></utterance>
+<utterance uid="19-6"><speaker>BECKETT</speaker><content>I don't know. Might be empty like Al Capone's vault.</content></utterance>
+<utterance uid="19-7"><speaker>CASTLE</speaker><content>Oh, no. Think of all the amazing things that are found in storage units at times like this.  "Ark of the Covenant, Dr. Jones."</content></utterance>
+<utterance uid="19-8"><speaker>CASTLE</speaker><content>Well, the Ark of the Covenant was in a crate.</content></utterance>
+<utterance uid="19-9"><speaker>BECKETT</speaker><content>Plastic explosives.</content></utterance>
+<utterance uid="19-10"><speaker>BECKETT</speaker><content>Castle, get out! Get out!</content></utterance>
+<utterance uid="19-11"><speaker>CASTLE</speaker><content>What?</content></utterance>
+<utterance uid="19-12"><speaker>BECKETT</speaker><content>Go!</content></utterance>
+<utterance uid="19-13"><speaker>CASTLE</speaker><content>Why? Look, I don't--</content></utterance>
+<utterance uid="19-14"><speaker>BECKETT</speaker><content>Castle, back away from the door! Get away!</content></utterance>
+<utterance uid="19-15"><speaker>CASTLE</speaker><content>What's going on? What is that thing?</content></utterance>
+<utterance uid="19-16"><speaker>BECKETT</speaker><content>This is Detective Kate Beckett, badge number 0334! I've been exposed to high levels of radiation. We need emergency services right away.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>CASTLE</speaker><content>Guys, you can't just-- You can't! Just, at least tell me how serious it is!</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>RYAN</speaker><content>How badly did they get hit?</content></utterance>
+<utterance uid="21-2"><speaker>MONTGOMERY</speaker><content>We don't know. But the best way for us to help them is to keep working on this case. Now, our murder victim had a key to this storage unit. So, he was into a lot more than driving a taxi. Dig deep into Amir Alhabi. Let's get his wife and his cousin in here. Meanwhile, I'll call the Syrian consulate and find out why Amir had contact with the head of security.</content></utterance>
+<utterance uid="21-3"><speaker>AGENT MARK FALLON</speaker><content>They won't talk to you. Whatever Alhabi was into, the Syrians don't want blowing back on them.</content></utterance>
+<utterance uid="21-4"><speaker>MONTGOMERY</speaker><content>Excuse me, who are you?</content></utterance>
+<utterance uid="21-5"><speaker>AGENT MARK FALLON</speaker><content>You must be Captain Montgomery. I'm Mark Fallon, Department of Homeland Security. EHS sent me down here to act as a liaison. I understand you have a situation.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>CASTLE</speaker><content>Those hazmat teams are only staying in the building for about a minute at a time.</content></utterance>
+<utterance uid="22-2"><speaker>BECKETT</speaker><content>Maybe it's just standard protocol.</content></utterance>
+<utterance uid="22-3"><speaker>CASTLE</speaker><content>Yeah. Or maybe it's just too hot in there to handle. That radiation detector of yours. Does it have a scale on it? You know, like chest x-ray to Chernobyl?</content></utterance>
+<utterance uid="22-4"><speaker>BECKETT</speaker><content>Maxed out.</content></utterance>
+<utterance uid="22-5"><speaker>CASTLE</speaker><content>Oh.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>AGENT MARK FALLON</speaker><content>We have to assume Alhabi wasn't acting alone. Where are we on his wife and cousin?</content></utterance>
+<utterance uid="23-2"><speaker>MONTGOMERY</speaker><content>She's on her way in. According to her neighbor, Jamal went out drinking. We're trying to track him down.</content></utterance>
+<utterance uid="23-3"><speaker>AGENT MARK FALLON</speaker><content>Amir either had the nuclear material for himself, or he was holding onto it for someone. Either way, odds are that's what got him killed. Check his phone records against the terror watch list.</content></utterance>
+<utterance uid="23-4"><speaker>MONTGOMERY</speaker><content>We're already doing that. Excuse me.</content></utterance>
+<utterance uid="23-5"><speaker>AGENT MARK FALLON</speaker><content>Yeah.</content></utterance>
+<utterance uid="23-6"><speaker>MONTGOMERY</speaker><content>Just so I'm clear, are you taking over?</content></utterance>
+<utterance uid="23-7"><speaker>AGENT MARK FALLON</speaker><content>This is your case. I'm just here to lend support however I can.</content></utterance>
+<utterance uid="23-8"><speaker>ESPOSITO</speaker><content>Yo, Cap. IC just sent all the immigration papers for Amir Alhabi. He got a degree in electrical engineering from a school in Damascus.</content></utterance>
+<utterance uid="23-9"><speaker>AGENT MARK FALLON</speaker><content>What was he working on in Syria?</content></utterance>
+<utterance uid="23-10"><speaker>RYAN</speaker><content>I got that one. I just spoke with the State Department. They debriefed Amir when he first landed here. They say he was working on a weapons program for the Syrians.</content></utterance>
+<utterance uid="23-11"><speaker>MONTGOMERY</speaker><content>Nuclear weapons?</content></utterance>
+<utterance uid="23-12"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+<utterance uid="23-13"><speaker>AGENT MARK FALLON</speaker><content>Okay. Now I'm taking over.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>CASTLE</speaker><content>It's a bomb. It's a nuclear bomb in that locker.</content></utterance>
+<utterance uid="24-2"><speaker>BECKETT</speaker><content>Castle, we don't know that it's a bomb.</content></utterance>
+<utterance uid="24-3"><speaker>CASTLE</speaker><content>Well, we will as soon as it goes off, in that nanosecond before we're vaporized. I'm sorry. It's just the-- the writer in me going to worst case scenario.</content></utterance>
+<utterance uid="24-4"><speaker>BECKETT</speaker><content>Can we just talk about something else?</content></utterance>
+<utterance uid="24-5"><speaker>CASTLE</speaker><content>Yeah. How's Josh?</content></utterance>
+<utterance uid="24-6"><speaker>BECKETT</speaker><content>Fine. He's, um...he's on his way to Haiti to do another Doctors Without Borders mission.</content></utterance>
+<utterance uid="24-7"><speaker>CASTLE</speaker><content>How long?</content></utterance>
+<utterance uid="24-8"><speaker>BECKETT</speaker><content>It's so funny, Castle. You know, at first I loved that he was so busy. It just...just gave me an opportunity to keep one foot out the door just in case.</content></utterance>
+<utterance uid="24-9"><speaker>CASTLE</speaker><content>But with one foot out the door, it's hard to know where you stand.</content></utterance>
+<utterance uid="24-10"><speaker>BECKETT</speaker><content>And even if I did, I mean, what does it mean? He's out there. He's saving people. Just-- how do you even compete with that?</content></utterance>
+<utterance uid="24-11"><speaker>CASTLE</speaker><content>You can't. No. No one can.</content></utterance>
+<utterance uid="24-12"><speaker>BECKETT</speaker><content>And that's one of the things that attracted me to him the most. That...passion. That...drive. Why is it that the thing that attracts you to a person always ends up being that thing that just drives you crazy? I just wish that it-- I wish that I had someone who would be there for me, and I could be there for him, and we could just dive in to it together.</content></utterance>
+<utterance uid="24-13"><speaker>HAZMAT SPECIALIST</speaker><content>You're free to go.</content></utterance>
+<utterance uid="24-14"><speaker>CASTLE</speaker><content>Uh, we are?</content></utterance>
+<utterance uid="24-15"><speaker>BECKETT</speaker><content>What about the radiation?</content></utterance>
+<utterance uid="24-16"><speaker>HAZMAT SPECIALIST</speaker><content>We found residual traces of Cobalt 60 in the storage unit. Not enough to cause any health problems.</content></utterance>
+<utterance uid="24-17"><speaker>MONTGOMERY</speaker><content>Detective Beckett, Castle, we're all real glad you two are okay.</content></utterance>
+<utterance uid="24-18"><speaker>BECKETT</speaker><content>Thanks, sir. So are we. I'm confused, though. Is this just a false alarm?</content></utterance>
+<utterance uid="24-19"><speaker>MONTGOMERY</speaker><content>Well, not exactly. If you're up to it, we really could use you back at the precinct. I can fill you in on the way.</content></utterance>
+<utterance uid="24-20"><speaker>CASTLE</speaker><content>Those traces of Cobalt 60, where did they come from?</content></utterance>
+<utterance uid="24-21"><speaker>MONTGOMERY</speaker><content>We think there was a second crate at the storage unit which contained large quantities of Cobalt 60. We found wire and crimp on connectors, which leads us to believe the crate was outfitted with explosives.</content></utterance>
+<utterance uid="24-22"><speaker>BECKETT</speaker><content>A bomb?</content></utterance>
+<utterance uid="24-23"><speaker>MONTGOMERY</speaker><content>A dirty bomb.</content></utterance>
+<utterance uid="24-24"><speaker>BECKETT</speaker><content>Where is it now?</content></utterance>
+<utterance uid="24-25"><speaker>MONTGOMERY</speaker><content>That's what we're trying to find out.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>ALEXIS</speaker><content>Hey, Dad. Late night?</content></utterance>
+<utterance uid="25-2"><speaker>CASTLE</speaker><content>Uh, still going. I just came back to change my clothes.</content></utterance>
+<utterance uid="25-3"><speaker>MARTHA</speaker><content>Well, bid my ego adieu. I am off to the Oasis. Minus Alexis, thanks to you.</content></utterance>
+<utterance uid="25-4"><speaker>CASTLE</speaker><content>Actually, I changed my mind about that.</content></utterance>
+<utterance uid="25-5"><speaker>MARTHA</speaker><content>You have?</content></utterance>
+<utterance uid="25-6"><speaker>ALEXIS</speaker><content>You have?</content></utterance>
+<utterance uid="25-7"><speaker>CASTLE</speaker><content>Yeah. I think it's important you have time together.</content></utterance>
+<utterance uid="25-8"><speaker>MARTHA</speaker><content>Oh, my faith in you is restored.</content></utterance>
+<utterance uid="25-9"><speaker>ALEXIS</speaker><content>Dad, what about my physics test? I can't just leave.</content></utterance>
+<utterance uid="25-10"><speaker>CASTLE</speaker><content>Yeah, sure you can. Just take them with you.</content></utterance>
+<utterance uid="25-11"><speaker>ALEXIS</speaker><content>I haven't packed or anything. I--</content></utterance>
+<utterance uid="25-12"><speaker>MARTHA</speaker><content>Oh, honey, everything is provided there. Oh, we're going to have so much fun! Come on, let's get a bag.</content></utterance>
+<utterance uid="25-13"><speaker>CASTLE</speaker><content>Go. It'll-- it'll be good for you.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>MONTGOMERY</speaker><content>Due to the nature of this case, let me remind you not to discuss it with anyone. Not even family. We can't afford to have word leak out and cause a panic. Let me turn this over to Agent Fallon.</content></utterance>
+<utterance uid="26-2"><speaker>AGENT MARK FALLON</speaker><content>Thank you, Captain. All right, folks, here's what we know. Amir Alhabi built a bomb in storage unit C412. It's a dirty bomb, designed to explode and disperse a highly radioactive Cobalt 60. That bomb is missing...</content></utterance>
+<utterance uid="26-3"><speaker>RYAN</speaker><content>Called Jenny to tell her I'd be late. Tried to get her to go visit her mom.</content></utterance>
+<utterance uid="26-4"><speaker>ESPOSITO</speaker><content>Yeah, I did the same thing with Lanie. Didn't work. She hates her mom.</content></utterance>
+<utterance uid="26-5"><speaker>RYAN</speaker><content>Mm.</content></utterance>
+<utterance uid="26-6"><speaker>AGENT MARK FALLON</speaker><content>...Interview facility employees. Check surveillance video. You know the drill. We find the person who moved the bomb, we'll find where it is. Let's get on it.</content></utterance>
+<utterance uid="26-7"><speaker>AGENT MARK FALLON</speaker><content>Mr. Castle, I'd like to thank you for your fine work on this case. However, I can't have civilians on the front lines.</content></utterance>
+<utterance uid="26-8"><speaker>CASTLE</speaker><content>It's as though I'm getting a raise and getting fired at the same time.</content></utterance>
+<utterance uid="26-9"><speaker>AGENT MARK FALLON</speaker><content>Except for, you don't actually work here. It's for your own protection.</content></utterance>
+<utterance uid="26-10"><speaker>CASTLE</speaker><content>Well, my friend the governor will be very disappointed to hear it.</content></utterance>
+<utterance uid="26-11"><speaker>AGENT MARK FALLON</speaker><content>Okay. Just try and stay out of the way. Detective Beckett, a word.</content></utterance>
+<utterance uid="26-12"><speaker>CASTLE</speaker><content>He doesn't trust me.</content></utterance>
+<utterance uid="26-13"><speaker>MONTGOMERY</speaker><content>Or anyone else. Nature of the job.</content></utterance>
+<utterance uid="26-14"><speaker>CASTLE</speaker><content>So, how can I help?</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>AGENT MARK FALLON</speaker><content>Amir's wife, how did she seem during the interview?</content></utterance>
+<utterance uid="27-2"><speaker>BECKETT</speaker><content>Like a woman who had just lost her husband.</content></utterance>
+<utterance uid="27-3"><speaker>AGENT MARK FALLON</speaker><content>Did she appear truthful?</content></utterance>
+<utterance uid="27-4"><speaker>BECKETT</speaker><content>Mm-hmm. At the time she did.</content></utterance>
+<utterance uid="27-5"><speaker>AGENT MARK FALLON</speaker><content>I'm gonna want you in there with me, okay? I think it's important she sees a friendly face. If I go over the line, you just reel me back in. That's a nice touch.</content></utterance>
+<utterance uid="27-6"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="27-7"><speaker>AGENT MARK FALLON</speaker><content>The baby.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>BECKETT</speaker><content>Nazihah, this is Agent Fallon.</content></utterance>
+<utterance uid="28-2"><speaker>NAZIHAH ALHABI</speaker><content>Do you have news about Amir's case?</content></utterance>
+<utterance uid="28-3"><speaker>AGENT MARK FALLON</speaker><content>As a matter of fact, I do.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>CASTLE</speaker><content>That $10,000 was wired into Amir's account.</content></utterance>
+<utterance uid="29-2"><speaker>RYAN</speaker><content>Which means it can be traced. Pull up the track fund database and put in the routing and account numbers.</content></utterance>
+<utterance uid="29-3"><speaker>RYAN</speaker><content>Whoa. Just downloaded footage of unit C412 for the last 48. Hopefully that's when somebody stopped by.</content></utterance>
+<utterance uid="29-4"><speaker>CASTLE</speaker><content>An Arab terrorist, who'd believe it?</content></utterance>
+<utterance uid="29-5"><speaker>ESPOSITO</speaker><content>Think back, bro.</content></utterance>
+<utterance uid="29-6"><speaker>CASTLE</speaker><content>That's my point, it's been done.</content></utterance>
+<utterance uid="29-7"><speaker>RYAN</speaker><content>Which means it's tried and true.</content></utterance>
+<utterance uid="29-8"><speaker>ESPOSITO</speaker><content>Not this time.</content></utterance>
+<utterance uid="29-9"><speaker>CASTLE</speaker><content>Maybe it's not what we think. That 10,000 that was wired in, it's from a bank in Dearborn, Michigan from a James Smith.</content></utterance>
+<utterance uid="29-10"><speaker>ESPOSITO</speaker><content>The most common name in America. It's probably bogus.</content></utterance>
+<utterance uid="29-11"><speaker>RYAN</speaker><content>Plus, there's a major Middle Eastern population in Dearborn.</content></utterance>
+<utterance uid="29-12"><speaker>CASTLE</speaker><content>Four minutes before it was transferred out, it was transferred in from James Smith, Texas Southern Bank.</content></utterance>
+<utterance uid="29-13"><speaker>RYAN</speaker><content>Whoever sent that ten grand covered his tracks by daisy-chaining the money through different banks.</content></utterance>
+<utterance uid="29-14"><speaker>CASTLE</speaker><content>Didn't cover them that well if I can follow them.</content></utterance>
+<utterance uid="29-15"><speaker>ESPOSITO</speaker><content>I'll bet Amir's wife could shed some light. And I hope that Fallon's going all Jack Bauer on her ass.</content></utterance>
+<utterance uid="29-16"><speaker>RYAN</speaker><content>Maybe she didn't know.</content></utterance>
+<utterance uid="29-17"><speaker>ESPOSITO</speaker><content>They were together, bro. Could you be a terrorist without Jenny knowing?</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>NAZIHAH ALHABI</speaker><content>Amir was not a terrorist. He loved this country.</content></utterance>
+<utterance uid="30-2"><speaker>BECKETT</speaker><content>And yet he was in possession of--</content></utterance>
+<utterance uid="30-3"><speaker>AGENT MARK FALLON</speaker><content>Where's the bomb, Mrs. Alhabi?</content></utterance>
+<utterance uid="30-4"><speaker>NAZIHAH ALHABI</speaker><content>I told you, I know nothing about a bomb. Amir would never do such a thing. Why would he?</content></utterance>
+<utterance uid="30-5"><speaker>AGENT MARK FALLON</speaker><content>He needed the cash. That baby of yours is a money pit. The bills started piling up; he got in bed with the wrong people. I need you to tell me who they were.</content></utterance>
+<utterance uid="30-6"><speaker>NAZIHAH ALHABI</speaker><content>I swear to you, I don't know.</content></utterance>
+<utterance uid="30-7"><speaker>AGENT MARK FALLON</speaker><content>How can you not know the man you're sharing a bed with is a terrorist? You're a part of it!</content></utterance>
+<utterance uid="30-8"><speaker>NAZIHAH ALHABI</speaker><content>I have nothing to hide.</content></utterance>
+<utterance uid="30-9"><speaker>AGENT MARK FALLON</speaker><content>But you do. And I'm gonna find it. And when I do, I'm gonna lock you up as a material witness and send that baby off to foster care.</content></utterance>
+<utterance uid="30-10"><speaker>NAZIHAH ALHABI</speaker><content>No, you can't do that.</content></utterance>
+<utterance uid="30-11"><speaker>AGENT MARK FALLON</speaker><content>Oh, yes, I can. Watch me.</content></utterance>
+<utterance uid="30-12"><speaker>BECKETT</speaker><content>Sir, can I talk to you?</content></utterance>
+<utterance uid="30-13"><speaker>AGENT MARK FALLON</speaker><content>No. Go ahead, kiss your daughter goodbye.</content></utterance>
+<utterance uid="30-14"><speaker>NAZIHAH ALHABI</speaker><content>Please!</content></utterance>
+<utterance uid="30-15"><speaker>AGENT MARK FALLON</speaker><content>Social Services is right outside that door.</content></utterance>
+<utterance uid="30-16"><speaker>NAZIHAH ALHABI</speaker><content>Please! Please, why are you doing this?</content></utterance>
+<utterance uid="30-17"><speaker>AGENT MARK FALLON</speaker><content>Nazihah. Nazihah, that means honesty, right?</content></utterance>
+<utterance uid="30-18"><speaker>NAZIHAH ALHABI</speaker><content>Why are you doing this?</content></utterance>
+<utterance uid="30-19"><speaker>AGENT MARK FALLON</speaker><content>Honesty, is that what it means in Arabic?</content></utterance>
+<utterance uid="30-20"><speaker>NAZIHAH ALHABI</speaker><content>Please, I swear to you, I don't know!</content></utterance>
+<utterance uid="30-21"><speaker>AGENT MARK FALLON</speaker><content>I'm gonna give you one more chance to be honest with me, or I will take your baby away and you will never see it again!</content></utterance>
+<utterance uid="30-22"><speaker>NAZIHAH ALHABI</speaker><content>I swear!</content></utterance>
+<utterance uid="30-23"><speaker>AGENT MARK FALLON</speaker><content>Do you understand?</content></utterance>
+<utterance uid="30-24"><speaker>NAZIHAH ALHABI</speaker><content>I swear to you, I don't know! I don't know anything! Please don't take her away from me; she's the only thing I have! Please! Please.</content></utterance>
+<utterance uid="30-25"><speaker>AGENT MARK FALLON</speaker><content>All right. Nobody's going to take your baby away from you.</content></utterance>
+<utterance uid="30-26"><speaker>AGENT MARK FALLON</speaker><content>Here. It's okay. You appreciate the tight spot I'm in, I'm sure. I have to be sure you're telling the truth. Agent Garda will drive you home. You're free to go.</content></utterance>
+<utterance uid="30-27"><speaker>AGENT MARK FALLON</speaker><content>You still think she's truthful? I just want your opinion. Truthful or no?</content></utterance>
+<utterance uid="30-28"><speaker>BECKETT</speaker><content>Yes. But I still have to operate under the assumption that she's lying.</content></utterance>
+<utterance uid="30-29"><speaker>AGENT MARK FALLON</speaker><content>While she was in here, I pulled a national security certificate. Her house has just been bugged. She'll be under surveillance 24/7. If she's hiding something, we'll find it. It's important that she believes I think she's telling the truth. You did good. She considers you an ally. That could be helpful later. Thanks for playing, Beckett.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>CASTLE</speaker><content>That money that Amir received is wired through six banks, but originated in...Afghanistan.</content></utterance>
+<utterance uid="31-2"><speaker>RYAN</speaker><content>Oh. Got a visitor at C412 six hours before you and Beckett got there.</content></utterance>
+<utterance uid="31-3"><speaker>ESPOSITO</speaker><content>This is the break we've been looking for.</content></utterance>
+<utterance uid="31-4"><speaker>RYAN</speaker><content>That crate looks heavy.</content></utterance>
+<utterance uid="31-5"><speaker>CASTLE</speaker><content>It's all the lead shielding. That's Amir's cousin, Jamal. And he has the bomb.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>AGENT MARK FALLON</speaker><content>Jamal Alhabi. He had his cousin, Amir, fashion a dirty bomb, and then he killed him. He's most likely the leader of our terrorist cell. Less than twelve hours ago, he disappeared. Along with the bomb. Now, at minimum, he'd need a van or an SUV to transport it. Jamal owns a moving company. So, check his trucks. Pull traffic video. Work his financials. Folks, we live here. Our families, our loved ones, our neighbors. I don't have to tell you what's at stake. Let's find him.</content></utterance>
+<utterance uid="32-2"><speaker>CASTLE</speaker><content>Can I talk to you a second?</content></utterance>
+<utterance uid="32-3"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>CASTLE</speaker><content>What's your take on Fallon?</content></utterance>
+<utterance uid="33-2"><speaker>BECKETT</speaker><content>Smart cop, driven, killer instinct. As a person? Kind of a douche.</content></utterance>
+<utterance uid="33-3"><speaker>CASTLE</speaker><content>Open-minded douche?</content></utterance>
+<utterance uid="33-4"><speaker>BECKETT</speaker><content>No. Why?</content></utterance>
+<utterance uid="33-5"><speaker>CASTLE</speaker><content>The key to any good story is authenticity. It's making it feel real for the reader. That's why writers work so hard making the details right. Jamal and Amir as terrorists? The details are not right.</content></utterance>
+<utterance uid="33-6"><speaker>BECKETT</speaker><content>Yeah, but the evidence is. Castle, we've got Jamal on video wheeling off a dirty bomb.</content></utterance>
+<utterance uid="33-7"><speaker>CASTLE</speaker><content>Then why wasn't he nervous? Why wasn't he sweating bullets every time he hit a bump? Jamal owned a moving company. What if he didn't know what was in the crate? What if he was just hired to pick it up?</content></utterance>
+<utterance uid="33-8"><speaker>BECKETT</speaker><content>What if he's just a cold blooded killer?</content></utterance>
+<utterance uid="33-9"><speaker>CASTLE</speaker><content>Ah, nothing we've learned points to that with either of these men.</content></utterance>
+<utterance uid="33-10"><speaker>BECKETT</speaker><content>Okay, what about that money that Amir received? The money that you traced back to Afghanistan?</content></utterance>
+<utterance uid="33-11"><speaker>CASTLE</speaker><content>To a bank outside Bagram Air Base, often used by military personnel. Why would a terrorist pick that bank to wire money?</content></utterance>
+<utterance uid="33-12"><speaker>BECKETT</speaker><content>Castle, the keys that we used to open that storage unit are from Amir's keychain.</content></utterance>
+<utterance uid="33-13"><speaker>CASTLE</speaker><content>The killer could've put the key there. All these breadcrumbs that have led us to Amir and Jamal, what if they were left there for us to find?</content></utterance>
+<utterance uid="33-14"><speaker>BECKETT</speaker><content> Castle.</content></utterance>
+<utterance uid="33-15"><speaker>CASTLE</speaker><content>Something else is going on here.</content></utterance>
+<utterance uid="33-16"><speaker>BECKETT</speaker><content>Okay, fine. What would you like us to do?</content></utterance>
+<utterance uid="33-17"><speaker>CASTLE</speaker><content>Talk to the one person who has a different view of Amir. But I'm gonna need your help.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>AGENT MARK FALLON</speaker><content>All right, listen up! Jamal bought these trucks over two months ago. It's a perfect cover for moving material without anyone noticing. Where's the list of his employees?</content></utterance>
+<utterance uid="34-2"><speaker>ESPOSITO</speaker><content>Just came in. Nine guys, all Middle Eastern.</content></utterance>
+<utterance uid="34-3"><speaker>AGENT MARK FALLON</speaker><content>All right. They're all probably part of the cell. Let's get their 20s and then move on.</content></utterance>
+<utterance uid="34-4"><speaker>RYAN</speaker><content>Got a purchase on Jamal's credit card three weeks ago for a burner phone.</content></utterance>
+<utterance uid="34-5"><speaker>AGENT MARK FALLON</speaker><content>Run it down and see if we can pull up any recent activity.</content></utterance>
+<utterance uid="34-6"><speaker>BECKETT</speaker><content>Jamal's moving trucks are parked in a lot in Queens. They're all accounted for except for one five ton and the log says Jamal checked it out twelve hours ago, never brought it back.</content></utterance>
+<utterance uid="34-7"><speaker>AGENT MARK FALLON</speaker><content>He must've used it to move the crate. Call in that alert. Let's find the truck.</content></utterance>
+<utterance uid="34-8"><speaker>RYAN</speaker><content>Hey. Where's Castle?</content></utterance>
+<utterance uid="34-9"><speaker>BECKETT</speaker><content>I don't know. Must've stepped out.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>FARIQ YUSEF</speaker><content>Off the record or not, why should I talk to you about Amir Alhabi?</content></utterance>
+<utterance uid="35-2"><speaker>CASTLE</speaker><content>Because the last thing you want is my country thinking your country's behind his activities.</content></utterance>
+<utterance uid="35-3"><speaker>FARIQ YUSEF</speaker><content>Nothing is further from the truth.</content></utterance>
+<utterance uid="35-4"><speaker>CASTLE</speaker><content>Well, then maybe you can help clear this up. Amir was in your nuclear program, so he was an asset. You have him watched?</content></utterance>
+<utterance uid="35-5"><speaker>FARIQ YUSEF</speaker><content>It's my business to stay informed.</content></utterance>
+<utterance uid="35-6"><speaker>CASTLE</speaker><content>You ever see any evidence of terrorism?</content></utterance>
+<utterance uid="35-7"><speaker>FARIQ YUSEF</speaker><content>No. But then, what other answer could I give you?</content></utterance>
+<utterance uid="35-8"><speaker>CASTLE</speaker><content>Why were you at Amir's home?</content></utterance>
+<utterance uid="35-9"><speaker>FARIQ YUSEF</speaker><content>To chat with him. I am adept at violence, but it wasn't called for. I met with Amir from time to time to remind him of his history.</content></utterance>
+<utterance uid="35-10"><speaker>CASTLE</speaker><content>To convince him to come back. Back to the weapons program.</content></utterance>
+<utterance uid="35-11"><speaker>FARIQ YUSEF</speaker><content>Amir did vital research for us, but he left because he had moral qualms about his work. Normally money can overcome such obstacles. Not so with Amir.</content></utterance>
+<utterance uid="35-12"><speaker>CASTLE</speaker><content>What happened on that cab ride?</content></utterance>
+<utterance uid="35-13"><speaker>FARIQ YUSEF</speaker><content>Amir sought me out. He was quite angry. He believed I'd placed $10,000 in his account as a way of pressuring him. But he was mistaken.</content></utterance>
+<utterance uid="35-14"><speaker>CASTLE</speaker><content>Wait a minute. You're saying Amir didn't know where the money came from?</content></utterance>
+<utterance uid="35-15"><speaker>FARIQ YUSEF</speaker><content>It's nice speaking to you, Mr. Castle. As events unfold, you may find yourself in need of a man with my skills.</content></utterance>
+<utterance uid="35-16"><speaker>FARIQ YUSEF</speaker><content>If such a moment arises.</content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>CASTLE</speaker><content>Do you realize what this means?</content></utterance>
+<utterance uid="36-2"><speaker>BECKETT</speaker><content>If Amir didn't know about the money, then he couldn't even pay to build that bomb.</content></utterance>
+<utterance uid="36-3"><speaker>AGENT MARK FALLON</speaker><content>Can I speak with the two of you, please?</content></utterance>
+</scene>
+<scene id="37"><utterance uid="37-1"><speaker>AGENT MARK FALLON</speaker><content>Now, I like to cover my bases. So, you can imagine my surprise when I find out one of our own is having a nonfat latte with a suspect in this investigation. I have agents on Fariq Yusef.</content></utterance>
+<utterance uid="37-2"><speaker>CASTLE</speaker><content>If you just allow me to explain--</content></utterance>
+<utterance uid="37-3"><speaker>AGENT MARK FALLON</speaker><content>I don't even know what you're doing here. And you go and talk to a foreign official. What if the Syrians are behind this? Do you have any idea what you've done?</content></utterance>
+<utterance uid="37-4"><speaker>CASTLE</speaker><content>Jamal and Amir are not terrorists. You're chasing the wrong guys.</content></utterance>
+<utterance uid="37-5"><speaker>AGENT MARK FALLON</speaker><content>Do you have any idea how many laws you've broken? I ought to have you arrested.</content></utterance>
+<utterance uid="37-6"><speaker>BECKETT</speaker><content>Sir, I think what Castle is trying--</content></utterance>
+<utterance uid="37-7"><speaker>AGENT MARK FALLON</speaker><content>Detective Beckett, did you know about this?</content></utterance>
+<utterance uid="37-8"><speaker>BECKETT</speaker><content>Yes, I did.</content></utterance>
+<utterance uid="37-9"><speaker>AGENT MARK FALLON</speaker><content>Well, that's disappointing. In the interest of national security, I'm gonna have to have the both of you removed from this task force. Do you understand?</content></utterance>
+<utterance uid="37-10"><speaker>MONTGOMERY</speaker><content>Sir. Beckett's the best I have. Now, Castle can be a pain in the ass, but he thinks outside the box.</content></utterance>
+<utterance uid="37-11"><speaker>AGENT MARK FALLON</speaker><content>It's not your party anymore, Captain. I'll have my agents escort you out. Oh, and Castle. The governor...he's never heard of you.</content></utterance>
+</scene>
+<scene id="38"><utterance uid="38-1"><speaker>BECKETT</speaker><content>Where are Alexis and Martha?</content></utterance>
+<utterance uid="38-2"><speaker>CASTLE</speaker><content>I sent them out of town.</content></utterance>
+<utterance uid="38-3"><speaker>BECKETT</speaker><content>Do they know why?</content></utterance>
+<utterance uid="38-4"><speaker>CASTLE</speaker><content>No. You get a hold of Josh?</content></utterance>
+<utterance uid="38-5"><speaker>BECKETT</speaker><content>Couldn't get through to his cell. He's probably already on the plane.</content></utterance>
+<utterance uid="38-6"><speaker>CASTLE</speaker><content>A 600 thread count shower curtain murder board. I snapped a photo of it as we were being thrown out. And here...</content></utterance>
+<utterance uid="38-7"><speaker>CASTLE</speaker><content>I have Amir's driving data. It's like our own mini-precinct.</content></utterance>
+<utterance uid="38-8"><speaker>BECKETT</speaker><content>Except it smells better.</content></utterance>
+<utterance uid="38-9"><speaker>CASTLE</speaker><content>Thank you.</content></utterance>
+<utterance uid="38-10"><speaker>BECKETT</speaker><content>Castle, even if Amir is innocent, Jamal isn't.</content></utterance>
+<utterance uid="38-11"><speaker>CASTLE</speaker><content>His guilt is predicated on Amir being a terrorist. Without that, Jamal's just another guy moving a crate. Now, this all comes back to Amir. What we need to do is solve his murder.</content></utterance>
+</scene>
+<scene id="39"><utterance uid="39-1"><speaker>ESPOSITO</speaker><content>This is a photo off the moving company's website. This is the exact truck we're looking for.</content></utterance>
+<utterance uid="39-2"><speaker>AGENT MARK FALLON</speaker><content>All right, send it downtown. Get it circulated to every officer on duty.</content></utterance>
+<utterance uid="39-3"><speaker>ESPOSITO</speaker><content>All right.</content></utterance>
+<utterance uid="39-4"><speaker>RYAN</speaker><content>Sir, you better have a look at this.</content></utterance>
+<utterance uid="39-5"><speaker>AGENT MARK FALLON</speaker><content>What do you got?</content></utterance>
+<utterance uid="39-6"><speaker>RYAN</speaker><content>Tech just got me locked into Jamal's burner phone. Looks like he just sent a text to another burner.</content></utterance>
+<utterance uid="39-7"><speaker>AGENT MARK FALLON</speaker><content>How many choppers you have in your fleet?</content></utterance>
+<utterance uid="39-8"><speaker>MONTGOMERY</speaker><content>Seven.</content></utterance>
+<utterance uid="39-9"><speaker>AGENT MARK FALLON</speaker><content>All right. This truck could be parked with the bomb set to go off just like Oklahoma City. Coordinate a street by street grid search.</content></utterance>
+</scene>
+<scene id="40"><utterance uid="40-1"><speaker>CASTLE</speaker><content>Okay, how about this? Amir overhears a terrorist plot. He installs cameras to gather evidence, only they found out and they killed him.</content></utterance>
+<utterance uid="40-2"><speaker>BECKETT</speaker><content>That means that a passenger was involved. A regular passenger.</content></utterance>
+<utterance uid="40-3"><speaker>CASTLE</speaker><content>Right. And they mentioned the storage facility, which is where he got the C4121652.</content></utterance>
+<utterance uid="40-4"><speaker>BECKETT</speaker><content>But why would a passenger talk about the storage unit in front of Amir? Especially if they were gonna frame him.</content></utterance>
+<utterance uid="40-5"><speaker>CASTLE</speaker><content>Maybe we're going about this all wrong. You are right. A--a passenger wouldn't openly discuss a--a terrorist plot, but a driver might. In the car. To a collaborator. Alone on the phone. What if Amir suspected another driver? Okay, here is Kevin McCann's last shift. This is the day before the murder. And look at that. He stopped near the storage facility where they kept the Cobalt 60.</content></utterance>
+<utterance uid="40-6"><speaker>BECKETT</speaker><content>He's a cab driver, Castle. He was probably dropping off a fare. Besides, he alibied out.</content></utterance>
+<utterance uid="40-7"><speaker>CASTLE</speaker><content>There he is near the warehouse, too. That's 100 yards from where we found Amir's body. So, the last two places Amir was, and Kevin McCann has been to both of them? There's no way that that's a coincidence. We at least have to go see why this warehouse area is so popular.</content></utterance>
+</scene>
+<scene id="41"><utterance uid="41-1"><speaker>MONTGOMERY</speaker><content>Montgomery.</content></utterance>
+<utterance uid="41-2"><speaker>MONTGOMERY</speaker><content>Okay. Got it.  We got a location on the truck.</content></utterance>
+</scene>
+<scene id="42"><utterance uid="42-1"><speaker>SENIOR OFFICER</speaker><content>One of my guys on the grid search spotted it!</content></utterance>
+<utterance uid="42-2"><speaker>AGENT MARK FALLON</speaker><content>The radiation detector go off?</content></utterance>
+<utterance uid="42-3"><speaker>SENIOR OFFICER</speaker><content>You bet!</content></utterance>
+<utterance uid="42-4"><speaker>MONTGOMERY</speaker><content>How long has it been sitting here?</content></utterance>
+<utterance uid="42-5"><speaker>SENIOR OFFICER</speaker><content>Not long! The hood's still warm!</content></utterance>
+<utterance uid="42-6"><speaker>AGENT MARK FALLON</speaker><content>Open her up!</content></utterance>
+<utterance uid="42-7"><speaker>AGENT MARK FALLON</speaker><content>Check all the buildings! Sweep every inch in a four block radius!</content></utterance>
+</scene>
+<scene id="43"><utterance uid="43-1"><speaker>BECKETT</speaker><content>Looks empty.</content></utterance>
+<utterance uid="43-2"><speaker>CASTLE</speaker><content>This is where Kevin McCann parked.</content></utterance>
+</scene>
+<scene id="44"><utterance uid="44-1"><speaker>BECKETT</speaker><content>Castle. Door. We gotta move. Ready? Go.</content></utterance>
+<utterance uid="44-2"><speaker>CASTLE</speaker><content>Beckett.</content></utterance>
+<utterance uid="44-3"><speaker>CASTLE</speaker><content>It's Jamal.</content></utterance>
+</scene>
+</script>

@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>RENZO</speaker><content>Long flight?</content></utterance>
+<utterance uid="1-2"><speaker>MATHIAS</speaker><content>Endless. How much further.</content></utterance>
+<utterance uid="1-3"><speaker>RENZO</speaker><content>You have some time. If you want to sleep, go ahead, sir.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>KATE BECKETT</speaker><content>Hey! Made some coffee for you. It’s insomniac strength. This is the fourth night in a row that you haven’t slept. Something wrong?</content></utterance>
+<utterance uid="2-2"><speaker>RICHARD CASTLE</speaker><content>I don’t know. Maybe my subconscious has a pressing need to catch up on my Facebook likes.</content></utterance>
+<utterance uid="2-3"><speaker>BECKETT</speaker><content>Martha. Good morning.</content></utterance>
+<utterance uid="2-4"><speaker>MARTHA RODGERS</speaker><content>Good morning, darling.</content></utterance>
+<utterance uid="2-5"><speaker>BECKETT</speaker><content>Would you like some breakfast?</content></utterance>
+<utterance uid="2-6"><speaker>MARTHA</speaker><content>No, thank you. I’m fasting for clarity. I’ve been asked to read for the new Stoppard play.</content></utterance>
+<utterance uid="2-7"><speaker>CASTLE</speaker><content>So what’s the problem?</content></utterance>
+<utterance uid="2-8"><speaker>MARTHA</speaker><content>Well, I haven’t auditioned for anything in ages. I think I need to decide if that particular train has left the station.</content></utterance>
+<utterance uid="2-9"><speaker>CASTLE</speaker><content>“Ms. Katherine Beckett”? What’s this?</content></utterance>
+<utterance uid="2-10"><speaker>BECKETT</speaker><content>Oh, an ex is getting married. Do you remember Will Sorenson?</content></utterance>
+<utterance uid="2-11"><speaker>CASTLE</speaker><content>Your old FBI squeeze?</content></utterance>
+<utterance uid="2-12"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="2-13"><speaker>CASTLE</speaker><content>Oh man. You’re so lucky I came along and saved you from that life.</content></utterance>
+<utterance uid="2-14"><speaker>BECKETT</speaker><content>Wait, you saved me?</content></utterance>
+<utterance uid="2-15"><speaker>CASTLE</speaker><content>Come on. Even you have to admit he was boring. Like, C-Span boring.</content></utterance>
+<utterance uid="2-16"><speaker>BECKETT</speaker><content>You know, what makes you think that I would be with Sorenson if you hadn’t come along?</content></utterance>
+<utterance uid="2-17"><speaker>CASTLE</speaker><content>All right. Where would you be?</content></utterance>
+<utterance uid="2-18"><speaker>BECKETT</speaker><content>If you weren’t around to distract me?</content></utterance>
+<utterance uid="2-19"><speaker>CASTLE</speaker><content> Yeah.</content></utterance>
+<utterance uid="2-20"><speaker>BECKETT</speaker><content>Um… I would probably be captain of my own precinct.</content></utterance>
+<utterance uid="2-21"><speaker>CASTLE</speaker><content>Wow.</content></utterance>
+<utterance uid="2-22"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="2-23"><speaker>CASTLE</speaker><content>Okay.  Had I not been bewitched by you I think by now I’d be working on my second Pulitzer.</content></utterance>
+<utterance uid="2-24"><speaker>BECKETT</speaker><content>So we’re bad for each other, huh?</content></utterance>
+<utterance uid="2-25"><speaker>CASTLE</speaker><content>The worst.</content></utterance>
+<utterance uid="2-26"><speaker>BECKETT</speaker><content> Guess we’d both be better off if we’d never met.</content></utterance>
+<utterance uid="2-27"><speaker>CASTLE</speaker><content>It’s like It’s A Wonderful Life. Every time your phone rings a victim gets their wings.</content></utterance>
+<utterance uid="2-28"><speaker>BECKETT</speaker><content>Beckett.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>KEVIN RYAN</speaker><content>His name is Mathias Gensler. His passport indicates that he is a Swiss national. Witnesses said that two masked men attacked both driver and Gensler before cutting a silver briefcase handcuffed to Mr. Gensler’s wrist.</content></utterance>
+<utterance uid="3-2"><speaker>BECKETT</speaker><content>So this was an ambush. Whoever did this knew that he had that case with him.</content></utterance>
+<utterance uid="3-3"><speaker>RYAN</speaker><content>Looks like the attackers fled in a late model G-Wagon, no plates.</content></utterance>
+<utterance uid="3-4"><speaker>CASTLE</speaker><content>Is that a boot print on his shirt?</content></utterance>
+<utterance uid="3-5"><speaker>BECKETT</speaker><content>The killer must have held him down with his foot.</content></utterance>
+<utterance uid="3-6"><speaker>CASTLE</speaker><content>So what was in the case? Nuclear launch codes? Deadly virus?</content></utterance>
+<utterance uid="3-7"><speaker>RYAN</speaker><content>We don’t know yet.  The driver’s log shows that Mr. Gensler was picked up at Teterboro Airport after arriving on a private charter flight from Switzerland.</content></utterance>
+<utterance uid="3-8"><speaker>BECKETT</speaker><content>And where was the car taking him?</content></utterance>
+<utterance uid="3-9"><speaker>RYAN</speaker><content>The manifest only lists the pickup.</content></utterance>
+<utterance uid="3-10"><speaker>BECKETT</speaker><content>You call the car company?</content></utterance>
+<utterance uid="3-11"><speaker>RYAN</speaker><content>Uh … there’s no one to call.  The driver, Renzo Conrad, owned the service. He was a one man band.</content></utterance>
+<utterance uid="3-12"><speaker>BECKETT</speaker><content>Speaking of one man band, where’s your partner?</content></utterance>
+<utterance uid="3-13"><speaker>CASTLE</speaker><content>Yeah.  And Lanie?</content></utterance>
+<utterance uid="3-14"><speaker>LANIE PARISH</speaker><content>Wait! Wait!</content></utterance>
+<utterance uid="3-15"><speaker>JAVIER ESPOSITO</speaker><content>We’re here. We were just, uh …</content></utterance>
+<utterance uid="3-16"><speaker>LANIE</speaker><content>Stuck in traffic.</content></utterance>
+<utterance uid="3-17"><speaker>ESPOSITO</speaker><content>Yep.</content></utterance>
+<utterance uid="3-18"><speaker>BECKETT</speaker><content> Why don’t you bring Romeo here up to speed and contact the Swiss consulate. Maybe they know what Gensler was up to.</content></utterance>
+<utterance uid="3-19"><speaker>LANIE</speaker><content>Castle, what are you doing with my body?</content></utterance>
+<utterance uid="3-20"><speaker>BECKETT</speaker><content>Just pretend that you don’t know him.</content></utterance>
+<utterance uid="3-21"><speaker>CASTLE</speaker><content>Beckett, this is not dirt. It’s flinty. Hints of carbon. It’s coal. Pulverized, unrefined coal.</content></utterance>
+<utterance uid="3-22"><speaker>BECKETT</speaker><content>So?</content></utterance>
+<utterance uid="3-23"><speaker>CASTLE</speaker><content>So I used a clue like this in one of my early Derrick Storm books. It’s very unusual to find unrefined coal outside a coal-fired power plant.</content></utterance>
+<utterance uid="3-24"><speaker>BECKETT</speaker><content>All the coal plants in the city are either shut down or converted.</content></utterance>
+<utterance uid="3-25"><speaker>CASTLE</speaker><content>Right, but some of them are still standing. There’s an abandoned one on Hudson they’re going to turn into a shopping mall.</content></utterance>
+<utterance uid="3-26"><speaker>BECKETT</speaker><content>Coal dust could have come from a lot of places.</content></utterance>
+<utterance uid="3-27"><speaker>CASTLE</speaker><content>An abandoned plant would be a perfect place to launch a strike like this.</content></utterance>
+<utterance uid="3-28"><speaker>BECKETT</speaker><content> Lanie, why don’t you get CSU techs to test the substance on the victim’s shirt. We’ve got to go to Teterboro and look into that flight.</content></utterance>
+<utterance uid="3-29"><speaker>CASTLE</speaker><content>And that coal plant is right on the way.</content></utterance>
+<utterance uid="3-30"><speaker>BECKETT</speaker><content>Fine. We’ll stop off at the coal plant.</content></utterance>
+</scene>
+
+<scene id="4"><utterance uid="4-1"><speaker>CASTLE</speaker><content>So you thinking about going?</content></utterance>
+<utterance uid="4-2"><speaker>BECKETT</speaker><content>Going where?</content></utterance>
+<utterance uid="4-3"><speaker>CASTLE</speaker><content>Sorenson’s wedding. Take a little trip down memory lane?</content></utterance>
+<utterance uid="4-4"><speaker>BECKETT</speaker><content> I don’t think that’s such a good idea.</content></utterance>
+<utterance uid="4-5"><speaker>CASTLE</speaker><content>Why not?</content></utterance>
+<utterance uid="4-6"><speaker>BECKETT</speaker><content> I’m not really ready for someone else’s perfect day.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>CASTLE</speaker><content>You know I’d give anything to change what happened, right?</content></utterance>
+<utterance uid="5-2"><speaker>BECKETT</speaker><content> Yeah, I know you would.</content></utterance>
+<utterance uid="5-3"><speaker>BECKETT</speaker><content>Castle. You were right. The shooter’s G-Wagon is here.  Espo, hey. I need backup at the Hudson River coal plant.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>CASTLE</speaker><content>There’s the case.</content></utterance>
+<utterance uid="6-2"><speaker>BECKETT</speaker><content>What’s in it?</content></utterance>
+<utterance uid="6-3"><speaker>CASTLE</speaker><content>Some kind of artifact.</content></utterance>
+<utterance uid="6-4"><speaker>BECKETT</speaker><content>Must be valuable if it was worth killing over.</content></utterance>
+<utterance uid="6-5"><speaker>BECKETT</speaker><content>Castle, what are you –</content></utterance>
+<utterance uid="6-6"><speaker>BECKETT</speaker><content>Get down!</content></utterance>
+<utterance uid="6-7"><speaker>BECKETT</speaker><content>Why do you always have to touch everything?</content></utterance>
+<utterance uid="6-8"><speaker>CASTLE</speaker><content>I thought you liked that about me.</content></utterance>
+<utterance uid="6-9"><speaker>BECKETT</speaker><content>Move!</content></utterance>
+<utterance uid="6-10"><speaker>CASTLE</speaker><content> Beckett?  Beckett?</content></utterance>
+<utterance uid="6-11"><speaker>CASTLE</speaker><content>Beckett?</content></utterance>
+<utterance uid="6-12"><speaker>CASTLE</speaker><content>Beckett!</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>CASTLE</speaker><content>Guys! Hey, guys!  Beckett’s in trouble. I got away, but her car is missing. I think she was abducted.</content></utterance>
+<utterance uid="7-2"><speaker>RYAN</speaker><content> Uh … Captain?</content></utterance>
+<utterance uid="7-3"><speaker>CASTLE</speaker><content>You’re okay! You made it back.</content></utterance>
+<utterance uid="7-4"><speaker>RYAN</speaker><content>Captain Beckett, this guy claims you’re in trouble.</content></utterance>
+<utterance uid="7-5"><speaker>CASTLE</speaker><content>Captain?</content></utterance>
+<utterance uid="7-6"><speaker>ESPOSITO</speaker><content>You know him?</content></utterance>
+<utterance uid="7-7"><speaker>BECKETT</speaker><content>I’ve never seen this man before in my life.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>CASTLE</speaker><content>Never seen me before? Okay. That’s … very funny. I’m just glad you’re okay. How did you get back here?</content></utterance>
+<utterance uid="8-2"><speaker>BECKETT</speaker><content>Excuse me?</content></utterance>
+<utterance uid="8-3"><speaker>CASTLE</speaker><content>From the power plant. We were being shot at.  That’s a nice suit, but the way.</content></utterance>
+<utterance uid="8-4"><speaker>BECKETT</speaker><content>Whoever you are, I think you better leave.</content></utterance>
+<utterance uid="8-5"><speaker>CASTLE</speaker><content>Whoever I am?</content></utterance>
+<utterance uid="8-6"><speaker>ESPOSITO</speaker><content>Come on, pal. Whatever trip you’re on, if you leave quietly I’m sure we can forget this ever happened.</content></utterance>
+<utterance uid="8-7"><speaker>CASTLE</speaker><content>Okay, oh. I get it. You guys are punking me.  Sorry. Just like, uh … my birthday. This is good! How did you stage that? A double shooting, the severed hand, coal dust on his shirt?</content></utterance>
+<utterance uid="8-8"><speaker>ESPOSITO</speaker><content> He just described our crime scene.</content></utterance>
+<utterance uid="8-9"><speaker>BECKETT</speaker><content>Where did you get that information?</content></utterance>
+<utterance uid="8-10"><speaker>CASTLE</speaker><content> From being at the crime scene with all of you.</content></utterance>
+<utterance uid="8-11"><speaker>RYAN</speaker><content>Captain, we only got the forensics about the coal dust five minutes ago.</content></utterance>
+<utterance uid="8-12"><speaker>BECKETT</speaker><content>And how do you know so much about this case?</content></utterance>
+<utterance uid="8-13"><speaker>CASTLE</speaker><content>Kate, okay, you know what? You got me. Joke’s over.</content></utterance>
+<utterance uid="8-14"><speaker>BECKETT</speaker><content>You’re right.  It is.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>CASTLE</speaker><content>Guys, seriously. What’s going on here?</content></utterance>
+<utterance uid="9-2"><speaker>RYAN</speaker><content>Mr. Richard Castle. Huh. You’re a novelist.  Why don’t you tell us a story about where you were between 4 and 6AM?</content></utterance>
+<utterance uid="9-3"><speaker>CASTLE</speaker><content>In bed with Beckett.</content></utterance>
+<utterance uid="9-4"><speaker>ESPOSITO</speaker><content>Maybe you shouldn’t talk about the Captain like that.</content></utterance>
+<utterance uid="9-5"><speaker>RYAN</speaker><content>How did you know about that coal dust?</content></utterance>
+<utterance uid="9-6"><speaker>CASTLE</speaker><content>Well, that’s where all this started. At the plant. There was –  – there was an explosion. I must have gotten knocked out. This is a dream. Okay? You guys are just creations of psyche. This is me just working out some issues. That’s why you don’t know me. Because you aren’t real. And you know what? I can prove it.  Well known fact: it’s impossible to read in a dream.</content></utterance>
+<utterance uid="9-7"><speaker>RYAN</speaker><content>Hey!</content></utterance>
+<utterance uid="9-8"><speaker>CASTLE</speaker><content>“Richard Castle, AKA Richard Rodgers.”</content></utterance>
+<utterance uid="9-9"><speaker>ESPOSITO</speaker><content>You had me worried there. For a second there I thought I didn’t exist.</content></utterance>
+<utterance uid="9-10"><speaker>CASTLE</speaker><content>Whoa, whoa, whoa. It says here I jumped on a Macy’s parade float and sang “Let It Go” with Idina Menzel and then landed a hot air balloon naked in Central Park? I didn’t do these things, guys. Come on. I would never sing “Let It Go” as a duet.</content></utterance>
+<utterance uid="9-11"><speaker>RYAN</speaker><content>Mr. Castle. This is going to go much easier for you if you just tell us what you know about those murders.</content></utterance>
+<utterance uid="9-12"><speaker>CASTLE</speaker><content>Okay, Kate?  Kate?</content></utterance>
+<utterance uid="9-13"><speaker>RYAN</speaker><content>This guy’s nuts.</content></utterance>
+<utterance uid="9-14"><speaker>CASTLE</speaker><content>Come on.  Please, just talk to me.</content></utterance>
+<utterance uid="9-15"><speaker>ESPOSITO</speaker><content>Sit down or I’ll have to restrain you.</content></utterance>
+<utterance uid="9-16"><speaker>CASTLE</speaker><content>I know you’re in there, because usually I’m right beside you.</content></utterance>
+<utterance uid="9-17"><speaker>BECKETT</speaker><content> Mr. Castle. Sit down.</content></utterance>
+<utterance uid="9-18"><speaker>BECKETT</speaker><content> I’ll handle this.</content></utterance>
+<utterance uid="9-19"><speaker>ESPOSITO</speaker><content>You sure, Captain?</content></utterance>
+<utterance uid="9-20"><speaker>BECKETT</speaker><content>Mmhmm.</content></utterance>
+<utterance uid="9-21"><speaker>BECKETT</speaker><content>Mr. Castle, let’s just say for a moment that you and I did meet each other. Where would that have been?</content></utterance>
+<utterance uid="9-22"><speaker>CASTLE</speaker><content> At my book party. You came to me. You asked me to consult on a copycat murder. It was six years ago. Your hair was short then. It was adorable.</content></utterance>
+<utterance uid="9-23"><speaker>BECKETT</speaker><content>Six years ago, huh?  Well, it says here that you met with a Detective McNulty. Apparently you helped him solve the case.</content></utterance>
+<utterance uid="9-24"><speaker>CASTLE</speaker><content>McNulty? No, no, no. Kate, it was you. Okay? I woke up next to you this morning. I’m not imagining that.</content></utterance>
+<utterance uid="9-25"><speaker>BECKETT</speaker><content>I - I’m sorry, Mr. Castle. We don’t have a relationship. Before today, you and I have never met.  Now, is there someone that you would like to call?</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>MARTHA</speaker><content>Who should I make this out to?</content></utterance>
+<utterance uid="10-2"><speaker>RYAN</speaker><content>Ah, Kevin, Mrs. Rodgers.</content></utterance>
+<utterance uid="10-3"><speaker>MARTHA</speaker><content>Ah ha. All right.  Kevin.</content></utterance>
+<utterance uid="10-4"><speaker>RYAN</speaker><content>Your Mama Rose in Gypsy? Perfection.</content></utterance>
+<utterance uid="10-5"><speaker>MARTHA</speaker><content>Oh, thank you. You are a dear sweet boy.</content></utterance>
+<utterance uid="10-6"><speaker>RYAN</speaker><content>You were robbed of that third Tony.</content></utterance>
+<utterance uid="10-7"><speaker>MARTHA</speaker><content>Oh, well.</content></utterance>
+<utterance uid="10-8"><speaker>CASTLE</speaker><content>Mother?</content></utterance>
+<utterance uid="10-9"><speaker>MARTHA</speaker><content>Richard! Darling, you look like hell.</content></utterance>
+<utterance uid="10-10"><speaker>CASTLE</speaker><content>Thank God. You know me.</content></utterance>
+<utterance uid="10-11"><speaker>MARTHA</speaker><content>No, no, no. Please. Darling, you’re filthy.</content></utterance>
+<utterance uid="10-12"><speaker>ESPOSITO</speaker><content>You’re lucky your mommy could alibi you out for the murder.</content></utterance>
+<utterance uid="10-13"><speaker>MARTHA</speaker><content>He only kills on paper.</content></utterance>
+<utterance uid="10-14"><speaker>MARTHA</speaker><content>And I’ll have you know that coming down to the police station to get my grown son out of prison is the last thing I have time for. You know full well we open in two days.</content></utterance>
+<utterance uid="10-15"><speaker>CASTLE</speaker><content> We open what?</content></utterance>
+<utterance uid="10-16"><speaker>MARTHA</speaker><content>Mame.</content></utterance>
+<utterance uid="10-17"><speaker>RYAN</speaker><content>Mame.</content></utterance>
+<utterance uid="10-18"><speaker>MARTHA</speaker><content>My revival of Auntie Mame. Exactly how hard did you party last night?</content></utterance>
+<utterance uid="10-19"><speaker>CASTLE</speaker><content>Apparently very, very hard.  Oh, that can’t be good.</content></utterance>
+<utterance uid="10-20"><speaker>MARTHA</speaker><content>Come on, kiddo. Come on.</content></utterance>
+<utterance uid="10-21"><speaker>CASTLE</speaker><content>Right.</content></utterance>
+<utterance uid="10-22"><speaker>MARTHA</speaker><content>Oh, dear.</content></utterance>
+<utterance uid="10-23"><speaker>MARTHA</speaker><content>Don’t worry, darling. Once you’re home you’ll feel much better.</content></utterance>
+</scene>
+
+<scene id="11"><utterance uid="11-1"><speaker>CASTLE</speaker><content>Oh my God, Mother. What have you done with my place?</content></utterance>
+<utterance uid="11-2"><speaker>MARTHA</speaker><content>Oh, Richard. We have talked about this. Now that we share the mortgage, it is our place. And since you have lost most of your life savings –</content></utterance>
+<utterance uid="11-3"><speaker>CASTLE</speaker><content>Whoa. Wha – lost my savings? How?</content></utterance>
+<utterance uid="11-4"><speaker>MARTHA</speaker><content>You invested poorly. Mostly blondes and racehorses. And it’s not as if your great American novel here is flying off the shelves.</content></utterance>
+<utterance uid="11-5"><speaker>CASTLE</speaker><content>Finite Laughter? I did not write this. This …  “Babcock was a small man. A small man with large dreams and one of those dreams was Betty.”  This is awful!</content></utterance>
+<utterance uid="11-6"><speaker>MARTHA</speaker><content>Exactly what the critics said. But I am pleased to see that distance has given you some perspective. Good.</content></utterance>
+<utterance uid="11-7"><speaker>ALEXIS CASTLE</speaker><content>Oh, hey Dad.</content></utterance>
+<utterance uid="11-8"><speaker>CASTLE</speaker><content>Hey.</content></utterance>
+<utterance uid="11-9"><speaker>ALEXIS</speaker><content>I see you made bail.</content></utterance>
+<utterance uid="11-10"><speaker>CASTLE</speaker><content>Alexis, your hair. When did you do that?</content></utterance>
+<utterance uid="11-11"><speaker>ALEXIS</speaker><content> Uh … three years ago? Before I moved to LA.</content></utterance>
+<utterance uid="11-12"><speaker>CASTLE</speaker><content>LA?</content></utterance>
+<utterance uid="11-13"><speaker>MARTHA</speaker><content>Richard, don’t start. Alexis is here for a few days. She’s taking time off from saving the world to come to my opening night.</content></utterance>
+<utterance uid="11-14"><speaker>CASTLE</speaker><content>Okay. Okay, that’s it. That’s it. I’m done.</content></utterance>
+<utterance uid="11-15"><speaker>ALEXIS</speaker><content>Gram, is he okay?</content></utterance>
+<utterance uid="11-16"><speaker>MARTHA</speaker><content> He had a rough night.</content></utterance>
+<utterance uid="11-17"><speaker>ALEXIS</speaker><content>Oh.</content></utterance>
+<utterance uid="11-18"><speaker>CASTLE</speaker><content>Whatever all of this is? A coma, a dream, some weird hallucination, or even just an undigested bit of pizza? I’m ending it.</content></utterance>
+<utterance uid="11-19"><speaker>CASTLE</speaker><content>It’s time to wake up.</content></utterance>
+<utterance uid="11-20"><speaker>CASTLE</speaker><content>I don’t understand. I’ve never had a dream like this before. Why am I not waking up?</content></utterance>
+<utterance uid="11-21"><speaker>ALEXIS</speaker><content> Maybe it’s not a dream. Maybe you traveled into some sort of alternate universe.</content></utterance>
+<utterance uid="11-22"><speaker>MARTHA</speaker><content>Oh, Alexis. Don’t tease your father.  Darling, maybe you just better lie down.</content></utterance>
+<utterance uid="11-23"><speaker>CASTLE</speaker><content>Yeah, maybe I should.</content></utterance>
+</scene>
+
+<scene id="12"><utterance uid="12-1"><speaker>CHELSEA</speaker><content>Hey Richie. I used your hidden key, like you said.</content></utterance>
+<utterance uid="12-2"><speaker>CASTLE</speaker><content>Who are you?</content></utterance>
+<utterance uid="12-3"><speaker>CHELSEA</speaker><content>Oh, is that what we’re playing? Okay.  I saw you at the bus stop, mister, and I followed you home.</content></utterance>
+<utterance uid="12-4"><speaker>CASTLE</speaker><content>Okay, obviously we know each other.  Chelsea?</content></utterance>
+<utterance uid="12-5"><speaker>CHELSEA</speaker><content>Oh, it was the funnest two weeks of my life.</content></utterance>
+<utterance uid="12-6"><speaker>CASTLE</speaker><content>Okay. Oh - really – I really can’t do this.</content></utterance>
+<utterance uid="12-7"><speaker>CHELSEA</speaker><content>Sure you can. Sure you can. I’ve got a couple of little blue pills in my purse.</content></utterance>
+<utterance uid="12-8"><speaker>CASTLE</speaker><content>Oh – no – no, I mean – no, I just - I – have to get back to work. Look, you seem like a – a lovely … young – young woman. But I – I – think you should go.</content></utterance>
+<utterance uid="12-9"><speaker>CHELSEA</speaker><content>Seriously?  Writers are so strange.</content></utterance>
+<utterance uid="12-10"><speaker>MAN</speaker><content>It was like suddenly I walked through a doorway where I knew everyone but everyone was different. My wife was married to another man.</content></utterance>
+<utterance uid="12-11"><speaker>WOMAN</speaker><content>I came back home and my parents didn’t recognize me. They didn’t know me.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>MARTHA</speaker><content>Well, good morning darling. Are you feeling better today?</content></utterance>
+<utterance uid="13-2"><speaker>CASTLE</speaker><content>Much. Because I know what’s going on. I know why I’m here. It’s this.</content></utterance>
+<utterance uid="13-3"><speaker>MARTHA</speaker><content> “Swiss archaeological team discovers ancient Incan artifact.”</content></utterance>
+<utterance uid="13-4"><speaker>CASTLE</speaker><content>Not just any artifact. Given its markings, some mystics believe that it’s connected to the Incan gateway to the gods. A doorway through which shamans were known to travel into other realms.</content></utterance>
+<utterance uid="13-5"><speaker>ALEXIS</speaker><content>Dad, I was joking. Please don’t tell me you believe this.</content></utterance>
+<utterance uid="13-6"><speaker>CASTLE</speaker><content>Alexis, I was holding this.  And right at that moment the grenade was rolling between us … I was thinking maybe I wasn’t good for her. Maybe Beckett would be happier if we had never met. That’s what changed. That’s where I am. In a world where we never met. It’s like the last six years didn’t happen.</content></utterance>
+<utterance uid="13-7"><speaker>ALEXIS</speaker><content>Who – who’s Beckett?</content></utterance>
+<utterance uid="13-8"><speaker>CASTLE</speaker><content>Exactly. You don’t know who she is because she and I never met, so I didn’t write Nikki Heat. I wrote that God awful piece of trash instead.  And with less money coming in you were forced to go out and be successful.</content></utterance>
+<utterance uid="13-9"><speaker>MARTHA</speaker><content>I found success because of my boundless talent.</content></utterance>
+<utterance uid="13-10"><speaker>CASTLE</speaker><content> And somehow we drifted apart.</content></utterance>
+<utterance uid="13-11"><speaker>ALEXIS</speaker><content>Somehow?</content></utterance>
+<utterance uid="13-12"><speaker>CASTLE</speaker><content>I’m not crazy. This is not my world. I need to get back home.</content></utterance>
+<utterance uid="13-13"><speaker>MARTHA</speaker><content>How do you intend to do that?</content></utterance>
+<utterance uid="13-14"><speaker>CASTLE</speaker><content>By helping this world’s Beckett find that artifact. So I can get back to my reality.</content></utterance>
+<utterance uid="13-15"><speaker>ALEXIS</speaker><content>This is why I live with Mom.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>CASTLE</speaker><content>So you’re a fan.  And here I thought you didn’t know me.</content></utterance>
+<utterance uid="14-2"><speaker>BECKETT</speaker><content>I don’t. I mean, I didn’t. I – I –</content></utterance>
+<utterance uid="14-3"><speaker>CASTLE</speaker><content>Didn’t recognize me in my deranged state? Listen.  I have to apologize. How I acted, you must have thought I was crazy.</content></utterance>
+<utterance uid="14-4"><speaker>BECKETT</speaker><content>Well, yeah, that’s because you were.</content></utterance>
+<utterance uid="14-5"><speaker>CASTLE</speaker><content>Yeah. It’s this new book I’ve been working on. I have been working nonstop. I mean, I have been drinking coffee, popping No-Doz. I haven’t slept in days. And to make matters worse, the new character, I kind of based her on you. What I’ve read about you. So she’s savvy and smart and driven and I have fallen in love with her. I eat with her, I sleep with her. But I know you are not her.</content></utterance>
+<utterance uid="14-6"><speaker>BECKETT</speaker><content>You know, none of this explains how you know so much about the crime scene.</content></utterance>
+<utterance uid="14-7"><speaker>CASTLE</speaker><content>I have a police scanner and I was tracking the investigation. Actually, that’s why I’m here, Captain. I know what was in the briefcase. I know where it’s going and I think I know who took it.</content></utterance>
+<utterance uid="14-8"><speaker>BECKETT</speaker><content>And how do you know all that?</content></utterance>
+<utterance uid="14-9"><speaker>CASTLE</speaker><content>It’s complicated. But I do.</content></utterance>
+<utterance uid="14-10"><speaker>RYAN</speaker><content>Hey Cap.  What’s he doing here?</content></utterance>
+<utterance uid="14-11"><speaker>BECKETT</speaker><content>I’m not sure.</content></utterance>
+<utterance uid="14-12"><speaker>RYAN</speaker><content>Okay. So uh … heard back from the courier company. Turns out our victim was transporting –</content></utterance>
+<utterance uid="14-13"><speaker>CASTLE</speaker><content>- an ancient Incan artifact.</content></utterance>
+<utterance uid="14-14"><speaker>RYAN</speaker><content>Yeah. And it was on its way -</content></utterance>
+<utterance uid="14-15"><speaker>CASTLE</speaker><content>To the Lamont-Doherty Laboratory in Palisades, New York. For studies. Scientists believe it was fashioned from meteorite, but it’s proven impenetrable to conventional scans.  How did I know all this? I used to be a crime novelist and I still have a few sources.  Captain, this is what your victims were killed for.</content></utterance>
+<utterance uid="14-16"><speaker>BECKETT</speaker><content>And why would someone kill for this?</content></utterance>
+<utterance uid="14-17"><speaker>RYAN</speaker><content>Well, the folks at the lab said that an object like that would be invaluable to any collector.</content></utterance>
+<utterance uid="14-18"><speaker>BECKETT</speaker><content>Mr. Castle, you said that you might know who took it.</content></utterance>
+<utterance uid="14-19"><speaker>CASTLE</speaker><content>Not exactly who, but I know who was involved.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>CASTLE</speaker><content>So the car service was going to pick up Gensler, the courier, from the airport here, take him to the lab, here.  Basically north. But for some reason, when they were attacked they ended up here, in Spanish Harlem.</content></utterance>
+<utterance uid="15-2"><speaker>BECKETT</speaker><content>The opposite way.</content></utterance>
+<utterance uid="15-3"><speaker>CASTLE</speaker><content>Yes. So either this driver has a terrible sense of direction –</content></utterance>
+<utterance uid="15-4"><speaker>BECKETT</speaker><content>- or he was in on it.</content></utterance>
+<utterance uid="15-5"><speaker>CASTLE</speaker><content>And maybe his partners killed him to silence him.</content></utterance>
+<utterance uid="15-6"><speaker>BECKETT</speaker><content>Detective Ryan, get everything you can on that driver.</content></utterance>
+<utterance uid="15-7"><speaker>BECKETT</speaker><content> That was surprisingly helpful, Mr. Castle.</content></utterance>
+<utterance uid="15-8"><speaker>CASTLE</speaker><content>Do you mind if I hang around? See how this turns out?</content></utterance>
+<utterance uid="15-9"><speaker>BECKETT</speaker><content>Uh uh. Break room’s over there.</content></utterance>
+<utterance uid="15-10"><speaker>CASTLE</speaker><content>I know.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>ESPOSITO</speaker><content>Yo. Writer boy. Tell me how you know about that coal plant.</content></utterance>
+<utterance uid="16-2"><speaker>CASTLE</speaker><content>What?</content></utterance>
+<utterance uid="16-3"><speaker>ESPOSITO</speaker><content>The one you were talking about when you came in yesterday. Captain had me check it out.  You know what I found?</content></utterance>
+<utterance uid="16-4"><speaker>ESPOSITO</speaker><content>Tire tracks. The same tire tracks we found at our crime scene. Now, you knew that our doers were using it as a staging ground. The only way you would know that is if you were involved.</content></utterance>
+<utterance uid="16-5"><speaker>CASTLE</speaker><content>Okay, fine. I don’t usually like to tell people this, but I have a gift. I know things.</content></utterance>
+<utterance uid="16-6"><speaker>ESPOSITO</speaker><content>You know things?</content></utterance>
+<utterance uid="16-7"><speaker>CASTLE</speaker><content>You and I haven’t met before yesterday, correct?</content></utterance>
+<utterance uid="16-8"><speaker>ESPOSITO</speaker><content>Yeah.</content></utterance>
+<utterance uid="16-9"><speaker>CASTLE</speaker><content>So then how would I know that you had a thing with a woman whose initials were … L.P. And how would I know that she moved on and you can’t.</content></utterance>
+<utterance uid="16-10"><speaker>ESPOSITO</speaker><content>Ryan has a big fat mouth. That’s how you know.</content></utterance>
+<utterance uid="16-11"><speaker>CASTLE</speaker><content>What happened? Commitment issues?</content></utterance>
+<utterance uid="16-12"><speaker>RYAN</speaker><content> Hey man, we’ve got something.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>RYAN</speaker><content>Okay, so over the last four days before he was killed our driver made a –</content></utterance>
+<utterance uid="17-2"><speaker>RYAN</speaker><content>Our driver made a series of phone calls to a pay phone located inside of a restaurant. The only problem is the place has been shut down the last couple months.</content></utterance>
+<utterance uid="17-3"><speaker>ESPOSITO</speaker><content>Who was he calling?</content></utterance>
+<utterance uid="17-4"><speaker>RYAN</speaker><content>I have no idea, but check it out. This deserted restaurant, El Chozo? Maybe that’s where he was headed. It’s right near where the SUV was attacked.</content></utterance>
+<utterance uid="17-5"><speaker>BECKETT</speaker><content>All right. Get up there. See what you can find.</content></utterance>
+<utterance uid="17-6"><speaker>CASTLE</speaker><content>Uh, Captain? Would it be possible for me to ride along? Strictly for research purposes.</content></utterance>
+<utterance uid="17-7"><speaker>ESPOSITO</speaker><content>Is he kidding?</content></utterance>
+<utterance uid="17-8"><speaker>CASTLE</speaker><content>I would just love the chance to observe. Get some details for my book.</content></utterance>
+<utterance uid="17-9"><speaker>RYAN</speaker><content>Yeah, sure, Cap. We’ll take him along.</content></utterance>
+<utterance uid="17-10"><speaker>ESPOSITO</speaker><content>What the …</content></utterance>
+<utterance uid="17-11"><speaker>RYAN</speaker><content>Dude, it’s Martha Rodger’s son. He can get us house seats.  You can get us house seats, right?</content></utterance>
+<utterance uid="17-12"><speaker>CASTLE</speaker><content>Ab … solutely.</content></utterance>
+<utterance uid="17-13"><speaker>BECKETT</speaker><content>Okay. But do as they say and don’t interfere.</content></utterance>
+<utterance uid="17-14"><speaker>RYAN</speaker><content>Come on. Let’s go, house seats.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>CASTLE</speaker><content>So the Captain, is she seeing anyone?</content></utterance>
+<utterance uid="18-2"><speaker>RYAN</speaker><content>She has boyfriends. Nothing serious.</content></utterance>
+<utterance uid="18-3"><speaker>ESPOSITO</speaker><content>Why, writer boy? What, you think you have a chance with her?  And what are you doing? Telling crazy over here about everyone’s private life.</content></utterance>
+<utterance uid="18-4"><speaker>RYAN</speaker><content>Me?</content></utterance>
+<utterance uid="18-5"><speaker>ESPOSITO</speaker><content>Yeah. You told him about Lanie and me.</content></utterance>
+<utterance uid="18-6"><speaker>RYAN</speaker><content>No. No, no, no. I didn’t.</content></utterance>
+<utterance uid="18-7"><speaker>CASTLE</speaker><content>No. Listen, I have a gift, all right? I look at people and I see things.</content></utterance>
+<utterance uid="18-8"><speaker>RYAN</speaker><content> Yeah? Uh … what do you see when you look at me?</content></utterance>
+<utterance uid="18-9"><speaker>CASTLE</speaker><content>Honey milk and freckles.</content></utterance>
+<utterance uid="18-10"><speaker>RYAN</speaker><content>No! That’s Jenny O’Malley. She used to … make me honey milk.  She could’ve been the one.</content></utterance>
+<utterance uid="18-11"><speaker>CASTLE</speaker><content>Could’ve?</content></utterance>
+<utterance uid="18-12"><speaker>RYAN</speaker><content>Yeah. Um … when Beckett was promoted to Captain our case load doubled. I guess I never had time for her.</content></utterance>
+<utterance uid="18-13"><speaker>CASTLE</speaker><content>Maybe you should give her a call.</content></utterance>
+<utterance uid="18-14"><speaker>ESPOSITO</speaker><content>Maybe you should mind your own business.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>ESPOSITO</speaker><content> All right. Here are the rules. Stay in the car or I shoot you. Got it?</content></utterance>
+<utterance uid="19-2"><speaker>CASTLE</speaker><content>You want to crack a window for me?</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>ESPOSITO</speaker><content>I can’t believe the Captain’s making us babysit this nutjob.</content></utterance>
+<utterance uid="20-2"><speaker>RYAN</speaker><content>Oh, he’s not so bad.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>CASTLE</speaker><content>Yes.</content></utterance>
+<utterance uid="21-2"><speaker>CASTLE</speaker><content>Okay. Take me home.</content></utterance>
+<utterance uid="21-3"><speaker>CASTLE</speaker><content> Come on.</content></utterance>
+<utterance uid="21-4"><speaker>MARIA SANCHEZ</speaker><content>Hand it over. Or you die.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>MARIA</speaker><content>Who sent you? What do you know?</content></utterance>
+<utterance uid="22-2"><speaker>CASTLE</speaker><content>Nobody sent me. Nobody – uh, just – it sent me. The object. It sent me. I saw a blue light and I ended up here.</content></utterance>
+<utterance uid="22-3"><speaker>RYAN</speaker><content>NYPD! Drop your knife, now!</content></utterance>
+<utterance uid="22-4"><speaker>CASTLE</speaker><content>Whoa!</content></utterance>
+<utterance uid="22-5"><speaker>RYAN</speaker><content>What the hell, man? You were supposed to wait in the car.</content></utterance>
+<utterance uid="22-6"><speaker>CASTLE</speaker><content>What does it matter now? It’s broken! Now I’m never getting home. I’m stuck here in this life.  But the real one would never break.  This is a fake!  This is a fake. Where did you get this and where’s the real one?</content></utterance>
+<utterance uid="22-7"><speaker>ESPOSITO</speaker><content>Cuff him, too.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>BECKETT</speaker><content>What the hell do you think you were doing? You could have gotten yourself killed.</content></utterance>
+<utterance uid="23-2"><speaker>CASTLE</speaker><content>I had backup. And I did help capture a suspect.</content></utterance>
+<utterance uid="23-3"><speaker>BECKETT</speaker><content>No, you were supposed to accompany and observe, not participate and –</content></utterance>
+<utterance uid="23-4"><speaker>CASTLE</speaker><content>Annoy!</content></utterance>
+<utterance uid="23-5"><speaker>BECKETT</speaker><content>Risk my people’s lives. Now, after this morning’s antics I expected you to be on your best behavior.</content></utterance>
+<utterance uid="23-6"><speaker>CASTLE</speaker><content>Actually, that kind of is my best behavior.</content></utterance>
+<utterance uid="23-7"><speaker>BECKETT</speaker><content> What?</content></utterance>
+<utterance uid="23-8"><speaker>ESPOSITO</speaker><content>Oh, I’m just enjoying the show.  Our suspect’s name is Maria Sanchez. She’s wanted by the Peruvian government in connection with the bombings at a government building. Not to mention the theft and trafficking of stolen artifacts.</content></utterance>
+<utterance uid="23-9"><speaker>CASTLE</speaker><content>Then that’s her. She’s behind it. And we need to talk to her.</content></utterance>
+<utterance uid="23-10"><speaker>BECKETT</speaker><content>No, Mr. Castle. They need to talk to her. You need to go home. You’re done with this case.</content></utterance>
+<utterance uid="23-11"><speaker>CASTLE</speaker><content>But –</content></utterance>
+<utterance uid="23-12"><speaker>BECKETT</speaker><content>You’re lucky I don’t arrest you for obstruction. Officer, please escort Mr. Castle to the elevator.</content></utterance>
+<utterance uid="23-13"><speaker>CASTLE</speaker><content>You don’t understand. I need to find this artifact. Beckett! Please.</content></utterance>
+<utterance uid="23-14"><speaker>BECKETT</speaker><content> Yes, Detective Esposito?</content></utterance>
+<utterance uid="23-15"><speaker>ESPOSITO</speaker><content>You’re not letting him get to you, are you?</content></utterance>
+<utterance uid="23-16"><speaker>BECKETT</speaker><content>Don’t you have a case to close?</content></utterance>
+</scene>
+
+
+<scene id="24"><utterance uid="24-1"><speaker>MARIA</speaker><content>You call it smuggling. We call it taking back our rightful legacy. That artifact was considered divine by our shamans and belongs to the Incan people.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>RYAN</speaker><content>Was that legacy worth the lives of two men?</content></utterance>
+<utterance uid="25-2"><speaker>MARIA</speaker><content>No, that wasn’t the plan.</content></utterance>
+<utterance uid="25-3"><speaker>RYAN</speaker><content>Well, what was the plan, Maria?</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>CASTLE</speaker><content>Come on, just ask her where the artifact is.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>MARIA</speaker><content>My cousin, Renzo, he was the driver. He put sedatives in the courier’s water. To knock him out. Once Gensler was asleep we were going to bring him to the restaurant and switch the cases. No one was supposed to get hurt. But someone attacked them. Someone else took it.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>CASTLE</speaker><content>You don’t know where it is?</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>RYAN</speaker><content>That attack happened just a few blocks from the restaurant. How did they know the car was going to be there? Who else was involved, Maria?  Who else besides you and Renzo knew about the change in route?</content></utterance>
+<utterance uid="29-2"><speaker>MARIA</speaker><content>No one.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>MARIA</speaker><content>Except the guy at the airport.</content></utterance>
+<utterance uid="30-2"><speaker>CASTLE</speaker><content>What guy?</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>RYAN</speaker><content>What guy?</content></utterance>
+<utterance uid="31-2"><speaker>MARIA</speaker><content>The plan only worked if Renzo made the pickup, but the courier, Gensler, was using another car service. So we paid the concierge at the private jet terminal to change limo companies. Maybe he told someone.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>CASTLE</speaker><content> Well maybe he knows where the artifact is. Just … ask her his name.</content></utterance>
+<utterance uid="32-2"><speaker>ESPOSITO</speaker><content>Do you remember his name?</content></utterance>
+<utterance uid="32-3"><speaker>BECKETT</speaker><content>Mr. Castle!</content></utterance>
+<utterance uid="32-4"><speaker>CASTLE</speaker><content>Hey. I was – I just … um…</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>CASTLE</speaker><content>I can’t believe she locked me up. She had no idea she’s stopping me from getting back to her.</content></utterance>
+<utterance uid="33-2"><speaker>PERP</speaker><content>I don’t know, man. Maybe this is your real life. Because the one where you’re rich and famous and engaged to the hot cop? Sounds pretty made up to me.</content></utterance>
+<utterance uid="33-3"><speaker>BECKETT</speaker><content>I called your mother. She refused to come and get you.</content></utterance>
+<utterance uid="33-4"><speaker>CASTLE</speaker><content>Oh. Well, she always did believe in tough love.</content></utterance>
+<utterance uid="33-5"><speaker>BECKETT</speaker><content>That doesn’t seem to have worked out in your case.</content></utterance>
+<utterance uid="33-6"><speaker>CASTLE</speaker><content>No.</content></utterance>
+<utterance uid="33-7"><speaker>BECKETT</speaker><content>What is it with you and this case, Mr. Castle?</content></utterance>
+<utterance uid="33-8"><speaker>CASTLE</speaker><content>I’m a mystery writer. I’m compelled to know how the story ends.</content></utterance>
+<utterance uid="33-9"><speaker>BECKETT</speaker><content>With you. Going home.</content></utterance>
+<utterance uid="33-10"><speaker>CASTLE</speaker><content>You’re letting me go?</content></utterance>
+<utterance uid="33-11"><speaker>BECKETT</speaker><content>Well, I could let you stay overnight but then I would have to do the paperwork.</content></utterance>
+<utterance uid="33-12"><speaker>CASTLE</speaker><content>No, no, no.</content></utterance>
+<utterance uid="33-13"><speaker>BECKETT</speaker><content>You know, you were right. We have met before.</content></utterance>
+<utterance uid="33-14"><speaker>CASTLE</speaker><content>We have?</content></utterance>
+<utterance uid="33-15"><speaker>BECKETT</speaker><content>On a book tour for an old Derrick Storm novel. I, uh, waited in line to get it signed. By you. I used to love those books.</content></utterance>
+<utterance uid="33-16"><speaker>CASTLE</speaker><content>You never told me that.</content></utterance>
+<utterance uid="33-17"><speaker>BECKETT</speaker><content>Well, we’ve only known each other for a day. Although it feels a lot longer.</content></utterance>
+<utterance uid="33-18"><speaker>CASTLE</speaker><content>I have that effect on people.</content></utterance>
+<utterance uid="33-19"><speaker>BECKETT</speaker><content>There’s something I’ve been meaning to ask you.</content></utterance>
+<utterance uid="33-20"><speaker>CASTLE</speaker><content>Anything.</content></utterance>
+<utterance uid="33-21"><speaker>BECKETT</speaker><content>Why did you kill off Derrick Storm?</content></utterance>
+<utterance uid="33-22"><speaker>ESPOSITO</speaker><content>Hey Captain. We’ve got something.</content></utterance>
+<utterance uid="33-23"><speaker>BECKETT</speaker><content>Another time, I guess. Good night, Mr. Castle.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>RYAN</speaker><content>So we talked to the concierge at the airport. He admitted to taking a bribe from Maria to switch limo companies, but he swore that he didn’t tell anyone.</content></utterance>
+<utterance uid="34-2"><speaker>ESPOSITO</speaker><content>But when we held his feet to the fire he came clean about what he saw that night.</content></utterance>
+<utterance uid="34-3"><speaker>RYAN</speaker><content>A black G-wagon sitting outside the airport gates with two guys in it.</content></utterance>
+<utterance uid="34-4"><speaker>BECKETT</speaker><content>Our shooters.  So they must have been waiting for Gensler and then they followed him from the airport.</content></utterance>
+<utterance uid="34-5"><speaker>ESPOSITO</speaker><content>Yeah, and while they were waiting one of them slipped out for a smoke. Surveillance caught him on camera.</content></utterance>
+<utterance uid="34-6"><speaker>RYAN</speaker><content>We issued a BOLO and we’re going to run the tattoo through the database in the morning.</content></utterance>
+<utterance uid="34-7"><speaker>BECKETT</speaker><content>All right. Why don’t you gentlemen keep me apprised?</content></utterance>
+<utterance uid="34-8"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+</scene>
+
+<scene id="35"><utterance uid="35-1"><speaker>CASTLE</speaker><content>Hi.</content></utterance>
+<utterance uid="35-2"><speaker>BECKETT</speaker><content>I thought we agreed that you were leaving.</content></utterance>
+<utterance uid="35-3"><speaker>CASTLE</speaker><content>Well, I had a thought about the case –</content></utterance>
+<utterance uid="35-4"><speaker>BECKETT</speaker><content>You’re not on the case.</content></utterance>
+<utterance uid="35-5"><speaker>CASTLE</speaker><content>Actually, I was thinking about you. I was wondering if I could buy you a drink. It’s the least I could do. I owe you that much.</content></utterance>
+<utterance uid="35-6"><speaker>BECKETT</speaker><content>Right, well, I don’t think that that would be a good –</content></utterance>
+<utterance uid="35-7"><speaker>CASTLE</speaker><content>And … if you come I will tell you why I killed Derrick Storm.</content></utterance>
+</scene>
+
+<scene id="36"><utterance uid="36-1"><speaker>CASTLE</speaker><content>So, youngest woman to ever make captain. That’s impressive.</content></utterance>
+<utterance uid="36-2"><speaker>BECKETT</speaker><content>It’s not all that it’s cracked up to be.</content></utterance>
+<utterance uid="36-3"><speaker>CASTLE</speaker><content>No?</content></utterance>
+<utterance uid="36-4"><speaker>BECKETT</speaker><content>No, and if you really are basing a character on me then she’s going to be boring.</content></utterance>
+<utterance uid="36-5"><speaker>CASTLE</speaker><content>Oh, I doubt you could ever be boring.</content></utterance>
+<utterance uid="36-6"><speaker>BECKETT</speaker><content>Well, my life mostly consists of paperwork and politics.</content></utterance>
+<utterance uid="36-7"><speaker>CASTLE</speaker><content>Ah, you miss the streets.</content></utterance>
+<utterance uid="36-8"><speaker>BECKETT</speaker><content>Um …  … truthfully, I don’t think I was meant to be a homicide detective.</content></utterance>
+<utterance uid="36-9"><speaker>CASTLE</speaker><content>Why would you say that?</content></utterance>
+<utterance uid="36-10"><speaker>BECKETT</speaker><content>Because. The case that made me want to become a cop I was never able to solve.</content></utterance>
+<utterance uid="36-11"><speaker>BECKETT</speaker><content>Anyway, back to you. Why did you kill of Derrick Storm?</content></utterance>
+<utterance uid="36-12"><speaker>CASTLE</speaker><content>Ah. It’s complicated.</content></utterance>
+<utterance uid="36-13"><speaker>BECKETT</speaker><content>Wait. What is this place? I thought this was a date.</content></utterance>
+<utterance uid="36-14"><speaker>CASTLE</speaker><content>Okay, hang on. Hear me out.</content></utterance>
+<utterance uid="36-15"><speaker>BECKETT</speaker><content>You’re still working the case.</content></utterance>
+<utterance uid="36-16"><speaker>CASTLE</speaker><content>Listen, the crimson rhino is the mascot for an Australian rugby team. If our suspect has it tattooed on his neck he’s got to be a major fan. I looked it up. There’s only one bar in New York that plays their games live. And there’s one on right now.</content></utterance>
+<utterance uid="36-17"><speaker>BECKETT</speaker><content>I knew this was a mistake.</content></utterance>
+<utterance uid="36-18"><speaker>CASTLE</speaker><content>Beckett, wait.</content></utterance>
+<utterance uid="36-19"><speaker>BECKETT</speaker><content>It’s him.  Stay here.</content></utterance>
+<utterance uid="36-20"><speaker>BECKETT</speaker><content>Excuse me.  NYPD. Step away from the bar and put your hands where I can see them.</content></utterance>
+<utterance uid="36-21"><speaker>TATTOOED MAN</speaker><content>Sure thing.</content></utterance>
+<utterance uid="36-22"><speaker>BECKETT</speaker><content>Hey!</content></utterance>
+<utterance uid="36-23"><speaker>CASTLE</speaker><content>We make a pretty good team, you and I.</content></utterance>
+</scene>
+<scene id="37"><utterance uid="37-1"><speaker>CASTLE</speaker><content>Well? What’d he say?</content></utterance>
+<utterance uid="37-2"><speaker>BECKETT</speaker><content>Nothing, on the advice of his high-powered council.</content></utterance>
+<utterance uid="37-3"><speaker>CASTLE</speaker><content>Okay. So what’s our next move.</content></utterance>
+<utterance uid="37-4"><speaker>BECKETT</speaker><content>There is no next move. You asked to stick around until this case was resolved. It’s resolved.</content></utterance>
+<utterance uid="37-5"><speaker>CASTLE</speaker><content>How is it resolved?</content></utterance>
+<utterance uid="37-6"><speaker>BECKETT</speaker><content>Detectives Ryan and Esposito found the G-wagon and the murder weapons at our suspect’s place. This is open and shut.</content></utterance>
+<utterance uid="37-7"><speaker>CASTLE</speaker><content>What about the artifact? We need to find it.</content></utterance>
+<utterance uid="37-8"><speaker>BECKETT</speaker><content>Whoever had them steal it, it and they are long gone by now.</content></utterance>
+<utterance uid="37-9"><speaker>CASTLE</speaker><content>Someone has to know where it is. There’s the other shooter.</content></utterance>
+<utterance uid="37-10"><speaker>BECKETT</speaker><content>Okay, but we have no way to find him. Look, the DA’s going to ask for a plea deal. But trust me. This suspect’s ex-military. He’s not going to roll.</content></utterance>
+<utterance uid="37-11"><speaker>CASTLE</speaker><content>So that’s it?</content></utterance>
+<utterance uid="37-12"><speaker>BECKETT</speaker><content>This isn’t one of your books, Mr. Castle. You don’t always get the answers. We cleared the case. It’s a win.</content></utterance>
+<utterance uid="37-13"><speaker>CASTLE</speaker><content>No. You know, that can’t be it.  The Kate Beckett in my world would never call this a win. The Kate Beckett where I come from? She would be unrelenting in the face of anything that is thrown in her path. She would find the truth and she would never compromise.</content></utterance>
+<utterance uid="37-14"><speaker>BECKETT</speaker><content>I don’t know what twilight zone world you think you come from, but you don’t know me. And don’t pretend you do. Good bye, Mr. Castle. We’re done here.</content></utterance>
+</scene>
+
+<scene id="38"><utterance uid="38-1"><speaker>CASTLE</speaker><content>Hey. You’re still up.</content></utterance>
+<utterance uid="38-2"><speaker>ALEXIS</speaker><content>Still on LA time.</content></utterance>
+<utterance uid="38-3"><speaker>CASTLE</speaker><content>Right.</content></utterance>
+<utterance uid="38-4"><speaker>ALEXIS</speaker><content>So did you find your mystic meteor?</content></utterance>
+<utterance uid="38-5"><speaker>CASTLE</speaker><content>No, no. Um … trail went cold.</content></utterance>
+<utterance uid="38-6"><speaker>ALEXIS</speaker><content>Guess you’re stuck here with us, then.</content></utterance>
+<utterance uid="38-7"><speaker>CASTLE</speaker><content>Come – come sit with me.</content></utterance>
+<utterance uid="38-8"><speaker>CASTLE</speaker><content>Come on. Just give me a chance. Just … um … for old time’s sake.  I have a question for you. And I would love a non-ironic answer.  What happened to us? Why did you move to LA?</content></utterance>
+<utterance uid="38-9"><speaker>ALEXIS</speaker><content> You know why.</content></utterance>
+<utterance uid="38-10"><speaker>CASTLE</speaker><content>Tell me again.</content></utterance>
+<utterance uid="38-11"><speaker>ALEXIS</speaker><content>Because you gave up. You read all those terrible reviews on your magnum opus and you couldn’t move past it, and I couldn’t stick around and watch. But you know what? Now I think I understand it.</content></utterance>
+<utterance uid="38-12"><speaker>CASTLE</speaker><content>What do you mean?</content></utterance>
+<utterance uid="38-13"><speaker>ALEXIS</speaker><content>I had all these plans, you know? To change the world. But this non-profit I’m working for, everything we do seems so small and pointless. It’s like nothing I do matters, so why try?</content></utterance>
+<utterance uid="38-14"><speaker>CASTLE</speaker><content>Sweetie, no. Everything you do matters. Every moment, every decision that you make, it affects the people around you. It changes the world in a million imperceptible ways. And no matter what your reality, you can make it better. We both can.</content></utterance>
+<utterance uid="38-15"><speaker>ALEXIS</speaker><content>I’ve missed you, Dad.</content></utterance>
+</scene>
+<scene id="39"><utterance uid="39-1"><speaker>MARTHA</speaker><content>La la la la la la la la, le le le le le, low, low, low.  Oh, darling! Where are you off to?</content></utterance>
+<utterance uid="39-2"><speaker>CASTLE</speaker><content>I’m going to take my own advice. I know why the universe sent me to this world. So the most important day of our lives got screw up. Big deal. She’s better off with me and I’m better off with her. Even in this world. If I can prove to this Beckett how extraordinary she is, she can help me find that artifact. And I can get back home.</content></utterance>
+</scene>
+<scene id="40"><utterance uid="40-1"><speaker>CASHIER</speaker><content>There you go. That’s a large cappuccino for Rick and a large skinny latte, two pumps sugar free vanilla for Kate, right?</content></utterance>
+<utterance uid="40-2"><speaker>CASTLE</speaker><content>Perfect.  Thank you very much.</content></utterance>
+<utterance uid="40-3"><speaker>CASTLE</speaker><content>Taxi!</content></utterance>
+<utterance uid="40-4"><speaker>JACK</speaker><content>That’s okay. I’ll give you a ride.</content></utterance>
+<utterance uid="40-5"><speaker>CASTLE</speaker><content>I hate this world.</content></utterance>
+</scene>
+
+<scene id="41"><utterance uid="41-1"><speaker>CASTLE</speaker><content>Hey. Take it easy.</content></utterance>
+<utterance uid="41-2"><speaker>LAWYER</speaker><content>That’s him.</content></utterance>
+<utterance uid="41-3"><speaker>CASTLE</speaker><content>Marcus Lark. Lark Development. So you’re behind this.</content></utterance>
+<utterance uid="41-4"><speaker>MARCUS LARK</speaker><content>What do you know about this, Mr. Castle?</content></utterance>
+<utterance uid="41-5"><speaker>CASTLE</speaker><content>I know you killed two men for it.</content></utterance>
+<utterance uid="41-6"><speaker>LARK</speaker><content>Oh, you know more than that. My attorney overheard you at the police station. So I had him check up on you. Pretty strange behavior the last two days, which either means you’re psychotic or this isn’t your world.</content></utterance>
+<utterance uid="41-7"><speaker>CASTLE</speaker><content>I have no idea what you’re talking about.</content></utterance>
+<utterance uid="41-8"><speaker>LARK</speaker><content>I think you do.</content></utterance>
+<utterance uid="41-9"><speaker>LARK</speaker><content>Do you know how many years I spent looking for this? Hearing the whispered secrets? Ancient alien technology. Naturally occurring quantum anomalies. I spent years untangling legend from truth. The Incans believed it was a gateway to the gods, but it’s not. It’s a doorway to the infinite. A chance to change my destiny. I know everything about this, Mr. Castle. Except how it works.</content></utterance>
+<utterance uid="41-10"><speaker>CASTLE</speaker><content>You’re rich. Successful. You have everything. Why would you want to change your destiny?</content></utterance>
+<utterance uid="41-11"><speaker>LARK</speaker><content>No man lives without regrets. Now then, Mr. Castle. How does it work?</content></utterance>
+<utterance uid="41-12"><speaker>CASTLE</speaker><content>I don’t know. I was holding on to it and it just happened.</content></utterance>
+<utterance uid="41-13"><speaker>LARK</speaker><content>Look, I don’t want to hurt you. But I will if you don’t tell me how it works.</content></utterance>
+<utterance uid="41-14"><speaker>CASTLE</speaker><content> I swear to you, I don’t know.</content></utterance>
+<utterance uid="41-15"><speaker>LARK</speaker><content>Shoot out his knee.</content></utterance>
+<utterance uid="41-16"><speaker>CASTLE</speaker><content>What?</content></utterance>
+<utterance uid="41-17"><speaker>BECKETT</speaker><content>NYPD! Drop your weapon, now!</content></utterance>
+<utterance uid="41-18"><speaker>CASTLE</speaker><content>Regret this.</content></utterance>
+<utterance uid="41-19"><speaker>BECKETT</speaker><content>Are you okay?</content></utterance>
+<utterance uid="41-20"><speaker>CASTLE</speaker><content>Yeah. How’d you find me?</content></utterance>
+<utterance uid="41-21"><speaker>BECKETT</speaker><content>I couldn’t stop thinking about what you said, about compromise. So I decided to retrace the investigation. It’s just pure luck that it brought me here when it did.</content></utterance>
+<utterance uid="41-22"><speaker>CASTLE</speaker><content>Or fate.</content></utterance>
+<utterance uid="41-23"><speaker>BECKETT</speaker><content>Why are you here? What did they want from you?</content></utterance>
+<utterance uid="41-24"><speaker>CASTLE</speaker><content>Something I guess I didn’t have.</content></utterance>
+<utterance uid="41-25"><speaker>CASTLE</speaker><content>Look out!</content></utterance>
+<utterance uid="41-26"><speaker>BECKETT</speaker><content>Oh, God. Mr. Castle. You saved my life. Why?</content></utterance>
+<utterance uid="41-27"><speaker>CASTLE</speaker><content>Because I love you, Kate.</content></utterance>
+<utterance uid="41-28"><speaker>BECKETT</speaker><content>Mr. Castle.  No, please don’t go. Stay with me. Stay with me. Castle. Castle? Castle.</content></utterance>
+</scene>
+<scene id="42"><utterance uid="42-1"><speaker>BECKETT</speaker><content>Castle? Castle.</content></utterance>
+<utterance uid="42-2"><speaker>BECKETT</speaker><content>Castle? Castle. Castle.</content></utterance>
+<utterance uid="42-3"><speaker>CASTLE</speaker><content>Beckett?</content></utterance>
+<utterance uid="42-4"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="42-5"><speaker>CASTLE</speaker><content>It’s you.  My you!</content></utterance>
+<utterance uid="42-6"><speaker>CASTLE</speaker><content>I’m back. I’m back.  And I’m not dead.</content></utterance>
+<utterance uid="42-7"><speaker>BECKETT</speaker><content>What happened? You hit your head?</content></utterance>
+<utterance uid="42-8"><speaker>CASTLE</speaker><content>No. How long was I gone?</content></utterance>
+<utterance uid="42-9"><speaker>BECKETT</speaker><content>I don’t know. We got separated. Ryan and Esposito got here just in time with backup.</content></utterance>
+</scene>
+<scene id="43"><utterance uid="43-1"><speaker>RYAN</speaker><content>Hey, Castle. Missed all the excitement. We were awesome. Weren’t we, Javi?</content></utterance>
+<utterance uid="43-2"><speaker>ESPOSITO</speaker><content>As usual.</content></utterance>
+<utterance uid="43-3"><speaker>CASTLE</speaker><content>Lark.</content></utterance>
+<utterance uid="43-4"><speaker>BECKETT</speaker><content>It looks like he was behind the theft, although none of them are talking. You know, the one thing that we haven’t been able to find is the object that was in the briefcase.</content></utterance>
+<utterance uid="43-5"><speaker>CASTLE</speaker><content>When you hold this do not wonder, even for a second, if you’d be better off any place else but here.</content></utterance>
+</scene>
+<scene id="44"><utterance uid="44-1"><speaker>BECKETT</speaker><content>So in this alternate universe, I was the Captain and you and I had never met?</content></utterance>
+<utterance uid="44-2"><speaker>CASTLE</speaker><content>You were married to your work. A lot like you were when I met you.</content></utterance>
+<utterance uid="44-3"><speaker>BECKETT</speaker><content>And how were you without me? Did you win the Pulitzer?</content></utterance>
+<utterance uid="44-4"><speaker>CASTLE</speaker><content>Uh …  … I was still waiting to hear. But I – my life was nowhere near as wonderful without you.</content></utterance>
+<utterance uid="44-5"><speaker>BECKETT</speaker><content>That’s quite a dream. Magical artifacts and parallel worlds.</content></utterance>
+<utterance uid="44-6"><speaker>CASTLE</speaker><content>Yeah, it was a lot more than that.  You know, the only other world I would want to visit is the one where I made it to our wedding.</content></utterance>
+<utterance uid="44-7"><speaker>BECKETT</speaker><content> Me too.</content></utterance>
+<utterance uid="44-8"><speaker>CASTLE</speaker><content>I know. It’s the reason I haven’t been sleeping. You know, I keep trying to figure it out.  How do you live with the man who’s lost two months of his life and left you at the altar? How do I live with the pain I know I’ve caused you? How do we get past this?</content></utterance>
+<utterance uid="44-9"><speaker>BECKETT</speaker><content>I wish I knew.</content></utterance>
+<utterance uid="44-10"><speaker>CASTLE</speaker><content>I think I have the answer. We just - do. So … Katherine Beckett, will you marry me?</content></utterance>
+<utterance uid="44-11"><speaker>BECKETT</speaker><content>I’ve already said yes.</content></utterance>
+<utterance uid="44-12"><speaker>CASTLE</speaker><content>Will you marry me, right now?</content></utterance>
+</scene>
+<scene id="45"><utterance uid="45-1"><speaker>CASTLE</speaker><content>Hey. Thank you for coming on such short notice.</content></utterance>
+<utterance uid="45-2"><speaker>MARTHA</speaker><content>Oh, darling. I am so proud of you.</content></utterance>
+<utterance uid="45-3"><speaker>CASTLE</speaker><content>Mother, you know that audition?</content></utterance>
+<utterance uid="45-4"><speaker>MARTHA</speaker><content>Yeah.</content></utterance>
+<utterance uid="45-5"><speaker>CASTLE</speaker><content>I really think you should go for it.</content></utterance>
+<utterance uid="45-6"><speaker>MARTHA</speaker><content> All right.  Thank you.</content></utterance>
+<utterance uid="45-7"><speaker>CASTLE</speaker><content> All right. What’d I do with –  – oh, I got it. Okay.</content></utterance>
+<utterance uid="45-8"><speaker>BECKETT</speaker><content>Oh, Alexis.</content></utterance>
+<utterance uid="45-9"><speaker>BECKETT</speaker><content>Hi.</content></utterance>
+<utterance uid="45-10"><speaker>CASTLE</speaker><content>Hi.</content></utterance>
+<utterance uid="45-11"><speaker>OFFICIANT</speaker><content>Whenever you’re ready.</content></utterance>
+<utterance uid="45-12"><speaker>BECKETT</speaker><content>Yes.</content></utterance>
+<utterance uid="45-13"><speaker>BECKETT</speaker><content>The moment that I met you, my life became extraordinary. You taught me to be my best self. To look forward to tomorrow’s adventures. And when I was vulnerable, you were strong. I love you, Richard Castle. And I want to live my life in the warmth of your smile and the strength of your embrace. I promise you, I will love you. I will be your friend. And your partner in crime and in life. Always.</content></utterance>
+<utterance uid="45-14"><speaker>CASTLE</speaker><content>The moment we met, my life became extraordinary. You taught me more about myself than I knew there was to learn. You are the joy in my heart. You’re the last person I want to see every night before I close my eyes. I love you, Katherine Beckett. And the mystery of you is the one I want to spend the rest of my life exploring. I promise to love you, to be your friend and your partner in crime and life, ‘til death do us part and for the time of our lives.</content></utterance>
+<utterance uid="45-15"><speaker>OFFICIANT</speaker><content>By the power vested in me by the state of New York, I now pronounce you husband and wife.</content></utterance>
+</scene>
+
+<scene id="46"><utterance uid="46-1"><speaker>CASTLE</speaker><content>Mrs. Castle. May I have this dance?</content></utterance>
+<utterance uid="46-2"><speaker>BECKETT</speaker><content>There’s no … music.</content></utterance>
+<utterance uid="46-3"><speaker>BECKETT</speaker><content>It’s perfect.</content></utterance>
+<utterance uid="46-4"><speaker>THE END</speaker><content>CASTLE</content></utterance>
+</scene>
+</script>

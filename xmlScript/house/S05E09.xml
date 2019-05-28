@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>Larry</speaker><content> Excuse me. I've been waiting here for over an hour. All I need is a refill on my migraine medication.</content></utterance>
+<utterance uid="1-2"><speaker>Thirteen</speaker><content>We'll get to you as soon as we can.</content></utterance>
+<utterance uid="1-3"><speaker>Larry</speaker><content>You can get to me now. It'll only take you two minutes.</content></utterance>
+<utterance uid="1-4"><speaker>Thirteen</speaker><content>You're not an emergency.</content></utterance>
+<utterance uid="1-5"><speaker>Larry</speaker><content>This isn't an emergency room.</content></utterance>
+<utterance uid="1-6"><speaker>Thirteen</speaker><content>And it's not gonna go any faster by pissing me off.</content></utterance>
+<utterance uid="1-7"><speaker>Foreman</speaker><content>Got a minute?</content></utterance>
+<utterance uid="1-8"><speaker>Thirteen</speaker><content>No.  A routine checkup can wait. What else you got?</content></utterance>
+<utterance uid="1-9"><speaker>Foreman</speaker><content>I'm consulting on some clinical trials that involve CNS compounds.</content></utterance>
+<utterance uid="1-10"><speaker>Thirteen</speaker><content>While it's true that no sometimes means yes, in this context…</content></utterance>
+<utterance uid="1-11"><speaker>Foreman</speaker><content>One's a new Huntington’s drug. Phase three trials are showing real results delaying neuronal degeneration. Probably get you in.</content></utterance>
+<utterance uid="1-12"><speaker>Thirteen</speaker><content> No, thanks. </content></utterance>
+<utterance uid="1-13"><speaker>Foreman</speaker><content> Are you doing anything about your disease, following any kind of program?</content></utterance>
+<utterance uid="1-14"><speaker>Thirteen</speaker><content>No. Nor am I looking for a consult.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>Jason</speaker><content>Excuse me, I'm looking for Dr. Cuddy.</content></utterance>
+<utterance uid="2-2"><speaker>House</speaker><content>Well, she's either not here, or she's under the desk. Either way, you're gonna have to wait outside until I'm finished.</content></utterance>
+<utterance uid="2-3"><speaker>Jason</speaker><content>Do you know when she'll be back?</content></utterance>
+<utterance uid="2-4"><speaker>House</speaker><content>Yes, which is why I need you to get out and leave me alone. </content></utterance>
+<utterance uid="2-5"><speaker>Jason</speaker><content>Sorry. </content></utterance>
+</scene>
+
+<scene id="3"><utterance uid="3-1"><speaker>House</speaker><content>Nice try. Love to help.</content></utterance>
+<utterance uid="3-2"><speaker>Jason</speaker><content>Shut up! </content></utterance>
+<utterance uid="3-3"><speaker>House</speaker><content> You wanted to see doctor —</content></utterance>
+<utterance uid="3-4"><speaker>Jason</speaker><content>I said shut up. I'm sick, and I want to know why. I want the best doctor in this hospital here, now… Or I'm gonna start killing people.</content></utterance>
+<utterance uid="3-5"><speaker>House</speaker><content> What seems to be the problem?</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>Jason</speaker><content> Close those blinds.  You, push the sofa in front of that door.  You, move that table in front of the other door.  Now!</content></utterance>
+<utterance uid="4-2"><speaker>House</speaker><content> No, we're not.</content></utterance>
+<utterance uid="4-3"><speaker>Thirteen</speaker><content>House…</content></utterance>
+<utterance uid="4-4"><speaker>House</speaker><content>That's a bathroom you're barricading. It might come in handy, especially since you've cleverly decided to take a bunch of sick people hostage.</content></utterance>
+<utterance uid="4-5"><speaker>Jason</speaker><content> Do it!  My medical records. I need you to read them.</content></utterance>
+<utterance uid="4-6"><speaker>House</speaker><content> You really think that reenacting "Dog Day Afternoon" is the best way to get diagnosed? I'm sure you've been waiting for hours in an uncomfortable chair, but you should watch the movie all the way through.</content></utterance>
+<utterance uid="4-7"><speaker>Jason</speaker><content>I've been to 16 doctors in the last two years. Had three full-body CTs and two MRIs, seven blood panels, and one homeopathic consult.</content></utterance>
+<utterance uid="4-8"><speaker>House</speaker><content>And all that was missing was the threat of violence. </content></utterance>
+<utterance uid="4-9"><speaker>Jason</speaker><content>What's missing is an answer! I can't breathe! I'm tired… all the time. I get skin rashes, and heart palpitations, and insomnia.</content></utterance>
+<utterance uid="4-10"><speaker>House</speaker><content>That's a cool constellation of symptoms. It could be something minor. At least compared to life in prison, which is what you seem to prefer to seeing 16 more specialists.</content></utterance>
+<utterance uid="4-11"><speaker>Jason</speaker><content>Shut up and do your job.</content></utterance>
+</scene>
+
+<scene id="5"><utterance uid="5-1"><speaker>Jason</speaker><content>You barely looked at the file.</content></utterance>
+<utterance uid="5-2"><speaker>House</speaker><content>No need. Symptoms — those are the things you keep whining about. Tests — negative, or you wouldn't be here. History — shy, quiet kid. Kept to himself. Collected comic books and missing children.</content></utterance>
+<utterance uid="5-3"><speaker>Bill</speaker><content>Excuse me, my wife feels sick to her stomach.</content></utterance>
+<utterance uid="5-4"><speaker>House</speaker><content>Next time pack some heat, and maybe we'll look into it.</content></utterance>
+<utterance uid="5-5"><speaker>Sandra</speaker><content> I'll be okay.</content></utterance>
+<utterance uid="5-6"><speaker>House</speaker><content>If you ask me, keeping an open line of communication is the best way to resolve conflict.  What kind of breathing problems?</content></utterance>
+<utterance uid="5-7"><speaker>Jason</speaker><content>Shortness of breath. And sharp pain when — when I inhale. </content></utterance>
+<utterance uid="5-8"><speaker>House</speaker><content>So you figured your wife left you because you couldn't breathe, right? Me, I rarely kidnap someone unless I've got a serious health problem. Since you're not almost dead, it means you're armed because you're blaming something other than your health on your health.</content></utterance>
+<utterance uid="5-9"><speaker>Jason</speaker><content>I've never been married.</content></utterance>
+<utterance uid="5-10"><speaker>House</speaker><content>Oh. Got a match?</content></utterance>
+<utterance uid="5-11"><speaker>Jason</speaker><content>Why?</content></utterance>
+<utterance uid="5-12"><speaker>House</speaker><content>Because I'd rather not stand here while you try and negotiate a hostage trade for an incentive spirometer.</content></utterance>
+<utterance uid="5-13"><speaker>Thirteen</speaker><content>I'll look in Cuddy's desk.</content></utterance>
+<utterance uid="5-14"><speaker>House</speaker><content>Stay out of the desk! Cuddy doesn't smoke. But he does. </content></utterance>
+<utterance uid="5-15"><speaker>Mitch</speaker><content>No, I — I don’t.</content></utterance>
+<utterance uid="5-16"><speaker>House</speaker><content>Right. You just brush your teeth with coffee grounds.</content></utterance>
+<utterance uid="5-17"><speaker>Mitch</speaker><content> Look, sir, I've never smoked in my life, okay?  Jerk.</content></utterance>
+<utterance uid="5-18"><speaker>Jason</speaker><content> Hey!</content></utterance>
+<utterance uid="5-19"><speaker>House</speaker><content>You figure that two people snuck weapons into the clinic today?</content></utterance>
+<utterance uid="5-20"><speaker>Oliver</speaker><content>I'm sorry. It's just… I got a lighter.</content></utterance>
+<utterance uid="5-21"><speaker>Jason</speaker><content>Slowly.</content></utterance>
+<utterance uid="5-22"><speaker>House</speaker><content>Hold it out as far as you can. Try to blow it out.  Decreased lung volume. Heart palpitations, fatigue, stomach pain. An intermittent rash — could be 100 things. If you add on that final symptom, it can only be pulmonary scleroderma.</content></utterance>
+<utterance uid="5-23"><speaker>Jason</speaker><content>What final symptom? Those were all my symptoms.</content></utterance>
+<utterance uid="5-24"><speaker>House</speaker><content>Last one is the 16 doctors who missed it. Simple alkylating agent, case solved. See you on visitor's day.</content></utterance>
+<utterance uid="5-25"><speaker>House</speaker><content>Crime scene!</content></utterance>
+<utterance uid="5-26"><speaker>Cuddy</speaker><content> House, what's going on in there? Is everyone all right?</content></utterance>
+<utterance uid="5-27"><speaker>House</speaker><content>About to be. Assuming he's not lying. But he seems like a pretty straight arrow to me.  I'm gonna need some propofol to prove that it's pulmonary scleroderma. Then we all get to go home.</content></utterance>
+<utterance uid="5-28"><speaker>Cuddy</speaker><content>Propofol? You sure —</content></utterance>
+<utterance uid="5-29"><speaker>House</speaker><content>Have one of the guards bring it in.</content></utterance>
+<utterance uid="5-30"><speaker>Jason</speaker><content>No, no guards. No cops.</content></utterance>
+<utterance uid="5-31"><speaker>Mitch</speaker><content>Uh, I'll go get it.</content></utterance>
+<utterance uid="5-32"><speaker>Jason</speaker><content>No one is leaving.  She's not a cop? Dr. Cuddy brings in the drugs. Alone.</content></utterance>
+<utterance uid="5-33"><speaker>House</speaker><content>She might be armed. I'd have her deliver it shirtless.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>House</speaker><content>Who is it?</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>Cuddy</speaker><content>Oh, God, House. Maybe we should wait for —</content></utterance>
+<utterance uid="7-2"><speaker>House</speaker><content>Guys with even bigger guns?</content></utterance>
+<utterance uid="7-3"><speaker>Cuddy</speaker><content>Who know how to talk to armed —</content></utterance>
+<utterance uid="7-4"><speaker>Jason</speaker><content> Say good-bye or I shoot her.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>House</speaker><content>Roll up your sleeve.</content></utterance>
+<utterance uid="8-2"><speaker>Jason</speaker><content>Give it to someone else first.</content></utterance>
+<utterance uid="8-3"><speaker>House</speaker><content>You're the only one who needs it.</content></utterance>
+<utterance uid="8-4"><speaker>Jason</speaker><content>Give it to someone else. If it goes in okay, you can give a second dose to me. I don't care who. Just pick someone.</content></utterance>
+<utterance uid="8-5"><speaker>House</speaker><content>Again, had your brilliant plan included a roomful of hostages that don't have fetuses, bacterial and fungal infections, leaving their immune systems too weak to deal with the metabolic strain, or are already on pain killers that have fatal interactions…</content></utterance>
+<utterance uid="8-6"><speaker>Jason</speaker><content> He's not on pain killers. I heard him tell her in the clinic.</content></utterance>
+<utterance uid="8-7"><speaker>Larry</speaker><content>Aw, come on, man. Don't take it out on us. You got a problem with doctors? Take it out on the doctors.  Give it to her.</content></utterance>
+<utterance uid="8-8"><speaker>House</speaker><content>She's sick.  You are a very large creep. Take off your shirt.  Satisfied?</content></utterance>
+<utterance uid="8-9"><speaker>Jason</speaker><content> Fine.</content></utterance>
+<utterance uid="8-10"><speaker>House</speaker><content> Roll up your sleeve.</content></utterance>
+<utterance uid="8-11"><speaker>Jason</speaker><content>You think I'm an idiot? Huh? That's what you think?</content></utterance>
+<utterance uid="8-12"><speaker>House</speaker><content>I thought I had a little more time with a guy that size.  You're not gonna do anything. You still need me.</content></utterance>
+<utterance uid="8-13"><speaker>Mitch</speaker><content>Hoh. Come on!</content></utterance>
+<utterance uid="8-14"><speaker>House</speaker><content>What are you doing? He didn't do anything.</content></utterance>
+<utterance uid="8-15"><speaker>Jason</speaker><content>You're right. I need you. I also need you to know you can't screw with me.</content></utterance>
+<utterance uid="8-16"><speaker>House</speaker><content> It's for you.</content></utterance>
+</scene>
+
+<scene id="9"><utterance uid="9-1"><speaker>Bowman</speaker><content>Lieutenant Bowman, Princeton SWAT.</content></utterance>
+<utterance uid="9-2"><speaker>Cuddy</speaker><content>Dr. Lisa Cuddy, Dean of Medicine. We just heard a gunshot, but I haven't been able to make contact.</content></utterance>
+<utterance uid="9-3"><speaker>Bowman</speaker><content> We'll handle that once we secure our perimeter and set up our positions.</content></utterance>
+<utterance uid="9-4"><speaker>Cuddy</speaker><content>By "perimeters," I assume you mean snipers? We have to put an end to this.</content></utterance>
+<utterance uid="9-5"><speaker>Bowman</speaker><content>Got a husband in there or a loved one?</content></utterance>
+<utterance uid="9-6"><speaker>Cuddy</speaker><content>Uh, no.</content></utterance>
+<utterance uid="9-7"><speaker>Bowman</speaker><content>Don't worry, we'll decide when to start shooting. </content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>Taub</speaker><content>House is gonna get someone killed.</content></utterance>
+<utterance uid="10-2"><speaker>Kutner</speaker><content>The guy's ready to kill for a diagnosis, I can't think of a better doctor to be trapped in there with him.</content></utterance>
+<utterance uid="10-3"><speaker>Cameron</speaker><content>How 'bout someone who's not gonna keep pushing the whack job's buttons until he cracks?</content></utterance>
+<utterance uid="10-4"><speaker>Kutner</speaker><content>It's House.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>House</speaker><content>Joe's Bar and Grill.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>Foreman</speaker><content>It's Foreman, and every fellow you've had in the last five years.</content></utterance>
+<utterance uid="12-2"><speaker>House</speaker><content> What causes low lung volume, heart palpitations, fatigue, stomach pain, insomnia, and a rash?</content></utterance>
+<utterance uid="12-3"><speaker>Chase</speaker><content>This is pathetic. If I strap a bomb to my chest, do I get seven doctors attending to me?</content></utterance>
+<utterance uid="12-4"><speaker>House</speaker><content>Dr. Robert Chase. On the off chance you have some brilliant escape plan and are the vengeful type.</content></utterance>
+<utterance uid="12-5"><speaker>Chase</speaker><content>Do you think he's the only guy in New Jersey with an unsolved illness and a pistol? I'm not playing this game.</content></utterance>
+<utterance uid="12-6"><speaker>House</speaker><content>Seriously? You're walking out?</content></utterance>
+<utterance uid="12-7"><speaker>Cameron</speaker><content>No, he's just kidding. He's right here.</content></utterance>
+<utterance uid="12-8"><speaker>House</speaker><content> Throw me that marker, will you? </content></utterance>
+<utterance uid="12-9"><speaker>Foreman</speaker><content>Chest pain, the lung problems, fatigue, rash. Sounds like chronic lung infection.</content></utterance>
+<utterance uid="12-10"><speaker>Thirteen</speaker><content>Heart palpitations and fatigue — could be a cancer that's spread from the lungs.</content></utterance>
+<utterance uid="12-11"><speaker>House</speaker><content> Next!</content></utterance>
+<utterance uid="12-12"><speaker>Cameron</speaker><content>If his diaphragm's not working, maybe his nerves are freezing up.</content></utterance>
+<utterance uid="12-13"><speaker>Regina</speaker><content> I think he's going into shock.</content></utterance>
+<utterance uid="12-14"><speaker>House</speaker><content>First rule of triage: Guys with guns go first. Next!</content></utterance>
+<utterance uid="12-15"><speaker>Kutner</speaker><content>The shortest distance between stomach pain and insomnia is bad circulation. Plus troubled breathing. Could be a heart defect.</content></utterance>
+<utterance uid="12-16"><speaker>Bill</speaker><content>You needed to write four things down to remember 'em?</content></utterance>
+<utterance uid="12-17"><speaker>House</speaker><content>It's not my wall. You're gonna get some special deliveries. Foreman, we're gonna draw blood. Run tests for infection and cancer. Cameron, comb through his medical records. See if any of his past 900 medications could have screwed up his heart. Taub and Kutner, go to his apartment, check for neurotoxins.</content></utterance>
+<utterance uid="12-18"><speaker>Jason</speaker><content>873 Marshall, South Brunswick. Back window's unlocked.</content></utterance>
+<utterance uid="12-19"><speaker>House</speaker><content>Giving out your address. Clearly you're not going back there. Means you do have an end game.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>Bowman</speaker><content>I'm Lieutenant Bowman. How's everyone doing in there?</content></utterance>
+<utterance uid="13-2"><speaker>House</speaker><content>Got one lower limb flesh wound, another guy unconscious. Unfortunately, not the guy we hoped. We're gonna need someone to deliver his blood.  It's gonna be hard to play doctor —</content></utterance>
+<utterance uid="13-3"><speaker>Jason</speaker><content>Shut up.  Open that blind. Just a few inches.</content></utterance>
+<utterance uid="13-4"><speaker>Nikki</speaker><content>Why me?</content></utterance>
+<utterance uid="13-5"><speaker>Jason</speaker><content>Just open it. Open it!</content></utterance>
+<utterance uid="13-6"><speaker>Nikki</speaker><content>Why me? Anyone can do it. Why pick me?</content></utterance>
+<utterance uid="13-7"><speaker>Jason</speaker><content>Get back! Get back!  I will kill her unless you back the hell out of there now!</content></utterance>
+<utterance uid="13-8"><speaker>House</speaker><content>Interesting. Anybody else hear those guys outside?  Anybody? He's got hyperacusis.</content></utterance>
+<utterance uid="13-9"><speaker>Jason</speaker><content>What does that mean?</content></utterance>
+<utterance uid="13-10"><speaker>House</speaker><content>It means we have a favorite. It's nerve related.</content></utterance>
+<utterance uid="13-11"><speaker>Thirteen</speaker><content>Amped-up hearing could be linked to nerve palsy.</content></utterance>
+<utterance uid="13-12"><speaker>House</speaker><content>Puff out your cheeks. Come on.  Now big mug shot smile.</content></utterance>
+<utterance uid="13-13"><speaker>Thirteen</speaker><content>Left side facial weakness.</content></utterance>
+<utterance uid="13-14"><speaker>House</speaker><content>Seventh nerve palsy. Plus intermittent rashes. Plus migraines. It's post-herpetic neuralgia.</content></utterance>
+<utterance uid="13-15"><speaker>Jason</speaker><content>Herpetic? You think I have herpes?</content></utterance>
+<utterance uid="13-16"><speaker>House</speaker><content>I'm not judging here. This thing is just as likely to be caused by chicken pox.</content></utterance>
+<utterance uid="13-17"><speaker>Jason</speaker><content>I need proof now.</content></utterance>
+<utterance uid="13-18"><speaker>House</speaker><content>There is a test. It's dangerous and painful while the treatment is safe and painless. But you make a good point. You need proof now. I'll order up the test. If you have neuralgia, you won't feel it going in.</content></utterance>
+<utterance uid="13-19"><speaker>Jason</speaker><content>It only hurts if your diagnosis is wrong?</content></utterance>
+<utterance uid="13-20"><speaker>House</speaker><content>Win-win.</content></utterance>
+<utterance uid="13-21"><speaker>Bowman</speaker><content>Jason, don't hang up the phone again.</content></utterance>
+<utterance uid="13-22"><speaker>Jason</speaker><content>You're gonna send in… </content></utterance>
+<utterance uid="13-23"><speaker>House</speaker><content>Capsaicin. 200 micrograms.</content></utterance>
+<utterance uid="13-24"><speaker>Jason</speaker><content>And two syringes this time.</content></utterance>
+<utterance uid="13-25"><speaker>Thirteen</speaker><content>And we'll give you the blood and his records.</content></utterance>
+<utterance uid="13-26"><speaker>Bowman</speaker><content>No more meds, Jason, and no deliveries without something in return. You've gotta give us a hostage.</content></utterance>
+<utterance uid="13-27"><speaker>Jason</speaker><content>You can have two.</content></utterance>
+<utterance uid="13-28"><speaker>Bowman</speaker><content>Great. Then I'll send an officer right in with the transfer.</content></utterance>
+<utterance uid="13-29"><speaker>Jason</speaker><content>Everything gets brought in by Dr. Cuddy.</content></utterance>
+<utterance uid="13-30"><speaker>Bowman</speaker><content>Jason, I'm not gonna let her do that.</content></utterance>
+<utterance uid="13-31"><speaker>House</speaker><content>First — don't use his name so much. It doesn't sound reassuring, it just sounds creepy. Second — come on, he's not gonna shoot the one person he trusts to bring in his medication. He's gonna shoot the hostages if she doesn't bring it in.</content></utterance>
+<utterance uid="13-32"><speaker>Bowman</speaker><content>I'll get back to you.</content></utterance>
+<utterance uid="13-33"><speaker>Bowman</speaker><content>The guy's demanding that you do all the transfers.</content></utterance>
+<utterance uid="13-34"><speaker>Cuddy</speaker><content> Okay.</content></utterance>
+<utterance uid="13-35"><speaker>Bowman</speaker><content>Okay?</content></utterance>
+<utterance uid="13-36"><speaker>Cuddy</speaker><content>What am I supposed to say?</content></utterance>
+<utterance uid="13-37"><speaker>Jason</speaker><content>You're supposed to say no. It's not your job. If you got a conflict here, if you have stakes in this that you're not telling me about, then I can’t trust you.</content></utterance>
+<utterance uid="13-38"><speaker>Cuddy</speaker><content>Got it. I'm okay. Can you tell him I'm coming in now?</content></utterance>
+</scene>
+
+<scene id="14"><utterance uid="14-1"><speaker>Jason</speaker><content>Who's taking the first dose?</content></utterance>
+<utterance uid="14-2"><speaker>House</speaker><content> Anybody here got a long-standing case of neuralgia that's killed their nerves so this won't hurt at all?</content></utterance>
+<utterance uid="14-3"><speaker>Oliver</speaker><content>How bad does it hurt?</content></utterance>
+<utterance uid="14-4"><speaker>House</speaker><content>You're looking to be the hero?</content></utterance>
+<utterance uid="14-5"><speaker>Oliver</speaker><content>Well, I've been beaten up a lot, and I can handle pain.</content></utterance>
+<utterance uid="14-6"><speaker>Regina</speaker><content>How old are you?</content></utterance>
+<utterance uid="14-7"><speaker>House</speaker><content>The guy's got a gun. I think that covers the parental consent issue.</content></utterance>
+<utterance uid="14-8"><speaker>Regina</speaker><content>And that stuff can also cause nerve and muscle damage.</content></utterance>
+<utterance uid="14-9"><speaker>Bill</speaker><content>Ah. No way am I taking that crap. Come on.</content></utterance>
+<utterance uid="14-10"><speaker>House</speaker><content>You have to. It's the rules.</content></utterance>
+<utterance uid="14-11"><speaker>Thirteen</speaker><content>I'll do it.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>House</speaker><content>This is a level of risk taking beyond anonymous girl-on-girl action.</content></utterance>
+<utterance uid="15-2"><speaker>Thirteen</speaker><content>They're patients. I'm a doctor.</content></utterance>
+<utterance uid="15-3"><speaker>House</speaker><content>With a degenerative, drug-unfriendly illness.</content></utterance>
+<utterance uid="15-4"><speaker>Thirteen</speaker><content>Everything's not some fascinating character flaw.</content></utterance>
+<utterance uid="15-5"><speaker>House</speaker><content>This is a genetic flaw. This is your Huntington’s speaking. This is you waving a white flag at the world.</content></utterance>
+<utterance uid="15-6"><speaker>Thirteen</speaker><content>Yes, I have a shortened life span. Another reason why I'm objectively the right choice. </content></utterance>
+<utterance uid="15-7"><speaker>House</speaker><content>Wow! I would have laid money you had herpes.  Your turn. So why are we here? We've ruled out immediate risk of death, lost love. That just leaves… work? You're defined by your work. But you kept seeing doctors, kept missing time. Couldn't focus.  Maybe you made a huge mistake… got fired.</content></utterance>
+<utterance uid="15-8"><speaker>Jason</speaker><content>I just want an answer.</content></utterance>
+<utterance uid="15-9"><speaker>House</speaker><content>I know. I'm asking why.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>Taub</speaker><content>Guy knew he wasn't coming back. Everything's laid out for us. I'll check for toxins in the kitchen. </content></utterance>
+<utterance uid="16-2"><speaker>Kutner</speaker><content> He must have $6,000, $7,000 in unpaid medical bills.</content></utterance>
+<utterance uid="16-3"><speaker>Taub</speaker><content>I've got debt too — you don't see me acting like a lunatic.</content></utterance>
+<utterance uid="16-4"><speaker>Kutner</speaker><content>There's no excuse for what he's doing, but you've got millions of people, thousands of dollars in debt because they're sick — At least one of them's gonna do something inexcusable. Especially if it works.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>Foreman</speaker><content>White blood cell count's normal. It's not infection.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>House</speaker><content>So either his heart's on the fritz, or he's got cancer.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>Kutner</speaker><content>Found a picture of his mom. She's got a droopy eye, fat face, thick neck.</content></utterance>
+<utterance uid="19-2"><speaker>Cameron</speaker><content>Classic signs of an upper-lobe tumor.</content></utterance>
+<utterance uid="19-3"><speaker>House</speaker><content>Or she's just ugly.</content></utterance>
+<utterance uid="19-4"><speaker>Kutner</speaker><content>There are also classic signs of an adrenal problem.</content></utterance>
+<utterance uid="19-5"><speaker>Thirteen</speaker><content> It's his heart.</content></utterance>
+<utterance uid="19-6"><speaker>House</speaker><content>You can't be sure what —</content></utterance>
+<utterance uid="19-7"><speaker>Thirteen</speaker><content>His neck. Distended jugular.</content></utterance>
+<utterance uid="19-8"><speaker>Jason</speaker><content>What are you doing?</content></utterance>
+<utterance uid="19-9"><speaker>House</speaker><content>I am going to try to strangle you faster than you can pull a trigger.</content></utterance>
+<utterance uid="19-10"><speaker>Thirteen</speaker><content>He needs to check your pulse.</content></utterance>
+<utterance uid="19-11"><speaker>House</speaker><content>It's racing. 160.</content></utterance>
+<utterance uid="19-12"><speaker>Thirteen</speaker><content>We need to get paddles.</content></utterance>
+<utterance uid="19-13"><speaker>Bill</speaker><content>Or maybe we could just do nothing.</content></utterance>
+<utterance uid="19-14"><speaker>Jason</speaker><content>If I get any weaker… And they don't fix it… I'll shoot… you!</content></utterance>
+<utterance uid="19-15"><speaker>Sandra</speaker><content>Don't. He didn't mean to —</content></utterance>
+<utterance uid="19-16"><speaker>House</speaker><content>Shut up! All of you. </content></utterance>
+<utterance uid="19-17"><speaker>Jason</speaker><content>What are — what are you doing? What are you doing?</content></utterance>
+<utterance uid="19-18"><speaker>House</speaker><content>Carotid massage… gotta slow your heart. It's 200.</content></utterance>
+<utterance uid="19-19"><speaker>Jason</speaker><content>Well, get the paddles.</content></utterance>
+<utterance uid="19-20"><speaker>House</speaker><content>Uh-uh. Whole point of those things is to make your muscles contract. They don't discriminate against trigger fingers.</content></utterance>
+<utterance uid="19-21"><speaker>Jason</speaker><content>Nobody gets my gun.  Send in paddles!</content></utterance>
+<utterance uid="19-22"><speaker>House</speaker><content> Don't!</content></utterance>
+<utterance uid="19-23"><speaker>Jason</speaker><content>Get the damn paddles! Or I'll shoot you.</content></utterance>
+<utterance uid="19-24"><speaker>House</speaker><content>Threatening to shoot the guy who's diagnosing you makes a lot of sense. Actually doing it, not so much.</content></utterance>
+<utterance uid="19-25"><speaker>Regina</speaker><content>Give him your gun so he can save you.</content></utterance>
+<utterance uid="19-26"><speaker>Bill</speaker><content>Just let him die.</content></utterance>
+<utterance uid="19-27"><speaker>Sandra</speaker><content>Bill, stop.</content></utterance>
+<utterance uid="19-28"><speaker>Thirteen</speaker><content>We can cardiovert chemically.</content></utterance>
+<utterance uid="19-29"><speaker>House</speaker><content>If we don't know what kind of heart rhythm it is —</content></utterance>
+<utterance uid="19-30"><speaker>Thirteen</speaker><content>If we don't try something, he's gonna kill someone. I'm gonna get the drugs.</content></utterance>
+<utterance uid="19-31"><speaker>Jason</speaker><content>No one goes anywhere!</content></utterance>
+<utterance uid="19-32"><speaker>House</speaker><content>If she doesn't come back, you've got plenty of other people you can shoot.</content></utterance>
+<utterance uid="19-33"><speaker>Jason</speaker><content> You… come here.  All right… 30 seconds.</content></utterance>
+</scene>
+
+<scene id="20"><utterance uid="20-1"><speaker>House</speaker><content>She's gonna go.</content></utterance>
+<utterance uid="20-2"><speaker>Regina</speaker><content>She's gonna come back.</content></utterance>
+<utterance uid="20-3"><speaker>House</speaker><content>She should go.</content></utterance>
+<utterance uid="20-4"><speaker>Regina</speaker><content> He'll kill him.</content></utterance>
+<utterance uid="20-5"><speaker>House</speaker><content>But not her.</content></utterance>
+<utterance uid="20-6"><speaker>Regina</speaker><content>That your version of morality?</content></utterance>
+<utterance uid="20-7"><speaker>House</speaker><content>If you don't think your life is worth more than someone else's, sign your donor card and kill yourself.</content></utterance>
+<utterance uid="20-8"><speaker>Regina</speaker><content> Shoot me.</content></utterance>
+<utterance uid="20-9"><speaker>Jason</speaker><content>You really want —</content></utterance>
+<utterance uid="20-10"><speaker>Regina</speaker><content>Yes.</content></utterance>
+<utterance uid="20-11"><speaker>Regina</speaker><content>No, no! She just needs time! She just needs more time to find you the right — the right drug — time, she needs time.</content></utterance>
+<utterance uid="20-12"><speaker>Thirteen</speaker><content>It's me. </content></utterance>
+<utterance uid="20-13"><speaker>Jason</speaker><content>She takes it first.</content></utterance>
+<utterance uid="20-14"><speaker>House</speaker><content>Adenosine slows the heart. Which is fine, if it's beating fast like yours. Not fine if it's normal, like hers. Following the math on this?</content></utterance>
+<utterance uid="20-15"><speaker>Jason</speaker><content>She takes everything I take. I don't want anything that cross-reacts.</content></utterance>
+<utterance uid="20-16"><speaker>House</speaker><content>The martyr's heart is beating dangerously slow. Are we good to go?   Your heart's back to normal. No tachycardia. No sign of a heart defect at all.  But you're sweating.</content></utterance>
+<utterance uid="20-17"><speaker>Jason</speaker><content>I nearly had a heart attack. You're surprised I'm sweating?</content></utterance>
+<utterance uid="20-18"><speaker>House</speaker><content>On one side of your face, but not the other.</content></utterance>
+<utterance uid="20-19"><speaker>Jason</speaker><content>What’s that mean?</content></utterance>
+<utterance uid="20-20"><speaker>House</speaker><content>A tumor is pressing on your sympathetic nerves. You have lung cancer.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>Regina</speaker><content>Pulse is down below 50.</content></utterance>
+<utterance uid="21-2"><speaker>House</speaker><content>So's her IQ. Help her up. Get her heart going faster. </content></utterance>
+<utterance uid="21-3"><speaker>Jason</speaker><content>I need proof it's cancer.</content></utterance>
+<utterance uid="21-4"><speaker>House</speaker><content>Of course you do!</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>House</speaker><content>It's gotta be a Pancoast tumor. Patient's got dyspnea, seventh-nerve palsy. He's sweating on one side of his face.</content></utterance>
+<utterance uid="22-2"><speaker>Wilson</speaker><content>Everything okay in there?</content></utterance>
+<utterance uid="22-3"><speaker>House</speaker><content>Take your time. It's not like I've got a gun to my head.</content></utterance>
+<utterance uid="22-4"><speaker>Wilson</speaker><content>Lung cancer usually shows up lower than the seventh nerve. Did you check his throat?</content></utterance>
+<utterance uid="22-5"><speaker>House</speaker><content> Spit on the floor.</content></utterance>
+<utterance uid="22-6"><speaker>Jason</speaker><content>What?</content></utterance>
+<utterance uid="22-7"><speaker>House</speaker><content>If I do it, I can't tell Cuddy that it was medically necessary. I'm gonna ask you to piss on her chair next.  Dry mouth. His parotid glands aren't working.</content></utterance>
+<utterance uid="22-8"><speaker>Wilson</speaker><content>If there's swelling, it's a Pancoast tumor that's metastasized.</content></utterance>
+<utterance uid="22-9"><speaker>House</speaker><content>Feel that. Right there.</content></utterance>
+<utterance uid="22-10"><speaker>Jason</speaker><content> If it's cancer, there must be a test.</content></utterance>
+<utterance uid="22-11"><speaker>House</speaker><content>You just did it.</content></utterance>
+<utterance uid="22-12"><speaker>Jason</speaker><content>What about an X-ray or something?</content></utterance>
+<utterance uid="22-13"><speaker>House</speaker><content>Good idea. Oh, damn. I left my CT machine in my other pants.</content></utterance>
+<utterance uid="22-14"><speaker>Jason</speaker><content>How many hostages do you think it would cost me for a trip to radiology?</content></utterance>
+</scene>
+
+
+<scene id="23"><utterance uid="23-1"><speaker>House</speaker><content>So… what made you snap? HMOs?</content></utterance>
+<utterance uid="23-2"><speaker>Jason</speaker><content>Shut up.</content></utterance>
+<utterance uid="23-3"><speaker>House</speaker><content>Nah, you saw 16 doctors. How bad could they have been?</content></utterance>
+<utterance uid="23-4"><speaker>Jason</speaker><content>Shut up!</content></utterance>
+<utterance uid="23-5"><speaker>House</speaker><content>Humiliation? Doctors treating you like a piece of meat? Too many fingers and tubes up your holes. You hate doctors. You want to take back control. If so, I apologize for the fact that you are a piece of meat.</content></utterance>
+<utterance uid="23-6"><speaker>Jason</speaker><content>I just want an answer. That's all.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>Jason</speaker><content>Everyone stays in here with me.</content></utterance>
+</scene>
+
+<scene id="25"><utterance uid="25-1"><speaker>Jason</speaker><content>If you need anything from in there, get it now.</content></utterance>
+<utterance uid="25-2"><speaker>Jason</speaker><content>Move around.  Anyone moves… I fire.</content></utterance>
+<utterance uid="25-3"><speaker>House</speaker><content>That's not all. Curiosity's not enough. There's gotta be a deeper reason.</content></utterance>
+<utterance uid="25-4"><speaker>Jason</speaker><content>You never did anything just because you had to know?</content></utterance>
+<utterance uid="25-5"><speaker>House</speaker><content>Never shot anyone.</content></utterance>
+<utterance uid="25-6"><speaker>Jason</speaker><content>You're not me. This is my body. This is my life. And there's a truth out there. I'd rather rot in jail knowing than… I can't handle not knowing. </content></utterance>
+<utterance uid="25-7"><speaker>House</speaker><content>Yeah.</content></utterance>
+<utterance uid="25-8"><speaker>House</speaker><content>What's this?</content></utterance>
+<utterance uid="25-9"><speaker>Thirteen</speaker><content>Starburst artifact. The metal from the gun is ruining the image.</content></utterance>
+<utterance uid="25-10"><speaker>House</speaker><content> Show him.</content></utterance>
+<utterance uid="25-11"><speaker>Oliver</speaker><content> Starburst.</content></utterance>
+<utterance uid="25-12"><speaker>House</speaker><content>Now, unless you think we pre-arranged that, just in case we were ever held hostage by a guy who needs a CT, we're not lying. So you have two choices. You can give me the gun and get your answer. Or you can shoot me.</content></utterance>
+<utterance uid="25-13"><speaker>Jason</speaker><content>I'm not gonna give you the gun.</content></utterance>
+</scene>
+
+<scene id="26"><utterance uid="26-1"><speaker>Cuddy</speaker><content>Why did he release you?</content></utterance>
+<utterance uid="26-2"><speaker>Regina</speaker><content>House got him to give up his gun. We just ran.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>House</speaker><content> Why are you still here?</content></utterance>
+<utterance uid="27-2"><speaker>Oliver</speaker><content>Curious. It's safe now, right?</content></utterance>
+<utterance uid="27-3"><speaker>Jason</speaker><content>They’re gonna be through that door any moment. Just show me the tumor.</content></utterance>
+<utterance uid="27-4"><speaker>House</speaker><content>There isn't one. I don't know what you have.</content></utterance>
+<utterance uid="27-5"><speaker>Jason</speaker><content>So… It's over. Thanks for trying. </content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>Jason</speaker><content>You had four theories. You ruled out four theories. Maybe no one can cure me.</content></utterance>
+<utterance uid="28-2"><speaker>House</speaker><content>He overpowered me and got the gun back. </content></utterance>
+<utterance uid="28-3"><speaker>Thirteen</speaker><content> You're a coward. You need to know everything because you're afraid to be wrong. You're so afraid of being ordinary, of being just another doctor, just another human being, that you'll risk other people's lives.</content></utterance>
+<utterance uid="28-4"><speaker>House</speaker><content>I'm arrogant. You're the coward. You're terrified of death. You just want to cheat it by making it come sooner. Gives you the illusion of control.</content></utterance>
+<utterance uid="28-5"><speaker>Oliver</speaker><content> Can I go?</content></utterance>
+<utterance uid="28-6"><speaker>House</speaker><content>Sorry. We might need you.  How do they expect me to think?</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>Bowman</speaker><content>Is he lying?</content></utterance>
+<utterance uid="29-2"><speaker>Cuddy</speaker><content>Why would he do that?</content></utterance>
+<utterance uid="29-3"><speaker>Bowman</speaker><content>Over time, hostages start to root for the captor.</content></utterance>
+<utterance uid="29-4"><speaker>Cuddy</speaker><content>House isn't the rooting kind.</content></utterance>
+<utterance uid="29-5"><speaker>Bowman</speaker><content>No, he's the obsessive, defiant kind.  Mic the door. Get a frame charge.  I hope your boyfriend knows what he's doing.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>Wilson</speaker><content>Are you insane?</content></utterance>
+<utterance uid="30-2"><speaker>House</speaker><content>He's quick for a sick guy. Dyspnea, anemia, seventh-nerve palsy, tachycardia.  Long passes. Anything. Go.</content></utterance>
+<utterance uid="30-3"><speaker>Foreman</speaker><content>I don't believe it. Chase was right. You're gonna kill someone. I don't want to be a part of it. </content></utterance>
+<utterance uid="30-4"><speaker>Taub</speaker><content>Loa loa filariasis.</content></utterance>
+<utterance uid="30-5"><speaker>House</speaker><content>You ever been to Cameroon or on the Ogowe River? Next.</content></utterance>
+<utterance uid="30-6"><speaker>Cameron</speaker><content>Could be Q fever if he's had exposure to goats.</content></utterance>
+<utterance uid="30-7"><speaker>Jason</speaker><content>No goats.</content></utterance>
+<utterance uid="30-8"><speaker>Kutner</speaker><content> Histiocytosis X explains the lung involvement and —</content></utterance>
+<utterance uid="30-9"><speaker>House</speaker><content> Whoa, whoa, whoa… We have a new symptom. He is turning his head, favoring his left ear. Means he's partially deaf in the right.</content></utterance>
+<utterance uid="30-10"><speaker>Wilson</speaker><content>Three hours ago, he had superhero hearing.</content></utterance>
+<utterance uid="30-11"><speaker>Cameron</speaker><content>Cushing’s causes fatigue, breathing problems, fluctuating hearing.</content></utterance>
+<utterance uid="30-12"><speaker>Kutner</speaker><content>Even increased aggression and risk-taking.</content></utterance>
+<utterance uid="30-13"><speaker>Jason</speaker><content>I'm doing this by choice. It's not a symptom.</content></utterance>
+<utterance uid="30-14"><speaker>House</speaker><content>We'll keep that between us till you talk to your lawyer.  I need dexamethasone and enough time to provoke a respiratory reaction and confirm Cushing’s syndrome.</content></utterance>
+<utterance uid="30-15"><speaker>Bowman</speaker><content> You need more time? House, we're not negotiating with you. Actually, we're through negotiating.</content></utterance>
+<utterance uid="30-16"><speaker>Jason</speaker><content> I've still got three hostages left. I'll give you one.</content></utterance>
+<utterance uid="30-17"><speaker>Bowman</speaker><content>And no more testing drugs on the sick doctor.</content></utterance>
+<utterance uid="30-18"><speaker>Jason</speaker><content>Fine. Send in the drugs.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>Cop</speaker><content>Son, come here, come here.</content></utterance>
+<utterance uid="31-2"><speaker>Cuddy</speaker><content>House, you can't —</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>House</speaker><content>If you have Cushing’s, this will slow your breathing.</content></utterance>
+<utterance uid="32-2"><speaker>Jason</speaker><content>Give it to her first.</content></utterance>
+<utterance uid="32-3"><speaker>House</speaker><content>Those were not the terms.</content></utterance>
+<utterance uid="32-4"><speaker>Jason</speaker><content> I lied. These drugs could be fake.</content></utterance>
+<utterance uid="32-5"><speaker>House</speaker><content>Why would I do that? I gave you back the gun!</content></utterance>
+<utterance uid="32-6"><speaker>Jason</speaker><content>You wouldn't. They would.</content></utterance>
+<utterance uid="32-7"><speaker>House</speaker><content>She has Huntington’s. If these drugs are real, it could screw up her liver.</content></utterance>
+<utterance uid="32-8"><speaker>Thirteen</speaker><content> The chances are slim. Chances of him shooting one of us, on the other hand —</content></utterance>
+<utterance uid="32-9"><speaker>House</speaker><content>Don't do —</content></utterance>
+<utterance uid="32-10"><speaker>Jason</speaker><content>How long do you have to live?</content></utterance>
+<utterance uid="32-11"><speaker>Thirteen</speaker><content>Eight, ten years.</content></utterance>
+<utterance uid="32-12"><speaker>House</speaker><content>Killing her is your chance to get personal?</content></utterance>
+<utterance uid="32-13"><speaker>Jason</speaker><content>Huntington's doesn't have —  doesn't have a cure?</content></utterance>
+<utterance uid="32-14"><speaker>Thirteen</speaker><content>No.</content></utterance>
+<utterance uid="32-15"><speaker>Jason</speaker><content>So if we get out of here —</content></utterance>
+<utterance uid="32-16"><speaker>House</speaker><content>If she were clinging to hope, she wouldn't be standing in line waiting for you to order up more drugs.  Take a deep breath.</content></utterance>
+<utterance uid="32-17"><speaker>Jason</speaker><content>Not knowing what was wrong with me… made me miserable. Maybe that's insane. Doing this… Yeah. Insane. But I had something to gain. You can't take risks with no upside at all.</content></utterance>
+<utterance uid="32-18"><speaker>House</speaker><content> I can't decide which is riskier, taking crazy risks or taking advice on crazy risks from a crazed risk-taker.  Heart's racing. Fever.  And your breathing's unchanged.</content></utterance>
+<utterance uid="32-19"><speaker>Jason</speaker><content>Does that mean she…</content></utterance>
+<utterance uid="32-20"><speaker>House</speaker><content>Means I was wrong. Her kidneys are shutting down because of the meds you made her take.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>House</speaker><content>We have to get her out of here.  The dexamethasone is making Thirteen's kidneys fail, but not the patient's — why?</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>Cameron</speaker><content>This guy's been on 50 different medications. Maybe his kidneys should be failing, but something's protecting them.</content></utterance>
+<utterance uid="34-2"><speaker>House</speaker><content> I need to slap you. For diagnostic purposes.  Seriously. If I was jerking you around, I'd say I needed to kick you in the groin.  That twitch is Chvostek's sign. Don't ask me how Chvostek discovered it.  He has calcium deficiency. Drugs that block calcium tend to shield against kidney damage.</content></utterance>
+<utterance uid="34-3"><speaker>Cameron</speaker><content>He's been on protein pump inhibitors for years for his stomach pain.</content></utterance>
+<utterance uid="34-4"><speaker>House</speaker><content>Those drugs have been protecting his kidneys for years. He has something that has a long incubation period. Something that should have wrecked his kidneys. Something that explains breathing problems, heart problems, jumpy nerves, and weak blood.</content></utterance>
+<utterance uid="34-5"><speaker>Taub</speaker><content>Leishmaniasis.</content></utterance>
+<utterance uid="34-6"><speaker>House</speaker><content>Would make perfect sense if our patient was an Arabian Bedouin.</content></utterance>
+<utterance uid="34-7"><speaker>Cameron</speaker><content>Melioidosis. Bacteria gets into the lungs, spreads to the heart. It explains everything.</content></utterance>
+<utterance uid="34-8"><speaker>House</speaker><content>Except that if you read the history, you'd know that our patient has never been to a tropical climate!</content></utterance>
+<utterance uid="34-9"><speaker>Cameron</speaker><content>Is he absolutely sure of that? Mexico. Costa Rica. You've never been —</content></utterance>
+<utterance uid="34-10"><speaker>Jason</speaker><content>I've never been anywhere south of Florida.</content></utterance>
+<utterance uid="34-11"><speaker>House</speaker><content>You idiot.</content></utterance>
+<utterance uid="34-12"><speaker>Jason</speaker><content>Florida counts?</content></utterance>
+<utterance uid="34-13"><speaker>House</speaker><content>Well, not to the Supreme Court. But it's warm enough for germs.  You keep blaming doctors when you can't even give a halfway decent history.</content></utterance>
+<utterance uid="34-14"><speaker>Bowman</speaker><content>Negotiation's over.</content></utterance>
+<utterance uid="34-15"><speaker>House</speaker><content>It will be as soon as you get us three grams of ceftazidime.</content></utterance>
+<utterance uid="34-16"><speaker>Bowman</speaker><content>He comes out, he gets all the medicine he wants.</content></utterance>
+<utterance uid="34-17"><speaker>Jason</speaker><content>You can have Dr. House.</content></utterance>
+<utterance uid="34-18"><speaker>House</speaker><content> Why are you getting rid of me?</content></utterance>
+<utterance uid="34-19"><speaker>Jason</speaker><content>I need to trade you for the answer.</content></utterance>
+<utterance uid="34-20"><speaker>House</speaker><content>You're gonna give her the meds.</content></utterance>
+<utterance uid="34-21"><speaker>Jason</speaker><content>No…</content></utterance>
+<utterance uid="34-22"><speaker>House</speaker><content>Come on, give 'em to me instead.</content></utterance>
+<utterance uid="34-23"><speaker>Jason</speaker><content> She's taken everything I've taken. The combination of meds could knock me out.</content></utterance>
+<utterance uid="34-24"><speaker>House</speaker><content>Her kidneys are failing. You give her those drugs, she'll be dead by the time they get the cuffs on you.</content></utterance>
+<utterance uid="34-25"><speaker>Jason</speaker><content>I need my answer.</content></utterance>
+<utterance uid="34-26"><speaker>House</speaker><content>Your obsession is gonna kill her!</content></utterance>
+<utterance uid="34-27"><speaker>Jason</speaker><content>Your obsession gave me back the gun! </content></utterance>
+<utterance uid="34-28"><speaker>House</speaker><content> It is pointless to give her those drugs. Even if they are screwing with you, this is your last diagnosis.</content></utterance>
+<utterance uid="34-29"><speaker>Jason</speaker><content>Only if you're right.</content></utterance>
+<utterance uid="34-30"><speaker>Thirteen</speaker><content> House, get out of here.</content></utterance>
+<utterance uid="34-31"><speaker>House</speaker><content>Shut up. I'm not leaving.</content></utterance>
+<utterance uid="34-32"><speaker>Thirteen</speaker><content>Who's the martyr now? Either the drugs kill me or he kills me. Doesn't seem to make a lot of difference.</content></utterance>
+</scene>
+
+<scene id="35"><utterance uid="35-1"><speaker>Thirteen</speaker><content>You really don't feel bad about killing me?</content></utterance>
+<utterance uid="35-2"><speaker>Jason</speaker><content>Not if you don't feel bad about killing yourself.</content></utterance>
+<utterance uid="35-3"><speaker>Thirteen</speaker><content>I don't want to die.</content></utterance>
+<utterance uid="35-4"><speaker>Jason</speaker><content>Yeah, you do. You just don't have the nerve to actually do it. You just want it out of your control. Well, it is. 'Cause I've got a gun. </content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>Thirteen</speaker><content>Don't do this.</content></utterance>
+<utterance uid="36-2"><speaker>Jason</speaker><content>Either I do this with you alive, or…</content></utterance>
+<utterance uid="36-3"><speaker>Thirteen</speaker><content>Please. Sometimes you just have to trust people.</content></utterance>
+<utterance uid="36-4"><speaker>Thirteen</speaker><content>I don't want to die! I don't want to die!</content></utterance>
+</scene>
+
+
+
+<scene id="37"><utterance uid="37-1"><speaker>House</speaker><content>Why are you still alive?</content></utterance>
+<utterance uid="37-2"><speaker>Thirteen</speaker><content>He didn't make me take it.</content></utterance>
+</scene>
+
+<scene id="38"><utterance uid="38-1"><speaker>Foreman</speaker><content>A week of temporary dialysis, your kidneys will be okay.  I'm sorry I backed out of the differential.</content></utterance>
+<utterance uid="38-2"><speaker>Thirteen</speaker><content>About that Huntington’s drug trial… </content></utterance>
+</scene>
+<scene id="39"><utterance uid="39-1"><speaker>House</speaker><content>Test confirmed melioidosis. Easy to miss on a stain.  Scans and X-rays vary widely.</content></utterance>
+<utterance uid="39-2"><speaker>Cuddy</speaker><content>Is that all you care about? A moron storms the clinic, bullies his way into life without parole, you enabling him every step.</content></utterance>
+<utterance uid="39-3"><speaker>House</speaker><content>If he hadn't done what he did, he'd be dead. Good thing you enabled my every medical move. </content></utterance>
+<utterance uid="39-4"><speaker>Cuddy</speaker><content>You think I handled this differently because you were in here?</content></utterance>
+<utterance uid="39-5"><speaker>House</speaker><content>I don't know. Let's try it again without me.</content></utterance>
+<utterance uid="39-6"><speaker>Cuddy</speaker><content>This is why you and I can't be a… thing.</content></utterance>
+<utterance uid="39-7"><speaker>House</speaker><content>If you're suggesting that you screwed up because of a non-relationship with me, I don't know how I can help you. 'Cause the only change you can make from a non-relationship is…</content></utterance>
+<utterance uid="39-8"><speaker>Cuddy</speaker><content>You want a relationship?</content></utterance>
+<utterance uid="39-9"><speaker>House</speaker><content>God, no. Just trying to follow your logic.</content></utterance>
+</scene>
+
+</script>

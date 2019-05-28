@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>Sheldon</speaker><content>I’m glad to see you made it safely. How’s your hotel?</content></utterance>
+<utterance uid="1-2"><speaker>Amy (on Skype)</speaker><content>It’s not the best Best Western I’ve been to, but I’d say it’s the third best Best Western I’ve been to.</content></utterance>
+<utterance uid="1-3"><speaker>Sheldon</speaker><content>I know how you feel. The Best Buy by my house is only the third best Best Buy. They have the best buys, but having the best buys isn’t the only thing that makes a Best Buy the best Best Buy.</content></utterance>
+<utterance uid="1-4"><speaker>Amy</speaker><content>What makes a best Best Buy the best Best Buy?</content></utterance>
+<utterance uid="1-5"><speaker>Sheldon</speaker><content>Mm, that’s a great question. I like when they’re next to a Chipotle.</content></utterance>
+<utterance uid="1-6"><speaker>Amy</speaker><content>Okay, well, I should unpack.</content></utterance>
+<utterance uid="1-7"><speaker>Sheldon</speaker><content>All right. Enjoy the neurobiology conference.</content></utterance>
+<utterance uid="1-8"><speaker>Amy</speaker><content>I will. I wish you were here.</content></utterance>
+<utterance uid="1-9"><speaker>Sheldon</speaker><content>At a neurobiology conference? What a mean thing to say.</content></utterance>
+<utterance uid="1-10"><speaker>Amy</speaker><content>Okay, I’m glad you’re not here?</content></utterance>
+<utterance uid="1-11"><speaker>Sheldon</speaker><content>Aw, you always know just what to say after I tell you what to say.</content></utterance>
+<utterance uid="1-12"><speaker>Amy</speaker><content>Good-bye, Sheldon.</content></utterance>
+<utterance uid="1-13"><speaker>Sheldon</speaker><content>Bye. Oh, good news, gentlemen. Amy’s at a conference this weekend, which means I’m available to be entertained, hmm. As today’s youth might put it, who wants to get their Sheld-on?</content></utterance>
+<utterance uid="1-14"><speaker>Howard</speaker><content>Bernie and I are getting the house ready for the remodel. We could always use an extra pair of hands.</content></utterance>
+<utterance uid="1-15"><speaker>Sheldon</speaker><content>That sounds awful. Raj?</content></utterance>
+<utterance uid="1-16"><speaker>Raj</speaker><content>Uh, I’ve got time booked in the telescope room all weekend scanning for rogue planets. You’re more than welcome to join me.</content></utterance>
+<utterance uid="1-17"><speaker>Sheldon</speaker><content>That’s the one to beat. Leonard?</content></utterance>
+<utterance uid="1-18"><speaker>Leonard</speaker><content>Oh, if anything, I’m trying to get my Sheld-off.</content></utterance>
+<utterance uid="1-19"><speaker>Sheldon</speaker><content>Well, then it looks like we have a winner. Congratulations.</content></utterance>
+<utterance uid="1-20"><speaker>Raj</speaker><content>Well, I should warn you, it’s just looking at data for hours and hours on a computer screen.</content></utterance>
+<utterance uid="1-21"><speaker>Sheldon</speaker><content>Uh, stop selling it, kid. You won.</content></utterance>
+</scene>
+
+<scene id="2"><utterance uid="2-1"><speaker>Penny</speaker><content>Hey.</content></utterance>
+<utterance uid="2-2"><speaker>Leonard</speaker><content>Hey.</content></utterance>
+<utterance uid="2-3"><speaker>Raj</speaker><content>Hello.</content></utterance>
+<utterance uid="2-4"><speaker>Howard</speaker><content>Hi.</content></utterance>
+<utterance uid="2-5"><speaker>Leonard</speaker><content>How was your day?</content></utterance>
+<utterance uid="2-6"><speaker>Penny</speaker><content>Oh, not good. Still couldn’t get in to see Dr. Gallo.</content></utterance>
+<utterance uid="2-7"><speaker>Sheldon</speaker><content>A doctor? Well, I hope you’re not contagious. I’ve got a weekend in the telescope room I’ve been excited about for almost three minutes.</content></utterance>
+<utterance uid="2-8"><speaker>Penny</speaker><content>I’m not sick. It’s for work. There’s this doctor who refuses to see any sales reps. I’ve been trying to get in for months.</content></utterance>
+<utterance uid="2-9"><speaker>Leonard</speaker><content>Well, did you try wearing the shirt I said was inappropriate for work?</content></utterance>
+<utterance uid="2-10"><speaker>Penny</speaker><content>Well, the doctor’s a woman, but yes, because you never know.</content></utterance>
+<utterance uid="2-11"><speaker>Howard</speaker><content>What kind of doctor is she?</content></utterance>
+<utterance uid="2-12"><speaker>Penny</speaker><content>Um, a psychiatrist. Why?</content></utterance>
+<utterance uid="2-13"><speaker>Howard</speaker><content>Well, what if you make an appointment as a patient? Then you’ll get to talk to her.</content></utterance>
+<utterance uid="2-14"><speaker>Penny</speaker><content>Yeah, they already know I’m a pharmaceutical sales rep.</content></utterance>
+<utterance uid="2-15"><speaker>Raj</speaker><content>Oh. What if Leonard made an appointment and tried to lay some groundwork for you?</content></utterance>
+<utterance uid="2-16"><speaker>Penny</speaker><content>That’s interesting.</content></utterance>
+<utterance uid="2-17"><speaker>Leonard</speaker><content>I’m not gonna make a fake appointment with a psychiatrist. What would I say is wrong with me?</content></utterance>
+<utterance uid="2-18"><speaker>Raj</speaker><content>Low self-esteem.</content></utterance>
+<utterance uid="2-19"><speaker>Howard</speaker><content>Social anxiety.</content></utterance>
+<utterance uid="2-20"><speaker>Sheldon</speaker><content>Sexual insecurity.</content></utterance>
+<utterance uid="2-21"><speaker>Leonard</speaker><content>None of that is true.</content></utterance>
+<utterance uid="2-22"><speaker>Penny</speaker><content>Uh, denial. See, sweetie, the list goes on and on.</content></utterance>
+<utterance uid="2-23"><speaker>Leonard</speaker><content>That’s just crazy. How would my going in there even help you?</content></utterance>
+<utterance uid="2-24"><speaker>Penny</speaker><content>I don’t know. You could talk to her, and maybe if it comes up, you could ask if she’s heard about the drug.</content></utterance>
+<utterance uid="2-25"><speaker>Leonard</speaker><content>What if I get caught?</content></utterance>
+<utterance uid="2-26"><speaker>Howard</speaker><content>Fear of failure.</content></utterance>
+<utterance uid="2-27"><speaker>Raj</speaker><content>Lack of confidence.</content></utterance>
+<utterance uid="2-28"><speaker>Sheldon</speaker><content>Kind of a wuss.</content></utterance>
+<utterance uid="2-29"><speaker>Leonard</speaker><content>Fine, I’ll do it. But not because of them, because I love you.</content></utterance>
+<utterance uid="2-30"><speaker>Penny</speaker><content>Thank you.</content></utterance>
+<utterance uid="2-31"><speaker>Raj</speaker><content>Pushover.</content></utterance>
+<utterance uid="2-32"><speaker>Howard</speaker><content>Spineless.</content></utterance>
+<utterance uid="2-33"><speaker>Sheldon</speaker><content>Still hasn’t bought milk even though I told him two days ago.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>Howard</speaker><content>That was incredible.</content></utterance>
+<utterance uid="3-2"><speaker>Bernadette</speaker><content>It was. I just wish Stuart wasn’t around so we didn’t have to be so quiet.</content></utterance>
+<utterance uid="3-3"><speaker>Howard</speaker><content>I know. It’s not like he returns the favour when he watches his Japanese porn cartoons.</content></utterance>
+<utterance uid="3-4"><speaker>Stuart (knocking)</speaker><content>You guys got a minute, or are you still cuddling?</content></utterance>
+<utterance uid="3-5"><speaker>Howard</speaker><content>What is it, Stuart?</content></utterance>
+<utterance uid="3-6"><speaker>Stuart</speaker><content>Can I come in?</content></utterance>
+<utterance uid="3-7"><speaker>Howard</speaker><content>Hang on. Should I send him away?</content></utterance>
+<utterance uid="3-8"><speaker>Bernadette</speaker><content>No, it’s okay.</content></utterance>
+<utterance uid="3-9"><speaker>Stuart</speaker><content>Thanks, Bernie.</content></utterance>
+<utterance uid="3-10"><speaker>Howard</speaker><content>What’s up?</content></utterance>
+<utterance uid="3-11"><speaker>Stuart</speaker><content>Uh, well, I know the remodel is coming up, so I thought I’d make it easy on you guys and find my own place.</content></utterance>
+<utterance uid="3-12"><speaker>Howard</speaker><content>Wow. I thought I was done getting lucky tonight.</content></utterance>
+<utterance uid="3-13"><speaker>Bernadette</speaker><content>So, when are you thinking of moving?</content></utterance>
+<utterance uid="3-14"><speaker>Stuart</speaker><content>Uh, actually, I already found an apartment, so in a couple of days.</content></utterance>
+<utterance uid="3-15"><speaker>Bernadette</speaker><content>Oh. Okay. Sorry to see you go?</content></utterance>
+<utterance uid="3-16"><speaker>Stuart</speaker><content>Okay, well, thank you guys for everything. I, I really appreciate it.</content></utterance>
+<utterance uid="3-17"><speaker>Bernadette</speaker><content>: You’re very welcome.</content></utterance>
+<utterance uid="3-18"><speaker>Stuart</speaker><content>Hmm.</content></utterance>
+<utterance uid="3-19"><speaker>Howard</speaker><content>What?</content></utterance>
+<utterance uid="3-20"><speaker>Stuart</speaker><content>Hmm, I just have never been in this room while you’re awake.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>Sheldon</speaker><content>What are you doing?</content></utterance>
+<utterance uid="4-2"><speaker>Raj</speaker><content>Uh, making sure the telescope’s camera is white-field balanced.</content></utterance>
+<utterance uid="4-3"><speaker>Sheldon</speaker><content>Hmm. What are you doing now?</content></utterance>
+<utterance uid="4-4"><speaker>Raj</speaker><content>Still making sure the telescope’s camera is white-field balanced.</content></utterance>
+<utterance uid="4-5"><speaker>Sheldon</speaker><content>Oh, I see. How about now?</content></utterance>
+<utterance uid="4-6"><speaker>Raj</speaker><content>Now I’m making sure the telescope’s camera is white-field balanced and wishing you had a colouring book.</content></utterance>
+<utterance uid="4-7"><speaker>Sheldon</speaker><content>Well, I can be helpful. Give me something to do. You know, my father took me to work once, and in ten minutes I figured out who’d been stealing from the cash register. It was my father. Yeah, Dad lost his job, but Mr. Hinckley gave me a Fudgsicle.</content></utterance>
+<utterance uid="4-8"><speaker>Raj</speaker><content>Fine, you want something to do? There’s about six months of data on this hard drive. Why don’t you go through it and see if you can spot any patterns or anomalies.</content></utterance>
+<utterance uid="4-9"><speaker>Sheldon</speaker><content>Yep, I’m on it. Hey, look at that, an Indian guy outsourcing a computer job to a white fella.</content></utterance>
+<utterance uid="4-10"><speaker>Raj</speaker><content>Yeah, okay, whatever it takes to keep you busy for a few hours.</content></utterance>
+<utterance uid="4-11"><speaker>Sheldon</speaker><content>Found one.</content></utterance>
+<utterance uid="4-12"><speaker>Raj</speaker><content>No, you didn’t. There are millions of data points there.</content></utterance>
+<utterance uid="4-13"><speaker>Sheldon</speaker><content>But, look, an optical transient.</content></utterance>
+<utterance uid="4-14"><speaker>Raj</speaker><content>Yeah, maybe that is something. How did you find that?</content></utterance>
+<utterance uid="4-15"><speaker>Sheldon</speaker><content>It wasn’t difficult. You know how when you see prime numbers, they appear red, but when they’re twin primes, they’re pink and smell like gasoline?</content></utterance>
+<utterance uid="4-16"><speaker>Raj</speaker><content>No.</content></utterance>
+<utterance uid="4-17"><speaker>Sheldon</speaker><content>Oh. I guess I’m a special boy. You know, sometimes when a boy is special, he gets a Fudgsicle. Which, by the way, tastes like the speed of light.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>Leonard</speaker><content>Thank you for seeing me on such short notice.</content></utterance>
+<utterance uid="5-2"><speaker>Dr Gallo</speaker><content>Ah, it’s my pleasure. I’m curious, are you related to Dr. Beverly Hofstadter?</content></utterance>
+<utterance uid="5-3"><speaker>Leonard</speaker><content>Uh, she’s my mother. You know her?</content></utterance>
+<utterance uid="5-4"><speaker>Dr Gallo</speaker><content>No, not personally, but I have read all of her books.</content></utterance>
+<utterance uid="5-5"><speaker>Leonard</speaker><content>Well, then you know her better than I do.</content></utterance>
+<utterance uid="5-6"><speaker>Dr Gallo</speaker><content>Well, I’m not so sure about that. But I can tell you I do not agree with her theories on child rearing at all.</content></utterance>
+<utterance uid="5-7"><speaker>Leonard</speaker><content>Really? Any chance you find them cold, cruel and unsuitable for innocent little boys who just want to be happy?</content></utterance>
+<utterance uid="5-8"><speaker>Dr Gallo</speaker><content>Well, I didn’t want to say it.</content></utterance>
+<utterance uid="5-9"><speaker>Leonard</speaker><content>No, no, say it. Sing it. Rent a plane, write it in the sky.</content></utterance>
+<utterance uid="5-10"><speaker>Dr Gallo</speaker><content>Sounds like you’re holding on to quite a bit of anger towards her.</content></utterance>
+<utterance uid="5-11"><speaker>Leonard</speaker><content>Oh, no, I, I’ve worked through a lot of that stuff, I’m better now.</content></utterance>
+<utterance uid="5-12"><speaker>Dr Gallo</speaker><content>Mm. Good for you.</content></utterance>
+<utterance uid="5-13"><speaker>Leonard</speaker><content>Do you know she never let me celebrate my birthday because being born was her achievement, not mine?</content></utterance>
+<utterance uid="5-14"><speaker>Dr Gallo</speaker><content>That’s heartbreaking.</content></utterance>
+<utterance uid="5-15"><speaker>Leonard</speaker><content>Right? To this day, I send her a card every year with a little money in it.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>Howard</speaker><content>You know, once we get the house back to ourselves, we can be romantic in any room we want.</content></utterance>
+<utterance uid="6-2"><speaker>Bernadette</speaker><content>Great. I can finally show you where the laundry room is.</content></utterance>
+<utterance uid="6-3"><speaker>Stuart</speaker><content>Boy, who would’ve thought when you asked me to move in and help take care of your mom, I’d still be here two years later?</content></utterance>
+<utterance uid="6-4"><speaker>Howard</speaker><content>No one.</content></utterance>
+<utterance uid="6-5"><speaker>Bernadette</speaker><content>Nobody thought that.</content></utterance>
+<utterance uid="6-6"><speaker>Stuart</speaker><content>Well, that’s it.</content></utterance>
+<utterance uid="6-7"><speaker>Bernadette</speaker><content>I guess so.</content></utterance>
+<utterance uid="6-8"><speaker>Stuart</speaker><content>This is weird.</content></utterance>
+<utterance uid="6-9"><speaker>Howard</speaker><content>Yeah. A grown man moving into his own apartment. Crazy times. See ya.</content></utterance>
+<utterance uid="6-10"><speaker>Bernadette</speaker><content>Ignore him. He’s just using humour to express how happy he is.</content></utterance>
+<utterance uid="6-11"><speaker>Stuart</speaker><content>It’s okay. I know he loves me.</content></utterance>
+<utterance uid="6-12"><speaker>Bernadette</speaker><content>Sure he does. Well, let us know when you’re all settled in.</content></utterance>
+<utterance uid="6-13"><speaker>Stuart</speaker><content>I will. And I really can’t thank you guys enough.</content></utterance>
+<utterance uid="6-14"><speaker>Bernadette</speaker><content>Our pleasure.</content></utterance>
+<utterance uid="6-15"><speaker>Stuart</speaker><content>Bye.</content></utterance>
+<utterance uid="6-16"><speaker>Bernadette</speaker><content>Goodbye.</content></utterance>
+<utterance uid="6-17"><speaker>Howard</speaker><content>He’s gone. Let’s start in the garage.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>Raj</speaker><content>Okay, so once we receive the next image and compare it to the ones we’ve already collected, we’ll know what it is that we found.</content></utterance>
+<utterance uid="7-2"><speaker>Sheldon</speaker><content>Ooh, perhaps it’s a Heliosheath scintillation.</content></utterance>
+<utterance uid="7-3"><speaker>Raj</speaker><content>It could be a trans-Neptunian object.</content></utterance>
+<utterance uid="7-4"><speaker>Sheldon</speaker><content>Maybe it’s a new planet.</content></utterance>
+<utterance uid="7-5"><speaker>Raj</speaker><content>Unlikely, but it could be a dwarf planet.</content></utterance>
+<utterance uid="7-6"><speaker>Sheldon</speaker><content>Well, as long as it has a healthy gravity and all its moons, I’ll be happy.</content></utterance>
+<utterance uid="7-7"><speaker>Raj</speaker><content>Okay, the final image is coming in. And the object we discovered is…</content></utterance>
+<utterance uid="7-8"><speaker>Sheldon</speaker><content>Come on, Daddy needs a livable planet he can rule with an iron fist.</content></utterance>
+<utterance uid="7-9"><speaker>Raj</speaker><content>A medium-sized asteroid.</content></utterance>
+<utterance uid="7-10"><speaker>Sheldon</speaker><content>That’s it? How common. That’s the chicken fingers on the menu of space.</content></utterance>
+<utterance uid="7-11"><speaker>Raj</speaker><content>I kind of like chicken fingers.</content></utterance>
+<utterance uid="7-12"><speaker>Sheldon</speaker><content>Yeah, me, too. I was stuck for a metaphor.</content></utterance>
+<utterance uid="7-13"><speaker>Raj</speaker><content>Come on, a medium-sized asteroid is still an interesting discovery.</content></utterance>
+<utterance uid="7-14"><speaker>Sheldon</speaker><content>I suppose it could end up on a collision course with Earth and destroy life as we know it.</content></utterance>
+<utterance uid="7-15"><speaker>Raj</speaker><content>You dream different than me.</content></utterance>
+<utterance uid="7-16"><speaker>Sheldon</speaker><content>It is kind of cute.</content></utterance>
+<utterance uid="7-17"><speaker>Raj</speaker><content>Yeah, it is. And you know we get to name it.</content></utterance>
+<utterance uid="7-18"><speaker>Sheldon</speaker><content>We better choose a name no one can make fun of. Sir Frederick William Herschel didn’t do Uranus any favours.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>Leonard</speaker><content>Hi.</content></utterance>
+<utterance uid="8-2"><speaker>Penny</speaker><content>Hey, how’d it go?</content></utterance>
+<utterance uid="8-3"><speaker>Leonard</speaker><content>Oh, great. Dr. Gallo is terrific. You know, I, I’ve always been insecure that no one cares about what I have to say, but she made me see…</content></utterance>
+<utterance uid="8-4"><speaker>Penny</speaker><content>Yeah, no one cares. Did you help me out or not?</content></utterance>
+<utterance uid="8-5"><speaker>Leonard</speaker><content>Okay, now, what I’m hearing is that you feel that I sometimes take too long to express myself, and you wish I’d be more succinct.</content></utterance>
+<utterance uid="8-6"><speaker>Penny</speaker><content>You’re only hearing that because I cannot roll my eyes any louder.</content></utterance>
+<utterance uid="8-7"><speaker>Leonard</speaker><content>All right, well, after we talked about my issues with my mother, nothing too deep, just how she ruined my life, I told her about you and your drug. She said she’d be happy to meet you.</content></utterance>
+<utterance uid="8-8"><speaker>Penny</speaker><content>Really? Oh, you’re the best husband ever.</content></utterance>
+<utterance uid="8-9"><speaker>Leonard</speaker><content>So you’ll go to the Doctor Who convention with me next week?</content></utterance>
+<utterance uid="8-10"><speaker>Penny</speaker><content>I guess.</content></utterance>
+<utterance uid="8-11"><speaker>Leonard</speaker><content>Oh, I actually did hear your eyes roll that time.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>Bernadette</speaker><content>Boy, when was the last time Stuart cleaned this place?</content></utterance>
+<utterance uid="9-2"><speaker>Howard</speaker><content>No kidding. Oh, okay, I’m about to suck something up. What do you think this object sounds like?</content></utterance>
+<utterance uid="9-3"><speaker>Bernadette</speaker><content>Howie, I don’t want to play Lego, Toenail or Pill anymore. So, what do you think we should do with this room?</content></utterance>
+<utterance uid="9-4"><speaker>Howard</speaker><content>Well, I was thinking a home theatre or a gaming room, you know, like a man cave.</content></utterance>
+<utterance uid="9-5"><speaker>Bernadette</speaker><content>Why can’t it be a woman cave?</content></utterance>
+<utterance uid="9-6"><speaker>Howard</speaker><content>As long as it has a home theatre, a video game system and you’re not allowed in it, you can call it whatever you want.</content></utterance>
+<utterance uid="9-7"><speaker>Bernadette</speaker><content>I’m being serious.</content></utterance>
+<utterance uid="9-8"><speaker>Howard</speaker><content>Well, what do you think we should do?</content></utterance>
+<utterance uid="9-9"><speaker>Bernadette</speaker><content>I don’t know, maybe a home office or, oh look. The teddy bear Stuart won the night we took him to the fair.</content></utterance>
+<utterance uid="9-10"><speaker>Howard</speaker><content>Oh. He was so excited.</content></utterance>
+<utterance uid="9-11"><speaker>Bernadette</speaker><content>Yeah. You know, no matter how hard they tried, they could not guess his age.</content></utterance>
+<utterance uid="9-12"><speaker>Howard</speaker><content>I’ll give it to him next time I see him.</content></utterance>
+<utterance uid="9-13"><speaker>Bernadette</speaker><content>Have you heard from him since he left?</content></utterance>
+<utterance uid="9-14"><speaker>Howard</speaker><content>No. You’d think he would’ve called once he got settled in.</content></utterance>
+<utterance uid="9-15"><speaker>Bernadette</speaker><content>Hmm. Maybe he’s busy.</content></utterance>
+<utterance uid="9-16"><speaker>Howard</speaker><content>Too busy to call? He wasn’t too busy to binge-watch Hot in Cleveland with my Hulu password. What is happening? Are we missing him?</content></utterance>
+<utterance uid="9-17"><speaker>Bernadette</speaker><content>No, that’s not what this feeling is. Is it?</content></utterance>
+<utterance uid="9-18"><speaker>Howard</speaker><content>Of course not. He drove us crazy. Like when you were gonna make that pie and Stuart ate all the blueberries.</content></utterance>
+<utterance uid="9-19"><speaker>Bernadette</speaker><content>And he tried to deny it, but his teeth were all purple.</content></utterance>
+<utterance uid="9-20"><speaker>Howard</speaker><content>That was pretty cute.</content></utterance>
+<utterance uid="9-21"><speaker>Bernadette</speaker><content>Yeah. Ew, we are missing him!</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>Raj</speaker><content>So I was thinking, maybe we can come up with a name for the asteroid by combining our names.</content></utterance>
+<utterance uid="10-2"><speaker>Sheldon</speaker><content>That’s a great idea. I’ve got it. We’ll call it Cooper.</content></utterance>
+<utterance uid="10-3"><speaker>Raj</speaker><content>How is that both our names?</content></utterance>
+<utterance uid="10-4"><speaker>Sheldon</speaker><content>Koo from Koothrappali and per from Cooper.</content></utterance>
+<utterance uid="10-5"><speaker>Raj</speaker><content>Yeah, s-so it’s, like, Kooper with a K?</content></utterance>
+<utterance uid="10-6"><speaker>Sheldon</speaker><content>Nah, you’re right, that’s dumb.</content></utterance>
+<utterance uid="10-7"><speaker>Leonard</speaker><content>Hey.</content></utterance>
+<utterance uid="10-8"><speaker>Sheldon</speaker><content>Oh, Leonard, great news. We discovered a medium-sized asteroid together.</content></utterance>
+<utterance uid="10-9"><speaker>Leonard</speaker><content>Wow, that’s amazing. I’m in a pretty great mood today myself.</content></utterance>
+<utterance uid="10-10"><speaker>Sheldon</speaker><content>Okay. Guess we’re gonna talk about you now.</content></utterance>
+<utterance uid="10-11"><speaker>Leonard</speaker><content>Well, we are, because Dr. Gallo made me realize that I’m a worthwhile person and that my feelings matter.</content></utterance>
+<utterance uid="10-12"><speaker>Raj</speaker><content>I learned that for free from a cat poster, but good for you.</content></utterance>
+<utterance uid="10-13"><speaker>Sheldon</speaker><content>Okay, back to me. I discovered an asteroid, and now I get to name it.</content></utterance>
+<utterance uid="10-14"><speaker>Raj</speaker><content>Wait, what happened to us?</content></utterance>
+<utterance uid="10-15"><speaker>Sheldon</speaker><content>Now, this isn’t about us, this is about what’s best for the asteroid.</content></utterance>
+<utterance uid="10-16"><speaker>Leonard</speaker><content>Well, what are you thinking of naming it?</content></utterance>
+<utterance uid="10-17"><speaker>Sheldon</speaker><content>I haven’t settled on anything yet.</content></utterance>
+<utterance uid="10-18"><speaker>Raj</speaker><content>We haven’t settled on anything yet.</content></utterance>
+<utterance uid="10-19"><speaker>Sheldon</speaker><content>All right, way to go, Cat Poster. You hang in there.</content></utterance>
+<utterance uid="10-20"><speaker>Leonard</speaker><content>You know what’d be nice? Name it after your girlfriends. Show them how much you care.</content></utterance>
+<utterance uid="10-21"><speaker>Raj</speaker><content>That is a great idea.</content></utterance>
+<utterance uid="10-22"><speaker>Sheldon</speaker><content>It’s perfect. It appears romantic, but it’s really just a rock in space that gets me out of Valentine’s Day forever.</content></utterance>
+<utterance uid="10-23"><speaker>Raj</speaker><content>So, uh, what were you thinking? Combine their names?</content></utterance>
+<utterance uid="10-24"><speaker>Sheldon</speaker><content>I like it. Yeah, we’ll take the A-M from Amy and, uh, the Y from Emily.</content></utterance>
+<utterance uid="10-25"><speaker>Raj</speaker><content>That’s just Amy.</content></utterance>
+<utterance uid="10-26"><speaker>Sheldon</speaker><content>Exactly. See how well we work together?</content></utterance>
+<utterance uid="10-27"><speaker>Penny</speaker><content>And in double-blind studies, Placinex proved extremely effective in treating all kinds of anxiety. Actually, funny story, the boys in the lab were worried about getting FDA approval for Placinex. They started taking it, stopped worrying.</content></utterance>
+<utterance uid="10-28"><speaker>Dr Gallo</speaker><content>Got it.</content></utterance>
+<utterance uid="10-29"><speaker>Penny</speaker><content>Uh, do you have any questions?</content></utterance>
+<utterance uid="10-30"><speaker>Dr Gallo</speaker><content>Just one.</content></utterance>
+<utterance uid="10-31"><speaker>Penny</speaker><content>Mm-hmm?</content></utterance>
+<utterance uid="10-32"><speaker>Dr Gallo</speaker><content>When you made your husband pretend to be a patient so you could get access to me, what were you thinking there?</content></utterance>
+<utterance uid="10-33"><speaker>Penny</speaker><content>I just meant a question about the drug.</content></utterance>
+<utterance uid="10-34"><speaker>Dr Gallo</speaker><content>Yeah, I know what you meant. Let’s put that aside for a minute and talk about why you married Leonard.</content></utterance>
+<utterance uid="10-35"><speaker>Penny</speaker><content>I don’t wanna.</content></utterance>
+<utterance uid="10-36"><speaker>Dr Gallo</speaker><content>Here is a man raised by an overbearing woman who completely dominated every aspect of his formative years. Do you think he’s perpetuating that relationship by seeking out a partner like you?</content></utterance>
+<utterance uid="10-37"><speaker>Penny</speaker><content>You know, I used to wear tank tops a lot. That was a big selling point.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>Amy (on Skype)</speaker><content>Hi, Sheldon. What’s up?</content></utterance>
+<utterance uid="11-2"><speaker>Sheldon</speaker><content>Good news. You’re an asteroid.</content></utterance>
+<utterance uid="11-3"><speaker>Amy</speaker><content>Uh, please tell me what to say next.</content></utterance>
+<utterance uid="11-4"><speaker>Sheldon</speaker><content>Perhaps I should explain. While working with Koothrappali, we discovered an asteroid, and I named it after you.</content></utterance>
+<utterance uid="11-5"><speaker>Amy</speaker><content>Oh. Sheldon, thank you. That’s so romantic. But what about Rajesh? He was okay with you choosing the name?</content></utterance>
+<utterance uid="11-6"><speaker>Sheldon</speaker><content>Well, it took a little negotiating, but I wore him down. Uh, we get the asteroid, and if you and I have children, they all have to be named Rajesh.</content></utterance>
+<utterance uid="11-7"><speaker>Amy</speaker><content>All of them?</content></utterance>
+<utterance uid="11-8"><speaker>Sheldon</speaker><content>Even the girls.</content></utterance>
+<utterance uid="11-9"><speaker>Amy</speaker><content>Okay, I think I know what to say now.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>Penny</speaker><content>How can I not sound like his mother when our entire bedroom is filled with Star Wars toys? I mean, have you ever had sex with a stuffed Wookiee watching you?</content></utterance>
+<utterance uid="12-2"><speaker>Dr Gallo</speaker><content>I went to college in the ’70s. It was a hairier time. I’m gonna say yes.</content></utterance>
+<utterance uid="12-3"><speaker>Penny</speaker><content>You know, if anything, he’s turning me into his mother. Before I did pharmaceutical sales, I was an actress. You know, I was pretty good. You know, girl-next-door type, but hot. Doable.</content></utterance>
+<utterance uid="12-4"><speaker>Dr Gallo</speaker><content>Hmm.</content></utterance>
+<utterance uid="12-5"><speaker>Penny</speaker><content>And not only am I Leonard’s mother, but we have this man-child living with us named Sheldon.</content></utterance>
+<utterance uid="12-6"><speaker>Dr Gallo</speaker><content>Oh, Leonard talked a lot about him. I wasn’t sure if he was real.</content></utterance>
+<utterance uid="12-7"><speaker>Penny</speaker><content>Yeah, he’s as real as the fine I get when I use too much toilet paper.</content></utterance>
+<utterance uid="12-8"><speaker>Dr Gallo</speaker><content>Wow, you really do have a lot on your plate.</content></utterance>
+<utterance uid="12-9"><speaker>Penny</speaker><content>I do. You know, Leonard’s right. Talking to you is really helping.</content></utterance>
+<utterance uid="12-10"><speaker>Dr Gallo</speaker><content>Oh, I’m glad. You know, you might also benefit from a prescription for anxiety.</content></utterance>
+<utterance uid="12-11"><speaker>Penny</speaker><content>Okay, if you think it’ll help. Oh, just don’t make it Placinex. I do not need sudden fits of homicidal rage.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>Amy (on Skype)</speaker><content>I miss you.</content></utterance>
+<utterance uid="13-2"><speaker>Sheldon</speaker><content>I miss you as well.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>Howard</speaker><content>I can’t believe I miss Stuart.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>Penny</speaker><content>I guess I just miss when life was simpler.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>Girls</speaker><content>Go, Leonard! Go, Leonard! Go, Leonard! Go, Leonard!</content></utterance>
+<utterance uid="16-2"><speaker>Leonard</speaker><content>Remember, girls, you decide what makes you happy, not your emotionally withholding mothers.</content></utterance>
+<utterance uid="16-3"><speaker>Girls</speaker><content>Go, Leonard! Go, Leonard! Go, Leonard! Go, Leonard! Go, Leonard!</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>Stuart</speaker><content>I really miss this.</content></utterance>
+</scene>
+</script>

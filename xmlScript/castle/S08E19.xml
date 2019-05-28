@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>WOMAN ON PHONE</speaker><content>Customer service. May I help you?</content></utterance>
+<utterance uid="1-2"><speaker>ALAN</speaker><content/></utterance>
+<utterance uid="1-3"><speaker>WOMAN</speaker><content>Wrong department, sir.</content></utterance>
+<utterance uid="1-4"><speaker>ALAN</speaker><content>No, what do you mean, wrong department? I pressed 3 -</content></utterance>
+<utterance uid="1-5"><speaker>WOMAN</speaker><content>Please hold.</content></utterance>
+<utterance uid="1-6"><speaker>ALAN</speaker><content>Don’t you put me on hold. I’ve been on hold for 45 min—</content></utterance>
+<utterance uid="1-7"><speaker>ALAN</speaker><content>Wow.</content></utterance>
+<utterance uid="1-8"><speaker>ALAN</speaker><content>Mm-mmm.</content></utterance>
+<utterance uid="1-9"><speaker>WOMAN</speaker><content>Your call is very important to us.</content></utterance>
+<utterance uid="1-10"><speaker>WOMAN</speaker><content>Please continue holding.</content></utterance>
+<utterance uid="1-11"><speaker>ALAN</speaker><content>Hello, hello, hello, hello!</content></utterance>
+<utterance uid="1-12"><speaker>WOMAN</speaker><content>Sorry about that, sir. I can connect you to the correct department now.</content></utterance>
+<utterance uid="1-13"><speaker>WOMAN</speaker><content>Sir? Are you okay? Hello?</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>BECKETT</speaker><content>What are you doing?</content></utterance>
+<utterance uid="2-2"><speaker>CASTLE</speaker><content>Watching you sleep. Is that creepy?</content></utterance>
+<utterance uid="2-3"><speaker>BECKETT</speaker><content>Mnh-mnh. I think it’s sweet.</content></utterance>
+<utterance uid="2-4"><speaker>CASTLE</speaker><content>I took some pictures.</content></utterance>
+<utterance uid="2-5"><speaker>BECKETT</speaker><content>Less sweet.</content></utterance>
+<utterance uid="2-6"><speaker>CASTLE</speaker><content>They’re part of a series. Usually you don’t wake up.</content></utterance>
+<utterance uid="2-7"><speaker>BECKETT</speaker><content>And now it’s creepy.</content></utterance>
+<utterance uid="2-8"><speaker>CASTLE</speaker><content>Hey, I’ve been thinking.</content></utterance>
+<utterance uid="2-9"><speaker>BECKETT</speaker><content>Oh, no.</content></utterance>
+<utterance uid="2-10"><speaker>CASTLE</speaker><content>Oh, relax. I’m over that whole sex-in-zero-g thing.</content></utterance>
+<utterance uid="2-11"><speaker>BECKETT</speaker><content>Good, ‘cause that was just an accident waiting to happen.</content></utterance>
+<utterance uid="2-12"><speaker>CASTLE</speaker><content>Seriously, though. I think it’s time we shake things up. Move to Paris, you know, search for buried treasure in Nepal. We could fly a hot air balloon across the Sahara.</content></utterance>
+<utterance uid="2-13"><speaker>BECKETT</speaker><content>You know what, I love all of those ideas, but I just became captain, and you have your P.I. business.</content></utterance>
+<utterance uid="2-14"><speaker>CASTLE</speaker><content>And then there’s LokSat.</content></utterance>
+<utterance uid="2-15"><speaker>BECKETT</speaker><content>Exactly.</content></utterance>
+<utterance uid="2-16"><speaker>BECKETT</speaker><content>We have responsibilities, right?</content></utterance>
+<utterance uid="2-17"><speaker>CASTLE</speaker><content>But what if we didn’t?  Hold, please.</content></utterance>
+<utterance uid="2-18"><speaker>BECKETT</speaker><content>Um, I might need that. That might be a homicide.</content></utterance>
+<utterance uid="2-19"><speaker>CASTLE</speaker><content>The victim’s not gonna get any deader. Listen. Let’s say we find LokSat and take him down — without getting killed —</content></utterance>
+<utterance uid="2-20"><speaker>BECKETT</speaker><content>Mm-hmm.</content></utterance>
+<utterance uid="2-21"><speaker>CASTLE</speaker><content>What then? You’re not gonna be captain of the 12th Precinct for very long. You’re on a rocket. Sky’s the limit. So you know what happens then?</content></utterance>
+<utterance uid="2-22"><speaker>BECKETT</speaker><content>Mnh-mnh.</content></utterance>
+<utterance uid="2-23"><speaker>CASTLE</speaker><content>We become normal.</content></utterance>
+<utterance uid="2-24"><speaker>BECKETT</speaker><content>No, Castle, you’re never gonna be normal.</content></utterance>
+<utterance uid="2-25"><speaker>CASTLE</speaker><content>I’m serious. Think about it.</content></utterance>
+<utterance uid="2-26"><speaker>BECKETT</speaker><content>I will.  What do you got?</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>LANIE PARISH</speaker><content>Alan Masters. All signs point to poison — dilated pupils, bluish discoloration around the lips. That’s a giveaway. But I’ll know for sure after the autopsy.</content></utterance>
+<utterance uid="3-2"><speaker>CASTLE</speaker><content>Who called it in?</content></utterance>
+<utterance uid="3-3"><speaker>LANIE</speaker><content>Customer service operator for his cable company. She was on the phone with him when it happened.</content></utterance>
+<utterance uid="3-4"><speaker>CASTLE</speaker><content>What a way to go.</content></utterance>
+<utterance uid="3-5"><speaker>LANIE</speaker><content>Poisoned, or on the phone with the cable company?</content></utterance>
+<utterance uid="3-6"><speaker>CASTLE</speaker><content>Well, at least the poison was quick.</content></utterance>
+<utterance uid="3-7"><speaker>JAVIER ESPOSITO</speaker><content>Looks like our killer jimmied that window open. Neighbor thought she heard somebody on the fire escape last night around 8:00.</content></utterance>
+<utterance uid="3-8"><speaker>CASTLE</speaker><content>How was he poisoned?</content></utterance>
+<utterance uid="3-9"><speaker>LANIE</speaker><content>In his water. The filter underneath the kitchen sink was tampered with.</content></utterance>
+<utterance uid="3-10"><speaker>ESPOSITO</speaker><content>Ironically, he works for the city as a safety inspector.</content></utterance>
+<utterance uid="3-11"><speaker>CASTLE</speaker><content>Mm. You know, if I were an expert on character, which I am, I would say that Alan was a bit of a dreamer —  — spending his days on the ground inspecting things, but his nights in the clouds, fantasizing of adventure.</content></utterance>
+<utterance uid="3-12"><speaker>CASTLE</speaker><content>Tragically, his life was cut short before he ever truly lived.</content></utterance>
+<utterance uid="3-13"><speaker>ALAN</speaker><content>What are you all doing in my apartment?</content></utterance>
+<utterance uid="3-14"><speaker>ESPOSITO</speaker><content>Um, Lanie…</content></utterance>
+<utterance uid="3-15"><speaker>LANIE</speaker><content>Don’t “um, Lanie” me! That man was dead!</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>LANIE</speaker><content>He had no pulse, no breath sounds, and his pupils were dilated and fixed.</content></utterance>
+<utterance uid="4-2"><speaker>LANIE</speaker><content>No, but he’d been dead less than an hour.</content></utterance>
+<utterance uid="4-3"><speaker>BECKETT</speaker><content>Lanie, hey. Is it true that our victim —</content></utterance>
+<utterance uid="4-4"><speaker>LANIE</speaker><content>He was dead, okay? I know how to do my job.</content></utterance>
+<utterance uid="4-5"><speaker>BECKETT</speaker><content>Okay, calm down. It’s all good. I just —</content></utterance>
+<utterance uid="4-6"><speaker>LANIE</speaker><content>No, no, no. It’s not all good. I almost stuck a thermometer in his liver.</content></utterance>
+<utterance uid="4-7"><speaker>BECKETT</speaker><content>Uh, so is he stable?</content></utterance>
+<utterance uid="4-8"><speaker>BECKETT</speaker><content>Hm?</content></utterance>
+<utterance uid="4-9"><speaker>LANIE</speaker><content>TTX. It’s a neurotoxin found in several species of fish. It’s extremely potent.</content></utterance>
+<utterance uid="4-10"><speaker>BECKETT</speaker><content>And yet he survived, so do you have an explanation? </content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>CASTLE</speaker><content>You are a modern-day Lazarus, risen from the grave to answer the eternal question — what’s on the other side?</content></utterance>
+<utterance uid="5-2"><speaker>ALAN</speaker><content>I’m sorry. Who are you again?</content></utterance>
+<utterance uid="5-3"><speaker>BECKETT</speaker><content>You’ll have to forgive him, Mr. Masters. He’s very excitable.</content></utterance>
+<utterance uid="5-4"><speaker>CASTLE</speaker><content>Well, excuse me if I find pulling back the curtain on what happens when we die just a tad exciting. Was there a white light or is it more of a tunnel thing?</content></utterance>
+<utterance uid="5-5"><speaker>ALAN</speaker><content>The last thing I remember, I was taking my pills, trying to get my cable fixed, and then I woke up to an apartment full of police.</content></utterance>
+<utterance uid="5-6"><speaker>CASTLE</speaker><content>So, no out-of-body experience?</content></utterance>
+<utterance uid="5-7"><speaker>BECKETT</speaker><content>Do you have any enemies?</content></utterance>
+<utterance uid="5-8"><speaker>ALAN</speaker><content>Me? No. I’m an average guy. I go to work, I come home.</content></utterance>
+<utterance uid="5-9"><speaker>CASTLE</speaker><content>But you dream of so much more, don’t you?</content></utterance>
+<utterance uid="5-10"><speaker>ALAN</speaker><content>How do you know that? Did you read my diary?</content></utterance>
+<utterance uid="5-11"><speaker>CASTLE</speaker><content>No, I saw your pictures on your — Wait, you keep a diary? As a grown man, call it a journal.</content></utterance>
+<utterance uid="5-12"><speaker>BECKETT</speaker><content>What about work? Have you upset anyone there recently?</content></utterance>
+<utterance uid="5-13"><speaker>ALAN</speaker><content>Yeah. There is this guy that works for me — well, used to work for me — Dave Barton. I had to fire him because he was letting serious infractions slide with just a warning.</content></utterance>
+<utterance uid="5-14"><speaker>BECKETT</speaker><content>Was it for money?</content></utterance>
+<utterance uid="5-15"><speaker>ALAN</speaker><content>That was the rumor. And he did seem a little miffed when I let him go. I’ll play you the message that he left me.</content></utterance>
+<utterance uid="5-16"><speaker>DAVE BARTON</speaker><content>You slimy little maggot. I’m gonna stab you with a rusty spoon and strangle you with your own intestines. Or better yet, I’m gonna force-feed you your toes one by one, and then I’m gonna light you on fire. First, I’m gonna paralyze you with a claw hammer and then cover you with ants, you son of a *****!</content></utterance>
+<utterance uid="5-17"><speaker>ALAN</speaker><content>And it goes on and on like that for a while.</content></utterance>
+<utterance uid="5-18"><speaker>BECKETT</speaker><content>And you never thought to call the police?</content></utterance>
+<utterance uid="5-19"><speaker>ALAN</speaker><content>On Dave? No! He’s just got a big personality.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>DAVE BARTON</speaker><content>What can I say? I have anger issues.</content></utterance>
+<utterance uid="6-2"><speaker>KEVIN RYAN</speaker><content>And a gift for murderous creativity. Threatening to  “nail Alan to the ceiling by his feet and piñata the hell out of his face with a Fungo bat”.</content></utterance>
+<utterance uid="6-3"><speaker>DAVE</speaker><content>It’s all just talk. I actually get nauseous at the sight of blood.</content></utterance>
+<utterance uid="6-4"><speaker>ESPOSITO</speaker><content>Oh, is that why you decided to poison Alan last night?</content></utterance>
+<utterance uid="6-5"><speaker>DAVE</speaker><content>Hey, I was home last night with my wife and my mother-in-law, which, believe you me, is no good for my anger issues. I mean, that woman drives me crazy. Sometimes I just think about getting a blender and a trowel and —  Kidding.</content></utterance>
+<utterance uid="6-6"><speaker>RYAN</speaker><content>Well, you better hope your alibi holds up, ‘cause you had all the motive in the world.</content></utterance>
+<utterance uid="6-7"><speaker>DAVE</speaker><content>You want motive? We’re safety inspectors. You think we’re making friends, handing out millions in fines? We’re not getting any Christmas cards. Especially Alan.</content></utterance>
+<utterance uid="6-8"><speaker>ESPOSITO</speaker><content>What do you mean, especially Alan?</content></utterance>
+<utterance uid="6-9"><speaker>DAVE</speaker><content>The guy’s got a rep for being a real stickler. He doesn’t let anything slide.</content></utterance>
+<utterance uid="6-10"><speaker>ESPOSITO</speaker><content>Oh, is that what you did? Let things slide in exchange for a payday?</content></utterance>
+<utterance uid="6-11"><speaker>DAVE</speaker><content>Maybe I did, maybe I didn’t. Doesn’t make me a killer. The point is that Alan refuses to play the game. And that pisses off a lot of people.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>BECKETT</speaker><content>Hey.</content></utterance>
+<utterance uid="7-2"><speaker>VIKRAM</speaker><content>Did Lanie really declare a live guy dead?</content></utterance>
+<utterance uid="7-3"><speaker>BECKETT</speaker><content>No. Well, yeah, but do yourself a favor — don’t mention it to her. So, you got something?</content></utterance>
+<utterance uid="7-4"><speaker>VIKRAM</speaker><content>I might have broken open LokSat.</content></utterance>
+<utterance uid="7-5"><speaker>BECKETT</speaker><content>You found them?</content></utterance>
+<utterance uid="7-6"><speaker>VIKRAM</speaker><content>Unfortunately, no, but I did find someone else. Based on Castle’s discovery of the exact time and date LokSat flew into L.A., I’ve been scrubbing footage from all the Los Angeles area airports. Look who showed up.</content></utterance>
+<utterance uid="7-7"><speaker>BECKETT</speaker><content>Caleb Brown?</content></utterance>
+<utterance uid="7-8"><speaker>VIKRAM</speaker><content>But he was traveling under an alias — Peter McCaffery.</content></utterance>
+<utterance uid="7-9"><speaker>BECKETT</speaker><content>So Caleb must have gone to L.A. to meet with LokSat. But who’s driving the SUV?</content></utterance>
+<utterance uid="7-10"><speaker>VIKRAM</speaker><content>I don’t know. I can only read part of the plate, but I’m generating a list of possible matches.</content></utterance>
+<utterance uid="7-11"><speaker>RYAN</speaker><content>Captain. Dave Barton alibied out, but we’re getting a list of all the companies that Alan has either fined or shut down for violations recently. Then we’re gonna run the list past Alan.</content></utterance>
+<utterance uid="7-12"><speaker>BECKETT</speaker><content>Whose would-be killer is still out there, so what precautions are you taking?</content></utterance>
+<utterance uid="7-13"><speaker>RYAN</speaker><content>Squad car just brought him home from the hospital. We got a uniform posted outside his door, which makes his only real concern your husband.</content></utterance>
+<utterance uid="7-14"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>CASTLE</speaker><content>So you have died and been reborn. What are you gonna do now?</content></utterance>
+<utterance uid="8-2"><speaker>ALAN</speaker><content>Going to bed. I have a full day of inspections tomorrow. I need to be focused.</content></utterance>
+<utterance uid="8-3"><speaker>CASTLE</speaker><content>You can’t just go back to work like nothing happened. You had a near-death experience. That’s a wake-up call. Get out there. Live this life you’ve always dreamed about.</content></utterance>
+<utterance uid="8-4"><speaker>ALAN</speaker><content>Just because I have a few pictures on my wall doesn’t mean I’m not happy with my life.</content></utterance>
+<utterance uid="8-5"><speaker>CASTLE</speaker><content>Right. Your drab, solitary life.</content></utterance>
+<utterance uid="8-6"><speaker>ALAN</speaker><content>It’s not solitary.</content></utterance>
+<utterance uid="8-7"><speaker>CASTLE</speaker><content>So there’s a Ms. Safety Inspector?</content></utterance>
+<utterance uid="8-8"><speaker>ALAN</speaker><content>Not exactly. But there is a woman I have my eye on. She’s funny and smart.</content></utterance>
+<utterance uid="8-9"><speaker>CASTLE</speaker><content>Doesn’t know you exist?</content></utterance>
+<utterance uid="8-10"><speaker>ALAN</speaker><content>No.</content></utterance>
+<utterance uid="8-11"><speaker>OFFICER</speaker><content>All clear. I’ll be right outside if you need anything.</content></utterance>
+<utterance uid="8-12"><speaker>ALAN</speaker><content>Great, thanks.</content></utterance>
+<utterance uid="8-13"><speaker>CASTLE</speaker><content>You should really call this woman.</content></utterance>
+<utterance uid="8-14"><speaker>ALAN</speaker><content>Okay, I will.</content></utterance>
+<utterance uid="8-15"><speaker>CASTLE</speaker><content>And you honestly don’t remember anything about being dead?</content></utterance>
+<utterance uid="8-16"><speaker>ALAN</speaker><content>Really don’t.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>CASTLE</speaker><content>Who does that? Who gets a second chance like that and just goes to work the next morning?</content></utterance>
+<utterance uid="9-2"><speaker>OFFICER</speaker><content>I would. I like work.</content></utterance>
+<utterance uid="9-3"><speaker>CASTLE</speaker><content>Whoa! Alan!</content></utterance>
+<utterance uid="9-4"><speaker>OFFICER</speaker><content>Someone rigged the bed to electrocute him. Is he dead?</content></utterance>
+<utterance uid="9-5"><speaker>LANIE</speaker><content>Sorry, Castle, but this time, he really is dead.</content></utterance>
+<utterance uid="9-6"><speaker>CASTLE</speaker><content>What a waste.</content></utterance>
+<utterance uid="9-7"><speaker>LANIE</speaker><content>To be given a second chance and have it taken away like this.</content></utterance>
+<utterance uid="9-8"><speaker>CASTLE</speaker><content>He was just gonna go back to work like nothing happened.</content></utterance>
+<utterance uid="9-9"><speaker>LANIE</speaker><content>What?</content></utterance>
+<utterance uid="9-10"><speaker>CASTLE</speaker><content>If I hadn’t been so focused on his rebirth, I might have noticed that wire. I could have saved him.</content></utterance>
+<utterance uid="9-11"><speaker>LANIE</speaker><content>You can’t beat yourself up, Castle. I was starting to think he was some kind of medical miracle. Turns out, he was just lucky. And in the end, his luck ran out.</content></utterance>
+<utterance uid="9-12"><speaker>CASTLE</speaker><content>Forget lucky.</content></utterance>
+<utterance uid="9-13"><speaker>ALAN</speaker><content>Somebody cooking barbecue?</content></utterance>
+<utterance uid="9-14"><speaker>CASTLE</speaker><content>He’s immortal.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>LANIE</speaker><content>He was definitely dead.</content></utterance>
+<utterance uid="10-2"><speaker>LANIE</speaker><content>He was dead the last time, too.</content></utterance>
+<utterance uid="10-3"><speaker>BECKETT</speaker><content>Uh, sorry. Um, can we have a minute, please?</content></utterance>
+<utterance uid="10-4"><speaker>BECKETT</speaker><content>Thanks.</content></utterance>
+<utterance uid="10-5"><speaker>LANIE</speaker><content>I’m sorry. I’m just rattled. You know, people can come back from being poisoned and from being electrocuted, but both in the same day?</content></utterance>
+<utterance uid="10-6"><speaker>BECKETT</speaker><content>So, is there an explanation?</content></utterance>
+<utterance uid="10-7"><speaker>LANIE</speaker><content>I can think of two. Either I’m really bad at my job, or Castle’s right and this guy’s immortal.</content></utterance>
+<utterance uid="10-8"><speaker>BECKETT</speaker><content>He is not immortal, and you are a genius at your job. We just got to keep looking for answers, starting with who wants to kill this guy so badly.</content></utterance>
+<utterance uid="10-9"><speaker>LANIE</speaker><content>Is there any forensics on the second attempt?</content></utterance>
+<utterance uid="10-10"><speaker>BECKETT</speaker><content>No. The bed must have been wired after the apartment was already released from being a crime scene, which means the killer had about a two-hour window before Alan and Castle got there.</content></utterance>
+<utterance uid="10-11"><speaker>RYAN</speaker><content>Hey. So, the toxin that should have killed Alan, TTX, is a controlled substance, available through only a few pharma supply companies. CDC is sending us over a list right now.</content></utterance>
+<utterance uid="10-12"><speaker>LANIE</speaker><content>So, finding the buyer might lead to the killer.</content></utterance>
+<utterance uid="10-13"><speaker>RYAN</speaker><content> Any idea how our boy Alan is still with us?</content></utterance>
+<utterance uid="10-14"><speaker>BECKETT</speaker><content>Uh, no. But Castle has a theory.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>CASTLE</speaker><content>You are a superhero.</content></utterance>
+<utterance uid="11-2"><speaker>ALAN</speaker><content>No, I’m really not. I’m just an ordinary guy.</content></utterance>
+<utterance uid="11-3"><speaker>CASTLE</speaker><content>You were an ordinary guy, Alan. That’s how most superheroes start out — mild-mannered weaklings, and that’s you!</content></utterance>
+<utterance uid="11-4"><speaker>ALAN</speaker><content>Wow, thanks.</content></utterance>
+<utterance uid="11-5"><speaker>CASTLE</speaker><content>Relax. It’s all to maximize your transformative arc.</content></utterance>
+<utterance uid="11-6"><speaker>ALAN</speaker><content>If I agree with you, will you leave me alone?</content></utterance>
+<utterance uid="11-7"><speaker>CASTLE</speaker><content>Don’t be silly. We’re just getting started! First we need to figure out what triggered your transformation, your origin story, if you will.</content></utterance>
+<utterance uid="11-8"><speaker>ALAN</speaker><content>Why?</content></utterance>
+<utterance uid="11-9"><speaker>CASTLE</speaker><content>Because the origin story is everything! What, there’s, what, nine Spider-Man movies about it?</content></utterance>
+<utterance uid="11-10"><speaker>ESPOSITO</speaker><content>Yo. We got a lead.</content></utterance>
+<utterance uid="11-11"><speaker>CASTLE</speaker><content>We need to come up with a superhero name for Alan.</content></utterance>
+<utterance uid="11-12"><speaker>ALAN</speaker><content>No. No, we really don’t.</content></utterance>
+<utterance uid="11-13"><speaker>ESPOSITO</speaker><content>How about…Safety Man?</content></utterance>
+<utterance uid="11-14"><speaker>CASTLE</speaker><content>No, that’s terrible.</content></utterance>
+<utterance uid="11-15"><speaker>ESPOSITO</speaker><content>Well, does he have any other powers?</content></utterance>
+<utterance uid="11-16"><speaker>CASTLE</speaker><content>I don’t know. We should really run some tests.</content></utterance>
+<utterance uid="11-17"><speaker>ALAN</speaker><content>Um, you said something about a lead…?</content></utterance>
+<utterance uid="11-18"><speaker>ESPOSITO</speaker><content>Right. Yeah, we’ve been checking into your inspection history to see if there’s somebody you might have pissed off. I think we have a winner — Zantium Labs. You just hit them with a six-figure fine.</content></utterance>
+<utterance uid="11-19"><speaker>ALAN</speaker><content>Yeah, they’re a biopharmaceutical company. I threatened to shut them down after they had a bad chemical spill two days ago.</content></utterance>
+<utterance uid="11-20"><speaker>CASTLE</speaker><content>Whoa. A chemical spill? Mystery solved. Exposure to dangerous materials is the most common superhero story there is.</content></utterance>
+<utterance uid="11-21"><speaker>ALAN</speaker><content>Sorry. The spill was L.A.H. It’s an inorganic compound used as a catalyst to make other chemicals, which — The point is, it can be explosive, but there’s nothing about it that would ever turn anyone into a, I don’t know — Captain Cool?</content></utterance>
+<utterance uid="11-22"><speaker>CASTLE</speaker><content>No. But keep trying.</content></utterance>
+<utterance uid="11-23"><speaker>ESPOSITO</speaker><content>Hey, who’s on the hook for that spill?</content></utterance>
+<utterance uid="11-24"><speaker>ALAN</speaker><content>The lab manager, Frank Patchett. He begged me not to fine him. He said the lab was hemorrhaging money.</content></utterance>
+<utterance uid="11-25"><speaker>ESPOSITO</speaker><content>That sounds like motive. Come on, Castle. Let’s go talk to this guy.</content></utterance>
+<utterance uid="11-26"><speaker>ALAN</speaker><content>Wait, wait, wait, wait, wait. Maybe I should come with you.</content></utterance>
+<utterance uid="11-27"><speaker>CASTLE</speaker><content>Why?</content></utterance>
+<utterance uid="11-28"><speaker>ALAN</speaker><content>No reason.</content></utterance>
+<utterance uid="11-29"><speaker>CASTLE</speaker><content>The girl. The one who doesn’t know you exist. She works there, doesn’t she?</content></utterance>
+<utterance uid="11-30"><speaker>ALAN</speaker><content>No.  Yes. Her name is Gwen. She’s in marketing.</content></utterance>
+<utterance uid="11-31"><speaker>ESPOSITO</speaker><content>Sorry, Alan. You’ve got to stay here. If there’s someone at Zantium Labs trying to kill you, I’d be the worst cop on the force if I took you there.</content></utterance>
+<utterance uid="11-32"><speaker>CASTLE</speaker><content>Don’t worry, Alan. I’ll put in a good word for you with Gwen!</content></utterance>
+<utterance uid="11-33"><speaker>ALAN</speaker><content>No, no! Please — Please don’t!</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>GWEN PARKER</speaker><content>I can’t believe someone would try and do that to poor Alan. He’s such a sweet man.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>CASTLE</speaker><content>So you do know him?</content></utterance>
+<utterance uid="13-2"><speaker>GWEN</speaker><content>Of course. People around here kind of hate him, but, I don’t know, I think he’s really funny.</content></utterance>
+<utterance uid="13-3"><speaker>CASTLE</speaker><content>Oh, I’ll tell him you said that.</content></utterance>
+<utterance uid="13-4"><speaker>GWEN</speaker><content>Oh, that’s Frank. Hey, Frank.</content></utterance>
+<utterance uid="13-5"><speaker>CASTLE</speaker><content>Thank you.</content></utterance>
+<utterance uid="13-6"><speaker>ESPOSITO</speaker><content>Mr. Patchett, I’m Detective Esposito. I need to ask you a few questions about Alan Masters.</content></utterance>
+<utterance uid="13-7"><speaker>FRANK PATCHETT</speaker><content>Is he doing okay? I heard someone tried to kill him.</content></utterance>
+<utterance uid="13-8"><speaker>CASTLE</speaker><content>Twice.</content></utterance>
+<utterance uid="13-9"><speaker>ESPOSITO</speaker><content>How’s the cleanup going?</content></utterance>
+<utterance uid="13-10"><speaker>FRANK</speaker><content>Oh, well, we’re almost done here. Accidents happen. Luckily, nobody was hurt.</content></utterance>
+<utterance uid="13-11"><speaker>CASTLE</speaker><content>Nobody except Alan.</content></utterance>
+<utterance uid="13-12"><speaker>FRANK</speaker><content>You think what happened to him is connected to the spill?</content></utterance>
+<utterance uid="13-13"><speaker>ESPOSITO</speaker><content>Maybe. So why don’t you get changed, and we can go talk about it.</content></utterance>
+<utterance uid="13-14"><speaker>FRANK</speaker><content>Okay. Locker room’s over there.</content></utterance>
+<utterance uid="13-15"><speaker>ESPOSITO</speaker><content>We’ll go with you.</content></utterance>
+<utterance uid="13-16"><speaker>CASTLE</speaker><content>Actually, I’m gonna go take a look around.  Origin story.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>CASTLE</speaker><content>Oh, wow!</content></utterance>
+<utterance uid="14-2"><speaker>MAN</speaker><content>Excuse me.</content></utterance>
+<utterance uid="14-3"><speaker>CASTLE</speaker><content>Yes.</content></utterance>
+<utterance uid="14-4"><speaker>MAN</speaker><content>Can I help you with something?</content></utterance>
+<utterance uid="14-5"><speaker>CASTLE</speaker><content>Yes, as a matter of fact, you can, uh —  Mike. Um, if you had to pick something in this lab that would turn somebody into a superhero, what would it be?</content></utterance>
+<utterance uid="14-6"><speaker>MIKE</speaker><content>I’m — I’m sorry. What?</content></utterance>
+<utterance uid="14-7"><speaker>CASTLE</speaker><content>Radioactive spider, secret alien technology, super-soldier serum —</content></utterance>
+<utterance uid="14-8"><speaker>MIKE</speaker><content>Yeah, we don’t have anything like that here.</content></utterance>
+<utterance uid="14-9"><speaker>CASTLE</speaker><content>Then what is — What about this?  What are you working on right here?</content></utterance>
+<utterance uid="14-10"><speaker>MIKE</speaker><content>We’ve discovered an accelerated method for growing hair cells in the mice.</content></utterance>
+<utterance uid="14-11"><speaker>CASTLE</speaker><content>Accelerated cell regeneration?  That could be the key to immortality.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>FRANK</speaker><content>I’ve been supervising this cleanup for the last 48 hours. Even if I wanted to kill Alan, I didn’t have the opportunity or the energy.</content></utterance>
+<utterance uid="15-2"><speaker>ESPOSITO</speaker><content>But you did have the motive. You begged him not to fine you, and he did anyway.</content></utterance>
+<utterance uid="15-3"><speaker>FRANK</speaker><content>Yeah. He’s a pain in the ass, but the damage was already done. Killing him would have accomplished nothing.  You know, something odd did happen when I walked him out to the parking lot.</content></utterance>
+<utterance uid="15-4"><speaker>ESPOSITO</speaker><content>Odd how?</content></utterance>
+<utterance uid="15-5"><speaker>FRANK</speaker><content>There was someone hanging out at Alan’s car, but he took off when he saw us coming. I didn’t think much of it at the time, but…</content></utterance>
+<utterance uid="15-6"><speaker>ESPOSITO</speaker><content>Does your parking lot have security cameras?</content></utterance>
+<utterance uid="15-7"><speaker>FRANK</speaker><content>Yeah.</content></utterance>
+<utterance uid="15-8"><speaker>ESPOSITO</speaker><content>Let me see them.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>BECKETT</speaker><content>Mr. Hume, so you’re an operations manager at a plastics factory that Alan recently shut down. Is that correct?</content></utterance>
+<utterance uid="16-2"><speaker>GLEN HUME</speaker><content>I didn’t do anything to Alan. I’m innocent.</content></utterance>
+<utterance uid="16-3"><speaker>ESPOSITO</speaker><content>Innocent men don’t usually stalk their victims in parking lots.</content></utterance>
+<utterance uid="16-4"><speaker>HUME</speaker><content>I just wanted to talk to Alan. That’s all. I needed to find the right moment. We had to be alone.</content></utterance>
+<utterance uid="16-5"><speaker>BECKETT</speaker><content>Okay. What did you want to talk to him about?  Mr. Hume, if all you wanted to do was talk to him, then why did unis find you with two suitcases and a ticket to Mexico?</content></utterance>
+<utterance uid="16-6"><speaker>HUME</speaker><content>Because I don’t want to die. They came after Alan and I’m next.</content></utterance>
+<utterance uid="16-7"><speaker>ESPOSITO</speaker><content>Who’s “they”?  If you know who went after Alan, you need to tell us.</content></utterance>
+<utterance uid="16-8"><speaker>BECKETT</speaker><content>Was it someone from your company?</content></utterance>
+<utterance uid="16-9"><speaker>ESPOSITO</speaker><content>Are you a whistle-blower, Glen? Is there something you’re trying to expose? Is that why you wanted to talk to Alan?</content></utterance>
+<utterance uid="16-10"><speaker>BECKETT</speaker><content>The NYPD can protect you, and if someone really is trying to kill you, you’re a lot safer in here with us than out there on your own.</content></utterance>
+<utterance uid="16-11"><speaker>HUME</speaker><content>Okay. But it’s not someone from my company. It’s the mob.</content></utterance>
+<utterance uid="16-12"><speaker>BECKETT</speaker><content>What would organized crime want with Alan?  Waste management.</content></utterance>
+<utterance uid="16-13"><speaker>HUME</speaker><content>Yeah. They strong-armed me into giving them the contract for my factory’s hazardous waste disposal. They’ve been doing the same thing all over town. And they just dump the stuff into the landfill.</content></utterance>
+<utterance uid="16-14"><speaker>ESPOSITO</speaker><content>So why would they target Alan before you?</content></utterance>
+<utterance uid="16-15"><speaker>BECKETT</speaker><content>Because Alan fired Dave Barton, the only inspector that they could buy. So Alan was becoming a big problem, and their only solution was to kill him.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>ALAN</speaker><content>The mob is trying to kill me?</content></utterance>
+<utterance uid="17-2"><speaker>CASTLE</speaker><content>Trying and failing. But do you know why?</content></utterance>
+<utterance uid="17-3"><speaker>ALAN</speaker><content>Because I’m - I’m, what, Rogaine Man?</content></utterance>
+<utterance uid="17-4"><speaker>CASTLE</speaker><content>Yuck. Worst name yet. But it does explain why you keep coming back to life. Your cells regenerate at an amazing rate.</content></utterance>
+<utterance uid="17-5"><speaker>LANIE</speaker><content>Except they don’t.</content></utterance>
+<utterance uid="17-6"><speaker>CASTLE</speaker><content>What?</content></utterance>
+<utterance uid="17-7"><speaker>LANIE</speaker><content>Just got the test back. No sign of abnormal regenerative activity in blood or tissue cells. In fact, no sign of anything abnormal at all.</content></utterance>
+<utterance uid="17-8"><speaker>ALAN</speaker><content>Told you. I’m Boring Man. Except for the contract out on my life.</content></utterance>
+<utterance uid="17-9"><speaker>CASTLE</speaker><content>Just to be sure, maybe we should cut off one of his fingers, see if it grows back.</content></utterance>
+<utterance uid="17-10"><speaker>ALAN</speaker><content>What?!</content></utterance>
+<utterance uid="17-11"><speaker>CASTLE</speaker><content>Just the tip.</content></utterance>
+<utterance uid="17-12"><speaker>ALAN</speaker><content>Okay, I’m done.</content></utterance>
+<utterance uid="17-13"><speaker>CASTLE</speaker><content>Whoa, whoa. Where you gonna go?</content></utterance>
+<utterance uid="17-14"><speaker>ALAN</speaker><content>Home. Or not home. Somewhere safe. Where is that?</content></utterance>
+<utterance uid="17-15"><speaker>CASTLE</speaker><content>My place. We have yet to unlock the secrets of your powers. Lanie’s a doctor. She can strip you down and check you out.</content></utterance>
+<utterance uid="17-16"><speaker>ALAN</speaker><content>No.</content></utterance>
+<utterance uid="17-17"><speaker>LANIE</speaker><content>Forget it! </content></utterance>
+<utterance uid="17-18"><speaker>CASTLE</speaker><content>Come on, you owe him!</content></utterance>
+<utterance uid="17-19"><speaker>ALAN</speaker><content>No. No, she doesn't! Castle, it's been a long day. I am very overwhelmed. I just want to go back to my life.</content></utterance>
+<utterance uid="17-20"><speaker>CASTLE</speaker><content>That's too bad. You can't. Spidey couldn't go back after the bite. Hulk couldn't go back after the bomb. The Ant-Man couldn't go back after -- I can't remember. Point is, you have an obligation. With great power comes great responsibility. Let's go to my place and get some pizza on the way.</content></utterance>
+<utterance uid="17-21"><speaker>ALAN</speaker><content>There's no way I'm going back to your place to eat pizza and explore my superpowers.</content></utterance>
+<utterance uid="17-22"><speaker>CASTLE</speaker><content/></utterance>
+<utterance uid="17-23"><speaker>ALAN</speaker><content>Okay.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>BECKETT</speaker><content>Hey. Where are we on the waste management company?</content></utterance>
+<utterance uid="18-2"><speaker>ESPOSITO</speaker><content>It's a new entity called Bullseye. We're not sure who's running it, but rumor is it's a new player on the scene.</content></utterance>
+<utterance uid="18-3"><speaker>BECKETT</speaker><content>I don't know. Electrocution and poisoning doesn't sound like the mob.</content></utterance>
+<utterance uid="18-4"><speaker>ESPOSITO</speaker><content>No.</content></utterance>
+<utterance uid="18-5"><speaker>RYAN</speaker><content>Unless they're trying to keep a low profile. The best way to stay off our radar is to fly under it.</content></utterance>
+<utterance uid="18-6"><speaker>BECKETT</speaker><content>Yeah, true. Why don't you guys head down to the second floor, see if Organized Crime has any insight?</content></utterance>
+<utterance uid="18-7"><speaker>RYAN</speaker><content>Okay.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>CASTLE</speaker><content>We know you can survive poisoning and electrocution. Now it's time to see if you can survive penetrative wounds.</content></utterance>
+<utterance uid="19-2"><speaker>ALAN</speaker><content>How about we start with something smaller, like a paper cut?</content></utterance>
+<utterance uid="19-3"><speaker>CASTLE</speaker><content>Okay, this is all a little overwhelming. I understand. All right. Let's -- Let's test for some other powers first.</content></utterance>
+<utterance uid="19-4"><speaker>CASTLE</speaker><content>Telekinesis. Try to move the piano with your mind.</content></utterance>
+<utterance uid="19-5"><speaker>ALAN</speaker><content>Oh. If I try this, will you tell me about Gwen?</content></utterance>
+<utterance uid="19-6"><speaker>CASTLE</speaker><content>Deal.</content></utterance>
+<utterance uid="19-7"><speaker>ALAN</speaker><content/></utterance>
+<utterance uid="19-8"><speaker>CASTLE</speaker><content>That was a trick. I was actually testing for Spidey-sense.</content></utterance>
+<utterance uid="19-9"><speaker>ALAN</speaker><content>I don't have it!</content></utterance>
+<utterance uid="19-10"><speaker>CASTLE</speaker><content>Clearly.</content></utterance>
+<utterance uid="19-11"><speaker>ALAN</speaker><content>Can we take a break, please?</content></utterance>
+<utterance uid="19-12"><speaker>CASTLE</speaker><content>Fine.</content></utterance>
+<utterance uid="19-13"><speaker>ALAN</speaker><content>Ah, no. no. I don't drink.</content></utterance>
+<utterance uid="19-14"><speaker>CASTLE</speaker><content>All right. You want to know what Gwen said?</content></utterance>
+<utterance uid="19-15"><speaker>ALAN</speaker><content>Yes. Finally.</content></utterance>
+<utterance uid="19-16"><speaker>CASTLE</speaker><content/></utterance>
+<utterance uid="19-17"><speaker>ALAN</speaker><content>Well?</content></utterance>
+<utterance uid="19-18"><speaker>CASTLE</speaker><content>I'm telling you with my mind.</content></utterance>
+<utterance uid="19-19"><speaker>CASTLE</speaker><content>You're not getting it?</content></utterance>
+<utterance uid="19-20"><speaker>ALAN</speaker><content>No.</content></utterance>
+<utterance uid="19-21"><speaker>CASTLE</speaker><content>Okay. Well, bad news is no telepathy. Good news is I think Gwen is into you. She told me she thinks you're funny.</content></utterance>
+<utterance uid="19-22"><speaker>ALAN</speaker><content>Really? Funny ha-ha, not funny strange?</content></utterance>
+<utterance uid="19-23"><speaker>CASTLE</speaker><content>Yeah.</content></utterance>
+<utterance uid="19-24"><speaker>ALAN</speaker><content>Yeah what?</content></utterance>
+<utterance uid="19-25"><speaker>CASTLE</speaker><content>Exactly. So are you gonna use your double death as a wake-up call and finally ask her out?</content></utterance>
+<utterance uid="19-26"><speaker>ALAN</speaker><content>What if she says no?</content></utterance>
+<utterance uid="19-27"><speaker>CASTLE</speaker><content>What if she says yes?</content></utterance>
+<utterance uid="19-28"><speaker>ALAN</speaker><content/></utterance>
+<utterance uid="19-29"><speaker>CASTLE</speaker><content>That is the spirit, Alan.</content></utterance>
+<utterance uid="19-30"><speaker>ALAN</speaker><content>Well, I didn't think you meant right now!</content></utterance>
+<utterance uid="19-31"><speaker>CASTLE</speaker><content/></utterance>
+<utterance uid="19-32"><speaker>ALAN</speaker><content>Mm! It's ringing. This is very exciting. Oh my God, I'm gonna be sick. I don't know what to say.</content></utterance>
+<utterance uid="19-33"><speaker>CASTLE</speaker><content>Just be yourself.</content></utterance>
+<utterance uid="19-34"><speaker>ALAN</speaker><content>Be myself. So, something like, "Hi, this is Alan Masters from the City Department of Safety Inspection, badge number 62475 -- "</content></utterance>
+<utterance uid="19-35"><speaker>CASTLE</speaker><content>New plan, new plan. Do not be yourself. Say this --</content></utterance>
+<utterance uid="19-36"><speaker>ALAN</speaker><content>Hi, Gwen. Hello. This is Alan Masters of -- Yes, that's right. I'm much better, thanks. You? -- Oh, nothing. I was just calling to see if you wanted to have dinner with me. Oh. Okay. I'll see you there. Bye.  She said yes.</content></utterance>
+<utterance uid="19-37"><speaker>CASTLE</speaker><content>Well done, Alan! Now all we have to do is plan the perfect date. How much time do we have?</content></utterance>
+<utterance uid="19-38"><speaker>ALAN</speaker><content>Well, we're meeting at Botticelli's in 30 minutes.</content></utterance>
+<utterance uid="19-39"><speaker>CASTLE</speaker><content>Tonight?</content></utterance>
+<utterance uid="19-40"><speaker>ALAN</speaker><content>You said yourself it's time to start living.</content></utterance>
+<utterance uid="19-41"><speaker>CASTLE</speaker><content>Yes, I just thought it'd be after we apprehended your would-be murderer.</content></utterance>
+<utterance uid="19-42"><speaker>ALAN</speaker><content>I know. I will just embrace my powers. Maybe this is my origin story, and my dinner with Gwen will be the beginning of something really terrific!</content></utterance>
+<utterance uid="19-43"><speaker>CASTLE</speaker><content>That's the spirit, Alan. And I'm going with you.</content></utterance>
+<utterance uid="19-44"><speaker>ALAN</speaker><content>Please don't.</content></utterance>
+<utterance uid="19-45"><speaker>CASTLE</speaker><content>The first two attempts on your life were meant to be anonymous, quiet. It's very unlikely they'd try something in a public place.</content></utterance>
+<utterance uid="19-46"><speaker>ALAN</speaker><content>Exactly.</content></utterance>
+<utterance uid="19-47"><speaker>CASTLE</speaker><content>Well, they did fail twice. They may try to kick it up a notch.</content></utterance>
+<utterance uid="19-48"><speaker>ALAN</speaker><content>What are you saying?</content></utterance>
+<utterance uid="19-49"><speaker>CASTLE</speaker><content>Don't order an appetizer.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>BECKETT</speaker><content>You found something.</content></utterance>
+<utterance uid="20-2"><speaker>VIKRAM</speaker><content>Yeah. I ran the partial plate from that SUV Caleb Brown got into, generated a list of names. Guess who's on it.</content></utterance>
+<utterance uid="20-3"><speaker>BECKETT</speaker><content>Brooks. Guy with the bag of spiders who tried to take down Castle and me.</content></utterance>
+<utterance uid="20-4"><speaker>VIKRAM</speaker><content>If Brooks picked up Caleb at the airport, then this ties Caleb directly to LokSat.</content></utterance>
+<utterance uid="20-5"><speaker>BECKETT</speaker><content>Well, look, it's a start, anyway.</content></utterance>
+<utterance uid="20-6"><speaker>VIKRAM</speaker><content>A start? It's photographic evidence.</content></utterance>
+<utterance uid="20-7"><speaker>BECKETT</speaker><content>Of what? That he got into a car with a bad guy? Caleb's a public defender. He represents bad guys.</content></utterance>
+<utterance uid="20-8"><speaker>VIKRAM</speaker><content>He was using an alias. We can use this to go at Caleb, get him to reveal LokSat's identity.</content></utterance>
+<utterance uid="20-9"><speaker>BECKETT</speaker><content>Until he alerts LokSat that we're onto him, and then we're all dead. No, we gotta wait until we have something more concrete.</content></utterance>
+<utterance uid="20-10"><speaker>VIKRAM</speaker><content>Fine. Caleb's alias, Peter McCaffery -- I'll look into it and see what other trips he's taken under that name, see if it leads somewhere more definitive.</content></utterance>
+<utterance uid="20-11"><speaker>BECKETT</speaker><content>Look, I know this is frustrating. But we're getting close. We just have to tread carefully.</content></utterance>
+</scene>
+
+<scene id="21"><utterance uid="21-1"><speaker>CASTLE</speaker><content>There she is. She looks nice.</content></utterance>
+<utterance uid="21-2"><speaker>ALAN</speaker><content>This is a huge mistake. I'm a safety inspector. That's not even a little sexy. This is so much scarier than dying.</content></utterance>
+<utterance uid="21-3"><speaker>CASTLE</speaker><content>You are Alan Masters, superhero. Chicks dig superheroes.</content></utterance>
+<utterance uid="21-4"><speaker>ALAN</speaker><content>Should I tell her I'm a superhero?</content></utterance>
+<utterance uid="21-5"><speaker>CASTLE</speaker><content>I wouldn't open with that.</content></utterance>
+<utterance uid="21-6"><speaker>ALAN</speaker><content>Okay. I'm going in. Wish me luck.</content></utterance>
+<utterance uid="21-7"><speaker>CASTLE</speaker><content>Good luck.</content></utterance>
+<utterance uid="21-8"><speaker>ALAN</speaker><content>Hi, Gwen.</content></utterance>
+<utterance uid="21-9"><speaker>GWEN</speaker><content>Hi.</content></utterance>
+<utterance uid="21-10"><speaker>ALAN</speaker><content>Wow, you --</content></utterance>
+<utterance uid="21-11"><speaker>GWEN</speaker><content>Good to see you. Oh --</content></utterance>
+<utterance uid="21-12"><speaker>ALAN</speaker><content>You look great. Thanks for having dinner with me. </content></utterance>
+<utterance uid="21-13"><speaker>GWEN</speaker><content>I was surprised that you called, after the day you've had.</content></utterance>
+<utterance uid="21-14"><speaker>ALAN</speaker><content>What a day, right? Crazy. Just nuts. I'm -- I -- I -- I'm a superhero.</content></utterance>
+<utterance uid="21-15"><speaker>GWEN</speaker><content>What?</content></utterance>
+<utterance uid="21-16"><speaker>ALAN</speaker><content>Nothing. I sneezed.</content></utterance>
+<utterance uid="21-17"><speaker>GWEN</speaker><content>You - You sneezed, "I'm a superhero"?</content></utterance>
+<utterance uid="21-18"><speaker>ALAN</speaker><content>Yeah. Allergies.  Superhero! Excuse me.</content></utterance>
+<utterance uid="21-19"><speaker>CASTLE</speaker><content>Hey, Ryan.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>RYAN</speaker><content>We ID'd the owner of Bullseye Waste Management. He's a guy named Horatio Spate.</content></utterance>
+<utterance uid="22-2"><speaker>CASTLE</speaker><content>That's a good super villain name.</content></utterance>
+<utterance uid="22-3"><speaker>RYAN</speaker><content>This is not a joke. Spate is suspected of executing over a dozen people. I texted you his picture just to put him on your radar. Whatever you do, don't leave the loft.</content></utterance>
+<utterance uid="22-4"><speaker>CASTLE</speaker><content>Don't leave the loft. Got it.</content></utterance>
+<utterance uid="22-5"><speaker>RYAN</speaker><content/></utterance>
+<utterance uid="22-6"><speaker>CASTLE</speaker><content>Uh --</content></utterance>
+<utterance uid="22-7"><speaker>CASTLE</speaker><content>Crap.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>SPATE</speaker><content>Hello, Alan.</content></utterance>
+<utterance uid="23-2"><speaker>ALAN</speaker><content>Do I know you?</content></utterance>
+<utterance uid="23-3"><speaker>SPATE</speaker><content>Sorry to interrupt your romantic dinner.</content></utterance>
+<utterance uid="23-4"><speaker>CASTLE</speaker><content/></utterance>
+<utterance uid="23-5"><speaker>ALAN</speaker><content>Seriously? I have an arch-nemesis?</content></utterance>
+<utterance uid="23-6"><speaker>ALAN</speaker><content>Is that how they dress?</content></utterance>
+<utterance uid="23-7"><speaker>GWEN</speaker><content>Alan, you're cute, and I like you, but this is all a bit much. You say that you're a superhero, and he's a supervillain. So  does that make you his sidekick?</content></utterance>
+<utterance uid="23-8"><speaker>CASTLE</speaker><content>Sidekick? Please. I'm the mentor.</content></utterance>
+<utterance uid="23-9"><speaker>GWEN</speaker><content>And I'm his date. Or at least I was.  I'm sorry. This is just weird.</content></utterance>
+<utterance uid="23-10"><speaker>ALAN</speaker><content>And she thinks I'm crazy. Thank you so much. This is all your fault.</content></utterance>
+<utterance uid="23-11"><speaker>CASTLE</speaker><content>Actually, it's his. Alan, meet Horatio Spate. He's the new owner of Bullseye Waste Management.</content></utterance>
+<utterance uid="23-12"><speaker>ALAN</speaker><content>So, you're the one who's trying to kill me?</content></utterance>
+<utterance uid="23-13"><speaker>SPATE</speaker><content>Hardly. If I wanted you dead, you'd be dead already.</content></utterance>
+<utterance uid="23-14"><speaker>ALAN</speaker><content>Well, what do you want?</content></utterance>
+<utterance uid="23-15"><speaker>SPATE</speaker><content>An arrangement. One that would benefit both of us. Twice someone's tried to kill you, and you're still with us. How long before Lady Luck abandons you?</content></utterance>
+<utterance uid="23-16"><speaker>CASTLE</speaker><content>Oh, let me guess. A man like you can offer protection.</content></utterance>
+<utterance uid="23-17"><speaker>SPATE</speaker><content>More than offer. I can guarantee it. In return, all I ask is that you adopt a more laissez-faire interpretation of your inspection policies.</content></utterance>
+<utterance uid="23-18"><speaker>CASTLE</speaker><content>This is a moral test. Every superhero is presented with a moral dilemma trying to corrupt him.</content></utterance>
+<utterance uid="23-19"><speaker>ALAN</speaker><content>Horatio Spate, my answer is no.</content></utterance>
+<utterance uid="23-20"><speaker>CASTLE</speaker><content>Gun. Gun.</content></utterance>
+<utterance uid="23-21"><speaker>SPATE</speaker><content>Relax, boys. It's gingko. Just started taking it.</content></utterance>
+<utterance uid="23-22"><speaker>SPATE</speaker><content>Here's what it does. It improves memory, it sharpens brain function, and it helps a person make really, really good decisions. Perhaps you should try one, and then you can rethink your answer.</content></utterance>
+<utterance uid="23-23"><speaker>SPATE</speaker><content>Careful. Dangerous out there.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>CASTLE</speaker><content>It's as if he stepped off the pages of a graphic novel. You should have been there to see him in person.</content></utterance>
+<utterance uid="24-2"><speaker>BECKETT</speaker><content>Yes. They should have. Not you, and definitely not Alan. Now, tell me how dangerous it was for you to take him out in public, 'cause I know that you knew.</content></utterance>
+<utterance uid="24-3"><speaker>CASTLE</speaker><content>He's in love, Beckett. And I love love. -- And I'm sorry and I won't do it again.</content></utterance>
+<utterance uid="24-4"><speaker>BECKETT</speaker><content>No, you won't and you know why? Because I've had him sent to a real safe house until we track down Horatio.</content></utterance>
+<utterance uid="24-5"><speaker>RYAN</speaker><content>Boss, I know we were talking about flying under the radar, but that really doesn't seem to be Horatio's style. I mean, he solves problems with bullets, not poisons and elaborate electrocution traps.</content></utterance>
+<utterance uid="24-6"><speaker>ESPOSITO</speaker><content>So why would he guarantee protection?</content></utterance>
+<utterance uid="24-7"><speaker>CASTLE</speaker><content>Oh, maybe he knows the actual identity of our would-be killer.</content></utterance>
+<utterance uid="24-8"><speaker>BECKETT</speaker><content>And stopping the hit could benefit his waste disposal company by giving him leverage on Alan.  Are any of Horatio's associates recent buyers of TTX? 'Cause that could help us narrow down who's trying to kill Alan.</content></utterance>
+<utterance uid="24-9"><speaker>RYAN</speaker><content>We've got the list right here.</content></utterance>
+<utterance uid="24-10"><speaker>CASTLE</speaker><content>Wait a minute. Lucky Dragon Herbologists? Horatio had a pillbox with a dragon logo on it.</content></utterance>
+<utterance uid="24-11"><speaker>CASTLE</speaker><content>That's it. That's the same logo.</content></utterance>
+<utterance uid="24-12"><speaker>ESPOSITO</speaker><content>It says here that it's a front for the White Lotus Chinese Triad.</content></utterance>
+<utterance uid="24-13"><speaker>RYAN</speaker><content>Okay, so how does an international gang get cleared to possess TTX?</content></utterance>
+<utterance uid="24-14"><speaker>BECKETT</speaker><content>Because Lucky Dragon is a legitimate business and there are small doses of TTX in Eastern medicine.</content></utterance>
+<utterance uid="24-15"><speaker>ESPOSITO</speaker><content>Hold up. This doesn't make sense. According to intel, the Triad sees Horatio as a threat to their territory. They're gearing up for war.</content></utterance>
+<utterance uid="24-16"><speaker>RYAN</speaker><content>So, no way is Horatio guaranteeing Alan's safety with the Triads.</content></utterance>
+<utterance uid="24-17"><speaker>CASTLE</speaker><content>Unless…Horatio said he just started taking ginkgo. What if the two empires are hammering out some kind of an alliance?</content></utterance>
+<utterance uid="24-18"><speaker>ESPOSITO</speaker><content>An alliance that Alan unknowingly stumbled onto and put him right in the cross-hairs of the Triad.</content></utterance>
+<utterance uid="24-19"><speaker>RYAN</speaker><content>But what could bring two warring gangs together to join forces?</content></utterance>
+<utterance uid="24-20"><speaker>BECKETT</speaker><content>Well, get a search warrant for Lucky Dragon Herbologists and find out.</content></utterance>
+<utterance uid="24-21"><speaker>CALEB</speaker><content>Hey.</content></utterance>
+<utterance uid="24-22"><speaker>BECKETT</speaker><content>Uh, Caleb. What're you doing here?</content></utterance>
+<utterance uid="24-23"><speaker>CALEB</speaker><content>I hate to bother you, but I could really use your help with a client. Can I borrow you for a quick minute?</content></utterance>
+<utterance uid="24-24"><speaker>BECKETT</speaker><content>Yeah, sure.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>BECKETT</speaker><content>So, who is this client?</content></utterance>
+<utterance uid="25-2"><speaker>CALEB</speaker><content>I think you're familiar with him -- Peter McCaffery.</content></utterance>
+<utterance uid="25-3"><speaker>BECKETT</speaker><content>Uh, no, it -- it doesn't sound familiar.</content></utterance>
+<utterance uid="25-4"><speaker>CALEB</speaker><content>No? Let me fill you in.  So, there's this overzealous cop. You know the type. She never knows when to give up. And she has her tech guy look into Peter McCaffery's recent travel.</content></utterance>
+<utterance uid="25-5"><speaker>BECKETT</speaker><content>Okay.</content></utterance>
+<utterance uid="25-6"><speaker>CALEB</speaker><content>Yeah, well, Mr. McCaffery's a very private person, so he set up some unexpected digital trip wires. That's bad news for the tech guy and his boss.  And so this cop, she keeps marching toward this kill zone, and unless she makes an about-face, it is not going to end well.</content></utterance>
+<utterance uid="25-7"><speaker>BECKETT</speaker><content>I don't get it. You served a full term in the Pace Corps. You worked for the EPA. You brought legal action against corrupt corporations.</content></utterance>
+<utterance uid="25-8"><speaker>CALEB</speaker><content>What's your point, Kate?</content></utterance>
+<utterance uid="25-9"><speaker>BECKETT</speaker><content>What happened? You used to make a difference. Why did you sell out?</content></utterance>
+<utterance uid="25-10"><speaker>CALEB</speaker><content>Look. My client is forced to work for a man that he cannot fight. And take my word for it. Neither can you.</content></utterance>
+<utterance uid="25-11"><speaker>BECKETT</speaker><content>Let's help each other out here. We can bring down LokSat. I'm giving you a second chance to make a difference.</content></utterance>
+<utterance uid="25-12"><speaker>CALEB</speaker><content>Captain, just do yourself a favor, hmm? Heed my warning.</content></utterance>
+<utterance uid="25-13"><speaker>BECKETT</speaker><content>No, you heed mine. You have until 8:00 tomorrow night.</content></utterance>
+<utterance uid="25-14"><speaker>CALEB</speaker><content>Then what?</content></utterance>
+<utterance uid="25-15"><speaker>BECKETT</speaker><content>I'll expose you. And then we'll both be looking over our shoulders, waiting for LokSat to tie up loose ends. Because once they find out that your cover is blown and I'm onto you, then you're gonna be as dead as I am.</content></utterance>
+<utterance uid="25-16"><speaker>CALEB</speaker><content>Seven minutes, Kate. Seven minutes. That's how long the brain continues to function after the body dies, and as all of those synapses slowly stop firing off, that's when they say that our lives flash before our eyes. Now, when your seven minutes come, I sincerely hope that you do not flash to this moment, when you had a chance to live, and you chose not to.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>BECKETT</speaker><content>Hey. You want me to handle that? You're on edge this morning.</content></utterance>
+<utterance uid="26-2"><speaker>CASTLE</speaker><content>On edge? Why would I be on edge? Because LokSat's henchman knows we're onto him and assassins could come through the door at any second. I mean, why aren't you on edge?</content></utterance>
+<utterance uid="26-3"><speaker>BECKETT</speaker><content>Well, Caleb is a lot of things, but he's not suicidal, and working with us is his only recourse.</content></utterance>
+<utterance uid="26-4"><speaker>CASTLE</speaker><content>He threatened your life.</content></utterance>
+<utterance uid="26-5"><speaker>BECKETT</speaker><content>Because he was scared. Trust me, Castle, I turned him. I'm positive he's gonna come in today.</content></utterance>
+<utterance uid="26-6"><speaker>CASTLE</speaker><content>Oh, yeah, I think he's coming in, too. Well, either him or LokSat's kill squads.</content></utterance>
+<utterance uid="26-7"><speaker>RYAN</speaker><content>Hey.</content></utterance>
+<utterance uid="26-8"><speaker>CASTLE</speaker><content>Hey! Geez!</content></utterance>
+<utterance uid="26-9"><speaker>RYAN</speaker><content>So, Judge Kober just denied our search warrant request for the Lucky Dragon.</content></utterance>
+<utterance uid="26-10"><speaker>BECKETT</speaker><content>A suspected Triad front. Does she know that we like them for two attempts on Alan's life?</content></utterance>
+<utterance uid="26-11"><speaker>RYAN</speaker><content>Says we still need probable cause.</content></utterance>
+<utterance uid="26-12"><speaker>BECKETT</speaker><content>Okay, we got to go at this a different way. You know, if Horatio and the Triads are working together, this is something big.</content></utterance>
+<utterance uid="26-13"><speaker>CASTLE</speaker><content>Guys. I know how to get in.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>CASTLE</speaker><content>Stick to the plan.</content></utterance>
+<utterance uid="27-2"><speaker>ALAN</speaker><content>Relax. I totally got this.</content></utterance>
+<utterance uid="27-3"><speaker>SHOP MAN</speaker><content>Welcome to Lucky Dragon herbs and remedies. Can I help you?</content></utterance>
+<utterance uid="27-4"><speaker>ALAN</speaker><content>Surprise safety inspection. </content></utterance>
+<utterance uid="27-5"><speaker>CASTLE</speaker><content>FYI, sir, he's holding out a badge that says Department of Safety and Health and he's got a serious look on his face.</content></utterance>
+<utterance uid="27-6"><speaker>ALAN</speaker><content>Very serious look.</content></utterance>
+<utterance uid="27-7"><speaker>MAN</speaker><content>Okay. But why two inspectors?</content></utterance>
+<utterance uid="27-8"><speaker>ALAN</speaker><content>Uh, because he is my trainee…</content></utterance>
+<utterance uid="27-9"><speaker>CASTLE</speaker><content>Trainee.</content></utterance>
+<utterance uid="27-10"><speaker>ALAN</speaker><content>…and it helps to have a second set of eyes.</content></utterance>
+<utterance uid="27-11"><speaker>ALAN</speaker><content>Not that one set of eyes or no sets of eyes is a bad thing.</content></utterance>
+<utterance uid="27-12"><speaker>MAN</speaker><content>Bring all the eyes you would like. I'm sure you'll find my medicines violate none of your Western laws.</content></utterance>
+<utterance uid="27-13"><speaker>CASTLE</speaker><content>We'll be the judge of that.</content></utterance>
+<utterance uid="27-14"><speaker>MAN</speaker><content>I ask we stay together so I may address your inspection concerns.</content></utterance>
+<utterance uid="27-15"><speaker>CASTLE</speaker><content>Of course.  I'll cause a distraction. You slip to the back room.</content></utterance>
+<utterance uid="27-16"><speaker>MAN</speaker><content>Here are some of my most precious herbs. Impossible to grow in this country.</content></utterance>
+<utterance uid="27-17"><speaker>CASTLE</speaker><content>Oh, you mean these herbs right here?</content></utterance>
+<utterance uid="27-18"><speaker>MAN</speaker><content>Your assistant's very clumsy.</content></utterance>
+<utterance uid="27-19"><speaker>ALAN</speaker><content>Yes, he is. Which is why the sooner we get out of your way, the better. Take us to your back room now, please.</content></utterance>
+<utterance uid="27-20"><speaker>MAN</speaker><content>But of course.</content></utterance>
+<utterance uid="27-21"><speaker>MAN</speaker><content>Wait. I sense something. Something powerful. An unnatural presence in the order of things.</content></utterance>
+<utterance uid="27-22"><speaker>CASTLE</speaker><content>What kind of presence?</content></utterance>
+<utterance uid="27-23"><speaker>MAN</speaker><content>What kind indeed? When is a man not a man? When his life-force cannot be extinguished, when he cannot die. Then he is a god.</content></utterance>
+<utterance uid="27-24"><speaker>CASTLE</speaker><content>I think he senses your powers.</content></utterance>
+<utterance uid="27-25"><speaker>ALAN</speaker><content>Yeah? You do?</content></utterance>
+<utterance uid="27-26"><speaker>CASTLE</speaker><content>Either that or he's buying time while his guys get the contraband out the back door.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>ESPOSITO</speaker><content>You guys drop the cases.</content></utterance>
+<utterance uid="28-2"><speaker>RYAN</speaker><content>NYPD. On your knees, fellas.</content></utterance>
+<utterance uid="28-3"><speaker>ESPOSITO</speaker><content>What the hell is this?</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>LANIE</speaker><content>Heroin.</content></utterance>
+<utterance uid="29-2"><speaker>CASTLE</speaker><content>Since when does heroin look like that?</content></utterance>
+<utterance uid="29-3"><speaker>LANIE</speaker><content>Since it's synthetic heroin, an opioid manufactured to replicate a heroin high. In fact, this stuff actually improves on it because, according to the analysis I ran, it's laced with TTX.</content></utterance>
+<utterance uid="29-4"><speaker>ALAN</speaker><content>The same poison that almost killed me? What, heroin isn't dangerous enough?</content></utterance>
+<utterance uid="29-5"><speaker>LANIE</speaker><content>Because that poison works by blocking synapses. In small doses, it's a powerful analgesic specifically used for the pain of heroin withdrawal.</content></utterance>
+<utterance uid="29-6"><speaker>BECKETT</speaker><content>So it makes the drug more addictive by reducing the painful side effects. So, more addictive heroin that doesn't have to be smuggled into the country because --</content></utterance>
+<utterance uid="29-7"><speaker>CASTLE</speaker><content>Because it can be made right here in the good old U. S. of A.</content></utterance>
+<utterance uid="29-8"><speaker>BECKETT</speaker><content>That explains why the Triads and Horatio are willing to put their differences aside, because --</content></utterance>
+<utterance uid="29-9"><speaker>ALAN</speaker><content>What does this have to do with me? Why would anybody want me dead?</content></utterance>
+<utterance uid="29-10"><speaker>LANIE</speaker><content>Well, clearly this stuff is made in a lab somewhere, and your job is to inspects laboratories, so --</content></utterance>
+<utterance uid="29-11"><speaker>ALAN</speaker><content>You know, this shade of yellow looks very familiar. What is it that gives it this color?</content></utterance>
+<utterance uid="29-12"><speaker>LANIE</speaker><content>An inorganic catalyst commonly referred to as L.A.H.</content></utterance>
+<utterance uid="29-13"><speaker>ALAN</speaker><content>Lithium aluminum hydride? That is the same chemical that spilled when I was inspecting Zantium Labs.</content></utterance>
+<utterance uid="29-14"><speaker>LANIE</speaker><content>This is why they wanted you dead.</content></utterance>
+<utterance uid="29-15"><speaker>ALAN</speaker><content>When the synthetic heroin hits the streets, it'll come out that it was made with L.A.H.</content></utterance>
+<utterance uid="29-16"><speaker>LANIE</speaker><content>And since you knew the lab had purchased large amounts of L.A.H. --</content></utterance>
+<utterance uid="29-17"><speaker>ALAN</speaker><content>They couldn't take the risk that I might see something on the news, put the pieces together, and report it to the authorities.</content></utterance>
+<utterance uid="29-18"><speaker>LANIE</speaker><content>Which means…</content></utterance>
+<utterance uid="29-19"><speaker>ALAN</speaker><content>Someone at Zantium Labs is trying to kill me!</content></utterance>
+<utterance uid="29-20"><speaker>LANIE</speaker><content>Someone at Zantium Labs is trying to kill you!</content></utterance>
+<utterance uid="29-21"><speaker>BECKETT</speaker><content>Oh, gosh, is that what we sound like?</content></utterance>
+<utterance uid="29-22"><speaker>CASTLE</speaker><content>Certainly hope not. I mean, it was cute but just overly cute.</content></utterance>
+<utterance uid="29-23"><speaker>BECKETT</speaker><content>Alan?</content></utterance>
+<utterance uid="29-24"><speaker>ALAN</speaker><content>Huh?</content></utterance>
+<utterance uid="29-25"><speaker>BECKETT</speaker><content>Do you know who ordered the L.A.H. for Zantium?</content></utterance>
+<utterance uid="29-26"><speaker>ALAN</speaker><content>I do. Mike Lin, the lead chemist. I remember seeing his name on the purchase order. He's probably the guy who's trying to kill me. He could be very dangerous. We need to get down there and figure something out before he hurts someone else.</content></utterance>
+<utterance uid="29-27"><speaker>BECKETT</speaker><content>No. We have to be very smart about this. There is no way that Mike, a chemist, would be working alone here, so we have to get a court order to impound the entire laboratory and make sure that nobody destroys any of the evidence.</content></utterance>
+<utterance uid="29-28"><speaker>ALAN</speaker><content>Well, how long will that take?</content></utterance>
+<utterance uid="29-29"><speaker>BECKETT</speaker><content>Don't worry. We'll get this guy.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>RYAN</speaker><content>Oh, Castle. There you are. We got the warrant. Let's go.</content></utterance>
+<utterance uid="30-2"><speaker>ESPOSITO</speaker><content>Yeah. Where's Alan?</content></utterance>
+<utterance uid="30-3"><speaker>CASTLE</speaker><content>I thought he was with you guys.</content></utterance>
+<utterance uid="30-4"><speaker>CASTLE</speaker><content>Oh, no.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>ALAN</speaker><content>Gwen!</content></utterance>
+<utterance uid="31-2"><speaker>GWEN</speaker><content>Alan. What are you doing here?</content></utterance>
+<utterance uid="31-3"><speaker>ALAN</speaker><content>Come with me if you want to live.</content></utterance>
+<utterance uid="31-4"><speaker>GWEN</speaker><content>Alan, what is going on?</content></utterance>
+<utterance uid="31-5"><speaker>ALAN</speaker><content>Mike Lin is secretly making synthetic heroin in the lab. He's the one who's trying to kill me.</content></utterance>
+<utterance uid="31-6"><speaker>GWEN</speaker><content>Oh, my God. Alan, are you sure?</content></utterance>
+<utterance uid="31-7"><speaker>ALAN</speaker><content>Yeah. But don't worry. The cops are on the way, and until then, I'll protect you.</content></utterance>
+<utterance uid="31-8"><speaker>ALAN</speaker><content>This'll work. Yeah, if that old blind guy could use it, so could I.</content></utterance>
+<utterance uid="31-9"><speaker>ALAN</speaker><content>Or -- or, that's actually better. Wait. Why do you have a gun?</content></utterance>
+<utterance uid="31-10"><speaker>GWEN</speaker><content>I'm gonna kill Mike.</content></utterance>
+<utterance uid="31-11"><speaker>ALAN</speaker><content>No. No, no, no. The cops will arrest him.</content></utterance>
+<utterance uid="31-12"><speaker>GWEN</speaker><content>That's what I'm afraid of. Mike is the only person here who knows I'm running this drug operation.</content></utterance>
+<utterance uid="31-13"><speaker>ALAN</speaker><content>What?  Wait, you're the one who poisoned me?</content></utterance>
+<utterance uid="31-14"><speaker>GWEN</speaker><content>And electrocuted you, yeah. I was trying to be discreet. I mean, my boyfriend Horatio said I should just shoot you in the head, but --</content></utterance>
+<utterance uid="31-15"><speaker>ALAN</speaker><content>Hold on! Stop everything! Wha -- Horatio is your boyfriend?  So I guess a second date is out of the question?</content></utterance>
+<utterance uid="31-16"><speaker>GWEN</speaker><content>Aww. Alan. You seriously thought a guy like you had a shot with me?</content></utterance>
+<utterance uid="31-17"><speaker>ALAN</speaker><content>Ow. I thought dying twice was painful.</content></utterance>
+<utterance uid="31-18"><speaker>GWEN</speaker><content>Well, maybe it won't be so bad the third time.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>POLICE</speaker><content>Police! Nobody move! NYPD! Put up your hands! Right now! Get 'em up!</content></utterance>
+<utterance uid="32-2"><speaker>RYAN</speaker><content>Get your hands where we can see 'em!</content></utterance>
+<utterance uid="32-3"><speaker>CASTLE</speaker><content>Any sign of Alan?</content></utterance>
+<utterance uid="32-4"><speaker>RYAN</speaker><content>No, not yet.</content></utterance>
+<utterance uid="32-5"><speaker>CASTLE</speaker><content>I'm sure he came here. See if you can find Gwen's office.</content></utterance>
+<utterance uid="32-6"><speaker>CASTLE</speaker><content>Alan!</content></utterance>
+<utterance uid="32-7"><speaker>RYAN</speaker><content>Oh, no.</content></utterance>
+<utterance uid="32-8"><speaker>CASTLE</speaker><content>This is my fault.  I forced the superhero mantle onto him. I filled his head with crazy ideas of being invulnerable, and then, like some superhero Icarus, he flew too close to the sun. Alan, I'm sorry. I'm so sorry. I let you down!</content></utterance>
+<utterance uid="32-9"><speaker>CASTLE</speaker><content>Thank you.</content></utterance>
+<utterance uid="32-10"><speaker>ALAN</speaker><content>Don't mention it.</content></utterance>
+<utterance uid="32-11"><speaker>CASTLE</speaker><content>Alan! You're alive?</content></utterance>
+<utterance uid="32-12"><speaker>ALAN</speaker><content>Shhh, not so loud. I've got a splitting headache.</content></utterance>
+<utterance uid="32-13"><speaker>RYAN</speaker><content>I'll, uh, call an ambulance?</content></utterance>
+<utterance uid="32-14"><speaker>ALAN</speaker><content>Relax, I'm fine. I just need a couple of Advil.  What? What is it, Castle?</content></utterance>
+<utterance uid="32-15"><speaker>CASTLE</speaker><content>You -- </content></utterance>
+<utterance uid="32-16"><speaker>ALAN</speaker><content>Did I get shot in the head?</content></utterance>
+<utterance uid="32-17"><speaker>CASTLE</speaker><content>Right in the middle! I mean, how did you even -- Wait, that means you've seen your killer. Who - Who was it?</content></utterance>
+<utterance uid="32-18"><speaker>ALAN</speaker><content>You're never gonna guess.</content></utterance>
+<utterance uid="32-19"><speaker>ESPOSITO</speaker><content>Yo. Took her down just before she put a bullet in Mike the chemist.</content></utterance>
+<utterance uid="32-20"><speaker>GWEN</speaker><content>Why the hell won't you die?</content></utterance>
+<utterance uid="32-21"><speaker>CASTLE</speaker><content>I never thought she was right for you.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>CASTLE</speaker><content>Coolest thing ever.</content></utterance>
+<utterance uid="33-2"><speaker>LANIE</speaker><content>Really?</content></utterance>
+<utterance uid="33-3"><speaker>LANIE</speaker><content>I realize it was only a 22-caliber revolver, but it was fired at point-blank range.</content></utterance>
+<utterance uid="33-4"><speaker>ALAN</speaker><content>Hey, you sound a little upset that I'm still alive.</content></utterance>
+<utterance uid="33-5"><speaker>LANIE</speaker><content>No, it's just -- Oh, come on.</content></utterance>
+<utterance uid="33-6"><speaker>BECKETT</speaker><content>I don't suppose you have an explanation this time.</content></utterance>
+<utterance uid="33-7"><speaker>LANIE</speaker><content>Welcome to the club.</content></utterance>
+<utterance uid="33-8"><speaker>ALAN</speaker><content>Thanks, Doc.</content></utterance>
+<utterance uid="33-9"><speaker>CASTLE</speaker><content>How're you feeling?</content></utterance>
+<utterance uid="33-10"><speaker>ALAN</speaker><content>You know, I'm grateful. Especially for the new friend I made. I sure hope we could stay in touch.</content></utterance>
+<utterance uid="33-11"><speaker>CASTLE</speaker><content>Are you kidding? You and me? This is the start of a beautiful --</content></utterance>
+<utterance uid="33-12"><speaker>BECKETT</speaker><content/></utterance>
+<utterance uid="33-13"><speaker>LANIE</speaker><content/></utterance>
+<utterance uid="33-14"><speaker>CASTLE</speaker><content>Which is what I've been saying all along.</content></utterance>
+<utterance uid="33-15"><speaker>LANIE</speaker><content>But perhaps discovery of those abilities is best left to a medical expert.</content></utterance>
+<utterance uid="33-16"><speaker>LANIE</speaker><content>Buh-bye, Castle. Get to stepping.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>BECKETT</speaker><content>Okay, yeah, thanks.</content></utterance>
+<utterance uid="34-2"><speaker>BECKETT</speaker><content>That was Vikram. The DEA just arrested Horatio and a few members of the Triad.</content></utterance>
+<utterance uid="34-3"><speaker>CASTLE</speaker><content>So what's wrong?</content></utterance>
+<utterance uid="34-4"><speaker>BECKETT</speaker><content>Caleb's deadline has come and gone and Vikram said that he's disappeared. He's gone off-grid.</content></utterance>
+<utterance uid="34-5"><speaker>CASTLE</speaker><content>He's running. Too scared to face LokSat, too scared to work with us.</content></utterance>
+<utterance uid="34-6"><speaker>BECKETT</speaker><content>Which means we just lost our only lead.</content></utterance>
+<utterance uid="34-7"><speaker>CASTLE</speaker><content>So what do we do?</content></utterance>
+<utterance uid="34-8"><speaker>BECKETT</speaker><content>I don't know. Maybe you're right.</content></utterance>
+<utterance uid="34-9"><speaker>CASTLE</speaker><content>So long as I'm with you, I'll go anywhere.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>CALEB</speaker><content>Don't shoot me. I might spill my Scotch.</content></utterance>
+<utterance uid="35-2"><speaker>CASTLE</speaker><content>I think you mean my Scotch. And my most expensive Scotch.</content></utterance>
+<utterance uid="35-3"><speaker>CALEB</speaker><content>It's worth it.</content></utterance>
+<utterance uid="35-4"><speaker>BECKETT</speaker><content>You had a change of heart, Caleb?</content></utterance>
+<utterance uid="35-5"><speaker>CALEB</speaker><content>You know, every morning we wake up and we choose who we want to be. I wake up and I ask myself, "Why are you choosing this?" Because you're right, Kate. I was a good guy once.</content></utterance>
+<utterance uid="35-6"><speaker>BECKETT</speaker><content>And you still can be. Who is LokSat?</content></utterance>
+<utterance uid="35-7"><speaker>CALEB</speaker><content>I don't know.</content></utterance>
+<utterance uid="35-8"><speaker>CASTLE</speaker><content>Oh, come on. You work for him.</content></utterance>
+<utterance uid="35-9"><speaker>CALEB</speaker><content>Yes. But I started out working for his partner.</content></utterance>
+<utterance uid="35-10"><speaker>BECKETT</speaker><content>Senator William Bracken?</content></utterance>
+<utterance uid="35-11"><speaker>CALEB</speaker><content>Mm-hmm.</content></utterance>
+<utterance uid="35-12"><speaker>BECKETT</speaker><content>So, what, LokSat inherited you?</content></utterance>
+<utterance uid="35-13"><speaker>CALEB</speaker><content>It was more like drafted. After Bracken's murder, I received this on my doorstep with a note.  And I quote, "Mr. Brown, you now work for me. This cellphone is enabled with GPS and will only function at the northernmost end of Astor Park. Be there every third Monday of the month at 8:00 a.m. To receive your orders." Kate, it's yours.</content></utterance>
+<utterance uid="35-14"><speaker>CALEB</speaker><content>And hopefully you can trace LokSat's next call.</content></utterance>
+<utterance uid="35-15"><speaker>BECKETT</speaker><content>Mnh-mnh. They're gonna know I'm not you.</content></utterance>
+<utterance uid="35-16"><speaker>CALEB</speaker><content>We don't have a conversation. The phone rings, I answer. An electronically modified voice gives me instructions. It lasts no more than 60 seconds, so have your best people ready.</content></utterance>
+<utterance uid="35-17"><speaker>CASTLE</speaker><content>Where are you going?</content></utterance>
+<utterance uid="35-18"><speaker>CALEB</speaker><content>Um -- I'm gonna go to the same places that I always go -- work, home. I'm gonna act as if nothing has changed.</content></utterance>
+<utterance uid="35-19"><speaker>BECKETT</speaker><content>Yeah, but it has. And we can protect you.</content></utterance>
+<utterance uid="35-20"><speaker>CALEB</speaker><content>All I want from you is your promise that you will see this thing through. And remember who I chose to be today because nobody else will. That's a damn fine Scotch, Rick.</content></utterance>
+<utterance uid="35-21"><speaker>CASTLE</speaker><content>This is it. It's our one shot at LokSat.</content></utterance>
+<utterance uid="35-22"><speaker>BECKETT</speaker><content>Yeah. And when the time comes, we're gonna make it count.</content></utterance>
+</scene>
+</script>

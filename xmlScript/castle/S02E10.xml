@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>CASTLE</speaker><content>Sector six maverick. This is your captain up and on the mount. Listen up, ladies and gentlemen, our fugitive has been on the run for 90 minutes. We're in the pipes. Let's keep our feet dry this time. Jungle Radio. This is One Delta Bravo. Eyes on suspect. Requesting backup. Over. Requesting permission to deploy laser activated radioactive immobilizer.</content></utterance>
+<utterance uid="1-2"><speaker>MARTHA</speaker><content>Permission denied. Really, Richard, I have all of these new lines to learn before my play goes into rehearsal.</content></utterance>
+<utterance uid="1-3"><speaker>CASTLE</speaker><content>I'm going in.</content></utterance>
+<utterance uid="1-4"><speaker>MARTHA</speaker><content>If that comes any closer, you're going to have Black Hawk Down on your hands. Oh!</content></utterance>
+<utterance uid="1-5"><speaker>ALEXIS</speaker><content>What's all this?</content></utterance>
+<utterance uid="1-6"><speaker>CASTLE</speaker><content>Official police tactical training.</content></utterance>
+<utterance uid="1-7"><speaker>ALEXIS</speaker><content>Oh, hey, Dad, did you get a chance to sign that permission slip I gave you the other day?</content></utterance>
+<utterance uid="1-8"><speaker>CASTLE</speaker><content>Haven't you learned to forge my signature yet?</content></utterance>
+<utterance uid="1-9"><speaker>ALEXIS</speaker><content>Credit cards, yes. Permission slips, no. It's for my civics class. Every student has a three-day volunteer internship at one of the city's agencies, law enforcement, sanitation, fire.</content></utterance>
+<utterance uid="1-10"><speaker>MARTHA</speaker><content>I'll go with fire. They have the best calendars.</content></utterance>
+<utterance uid="1-11"><speaker>ALEXIS</speaker><content>I went with law enforcement. Detective Beckett already said it's cool if I volunteer down at the station.</content></utterance>
+<utterance uid="1-12"><speaker>CASTLE</speaker><content>Oh, well, as a member of the NYPD volunteer squad, I would be happy to show you the ropes.</content></utterance>
+<utterance uid="1-13"><speaker>ALEXIS</speaker><content>Actually, Detective Beckett is giving me my orientation course tomorrow morning.</content></utterance>
+<utterance uid="1-14"><speaker>CASTLE</speaker><content>Then I would be honored to carpool with you or share a cab.</content></utterance>
+<utterance uid="1-15"><speaker>ALEXIS</speaker><content>Mmm.</content></utterance>
+<utterance uid="1-16"><speaker>CASTLE</speaker><content>Castle.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>LANIE</speaker><content>Prelim suggests victim died of a single gunshot wound to the chest at close range.</content></utterance>
+<utterance uid="2-2"><speaker>BECKETT</speaker><content>Any signs of struggle?</content></utterance>
+<utterance uid="2-3"><speaker>LANIE</speaker><content>Contusions coming up, here and here. But it's likely a result of his tumble down the trash chute.</content></utterance>
+<utterance uid="2-4"><speaker>CASTLE</speaker><content>What?</content></utterance>
+<utterance uid="2-5"><speaker>BECKETT</speaker><content>What are you doing?</content></utterance>
+<utterance uid="2-6"><speaker>CASTLE</speaker><content>Well, I can't breathe through my nose. I happen to have a very acute sense of smell.</content></utterance>
+<utterance uid="2-7"><speaker>BECKETT</speaker><content>Suck it up, Castle. Real cops deal with worse.</content></utterance>
+<utterance uid="2-8"><speaker>LANIE</speaker><content>Yeah, not to mention medical examiners. Do you know how long I have to shower before heading out on a date?</content></utterance>
+<utterance uid="2-9"><speaker>CASTLE</speaker><content>No, but if you need someone to time it for you I'd be happy to h...</content></utterance>
+<utterance uid="2-10"><speaker>RYAN</speaker><content>Found it!</content></utterance>
+<utterance uid="2-11"><speaker>RYAN</speaker><content>It must've fallen out of his jacket on the way down.</content></utterance>
+<utterance uid="2-12"><speaker>BECKETT</speaker><content>Yep, that's our guy. All right, the name is Sam Parker. And the driver's license has his address placed in Connecticut.</content></utterance>
+<utterance uid="2-13"><speaker>RYAN</speaker><content>Maybe he's visiting someone in the building.</content></utterance>
+<utterance uid="2-14"><speaker>CASTLE</speaker><content>You mean dropping by.</content></utterance>
+<utterance uid="2-15"><speaker>RYAN</speaker><content>Ryan here. Thanks, bro.  Esposito's up on 15. Says he found out where our guy was shot.</content></utterance>
+<utterance uid="2-16"><speaker>BECKETT</speaker><content>All right. Let's go.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>ESPOSITO</speaker><content>From the blood spatter, our guy was shot right here. Then he was shoved head-first down the chute.</content></utterance>
+<utterance uid="3-2"><speaker>CASTLE</speaker><content>A killer who cleans up after himself. Very American Psycho.</content></utterance>
+<utterance uid="3-3"><speaker>BECKETT</speaker><content>He probably wanted to get out of the building unnoticed. Figured that the dumpster wouldn't be emptied for a couple of days.</content></utterance>
+<utterance uid="3-4"><speaker>ESPOSITO</speaker><content>He didn't count on a tenant on the seventh floor, *cough* a hottie *cough*, seeing the body drop as she threw out her pizza box.</content></utterance>
+<utterance uid="3-5"><speaker>CASTLE</speaker><content>Is she distraught? Because I can be very comforting.</content></utterance>
+<utterance uid="3-6"><speaker>BECKETT</speaker><content>CSUs?</content></utterance>
+<utterance uid="3-7"><speaker>ESPOSITO</speaker><content>Team's on its way.</content></utterance>
+<utterance uid="3-8"><speaker>RYAN</speaker><content>Neighbors didn't hear the shot.</content></utterance>
+<utterance uid="3-9"><speaker>ESPOSITO</speaker><content>Ah.</content></utterance>
+<utterance uid="3-10"><speaker>ESPOSITO</speaker><content>Poor man's silencer. Must've picked it up from this pile here and then thrown it back when he was done.</content></utterance>
+<utterance uid="3-11"><speaker>CASTLE</speaker><content>Resourceful.</content></utterance>
+<utterance uid="3-12"><speaker>BECKETT</speaker><content>How did a clean-cut, suburban guy end up this far from home, dead and thrown out with the trash?</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>CASTLE</speaker><content>Are you ready? Here we go. I know Alexis already talked to you. I just wanted to make sure that you're really okay with having herhere.</content></utterance>
+<utterance uid="4-2"><speaker>BECKETT</speaker><content>I wouldn't have said yes if I wasn't.</content></utterance>
+<utterance uid="4-3"><speaker>CASTLE</speaker><content>Well, yeah, but you're busy, and I just don't want her to be in the way.</content></utterance>
+<utterance uid="4-4"><speaker>BECKETT</speaker><content>Big Castle is the one who likes to get in the way. I'm sure Little Castle will be a pleasure.</content></utterance>
+<utterance uid="4-5"><speaker>ESPOSITO</speaker><content>Sam Parker, age 38. Lives in Connecticut with his wife Helen and his two kids.</content></utterance>
+<utterance uid="4-6"><speaker>RYAN</speaker><content>Wife's en route to the morgue to ID the body.</content></utterance>
+<utterance uid="4-7"><speaker>ESPOSITO</speaker><content>We contacted the leasing office, and they don't have a Sam Parker listed as a tenant.</content></utterance>
+<utterance uid="4-8"><speaker>BECKETT</speaker><content>So, he probably was visiting someone.</content></utterance>
+<utterance uid="4-9"><speaker>RYAN</speaker><content>Uniforms are canvassing. No hits yet. CSU's working to untangle the prints, but since it's a common room, there's probably dozens of them. However, the chute handle, doorknob, and soda bottle were all wiped clean.</content></utterance>
+<utterance uid="4-10"><speaker>BECKETT</speaker><content>All right, let's go visit the wife at the morgue. Maybe she can tell us what he was doing in the city tonight.</content></utterance>
+<utterance uid="4-11"><speaker>CASTLE</speaker><content>And if she doesn't know, that tells us something, too.</content></utterance>
+<utterance uid="4-12"><speaker>RYAN</speaker><content>Mm-hmm.</content></utterance>
+<utterance uid="4-13"><speaker>CASTLE</speaker><content>Can you...</content></utterance>
+<utterance uid="4-14"><speaker>RYAN</speaker><content>Fresh. And hot, and hot, and hot.</content></utterance>
+<utterance uid="4-15"><speaker>ESPOSITO</speaker><content>He doesn't make me coffee.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>CASTLE</speaker><content>You okay?</content></utterance>
+<utterance uid="5-2"><speaker>BECKETT</speaker><content>This is never easy, no matter how much experience you have.</content></utterance>
+<utterance uid="5-3"><speaker>SARAH REED</speaker><content>Oh, my God.</content></utterance>
+<utterance uid="5-4"><speaker>BECKETT</speaker><content>I'm Detective Kate Beckett. I'm with the NYPD. I'm very sorry for your loss.</content></utterance>
+<utterance uid="5-5"><speaker>SARAH REED</speaker><content>Do you have any idea who did this?</content></utterance>
+<utterance uid="5-6"><speaker>BECKETT</speaker><content>We are doing everything we can to figure that out.</content></utterance>
+<utterance uid="5-7"><speaker>BECKETT</speaker><content>Excuse me, we're in the middle of an identification.</content></utterance>
+<utterance uid="5-8"><speaker>MORGUE ASSISTANT</speaker><content>That's why she's here.</content></utterance>
+<utterance uid="5-9"><speaker>BECKETT</speaker><content>And you are?</content></utterance>
+<utterance uid="5-10"><speaker>HELEN PARKER</speaker><content>I'm here to identify my husband. Oh, my God.</content></utterance>
+<utterance uid="5-11"><speaker>BECKETT</speaker><content>Excuse me? Your husband?  What's your relation to the victim?</content></utterance>
+<utterance uid="5-12"><speaker>SARAH REED</speaker><content>I'm his fiancée.</content></utterance>
+<utterance uid="5-13"><speaker>HELEN PARKER</speaker><content>I'm sorry. What did you just say?</content></utterance>
+<utterance uid="5-14"><speaker>SARAH REED</speaker><content>I'm his fiancée.</content></utterance>
+<utterance uid="5-15"><speaker>CASTLE</speaker><content>Dude, you are so busted.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>BECKETT</speaker><content>I don't know how to get the two of them out of here.</content></utterance>
+<utterance uid="6-2"><speaker>CASTLE</speaker><content>I'm just...</content></utterance>
+<utterance uid="6-3"><speaker>MONTGOMERY</speaker><content>Is that our vic's wife?</content></utterance>
+<utterance uid="6-4"><speaker>BECKETT</speaker><content>Fiancée.</content></utterance>
+<utterance uid="6-5"><speaker>CASTLE</speaker><content>The wife is over there.</content></utterance>
+<utterance uid="6-6"><speaker>MONTGOMERY</speaker><content>Come again?</content></utterance>
+<utterance uid="6-7"><speaker>BECKETT</speaker><content>Fiancée.</content></utterance>
+<utterance uid="6-8"><speaker>MONTGOMERY</speaker><content>Mm-hmm.</content></utterance>
+<utterance uid="6-9"><speaker>BECKETT</speaker><content>Wife.</content></utterance>
+<utterance uid="6-10"><speaker>MONTGOMERY</speaker><content>Hmm. Oh, boy.</content></utterance>
+<utterance uid="6-11"><speaker>CASTLE</speaker><content>I know, isn't it delicious? Okay, who do we talk to first?</content></utterance>
+<utterance uid="6-12"><speaker>BECKETT</speaker><content>Hmm?</content></utterance>
+<utterance uid="6-13"><speaker>BECKETT</speaker><content>Okay.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>BECKETT</speaker><content>I know this is difficult, Miss Reed, but if we could ask you a few questions.</content></utterance>
+<utterance uid="7-2"><speaker>BECKETT</speaker><content>How long did you know Mr. Parker?</content></utterance>
+<utterance uid="7-3"><speaker>SARAH REED</speaker><content>Parker?</content></utterance>
+<utterance uid="7-4"><speaker>BECKETT</speaker><content>Sam.</content></utterance>
+<utterance uid="7-5"><speaker>SARAH REED</speaker><content>His name's Jake. Jake Holland.</content></utterance>
+<utterance uid="7-6"><speaker>BECKETT</speaker><content>Um...</content></utterance>
+<utterance uid="7-7"><speaker>BECKETT</speaker><content>According to his driver's license, it's Sam Parker.</content></utterance>
+<utterance uid="7-8"><speaker>SARAH REED</speaker><content>It was all a lie? Even his name?</content></utterance>
+<utterance uid="7-9"><speaker>BECKETT</speaker><content>Where did the two of you meet?</content></utterance>
+<utterance uid="7-10"><speaker>SARAH REED</speaker><content>At work. A girlfriend of mine said that there was this great guy in her department, and did I want to meet him.</content></utterance>
+<utterance uid="7-11"><speaker>CASTLE</speaker><content>And when did you two last speak?</content></utterance>
+<utterance uid="7-12"><speaker>SARAH REED</speaker><content>This afternoon. He called to say he was on his way back to the city. His father is in the hospital upstate. He has late stage Alzheimer's, and Jake would drive up to see him every... I'm so stupid. He was spending the weekends with his wife.</content></utterance>
+<utterance uid="7-13"><speaker>BECKETT</speaker><content>So, you were intending to see him tonight?</content></utterance>
+<utterance uid="7-14"><speaker>SARAH REED</speaker><content>We were going to get takeout and watch a movie. A neighbor stopped me in the hallway and told me that the police had been there. But when I called, nobody could tell me anything. I-- I guess now I know why.</content></utterance>
+<utterance uid="7-15"><speaker>BECKETT</speaker><content>Because we ID'd him as Sam Parker.</content></utterance>
+<utterance uid="7-16"><speaker>SARAH REED</speaker><content>Somebody at the morgue confirmed that a body had been picked up at his address, so I went down there.</content></utterance>
+<utterance uid="7-17"><speaker>SARAH REED</speaker><content>When he proposed, I told my best friend, and she was all, "You've only known him six months." But I didn't care. He was the one. How could he do this?</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>HELEN PARKER</speaker><content>This is insane. Who is this woman? Sam would never. He... He loved me. Our kids meant everything to him.</content></utterance>
+<utterance uid="8-2"><speaker>BECKETT</speaker><content>Apparently there was more to it than just the affair, Mrs. Parker.</content></utterance>
+<utterance uid="8-3"><speaker>CASTLE</speaker><content>Your husband was using a false name at his job.</content></utterance>
+<utterance uid="8-4"><speaker>HELEN PARKER</speaker><content>Well, I don't understand. Why would he do that?</content></utterance>
+<utterance uid="8-5"><speaker>BECKETT</speaker><content>We're still trying to figure that out. But from what we understand, he met Miss Reed at his office.</content></utterance>
+<utterance uid="8-6"><speaker>HELEN PARKER</speaker><content>H-- he started there about six months ago. He'd been passed over for a promotion at his old firm. There are not a lot of opportunities in green solutions, so he took the job, even though it was in the city.</content></utterance>
+<utterance uid="8-7"><speaker>CASTLE</speaker><content>Green solutions, as in environmentally conscious?</content></utterance>
+<utterance uid="8-8"><speaker>HELEN PARKER</speaker><content>He did corporate consulting. How to reduce waste, save energy. It was a passion of his.</content></utterance>
+<utterance uid="8-9"><speaker>CASTLE</speaker><content>It's very commendable.</content></utterance>
+<utterance uid="8-10"><speaker>HELEN PARKER</speaker><content>Well, all that working and commuting were running him ragged, so he found a cheap sublet. It was hard, but if it all worked out, we were going to move down to the city so that we could all be together.</content></utterance>
+<utterance uid="8-11"><speaker>BECKETT</speaker><content>Mrs. Parker, did you have any idea that your husband was having an affair?</content></utterance>
+<utterance uid="8-12"><speaker>HELEN PARKER</speaker><content>I know what you're thinking. Why didn't I notice the signs? We have two children together. We do not have a nanny, so every second of every minute of my day is about my kids. And if there was an issue, I'd call Sam on his cell phone, and he would always answer. I never, never thought I'd be sitting here justifying my marriage.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>CASTLE</speaker><content>With the wife, it was "Only call my cell during the week" routine. With the fiancée, he pulled out the trust "I can't call you from the hospital" act.</content></utterance>
+<utterance uid="9-2"><speaker>RYAN</speaker><content>Man, my girlfriend freaks out if I don't check in, like, every hour.</content></utterance>
+<utterance uid="9-3"><speaker>ESPOSITO</speaker><content>You do check in, like, every hour.</content></utterance>
+<utterance uid="9-4"><speaker>ESPOSITO</speaker><content>Sometimes more.</content></utterance>
+<utterance uid="9-5"><speaker>CASTLE</speaker><content>This guy had both of these women believing that they were his one and only.</content></utterance>
+<utterance uid="9-6"><speaker>BECKETT</speaker><content>People believe what they want to believe.</content></utterance>
+<utterance uid="9-7"><speaker>ESPOSITO</speaker><content>Till the dead truth sets in.</content></utterance>
+<utterance uid="9-8"><speaker>CASTLE</speaker><content>What, you think one of them caught on to what Sam was doing?</content></utterance>
+<utterance uid="9-9"><speaker>RYAN</speaker><content>And didn't take too kindly when they discovered they weren't the only woman in his life.</content></utterance>
+<utterance uid="9-10"><speaker>CASTLE</speaker><content>Mmm. I don't know. They seemed pretty shocked to me.</content></utterance>
+<utterance uid="9-11"><speaker>BECKETT</speaker><content>Yeah, to me, too, but we've got to cover all of our bases. Both of them had soft alibis. The wife said that she was watching TV while the kids were upstairs sleeping. And the fiancée said that she was home alone getting ready to meet him.</content></utterance>
+<utterance uid="9-12"><speaker>RYAN</speaker><content>We'll run phone and financials, see if anything pops.</content></utterance>
+<utterance uid="9-13"><speaker>BECKETT</speaker><content>Thank you.</content></utterance>
+<utterance uid="9-14"><speaker>RYAN</speaker><content>Could I run...?</content></utterance>
+<utterance uid="9-15"><speaker>CASTLE</speaker><content>Right.</content></utterance>
+<utterance uid="9-16"><speaker>BECKETT</speaker><content>Do you think he would've gone through with it?</content></utterance>
+<utterance uid="9-17"><speaker>CASTLE</speaker><content>Through with what?</content></utterance>
+<utterance uid="9-18"><speaker>BECKETT</speaker><content>Marrying Sarah if he hadn't gotten killed.</content></utterance>
+<utterance uid="9-19"><speaker>CASTLE</speaker><content>Well, that was a pretty big rock he put on her finger. With the fake identity he had set up, the county clerk's office never would have flagged him for someone who was already married.</content></utterance>
+<utterance uid="9-20"><speaker>BECKETT</speaker><content>Yeah, but Sam was pretending to be Jake before he met Sarah. I don't understand the fake identity.</content></utterance>
+<utterance uid="9-21"><speaker>CASTLE</speaker><content>Maybe to land the job?</content></utterance>
+<utterance uid="9-22"><speaker>BECKETT</speaker><content>I understand fibbing on your resume, but changing your identity? The math doesn't quite add up for me.</content></utterance>
+<utterance uid="9-23"><speaker>CASTLE</speaker><content>You know what math doesn't add up for me?</content></utterance>
+<utterance uid="9-24"><speaker>BECKETT</speaker><content>Mmm.</content></utterance>
+<utterance uid="9-25"><speaker>CASTLE</speaker><content>Two wives.</content></utterance>
+<utterance uid="9-26"><speaker>BECKETT</speaker><content>One wife too many for you?</content></utterance>
+<utterance uid="9-27"><speaker>CASTLE</speaker><content>Two wives too many.</content></utterance>
+<utterance uid="9-28"><speaker>BECKETT</speaker><content>Seems like the common denominator in that equation is you.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>CASTLE</speaker><content>Good news. I'm finally embracing the lecture you gave me on the importance of organic food.</content></utterance>
+<utterance uid="10-2"><speaker>ALEXIS</speaker><content>You made my lunch?</content></utterance>
+<utterance uid="10-3"><speaker>CASTLE</speaker><content>You think I'm gonna let you risk your life on the vending machines and stale donuts of the break r...</content></utterance>
+<utterance uid="10-4"><speaker>CASTLE</speaker><content>Wow.</content></utterance>
+<utterance uid="10-5"><speaker>ALEXIS</speaker><content>What?</content></utterance>
+<utterance uid="10-6"><speaker>CASTLE</speaker><content>You look so grown up.</content></utterance>
+<utterance uid="10-7"><speaker>ALEXIS</speaker><content>Really?</content></utterance>
+<utterance uid="10-8"><speaker>CASTLE</speaker><content>Really.</content></utterance>
+<utterance uid="10-9"><speaker>ALEXIS</speaker><content>Well, Gram said presentation is vital.</content></utterance>
+<utterance uid="10-10"><speaker>CASTLE</speaker><content>Well...</content></utterance>
+<utterance uid="10-11"><speaker>ALEXIS</speaker><content>I forgot my phone.</content></utterance>
+<utterance uid="10-12"><speaker>CASTLE</speaker><content>That ever happen to you with me? One day you look, and you see your boy is all grown up?</content></utterance>
+<utterance uid="10-13"><speaker>MARTHA</speaker><content>I'm still waiting for that moment, actually.</content></utterance>
+<utterance uid="10-14"><speaker>CASTLE</speaker><content>I set you up for that, didn't I?</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>BECKETT</speaker><content>Okay, so this is the property room. It's where we keep all the items that we find at a crime scene that aren't classified as evidence.</content></utterance>
+<utterance uid="11-2"><speaker>ALEXIS</speaker><content>Sort of like a lost and found?</content></utterance>
+<utterance uid="11-3"><speaker>BECKETT</speaker><content>Um, sort of.</content></utterance>
+<utterance uid="11-4"><speaker>ALEXIS</speaker><content>Why don't the victims' families claim this stuff?</content></utterance>
+<utterance uid="11-5"><speaker>BECKETT</speaker><content>Well, loved ones are aware of the big ticket items, like rings and watches. But things like sunglasses and lighters, those usually go unclaimed.</content></utterance>
+<utterance uid="11-6"><speaker>ALEXIS</speaker><content>Are these case numbers?</content></utterance>
+<utterance uid="11-7"><speaker>BECKETT</speaker><content>Exactly, so the idea is to get rid of all of this stuff and stick it into storage. But before we do that, we have to catalog it, just in case someone comes in with a claim.</content></utterance>
+<utterance uid="11-8"><speaker>ALEXIS</speaker><content>Okay, so you need a description of every item along with its corresponding case number downloaded into the database.</content></utterance>
+<utterance uid="11-9"><speaker>BECKETT</speaker><content>Mm-hmm. And I know that this isn't exactly what you were thinking of when you asked to volunteer, but we're low on manpower, and this would be very helpful.</content></utterance>
+<utterance uid="11-10"><speaker>ALEXIS</speaker><content>Don't worry about it. This place is gonna be so organized when I'm done, you won't even recognize it.</content></utterance>
+<utterance uid="11-11"><speaker>BECKETT</speaker><content>I bet I won't.</content></utterance>
+<utterance uid="11-12"><speaker>ALEXIS</speaker><content>Detective Beckett?</content></utterance>
+<utterance uid="11-13"><speaker>BECKETT</speaker><content>Huh?</content></utterance>
+<utterance uid="11-14"><speaker>ALEXIS</speaker><content>I know my dad can sometimes be a handful. And by sometimes, I mean all the time. But I wanna let you know you don't have to worry about me. I'm all about getting the job done.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>MONTGOMERY</speaker><content>Beckett.</content></utterance>
+<utterance uid="12-2"><speaker>BECKETT</speaker><content>Sir.</content></utterance>
+<utterance uid="12-3"><speaker>CASTLE</speaker><content>Well?</content></utterance>
+<utterance uid="12-4"><speaker>BECKETT</speaker><content>Alexis? She's fine.</content></utterance>
+<utterance uid="12-5"><speaker>CASTLE</speaker><content>You know, her first day at preschool, I hid outside in the bushes all day just to make sure she was all right.</content></utterance>
+<utterance uid="12-6"><speaker>MONTGOMERY</speaker><content>First time my son went to summer camp, I followed the bus all the way to the Adirondacks.</content></utterance>
+<utterance uid="12-7"><speaker>BECKETT</speaker><content>You two are both either very sweet or very creepy.</content></utterance>
+<utterance uid="12-8"><speaker>ESPOSITO</speaker><content>Super let us into Sam Parker's apartment.</content></utterance>
+<utterance uid="12-9"><speaker>RYAN</speaker><content>Jake Holland's apartment.</content></utterance>
+<utterance uid="12-10"><speaker>ESPOSITO</speaker><content>Same guy, bro.</content></utterance>
+<utterance uid="12-11"><speaker>RYAN</speaker><content>Yeah, just trying to keep it straight for everybody.</content></utterance>
+<utterance uid="12-12"><speaker>ESPOSITO</speaker><content>Anyway, there were no signs of a struggle, and Sam's bag was...</content></utterance>
+<utterance uid="12-13"><speaker>RYAN</speaker><content>Jake's bag.</content></utterance>
+<utterance uid="12-14"><speaker>ESPOSITO</speaker><content>Wes still sitting by the door from when he came home from visiting his family in Connecticut.</content></utterance>
+<utterance uid="12-15"><speaker>RYAN</speaker><content>Which explains why we found the Sam Parker wallet on him when he was killed, as opposed to this one we found in his dresser.</content></utterance>
+<utterance uid="12-16"><speaker>CASTLE</speaker><content>Jake Holland's wallet.</content></utterance>
+<utterance uid="12-17"><speaker>RYAN</speaker><content>It's got his driver's license with his New York address, work ID, the whole shebang.</content></utterance>
+<utterance uid="12-18"><speaker>CASTLE</speaker><content>Oh, please tell me that's the old double-sided picture frame gag.</content></utterance>
+<utterance uid="12-19"><speaker>RYAN</speaker><content>Lovely fiancée which can easily be swapped out for the wife and kids, should they ever visit Daddy in the big city.</content></utterance>
+<utterance uid="12-20"><speaker>ESPOSITO</speaker><content>Big news is we found this sitting on the kitchen counter.</content></utterance>
+<utterance uid="12-21"><speaker>ESPOSITO</speaker><content>There's a voicemail you're gonna want to hear.</content></utterance>
+<utterance uid="12-22"><speaker>MAN</speaker><content>I'm not going to let you get away with this, you worthless piece of trash. If you don't call me back tonight, then my next call is to Helen.</content></utterance>
+<utterance uid="12-23"><speaker>CASTLE</speaker><content>Someone caught on to Sam's double life.</content></utterance>
+<utterance uid="12-24"><speaker>RYAN</speaker><content>We ran the number. Belongs to one Charles DePetro.</content></utterance>
+<utterance uid="12-25"><speaker>BECKETT</speaker><content>DePetro? That's his wife's maiden name. It's hyphenated on her driver's license.</content></utterance>
+<utterance uid="12-26"><speaker>ESPOSITO</speaker><content>Mmm-hmm. Charlie is Helen's brother.</content></utterance>
+<utterance uid="12-27"><speaker>BECKETT</speaker><content>He found out what Sam was up to.</content></utterance>
+<utterance uid="12-28"><speaker>CASTLE</speaker><content>And decided to take out the trash.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>BECKETT</speaker><content>Mr. DePetro, I can understand the instinct of protection.</content></utterance>
+<utterance uid="13-2"><speaker>CASTLE</speaker><content>If I had a sister, and her husband was cheating on her, I'd want to set him straight, too.</content></utterance>
+<utterance uid="13-3"><speaker>CHARLIE DEPETRO</speaker><content>That's not why I left the message.</content></utterance>
+<utterance uid="13-4"><speaker>BECKETT</speaker><content>Did you know that Sam was cheating on Helen?</content></utterance>
+<utterance uid="13-5"><speaker>CHARLIE DEPETRO</speaker><content>Not until she called me last night and told me he'd been killed.</content></utterance>
+<utterance uid="13-6"><speaker>CASTLE</speaker><content>BECKETT</content></utterance>
+<utterance uid="13-7"><speaker>CHARLIE DEPETRO</speaker><content>He owed me money.</content></utterance>
+<utterance uid="13-8"><speaker>CASTLE</speaker><content>So, Sam borrowed money from you?</content></utterance>
+<utterance uid="13-9"><speaker>CHARLIE DEPETRO</speaker><content>Twenty Gs. He needed it to cover the mortgage. They'd already borrowed against the equity in the house.</content></utterance>
+<utterance uid="13-10"><speaker>BECKETT</speaker><content>And what was the arrangement?</content></utterance>
+<utterance uid="13-11"><speaker>CHARLIE DEPETRO</speaker><content>He said he needed a couple months. And when he started the new job in the city, I figured he'd be making more dough.</content></utterance>
+<utterance uid="13-12"><speaker>BECKETT</speaker><content>Helen didn't know about this?</content></utterance>
+<utterance uid="13-13"><speaker>CHARLIE DEPETRO</speaker><content>He didn't want her to worry. And as long as he paid me back, I said it'd be our secret.</content></utterance>
+<utterance uid="13-14"><speaker>CASTLE</speaker><content>And did he pay any of it back?</content></utterance>
+<utterance uid="13-15"><speaker>CHARLIE DEPETRO</speaker><content>Not a cent. He kept saying he was pulling in less money. I thought he was lying. Why take the job that far from home and force Helen to deal with the kids on her own? Comes out now, he wasn't doing it for his family. He wanted the freedom to cheat on my sister.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>RYAN</speaker><content>Brother's alibi checked out. He was working late when Sam/Jake was shot.</content></utterance>
+<utterance uid="14-2"><speaker>BECKETT</speaker><content>Any word on Parker's financials?</content></utterance>
+<utterance uid="14-3"><speaker>RYAN</speaker><content>Yeah, they were a paycheck away from defaulting on their mortgage.</content></utterance>
+<utterance uid="14-4"><speaker>CASTLE</speaker><content>You know, the brother said that Sam was pulling in less money at his new job. If Sam was strapped for cash, why would he quit the job he had to take one that paid less?</content></utterance>
+<utterance uid="14-5"><speaker>RYAN</speaker><content>Didn't his wife say he was passed over for a promotion? Maybe it was a pride thing.</content></utterance>
+<utterance uid="14-6"><speaker>CASTLE</speaker><content>Yeah, but you factor in the sublet, not to mention gas, that's a high price to pay for pride.</content></utterance>
+<utterance uid="14-7"><speaker>BECKETT</speaker><content>Yeah, well, never underestimate the fragility of the male ego.</content></utterance>
+<utterance uid="14-8"><speaker>RYAN</speaker><content>Oh, see, that's just a stereotype...</content></utterance>
+<utterance uid="14-9"><speaker>CASTLE</speaker><content>Don't. Don't. That's... She is baiting us, all right? Just ignore her, and she'll lose her witchy powers.</content></utterance>
+<utterance uid="14-10"><speaker>BECKETT</speaker><content>You wish. All right, let's go off to Parker's office.</content></utterance>
+<utterance uid="14-11"><speaker>CASTLE</speaker><content>Lose something?</content></utterance>
+<utterance uid="14-12"><speaker>BECKETT</speaker><content>Um... Where-- where, um.... where's my broom?</content></utterance>
+<utterance uid="14-13"><speaker>CASTLE</speaker><content>I was looking.</content></utterance>
+<utterance uid="14-14"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+<utterance uid="14-15"><speaker>BECKETT</speaker><content>Yeah?</content></utterance>
+<utterance uid="14-16"><speaker>RYAN</speaker><content>For the record, I did not.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>LANCE CARLBERG</speaker><content>I don't know. Maybe I should've seen it. His resume was almost too good to be true. Top of his class at Berkeley, Stanford Business School. He must've really needed this job to lie so bad.</content></utterance>
+<utterance uid="15-2"><speaker>CASTLE</speaker><content>So, there's no other reason you can think of as to why he lied?</content></utterance>
+<utterance uid="15-3"><speaker>LANCE CARLBERG</speaker><content>No.</content></utterance>
+<utterance uid="15-4"><speaker>BECKETT</speaker><content>When you hired him, did you look into any of his references?</content></utterance>
+<utterance uid="15-5"><speaker>LANCE CARLBERG</speaker><content>Of course I did, Detective. I called them all myself. And I got nothing but glowing recommendations.</content></utterance>
+<utterance uid="15-6"><speaker>CASTLE</speaker><content>For a guy who didn't exist.</content></utterance>
+<utterance uid="15-7"><speaker>BECKETT</speaker><content>I'd like to take a look at a copy of his resume, if you still have it.</content></utterance>
+<utterance uid="15-8"><speaker>LANCE CARLBERG</speaker><content>I'll have human resources e-mail it over to you.</content></utterance>
+<utterance uid="15-9"><speaker>BECKETT</speaker><content>Uh, before we go, did you know that Mr. Parker was romantically involved with one of your employees?</content></utterance>
+<utterance uid="15-10"><speaker>LANCE CARLBERG</speaker><content>Sarah, yeah, she's one of my best engineers.</content></utterance>
+<utterance uid="15-11"><speaker>CASTLE</speaker><content>Ever notice any drama there? Drunken fighting at an office party, that sort of thing?</content></utterance>
+<utterance uid="15-12"><speaker>LANCE CARLBERG</speaker><content>No. Never. They actually seemed like a pretty solid couple. And she must be going through hell right now.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>OPERATOR</speaker><content>We're sorry. The number you have reached is not in service. Please check the number, or try your call ag...</content></utterance>
+<utterance uid="16-2"><speaker>BECKETT</speaker><content>That's the last one.</content></utterance>
+<utterance uid="16-3"><speaker>ESPOSITO</speaker><content>Every single reference he gave is suddenly out of service?</content></utterance>
+<utterance uid="16-4"><speaker>RYAN</speaker><content>When, according to his boss, they were all up and running six months ago?</content></utterance>
+<utterance uid="16-5"><speaker>CASTLE</speaker><content>So, who was answering the dummy lines?</content></utterance>
+<utterance uid="16-6"><speaker>BECKETT</speaker><content>Let's get a warrant for all these numbers. I'd like to know who they were registered to.</content></utterance>
+<utterance uid="16-7"><speaker>ESPOSITO</speaker><content>Okay.</content></utterance>
+<utterance uid="16-8"><speaker>BECKETT</speaker><content>This guy went to some pretty serious lengths to get this job.</content></utterance>
+<utterance uid="16-9"><speaker>CASTLE</speaker><content>They must have amazing dental.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>ALEXIS</speaker><content>Ew.</content></utterance>
+<utterance uid="17-2"><speaker>CASTLE</speaker><content>I don't know where you got this work ethic, but it certainly was not from me.</content></utterance>
+<utterance uid="17-3"><speaker>BECKETT</speaker><content>How's it going?</content></utterance>
+<utterance uid="17-4"><speaker>ALEXIS</speaker><content>Pretty good. The computer was a little glitchy at first, but that's because no one had run a software update in, like, two years. Plus it picked up some viruses I had to zap.</content></utterance>
+<utterance uid="17-5"><speaker>BECKETT</speaker><content>I am realizing that you are way over-qualified for this job.</content></utterance>
+<utterance uid="17-6"><speaker>CASTLE</speaker><content>Told you she was a smarty.</content></utterance>
+<utterance uid="17-7"><speaker>ALEXIS</speaker><content>But I do have one question. Like you said before, most of the items here are pretty junky and meaningless. I did find this, though.</content></utterance>
+<utterance uid="17-8"><speaker>CASTLE</speaker><content>Oh! It's a brag book. So you can brag about your kids. I used to have one in my wallet. Now, it's on my phone.</content></utterance>
+<utterance uid="17-9"><speaker>ALEXIS</speaker><content>Some of the pictures are really old. Like, they're one of a kind. It seems like something worth returning, only it wasn't tagged or anything.</content></utterance>
+<utterance uid="17-10"><speaker>BECKETT</speaker><content>Yeah, but the problem is, is without a case number, it's difficult to find out who the victim was and how to get this back to the family.</content></utterance>
+<utterance uid="17-11"><speaker>ALEXIS</speaker><content>Okay, so then it just goes in the storage box, right?</content></utterance>
+<utterance uid="17-12"><speaker>BECKETT</speaker><content>I'll tell you what. I'll give you a list of all the detectives who possibly worked this case. Show them the pictures, maybe it'll strike up a memory.</content></utterance>
+<utterance uid="17-13"><speaker>CASTLE</speaker><content>Only, don't bother them if they seem busy.</content></utterance>
+<utterance uid="17-14"><speaker>BECKETT</speaker><content>You're one to talk.</content></utterance>
+<utterance uid="17-15"><speaker>ALEXIS</speaker><content>Thanks so much.</content></utterance>
+<utterance uid="17-16"><speaker>BECKETT</speaker><content>Mm-hmm. Excuse me. Beckett.</content></utterance>
+<utterance uid="17-17"><speaker>CASTLE</speaker><content>Hmm. What's this?</content></utterance>
+<utterance uid="17-18"><speaker>ALEXIS</speaker><content>Dad.</content></utterance>
+<utterance uid="17-19"><speaker>BECKETT</speaker><content>Okay. I'll be right there.  The fiancée's here. She wants to talk.</content></utterance>
+<utterance uid="17-20"><speaker>CASTLE</speaker><content>Have fun.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>SARAH REED</speaker><content>I knew she looked familiar at the morgue, but I couldn't place it at first.</content></utterance>
+<utterance uid="18-2"><speaker>BECKETT</speaker><content>So, you're saying that last night wasn't the first time you had seen Helen Parker?</content></utterance>
+<utterance uid="18-3"><speaker>SARAH REED</speaker><content>Well, there was something about her face. And then it hit me. I had seen her in front of Jake's apartment a couple weeks ago.</content></utterance>
+<utterance uid="18-4"><speaker>CASTLE</speaker><content>Was she leaving the building?</content></utterance>
+<utterance uid="18-5"><speaker>SARAH REED</speaker><content>No. She was sitting in her car across the street.</content></utterance>
+<utterance uid="18-6"><speaker>BECKETT</speaker><content>And you're sure it was Helen Parker?</content></utterance>
+<utterance uid="18-7"><speaker>SARAH REED</speaker><content>I'm sure of it now.</content></utterance>
+<utterance uid="18-8"><speaker>CASTLE</speaker><content>A positive identification from all the way across the street in a car?</content></utterance>
+<utterance uid="18-9"><speaker>SARAH REED</speaker><content>I made a note of it because the way she was staring at me was creepy. Like she was sizing me up.</content></utterance>
+<utterance uid="18-10"><speaker>BECKETT</speaker><content>Miss Reed, the past 24 hours have been overwhelming, to say the least.</content></utterance>
+<utterance uid="18-11"><speaker>CASTLE</speaker><content>It's not uncommon for witnesses' memories to be confused after a traumatic event.</content></utterance>
+<utterance uid="18-12"><speaker>BECKETT</speaker><content>We just need to be absolutely sure.</content></utterance>
+<utterance uid="18-13"><speaker>SARAH REED</speaker><content>Look, I know what I saw. she was sitting in a silver hybrid staring at the front of the building.</content></utterance>
+<utterance uid="18-14"><speaker>BECKETT</speaker><content>And did you tell your fiancée about this?</content></utterance>
+<utterance uid="18-15"><speaker>SARAH REED</speaker><content>No. At the time, I just dismissed it. But now... It makes me wonder if I'm the only person in the whole situation who didn't know what was really going on.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>BECKETT</speaker><content>Silver hybrid.</content></utterance>
+<utterance uid="19-2"><speaker>CASTLE</speaker><content>I guess Helen did know about her husband's affair.</content></utterance>
+<utterance uid="19-3"><speaker>BECKETT</speaker><content>That'd be a pretty strong motive.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>HELEN PARKER</speaker><content>You came all this way because she told you some crazy story about me being parked outside the apartment.</content></utterance>
+<utterance uid="20-2"><speaker>BECKETT</speaker><content>Mrs. Parker, we have to take every lead seriously.</content></utterance>
+<utterance uid="20-3"><speaker>HELEN PARKER</speaker><content>Did you ever think that maybe she made this up to take the attention off of herself?</content></utterance>
+<utterance uid="20-4"><speaker>CASTLE</speaker><content>She was specific about your car.</content></utterance>
+<utterance uid="20-5"><speaker>HELEN PARKER</speaker><content>A silver hybrid? That's-- that's like saying somebody was wearing black shoes.</content></utterance>
+<utterance uid="20-6"><speaker>BECKETT</speaker><content>That still doesn't answer the question.</content></utterance>
+<utterance uid="20-7"><speaker>HELEN PARKER</speaker><content>No. In the six months Sam had the apartment, I never went there.</content></utterance>
+<utterance uid="20-8"><speaker>CASTLE</speaker><content>You never popped down just once for a date night? I mean, Connecticut's not that far a drive.</content></utterance>
+<utterance uid="20-9"><speaker>HELEN PARKER</speaker><content>Well, when you have two children under the age of ten, popping down for date night midweek is nearly impossible. Sam only came home every weekend, and I would see him then.</content></utterance>
+<utterance uid="20-10"><speaker>BECKETT</speaker><content>Okay. Well, we just needed to check. It's possible that Miss Reed was mistaken.</content></utterance>
+<utterance uid="20-11"><speaker>HELEN PARKER</speaker><content>Did it ever occur to you that maybe she was the one that knew he was lying?</content></utterance>
+<utterance uid="20-12"><speaker>BECKETT</speaker><content>We're considering every scenario.</content></utterance>
+<utterance uid="20-13"><speaker>HELEN PARKER</speaker><content>We got a lot of hang-ups last month. Do you think that's a coincidence?</content></utterance>
+<utterance uid="20-14"><speaker>BECKETT</speaker><content>Did you tell Sam about it?</content></utterance>
+<utterance uid="20-15"><speaker>HELEN PARKER</speaker><content>I did. He said it was telemarketers, but it-- it was her.</content></utterance>
+<utterance uid="20-16"><speaker>BECKETT</speaker><content>How can you be sure?</content></utterance>
+<utterance uid="20-17"><speaker>HELEN PARKER</speaker><content>I know she has our phone number. She's called since Sam was killed.</content></utterance>
+<utterance uid="20-18"><speaker>CASTLE</speaker><content>Sarah called you?</content></utterance>
+<utterance uid="20-19"><speaker>HELEN PARKER</speaker><content>She called about the funeral details. Can you believe that? If she thinks she's gonna show her face here, she is sadly mistaken.</content></utterance>
+<utterance uid="20-20"><speaker>BECKETT</speaker><content>Was that the only time you heard from Sarah?</content></utterance>
+<utterance uid="20-21"><speaker>HELEN PARKER</speaker><content>No. She-- she called this morning and left some ridiculous message about getting things back from Sam that she had given him. And then, on and on about some pen that had been her grandfather's... We were married for ten years and eight months. If she thinks that her six-month affair can hold a candle to that... I'm not giving her anything.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>CASTLE</speaker><content>That was a long drive. I can see why he got the apartment in the city.</content></utterance>
+<utterance uid="21-2"><speaker>ESPOSITO</speaker><content>So, I did some background on Parker's job situation. Turns out that his old employer, Connecticut Solutions, has been circling the drain. Over the last couple of years, they've lost half their market share to his new employer, New York Recycle.</content></utterance>
+<utterance uid="21-3"><speaker>BECKETT</speaker><content>Sounds like Sam was abandoning a sinking ship.</content></utterance>
+<utterance uid="21-4"><speaker>CASTLE</speaker><content>To join the winning team.</content></utterance>
+<utterance uid="21-5"><speaker>ESPOSITO</speaker><content>Supposedly, New York Recycle came up with some new technology that turned out to be a game changer. Apparently, these two CEOs have been major rivals from day one.</content></utterance>
+<utterance uid="21-6"><speaker>CASTLE</speaker><content>Like Bill Gates and Steve Jobs, Kobe and LeBron, Jolie and Aniston.</content></utterance>
+<utterance uid="21-7"><speaker>BECKETT</speaker><content>We get the picture. Rivals.</content></utterance>
+<utterance uid="21-8"><speaker>CASTLE</speaker><content>Yes. My point was maybe that's why Sam faked his resume. He didn't think that New York Recycle would hire him if they knew he was from Connecticut Solutions.</content></utterance>
+<utterance uid="21-9"><speaker>BECKETT</speaker><content>Well, that makes sense.</content></utterance>
+<utterance uid="21-10"><speaker>CASTLE</speaker><content>Thank you.</content></utterance>
+<utterance uid="21-11"><speaker>RYAN</speaker><content>You're kidding me! Uh, thank you. You've been very helpful.  Hey, the warrants just came through on the numbers on Sam's resume. His references' phone numbers, they're all billed and registered to Connecticut Solutions, his old firm.</content></utterance>
+<utterance uid="21-12"><speaker>BECKETT</speaker><content>Okay, why would they set up dummy phone lines and give phony recommendations?</content></utterance>
+<utterance uid="21-13"><speaker>CASTLE</speaker><content>They wanted Sam to get hired.</content></utterance>
+<utterance uid="21-14"><speaker>BECKETT</speaker><content>He wasn't passed over for promotion. He was planted at New York Recycle as a corporate spy.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>LANCE CARLBERG</speaker><content>I'm sorry. I'm just trying to get my head around this idea. I mean, this is the guy who organized the potato sack race at the Labor Day picnic.</content></utterance>
+<utterance uid="22-2"><speaker>BECKETT</speaker><content>Well, there's considerable circumstantial evidence that he was planted here by his former employer. We just don't have the proof yet.</content></utterance>
+<utterance uid="22-3"><speaker>LANCE CARLBERG</speaker><content>Obviously, no one wants to get to the bottom of this more than I do, so you'll have our complete cooperation.</content></utterance>
+<utterance uid="22-4"><speaker>CASTLE</speaker><content>What do you think Connecticut Solutions was after?</content></utterance>
+<utterance uid="22-5"><speaker>LANCE CARLBERG</speaker><content>Well, it's our battery recycling technology. I'm sure you both know you're not supposed to dump your batteries in with your trash. Now batteries need to be disposed of properly, or else the acids and the heavy metals will leach out int...</content></utterance>
+<utterance uid="22-6"><speaker>CASTLE</speaker><content>And get into the water table.</content></utterance>
+<utterance uid="22-7"><speaker>LANCE CARLBERG</speaker><content>Exactly, yes. The problem is, storing battery sludge can be quite expensive. But we've figured out a way to actually recycle the stuff.</content></utterance>
+<utterance uid="22-8"><speaker>CASTLE</speaker><content>So, when you bid on a contract to haul away old batteries, you can do it cheaper.</content></utterance>
+<utterance uid="22-9"><speaker>BECKETT</speaker><content>Which is why Connecticut Solutions lost half of its market share to you.</content></utterance>
+<utterance uid="22-10"><speaker>LANCE CARLBERG</speaker><content>Bottom line is they can't compete.</content></utterance>
+<utterance uid="22-11"><speaker>CASTLE</speaker><content>Was Sarah Reed on the team of engineers that developed that technology?</content></utterance>
+<utterance uid="22-12"><speaker>LANCE CARLBERG</speaker><content>Yeah. That's right.</content></utterance>
+<utterance uid="22-13"><speaker>CASTLE</speaker><content>That's probably why Sam Parker went out of his way to romance her. For access. It's pretty smart.</content></utterance>
+<utterance uid="22-14"><speaker>LANCE CARLBERG</speaker><content>Pardon me, but don't you mean despicable?</content></utterance>
+<utterance uid="22-15"><speaker>CASTLE</speaker><content>The two aren't mutually exclusive.</content></utterance>
+<utterance uid="22-16"><speaker>BECKETT</speaker><content>Would you mind if our forensic IT team took a look at Sarah's computer and Sam's/Jake's as well? They should be able to tell us whether your security was compromised, and whether he got a hold of anything proprietary.</content></utterance>
+<utterance uid="22-17"><speaker>LANCE CARLBERG</speaker><content>Anything we can do to help.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>BECKETT</speaker><content>Okay, thanks.  Forensic IT's taken possession of Sarah and Sam's computers.</content></utterance>
+<utterance uid="23-2"><speaker>CASTLE</speaker><content>You know, there's a lot of corporate secrets I can see sending a spy to steal, but all this skulking around for some battery sludge?</content></utterance>
+<utterance uid="23-3"><speaker>BECKETT</speaker><content>Well, like the man said, it's a business like any other. But whoever runs Connecticut Solutions is gonna have a hell of a lot of explaining to do.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>SARAH REED</speaker><content>Is it true?</content></utterance>
+<utterance uid="24-2"><speaker>BECKETT</speaker><content>Miss Reed?</content></utterance>
+<utterance uid="24-3"><speaker>SARAH REED</speaker><content>What they're saying, is it true?</content></utterance>
+<utterance uid="24-4"><speaker>BECKETT</speaker><content>Look, I can't go into details, but there's evidence that Jake was trying to steal information.</content></utterance>
+<utterance uid="24-5"><speaker>SARAH REED</speaker><content>Then it was all an act?</content></utterance>
+<utterance uid="24-6"><speaker>CASTLE</speaker><content>No, that-- that doesn't mean he didn't care about you.</content></utterance>
+<utterance uid="24-7"><speaker>SARAH REED</speaker><content>That's exactly what it means. He never loved me. He was just using me the whole time.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>FORENSIC IT GUY</speaker><content>This guy was good. He was running a secret e-mail client from inside a hidden partition in his hard drive.</content></utterance>
+<utterance uid="25-2"><speaker>ESPOSITO</speaker><content>English. For my partner here.</content></utterance>
+<utterance uid="25-3"><speaker>FORENSIC IT GUY</speaker><content>He set things up so that he could send e-mails outside the company network in case anyone ever came snooping.</content></utterance>
+<utterance uid="25-4"><speaker>ESPOSITO</speaker><content>What kind of e-mails?</content></utterance>
+<utterance uid="25-5"><speaker>FORENSIC IT GUY</speaker><content>I speak computer. This, however, looks like chemistry.</content></utterance>
+<utterance uid="25-6"><speaker>RYAN</speaker><content>Was he communicating with anyone in particular?</content></utterance>
+<utterance uid="25-7"><speaker>FORENSIC IT GUY</speaker><content>Yeah. All these e-mails were to the same guy. ABerman@conn-sol.net.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>ESPOSITO</speaker><content>Andy Berman, he's the CEO of Connecticut Solutions.</content></utterance>
+<utterance uid="26-2"><speaker>BECKETT</speaker><content>He must've been who Sam was reporting to.</content></utterance>
+<utterance uid="26-3"><speaker>RYAN</speaker><content>They exchanged a bunch of e-mails a couple months ago. Then nothing till the night Sam was killed.</content></utterance>
+<utterance uid="26-4"><speaker>CASTLE</speaker><content>And what'd that one say?</content></utterance>
+<utterance uid="26-5"><speaker>ESPOSITO</speaker><content>"Call me. We need to talk."</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>ANDY BERMAN</speaker><content>Okay, yes, it's true. Sam e-mailed me the other night, and I called him.</content></utterance>
+<utterance uid="27-2"><speaker>BECKETT</speaker><content>From a payphone?</content></utterance>
+<utterance uid="27-3"><speaker>ANDY BERMAN</speaker><content>At a gas station near my house.</content></utterance>
+<utterance uid="27-4"><speaker>CASTLE</speaker><content>Very cloak-and-dagger of you.</content></utterance>
+<utterance uid="27-5"><speaker>ANDY BERMAN</speaker><content>He said he needed to meet me in the city. He said he finally figured out how New York Recycle was pulling it off.</content></utterance>
+<utterance uid="27-6"><speaker>BECKETT</speaker><content>So, you admit that you planted him there to steal their battery technology?</content></utterance>
+<utterance uid="27-7"><speaker>ANDY BERMAN</speaker><content>They've been underbidding us left and right, stealing our business. Getting our hands on their recycling method was a way to level the playing field. They weren't gonna share it, so I offered Sam a million-dollar payday if he could get a hold of it.</content></utterance>
+<utterance uid="27-8"><speaker>CASTLE</speaker><content>And when he called and said he'd completed his mission, you rushed right over.</content></utterance>
+<utterance uid="27-9"><speaker>ANDY BERMAN</speaker><content>The thing about Sam is he and I had been down this road before.</content></utterance>
+<utterance uid="27-10"><speaker>CASTLE</speaker><content>What do you mean? He'd told you he'd found it before?</content></utterance>
+<utterance uid="27-11"><speaker>ANDY BERMAN</speaker><content>I wasted hundreds of thousands on research and development with the stuff he brought me. The chemical formulas were never complete. So, when my engineers tried to fill in the blanks and test them, we failed every time. Finally, we ran out of money, so a couple of months ago, I had to cut Sam loose.</content></utterance>
+<utterance uid="27-12"><speaker>BECKETT</speaker><content>If Sam wasn't working for you, what was he calling about?</content></utterance>
+<utterance uid="27-13"><speaker>ANDY BERMAN</speaker><content>He said he needed to show me something.</content></utterance>
+<utterance uid="27-14"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="27-15"><speaker>ANDY BERMAN</speaker><content>I don't know. I drove into the city to meet him at his apartment, but as I pulled up, there were cops all over the entrance. I got a bad feeling about it, so I turned around, and I drove home.</content></utterance>
+<utterance uid="27-16"><speaker>BECKETT</speaker><content>That's a very interesting story, Mr. Berman, but I have a different ending. One where you went upstairs to Sam's apartment, and he told you that he finally found the real thing. You said so yourself. Your company didn't have the million dollars to pay him. So you did the one thing that you could. You killed him, and you stole it in a desperate attempt to save your sinking company.</content></utterance>
+<utterance uid="27-17"><speaker>ANDY BERMAN</speaker><content>I would like to call my lawyer now, please.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>CASTLE</speaker><content>It was pretty cool, the way you filled in the story there. I think I must be rubbing off on you. That sounded dirtier than I meant it.</content></utterance>
+<utterance uid="28-2"><speaker>ESPOSITO</speaker><content>Yo, Beckett. Dispatch just got a call out of Connecticut. New Haven PD have two women involved in an altercation.</content></utterance>
+<utterance uid="28-3"><speaker>CASTLE</speaker><content>Speaking of dirty.</content></utterance>
+<utterance uid="28-4"><speaker>RYAN</speaker><content>And the ladies in question are asking for you before they're taken in for booking.</content></utterance>
+<utterance uid="28-5"><speaker>BECKETT</speaker><content>For me? Why? Oh, no.</content></utterance>
+<utterance uid="28-6"><speaker>RYAN</speaker><content>Oh, yes. They're holding Helen Parker for assault and Sarah Reed for trespassing.</content></utterance>
+<utterance uid="28-7"><speaker>CASTLE</speaker><content>A wife and fiancée catfight. Please tell me we can stop for popcorn on the way.</content></utterance>
+<utterance uid="28-8"><speaker>RYAN</speaker><content> Castle.  Pictures.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>UNIFORM</speaker><content>Miss Reed was trespassing in the detached office. When Mrs. Parker confronted her, an altercation ensued.</content></utterance>
+<utterance uid="29-2"><speaker>SARAH REED</speaker><content>She tried to rip my purse off my arm, almost dislocated my shoulder.</content></utterance>
+<utterance uid="29-3"><speaker>BECKETT</speaker><content>Miss Reed, what were you doing in the Parkers' office?</content></utterance>
+<utterance uid="29-4"><speaker>SARAH REED</speaker><content>She wouldn't give me back my pen.</content></utterance>
+<utterance uid="29-5"><speaker>CASTLE</speaker><content>Your pen?</content></utterance>
+<utterance uid="29-6"><speaker>SARAH REED</speaker><content>My grandfather's fountain pen. I gave it to Jake.</content></utterance>
+<utterance uid="29-7"><speaker>HELEN PARKER</speaker><content>Sam! His name was Sam!</content></utterance>
+<utterance uid="29-8"><speaker>SARAH REED</speaker><content>I gave it to him before I knew he was a lying sack. And she wouldn't give it back to me.</content></utterance>
+<utterance uid="29-9"><speaker>HELEN PARKER</speaker><content>I looked for it in the office. There was nothing there. I have no idea what she's talking about.</content></utterance>
+<utterance uid="29-10"><speaker>SARAH REED</speaker><content>Oh, really? Well, then what do you call this?</content></utterance>
+<utterance uid="29-11"><speaker>CASTLE</speaker><content>That was in the office?</content></utterance>
+<utterance uid="29-12"><speaker>SARAH REED</speaker><content>Yes, it was right there in the drawer. How she could have missed it, I don't know. Unless of course, she was lying and never bothered to look.</content></utterance>
+<utterance uid="29-13"><speaker>BECKETT</speaker><content>Miss Reed, I understand how you're feeling, but breaking into someone's home...</content></utterance>
+<utterance uid="29-14"><speaker>SARAH REED</speaker><content>No, this is my grandfather's pen. I never would've given it to Jake if I had known.</content></utterance>
+<utterance uid="29-15"><speaker>CASTLE</speaker><content>Ladies, I'm wondering if maybe we can put this whole nasty episode behind us.</content></utterance>
+<utterance uid="29-16"><speaker>HELEN PARKER</speaker><content>She broke into my house. God knows what else she stole.</content></utterance>
+<utterance uid="29-17"><speaker>BECKETT</speaker><content>Do you mind if I take a look at the purse?</content></utterance>
+<utterance uid="29-18"><speaker>SARAH REED</speaker><content>Not at all.</content></utterance>
+<utterance uid="29-19"><speaker>SARAH REED</speaker><content>Happy now?</content></utterance>
+<utterance uid="29-20"><speaker>BECKETT</speaker><content>Is everyone okay? Can we all just walk away?</content></utterance>
+<utterance uid="29-21"><speaker>HELEN PARKER</speaker><content>If I ever catch your face around here...</content></utterance>
+<utterance uid="29-22"><speaker>SARAH REED</speaker><content>For crying out loud, give it a rest. No wonder the guy had an ulcer. I would, too, if I was married to you.</content></utterance>
+<utterance uid="29-23"><speaker>HELEN PARKER</speaker><content>An ulcer? What are you talking about, you crazy lunatic?</content></utterance>
+<utterance uid="29-24"><speaker>SARAH REED</speaker><content>Do not call me crazy...</content></utterance>
+<utterance uid="29-25"><speaker>BECKETT</speaker><content>Look! Look! Hello! Ladies, look!</content></utterance>
+<utterance uid="29-26"><speaker>BECKETT</speaker><content>I understand that you're both angry and feeling betrayed, but taking it out on each other isn't going to help. So, you can both press charges and make a bad thing worse. Or you can calm down and walk away. Option number two is a limited time offer.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>ALEXIS</speaker><content>Love you.</content></utterance>
+<utterance uid="30-2"><speaker>CASTLE</speaker><content>See you.</content></utterance>
+<utterance uid="30-3"><speaker>CASTLE</speaker><content>Please tell me you did not sleep in the break room again.</content></utterance>
+<utterance uid="30-4"><speaker>BECKETT</speaker><content>I went home. I just couldn't stop thinking about that catfight last night.</content></utterance>
+<utterance uid="30-5"><speaker>CASTLE</speaker><content>Ooh. Would you think less of me if I said, "Me, too"?</content></utterance>
+<utterance uid="30-6"><speaker>BECKETT</speaker><content>I kept thinking that, that was a long way for Sarah to go just to pick up that pen. And that whole thing with the ulcers was...</content></utterance>
+<utterance uid="30-7"><speaker>CASTLE</speaker><content>Oh, I know. That was a great Desperate Housewives moment, the way Sarah just rubbed Helen's face in it.</content></utterance>
+<utterance uid="30-8"><speaker>BECKETT</speaker><content>The thing is, there was nothing about an ulcer in Lanie's autopsy report. Sam had a clean bill of health.</content></utterance>
+<utterance uid="30-9"><speaker>CASTLE</speaker><content>Then what was Sarah talking about?</content></utterance>
+<utterance uid="30-10"><speaker>BECKETT</speaker><content>The boys are looking into it right now. But according to Sam's date book, he had doctor's appointments every Tuesday for the last three weeks.</content></utterance>
+<utterance uid="30-11"><speaker>CASTLE</speaker><content>Well, if he was being a hypochondriac about it, they would've told him right away he didn't have an ulcer.</content></utterance>
+<utterance uid="30-12"><speaker>BECKETT</speaker><content>So, what was he doing every Tuesday at 1 p.m.?</content></utterance>
+<utterance uid="30-13"><speaker>CASTLE</speaker><content>Another woman?</content></utterance>
+<utterance uid="30-14"><speaker>ESPOSITO</speaker><content>So, the doctor's office has no patient records for Sam Parker or Jake Holland.</content></utterance>
+<utterance uid="30-15"><speaker>RYAN</speaker><content>Car service Sam was using confirmed that he gave the doctor's office as his destination when he was scheduling the cars.</content></utterance>
+<utterance uid="30-16"><speaker>RYAN</speaker><content>Oh, thanks, Louise. - But I talked to the drivers. Sam changed the destination once they picked him up. First week, he headed out to this residential address out in Long Island. The next week he drove out to New York Recycle's processing plant up in Paramus. And then, last week, he hit the port out in Newark.</content></utterance>
+<utterance uid="30-17"><speaker>ESPOSITO</speaker><content>Sam wouldn't have wanted Sarah to get onto his 007 routine, so maybe he was slipping away to do his spying.</content></utterance>
+<utterance uid="30-18"><speaker>BECKETT</speaker><content>At some house in Long Island?</content></utterance>
+<utterance uid="30-19"><speaker>CASTLE</speaker><content>So, another woman?</content></utterance>
+<utterance uid="30-20"><speaker>BECKETT</speaker><content>She and Sam were taking long romantic walks at Port Newark.</content></utterance>
+<utterance uid="30-21"><speaker>CASTLE</speaker><content>Why you gotta ruin the dream?</content></utterance>
+<utterance uid="30-22"><speaker>BECKETT</speaker><content>Listen, Sam was changing his destination last minute with the car service because he was trying to hide something. So, let's look in the addresses and see why he felt the need to give Sarah a cover story.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>CASTLE</speaker><content>State law requires a ten minute break every five hours.</content></utterance>
+<utterance uid="31-2"><speaker>ALEXIS</speaker><content>Thanks, Dad. I needed this.</content></utterance>
+<utterance uid="31-3"><speaker>CASTLE</speaker><content>So, how goes your property room sleuthing?</content></utterance>
+<utterance uid="31-4"><speaker>ALEXIS</speaker><content>Not amazing.</content></utterance>
+<utterance uid="31-5"><speaker>CASTLE</speaker><content>Oh, no. What happened to that, uh, list of detectives Beckett gave you?</content></utterance>
+<utterance uid="31-6"><speaker>ALEXIS</speaker><content>I just hit my last dead end.</content></utterance>
+<utterance uid="31-7"><speaker>CASTLE</speaker><content>Well, what's important is, is that you tried.</content></utterance>
+<utterance uid="31-8"><speaker>ALEXIS</speaker><content>I know. I just really wanted to get those pictures back to the victim's family. I mean, I'd want them if they were pictures that you'd carried around.</content></utterance>
+<utterance uid="31-9"><speaker>CASTLE</speaker><content>If you are imagining a scenario where I am no longer here, and watching over your every more, and protecting you from every danger, I can assure you that will never happen.</content></utterance>
+<utterance uid="31-10"><speaker>ALEXIS</speaker><content>I'm just saying I think it's important.</content></utterance>
+<utterance uid="31-11"><speaker>CASTLE</speaker><content>No, you're right. But remember, there's a reason why a lot of this stuff goes unclaimed.</content></utterance>
+<utterance uid="31-12"><speaker>ALEXIS</speaker><content>I guess I just need to focus on cataloging for the rest of my time here.</content></utterance>
+<utterance uid="31-13"><speaker>CASTLE</speaker><content>And before you know it, you'll be retired from law enforcement and back in the 11th grade.</content></utterance>
+<utterance uid="31-14"><speaker>ALEXIS</speaker><content>Thanks, Dad.</content></utterance>
+<utterance uid="31-15"><speaker>CASTLE</speaker><content>For what? You're welcome.</content></utterance>
+<utterance uid="31-16"><speaker>ALEXIS</speaker><content>You just gave me a new lead.</content></utterance>
+<utterance uid="31-17"><speaker>CASTLE</speaker><content>So, I'll finish your cocoa.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>BECKETT</speaker><content>Two relationships. Can you imagine the stress of trying to pull that off?</content></utterance>
+<utterance uid="32-2"><speaker>CASTLE</speaker><content>Yes. Uh, from a literary point of view.</content></utterance>
+<utterance uid="32-3"><speaker>BECKETT</speaker><content>Hey, what'd you guys find?</content></utterance>
+<utterance uid="32-4"><speaker>RYAN</speaker><content>Well, we canvassed using a picture. We came up with a longshoreman in Port Newark who remembered Sam. Apparently, he'd been asking about shipping manifests.</content></utterance>
+<utterance uid="32-5"><speaker>CASTLE</speaker><content>Sounds random.</content></utterance>
+<utterance uid="32-6"><speaker>ESPOSITO</speaker><content>The longshoreman couldn't help him, so Sam moved on.</content></utterance>
+<utterance uid="32-7"><speaker>BECKETT</speaker><content>What about the address from the first Tuesday?</content></utterance>
+<utterance uid="32-8"><speaker>RYAN</speaker><content>Oh, here is where it gets good. The Long Island address is the residence of a single mother, Laura Branston, and her 6-year-old daughter.</content></utterance>
+<utterance uid="32-9"><speaker>CASTLE</speaker><content>I told you. It was another woman. Our love triangle just became a love square.</content></utterance>
+<utterance uid="32-10"><speaker>RYAN</speaker><content>Nope. Still a triangle. Different name. But that's...</content></utterance>
+<utterance uid="32-11"><speaker>BECKETT</speaker><content>The fiancée, Sarah Reed.</content></utterance>
+<utterance uid="32-12"><speaker>CASTLE</speaker><content>Well, it look like Sam wasn't the only one hiding his identity.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>BECKETT</speaker><content>The engagement, the relationship. We know they were all fake. Love is a hard thing to disprove, Detective Beckett. This is a copy of your real driver's license, and this is your Social Security card. And this is the employment record from New York Recycle under an assumed identity.</content></utterance>
+<utterance uid="33-2"><speaker>LAURA BRANSTON</speaker><content>Nothing like a fresh start.</content></utterance>
+<utterance uid="33-3"><speaker>CASTLE</speaker><content>We did a little digging. Turns out, New York Recycle isn't the first company you've worked for under a new identity.</content></utterance>
+<utterance uid="33-4"><speaker>LAURA BRANSTON</speaker><content>A girl's gotta make a living.</content></utterance>
+<utterance uid="33-5"><speaker>BECKETT</speaker><content>Here's what I'm thinking. Lance Carlberg figured out that Sam was a spy. He contacted you, an expert in corporate espionage, and asked you to intercept him.</content></utterance>
+<utterance uid="33-6"><speaker>LAURA BRANSTON</speaker><content>I was just doing my job. Leading a man on isn't a crime, is it, Detective?</content></utterance>
+<utterance uid="33-7"><speaker>CASTLE</speaker><content>Should be.</content></utterance>
+<utterance uid="33-8"><speaker>BECKETT</speaker><content>I'm not looking into the leading-on part. I'm looking into a murder. And you had access to Sam's apartment. And you were hired to take care of him.</content></utterance>
+<utterance uid="33-9"><speaker>LAURA BRANSTON</speaker><content>I was hired to get in his way. It was supposed to look like I had access to classified information, so when I struck up a flirtation, he thought the relationship would give him the access he needed.</content></utterance>
+<utterance uid="33-10"><speaker>BECKETT</speaker><content>Once you had the relationship, what was the plan?</content></utterance>
+<utterance uid="33-11"><speaker>LAURA BRANSTON</speaker><content>I just had to leave my laptop lying around his apartment once or twice. My key card ended up in his laundry one weekend. Men think they're smart. The trick is to keep letting them think it.</content></utterance>
+<utterance uid="33-12"><speaker>BECKETT</speaker><content>Um... So, what was on the computer?</content></utterance>
+<utterance uid="33-13"><speaker>LAURA BRANSTON</speaker><content>Lance was feeding Sam these partial chemical formulas. He thought it would keep Connecticut Solutions going in circles.</content></utterance>
+<utterance uid="33-14"><speaker>CASTLE</speaker><content>Why not just fire him?</content></utterance>
+<utterance uid="33-15"><speaker>LAURA BRANSTON</speaker><content>Why not kill two birds with one stone? Keep the enemy close and run Connecticut into the ground.</content></utterance>
+<utterance uid="33-16"><speaker>CASTLE</speaker><content>And what makes you think that Sam was falling for your routine?</content></utterance>
+<utterance uid="33-17"><speaker>LAURA BRANSTON</speaker><content>Well, I wondered at first, because he wouldn't sleep with me. And then I realized that he was being faithful to his wife, so I pretended to buy his whole "I'm old-fashioned" thing. He thought he was playing me.</content></utterance>
+<utterance uid="33-18"><speaker>BECKETT</speaker><content>He was. This is Sam's autopsy report.</content></utterance>
+<utterance uid="33-19"><speaker>CASTLE</speaker><content>Hmm. Sam didn't have an ulcer.</content></utterance>
+<utterance uid="33-20"><speaker>LAURA BRANSTON</speaker><content>He was seeing a doctor for it.</content></utterance>
+<utterance uid="33-21"><speaker>CASTLE</speaker><content>No. That was just a story. He made you.</content></utterance>
+<utterance uid="33-22"><speaker>LAURA BRANSTON</speaker><content>No way. I would've been able to tell.</content></utterance>
+<utterance uid="33-23"><speaker>CASTLE</speaker><content>Oh, I hate to burst this little Alias bubble you got going on, but Sam found your house in Long Island. He knew you were more than just a flirty engineer.</content></utterance>
+<utterance uid="33-24"><speaker>BECKETT</speaker><content>He played along not to arouse suspicion, but I think you already knew that. You knew that he made you, and that he found the secret method. And that's why you killed him.</content></utterance>
+<utterance uid="33-25"><speaker>LAURA BRANSTON</speaker><content>I think that sounds like a great Spry versus Spy story, but there is one problem. The night Sam was killed, I was at my daughter's recital, and there's about 20 other parents that can vouch for that.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>CASTLE</speaker><content>I like her. For the murder. See that crazy look in her eye? That's crazy killer look.</content></utterance>
+<utterance uid="34-2"><speaker>ESPOSITO</speaker><content>Yo. Sarah's alibi checks out. Dance teacher puts her in the front row at the time of the murder.</content></utterance>
+<utterance uid="34-3"><speaker>CASTLE</speaker><content>She's still got crazy eyes.</content></utterance>
+<utterance uid="34-4"><speaker>BECKETT</speaker><content>He never loved her, she never loved him, and they both thought that they were playing each other.</content></utterance>
+<utterance uid="34-5"><speaker>RYAN</speaker><content>Which still doesn't explain who killed him.</content></utterance>
+<utterance uid="34-6"><speaker>BECKETT</speaker><content>We're missing something.</content></utterance>
+<utterance uid="34-7"><speaker>CASTLE</speaker><content>The pen. If Sarah's relationship with Sam was a fake...</content></utterance>
+<utterance uid="34-8"><speaker>BECKETT</speaker><content>Then why did she give him her grandfather's special pen?</content></utterance>
+<utterance uid="34-9"><speaker>CASTLE</speaker><content>And what was Sarah really looking for in Sam's office last night?</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>BECKETT</speaker><content>Nothing. This doesn't make any sense. We went through Sarah's purse. If there was something in it, we would have found it. Castle, what are you doing?</content></utterance>
+<utterance uid="35-2"><speaker>CASTLE</speaker><content>I'm writing a scene. Let's say Sarah found what it was she was looking for. She had it in her hand. That's when she would've heard Helen coming out of the house. She would have had to have gotten rid of whatever it was that she found.</content></utterance>
+<utterance uid="35-3"><speaker>BECKETT</speaker><content>Great. You wanna write the part where we find it?</content></utterance>
+<utterance uid="35-4"><speaker>CASTLE</speaker><content>So Helen would never know. Ah. What do you know?</content></utterance>
+<utterance uid="35-5"><speaker>CASTLE</speaker><content>Power mode is still on. We're gonna need some tape.</content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>ESPOSITO</speaker><content>These are the pics that our vic took while he was supposedly at the doctor.</content></utterance>
+<utterance uid="36-2"><speaker>RYAN</speaker><content>According to New York Recycle, they ship their battery sludge up to the recycling plant in Paramus.</content></utterance>
+<utterance uid="36-3"><speaker>CASTLE</speaker><content>You don't need a boat to get to Paramus.</content></utterance>
+<utterance uid="36-4"><speaker>MONTGOMERY</speaker><content>Secret method, my ass. They weren't processing it. They were switching labels and dumping it.</content></utterance>
+</scene>
+<scene id="37"><utterance uid="37-1"><speaker>CASTLE</speaker><content>That Sam was quite the Erin Brockovich, wasn't he?</content></utterance>
+<utterance uid="37-2"><speaker>BECKETT</speaker><content>There was no secret method to battery recycling. You shipped the sludge out on cargo barges and dumped it in the ocean.</content></utterance>
+<utterance uid="37-3"><speaker>CASTLE</speaker><content>The money you saved on storage and processing, you just put into your own pocket instead.</content></utterance>
+<utterance uid="37-4"><speaker>LANCE CARLBERG</speaker><content>Listen, I know my rights. And I don't have to say anything.</content></utterance>
+<utterance uid="37-5"><speaker>BECKETT</speaker><content>You sold the bill of goods to your customers. You promised them that they were gonna help save the world. Instead, you poisoned it for money.</content></utterance>
+<utterance uid="37-6"><speaker>CASTLE</speaker><content>What happened, Carlberg? Sam confront you? Threaten to ruin you?</content></utterance>
+<utterance uid="37-7"><speaker>LANCE CARLBERG</speaker><content>I didn't kill anyone. And you, you have no proof.</content></utterance>
+<utterance uid="37-8"><speaker>BECKETT</speaker><content>Actually, I do.</content></utterance>
+<utterance uid="37-9"><speaker>BECKETT</speaker><content>We ran ballistics. It's a match.</content></utterance>
+<utterance uid="37-10"><speaker>CASTLE</speaker><content>We found it in the dumpster outside your apartment building. Had you recycled, you might have gotten away with it.</content></utterance>
+</scene>
+<scene id="38"><utterance uid="38-1"><speaker>BECKETT</speaker><content>The night that your husband was murdered, he went back to his office to grab the last few pieces of evidence he had collected. And by then Carlberg had already become suspicious.</content></utterance>
+<utterance uid="38-2"><speaker>CASTLE</speaker><content>When he realized that your husband was contacting his old boss for help in exposing his company, Carlberg attempted to buy his silence. But Sam wouldn't accept the bribe.</content></utterance>
+<utterance uid="38-3"><speaker>HELEN PARKER</speaker><content>Of course not. Not Sam.</content></utterance>
+<utterance uid="38-4"><speaker>BECKETT</speaker><content>You said that the environment was the most important thing to your husband. Well, he died trying to save it. And we thought that you should know that.</content></utterance>
+<utterance uid="38-5"><speaker>HELEN PARKER</speaker><content>Thank you.</content></utterance>
+</scene>
+<scene id="39"><utterance uid="39-1"><speaker>CASTLE</speaker><content>Hey.</content></utterance>
+<utterance uid="39-2"><speaker>BECKETT</speaker><content>Hey.</content></utterance>
+<utterance uid="39-3"><speaker>CASTLE</speaker><content>Check it out.</content></utterance>
+<utterance uid="39-4"><speaker>CASTLE</speaker><content>The EPA is shutting down New York Recycle.</content></utterance>
+<utterance uid="39-5"><speaker>BECKETT</speaker><content>Beckett. Anna Noles? No, I don't know any Anna Noles.</content></utterance>
+<utterance uid="39-6"><speaker>ALEXIS</speaker><content>I do.</content></utterance>
+<utterance uid="39-7"><speaker>BECKETT</speaker><content>Uh, yeah. Send her up.</content></utterance>
+<utterance uid="39-8"><speaker>CASTLE</speaker><content>So, who's Anna Noles?</content></utterance>
+<utterance uid="39-9"><speaker>ALEXIS</speaker><content>The pictures I found belonged to her mother.</content></utterance>
+<utterance uid="39-10"><speaker>BECKETT</speaker><content>Really? How'd you track them down?</content></utterance>
+<utterance uid="39-11"><speaker>ALEXIS</speaker><content>It was something you said, Dad. About me retiring from law enforcement. It got me thinking, what if the officer who had originally worked the case had since retired?</content></utterance>
+<utterance uid="39-12"><speaker>BECKETT</speaker><content>Nice work. I'm very impressed you were able to close this case.</content></utterance>
+<utterance uid="39-13"><speaker>ALEXIS</speaker><content>Thank you. I mean, I know it's not like the important stuff you do. But I...</content></utterance>
+<utterance uid="39-14"><speaker>BECKETT</speaker><content>You know, when a person loses someone, this is important.</content></utterance>
+<utterance uid="39-15"><speaker>CASTLE</speaker><content>I bet that's her.</content></utterance>
+<utterance uid="39-16"><speaker>BECKETT</speaker><content>You know, maybe you should talk to her.</content></utterance>
+<utterance uid="39-17"><speaker>ALEXIS</speaker><content>Thank you.</content></utterance>
+<utterance uid="39-18"><speaker>CASTLE</speaker><content>She's a chip off the old block, isn't she?</content></utterance>
+</scene>
+</script>

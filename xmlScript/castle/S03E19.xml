@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>JOE MCUSIC</speaker><content>Help me! Help me! Help-- me--</content></utterance>
+<utterance uid="1-2"><speaker>JUDGE FITZ</speaker><content>Order. Order! Call the paramedics.</content></utterance>
+<utterance uid="1-3"><speaker>MAN</speaker><content>Come here and help.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>CASTLE</speaker><content>Are you trying to kill me? What's in this?</content></utterance>
+<utterance uid="2-2"><speaker>MARTHA</speaker><content>Everything you need for a healthier and longer life.</content></utterance>
+<utterance uid="2-3"><speaker>CASTLE</speaker><content>What is the sense in living longer if you have to drink that?</content></utterance>
+<utterance uid="2-4"><speaker>MARTHA</speaker><content>Ah, that's the stuff.</content></utterance>
+<utterance uid="2-5"><speaker>CASTLE</speaker><content>Ugh.</content></utterance>
+<utterance uid="2-6"><speaker>ALEXIS</speaker><content>Good morning.</content></utterance>
+<utterance uid="2-7"><speaker>MARTHA</speaker><content>Good morning, darling.</content></utterance>
+<utterance uid="2-8"><speaker>CASTLE</speaker><content>Hey. Hey, why aren't you in school?</content></utterance>
+<utterance uid="2-9"><speaker>ALEXIS</speaker><content>It's faculty development day.</content></utterance>
+<utterance uid="2-10"><speaker>CASTLE</speaker><content>Perfect, because do you know what's playing at the Angelika? Forbidden Planet, Leslie Nielsen long before his comic glory. Do you remember how much you used to love this?</content></utterance>
+<utterance uid="2-11"><speaker>ALEXIS</speaker><content>Mm-hmm.</content></utterance>
+<utterance uid="2-12"><speaker>CASTLE</speaker><content>Want to go with me?</content></utterance>
+<utterance uid="2-13"><speaker>ALEXIS</speaker><content>I'm sorry, I can't. I made plans to spend the day in the Village.</content></utterance>
+<utterance uid="2-14"><speaker>ALEXIS</speaker><content>Mm, delicious. Um, bye, Grams.</content></utterance>
+<utterance uid="2-15"><speaker>MARTHA</speaker><content>Thank you.</content></utterance>
+<utterance uid="2-16"><speaker>ALEXIS</speaker><content>Bye, Dad.</content></utterance>
+<utterance uid="2-17"><speaker>CASTLE</speaker><content>Bye.</content></utterance>
+<utterance uid="2-18"><speaker>MARTHA</speaker><content>Ahh.</content></utterance>
+<utterance uid="2-19"><speaker>CASTLE</speaker><content>Mother, did you see that? Alexis lied.</content></utterance>
+<utterance uid="2-20"><speaker>MARTHA</speaker><content>She did not. She loves my breakfast smoothies.</content></utterance>
+<utterance uid="2-21"><speaker>CASTLE</speaker><content>No, no. Not about that. About where she's going today. Her nose crinkled. That's her tell.</content></utterance>
+<utterance uid="2-22"><speaker>MARTHA</speaker><content>Oh, honey, come on. This is not the World Series of Poker.</content></utterance>
+<utterance uid="2-23"><speaker>CASTLE</speaker><content>I'm telling you, she's up to something. What about you? You want to go to the movies?</content></utterance>
+<utterance uid="2-24"><speaker>MARTHA</speaker><content>No can do, kiddo. Got to meet with my contractor at the studio.</content></utterance>
+<utterance uid="2-25"><speaker>CASTLE</speaker><content>Well, then it looks like I'm going by myself.</content></utterance>
+<utterance uid="2-26"><speaker>CASTLE</speaker><content>Or maybe...not at all.  For Richard Castle, press one.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>CASTLE</speaker><content>Hey.</content></utterance>
+<utterance uid="3-2"><speaker>BECKETT</speaker><content>Hey.</content></utterance>
+<utterance uid="3-3"><speaker>CASTLE</speaker><content>Why were there news vans out front?</content></utterance>
+<utterance uid="3-4"><speaker>BECKETT</speaker><content>Because of who our victim is. Joe McUsic.</content></utterance>
+<utterance uid="3-5"><speaker>CASTLE</speaker><content>Who?</content></utterance>
+<utterance uid="3-6"><speaker>BECKETT</speaker><content>Juror Number Seven in the Lila Addison case.</content></utterance>
+<utterance uid="3-7"><speaker>CASTLE</speaker><content>The Addison case! Seriously, what happened?</content></utterance>
+<utterance uid="3-8"><speaker>BECKETT</speaker><content>He dropped dead during the closing argument. Lanie thinks that he was poisoned.</content></utterance>
+<utterance uid="3-9"><speaker>CASTLE</speaker><content>Heir to the Addison fortune is murdered and, during the trial, a juror is murdered as well. This has all the makings of a John Grisham novel.</content></utterance>
+<utterance uid="3-10"><speaker>BECKETT</speaker><content>What are you doing?</content></utterance>
+<utterance uid="3-11"><speaker>CASTLE</speaker><content>I'm, uh, texting my poker group, calling dibs on this story.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>LANIE</speaker><content>It was poison, all right. Pink lividity, the smell of bitter almonds. Test strip came back positive for cyanide.</content></utterance>
+<utterance uid="4-2"><speaker>CASTLE</speaker><content>Cyanide? That is fantastic.</content></utterance>
+<utterance uid="4-3"><speaker>CASTLE</speaker><content>Unless you're the juror.</content></utterance>
+<utterance uid="4-4"><speaker>LANIE</speaker><content>There were no puncture marks on the body, so it was ingested.</content></utterance>
+<utterance uid="4-5"><speaker>BECKETT</speaker><content>That's an odd way to kill.</content></utterance>
+<utterance uid="4-6"><speaker>CASTLE</speaker><content>Not for Nazis or evil dictators.</content></utterance>
+<utterance uid="4-7"><speaker>BECKETT</speaker><content>How did he ingest it?</content></utterance>
+<utterance uid="4-8"><speaker>LANIE</speaker><content>Brownish stains in his mouth indicate he recently had coffee. Maybe it was in there.</content></utterance>
+<utterance uid="4-9"><speaker>BECKETT</speaker><content>After he consumed the poison, how long before he died?</content></utterance>
+<utterance uid="4-10"><speaker>LANIE</speaker><content>No more than fifteen minutes. According to the court clerk, Mr. McUsic arrived this morning at 8:37, and died at approximately 9:13.</content></utterance>
+<utterance uid="4-11"><speaker>BECKETT</speaker><content>Fifteen minutes. That means that he was poisoned at the courthouse.</content></utterance>
+<utterance uid="4-12"><speaker>CASTLE</speaker><content>Mm-hmm. And who benefits from a dead juror?</content></utterance>
+<utterance uid="4-13"><speaker>BECKETT</speaker><content>The defendant.</content></utterance>
+<utterance uid="4-14"><speaker>CASTLE</speaker><content>Then we agree.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>RYAN</speaker><content>The defendant. Otis Williams. This guy's a real dirt bag's dirt bag.</content></utterance>
+<utterance uid="5-2"><speaker>BECKETT</speaker><content>Grand theft auto, aggravated assault, attempted murder.</content></utterance>
+<utterance uid="5-3"><speaker>CASTLE</speaker><content>Dirt bag trifecta. Which means, if convicted, he'd go away for a long time.</content></utterance>
+<utterance uid="5-4"><speaker>ESPOSITO</speaker><content>Life without parole. I bet the D.A. would ask for the needle if New York still had the death penalty.</content></utterance>
+<utterance uid="5-5"><speaker>RYAN</speaker><content>They caught him in a stolen car with Lila Addison's body in the trunk. They got his fingerprints, traces of the victim's blood. This guy's way past guilty.</content></utterance>
+<utterance uid="5-6"><speaker>CASTLE</speaker><content>So, this is jury intimidation at its finest. You kill a juror, you not only guarantee a mistrial, but it also serves as a warning for any future jurors on a retrial. I mean, who wants to serve on a jury if there's a chance of being killed?</content></utterance>
+<utterance uid="5-7"><speaker>RYAN</speaker><content>But we know Otis didn't do it. He's been incarcerated since his arrest.</content></utterance>
+<utterance uid="5-8"><speaker>BECKETT</speaker><content>He might've had an accomplice. Whoever poisoned Joe McUsic somehow did it in this building fifteen minutes before he died.</content></utterance>
+<utterance uid="5-9"><speaker>RYAN</speaker><content>I'll get with security, pull the surveillance footage from all the corridors and common rooms.</content></utterance>
+<utterance uid="5-10"><speaker>ESPOSITO</speaker><content>I'll talk to the jurors. Someone might've seen something.</content></utterance>
+<utterance uid="5-11"><speaker>BECKETT</speaker><content>All right.</content></utterance>
+<utterance uid="5-12"><speaker>BECKETT</speaker><content>Why don't we what Mr. Otis Williams has to say for himself? Counselor! Detective Beckett.  I'd like to speak with your client.</content></utterance>
+<utterance uid="5-13"><speaker>ATTORNEY NICK KELLER</speaker><content>Detective, anything we have to say about Lila Addison, we've said during the trial.</content></utterance>
+<utterance uid="5-14"><speaker>BECKETT</speaker><content>I'm not here about Miss Addison. I'm here about Juror Number Seven.</content></utterance>
+<utterance uid="5-15"><speaker>ATTORNEY NICK KELLER</speaker><content>Okay, what about him?</content></utterance>
+<utterance uid="5-16"><speaker>BECKETT</speaker><content>He was murdered.</content></utterance>
+<utterance uid="5-17"><speaker>ATTORNEY NICK KELLER</speaker><content>Murdered? I thought he died of a seizure or some other natural cause.</content></utterance>
+<utterance uid="5-18"><speaker>CASTLE</speaker><content>There's nothing natural about cyanide poisoning.</content></utterance>
+<utterance uid="5-19"><speaker>ATTORNEY NICK KELLER</speaker><content>Okay, look. My client doesn't know anything about that, and there's no way I'm letting him talk to you. Now, if you'll excuse us, we're due in court. Let's go.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>JUDGE FITZ</speaker><content>In light of the shocking circumstances of Juror Number Seven's death, it is my belief that this particular jury is no longer capable of reaching a fair verdict. Therefore, I have no choice but to declare a mistrial.</content></utterance>
+<utterance uid="6-2"><speaker>JUDGE FITZ</speaker><content>Noted. Until then, Mr. Williams will be remanded. This hearing is adjourned.</content></utterance>
+<utterance uid="6-3"><speaker>RANDOLPH ADDISON</speaker><content>You call this justice, Your Honor?! After what he did to my daughter?!</content></utterance>
+<utterance uid="6-4"><speaker>RANDOLPH ADDISON</speaker><content>You monster.</content></utterance>
+<utterance uid="6-5"><speaker>STEPHEN ADDISON</speaker><content>Dad! Dad. Don't. Let's go home.</content></utterance>
+<utterance uid="6-6"><speaker>CASTLE</speaker><content>Looks like Otis's plan is working.</content></utterance>
+<utterance uid="6-7"><speaker>BECKETT</speaker><content>Yeah, for now.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>BECKETT</speaker><content>Ryan, you find anything yet?</content></utterance>
+<utterance uid="7-2"><speaker>RYAN</speaker><content>Not yet. The building has a lot of cameras. Even though we have a very narrow time frame, it's gonna take a couple hours to get through all of it.</content></utterance>
+<utterance uid="7-3"><speaker>ESPOSITO</speaker><content>Maybe we're wrong about the defendant. Maybe we should be looking at a juror.</content></utterance>
+<utterance uid="7-4"><speaker>BECKETT</speaker><content>What do you mean?</content></utterance>
+<utterance uid="7-5"><speaker>ESPOSITO</speaker><content>Tony Mueller, Juror Number Four. He's been missing since the murder. He was no show for one of our interviews, he's not answering his cell, and neighbors saw him leave his apartment with an overnight bag.</content></utterance>
+<utterance uid="7-6"><speaker>BECKETT</speaker><content>All right, keep an eye out for him on the video.</content></utterance>
+<utterance uid="7-7"><speaker>ESPOSITO</speaker><content>I already got an APB out on him.</content></utterance>
+<utterance uid="7-8"><speaker>BECKETT</speaker><content>Oh, you do?</content></utterance>
+<utterance uid="7-9"><speaker>ESPOSITO</speaker><content>Mm-hmm.</content></utterance>
+<utterance uid="7-10"><speaker>BECKETT</speaker><content>Good.</content></utterance>
+<utterance uid="7-11"><speaker>MONTGOMERY</speaker><content>Beckett. The brother of your dead juror's here.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>EDDIE MCUSIC</speaker><content>Thought courtrooms were supposed to be safe.</content></utterance>
+<utterance uid="8-2"><speaker>BECKETT</speaker><content>I'm so sorry, Mr. McUsic. We're doing everything we can to figure it out.</content></utterance>
+<utterance uid="8-3"><speaker>EDDIE MCUSIC</speaker><content>Man, who would want to hurt Joe?</content></utterance>
+<utterance uid="8-4"><speaker>BECKETT</speaker><content>Well, you know, it might not have to do with your brother. It might have to do with the jury that he served on. Did you know that he was assigned to the Addison trial?</content></utterance>
+<utterance uid="8-5"><speaker>EDDIE MCUSIC</speaker><content>No. No, I just knew he had jury duty.</content></utterance>
+<utterance uid="8-6"><speaker>BECKETT</speaker><content>Can you think of any reasons why your brother might've been biased either toward or against the defendant?</content></utterance>
+<utterance uid="8-7"><speaker>EDDIE MCUSIC</speaker><content>When he was a kid, my brother had a few scrapes with the law. But he cleaned his life up. He believed in second chances. That's why he ran the halfway house. What he didn't believe in were third, fourth, fifth chances. He'd been out there long enough to know some folks can't be rehabilitated.</content></utterance>
+<utterance uid="8-8"><speaker>BECKETT</speaker><content>Do you know if your brother had any problems with anyone at work? I mean, given the kinds of people that he dealt with.</content></utterance>
+<utterance uid="8-9"><speaker>EDDIE MCUSIC</speaker><content>No. Joe had a way with folks. He'd look out for people.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>CASTLE</speaker><content>Do you think Joe was chosen at random? Or do you think he was killed because of his background?</content></utterance>
+<utterance uid="9-2"><speaker>BECKETT</speaker><content>Well, since this isn't, in fact, a Grisham novel, I thought I'd keep an open mind. Hey, Ryan, can you look into Joe McUsic's halfway house, see if he had any problems with anyone there?</content></utterance>
+<utterance uid="9-3"><speaker>RYAN</speaker><content>I already spoke with his staff. They don't remember any conflicts, but they're sending over a list of residents in case.</content></utterance>
+<utterance uid="9-4"><speaker>ESPOSITO</speaker><content>Yo. Our missing juror? Troopers picked him up crossing the GW Bridge. They're bringing him in now.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>BECKETT</speaker><content>You were leaving town in a hurry, Mr. Mueller. Any reason why?</content></utterance>
+<utterance uid="10-2"><speaker>TONY MUELLER</speaker><content>Isn't it obvious? I'm marked for death, man.</content></utterance>
+<utterance uid="10-3"><speaker>CASTLE</speaker><content>Marked for death?</content></utterance>
+<utterance uid="10-4"><speaker>TONY MUELLER</speaker><content>I didn't ask for jury duty. I was summoned. They said show up at this time at this place. They failed to mention that the defendant's homeboy was gonna kill me.</content></utterance>
+<utterance uid="10-5"><speaker>CASTLE</speaker><content>The defendant's homeboy?</content></utterance>
+<utterance uid="10-6"><speaker>TONY MUELLER</speaker><content>Yeah. This big, scary, black guy.</content></utterance>
+<utterance uid="10-7"><speaker>BECKETT</speaker><content>Exactly what happened, Mr. Mueller?</content></utterance>
+<utterance uid="10-8"><speaker>TONY MUELLER</speaker><content>Yesterday, this guy follows me into the courthouse bathroom and starts chatting me up about the trial.</content></utterance>
+<utterance uid="10-9"><speaker>BECKETT</speaker><content>Did he give you his name?</content></utterance>
+<utterance uid="10-10"><speaker>TONY MUELLER</speaker><content>No. No, but he's going on and on about how Otis Williams is innocent, and how he's being railroaded by the system. And then this morning, I see the same guy on the defendant's side of the gallery in the front row, eyeballing me.</content></utterance>
+<utterance uid="10-11"><speaker>BECKETT</speaker><content>Have you ever seen him with Joe?</content></utterance>
+<utterance uid="10-12"><speaker>TONY MUELLER</speaker><content>Yes! Which is why, when I saw Joe bite it right in front of me, I knew I was next! And why should I die? I was only trying to fulfill my civic responsibilities!</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>BECKETT</speaker><content>Thank you for coming in, Mr. Mueller. Now, do you think you'll be able to describe to our sketch artist?</content></utterance>
+<utterance uid="11-2"><speaker>TONY MUELLER</speaker><content>He--he's a big, scary, black guy.</content></utterance>
+<utterance uid="11-3"><speaker>CASTLE</speaker><content>It might help if you're just a little more specific.</content></utterance>
+<utterance uid="11-4"><speaker>TONY MUELLER</speaker><content>Uh, okay. Um, well-- like I said, he's a-- he's a big, he's-- scary, black guy...named Wardell Williams, the defendant's cousin.</content></utterance>
+<utterance uid="11-5"><speaker>BECKETT</speaker><content>I didn't-- I thought you didn't know who he was.</content></utterance>
+<utterance uid="11-6"><speaker>TONY MUELLER</speaker><content>I didn't, but there he is!</content></utterance>
+<utterance uid="11-7"><speaker>RYAN</speaker><content>W-- are-- are you sure?</content></utterance>
+<utterance uid="11-8"><speaker>TONY MUELLER</speaker><content>Yeah.</content></utterance>
+<utterance uid="11-9"><speaker>BECKETT</speaker><content>Why?</content></utterance>
+<utterance uid="11-10"><speaker>RYAN</speaker><content>While you guys were in the box with Mr. Mueller, I found this on courthouse surveillance. See, that's Joe the juror at the coffee machine roughly fourteen minutes before his death, right in our kill zone.</content></utterance>
+<utterance uid="11-11"><speaker>BECKETT</speaker><content>Cousin Wardell.</content></utterance>
+<utterance uid="11-12"><speaker>RYAN</speaker><content>And watch this.</content></utterance>
+<utterance uid="11-13"><speaker>CASTLE</speaker><content>Looks like he makes a killer cup of joe.</content></utterance>
+<utterance uid="11-14"><speaker>CASTLE</speaker><content>Too soon.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>WARDELL WILLIAMS</speaker><content>You're not trying to accuse me of murder with this half-assed version of a Zapruder film?</content></utterance>
+<utterance uid="12-2"><speaker>BECKETT</speaker><content>You and Otis were more than just cousins. Grew up in the same household. More like brothers.</content></utterance>
+<utterance uid="12-3"><speaker>WARDELL WILLIAMS</speaker><content>Yeah, me and O tight. So, what?</content></utterance>
+<utterance uid="12-4"><speaker>CASTLE</speaker><content>So, it makes sense you'd do anything for him, including kill a juror on his murder trial.</content></utterance>
+<utterance uid="12-5"><speaker>WARDELL WILLIAMS</speaker><content>Man, y'all reaching.</content></utterance>
+<utterance uid="12-6"><speaker>BECKETT</speaker><content>Are we? You talked to jurors. That's jury tampering.</content></utterance>
+<utterance uid="12-7"><speaker>WARDELL WILLIAMS</speaker><content>So, accusing one black man of a murder he didn't commit isn't good enough for you. What, y'all trying for the deadly double? And I talked to a gang of folks in that courthouse. How'm I supposed to know which one of them is a juror?</content></utterance>
+<utterance uid="12-8"><speaker>CASTLE</speaker><content>Well, the juror badges on their shirts might've been a hint.</content></utterance>
+<utterance uid="12-9"><speaker>BECKETT</speaker><content>Using video surveillance footage, CSU managed to pull Joe's coffee cup out of the garbage. They're testing it for cyanide. Why don't you just come clean while we still got a deal to make.</content></utterance>
+<utterance uid="12-10"><speaker>WARDELL WILLIAMS</speaker><content>Man, I told you! I ain't do nothing!</content></utterance>
+<utterance uid="12-11"><speaker>BECKETT</speaker><content>Wardell, sit down! Before I make you sit down.</content></utterance>
+<utterance uid="12-12"><speaker>WARDELL WILLIAMS</speaker><content>So, obviously, you must be the bad cop. Guess that makes you the good cop.</content></utterance>
+<utterance uid="12-13"><speaker>CASTLE</speaker><content>Actually, I'm not a cop.</content></utterance>
+<utterance uid="12-14"><speaker>WARDELL WILLIAMS</speaker><content>Oh, you not a cop?</content></utterance>
+<utterance uid="12-15"><speaker>BECKETT</speaker><content>Mr. Castle is a writer. He consults with the department on occasion.</content></utterance>
+<utterance uid="12-16"><speaker>WARDELL WILLIAMS</speaker><content>Oh. So, that's how you two do it.</content></utterance>
+<utterance uid="12-17"><speaker>WARDELL WILLIAMS</speaker><content>You tell the lies--</content></utterance>
+<utterance uid="12-18"><speaker>WARDELL WILLIAMS</speaker><content>--you print the lies? Man, y'all framing me just like they did my cousin. Man, this whole damn thing's a conspiracy.</content></utterance>
+<utterance uid="12-19"><speaker>BECKETT</speaker><content>Wardell, be serious.</content></utterance>
+<utterance uid="12-20"><speaker>WARDELL WILLIAMS</speaker><content>'Ch'y'on't think I'm serious? Then tell me why, of all the lawyers in the city, the District Attorney is trying Otis' case? You don't think it's 'cause he's running for mayor and he wants to lock my cousin up so all his rich, powerful, white friends can feel safe?</content></utterance>
+<utterance uid="12-21"><speaker>BECKETT</speaker><content>Look, you're not doing yourself any favors right now.</content></utterance>
+<utterance uid="12-22"><speaker>WARDELL WILLIAMS</speaker><content>Now, you just got it all worked out, huh? Man, you got my cousin, O, pulling a bigger Thomas. And you got me poisoning this man to get him off.</content></utterance>
+<utterance uid="12-23"><speaker>CASTLE</speaker><content>Looks that way.</content></utterance>
+<utterance uid="12-24"><speaker>WARDELL WILLIAMS</speaker><content>Well, looks don't make it so. Looks like I'm poisoning this man's coffee. And really, all I did was hand it to him.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>BECKETT</speaker><content>Hey, Esposito.</content></utterance>
+<utterance uid="13-2"><speaker>ESPOSITO</speaker><content>Mm?</content></utterance>
+<utterance uid="13-3"><speaker>BECKETT</speaker><content>Can you get a warrant for Wardell's place? See if there's any traces of cyanide.</content></utterance>
+<utterance uid="13-4"><speaker>ESPOSITO</speaker><content>You got it.</content></utterance>
+<utterance uid="13-5"><speaker>CASTLE</speaker><content>And, as they say in legalese, asked and answered. It's too bad. I was hoping there would be a little more to the story than that.</content></utterance>
+<utterance uid="13-6"><speaker>CASTLE</speaker><content>Hmm.</content></utterance>
+<utterance uid="13-7"><speaker>BECKETT</speaker><content>"Hmm," what?</content></utterance>
+<utterance uid="13-8"><speaker>CASTLE</speaker><content>Alexis said she'd be in the Village today, but she's over in Williamsburg.</content></utterance>
+<utterance uid="13-9"><speaker>BECKETT</speaker><content>Well, how do you know she's in Williamsburg?</content></utterance>
+<utterance uid="13-10"><speaker>CASTLE</speaker><content>GPS tracked her phone.</content></utterance>
+<utterance uid="13-11"><speaker>BECKETT</speaker><content>You tracked her phone?</content></utterance>
+<utterance uid="13-12"><speaker>CASTLE</speaker><content>Yeah, super cool app I just downloaded. I can see where she is at any time.</content></utterance>
+<utterance uid="13-13"><speaker>BECKETT</speaker><content>Does she know that you're doing this?</content></utterance>
+<utterance uid="13-14"><speaker>CASTLE</speaker><content>What, are you kidding? No, she'd kill me.</content></utterance>
+<utterance uid="13-15"><speaker>BECKETT</speaker><content>And be justified.</content></utterance>
+<utterance uid="13-16"><speaker>CASTLE</speaker><content>I'm her father. If something's going on, I--I need to know. A lot of parents will go through their kids' drawers or computers.</content></utterance>
+<utterance uid="13-17"><speaker>CASTLE</speaker><content>Far less intrusive.</content></utterance>
+<utterance uid="13-18"><speaker>BECKETT</speaker><content>Beckett.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>LANIE</speaker><content>Joe's cyanide laced coffee cup. CSU found both Joe and Wardell's prints on it, but there was something very important missing. Cyanide.</content></utterance>
+<utterance uid="14-2"><speaker>LANIE</speaker><content>Really.</content></utterance>
+<utterance uid="14-3"><speaker>BECKETT</speaker><content>Well, how was he poisoned?</content></utterance>
+<utterance uid="14-4"><speaker>LANIE</speaker><content>During the autopsy, I discovered cyanide residue in a prescription time-release capsule.</content></utterance>
+<utterance uid="14-5"><speaker>CASTLE</speaker><content>So, Joe had a prescription for cyanide?</content></utterance>
+<utterance uid="14-6"><speaker>LANIE</speaker><content>No. He had a prescription for corticosteroids. According to his physician, he took one every morning for symptoms from lupus. It looks like the killer switched out the contents of Joe's capsule, and replaced it with the cyanide.</content></utterance>
+<utterance uid="14-7"><speaker>BECKETT</speaker><content>Okay. So then, when Joe was taking his medications, he unknowingly poisoned himself.</content></utterance>
+<utterance uid="14-8"><speaker>LANIE</speaker><content>But here's the rub. Since the cyanide was in a time-release capsule designed not to dissolve in stomach acid, but in the intestines--</content></utterance>
+<utterance uid="14-9"><speaker>CASTLE</speaker><content>Our timeline is all screwed up.</content></utterance>
+<utterance uid="14-10"><speaker>BECKETT</speaker><content>Ugh.</content></utterance>
+<utterance uid="14-11"><speaker>LANIE</speaker><content>Yep. Turns out Joe was poisoned almost one hour before his death, at 8:13 this morning.</content></utterance>
+<utterance uid="14-12"><speaker>BECKETT</speaker><content>That's before he even got to the courthouse.</content></utterance>
+<utterance uid="14-13"><speaker>CASTLE</speaker><content>Which means the killer probably wasn't there, either.</content></utterance>
+<utterance uid="14-14"><speaker>BECKETT</speaker><content>So then, Joe's death might not have anything to do with the trial.</content></utterance>
+<utterance uid="14-15"><speaker>CASTLE</speaker><content>Well, we learned three very important things. Firstly, our killer is diabolical. You let someone unwittingly kill themselves? Pure evil. Second, our killer knew Joe, or at least knew his habits. Third, our killer was a woman.</content></utterance>
+<utterance uid="14-16"><speaker>BECKETT</speaker><content>Hmm?</content></utterance>
+<utterance uid="14-17"><speaker>CASTLE</speaker><content>Statistically speaking, poisonings are almost always carried out by the fairer sex.</content></utterance>
+<utterance uid="14-18"><speaker>BECKETT</speaker><content>Ah, but you are missing one very important detail, Castle.</content></utterance>
+<utterance uid="14-19"><speaker>CASTLE</speaker><content>Enlighten me.</content></utterance>
+<utterance uid="14-20"><speaker>BECKETT</speaker><content>Our killer had access to Joe's medications. Medications that he did not keep on him. So, therefore, our killer had access to--</content></utterance>
+<utterance uid="14-21"><speaker>CASTLE</speaker><content>His apartment.</content></utterance>
+<utterance uid="14-22"><speaker>BECKETT</speaker><content>Bingo.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>RYAN</speaker><content>NYPD.</content></utterance>
+<utterance uid="15-2"><speaker>ESPOSITO</speaker><content>You know, the murder of Joe the juror is a real tragedy.</content></utterance>
+<utterance uid="15-3"><speaker>RYAN</speaker><content>Isn't every murder a tragedy?</content></utterance>
+<utterance uid="15-4"><speaker>ESPOSITO</speaker><content>Yes, every murder's a tragedy, but Joe is special. He was a juvenile delinquent who reformed himself. A born again citizen who believed in the system and helped out ex-cons. And what did he get for his trouble?</content></utterance>
+<utterance uid="15-5"><speaker>RYAN</speaker><content>Hmm. Pill full of poison.</content></utterance>
+<utterance uid="15-6"><speaker>ESPOSITO</speaker><content>Mm-hmm.</content></utterance>
+<utterance uid="15-7"><speaker>RYAN</speaker><content>"Cowards die many times before their death, the valiant never taste of death but once."</content></utterance>
+<utterance uid="15-8"><speaker>ESPOSITO</speaker><content>Bro, you're not Castle.</content></utterance>
+<utterance uid="15-9"><speaker>RYAN</speaker><content>Yeah, I know I'm not Castle.</content></utterance>
+<utterance uid="15-10"><speaker>ESPOSITO</speaker><content>Then stop trying to talk like him.</content></utterance>
+<utterance uid="15-11"><speaker>RYAN</speaker><content>What? I'm not allowed to reference the Bard?</content></utterance>
+<utterance uid="15-12"><speaker>RYAN</speaker><content>I'm a renaissance man.</content></utterance>
+<utterance uid="15-13"><speaker>ESPOSITO</speaker><content>Memorizing one quote does not make you a renaissance man.</content></utterance>
+<utterance uid="15-14"><speaker>RYAN</speaker><content>What if I memorize two?</content></utterance>
+<utterance uid="15-15"><speaker>ESPOSITO</speaker><content>Have you memorized two?</content></utterance>
+<utterance uid="15-16"><speaker>RYAN</speaker><content>No, but what if I did?</content></utterance>
+<utterance uid="15-17"><speaker>ESPOSITO</speaker><content>Depends on the quote.</content></utterance>
+<utterance uid="15-18"><speaker>ESPOSITO</speaker><content>Now, who the hell are you?</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>RYAN</speaker><content>Hank Ponzell, former resident of Joe McUsic's halfway house. Until you were kicked out when Joe denied your extension.</content></utterance>
+<utterance uid="16-2"><speaker>ESPOSITO</speaker><content>That had to make you mad, huh, Hank?</content></utterance>
+<utterance uid="16-3"><speaker>HANK PONZELL</speaker><content>You don't understand.</content></utterance>
+<utterance uid="16-4"><speaker>ESPOSITO</speaker><content>Oh, no, I think we do. Joe kicked you to the curb and you poisoned him. Lab report shows that every one of these capsules tested positive for cyanide.</content></utterance>
+<utterance uid="16-5"><speaker>HANK PONZELL</speaker><content>If I poisoned him, why would I still be in his apartment?</content></utterance>
+<utterance uid="16-6"><speaker>RYAN</speaker><content>To take the rest of the poison and pills away, so we couldn't find them, so you could hide your tracks.</content></utterance>
+<utterance uid="16-7"><speaker>HANK PONZELL</speaker><content>I was out of the apartment all day. Anyone could've gotten in there. And I would never hurt Joe. He was my friend.</content></utterance>
+<utterance uid="16-8"><speaker>RYAN</speaker><content>Friends like him, huh?</content></utterance>
+<utterance uid="16-9"><speaker>ESPOSITO</speaker><content>Right.</content></utterance>
+<utterance uid="16-10"><speaker>HANK PONZELL</speaker><content>I didn't poison him. Joe was letting me stay there, okay? I maxed out my time at the halfway house and didn't have a place to go. Joe broke the rules and let me crash with him.</content></utterance>
+<utterance uid="16-11"><speaker>ESPOSITO</speaker><content>Then why were you playing hide and go seek in his closet?</content></utterance>
+<utterance uid="16-12"><speaker>HANK PONZELL</speaker><content>I'm a felon on parole. I hear cops and my ex-con instincts kick in.</content></utterance>
+<utterance uid="16-13"><speaker>ESPOSITO</speaker><content>Okay. If you were there on the up and up, tell us, was Joe in any kind of trouble?</content></utterance>
+<utterance uid="16-14"><speaker>RYAN</speaker><content>Look, buddy, I don't think you appreciate the situation you're in. You are on parole, and you're up to your neck in a homicide investigation. Now, you better start talking, or we're gonna have you back in Sing Sing before the evening roll call.</content></utterance>
+<utterance uid="16-15"><speaker>HANK PONZELL</speaker><content>All right. Joe had me run errands for him, okay? Pick up laundry, go to bodegas, stuff like that. A few weeks ago, he gave me an envelope and told me to take it to this lady.</content></utterance>
+<utterance uid="16-16"><speaker>ESPOSITO</speaker><content>What was in the envelope?</content></utterance>
+<utterance uid="16-17"><speaker>HANK PONZELL</speaker><content>Cash. Like two grand. But I don't know what it was for, I swear. Joe always talked about how he got out of the criminal life, but maybe he still had a foot in.</content></utterance>
+<utterance uid="16-18"><speaker>ESPOSITO</speaker><content>Who was this lady that you delivered the envelope to?</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>BECKETT</speaker><content>Miss Jenkins?</content></utterance>
+<utterance uid="17-2"><speaker>SANDY JENKINS</speaker><content>Yes?</content></utterance>
+<utterance uid="17-3"><speaker>BECKETT</speaker><content>Do you live at 3751 West End Ave?</content></utterance>
+<utterance uid="17-4"><speaker>SANDY JENKINS</speaker><content>Yes.</content></utterance>
+<utterance uid="17-5"><speaker>BECKETT</speaker><content>We need to chat.</content></utterance>
+<utterance uid="17-6"><speaker>SANDY JENKINS</speaker><content>I did it. I did it, I did it.</content></utterance>
+<utterance uid="17-7"><speaker>CASTLE</speaker><content>You killed him?</content></utterance>
+<utterance uid="17-8"><speaker>SANDY JENKINS</speaker><content>Oh, my God, no! Of course not! Why would you think that?</content></utterance>
+<utterance uid="17-9"><speaker>CASTLE</speaker><content>Because you just said, "I did it."</content></utterance>
+<utterance uid="17-10"><speaker>SANDY JENKINS</speaker><content>Oh, no, no, not murder. No, God. I--I did something else. Something awful.</content></utterance>
+<utterance uid="17-11"><speaker>BECKETT</speaker><content>Miss Jenkins, you're the court clerk. Why did Joe McUsic give you that much money?</content></utterance>
+<utterance uid="17-12"><speaker>SANDY JENKINS</speaker><content>He paid me to put him on that jury.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>SANDY JENKINS</speaker><content>Joe McUsic came to me and said he wanted to serve his jury duty. I didn't see the harm.</content></utterance>
+<utterance uid="18-2"><speaker>BECKETT</speaker><content>Sure, I mean, especially if you're gonna make a profit.</content></utterance>
+<utterance uid="18-3"><speaker>SANDY JENKINS</speaker><content>My roommate moved out two months ago. I needed the cash for rent, and I figured, who's gonna know? I mean, it's jury duty. Please, please, don't send me to prison. All day long I-- I see the women who get sent there and I can't hack it. I'll be some lifer's ***** before breakfast.</content></utterance>
+<utterance uid="18-4"><speaker>BECKETT</speaker><content>Okay. Joe specifically asked to be on Otis Williams' trial?</content></utterance>
+<utterance uid="18-5"><speaker>SANDY JENKINS</speaker><content>Yes. He was insistent about getting on that jury pool.</content></utterance>
+<utterance uid="18-6"><speaker>BECKETT</speaker><content>Did he tell you why?</content></utterance>
+<utterance uid="18-7"><speaker>SANDY JENKINS</speaker><content>No. It was the Lila Addison case, so I figured maybe he wanted to write a tell all book about it or something. I swear, all I did was put him in the pool. He got through jury selection on his own.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>BECKETT</speaker><content>Ryan and Esposito looked at Joe's computer. There's no evidence that he was writing a book or even taking notes on the trial.</content></utterance>
+<utterance uid="19-2"><speaker>MONTGOMERY</speaker><content>So, our murdered juror just bought himself onto the jury, and we still have no idea why?</content></utterance>
+<utterance uid="19-3"><speaker>CASTLE</speaker><content>A murder, a mystery, wrapped up inside a courtroom thriller? I can't believe John Grisham hasn't written this book.</content></utterance>
+<utterance uid="19-4"><speaker>MONTGOMERY</speaker><content>Wish he had. Maybe then we'd know what was so special about that trial to Joe.</content></utterance>
+<utterance uid="19-5"><speaker>BECKETT</speaker><content>Well, maybe Joe had a personal connection to the trial, to the victim Lila Addison, or to the defendant, Otis Williams.</content></utterance>
+<utterance uid="19-6"><speaker>MONTGOMERY</speaker><content>Doesn't Joe have a juvie record?</content></utterance>
+<utterance uid="19-7"><speaker>BECKETT</speaker><content>Mm-hmm.</content></utterance>
+<utterance uid="19-8"><speaker>MONTGOMERY</speaker><content>What if he knew Otis from back in the day? They could've gotten arrested together, or maybe spent some time in the same juvenile hall.</content></utterance>
+<utterance uid="19-9"><speaker>BECKETT</speaker><content>That's a good idea. I'll look into it.</content></utterance>
+<utterance uid="19-10"><speaker>MONTGOMERY</speaker><content>Meanwhile, I'll have Lila Addison's case file sent over from seven four. And you should check in with the family. Could be a connection there.</content></utterance>
+<utterance uid="19-11"><speaker>BECKETT</speaker><content>Okay. Goodnight, Castle.</content></utterance>
+<utterance uid="19-12"><speaker>CASTLE</speaker><content>Night.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>ALEXIS</speaker><content>Hey, Dad. Writing?</content></utterance>
+<utterance uid="20-2"><speaker>CASTLE</speaker><content>Yeah. How was your day? D'you have a good time in the Village?</content></utterance>
+<utterance uid="20-3"><speaker>ALEXIS</speaker><content>Yeah.</content></utterance>
+<utterance uid="20-4"><speaker>CASTLE</speaker><content>Go anywhere else?</content></utterance>
+<utterance uid="20-5"><speaker>ALEXIS</speaker><content>Uh, no. Just stayed in the Village.</content></utterance>
+<utterance uid="20-6"><speaker>CASTLE</speaker><content>Really? I mean, New York is a big city. Lots of boroughs.</content></utterance>
+<utterance uid="20-7"><speaker>ALEXIS</speaker><content>Yeah, but I just stayed in Manhattan.</content></utterance>
+<utterance uid="20-8"><speaker>CASTLE</speaker><content>So, you didn't go to, uh, Brooklyn? Williamsburg is beautiful this time of year.</content></utterance>
+<utterance uid="20-9"><speaker>ALEXIS</speaker><content>How did you know?</content></utterance>
+<utterance uid="20-10"><speaker>CASTLE</speaker><content>A friend of mine told me. You went there, he saw you.</content></utterance>
+<utterance uid="20-11"><speaker>ALEXIS</speaker><content>What friend?</content></utterance>
+<utterance uid="20-12"><speaker>CASTLE</speaker><content>Close friend. JJ. Adams.</content></utterance>
+<utterance uid="20-13"><speaker>ALEXIS</speaker><content>Nose twitch. That's your tell. You're lying!</content></utterance>
+<utterance uid="20-14"><speaker>CASTLE</speaker><content>No, I'm not.</content></utterance>
+<utterance uid="20-15"><speaker>ALEXIS</speaker><content>Then who's JJ Adams?</content></utterance>
+<utterance uid="20-16"><speaker>CASTLE</speaker><content>He's a friend of mine.</content></utterance>
+<utterance uid="20-17"><speaker>ALEXIS</speaker><content>Wait. JJ Adams was Leslie Nielsen's character name in Forbidden Planet. You're totally lying! How did you know where I was? Are you having me followed? Monitoring my metro card? Checking my credit-- ? ...My phone. Dad, tell me you are not tracking my phone.</content></utterance>
+<utterance uid="20-18"><speaker>CASTLE</speaker><content>Okay, look, this is not about what I did. It's about what you did. You lied to me.</content></utterance>
+<utterance uid="20-19"><speaker>ALEXIS</speaker><content>Says the man who violated his daughter's civil rights.</content></utterance>
+<utterance uid="20-20"><speaker>CASTLE</speaker><content>Okay, technically I would have to be the government to violate--</content></utterance>
+<utterance uid="20-21"><speaker>ALEXIS</speaker><content>You're tracking my every move!</content></utterance>
+<utterance uid="20-22"><speaker>CASTLE</speaker><content>Not your every move!</content></utterance>
+<utterance uid="20-23"><speaker>ALEXIS</speaker><content>Welcome to George Orwell's 1984 with my father as Big Brother.</content></utterance>
+<utterance uid="20-24"><speaker>CASTLE</speaker><content>This isn't about--</content></utterance>
+<utterance uid="20-25"><speaker>ALEXIS</speaker><content>What's next? A chip in my brain?</content></utterance>
+<utterance uid="20-26"><speaker>CASTLE</speaker><content>Whatever it takes when you're keeping secrets from me.</content></utterance>
+<utterance uid="20-27"><speaker>ALEXIS</speaker><content>You know what? If you're so interested in what I'm doing, why don't you ask your phone? I'm sure there's an app for that.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>BECKETT</speaker><content>You had it coming, Castle. I mean, you have the best kid in the world and you treated her like a common criminal.</content></utterance>
+<utterance uid="21-2"><speaker>CASTLE</speaker><content>Maybe she is, though. I still don't know why she lied about going to Williamsburg.</content></utterance>
+<utterance uid="21-3"><speaker>BECKETT</speaker><content>And you probably never will. Unless you plan on waterboarding her.</content></utterance>
+<utterance uid="21-4"><speaker>CASTLE</speaker><content>Honestly, is what I did so wrong?</content></utterance>
+<utterance uid="21-5"><speaker>BECKETT</speaker><content>I don't really think that it matters to Alexis. I mean, you broke her trust.</content></utterance>
+<utterance uid="21-6"><speaker>CASTLE</speaker><content>Yeah. I know. So, what do I do now?</content></utterance>
+<utterance uid="21-7"><speaker>BECKETT</speaker><content>Win it back. Come on, Lila's family's waiting.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>RANDOLPH ADDISON</speaker><content>No, I've never seen him outside of the jury box. Then again, he was a...</content></utterance>
+<utterance uid="22-2"><speaker>MONTGOMERY</speaker><content>Mr. Addison, is it at all possible that your daughter knew this man?</content></utterance>
+<utterance uid="22-3"><speaker>RANDOLPH ADDISON</speaker><content>No. Stephen?</content></utterance>
+<utterance uid="22-4"><speaker>STEPHEN ADDISON</speaker><content>I know most of my sister's friends. He's not one of them. And if he was, why would he have done this? Why would he put my sister's shot at justice in jeopardy?</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>MONTGOMERY</speaker><content>How bad are things, Lou?</content></utterance>
+<utterance uid="23-2"><speaker>MONTGOMERY</speaker><content>All the years I've been in command of the Twelfth Precinct, you know how many times the District Attorney has shown up? Once. Today. You heard the man, let's get to work.</content></utterance>
+<utterance uid="23-3"><speaker>BECKETT</speaker><content>Yes, sir.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>CASTLE</speaker><content>There is no Joe connection to Lila Addison. There's nothing in her financials, her murder file, her e-mails, her texts, not even her yearbook. Joe and Lila have absolutely nothing in common.</content></utterance>
+<utterance uid="24-2"><speaker>BECKETT</speaker><content>It's like the two of them didn't even live on the same planet.</content></utterance>
+<utterance uid="24-3"><speaker>ESPOSITO</speaker><content>Same goes with Joe and Otis.</content></utterance>
+<utterance uid="24-4"><speaker>BECKETT</speaker><content>There's no Joe connection in the juvie files?</content></utterance>
+<utterance uid="24-5"><speaker>ESPOSITO</speaker><content>No. Not even close. Joe and Otis were sent to different juvie halls at different times and they ran in opposite neighborhoods.</content></utterance>
+<utterance uid="24-6"><speaker>BECKETT</speaker><content>So, why the hell did he want to get on that jury so bad?</content></utterance>
+<utterance uid="24-7"><speaker>RYAN</speaker><content>Wait a minute. I think I got something.</content></utterance>
+<utterance uid="24-8"><speaker>BECKETT</speaker><content>You have a connection?</content></utterance>
+<utterance uid="24-9"><speaker>RYAN</speaker><content>According to his credit card, Joe purchased a pay-as-you-go cell phone from an electronics store a couple months back.</content></utterance>
+<utterance uid="24-10"><speaker>ESPOSITO</speaker><content>So?</content></utterance>
+<utterance uid="24-11"><speaker>RYAN</speaker><content>So, he already had a cell phone. What's he need a burner phone for? Especially an anonymous one. And if he is using it, where is it?</content></utterance>
+<utterance uid="24-12"><speaker>BECKETT</speaker><content>All right, take a crew to his apartment, see what you can find. That might be the break that we need.</content></utterance>
+<utterance uid="24-13"><speaker>ESPOSITO</speaker><content>Yeah.</content></utterance>
+<utterance uid="24-14"><speaker>BECKETT</speaker><content>Castle? Castle, can you stop playing around?</content></utterance>
+<utterance uid="24-15"><speaker>CASTLE</speaker><content>Actually, I'm not playing around. I'm a little busy blowing this case wide open. This is a photograph of the Lookie-Lous at Lila's crime scene. This has a little magnification app.</content></utterance>
+<utterance uid="24-16"><speaker>CASTLE</speaker><content>Recognize anyone?</content></utterance>
+<utterance uid="24-17"><speaker>BECKETT</speaker><content>It's Joe! He was at Lila Addison's crime scene.</content></utterance>
+<utterance uid="24-18"><speaker>ESPOSITO</speaker><content>Why would he be there?</content></utterance>
+<utterance uid="24-19"><speaker>CASTLE</speaker><content>Only three reasons for a civilian to be at a murder scene. One, they're dead. Two, they just happen to be in the immediate area. Or three, it's our killer and he couldn't resist the compulsion to return to the scene of the crime. And which number do you think Joe is?</content></utterance>
+<utterance uid="24-20"><speaker>BECKETT</speaker><content>I'm gonna go with three.</content></utterance>
+<utterance uid="24-21"><speaker>CASTLE</speaker><content>He's our victim and our killer.</content></utterance>
+<utterance uid="24-22"><speaker>ESPOSITO</speaker><content>Nice.</content></utterance>
+<utterance uid="24-23"><speaker>CASTLE</speaker><content>Ah.</content></utterance>
+<utterance uid="24-24"><speaker>ESPOSITO</speaker><content>Sorry.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>CASTLE</speaker><content>Joe McUsic, victim and killer? This is the best twist yet. Joe served on the jury of a murder he committed.</content></utterance>
+<utterance uid="25-2"><speaker>BECKETT</speaker><content>Yeah, but if Joe literally got away with murder, why would he risk it all and bribe his way onto the jury?</content></utterance>
+<utterance uid="25-3"><speaker>CASTLE</speaker><content>Maybe he felt compelled to save an innocent man. Maybe he wanted to create reasonable doubt in the deliberation room to get Otis off, just like Henry Fonda in Twelve Angry Men.</content></utterance>
+<utterance uid="25-4"><speaker>BECKETT</speaker><content>Or maybe he got onto the jury because he wanted to make sure that an innocent Otis got convicted of his crime.</content></utterance>
+<utterance uid="25-5"><speaker>CASTLE</speaker><content>No, I like my killer with a conscience theory better.</content></utterance>
+<utterance uid="25-6"><speaker>BECKETT</speaker><content>Yeah, well, like your theory all you want. Mine is less convoluted and contrived.</content></utterance>
+<utterance uid="25-7"><speaker>ESPOSITO</speaker><content>Hate to burst bubbles, but you're both wrong. Joe didn't kill Lila. He had an alibi. I did background on the halfway house. On the night Lila was killed, Joe was at a fundraiser.</content></utterance>
+<utterance uid="25-8"><speaker>BECKETT</speaker><content>He was there until midnight.</content></utterance>
+<utterance uid="25-9"><speaker>CASTLE</speaker><content>And Lila was killed between 9:30 and 11:30 p.m.</content></utterance>
+<utterance uid="25-10"><speaker>ESPOSITO</speaker><content>So, if he didn't kill her, why did he want to be on the jury so bad?</content></utterance>
+<utterance uid="25-11"><speaker>BECKETT</speaker><content>And why was he at the crime scene?</content></utterance>
+<utterance uid="25-12"><speaker>CASTLE</speaker><content>Okay, so we know that Joe was a juror with a hidden agenda. He was embroiled in a high profile case being tried by the D.A. himself. But before he could accomplish what he set out to do, he was struck down by powerful, shadowy forces.</content></utterance>
+<utterance uid="25-13"><speaker>CASTLE</speaker><content>What?</content></utterance>
+<utterance uid="25-14"><speaker>BECKETT</speaker><content>There's gotta be something that we're missing. There has to be a tangible connection between Joe and our defendant, or Joe and our victim.</content></utterance>
+<utterance uid="25-15"><speaker>RYAN</speaker><content>Or between Joe and somebody else entirely. I found the phone. It was hiding behind some books in the bookcase. Joe made fourteen calls with it, all to the same number. District Attorney Lou Karnacki's office.</content></utterance>
+<utterance uid="25-16"><speaker>CASTLE</speaker><content>Looks like the D.A. was out of order.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>BECKETT</speaker><content>Mrs. Craig--</content></utterance>
+<utterance uid="26-2"><speaker>DAWN CRAIG</speaker><content>Oh, please, call me Dawn.</content></utterance>
+<utterance uid="26-3"><speaker>BECKETT</speaker><content>Dawn, you are the District Attorney's administrative assistant?</content></utterance>
+<utterance uid="26-4"><speaker>DAWN CRAIG</speaker><content>Yes, ever since he came into office.</content></utterance>
+<utterance uid="26-5"><speaker>BECKETT</speaker><content>Do you remember ever receiving any phone calls from a Joe McUsic?</content></utterance>
+<utterance uid="26-6"><speaker>DAWN CRAIG</speaker><content>Ooh. Uh...we get hundreds of calls every day, and that name doesn't sound familiar.</content></utterance>
+<utterance uid="26-7"><speaker>CASTLE</speaker><content>We have reason to believe he called numerous times. He may have said it was regarding the Otis Williams case.</content></utterance>
+<utterance uid="26-8"><speaker>DAWN CRAIG</speaker><content>Oh, uh, yeah, I did get a series of bizarre anonymous calls from a man claiming that Otis Williams was innocent.</content></utterance>
+<utterance uid="26-9"><speaker>CASTLE</speaker><content>That would be Joe. Did he ever speak to the D.A.?</content></utterance>
+<utterance uid="26-10"><speaker>DAWN CRAIG</speaker><content>No. I never put him through. I figured he was a wacko. You know, we get a lot of these calls and half my job is to filter out the legitimate calls from the crackpots.</content></utterance>
+<utterance uid="26-11"><speaker>BECKETT</speaker><content>Did he ever mention anything else?</content></utterance>
+<utterance uid="26-12"><speaker>DAWN CRAIG</speaker><content>Yeah, he said he had evidence that would exonerate Otis Williams and how he was gonna mail it to the District Attorney's office.</content></utterance>
+<utterance uid="26-13"><speaker>CASTLE</speaker><content>Did you ever get that package?</content></utterance>
+<utterance uid="26-14"><speaker>DAWN CRAIG</speaker><content>Not that I know of.</content></utterance>
+<utterance uid="26-15"><speaker>BECKETT</speaker><content>Uh, Dawn, most of these phone calls are under two minutes long, but then there's this one at 10:14 p.m. It's over ten minutes long. Is there any chance that you took that phone call?</content></utterance>
+<utterance uid="26-16"><speaker>DAWN CRAIG</speaker><content>Oh. No. I never stay past seven.</content></utterance>
+<utterance uid="26-17"><speaker>CASTLE</speaker><content>How late does the D.A. work?</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>MONTGOMERY</speaker><content>It's a fast-moving case, Lou. My team just followed the evidence where it led them.</content></utterance>
+<utterance uid="27-2"><speaker>BECKETT</speaker><content>Mr. Karnacki, Joe McUsic made several phone calls to your office; one of them lasted over ten minutes. Did you speak to him, sir?</content></utterance>
+<utterance uid="27-3"><speaker>BECKETT</speaker><content>Yes.</content></utterance>
+<utterance uid="27-4"><speaker>CASTLE</speaker><content>Did he send you any evidence that was relevant to the Otis Williams case?</content></utterance>
+<utterance uid="27-5"><speaker>MONTGOMERY</speaker><content>Lou. You said you wanted this murder squared away. That's all we're doing.</content></utterance>
+<utterance uid="27-6"><speaker>MONTGOMERY</speaker><content>You called in the D.A.'s personal assistant without informing him?</content></utterance>
+<utterance uid="27-7"><speaker>BECKETT</speaker><content>Sir, I'm sorry. I was-- I--</content></utterance>
+<utterance uid="27-8"><speaker>MONTGOMERY</speaker><content>It was a smart move. Don't you see what just happened? He could've called and asked why his assistant was here, but he came in person.</content></utterance>
+<utterance uid="27-9"><speaker>BECKETT</speaker><content>He wanted to stop the interview.</content></utterance>
+<utterance uid="27-10"><speaker>CASTLE</speaker><content>He's hiding something.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>CASTLE</speaker><content>Wardell Williams was right. It's a-- conspiracy.</content></utterance>
+<utterance uid="28-2"><speaker>BECKETT</speaker><content>I agree. I know, weird.</content></utterance>
+<utterance uid="28-3"><speaker>CASTLE</speaker><content>Yeah. Weird. But good, because that's just the tip of the iceberg. Are you ready for the Titanic?</content></utterance>
+<utterance uid="28-4"><speaker>BECKETT</speaker><content>Yes?</content></utterance>
+<utterance uid="28-5"><speaker>CASTLE</speaker><content>I did a little digging on the internet. Guess who the D.A.'s largest campaign contributors were on his last election?</content></utterance>
+<utterance uid="28-6"><speaker>BECKETT</speaker><content>Who?</content></utterance>
+<utterance uid="28-7"><speaker>CASTLE</speaker><content>Randolph and Andrea Addison, Lila's parents. Here's what I'm thinking. Devastated parents demand justice, insist that the D.A. try the case personally, maybe even suggest to Karnacki that he needs to put Lila's killer away in order to secure their political support.</content></utterance>
+<utterance uid="28-8"><speaker>BECKETT</speaker><content>Of course. And Karnacki agreed because it was gonna be an easy case. I mean, they already had Otis Williams. It was open and shut.</content></utterance>
+<utterance uid="28-9"><speaker>CASTLE</speaker><content>Until Joe starts calling, insisting that Otis is innocent, which is bad for Karnacki. Actually, in the end, bad for Joe.</content></utterance>
+<utterance uid="28-10"><speaker>BECKETT</speaker><content>You know, but it's still doesn't explain why Joe bought into the jury pool or why he thought that Otis Williams was innocent. I mean, if he had exonerating evidence, where is it? We've looked everywhere. We've talked to everyone.</content></utterance>
+<utterance uid="28-11"><speaker>CASTLE</speaker><content>Not everyone.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>ATTORNEY NICK KELLER</speaker><content>As I said before, we're not here to discuss the Lila Addison case.</content></utterance>
+<utterance uid="29-2"><speaker>BECKETT</speaker><content>Neither are we. We're here to talk about Joe McUsic's murder, Juror Number Seven.</content></utterance>
+<utterance uid="29-3"><speaker>ATTORNEY NICK KELLER</speaker><content>You're not still suggesting that my client had something to do with that?</content></utterance>
+<utterance uid="29-4"><speaker>CASTLE</speaker><content>Uh, we are open to the idea that Mr. Williams may not be guilty of either murder.</content></utterance>
+<utterance uid="29-5"><speaker>BECKETT</speaker><content>Look, we think that you might be able to help yourself by helping us find the real killer.</content></utterance>
+<utterance uid="29-6"><speaker>BECKETT</speaker><content>This is Joe McUsic. Had you ever seen him before the trial?</content></utterance>
+<utterance uid="29-7"><speaker>OTIS WILLIAMS</speaker><content>Mm-mm.</content></utterance>
+<utterance uid="29-8"><speaker>CASTLE</speaker><content>He claimed to have evidence proving your innocence. Do you have any idea what that evidence might be?</content></utterance>
+<utterance uid="29-9"><speaker>OTIS WILLIAMS</speaker><content>How am I supposed to know?</content></utterance>
+<utterance uid="29-10"><speaker>BECKETT</speaker><content>He bought his way onto the jury in order to get you acquitted, and then he got murdered for it.</content></utterance>
+<utterance uid="29-11"><speaker>OTIS WILLIAMS</speaker><content>Well, look, I'm sorry he's dead. I appreciate my man putting himself out like that for me, but I don't know how to help y'all.</content></utterance>
+<utterance uid="29-12"><speaker>BECKETT</speaker><content>Mr. Williams, if you didn't kill Lila, then we need to figure out who did.</content></utterance>
+<utterance uid="29-13"><speaker>CASTLE</speaker><content>You were first on the scene. Any detail you can remember, no matter how obscure, might help us.</content></utterance>
+<utterance uid="29-14"><speaker>OTIS WILLIAMS</speaker><content>A'ight. It was late. Just got off my job, you know? Walking home when I saw that sweet 760i just sitting there, keys in the ignition. I knew I should've passed it by, but I always wanted to drive a 760. So, I jumped in.</content></utterance>
+<utterance uid="29-15"><speaker>BECKETT</speaker><content>I'm sorry, we need details. So, did you see anyone?</content></utterance>
+<utterance uid="29-16"><speaker>OTIS WILLIAMS</speaker><content>No.</content></utterance>
+<utterance uid="29-17"><speaker>CASTLE</speaker><content>Was there anything around the car?</content></utterance>
+<utterance uid="29-18"><speaker>BECKETT</speaker><content>Anything that might suggest someone else had been there? Cigarette butts? Uh, chewing gum?</content></utterance>
+<utterance uid="29-19"><speaker>CASTLE</speaker><content>Shoe prints, heel prints...</content></utterance>
+<utterance uid="29-20"><speaker>OTIS WILLIAMS</speaker><content>Nah, nothing like that.</content></utterance>
+<utterance uid="29-21"><speaker>BECKETT</speaker><content>Okay, um...what happened next?</content></utterance>
+<utterance uid="29-22"><speaker>OTIS WILLIAMS</speaker><content>I slid in the ride, pulled the seat up, hit the ignition--</content></utterance>
+<utterance uid="29-23"><speaker>BECKETT</speaker><content>Wait, wait. Did you say that you pulled the seat up?</content></utterance>
+<utterance uid="29-24"><speaker>OTIS WILLIAMS</speaker><content>Yeah.</content></utterance>
+<utterance uid="29-25"><speaker>BECKETT</speaker><content>Are you sure?</content></utterance>
+<utterance uid="29-26"><speaker>OTIS WILLIAMS</speaker><content>Yeah, I'm sure. That bad boy was all the way back. So, I hit the button on the side to move it up.</content></utterance>
+<utterance uid="29-27"><speaker>BECKETT</speaker><content>Lila was all of five foot nothing. There's no reason for that seat to have been all the way back.</content></utterance>
+<utterance uid="29-28"><speaker>CASTLE</speaker><content>Somebody else was driving that car. Most likely, our killer.</content></utterance>
+<utterance uid="29-29"><speaker>BECKETT</speaker><content>And our killer would have to press the seat back button in order to move it. Did CSU check for prints?</content></utterance>
+<utterance uid="29-30"><speaker>ATTORNEY NICK KELLER</speaker><content>The steering wheel and the dash. The only prints they found were my client' s. So, when they caught him behind the wheel, I don't think they put much effort into it.</content></utterance>
+<utterance uid="29-31"><speaker>BECKETT</speaker><content>Lila's car's still at the impound pending the trial. We can still have CSU print the seat controls.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>CASTLE</speaker><content>The seat back button. What a great detail for a murder mystery.</content></utterance>
+<utterance uid="30-2"><speaker>BECKETT</speaker><content>Only if we get a print.</content></utterance>
+<utterance uid="30-3"><speaker>CASTLE</speaker><content>Yes. Otherwise, we'll just be looking for tall people.</content></utterance>
+<utterance uid="30-4"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="30-5"><speaker>ALEXIS</speaker><content>Dad.</content></utterance>
+<utterance uid="30-6"><speaker>CASTLE</speaker><content>Uh-- hey. Everything all right?</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>ALEXIS</speaker><content>I'm sorry for yelling at you last--</content></utterance>
+<utterance uid="31-2"><speaker>CASTLE</speaker><content>No, no, I-- I violated your trust. I shouldn't've spied on you. It was wrong. And I want you to see this.</content></utterance>
+<utterance uid="31-3"><speaker>CASTLE</speaker><content>I am deleting that app now and forever. Okay? Gone. So...I'm sorry. Forgive me?</content></utterance>
+<utterance uid="31-4"><speaker>ALEXIS</speaker><content>But will you forgive me?</content></utterance>
+<utterance uid="31-5"><speaker>CASTLE</speaker><content>Of course. So, tell me, what happened in Williamsburg?</content></utterance>
+<utterance uid="31-6"><speaker>ALEXIS</speaker><content>Two days ago, a bunch of us went to Kina's of Brooklyn; it's a boutique. And my friends thought it'd be cool if we all took something a couple things.</content></utterance>
+<utterance uid="31-7"><speaker>CASTLE</speaker><content>You shop--</content></utterance>
+<utterance uid="31-8"><speaker>CASTLE</speaker><content>You were shoplifting?</content></utterance>
+<utterance uid="31-9"><speaker>ALEXIS</speaker><content>I couldn't, but my friends did and they said I was chicken.</content></utterance>
+<utterance uid="31-10"><speaker>CASTLE</speaker><content>So, you went back to finish the job to impress your friends.</content></utterance>
+<utterance uid="31-11"><speaker>ALEXIS</speaker><content>No, I went back to pay for what they stole. I couldn't just let someone get cheated like that. I took money out of my savings and went back to the s--tore.</content></utterance>
+<utterance uid="31-12"><speaker>ALEXIS</speaker><content>When I got there, I put cash on the counter with a note and ran out as fast as I could.</content></utterance>
+<utterance uid="31-13"><speaker>CASTLE</speaker><content>I don't know whether to be angry or proud. What friends were you with?</content></utterance>
+<utterance uid="31-14"><speaker>ALEXIS</speaker><content>Doesn't matter.</content></utterance>
+<utterance uid="31-15"><speaker>CASTLE</speaker><content>Well, of course it matters. How would you hang--</content></utterance>
+<utterance uid="31-16"><speaker>ALEXIS</speaker><content>Who I was with is off the table. I'm not gonna nark on them.</content></utterance>
+<utterance uid="31-17"><speaker>CASTLE</speaker><content>Again, angry and proud. One question, though. If you didn't take anything, why did you feel responsible?</content></utterance>
+<utterance uid="31-18"><speaker>ALEXIS</speaker><content>Because they're my friends. I guess somebody had to. It was the right thing to do.</content></utterance>
+<utterance uid="31-19"><speaker>CASTLE</speaker><content>Don't you think...they should be the ones paying--</content></utterance>
+<utterance uid="31-20"><speaker>ALEXIS</speaker><content>Dad.</content></utterance>
+<utterance uid="31-21"><speaker>CASTLE</speaker><content>Why are you even friends with these girls in the first place?</content></utterance>
+<utterance uid="31-22"><speaker>ALEXIS</speaker><content>It's not that simple.</content></utterance>
+<utterance uid="31-23"><speaker>CASTLE</speaker><content>No, you're right. It never is, is it?</content></utterance>
+<utterance uid="31-24"><speaker>ALEXIS</speaker><content>Uh, no, Detective Beckett. Stay. I was just leaving. It won't happen again, Dad. Promise.</content></utterance>
+<utterance uid="31-25"><speaker>BECKETT</speaker><content>You okay?</content></utterance>
+<utterance uid="31-26"><speaker>CASTLE</speaker><content>Sometimes ignorance is bliss.</content></utterance>
+<utterance uid="31-27"><speaker>BECKETT</speaker><content>Mm, tell me about it.</content></utterance>
+<utterance uid="31-28"><speaker>CASTLE</speaker><content>Is that the CSU report?</content></utterance>
+<utterance uid="31-29"><speaker>BECKETT</speaker><content>Two sets of prints on the seat controls. Otis' are on the seat up button.</content></utterance>
+<utterance uid="31-30"><speaker>CASTLE</speaker><content>And on the seat back?</content></utterance>
+<utterance uid="31-31"><speaker>BECKETT</speaker><content>Go look for yourself.</content></utterance>
+<utterance uid="31-32"><speaker>CASTLE</speaker><content>You gotta be kidding me.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>BECKETT</speaker><content>This is the fingerprint that we pulled off of Lila Addison's car seat controls and this is your fingerprint that we have on file. They are a match.</content></utterance>
+<utterance uid="32-2"><speaker>EDDIE MCUSIC</speaker><content>There must be some mistake.</content></utterance>
+<utterance uid="32-3"><speaker>BECKETT</speaker><content>There is no mistake. You were in Lila Addison's car the night that she was killed.</content></utterance>
+<utterance uid="32-4"><speaker>EDDIE MCUSIC</speaker><content>I didn't even know Lila.</content></utterance>
+<utterance uid="32-5"><speaker>CASTLE</speaker><content>Yeah, you did. We showed your picture around. You're a bartender at the Kiwi Seven Lounge. They pay you under the table cash.</content></utterance>
+<utterance uid="32-6"><speaker>BECKETT</speaker><content>Lila's a silent partner. You still want to go with the story that you don't know her? I think that you killed her, and then you dumped her body in her trunk.</content></utterance>
+<utterance uid="32-7"><speaker>CASTLE</speaker><content>What you didn't count on was the guilt. You had to get it off your chest, so you told Joe. But your brother, he was an honorable man.</content></utterance>
+<utterance uid="32-8"><speaker>BECKETT</speaker><content>He wasn't gonna rat you out, but he wasn't gonna let an innocent man go to jail for life.</content></utterance>
+<utterance uid="32-9"><speaker>CASTLE</speaker><content>So, he called the D.A. When that didn't work, he got on the jury. But you-- you found out, and you realized you wouldn't be safe as long as he was alive.</content></utterance>
+<utterance uid="32-10"><speaker>BECKETT</speaker><content>And then you slipped into his apartment, and you dosed his meds with cyanide.</content></utterance>
+<utterance uid="32-11"><speaker>EDDIE MCUSIC</speaker><content>Dosed his meds?</content></utterance>
+<utterance uid="32-12"><speaker>CASTLE</speaker><content>Making you the worst brother since Cane.</content></utterance>
+<utterance uid="32-13"><speaker>EDDIE MCUSIC</speaker><content>That isn't what happened.</content></utterance>
+<utterance uid="32-14"><speaker>BECKETT</speaker><content>Then what happened?</content></utterance>
+<utterance uid="32-15"><speaker>BECKETT</speaker><content>K.</content></utterance>
+<utterance uid="32-16"><speaker>EDDIE MCUSIC</speaker><content>Whoa, wait, wha... Wait!</content></utterance>
+<utterance uid="32-17"><speaker>EDDIE MCUSIC</speaker><content>I was there, but I didn't kill her! And I didn't kill my brother! But it doesn't really matter what I say, you won't believe me anyway!</content></utterance>
+<utterance uid="32-18"><speaker>BECKETT</speaker><content>Well, considering your other choice is murder one, I would roll the dice.</content></utterance>
+<utterance uid="32-19"><speaker>EDDIE MCUSIC</speaker><content>Stephen killed Lila. Stephen Addison, her brother. And we had talked about Joe's condition. Stephen must've seen Joe on that jury and killed him, too. Stephen and Lila were a pair of rich, spoiled coke fiends who needed to make a drug run. So, they had me drive. Stephen screwing around with this gun. This little trust fund gangster thinks he's so badass till we hit a pothole and bang!</content></utterance>
+<utterance uid="32-20"><speaker>CASTLE</speaker><content>The gun went off and hit Lila.</content></utterance>
+<utterance uid="32-21"><speaker>EDDIE MCUSIC</speaker><content>She died instantly. I freaked, but Stephen threatened to point the finger at me if I told the truth.</content></utterance>
+<utterance uid="32-22"><speaker>EDDIE MCUSIC</speaker><content>I'm so scared. I'm-- I'm just a nobody! He's got million dollar lawyers! We put her body in the trunk.</content></utterance>
+<utterance uid="32-23"><speaker>BECKETT</speaker><content>And you dumped the car?</content></utterance>
+<utterance uid="32-24"><speaker>EDDIE MCUSIC</speaker><content>Stephen said, if we left it in the ghetto, the cops would think it was a carjacking gone wrong.</content></utterance>
+<utterance uid="32-25"><speaker>BECKETT</speaker><content>And then what happened?</content></utterance>
+<utterance uid="32-26"><speaker>EDDIE MCUSIC</speaker><content>We tossed the bloody clothes in a dumpster. And I went to see Joe at his fundraiser and I told him what happened. He said we couldn't leave Lila in a trunk like that. But by the time Joe got there, the cops had already pulled over that black guy. So, Joe went to that dumpster and got Stephen's bloody clothes as insurance.</content></utterance>
+<utterance uid="32-27"><speaker>CASTLE</speaker><content>That must be what Joe sent to the D.A.</content></utterance>
+<utterance uid="32-28"><speaker>EDDIE MCUSIC</speaker><content>It's all my fault. My brother's dead and it's all my fault.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>BECKETT</speaker><content>We can place Stephen at Lila's bar that night, but without physical evidence, all we have is Eddie's word. What do you think we should do, sir?</content></utterance>
+<utterance uid="33-2"><speaker>MONTGOMERY</speaker><content>I'm sorry, Detective. Looks like there's nothing you can do.</content></utterance>
+<utterance uid="33-3"><speaker>CASTLE</speaker><content>What are you saying? Just let them get away with it?</content></utterance>
+<utterance uid="33-4"><speaker>MONTGOMERY</speaker><content>Did I say that?</content></utterance>
+<utterance uid="33-5"><speaker>BECKETT</speaker><content>Sir, where are you going?</content></utterance>
+<utterance uid="33-6"><speaker>MONTGOMERY</speaker><content>To see an old friend.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>MONTGOMERY</speaker><content>Used my key to the city.</content></utterance>
+<utterance uid="34-2"><speaker>MONTGOMERY</speaker><content>I need that package, Lou. The one Joe McUsic sent you. I know you didn't get rid of it. It's not your style, not the Louis Karnacki I know.</content></utterance>
+<utterance uid="34-3"><speaker>MONTGOMERY</speaker><content>Did you know Lila Addison was murdered by her brother?</content></utterance>
+<utterance uid="34-4"><speaker>MONTGOMERY</speaker><content>Guess it's good I'm not a lawyer.</content></utterance>
+<utterance uid="34-5"><speaker>MONTGOMERY</speaker><content>You just put an innocent man up for murder. What's grey about that, Lou?</content></utterance>
+<utterance uid="34-6"><speaker>MONTGOMERY</speaker><content>But he didn't kill Lila, Lou. He didn't kill her.</content></utterance>
+<utterance uid="34-7"><speaker>MONTGOMERY</speaker><content>What? Your run for the Mayor's office?</content></utterance>
+<utterance uid="34-8"><speaker>MONTGOMERY</speaker><content>Give me the package Joe McUsic sent you and I'll put in a good word for you.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>BECKETT</speaker><content>Preliminary lab results indicate that Stephen's clothes had Lila's blood on it.</content></utterance>
+<utterance uid="35-2"><speaker>CASTLE</speaker><content>Eddie was telling the truth.</content></utterance>
+<utterance uid="35-3"><speaker>BECKETT</speaker><content>And CSU found traces of cyanide in Stephen's apartment.</content></utterance>
+<utterance uid="35-4"><speaker>MONTGOMERY</speaker><content>Young Mr. Addison is going down for both murders. Negligent homicide for his sister, and murder one for poisoning Joe McUsic.</content></utterance>
+<utterance uid="35-5"><speaker>CASTLE</speaker><content>What happens to Eddie?</content></utterance>
+<utterance uid="35-6"><speaker>MONTGOMERY</speaker><content>We'll charge him with accessory after the fact, but I'll push for probation. I'll call the D.A. Well, whoever the Mayor appoints as acting D.A.</content></utterance>
+<utterance uid="35-7"><speaker>BECKETT</speaker><content>Sir, I'm sorry about your friend.</content></utterance>
+<utterance uid="35-8"><speaker>MONTGOMERY</speaker><content>Yeah. I mean, Lou screwed up, he did, but that doesn't take away from the good he's done.</content></utterance>
+<utterance uid="35-9"><speaker>CASTLE</speaker><content>It's unfortunate that, despite all that good, he's only gonna be remembered for this one bad thing.</content></utterance>
+<utterance uid="35-10"><speaker>MONTGOMERY</speaker><content>Nice work, you two. Goodnight.</content></utterance>
+<utterance uid="35-11"><speaker>CASTLE</speaker><content>So, plans with Josh tonight?</content></utterance>
+<utterance uid="35-12"><speaker>BECKETT</speaker><content>No, he's on shift. I was thinking of sneaking off to the Angelika. Forbidden Planet's playing.</content></utterance>
+<utterance uid="35-13"><speaker>CASTLE</speaker><content>Forbidden Planet, is, uh, is that the one with the robot?</content></utterance>
+<utterance uid="35-14"><speaker>BECKETT</speaker><content>You've never seen Forbidden Planet?</content></utterance>
+<utterance uid="35-15"><speaker>CASTLE</speaker><content>More of a Star Wars, Matrix guy myself.</content></utterance>
+<utterance uid="35-16"><speaker>BECKETT</speaker><content>Oh, my gosh. Castle, this is the movie that inspired those two. That's it, I'm taking you. My treat.</content></utterance>
+<utterance uid="35-17"><speaker>CASTLE</speaker><content>Oh, no, no. I-- I have plans.</content></utterance>
+<utterance uid="35-18"><speaker>BECKETT</speaker><content>Nope. Not anymore.</content></utterance>
+<utterance uid="35-19"><speaker>CASTLE</speaker><content>All right, well, can I have, uh, candy and popcorn?</content></utterance>
+<utterance uid="35-20"><speaker>BECKETT</speaker><content>Sure. Oh, Castle, you're gonna love this. This is Leslie Nielsen before he became a comic genius.</content></utterance>
+<utterance uid="35-21"><speaker>CASTLE</speaker><content>Really?</content></utterance>
+<utterance uid="35-22"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="35-23"><speaker>CASTLE</speaker><content>Can we stop at Remy's for burgers after?</content></utterance>
+<utterance uid="35-24"><speaker>BECKETT</speaker><content>Now you're pushing it.</content></utterance>
+<utterance uid="35-25"><speaker>CASTLE</speaker><content>Oh, </content></utterance>
+<utterance uid="35-26"><speaker>BECKETT</speaker><content>Okay. So, it starts off with this...</content></utterance>
+</scene>
+</script>

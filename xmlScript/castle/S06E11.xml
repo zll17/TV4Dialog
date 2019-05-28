@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+
+<scene id="1"><utterance uid="1-1"><speaker>KATE BECKETT</speaker><content>Jenny?</content></utterance>
+<utterance uid="1-2"><speaker>JENNY RYAN</speaker><content>Kate, thank God. Um, have … have you heard from Kevin?</content></utterance>
+<utterance uid="1-3"><speaker>BECKETT</speaker><content>No, I haven’t. Have you?</content></utterance>
+<utterance uid="1-4"><speaker>JENNY</speaker><content>No, I’ve been calling him to test our system and he’s not answering and I’m freaking out a little bit. Um … do you have any idea where he is?</content></utterance>
+<utterance uid="1-5"><speaker>JENNY</speaker><content>Kate? Kate, are you there?</content></utterance>
+<utterance uid="1-6"><speaker>BECKETT</speaker><content>Yeah.  Yeah, I’m here.</content></utterance>
+<utterance uid="1-7"><speaker>JENNY</speaker><content>What’s going on? Where’s Kevin?</content></utterance>
+<utterance uid="1-8"><speaker>BECKETT</speaker><content>Jenny, I need you to stay calm. Okay? Something’s happened.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>RICHARD CASTLE</speaker><content>A crime scene at a fire? Never done one of these before.</content></utterance>
+<utterance uid="2-2"><speaker>KEVIN RYAN</speaker><content>After this you might not want to. Building was being rehabbed so the place was supposed to be empty. Guess our victim didn’t get that memo.</content></utterance>
+<utterance uid="2-3"><speaker>BECKETT</speaker><content>Do we know who our victim is?</content></utterance>
+<utterance uid="2-4"><speaker>RYAN</speaker><content>Uh, n-  Oh, oh, oh. Oh my God.  Oh my God, it’s Jenny. It’s go time.  Hi, Jenny. Are you having contractions? Are you –  – oh. No, no, it’s good to double check if my phone’s working.  Or triple check. Okay. All right, sweetie. Talk to you soon.  False alarm.</content></utterance>
+<utterance uid="2-5"><speaker>CASTLE</speaker><content>What is she, two days past her due date?</content></utterance>
+<utterance uid="2-6"><speaker>RYAN</speaker><content>Three. So it could happen at any minute. Can you believe it? Me as a dad.</content></utterance>
+<utterance uid="2-7"><speaker>BECKETT</speaker><content>Oh Ryan, you’re gonna be great.</content></utterance>
+<utterance uid="2-8"><speaker>CASTLE</speaker><content>You guys pick a name?</content></utterance>
+<utterance uid="2-9"><speaker>RYAN</speaker><content>No, we couldn’t agree on one. So we’re waiting to see if it’s a boy or a girl, then decide.</content></utterance>
+<utterance uid="2-10"><speaker>CASTLE</speaker><content>May I suggest … Cosmo.</content></utterance>
+<utterance uid="2-11"><speaker>RYAN</speaker><content>No you may not. And rather than pick a name for my kid, you should pick a date for your wedding.</content></utterance>
+<utterance uid="2-12"><speaker>CASTLE</speaker><content>Pick a date for my wedding?  I was planning on bringing her.</content></utterance>
+<utterance uid="2-13"><speaker>BECKETT</speaker><content> Really? When is that? I might have plans.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>MARK KIMBALL</speaker><content>Hey. I’m Mark Kimball, building and safety. You guys really need to be in here?</content></utterance>
+<utterance uid="3-2"><speaker>BECKETT</speaker><content>It’s where our crime scene is.</content></utterance>
+<utterance uid="3-3"><speaker>KIMBALL</speaker><content>Ah, well, don’t stay any longer than you have to. Fire did structural damage. I need to clear the building.</content></utterance>
+<utterance uid="3-4"><speaker>RYAN</speaker><content>We should be in and out.</content></utterance>
+<utterance uid="3-5"><speaker>KIMBALL</speaker><content>Okay.</content></utterance>
+<utterance uid="3-6"><speaker>BECKETT</speaker><content>Thanks.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>BECKETT</speaker><content>So do we know who the victim is?</content></utterance>
+<utterance uid="4-2"><speaker>RYAN</speaker><content>Nope. Dude had a wallet, but it was burned to a crisp. Even if he was a dude. It’s hard to tell that.</content></utterance>
+<utterance uid="4-3"><speaker>CASTLE</speaker><content>I see what you mean.</content></utterance>
+<utterance uid="4-4"><speaker>LANIE PARISH</speaker><content>Actually, he is a dude, which is about all I could tell you right now.</content></utterance>
+<utterance uid="4-5"><speaker>BECKETT</speaker><content>Is that a bullet hole?</content></utterance>
+<utterance uid="4-6"><speaker>LANIE</speaker><content>Probably a 9, so needless to say this wasn’t from natural causes.</content></utterance>
+<utterance uid="4-7"><speaker>DELIA BURTON</speaker><content>Neither was the fire.</content></utterance>
+<utterance uid="4-8"><speaker>RYAN</speaker><content>This is Lieutenant Delia Burton. She’s the fire investigator with the FDNY. Detective Beckett, Mr. Castle.</content></utterance>
+<utterance uid="4-9"><speaker>BECKETT</speaker><content>Nice to meet you. So, this was arson?</content></utterance>
+<utterance uid="4-10"><speaker>BURTON</speaker><content>Well, it’s looking that way. I found miniscule traces of accelerants at the flash point.</content></utterance>
+<utterance uid="4-11"><speaker>CASTLE</speaker><content>So the killer set the fire to cover up the murder?</content></utterance>
+<utterance uid="4-12"><speaker>BURTON</speaker><content>Except there’s no accelerant on the body. And the fire’s flash point is deep in the building. You know, normally when you’re disposing of a body you’re going to make sure it burns.</content></utterance>
+<utterance uid="4-13"><speaker>BECKETT</speaker><content>So maybe our victim surprised the arsonist –</content></utterance>
+<utterance uid="4-14"><speaker>CASTLE</speaker><content>And the arsonist killed him, silencing the witness.</content></utterance>
+<utterance uid="4-15"><speaker>BURTON</speaker><content>That’s how it looks to me. Then again, homicide’s not my specialty.</content></utterance>
+<utterance uid="4-16"><speaker>BECKETT</speaker><content>No, but fire is.  Would you mind keeping me in the loop unless you find anything else?</content></utterance>
+<utterance uid="4-17"><speaker>BURTON</speaker><content>Sure. As soon as I know what happened, so will you.</content></utterance>
+<utterance uid="4-18"><speaker>CASTLE</speaker><content>What was that?</content></utterance>
+<utterance uid="4-19"><speaker>BURTON</speaker><content>The building. You guys should probably go.</content></utterance>
+<utterance uid="4-20"><speaker>CASTLE</speaker><content>Sounds good.  See ya!</content></utterance>
+<utterance uid="4-21"><speaker>BECKETT</speaker><content>I’m … marrying … him.</content></utterance>
+<utterance uid="4-22"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+<utterance uid="4-23"><speaker>BECKETT</speaker><content>Yeah. Um … why don’t we just look into whoever owns this place. See if they know who might have been in here.</content></utterance>
+<utterance uid="4-24"><speaker>RYAN</speaker><content>Right.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>ART TORINO</speaker><content>I have no idea who he is. Wasn’t nobody supposed to be in there on account of the renovation.</content></utterance>
+<utterance uid="5-2"><speaker>BECKETT</speaker><content>Mmm.</content></utterance>
+<utterance uid="5-3"><speaker>TORINO</speaker><content>Maybe the guy was a bum or a squatter or something.  But hey, you know, human life, still a tragedy, right?</content></utterance>
+<utterance uid="5-4"><speaker>BECKETT</speaker><content>Mr. Torino, let’s talk about why no one was there, not even a security guard. Wasn’t your building basically abandoned after you stopped renovations three months ago?</content></utterance>
+<utterance uid="5-5"><speaker>CASTLE</speaker><content>Due to a cash flow problem?</content></utterance>
+<utterance uid="5-6"><speaker>TORINO</speaker><content>Who are you again?</content></utterance>
+<utterance uid="5-7"><speaker>CASTLE</speaker><content>Just someone who couldn’t help but notice your bank required a high level of insurance on that building as a condition of granting you the loan.</content></utterance>
+<utterance uid="5-8"><speaker>TORINO</speaker><content>So?</content></utterance>
+<utterance uid="5-9"><speaker>BECKETT</speaker><content>So a total loss insurance claim would solve all of your cash flow problems.</content></utterance>
+<utterance uid="5-10"><speaker>CASTLE</speaker><content>Right. The downside being, you’ll go to prison for murder.</content></utterance>
+<utterance uid="5-11"><speaker>TORINO</speaker><content>Are you kidding me? I wouldn’t burn down my own building, okay? Somebody else must have done it.</content></utterance>
+<utterance uid="5-12"><speaker>BECKETT</speaker><content>Tell me this, Mr. Torino, are you involved in organized crime?</content></utterance>
+<utterance uid="5-13"><speaker>TORINO</speaker><content>I take offense to that. Just because I’m Italian I’m in the mob?</content></utterance>
+<utterance uid="5-14"><speaker>BECKETT</speaker><content>No, I think you are in the mob because you area known member of the Minari crime family and you also have convictions in racketeering, assault, fraud –</content></utterance>
+<utterance uid="5-15"><speaker>TORINO</speaker><content>Yeah, okay. Okay. I moved on. I’m out of the life now. It was my dream to rehab that building a flip it and retire to Boca. Now that dream? It’s up in smoke.</content></utterance>
+</scene>
+
+<scene id="6"><utterance uid="6-1"><speaker>JAVIER ESPOSITO</speaker><content>Hey, Beckett.</content></utterance>
+<utterance uid="6-2"><speaker>BECKETT</speaker><content>Yeah?</content></utterance>
+<utterance uid="6-3"><speaker>ESPOSITO</speaker><content>So Art Torino’s alibi checks out. He was at the Pink Palace Gentlemen’s Club last night, stuffing g-strings from 8PM to 4AM.</content></utterance>
+<utterance uid="6-4"><speaker>BECKETT</speaker><content>Yeah, but that doesn’t mean he’s in the clear. I mean, Torino wouldn’t do this himself.</content></utterance>
+<utterance uid="6-5"><speaker>ESPOSITO</speaker><content> I’ll see if anyone he’s been hanging with has any connection to arson.</content></utterance>
+<utterance uid="6-6"><speaker>BECKETT</speaker><content>Okay, I’ll grab Castle. We’ll see if Lanie’s got anything new on our vic.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>LANIE</speaker><content>Still no ID and he’s not in any missing persons report.</content></utterance>
+<utterance uid="7-2"><speaker>BECKETT</speaker><content>We get a match on the bullet?</content></utterance>
+<utterance uid="7-3"><speaker>LANIE</speaker><content>It’s not in the system, but the cause of death was definitely a GSW to the head. No smoke in the lungs, so he was already dead when the fire got going.</content></utterance>
+<utterance uid="7-4"><speaker>CASTLE</speaker><content> Beats getting roasted alive.</content></utterance>
+<utterance uid="7-5"><speaker>LANIE</speaker><content>I’m right there with you. Also, he was healthy, muscular, his teeth were in good shape, so he probably wasn’t homeless. Plus he had great medical care.</content></utterance>
+<utterance uid="7-6"><speaker>BECKETT</speaker><content>How can you tell?</content></utterance>
+<utterance uid="7-7"><speaker>LANIE</speaker><content>He had a fractured leg that was splinted with metal plates and screws. Quality work, too.</content></utterance>
+<utterance uid="7-8"><speaker>CASTLE</speaker><content>Can the plate be traced?</content></utterance>
+<utterance uid="7-9"><speaker>LANIE</speaker><content>I’m already on it.</content></utterance>
+<utterance uid="7-10"><speaker>BURTON</speaker><content>Was it the left leg?  Anterior femur, midway down.</content></utterance>
+<utterance uid="7-11"><speaker>LANIE</speaker><content>That’s right. How did you know?</content></utterance>
+<utterance uid="7-12"><speaker>BURTON</speaker><content>I know who he is. He’s a fire investigator names Blake McCann.  He was my partner.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>BECKETT</speaker><content>Okay, I got it, Lanie.</content></utterance>
+<utterance uid="8-2"><speaker>BECKETT</speaker><content>So dental records confirm that our victim is Blake McCann.</content></utterance>
+<utterance uid="8-3"><speaker>BECKETT</speaker><content>I’m very sorry.</content></utterance>
+<utterance uid="8-4"><speaker>BURTON</speaker><content>He was a good man. Most decent person I ever knew.</content></utterance>
+<utterance uid="8-5"><speaker>BECKETT</speaker><content>Do you know anyone in his life that would have wanted to hurt him?</content></utterance>
+<utterance uid="8-6"><speaker>BURTON</speaker><content>Just the person who left this.  I found it at the fire scene.</content></utterance>
+<utterance uid="8-7"><speaker>BECKETT</speaker><content>What is it?</content></utterance>
+<utterance uid="8-8"><speaker>BURTON</speaker><content>This pattern is made by accelerant. From the staining pattern, probably benzoyl peroxide, squeezed from a tube. Blake found the same pattern in ten other burned buildings.</content></utterance>
+<utterance uid="8-9"><speaker>CASTLE</speaker><content>So it’s a signature?</content></utterance>
+<utterance uid="8-10"><speaker>BURTON</speaker><content>Of a serial arsonist. Blake has been hunting this guy for years. It’s how he spent every spare minute. In fact, he had just taken some vacation days to work the case. When I found this symbol I called him. He didn’t call me back. I, uh …  I just had an awful feeling.</content></utterance>
+<utterance uid="8-11"><speaker>BECKETT</speaker><content>Did he know who the arsonist is? Did he have any suspects.</content></utterance>
+<utterance uid="8-12"><speaker>BURTON</speaker><content>Not that he ever told me. He just called him The Phantom, because he seemed to be able to slip in and out of buildings without people ever noticing.</content></utterance>
+<utterance uid="8-13"><speaker>CASTLE</speaker><content>Until now, maybe.</content></utterance>
+<utterance uid="8-14"><speaker>BURTON</speaker><content>Well that’s gotta be it, right? I mean, Blake went in that building because he was after the guy. And that’s who killed him.</content></utterance>
+<utterance uid="8-15"><speaker>BECKETT</speaker><content>It’s too soon to know, but it’s a place to start. Now, we’re going to need copies of his case files linked to the arsonist.</content></utterance>
+<utterance uid="8-16"><speaker>BURTON</speaker><content>Well, he took a bunch of them home with him.</content></utterance>
+<utterance uid="8-17"><speaker>BECKETT</speaker><content>I’ll have detectives pick them up.</content></utterance>
+<utterance uid="8-18"><speaker>BURTON</speaker><content>The rest are at the office. I’ll get them over to you.</content></utterance>
+<utterance uid="8-19"><speaker>BECKETT</speaker><content>Great.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>BECKETT</speaker><content>So, I talked to Blake McCann’s coworkers, his ex-wife, and if he’s got any enemies I’m not finding them.</content></utterance>
+<utterance uid="9-2"><speaker>CASTLE</speaker><content>Leaving us with The Phantom.</content></utterance>
+<utterance uid="9-3"><speaker>BECKETT</speaker><content>Can you please not call him that? It just – it sounds silly.</content></utterance>
+<utterance uid="9-4"><speaker>CASTLE</speaker><content>Sillier than the arsonist, which starts with ‘arse’? At least with The Phantom he’s got some mystique.</content></utterance>
+<utterance uid="9-5"><speaker>BECKETT</speaker><content>He doesn’t deserve mystique. He’s a killer.</content></utterance>
+<utterance uid="9-6"><speaker>CASTLE</speaker><content>Yeah, but killing is not a part of his usual MO. Until now all the building he torched were empty.</content></utterance>
+<utterance uid="9-7"><speaker>BECKETT</speaker><content>Okay, all right. So what else do they have in common?</content></utterance>
+<utterance uid="9-8"><speaker>CASTLE</speaker><content>Not much.  All the buildings were older, but some were residential, some were office buildings. There were two in Manhattan, and the rest in Brooklyn and in Queens.</content></utterance>
+<utterance uid="9-9"><speaker>BECKETT</speaker><content>Were they insured?</content></utterance>
+<utterance uid="9-10"><speaker>CASTLE</speaker><content>A couple of them, but not all of them, so it probably was not arson for hire.</content></utterance>
+<utterance uid="9-11"><speaker>BECKETT</speaker><content>Which means he’s doing this for himself. He’s burning these buildings to satisfy an inner need. And like a serial killer, there’s a reason why he chooses the buildings he does. There’s a patterns or something.</content></utterance>
+<utterance uid="9-12"><speaker>CASTLE</speaker><content>Ooh.</content></utterance>
+<utterance uid="9-13"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="9-14"><speaker>CASTLE</speaker><content>An entry from three days ago. McCann wrote down a name. Ferguson.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>ESPOSITO</speaker><content>Clear.</content></utterance>
+<utterance uid="10-2"><speaker>RYAN</speaker><content>Clear.</content></utterance>
+<utterance uid="10-3"><speaker>ESPOSITO</speaker><content>I’d say someone besides us is interested in Blake McCann.</content></utterance>
+<utterance uid="10-4"><speaker>RYAN</speaker><content>Yeah. Looks like this place was tossed after he was killed.</content></utterance>
+<utterance uid="10-5"><speaker>ESPOSITO</speaker><content>You thinking what I’m thinking?</content></utterance>
+<utterance uid="10-6"><speaker>RYAN</speaker><content>That the arsonist shot him and then got word that McCann left a paper trail.</content></utterance>
+<utterance uid="10-7"><speaker>ESPOSITO</speaker><content>He came here searching for any files or evidence that would point to him.</content></utterance>
+<utterance uid="10-8"><speaker>RYAN</speaker><content>Maybe our perp tossed the place because he couldn’t find them.</content></utterance>
+<utterance uid="10-9"><speaker>ESPOSITO</speaker><content>But McCann had no reason to hide those files. They’d be out on a table, a desk, or a nightstand. Wait. McCann’s car. It wasn’t in the driveway.</content></utterance>
+<utterance uid="10-10"><speaker>RYAN</speaker><content>Or in the garage.</content></utterance>
+<utterance uid="10-11"><speaker>ESPOSITO</speaker><content>He probably drove it to that building before he was killed. It still could be down there.</content></utterance>
+<utterance uid="10-12"><speaker>RYAN</speaker><content>Yeah. With those files in it.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>BECKETT</speaker><content>Here it is. Adam Ferguson. Blake McCann helped put him away on multiple arson counts. He got out of prison five years ago.</content></utterance>
+<utterance uid="11-2"><speaker>CASTLE</speaker><content>Which, by wild coincidence, it about the same time those buildings started getting torched.</content></utterance>
+<utterance uid="11-3"><speaker>BECKETT</speaker><content>Not only that, but check this out.  Look at who Blake called on his cell the day before he was killed.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>ADAM FERGUSON</speaker><content>Yeah, McCann called me.</content></utterance>
+<utterance uid="12-2"><speaker>BECKETT</speaker><content>To talk about what?</content></utterance>
+<utterance uid="12-3"><speaker>FERGUSON</speaker><content>Just a chat between friends.</content></utterance>
+<utterance uid="12-4"><speaker>BECKETT</speaker><content>Where were you last night between 9 and 1AM, Mr. Ferguson?</content></utterance>
+<utterance uid="12-5"><speaker>FERGUSON</speaker><content>Why?</content></utterance>
+<utterance uid="12-6"><speaker>BECKETT</speaker><content>Because he was murdered by an arsonist he was hunting.</content></utterance>
+<utterance uid="12-7"><speaker>FERGUSON</speaker><content>Well that’s a real shame.</content></utterance>
+<utterance uid="12-8"><speaker>CASTLE</speaker><content>An arsonist not unlike yourself. Matter of fact, one of his final acts was to write down your name.</content></utterance>
+<utterance uid="12-9"><speaker>FERGUSON</speaker><content>Not because I killed him.  It must have The Phantom. I don’t know his real name.</content></utterance>
+<utterance uid="12-10"><speaker>CASTLE</speaker><content>How do you know about him at all?</content></utterance>
+<utterance uid="12-11"><speaker>FERGUSON</speaker><content>Blake told me. He called me. Asked me to meet him in some deli in the Village. He was all startled up about catching this Phantom guy. He asked for my help and I said I’d give it to him.</content></utterance>
+<utterance uid="12-12"><speaker>CASTLE</speaker><content>Even though he put you in prison?</content></utterance>
+<utterance uid="12-13"><speaker>FERGUSON</speaker><content>Blake paid me for my time. Plus, uh …  .. he let me see some of the photos of the fires.  So we both got something out of the deal.</content></utterance>
+<utterance uid="12-14"><speaker>BECKETT</speaker><content>And what other wisdom did you offer him?</content></utterance>
+<utterance uid="12-15"><speaker>FERGUSON</speaker><content>Any idiot can slosh gas around and light a match. But this guy, he knew fire. Knew how it spread.  See, fires are just like people. There’s a weak spot. The soft underbelly. He would find it. Use it. Unleash an inferno with barely any accelerant. That … is an artist.</content></utterance>
+<utterance uid="12-16"><speaker>BECKETT</speaker><content>So how did any of this help McCann?</content></utterance>
+<utterance uid="12-17"><speaker>FERGUSON</speaker><content>I gave him some tips. I told him he was looking for someone who cases, builds things carefully. Visits them a few times before he strikes.</content></utterance>
+<utterance uid="12-18"><speaker>BECKETT</speaker><content>What else?</content></utterance>
+<utterance uid="12-19"><speaker>FERGUSON</speaker><content>An artist like The Phantom? He wants to admire his work. It’s not enough that he sets the fire. He needs to feel the heat, to listen to the music. The roar of the flames, the moans of the buildings as they give in? That’s what he lives for. Which is why, with every fire he sets, he is there watching.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>CAPTAIN VICTORIA GATES</speaker><content>What do you make of his story?</content></utterance>
+<utterance uid="13-2"><speaker>BECKETT</speaker><content>The staff of the deli where he said he met McCann remembers seeing them.</content></utterance>
+<utterance uid="13-3"><speaker>CASTLE</speaker><content>There’s no way to really know what they talked about. McCann could have accused him of being The Phantom.</content></utterance>
+<utterance uid="13-4"><speaker>GATES</speaker><content>Maybe he is The Phantom.</content></utterance>
+<utterance uid="13-5"><speaker>BECKETT</speaker><content>We don’t have anything that links him to any of the arsons yet, so …</content></utterance>
+<utterance uid="13-6"><speaker>GATES</speaker><content>Dig into his alibi and associates. See if you can get anything that’s solid.</content></utterance>
+<utterance uid="13-7"><speaker>BECKETT</speaker><content>Okay.</content></utterance>
+<utterance uid="13-8"><speaker>CASTLE</speaker><content>You know, one thing about his story that does ring true on a character level is about how the arsonist watches his own fires.</content></utterance>
+<utterance uid="13-9"><speaker>BECKETT</speaker><content>Yeah well, I’ve got unis canvassing the fire scene and checking into all the security cameras in the area for anyone who was hanging out.</content></utterance>
+<utterance uid="13-10"><speaker>BECKETT</speaker><content>Beckett.</content></utterance>
+<utterance uid="13-11"><speaker>ESPOSITO</speaker><content>Yo. Found McCann’s car. It was parked two blocks from the fire and there was something inside.</content></utterance>
+<utterance uid="13-12"><speaker>BECKETT</speaker><content>Arson files?</content></utterance>
+<utterance uid="13-13"><speaker>ESPOSITO</speaker><content>No, it looks like it was several files he put together himself. One was about the building he was burned up in.</content></utterance>
+<utterance uid="13-14"><speaker>BECKETT</speaker><content>What’s the other one?</content></utterance>
+<utterance uid="13-15"><speaker>ESPOSITO</speaker><content> Give me that.  It’s an old shoe factory in Brooklyn on Arcadia Lane. It looks like it’s been empty for five years.</content></utterance>
+<utterance uid="13-16"><speaker>BECKETT</speaker><content> You know, maybe those files were on buildings that McCann thought were being targeted.</content></utterance>
+<utterance uid="13-17"><speaker>CASTLE</speaker><content> He was right about one of them.</content></utterance>
+<utterance uid="13-18"><speaker>BECKETT</speaker><content> Listen, Espo, we believe that the arsonist cases the buildings the burns. So check that factory and see if anyone suspicious has been seen inside.</content></utterance>
+<utterance uid="13-19"><speaker>ESPOSITO</speaker><content>We’re on it.</content></utterance>
+</scene>
+
+<scene id="14"><utterance uid="14-1"><speaker>ESPOSITO</speaker><content>Man. Look at this place. Fire would be an improvement.</content></utterance>
+<utterance uid="14-2"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+<utterance uid="14-3"><speaker>ESPOSITO</speaker><content>It looks like no one’s set foot in here in years.</content></utterance>
+<utterance uid="14-4"><speaker>RYAN</speaker><content>It’s pretty creepy.</content></utterance>
+<utterance uid="14-5"><speaker>ESPOSITO</speaker><content>Hey!</content></utterance>
+<utterance uid="14-6"><speaker>RYAN</speaker><content>What?</content></utterance>
+<utterance uid="14-7"><speaker>ESPOSITO</speaker><content>Trust me, bro. Your ringer is all the way up.</content></utterance>
+<utterance uid="14-8"><speaker>RYAN</speaker><content>I just want to make sure. Jenny might call me at any minute.</content></utterance>
+<utterance uid="14-9"><speaker>ESPOSITO</speaker><content>Pulling your phone out isn’t going to make it happen any sooner. You just need to chill.</content></utterance>
+<utterance uid="14-10"><speaker>RYAN</speaker><content>And you know this from your vast experience of having zero kids?</content></utterance>
+<utterance uid="14-11"><speaker>ESPOSITO</speaker><content>All right, you know what? You’re all emotional right now so I’m going to let that go.</content></utterance>
+<utterance uid="14-12"><speaker>RYAN</speaker><content>Hmm.</content></utterance>
+<utterance uid="14-13"><speaker>ESPOSITO</speaker><content>All right, let’s get back. There’s nothing to see here.</content></utterance>
+<utterance uid="14-14"><speaker>RYAN</speaker><content>Whoa, wait a minute. Abandoned building with a brand new lock?</content></utterance>
+<utterance uid="14-15"><speaker>RYAN</speaker><content>NYPD, anybody here?</content></utterance>
+<utterance uid="14-16"><speaker>ESPOSITO</speaker><content>All clear.</content></utterance>
+<utterance uid="14-17"><speaker>RYAN</speaker><content>Clear.</content></utterance>
+<utterance uid="14-18"><speaker>ESPOSITO</speaker><content>What the hell?</content></utterance>
+<utterance uid="14-19"><speaker>RYAN</speaker><content>Javi, those are blasting caps here.</content></utterance>
+<utterance uid="14-20"><speaker>ESPOSITO</speaker><content>And accelerants up the wazoo. Look.</content></utterance>
+<utterance uid="14-21"><speaker>RYAN</speaker><content>This isn’t the arsonist’s next target. It’s his workshop.</content></utterance>
+<utterance uid="14-22"><speaker>ESPOSITO</speaker><content>We must have set off an alarm.</content></utterance>
+<utterance uid="14-23"><speaker>RYAN</speaker><content>It’s not an alarm. Get out. Get out now!</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>BECKETT</speaker><content>So I checked the security cameras near the fire. They were disabled.</content></utterance>
+<utterance uid="15-2"><speaker>CASTLE</speaker><content>Disabled how?</content></utterance>
+<utterance uid="15-3"><speaker>BECKETT</speaker><content>Someone used a can of spray paint mounted on a pole and blacked out the lenses of both cameras just minutes before the fire.</content></utterance>
+<utterance uid="15-4"><speaker>CASTLE</speaker><content>That must have been the arsonist. Maybe somebody saw them do it. Can we canvass the area? And by ‘we’ I mean obviously somebody else.</content></utterance>
+<utterance uid="15-5"><speaker>BECKETT</speaker><content>What are you looking for? And don’t tell me, it’s something completely inappropriate for the workplace.</content></utterance>
+<utterance uid="15-6"><speaker>CASTLE</speaker><content>No, not this time. Given that everyone uploads everything to the internet nowadays I thought I might see if anyone else took a video of that fire, and look.  If the arsonist was watching that fire he might be in this video.</content></utterance>
+<utterance uid="15-7"><speaker>BECKETT</speaker><content>Can you turn up the sound?</content></utterance>
+<utterance uid="15-8"><speaker>CASTLE</speaker><content>Yeah.</content></utterance>
+<utterance uid="15-9"><speaker>BECKETT</speaker><content>That doesn’t look right.</content></utterance>
+<utterance uid="15-10"><speaker>CASTLE</speaker><content>Seriously? A lot better quality than the security camera.</content></utterance>
+<utterance uid="15-11"><speaker>BECKETT</speaker><content>No, babe, I’m talking about the building. That fire just started.</content></utterance>
+<utterance uid="15-12"><speaker>BECKETT</speaker><content>Huh.</content></utterance>
+<utterance uid="15-13"><speaker>CASTLE</speaker><content>What?</content></utterance>
+<utterance uid="15-14"><speaker>BECKETT</speaker><content>The fire department’s not even there. I mean, they’re not on their way. You can’t hear the sirens.</content></utterance>
+<utterance uid="15-15"><speaker>CASTLE</speaker><content>So how did the cameraman know there was a fire when no one else did?</content></utterance>
+<utterance uid="15-16"><speaker>BECKETT</speaker><content>And listen to that.  He’s not yelling for anyone to call 911. He’s not saying anything.</content></utterance>
+<utterance uid="15-17"><speaker>CASTLE</speaker><content>Look at the camera work. Very smooth, steady. You – you don’t think –</content></utterance>
+<utterance uid="15-18"><speaker>BECKETT</speaker><content>Yeah, I do. This isn’t just footage of the fire. It was shot by the arsonist. We have to track down whoever posted that video.</content></utterance>
+<utterance uid="15-19"><speaker>CASTLE</speaker><content> Got you.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>TECH AGENT TORI</speaker><content>That won’t be so easy. Usually there’s a file embedded in the video with data on the camera, but it’s been stripped out.</content></utterance>
+<utterance uid="16-2"><speaker>CASTLE</speaker><content>Can you tell where it was uploaded?</content></utterance>
+<utterance uid="16-3"><speaker>TORI</speaker><content>Let me see.  Looks like the video got bounced around the net from site to site. But this is where it started.</content></utterance>
+<utterance uid="16-4"><speaker>BECKETT</speaker><content> Pyrolicious.com. Really?</content></utterance>
+<utterance uid="16-5"><speaker>TORI</speaker><content>Wow. Okay. A site that caters to fire fetishists.</content></utterance>
+<utterance uid="16-6"><speaker>BECKETT</speaker><content>I didn’t even know there was a fire fetish.</content></utterance>
+<utterance uid="16-7"><speaker>CASTLE</speaker><content>The actual term is pyrophilia, for the proof that the internet has something for everyone.</content></utterance>
+<utterance uid="16-8"><speaker>BECKETT</speaker><content> I’m not going to ask how you knew that.</content></utterance>
+<utterance uid="16-9"><speaker>BECKETT</speaker><content>So when did this video show up there?</content></utterance>
+<utterance uid="16-10"><speaker>TORI</speaker><content>About an hour after the fire was put out.</content></utterance>
+<utterance uid="16-11"><speaker>BECKETT</speaker><content>And who runs the site?</content></utterance>
+<utterance uid="16-12"><speaker>TORI</speaker><content>It’s registered to a Milo Pavlik.</content></utterance>
+<utterance uid="16-13"><speaker>CASTLE</speaker><content>Does he have a record?</content></utterance>
+<utterance uid="16-14"><speaker>TORI</speaker><content>Oh yeah. He burnt down his family’s house when he was 19.</content></utterance>
+<utterance uid="16-15"><speaker>BECKETT</speaker><content>Where do we find this Milo Pavlik?</content></utterance>
+</scene>
+
+<scene id="17"><utterance uid="17-1"><speaker>BECKETT</speaker><content>Milo Pavlik, NYPD! Open up!</content></utterance>
+<utterance uid="17-2"><speaker>MILO PAVLIK</speaker><content>What? Hi –  – hey, what are you doing?</content></utterance>
+<utterance uid="17-3"><speaker>BECKETT</speaker><content>Where did this video come from?</content></utterance>
+<utterance uid="17-4"><speaker>MILO</speaker><content>Listen, nothing I do here is illegal. I simply provide fire enthusiasts around the globe –</content></utterance>
+<utterance uid="17-5"><speaker>BECKETT</speaker><content>This fire was set by an arsonist.</content></utterance>
+<utterance uid="17-6"><speaker>CASTLE</speaker><content>Not to mention a murderer.</content></utterance>
+<utterance uid="17-7"><speaker>BECKETT</speaker><content>So who shot this video? Was it you?</content></utterance>
+<utterance uid="17-8"><speaker>MILO</speaker><content>No! What? It wasn’t me!</content></utterance>
+<utterance uid="17-9"><speaker>BECKETT</speaker><content>Then how’d it get up on your site?</content></utterance>
+<utterance uid="17-10"><speaker>MILO</speaker><content>Sorry, it’s a text.</content></utterance>
+<utterance uid="17-11"><speaker>BECKETT</speaker><content>I don’t care. How did it get up on your site?</content></utterance>
+<utterance uid="17-12"><speaker>MILO</speaker><content>I have a dropbox outside. People leave stuff. It was on a USB drive. It was quality material so I uploaded it.</content></utterance>
+<utterance uid="17-13"><speaker>CASTLE</speaker><content>Who dropped it off?</content></utterance>
+<utterance uid="17-14"><speaker>MILO</speaker><content>I don’t know. I have no idea.</content></utterance>
+<utterance uid="17-15"><speaker>BECKETT</speaker><content>That’s very convenient. Now did this person ever provide any other material?</content></utterance>
+<utterance uid="17-16"><speaker>MILO</speaker><content>Yeah, he’s got a real eye, this one. Sent me a few choice items.</content></utterance>
+<utterance uid="17-17"><speaker>CASTLE</speaker><content> If it really was someone else and they’re submitting videos, then he visits the site.</content></utterance>
+<utterance uid="17-18"><speaker>BECKETT</speaker><content>I’m going to need the names of all of your members, along with records of site traffic over the past five years.</content></utterance>
+<utterance uid="17-19"><speaker>MILO</speaker><content>I’m pretty sure you need a warrant for that.</content></utterance>
+<utterance uid="17-20"><speaker>BECKETT</speaker><content>Not if you agree to cooperate, which I highly encourage you to do.  Hey, who the hell keeps texting you?</content></utterance>
+<utterance uid="17-21"><speaker>MILO</speaker><content>It’s a news alert. There’s a three alarm fire going in Brooklyn.</content></utterance>
+<utterance uid="17-22"><speaker>CASTLE</speaker><content>Where in Brooklyn?</content></utterance>
+<utterance uid="17-23"><speaker>MILO</speaker><content>Uh … some factory on Arcadia Lane.</content></utterance>
+<utterance uid="17-24"><speaker>CASTLE</speaker><content>Oh no.</content></utterance>
+</scene>
+
+
+<scene id="18"><utterance uid="18-1"><speaker>CASTLE</speaker><content>Still no answer. Not from Ryan or Esposito.</content></utterance>
+<utterance uid="18-2"><speaker>FIRE CHIEF MILLER</speaker><content>Detective, are you sure they’re inside?</content></utterance>
+<utterance uid="18-3"><speaker>BECKETT</speaker><content>Yeah, they were checking the building in connection with an arson/homicide and they haven’t called in yet. You need to alert your rescue teams.</content></utterance>
+<utterance uid="18-4"><speaker>MILLER</speaker><content>Detective, the building’s fully engulfed. I just had to pull out the interior tact teams. I can’t send in a rescue team until it’s more contained.</content></utterance>
+<utterance uid="18-5"><speaker>BECKETT</speaker><content>Wait, more contained? If my guys are in there I need you to bring them out.</content></utterance>
+<utterance uid="18-6"><speaker>MILLER</speaker><content>If I could get in there, I would. But there’s been a partial collapse inside. I almost lost six of my guys. We’ll do everything we can, Detective, but this building’s a firestorm. Every floor.  If your guys are in there, I’m sorry, they’re probably already gone.</content></utterance>
+<utterance uid="18-7"><speaker>BECKETT</speaker><content>Chief.  The fire. What started it.</content></utterance>
+<utterance uid="18-8"><speaker>MILLER</speaker><content>Shattered windows and structural damage indicate some kind of explosion.</content></utterance>
+<utterance uid="18-9"><speaker>CASTLE</speaker><content> Maybe, um … maybe they weren’t inside.</content></utterance>
+<utterance uid="18-10"><speaker>BECKETT</speaker><content>Their car’s here and they haven’t called. They’re inside.  I shouldn’t have let them go alone. I should have just –</content></utterance>
+<utterance uid="18-11"><speaker>CASTLE</speaker><content>There’s no way you could have known that. This isn’t you. It’s the arsonist.</content></utterance>
+<utterance uid="18-12"><speaker>BECKETT</speaker><content>It’s Jenny.</content></utterance>
+<utterance uid="18-13"><speaker>CASTLE</speaker><content>Why would she be calling you?</content></utterance>
+<utterance uid="18-14"><speaker>BECKETT</speaker><content>Maybe she’s heard from them. Maybe she knows if they’re safe.</content></utterance>
+<utterance uid="18-15"><speaker>BECKETT</speaker><content>Jenny?</content></utterance>
+<utterance uid="18-16"><speaker>JENNY</speaker><content>Kate, thank God. Um, have … have you heard from Kevin?</content></utterance>
+<utterance uid="18-17"><speaker>BECKETT</speaker><content>No, I haven’t. Have you?</content></utterance>
+<utterance uid="18-18"><speaker>JENNY</speaker><content>No, I’ve been calling him to test our system and he’s not answering and I’m freaking out a little bit. Um … do you have any idea where he is?</content></utterance>
+<utterance uid="18-19"><speaker>JENNY</speaker><content>Kate? Kate, are you there?</content></utterance>
+<utterance uid="18-20"><speaker>BECKETT</speaker><content>Yeah.  Yeah, I’m here.</content></utterance>
+<utterance uid="18-21"><speaker>JENNY</speaker><content>What’s going on? Where’s Kevin?</content></utterance>
+<utterance uid="18-22"><speaker>BECKETT</speaker><content>Jenny, I need you to stay calm. Okay? Something’s happened.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>REPORTER</speaker><content>And as firefighters struggle to bring the blaze under control we now have unconfirmed reports that two NYPD detectives were inside the building at the time of the explosion. We’ll be bringing you live updates as the news comes in.</content></utterance>
+<utterance uid="19-2"><speaker>DETECTIVE</speaker><content>Sir, is it true?</content></utterance>
+<utterance uid="19-3"><speaker>GATES</speaker><content>We don’t know. What we do know is that Detectives Ryan and Esposito were investigating that building for ties to a serial arsonist. And it’s possible that the explosion in that building was deliberately set by that same arsonist, a man suspected in ten other fires, as well as the murder of a member of the New York Fire Department. And if it is true, then this sick son of a b*tch has just added two of our own to his list.</content></utterance>
+<utterance uid="19-4"><speaker>BURTON</speaker><content>On your desk you will find copies of all the files we have on each one of these arsons.</content></utterance>
+<utterance uid="19-5"><speaker>GATES</speaker><content>Somewhere in there there is a trail. Somewhere in there there is a clue as to who he is and he needs to be brought to account.</content></utterance>
+</scene>
+
+<scene id="20"><utterance uid="20-1"><speaker>ESPOSITO</speaker><content>Ryan!  Ryan! Ryan?</content></utterance>
+<utterance uid="20-2"><speaker>ESPOSITO</speaker><content>Bro, is that you?</content></utterance>
+<utterance uid="20-3"><speaker>ESPOSITO</speaker><content>You all right?</content></utterance>
+<utterance uid="20-4"><speaker>RYAN</speaker><content>Yeah, yeah.  I can’t move. My legs are stuck.</content></utterance>
+<utterance uid="20-5"><speaker>ESPOSITO</speaker><content>It’s too heavy.</content></utterance>
+<utterance uid="20-6"><speaker>RYAN</speaker><content> It’s an oven in here. You should get out, man.</content></utterance>
+<utterance uid="20-7"><speaker>ESPOSITO</speaker><content>Not without you, partner.</content></utterance>
+<utterance uid="20-8"><speaker>RYAN</speaker><content>Last thing I remember is the floor giving away. How far do you think we fell?</content></utterance>
+<utterance uid="20-9"><speaker>ESPOSITO</speaker><content>At least two floors.</content></utterance>
+<utterance uid="20-10"><speaker>RYAN</speaker><content> He must have rigged this place.</content></utterance>
+<utterance uid="20-11"><speaker>ESPOSITO</speaker><content>Probably to destroy any evidence in case he was found.</content></utterance>
+<utterance uid="20-12"><speaker>RYAN</speaker><content>Yeah, including us.</content></utterance>
+<utterance uid="20-13"><speaker>ESPOSITO</speaker><content>Not if I can help it. You ready?</content></utterance>
+<utterance uid="20-14"><speaker>RYAN</speaker><content> Yeah.</content></utterance>
+<utterance uid="20-15"><speaker>ESPOSITO</speaker><content>All right. Here we go.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>CASTLE</speaker><content>They’re smart. They’re survivors. If there’s a safe place inside that building, they may have found it. They may still be alive.</content></utterance>
+<utterance uid="21-2"><speaker>BECKETT</speaker><content>Yeah, but for how long?</content></utterance>
+<utterance uid="21-3"><speaker>BECKETT</speaker><content>The two folders in McCann’s car, he knew that this building was next. How?</content></utterance>
+<utterance uid="21-4"><speaker>CASTLE</speaker><content>Somehow he must have figured out the arsonist’s pattern.</content></utterance>
+<utterance uid="21-5"><speaker>BECKETT</speaker><content> Which means there is a pattern. And if he figured it out, so can we.</content></utterance>
+<utterance uid="21-6"><speaker>MILLER</speaker><content>Move back! Everybody back!</content></utterance>
+<utterance uid="21-7"><speaker>BECKETT</speaker><content>What’s going on?</content></utterance>
+<utterance uid="21-8"><speaker>MILLER</speaker><content>This building’s gone. We need to move to defensive attack. The other structures are in danger.</content></utterance>
+<utterance uid="21-9"><speaker>BECKETT</speaker><content>So you’re just giving up?</content></utterance>
+<utterance uid="21-10"><speaker>KIMBALL</speaker><content>No, our teams just went through the other buildings. They’re tinderboxes. If we don’t hold the line we could lose the whole block.</content></utterance>
+<utterance uid="21-11"><speaker>LANIE</speaker><content>Kate?</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>RYAN</speaker><content>The ceiling’s going to give away at any minute. You need to get out of here, okay?</content></utterance>
+<utterance uid="22-2"><speaker>ESPOSITO</speaker><content>Shut up. I’m trying to save your life.</content></utterance>
+<utterance uid="22-3"><speaker>ESPOSITO</speaker><content>Here we go. There. Ready?</content></utterance>
+<utterance uid="22-4"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+<utterance uid="22-5"><speaker>ESPOSITO</speaker><content>Go, go, go, go, go!</content></utterance>
+<utterance uid="22-6"><speaker>RYAN</speaker><content>I’m okay, I’m okay.</content></utterance>
+<utterance uid="22-7"><speaker>ESPOSITO</speaker><content>Can you walk?</content></utterance>
+<utterance uid="22-8"><speaker>RYAN</speaker><content>Give me a hand. I’m kind of okay.</content></utterance>
+<utterance uid="22-9"><speaker>ESPOSITO</speaker><content>How’s it feel?</content></utterance>
+<utterance uid="22-10"><speaker>RYAN</speaker><content>Oh, I can stand.  Where are we?</content></utterance>
+<utterance uid="22-11"><speaker>ESPOSITO</speaker><content>Looks like some kind of sub-basement.</content></utterance>
+<utterance uid="22-12"><speaker>RYAN</speaker><content>I don’t see any doors.</content></utterance>
+<utterance uid="22-13"><speaker>ESPOSITO</speaker><content>Looks like that was our way out.</content></utterance>
+<utterance uid="22-14"><speaker>RYAN</speaker><content>Yeah, I don’t think we wanted to go up, anyway.</content></utterance>
+<utterance uid="22-15"><speaker>ESPOSITO</speaker><content>We’re not going to get out without help.  Ugh, my phone’s busted from the fall. What about you?</content></utterance>
+<utterance uid="22-16"><speaker>RYAN</speaker><content>Uh … yeah, I got nothing.</content></utterance>
+<utterance uid="22-17"><speaker>ESPOSITO</speaker><content>All right, well … as big as this thing is, the fire department’s gotta be other there. They’ve gotta be on scene.</content></utterance>
+<utterance uid="22-18"><speaker>RYAN</speaker><content>Yeah. We should let them know that we’re down here.</content></utterance>
+<utterance uid="22-19"><speaker>ESPOSITO</speaker><content>Yo!</content></utterance>
+<utterance uid="22-20"><speaker>RYAN</speaker><content>Anybody hear us? Down here!</content></utterance>
+<utterance uid="22-21"><speaker>ESPOSITO</speaker><content>Anybody up there?</content></utterance>
+<utterance uid="22-22"><speaker>RYAN</speaker><content>Hey!</content></utterance>
+<utterance uid="22-23"><speaker>ESPOSITO</speaker><content>Down here!</content></utterance>
+<utterance uid="22-24"><speaker>RYAN</speaker><content>Hey!</content></utterance>
+<utterance uid="22-25"><speaker>RYAN</speaker><content>The fire’s too loud. They can’t hear us.</content></utterance>
+<utterance uid="22-26"><speaker>ESPOSITO</speaker><content>I’ve got an idea.</content></utterance>
+<utterance uid="22-27"><speaker>ESPOSITO</speaker><content>Maybe the sound’ll carry up. Let them know we’re down here.</content></utterance>
+<utterance uid="22-28"><speaker>ESPOSITO</speaker><content>Hey!</content></utterance>
+<utterance uid="22-29"><speaker>RYAN</speaker><content>Down here!</content></utterance>
+<utterance uid="22-30"><speaker>ESPOSITO</speaker><content>Hey!</content></utterance>
+<utterance uid="22-31"><speaker>RYAN</speaker><content>Hey! Down here!</content></utterance>
+</scene>
+
+<scene id="23"><utterance uid="23-1"><speaker>RYAN</speaker><content>Hey! Down here!</content></utterance>
+<utterance uid="23-2"><speaker>ESPOSITO</speaker><content>Hey!</content></utterance>
+<utterance uid="23-3"><speaker>ESPOSITO</speaker><content>Hey!</content></utterance>
+<utterance uid="23-4"><speaker>RYAN</speaker><content>Stop.</content></utterance>
+<utterance uid="23-5"><speaker>ESPOSITO</speaker><content>What?</content></utterance>
+<utterance uid="23-6"><speaker>RYAN</speaker><content>They can’t hear us.</content></utterance>
+<utterance uid="23-7"><speaker>ESPOSITO</speaker><content>We can’t just quit, man.</content></utterance>
+<utterance uid="23-8"><speaker>RYAN</speaker><content>We better save our strength.</content></utterance>
+<utterance uid="23-9"><speaker>ESPOSITO</speaker><content>For what? Nobody knows we’re down here. It’s only a matter of time before the fire sucks all of the oxygen out of the room.</content></utterance>
+<utterance uid="23-10"><speaker>RYAN</speaker><content>There’s gotta be some way out of here. Some other way of letting them know that we’re down here.</content></utterance>
+<utterance uid="23-11"><speaker>ESPOSITO</speaker><content>Yeah? Like what?</content></utterance>
+<utterance uid="23-12"><speaker>RYAN</speaker><content>I don’t know. Something.</content></utterance>
+<utterance uid="23-13"><speaker>ESPOSITO</speaker><content>Yeah? Well, unless you have an oxygen tank, a pair of wings, and a Nomex suit, we’re going to cook.</content></utterance>
+<utterance uid="23-14"><speaker>RYAN</speaker><content>Maybe not.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>GATES</speaker><content>What do you mean, they’re pulling back?</content></utterance>
+<utterance uid="24-2"><speaker>BECKETT</speaker><content>According to the IC, the building is structurally compromised and they can’t get their men in. At this point they don’t feel it’s a rescue operation anymore. It’s a recovery.</content></utterance>
+<utterance uid="24-3"><speaker>GATES</speaker><content>Okay, Detective. Let me know if you hear anything more.</content></utterance>
+<utterance uid="24-4"><speaker>BECKETT</speaker><content>Yes, sir.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>BECKETT</speaker><content>Anything?</content></utterance>
+<utterance uid="25-2"><speaker>CASTLE</speaker><content>No. According to McCann’s file, the building was condemned, but there’s nothing here to indicate why it was the next target.</content></utterance>
+<utterance uid="25-3"><speaker>LANIE</speaker><content>Beckett!  She was at the police barricades.</content></utterance>
+<utterance uid="25-4"><speaker>BECKETT</speaker><content>Jenny, you shouldn’t be here.</content></utterance>
+<utterance uid="25-5"><speaker>JENNY</speaker><content>The hell I shouldn’t. My husband’s in there.</content></utterance>
+<utterance uid="25-6"><speaker>BECKETT</speaker><content>What’s – what’s going on?</content></utterance>
+<utterance uid="25-7"><speaker>LANIE</speaker><content>She’s having contractions.</content></utterance>
+<utterance uid="25-8"><speaker>CASTLE</speaker><content>You’re in labor?</content></utterance>
+<utterance uid="25-9"><speaker>LANIE</speaker><content>How far apart?</content></utterance>
+<utterance uid="25-10"><speaker>JENNY</speaker><content>Five minutes, maybe.</content></utterance>
+<utterance uid="25-11"><speaker>CASTLE</speaker><content>Whoa, no. She can’t – we’ve gotta get you to a hospital.</content></utterance>
+<utterance uid="25-12"><speaker>BECKETT</speaker><content>Medic? Over here. This woman’s in labor.</content></utterance>
+<utterance uid="25-13"><speaker>JENNY</speaker><content>No, I’m – I’m not leaving. Not without Kevin.</content></utterance>
+<utterance uid="25-14"><speaker>BECKETT</speaker><content>Jenny, there’s nothing you can do here.</content></utterance>
+<utterance uid="25-15"><speaker>JENNY</speaker><content>He’s inside, Kate. If he doesn’t make it out? If this is it?  I need to be here.</content></utterance>
+<utterance uid="25-16"><speaker>LANIE</speaker><content>Let me at least get you inside of an ambulance. You need to lie down so we can make sure that everything is okay.</content></utterance>
+<utterance uid="25-17"><speaker>JENNY</speaker><content>Okay, but I’m not leaving without him.</content></utterance>
+<utterance uid="25-18"><speaker>BECKETT</speaker><content>Okay.</content></utterance>
+<utterance uid="25-19"><speaker>BECKETT</speaker><content>I can’t believe that this is happening. This is like some kind of a dream. I just keep waiting to wake up but it’s like I can’t do anything.  It’s like there’s nothing we can do.</content></utterance>
+<utterance uid="25-20"><speaker>CASTLE</speaker><content>All we can do is be here for them.</content></utterance>
+<utterance uid="25-21"><speaker>BECKETT</speaker><content>Beckett.</content></utterance>
+<utterance uid="25-22"><speaker>BECKETT</speaker><content>Hello?</content></utterance>
+<utterance uid="25-23"><speaker>RYAN</speaker><content>Beckett? Beckett, can you hear me?</content></utterance>
+<utterance uid="25-24"><speaker>RYAN</speaker><content>Beckett? Can you hear me, Beckett?</content></utterance>
+<utterance uid="25-25"><speaker>BECKETT</speaker><content>Ryan?  Ryan, is that you?</content></utterance>
+<utterance uid="25-26"><speaker>RYAN</speaker><content>Yeah, yeah, yeah! It’s me, Beckett! Listen, that building that we went into, it wasn’t the next arson target. It was his lair. He rigged it to blow. Now we’re trapped inside. The whole place is in flames.</content></utterance>
+<utterance uid="25-27"><speaker>BECKETT</speaker><content> Yes, I know. Ryan, we’re right outside. We’ve got the whole fire department here. We though –  – you guys were dead.</content></utterance>
+<utterance uid="25-28"><speaker>ESPOSITO</speaker><content>Well we will be soon if we don’t get some help.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>MILLER</speaker><content>Exactly where in the building are you?</content></utterance>
+<utterance uid="26-2"><speaker>ESPOSITO</speaker><content>Some kind of sub-basement mechanical room. About 20 feet down from the main floor. There’s no windows, no doors.</content></utterance>
+<utterance uid="26-3"><speaker>MILLER</speaker><content>This doesn’t make any sense.</content></utterance>
+<utterance uid="26-4"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="26-5"><speaker>MILLER</speaker><content>Well, according to these plans, this building has a slab foundation. There is no basement area.</content></utterance>
+<utterance uid="26-6"><speaker>ESPOSITO</speaker><content>Well I don’t know what to tell you, pal. We’re in some sort of basement. There’s something wrong with your fricking plans.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>GATES</speaker><content>They’re alive?</content></utterance>
+<utterance uid="27-2"><speaker>CASTLE</speaker><content>Yeah. But they’re in an unmapped portion of the building, a sub-basement. The fire crews can’t get to them. We need to find them another way out of that room.</content></utterance>
+<utterance uid="27-3"><speaker>GATES</speaker><content>What makes you think there’s another way out?</content></utterance>
+<utterance uid="27-4"><speaker>CASTLE</speaker><content>The arsonist set the explosives to go off to eradicate all evidence if he was ever found. But what if someone discovered him while he was still in the building?</content></utterance>
+<utterance uid="27-5"><speaker>GATES</speaker><content>He’d need a way out.</content></utterance>
+<utterance uid="27-6"><speaker>CASTLE</speaker><content>There was a reason that sub-basement isn’t on the building plans. I think the arsonist doctored those plans.</content></utterance>
+<utterance uid="27-7"><speaker>GATES</speaker><content>What makes you say that?</content></utterance>
+<utterance uid="27-8"><speaker>CASTLE</speaker><content>Ryan said when they found the workspace it was right next to an open airshaft. That airshaft ran all the way down to the sub-basement.</content></utterance>
+<utterance uid="27-9"><speaker>GATES</speaker><content>You think it’s an escape route?</content></utterance>
+<utterance uid="27-10"><speaker>CASTLE</speaker><content>If the cops were to raid this place and they were covering the front and the back of the building, where is he going to go?</content></utterance>
+<utterance uid="27-11"><speaker>GATES</speaker><content>To the one room that isn’t on their plans.</content></utterance>
+<utterance uid="27-12"><speaker>CASTLE</speaker><content>Then he blows the place and everyone thinks that he’s been killed.</content></utterance>
+<utterance uid="27-13"><speaker>GATES</speaker><content>What better way to cover his tracks then disappear in a fire?</content></utterance>
+<utterance uid="27-14"><speaker>CASTLE</speaker><content>But that only works if there’s another way out of that fire.</content></utterance>
+<utterance uid="27-15"><speaker>GATES</speaker><content>And the only one to know that would be our arsonist.</content></utterance>
+<utterance uid="27-16"><speaker>CASTLE</speaker><content>We need to find him.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>TORI</speaker><content>Sir?  I’ve got something.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>TORI</speaker><content>I went back through the Pyrolicious websites. Six of their videos are fires attributed to our arsonist. Each was uploaded to the site shortly after the building was burned. But here’s the interesting part: one website member logged in and viewed each of these videos just minutes after they were posted. But only these videos.</content></utterance>
+<utterance uid="29-2"><speaker>GATES</speaker><content>That’s him. He’s checking out his work.</content></utterance>
+<utterance uid="29-3"><speaker>GATES</speaker><content>What’s this member’s name?</content></utterance>
+<utterance uid="29-4"><speaker>TORI</speaker><content>I don’t have his real name, just a user name. Firebug447.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>GATES</speaker><content>Who is he?</content></utterance>
+<utterance uid="30-2"><speaker>MILO</speaker><content>I don’t know!</content></utterance>
+<utterance uid="30-3"><speaker>GATES</speaker><content>The man has an account on your website. You charge your users. How can you not know?</content></utterance>
+<utterance uid="30-4"><speaker>MILO</speaker><content>He paid with a cashier’s check back when I was offering a lifetime membership. He mailed it in.</content></utterance>
+<utterance uid="30-5"><speaker>GATES</speaker><content>You’re lying.</content></utterance>
+<utterance uid="30-6"><speaker>MILO</speaker><content>I swear! I only know his username. Firebug447.</content></utterance>
+<utterance uid="30-7"><speaker>GATES</speaker><content>You listen to me. I’ve got two officers about to burn. Now, if you know anything about this man you are going to tell me or I will bury you as an accessory to murder.</content></utterance>
+<utterance uid="30-8"><speaker>MILO</speaker><content>We chat, sometimes. Over IM.</content></utterance>
+<utterance uid="30-9"><speaker>GATES</speaker><content>What would he say?</content></utterance>
+<utterance uid="30-10"><speaker>MILO</speaker><content>We’d talk about fire. How buildings burn.</content></utterance>
+<utterance uid="30-11"><speaker>GATES</speaker><content>did he say anything that could help us identify who he is?</content></utterance>
+<utterance uid="30-12"><speaker>MILO</speaker><content>No. I’d sometimes ask. He did once say why he did it. He said he couldn’t deal with the suffering. That sometimes sick and dying buildings need to burn to be put out of their misery.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>BECKETT</speaker><content>And you’re sure you don’t see another way out?</content></utterance>
+<utterance uid="31-2"><speaker>RYAN</speaker><content>If there is it’s covered by debris. Any idea where that way out might be?</content></utterance>
+<utterance uid="31-3"><speaker>BECKETT</speaker><content>Castle’s on the phone with the building department. He’s trying to get ahold of the original blueprints.</content></utterance>
+<utterance uid="31-4"><speaker>ESPOSITO</speaker><content>We’re assuming there even is a way out.  We’re giving this guy more credit than he deserves.</content></utterance>
+<utterance uid="31-5"><speaker>RYAN</speaker><content>We’re both getting sleepy. Carbon monoxide’s building up.</content></utterance>
+<utterance uid="31-6"><speaker>BECKETT</speaker><content>Ryan, you listen to me. You need to hang on, okay? They’re coming for you.</content></utterance>
+<utterance uid="31-7"><speaker>RYAN</speaker><content> Appreciate the pep talk, but we both know the fire’s too hot and they don’t know where to look.</content></utterance>
+<utterance uid="31-8"><speaker>BECKETT</speaker><content> No. Ryan –</content></utterance>
+<utterance uid="31-9"><speaker>RYAN</speaker><content>We’re going to lose the phone soon, Beckett, so … there’s something I need you to do.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>BECKETT</speaker><content>Jenny.</content></utterance>
+<utterance uid="32-2"><speaker>JENNY</speaker><content>Oh, what is it.</content></utterance>
+<utterance uid="32-3"><speaker>BECKETT</speaker><content>It’s him.</content></utterance>
+<utterance uid="32-4"><speaker>JENNY</speaker><content> It’s Kevin?  Is it you? It’s really you?</content></utterance>
+<utterance uid="32-5"><speaker>RYAN</speaker><content>Yeah. Yeah, it’s me, beautiful.</content></utterance>
+<utterance uid="32-6"><speaker>JENNY</speaker><content>Oh thank God. Where are you? The baby’s coming.</content></utterance>
+<utterance uid="32-7"><speaker>RYAN</speaker><content> I’m inside.</content></utterance>
+<utterance uid="32-8"><speaker>JENNY</speaker><content>Inside -? </content></utterance>
+<utterance uid="32-9"><speaker>RYAN</speaker><content>I’m sorry. I know I promised, but –  – I’m not going to be there.</content></utterance>
+<utterance uid="32-10"><speaker>JENNY</speaker><content>Don’t say that. Please don’t say that.</content></utterance>
+<utterance uid="32-11"><speaker>RYAN</speaker><content>I’m sorry.</content></utterance>
+<utterance uid="32-12"><speaker>RYAN</speaker><content>I love you more than anything. Remember that.  Always remember that.</content></utterance>
+<utterance uid="32-13"><speaker>JENNY</speaker><content>Kevin, please –  – no, don’t leave me.</content></utterance>
+<utterance uid="32-14"><speaker>RYAN</speaker><content> Oh, I don’t want to.</content></utterance>
+<utterance uid="32-15"><speaker>JENNY</speaker><content>We need a name. For the baby. We need to do that together.</content></utterance>
+<utterance uid="32-16"><speaker>RYAN</speaker><content> All right. If it’s a boy – Javier.</content></utterance>
+<utterance uid="32-17"><speaker>JENNY</speaker><content>And if it’s a girl?</content></utterance>
+<utterance uid="32-18"><speaker>RYAN</speaker><content>Sarah Grace, after your grandma.</content></utterance>
+<utterance uid="32-19"><speaker>JENNY</speaker><content>I love you so much, Kevin. I love you.</content></utterance>
+<utterance uid="32-20"><speaker>RYAN</speaker><content> – love – too.</content></utterance>
+<utterance uid="32-21"><speaker>JENNY</speaker><content>Kevin? Kevin? Kevin!</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>ESPOSITO</speaker><content> Javier? You’re going to name a white Irish kid Javier?</content></utterance>
+<utterance uid="33-2"><speaker>RYAN</speaker><content>What?  You’re going to bust on me now for being sentimental.</content></utterance>
+<utterance uid="33-3"><speaker>ESPOSITO</speaker><content>I figure it’s my last chance.</content></utterance>
+<utterance uid="33-4"><speaker>RYAN</speaker><content>Nah. Nah. We’re going to get out of here. There’s a way out and we’re going to find it. I’m not leaving Jenny. I’m not leaving my baby without a dad, alright?</content></utterance>
+<utterance uid="33-5"><speaker>RYAN</speaker><content>Hey. Hey! Javi!  No, no. Don’t you dare fall asleep on me. Don’ t you dare, Javi. Javi!  Javi!</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>JENNY</speaker><content>I don’t want to do this, Lanie. Not without him.</content></utterance>
+<utterance uid="34-2"><speaker>LANIE</speaker><content>I know, baby. I’m here. I’m here.  Contractions are two minutes apart. It’s coming.</content></utterance>
+<utterance uid="34-3"><speaker>LANIE</speaker><content>We’ll do this. Together. Okay?</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>BURTON</speaker><content>Detective.  We may have caught a break. According to Milo Pavlik, our arsonist picked his targets because the buildings were sick and dying and needed to be put out of their misery. So I went back through the files, all of the building inspector reports, and he was right. Each of the target buildings had issues. Structural defects, wiring problems, rot.</content></utterance>
+<utterance uid="35-2"><speaker>CASTLE</speaker><content>Okay, but how did our guy know that?</content></utterance>
+<utterance uid="35-3"><speaker>BECKETT</speaker><content>He didn’t just case the buildings. He spent time inside.</content></utterance>
+<utterance uid="35-4"><speaker>BURTON</speaker><content>I think that’s what Blake discovered. How he got onto this place. Do you have those files that Ryan and Esposito found?</content></utterance>
+<utterance uid="35-5"><speaker>CASTLE</speaker><content>Yeah, right here.</content></utterance>
+<utterance uid="35-6"><speaker>BURTON</speaker><content>The building inspection reports. Who signed them?</content></utterance>
+<utterance uid="35-7"><speaker>CASTLE</speaker><content>Uh … Mark Kimball.</content></utterance>
+<utterance uid="35-8"><speaker>BURTON</speaker><content>All of these files, each one, they have one thing in common. The building inspector was Mark Kimball.</content></utterance>
+<utterance uid="35-9"><speaker>CASTLE</speaker><content>That’s how he got inside the buildings and operated without being seen. It was his job.</content></utterance>
+<utterance uid="35-10"><speaker>BECKETT</speaker><content>Which means he had access to the building department. That’s how he was able to change building plans without anyone knowing.</content></utterance>
+<utterance uid="35-11"><speaker>CASTLE</speaker><content>If he’s the arsonist we have to find him.</content></utterance>
+<utterance uid="35-12"><speaker>BECKETT</speaker><content>Oh my God. He’s here.</content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>BECKETT</speaker><content>Kimball, don’t move!</content></utterance>
+<utterance uid="36-2"><speaker>BECKETT</speaker><content>The basement. Is there a way out?  Is there?</content></utterance>
+<utterance uid="36-3"><speaker>KIMBALL</speaker><content>I don’t know what you’re talking about.</content></utterance>
+<utterance uid="36-4"><speaker>BECKETT</speaker><content>Is there a way out?  Those guys in there are my friends. If they die, you die. What’s it going to be?  It’s your choice.</content></utterance>
+</scene>
+
+<scene id="37"><utterance uid="37-1"><speaker>MILLER</speaker><content>Rescue seven, what’s your status?</content></utterance>
+<utterance uid="37-2"><speaker>MILLER</speaker><content>Rescue seven, do you have them?  Rescue seven, are they alive?</content></utterance>
+<utterance uid="37-3"><speaker>CASTLE</speaker><content> There.</content></utterance>
+<utterance uid="37-4"><speaker>BECKETT</speaker><content>Espo!  Espo!</content></utterance>
+<utterance uid="37-5"><speaker>CASTLE</speaker><content>You scared us.  You scared us.</content></utterance>
+<utterance uid="37-6"><speaker>CASTLE</speaker><content>You smell great.</content></utterance>
+<utterance uid="37-7"><speaker>RYAN</speaker><content>Where’s Jenny?</content></utterance>
+</scene>
+<scene id="38"><utterance uid="38-1"><speaker>JENNY</speaker><content>Kevin!  You’re alive!</content></utterance>
+<utterance uid="38-2"><speaker>LANIE</speaker><content>Javi! You’re alive!</content></utterance>
+<utterance uid="38-3"><speaker>JENNY</speaker><content>Oh.</content></utterance>
+<utterance uid="38-4"><speaker>RYAN</speaker><content>You’re both beautiful.</content></utterance>
+<utterance uid="38-5"><speaker>JENNY</speaker><content>Kevin, I’d like you to meet … Sarah Grace.</content></utterance>
+</scene>
+</script>

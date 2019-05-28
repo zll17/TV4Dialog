@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+
+<scene id="1"><utterance uid="1-1"><speaker>MAN</speaker><content>Sorry, I’m going to be awhile.</content></utterance>
+<utterance uid="1-2"><speaker>RICHARD CASTLE</speaker><content>Excuse me, do you know where there’s another –</content></utterance>
+<utterance uid="1-3"><speaker>CASTLE</speaker><content>Oh, thank you. Thank you.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>CASTLE</speaker><content>Stop!</content></utterance>
+<utterance uid="2-2"><speaker>CASTLE</speaker><content>Oh my God. Sadie.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>CASTLE</speaker><content>Call 911! Call 911!</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>KATE BECKETT</speaker><content>Now, Rick, be charming but not too charming.</content></utterance>
+<utterance uid="4-2"><speaker>CASTLE</speaker><content>That’s like asking Superman not to be too super. What’s wrong with being too charming?</content></utterance>
+<utterance uid="4-3"><speaker>BECKETT</speaker><content>Nothing, except when you are testifying in a murder trial. Look, being charming tells the jury that you’re confident but being too charming tells them that you’re trying to be manipulative.</content></utterance>
+<utterance uid="4-4"><speaker>CASTLE</speaker><content>Oh, I see. This is why you never had me testify in any of our cases. You’re jealous of my charm.</content></utterance>
+<utterance uid="4-5"><speaker>BECKETT</speaker><content>I’m serious, okay? Don’t get cocky. This is the first time you’ll be testifying in court and it can get … nerve racking.</content></utterance>
+<utterance uid="4-6"><speaker>CASTLE</speaker><content>I’ll be fine. Especially since word on the street is the defense lawyer is a total hack.</content></utterance>
+<utterance uid="4-7"><speaker>BECKETT</speaker><content>Oh yeah? Who is it?</content></utterance>
+<utterance uid="4-8"><speaker>CASTLE</speaker><content>Stan Novak?</content></utterance>
+<utterance uid="4-9"><speaker>BECKETT</speaker><content>Short attention span Stan? That guy gets lost in his own cross examinations.  Yeah, you will be fine.</content></utterance>
+<utterance uid="4-10"><speaker>CASTLE</speaker><content>Too bad you won’t be there to see me in action.</content></utterance>
+<utterance uid="4-11"><speaker>BECKETT</speaker><content>No, but I will.</content></utterance>
+<utterance uid="4-12"><speaker>CASTLE</speaker><content>Is that wise? I mean, publicly aren’t we still supposed to be separated?</content></utterance>
+<utterance uid="4-13"><speaker>BECKETT</speaker><content>This is the Sadie Beakman murder trial we’re talking about. Her reporting from Iraq shaped the way many Americans saw the war. Plus it gave her the profile to launch her own news website. And as captain of the precinct that closed her murder case it would odd if I didn’t show.</content></utterance>
+<utterance uid="4-14"><speaker>CASTLE</speaker><content>But then we should come up with a secret signal. A little thing just between the two of us that says “I love you”.</content></utterance>
+<utterance uid="4-15"><speaker>BECKETT</speaker><content>You know, I think that would be a little –  – do you need a tissue?</content></utterance>
+<utterance uid="4-16"><speaker>CASTLE</speaker><content>No, this is my – that’s the secret “I love you” signal.  You like it?</content></utterance>
+<utterance uid="4-17"><speaker>BECKETT</speaker><content>Rubbing your nose?</content></utterance>
+<utterance uid="4-18"><speaker>CASTLE</speaker><content> Yeah.</content></utterance>
+<utterance uid="4-19"><speaker>BECKETT</speaker><content>Yeah, that’s really romantic.  Anyway, I’ve gotta go and meet Vikram?  Yes, I love you, too.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>BECKETT</speaker><content>Hey.</content></utterance>
+<utterance uid="5-2"><speaker>VIKRAM SINGH</speaker><content>Hey.</content></utterance>
+<utterance uid="5-3"><speaker>BECKETT</speaker><content>Where are we on surveilling Caleb Brown and connecting him to LokSat?</content></utterance>
+<utterance uid="5-4"><speaker>VIKRAM</speaker><content>Exactly where we were last week. And the week before that. And the week before that.</content></utterance>
+<utterance uid="5-5"><speaker>BECKETT</speaker><content>So … nowhere?</content></utterance>
+<utterance uid="5-6"><speaker>VIKRAM</speaker><content>Our target at the public defender’s office is like a super villain. No weaknesses.</content></utterance>
+<utterance uid="5-7"><speaker>BECKETT</speaker><content>Oh, come on. That’s not possible.</content></utterance>
+<utterance uid="5-8"><speaker>VIKRAM</speaker><content>You sure about that? Because Cece and I have tried every possible –</content></utterance>
+<utterance uid="5-9"><speaker>BECKETT</speaker><content>Wait, what? Who’s Cece?</content></utterance>
+<utterance uid="5-10"><speaker>VIKRAM</speaker><content> No one.</content></utterance>
+<utterance uid="5-11"><speaker>BECKETT</speaker><content>Did you give your computer a girl’s name?</content></utterance>
+<utterance uid="5-12"><speaker>VIKRAM</speaker><content>You don’t know my life.</content></utterance>
+<utterance uid="5-13"><speaker>BECKETT</speaker><content>Huh. I’ve never been happier about that until this moment. Look, I am tired of lying to everyone. I want my life back. And given your new relationship with your computer it’s time you get yours back, too.  So let’s figure this out. What is Caleb Brown’s weakness?</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>MARCUS WELLER</speaker><content>This is going to be the easiest case I have ever tried.</content></utterance>
+<utterance uid="6-2"><speaker>CASTLE</speaker><content>How can you be so sure?</content></utterance>
+<utterance uid="6-3"><speaker>WELLER</speaker><content>The defendant has a history of arrest for robbing high-end houses while working as a cater waiter. Sadie Beakman caught her in the act and the defendant killed her in order to get away.</content></utterance>
+<utterance uid="6-4"><speaker>CASTLE</speaker><content>Isn’t that all circumstantial?</content></utterance>
+<utterance uid="6-5"><speaker>WELLER</speaker><content>Yes, which is why it’s a good thing that I have you, an eyewitness. The defendant really should have taken that plea deal I offered.</content></utterance>
+<utterance uid="6-6"><speaker>CASTLE</speaker><content>Yeah. Why didn’t she? What do you think their defense is going to be?</content></utterance>
+<utterance uid="6-7"><speaker>WELLER</speaker><content>Don’t concern yourself with that. No matter how he tries to spin the facts you stick with what you saw.</content></utterance>
+<utterance uid="6-8"><speaker>CASTLE</speaker><content>Nina O’Keefe killed Sadie Beakman.</content></utterance>
+<utterance uid="6-9"><speaker>WELLER</speaker><content>The victim’s family.</content></utterance>
+<utterance uid="6-10"><speaker>CASTLE</speaker><content>Oh, yes. I remember.  Hi. Nice to see you again. Sorry it’s under such terrible circumstances.</content></utterance>
+<utterance uid="6-11"><speaker>ANNIE BEAKMAN</speaker><content>Yeah, us too.</content></utterance>
+<utterance uid="6-12"><speaker>CASTLE</speaker><content>So how are you holding up?</content></utterance>
+<utterance uid="6-13"><speaker>LLOYD BEAKMAN</speaker><content>Some good days, more bad.  We can’t seem to get over it. You know, my wife spent two years embedded with troops in Iraq and not a scratch. And then at a party in Manhattan. It doesn’t make sense.</content></utterance>
+<utterance uid="6-14"><speaker>CASTLE</speaker><content>Well, we’re going to get her justice.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>BECKETT</speaker><content>Marcus, hey.</content></utterance>
+<utterance uid="7-2"><speaker>WELLER</speaker><content>Glad you could make it, Captain.</content></utterance>
+<utterance uid="7-3"><speaker>BECKETT</speaker><content>So, um, what is this I hear about you asking Lanie out?</content></utterance>
+<utterance uid="7-4"><speaker>WELLER</speaker><content>No, no, no. You got that wrong. Lanie asked me out.</content></utterance>
+<utterance uid="7-5"><speaker>BECKETT</speaker><content>Really? That’s what I –</content></utterance>
+<utterance uid="7-6"><speaker>CALEB BROWN</speaker><content>Nina.  My name is Caleb Brown from the public defender’s office. I’ll be representing you today.</content></utterance>
+<utterance uid="7-7"><speaker>BECKETT</speaker><content>What is Caleb Brown doing here?</content></utterance>
+<utterance uid="7-8"><speaker>WELLER</speaker><content>That’s a good question.</content></utterance>
+<utterance uid="7-9"><speaker>BAILIFF</speaker><content>All rise. This court is now in session, the Honorable Judge Gloria Wollcott presiding.</content></utterance>
+<utterance uid="7-10"><speaker>JUDGE GLORIA WOLLCOTT</speaker><content>Be seated.  Well, well, well, Mr. Caleb Brown. As lovely as it is to see you in my courtroom, where is Mr. Novak?</content></utterance>
+<utterance uid="7-11"><speaker>BROWN</speaker><content>Your Honor, Mr. Novak’s wife went into premature labor last night.</content></utterance>
+<utterance uid="7-12"><speaker>JUDGE WOLLCOTT</speaker><content>Oh no.</content></utterance>
+<utterance uid="7-13"><speaker>BROWN</speaker><content>The baby’s fine, as is the mother. But obviously Mr. Novak is unavailable so the public defender’s office asked me to take over.</content></utterance>
+<utterance uid="7-14"><speaker>JUDGE WOLLCOTT</speaker><content>And you’re up to speed on the case?</content></utterance>
+<utterance uid="7-15"><speaker>BROWN</speaker><content>Yes, your Honor. Plus, I did a little work of my own this morning.</content></utterance>
+<utterance uid="7-16"><speaker>JUDGE WOLLCOTT</speaker><content>Any objections, Mr. Weller?</content></utterance>
+<utterance uid="7-17"><speaker>WELLER</speaker><content>None, your Honor.</content></utterance>
+<utterance uid="7-18"><speaker>JUDGE WOLLCOTT</speaker><content>Then let’s proceed, shall we? Bailiff, bring in the jury.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>WELLER</speaker><content>The people call Roger Masters, your Honor.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>ROGER MASTERS</speaker><content>Sadie was kind. Thoughtful. She was generous. I would know, we were friends for over twenty years. I was her cameraman back when she was still a news correspondent, before she started her website.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>WELLER</speaker><content>Thank you, Mr. Masters. No further questions.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>BROWN</speaker><content>So the murder took place at your townhouse, is that correct?</content></utterance>
+<utterance uid="11-2"><speaker>MASTERS</speaker><content>I’m afraid so. My wife and I hosted the cocktail party where your client killed Sadie.</content></utterance>
+<utterance uid="11-3"><speaker>BROWN</speaker><content>Did you see my client kill her?</content></utterance>
+<utterance uid="11-4"><speaker>MASTERS</speaker><content>No. No, I did not.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>LANIE PARISH</speaker><content>The fireplace poker punctured the ribcage and nicked Mrs. Beakman’s aorta causing massive blood loss and her eventual death.</content></utterance>
+<utterance uid="12-2"><speaker>BROWN</speaker><content>Did Mrs. Beakman die immediately?</content></utterance>
+<utterance uid="12-3"><speaker>LANIE</speaker><content>It would have taken five to ten minutes for her to succumb to her wounds.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>BROWN</speaker><content>Dr. Parish, would Mrs. Beakman have been in much pain?</content></utterance>
+<utterance uid="13-2"><speaker>LANIE</speaker><content>Yes. Excruciating pain.</content></utterance>
+<utterance uid="13-3"><speaker>BROWN</speaker><content>No further questions your Honor.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>JAVIER ESPOSITO</speaker><content>The defendant was on the run until me and my partner –</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>KEVIN RYAN</speaker><content>- until my partner and I caught up with her at Grand Central terminal.</content></utterance>
+<utterance uid="15-2"><speaker>BROWN</speaker><content>And did my client confess?</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>ESPOSITO</speaker><content>No. She didn’t make a statement. The only thing she said was –</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>RYAN</speaker><content>- she said was that she wanted to speak with a lawyer.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>WELLER</speaker><content>The people call Richard Castle.</content></utterance>
+<utterance uid="18-2"><speaker>BAILIFF</speaker><content>Raise your right hand.</content></utterance>
+<utterance uid="18-3"><speaker>CASTLE</speaker><content>Oh, sorry. This right hand.</content></utterance>
+<utterance uid="18-4"><speaker>BAILIFF</speaker><content>Do you swear to tell the truth, the whole truth, and nothing but the truth?</content></utterance>
+<utterance uid="18-5"><speaker>CASTLE</speaker><content>I do.</content></utterance>
+<utterance uid="18-6"><speaker>WELLER</speaker><content>Mr. Castle, what is it that you do for a living?</content></utterance>
+<utterance uid="18-7"><speaker>CASTLE</speaker><content>I’m a murder mystery novelist.</content></utterance>
+<utterance uid="18-8"><speaker>WELLER</speaker><content>Have you held any other jobs?</content></utterance>
+<utterance uid="18-9"><speaker>CASTLE</speaker><content>Yes, six years as a civilian investigator working with the NYPD. Homicides for the Twelfth Precinct.</content></utterance>
+<utterance uid="18-10"><speaker>WELLER</speaker><content>So you’re a bit of an expert when it comes to solving murders.</content></utterance>
+<utterance uid="18-11"><speaker>CASTLE</speaker><content>Yes, and I use that expertise to lend authenticity to my novels.</content></utterance>
+<utterance uid="18-12"><speaker>WELLER</speaker><content>Now, what brought you to the home of Roger and Joanna Masters on the evening of September 14th, five months ago?</content></utterance>
+<utterance uid="18-13"><speaker>CASTLE</speaker><content>Joanna Masters won a charity auction to have me come to her home and do a private reading of Driving Heat, my latest novel, due to come out the following day.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>JOANNA MASTERS</speaker><content>Oh, my! Richard Castle! In my home!</content></utterance>
+<utterance uid="19-2"><speaker>CASTLE</speaker><content>It is a pleasure to meet you.</content></utterance>
+<utterance uid="19-3"><speaker>JOANNA</speaker><content>Oh, I just adore your books. Nikki Heat is like my role model. I love her!</content></utterance>
+<utterance uid="19-4"><speaker>CASTLE</speaker><content> Me too. You are too kind.</content></utterance>
+<utterance uid="19-5"><speaker>JOANNA</speaker><content>And you are too cute.</content></utterance>
+<utterance uid="19-6"><speaker>CASTLE</speaker><content>Keep talking.</content></utterance>
+<utterance uid="19-7"><speaker>JOANNA</speaker><content> Please, come in. Come in.</content></utterance>
+<utterance uid="19-8"><speaker>JOANNA</speaker><content>I’d like you to meet my husband, Roger.</content></utterance>
+<utterance uid="19-9"><speaker>CASTLE</speaker><content>Richard. Nice to meet you.</content></utterance>
+<utterance uid="19-10"><speaker>ROGER</speaker><content>Welcome.</content></utterance>
+<utterance uid="19-11"><speaker>CASTLE</speaker><content>Thank you.</content></utterance>
+<utterance uid="19-12"><speaker>JOANNA</speaker><content>And, uh, these are the Beakmans. This is Sadie.</content></utterance>
+<utterance uid="19-13"><speaker>CASTLE</speaker><content>That’s when I met Sadie.</content></utterance>
+<utterance uid="19-14"><speaker>SADIE BEAKMAN</speaker><content>Nice to meet you.</content></utterance>
+<utterance uid="19-15"><speaker>JOANNA</speaker><content>Lloyd. And their lovely daughter, Annie.</content></utterance>
+<utterance uid="19-16"><speaker>CASTLE</speaker><content>Nice to meet you.</content></utterance>
+<utterance uid="19-17"><speaker>ANNIE</speaker><content>Nice to meet you.</content></utterance>
+<utterance uid="19-18"><speaker>JOANNA</speaker><content>Now I’m sure you recognize Sadie from her Iraq war news reports, but she also owns and operates BeakmanReport.com.</content></utterance>
+<utterance uid="19-19"><speaker>CASTLE</speaker><content>After meeting the soon-to-be victim I met the soon-to-be killer.</content></utterance>
+<utterance uid="19-20"><speaker>NINA</speaker><content>Champagne?</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>CASTLE</speaker><content>Thank you so much for being here.  Thank you for having me. Sorry about the small poster, I ran out of the big ones.</content></utterance>
+<utterance uid="20-2"><speaker>CASTLE</speaker><content>Driving Heat. Written by this guy.</content></utterance>
+<utterance uid="20-3"><speaker>CASTLE</speaker><content>“The last thing Nikki Heat expected when she received her promotion to Captain of the NYPD was …”</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>CASTLE</speaker><content>After the reading I needed to use the restroom.</content></utterance>
+<utterance uid="21-2"><speaker>MAN</speaker><content>Sorry, I’m going to be awhile.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>CASTLE</speaker><content>So I went to use the facilities upstairs.</content></utterance>
+<utterance uid="22-2"><speaker>CASTLE</speaker><content>Stop!</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>CASTLE</speaker><content>That’s when I saw the defendant kill Sadie Beakman.</content></utterance>
+<utterance uid="23-2"><speaker>WELLER</speaker><content>Let the record reflect the witness has identified the defendant, Nina O’Keefe, as the woman in question. No further questions, your Honor.</content></utterance>
+<utterance uid="23-3"><speaker>JUDGE WOLLCOTT</speaker><content>Mr. Brown, your witness.</content></utterance>
+<utterance uid="23-4"><speaker>BROWN</speaker><content>Mr. Castle, I don’t want to take up too much of your time. I only have a handful of questions. First, is it possible that my client did not kill Mrs. Beakman?</content></utterance>
+<utterance uid="23-5"><speaker>CASTLE</speaker><content>Oh, no. It was definitely her.</content></utterance>
+<utterance uid="23-6"><speaker>BROWN</speaker><content>And you remember the events of the evening clearly.  Because I know you have a history of memory loss.</content></utterance>
+<utterance uid="23-7"><speaker>WELLER</speaker><content>Objection, your Honor.</content></utterance>
+<utterance uid="23-8"><speaker>BROWN</speaker><content>It goes to credibility.</content></utterance>
+<utterance uid="23-9"><speaker>JUDGE WOLLCOTT</speaker><content>I’ll allow it.</content></utterance>
+<utterance uid="23-10"><speaker>BROWN</speaker><content>Mr. Castle, is it true that on May 12th, 2014 you were abducted by parties still unknown and then returned eight weeks later.</content></utterance>
+<utterance uid="23-11"><speaker>CASTLE</speaker><content>Yes.</content></utterance>
+<utterance uid="23-12"><speaker>BROWN</speaker><content>And you still have memory loss.</content></utterance>
+<utterance uid="23-13"><speaker>CASTLE</speaker><content>Only of those eight weeks. My memory of your client killing Mrs. Beakman is crystal clear.</content></utterance>
+<utterance uid="23-14"><speaker>BROWN</speaker><content>But how can you be sure?</content></utterance>
+<utterance uid="23-15"><speaker>CASTLE</speaker><content>Because I was an eyewitness.</content></utterance>
+<utterance uid="23-16"><speaker>BROWN</speaker><content>Ah. So glad that you used that word.  Eye witness. Now, Mr. Castle, you gave a reading of Driving Heat -  - on the evening in question, the continuing adventures of Nikki Heat. Won’t you humor the court and just give us a short reading?  Just the highlighted section, if you please.</content></utterance>
+<utterance uid="23-17"><speaker>CASTLE</speaker><content> “Nikki had seen it often, as every cop had. Otherwise reliable witnesses conflate or confuse details that seem indelible to those not caught up in the trauma of the incident.”</content></utterance>
+<utterance uid="23-18"><speaker>BROWN</speaker><content>According to previous testimony, you use your expertise with the NYPD to add authenticity to your stories, is that correct?</content></utterance>
+<utterance uid="23-19"><speaker>CASTLE</speaker><content>The defendant killed Mrs. Beakman. I know what I saw.</content></utterance>
+<utterance uid="23-20"><speaker>BROWN</speaker><content>Just like you knew what you saw on February 2nd, 2015?</content></utterance>
+<utterance uid="23-21"><speaker>BROWN</speaker><content>Mr. Castle, did you give a statement to a Detective Neely of Westchester PD that you were an eyewitness to the murder of Eva Whitfield and that her husband, Cole, was the killer?</content></utterance>
+<utterance uid="23-22"><speaker>CASTLE</speaker><content>Yes, I did, but –</content></utterance>
+<utterance uid="23-23"><speaker>BROWN</speaker><content>And was Cole Whitfield the killer?</content></utterance>
+<utterance uid="23-24"><speaker>CASTLE</speaker><content> No.</content></utterance>
+<utterance uid="23-25"><speaker>BROWN</speaker><content>So you’ve been wrong before.</content></utterance>
+<utterance uid="23-26"><speaker>CASTLE</speaker><content>That incident was a setup. What happened to Mrs. Beakman was not. I saw the defendant kill her.</content></utterance>
+<utterance uid="23-27"><speaker>BROWN</speaker><content>Says the man whose own writings speak to the unreliability of eyewitnesses. A man who has given false eyewitnesses. A man who has given false eyewitness statements in the past. A man with a history of memory loss.</content></utterance>
+<utterance uid="23-28"><speaker>BECKETT</speaker><content> Marcus. Help him.</content></utterance>
+<utterance uid="23-29"><speaker>WELLER</speaker><content> Don’t you think I would if I could?</content></utterance>
+<utterance uid="23-30"><speaker>BROWN</speaker><content>Mr. Castle, let’s pretend that you’re a character out of one of your novels. Would Nikki Heat think that you are a reliable witness?</content></utterance>
+<utterance uid="23-31"><speaker>CASTLE</speaker><content>That is a ridiculous question. And yes, she would.</content></utterance>
+<utterance uid="23-32"><speaker>BROWN</speaker><content>I’m disappointed in you, Mr. Castle. I thought you of all people would be sympathetic to my client. Weren’t you once framed for murder?</content></utterance>
+<utterance uid="23-33"><speaker>CASTLE</speaker><content>That – yeah. That was … 3KX. The serial killer. He had a vendetta against me. That – that was – that was different.</content></utterance>
+<utterance uid="23-34"><speaker>BROWN</speaker><content>What? Why is it different for you but not for my client? What makes you so special, Mr. Castle? Dr. Parish testified that the victim, Mrs. Beakman, was alive for five to ten minutes after being stabbed and in excruciating pain. Might it be that my client simply came across the victim after the true killer stabbed her a fled?</content></utterance>
+<utterance uid="23-35"><speaker>CASTLE</speaker><content>But that doesn’t mean –</content></utterance>
+<utterance uid="23-36"><speaker>BROWN</speaker><content>This is not one of your stories, sir. You do not get to make up the facts as you see fit. Now, my client is fighting for her life, just as you once fought for yours against 3XK. So now, I ask you one last time, is it possible, Mr. Castle, that my client did not kill Mrs. Beakman?</content></utterance>
+<utterance uid="23-37"><speaker>CASTLE</speaker><content>Yes, it’s possible.</content></utterance>
+<utterance uid="23-38"><speaker>BROWN</speaker><content>Yes. Yes, it is possible. Possible that you are wrong. Nothing further, your Honor.</content></utterance>
+<utterance uid="23-39"><speaker>JUDGE WOLLCOTT</speaker><content>Mr. Castle, you may step down.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>JUDGE WOLLCOTT</speaker><content>Mr. Castle, you may step down.</content></utterance>
+<utterance uid="24-2"><speaker>JUDGE WOLLCOTT</speaker><content>Mr. Castle? Step down.</content></utterance>
+<utterance uid="24-3"><speaker>JUDGE WOLLCOTT</speaker><content>It’s nearly five o’clock. We will pick this back up in the morning. Court is in recess until 9AM.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>WELLER</speaker><content>Come here.</content></utterance>
+<utterance uid="25-2"><speaker>CASTLE</speaker><content>Marcus, I’m so sorry. I don’t know what happened. I got torpedoed.</content></utterance>
+<utterance uid="25-3"><speaker>WELLER</speaker><content>No, no, no, no. You got nuked.</content></utterance>
+<utterance uid="25-4"><speaker>BECKETT</speaker><content>Are you okay?</content></utterance>
+<utterance uid="25-5"><speaker>CASTLE</speaker><content>Beckett, I just blew the entire case.</content></utterance>
+<utterance uid="25-6"><speaker>BECKETT</speaker><content>Well the trial’s not over yet.  Right Marcus?</content></utterance>
+<utterance uid="25-7"><speaker>WELLER</speaker><content>Look, I’m not going to lie to you. We’ve got a serious problem now. Castle, you’ve just given the jury reasonable doubt.</content></utterance>
+<utterance uid="25-8"><speaker>CASTLE</speaker><content>But there’s gotta be something we can do, right?</content></utterance>
+<utterance uid="25-9"><speaker>BECKETT</speaker><content>Well we’ve got until court resumes tomorrow morning to find new evidence or another witness who can prove Nina’s guilt.</content></utterance>
+<utterance uid="25-10"><speaker>WELLER</speaker><content>Yes. However, what can you possibly uncover in less than sixteen hours?</content></utterance>
+<utterance uid="25-11"><speaker>BECKETT</speaker><content>I don’t know. But we have to try.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>ESPOSITO</speaker><content>How many more times do we have to go through theses case files?</content></utterance>
+<utterance uid="26-2"><speaker>BECKETT</speaker><content>As many as it takes.</content></utterance>
+<utterance uid="26-3"><speaker>RYAN</speaker><content>Beckett, we’ve got stacks and stacks of hay here, but no needles. I think we need a new strategy.</content></utterance>
+<utterance uid="26-4"><speaker>CASTLE</speaker><content>I can’t believe how badly I blew it up there. This is my fault, guy. I’m sorry.</content></utterance>
+<utterance uid="26-5"><speaker>RYAN</speaker><content>Don’t do that to yourself. We’ve all been tripped up on the witness stand.</content></utterance>
+<utterance uid="26-6"><speaker>ESPOSITO</speaker><content>True. Back when I was in uniform a defense attorney got my head so turned around that I testified that the defendant actually kicked my ass when I tried to arrest her.</content></utterance>
+<utterance uid="26-7"><speaker>CASTLE</speaker><content>What’s wrong with that?</content></utterance>
+<utterance uid="26-8"><speaker>ESPOSITO</speaker><content> The defendant was a seventy five year old woman in a wheelchair. I lost all credibility with the jury.</content></utterance>
+<utterance uid="26-9"><speaker>RYAN</speaker><content>To this day we pass the park where she feeds the birds. She snickers, turns to her nurse, and tells her the tale of how she got one over on poor old Javi.</content></utterance>
+<utterance uid="26-10"><speaker>ESPOSITO</speaker><content>Miss Lucinda. I will get her one day.</content></utterance>
+<utterance uid="26-11"><speaker>CASTLE</speaker><content>But have any of you botched your testimony in a murder trial.  Exactly.</content></utterance>
+<utterance uid="26-12"><speaker>BECKETT</speaker><content>Hey, Espo, that story about Miss Lucinda. So she still talks about how she made a fool out of you?</content></utterance>
+<utterance uid="26-13"><speaker>ESPOSITO</speaker><content> Yes. Thank you for rubbing it in, Captain Beckett.</content></utterance>
+<utterance uid="26-14"><speaker>BECKETT</speaker><content>You guys, we’re approaching this wrong. I mean, we’ve been trying to find a clue from the murder whereas we should be looking for a clue from after the murder.</content></utterance>
+<utterance uid="26-15"><speaker>CASTLE</speaker><content>Yes. Nina’s been held since her arrest. She might have confessed something to a cell mate.</content></utterance>
+<utterance uid="26-16"><speaker>BECKETT</speaker><content>Let’s bring Nina’s cellmate in.</content></utterance>
+<utterance uid="26-17"><speaker>CASTLE</speaker><content>Hey. Thank you.</content></utterance>
+<utterance uid="26-18"><speaker>BECKETT</speaker><content>For what?</content></utterance>
+<utterance uid="26-19"><speaker>CASTLE</speaker><content>For not giving up on me.</content></utterance>
+<utterance uid="26-20"><speaker>BECKETT</speaker><content>Well, you’ve never given up on me, so…</content></utterance>
+<utterance uid="26-21"><speaker>BECKETT</speaker><content> Castle, wait. Um … not here.</content></utterance>
+<utterance uid="26-22"><speaker>CASTLE</speaker><content>Oh, right. Separated. Well … </content></utterance>
+<utterance uid="26-23"><speaker>BECKETT</speaker><content>Are you okay? Do you have allergies?</content></utterance>
+<utterance uid="26-24"><speaker>CASTLE</speaker><content>No, that’s the –  that’s the signal. That’s the “I love you”. That’s the –</content></utterance>
+<utterance uid="26-25"><speaker>BECKETT</speaker><content>Oh! Yes. You really should think of something better.</content></utterance>
+<utterance uid="26-26"><speaker>CASTLE</speaker><content>It’s adorable.</content></utterance>
+<utterance uid="26-27"><speaker>BECKETT</speaker><content>Mmhmm.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>BRIDGET</speaker><content>Damn. That was a good photo of Nina. You know, in my mugshot I look like a train wreck. Probably because I was high on crack at the time.</content></utterance>
+<utterance uid="27-2"><speaker>ESPOSITO</speaker><content>Just answer the question. Has Nina revealed anything about the murder?</content></utterance>
+<utterance uid="27-3"><speaker>BRIDGET</speaker><content>Yep. And between the three of us, she’s guilty as hell.</content></utterance>
+<utterance uid="27-4"><speaker>RYAN</speaker><content>What do you know?</content></utterance>
+<utterance uid="27-5"><speaker>RYAN</speaker><content>Okay, Bridget, what do you want?</content></utterance>
+<utterance uid="27-6"><speaker>BRIDGET</speaker><content>Oh, what does any girl want, Detective?</content></utterance>
+<utterance uid="27-7"><speaker>RYAN</speaker><content>The personal satisfaction of bringing a killer to justice?</content></utterance>
+<utterance uid="27-8"><speaker>BRIDGET</speaker><content>Fifty bucks in the prison commissary every week for the next ten weeks.</content></utterance>
+<utterance uid="27-9"><speaker>ESPOSITO</speaker><content>Forty bucks for five weeks.</content></utterance>
+<utterance uid="27-10"><speaker>BRIDGET</speaker><content>Eight. And that’s as low as I’ll go.</content></utterance>
+<utterance uid="27-11"><speaker>ESPOSITO</speaker><content>Deal, but you better have some solid information.  Now, has Nina confessed to the murder.</content></utterance>
+<utterance uid="27-12"><speaker>BRIDGET</speaker><content>No.  But I know she did it. Look, here’s the deal with Nina. She’s a mouse. Doesn’t talk much. Then one day she lets slip that she’s worried the prosecution might find out about her secret.</content></utterance>
+<utterance uid="27-13"><speaker>RYAN</speaker><content>What secret?</content></utterance>
+<utterance uid="27-14"><speaker>BRIDGET</speaker><content>Didn’t say.  I think it has to do with her boyfriend or something.</content></utterance>
+<utterance uid="27-15"><speaker>RYAN</speaker><content>What boyfriend?</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>ESPOSITO</speaker><content>If Nina has a secret boyfriend out there there’s a chance she confessed to him.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>CASTLE</speaker><content>No, I’m just trying to figure out who Nina was dating when she was arrested.  Am I working with the police?</content></utterance>
+<utterance uid="29-2"><speaker>CASTLE</speaker><content>No. No. I went to high school with Nina.  What school? Uh …  … Taft?</content></utterance>
+<utterance uid="29-3"><speaker>CASTLE</speaker><content>Hello?</content></utterance>
+<utterance uid="29-4"><speaker>ESPOSITO</speaker><content>None of Nina’s people are going to help us build a case against her.</content></utterance>
+<utterance uid="29-5"><speaker>CASTLE</speaker><content>We’re going to have to find to identify Nina’s boyfriend.</content></utterance>
+<utterance uid="29-6"><speaker>RYAN</speaker><content>I just did. Follow me. So I went through Nina’s financials. It turns out the night before the murder Nina bought drinks at a bar in the East Village. Now, that bar went out of business. However, the hotel next door had surveillance footage from that night. Look.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>RYAN</speaker><content>Now, bear in mind this is the night before Nina killed Sadie.</content></utterance>
+<utterance uid="30-2"><speaker>ESPOSITO</speaker><content>There’s Nina.</content></utterance>
+<utterance uid="30-3"><speaker>CASTLE</speaker><content>Is Nina’s boyfriend in this?</content></utterance>
+<utterance uid="30-4"><speaker>RYAN</speaker><content>Not her boyfriend. Wait for it.</content></utterance>
+<utterance uid="30-5"><speaker>RYAN</speaker><content>Her girlfriend.</content></utterance>
+<utterance uid="30-6"><speaker>CASTLE</speaker><content>Sadie!</content></utterance>
+<utterance uid="30-7"><speaker>RYAN</speaker><content>Yep.</content></utterance>
+<utterance uid="30-8"><speaker>CASTLE</speaker><content>The victim and the killer were having an affair?  Why’s my voice so high?</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>WELLER</speaker><content>You see, Beckett, this is why I love the Twelfth Precinct. You guys never let me down.</content></utterance>
+<utterance uid="31-2"><speaker>BECKETT</speaker><content>This recording gives you a new motive for murder and it’s ironclad. Nina and Sadie were having an affair, clearly they were fighting, and Nina most likely killed her in a crime of passion.</content></utterance>
+<utterance uid="31-3"><speaker>WELLER</speaker><content>Okay. I will have my people try track down former employees of this bar and hopefully one of them can corroborate the affair.</content></utterance>
+<utterance uid="31-4"><speaker>BECKETT</speaker><content>Okay. And I’ll have my team touch base with Sadie’s family and friends. Maybe they can shed some light as to what was behind this little love affair.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>CASTLE</speaker><content>You see, Marcus?  And you were worried.</content></utterance>
+<utterance uid="32-2"><speaker>BECKETT</speaker><content>Okay, boys. We found Nina’s coffin. Now let’s nail it shut.</content></utterance>
+<utterance uid="32-3"><speaker>ESPOSITO</speaker><content>I’ll talk to Nina’s employees.</content></utterance>
+<utterance uid="32-4"><speaker>RYAN</speaker><content>And I’ll go talk to her friends.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>ROGER</speaker><content>Sadie was having an affair with that woman? That is so twisted.</content></utterance>
+<utterance uid="33-2"><speaker>JOANNA</speaker><content>Well, you never know what goes on behind closed doors.</content></utterance>
+<utterance uid="33-3"><speaker>RYAN</speaker><content>So you knew nothing about Sadie’s extramarital affairs?</content></utterance>
+<utterance uid="33-4"><speaker>ROGER</speaker><content>She was good at keeping secrets.</content></utterance>
+<utterance uid="33-5"><speaker>CASTLE</speaker><content>Then why hire the catering company that Nina worked for?</content></utterance>
+<utterance uid="33-6"><speaker>ROGER</speaker><content>Sadie’s recommendation. She went to an event that she catered, said the food was amazing.</content></utterance>
+<utterance uid="33-7"><speaker>JOANNA</speaker><content>I bet that’s how Sadie and Nina met. What do you think, Richard?</content></utterance>
+<utterance uid="33-8"><speaker>CASTLE</speaker><content>Entirely possible.</content></utterance>
+<utterance uid="33-9"><speaker>JOANNA</speaker><content>See? I told you I was a Nikki Heat fan. I even think like her, too.</content></utterance>
+<utterance uid="33-10"><speaker>CASTLE</speaker><content>It’s uncanny.</content></utterance>
+<utterance uid="33-11"><speaker>JOANNA</speaker><content> I know.</content></utterance>
+<utterance uid="33-12"><speaker>CASTLE</speaker><content>It’s good that you moved the basketball hoop away from the townhouse.</content></utterance>
+<utterance uid="33-13"><speaker>RYAN</speaker><content>Oh, yeah. Those things, they’re just an invitation for burglars to break in.</content></utterance>
+<utterance uid="33-14"><speaker>CASTLE</speaker><content>Or murderers like Nina to break out.</content></utterance>
+<utterance uid="33-15"><speaker>JOANNA</speaker><content>Well we always keep the hoop there. Nina moved it.</content></utterance>
+<utterance uid="33-16"><speaker>ROGER</speaker><content>Yeah, we didn’t even realize that she had until the day after the murder.</content></utterance>
+<utterance uid="33-17"><speaker>CASTLE</speaker><content>How are you sure that it was Nina that moved it?</content></utterance>
+<utterance uid="33-18"><speaker>JOANNA</speaker><content>Well, if it wasn’t her who else could it have been?</content></utterance>
+<utterance uid="33-19"><speaker>CASTLE</speaker><content>Ryan, a moment?  Excuse us.  The basketball hoop being moved speaks to a premeditative act.</content></utterance>
+<utterance uid="33-20"><speaker>RYAN</speaker><content>Yeah, but our theory for this whole thing is that it was a crime of passion. What are you thinking?</content></utterance>
+<utterance uid="33-21"><speaker>CASTLE</speaker><content>That we don’t know the whole story. Someone else was up here before I caught Nina over Sadie.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>WELLER</speaker><content>Please tell me you’re joking.</content></utterance>
+<utterance uid="34-2"><speaker>CASTLE</speaker><content>The fact the basketball hoop was moved is a significant because Nina didn’t have any reason to do it.</content></utterance>
+<utterance uid="34-3"><speaker>WELLER</speaker><content>Kate, why am I back here?</content></utterance>
+<utterance uid="34-4"><speaker>BECKETT</speaker><content>Marcus, this is a legitimate concern. If Nina didn’t move the hoop, who did? And why?</content></utterance>
+<utterance uid="34-5"><speaker>WELLER</speaker><content>Let’s stick with what we know. Castle say Nina kill Sadie. End of story.</content></utterance>
+<utterance uid="34-6"><speaker>CASTLE</speaker><content>I’m not actually, 100% sure about that anymore.</content></utterance>
+<utterance uid="34-7"><speaker>WELLER</speaker><content>Wait. Don’t tell me you’re buying into Caleb’s ridiculous defense. Rick, you got your bell rung in court today. It happens. Caleb Brown is a hell of an attorney. Now you’ve got to let it go.</content></utterance>
+<utterance uid="34-8"><speaker>CASTLE</speaker><content>So you’re not going to investigate?</content></utterance>
+<utterance uid="34-9"><speaker>WELLER</speaker><content>You saw the tape. They were having an affair. It’s a crime of passion. Nina is guilty. Plain and simple.</content></utterance>
+<utterance uid="34-10"><speaker>CASTLE</speaker><content>Don’t we have to be sure?</content></utterance>
+<utterance uid="34-11"><speaker>WELLER</speaker><content>Rick. Look at me. I’m sure.</content></utterance>
+<utterance uid="34-12"><speaker>CASTLE</speaker><content>Marcus, if we could just talk –</content></utterance>
+<utterance uid="34-13"><speaker>WELLER</speaker><content>Stop! This case cannot afford to have you pour any more doubt into people’s ears.</content></utterance>
+<utterance uid="34-14"><speaker>WELLER</speaker><content> Listen, I know you two are separated and all, but could you please talk to him?</content></utterance>
+<utterance uid="34-15"><speaker>BECKETT</speaker><content> Mmhmm.</content></utterance>
+<utterance uid="34-16"><speaker>BECKETT</speaker><content>Castle, are you sure that Nina’s innocent?</content></utterance>
+<utterance uid="34-17"><speaker>CASTLE</speaker><content>I don’t know. But what’s worse than letting a guilty person go free?</content></utterance>
+<utterance uid="34-18"><speaker>BECKETT</speaker><content>Sending an innocent one to jail. All right. Go home. I’ll sneak by later.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>MARTHA RODGERS</speaker><content>So … you don’t trust what you saw?</content></utterance>
+<utterance uid="35-2"><speaker>CASTLE</speaker><content>I don’t know that I can anymore. I just … keep running it in my head, over and over again.</content></utterance>
+<utterance uid="35-3"><speaker>MARTHA</speaker><content>And you think Nina was just trying to help this poor woman.</content></utterance>
+<utterance uid="35-4"><speaker>CASTLE</speaker><content>Nina’s back was to me. I didn’t actually see the death blow. I – believe me, you guys. It – it really looked like she did it.</content></utterance>
+<utterance uid="35-5"><speaker>MARTHA</speaker><content>Well, I believe you. It’s just, honestly, it sounds to me like Nina killed her.</content></utterance>
+<utterance uid="35-6"><speaker>ALEXIS CASTLE</speaker><content>Me too.</content></utterance>
+<utterance uid="35-7"><speaker>CASTLE</speaker><content>I have to find out for sure.</content></utterance>
+<utterance uid="35-8"><speaker>ALEXIS</speaker><content>Dad, there’s no way to do that.</content></utterance>
+<utterance uid="35-9"><speaker>CASTLE</speaker><content>I know.  Or is there? I’ve got it. And I’d only have to do two things: one, delay the trial so I have a chance to investigate, and two, have a one-on-one conversation with Nina.</content></utterance>
+<utterance uid="35-10"><speaker>ALEXIS</speaker><content>Uh … Nina’s lawyer will never allow it.</content></utterance>
+<utterance uid="35-11"><speaker>CASTLE</speaker><content>Which is why I’m going to have to be very clever with how I go about this.</content></utterance>
+<utterance uid="35-12"><speaker>MARTHA</speaker><content>I take it you have a plan?</content></utterance>
+<utterance uid="35-13"><speaker>CASTLE</speaker><content>You know I do, Mother.</content></utterance>
+<utterance uid="35-14"><speaker>MARTHA</speaker><content>Might I ask you what I do?</content></utterance>
+<utterance uid="35-15"><speaker>CASTLE</speaker><content>I’m going to get thrown in jail!</content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>JUDGE WOLLCOTT</speaker><content>Yes?</content></utterance>
+<utterance uid="36-2"><speaker>CASTLE</speaker><content>Good morning, your Honor.</content></utterance>
+<utterance uid="36-3"><speaker>JUDGE WOLLCOTT</speaker><content>Mr. Castle, you can’t be in here.</content></utterance>
+<utterance uid="36-4"><speaker>CASTLE</speaker><content>And yet, here I am.  Your Honor, I was made a fool of yesterday on the stand. I have a reputation to protect, so I would like a do-over.</content></utterance>
+<utterance uid="36-5"><speaker>JUDGE WOLLCOTT</speaker><content>A do-over?</content></utterance>
+<utterance uid="36-6"><speaker>CASTLE</speaker><content>A do-over.</content></utterance>
+<utterance uid="36-7"><speaker>JUDGE WOLLCOTT</speaker><content>Okay, two things: one, that’s stupid. And two, your presence in my chambers is highly unethical. I could hold you in contempt of court of this.</content></utterance>
+<utterance uid="36-8"><speaker>CASTLE</speaker><content>Well I would like to see you try.</content></utterance>
+<utterance uid="36-9"><speaker>JUDGE WOLLCOTT</speaker><content>Reggie, come in here, please.  Mr. Castle, I’m aware of your friendship with the mayor, so even though you don’t deserve it I’m going to let you go.  Reggie, escort him out of the building, please.</content></utterance>
+<utterance uid="36-10"><speaker>CASTLE</speaker><content>Oh. Your Honor, I see you attended law school at Hudson University. That explains why you’re so bad at your job.</content></utterance>
+<utterance uid="36-11"><speaker>JUDGE WOLLCOTT</speaker><content>Excuse me?</content></utterance>
+<utterance uid="36-12"><speaker>CASTLE</speaker><content>Yes. You see, everyone knows only criminals attend Hudson University. I myself have solved three homicides there.</content></utterance>
+<utterance uid="36-13"><speaker>JUDGE WOLLCOTT</speaker><content>Hello?</content></utterance>
+<utterance uid="36-14"><speaker>MARTHA</speaker><content>Gloria Wollcott, please.</content></utterance>
+<utterance uid="36-15"><speaker>JUDGE WOLLCOTT</speaker><content>Speaking.</content></utterance>
+<utterance uid="36-16"><speaker>MARTHA</speaker><content>Yes, this is Tri-Mountain Security calling. The alarm on your Connecticut home was triggered. The officer responded and I’m afraid the report is that your residence was burglarized.</content></utterance>
+<utterance uid="36-17"><speaker>JUDGE WOLLCOTT</speaker><content>What? Okay, I’m on my way.  My house has been burglarized.</content></utterance>
+<utterance uid="36-18"><speaker>CASTLE</speaker><content>Your Honor, you know who I am and what I’m capable of doing. I can find those burglars for you.</content></utterance>
+<utterance uid="36-19"><speaker>JUDGE WOLLCOTT</speaker><content>How?</content></utterance>
+<utterance uid="36-20"><speaker>CASTLE</speaker><content>Well, first we’ll need a listing of all the Hudson University students and alumnus in the tri-state area.</content></utterance>
+<utterance uid="36-21"><speaker>JUDGE WOLLCOTT</speaker><content>Okay, that’s it. Contempt.  Have him thrown in a holding cell.</content></utterance>
+</scene>
+<scene id="37"><utterance uid="37-1"><speaker>NINA</speaker><content>Hey. My trial was supposed to begin like, five minutes ago. What’s going on?</content></utterance>
+<utterance uid="37-2"><speaker>OFFICER</speaker><content>Judge postponed your trial until tomorrow. You’ll be transported back to Rikers at the end of the day.</content></utterance>
+<utterance uid="37-3"><speaker>CASTLE</speaker><content>Hey. So what are you in for?  Sorry, bad joke.</content></utterance>
+<utterance uid="37-4"><speaker>NINA</speaker><content>Don’t talk to me.</content></utterance>
+<utterance uid="37-5"><speaker>CASTLE</speaker><content>Nina, look. I know about the affair. With Sadie. The ADA knows it too. He’s going to use it to bury you.</content></utterance>
+<utterance uid="37-6"><speaker>NINA</speaker><content>Why are you telling me this?</content></utterance>
+<utterance uid="37-7"><speaker>CASTLE</speaker><content>I was there, Nina. I saw you. I saw you with my own eyes.</content></utterance>
+<utterance uid="37-8"><speaker>NINA</speaker><content>I didn’t kill Sadie! I loved her. So yeah, you were there. But you saw it wrong.</content></utterance>
+<utterance uid="37-9"><speaker>CASTLE</speaker><content>So tell me what I missed.</content></utterance>
+<utterance uid="37-10"><speaker>NINA</speaker><content>I found Sadie on the ground. Someone had already stabbed her. She was struggling to breathe, so I pulled the poker out. I was trying to help her.</content></utterance>
+<utterance uid="37-11"><speaker>CASTLE</speaker><content>So then why did you run?</content></utterance>
+<utterance uid="37-12"><speaker>NINA</speaker><content>I knew how it looked. I panicked.</content></utterance>
+<utterance uid="37-13"><speaker>CASTLE</speaker><content>Why didn’t you tell that to the police when they caught you?</content></utterance>
+<utterance uid="37-14"><speaker>NINA</speaker><content>Please. I’ve been arrested before. And I got screwed over. You know why? Because none of the cops believed me. I wasn’t going to make the same mistake twice.</content></utterance>
+<utterance uid="37-15"><speaker>CASTLE</speaker><content>Did you at least tell your lawyer?</content></utterance>
+<utterance uid="37-16"><speaker>NINA</speaker><content>Of course. I told my original public defender all about the affair. But he just said it’d come across as motive. Which, surprise, surprise. It did.</content></utterance>
+<utterance uid="37-17"><speaker>CASTLE</speaker><content>What about the fight? The fight you had with Sadie outside the bar the night before the murder.</content></utterance>
+<utterance uid="37-18"><speaker>NINA</speaker><content>That was nothing.</content></utterance>
+<utterance uid="37-19"><speaker>CASTLE</speaker><content>Nina.  Nina. I think you’re telling the truth. But I can’t help you unless you tell me the whole story.</content></utterance>
+<utterance uid="37-20"><speaker>NINA</speaker><content>The fight was about a couple things. I was sick of sneaking around. But Sadie was all paranoid because she had been caught cheating with other guys in the past.</content></utterance>
+<utterance uid="37-21"><speaker>CASTLE</speaker><content>Other guys? So you were her first –</content></utterance>
+<utterance uid="37-22"><speaker>NINA</speaker><content>Lesbian? Yes. Is that a problem?</content></utterance>
+<utterance uid="37-23"><speaker>CASTLE</speaker><content> No, not with me. You should check my search history. But you said you were arguing about a couple of things.</content></utterance>
+<utterance uid="37-24"><speaker>NINA</speaker><content>What really pissed me off was that Sadie asked me to do something at that cocktail party.</content></utterance>
+<utterance uid="37-25"><speaker>CASTLE</speaker><content>What did she ask you to do?</content></utterance>
+<utterance uid="37-26"><speaker>NINA</speaker><content>Bring her Roger Masters’ empty champagne glass.</content></utterance>
+<utterance uid="37-27"><speaker>CASTLE</speaker><content>Roger Masters the host? Why would she want his empty glass?</content></utterance>
+<utterance uid="37-28"><speaker>NINA</speaker><content>She wouldn’t say. And that really got me fired up because if I got caught stealing, even something as trivial as a champagne glass, I would’ve lost my job.</content></utterance>
+<utterance uid="37-29"><speaker>CASTLE</speaker><content>But you stole it for her anyway, didn’t you?</content></utterance>
+<utterance uid="37-30"><speaker>NINA</speaker><content>At the end of the day I’d do anything for Sadie. And she knew it. She had me wrapped around her finger the moment I met her.</content></utterance>
+<utterance uid="37-31"><speaker>CASTLE</speaker><content>Walk me through it. Tell me what happened.</content></utterance>
+<utterance uid="37-32"><speaker>NINA</speaker><content>When Roger was done with his champagne I retrieved the empty glass and quietly handed it off to Sadie.</content></utterance>
+<utterance uid="37-33"><speaker>CASTLE</speaker><content>What did she do with it?</content></utterance>
+<utterance uid="37-34"><speaker>NINA</speaker><content>Went upstairs. I followed her up like, twenty minutes later to see what was going on. That’s when I found her.</content></utterance>
+<utterance uid="37-35"><speaker>CASTLE</speaker><content>And you told all this to your lawyer?</content></utterance>
+<utterance uid="37-36"><speaker>NINA</speaker><content> Yes. My original public defender was too overloaded with other cases. And truth be told, he thought I was guilty. He wanted me to take the ADA’s plea deal. Thank God Caleb Brown took over. At least he’s fighting for me.</content></utterance>
+<utterance uid="37-37"><speaker>ESPOSITO</speaker><content>Yo. How’s it hanging, jail bird?</content></utterance>
+<utterance uid="37-38"><speaker>RYAN</speaker><content>You already pissed off the ADA so, what, you figured why the hell not piss off the judge as well?</content></utterance>
+<utterance uid="37-39"><speaker>CASTLE</speaker><content>Yeah. Can you guys get me out of here?</content></utterance>
+<utterance uid="37-40"><speaker>ESPOSITO</speaker><content>Already done. Bailiff called us to come get you.</content></utterance>
+<utterance uid="37-41"><speaker>CASTLE</speaker><content>I’m going to figure out what happened. I promise.</content></utterance>
+</scene>
+<scene id="38"><utterance uid="38-1"><speaker>BECKETT</speaker><content>Are you out of your mind?</content></utterance>
+<utterance uid="38-2"><speaker>CASTLE</speaker><content>I didn’t do anything wrong.</content></utterance>
+<utterance uid="38-3"><speaker>BECKETT</speaker><content>You tricked a judge to postpone a trial and then you illegally questioned a defendant.</content></utterance>
+<utterance uid="38-4"><speaker>CASTLE</speaker><content>Yeah, but other than that I didn’t do anything wrong.</content></utterance>
+<utterance uid="38-5"><speaker>ESPOSITO</speaker><content>Yo Beckett, Castle’s convinced that Nina’s innocent now.</content></utterance>
+<utterance uid="38-6"><speaker>BECKETT</speaker><content>Because what? Because Sadie wanted Roger’s glass?</content></utterance>
+<utterance uid="38-7"><speaker>CASTLE</speaker><content>I think she was after his DNA.</content></utterance>
+<utterance uid="38-8"><speaker>BECKETT</speaker><content>Why?</content></utterance>
+<utterance uid="38-9"><speaker>CASTLE</speaker><content>Roger was her cameraman for twenty years. Nina said that Sadie had had affairs with men in the past. Maybe they had had one and Sadie’s daughter was actually Roger’s.</content></utterance>
+<utterance uid="38-10"><speaker>BECKETT</speaker><content>So uh, what, you think that Sadie cooked this whole thing up so she could get a DNA sample for a paternity test?</content></utterance>
+<utterance uid="38-11"><speaker>CASTLE</speaker><content>Only one way to find out.</content></utterance>
+<utterance uid="38-12"><speaker>RYAN</speaker><content>What do you want us to do, Captain?</content></utterance>
+<utterance uid="38-13"><speaker>BECKETT</speaker><content>I –</content></utterance>
+<utterance uid="38-14"><speaker>VIKRAM</speaker><content>Beckett. Look.</content></utterance>
+<utterance uid="38-15"><speaker>BECKETT</speaker><content>Uh … go talk to Roger, see what he knows.</content></utterance>
+</scene>
+<scene id="39"><utterance uid="39-1"><speaker>VIKRAM</speaker><content>What is he doing here?</content></utterance>
+<utterance uid="39-2"><speaker>BECKETT</speaker><content>I’ll handle this. You just … be no more.</content></utterance>
+</scene>
+<scene id="40"><utterance uid="40-1"><speaker>BROWN</speaker><content>Oh, Captain, you crossed the line. I know that you had Castle go in and interview my client –</content></utterance>
+<utterance uid="40-2"><speaker>BECKETT</speaker><content>Counselor, Castle and I are separated. He is no longer associated with the Twelfth Precinct. So neither I nor the NYPD can be held accountable for his actions.</content></utterance>
+<utterance uid="40-3"><speaker>BROWN</speaker><content>So you knew nothing about it?</content></utterance>
+<utterance uid="40-4"><speaker>BECKETT</speaker><content>That’s what I said, isn’t it?</content></utterance>
+<utterance uid="40-5"><speaker>BROWN</speaker><content>I don’t believe you.</content></utterance>
+<utterance uid="40-6"><speaker>BECKETT</speaker><content>And I don’t care.</content></utterance>
+<utterance uid="40-7"><speaker>BROWN</speaker><content>Typical cop.</content></utterance>
+<utterance uid="40-8"><speaker>BECKETT</speaker><content>Wait.</content></utterance>
+<utterance uid="40-9"><speaker>BROWN</speaker><content>What?</content></utterance>
+<utterance uid="40-10"><speaker>BECKETT</speaker><content>Look, if you repeat what I’m about to tell you, I will deny it. I have people looking into Nina’s case.</content></utterance>
+<utterance uid="40-11"><speaker>BROWN</speaker><content>Do you believe that she’s innocent?</content></utterance>
+<utterance uid="40-12"><speaker>BECKETT</speaker><content>I didn’t say that. But I believe we have to be thorough. And now that the trial has been postponed we have time to investigate further.</content></utterance>
+<utterance uid="40-13"><speaker>BROWN</speaker><content> I appreciate that, Captain.</content></utterance>
+<utterance uid="40-14"><speaker>BECKETT</speaker><content>Counselor, Nina wasn’t your client until yesterday morning. Why are you so passionate about this case?</content></utterance>
+<utterance uid="40-15"><speaker>BROWN</speaker><content>Well, for the same reason that I assume you are. Justice.  This is Caleb Brown. Yes.  Yeah?  Yeah. Yeah, I’m on my way.  So while the judge was heading up she called a neighbor who checked on her house. Turns out the house was not burglarized. Anyway, she’s ordered that the trial resume in a half an hour. So if your people are going to help prove Nina’s innocence they better hurry.</content></utterance>
+</scene>
+
+<scene id="41"><utterance uid="41-1"><speaker>ROGER</speaker><content>You again.</content></utterance>
+<utterance uid="41-2"><speaker>CASTLE</speaker><content>Hello, Roger. We need to talk.</content></utterance>
+<utterance uid="41-3"><speaker>ROGER</speaker><content>Well now what?</content></utterance>
+<utterance uid="41-4"><speaker>CASTLE</speaker><content>Joanna.</content></utterance>
+<utterance uid="41-5"><speaker>JOANNA</speaker><content>Well, hello!</content></utterance>
+<utterance uid="41-6"><speaker>CASTLE</speaker><content>Sorry for the interruption. This won’t take long. It actually can’t. Trial’s going to start again in a few minutes and we need to nail down who the real killer is before an innocent woman gets convicted.</content></utterance>
+<utterance uid="41-7"><speaker>ROGER</speaker><content>What do you mean, innocent? You saw that woman kill Sadie.</content></utterance>
+<utterance uid="41-8"><speaker>CASTLE</speaker><content>No, Roger, I only thought that I did. You see the mind is a funny thing. It doesn’t like a vacuum so it fills in the blanks. Much like when I discovered Sadie and Nina were having an affair, I automatically assumed Nina killed her in a lover’s quarrel when really, the two of them were working together to get something from you, Roger.</content></utterance>
+<utterance uid="41-9"><speaker>JOANNA</speaker><content>What is he talking about?</content></utterance>
+<utterance uid="41-10"><speaker>ROGER</speaker><content>I’m sure I have no idea.</content></utterance>
+<utterance uid="41-11"><speaker>ESPOSITO</speaker><content>May I?</content></utterance>
+<utterance uid="41-12"><speaker>CASTLE</speaker><content>Please.</content></utterance>
+<utterance uid="41-13"><speaker>ESPOSITO</speaker><content>Turns out that Sadie asked Nina to bring her a glass with your DNA on it. The question is, why?</content></utterance>
+<utterance uid="41-14"><speaker>RYAN</speaker><content>My turn?</content></utterance>
+<utterance uid="41-15"><speaker>ESPOSITO</speaker><content>Go for it.</content></utterance>
+<utterance uid="41-16"><speaker>RYAN</speaker><content>We think that you were having an affair with Sadie.</content></utterance>
+<utterance uid="41-17"><speaker>JOANNA</speaker><content>I knew it! All those years you were working together, your little secret conversations. You were cheating on me this whole time, weren’t you?</content></utterance>
+<utterance uid="41-18"><speaker>ROGER</speaker><content>Honey, it’s not true, I swear.</content></utterance>
+<utterance uid="41-19"><speaker>CASTLE</speaker><content>See, Sadie wanted a sample of your DNA to prove that you are the father of Sadie’s daughter.</content></utterance>
+<utterance uid="41-20"><speaker>ROGER</speaker><content>Oh.</content></utterance>
+<utterance uid="41-21"><speaker>JOANNA</speaker><content>Oh, for the love of God.</content></utterance>
+<utterance uid="41-22"><speaker>ROGER</speaker><content>I told you.</content></utterance>
+<utterance uid="41-23"><speaker>CASTLE</speaker><content>I don’t understand.</content></utterance>
+<utterance uid="41-24"><speaker>JOANNA</speaker><content>Roger is infertile due to a childhood illness. And Sadie knew that. Hell, the mailman probably knows it given how much Roger talks about it.</content></utterance>
+<utterance uid="41-25"><speaker>ROGER</speaker><content>It was a very traumatic experience. As is this. I’d like you to leave.</content></utterance>
+<utterance uid="41-26"><speaker>CASTLE</speaker><content>Sorry Roger, no can do. Sadie wanted your glass. If not for DNA, then why?</content></utterance>
+<utterance uid="41-27"><speaker>RYAN</speaker><content>Perhaps a fingerprint?</content></utterance>
+<utterance uid="41-28"><speaker>ESPOSITO</speaker><content>Why would Sadie need his fingerprint?</content></utterance>
+<utterance uid="41-29"><speaker>ROGER</speaker><content>I have no idea.</content></utterance>
+<utterance uid="41-30"><speaker>CASTLE</speaker><content>Your wife does.</content></utterance>
+</scene>
+<scene id="42"><utterance uid="42-1"><speaker>JOANNA</speaker><content>Right over there. Behind the picture.</content></utterance>
+<utterance uid="42-2"><speaker>ROGER</speaker><content>Joanna, how could you?</content></utterance>
+<utterance uid="42-3"><speaker>JOANNA</speaker><content>Oh, please. I’ve been dying to know what you’ve been hiding in your safe for years now, Roger. And the fact that you didn’t knock up Sadie doesn’t mean you weren’t knocking boots.</content></utterance>
+<utterance uid="42-4"><speaker>ROGER</speaker><content>If you think I’m opening that without a warrant you’re crazy.</content></utterance>
+<utterance uid="42-5"><speaker>CASTLE</speaker><content>How long would it take to get us a warrant?</content></utterance>
+<utterance uid="42-6"><speaker>RYAN</speaker><content>An hour or two.</content></utterance>
+<utterance uid="42-7"><speaker>CASTLE</speaker><content>We don’t have that kind of time. Joanna, you’re a fan of Nikki Heat.</content></utterance>
+<utterance uid="42-8"><speaker>JOANNA</speaker><content> Yeah, so?</content></utterance>
+<utterance uid="42-9"><speaker>CASTLE</speaker><content>So how would you like to have a main character named after you in my next book?</content></utterance>
+<utterance uid="42-10"><speaker>ROGER</speaker><content>Joanna, don’t you dare.</content></utterance>
+<utterance uid="42-11"><speaker>JOANNA</speaker><content>How about a villain?</content></utterance>
+<utterance uid="42-12"><speaker>CASTLE</speaker><content>Deal.</content></utterance>
+<utterance uid="42-13"><speaker>ROGER</speaker><content>You wouldn’t.</content></utterance>
+<utterance uid="42-14"><speaker>ESPOSITO</speaker><content>What are we going to find on this tape, Roger?</content></utterance>
+</scene>
+<scene id="43"><utterance uid="43-1"><speaker>SADIE</speaker><content>They said it’s here, right?</content></utterance>
+<utterance uid="43-2"><speaker>ROGER</speaker><content>Yeah, but you know how they lie.</content></utterance>
+<utterance uid="43-3"><speaker>SADIE</speaker><content>Here. Got something.</content></utterance>
+<utterance uid="43-4"><speaker>ROGER</speaker><content>Tell me that’s not a WMD.</content></utterance>
+<utterance uid="43-5"><speaker>ROGER</speaker><content>Whoa! You know what that is?</content></utterance>
+<utterance uid="43-6"><speaker>SADIE</speaker><content>Yeah. One of the five million dollar duffel bags the CIA’s handing out all over Iraq.</content></utterance>
+<utterance uid="43-7"><speaker>ROGER</speaker><content>Let’s take it.</content></utterance>
+<utterance uid="43-8"><speaker>SADIE</speaker><content>What? No.</content></utterance>
+<utterance uid="43-9"><speaker>ROGER</speaker><content>Sadie, come on. It’s five million bucks. And no one’s ever going to miss it.</content></utterance>
+<utterance uid="43-10"><speaker>SADIE</speaker><content>Roger, forget about it. We’re reporters, not thieves. I’ll notify JSOP when we get back to base.</content></utterance>
+<utterance uid="43-11"><speaker>SADIE</speaker><content>All right, let’s get out of here.</content></utterance>
+<utterance uid="43-12"><speaker>BECKETT</speaker><content>But you didn’t leave it, did you?</content></utterance>
+<utterance uid="43-13"><speaker>ROGER</speaker><content>You can see on the tape that we did.</content></utterance>
+<utterance uid="43-14"><speaker>BECKETT</speaker><content>Sure, and then once you stopped recording you went back to get it.</content></utterance>
+<utterance uid="43-15"><speaker>ESPOSITO</speaker><content>Over a billion dollars in cash went missing in the Iraq invasion. What’s a lousy five mil? You couldn’t just leave it, could you?</content></utterance>
+<utterance uid="43-16"><speaker>ROGER</speaker><content>Yet that’s exactly what I did.</content></utterance>
+<utterance uid="43-17"><speaker>BECKETT</speaker><content>Except Sadie didn’t, did she?</content></utterance>
+<utterance uid="43-18"><speaker>ROGER</speaker><content>No. She didn’t. She snuck back and took it for herself and then she smuggled it to the States, tried to cut me out.</content></utterance>
+<utterance uid="43-19"><speaker>BECKETT</speaker><content>But you had the tape and you used that to blackmail her so you could get your share.</content></utterance>
+<utterance uid="43-20"><speaker>ESPOSITO</speaker><content>But Sadie didn’t like you having all that leverage. What I can’t figure out is what took Sadie so long to try to get his tape back from you.</content></utterance>
+<utterance uid="43-21"><speaker>BECKETT</speaker><content>Oh, I get it. You burned through the money that Sadie gave you originally so you needed more.</content></utterance>
+<utterance uid="43-22"><speaker>ROGER</speaker><content>I am mortgaged to the hilt, okay? All my credit cards are maxed, my wife won’t stop spending. Hell, she forked over fifteen Gs to that stupid charity auction to have the great Richard Castle read a couple of chapters out of his novel.</content></utterance>
+<utterance uid="43-23"><speaker>BECKETT</speaker><content>Okay, so you went to Sadie demanding more money. She refused. And then when you caught her in your office that night trying to take what was yours –</content></utterance>
+<utterance uid="43-24"><speaker>ESPOSITO</speaker><content>You grabbed the fireplace poker and you killed her.</content></utterance>
+<utterance uid="43-25"><speaker>ROGER</speaker><content>No! I didn’t even know Sadie was trying to steal the tape until you guys showed up at my house earlier.</content></utterance>
+<utterance uid="43-26"><speaker>BECKETT</speaker><content>Prove it. Where were you at the time of the murder?</content></utterance>
+<utterance uid="43-27"><speaker>ROGER</speaker><content>You promise not to tell my wife?  I was in the basement getting baked with Chip Evans and Lester Davis. I lied because I promised my wife I would stop toking. It’s just – I – I’m under a lot of stress lately.</content></utterance>
+</scene>
+<scene id="44"><utterance uid="44-1"><speaker>CASTLE</speaker><content>Please tell me you solved it.</content></utterance>
+<utterance uid="44-2"><speaker>BECKETT</speaker><content>Roger’s alibi checks out. We’re back to square one with zero leads. Any luck with Weller?</content></utterance>
+<utterance uid="44-3"><speaker>CASTLE</speaker><content>He only cares about getting a conviction. From the look of the jury when they found out about Nina and Sadie’s affair he’s going to get it.</content></utterance>
+<utterance uid="44-4"><speaker>BECKETT</speaker><content>We need to figure something out.</content></utterance>
+<utterance uid="44-5"><speaker>CASTLE</speaker><content>I have an idea.</content></utterance>
+<utterance uid="44-6"><speaker>BECKETT</speaker><content>Castle, what are you doing?</content></utterance>
+<utterance uid="44-7"><speaker>CASTLE</speaker><content>Saving an innocent woman’s life.</content></utterance>
+</scene>
+<scene id="45"><utterance uid="45-1"><speaker>JUDGE WOLLCOTT</speaker><content>Mr. Brown, your witness.</content></utterance>
+<utterance uid="45-2"><speaker>CASTLE</speaker><content>Stop the trial!</content></utterance>
+<utterance uid="45-3"><speaker>BECKETT</speaker><content>Okay, so … now what?</content></utterance>
+<utterance uid="45-4"><speaker>CASTLE</speaker><content>I don’t know. I didn’t think this one all the way through.</content></utterance>
+<utterance uid="45-5"><speaker>BECKETT</speaker><content> Okay.</content></utterance>
+</scene>
+<scene id="46"><utterance uid="46-1"><speaker>CASTLE</speaker><content>Hello, you Honor. Nice to see you again.</content></utterance>
+<utterance uid="46-2"><speaker>JUDGE WOLLCOTT</speaker><content>Hoping to make another trip to the holding cells, Mr. Castle?</content></utterance>
+<utterance uid="46-3"><speaker>CASTLE</speaker><content>No, your Honor. Once was plenty. And my sincerest apologies for the interruption. However there has been a development in the case.</content></utterance>
+<utterance uid="46-4"><speaker>BECKETT</speaker><content>Excuse us, your Honor, but the defense has a witness to call to the stand.</content></utterance>
+<utterance uid="46-5"><speaker>BROWN</speaker><content>Um … your Honor, the defense would like to call Richard Castle to the stand.</content></utterance>
+<utterance uid="46-6"><speaker>BECKETT</speaker><content> So Nina definitely didn’t do it.</content></utterance>
+<utterance uid="46-7"><speaker>BROWN</speaker><content>Tell me something I don’t know, like who did?</content></utterance>
+<utterance uid="46-8"><speaker>BECKETT</speaker><content>No idea.</content></utterance>
+<utterance uid="46-9"><speaker>BAILIFF</speaker><content>Swear to tell the truth, the whole truth, and nothing but the truth?</content></utterance>
+<utterance uid="46-10"><speaker>CASTLE</speaker><content> I do.  Looks like I got my do-over after all.</content></utterance>
+<utterance uid="46-11"><speaker>BROWN</speaker><content>Um … Mr. Castle, yesterday you testified my client was guilty of killing Mrs. Beakman. Do you still believe that’s true?</content></utterance>
+<utterance uid="46-12"><speaker>CASTLE</speaker><content>No. Nina’s innocent.</content></utterance>
+<utterance uid="46-13"><speaker>BROWN</speaker><content>Okay. And when, may I ask, did you change your mind about my client?</content></utterance>
+<utterance uid="46-14"><speaker>CASTLE</speaker><content>When I realized that Nina was a victim. A victim of bad timing, first and foremost my own.</content></utterance>
+<utterance uid="46-15"><speaker>BROWN</speaker><content>Bad timing, you say?</content></utterance>
+<utterance uid="46-16"><speaker>CASTLE</speaker><content>It was my bad timing that brought me to the crime scene too late. Had I gotten there earlier I would have seen Nina finding Sadie already stabbed.</content></utterance>
+<utterance uid="46-17"><speaker>BROWN</speaker><content>Okay, but then my client ran. Why?</content></utterance>
+<utterance uid="46-18"><speaker>CASTLE</speaker><content>Because she knew how it looked. While we’re on the topic of bad timing, let’s not fail to mention the timing of Nina originally being paired with a public defender who didn’t care about the truth. Unlike you, sir.</content></utterance>
+<utterance uid="46-19"><speaker>BROWN</speaker><content>Um … well, Mr. Castle, is there anything – is there anything else you’d like to share with the court?</content></utterance>
+<utterance uid="46-20"><speaker>CASTLE</speaker><content>Yes. Good people of the jury, it is frightening to think about but Nina O’Keefe is on trial today simply because I needed to use the restroom and the one downstairs –  – bad timing.</content></utterance>
+<utterance uid="46-21"><speaker>CASTLE</speaker><content>The bathroom downstairs was occupied.</content></utterance>
+</scene>
+<scene id="47"><utterance uid="47-1"><speaker>CASTLE</speaker><content>Call 911! Call 911!</content></utterance>
+<utterance uid="47-2"><speaker>CASTLE</speaker><content>I was rushing to the back of the house thinking Nina was the killer and she was getting away, but the true killer never left. The true killer was still in that bathroom, cleaning the mud from his shoes. The mud he collected trudging through the backyard.</content></utterance>
+</scene>
+<scene id="48"><utterance uid="48-1"><speaker>CASTLE</speaker><content>To and from killing Sadie.</content></utterance>
+<utterance uid="48-2"><speaker>BROWN</speaker><content>And Mr. Castle, did you see this man?</content></utterance>
+<utterance uid="48-3"><speaker>CASTLE</speaker><content> Yeah. Talk about bad timing. He came out just in time for me to catch him.</content></utterance>
+<utterance uid="48-4"><speaker>BROWN</speaker><content>Can you point to this man in the courtroom? The man who killed Sadie Beakman?</content></utterance>
+<utterance uid="48-5"><speaker>CASTLE</speaker><content>Yes, I can.  It was her husband, Lloyd Beakman.</content></utterance>
+<utterance uid="48-6"><speaker>LLYOD</speaker><content>How dare you.</content></utterance>
+<utterance uid="48-7"><speaker>ANNIE</speaker><content>No, wait. No, you and mom disappeared from the party at the same time.  No, I remember because I was trying to find you guys!</content></utterance>
+<utterance uid="48-8"><speaker>JUDGE WOLLCOTT</speaker><content>All right, that’s enough! I want order!</content></utterance>
+<utterance uid="48-9"><speaker>BECKETT</speaker><content>Apologies to the court, your Honor. Joanna Masters thought that Sadie was having an affair with her husband, Roger. But she was wrong.  And so were you.</content></utterance>
+<utterance uid="48-10"><speaker>LLOYD</speaker><content>I have absolutely no idea what you’re talking about.</content></utterance>
+<utterance uid="48-11"><speaker>BECKETT</speaker><content>Sure you do. You saw your wife head up those stairs. You had your suspicious; she had cheated on you before. So you headed out to the yard. You moved the basketball hoop over so you could climb up it and get a better look.</content></utterance>
+<utterance uid="48-12"><speaker>CASTLE</speaker><content>But Sadie caught you spying in the window, didn’t she? So you came inside and accused her of having an affair with Roger.</content></utterance>
+<utterance uid="48-13"><speaker>ANNIE</speaker><content>Dad, what did you do?</content></utterance>
+<utterance uid="48-14"><speaker>LLOYD</speaker><content>What did I do? Your mother was having an affair with –  – her, of all people. And it was so funny to your mother that I assumed it was Roger that she laughed and laughed.</content></utterance>
+<utterance uid="48-15"><speaker>BECKETT</speaker><content>So you were upstairs with Sadie.</content></utterance>
+<utterance uid="48-16"><speaker>LLOYD</speaker><content>What – what – what I meant was –</content></utterance>
+<utterance uid="48-17"><speaker>BECKETT</speaker><content>What happened, Lloyd? Did you lose control, is that why you killed her?</content></utterance>
+<utterance uid="48-18"><speaker>LLOYD</speaker><content>I didn’t mean to. I didn’t – mean it. I loved Sadie, but I just – I got –</content></utterance>
+<utterance uid="48-19"><speaker>BROWN</speaker><content>Mr. Beakman, my advice to you would be to stop talking and find yourself an attorney.</content></utterance>
+<utterance uid="48-20"><speaker>BECKETT</speaker><content>Mr. Beakman, you’re under arrest for murder.  Come on. Hands.</content></utterance>
+<utterance uid="48-21"><speaker>WELLER</speaker><content>Your Honor, in light of these developments the people file a motion to dismiss all charges against Nina O’Keefe.</content></utterance>
+<utterance uid="48-22"><speaker>JUDGE WOLLCOTT</speaker><content>Granted. Case dismissed.</content></utterance>
+<utterance uid="48-23"><speaker>NINA</speaker><content> Thank you.</content></utterance>
+</scene>
+
+<scene id="49"><utterance uid="49-1"><speaker>BECKETT</speaker><content>Great job, guys. You should be proud of yourselves.</content></utterance>
+<utterance uid="49-2"><speaker>ESPOSITO</speaker><content>Why? We blew it.</content></utterance>
+<utterance uid="49-3"><speaker>RYAN</speaker><content>Yeah. For five months we had an innocent woman rotting in jail.</content></utterance>
+<utterance uid="49-4"><speaker>BECKETT</speaker><content>No. That one’s not on us. Nina’s original defense attorney did that to her. At the end of the day we’re the ones who brought her justice.</content></utterance>
+<utterance uid="49-5"><speaker>ESPOSITO</speaker><content>Speaking of which, I’ve gotta take back everything bad I’ve ever said about defense attorneys. That guy, Caleb Brown, he’s all right.</content></utterance>
+<utterance uid="49-6"><speaker>RYAN</speaker><content>Yeah, he’s a stand-up guy.</content></utterance>
+<utterance uid="49-7"><speaker>RYAN</speaker><content>We’ll see you later, Beckett.</content></utterance>
+<utterance uid="49-8"><speaker>ESPOSITO</speaker><content>Yeah.</content></utterance>
+<utterance uid="49-9"><speaker>BECKETT</speaker><content>All right. Good night, guys.</content></utterance>
+<utterance uid="49-10"><speaker>VIKRAM</speaker><content>Caleb’s a stand-up guy. If they only knew.</content></utterance>
+<utterance uid="49-11"><speaker>BECKETT</speaker><content>No, they’re right. I mean, Caleb is a monster, but what we learned today is that he is a monster who is desperate to do good.</content></utterance>
+<utterance uid="49-12"><speaker>VIKRAM</speaker><content> So?</content></utterance>
+<utterance uid="49-13"><speaker>BECKETT</speaker><content>So we were looking for his weakness? And we just found it.</content></utterance>
+</scene>
+<scene id="50"><utterance uid="50-1"><speaker>CASTLE</speaker><content>Hey, celebratory champagne. Felt appropriate given the twist it played in today’s courtroom drama.</content></utterance>
+<utterance uid="50-2"><speaker>BECKETT</speaker><content>Yes, enough drama to fill a legal thriller. Maybe you should try a new genre.</content></utterance>
+<utterance uid="50-3"><speaker>CASTLE</speaker><content>Maybe I should try to make sure I never testify in court again.</content></utterance>
+<utterance uid="50-4"><speaker>BECKETT</speaker><content>You kept an innocent woman out of jail, Rick. I’m proud of you for that.</content></utterance>
+<utterance uid="50-5"><speaker>CASTLE</speaker><content>I couldn’t have done it without you.</content></utterance>
+<utterance uid="50-6"><speaker>CASTLE</speaker><content>So … how is your investigation into LokSat coming along?</content></utterance>
+<utterance uid="50-7"><speaker>BECKETT</speaker><content>I – you know I can’t tell you about that.</content></utterance>
+<utterance uid="50-8"><speaker>CASTLE</speaker><content>Right, right. For my own safety.</content></utterance>
+<utterance uid="50-9"><speaker>BECKETT</speaker><content>Um … but I can tell you this. I’m getting close.</content></utterance>
+<utterance uid="50-10"><speaker>CASTLE</speaker><content>That’s good.  Because so am I.</content></utterance>
+<utterance uid="50-11"><speaker>THE END</speaker><content>CASTLE</content></utterance>
+</scene>
+</script>

@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>SECURITY GUARD</speaker><content>Buddy, I’m going to have to move along.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>SECURITY GUARD</speaker><content>Hey there.  Excuse me? This is a restricted area.</content></utterance>
+<utterance uid="2-2"><speaker>SECURITY GUARD</speaker><content>Ma’am? Ma’am? Are you all right?</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>RICHARD CASTLE</speaker><content>We should go somewhere relaxing. You know, where we can just hang. Don’t you think?</content></utterance>
+<utterance uid="3-2"><speaker>KATE BECKETT</speaker><content>Before we plan the honeymoon shouldn’t we set a wedding date first?</content></utterance>
+<utterance uid="3-3"><speaker>CASTLE</speaker><content>No. Because the department hasn’t even decided if you can have time off yet. Besides, planning a honeymoon will help us set a date.</content></utterance>
+<utterance uid="3-4"><speaker>BECKETT</speaker><content>Okay. I can’t wait to hear about this.</content></utterance>
+<utterance uid="3-5"><speaker>CASTLE</speaker><content>Well you don’t want to go to Thailand during monsoon season, do you? Or New Zealand in the winter? No. You decide where you want to go, the best time to be there, boom. Lobby for those dates.</content></utterance>
+<utterance uid="3-6"><speaker>BECKETT</speaker><content>New Zealand? Castle, are you using our honeymoon as an excuse to go and tour Middle Earth?</content></utterance>
+<utterance uid="3-7"><speaker>CASTLE</speaker><content>I’m game if you are.</content></utterance>
+<utterance uid="3-8"><speaker>BECKETT</speaker><content>I was hoping for something more romantic and less … hobbity.</content></utterance>
+<utterance uid="3-9"><speaker>CASTLE</speaker><content>Why does everyone always think those two are mutually exclusive?</content></utterance>
+<utterance uid="3-10"><speaker>BECKETT</speaker><content>And it should be a place where neither one of us have ever been to.</content></utterance>
+<utterance uid="3-11"><speaker>CASTLE</speaker><content>Agreed. A perfect spot that will be ours and ours alone.</content></utterance>
+<utterance uid="3-12"><speaker>BECKETT</speaker><content>Like Barcelona.</content></utterance>
+<utterance uid="3-13"><speaker>CASTLE</speaker><content>That’s where I took Meredith.</content></utterance>
+<utterance uid="3-14"><speaker>BECKETT</speaker><content>Okay. Um … Galapagos. I’ve always wanted to go there.</content></utterance>
+<utterance uid="3-15"><speaker>CASTLE</speaker><content>Gina.</content></utterance>
+<utterance uid="3-16"><speaker>BECKETT</speaker><content>Seriously?</content></utterance>
+<utterance uid="3-17"><speaker>CASTLE</speaker><content>Yeah. Part of our whirlwind honeymoon tour.</content></utterance>
+<utterance uid="3-18"><speaker>BECKETT</speaker><content>Fine. Swiss Alps. I hear they’re breathtaking.</content></utterance>
+<utterance uid="3-19"><speaker>CASTLE</speaker><content>They are.</content></utterance>
+<utterance uid="3-20"><speaker>BECKETT</speaker><content>No.</content></utterance>
+<utterance uid="3-21"><speaker>CASTLE</speaker><content>Yeah. It’s where Meredith and I used to winter.</content></utterance>
+<utterance uid="3-22"><speaker>BECKETT</speaker><content>You know what? I think a better plan would be for you to make a list of places in the world that you have never honeymooned, vacationed, or married any of your other wives.</content></utterance>
+<utterance uid="3-23"><speaker>CASTLE</speaker><content>How hard could it be?</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>BECKETT</speaker><content>Albania and Finland. That’s all you got left?</content></utterance>
+<utterance uid="4-2"><speaker>CASTLE</speaker><content>Well, we traveled a lot. No, I’m sure I can think up some other places.</content></utterance>
+<utterance uid="4-3"><speaker>BECKETT</speaker><content>Yeah well, my vote’s for someplace warmer.</content></utterance>
+<utterance uid="4-4"><speaker>CASTLE</speaker><content>Ah, maybe you’re right. Maybe we should just … focus on setting a date?</content></utterance>
+<utterance uid="4-5"><speaker>BECKETT</speaker><content>Hey Ryan.  What’s going on with Lanie?</content></utterance>
+<utterance uid="4-6"><speaker>KEVIN RYAN</speaker><content>Uh, this case just hit a little close to home.</content></utterance>
+<utterance uid="4-7"><speaker>CASTLE</speaker><content>Why? What happened?</content></utterance>
+<utterance uid="4-8"><speaker>RYAN</speaker><content>Uh, security guard on the nightshift found out victim hanging from that beam.  We ID’d her as Pam Hodges, 32.</content></utterance>
+<utterance uid="4-9"><speaker>CASTLE</speaker><content>Hanging as in, by the neck?</content></utterance>
+<utterance uid="4-10"><speaker>RYAN</speaker><content>Yeah. But what’s really bizarre is the way the victim looks.</content></utterance>
+<utterance uid="4-11"><speaker>CASTLE</speaker><content>Whoa. Is that Lanie’s sister?</content></utterance>
+<utterance uid="4-12"><speaker>BECKETT</speaker><content> Lanie doesn’t have a sister. Are Pam Hodges and Lanie related?</content></utterance>
+<utterance uid="4-13"><speaker>LANIE PARISH</speaker><content>Nope. But they say we all have a twin out there somewhere. I guess this one’s mine.</content></utterance>
+<utterance uid="4-14"><speaker>BECKETT</speaker><content>Lanie, we can deal with the preliminaries later.</content></utterance>
+<utterance uid="4-15"><speaker>LANIE</speaker><content>I was shook up at first, but I’m fine now. She died between 2 and 4AM. Her neck did not break because the killer rigged the wires so her feet were just off the ground. She probably was strangled to death.</content></utterance>
+<utterance uid="4-16"><speaker>CASTLE</speaker><content>How does a wire that thin not snap?</content></utterance>
+<utterance uid="4-17"><speaker>RYAN</speaker><content>It’s high test fishing line. Available at most sporting goods stores.</content></utterance>
+<utterance uid="4-18"><speaker>CASTLE</speaker><content>So then, it would have seemed as if she were just standing there on the dock.</content></utterance>
+<utterance uid="4-19"><speaker>RYAN</speaker><content>That’s how she looked when we rolled up. It was freaky.</content></utterance>
+<utterance uid="4-20"><speaker>BECKETT</speaker><content>That’s what our killer was going for. He put her body on display to create a tableau. He’s confident. Brazen.</content></utterance>
+<utterance uid="4-21"><speaker>CASTLE</speaker><content>Yeah, like he’d done it before?</content></utterance>
+<utterance uid="4-22"><speaker>BECKETT</speaker><content>Contact the FBI.  See if they have any similar murders in their databases. Do we have an witnesses?</content></utterance>
+<utterance uid="4-23"><speaker>RYAN</speaker><content>No, not so far. The security guard rousted a homeless guy before he found the victim. Uniforms are still trying to track him down, see if he saw anything.</content></utterance>
+<utterance uid="4-24"><speaker>CASTLE</speaker><content>What do we know about Pan Hodges?</content></utterance>
+<utterance uid="4-25"><speaker>JAVIER ESPOSITO</speaker><content>She’s from Tampa, Florida where she lived on the fringes, racked up half a dozen busts for solicitation. This is her about a year ago. I’d say she came up in the world.</content></utterance>
+<utterance uid="4-26"><speaker>CASTLE</speaker><content>She looks a heck of a lot better now than she did back then. Aside from the being dead part.</content></utterance>
+<utterance uid="4-27"><speaker>BECKETT</speaker><content>Why was she in New York?</content></utterance>
+<utterance uid="4-28"><speaker>ESPOSITO</speaker><content>We don’t know yet. She moved here seven months ago. New York drives license with a Brooklyn address.</content></utterance>
+<utterance uid="4-29"><speaker>BECKETT</speaker><content>All right, check her address. See if she’s got any family here.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>CALVIN HODGES</speaker><content>Yes, Pam’s my niece. She stayed in my place for a few weeks when she moved to the city.</content></utterance>
+<utterance uid="5-2"><speaker>ESPOSITO</speaker><content>You know why she came to town, Mr. Hodges?</content></utterance>
+<utterance uid="5-3"><speaker>CALVIN</speaker><content>Well, she said she needed a fresh start and she had a job offer.</content></utterance>
+<utterance uid="5-4"><speaker>RYAN</speaker><content>Doing what?</content></utterance>
+<utterance uid="5-5"><speaker>CALVIN</speaker><content>I was afraid Pam would start working the streets again. She burned a lot of bridges by telling her family she was going straight and never doing it. But this time was different. Pam moved out of my house like she said she would, she started working a job. A few months back I met her for lunch and I almost didn’t recognize her she looked so good. Pam was happy. She said this new job was just what she needed.</content></utterance>
+<utterance uid="5-6"><speaker>RYAN</speaker><content>What do you know about this job? Where did she work?</content></utterance>
+<utterance uid="5-7"><speaker>CALVIN</speaker><content>She wouldn’t talk about it much. Except to say that it was legit and she was being taken care of.</content></utterance>
+<utterance uid="5-8"><speaker>ESPOSITO</speaker><content>Do you know where she move to after she left your place?</content></utterance>
+<utterance uid="5-9"><speaker>CALVIN</speaker><content>She and I shared a cab that day and it dropped her off at a building off the West Side Highway. But I’ll tell you this. Pam took a big step up.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>CASTLE</speaker><content>A big step up? This is a giant leap. This is a – a vault into the stratosphere.</content></utterance>
+<utterance uid="6-2"><speaker>BECKETT</speaker><content>How does a former streetwalker from Tampa afford a place like this?</content></utterance>
+<utterance uid="6-3"><speaker>CASTLE</speaker><content>Did she ever get any visitors? Possible she uh … worked out of the home?</content></utterance>
+<utterance uid="6-4"><speaker>GRAHAM</speaker><content>No sir. That is not possible.</content></utterance>
+<utterance uid="6-5"><speaker>BECKETT</speaker><content>Well then who paid for rent?</content></utterance>
+<utterance uid="6-6"><speaker>GRAHAM</speaker><content>Detective, we have a well-earned reputation for discretion and guarding the privacy of our clients.</content></utterance>
+<utterance uid="6-7"><speaker>BECKETT</speaker><content>Privacy ends when murder begins. Now I want the name of whoever is paying for this unit. And if you don’t have that then go get it.</content></utterance>
+<utterance uid="6-8"><speaker>CASTLE</speaker><content>I love when you get angry. I mean, at other people besides me.</content></utterance>
+<utterance uid="6-9"><speaker>BECKETT</speaker><content>Castle, look at these coats. There’s at least $20 grand here.</content></utterance>
+<utterance uid="6-10"><speaker>CASTLE</speaker><content>So whoever was paying her rent bought her wardrobe, too.</content></utterance>
+<utterance uid="6-11"><speaker>BECKETT</speaker><content>These coats, this insane place, her history as a hooker, and now this job where she’s well taken care of?</content></utterance>
+<utterance uid="6-12"><speaker>CASTLE</speaker><content>All points to one thing.</content></utterance>
+<utterance uid="6-13"><speaker>BECKETT</speaker><content>She was someone’s mistress.</content></utterance>
+<utterance uid="6-14"><speaker>CASTLE</speaker><content>And her sugar daddy hasn’t come forward or reported her missing. At the very least he knows about her life. At the very most he’s the one who took it.</content></utterance>
+<utterance uid="6-15"><speaker>BECKETT</speaker><content>If Pam was a kept woman then he’s been to this apartment.  I’m going to get ahold of CSU, have them sweep for prints so we can find out who’s been here.</content></utterance>
+<utterance uid="6-16"><speaker>CASTLE</speaker><content>While we’re at it we should take a look and see what’s on this. She might have taken a picture of him.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>TECH AGENT TORI</speaker><content>It doesn’t look like she did. These are mostly standard tourist snapshots of New York.</content></utterance>
+<utterance uid="7-2"><speaker>CASTLE</speaker><content>No pictures of people, friends, boyfriends?</content></utterance>
+<utterance uid="7-3"><speaker>TORI</speaker><content>I haven’t found any so far.</content></utterance>
+<utterance uid="7-4"><speaker>BECKETT</speaker><content>Keep looking, okay? And check faces in the background, see if any of them show up again. Those photos might be our best bet.</content></utterance>
+<utterance uid="7-5"><speaker>CASTLE</speaker><content> Thanks.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>CASTLE</speaker><content>I take it that means we hit a wall on who rents the apartment?</content></utterance>
+<utterance uid="8-2"><speaker>BECKETT</speaker><content>The lease is held and paid for by Greg’s Baker, which is a shell corporation based of out Belize. And it was set up in such a way as to make it untraceable.</content></utterance>
+<utterance uid="8-3"><speaker>CASTLE</speaker><content>All right, what about phone records and credit cards? They must point to who Pam Hodges was spending time with.</content></utterance>
+<utterance uid="8-4"><speaker>BECKETT</speaker><content>She barely used her phone. And even though she racked up hug credit card bills it was mostly for shoes and clothes and hair salons. And it was paid for, monthly, by Greg’s Baker.</content></utterance>
+<utterance uid="8-5"><speaker>CASTLE</speaker><content>Well what did CSU find at her apartment?</content></utterance>
+<utterance uid="8-6"><speaker>BECKETT</speaker><content>Her prints. No one else’s.</content></utterance>
+<utterance uid="8-7"><speaker>CASTLE</speaker><content>What the hell is going on here?</content></utterance>
+<utterance uid="8-8"><speaker>BECKETT</speaker><content>I don’t know.  But someone is doing an incredible job of covering their tracks.  Hey Lanie.</content></utterance>
+<utterance uid="8-9"><speaker>LANIE</speaker><content>Kate. I need you to get down here.</content></utterance>
+<utterance uid="8-10"><speaker>BECKETT</speaker><content>Okay. We’re on our way.</content></utterance>
+<utterance uid="8-11"><speaker>LANIE</speaker><content>Not Castle. Just you.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>BECKETT</speaker><content>Hey. What’s going on?</content></utterance>
+<utterance uid="9-2"><speaker>LANIE</speaker><content>Pam Hodges recently had cheek implants put in. It made her face broader. Like mine.</content></utterance>
+<utterance uid="9-3"><speaker>BECKETT</speaker><content>Okay?</content></utterance>
+<utterance uid="9-4"><speaker>LANIE</speaker><content>Her hair products, her lipstick, her nail polish. They’re all the same as the ones I use.</content></utterance>
+<utterance uid="9-5"><speaker>BECKETT</speaker><content>Lanie, you’re just picking up on things that are similar with the victim.</content></utterance>
+<utterance uid="9-6"><speaker>LANIE</speaker><content>That’s what I kept telling myself. Then I found this.</content></utterance>
+<utterance uid="9-7"><speaker>BECKETT</speaker><content>Okay, all right. I’ve seen this before. It – it means inner strength.</content></utterance>
+<utterance uid="9-8"><speaker>LANIE</speaker><content>I know what it means, Kate. Look.</content></utterance>
+<utterance uid="9-9"><speaker>LANIE</speaker><content>I have the same exact tattoo in the same place.</content></utterance>
+<utterance uid="9-10"><speaker>BECKETT</speaker><content>How is that even possible?</content></utterance>
+<utterance uid="9-11"><speaker>LANIE</speaker><content>It’s no accident we could be twins. Somebody went out of their way to make her look like me.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>ESPOSITO</speaker><content>Wait a minute. So you’re saying that Pam Hodges was trying to look like Lanie?</content></utterance>
+<utterance uid="10-2"><speaker>BECKETT</speaker><content>Given the tattoo and the surgery I just don’t see another explanation.</content></utterance>
+<utterance uid="10-3"><speaker>RYAN</speaker><content>Yeah, but why would she do that?</content></utterance>
+<utterance uid="10-4"><speaker>CASTLE</speaker><content>Because her sugar daddy wanted her to. Maybe he found her down in Tampa, shipped her up here, set her up in style. I mean, to a street walker that would seem like the greatest gig ever. All she’d have to do is let him remake her. Into Lanie.</content></utterance>
+<utterance uid="10-5"><speaker>RYAN</speaker><content>Yeah, like Jimmy Stewart in Vertigo.  Thanks, LT.</content></utterance>
+<utterance uid="10-6"><speaker>ESPOSITO</speaker><content>Yeah, but even more twisted. So this guy has to know Lanie.</content></utterance>
+<utterance uid="10-7"><speaker>BECKETT</speaker><content>Only she doesn’t seem to know him. But she’s still coming in to give us a statement. Now, what about the staff in Pam’s building? Did they give us any more details?</content></utterance>
+<utterance uid="10-8"><speaker>ESPOSITO</speaker><content>No. None of them remember seeing any guys come to see her.</content></utterance>
+<utterance uid="10-9"><speaker>BECKETT</speaker><content>You know, there might be another way for us to trace this guy. The cheek implants have serial numbers. Maybe that’ll lead us to Pam’s surgeon.</content></utterance>
+<utterance uid="10-10"><speaker>RYAN</speaker><content>There might be another reason why her sugar daddy’s lying low. The FBI database shows two other victims strangled with metal fishing line and their bodies staged. One in Miami, one in Fort Lauderdale, both unsolved, no suspects.</content></utterance>
+<utterance uid="10-11"><speaker>CASTLE</speaker><content>Well our victim’s from Florida. Maybe he knew her from there.</content></utterance>
+<utterance uid="10-12"><speaker>BECKETT</speaker><content>Order the homicide files, check them against our case. In the meantime canvass the stores and the salons Pam went to. Maybe she confided in someone or someone might have seen her with this guy.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>CASTLE</speaker><content>An ME investigates the murder of her own doppelganger. It would be a great story if Lanie weren’t living it.</content></utterance>
+<utterance uid="11-2"><speaker>BECKETT</speaker><content>There’s something that we’re missing here, Castle. Two similar murders in Florida, our victim also from Florida? But then there’s this whole Lanie and her look-alike angle. How does that fit in?</content></utterance>
+<utterance uid="11-3"><speaker>CASTLE</speaker><content>I have no idea.</content></utterance>
+<utterance uid="11-4"><speaker>RYAN</speaker><content>Hey. We got a hit on those cheek implants. They were traced to a Manhattan cosmetic surgeon, Dr. Kelly Nieman.</content></utterance>
+<utterance uid="11-5"><speaker>CASTLE</speaker><content>Well I for one am very interested in what Dr. Nieman has to say.</content></utterance>
+<utterance uid="11-6"><speaker>RYAN</speaker><content>In the meantime Lanie wants to give her statement to Esposito.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>ESPOSITO</speaker><content>You’re not a perp, Lanie. It doesn’t seem right, us talking in here like this.</content></utterance>
+<utterance uid="12-2"><speaker>LANIE</speaker><content>I wanted to be somewhere private, so … let’s get on with this, okay?</content></utterance>
+<utterance uid="12-3"><speaker>ESPOSITO</speaker><content>Okay. Um … so can you think of anyone who would do a thing like this?</content></utterance>
+<utterance uid="12-4"><speaker>LANIE</speaker><content>No.</content></utterance>
+<utterance uid="12-5"><speaker>ESPOSITO</speaker><content>Who’ve you been with in the last six months? Besides me, I mean. I know we’re not exclusive.</content></utterance>
+<utterance uid="12-6"><speaker>LANIE</speaker><content>No one.</content></utterance>
+<utterance uid="12-7"><speaker>ESPOSITO</speaker><content>I need the truth. Whatever it is.</content></utterance>
+<utterance uid="12-8"><speaker>LANIE</speaker><content> I’m telling you the truth.</content></utterance>
+<utterance uid="12-9"><speaker>ESPOSITO</speaker><content>Then how do they know about the tattoo? You’ve only had it three months, right? No one could see it unless you were naked.</content></utterance>
+<utterance uid="12-10"><speaker>LANIE</speaker><content>Well did you mention it to anyone?</content></utterance>
+<utterance uid="12-11"><speaker>ESPOSITO</speaker><content>Of course not.</content></utterance>
+<utterance uid="12-12"><speaker>LANIE</speaker><content>You are the only person I ever showed it to.</content></utterance>
+<utterance uid="12-13"><speaker>ESPOSITO</speaker><content>Wait … something is not right. This – this doesn’t make sense. C’mon, Lanie. Think. Someone got close to you. Someone saw that tattoo. Now who was it?</content></utterance>
+<utterance uid="12-14"><speaker>LANIE</speaker><content>Oh my God.</content></utterance>
+<utterance uid="12-15"><speaker>ESPOSITO</speaker><content>What?</content></utterance>
+<utterance uid="12-16"><speaker>LANIE</speaker><content>I had a weird night two months back.</content></utterance>
+<utterance uid="12-17"><speaker>ESPOSITO</speaker><content>Weird how?</content></utterance>
+<utterance uid="12-18"><speaker>LANIE</speaker><content>Someone at work got promoted and a bunch of us hit a nightclub to celebrate. And some hot jazz was going so I stayed late. When I woke up the next day I couldn’t remember how I got home.</content></utterance>
+<utterance uid="12-19"><speaker>ESPOSITO</speaker><content>Wait, wait. Since when do you go busting your two drink limit?</content></utterance>
+<utterance uid="12-20"><speaker>LANIE</speaker><content>I don’t. And I didn’t that night, either. What if this is when it happened? What if he put something in my drink and took me to my place and all of this started because of me?</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>RYAN</speaker><content>I got your message. What’d you find?</content></utterance>
+<utterance uid="13-2"><speaker>TORI</speaker><content>Nothing in Pam’s pictures, but I scanned the camera’s memory card and I recovered a deleted picture file.</content></utterance>
+<utterance uid="13-3"><speaker>RYAN</speaker><content>That’s our victim. When was this taken?</content></utterance>
+<utterance uid="13-4"><speaker>TORI</speaker><content>Based on the jpeg data, yesterday afternoon.</content></utterance>
+<utterance uid="13-5"><speaker>RYAN</speaker><content>So just a few hours before she was killed.  Let’s locate that marina and find out who owns that boat.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>BECKETT</speaker><content>NYPD. I need –</content></utterance>
+<utterance uid="14-2"><speaker>BRYCE</speaker><content>I’m sorry. Do you have an appointment?</content></utterance>
+<utterance uid="14-3"><speaker>BECKETT</speaker><content>We’re here to see Dr. Nieman.</content></utterance>
+<utterance uid="14-4"><speaker>BRYCE</speaker><content>Can I ask what this is regarding?</content></utterance>
+<utterance uid="14-5"><speaker>BECKETT</speaker><content>No.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>BRYCE</speaker><content>I’m sorry, Dr. Nieman, I apologize for the intrusion. This is -</content></utterance>
+<utterance uid="15-2"><speaker>BECKETT</speaker><content>Detective Beckett. Mr. Castle.</content></utterance>
+<utterance uid="15-3"><speaker>NIEMAN</speaker><content>As a tireless self-promoter, let me offer you one of my pens.</content></utterance>
+<utterance uid="15-4"><speaker>BECKETT</speaker><content>No. Thank you. We’re just here to ask you a few questions.</content></utterance>
+<utterance uid="15-5"><speaker>NIEMAN</speaker><content>Oh, can I just say, you have an amazing face, Detective.</content></utterance>
+<utterance uid="15-6"><speaker>CASTLE</speaker><content>And uh, what … what about my face?</content></utterance>
+<utterance uid="15-7"><speaker>NIEMAN</speaker><content>Uh … amazing potential.</content></utterance>
+<utterance uid="15-8"><speaker>BECKETT</speaker><content>Why don’t we talk about Pam Hodges’s face? And the fact that she was murdered.</content></utterance>
+<utterance uid="15-9"><speaker>NIEMAN</speaker><content> Jesus. What happened?</content></utterance>
+<utterance uid="15-10"><speaker>BECKETT</speaker><content>She was one of your patients, is that correct?</content></utterance>
+<utterance uid="15-11"><speaker>NIEMAN</speaker><content>Uh, yes. Yes. I preformed some refinements.</content></utterance>
+<utterance uid="15-12"><speaker>CASTLE</speaker><content>And at who’s behest?</content></utterance>
+<utterance uid="15-13"><speaker>NIEMAN</speaker><content>Hers. She actually brought me a picture of a friend of hers. They had similar facial structure and Pam wanted to look a bit more like her friend.</content></utterance>
+<utterance uid="15-14"><speaker>BECKETT</speaker><content>Wait, so let me get this straight. People come in and ask to look like other people and you just do it?</content></utterance>
+<utterance uid="15-15"><speaker>NIEMAN</speaker><content>Well it’s not unusual for patients to bring me photos, usually of models or actors, for reference.</content></utterance>
+<utterance uid="15-16"><speaker>CASTLE</speaker><content>And these photos she showed you, where were they taken?</content></utterance>
+<utterance uid="15-17"><speaker>NIEMAN</speaker><content>They looked like snapshots from a bar or a club, as I recall.</content></utterance>
+<utterance uid="15-18"><speaker>BECKETT</speaker><content>Did she ever come here with anyone? Did she even mention any of the men in her life?</content></utterance>
+<utterance uid="15-19"><speaker>NIEMAN</speaker><content>No, I’m afraid not.</content></utterance>
+<utterance uid="15-20"><speaker>CASTLE</speaker><content>And who was it that paid for these new cheeks of hers?</content></utterance>
+<utterance uid="15-21"><speaker>NIEMAN</speaker><content>She did. With a company check.</content></utterance>
+<utterance uid="15-22"><speaker>CASTLE</speaker><content>From Greg’s Baker?</content></utterance>
+<utterance uid="15-23"><speaker>NIEMAN</speaker><content>I’d have to look, but that – that sounds right.</content></utterance>
+<utterance uid="15-24"><speaker>BECKETT</speaker><content>Um … excuse me.  Beckett.</content></utterance>
+<utterance uid="15-25"><speaker>CASTLE</speaker><content>Okay. Seriously. Amazing potential?</content></utterance>
+<utterance uid="15-26"><speaker>NIEMAN</speaker><content> And I’d love to help you realize it.</content></utterance>
+<utterance uid="15-27"><speaker>CASTLE</speaker><content>Wow.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>BECKETT</speaker><content>Yeah, hey.</content></utterance>
+<utterance uid="16-2"><speaker>RYAN</speaker><content>We tracked down that marina from the photo. It’s Windward Cove in Long Island. We’re here right now.</content></utterance>
+<utterance uid="16-3"><speaker>BECKETT</speaker><content>Whose boat was Pam on?</content></utterance>
+<utterance uid="16-4"><speaker>RYAN</speaker><content>It’s registered out of Florida to a Rudy Hollings.</content></utterance>
+<utterance uid="16-5"><speaker>BECKETT</speaker><content>Okay, so what do we know about him?</content></utterance>
+<utterance uid="16-6"><speaker>RYAN</speaker><content>Not a damn thing, except Pam was on his boat the night she was murdered. We’re about to board. I’ll call you when it’s secure.</content></utterance>
+<utterance uid="16-7"><speaker>BECKETT</speaker><content>Okay.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>SWAT TEAM MEMBER</speaker><content>NYPD! Police! Suspect up ahead. 12 o’clock. Let me see your hands! Hands!</content></utterance>
+<utterance uid="17-2"><speaker>RYAN</speaker><content>Show me your hands! Right now!</content></utterance>
+<utterance uid="17-3"><speaker>ESPOSITO</speaker><content>Hands! Now!</content></utterance>
+<utterance uid="17-4"><speaker>ESPOSITO</speaker><content>What?</content></utterance>
+<utterance uid="17-5"><speaker>RYAN</speaker><content>Espo, go outside. Don’t look, man.</content></utterance>
+<utterance uid="17-6"><speaker>ESPOSITO</speaker><content>What do you mean? What are you talking about, go outside? Huh? Let me see,</content></utterance>
+<utterance uid="17-7"><speaker>ESPOSITO</speaker><content>That’s me.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>CAPTAIN VICTORIA GATES</speaker><content>Our victim is Daniel Santos. Like Pam Hodges he was hung with fishing line. All though Santos shows no sign of cosmetic surgery, this killer, for reasons unknown, has clearly selected two victims who bear deliberate resemblance to members of our own police family. Now, what did the crime scene give us?</content></utterance>
+<utterance uid="18-2"><speaker>ESPOSITO</speaker><content>Well there’s no prints or trace evidence. All we know is that the rig Santos was hung from was built from standard hardware store piping and that the fishing reel that fed the line was bought from a bait shop in North Carolina in 2005.</content></utterance>
+<utterance uid="18-3"><speaker>GATES</speaker><content>Where are we on the owner of the boat?</content></utterance>
+<utterance uid="18-4"><speaker>RYAN</speaker><content>Rudy Hollings. He’s been in Spain for a year. He said he had no idea who would use his boat to commit a murder.</content></utterance>
+<utterance uid="18-5"><speaker>GATES</speaker><content>So somebody could have been aware of his travel plans.</content></utterance>
+<utterance uid="18-6"><speaker>CASTLE</speaker><content>It’s also possible if the killer knew boats, uh … they were looking for tell-tale signs that the boat wasn’t in use.</content></utterance>
+<utterance uid="18-7"><speaker>BECKETT</speaker><content>Yeah, that’s probably why he picked it, Sir. He knew he could kill Daniel Santos undisturbed.</content></utterance>
+<utterance uid="18-8"><speaker>GATES</speaker><content>What do we know about Mr. Santos?</content></utterance>
+<utterance uid="18-9"><speaker>BECKETT</speaker><content>He moved here from Georgia about a year ago. I’m still trying to find a current address. I did speak with his parents. They told me he worked as a male stripper. Three months ago he called his parents to tell them he quit stripping and he’d landed a big time gig.</content></utterance>
+<utterance uid="18-10"><speaker>GATES</speaker><content>Did they know what this gig was?</content></utterance>
+<utterance uid="18-11"><speaker>BECKETT</speaker><content>No. He was vague. Just like Pam Hodges.</content></utterance>
+<utterance uid="18-12"><speaker>GATES</speaker><content>Okay. So, I need you, Detective Esposito, and Dr. Parrish to go over all the cases that you worked together. See if anyone connected to them presents as a suspect.</content></utterance>
+<utterance uid="18-13"><speaker>ESPOSITO</speaker><content>Yes, sir.</content></utterance>
+<utterance uid="18-14"><speaker>GATES</speaker><content>For the sake of these victims and our own people, find this killer.</content></utterance>
+<utterance uid="18-15"><speaker>CASTLE</speaker><content>I still don’t get it. Why would someone kill clones of Esposito and Lanie? Is it some kind of warning?</content></utterance>
+<utterance uid="18-16"><speaker>BECKETT</speaker><content>Maybe if we dig deeper into Daniel Santos’s life we’ll figure it out. I think I’ve got a leas as to what he was up to. According to his prepaid debit card records, he bought a latte at the same Midtown building every Monday, Wednesday, and Friday afternoon.</content></utterance>
+<utterance uid="18-17"><speaker>CASTLE</speaker><content>As if he was keeping some sort of regular appointment?</content></utterance>
+<utterance uid="18-18"><speaker>BECKETT</speaker><content>He did. According to the doorman, he was meeting with a Dr. Ian Fuller. He’s some kind of therapist.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>BECKETT</speaker><content>Ah, so Daniel was from Georgia. Was he trying to get rid of his southern accent?</content></utterance>
+<utterance uid="19-2"><speaker>FULLER</speaker><content>Oh, more than that. He wanted to change his entire speech pattern.</content></utterance>
+<utterance uid="19-3"><speaker>CASTLE</speaker><content>To what end?</content></utterance>
+<utterance uid="19-4"><speaker>FULLER</speaker><content>He didn’t say, but he was very determined and very specific about his goals. He ever brought in an audio file of how he wanted to sound.</content></utterance>
+<utterance uid="19-5"><speaker>BECKETT</speaker><content>Do you have the file?</content></utterance>
+<utterance uid="19-6"><speaker>FULLER</speaker><content>Yeah, I have it right here.  Let me just pull it up.</content></utterance>
+<utterance uid="19-7"><speaker>ESPOSITO</speaker><content>It’s true. For example, I’m former military, which makes me an expert marksman. I’m usually the first through the door.</content></utterance>
+<utterance uid="19-8"><speaker>BECKETT</speaker><content>That’s Esposito.</content></utterance>
+<utterance uid="19-9"><speaker>ESPOSITO</speaker><content>I’m definitely the physical one.</content></utterance>
+<utterance uid="19-10"><speaker>CASTLE</speaker><content>That’s from the documentary we shot at the precinct. Santos wasn’t just a lookalike. He was a soundalike.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>ESPOSITO</speaker><content>His face, the way he cut his hair, and now he’s trying to talk like me, too? What kind of sicko is doing this?</content></utterance>
+<utterance uid="20-2"><speaker>LANIE</speaker><content>I went through every case we worked on and nothing jumped out.</content></utterance>
+<utterance uid="20-3"><speaker>ESPOSITO</speaker><content>No, not for me, either. There’s gotta be – it’s gotta be something personal. It’s gotta be someone who knows about our relationship.</content></utterance>
+<utterance uid="20-4"><speaker>LANIE</speaker><content>Well, whoever he is he’s a freak. He made Daniel Santos suffer.  Look at the bleeding underneath the skin. That wire bit into his neck for hours before he died. He used that fishing reel to kill him slowly. So who is he going to go after now? You and me? Some version of Ryan and Beckett? What if this is just the beginning?</content></utterance>
+<utterance uid="20-5"><speaker>ESPOSITO</speaker><content>It’s gonna be okay. I promise. I won’t let anything happen to you.</content></utterance>
+<utterance uid="20-6"><speaker>LANIE</speaker><content>Yeah? What if something happens to you?</content></utterance>
+<utterance uid="20-7"><speaker>RYAN</speaker><content>Hey.</content></utterance>
+<utterance uid="20-8"><speaker>ESPOSITO</speaker><content>Dude. We’re having a moment here.</content></utterance>
+<utterance uid="20-9"><speaker>RYAN</speaker><content>Sorry. I found the strip club where Santos worked. They had a home address for him in Queens.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>RYAN</speaker><content>So how’re you doing, man?</content></utterance>
+<utterance uid="21-2"><speaker>ESPOSITO</speaker><content>I’m fine. How are you?</content></utterance>
+<utterance uid="21-3"><speaker>RYAN</speaker><content>It’s big, what you’re dealing with. I just want to put it out there that I’m here for you.</content></utterance>
+<utterance uid="21-4"><speaker>ESPOSITO</speaker><content>Good to know, man.</content></utterance>
+<utterance uid="21-5"><speaker>RYAN</speaker><content>The point is, sometimes talking about it helps.</content></utterance>
+<utterance uid="21-6"><speaker>ESPOSITO</speaker><content>So what, you want me to share my feelings now?</content></utterance>
+<utterance uid="21-7"><speaker>RYAN</speaker><content>Yeah, it’s what a lot of people would do.</content></utterance>
+<utterance uid="21-8"><speaker>ESPOSITO</speaker><content>All right, fine. I want to find this piece of garbage, string him up, and see how he likes it. There, I shared a feeling. Happy now?</content></utterance>
+<utterance uid="21-9"><speaker>RYAN</speaker><content>See? Don’t you feel better?</content></utterance>
+<utterance uid="21-10"><speaker>ESPOSITO</speaker><content>Ryan –</content></utterance>
+<utterance uid="21-11"><speaker>RYAN</speaker><content> All right. The super said that Daniel Santos hasn’t been around here very much lately –</content></utterance>
+<utterance uid="21-12"><speaker>THERESA</speaker><content>Oh my God. Daniel?</content></utterance>
+<utterance uid="21-13"><speaker>ESPOSITO</speaker><content>No. No, actually. Detective Javier Esposito, NYPD.</content></utterance>
+<utterance uid="21-14"><speaker>THERESA</speaker><content> It’s like seeing a ghost. You look so much like him.</content></utterance>
+<utterance uid="21-15"><speaker>ESPOSITO</speaker><content> Yeah. So you knew Daniel?</content></utterance>
+<utterance uid="21-16"><speaker>THERESA</speaker><content>Uh, not as much as I wanted to, but enough to know that he was better than what he did for a living.</content></utterance>
+<utterance uid="21-17"><speaker>RYAN</speaker><content>We – we heard that he quit that job for some big time gig. Do you have any idea what that was?</content></utterance>
+<utterance uid="21-18"><speaker>THERESA</speaker><content>He said he couldn’t talk about it.</content></utterance>
+<utterance uid="21-19"><speaker>RYAN</speaker><content>Did people come visit him?</content></utterance>
+<utterance uid="21-20"><speaker>THERESA</speaker><content>People didn’t visit Daniel. It was more like the other way around.</content></utterance>
+<utterance uid="21-21"><speaker>ESPOSITO</speaker><content>Meaning what?</content></utterance>
+<utterance uid="21-22"><speaker>THERESA</speaker><content>I’d see him … leave here and a limo would be waiting out front.</content></utterance>
+<utterance uid="21-23"><speaker>RYAN</speaker><content>Was this recently?</content></utterance>
+<utterance uid="21-24"><speaker>THERESA</speaker><content>Yeah. One picked him up two nights ago.</content></utterance>
+<utterance uid="21-25"><speaker>RYAN</speaker><content>The same night he was killed. Do you remember what that vehicle looked like?</content></utterance>
+<utterance uid="21-26"><speaker>THERESA</speaker><content>It was black. I mean, it was just a regular town car.  But there was blue around the license plate.</content></utterance>
+<utterance uid="21-27"><speaker>ESPOSITO</speaker><content>Wait, do you mean blue neon?</content></utterance>
+<utterance uid="21-28"><speaker>THERESA</speaker><content>Yeah, that was it.</content></utterance>
+<utterance uid="21-29"><speaker>ESPOSITO</speaker><content>Blue neon license plate frames. That’s the trademark of Blue Moon Limos.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>BECKETT</speaker><content>That was the manager at the Blue Moon. He said he dropped Daniel Santos off at the apartment of the person who ordered it.</content></utterance>
+<utterance uid="22-2"><speaker>CASTLE</speaker><content>Well whoever it is is probably our killer. Did he give you a name?</content></utterance>
+<utterance uid="22-3"><speaker>BECKETT</speaker><content>Yeah. Dr. Kelly Nieman.</content></utterance>
+<utterance uid="22-4"><speaker>CASTLE</speaker><content>Well I would say she has amazing potential … as a murderer.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>GATES</speaker><content>Well?</content></utterance>
+<utterance uid="23-2"><speaker>BECKETT</speaker><content>The doorman at her building confirms that Santos visited two nights ago.</content></utterance>
+<utterance uid="23-3"><speaker>CASTLE</speaker><content>And not for the first time. He said Santos was a frequent overnight guest of the good doctor.</content></utterance>
+<utterance uid="23-4"><speaker>BECKETT</speaker><content>Which directly connects her to both of our victims.</content></utterance>
+<utterance uid="23-5"><speaker>GATES</speaker><content>So are we to believe that Kelly Nieman overpowered Santos, a young man in his prime?</content></utterance>
+<utterance uid="23-6"><speaker>CASTLE</speaker><content>Well she was more than capable. According to her bio, she has a blackbelt in both tae-kwon-do and ju-jitsu.</content></utterance>
+<utterance uid="23-7"><speaker>BECKETT</speaker><content>She also has boating experience and grew up in Florida. In fact, she was in Miami at a conference at the time of the other two murders.</content></utterance>
+<utterance uid="23-8"><speaker>GATES</speaker><content>Do we have any hard evidence linking her to these murders?</content></utterance>
+<utterance uid="23-9"><speaker>BECKETT</speaker><content>It’s been clear from the beginning that our killer is very careful.</content></utterance>
+<utterance uid="23-10"><speaker>GATES</speaker><content>So the answer is no.</content></utterance>
+<utterance uid="23-11"><speaker>GATES</speaker><content>This entire case is circumstantial. Which means you’re going to need to break her. And you’ve got one shot.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>BECKETT</speaker><content>Dr. Nieman. Thank you for coming in.</content></utterance>
+<utterance uid="24-2"><speaker>NIEMAN</speaker><content>Was I offered a choice?</content></utterance>
+<utterance uid="24-3"><speaker>BECKETT</speaker><content>We need to ask you a few questions about your relationship with Daniel Santos.</content></utterance>
+<utterance uid="24-4"><speaker>NIEMAN</speaker><content>Well, I no longer have one.</content></utterance>
+<utterance uid="24-5"><speaker>BECKETT</speaker><content>So you are aware that he’s dead.</content></utterance>
+<utterance uid="24-6"><speaker>NIEMAN</speaker><content>I watch the news.</content></utterance>
+<utterance uid="24-7"><speaker>BECKETT</speaker><content>You don’t seem terribly upset by it.</content></utterance>
+<utterance uid="24-8"><speaker>NIEMAN</speaker><content>Well, I supposed I could fake it, or lie, but that’s just a tedious for you as it is for me. It was purely physical with us.  You really are a beautiful woman. But not perfect. I could fix you.</content></utterance>
+<utterance uid="24-9"><speaker>BECKETT</speaker><content>Where did you go after he left your apartment?</content></utterance>
+<utterance uid="24-10"><speaker>NIEMAN</speaker><content> We stayed in.</content></utterance>
+<utterance uid="24-11"><speaker>BECKETT</speaker><content>You didn’t go by a marina?</content></utterance>
+<utterance uid="24-12"><speaker>NIEMAN</speaker><content>I don’t have a boat.</content></utterance>
+<utterance uid="24-13"><speaker>BECKETT</speaker><content>And yet his body was found on one. And prior to that, he was at your apartment.</content></utterance>
+<utterance uid="24-14"><speaker>NIEMAN</speaker><content>Yes, but then he left my place.</content></utterance>
+<utterance uid="24-15"><speaker>BECKETT</speaker><content>When?</content></utterance>
+<utterance uid="24-16"><speaker>NIEMAN</speaker><content>Around 10.</content></utterance>
+<utterance uid="24-17"><speaker>BECKETT</speaker><content>Daniel Santos spent his last day with you. Pam Hodges was a patient of yours. They were both murdered. They only person that they have in common is you. Now, you don’t expect me to believe that’s a coincidence, do you?</content></utterance>
+<utterance uid="24-18"><speaker>NIEMAN</speaker><content>It’s not a coincidence at all. Daniel referred Pam to me as a patient.</content></utterance>
+<utterance uid="24-19"><speaker>BECKETT</speaker><content>So they knew each other? We don’t have any evidence of that.</content></utterance>
+<utterance uid="24-20"><speaker>NIEMAN</speaker><content>Well I’m sure you’ll find some if you keep looking. When she came in she said that he’d recommended her to me.  Let me ask you something. Has it occurred to you that I’m being set up here?</content></utterance>
+<utterance uid="24-21"><speaker>BECKETT</speaker><content>Set up by whom?</content></utterance>
+<utterance uid="24-22"><speaker>NIEMAN</speaker><content>Maybe whoever did that knew of my connection to Daniel and Pam. Maybe this was part of their plan. To waste your time and mine.</content></utterance>
+<utterance uid="24-23"><speaker>BECKETT</speaker><content>I doubt that.</content></utterance>
+<utterance uid="24-24"><speaker>NIEMAN</speaker><content>You’ll never prove that I was at those docks. Or some marina. Because I wasn’t. Besides, what possible motive would I have for killing anyone?</content></utterance>
+<utterance uid="24-25"><speaker>NIEMAN</speaker><content>I’ve dated lawyers. I know that if you don’t charge me I can leave.</content></utterance>
+<utterance uid="24-26"><speaker>NIEMAN</speaker><content>No hard feelings, Detective. We’re both professionals. You’re just doing your job. You seek justice and I seek perfection. In fact –  – whenever you’re ready to take this to the next level … you come see me.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>BECKETT</speaker><content>I’ve got nothing, Castle. I – I can’t even tie her to the Florida murders except for the fact that she was in the area when they occurred.</content></utterance>
+<utterance uid="25-2"><speaker>CASTLE</speaker><content>Can I say something that’ll … probably annoy you?</content></utterance>
+<utterance uid="25-3"><speaker>BECKETT</speaker><content>Since when do you ask for permission?</content></utterance>
+<utterance uid="25-4"><speaker>CASTLE</speaker><content>Touché. What if Dr. Nieman isn’t our killer?</content></utterance>
+<utterance uid="25-5"><speaker>BECKETT</speaker><content>Castle, you saw her in there. She was toying with me, She’s involved in this. I can feel it.</content></utterance>
+<utterance uid="25-6"><speaker>CASTLE</speaker><content>I admit she’s not warm and cuddly, but that doesn’t make her guilty.</content></utterance>
+<utterance uid="25-7"><speaker>BECKETT</speaker><content> How can you, of all people, believe her story?</content></utterance>
+<utterance uid="25-8"><speaker>CASTLE</speaker><content>Because at this point it makes more sense than ours does. Just … consider this. All along this killer has been one step ahead of us. No evidence, no witnesses, phantom corporations. He – or she – has us chasing our tails. So why, suddenly, does this same person order a limo, placing her with Santos the night he died?  Rookie mistake.</content></utterance>
+<utterance uid="25-9"><speaker>BECKETT</speaker><content>Or maybe it’s not mistake at all. Maybe Kelly Nieman is playing a much deeper game. Maybe she’s so confident that we can’t tie her to these murders that she’s letting the trail lead straight back to her.</content></utterance>
+<utterance uid="25-10"><speaker>RYAN</speaker><content>Um … that’s looking pretty unlikely.</content></utterance>
+<utterance uid="25-11"><speaker>BECKETT</speaker><content>Why?</content></utterance>
+<utterance uid="25-12"><speaker>RYAN</speaker><content>Her alibi’s iron clad. She’s no good for either murders. But we might have found somebody who is.</content></utterance>
+<utterance uid="25-13"><speaker>CASTLE</speaker><content> Told you.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>TORI</speaker><content>This is from a traffic cam a block from Kelly Nieman’s apartment.</content></utterance>
+<utterance uid="26-2"><speaker>BECKETT</speaker><content>That’s Daniel Santos.</content></utterance>
+<utterance uid="26-3"><speaker>CASTLE</speaker><content>The time code is 10:07, so Kelly was telling the truth. He did leave around 10.</content></utterance>
+<utterance uid="26-4"><speaker>RYAN</speaker><content>Yeah. Now, watch this.</content></utterance>
+<utterance uid="26-5"><speaker>BECKETT</speaker><content>Can we get a closer look at the driver?</content></utterance>
+<utterance uid="26-6"><speaker>TORI</speaker><content>No, this is our only angle.</content></utterance>
+<utterance uid="26-7"><speaker>CASTLE</speaker><content>Well, whoever he is, Santos knows him.</content></utterance>
+<utterance uid="26-8"><speaker>RYAN</speaker><content>Now we tried running the plate, but it was stolen of another car, so no good there. But Tori noticed the decal on the back window.</content></utterance>
+<utterance uid="26-9"><speaker>TORI</speaker><content>It’s a parking pass.</content></utterance>
+<utterance uid="26-10"><speaker>BECKETT</speaker><content>For Coral Way Marina in Miami.</content></utterance>
+<utterance uid="26-11"><speaker>CASTLE</speaker><content>So whoever he is he could be connected to our Florida murders.</content></utterance>
+<utterance uid="26-12"><speaker>RYAN</speaker><content>Called the marina. Even though the parking pass is expired they were able to tell us who it was issued to. One Carl Matthews.</content></utterance>
+<utterance uid="26-13"><speaker>CASTLE</speaker><content>And who is Carl Matthews?</content></utterance>
+<utterance uid="26-14"><speaker>RYAN</speaker><content> Show us the DMV photo, please.</content></utterance>
+<utterance uid="26-15"><speaker>RYAN</speaker><content>Recognize him now?</content></utterance>
+<utterance uid="26-16"><speaker>BECKETT</speaker><content>It’s the security guard from the dock.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>BECKETT</speaker><content>We now believe Carl Matthews killed Daniel Santos and Pam Hodges.</content></utterance>
+<utterance uid="27-2"><speaker>ESPOSITO</speaker><content>That security mook that found her? How did we let him slip away?</content></utterance>
+<utterance uid="27-3"><speaker>RYAN</speaker><content>Matthews didn’t have a record. Nothing on him popped. Now, the day after Matthews found Pam Hodges dead he quit his job, saying he was too upset to work. Now he’s in the wind.</content></utterance>
+<utterance uid="27-4"><speaker>ESPOSITO</speaker><content>I bet this scumbag did the Florida murders, too.</content></utterance>
+<utterance uid="27-5"><speaker>BECKETT</speaker><content>It looks that way. He crewed fishing charters in Florida, which means he knows his way around boats. Now in 2010 he went off the grid and then he resurfaced in New York about a year ago when he took a job at the docks.</content></utterance>
+<utterance uid="27-6"><speaker>GATES</speaker><content>What’s your next move?</content></utterance>
+<utterance uid="27-7"><speaker>BECKETT</speaker><content>We’ve got an alert out on Matthews and his car but our best bet is to get in contact with his family, his friends, coworkers, ex-wives. Someone in his life has to know where he is and what his next move might be.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>CASTLE</speaker><content>Any news?</content></utterance>
+<utterance uid="28-2"><speaker>BECKETT</speaker><content>No, not yet. But we’ll find him.  What’s wrong?</content></utterance>
+<utterance uid="28-3"><speaker>CASTLE</speaker><content>Carl Matthews is wrong. He doesn’t fit the story.</content></utterance>
+<utterance uid="28-4"><speaker>BECKETT</speaker><content>How doesn’t he fit?</content></utterance>
+<utterance uid="28-5"><speaker>CASTLE</speaker><content>In Florida he was basically a beach bum. Here he’s a security guard. How does a guy like that pull this off?</content></utterance>
+<utterance uid="28-6"><speaker>BECKETT</speaker><content>Maybe he just … reads more intelligent than he is on paper.</content></utterance>
+<utterance uid="28-7"><speaker>CASTLE</speaker><content>What about the money? Enough to put up Pam Hodges, and the surgery?</content></utterance>
+<utterance uid="28-8"><speaker>BECKETT</speaker><content>He robbed a bank. Or he was dealing drugs. I don’t know, you know. He fell off the grid after he left Florida.</content></utterance>
+<utterance uid="28-9"><speaker>CASTLE</speaker><content>Speaking of which, he’s in Florida. He’s off the grid. He’s never been arrested. Why the fixation with Lanie and Esposito?</content></utterance>
+<utterance uid="28-10"><speaker>BECKETT</speaker><content>I don’t have all the answers, Castle. Not right now, at least. But all the evidence is pointing at Matthews.</content></utterance>
+<utterance uid="28-11"><speaker>CASTLE</speaker><content>I agree with you. I just don’t think he’s working alone. I think he has a partner.</content></utterance>
+<utterance uid="28-12"><speaker>BECKETT</speaker><content>Like who? Dr. Nieman?</content></utterance>
+<utterance uid="28-13"><speaker>CASTLE</speaker><content>No. Someone we’ve dealt with before.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>BECKETT</speaker><content>3XK? 3XK is dead.</content></utterance>
+<utterance uid="29-2"><speaker>CASTLE</speaker><content>Is he? And what if we find Carl Matthews’s name in his case files.</content></utterance>
+<utterance uid="29-3"><speaker>BECKETT</speaker><content>Jerry Tyson fell off that bridge. It was a hundred foot drop into that water.</content></utterance>
+<utterance uid="29-4"><speaker>CASTLE</speaker><content>Was his body ever found?</content></utterance>
+<utterance uid="29-5"><speaker>BECKETT</speaker><content>Nobody could survive that fall.</content></utterance>
+<utterance uid="29-6"><speaker>CASTLE</speaker><content>Jerry Tyson could.</content></utterance>
+<utterance uid="29-7"><speaker>BECKETT</speaker><content>Castle, listen to yourself. There’s not a shred of evidence that Tyson is alive, let alone involved in this.</content></utterance>
+<utterance uid="29-8"><speaker>CASTLE</speaker><content>Tyson doesn’t leave evidence. Not unless he wants us to find it. Like that deleted photo. No evidence plus meticulous planning, that’s vintage 3XK. And this case has it in spades.</content></utterance>
+<utterance uid="29-9"><speaker>BECKETT</speaker><content>Castle.</content></utterance>
+<utterance uid="29-10"><speaker>CASTLE</speaker><content>No. You want to know some other 3XK classics? Using people that look like other people. Using a killer to act on his behalf. Beckett, how can you not see it?</content></utterance>
+<utterance uid="29-11"><speaker>BECKETT</speaker><content>What I see is guilt that you feel.</content></utterance>
+<utterance uid="29-12"><speaker>CASTLE</speaker><content>This isn’t about me.</content></utterance>
+<utterance uid="29-13"><speaker>BECKETT</speaker><content>Look, when Tyson escaped he outsmarted all of us. But you’ve always blamed yourself.</content></utterance>
+<utterance uid="29-14"><speaker>CASTLE</speaker><content>Because I’m to blame!  It’s him. It’s Jerry Tyson.</content></utterance>
+<utterance uid="29-15"><speaker>BECKETT</speaker><content>Don’t chase ghosts, Castle. Okay? It isn’t worth it. Trust me.</content></utterance>
+<utterance uid="29-16"><speaker>FILE CLERK</speaker><content>Detective! Looks like the 3XK files are gone.</content></utterance>
+<utterance uid="29-17"><speaker>BECKETT</speaker><content>What do you mean they’re gone?</content></utterance>
+<utterance uid="29-18"><speaker>CASTLE</speaker><content>All of them? How?</content></utterance>
+<utterance uid="29-19"><speaker>FILE CLERK</speaker><content>Somebody must have signed them out.</content></utterance>
+<utterance uid="29-20"><speaker>BECKETT</speaker><content>Who?</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>ESPOSITO</speaker><content> Well, let me know if you can think of anything else, all right? Thanks.</content></utterance>
+<utterance uid="30-2"><speaker>BECKETT</speaker><content>Where are the 3XK files?</content></utterance>
+<utterance uid="30-3"><speaker>ESPOSITO</speaker><content>What are you talking about?</content></utterance>
+<utterance uid="30-4"><speaker>BECKETT</speaker><content>What are you talking about? Your name is on the signature sheet.</content></utterance>
+<utterance uid="30-5"><speaker>ESPOSITO</speaker><content>No, it’s not.</content></utterance>
+<utterance uid="30-6"><speaker>CASTLE</speaker><content>Yeah, from three days ago.</content></utterance>
+<utterance uid="30-7"><speaker>BECKETT</speaker><content>You checked those files out.</content></utterance>
+<utterance uid="30-8"><speaker>ESPOSITO</speaker><content>I didn’t check out any files. Somebody messed up.</content></utterance>
+<utterance uid="30-9"><speaker>BECKETT</speaker><content> Oh my god.</content></utterance>
+<utterance uid="30-10"><speaker>RYAN</speaker><content>Somebody want to tell us what’s going on?</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>BECKETT</speaker><content>That was the head of the ME’s office. Reports, lab work, DNA, tissue samples, of every suspected 3XK victim were checked out … by Lanie.</content></utterance>
+<utterance uid="31-2"><speaker>ESPOSITO</speaker><content>Only not the real Lanie.</content></utterance>
+<utterance uid="31-3"><speaker>RYAN</speaker><content>Are you saying this son of a b*tch is back?</content></utterance>
+<utterance uid="31-4"><speaker>CASTLE</speaker><content>That explains the lookalikes.</content></utterance>
+<utterance uid="31-5"><speaker>ESPOSITO</speaker><content>And why Santos tried to sound like me.</content></utterance>
+<utterance uid="31-6"><speaker>CASTLE</speaker><content>It’s not enough that Jerry Tyson disappeared, he wanted his murders to disappear, too. And it’s not just evidence. It’s his MOs, his victim preferences. All the hundreds of tiny case details that could reveal psychology as to where he is, where he might be going next. It’s all gone. It’s like he’s got a clean slate.</content></utterance>
+<utterance uid="31-7"><speaker>BECKETT</speaker><content>Maybe not completely clean.  Call the prison where Tyson did time. Have them secure his records before they disappear too, and then have them send us the copies.</content></utterance>
+<utterance uid="31-8"><speaker>RYAN</speaker><content>Oh, I’m all over it.</content></utterance>
+<utterance uid="31-9"><speaker>GATES</speaker><content>A cruiser just spotted Matthew’s car at the Starburst Motel in Queens.</content></utterance>
+<utterance uid="31-10"><speaker>CASTLE</speaker><content>That’s the same motel where we put up Jerry Tyson.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>ESPOSITO</speaker><content>Thanks.  Front desk says he’s in room 47.</content></utterance>
+<utterance uid="32-2"><speaker>CASTLE</speaker><content>That’s the same room Tyson was in.</content></utterance>
+<utterance uid="32-3"><speaker>ESPOSITO</speaker><content>There’s his car.  Lights out in room 47.</content></utterance>
+<utterance uid="32-4"><speaker>BECKETT</speaker><content>Listen, Castle. We don’t know what’s waiting for us up there. You stay here, okay?</content></utterance>
+<utterance uid="32-5"><speaker>CASTLE</speaker><content>You be careful.</content></utterance>
+<utterance uid="32-6"><speaker>BECKETT</speaker><content>Let’s go.</content></utterance>
+<utterance uid="32-7"><speaker>ESPOSITO</speaker><content>Police!</content></utterance>
+<utterance uid="32-8"><speaker>RYAN</speaker><content>NYPD!</content></utterance>
+<utterance uid="32-9"><speaker>CASTLE</speaker><content>C’mon! Where is 3XK? Where is he?</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>GATES</speaker><content>How are you, Detective?</content></utterance>
+<utterance uid="33-2"><speaker>ESPOSITO</speaker><content>Depends on how things go down with Carl Matthews.</content></utterance>
+<utterance uid="33-3"><speaker>GATES</speaker><content>I’ll give you two the room.  Good luck.</content></utterance>
+<utterance uid="33-4"><speaker>LANIE</speaker><content> Thank you, sir.</content></utterance>
+<utterance uid="33-5"><speaker>LANIE</speaker><content>What kind of twisted bastard murders two people for some files?</content></utterance>
+<utterance uid="33-6"><speaker>ESPOSITO</speaker><content> That kind.</content></utterance>
+<utterance uid="33-7"><speaker>LANIE</speaker><content>Do we have proof that he killed them?</content></utterance>
+<utterance uid="33-8"><speaker>ESPOSITO</speaker><content>Not enough.</content></utterance>
+<utterance uid="33-9"><speaker>LANIE</speaker><content>So what’s going to happen?</content></utterance>
+<utterance uid="33-10"><speaker>ESPOSITO</speaker><content>We’ll make him think that our case is stronger than it really is. Get him to confess. That’s our only play.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>CARL MATTHEWS</speaker><content>You broke three of my ribs.</content></utterance>
+<utterance uid="34-2"><speaker>CASTLE</speaker><content>I’m sorry. I was going for double digits.</content></utterance>
+<utterance uid="34-3"><speaker>BECKETT</speaker><content>We need to have a candid conversation about your future, Carl.</content></utterance>
+<utterance uid="34-4"><speaker>CASTLE</speaker><content>Or lack thereof.</content></utterance>
+<utterance uid="34-5"><speaker>BECKETT</speaker><content>We found a steel fishing line in that backpack you were carrying.</content></utterance>
+<utterance uid="34-6"><speaker>CASTLE</speaker><content>Here’s a fun fact. Did you know when you cut a wire it leaves microscopic impressions - unique microscopic impressions – in the metal?</content></utterance>
+<utterance uid="34-7"><speaker>BECKETT</speaker><content>That’s how we knew that the wire in the pack came from the same spool you used to hang Daniel Santos.</content></utterance>
+<utterance uid="34-8"><speaker>CASTLE</speaker><content>We can also connect you to the murder of Pam Hodges. Same wire. Same cutting tool.</content></utterance>
+<utterance uid="34-9"><speaker>BECKETT</speaker><content>And to the murders in Florida.</content></utterance>
+<utterance uid="34-10"><speaker>CASTLE</speaker><content>Oh yes, where your fondness for fishing line was once again on display. But I think by this point in the trial the jurors will have heard enough.</content></utterance>
+<utterance uid="34-11"><speaker>MATTHEWS</speaker><content>Sounds like a lot of sticks and no carrots.</content></utterance>
+</scene>
+
+<scene id="35"><utterance uid="35-1"><speaker>BECKETT</speaker><content>Confess to all the murders, Carl. And Florida will take the death penalty off the table. It’s the best you’re going to get. I’m giving you life.</content></utterance>
+<utterance uid="35-2"><speaker>CASTLE</speaker><content>Which is more than you ever gave your victims.</content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>MATTHEWS</speaker><content>All right. I had a good run.</content></utterance>
+</scene>
+<scene id="37"><utterance uid="37-1"><speaker>BECKETT</speaker><content>How many are there?</content></utterance>
+<utterance uid="37-2"><speaker>MATTHEWS</speaker><content>Way north of four, if that’s what you’re asking.</content></utterance>
+<utterance uid="37-3"><speaker>BECKETT</speaker><content>Tell me about Pam Hodge.</content></utterance>
+<utterance uid="37-4"><speaker>MATTHEWS</speaker><content>She was a fighter. And the look on her face … she wanted to live so bad. But I stood her on a shipping pallet and then pulled it away. And her feet were just – just off the ground. I remember the toes of her shoes just scuffing the wood.  All panicky and fast at first. And then slower. And then not at all.</content></utterance>
+<utterance uid="37-5"><speaker>BECKETT</speaker><content>And what about Daniel Santos?</content></utterance>
+<utterance uid="37-6"><speaker>MATTHEWS</speaker><content>With Daniel I used the reel. So with each click I drew in a quarter inch of line. It got tighter and then lifted him, bit by bit. Every time I hear a click I’m right back with him.</content></utterance>
+</scene>
+<scene id="38"><utterance uid="38-1"><speaker>LANIE</speaker><content>How long do you think it’s going to take before we stop thinking about what he’s done? Until we stop … looking at each other and seeing two dead people?</content></utterance>
+<utterance uid="38-2"><speaker>ESPOSITO</speaker><content>I don’t know.</content></utterance>
+</scene>
+<scene id="39"><utterance uid="39-1"><speaker>CASTLE</speaker><content>You killed them both for Jerry Tyson.</content></utterance>
+<utterance uid="39-2"><speaker>MATTHEWS</speaker><content>Oh, I admire his work.  But no, I’m my own man.</content></utterance>
+<utterance uid="39-3"><speaker>BECKETT</speaker><content>And as your own man you groomed them, paid for Pam’s apartment using the money from the Greg’s Baker account that you established in the Caymans.</content></utterance>
+<utterance uid="39-4"><speaker>MATTHEWS</speaker><content>Yeah, that’s right.</content></utterance>
+<utterance uid="39-5"><speaker>BECKETT</speaker><content>You’re lying. That account was opened in Belize, not the Caymans.</content></utterance>
+<utterance uid="39-6"><speaker>CASTLE</speaker><content>But you wouldn’t know that because you weren’t the one who opened it. Where’s Jerry Tyson?</content></utterance>
+<utterance uid="39-7"><speaker>MATTHEWS</speaker><content>Uh … he’s dead, is my understanding.</content></utterance>
+<utterance uid="39-8"><speaker>BECKETT</speaker><content>So why did you do all of this to steal the 3XK files?</content></utterance>
+<utterance uid="39-9"><speaker>CASTLE</speaker><content>Why would you use the same motel, the same room, where Jerry Tyson escaped police custody?</content></utterance>
+<utterance uid="39-10"><speaker>MATTHEWS</speaker><content>Someone recommended it. Plus it had free wi-fi.</content></utterance>
+<utterance uid="39-11"><speaker>MATTHEWS</speaker><content>I’ll confess to my kills. No more and no less. I recall every one of them in the clearest detail. All those memories. And to me? I won’t be in a prison cell.  I’ll be living here.  I need a good pen and a pad of paper. Ah, several pads, in fact.</content></utterance>
+<utterance uid="39-12"><speaker>MATTHEWS</speaker><content>I know you think you’ve got this all figured out, but you don’t.</content></utterance>
+</scene>
+<scene id="40"><utterance uid="40-1"><speaker>GATES</speaker><content>What did he saw about Jerry Tyson?</content></utterance>
+<utterance uid="40-2"><speaker>BECKETT</speaker><content>Nothing.</content></utterance>
+<utterance uid="40-3"><speaker>GATES</speaker><content>Mmm. The theft of those files was a major security breech. Be aware that the department is eager to put that behind them.  It’s an embarrassment.</content></utterance>
+<utterance uid="40-4"><speaker>BECKETT</speaker><content> Sir, if a detective were to suggest that Tyson, a man that the department’s already declared dead, might still be alive –</content></utterance>
+<utterance uid="40-5"><speaker>GATES</speaker><content>An even bigger embarrassment.  So if you’re going to make that claim, make damn sure you can back it up.</content></utterance>
+<utterance uid="40-6"><speaker>BECKETT</speaker><content>I will keep that in mind, sir.</content></utterance>
+</scene>
+<scene id="41"><utterance uid="41-1"><speaker>CASTLE</speaker><content>What was that about?</content></utterance>
+<utterance uid="41-2"><speaker>BECKETT</speaker><content>That if Tyson is alive the NYPD doesn’t want to know about it.</content></utterance>
+<utterance uid="41-3"><speaker>CASTLE</speaker><content>And what about you? You think he’s back?</content></utterance>
+<utterance uid="41-4"><speaker>BECKETT</speaker><content>Castle, people just don’t rise from the dead, so I’m still looking at other explanations. But if he is out there we have to find him.</content></utterance>
+<utterance uid="41-5"><speaker>CASTLE</speaker><content>We’re not going to get any more out of Carl Matthews, so where do we start?</content></utterance>
+<utterance uid="41-6"><speaker>RYAN</speaker><content>Guys, I think I found something in those prison records that got sent over.  Do you remember right before he was released from prison Tyson got beat up by some inmates?</content></utterance>
+<utterance uid="41-7"><speaker>BECKETT</speaker><content>Yeah, that’s why we pulled him out of there. We thought his life was in danger, but it turns out he just staged the whole thing.</content></utterance>
+<utterance uid="41-8"><speaker>RYAN</speaker><content>Right, but the beat down was real. He got sent to the infirmary.  Look who was attending him.</content></utterance>
+<utterance uid="41-9"><speaker>CASTLE</speaker><content>Dr. Kelly Nieman?</content></utterance>
+<utterance uid="41-10"><speaker>RYAN</speaker><content>She volunteered as a prison doc. More importantly she started there the week Tyson arrived and she quit the day he got released.</content></utterance>
+<utterance uid="41-11"><speaker>CASTLE</speaker><content>She knew him from before.  She took that job to be close to him. She’s gotta be Tyson’s girlfriend.</content></utterance>
+<utterance uid="41-12"><speaker>BECKETT</speaker><content>He taught her everything he knew. Get her back here.</content></utterance>
+<utterance uid="41-13"><speaker>RYAN</speaker><content>She’s not answering her cell. She’s not at her apartment either.</content></utterance>
+</scene>
+<scene id="42"><utterance uid="42-1"><speaker>RYAN</speaker><content>Damnit!</content></utterance>
+<utterance uid="42-2"><speaker>ESPOSITO</speaker><content>This explains why you couldn’t reach her. She bolted.</content></utterance>
+<utterance uid="42-3"><speaker>RYAN</speaker><content>And if Tyson’s in this, he did too.</content></utterance>
+<utterance uid="42-4"><speaker>CASTLE</speaker><content>Seems like only yesterday this place was a thriving medical practice. Oh, it was yesterday.</content></utterance>
+<utterance uid="42-5"><speaker>BECKETT</speaker><content>We still gotta clear the place.</content></utterance>
+</scene>
+<scene id="43"><utterance uid="43-1"><speaker>CASTLE</speaker><content>Beckett?</content></utterance>
+<utterance uid="43-2"><speaker>BECKETT</speaker><content>What is it?</content></utterance>
+</scene>
+<scene id="44"><utterance uid="44-1"><speaker>BECKETT</speaker><content>Okay. All right. Thanks.  So, all of the electronic records from the 3XK cases were deleted, too. Not only that, it looks like our victims took evidence and files from twenty six other unsolved murders.</content></utterance>
+<utterance uid="44-2"><speaker>CASTLE</speaker><content>More murders committed by Tyson?</content></utterance>
+<utterance uid="44-3"><speaker>BECKETT</speaker><content>Or Kelly Nieman. I don’t know, Castle. I’m starting to think she’d be capable of it, too.</content></utterance>
+<utterance uid="44-4"><speaker>CASTLE</speaker><content>Tyson sure did pick the right woman. Plus, she can change his appearance. Maybe she already has.</content></utterance>
+<utterance uid="44-5"><speaker>BECKETT</speaker><content>You’re still assuming that he’s alive.</content></utterance>
+<utterance uid="44-6"><speaker>CASTLE</speaker><content>Aren’t you? He must be. Otherwise why orchestrate all this just to steal the files?</content></utterance>
+<utterance uid="44-7"><speaker>BECKETT</speaker><content>Well maybe she just wanted to keep his memory alive. Or his legacy.</content></utterance>
+<utterance uid="44-8"><speaker>CASTLE</speaker><content>That makes her just as dangerous as he is.  And she’s still out there, somewhere, with Jerry Tyson or without him.</content></utterance>
+</scene>
+<scene id="45"><utterance uid="45-1"><speaker>THE END</speaker><content>CASTLE</content></utterance>
+</scene>
+</script>

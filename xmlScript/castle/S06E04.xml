@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>NYPD OFFICER</speaker><content>Emma Riggs, open the door!</content></utterance>
+<utterance uid="1-2"><speaker>NYPD OFFICER</speaker><content>We hear you moving around in there! Open up!</content></utterance>
+<utterance uid="1-3"><speaker>NYPD OFFICER</speaker><content>33 David to Central requesting immediate backup. Possible homicide suspect, white female, brown hair, fleeing down southwest fire escape.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>NYPD OFFICER</speaker><content> Stop her!</content></utterance>
+<utterance uid="2-2"><speaker>SUE WILLIAMS</speaker><content>Excuse me, what are you doing?</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>KATE BECKETT</speaker><content> Castle. Are you asleep?</content></utterance>
+<utterance uid="3-2"><speaker>RICHARD CASTLE</speaker><content> Yes.</content></utterance>
+<utterance uid="3-3"><speaker>BECKETT</speaker><content>Then why’d you answer me?</content></utterance>
+<utterance uid="3-4"><speaker>CASTLE</speaker><content>I’m sleep talking. Also known as somniloquy. Just ignore me.</content></utterance>
+<utterance uid="3-5"><speaker>BECKETT</speaker><content>I don’t know what to do.</content></utterance>
+<utterance uid="3-6"><speaker>CASTLE</speaker><content>I have some ideas.</content></utterance>
+<utterance uid="3-7"><speaker>BECKETT</speaker><content>No, Castle, I’m talking about my life. I don’t know what to do about my life. I haven’t been out of work since I was 15. I cannot believe that the FBI fired me and I can’t get my job back at the NYPD because of the Commissioner’s stupid hiring freeze.  I might as well just apply to become a mall cop.</content></utterance>
+<utterance uid="3-8"><speaker>CASTLE</speaker><content>Ooh. You would look great on a Segway.  You know, Beckett, you don’t have to decide right away.</content></utterance>
+<utterance uid="3-9"><speaker>BECKETT</speaker><content>C’mon, Castle, what are you saying? What am I going to do? Just sleep in every morning and screw around until the phone rings? What kind of life is that?</content></utterance>
+<utterance uid="3-10"><speaker>CASTLE</speaker><content>Mine.</content></utterance>
+<utterance uid="3-11"><speaker>BECKETT</speaker><content>Sorry.</content></utterance>
+<utterance uid="3-12"><speaker>CASTLE</speaker><content>I just mean that, you’re with me now. You don’t have to work.</content></utterance>
+<utterance uid="3-13"><speaker>BECKETT</speaker><content>I don’t need to work?  Does that mean you’re my - sugar daddy?</content></utterance>
+<utterance uid="3-14"><speaker>CASTLE</speaker><content>Oh. Hold on. That didn’t – come out th– actually, I’m still sleep talking. I can’t really be held responsible for whatever I say.</content></utterance>
+<utterance uid="3-15"><speaker>PI</speaker><content>Wow. Even when you’re fighting you two are super cute.</content></utterance>
+<utterance uid="3-16"><speaker>CASTLE</speaker><content>Pi.</content></utterance>
+<utterance uid="3-17"><speaker>PI</speaker><content>Morning Mr. C, Mrs. C-to-be.  Hey, do you mind if I borrow a razor? Alexis gets all fired up when I shave with the one she uses for her legs.</content></utterance>
+<utterance uid="3-18"><speaker>CASTLE</speaker><content>Under –</content></utterance>
+<utterance uid="3-19"><speaker>PI</speaker><content>- the sink. Yep. Cool.</content></utterance>
+<utterance uid="3-20"><speaker>BECKETT</speaker><content>Why is he still sleeping on your couch?</content></utterance>
+<utterance uid="3-21"><speaker>CASTLE</speaker><content>I don’t know.</content></utterance>
+<utterance uid="3-22"><speaker>MARTHA RODGERS</speaker><content>Good morning darlings!</content></utterance>
+<utterance uid="3-23"><speaker>CASTLE</speaker><content>Doesn’t anyone knock?</content></utterance>
+<utterance uid="3-24"><speaker>MARTHA</speaker><content>Door was open. Don’t be an old maid. Nothing going on here that I haven’t seen and done before.</content></utterance>
+<utterance uid="3-25"><speaker>CASTLE</speaker><content>So how can I help you, Mother?</content></utterance>
+<utterance uid="3-26"><speaker>MARTHA</speaker><content>As you know, my studio is being painted, so I am having my stage combat class in the living room in – ooh, 15 minutes. So please, feel free to join us.</content></utterance>
+<utterance uid="3-27"><speaker>PI</speaker><content>Triple blade razors. Nice, Mr. C!</content></utterance>
+<utterance uid="3-28"><speaker>BECKETT</speaker><content>You know what? I think I’m going to sleep at my old place tonight.</content></utterance>
+<utterance uid="3-29"><speaker>CASTLE</speaker><content>I think I might join you.</content></utterance>
+<utterance uid="3-30"><speaker>ALEXIS CASTLE</speaker><content>What is this, a house meeting?</content></utterance>
+<utterance uid="3-31"><speaker>CASTLE</speaker><content>No.</content></utterance>
+<utterance uid="3-32"><speaker>BECKETT</speaker><content>No.</content></utterance>
+<utterance uid="3-33"><speaker>ALEXIS</speaker><content>Captain Gates is on the phone.</content></utterance>
+<utterance uid="3-34"><speaker>BECKETT</speaker><content>Oh!</content></utterance>
+<utterance uid="3-35"><speaker>ALEXIS</speaker><content>She’s asking for you – Dad.</content></utterance>
+<utterance uid="3-36"><speaker>CASTLE</speaker><content>Hello?</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>CAPTAIN VICTORIA GATES</speaker><content>Thanks for coming, Mr. Castle. You too, Beckett.</content></utterance>
+<utterance uid="4-2"><speaker>BECKETT</speaker><content>Mmhmm.</content></utterance>
+<utterance uid="4-3"><speaker>GATES</speaker><content>Again, I’m sorry your reinstatement didn’t work out.</content></utterance>
+<utterance uid="4-4"><speaker>BECKETT</speaker><content>Yeah. Thanks. So, what do we got?</content></utterance>
+<utterance uid="4-5"><speaker>GATES</speaker><content>Angelo Vazquez, stabbed to death in his girlfriend’s apartment.  And this is Mr. Vazquez.</content></utterance>
+<utterance uid="4-6"><speaker>CASTLE</speaker><content>And you are calling on my expertise to unmask the killer.</content></utterance>
+<utterance uid="4-7"><speaker>GATES</speaker><content>No, actually we’ve already ID’d the suspect. She’s the victim’s girlfriend, Emma Riggs.</content></utterance>
+<utterance uid="4-8"><speaker>BECKETT</speaker><content>How do you know it’s her?</content></utterance>
+<utterance uid="4-9"><speaker>GATES</speaker><content>Because she fled from the scene and took hostages in a dental office up the street.</content></utterance>
+<utterance uid="4-10"><speaker>CASTLE</speaker><content>Okay, so this involved me how?</content></utterance>
+<utterance uid="4-11"><speaker>GATES</speaker><content>Hostage negotiators have been trying to talk to Emma, but she’s demanding to speak to only you, Mr. Castle.</content></utterance>
+<utterance uid="4-12"><speaker>CASTLE</speaker><content>Me? Why me?</content></utterance>
+<utterance uid="4-13"><speaker>GATES</speaker><content>We were hoping you could tell us. Is she familiar to you?</content></utterance>
+<utterance uid="4-14"><speaker>CASTLE</speaker><content> Uh … I’ve never seen her before. What do we know about her?</content></utterance>
+<utterance uid="4-15"><speaker>GATES</speaker><content>Not much, so far. Emma Riggs, 31, waitress, no record. At least until now.  Sergeant?  This is Sergeant Roman from the Hostage Negotiating Team. Richard Castle, Kate Beckett.</content></utterance>
+<utterance uid="4-16"><speaker>GATES</speaker><content>Oh, Deputy Chief. Excuse me.</content></utterance>
+<utterance uid="4-17"><speaker>SERGEANT ROMAN</speaker><content>Mr. Castle, are you open to talking to Emma over the phone?</content></utterance>
+<utterance uid="4-18"><speaker>CASTLE</speaker><content>Yeah, of course. Anything I can do to help.</content></utterance>
+<utterance uid="4-19"><speaker>BECKETT</speaker><content>So what’s the situation inside?</content></utterance>
+<utterance uid="4-20"><speaker>ROMAN</speaker><content>It’s not ideal , for our purposes. The windows in the office are covered and there’s only one door leading in or out.</content></utterance>
+<utterance uid="4-21"><speaker>BECKETT</speaker><content>Can’t you just drill in fiber optics?</content></utterance>
+<utterance uid="4-22"><speaker>ROMAN</speaker><content>Cement’s too thick. But we have ascertained that she’s taken five hostages. The dentist, Dr. Abe Kogan, his receptionist, Sue Williams, patient Mickey Gerhardt, and Suki Chung, who’s nine years old, and Suki’s mother, Lisa.</content></utterance>
+<utterance uid="4-23"><speaker>CASTLE</speaker><content>There’s a nine year old in there?</content></utterance>
+<utterance uid="4-24"><speaker>CASTLE</speaker><content>What … what if I say the wrong thing?</content></utterance>
+<utterance uid="4-25"><speaker>ROMAN</speaker><content>I’ll be with you the whole time. We’ll make contact, see how everyone’s doing, take Emma’s temperature. See what she wants. And we’ll put a plan together. All you have to do is talk.</content></utterance>
+<utterance uid="4-26"><speaker>BECKETT</speaker><content>Well, if there’s one thing you excel at, Castle, it’s talking.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>ROMAN</speaker><content>You ready?</content></utterance>
+<utterance uid="5-2"><speaker>CASTLE</speaker><content>No, but let’s do this anyway.</content></utterance>
+<utterance uid="5-3"><speaker>EMMA</speaker><content>Hello.</content></utterance>
+<utterance uid="5-4"><speaker>CASTLE</speaker><content>Hello, Emma. This is Richard Castle. I heard you wanted to speak with me.</content></utterance>
+<utterance uid="5-5"><speaker>EMMA</speaker><content>How do I know it’s really you?</content></utterance>
+<utterance uid="5-6"><speaker>CASTLE</speaker><content>Ah, well, if you care to step outside I’d happy to show you my driver’s license.</content></utterance>
+<utterance uid="5-7"><speaker>EMMA</speaker><content>Yeah, that’s not going to happen.</content></utterance>
+<utterance uid="5-8"><speaker>EMMA</speaker><content>Okay, you say you’re Richard Castle, you’re going to have to prove it, all right? In the ‘Nikki Heat’ series, what’s Rook and Nikki’s wine of choice?</content></utterance>
+<utterance uid="5-9"><speaker>CASTLE</speaker><content>Sancerre.</content></utterance>
+<utterance uid="5-10"><speaker>EMMA</speaker><content>In Deadly Heat what’s Douglas Sandman’s nickname?</content></utterance>
+<utterance uid="5-11"><speaker>CASTLE</speaker><content>Bedbug Doug.</content></utterance>
+<utterance uid="5-12"><speaker>EMMA</speaker><content>In Storm Rising what’s Pierre DuBois’s last words?</content></utterance>
+<utterance uid="5-13"><speaker>CASTLE</speaker><content> Ah, trick question. Pierre was a Trappist monk. He took a vow of silence. He never spoke. Boom! Believe it’s me now, Emma? Because I could play Richard Castle trivia with you all day. I will crush you.</content></utterance>
+<utterance uid="5-14"><speaker>EMMA</speaker><content>Okay. It’s you.</content></utterance>
+<utterance uid="5-15"><speaker>CASTLE</speaker><content>So let me ask you a few questions –</content></utterance>
+<utterance uid="5-16"><speaker>EMMA</speaker><content>No, no, no, no, no. Not on the phone. The cops are listening.</content></utterance>
+<utterance uid="5-17"><speaker>CASTLE</speaker><content>So?</content></utterance>
+<utterance uid="5-18"><speaker>EMMA</speaker><content>So I don’t trust them, okay? Just come inside the dental office and we can talk here.</content></utterance>
+<utterance uid="5-19"><speaker>MICKEY GERHERDT</speaker><content>You’ve got to be kidding.</content></utterance>
+<utterance uid="5-20"><speaker>EMMA</speaker><content>Hey!  Shut up!</content></utterance>
+<utterance uid="5-21"><speaker>CASTLE</speaker><content>Ah, look, Emma –</content></utterance>
+<utterance uid="5-22"><speaker>EMMA</speaker><content>We need to speak face to face. Do you hear me? It is the only way.</content></utterance>
+<utterance uid="5-23"><speaker>CASTLE</speaker><content>Okay, but only if you send out Suki and her mother. Deal?</content></utterance>
+<utterance uid="5-24"><speaker>EMMA</speaker><content>Deal. Be outside in 5 minutes.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>BECKETT</speaker><content>God, Castle, what the hell were you thinking?</content></utterance>
+<utterance uid="6-2"><speaker>CASTLE</speaker><content>I have no idea. Honestly, I didn’t think that she would take the deal, but look, she’s a fan. I know my fans. She won’t hurt me.</content></utterance>
+<utterance uid="6-3"><speaker>ROMAN</speaker><content>You don’t know that.</content></utterance>
+<utterance uid="6-4"><speaker>CASTLE</speaker><content>I’m not blind to the risks, but I already got her to give up a little girl and her mother. I can reach her, all right? Maybe even get her to surrender. So let me go in.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>ROMAN</speaker><content>The goal is to get in and get out, you understand?  Get her demands, check the status of the hostages, and make mental notes of where everyone is. That’ll help us if we have to breach. You with me so far?</content></utterance>
+<utterance uid="7-2"><speaker>CASTLE</speaker><content>Demands, status, mental notes. Got it.</content></utterance>
+<utterance uid="7-3"><speaker>ROMAN</speaker><content>And if anything, and I mean anything, seems off, tell Emma that you have to call us. Tell her it’s to make sure that we’re not going to do anything stupid, okay?</content></utterance>
+<utterance uid="7-4"><speaker>CASTLE</speaker><content>Okay.</content></utterance>
+<utterance uid="7-5"><speaker>ROMAN</speaker><content>So we’re going to need a code word that tells us that you need help. What uh - what’s your favorite food?</content></utterance>
+<utterance uid="7-6"><speaker>CASTLE</speaker><content>Oh, um … are we talking everyday food or fine dining? If desserts are included there’s this –</content></utterance>
+<utterance uid="7-7"><speaker>BECKETT</speaker><content>Cheeseburgers. He loves cheeseburgers.</content></utterance>
+<utterance uid="7-8"><speaker>CASTLE</speaker><content>I do enjoy a good cheeseburger.</content></utterance>
+<utterance uid="7-9"><speaker>ROMAN</speaker><content>Okay. Anything goes wrong, call, mention cheeseburgers, and we’ll come running. Good luck in there.</content></utterance>
+<utterance uid="7-10"><speaker>CASTLE</speaker><content>Thank you.</content></utterance>
+<utterance uid="7-11"><speaker>CASTLE</speaker><content> Cheeseburgers.</content></utterance>
+<utterance uid="7-12"><speaker>BECKETT</speaker><content>Listen, I’m kind of looking forward to spending the rest of my life with you, so … don’t do anything stupid in there, okay?</content></utterance>
+<utterance uid="7-13"><speaker>CASTLE</speaker><content>Hey, don’t worry. I think I already hit my stupid quota for the day.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>EMMA</speaker><content>Oh my God. It really is you.</content></utterance>
+<utterance uid="8-2"><speaker>CASTLE</speaker><content>So we have a deal?</content></utterance>
+<utterance uid="8-3"><speaker>EMMA</speaker><content>C’mon.  C’mon!  Let’s go. Come in.</content></utterance>
+<utterance uid="8-4"><speaker>CASTLE</speaker><content>How’re you guys doing?</content></utterance>
+<utterance uid="8-5"><speaker>MICKEY</speaker><content>How do you think we’re doing?</content></utterance>
+<utterance uid="8-6"><speaker>EMMA</speaker><content>I told you, shut up!</content></utterance>
+<utterance uid="8-7"><speaker>CASTLE</speaker><content>Okay, Emma, Emma, easy. I’m here now, all right? So let’s talk. You want to tell me your demands?</content></utterance>
+<utterance uid="8-8"><speaker>EMMA</speaker><content>What do you mean, demands?</content></utterance>
+<utterance uid="8-9"><speaker>CASTLE</speaker><content>Uh … money? Transportation out of here?</content></utterance>
+<utterance uid="8-10"><speaker>EMMA</speaker><content>No, no, I don’t want any of that.</content></utterance>
+<utterance uid="8-11"><speaker>CASTLE</speaker><content>Okay, then what do you want?</content></utterance>
+<utterance uid="8-12"><speaker>EMMA</speaker><content>You. I – I just want you.</content></utterance>
+<utterance uid="8-13"><speaker>CASTLE</speaker><content>You want me?</content></utterance>
+<utterance uid="8-14"><speaker>EMMA</speaker><content>My boyfriend is dead. And I know what it looks like, I do. It looks like I killed him. But I didn’t kill him. I didn’t.</content></utterance>
+<utterance uid="8-15"><speaker>MICKEY</speaker><content>Uh huh.</content></utterance>
+<utterance uid="8-16"><speaker>EMMA</speaker><content>Shut up!</content></utterance>
+<utterance uid="8-17"><speaker>CASTLE</speaker><content>Emma! Please, stay calm.</content></utterance>
+<utterance uid="8-18"><speaker>EMMA</speaker><content>I know what you’re capable of, Richard Castle. How you solve murders. You want demands? Okay. I want you to prove my innocence.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>ROMAN</speaker><content>So she wants you to prove her innocence?</content></utterance>
+<utterance uid="9-2"><speaker>CASTLE</speaker><content>Right. So I hate to break it to you, but I don’t think this is going to be a traditional hostage negotiation.</content></utterance>
+<utterance uid="9-3"><speaker>BECKETT</speaker><content>Why you?</content></utterance>
+<utterance uid="9-4"><speaker>CASTLE</speaker><content>She’s read all my books. All those articles about you and I working homicides together.</content></utterance>
+<utterance uid="9-5"><speaker>GATES</speaker><content>So she’s your number one fan and this is some sort of hail Mary?</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>CASTLE</speaker><content>Pretty much. So look, I think we should –</content></utterance>
+<utterance uid="10-2"><speaker>EMMA</speaker><content>Don’t tell them anything else!</content></utterance>
+<utterance uid="10-3"><speaker>CASTLE</speaker><content>Why?</content></utterance>
+<utterance uid="10-4"><speaker>EMMA</speaker><content>Because. They’re cops.</content></utterance>
+<utterance uid="10-5"><speaker>ROMAN</speaker><content>Is everything all right, Mr. Castle?</content></utterance>
+<utterance uid="10-6"><speaker>CASTLE</speaker><content>Yeah, I’m fine.  I’m just going to talk to her and then I’ll call you back.</content></utterance>
+<utterance uid="10-7"><speaker>ROMAN</speaker><content>Are you sure?</content></utterance>
+<utterance uid="10-8"><speaker>CASTLE</speaker><content>Yes. No cheeseburgers. I repeat, no cheeseburgers.  Cutting down on red meat.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>BECKETT</speaker><content>What do we do now?</content></utterance>
+<utterance uid="11-2"><speaker>ROMAN</speaker><content> We wait.</content></utterance>
+<utterance uid="11-3"><speaker>BECKETT</speaker><content>But I –</content></utterance>
+<utterance uid="11-4"><speaker>ROMAN</speaker><content>But, what?</content></utterance>
+<utterance uid="11-5"><speaker>ROMAN</speaker><content>Excuse me.</content></utterance>
+<utterance uid="11-6"><speaker>GATES</speaker><content>What are you thinking?</content></utterance>
+<utterance uid="11-7"><speaker>BECKETT</speaker><content>Sir, are you sure that this woman doesn’t have a record?</content></utterance>
+<utterance uid="11-8"><speaker>GATES</speaker><content>Why?</content></utterance>
+<utterance uid="11-9"><speaker>BECKETT</speaker><content>Because she seems to have a deep mistrust of the police.</content></utterance>
+<utterance uid="11-10"><speaker>GATES</speaker><content>Well, obviously there’s more to her than what’s in the system.</content></utterance>
+<utterance uid="11-11"><speaker>BECKETT</speaker><content>Look, I know I’m not on the job anymore, but –</content></utterance>
+<utterance uid="11-12"><speaker>GATES</speaker><content>You want to work the crime scene.</content></utterance>
+<utterance uid="11-13"><speaker>BECKETT</speaker><content>It can’t hurt to have an extra pair of eyes. And the more we find out about Emma, the better chance we’ll have at getting Castle and the hostages –</content></utterance>
+<utterance uid="11-14"><speaker>GATES</speaker><content>Go.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>CASTLE</speaker><content>All right, Emma. You didn’t kill your boyfriend. Let’s figure out who did. As you know, all my stories start in the same place, the beginning. So tell me what happened.</content></utterance>
+<utterance uid="12-2"><speaker>EMMA</speaker><content>I got home late last night –</content></utterance>
+<utterance uid="12-3"><speaker>CASTLE</speaker><content>Why did you get home late?</content></utterance>
+<utterance uid="12-4"><speaker>EMMA</speaker><content>Well, after work I, um, I bought a dress. Because today’s my birthday, you know. Angelo was, uh, was going to take me out to dinner tonight. He – he worked out some sort of surprise. Said it would be a birthday I’d never forget.</content></utterance>
+<utterance uid="12-5"><speaker>CASTLE</speaker><content>Any idea what the surprise was?</content></utterance>
+<utterance uid="12-6"><speaker>EMMA</speaker><content>A marriage proposal? At least, that’s what I was hoping. That’s why I bought the dress, even though I couldn’t afford it. Just … stupid, huh?</content></utterance>
+<utterance uid="12-7"><speaker>CASTLE</speaker><content>No, not at all. So you have your dress, and?</content></utterance>
+<utterance uid="12-8"><speaker>EMMA</speaker><content>When I got home I poured my nightly two fingers of scotch –</content></utterance>
+<utterance uid="12-9"><speaker>CASTLE</speaker><content>A scotch girl.  Me too. Well, boy. And then what happened?</content></utterance>
+<utterance uid="12-10"><speaker>EMMA</speaker><content>When I woke up in the morning I –  – I found Angelo on the floor, dead. There was so much blood, it was –  - but I don’t know what happened. I – I – I don’t even know why Angelo was at my apartment in the first place.</content></utterance>
+<utterance uid="12-11"><speaker>CASTLE</speaker><content>And what did you do?</content></utterance>
+<utterance uid="12-12"><speaker>EMMA</speaker><content>I panicked. Tried to get out there, and the cops came, and … Here I am.</content></utterance>
+<utterance uid="12-13"><speaker>MICKEY</speaker><content> Yeah, holding us a gunpoint. Talk about psycho girlfriends.</content></utterance>
+<utterance uid="12-14"><speaker>EMMA</speaker><content>What did you say?</content></utterance>
+<utterance uid="12-15"><speaker>SUE</speaker><content>Are you trying to get us killed?</content></utterance>
+<utterance uid="12-16"><speaker>CASTLE</speaker><content>Okay, okay, Emma. Relax. Ignore him. Just focus on me. All right. Did Angelo have a key to your place?</content></utterance>
+<utterance uid="12-17"><speaker>EMMA</speaker><content>Yes.</content></utterance>
+<utterance uid="12-18"><speaker>CASTLE</speaker><content>But you didn’t make any plans for him to come over last night.</content></utterance>
+<utterance uid="12-19"><speaker>EMMA</speaker><content> No.</content></utterance>
+<utterance uid="12-20"><speaker>CASTLE</speaker><content>How were things going in the relationship? No problems?</content></utterance>
+<utterance uid="12-21"><speaker>EMMA</speaker><content>Uh uh. Good.</content></utterance>
+<utterance uid="12-22"><speaker>CASTLE</speaker><content>How much scotch did you have?</content></utterance>
+<utterance uid="12-23"><speaker>EMMA</speaker><content>One glass. The two fingers.</content></utterance>
+<utterance uid="12-24"><speaker>CASTLE</speaker><content>Okay. Now I’m going to need you to walk me through this again.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>LANIE PARISH</speaker><content>Girl, what are you doing here?</content></utterance>
+<utterance uid="13-2"><speaker>BECKETT</speaker><content>Uh … Captain Gates said that I could come.</content></utterance>
+<utterance uid="13-3"><speaker>LANIE</speaker><content>That’s not what I meant. Shouldn’t you be off looking at wedding venues or something?</content></utterance>
+<utterance uid="13-4"><speaker>BECKETT</speaker><content> No, we haven’t even set a date. We’re just trying to enjoy our engagement. Why is everyone trying to rush us?</content></utterance>
+<utterance uid="13-5"><speaker>KEVIN RYAN</speaker><content>Think you’re being rushed now, wait until after the wedding. Not ten minutes from the altar they’ll all be like,  ‘when are you two having a baby?’.</content></utterance>
+<utterance uid="13-6"><speaker>JAVIER ESPOSITO</speaker><content>Bro, your wife’s hormonal because she’s pregnant. What’s your excuse?</content></utterance>
+<utterance uid="13-7"><speaker>BECKETT</speaker><content>So, I take it this is Emma’s boyfriend?</content></utterance>
+<utterance uid="13-8"><speaker>LANIE</speaker><content>He was, until she stabbed him three times with a knife from the kitchen butcher block. </content></utterance>
+<utterance uid="13-9"><speaker>BECKETT</speaker><content>Emma’s claiming that she’s innocent. Is there any chance that someone else did this?</content></utterance>
+<utterance uid="13-10"><speaker>RYAN</speaker><content>No foreign fibers or prints. All evidence is pointing toward Emma.</content></utterance>
+<utterance uid="13-11"><speaker>BECKETT</speaker><content>Any ideas on motive?</content></utterance>
+<utterance uid="13-12"><speaker>ESPOSITO</speaker><content>Oh yeah. This is Angelo’s cell phone. Check out the text history between him and Emma.  She was accusing him of having an affair with some chick up in Scarsdale.</content></utterance>
+<utterance uid="13-13"><speaker>RYAN</speaker><content>And we found this in Angelo’s pocket.  “S.H. off of Sawmill River Parkway”.</content></utterance>
+<utterance uid="13-14"><speaker>BECKETT</speaker><content>Sawmill River Parkway is the way to Scarsdale from the city.</content></utterance>
+<utterance uid="13-15"><speaker>RYAN</speaker><content>S.H. could be the initials of the lady he was seeing on the side.</content></utterance>
+<utterance uid="13-16"><speaker>BECKETT</speaker><content>And listen to this, Emma texts Angelo last night at 9:47 last night saying she’s drunk, lonely, and wants to see him.</content></utterance>
+<utterance uid="13-17"><speaker>ESPOSITO</speaker><content>And here is an empty bottle of scotch. Ladies and gentlemen, this is a booty call gone wrong.</content></utterance>
+<utterance uid="13-18"><speaker>BECKETT</speaker><content>This doesn’t make any sense. I mean, if she actually killed him then why isn’t she asking for a flight out of the country? Why is she insisting that she is innocent?</content></utterance>
+<utterance uid="13-19"><speaker>RYAN</speaker><content>Uh, maybe because she’s crazy.  I found Emma’s prescriptions: clonazepam and aripiprazole. Lanie, aren’t those anti-psychotics?</content></utterance>
+<utterance uid="13-20"><speaker>LANIE</speaker><content>One is. The other’s for mood disorders. Hey, you know if Emma stopped taking her meds she could have had a psychotic break.</content></utterance>
+<utterance uid="13-21"><speaker>BECKETT</speaker><content> Which means she wouldn’t remember what she did.  We have to warn Castle.</content></utterance>
+<utterance uid="13-22"><speaker>ESPOSITO</speaker><content>Beckett, relax. He’s just on the phone with the woman.</content></utterance>
+<utterance uid="13-23"><speaker>BECKETT</speaker><content>No. He went in.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>CASTLE</speaker><content>Uh huh. Okay, let me call you back. </content></utterance>
+<utterance uid="14-2"><speaker>EMMA</speaker><content>Did Detective Beckett find anything?</content></utterance>
+<utterance uid="14-3"><speaker>CASTLE</speaker><content>Emma, I can’t help you if you’re not honest with me.</content></utterance>
+<utterance uid="14-4"><speaker>EMMA</speaker><content>But I have been honest.</content></utterance>
+<utterance uid="14-5"><speaker>CASTLE</speaker><content>You said everything between you and Angelo was all right.</content></utterance>
+<utterance uid="14-6"><speaker>EMMA</speaker><content>Yeah, it was.</content></utterance>
+<utterance uid="14-7"><speaker>CASTLE</speaker><content>So you didn’t suspect him of cheating?</content></utterance>
+<utterance uid="14-8"><speaker>EMMA</speaker><content>No, it’s just - that he kept going up to Scarsdale without saying why. I’m sure it was nothing.</content></utterance>
+<utterance uid="14-9"><speaker>CASTLE</speaker><content>Are you? Or could it be that you wanted to confront him. And maybe that’s why you texted Angelo last night and invited him over.</content></utterance>
+<utterance uid="14-10"><speaker>EMMA</speaker><content>What are you taking about?</content></utterance>
+<utterance uid="14-11"><speaker>CASTLE</speaker><content>Look at your phone, Emma.</content></utterance>
+<utterance uid="14-12"><speaker>EMMA</speaker><content>Wait, I don’t – no, I don’t remember writing these texts.</content></utterance>
+<utterance uid="14-13"><speaker>CASTLE</speaker><content>Just because you don’t remember doesn’t mean you didn’t. Just like you only remember having one glass of scotch. But what if you had more? They found your scotch bottle, Emma. It was empty.</content></utterance>
+<utterance uid="14-14"><speaker>EMMA</speaker><content> I didn’t finish the bottle.</content></utterance>
+<utterance uid="14-15"><speaker>CASTLE</speaker><content>Maybe you did and you just can’t remember.</content></utterance>
+<utterance uid="14-16"><speaker>EMMA</speaker><content>That is ridiculous!</content></utterance>
+<utterance uid="14-17"><speaker>CASTLE</speaker><content>Emma, you wanted me to uncover the truth.</content></utterance>
+<utterance uid="14-18"><speaker>EMMA</speaker><content>No. Not you. Please don’t tell me that you don’t believe me. I didn’t kill Angelo, okay? I mean, I wanted to marry him. I wouldn’t do this!  Oh God. God. Did I? What if I did? I don’t – </content></utterance>
+<utterance uid="14-19"><speaker>CASTLE</speaker><content>Huh.</content></utterance>
+<utterance uid="14-20"><speaker>EMMA</speaker><content>What?</content></utterance>
+<utterance uid="14-21"><speaker>CASTLE</speaker><content>How do you text ‘love you’?</content></utterance>
+<utterance uid="14-22"><speaker>EMMA</speaker><content>What do you mean?</content></utterance>
+<utterance uid="14-23"><speaker>CASTLE</speaker><content>When you write ‘love you’, how do you spell it?</content></utterance>
+<utterance uid="14-24"><speaker>EMMA</speaker><content>I do a sideways heart and the letter u.</content></utterance>
+<utterance uid="14-25"><speaker>CASTLE</speaker><content>Right, except for last night when you just spelled it out, ‘love you’.</content></utterance>
+<utterance uid="14-26"><speaker>EMMA</speaker><content>No. Uh uh. I never spell it out.</content></utterance>
+<utterance uid="14-27"><speaker>CASTLE</speaker><content>Yeah, and the voice in those texts from last night, it’s – it’s different from the others.</content></utterance>
+<utterance uid="14-28"><speaker>EMMA</speaker><content>As if somebody else wrote them?</content></utterance>
+<utterance uid="14-29"><speaker>CASTLE</speaker><content>Maybe. I don’t know.</content></utterance>
+<utterance uid="14-30"><speaker>EMMA</speaker><content>Well, if I didn’t write these, that means that somebody else did, right? Which means the killer used my phone.</content></utterance>
+<utterance uid="14-31"><speaker>EMMA</speaker><content>You have to dust this for prints. C’mon.  C’mon! You have to find the killer.</content></utterance>
+<utterance uid="14-32"><speaker>KOGAN</speaker><content>You’re not leaving us, are you?</content></utterance>
+<utterance uid="14-33"><speaker>CASTLE</speaker><content>No, I’m – I’m going to get you out of here.</content></utterance>
+<utterance uid="14-34"><speaker>MICKEY</speaker><content>Like hell you are. Look, if you and the cops aren’t going to do anything I sure as hell am.</content></utterance>
+<utterance uid="14-35"><speaker>EMMA</speaker><content>Shut up!  What are you waiting for? C’mon! Just go, okay?</content></utterance>
+<utterance uid="14-36"><speaker>CASTLE</speaker><content>Mickey, don’t do anything. Please.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>BECKETT</speaker><content>Castle.</content></utterance>
+<utterance uid="15-2"><speaker>ROMAN</speaker><content>Mr. Castle, what happened? What is going on in there?</content></utterance>
+<utterance uid="15-3"><speaker>CASTLE</speaker><content>We’ve got problems. Emma is unstable, to say the least. But that’s not the worst of it. There’s a hostage in there, he’s seen Die Hard too many times. He’s going to try to be a hero. And there’s something else I think you need to know.</content></utterance>
+<utterance uid="15-4"><speaker>BECKETT</speaker><content>What’s that?</content></utterance>
+<utterance uid="15-5"><speaker>CASTLE</speaker><content>Emma might actually be telling the truth.</content></utterance>
+<utterance uid="15-6"><speaker>BECKETT</speaker><content>The truth about what?</content></utterance>
+<utterance uid="15-7"><speaker>CASTLE</speaker><content>Beckett, I think she’s being framed for murder.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>CASTLE</speaker><content>But what if Emma is right? What if someone else wrote those texts and this is all just an elaborate frameup and Emma’s just a patsy?</content></utterance>
+<utterance uid="16-2"><speaker>ESPOSITO</speaker><content>Syntax, bro? You’re going to base Emma’s innocence on how she writes her texts?</content></utterance>
+<utterance uid="16-3"><speaker>CASTLE</speaker><content>I’m just saying, it’s possible.</content></utterance>
+<utterance uid="16-4"><speaker>ESPOSITO</speaker><content>Look, if we found DNA or prints or fibers at the crime scene, maybe.</content></utterance>
+<utterance uid="16-5"><speaker>RYAN</speaker><content>Sully, we get a useable print off Emma’s cell phone?</content></utterance>
+<utterance uid="16-6"><speaker>CASTLE</speaker><content>To use her phone without her knowing, Emma would have to have been unconscious. So … someone could have knocked her out. She has a scotch every night. Someone could have dosed her bottle.</content></utterance>
+<utterance uid="16-7"><speaker>SULLY</speaker><content>Or maybe she’s just some crazed fan, like Kathy Bates in Misery.  You should be happy you didn’t get hobbled. Right?</content></utterance>
+<utterance uid="16-8"><speaker>GATES</speaker><content>Okay, this is your investigation.  Keep running the case on Emma.</content></utterance>
+<utterance uid="16-9"><speaker>CASTLE</speaker><content>Captain, I’m –</content></utterance>
+<utterance uid="16-10"><speaker>GATES</speaker><content>Ah, let me finish. Look, Mr. Castle, over the years I have learned not to discount your little theories, no matter how fanciful. So why don’t you and Beckett work with Detective Sully and let’s see if there’s something to this.</content></utterance>
+<utterance uid="16-11"><speaker>BECKETT</speaker><content>Thank you, Sir.</content></utterance>
+<utterance uid="16-12"><speaker>CASTLE</speaker><content>Thank you.</content></utterance>
+<utterance uid="16-13"><speaker>SULLY</speaker><content>So, where do we start?</content></utterance>
+<utterance uid="16-14"><speaker>BECKETT</speaker><content>By looking into our victim, Angelo Vazquez.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>CASTLE</speaker><content>Everything here tells the same story. Angelo was a decent guy. Ten years ago, after some petty B and E’s, he turned his life around. He volunteered with at-risk youth, he was well liked. He had been recently laid off from his mechanic’s job, but he was still upbeat. There’s nothing that explains who killed him or why, other than Emma.</content></utterance>
+<utterance uid="17-2"><speaker>BECKETT</speaker><content>Castle, you’re forgetting about Scarsdale. </content></utterance>
+<utterance uid="17-3"><speaker>CASTLE</speaker><content>You think Emma’s suspicions are true? That he was having an affair? That some woman in Scarsdale killed him?</content></utterance>
+<utterance uid="17-4"><speaker>BECKETT</speaker><content>Well, something was going on in Scarsdale. Look at this.  Three nights ago a resident complained about Angelo’s car.</content></utterance>
+<utterance uid="17-5"><speaker>CASTLE</speaker><content>Why?</content></utterance>
+<utterance uid="17-6"><speaker>BECKETT</speaker><content>How does Sully find anything on this desk?</content></utterance>
+<utterance uid="17-7"><speaker>CASTLE</speaker><content>I don’t know. He must have a system. I think that was once a bagel.</content></utterance>
+<utterance uid="17-8"><speaker>BECKETT</speaker><content>Okay, you know what?  Here we go. A Scarsdale resident on Overlook Road reported Angelo’s license plate to the police. He said the driver spent …  … two hours drinking coffee, alone, in his car.</content></utterance>
+<utterance uid="17-9"><speaker>CASTLE</speaker><content>Two hours drinking coffee alone doesn’t sound like much of an affair.</content></utterance>
+<utterance uid="17-10"><speaker>BECKETT</speaker><content>Yeah, but what was Angelo up to?  Beckett.</content></utterance>
+<utterance uid="17-11"><speaker>SULLY</speaker><content>Hey, it’s Sully. There was nothing of interest at Angelo’s apartment, but his car is a whole other matter. Get this. Angelo had a duffle bag filled with tools of the burglar variety, a floor plan to what looks like a house, and a manual for a Ramco 4700 alarm system. I don’t think he was installing home security systems.</content></utterance>
+<utterance uid="17-12"><speaker>BECKETT</speaker><content>Angelo was out of work. Do you think he went back to committing B and E’s?</content></utterance>
+<utterance uid="17-13"><speaker>CASTLE</speaker><content>I only know one person with the answer to that question.</content></utterance>
+</scene>
+
+<scene id="18"><utterance uid="18-1"><speaker>MICKEY</speaker><content>Okay, here’s the plan. Doc, act like you’re having a seizure.</content></utterance>
+<utterance uid="18-2"><speaker>KOGAN</speaker><content>Excuse me?</content></utterance>
+<utterance uid="18-3"><speaker>MICKEY</speaker><content>And then Sue, squeeze out a few tears, beg Emma to help him, and when she does, boom. I take her out. We end this, and then we meet at the bar around the corner and the first round is on me.</content></utterance>
+<utterance uid="18-4"><speaker>KOGAN</speaker><content>Are you out of your mind?</content></utterance>
+<utterance uid="18-5"><speaker>SUE</speaker><content>That is the dumbest plan ever.</content></utterance>
+<utterance uid="18-6"><speaker>MICKEY</speaker><content>Fine. Then I’ll do it by myself.</content></utterance>
+<utterance uid="18-7"><speaker>CASTLE</speaker><content>It’s Castle.</content></utterance>
+<utterance uid="18-8"><speaker>CASTLE</speaker><content>Hey. And I brought doughnuts.</content></utterance>
+<utterance uid="18-9"><speaker>KOGAN</speaker><content>Hey.</content></utterance>
+<utterance uid="18-10"><speaker>MICKEY</speaker><content>Um, gluten free?</content></utterance>
+<utterance uid="18-11"><speaker>CASTLE</speaker><content>Dude, they’re doughnuts. Either you’re in or you’re out.</content></utterance>
+<utterance uid="18-12"><speaker>EMMA</speaker><content>You find out anything?</content></utterance>
+<utterance uid="18-13"><speaker>CASTLE</speaker><content>Emma, what do you know about Angelo’s trips to Scarsdale?</content></utterance>
+<utterance uid="18-14"><speaker>EMMA</speaker><content>Nothing, he wouldn’t tell me.</content></utterance>
+<utterance uid="18-15"><speaker>CASTLE</speaker><content>Is it possible he was there casing a house for a burglary?</content></utterance>
+<utterance uid="18-16"><speaker>EMMA</speaker><content>What? No. That’s ridiculous.</content></utterance>
+<utterance uid="18-17"><speaker>CASTLE</speaker><content>Do the initials S.H. mean anything to you?</content></utterance>
+<utterance uid="18-18"><speaker>EMMA</speaker><content> Uh …</content></utterance>
+<utterance uid="18-19"><speaker>CASTLE</speaker><content>Could someone from Angelo’s criminal past have come back?</content></utterance>
+<utterance uid="18-20"><speaker>EMMA</speaker><content>Wait, that was all petty stuff when he was a kid. That’s all.</content></utterance>
+<utterance uid="18-21"><speaker>CASTLE</speaker><content>But he wasn’t a kid anymore. The stakes were higher. He was out of work. He wanted to surprise you on your birthday. Maybe propose. What if he got into trouble trying to make that happen?</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>ESPOSITO</speaker><content>Yo Beckett. Where’s Castle?</content></utterance>
+<utterance uid="19-2"><speaker>RYAN</speaker><content>He’s not in there, is he?</content></utterance>
+<utterance uid="19-3"><speaker>BECKETT</speaker><content>Why?</content></utterance>
+<utterance uid="19-4"><speaker>ESPOSITO</speaker><content>We found something. Something about Emma.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>CASTLE</speaker><content>Emma. Let these people go. Okay? It worked. You got my attention. There’s hope now.</content></utterance>
+<utterance uid="20-2"><speaker>EMMA</speaker><content>No. Uh uh. Not until my name is cleared. No.</content></utterance>
+<utterance uid="20-3"><speaker>CASTLE</speaker><content>It’s Beckett. I’m –</content></utterance>
+<utterance uid="20-4"><speaker>EMMA</speaker><content> Go.</content></utterance>
+<utterance uid="20-5"><speaker>CASTLE</speaker><content>Hey, Beckett.</content></utterance>
+<utterance uid="20-6"><speaker>BECKETT</speaker><content>Do not react to what I’m about to tell you.</content></utterance>
+<utterance uid="20-7"><speaker>CASTLE</speaker><content>Okay.</content></utterance>
+<utterance uid="20-8"><speaker>BECKETT</speaker><content>Emma has been playing you this whole time.</content></utterance>
+<utterance uid="20-9"><speaker>CASTLE</speaker><content>Interesting. Can you elaborate?</content></utterance>
+<utterance uid="20-10"><speaker>BECKETT</speaker><content>Angelo is not her first victim. She’s done this before. She has a sealed juvie record under her original name, Emma Jones.</content></utterance>
+<utterance uid="20-11"><speaker>CASTLE</speaker><content>Uh huh.</content></utterance>
+<utterance uid="20-12"><speaker>BECKETT</speaker><content>When she was 16 she killed her foster brother, Billy Kaas. Apparently she got drunk, lured him into their basement, and then stabbed him with a knife.</content></utterance>
+<utterance uid="20-13"><speaker>CASTLE</speaker><content>Well, that’s a coincidence.</content></utterance>
+<utterance uid="20-14"><speaker>BECKETT</speaker><content>Also known as an MO. Castle, it’s exactly what she did to Angelo. She’s unstable. You need to get out of there. Now.</content></utterance>
+<utterance uid="20-15"><speaker>EMMA</speaker><content>Don’t say another word. Hang up.</content></utterance>
+<utterance uid="20-16"><speaker>EMMA</speaker><content>She told you about Billy Kaas, didn’t she?</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>CASTLE</speaker><content>Look, Emma –</content></utterance>
+<utterance uid="21-2"><speaker>EMMA</speaker><content>Back up!  I am not a murderer.</content></utterance>
+<utterance uid="21-3"><speaker>CASTLE</speaker><content>Says the lady pointing a gun at me.</content></utterance>
+<utterance uid="21-4"><speaker>EMMA</speaker><content>You weren’t supposed to find out about Billy. I mean, what is the point of a sealed record when the cops can open it whenever they feel like it.</content></utterance>
+<utterance uid="21-5"><speaker>CASTLE</speaker><content>I’m sure they got a subpoena first.</content></utterance>
+<utterance uid="21-6"><speaker>EMMA</speaker><content>And I’m sure they all had a laugh at all the adjectives describing me, right? Manic, bipolar, violent, murderer.</content></utterance>
+<utterance uid="21-7"><speaker>CASTLE</speaker><content>Not to be a stickler, but murderer isn’t an adjective.</content></utterance>
+<utterance uid="21-8"><speaker>EMMA</speaker><content>I’m not an idiot.</content></utterance>
+<utterance uid="21-9"><speaker>CASTLE</speaker><content>Sorry. I get sarcastic when I’m nervous.</content></utterance>
+<utterance uid="21-10"><speaker>EMMA</speaker><content>That’s not what I was talking about. I knew what you were going to think. Two deaths happening the exact same way? That’s why I didn’t tell you. But I’m innocent! I didn’t kill Angelo, I didn’t.</content></utterance>
+<utterance uid="21-11"><speaker>CASTLE</speaker><content>If that is true Emma, and you want me to help you, you have to tell me everything.</content></utterance>
+<utterance uid="21-12"><speaker>EMMA</speaker><content>When I was 16 I was sent to this foster home. Twin orphans lived there. The Kaas brothers, Warren and Billy.</content></utterance>
+<utterance uid="21-13"><speaker>CASTLE</speaker><content>What happened?</content></utterance>
+<utterance uid="21-14"><speaker>EMMA</speaker><content> Those two bullied me for weeks. Foster parents were in it for the money, so they didn’t care. But then one day the twins were nice to me all of a sudden. You know, I thought they, um … I thought they finally accepted me, you know? So we – we went down to the basement and drank schnapps and then …  Billy pulled a knife on me. I was just trying to stop him. I didn’t mean to. And when the cops came Warren lied. He said I pulled the knife on them and they just – they just took him at his word.</content></utterance>
+<utterance uid="21-15"><speaker>CASTLE</speaker><content>Which is why you hate cops.</content></utterance>
+<utterance uid="21-16"><speaker>EMMA</speaker><content>I didn’t kill Angelo. I didn’t. You have to believe me.</content></utterance>
+<utterance uid="21-17"><speaker>CASTLE</speaker><content>I do, Emma. I believe you. But why were Angelo and Billy’s deaths staged exactly the same way?</content></utterance>
+<utterance uid="21-18"><speaker>EMMA</speaker><content>I have no idea. I don’t know.</content></utterance>
+<utterance uid="21-19"><speaker>CASTLE</speaker><content>It has to be someone who knew something about your past.</content></utterance>
+<utterance uid="21-20"><speaker>EMMA</speaker><content>Yeah. I mean, I guess so. But who?</content></utterance>
+<utterance uid="21-21"><speaker>CASTLE</speaker><content>Warren Kaas. What better way to get revenge for the death of his brother than by killing your boyfriend and pinning the murder on you?</content></utterance>
+<utterance uid="21-22"><speaker>EMMA</speaker><content>No, it’s not Warren. Warren’s doing eight years up in Sing Sing for assault.</content></utterance>
+<utterance uid="21-23"><speaker>CASTLE</speaker><content>You kept track of him?</content></utterance>
+<utterance uid="21-24"><speaker>EMMA</speaker><content>Of course. He’s the reason I changed my name. I mean, I have been really careful about staying off of Warren’s radar ever since he testified against me in court. He almost got me thrown in prison for life. If it wasn’t for the sisters of Saint Helena’s Home for Children, I –</content></utterance>
+<utterance uid="21-25"><speaker>CASTLE</speaker><content>Wait. Go back. Saint Helena’s Home for Children. Where is that?</content></utterance>
+<utterance uid="21-26"><speaker>EMMA</speaker><content>In Yonkers.</content></utterance>
+<utterance uid="21-27"><speaker>CASTLE</speaker><content>The note we found in Angelo’s jacket said “S.H. off Sawmill River Parkway”. S.H. has to be Saint Helena’s. Yonkers is off Sawmill River Parkway. Somehow Saint Helena’s is connected to this.</content></utterance>
+<utterance uid="21-28"><speaker>EMMA</speaker><content>But how? I – I haven’t been back there in years.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>RYAN</speaker><content>I spoke with Sister Francis at Saint Helena’s. She said there was a break in three nights ago.</content></utterance>
+<utterance uid="22-2"><speaker>ESPOSITO</speaker><content>And they have a Ramco 4700 alarm.</content></utterance>
+<utterance uid="22-3"><speaker>CASTLE</speaker><content>Ramco 4700. That’s the manual Angelo had in his car.</content></utterance>
+<utterance uid="22-4"><speaker>EMMA</speaker><content>Why would he break into my old orphanage?</content></utterance>
+<utterance uid="22-5"><speaker>RYAN</speaker><content>We have a pretty good idea. Sister Francis checked the records room.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>ESPOSITO</speaker><content>And Emma’s sealed foster care file is missing. Looks like Angelo stole it.</content></utterance>
+<utterance uid="23-2"><speaker>EMMA</speaker><content> But why would he do that?</content></utterance>
+<utterance uid="23-3"><speaker>CASTLE</speaker><content>To find out something about you.</content></utterance>
+<utterance uid="23-4"><speaker>EMMA</speaker><content>No, I already told him everything about me.  Oh God.</content></utterance>
+<utterance uid="23-5"><speaker>CASTLE</speaker><content> Guys, let me call you back.  You figured it out?</content></utterance>
+<utterance uid="23-6"><speaker>EMMA</speaker><content> I was given up for adoption when I was born. Angelo knew I always wanted to find out where I came from.</content></utterance>
+<utterance uid="23-7"><speaker>CASTLE</speaker><content>And that file had your adoption papers with your birth parents’ names.</content></utterance>
+<utterance uid="23-8"><speaker>EMMA</speaker><content>I had tried to get them in the past, but … they’re sealed.</content></utterance>
+<utterance uid="23-9"><speaker>CASTLE</speaker><content>That’s the surprise Angelo was going to give you tonight. At your birthday dinner. The gift of knowing who your real parents are.</content></utterance>
+<utterance uid="23-10"><speaker>CASTLE</speaker><content>No! No! Mickey! No!</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>ROMAN</speaker><content>All units, full breach. Go, go, go!</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>EMMA</speaker><content>Oh God, I just killed Richard Castle!</content></utterance>
+<utterance uid="25-2"><speaker>MICKEY</speaker><content>I didn’t do it. It was her!</content></utterance>
+<utterance uid="25-3"><speaker>ROMAN</speaker><content> We need an EMT right away. Let’s go!</content></utterance>
+<utterance uid="25-4"><speaker>BECKETT</speaker><content>Castle? Castle!</content></utterance>
+<utterance uid="25-5"><speaker>CASTLE</speaker><content>Cheeseburgers!</content></utterance>
+<utterance uid="25-6"><speaker>CASTLE</speaker><content> Cheeseburgers.</content></utterance>
+<utterance uid="25-7"><speaker>BECKETT</speaker><content>Oh!</content></utterance>
+<utterance uid="25-8"><speaker>CASTLE</speaker><content>Wow, it worked!  She dotted the ‘I’!</content></utterance>
+<utterance uid="25-9"><speaker>BECKETT</speaker><content>Yes!</content></utterance>
+<utterance uid="25-10"><speaker>CASTLE</speaker><content>Ah! Chest!</content></utterance>
+<utterance uid="25-11"><speaker>BECKETT</speaker><content>Ooh, sorry.</content></utterance>
+<utterance uid="25-12"><speaker>CASTLE</speaker><content>Ah, that hurts.</content></utterance>
+<utterance uid="25-13"><speaker>BECKETT</speaker><content>Yeah well, getting hit by a projectile at a thousand feet per second is gonna … sting a bit.</content></utterance>
+<utterance uid="25-14"><speaker>CASTLE</speaker><content>Yeah, I think it’s going to leave a mark.</content></utterance>
+<utterance uid="25-15"><speaker>BECKETT</speaker><content>All that matters is that you’re okay now.</content></utterance>
+<utterance uid="25-16"><speaker>CASTLE</speaker><content>Oh, I’m better than okay, Beckett. I know who the killer is.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>RYAN</speaker><content>She shot you in the chest and you still think she’s innocent?</content></utterance>
+<utterance uid="26-2"><speaker>CASTLE</speaker><content>No. She shot me in the chest and now I know she’s innocent.</content></utterance>
+<utterance uid="26-3"><speaker>CASTLE</speaker><content>Thank you. Don’t you see? Just like that vest protected me, Emma’s adoption papers? They’re protecting the killer.</content></utterance>
+<utterance uid="26-4"><speaker>ESPOSITO</speaker><content>You know that made no sense, right?</content></utterance>
+<utterance uid="26-5"><speaker>BECKETT</speaker><content>I – I think what Castle is suggesting is that one of Emma’s birth parents might be behind all of this.</content></utterance>
+<utterance uid="26-6"><speaker>CASTLE</speaker><content>That’s why Angelo took those records. To find one of them. What if he found one of them? Perhaps living on Overlook Road in Scarsdale? But, what if that birth parent didn’t want to be found? What if Emma learning the truth was a threat somehow?</content></utterance>
+<utterance uid="26-7"><speaker>RYAN</speaker><content>Castle, that’s just speculation. And if you’re right, we’ll probably never know. The killer’s most likely destroyed the records by now.</content></utterance>
+<utterance uid="26-8"><speaker>ESPOSITO</speaker><content>Unless Angelo hid them. I mean, they were supposed to be a surprise.</content></utterance>
+<utterance uid="26-9"><speaker>BECKETT</speaker><content>Head back to Angelo’s place. We need to search it again.</content></utterance>
+<utterance uid="26-10"><speaker>ESPOSITO</speaker><content>You are aware that you don’t actually work here anymore, right?</content></utterance>
+<utterance uid="26-11"><speaker>BECKETT</speaker><content>I’m sorry. Old habits.</content></utterance>
+<utterance uid="26-12"><speaker>ESPOSITO</speaker><content>Okay. I’ll go grab Sully and go check again, just in case.  But not because you asked me to. Because I’m actually on my way to.</content></utterance>
+<utterance uid="26-13"><speaker>BECKETT</speaker><content>Okay, so, let’s suppose it is one of Emma’s birth parents. If Angelo’s murder was a setup, then how would they know how to stage it? I mean, they gave her up for adoption, so how would they know about Emma’s violent history?</content></utterance>
+<utterance uid="26-14"><speaker>CASTLE</speaker><content>Newspaper articles.</content></utterance>
+<utterance uid="26-15"><speaker>RYAN</speaker><content>No, I checked. Because she was a minor her name was withheld.</content></utterance>
+<utterance uid="26-16"><speaker>BECKETT</speaker><content>So then our killer had to have had access to Emma’s sealed juvie records.</content></utterance>
+<utterance uid="26-17"><speaker>CASTLE</speaker><content>And for that you need a subpoena.</content></utterance>
+<utterance uid="26-18"><speaker>RYAN</speaker><content>Looks like someone skipped that step. Emma’s sealed records were opened three days ago.</content></utterance>
+<utterance uid="26-19"><speaker>BECKETT</speaker><content>By who?</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>RYAN</speaker><content>Julian Carter? Hi.</content></utterance>
+<utterance uid="27-2"><speaker>RYAN</speaker><content>I’m Detective Ryan. This is Kate Beckett. We’re from the Twelfth. Do you have a second to help us out with something?</content></utterance>
+<utterance uid="27-3"><speaker>JULIAN</speaker><content>Sure. What’s up?</content></utterance>
+<utterance uid="27-4"><speaker>BECKETT</speaker><content>The system tagged you for opening a sealed file of an Emma Jones.</content></utterance>
+<utterance uid="27-5"><speaker>JULIAN</speaker><content>Yeah, that’s my job. I open files, I close files. Right now I’m filing files.</content></utterance>
+<utterance uid="27-6"><speaker>JULIAN</speaker><content>Is there a problem?</content></utterance>
+<utterance uid="27-7"><speaker>BECKETT</speaker><content>I’m afraid so. You see, it was a juvie file, and you didn’t have the court’s permission to unseal it.</content></utterance>
+<utterance uid="27-8"><speaker>JULIAN</speaker><content>Well, I – I sometimes forget to log out of my computer, so, maybe somebody just –</content></utterance>
+<utterance uid="27-9"><speaker>RYAN</speaker><content> Just stop it. You’ve already lost your job. Now the only question is whether you’re losing your freedom, too. Because I’m about two seconds away from arresting you for accessory to murder.</content></utterance>
+<utterance uid="27-10"><speaker>JULIAN</speaker><content>Wait, wait, wait. Hold on.</content></utterance>
+<utterance uid="27-11"><speaker>BECKETT</speaker><content>You better start talking before he pulls out his cuffs.</content></utterance>
+<utterance uid="27-12"><speaker>JULIAN</speaker><content>Okay, okay. From time to time I slip information to a lawyer.</content></utterance>
+<utterance uid="27-13"><speaker>RYAN</speaker><content>What kind of information?</content></utterance>
+<utterance uid="27-14"><speaker>JULIAN</speaker><content>Rap sheets, witness statements. Stuff like that.</content></utterance>
+<utterance uid="27-15"><speaker>BECKETT</speaker><content>What about with Emma?</content></utterance>
+<utterance uid="27-16"><speaker>JULIAN</speaker><content>Three days ago the lawyer called. Said a client wanted all the information that the police had on Emma Riggs.</content></utterance>
+<utterance uid="27-17"><speaker>BECKETT</speaker><content>What for?</content></utterance>
+<utterance uid="27-18"><speaker>JULIAN</speaker><content>He didn’t say. But when I told him Emma had a juvie file under a different last name he paid me an extra grand to unseal it.</content></utterance>
+<utterance uid="27-19"><speaker>RYAN</speaker><content>What’s the name of this lawyer?</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>RAYMOND VANCE</speaker><content>No, I’m having breakfast with the judge tomorrow.</content></utterance>
+<utterance uid="28-2"><speaker>RYAN</speaker><content>Hi, Mr. Vance. I’m Detective Ryan –</content></utterance>
+<utterance uid="28-3"><speaker>VANCE</speaker><content>He’s a friend of a friend.</content></utterance>
+<utterance uid="28-4"><speaker>VANCE</speaker><content>Yeah. And then –</content></utterance>
+<utterance uid="28-5"><speaker>RYAN</speaker><content>He’s going to need to call you back.</content></utterance>
+<utterance uid="28-6"><speaker>VANCE</speaker><content>What is your problem?</content></utterance>
+<utterance uid="28-7"><speaker>RYAN</speaker><content>Actually, Mr. Vance, I’m not the one with the problem. You are.</content></utterance>
+<utterance uid="28-8"><speaker>VANCE</speaker><content>Okay. I’m listening.</content></utterance>
+<utterance uid="28-9"><speaker>RYAN</speaker><content>On behalf of a client, you paid to have Emma Riggs’ juvenile records unsealed.</content></utterance>
+<utterance uid="28-10"><speaker>VANCE</speaker><content>Buying secured police files is illegal and grounds for disbarment. I would never do that.</content></utterance>
+<utterance uid="28-11"><speaker>RYAN</speaker><content>Really? Because I have an NYPD civilian employee that begs to differ. He’s willing to testify, too.</content></utterance>
+<utterance uid="28-12"><speaker>VANCE</speaker><content>Detective, I’m not some ambulance chaser. I’m a respected attorney at Kirkpatrick and Young. So unless you have any proof of those claims, good luck getting any court to take the word of a disgraced civilian employee.</content></utterance>
+<utterance uid="28-13"><speaker>RYAN</speaker><content>Mr. Vance, you have a client who’s mixed up in a homicide. By withholding their name, you’re obstructing justice.</content></utterance>
+<utterance uid="28-14"><speaker>VANCE</speaker><content>Even if I wanted to, I can’t disclose my client’s name. As you’re well aware, that falls under privileged information.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>RYAN</speaker><content>Hey.</content></utterance>
+<utterance uid="29-2"><speaker>BECKETT</speaker><content>Oh, don’t tell me we struck out on the lawyer.</content></utterance>
+<utterance uid="29-3"><speaker>RYAN</speaker><content>Yeah, I’m afraid so.</content></utterance>
+<utterance uid="29-4"><speaker>CASTLE</speaker><content>So what do we do now?</content></utterance>
+<utterance uid="29-5"><speaker>CASTLE</speaker><content>C’mon, you guys. If we don’t figure this out, Emma is going away for life. What about her scotch bottle? Did the lab report come back?</content></utterance>
+<utterance uid="29-6"><speaker>RYAN</speaker><content>Lanie just texted. There’s no evidence of any drugs or sedatives.  I’m sorry. It looks like we’re dead in the water.</content></utterance>
+<utterance uid="29-7"><speaker>ESPOSITO</speaker><content>Oh, far from it. Guess what we found at Angelo’s apartment?</content></utterance>
+<utterance uid="29-8"><speaker>SULLY</speaker><content>Angelo’s birthday present to Emma. I missed it before because it was wrapped.</content></utterance>
+<utterance uid="29-9"><speaker>ESPOSITO</speaker><content>You want to guess what’s inside?</content></utterance>
+<utterance uid="29-10"><speaker>ESPOSITO</speaker><content> I was – I was gonna have them guess.</content></utterance>
+<utterance uid="29-11"><speaker>SULLY</speaker><content>Oh, I didn’t –</content></utterance>
+<utterance uid="29-12"><speaker>BECKETT</speaker><content>According to these adoption papers, Emma’s birth mother was a woman named Stacy Moore.</content></utterance>
+<utterance uid="29-13"><speaker>SULLY</speaker><content>She died ten years ago.</content></utterance>
+<utterance uid="29-14"><speaker>BECKETT</speaker><content>And her birth father is –  Espo, is this right?</content></utterance>
+<utterance uid="29-15"><speaker>ESPOSITO</speaker><content>It’s right. Emma’s dad is Aaron Stokes.</content></utterance>
+<utterance uid="29-16"><speaker>RYAN</speaker><content>The real estate developer?</content></utterance>
+<utterance uid="29-17"><speaker>CASTLE</speaker><content>He’s considering taking a run at governor.</content></utterance>
+<utterance uid="29-18"><speaker>ESPOSITO</speaker><content>Yeah, and I wonder how the governor’s mansion compares to his big house on Overlook Road in Scarsdale.</content></utterance>
+<utterance uid="29-19"><speaker>BECKETT</speaker><content>And let me guess, he’s a client of Kirkpatrick and Young.</content></utterance>
+<utterance uid="29-20"><speaker>ESPOSITO</speaker><content>That’s right.</content></utterance>
+<utterance uid="29-21"><speaker>CASTLE</speaker><content>Looks like Mr. Stokes is going to be trading in his big house for the … big … house.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>GATES</speaker><content>You ordered Aaron Stokes in for questioning? Are you serious?</content></utterance>
+<utterance uid="30-2"><speaker>ESPOSITO</speaker><content>You told us to build our case, and Mr. Stokes is where it went.</content></utterance>
+<utterance uid="30-3"><speaker>GATES</speaker><content>This is a very powerful man who happens to be golfing buddies with the Police Commissioner.</content></utterance>
+<utterance uid="30-4"><speaker>CASTLE</speaker><content>So because he has a standing tee time with your boss he gets away with murder?</content></utterance>
+<utterance uid="30-5"><speaker>GATES</speaker><content>I’m handling the interview.</content></utterance>
+<utterance uid="30-6"><speaker>RYAN</speaker><content>What? No, Sir. This is our case.</content></utterance>
+<utterance uid="30-7"><speaker>GATES</speaker><content>Yes, and it’ll be your jobs if there is any blowback. I am not going let you two risk your careers.</content></utterance>
+<utterance uid="30-8"><speaker>BECKETT</speaker><content>Captain, I don’t have a career to risk. How about I back you up in there?</content></utterance>
+<utterance uid="30-9"><speaker>GATES</speaker><content> Okay.</content></utterance>
+<utterance uid="30-10"><speaker>CASTLE</speaker><content>Captain, I too have no career to risk. Why don’t I – maybe I should -  – you know what I’m going to do? I’m going to stay here. I think you guys got this handled.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>AARON STOKES</speaker><content>Why am I here? Do you know who I am?</content></utterance>
+<utterance uid="31-2"><speaker>GATES</speaker><content>Why do you think you’re in this room, Mr. Stokes? A room with no recording devices.</content></utterance>
+<utterance uid="31-3"><speaker>STOKES</speaker><content>Okay. So what do you want from me?</content></utterance>
+<utterance uid="31-4"><speaker>GATES</speaker><content>We know that while you were married to your wife you were having an affair with Stacy Moore that produced a baby, Emma Riggs.  Have you been in touch with her, Mr. Stokes?</content></utterance>
+<utterance uid="31-5"><speaker>STOKES</speaker><content>No, I’ve – I’ve never seen her before.</content></utterance>
+<utterance uid="31-6"><speaker>GATES</speaker><content>What about her boyfriend, Angelo Vazquez? Have you been in touch with him?</content></utterance>
+<utterance uid="31-7"><speaker>STOKES</speaker><content>No. Is Emma in trouble?</content></utterance>
+<utterance uid="31-8"><speaker>BECKETT</speaker><content>Well, you could say that. She’s under arrest for murdering Angelo. But don’t worry. We know that she’s being framed for that murder.</content></utterance>
+<utterance uid="31-9"><speaker>STOKES</speaker><content>Who’s framing her?</content></utterance>
+<utterance uid="31-10"><speaker>BECKETT</speaker><content>Did you know that Angelo stole her adoption records form Saint Helena’s Home for Children?</content></utterance>
+<utterance uid="31-11"><speaker>STOKES</speaker><content>Saint Helena’s.  Stacy and I went there to make the arrangements. What was I supposed to do? Tell my wife I was having a baby with another woman? Thirty one years and not a day has gone by that I haven’t said to myself, I should try to find her. And not a day has gone by where I have then said, no, no, maybe tomorrow.  It’s her birthday.</content></utterance>
+<utterance uid="31-12"><speaker>BECKETT</speaker><content>You still haven’t answered my question. Did you know that Angelo stole those adoption records?</content></utterance>
+<utterance uid="31-13"><speaker>STOKES</speaker><content>What are you two getting at?</content></utterance>
+<utterance uid="31-14"><speaker>GATES</speaker><content>Look at it from our perspective, Mr. Stokes. The last thing you need right now is for some love child to emerge and destroy your marriage and any chance of running for public office.</content></utterance>
+<utterance uid="31-15"><speaker>STOKES</speaker><content>Are you suggesting that I had something to do with this?</content></utterance>
+<utterance uid="31-16"><speaker>BECKETT</speaker><content>We know that Angelo showed up at your home three days ago. Did you meet him then?</content></utterance>
+<utterance uid="31-17"><speaker>STOKES</speaker><content>I was in Chicago three days ago.</content></utterance>
+<utterance uid="31-18"><speaker>GATES</speaker><content>If that is true, then why did you pay to unseal Emma’s juvenile record?</content></utterance>
+<utterance uid="31-19"><speaker>STOKES</speaker><content>Where are you getting this?</content></utterance>
+<utterance uid="31-20"><speaker>BECKETT</speaker><content>From your lawyer, Mr. Stokes.</content></utterance>
+<utterance uid="31-21"><speaker>STOKES</speaker><content>What lawyer?</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>VANCE</speaker><content>Okay, this is borderline police harassment. If you continue to hold me here against my will you either need to –</content></utterance>
+<utterance uid="32-2"><speaker>ESPOSITO</speaker><content>Just wait. Before you get all lawyer-y, we already know everything.</content></utterance>
+<utterance uid="32-3"><speaker>RYAN</speaker><content>Starting with you being Aaron Stokes’s son-in-law.</content></utterance>
+<utterance uid="32-4"><speaker>VANCE</speaker><content>So?</content></utterance>
+<utterance uid="32-5"><speaker>RYAN</speaker><content>So, when your in-laws were out of town, you were staying at the Scarsdale house.</content></utterance>
+<utterance uid="32-6"><speaker>ESPOSITO</speaker><content>So when Angelo went to look for Mr. Stokes, he met you instead.</content></utterance>
+<utterance uid="32-7"><speaker>RYAN</speaker><content>That’s when he told you the story about Mr. Stokes’ long lost daughter, Emma.</content></utterance>
+<utterance uid="32-8"><speaker>VANCE</speaker><content>Look – look. Yes, I stayed at my father-in-law’s house. But I’ve never seen this guy before in my life.</content></utterance>
+<utterance uid="32-9"><speaker>RYAN</speaker><content>Are you sure? Because, well, this is security footage from inside Angelo’s apartment building, taken about an hour after his death down at Emma’s place.</content></utterance>
+<utterance uid="32-10"><speaker>ESPOSITO</speaker><content>Now, wait a minute. Who - who is that? That …  … that’s you.</content></utterance>
+<utterance uid="32-11"><speaker>RYAN</speaker><content>Using Angelo’s keys to get in. How’d you get those?</content></utterance>
+<utterance uid="32-12"><speaker>ESPOSITO</speaker><content>Huh.</content></utterance>
+<utterance uid="32-13"><speaker>RYAN</speaker><content>Now, I can only think of one reason you’d break in to his apartment, and that would be to find Emma’s adoption records to cover up any link back to your family.</content></utterance>
+<utterance uid="32-14"><speaker>ESPOSITO</speaker><content>Now, according to this video, you were inside the apartment searching for a good two hours. Damn. You didn’t think to look at the wrapped gift for Emma, did you?  Oops. Her adoption records.</content></utterance>
+<utterance uid="32-15"><speaker>RYAN</speaker><content>Up until then your plan was going perfectly. You spiked Emma’s scotch bottle with knockout drops and you swapped it for an empty one. It was pretty clever.</content></utterance>
+<utterance uid="32-16"><speaker>ESPOSITO</speaker><content>But not so perfectly to throw the dosed bottle away at your house. Yeah, we found the bottle in your recycle bin. It tested positive for chloral hydrate.</content></utterance>
+<utterance uid="32-17"><speaker>ESPOSITO</speaker><content>Oops again.</content></utterance>
+<utterance uid="32-18"><speaker>VANCE</speaker><content>All of this is circumstantial. I mean, what could possibly be my motive?</content></utterance>
+<utterance uid="32-19"><speaker>RYAN</speaker><content>Oh, your father-in-law helped us out with that one. Your law firm represents the Stokeses. Now, you knew they were about to transfer the majority of their wealth into a trust for their daughter. Your wife.</content></utterance>
+<utterance uid="32-20"><speaker>ESPOSITO</speaker><content>Now, you don’t want some Little Orphan Annie coming around, making a claim for half.</content></utterance>
+<utterance uid="32-21"><speaker>RYAN</speaker><content>That’s when you decided to kill the one man that knew the truth and frame it on the unknowing heir.</content></utterance>
+<utterance uid="32-22"><speaker>ESPOSITO</speaker><content>There’s just one thing that we’re not so sure about.</content></utterance>
+<utterance uid="32-23"><speaker>RYAN</speaker><content>Are you going to make a deal and plea to murder? Or are you going to take your chances in court?</content></utterance>
+<utterance uid="32-24"><speaker>ESPOSITO</speaker><content>Do lawyers have lawyers?</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>CASTLE</speaker><content>Emma?</content></utterance>
+<utterance uid="33-2"><speaker>CASTLE</speaker><content>He confessed. It’s over.</content></utterance>
+<utterance uid="33-3"><speaker>CASTLE</speaker><content>Bullet.</content></utterance>
+<utterance uid="33-4"><speaker>EMMA</speaker><content>Right. Sorry.</content></utterance>
+<utterance uid="33-5"><speaker>CASTLE</speaker><content>Um, I hope you don’t mind, but someone wants to meet you.</content></utterance>
+<utterance uid="33-6"><speaker>STOKES</speaker><content>I am Aaron.</content></utterance>
+<utterance uid="33-7"><speaker>EMMA</speaker><content>Emma.</content></utterance>
+<utterance uid="33-8"><speaker>STOKES</speaker><content>Happy birthday.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>GATES</speaker><content>Well, nice having you back.</content></utterance>
+<utterance uid="34-2"><speaker>BECKETT</speaker><content>Oh, it was nice being back, even if it was just for one day.</content></utterance>
+<utterance uid="34-3"><speaker>GATES</speaker><content>Mr. Stokes. What can we do for you?</content></utterance>
+<utterance uid="34-4"><speaker>STOKES</speaker><content>Earlier you two were only doing your jobs, but I assumed the worst and I’m sorry.</content></utterance>
+<utterance uid="34-5"><speaker>GATES</speaker><content>Well, how are you doing?</content></utterance>
+<utterance uid="34-6"><speaker>STOKES</speaker><content>I’m not really sure. I am going to be there for Emma this time. No matter what happens at her trial, she’s not going to be alone. Well, I should leave the both of you to your work. Captain, thank you.  For everything. You too, Detective. </content></utterance>
+<utterance uid="34-7"><speaker>BECKETT</speaker><content>Oh, actually, I’m not a detective, but ...</content></utterance>
+<utterance uid="34-8"><speaker>STOKES</speaker><content>You’re not?</content></utterance>
+<utterance uid="34-9"><speaker>GATES</speaker><content>Well, she should be. But your golfing buddy’s budget cuts have … gotten in the way.</content></utterance>
+<utterance uid="34-10"><speaker>STOKES</speaker><content>Really?</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>CASTLE</speaker><content>Wow. And to think you boys mocked me when I had this made four years ago. I think I’ll have it framed.</content></utterance>
+<utterance uid="35-2"><speaker>RYAN</speaker><content>Hey, what does it say about your writing when your number one fan tries to kill you?</content></utterance>
+<utterance uid="35-3"><speaker>CASTLE</speaker><content>That was an accident.</content></utterance>
+<utterance uid="35-4"><speaker>ESPOSITO</speaker><content>Bro, one inch higher and it would have been a tragedy.</content></utterance>
+<utterance uid="35-5"><speaker>CASTLE</speaker><content>But on the bright side, your autographed copies of Deadly Heat would be worth way more.</content></utterance>
+<utterance uid="35-6"><speaker>BECKETT</speaker><content>Not funny, Castle.</content></utterance>
+<utterance uid="35-7"><speaker>CASTLE</speaker><content>Little bit funny.</content></utterance>
+<utterance uid="35-8"><speaker>ESPOSITO</speaker><content>You know, Beckett, despite your fiancé’s near death, today was fun.</content></utterance>
+<utterance uid="35-9"><speaker>RYAN</speaker><content>Yeah. We miss working with you.</content></utterance>
+<utterance uid="35-10"><speaker>BECKETT</speaker><content>Good.  ‘cause I’m back.</content></utterance>
+<utterance uid="35-11"><speaker>CASTLE</speaker><content>What?</content></utterance>
+<utterance uid="35-12"><speaker>CASTLE</speaker><content>What – what about the Commissioner’s hiring freeze?</content></utterance>
+<utterance uid="35-13"><speaker>BECKETT</speaker><content>Mr. Stokes had a conversation with the Commissioner, and apparently he found some money.</content></utterance>
+<utterance uid="35-14"><speaker>CASTLE</speaker><content>So you are back.  Which means … I’m back.  Am – am I back?</content></utterance>
+<utterance uid="35-15"><speaker>BECKETT</speaker><content>Yes. Captain Gates said that you can serve as a consultant again.</content></utterance>
+<utterance uid="35-16"><speaker>CASTLE</speaker><content>But how does that – because now we’re in a –  – so, do we have to hide our relationship? To keep it a secret?</content></utterance>
+<utterance uid="35-17"><speaker>BECKETT</speaker><content>Well, the Commissioner is aware of it and said that it’s okay as long as we behave professionally in the workplace.  And Captain Gates said that that can be our engagement gift.</content></utterance>
+<utterance uid="35-18"><speaker>RYAN</speaker><content>Hey, everybody. Listen up. Beckett is back!</content></utterance>
+<utterance uid="35-19"><speaker>CASTLE</speaker><content>And tonight at The Old Haunt, drinks are on the house.</content></utterance>
+<utterance uid="35-20"><speaker>CASTLE</speaker><content> Congratulations.</content></utterance>
+<utterance uid="35-21"><speaker>BECKETT</speaker><content>Thank you.</content></utterance>
+<utterance uid="35-22"><speaker>CASTLE</speaker><content>Whoa. Actually, no. We can’t. Not here. It’s inappropriate.  This is the workplace. We’ve gotta be professional.</content></utterance>
+<utterance uid="35-23"><speaker>BECKETT</speaker><content>Ah, well, you know I’m not officially back until tomorrow.</content></utterance>
+<utterance uid="35-24"><speaker>CASTLE</speaker><content>I see.</content></utterance>
+<utterance uid="35-25"><speaker>THE END</speaker><content>CASTLE</content></utterance>
+</scene>
+</script>

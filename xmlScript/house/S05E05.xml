@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>Spencer</speaker><content>Wow.</content></utterance>
+<utterance uid="1-2"><speaker>Thirteen</speaker><content>Yeah.</content></utterance>
+<utterance uid="1-3"><speaker>Spencer</speaker><content>Come back to bed.</content></utterance>
+<utterance uid="1-4"><speaker>Thirteen</speaker><content>Gimme a minute.</content></utterance>
+<utterance uid="1-5"><speaker>Spencer</speaker><content>You get 20 seconds.</content></utterance>
+<utterance uid="1-6"><speaker>Thirteen</speaker><content>Hey, what are you—</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>EMT</speaker><content>Female, late 20s, tonic clonic seizure.</content></utterance>
+<utterance uid="2-2"><speaker>Cameron</speaker><content>Duration of the seizure?</content></utterance>
+<utterance uid="2-3"><speaker>Thirteen</speaker><content>A little over three minutes.</content></utterance>
+<utterance uid="2-4"><speaker>Cameron</speaker><content>Does your friend have a history of epilepsy?</content></utterance>
+<utterance uid="2-5"><speaker>Thirteen</speaker><content>She never said.</content></utterance>
+<utterance uid="2-6"><speaker>Cameron</speaker><content> My name is Dr. Cameron. You're in a hospital. We’re gonna take care of you.  What’s her name?</content></utterance>
+<utterance uid="2-7"><speaker>Thirteen</speaker><content>I don't know.</content></utterance>
+</scene>
+
+<scene id="3"><utterance uid="3-1"><speaker>Cameron</speaker><content>House.</content></utterance>
+<utterance uid="3-2"><speaker>House</speaker><content> Eh.</content></utterance>
+<utterance uid="3-3"><speaker>Cameron</speaker><content> I have a case I think you might be interested in.</content></utterance>
+<utterance uid="3-4"><speaker>House</speaker><content> Not now.</content></utterance>
+<utterance uid="3-5"><speaker>Cameron</speaker><content>A 26-year-old woman had a tonic clonic seizure.</content></utterance>
+<utterance uid="3-6"><speaker>House</speaker><content>What about me speeding away says to you "let's chat"?</content></utterance>
+<utterance uid="3-7"><speaker>Cameron</speaker><content>History of fatigue, and two years ago she had a retinal vein occlusion.</content></utterance>
+<utterance uid="3-8"><speaker>House</speaker><content>She’s diabetic.</content></utterance>
+<utterance uid="3-9"><speaker>Cameron</speaker><content>No, she's not. And she has no history of hypertension. </content></utterance>
+<utterance uid="3-10"><speaker>House</speaker><content> It can wait.</content></utterance>
+<utterance uid="3-11"><speaker>House</speaker><content>I knew I should've set up a video camera. Stay there.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>House</speaker><content>Oh, my goodness. I played a practical joke on my best friend, and he's badly injured.</content></utterance>
+<utterance uid="4-2"><speaker>House</speaker><content>I wish I had learned this valuable lesson earlier. I was waiting by my window for an hour. Why are you late?</content></utterance>
+<utterance uid="4-3"><speaker>Wilson</speaker><content>I had a breakfast meeting at Mickey’s Diner with the Mercy people to tell them…  I’m coming back to work here.  Sorry if it interfered with your plan to maim me.  Donut’s a nice touch. </content></utterance>
+<utterance uid="4-4"><speaker>House</speaker><content> It’s my way of saying "welcome back." </content></utterance>
+<utterance uid="4-5"><speaker>Cameron</speaker><content>The seizure could be the result of dehydration or something neurological. </content></utterance>
+<utterance uid="4-6"><speaker>House</speaker><content> Or the ecstasy you found in her system.</content></utterance>
+<utterance uid="4-7"><speaker>Cameron</speaker><content>According to Dr. Hadley, the patient took the drugs about five hours before the seizure, so…</content></utterance>
+<utterance uid="4-8"><speaker>House</speaker><content> What does Thirteen know about it?</content></utterance>
+<utterance uid="4-9"><speaker>Cameron</speaker><content>Uh, apparently she was with the patient last night.</content></utterance>
+<utterance uid="4-10"><speaker>House</speaker><content> At 3:00 AM? </content></utterance>
+<utterance uid="4-11"><speaker>House</speaker><content> Oh, yeah! Penthouse forum meets medical mystery. Maybe there is a God. </content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>House</speaker><content>Empty transient sex?  I’ve been waiting for you to spiral out of control, ever since you got your Huntington’s diagnosis, but this is more than I dared hope for.</content></utterance>
+<utterance uid="5-2"><speaker>Thirteen</speaker><content>Patient’s seizure resulted from dehydration, which resulted from a cocktail of alcohol and ecstasy. Mystery solved.</content></utterance>
+<utterance uid="5-3"><speaker>Foreman</speaker><content> Wait. Were you doing drugs?</content></utterance>
+<utterance uid="5-4"><speaker>Thirteen</speaker><content>Not diagnostically relevant.</content></utterance>
+<utterance uid="5-5"><speaker>House</speaker><content>Depends what we're trying to diagnose. It’s how steep of a spiral you're on.</content></utterance>
+<utterance uid="5-6"><speaker>Taub</speaker><content>Our patient hemorrhaged into her eye two years ago.</content></utterance>
+<utterance uid="5-7"><speaker>Thirteen</speaker><content>Also not diagnostically relevant. Retinal vein occlusion was fixed. Her doctor said it was a venous anomaly.</content></utterance>
+<utterance uid="5-8"><speaker>House</speaker><content>Is he in this room? Because if he's not, I don't care what he thinks. Unless he's a she and she was there last night too, in which case I care very deeply.</content></utterance>
+<utterance uid="5-9"><speaker>Foreman</speaker><content>What if the eye problem wasn't with her vein, but with her blood? Would explain why she seized, why she's always tired.</content></utterance>
+<utterance uid="5-10"><speaker>Thirteen</speaker><content>She parties till 3:00 AM. That’s why she's always tired.</content></utterance>
+<utterance uid="5-11"><speaker>House</speaker><content>Yet you seem fine.</content></utterance>
+<utterance uid="5-12"><speaker>Thirteen</speaker><content> She’s visited four other doctors in the past year. None of them found anything. She’s a hypochondriac who drank too much.</content></utterance>
+<utterance uid="5-13"><speaker>Kutner</speaker><content>Blood clots could explain everything.</content></utterance>
+<utterance uid="5-14"><speaker>Taub</speaker><content>Makes sense. Bone marrow’s in overdrive. Too many platelets.  Sorry.</content></utterance>
+<utterance uid="5-15"><speaker>House</speaker><content>Thirteen, go stick a needle in your girlfriend's pelvis. And no, that one wasn't a metaphor. Suck out some marrow. That one was.</content></utterance>
+<utterance uid="5-16"><speaker>House</speaker><content>I like to watch. </content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>Thirteen</speaker><content>I can handle this alone.</content></utterance>
+<utterance uid="6-2"><speaker>House</speaker><content>You’ve already handled it. That’s why you need a chaperone. Of course, I’m a very permissive, understanding chaperone. So feel free to ignore me.</content></utterance>
+<utterance uid="6-3"><speaker>House</speaker><content>You know, if you're in the mood to start kissing, or groping, or showering.</content></utterance>
+<utterance uid="6-4"><speaker>Thirteen</speaker><content> You’ll have to excuse Dr. House. He mistakes immaturity for edginess.</content></utterance>
+<utterance uid="6-5"><speaker>Spencer</speaker><content>You’re Dr. House?</content></utterance>
+<utterance uid="6-6"><speaker>House</speaker><content>I assume my name came up last night in the form of a moan. You had sex, then a seizure. Could be a particular position or activity that set it off.  That sounds like a valid medical theory, doesn't it?</content></utterance>
+<utterance uid="6-7"><speaker>Thirteen</speaker><content>I’m really sorry. Just ignore him.</content></utterance>
+<utterance uid="6-8"><speaker>Spencer</speaker><content>Whatever you think we did, we — we did. And then some.</content></utterance>
+<utterance uid="6-9"><speaker>House</speaker><content>Lights on or off?</content></utterance>
+<utterance uid="6-10"><speaker>Thirteen</speaker><content>Do you have a medical rationalization for that one?</content></utterance>
+<utterance uid="6-11"><speaker>House</speaker><content>Light sensitivity.</content></utterance>
+<utterance uid="6-12"><speaker>Spencer</speaker><content>On.</content></utterance>
+<utterance uid="6-13"><speaker>House</speaker><content>Figured she had more shame than that. Did she talk dirty, or did you rely on vague hand signals? </content></utterance>
+<utterance uid="6-14"><speaker>Spencer</speaker><content>She’s, uh, pretty direct about what she wants.</content></utterance>
+<utterance uid="6-15"><speaker>House</speaker><content>I’m learning so much.</content></utterance>
+<utterance uid="6-16"><speaker>House</speaker><content>Okay, score the score. Scale of one to ten.</content></utterance>
+<utterance uid="6-17"><speaker>Thirteen</speaker><content> Don’t answer.</content></utterance>
+<utterance uid="6-18"><speaker>Spencer</speaker><content> Seven.</content></utterance>
+<utterance uid="6-19"><speaker>House</speaker><content> Finally got one right. </content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>Lucas</speaker><content>You want to investigate him because he ate a donut?</content></utterance>
+<utterance uid="7-2"><speaker>House</speaker><content>He claimed he had a morning meeting at Mickey’s Diner. Wilson loves Mickey’s Diner. He has the French toast tower whenever he sets foot in the door. There’s no way he would've come to work wanting more carbs. He lied to me. I need to know why.</content></utterance>
+<utterance uid="7-3"><speaker>Lucas</speaker><content>What do you think you'll find out?</content></utterance>
+<utterance uid="7-4"><speaker>House</speaker><content>I’m worried that he might be, a spy.</content></utterance>
+<utterance uid="7-5"><speaker>Lucas</speaker><content>He’s been gone four months. You're worried the friendship has changed.</content></utterance>
+<utterance uid="7-6"><speaker>House</speaker><content>I’m just not sure if he's working for Hirohito or the New England Patriots.</content></utterance>
+<utterance uid="7-7"><speaker>Lucas</speaker><content>You played a practical joke on him. He didn't laugh.</content></utterance>
+<utterance uid="7-8"><speaker>House</speaker><content>I need something to lord over him, a lie —</content></utterance>
+<utterance uid="7-9"><speaker>Lucas</speaker><content>He didn't try to retaliate. He moralized.</content></utterance>
+<utterance uid="7-10"><speaker>House</speaker><content>He always moralized.</content></utterance>
+<utterance uid="7-11"><speaker>Lucas</speaker><content>He always moralized and got even. He hasn't fired back.</content></utterance>
+<utterance uid="7-12"><speaker>House</speaker><content>Things always change.</content></utterance>
+<utterance uid="7-13"><speaker>Lucas</speaker><content>And that sucks.</content></utterance>
+<utterance uid="7-14"><speaker>House</speaker><content>Yeah. Find out where he was. </content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>Thirteen</speaker><content> Should’ve known it wasn't a coincidence.  Found your letters. You recognized House's name. And you're the first patient I’ve seen who actually enjoyed being accosted by him. </content></utterance>
+<utterance uid="8-2"><speaker>Spencer</speaker><content>I would've told you, but —</content></utterance>
+<utterance uid="8-3"><speaker>Thirteen</speaker><content>What exactly would you have told me? That you slept with me to get to House? That you've been trying to get him to take your case for over a year?</content></utterance>
+<utterance uid="8-4"><speaker>Spencer</speaker><content>I’m sick. No one even wrote back.</content></utterance>
+<utterance uid="8-5"><speaker>Thirteen</speaker><content>You used me.</content></utterance>
+<utterance uid="8-6"><speaker>Spencer</speaker><content>You used me.</content></utterance>
+<utterance uid="8-7"><speaker>Thirteen</speaker><content>My motives were clear.</content></utterance>
+<utterance uid="8-8"><speaker>Spencer</speaker><content>You might've figured out my motives faster if you bothered to ask my name.  I followed you to that bar because I wanted to talk to you. See if you'd help me get to House. I didn't expect you to be so aggressive.</content></utterance>
+<utterance uid="8-9"><speaker>Thirteen</speaker><content>Was that seizure even real?</content></utterance>
+<utterance uid="8-10"><speaker>Spencer</speaker><content>Why would I fake a symptom? It would just make it harder for House to diagnose me.</content></utterance>
+<utterance uid="8-11"><speaker>Thirteen</speaker><content>There’s nothing to diagnose. Your biopsy results are negative.</content></utterance>
+<utterance uid="8-12"><speaker>Spencer</speaker><content>Then it's something else.</content></utterance>
+<utterance uid="8-13"><speaker>Thirteen</speaker><content>Get dressed.  I’m discharging you.</content></utterance>
+<utterance uid="8-14"><speaker>Spencer</speaker><content>House admitted me. He obviously thinks —</content></utterance>
+<utterance uid="8-15"><speaker>Thirteen</speaker><content>House is using you as an excuse to stick his nose in my personal life.</content></utterance>
+<utterance uid="8-16"><speaker>Spencer</speaker><content>I’m tired all the time. Some nights I fall asleep at 10:00 and wake up at noon, still tired. Every doctor I see tells me there's nothing wrong.</content></utterance>
+<utterance uid="8-17"><speaker>Thirteen</speaker><content>And that proves what, exactly? That they're wrong, or that you're wrong?</content></utterance>
+<utterance uid="8-18"><speaker>Thirteen</speaker><content>Oh, come on. You expect me to believe —  Sit back. Deep breaths. Try and relax.</content></utterance>
+<utterance uid="8-19"><speaker>Thirteen</speaker><content> Get the paddles. She’s gonna crash. Damn.</content></utterance>
+<utterance uid="8-20"><speaker>Thirteen</speaker><content>We had to use paddles to stabilize the patient's heart.</content></utterance>
+<utterance uid="8-21"><speaker>House</speaker><content>Eye issue, brain issue, now a heart issue. Sounds like a real case to me.</content></utterance>
+<utterance uid="8-22"><speaker>Thirteen</speaker><content>Yeah, I get it. I was wrong. Can we move on?</content></utterance>
+<utterance uid="8-23"><speaker>House</speaker><content>You’re just upset… Because the whole time she was with you, she was thinking of my huge, throbbing… Diagnostic skills. Drugs would explain everything.</content></utterance>
+<utterance uid="8-24"><speaker>Taub</speaker><content>This morning, you rejected drugs.</content></utterance>
+<utterance uid="8-25"><speaker>House</speaker><content>That’s when I thought that Thirteen was right and was just jerking her around. Cardiac arrest means she could be a serious user.</content></utterance>
+<utterance uid="8-26"><speaker>Thirteen</speaker><content>Great.</content></utterance>
+<utterance uid="8-27"><speaker>Foreman</speaker><content>What?</content></utterance>
+<utterance uid="8-28"><speaker>Thirteen</speaker><content>That means that something she did at my place set this off. Either she brought drugs in, or she grabbed something from my medicine cabinet. And that means my place needs to be searched. Now, I’d be happy to do that myself, but unfortunately that would be far less titillating for House, so he's about to come up with some convoluted medical reason why I have to stay here while he goes through my stuff.</content></utterance>
+<utterance uid="8-29"><speaker>House</speaker><content>Patient’s dad had bypass surgery. Means she's a candidate for atherosclerosis. She needs an ultrasound. That was much less convoluted than what you just said.</content></utterance>
+<utterance uid="8-30"><speaker>Thirteen</speaker><content>I’m not giving you my keys. If you want to do this, I’m going.</content></utterance>
+<utterance uid="8-31"><speaker>House</speaker><content>Who could pick a lock?</content></utterance>
+<utterance uid="8-32"><speaker>Foreman</speaker><content>I’ll go. Make sure he doesn't steal any underwear.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>House</speaker><content>You’re a disgrace to your stereotype. Move over.</content></utterance>
+<utterance uid="9-2"><speaker>Foreman</speaker><content>Think you can pick a lock faster than me?</content></utterance>
+<utterance uid="9-3"><speaker>House</speaker><content>No need to pick. </content></utterance>
+<utterance uid="9-4"><speaker>Foreman</speaker><content>Nice. Steal from your employees.</content></utterance>
+<utterance uid="9-5"><speaker>House</speaker><content>Never. I had my dick make keys when I hired him to dick up the team.</content></utterance>
+<utterance uid="9-6"><speaker>House</speaker><content>Always imagined she'd have a sex swing in the living room.</content></utterance>
+<utterance uid="9-7"><speaker>Foreman</speaker><content>Give me my key.</content></utterance>
+<utterance uid="9-8"><speaker>House</speaker><content>Don’t have your key.</content></utterance>
+<utterance uid="9-9"><speaker>Foreman</speaker><content>You expect me to believe that you hired Lucas to investigate everyone except for me?</content></utterance>
+<utterance uid="9-10"><speaker>House</speaker><content>Waste of money.</content></utterance>
+<utterance uid="9-11"><speaker>Foreman</speaker><content>I already know everything about you.</content></utterance>
+<utterance uid="9-12"><speaker>House</speaker><content> Thirteen had her purse. That’s gotta be the patient's. Check it for drugs. I call shotgun on the bedroom.</content></utterance>
+<utterance uid="9-13"><speaker>Foreman</speaker><content>You know that I stole a car when I was a teenager. You know that my mom has Alzheimer’s. You know nothing else. </content></utterance>
+<utterance uid="9-14"><speaker>House</speaker><content>Want me to have you investigated? When did you get so needy?</content></utterance>
+<utterance uid="9-15"><speaker>Foreman</speaker><content>Not needy. Just don't buy it. You always want more information about people. Look where we are.</content></utterance>
+<utterance uid="9-16"><speaker>Foreman</speaker><content>Purse is clean.</content></utterance>
+<utterance uid="9-17"><speaker>House</speaker><content>Last night wasn't the first time that Thirteen brought home some strange.</content></utterance>
+<utterance uid="9-18"><speaker>Foreman</speaker><content>You found her diary —</content></utterance>
+<utterance uid="9-19"><speaker>House</speaker><content>No toys. You sleep with the same person over and over, that's when you need accessories. First time is plenty exciting on its own.  Unless…</content></utterance>
+<utterance uid="9-20"><speaker>House</speaker><content>You think an asthma inhaler could be used as a sex toy? </content></utterance>
+<utterance uid="9-21"><speaker>Foreman</speaker><content>There are ways of getting to know people without committing felonies.</content></utterance>
+<utterance uid="9-22"><speaker>House</speaker><content>People interest me. Conversations don't.</content></utterance>
+<utterance uid="9-23"><speaker>Foreman</speaker><content>Because conversations go both ways.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>House</speaker><content> Brown recluse. Found it at your apartment. Their venom can cause seizures and heart problems. Unless the ultrasound showed anything —</content></utterance>
+<utterance uid="10-2"><speaker>Thirteen</speaker><content>No. What room did you find it in?</content></utterance>
+<utterance uid="10-3"><speaker>House</speaker><content>Bathroom. Nice bidet, by the way. Very refreshing.</content></utterance>
+<utterance uid="10-4"><speaker>Thirteen</speaker><content>I don't have a bidet.</content></utterance>
+<utterance uid="10-5"><speaker>House</speaker><content>Oh. Spider’s not the only interesting thing I found. </content></utterance>
+<utterance uid="10-6"><speaker>Thirteen</speaker><content>Yeah, my inhaler is fascinating. It’s got its own extensive online following.</content></utterance>
+<utterance uid="10-7"><speaker>Taub</speaker><content>You have asthma?</content></utterance>
+<utterance uid="10-8"><speaker>Thirteen</speaker><content>When I was a kid. It started acting up again when I moved into my new place.</content></utterance>
+<utterance uid="10-9"><speaker>Kutner</speaker><content>You moved?</content></utterance>
+<utterance uid="10-10"><speaker>Thirteen</speaker><content>Who cares?</content></utterance>
+<utterance uid="10-11"><speaker>House</speaker><content>He doesn't. He’s just surprised he didn't know. You withhold things other people would never bother to. The move, a little wheeze, whatever you thought was in my pocket instead of your inhaler. Maybe I should make a return trip to your place.</content></utterance>
+<utterance uid="10-12"><speaker>Kutner</speaker><content>Spider bite doesn't explain anything unless the patient was actually bitten by a spider.  I’ll do the exam.</content></utterance>
+<utterance uid="10-13"><speaker>House</speaker><content>Don’t be ridiculous. That would be inappropriate. It’d be better if a woman gropes her. There’s no sexual tension that way. </content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>Thirteen</speaker><content>I need you to stand up and take off your gown.</content></utterance>
+<utterance uid="11-2"><speaker>Spencer</speaker><content>I think I would've felt a spider biting me.</content></utterance>
+<utterance uid="11-3"><speaker>Thirteen</speaker><content>Not necessarily.</content></utterance>
+<utterance uid="11-4"><speaker>Spencer</speaker><content> You really need those after everything we did the other night?</content></utterance>
+<utterance uid="11-5"><speaker>Thirteen</speaker><content>The other night I wasn't your doctor. </content></utterance>
+<utterance uid="11-6"><speaker>Spencer</speaker><content>How long are you gonna stay mad at me?</content></utterance>
+<utterance uid="11-7"><speaker>Thirteen</speaker><content>How long are you going to be here?</content></utterance>
+<utterance uid="11-8"><speaker>Spencer</speaker><content>Oh. Okay, then.</content></utterance>
+<utterance uid="11-9"><speaker>Thirteen</speaker><content> Look… I really had no intention of ever seeing you again.</content></utterance>
+<utterance uid="11-10"><speaker>Spencer</speaker><content>So… Having me end up here is a little less than ideal. I get it. But… We just met. How’d you know you didn't want to see me again?</content></utterance>
+<utterance uid="11-11"><speaker>Thirteen</speaker><content>It’s nothing personal. I’m just really not that into repeat performances.</content></utterance>
+<utterance uid="11-12"><speaker>Spencer</speaker><content>I figured I wasn't the first girl you cruised.</content></utterance>
+<utterance uid="11-13"><speaker>Thirteen</speaker><content>Why is that?</content></utterance>
+<utterance uid="11-14"><speaker>Spencer</speaker><content>You’re awfully good at it.</content></utterance>
+<utterance uid="11-15"><speaker>Thirteen</speaker><content>You’d think with all that experience that I’d be better than a seven. </content></utterance>
+<utterance uid="11-16"><speaker>Spencer</speaker><content>We just met. We were both drunk. Not like there wasn't potential.  Little more practice for the both of us, I’d say we're looking at a nine. Easy.  But that would require a repeat performance.  You didn't have to move your hand.</content></utterance>
+<utterance uid="11-17"><speaker>Thirteen</speaker><content>I didn't. My hand's on your hip. You don't feel that? </content></utterance>
+<utterance uid="11-18"><speaker>Spencer</speaker><content>No. What does that mean?</content></utterance>
+<utterance uid="11-19"><speaker>Thirteen</speaker><content>It means it's not a spider bite.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>Thirteen</speaker><content>Blood test confirms low potassium levels. Explains the numbness in her hip. It’s not good, but I think we've got time for at least one or two comments about my personal life.</content></utterance>
+<utterance uid="12-2"><speaker>House</speaker><content>Which you just wasted with that comment about my comments. Low potassium means her heart problem was a symptom of a kidney problem. What caused the kidney problem?</content></utterance>
+<utterance uid="12-3"><speaker>Thirteen</speaker><content>Could be IgA nephropathy.</content></utterance>
+<utterance uid="12-4"><speaker>House</speaker><content>Not without blood in the urine.</content></utterance>
+<utterance uid="12-5"><speaker>Thirteen</speaker><content>PSAGN?</content></utterance>
+<utterance uid="12-6"><speaker>House</speaker><content>Not with normal blood pressure.</content></utterance>
+<utterance uid="12-7"><speaker>Thirteen</speaker><content>Renal tubular acidosis. Her kidney's don't filter acid out of the blood. Excess acid drives down potassium, causes kidney calcifications.</content></utterance>
+<utterance uid="12-8"><speaker>House</speaker><content>If it's RTA, all she needs is sodium bicarbonate for the acid and surgery to remove the calcifications. CT her kidneys. If you find calcifications, we have our diagnosis. </content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>House</speaker><content>What’s he doing now?</content></utterance>
+<utterance uid="13-2"><speaker>Lucas</speaker><content>He’s playing that carjacking video game. He’d get a lot farther if he didn't stop at all the red lights.</content></utterance>
+<utterance uid="13-3"><speaker>House</speaker><content>Maybe he was doing something he thinks I’ll mock him for.</content></utterance>
+<utterance uid="13-4"><speaker>Lucas</speaker><content>Like…</content></utterance>
+<utterance uid="13-5"><speaker>House</speaker><content>Just about anything.</content></utterance>
+<utterance uid="13-6"><speaker>Lucas</speaker><content>You don't think it's that.</content></utterance>
+<utterance uid="13-7"><speaker>House</speaker><content>I don't think it's just about anything?</content></utterance>
+<utterance uid="13-8"><speaker>Lucas</speaker><content>You don't think it's about anything trivial. If you weren't worried, you wouldn't be sitting in my car.</content></utterance>
+<utterance uid="13-9"><speaker>House</speaker><content>Maybe he's seeing a shrink.</content></utterance>
+<utterance uid="13-10"><speaker>House</speaker><content>Doesn’t matter if it isn't. Wilson doesn't buy his “pizza.” There’s eight units in this building. There’s got to be a pervert like me living in at least one of them.</content></utterance>
+<utterance uid="13-11"><speaker>Lucas</speaker><content>Yes, because you represent one out of every eight people living in this country.  Apparently he has developed a taste for pizza. </content></utterance>
+<utterance uid="13-12"><speaker>Lucas</speaker><content>Ah, things change.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>Taub</speaker><content>CT shows one more calcification near the superior pyramid on the left kidney.</content></utterance>
+<utterance uid="14-2"><speaker>Chase</speaker><content>See it.</content></utterance>
+<utterance uid="14-3"><speaker>Foreman</speaker><content>That, um, thing, you were hoping House didn't find at your place. I, uh, I found it. </content></utterance>
+<utterance uid="14-4"><speaker>Foreman</speaker><content>You did the CAG test two weeks ago. A number this high means you have less time than you thought. It’s understandable you'd be upset. Doesn’t mean you have to self-destruct.</content></utterance>
+<utterance uid="14-5"><speaker>Thirteen</speaker><content>It’s not noble for you to protect me from House if you're just gonna judge —</content></utterance>
+<utterance uid="14-6"><speaker>Foreman</speaker><content>There are things you should be doing. Working out, improving balance and coordination.</content></utterance>
+<utterance uid="14-7"><speaker>Thirteen</speaker><content>Yeah, that sounds like a blast. I’m having fun. Cramming as much life into my life as I can.</content></utterance>
+<utterance uid="14-8"><speaker>Foreman</speaker><content>You’re doing drugs.  Staying up all night, having sex with strangers.</content></utterance>
+<utterance uid="14-9"><speaker>Thirteen</speaker><content>It sounds fun to me. Good night. </content></utterance>
+<utterance uid="14-10"><speaker>Chase</speaker><content>Close the incisions.</content></utterance>
+<utterance uid="14-11"><speaker>Taub</speaker><content>She won't even have a scar.</content></utterance>
+<utterance uid="14-12"><speaker>Chase</speaker><content>Her 02 stats are dropping.</content></utterance>
+<utterance uid="14-13"><speaker>Taub</speaker><content>Did you nick something?</content></utterance>
+<utterance uid="14-14"><speaker>Chase</speaker><content>Procedure was clean. BP's strong.</content></utterance>
+<utterance uid="14-15"><speaker>Taub</speaker><content>Well, she's not breathing. We need to intubate. </content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>Taub</speaker><content>The breathing problem started after we fixed her kidney problem. Means the RTA isn't the underlying cause.</content></utterance>
+<utterance uid="15-2"><speaker>House</speaker><content>Where’s Thirteen?</content></utterance>
+<utterance uid="15-3"><speaker>Foreman</speaker><content>Traffic’s bad. She’s probably just —</content></utterance>
+<utterance uid="15-4"><speaker>House</speaker><content>Not here.</content></utterance>
+<utterance uid="15-5"><speaker>Taub</speaker><content>It’s not her lungs. No masses, no infiltrates.</content></utterance>
+<utterance uid="15-6"><speaker>House</speaker><content>Her lungs are working, but she still can't breathe.</content></utterance>
+<utterance uid="15-7"><speaker>Kutner</speaker><content>Distribution plant can't distribute if it's not getting deliveries. If her lungs are fine, maybe the problem's in the supply line. Airway collapse.</content></utterance>
+<utterance uid="15-8"><speaker>Taub</speaker><content>That could signal autoimmune or some kind of dystrophy as the underlying cause.</content></utterance>
+<utterance uid="15-9"><speaker>House</speaker><content>There’s only one way to find out if her airway failed. Make it happen again. Stick Thirteen's carpet cleaner on a treadmill. Methacholine challenge. And someone find the carpet. </content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>Thirteen</speaker><content>Exam going on. 15 minutes.</content></utterance>
+<utterance uid="16-2"><speaker>Cuddy</speaker><content>Good morning, Dr. Hadley.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>Foreman</speaker><content>Just spoke to my brother.</content></utterance>
+<utterance uid="17-2"><speaker>House</speaker><content>And by brother, you mean?</content></utterance>
+<utterance uid="17-3"><speaker>Foreman</speaker><content>I mean my parents' other son.</content></utterance>
+<utterance uid="17-4"><speaker>House</speaker><content>Wow. Same dad.</content></utterance>
+<utterance uid="17-5"><speaker>Foreman</speaker><content>Got a call last week from your PI. You lied. You did have me investigated. You’ve been taunting the team with what you've learned, but you never came after me.  Means you couldn't find anything.</content></utterance>
+<utterance uid="17-6"><speaker>House</speaker><content>You’re right.</content></utterance>
+<utterance uid="17-7"><speaker>House</speaker><content>That’s because you haven't done anything stupid, spontaneous, or even vaguely interesting since you were 17. And that's just sad. </content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>Cuddy</speaker><content> I found her in the clinic giving herself IV fluids.</content></utterance>
+<utterance uid="18-2"><speaker>House</speaker><content>At least you could've let her finish. She looks terrible.</content></utterance>
+<utterance uid="18-3"><speaker>Cuddy</speaker><content>She has a fresh nightclub stamp on her wrist. She’s in no condition to practice.</content></utterance>
+<utterance uid="18-4"><speaker>House</speaker><content>Unless this is a prelude to an actual spanking, there's no reason for me to be —</content></utterance>
+<utterance uid="18-5"><speaker>Cuddy</speaker><content>I want her to take a drug test.</content></utterance>
+<utterance uid="18-6"><speaker>Thirteen</speaker><content>You can't make me do that.</content></utterance>
+<utterance uid="18-7"><speaker>Cuddy</speaker><content>But I can suspend you until you do.</content></utterance>
+<utterance uid="18-8"><speaker>House</speaker><content> Because she went to a nightclub in her free time? Or because she had sex in her free time? Patient was undergoing routine surgery for RTA. Didn’t need Thirteen here for that. And I don't need you making my employees punch a clock or pee in a cup.  Let’s go. </content></utterance>
+<utterance uid="18-9"><speaker>House</speaker><content> Come on. </content></utterance>
+<utterance uid="18-10"><speaker>Thirteen</speaker><content> Thank you.</content></utterance>
+<utterance uid="18-11"><speaker>House</speaker><content>By the way,  the surgery was not routine, patient stopped breathing and you missed a differential. You’re fired.</content></utterance>
+<utterance uid="18-12"><speaker>Thirteen</speaker><content>What? You just defended me.</content></utterance>
+<utterance uid="18-13"><speaker>House</speaker><content>No, I just prevented you from getting a drug test. Probably saved your career. I’m already taking responsibility for one doctor with a drug habit. </content></utterance>
+<utterance uid="18-14"><speaker>Thirteen</speaker><content>I don't have a drug habit.</content></utterance>
+<utterance uid="18-15"><speaker>House</speaker><content>The slutty party girl is fun till she pukes on your shoes. Then she's just a pain in the ass. </content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>House</speaker><content>I haven't sat on this couch for four months. It remembers my cheeks. I miss this.</content></utterance>
+<utterance uid="19-2"><speaker>Wilson</speaker><content>Me too. Me trying to work. You interrupting.</content></utterance>
+<utterance uid="19-3"><speaker>House</speaker><content>Oh, come on. Your patients can wait five minutes. Get me caught up. Come on, what did you do? Travel? Did you get a new hobby? Did you meet someone?</content></utterance>
+<utterance uid="19-4"><speaker>Wilson</speaker><content>Actually, yes. I sort of, started, dating someone.</content></utterance>
+<utterance uid="19-5"><speaker>House</speaker><content>Great. What does she do? Is she… an actress?</content></utterance>
+<utterance uid="19-6"><speaker>Wilson</speaker><content>No. Why would you think that?</content></utterance>
+<utterance uid="19-7"><speaker>House</speaker><content>I just figured you'd want something a little more… Exciting…</content></utterance>
+<utterance uid="19-8"><speaker>Wilson</speaker><content>She’s not… You’re gonna find out anyway because you're gonna meet her. She’s… a prostitute. Used to be. She made some mistakes. Single mom, had some drug issues. But… she's so smart. She wants to go to law school. And… I told her I’d help her with tuition.</content></utterance>
+<utterance uid="19-9"><speaker>House</speaker><content>How long have you known her?</content></utterance>
+<utterance uid="19-10"><speaker>Wilson</speaker><content>I knew you'd be like this.</content></utterance>
+<utterance uid="19-11"><speaker>House</speaker><content>I asked a question.</content></utterance>
+<utterance uid="19-12"><speaker>Wilson</speaker><content>House… You are a drug addict. You go to prostitutes. You can't be judgmental.</content></utterance>
+<utterance uid="19-13"><speaker>House</speaker><content>And yet.</content></utterance>
+<utterance uid="19-14"><speaker>Wilson</speaker><content>Please, don't do this to me. I was hurting, and I wanted to feel good. I didn't expect it… to go this way. I… Amber… Said that she wanted me to move on. That she wanted me to… Be happy. And — Debbie, makes me happy.</content></utterance>
+<utterance uid="19-15"><speaker>House</speaker><content>If you're happy, I’m… </content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>Foreman</speaker><content>I heard.</content></utterance>
+<utterance uid="20-2"><speaker>Thirteen</speaker><content>Yeah. I’m looking for my ticket back.</content></utterance>
+<utterance uid="20-3"><speaker>Foreman</speaker><content>Sorry if I upset you. I didn't want to invade your privacy.</content></utterance>
+<utterance uid="20-4"><speaker>Thirteen</speaker><content>It wasn't your fault. Can you get me caught up?</content></utterance>
+<utterance uid="20-5"><speaker>Foreman</speaker><content>Think you're gonna find something we didn't?</content></utterance>
+<utterance uid="20-6"><speaker>Thirteen</speaker><content>It’s good for the patient. Good for me.</content></utterance>
+<utterance uid="20-7"><speaker>Foreman</speaker><content>Films are clean. We ruled out hypertension. Guys have her on a treadmill running a methacholine challenge. And I still think you've been acting like an idiot.</content></utterance>
+<utterance uid="20-8"><speaker>Thirteen</speaker><content>I know. Did you talk about whether this lung field looks a little dark?</content></utterance>
+<utterance uid="20-9"><speaker>Foreman</speaker><content>It’s probably just over-exposed.</content></utterance>
+<utterance uid="20-10"><speaker>Thirteen</speaker><content>Or her diaphragm's a little flat. Could be a sign of hyperinflation.</content></utterance>
+<utterance uid="20-11"><speaker>Foreman</speaker><content>Suggests a pulmonary obstruction.</content></utterance>
+<utterance uid="20-12"><speaker>Thirteen</speaker><content>Lung cysts. They wouldn't show up on an X-ray. Treadmill test isn't gonna close her airway. It’ll make her lungs explode.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>Kutner</speaker><content>Her throat's fine. We made her airway collapse, but it's not collapsed.</content></utterance>
+<utterance uid="21-2"><speaker>Thirteen</speaker><content>You ruptured a cyst! Her lung collapsed. </content></utterance>
+<utterance uid="21-3"><speaker>Taub</speaker><content>Breath sounds on both sides.</content></utterance>
+<utterance uid="21-4"><speaker>Thirteen</speaker><content>Move. Trachea’s deviating to the left.</content></utterance>
+<utterance uid="21-5"><speaker>Foreman</speaker><content> Nice.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>Kutner</speaker><content>Chest CT confirmed multiple lung cysts, one of which burst during the treadmill test.</content></utterance>
+<utterance uid="22-2"><speaker>Foreman</speaker><content>Luckily, Thirteen figured out the problem and was there to re-inflate her lung.</content></utterance>
+<utterance uid="22-3"><speaker>Thirteen</speaker><content>Lung cysts plus all her other symptoms could be amyloidosis, which we can manage. Or pulmonary fibrosis which —</content></utterance>
+<utterance uid="22-4"><speaker>House</speaker><content>Thank you. My employees can take care of it from here.  We need to biopsy the cysts.</content></utterance>
+<utterance uid="22-5"><speaker>Thirteen</speaker><content>You fired me because I screwed up. I just proved I can pull my weight.</content></utterance>
+<utterance uid="22-6"><speaker>House</speaker><content>All you proved is you know how to make an entrance.</content></utterance>
+<utterance uid="22-7"><speaker>Foreman</speaker><content>House, she deserves another shot. She found the cysts, saved the patient.</content></utterance>
+<utterance uid="22-8"><speaker>House</speaker><content>Who wouldn't have needed saving if Thirteen had shown up at the differential in the first place.</content></utterance>
+<utterance uid="22-9"><speaker>Taub</speaker><content>Give her her job back, House.</content></utterance>
+<utterance uid="22-10"><speaker>House</speaker><content>Or what? You’re gonna quit? Go do the biopsy. </content></utterance>
+<utterance uid="22-11"><speaker>Foreman</speaker><content> I’m sorry. </content></utterance>
+<utterance uid="22-12"><speaker>House</speaker><content>How much clearer do I need to make this? </content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>Lucas</speaker><content>What does that even mean, "dating a hooker"?</content></utterance>
+<utterance uid="23-2"><speaker>House</speaker><content>He’s an idiot with a messiah complex. Savior to all who need saving. That’s why his first wife had a wooden leg. Second wife was Canadian. He’s the one who needs to be saved.</content></utterance>
+<utterance uid="23-3"><speaker>Lucas</speaker><content>From you or the ho?</content></utterance>
+<utterance uid="23-4"><speaker>House</speaker><content>The ho's just using him for his money. Wait. Bad example.</content></utterance>
+<utterance uid="23-5"><speaker>Lucas</speaker><content>Normally in these situations, I’d follow the girl, find out something embarrassing about her to show him. But since that's our starting position…</content></utterance>
+<utterance uid="23-6"><speaker>House</speaker><content>Proceed directly to the leg-breaking.</content></utterance>
+<utterance uid="23-7"><speaker>Lucas</speaker><content>I’m not breaking her legs. She probably has a pimp. Or, at least, an older brother. Or a younger brother. Or overprotective sister.</content></utterance>
+<utterance uid="23-8"><speaker>House</speaker><content>Find her, find her family, find client number nine. Just get me something I can use to force her to back off.</content></utterance>
+<utterance uid="23-9"><speaker>Taub</speaker><content> Sorry to interrupt your meeting, Mannix. Here’s the result from the lung biopsy.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>House</speaker><content>Why not men? You’re bisexual. If you were just being self-destructive, you'd be having random sex with men. Better chance of getting assaulted, catching a disease. If this were just about getting laid, it'd be a lot easier to pick up men. Or ugly girls. This woman's hot. Which means you like the challenge, the conquest. It’s the control that gets you off. And controlling women is as close as you can get to controlling what's gonna happen to you.</content></utterance>
+<utterance uid="24-2"><speaker>Thirteen</speaker><content>Here I thought I was just into boobs.</content></utterance>
+<utterance uid="24-3"><speaker>House</speaker><content>Instead of getting sweaty with a stranger, why don't you try taking it to the next level? Play God.  Tell a girl that she's got ten years to live. She has LAM. </content></utterance>
+<utterance uid="24-4"><speaker>Thirteen</speaker><content> Okay.</content></utterance>
+<utterance uid="24-5"><speaker>House</speaker><content>This is not a test. You’re not getting your job back if you can —</content></utterance>
+<utterance uid="24-6"><speaker>Thirteen</speaker><content>I know what it's like to get this news, and no one should have to get it from you. </content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>Spencer</speaker><content>Hey.</content></utterance>
+<utterance uid="25-2"><speaker>Thirteen</speaker><content>The biopsy of your lung cyst showed smooth muscle cells. That’s indicative of a disease called LAM.</content></utterance>
+<utterance uid="25-3"><speaker>Spencer</speaker><content>What do you do for that?</content></utterance>
+<utterance uid="25-4"><speaker>Thirteen</speaker><content>Surgery to remove the cysts. But… They’ll come back. Little by little, the cysts replace healthy lung tissue until your lungs stop working.</content></utterance>
+<utterance uid="25-5"><speaker>Spencer</speaker><content>I’m gonna die.</content></utterance>
+<utterance uid="25-6"><speaker>Thirteen</speaker><content>Yes. I’m so sorry.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>Thirteen</speaker><content>They removed all the cysts they could. That should help you breathe better.</content></utterance>
+<utterance uid="26-2"><speaker>Spencer</speaker><content>How long until the cysts come back?</content></utterance>
+<utterance uid="26-3"><speaker>Thirteen</speaker><content>We don't know exactly. I’m sorry.</content></utterance>
+<utterance uid="26-4"><speaker>Spencer</speaker><content>Stop saying you're sorry.</content></utterance>
+<utterance uid="26-5"><speaker>Thirteen</speaker><content>I know you're scared.</content></utterance>
+<utterance uid="26-6"><speaker>Spencer</speaker><content>I don't know what I feel.</content></utterance>
+<utterance uid="26-7"><speaker>Thirteen</speaker><content>You’re gonna be numb for a few more days. Then you'll go home and cry for a few weeks. And then you get angry. Start telling yourself nothing matters anymore. You start doing stupid things. Maybe you go out to bars and pick up a bunch of women.</content></utterance>
+<utterance uid="26-8"><speaker>Spencer</speaker><content>You’re…  How long do you have?</content></utterance>
+<utterance uid="26-9"><speaker>Thirteen</speaker><content>Maybe a little more than you. Maybe a little less. I’ll race you. </content></utterance>
+<utterance uid="26-10"><speaker>Thirteen</speaker><content>I was thinking maybe I’d come back later.</content></utterance>
+<utterance uid="26-11"><speaker>Spencer</speaker><content>Sounds good.</content></utterance>
+<utterance uid="26-12"><speaker>Spencer</speaker><content>Oh, God. What’s going on?</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>Thirteen</speaker><content>All her blood counts are down. It’s a new symptom. Aplastic anemia.</content></utterance>
+<utterance uid="27-2"><speaker>House</speaker><content>Does the word "fired" have some whole other definition that I’m not aware of? </content></utterance>
+<utterance uid="27-3"><speaker>Thirteen</speaker><content>I don't work for you. Fine. Don’t pay me. Just let me finish out this case.</content></utterance>
+<utterance uid="27-4"><speaker>House</speaker><content>So you like her now that she's dying. What happens if she stops dying?</content></utterance>
+<utterance uid="27-5"><speaker>Foreman</speaker><content>There’s no danger of that right now. If we don't figure out what's wrong with her, she's got days, not years.</content></utterance>
+<utterance uid="27-6"><speaker>Taub</speaker><content>Aplastic anemia takes LAM off the table. Unfortunately, none of our other choices are any better. PNH with some sort of respiratory infection.</content></utterance>
+<utterance uid="27-7"><speaker>Thirteen</speaker><content>Best case gives her 12 years.</content></utterance>
+<utterance uid="27-8"><speaker>Kutner</speaker><content>Or fast-moving Langerhans.</content></utterance>
+<utterance uid="27-9"><speaker>Thirteen</speaker><content>A few months.</content></utterance>
+<utterance uid="27-10"><speaker>Foreman</speaker><content>Or mastocytosis, which can cause systemic shock and kill her in days.</content></utterance>
+<utterance uid="27-11"><speaker>House</speaker><content>Go. Test for everything.   Not you. You’re just a visitor.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>Chase</speaker><content>How’s your patient?</content></utterance>
+<utterance uid="28-2"><speaker>Foreman</speaker><content>She doesn't have Langerhans.</content></utterance>
+<utterance uid="28-3"><speaker>Chase</speaker><content>That’s good.</content></utterance>
+<utterance uid="28-4"><speaker>Foreman</speaker><content>Actually, a cancer diagnosis would be good news right now.  Do you think… I’m boring?</content></utterance>
+<utterance uid="28-5"><speaker>Chase</speaker><content>Yes. </content></utterance>
+<utterance uid="28-6"><speaker>Foreman</speaker><content>You’re saying that just to screw with me.</content></utterance>
+<utterance uid="28-7"><speaker>Chase</speaker><content>Yeah. Why would you expect anything else?</content></utterance>
+<utterance uid="28-8"><speaker>Foreman</speaker><content>I expect House to pull my strings. I expect Cameron to make me feel better. I expect the new team to kiss my ass. And I expect you to be honest, 'cause you don't give a crap.</content></utterance>
+<utterance uid="28-9"><speaker>Chase</speaker><content>Yes, you're boring. That speech was boring.</content></utterance>
+<utterance uid="28-10"><speaker>Foreman</speaker><content>Thanks so much. </content></utterance>
+<utterance uid="28-11"><speaker>Chase</speaker><content>You don't let other people's problems affect you. You don't let your own problems affect you. And it's the screw-ups that make us interesting. You’re never out of control. Which is good, and… boring. Never losing control also means you're never putting yourself out there. Never pushing your limits. On the other hand, you do have a tattoo, so… Maybe I’m wrong.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>Spencer</speaker><content>I’m glad you're here.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>House</speaker><content>She needs a bone marrow transplant.</content></utterance>
+<utterance uid="30-2"><speaker>Thirteen</speaker><content>Test results are back? What’s she positive for?</content></utterance>
+<utterance uid="30-3"><speaker>House</speaker><content>Nothing. But we've got a donor match.</content></utterance>
+<utterance uid="30-4"><speaker>Thirteen</speaker><content>Jumping to a transplant when we don't know what she —</content></utterance>
+<utterance uid="30-5"><speaker>House</speaker><content>I know she has a blood disorder. Could be PNH. She needs a bone marrow transplant. Or leukemia. She needs a bone marrow transplant. Or thalassemia. She needs a bone marrow —</content></utterance>
+<utterance uid="30-6"><speaker>Thirteen</speaker><content>Yeah, I get it. But she'll never survive total body irradiation.</content></utterance>
+<utterance uid="30-7"><speaker>House</speaker><content>So we don't radiate her. Her marrow's nearly wiped out already. Counts almost zero.</content></utterance>
+<utterance uid="30-8"><speaker>Thirteen</speaker><content>"Almost" being the key word. The new marrow would attack the old marrow. She’ll die from graft-versus-host.</content></utterance>
+<utterance uid="30-9"><speaker>House</speaker><content>You got a better idea? She trusts you. Go get her consent.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>Lucas</speaker><content>Sometimes I find out things you'd rather not know.  This was in his trash. He’s using. </content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>House</speaker><content>You’re back.</content></utterance>
+<utterance uid="32-2"><speaker>House</speaker><content>Genius.</content></utterance>
+<utterance uid="32-3"><speaker>Wilson</speaker><content>Damn. I knew the fake works was too much.</content></utterance>
+<utterance uid="32-4"><speaker>House</speaker><content>Well, you had no choice.  Where were you gonna go after fake hooker girlfriend? How did you know he was outside?</content></utterance>
+<utterance uid="32-5"><speaker>Wilson</speaker><content>Cane prints. I’m actually kind of insulted. No way I’m a drug addict, but you completely buy that I fell in love with a prostitute?</content></utterance>
+<utterance uid="32-6"><speaker>House</speaker><content>You played to your strengths. By which I mean you played to your weaknesses.  Oh, my God. You invoked your dead girlfriend's name to sell me. You’re my hero.</content></utterance>
+<utterance uid="32-7"><speaker>Wilson</speaker><content>Best $30 I ever spent.</content></utterance>
+<utterance uid="32-8"><speaker>House</speaker><content>It’s $30? Did you keep her number?</content></utterance>
+<utterance uid="32-9"><speaker>Wilson</speaker><content>Unfortunately, I killed her and buried her in the basement.</content></utterance>
+<utterance uid="32-10"><speaker>House</speaker><content>Shame. Hungry?</content></utterance>
+<utterance uid="32-11"><speaker>Wilson</speaker><content>Yeah. </content></utterance>
+<utterance uid="32-12"><speaker>House</speaker><content>So, seriously. Where were you the other morning?</content></utterance>
+<utterance uid="32-13"><speaker>Wilson</speaker><content>Ugh, don't make me do this again. It has nothing to do with you.</content></utterance>
+<utterance uid="32-14"><speaker>House</speaker><content>Then tell me.</content></utterance>
+<utterance uid="32-15"><speaker>Wilson</speaker><content> We’re going bowling on Monday. I’m coming over to play poker this weekend. Nothing’s changed. You have to trust that.</content></utterance>
+<utterance uid="32-16"><speaker>House</speaker><content> Okay.</content></utterance>
+<utterance uid="32-17"><speaker>Wilson</speaker><content>You’re gonna keep following me, aren't you?</content></utterance>
+<utterance uid="32-18"><speaker>House</speaker><content>It’s what we do.</content></utterance>
+<utterance uid="32-19"><speaker>Wilson</speaker><content>Be outside my apartment at 8:00 tonight. </content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>Thirteen</speaker><content>She said yes to the transplant.</content></utterance>
+<utterance uid="33-2"><speaker>House</speaker><content>Good. You’re in a downward spiral of destruction.</content></utterance>
+<utterance uid="33-3"><speaker>Thirteen</speaker><content>I can stop.</content></utterance>
+<utterance uid="33-4"><speaker>House</speaker><content>You’re gonna keep spiraling. Keep screwing around. Slashing away at every person who tries to help until no one tries to help anymore. Till you hit bottom. Till you're dead. Until then… I can use you.</content></utterance>
+<utterance uid="33-5"><speaker>Thirteen</speaker><content>You’re hiring me back?</content></utterance>
+<utterance uid="33-6"><speaker>House</speaker><content>You did good work.</content></utterance>
+<utterance uid="33-7"><speaker>Thirteen</speaker><content>I did good work yesterday, and I was still fired. What changed?  You wanted me to spend time with her. See if I could still make a connection.</content></utterance>
+<utterance uid="33-8"><speaker>House</speaker><content>You connected with a diagnosis, not with her.</content></utterance>
+<utterance uid="33-9"><speaker>Thirteen</speaker><content>You’re trying to save me, trying to control me. You’re doing exactly what you think that I’m —</content></utterance>
+<utterance uid="33-10"><speaker>House</speaker><content> Cracks. You’re lips are cracked.  You been using your inhaler lately?</content></utterance>
+<utterance uid="33-11"><speaker>Thirteen</speaker><content>Allergies. Don’t deflect. You always deflect.</content></utterance>
+<utterance uid="33-12"><speaker>House</speaker><content> Did she cry? When you told her that she was gonna die, did she cry?</content></utterance>
+<utterance uid="33-13"><speaker>Thirteen</speaker><content>She… got upset. She —</content></utterance>
+<utterance uid="33-14"><speaker>House</speaker><content>Were. there. tears?</content></utterance>
+<utterance uid="33-15"><speaker>Thirteen</speaker><content>No.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>House</speaker><content>Chopping an onion releases a mist of syn-propanethial-s-oxide, a chemical irritant  which causes people to have a very predictable reaction.</content></utterance>
+<utterance uid="34-2"><speaker>Thirteen</speaker><content>She has no tears.</content></utterance>
+<utterance uid="34-3"><speaker>House</speaker><content>It was either this or put on Brian’s song. I didn't have time to stop by Wilson’s.  She has Sjogren's. It attacks the glands that produce tears and saliva. Also, by the way, causes lung cysts and RTA.</content></utterance>
+<utterance uid="34-4"><speaker>Thirteen</speaker><content>It doesn't cause bleeding.</content></utterance>
+<utterance uid="34-5"><speaker>House</speaker><content>It’s like you and men. Just 'cause you usually don't, doesn't mean you can't.</content></utterance>
+<utterance uid="34-6"><speaker>Thirteen</speaker><content>And it doesn't cause cracked lips in other people.</content></utterance>
+<utterance uid="34-7"><speaker>House</speaker><content>Lack of spit makes her mouth a breeding ground for a fungus like Candida.  Your asthma inhaler did the same for you. Wiped out your mouth's immune system.</content></utterance>
+<utterance uid="34-8"><speaker>Spencer</speaker><content>So she's got what I’ve got.</content></utterance>
+<utterance uid="34-9"><speaker>House</speaker><content>Just the opportunistic infection, not the underlying condition. Another life saved by girl-on-girl action.</content></utterance>
+<utterance uid="34-10"><speaker>Spencer</speaker><content>I’m gonna be okay?</content></utterance>
+<utterance uid="34-11"><speaker>Thirteen</speaker><content>You’re gonna be okay.</content></utterance>
+<utterance uid="34-12"><speaker>House</speaker><content>Methylprednisolone to get the Sjogren’s under control. And some artificial tears to maximize the visual impact of this moment. </content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>Foreman</speaker><content>Spencer’s gonna be fine. And I hear you got your job back. I’m gonna keep standing here until you say something.</content></utterance>
+<utterance uid="35-2"><speaker>Thirteen</speaker><content> I feel alone. And, she hasn't gone anywhere.</content></utterance>
+<utterance uid="35-3"><speaker>Foreman</speaker><content>She gets to live.</content></utterance>
+<utterance uid="35-4"><speaker>Thirteen</speaker><content> I’m gonna go home. I’m tired. </content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>Cuddy</speaker><content>What do you think?</content></utterance>
+<utterance uid="36-2"><speaker>House</speaker><content>Oh, my God! You guys shop here too? Best nipples in Princeton.</content></utterance>
+<utterance uid="36-3"><speaker>Cuddy</speaker><content>Why are you here?</content></utterance>
+<utterance uid="36-4"><speaker>House</speaker><content> Because he ate the donut.</content></utterance>
+<utterance uid="36-5"><speaker>Wilson</speaker><content>I’m so sorry. He must've followed me.</content></utterance>
+<utterance uid="36-6"><speaker>Cuddy</speaker><content> I’m sure.</content></utterance>
+<utterance uid="36-7"><speaker>House</speaker><content>Well, you're clearly not pregnant, so either you're buying this as a gift, or this is some kind of weird "if you build it, they will come" moment.</content></utterance>
+<utterance uid="36-8"><speaker>Cuddy</speaker><content>I’m adopting a baby.</content></utterance>
+<utterance uid="36-9"><speaker>Wilson</speaker><content>She asked me to be a character reference. That’s where I was the other morning. I’m sorry. I couldn't betray her confidence.</content></utterance>
+<utterance uid="36-10"><speaker>Cuddy</speaker><content>I didn't want anyone else to know in case I didn't get approved. Today, I did. </content></utterance>
+<utterance uid="36-11"><speaker>Cuddy</speaker><content>Are you gonna congratulate me?</content></utterance>
+<utterance uid="36-12"><speaker>House</speaker><content>If you're happy, I’m —</content></utterance>
+</scene>
+
+</script>

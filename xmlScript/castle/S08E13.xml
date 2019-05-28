@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+
+<scene id="1"><utterance uid="1-1"><speaker>EDDIE RAMIREZ</speaker><content>Good night and sleepy dreams. Ah, no. Good night and sweet dreams.</content></utterance>
+<utterance uid="1-2"><speaker>EDDIE</speaker><content>D'Artagnan, how you got out of cage, huh?</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>RICHARD CASTLE</speaker><content>Stop it! Stop it! Stop!</content></utterance>
+<utterance uid="2-2"><speaker>KATE BECKETT</speaker><content>Uh … who are you yelling at?</content></utterance>
+<utterance uid="2-3"><speaker>CASTLE</speaker><content>No one. I just … still have writer’s block, that’s all.</content></utterance>
+<utterance uid="2-4"><speaker>BECKETT</speaker><content>So you’re taking it out on your laptop?</content></utterance>
+<utterance uid="2-5"><speaker>CASTLE</speaker><content>No, not the laptop. The - that cursor. I mean, just look at it there. Taunting me. It’s just blinking – on, off, on, off. Like it’s so easy writing a best-selling novel. Because I’d like you see you try it, Mr. Cursor. I’d like you see you try! Why don’t –</content></utterance>
+<utterance uid="2-6"><speaker>BECKETT</speaker><content>Why don’t we just … say goodbye to Mr. Cursor?  What is this, fan mail?</content></utterance>
+<utterance uid="2-7"><speaker>CASTLE</speaker><content>Oh, not exactly. Remember when I went on Good Morning America awhile back and offered a reward for proof of anyone who knew what happened to me during those eight weeks I disappeared?</content></utterance>
+<utterance uid="2-8"><speaker>BECKETT</speaker><content>But Castle, those letters are over a year old. And we’ve already proven that all the theories were ridiculous. Why are you rereading them?</content></utterance>
+<utterance uid="2-9"><speaker>CASTLE</speaker><content>To spark my imagination. But honestly, these letters are not very inventive. They all claim I was a victim of a government conspiracy or abducted by aliens and probed.  This guy even drew a diagram of me violated by ET.</content></utterance>
+<utterance uid="2-10"><speaker>BECKETT</speaker><content>Oh.</content></utterance>
+<utterance uid="2-11"><speaker>CASTLE</speaker><content>I need inspiration, Beckett. And although Lester’s knowledge of alien anatomy is commendable, it’s just not enough.</content></utterance>
+<utterance uid="2-12"><speaker>BECKETT</speaker><content>Just a second … Beckett.  Okay. All right, I will be right there.  You know I would love to take you, but –</content></utterance>
+<utterance uid="2-13"><speaker>CASTLE</speaker><content> But we have to maintain the ruse of our separation until you capture LokSat. I know, I know. But what am I supposed to write about without my muse, Beckett? I need you! I – I’m Sherlock without Watson.</content></utterance>
+<utterance uid="2-14"><speaker>BECKETT</speaker><content>No, you probably mean Watson without your Sherlock because after all, my darling –  – you’re the writer. Okay. I’ll see you.  Ah, you know what? Why don’t you just go to your PI office if you’re so desperate for a case to solve. Maybe Alexis and Hayley have something that’s worthy of inspiration?</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>BECKETT</speaker><content>Good morning, Ryan.</content></utterance>
+<utterance uid="3-2"><speaker>KEVIN RYAN</speaker><content>Oh, hey.</content></utterance>
+<utterance uid="3-3"><speaker>BECKETT</speaker><content>So I saw the broken door outside. Robbery gone wrong?</content></utterance>
+<utterance uid="3-4"><speaker>RYAN</speaker><content>Nope. We don’t think so. According to the zoo supervisor all the animals are accounted for.</content></utterance>
+<utterance uid="3-5"><speaker>BECKETT</speaker><content>Is that a snake hook?</content></utterance>
+<utterance uid="3-6"><speaker>ESPOSITO</speaker><content>Yep. Looks like our victim was bludgeoned to death with it.</content></utterance>
+<utterance uid="3-7"><speaker>BECKETT</speaker><content>Okay. Who’s the victim?</content></utterance>
+<utterance uid="3-8"><speaker>ESPOSITO</speaker><content>Uh, we’re not a hundred percent sure yet.</content></utterance>
+<utterance uid="3-9"><speaker>RYAN</speaker><content>The zoo supervisor thinks that it’s Eddie Ramirez, the nighttime animal caretaker. If it is, then he’s an El Salvador native who’s lived in the States for the past three years –</content></utterance>
+<utterance uid="3-10"><speaker>BECKETT</speaker><content>I’m sorry, can we go back? Why are you having trouble IDing the victim?</content></utterance>
+<utterance uid="3-11"><speaker>ESPOSITO</speaker><content>We can’t positively ID the victim yet because the killer tossed his body into –</content></utterance>
+<utterance uid="3-12"><speaker>ME SIDNEY PERLMUTTER</speaker><content>A pit filled with deadly snakes.</content></utterance>
+<utterance uid="3-13"><speaker>BECKETT</speaker><content>Okay, well … that’s a first.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>CASTLE</speaker><content>Your fearless leader has arrived.</content></utterance>
+<utterance uid="4-2"><speaker>ALEXIS CASTLE</speaker><content>Oh, yay.  Now go file these.</content></utterance>
+<utterance uid="4-3"><speaker>CASTLE</speaker><content>I take it business has been good?</content></utterance>
+<utterance uid="4-4"><speaker>HAYLEY SHIPTON</speaker><content>We’re working on three cases right now: a corporate maleficence, an insurance fraud, and a financial embezzlement.</content></utterance>
+<utterance uid="4-5"><speaker>CASTLE</speaker><content>Wow. You know what all three of those cases have in common? They’re all incredibly boring. Come on, you guys! When did you sell out?</content></utterance>
+<utterance uid="4-6"><speaker>ALEXIS</speaker><content>Excuse me?</content></utterance>
+<utterance uid="4-7"><speaker>HAYLEY</speaker><content>I think what you meant to say, Rick, was thank you so much, ladies, for taking my money pit of a hobby and making it into a profitable business.</content></utterance>
+<utterance uid="4-8"><speaker>CASTLE</speaker><content>I didn’t open this place to make money. I opened it for the exciting cases. You know, the double-crossing dame, the stolen relic, a locked room mystery.</content></utterance>
+<utterance uid="4-9"><speaker>ALEXIS</speaker><content>Dad, you’re just naming plots from 1940s gumshoe novels. Speaking of, aren’t you supposed to be writing your next Nikki Heat book?</content></utterance>
+<utterance uid="4-10"><speaker>CASTLE</speaker><content>I would if I could. Come on, guys, let’s just ditch this corporate nonsense and find a case worthy of investigating. You know, with mysteries, with bold characters, and twists and turns –  – and murdered man ends up in pit of deadly snakes? Now that – that is a case worth investigating!</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>BECKETT</speaker><content>Hey.</content></utterance>
+<utterance uid="5-2"><speaker>PERLMUTTER</speaker><content>Well hello, Captain. I’m glad you’re alone. I’ve been meaning to say how proud I am of you.</content></utterance>
+<utterance uid="5-3"><speaker>BECKETT</speaker><content>Oh.  For what?</content></utterance>
+<utterance uid="5-4"><speaker>PERLMUTTER</speaker><content>For breaking up with Mr. Castle, of course. Now you’re free to meet a man who can really appreciate you.</content></utterance>
+<utterance uid="5-5"><speaker>BECKETT</speaker><content>Um –</content></utterance>
+<utterance uid="5-6"><speaker>PERLMUTTER</speaker><content>Like my brother, Edgar.</content></utterance>
+<utterance uid="5-7"><speaker>BECKETT</speaker><content>Your brother?</content></utterance>
+<utterance uid="5-8"><speaker>PERLMUTTER</speaker><content> My identical twin.</content></utterance>
+<utterance uid="5-9"><speaker>BECKETT</speaker><content>Oh, there’s two of you?</content></utterance>
+<utterance uid="5-10"><speaker>PERLMUTTER</speaker><content>I’d be happy to introduce you –</content></utterance>
+<utterance uid="5-11"><speaker>BECKETT</speaker><content>Yeah, no! Uh, no. But uh … thank you, Perlmutter. It’s just that I’m not quite ready to date right now.  But I understand you have confirmed that our victim is Eddie Ramirez, right?</content></utterance>
+<utterance uid="5-12"><speaker>PERLMUTTER</speaker><content>Yes. Here are his personal affects. Cause of death was blunt force trauma to the skull.</content></utterance>
+<utterance uid="5-13"><speaker>BECKETT</speaker><content>Uh huh.</content></utterance>
+<utterance uid="5-14"><speaker>PERLMUTTER</speaker><content>Based on lividity I’d say it took place between 9 and 11 last night.</content></utterance>
+<utterance uid="5-15"><speaker>BECKETT</speaker><content>So then the killer must have dumped his body in the snake pit to slow down our investigation.</content></utterance>
+<utterance uid="5-16"><speaker>CASTLE</speaker><content>Genius plan.</content></utterance>
+<utterance uid="5-17"><speaker>PERLMUTTER</speaker><content>Mr. Castle, what the hell are you doing here?</content></utterance>
+<utterance uid="5-18"><speaker>CASTLE</speaker><content>It’s nice to see you too, Perlmutter.</content></utterance>
+<utterance uid="5-19"><speaker>PERLMUTTER</speaker><content>Can’t you see the lady doesn’t love you anymore?  Be a man. Walk away. See, it’s because of nitwit pretty boys like you that good men like my brother, Edgar, struggle to find –</content></utterance>
+<utterance uid="5-20"><speaker>BECKETT</speaker><content>Uh, Perlmutter! Would you mind giving us the room for just a minute?</content></utterance>
+<utterance uid="5-21"><speaker>PERLMUTTER</speaker><content>There’s a scalpel and a rib spreader if you need them.</content></utterance>
+<utterance uid="5-22"><speaker>CASTLE</speaker><content>Wow. Perlmutter really doesn’t like me.</content></utterance>
+<utterance uid="5-23"><speaker>BECKETT</speaker><content> Neither do I right now.</content></utterance>
+<utterance uid="5-24"><speaker>CASTLE</speaker><content>I know, I know! I just wanted to see the snakes.</content></utterance>
+<utterance uid="5-25"><speaker>BECKETT</speaker><content>Help yourself, Castle. They are all at the zoo.</content></utterance>
+<utterance uid="5-26"><speaker>CASTLE</speaker><content>Really?  They’re not here? I thought they would be evidence or something.</content></utterance>
+<utterance uid="5-27"><speaker>BECKETT</speaker><content>No, but this might be. Someone sent the victim a text yesterday.  “Where go my money Eddie. Yous owe huge. Paybacks time. I got ways for to get you dead…”. I was sent by a blocked number. I’ll see if Vikram can trace it.</content></utterance>
+<utterance uid="5-28"><speaker>CASTLE</speaker><content>“I got ways for to get you dead.” That’s a particular syntax, a unique grammatical structure, perhaps denoting a cultural significance.</content></utterance>
+<utterance uid="5-29"><speaker>BECKETT</speaker><content>Or maybe bad autocorrect?</content></utterance>
+<utterance uid="5-30"><speaker>CASTLE</speaker><content>No, Beckett, this was no error. This was a specific choice. It was a methodical decision. Dialectology 101. And I, being an expert in the English language, would be happy to help you solve this linguistic mystery.</content></utterance>
+<utterance uid="5-31"><speaker>BECKETT</speaker><content>Castle, you’re not going to work the case. So why don’t you just go back home and I will see you tonight.</content></utterance>
+<utterance uid="5-32"><speaker>CASTLE</speaker><content>While I do love kissing you, Beckett, it’s just a little creepy when you do it in front of a dead body. It’s … inappropriate.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>ESPOSITO</speaker><content>Yo Cap, check out what we found hidden under Eddie Ramirez’s bed.</content></utterance>
+<utterance uid="6-2"><speaker>RYAN</speaker><content>Ten Gs. Question is, how does someone who feeds snakes and lizards for a living scrape together this much cash?</content></utterance>
+<utterance uid="6-3"><speaker>BECKETT</speaker><content>Now that threatening text that Eddie received was about owing someone money. I’d be shocked if those two aren’t related.</content></utterance>
+<utterance uid="6-4"><speaker>VIKRAM SINGH</speaker><content>If they are then I might be of assistance. Turns out, the text was sent from an untraceable burner but when the text was sent it had to go through a wireless network.</content></utterance>
+<utterance uid="6-5"><speaker>RYAN</speaker><content>Did you track down the network?</content></utterance>
+<utterance uid="6-6"><speaker>VIKRAM</speaker><content>Yep. It belongs to an English as a Second Language school.</content></utterance>
+<utterance uid="6-7"><speaker>ESPOSITO</speaker><content>Is there any connection to Eddie Ramirez?</content></utterance>
+<utterance uid="6-8"><speaker>VIKRAM</speaker><content>I spoke with the teacher who said Eddie was a part of the class but he was absent yesterday when the text was sent.</content></utterance>
+<utterance uid="6-9"><speaker>BECKETT</speaker><content>All right, guys. Go check it out.</content></utterance>
+<utterance uid="6-10"><speaker>RYAN</speaker><content>Right.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>The students in the class repeat en mass after the teacher</speaker><content>“to get to JKF airport from here you can take the E train”.</content></utterance>
+<utterance uid="7-2"><speaker>JOHN EMERSON</speaker><content>But since you are late for your flight I suggest you take a cab.</content></utterance>
+<utterance uid="7-3"><speaker>ESPOSITO</speaker><content>Yo. We’re NYPD.</content></utterance>
+<utterance uid="7-4"><speaker>RYAN</speaker><content>We need to talk.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>EMERSON</speaker><content>Hearing about Eddie was quite a shock. The students have been talking about it all morning.</content></utterance>
+<utterance uid="8-2"><speaker>RYAN</speaker><content>We understand Eddie missed class yesterday. Do you know if he was avoiding any of the other students? Perhaps someone he was having problems with?</content></utterance>
+<utterance uid="8-3"><speaker>EMERSON</speaker><content>Eddie? Nah. He was a sweet man and gentle soul. Everybody liked him.</content></utterance>
+<utterance uid="8-4"><speaker>ESPOSITO</speaker><content>Well, not everybody. This text was sent yesterday during class.  Any idea who might have written that?</content></utterance>
+<utterance uid="8-5"><speaker>EMERSON</speaker><content> “Where go my money Eddie. Yous owe huge. Paybacks time.” I don’t know. It’s hard to say. All my students are still learning English.</content></utterance>
+<utterance uid="8-6"><speaker>RYAN</speaker><content>Well then, we’re going to need to talk to all your students one by one.</content></utterance>
+<utterance uid="8-7"><speaker>EMERSON</speaker><content>Oh, that’s going to be harder than you think, Detective. Most of my students come from countries where the cops are corrupt, so they’re not going to want to talk to you.</content></utterance>
+<utterance uid="8-8"><speaker>RYAN</speaker><content>Look, teach, we don’t tell you how to conjugate a verb, don’t tell us how to interview a suspect.</content></utterance>
+<utterance uid="8-9"><speaker>ESPOSITO</speaker><content>Yeah, we’re going to get them to talk.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>BECKETT</speaker><content>And you couldn’t get any of them to talk?</content></utterance>
+<utterance uid="9-2"><speaker>RYAN</speaker><content>Javi did get a contact number for Eddie’s next of kin in El Salvador.</content></utterance>
+<utterance uid="9-3"><speaker>ESPOSITO</speaker><content>That’s true, but there was no one home so I had to leave a message.</content></utterance>
+<utterance uid="9-4"><speaker>BECKETT</speaker><content>Ugh.</content></utterance>
+<utterance uid="9-5"><speaker>RYAN</speaker><content>Captain, we can drag each one of the students down into interrogation, sweat the truth out of them.</content></utterance>
+<utterance uid="9-6"><speaker>BECKETT</speaker><content>Uh, no. If they’re already afraid of cops it’s only going to alienate them further.  But there might be another way to do this.</content></utterance>
+<utterance uid="9-7"><speaker>ESPOSITO</speaker><content>What do you have in mind?</content></utterance>
+<utterance uid="9-8"><speaker>BECKETT</speaker><content>Uh, don’t worry about it. Why don’t you guys dig into those student’s lives. Clearly one of them is hiding their true feelings about Eddie.</content></utterance>
+<utterance uid="9-9"><speaker>RYAN</speaker><content>All right.</content></utterance>
+<utterance uid="9-10"><speaker>ESPOSITO</speaker><content>Right on.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>CASTLE</speaker><content>Hey!</content></utterance>
+<utterance uid="10-2"><speaker>BECKETT</speaker><content>Hey, what are you doing?</content></utterance>
+<utterance uid="10-3"><speaker>CASTLE</speaker><content>Nothing. Just reading a book.</content></utterance>
+<utterance uid="10-4"><speaker>BECKETT</speaker><content>Uh, do you really think you can figure out who sent that text based on linguistics?</content></utterance>
+<utterance uid="10-5"><speaker>CASTLE</speaker><content>Yeah. I can do that. All I have to do is hear them speak and I can match the syntax. Why?</content></utterance>
+<utterance uid="10-6"><speaker>BECKETT</speaker><content>Well you may be able to work this case after all. At least, in an undercover capacity.</content></utterance>
+<utterance uid="10-7"><speaker>CASTLE</speaker><content>Really?</content></utterance>
+<utterance uid="10-8"><speaker>CASTLE</speaker><content>How?</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>CASTLE</speaker><content>Bonjour everyone. Je m’appelle Jean Luc de la Croix.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>EMERSON</speaker><content>Hello, Jean Luc. Welcome to our English as a Second Language class.</content></utterance>
+<utterance uid="12-2"><speaker>CASTLE</speaker><content>Thank you very much, Monsieur.</content></utterance>
+<utterance uid="12-3"><speaker>EMERSON</speaker><content>That accent is fascinating. Where are you joining us from?</content></utterance>
+<utterance uid="12-4"><speaker>CASTLE</speaker><content>Ah, Jolicour, Quebec.</content></utterance>
+<utterance uid="12-5"><speaker>EMERSON</speaker><content> Oh, French Canadian. Wonderful, wonderful. And what do you do there for a living?</content></utterance>
+<utterance uid="12-6"><speaker>CASTLE</speaker><content>I … am uh, how you say, a chef.</content></utterance>
+<utterance uid="12-7"><speaker>EMERSON</speaker><content>A chef!</content></utterance>
+<utterance uid="12-8"><speaker>CASTLE</speaker><content>Oui.</content></utterance>
+<utterance uid="12-9"><speaker>EMERSON</speaker><content>Marvelous! We’re having our international food celebration tonight. Cannot wait to sample some of your authentic French cuisine.</content></utterance>
+<utterance uid="12-10"><speaker>CASTLE</speaker><content>Oui, me too.</content></utterance>
+<utterance uid="12-11"><speaker>EMERSON</speaker><content>Well, class, it’s time for us to break out into our small talk discussions. Why don’t we get up and circulate.</content></utterance>
+<utterance uid="12-12"><speaker>CASTLE</speaker><content>I’ll just – </content></utterance>
+<utterance uid="12-13"><speaker>EMERSON</speaker><content>Please. Please.</content></utterance>
+<utterance uid="12-14"><speaker>CASTLE</speaker><content>Hello, I am Jean Luc. Nice to meet you.</content></utterance>
+<utterance uid="12-15"><speaker>KIM HYUN JOO</speaker><content>Hi, I am Kim Hyun Joo from Korea.</content></utterance>
+<utterance uid="12-16"><speaker>CASTLE</speaker><content>That is it? Please, don’t be shy. Tell me more about yourself.  Anything?  Uh, okay. All right.</content></utterance>
+<utterance uid="12-17"><speaker>CASTLE</speaker><content>Good. Okay. Very nice to … meet you.</content></utterance>
+<utterance uid="12-18"><speaker>CASTLE</speaker><content>Enchanté. I am Jean Luc. So, what brings you to America?</content></utterance>
+<utterance uid="12-19"><speaker>AIDA</speaker><content>Je suis venu New York –</content></utterance>
+<utterance uid="12-20"><speaker>CASTLE</speaker><content>Oh, you are speaking French like back in Senegal. Oh, be we are supposed to be speaking English, no?</content></utterance>
+<utterance uid="12-21"><speaker>AIDA</speaker><content> I have come to America because it is my dream to become a successful painter someday.</content></utterance>
+<utterance uid="12-22"><speaker>CASTLE</speaker><content>Oh, very good.</content></utterance>
+<utterance uid="12-23"><speaker>CASTLE</speaker><content>Oh, oui, oui.</content></utterance>
+<utterance uid="12-24"><speaker>CASTLE</speaker><content>Hello, I am Jean Luc.</content></utterance>
+<utterance uid="12-25"><speaker>ACHMED</speaker><content>Hi, I am Achmed. I urinate now.</content></utterance>
+<utterance uid="12-26"><speaker>CASTLE</speaker><content>Okay.  Hello, I am Jean Luc.</content></utterance>
+<utterance uid="12-27"><speaker>CASTLE</speaker><content>Excuse me, Monsieur, perhaps it would help me to, how you say, catch up with the rest of the class if I was able to look at their assignments.</content></utterance>
+<utterance uid="12-28"><speaker>EMERSON</speaker><content>You’ll be fine, Jean Luc. In fact, your English is already quite good.</content></utterance>
+<utterance uid="12-29"><speaker>CASTLE</speaker><content>Ah, excuse me. One of the other students would like your attention.  In the back. Keep looking.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>BECKETT</speaker><content>Hey.</content></utterance>
+<utterance uid="13-2"><speaker>CASTLE</speaker><content>I figured out who send the text. Guy’s name is Alistair Gascoyne.</content></utterance>
+<utterance uid="13-3"><speaker>BECKETT</speaker><content>Are you sure it’s him?</content></utterance>
+<utterance uid="13-4"><speaker>CASTLE</speaker><content>Yeah. The grammatical structure in the text – “I got ways for to make you dead” – is a direct match to his homework assignment where he wrote “I went for to get some beer”.</content></utterance>
+<utterance uid="13-5"><speaker>BECKETT</speaker><content>Good job, Castle. I’ll have Ryan and Espo take it from here.</content></utterance>
+<utterance uid="13-6"><speaker>CASTLE</speaker><content>Are you going to tell them about my involvement?</content></utterance>
+<utterance uid="13-7"><speaker>BECKETT</speaker><content>I have to. I mean, I’ll say that you found out about the ESL class on your own and that I had no idea that you were going undercover.</content></utterance>
+<utterance uid="13-8"><speaker>CASTLE</speaker><content>You think they’ll buy it?</content></utterance>
+<utterance uid="13-9"><speaker>BECKETT</speaker><content>Oh, I don’t know. I mean, when have you ever gone against my wishes and interfered with an investigation?</content></utterance>
+<utterance uid="13-10"><speaker>CASTLE</speaker><content>No need for sarcasm, all you had to say was yes.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>RYAN</speaker><content>So we just got off the phone with the Metropolitan Police Service in London. They sure did have a lot to say about you, Alistair.</content></utterance>
+<utterance uid="14-2"><speaker>ESPOSITO</speaker><content>Multiple arrests for assault and battery. Said that you were an enforcer for a loan shark named Jimmy “the Bones” Barrett.</content></utterance>
+<utterance uid="14-3"><speaker>RYAN</speaker><content>Did you move to America and go into business for yourself, Alistair? Did Eddie owe you money, is that why you killed him?</content></utterance>
+<utterance uid="14-4"><speaker>ALISTAIR</speaker><content>Other way, man. Don’t shoot your gob off. I wasn’t even dunce tepache. I was mottle in the boozer when Eddie went down like.</content></utterance>
+<utterance uid="14-5"><speaker>ESPOSITO</speaker><content>If this guy is from England why doesn’t he speak English?</content></utterance>
+<utterance uid="14-6"><speaker>RYAN</speaker><content>I don’t know. But I think I know just the person to ask.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>HAYLEY</speaker><content>He’s a Geordie. From Newcastle. Though technically English, the language has evolved to include a certain unique vocabulary and grammatical structure. I can translate.</content></utterance>
+<utterance uid="15-2"><speaker>RYAN</speaker><content>You threatened to kill Eddie.</content></utterance>
+<utterance uid="15-3"><speaker>ALISTAIR</speaker><content>I sent the gadger the message. Maybe since I get improper ragey like.</content></utterance>
+<utterance uid="15-4"><speaker>HAYLEY</speaker><content>Oh, he says that he only sent Eddie the text message because he was furious.</content></utterance>
+<utterance uid="15-5"><speaker>ALISTAIR</speaker><content>Eddie asked us for the borrow gypsy motor buggy night. Two nights ago it was.</content></utterance>
+<utterance uid="15-6"><speaker>HAYLEY</speaker><content>He drives a gypsy cab and Eddie asked to borrow it two nights ago.</content></utterance>
+<utterance uid="15-7"><speaker>ALISTAIR</speaker><content>I right done. When the gadger done give it to us back it was right hackey with bullets mine.</content></utterance>
+<utterance uid="15-8"><speaker>HAYLEY</speaker><content>Oh goodness.</content></utterance>
+<utterance uid="15-9"><speaker>ALISTAIR</speaker><content>Some river shot my buggy!</content></utterance>
+<utterance uid="15-10"><speaker>HAYLEY</speaker><content>So when Alistair got the gypsy cab back the next morning it was riddled with bullet holes.</content></utterance>
+<utterance uid="15-11"><speaker>ESPOSITO</speaker><content>So someone shot up your cab.</content></utterance>
+<utterance uid="15-12"><speaker>ALISTAIR</speaker><content>Aye. Got me right ragey like. Eddie tells us, he meant to give us proper cultural to fettle it. The doylan never arrived.</content></utterance>
+<utterance uid="15-13"><speaker>HAYLEY</speaker><content>That’s why he was so livid. Eddie promised that he would pay for the damage and then he didn’t show up for class.</content></utterance>
+<utterance uid="15-14"><speaker>ALISTAIR</speaker><content>I thought Eddie gone to ground. So I festered out low like. But Eddie didn’t even mean it, man.</content></utterance>
+<utterance uid="15-15"><speaker>HAYLEY</speaker><content>He thought that Eddie was trying to dodge him and so that’s why he sent him the threatening message. But he swears he didn’t mean it. He’s just … really pissed off.</content></utterance>
+<utterance uid="15-16"><speaker>RYAN</speaker><content>Um … let’s assume that Alistair’s telling the truth. Do you know where he took your cab? Do you know if he was meeting someone?</content></utterance>
+<utterance uid="15-17"><speaker>ALISTAIR</speaker><content> Uh uh.</content></utterance>
+<utterance uid="15-18"><speaker>HAYLEY</speaker><content> Uh uh.</content></utterance>
+<utterance uid="15-19"><speaker>ESPOSITO</speaker><content>So tell us about your gypsy cab. Does it have GPS?</content></utterance>
+<utterance uid="15-20"><speaker>ALISTAIR</speaker><content> Aye.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>RYAN</speaker><content>Well Alistair alibied out. He was blind drunk at a pub during our time of death window.</content></utterance>
+<utterance uid="16-2"><speaker>BECKETT</speaker><content>And what about his gypsy cab?</content></utterance>
+<utterance uid="16-3"><speaker>RYAN</speaker><content>Looks like Alistair was telling the truth. Wherever Eddie drove that cab someone tried to kill him.</content></utterance>
+<utterance uid="16-4"><speaker>BECKETT</speaker><content>Wow, sounds like our mild mannered zoo worker rattled a few cages.</content></utterance>
+<utterance uid="16-5"><speaker>ESPOSITO</speaker><content>Actually, Eddie wasn’t so mild mannered after all. I got in touch with his next of kin in El Salvador. Eddie used to be a cop.</content></utterance>
+<utterance uid="16-6"><speaker>BECKETT</speaker><content>Wait. He was a cop? Why are we just hearing about this now?</content></utterance>
+<utterance uid="16-7"><speaker>ESPOSITO</speaker><content>He lied on his immigration forms.</content></utterance>
+<utterance uid="16-8"><speaker>RYAN</speaker><content>Why wouldn’t Eddie want people to know he’s a former police officer?</content></utterance>
+<utterance uid="16-9"><speaker>ESPOSITO</speaker><content>I thought that was strange, too, so I did a little digging. Apparently there were rumors that Eddie was part of a corrupt police unit. These guys were accused of extorting criminals, taking bribes.</content></utterance>
+<utterance uid="16-10"><speaker>VIKRAM</speaker><content>Hey. So I’ve gone through the GPS in Alistair’s gypsy cab. Looks like Eddie only made one stop. A place called the Saldana Club.</content></utterance>
+<utterance uid="16-11"><speaker>BECKETT</speaker><content>Okay, what do we know about this place?</content></utterance>
+<utterance uid="16-12"><speaker>VIKRAM</speaker><content>It’s run by Jose and Frankie Saldana, a couple of low level players, but they’ve got priors of assault and trafficking. Plus, word is they deal drugs out of their club.</content></utterance>
+<utterance uid="16-13"><speaker>RYAN</speaker><content>Well if Eddie used to shake down crooks in El Salvador maybe he was doing the same thing to these guys here.</content></utterance>
+<utterance uid="16-14"><speaker>BECKETT</speaker><content>And they might have killed him for it.</content></utterance>
+<utterance uid="16-15"><speaker>BECKETT</speaker><content>Let’s go.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>ESPOSITO</speaker><content>Jose and Frankie Saldana?</content></utterance>
+<utterance uid="17-2"><speaker>JOSE SALDANA</speaker><content>Yeah, who’s asking?</content></utterance>
+<utterance uid="17-3"><speaker>ESPOSITO</speaker><content>So what happened? Someone drop a grenade in here?</content></utterance>
+<utterance uid="17-4"><speaker>JOSE</speaker><content>We’re redecorating. You like?</content></utterance>
+<utterance uid="17-5"><speaker>RYAN</speaker><content>Looks like you boys got into a little trouble.</content></utterance>
+<utterance uid="17-6"><speaker>JOSE</speaker><content>Yeah. Rock climbing accident.</content></utterance>
+<utterance uid="17-7"><speaker>RYAN</speaker><content>Huh.</content></utterance>
+<utterance uid="17-8"><speaker>JOSE</speaker><content>See, Frankie here forgot how to tie one of those fancy knots.  Oopsie.</content></utterance>
+<utterance uid="17-9"><speaker>RYAN</speaker><content>So it’s got nothing to do with Eddie Ramirez? The guy you took a shot at?</content></utterance>
+<utterance uid="17-10"><speaker>BECKETT</speaker><content>Sorry, I have to get water.</content></utterance>
+<utterance uid="17-11"><speaker>JOSE</speaker><content>Eddie Ramirez? Never heard of him.</content></utterance>
+<utterance uid="17-12"><speaker>ESPOSITO</speaker><content>Really? Because if a short, fifty year old man broke my face and stole ten grand I’d remember. Let me jog your memory. Eddie –</content></utterance>
+<utterance uid="17-13"><speaker>BECKETT</speaker><content>Something on your mind?</content></utterance>
+<utterance uid="17-14"><speaker>BARTENDER</speaker><content>They’re lying their asses off. That man, Eddie Ramirez? He was here.</content></utterance>
+<utterance uid="17-15"><speaker>BECKETT</speaker><content>What happened?</content></utterance>
+<utterance uid="17-16"><speaker>BARTENDER</speaker><content>Came in all calm. Next thing I know he’s beating the crap out of Jose and Frankie. Forcing them to fill up a briefcase with cash.</content></utterance>
+<utterance uid="17-17"><speaker>BECKETT</speaker><content>And you saw that all happen?</content></utterance>
+<utterance uid="17-18"><speaker>BARTENDER</speaker><content>Oh yeah. As Eddie was walking out Frankie grabbed a gun from under the bar, hobbled out, shot up the guy’s car.</content></utterance>
+<utterance uid="17-19"><speaker>BECKETT</speaker><content>Okay, then what about last night? Did they go after Eddie? Try to get their revenge?</content></utterance>
+<utterance uid="17-20"><speaker>BARTENDER</speaker><content>They couldn’t have. They were both laid up in the hospital. Just got released this morning.</content></utterance>
+<utterance uid="17-21"><speaker>BECKETT</speaker><content>Why would Eddie come here to shake them down for money?</content></utterance>
+<utterance uid="17-22"><speaker>BARTENDER</speaker><content>I don’t this this was a straight up shake down. I overheard Eddie say he was doing this for some girl that used to work here. Waitress.</content></utterance>
+<utterance uid="17-23"><speaker>BECKETT</speaker><content>What girl?</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>CASTLE</speaker><content>Aida. You think she killed Eddie?</content></utterance>
+<utterance uid="18-2"><speaker>BECKETT</speaker><content>Well, all we know is that the Saldana brothers alibied out. And clearly she’s wrapped up in all of this.</content></utterance>
+<utterance uid="18-3"><speaker>AIDA</speaker><content>Why am I here? I have done no wrong.</content></utterance>
+<utterance uid="18-4"><speaker>RYAN</speaker><content>We just have a few questions about Eddie Ramirez.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>ESPOSITO</speaker><content>Look, Aida, we know about the robbery at the Saldana club.</content></utterance>
+<utterance uid="19-2"><speaker>AIDA</speaker><content>Eddie saw me crying after class three days ago. I was, um, très … um, very upset because I was fired from Saldana club.</content></utterance>
+<utterance uid="19-3"><speaker>ESPOSITO</speaker><content>So why were you fired?</content></utterance>
+<utterance uid="19-4"><speaker>AIDA</speaker><content>I worked two years there but because I don’t’ have green card Jose and Frankie make me give them thirty percent of my paycheck.</content></utterance>
+<utterance uid="19-5"><speaker>RYAN</speaker><content>They were extorting you?</content></utterance>
+<utterance uid="19-6"><speaker>AIDA</speaker><content>Yes. But from taking ESL class I get self-esteem and I demand my money. That when they fire me. When Eddie heard he was very furious. He say he would stand up to them and get all my money back.</content></utterance>
+<utterance uid="19-7"><speaker>RYAN</speaker><content>Okay, if that’s the case then why didn’t Eddie give you the money.</content></utterance>
+<utterance uid="19-8"><speaker>AIDA</speaker><content>Oh, but Eddie was going to. He call me yesterday morning to say he got ten thousand dollars for me. I just had to wait because he was not coming to class that day.</content></utterance>
+<utterance uid="19-9"><speaker>ESPOSITO</speaker><content>So why wasn’t Eddie coming to class yesterday?</content></utterance>
+<utterance uid="19-10"><speaker>AIDA</speaker><content>He tell me he was helping another student with a problem. A very dangerous problem.</content></utterance>
+<utterance uid="19-11"><speaker>ESPOSITO</speaker><content>Wait, Eddie was helping another student from the class? Who?</content></utterance>
+<utterance uid="19-12"><speaker>AIDA</speaker><content>Eddie did not say. But uh, when he told me he sound very nervous. Eddie say he uh … uncover a terrible conspiracy.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>RYAN</speaker><content>What kind of conspiracy?</content></utterance>
+<utterance uid="20-2"><speaker>AIDA</speaker><content>Eddie did not say. And that was the last time I hear from him.</content></utterance>
+<utterance uid="20-3"><speaker>BECKETT</speaker><content>If Eddie was helping other students in his class then that means –</content></utterance>
+<utterance uid="20-4"><speaker>CASTLE</speaker><content>He was the ESL Equalizer.</content></utterance>
+<utterance uid="20-5"><speaker>BECKETT</speaker><content>Pardon me?</content></utterance>
+<utterance uid="20-6"><speaker>CASTLE</speaker><content>The Equalizer. From the TV show. And the movie. He’s a highly skilled operative who exacts vigilante justice for innocent people that can’t defend themselves.</content></utterance>
+<utterance uid="20-7"><speaker>BECKETT</speaker><content>Yes, I am familiar with it, Castle. But Robert McCall’s character was a good guy. Eddie is a corrupt cop.</content></utterance>
+<utterance uid="20-8"><speaker>CASTLE</speaker><content>Or maybe he’s making amends. Atoning for previous sins. Isn’t that what the American dream’s all about? Trying to build a better future?</content></utterance>
+<utterance uid="20-9"><speaker>BECKETT</speaker><content>Well, all I know is I’m trying to build a better case right now and if Eddie was helping one of his fellow students with a dangerous problem, then –</content></utterance>
+<utterance uid="20-10"><speaker>CASTLE</speaker><content>That might be what got him killed.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>ESPOSITO</speaker><content>And this is Achmed Sayed. He emigrated to this country from Pakistan two years ago. He was a radar systems engineer in the military.</content></utterance>
+<utterance uid="21-2"><speaker>CASTLE</speaker><content>Achmed? Wow. And what does he do now?</content></utterance>
+<utterance uid="21-3"><speaker>ESPOSITO</speaker><content>He runs a hot dog cart in Chelsea.</content></utterance>
+<utterance uid="21-4"><speaker>RYAN</speaker><content>This is Kim Hyun Joo from Korea. She’s over here on an au pair visa for six months.</content></utterance>
+<utterance uid="21-5"><speaker>ESPOSITO</speaker><content>And this is Ernie Gonzalez, originally from Bogota. Now this guy was a lawyer. Now he’s temping as a delivery driver for Ronnie’s Chicken Hut.</content></utterance>
+<utterance uid="21-6"><speaker>CASTLE</speaker><content>What about Diego?</content></utterance>
+<utterance uid="21-7"><speaker>ESPOSITO</speaker><content>Ah.</content></utterance>
+<utterance uid="21-8"><speaker>RYAN</speaker><content>Diego Lopez from Mexico City. He works at an elementary school as a janitor.</content></utterance>
+<utterance uid="21-9"><speaker>CASTLE</speaker><content>And what did he do back home?</content></utterance>
+<utterance uid="21-10"><speaker>RYAN</speaker><content>Worked at an elementary school as a janitor.</content></utterance>
+<utterance uid="21-11"><speaker>CASTLE</speaker><content>Hmm.</content></utterance>
+<utterance uid="21-12"><speaker>ESPOSITO</speaker><content>These people all emigrated to this country in search of a better life. It looks like Eddie was trying to help them achieve that.</content></utterance>
+<utterance uid="21-13"><speaker>RYAN</speaker><content>Question is, how do we figure out who else Eddie was helping?</content></utterance>
+<utterance uid="21-14"><speaker>CASTLE</speaker><content>Well, tonight is international food night. And since Jean Luc is a chef I will be plying them with French delicacies.</content></utterance>
+<utterance uid="21-15"><speaker>ESPOSITO</speaker><content>You packing poutine?</content></utterance>
+<utterance uid="21-16"><speaker>CASTLE</speaker><content>Javier, I’ll have you know that French Canadians are proud descendants of Parisian culture. No, I’ll be serving them pastries from La Bernadine restaurant.</content></utterance>
+<utterance uid="21-17"><speaker>RYAN</speaker><content>Uh, Castle, that’s one of the premiere French restaurants in the world.  They don’t do takeout.</content></utterance>
+<utterance uid="21-18"><speaker>CASTLE</speaker><content> Perhaps not for Jean Luc de la Croix, but they will for Monsieur Castle.</content></utterance>
+<utterance uid="21-19"><speaker>CASTLE</speaker><content>Sorry about that.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>CASTLE</speaker><content>Salut, mes amis.</content></utterance>
+<utterance uid="22-2"><speaker>EMERSON</speaker><content>Oh, those look good.  You said the police were questioning you?</content></utterance>
+<utterance uid="22-3"><speaker>AIDA</speaker><content>Yes, they want to hear how Eddie was helping me. But I don’t think it was what got him killed.</content></utterance>
+<utterance uid="22-4"><speaker>ALISTAIR</speaker><content>No, the Duncan himself did.</content></utterance>
+<utterance uid="22-5"><speaker>AIDA</speaker><content> Ah.</content></utterance>
+<utterance uid="22-6"><speaker>ACHMED</speaker><content>Did the police have any information about the case?</content></utterance>
+<utterance uid="22-7"><speaker>AIDA</speaker><content>They did not tell me more.  Did Eddie ever say anything to you?</content></utterance>
+<utterance uid="22-8"><speaker>EMERSON</speaker><content>No, nothing.</content></utterance>
+<utterance uid="22-9"><speaker>KIM</speaker><content>Will you eat my gugsu?</content></utterance>
+<utterance uid="22-10"><speaker>CASTLE</speaker><content>Oh, uh …  Of course.</content></utterance>
+<utterance uid="22-11"><speaker>KIM</speaker><content>Jean Luc? What’s wrong? You don’t like it.</content></utterance>
+<utterance uid="22-12"><speaker>CASTLE</speaker><content>No, um … it’s fantastique. Where did you say this dish was from? I think I’ve had it somewhere before.</content></utterance>
+<utterance uid="22-13"><speaker>KIM</speaker><content>I doubt that’s true. It’s a family recipe from my village.</content></utterance>
+<utterance uid="22-14"><speaker>CASTLE</speaker><content>Oh. Very nice. Um … excusez- moi.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>CASTLE</speaker><content>Achmed, are you all right? You seem upset. Do you know who else Eddie was helping?</content></utterance>
+<utterance uid="23-2"><speaker>ACHMED</speaker><content>Yes. Me. I – I came to him with problem.</content></utterance>
+<utterance uid="23-3"><speaker>CASTLE</speaker><content>What was the problem?</content></utterance>
+<utterance uid="23-4"><speaker>ACHMED</speaker><content>A girl in my building is missing. She’s, uh … undocumented. Before she disappeared she tell me someone was forcing her to pay money or else.</content></utterance>
+<utterance uid="23-5"><speaker>CASTLE</speaker><content>And you told Eddie this?</content></utterance>
+<utterance uid="23-6"><speaker>ACHMED</speaker><content>Yes. He promised to find her. I – I ask about this the day he die and Eddie say it was all more dangerous than he thought. Eddie say he discovered a terrible conspiracy. And now he’s dead. All because of me.</content></utterance>
+<utterance uid="23-7"><speaker>CASTLE</speaker><content>No, Achmed, it is not your fault. But perhaps I can help. What is this girl’s name?</content></utterance>
+<utterance uid="23-8"><speaker>ACHMED</speaker><content>Anita Rodriguez.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>BECKETT</speaker><content>So I looked into our missing neighbor, Anita Rodriguez. Now, because she’s undocumented there’s next to no public record of her. But I did find out that she was working at a cleaning company off the books. Now, a week and a half ago she missed her shift and hasn’t been … seen … since.</content></utterance>
+<utterance uid="24-2"><speaker>BECKETT</speaker><content>Are you okay?</content></utterance>
+<utterance uid="24-3"><speaker>CASTLE</speaker><content>Yeah. Uh … something weird happened at ESL class today.</content></utterance>
+<utterance uid="24-4"><speaker>BECKETT</speaker><content>What happened?</content></utterance>
+<utterance uid="24-5"><speaker>ESPOSITO</speaker><content>Hey, so we just got back from Anita Rodriguez’s apartment. We got a hit on a print.</content></utterance>
+<utterance uid="24-6"><speaker>BECKETT</speaker><content>Marco Sutter?</content></utterance>
+<utterance uid="24-7"><speaker>RYAN</speaker><content>Yeah, he’s an enforcer from up in the Corona neighborhood. Organized crime has a file on this guy. Extortion, money laundering, assault with intent.</content></utterance>
+<utterance uid="24-8"><speaker>BECKETT</speaker><content>All right, go pick him up.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>RYAN</speaker><content>Marco Sutter? NYPD.</content></utterance>
+<utterance uid="25-2"><speaker>RYAN</speaker><content>Hold it right there.</content></utterance>
+<utterance uid="25-3"><speaker>RYAN</speaker><content>Gun!</content></utterance>
+<utterance uid="25-4"><speaker>RYAN</speaker><content>Let’s go.</content></utterance>
+<utterance uid="25-5"><speaker>ESPOSITO</speaker><content>Go, go, go!</content></utterance>
+<utterance uid="25-6"><speaker>RYAN</speaker><content>NYPD! Let me see your hands up right now!</content></utterance>
+<utterance uid="25-7"><speaker>ESPOSITO</speaker><content>Put them out the window, now!</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>BECKETT</speaker><content>Here’s what I think. You tried to extort a powerless immigrant and when she couldn’t pay you killed her.  And when Eddie came looking for her you killed him, too.</content></utterance>
+<utterance uid="26-2"><speaker>MARCO</speaker><content>I want a lawyer.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>RYAN</speaker><content>Hey.</content></utterance>
+<utterance uid="27-2"><speaker>BECKETT</speaker><content>Marco lawyered up.</content></utterance>
+<utterance uid="27-3"><speaker>RYAN</speaker><content>But check this out. We found something interesting tucked inside his wallet.</content></utterance>
+<utterance uid="27-4"><speaker>ESPOSITO</speaker><content>We tacked it to a locker out of the GW Bridge bus station.</content></utterance>
+<utterance uid="27-5"><speaker>BECKETT</speaker><content>I doubt Marco’s keeping his laundry there. Could be evidence we can use as leverage.</content></utterance>
+<utterance uid="27-6"><speaker>ESPOSITO</speaker><content>We’ll look into it.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>RYAN</speaker><content> What a day.</content></utterance>
+<utterance uid="28-2"><speaker>ESPOSITO</speaker><content>Tell me about it. A pit of snakes, getting shot at.</content></utterance>
+<utterance uid="28-3"><speaker>RYAN</speaker><content>Thank God it’s almost over. I don’t think that I could take any more excitement.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>AGENT NAPIER</speaker><content>Do you know how long the FBI’s been on this case? Two years! Before Crockett and Tubbs here T-boned my stakeout.</content></utterance>
+<utterance uid="29-2"><speaker>BECKETT</speaker><content>Detectives Ryan and Esposito are investigating a homicide, Agent Napier. And no FBI alert came across my desk about your precious little stakeout so why don’t you drop the attitude?</content></utterance>
+<utterance uid="29-3"><speaker>AGENT NAPIER</speaker><content>How’d you find that locker?</content></utterance>
+<utterance uid="29-4"><speaker>BECKETT</speaker><content>Our murder suspect had a key on him when we arrested him.</content></utterance>
+<utterance uid="29-5"><speaker>AGENT NAPIER</speaker><content>And this suspect, does he have a name?</content></utterance>
+<utterance uid="29-6"><speaker>BECKETT</speaker><content>No. Not until you tell me what’s going on.</content></utterance>
+<utterance uid="29-7"><speaker>AGENT NAPIER</speaker><content>I’m not at liberty to discuss the specifics of my case.</content></utterance>
+<utterance uid="29-8"><speaker>BECKETT</speaker><content>Okay. Then I guess we’re done here.</content></utterance>
+<utterance uid="29-9"><speaker>AGENT NAPIER</speaker><content>It’s Marco Sutter, isn’t it? It’s the only logical person to have a key. You need to let him go.</content></utterance>
+<utterance uid="29-10"><speaker>ESPOSITO</speaker><content>Screw that. He shot at us.</content></utterance>
+<utterance uid="29-11"><speaker>AGENT NAPIER</speaker><content>I don’t care.</content></utterance>
+<utterance uid="29-12"><speaker>RYAN</speaker><content>Well you should, because if we let him go after that he’s going to figure out why pretty fast.</content></utterance>
+<utterance uid="29-13"><speaker>BECKETT</speaker><content>I’m guessing Marco’s the low man on your totem pole and you’re tracking the money from his shakedown operations to get to your real target. So why don’t you let us in on the investigation. We can work this together.</content></utterance>
+<utterance uid="29-14"><speaker>AGENT NAPIER</speaker><content>Mmm, that’s not in my playbook, but you’re right. Marco is small potatoes, so you go ahead and keep him. You just remember, my federal case trumps your homicide. So steer clear.</content></utterance>
+<utterance uid="29-15"><speaker>ESPOSITO</speaker><content>So you going to let that pretty boy steamroll us?</content></utterance>
+<utterance uid="29-16"><speaker>BECKETT</speaker><content>No. If Marco killed Eddie then we are going to take him down, along with anyone connected to him. But we have to tread lightly, so I’m going to reach out to my guys in the FBI and see if they can tell us what Napier’s up to.</content></utterance>
+</scene>
+
+<scene id="30"><utterance uid="30-1"><speaker>BECKETT</speaker><content>Castle?</content></utterance>
+<utterance uid="30-2"><speaker>BECKETT</speaker><content>Uh, what’s going on?</content></utterance>
+<utterance uid="30-3"><speaker>CASTLE</speaker><content>Hey. Where’s your passport? We’ve got to go to Korea.</content></utterance>
+<utterance uid="30-4"><speaker>BECKETT</speaker><content>Why?</content></utterance>
+<utterance uid="30-5"><speaker>CASTLE</speaker><content>Because I’ve finally figured it out. My missing time? Now it all makes sense. Well, it mostly makes sense.</content></utterance>
+<utterance uid="30-6"><speaker>BECKETT</speaker><content>Wait a minute, is this about what happened in your classroom?</content></utterance>
+<utterance uid="30-7"><speaker>CASTLE</speaker><content> I ate a dish today, it triggered a memory. I was in Korea, surrounded by locals, and I could see that temple.</content></utterance>
+<utterance uid="30-8"><speaker>BECKETT</speaker><content>Tongdosa Temple?</content></utterance>
+<utterance uid="30-9"><speaker>CASTLE</speaker><content>It’s in the South Gyeongsang Province.</content></utterance>
+<utterance uid="30-10"><speaker>BECKETT</speaker><content>Okay, well we know that you were in Thailand, so Korea’s not a stretch.</content></utterance>
+<utterance uid="30-11"><speaker>CASTLE</speaker><content>Yeah, I must have gone there right after.</content></utterance>
+<utterance uid="30-12"><speaker>BECKETT</speaker><content>But why?</content></utterance>
+<utterance uid="30-13"><speaker>CASTLE</speaker><content>I have no idea. I – I ordered more food in hopes of jogging another memory. Didn’t work, but that’s okay. When we get to Korea all the food is –</content></utterance>
+<utterance uid="30-14"><speaker>BECKETT</speaker><content>No, no, no, Castle, I’m not going to Korea.</content></utterance>
+<utterance uid="30-15"><speaker>CASTLE</speaker><content>Yeah. You’re right I should go first, that way –</content></utterance>
+<utterance uid="30-16"><speaker>BECKETT</speaker><content>And neither are you. We don’t have enough information yet. It’s too dangerous. You almost got killed in Thailand.</content></utterance>
+<utterance uid="30-17"><speaker>CASTLE</speaker><content>Yeah. Yes, you're right. I’ll just try to keep triggering more memories loose.  Are you in the mood for some kimchi? Because I bought, like, four hundred dollars’ worth and –  – that stuff goes right through me.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>ESPOSITO</speaker><content>So so far there’s no physical evidence linking Marco to Eddie’s murder. Do you have any insight from your federal contacts?</content></utterance>
+<utterance uid="31-2"><speaker>BECKETT</speaker><content>Only that Agent Napier specializes in fraud and financial crimes.</content></utterance>
+<utterance uid="31-3"><speaker>ESPOSITO</speaker><content>Well since when does financial crimes trump homicide?</content></utterance>
+<utterance uid="31-4"><speaker>BECKETT</speaker><content>Never, as far as I’m concerned.</content></utterance>
+<utterance uid="31-5"><speaker>VIKRAM</speaker><content>Who is the sexiest digital investigator alive?</content></utterance>
+<utterance uid="31-6"><speaker>ESPOSITO</speaker><content>There is no way I’m saying you, bro.</content></utterance>
+<utterance uid="31-7"><speaker>BECKETT</speaker><content>Okay, what’ve you got?</content></utterance>
+<utterance uid="31-8"><speaker>VIKRAM</speaker><content>Anita Rodriguez.  And she’s alive.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>VIKRAM</speaker><content>She’s in Texas being held in a private detention center awaiting deportation.</content></utterance>
+<utterance uid="32-2"><speaker>CASTLE</speaker><content>Thank God she’s alright.</content></utterance>
+<utterance uid="32-3"><speaker>HAYLEY</speaker><content>How on Earth did you find her? There must be hundreds of Anita Rodríguezes out there.</content></utterance>
+<utterance uid="32-4"><speaker>VIKRAM</speaker><content>Her fingerprints. And the paper trail for how she ended up at the facility is pretty thin.</content></utterance>
+<utterance uid="32-5"><speaker>BECKETT</speaker><content>Intentionally so?</content></utterance>
+<utterance uid="32-6"><speaker>VIKRAM</speaker><content>Maybe. But there was one name I could track. Judge Jason Caldwell. He signed the deportation order and from his record there is nothing he likes in this world more than deporting foreigners.</content></utterance>
+<utterance uid="32-7"><speaker>BECKETT</speaker><content>That doesn’t prove that he had anything to do with Eddie’s murder.</content></utterance>
+<utterance uid="32-8"><speaker>VIKRAM</speaker><content>No, but this is pretty damn incriminating.  The day before the murder our victim got into a shoving match with Judge Caldwell at the courthouse.</content></utterance>
+<utterance uid="32-9"><speaker>HAYLEY</speaker><content>Eddie must have connected the judge to Marco’s extortion scheme and gone down there to confront him.</content></utterance>
+<utterance uid="32-10"><speaker>BECKETT</speaker><content>If Eddie threatened to expose the criminal conspiracy the judge would have a strong motive to kill him.</content></utterance>
+<utterance uid="32-11"><speaker>CASTLE</speaker><content>I don’t get it. The financial upside to extorting immigrants cannot be that high. Why would a judge who makes six figures a year get involved?</content></utterance>
+<utterance uid="32-12"><speaker>VIKRAM</speaker><content>My assumption is Marco kept the extortion money for himself.</content></utterance>
+<utterance uid="32-13"><speaker>BECKETT</speaker><content>What would the judge get out of it?</content></utterance>
+<utterance uid="32-14"><speaker>VIKRAM</speaker><content>Huge kickbacks from a private prison in Texas. According to Judge Caldwell’s financials he’s got a sweetheart deal with a company that runs a detention center in El Paso. He literally gets paid for every bed that he fills.</content></utterance>
+<utterance uid="32-15"><speaker>HAYLEY</speaker><content>So Marco shakes down the immigrants for money. Sooner or later they run out of cash and then Caldwell ships them to Texas.</content></utterance>
+<utterance uid="32-16"><speaker>BECKETT</speaker><content>And gets paid.</content></utterance>
+<utterance uid="32-17"><speaker>CASTLE</speaker><content>I hate this guy.</content></utterance>
+<utterance uid="32-18"><speaker>ESPOSITO</speaker><content>Me too. Let’s bring him in.</content></utterance>
+<utterance uid="32-19"><speaker>BECKETT</speaker><content>No, wait, you guys, he’s a federal judge. We can’t just go after him. If we’re wrong then we’ll …  … wait, go full on the security cam.</content></utterance>
+<utterance uid="32-20"><speaker>BECKETT</speaker><content>Guys, look at the janitor. He’s wearing an earpiece.</content></utterance>
+<utterance uid="32-21"><speaker>VIKRAM</speaker><content>Why would a janitor need an earpiece?</content></utterance>
+<utterance uid="32-22"><speaker>ESPOSITO</speaker><content>So is the guy on the bench with the newspaper.</content></utterance>
+<utterance uid="32-23"><speaker>BECKETT</speaker><content>Which means it’s an FBI surveillance team following the judge.</content></utterance>
+<utterance uid="32-24"><speaker>CASTLE</speaker><content>He must be the FBI’s real target.</content></utterance>
+<utterance uid="32-25"><speaker>BECKETT</speaker><content>Ugh, we can’t go at this guy. Not with the Feds watching. Napier clearly stated that we were not to step on his investigation.</content></utterance>
+<utterance uid="32-26"><speaker>CASTLE</speaker><content>The NYPD can’t. But I can. With a little help from my friends.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>AGENT NAPIER</speaker><content>Caldwell’s on the move, heading to the courthouse.</content></utterance>
+<utterance uid="33-2"><speaker>ACHMED</speaker><content>I’m so sorry! A thousand pardons!</content></utterance>
+<utterance uid="33-3"><speaker>AGENT NAPIER</speaker><content>Get out of the way.</content></utterance>
+<utterance uid="33-4"><speaker>KIM</speaker><content>Your baby’s so adorable!</content></utterance>
+<utterance uid="33-5"><speaker>AIDA</speaker><content>So is yours!</content></utterance>
+<utterance uid="33-6"><speaker>AGENT NAPIER</speaker><content>Excuse me.</content></utterance>
+<utterance uid="33-7"><speaker>AGENT NAPIER</speaker><content>Team two, subject is coming your way.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>FBI AGENT</speaker><content>Can’t help you.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>DIEGO</speaker><content>Service elevator down the hall.</content></utterance>
+<utterance uid="35-2"><speaker>CALDWELL</speaker><content>Oh. Thank you.</content></utterance>
+<utterance uid="35-3"><speaker>AGENT NAPIER</speaker><content>Hey. Did the Judge go up in the elevator?</content></utterance>
+<utterance uid="35-4"><speaker>DIEGO</speaker><content> No entiendo.</content></utterance>
+<utterance uid="35-5"><speaker>AGENT NAPIER</speaker><content>Damn it.</content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>CASTLE</speaker><content>After you.</content></utterance>
+<utterance uid="36-2"><speaker>CALDWELL</speaker><content>Thank you.</content></utterance>
+<utterance uid="36-3"><speaker>CALDWELL</speaker><content>This can’t be right.</content></utterance>
+<utterance uid="36-4"><speaker>CASTLE</speaker><content>Where’s the service elevator?</content></utterance>
+<utterance uid="36-5"><speaker>CASTLE</speaker><content>Oh my God.</content></utterance>
+<utterance uid="36-6"><speaker>HAYLEY</speaker><content>You killed my fiancé.</content></utterance>
+<utterance uid="36-7"><speaker>CALDWELL</speaker><content>Hold on, I don’t know what you’re talking about.</content></utterance>
+<utterance uid="36-8"><speaker>HAYLEY</speaker><content>You are Judge Caldwell. You murdered my fiancé Eddie Ramirez.</content></utterance>
+<utterance uid="36-9"><speaker>CALDWELL</speaker><content>I have no idea who that is.</content></utterance>
+<utterance uid="36-10"><speaker>HAYLEY</speaker><content>Stop telling lies! I know you are the one who did it.</content></utterance>
+<utterance uid="36-11"><speaker>CASTLE</speaker><content>Lady, listen, you don’t want to do this, all right? He’s not worth it.</content></utterance>
+<utterance uid="36-12"><speaker>CALDWELL</speaker><content>Oh – okay! I did know him. But I promise, I didn’t kill him. I didn’t have to.</content></utterance>
+<utterance uid="36-13"><speaker>HAYLEY</speaker><content>What do you mean, you didn’t have to?</content></utterance>
+<utterance uid="36-14"><speaker>CALDWELL</speaker><content>The guy was a cop. He had enemies. And the enemies of my enemies are –</content></utterance>
+<utterance uid="36-15"><speaker>CALDWELL</speaker><content>What is this, some kind of a setup? Who the hell are you people?</content></utterance>
+<utterance uid="36-16"><speaker>HAYLEY</speaker><content>You – you had better tell me what happened or I’m going to shoot you!</content></utterance>
+<utterance uid="36-17"><speaker>CALDWELL</speaker><content>The hell you will.</content></utterance>
+<utterance uid="36-18"><speaker>CASTLE</speaker><content>Just let him go.  Damn it, we were so close.</content></utterance>
+</scene>
+<scene id="37"><utterance uid="37-1"><speaker>ESPOSITO</speaker><content>The enemy of enemy … is my friend. Do you think the judge dropped a dime to one of Eddie’s enemies back in El Salvador?</content></utterance>
+<utterance uid="37-2"><speaker>RYAN</speaker><content>Question is, how did the judge find out the names of Eddie’s enemies back in El Salvador?</content></utterance>
+<utterance uid="37-3"><speaker>BECKETT</speaker><content>I don’t know, but Castle said that the judge referenced Eddie’s past as a cop. Why don’t you guys see if you can find out who had a beef with Eddie back in his home country.</content></utterance>
+<utterance uid="37-4"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+<utterance uid="37-5"><speaker>AGENT NAPIER</speaker><content>Captain Beckett. Do you have any idea what you’ve done?</content></utterance>
+<utterance uid="37-6"><speaker>BECKETT</speaker><content>I have a feeling you’re about to tell me.</content></utterance>
+</scene>
+<scene id="38"><utterance uid="38-1"><speaker>AGENT NAPIER</speaker><content>We lose eyes on Judge Caldwell for all of ten minutes and the next thing you know he’s canceled court and he’s holed up with his lawyer.</content></utterance>
+<utterance uid="38-2"><speaker>BECKETT</speaker><content>I’m sorry, who is this judge exactly?</content></utterance>
+<utterance uid="38-3"><speaker>AGENT NAPIER</speaker><content>Knock it off, Captain. We know you were on to Caldwell this morning. We pulled surveillance video from the courthouse. Your husband and his band of immigrant misfits are all over the footage.</content></utterance>
+<utterance uid="38-4"><speaker>BECKETT</speaker><content>Okay, then I will make sure my guys question him.</content></utterance>
+<utterance uid="38-5"><speaker>AGENT NAPIER</speaker><content>Well you better move fast. Because I plan on having each and every one of them deported for this.</content></utterance>
+<utterance uid="38-6"><speaker>BECKETT</speaker><content>No, you want to go after someone you go after me. But leave those people alone.</content></utterance>
+<utterance uid="38-7"><speaker>AGENT NAPIER</speaker><content>They interfered with a federal investigation.</content></utterance>
+<utterance uid="38-8"><speaker>BECKETT</speaker><content>Their friend was murdered. They wanted justice, which includes the ability to live and work in this country without being victimized by a government appointed judge or a power-hungry FBI agent. Eddie’s killer was solicited by Judge Caldwell, which means he’s complicit in the murder. So you help me identify his killer and we will put the good judge away in federal prison for the rest of his life.</content></utterance>
+</scene>
+<scene id="39"><utterance uid="39-1"><speaker>AGENT NAPIER</speaker><content>Meet Alonzo Sanchez, foot solider for the Sinaloa drug cartel based out of San Miguel.</content></utterance>
+<utterance uid="39-2"><speaker>BECKETT</speaker><content>What’s his connection to your case?</content></utterance>
+<utterance uid="39-3"><speaker>AGENT NAPIER</speaker><content>Judge Caldwell expedited his visa forty eight hours ago. We weren’t sure why until you mentioned Eddie Ramirez. Turns out that they had history. Eddie killed Alonzo’s brother, Mario, back when he was cop in El Salvador.</content></utterance>
+<utterance uid="39-4"><speaker>ESPOSITO</speaker><content>The enemy of my enemy is my friend. This must be who Judge Caldwell was talking about.</content></utterance>
+<utterance uid="39-5"><speaker>BECKETT</speaker><content>Alonzo was out for revenge against Eddie and the judge was all too happy to help.</content></utterance>
+<utterance uid="39-6"><speaker>RYAN</speaker><content>Thanks.  Alonzo Sanchez landed at JFK four hours before Eddie was killed.</content></utterance>
+<utterance uid="39-7"><speaker>BECKETT</speaker><content>Okay, sounds like we have our killer. Now we just have to track him down before he goes back home.</content></utterance>
+<utterance uid="39-8"><speaker>RYAN</speaker><content>We might be too late for that. He boarded a flight fifteen minutes ago. He’s already in the air.</content></utterance>
+<utterance uid="39-9"><speaker>ESPOSITO</speaker><content>Well then we’re done. There’s no way we can get him now.</content></utterance>
+<utterance uid="39-10"><speaker>AGENT NAPIER</speaker><content>No, you can’t.  But I can.  This is Agent Napier. I need to turn a plane around.</content></utterance>
+</scene>
+<scene id="40"><utterance uid="40-1"><speaker>BECKETT</speaker><content>It’s too back your plane got rerouted, Alonzo. On the bright side, I spoke to the airline and you’re still going to get the miles.</content></utterance>
+<utterance uid="40-2"><speaker>ALONZO SANCHEZ</speaker><content>You’ve got nothing on me. I was here legally.</content></utterance>
+<utterance uid="40-3"><speaker>AGENT NAPIER</speaker><content>Well what was the purpose of the trip?</content></utterance>
+<utterance uid="40-4"><speaker>ALONZO</speaker><content>Visiting an old friend.</content></utterance>
+<utterance uid="40-5"><speaker>BECKETT</speaker><content>Visiting? Or feeding him to the snakes.</content></utterance>
+<utterance uid="40-6"><speaker>ALONZO</speaker><content>What?</content></utterance>
+<utterance uid="40-7"><speaker>AGENT NAPIER</speaker><content>Come on, Alonzo. Drop the act. We know you came here for Eddie Ramirez. He killed your brother. And Judge Caldwell, he greased the wheels to get you up here.</content></utterance>
+<utterance uid="40-8"><speaker>ALONZO</speaker><content>Judge who? I don’t know what you’re talking about, man.</content></utterance>
+<utterance uid="40-9"><speaker>BECKETT</speaker><content>We tracked down the cab driver who picked you up from the airport and took you to the zoo. We know you killed Eddie.</content></utterance>
+<utterance uid="40-10"><speaker>ALONZO</speaker><content>Eddie is dead?  That wasn’t me.  Okay. The judge reached out to me, and yes, I went to the zoo to see Eddie but I did not kill him.</content></utterance>
+<utterance uid="40-11"><speaker>AGENT NAPIER</speaker><content>So what’d you come up here for, then? A friendly chat? Maybe a frozen hot chocolate at Serendipity?</content></utterance>
+<utterance uid="40-12"><speaker>ALONZO</speaker><content>I came here with revenge in my heart. I thought that Eddie was responsible for my brother’s death. But I was wrong. Eddie convinced me that he had been working with my brother in secret. Protecting him.</content></utterance>
+<utterance uid="40-13"><speaker>BECKETT</speaker><content>Eddie would tell you anything if he thought you were going to kill him. So what made you believe him?</content></utterance>
+<utterance uid="40-14"><speaker>ALONZO</speaker><content>Eddie knew things about Mario that only someone close to my brother would know. And his attitude wasn’t that of a man lying to save his life.</content></utterance>
+<utterance uid="40-15"><speaker>BECKETT</speaker><content>What do you mean by that?</content></utterance>
+<utterance uid="40-16"><speaker>ALONZO</speaker><content>Eddie hated the man that he was back in El Salvador. What he did to protect my brother weighed on him. He told me that he despised everything my family stands for. What he used to stand for. That’s why he came to America. To start over, build a new life. Here.</content></utterance>
+<utterance uid="40-17"><speaker>BECKETT</speaker><content>And he did. Until somebody took it away from him.</content></utterance>
+</scene>
+<scene id="41"><utterance uid="41-1"><speaker>BECKETT</speaker><content> Hey.</content></utterance>
+<utterance uid="41-2"><speaker>CASTLE</speaker><content>Hey.</content></utterance>
+<utterance uid="41-3"><speaker>BECKET</speaker><content>Oh.  So Alonzo alibied out. Looks like we were wrong about Judge Caldwell’s involvement.</content></utterance>
+<utterance uid="41-4"><speaker>CASTLE</speaker><content>No. We’re missing something. Eddie confronted the judge and the next day he was killed.</content></utterance>
+<utterance uid="41-5"><speaker>BECKETT</speaker><content>Well, we know it wasn’t the judge. He was under twenty four hour surveillance. And besides, he thought that Alonzo was going to take care of it.</content></utterance>
+<utterance uid="41-6"><speaker>CASTLE</speaker><content>Eddie confronts the judge. Twelve hours later Alonzo’s on a plane with an approved visa.  How did the judge even know about Alonzo? Who told him?</content></utterance>
+<utterance uid="41-7"><speaker>BECKETT</speaker><content>No, you’re right. We didn’t even know about Alonzo. How did the judge find out so quickly?</content></utterance>
+<utterance uid="41-8"><speaker>CASTLE</speaker><content>There has to be someone else involved in this conspiracy. Someone close to Eddie.</content></utterance>
+<utterance uid="41-9"><speaker>BECKETT</speaker><content>Well, the only people that are close to him are in ESL class. So who would kill him?</content></utterance>
+<utterance uid="41-10"><speaker>CASTLE</speaker><content>I think I know. And you know what this means, Beckett? After all these years I finally get to say … j’accuse.</content></utterance>
+</scene>
+<scene id="42"><utterance uid="42-1"><speaker>EMERSON</speaker><content>So we’re going to focus in on the verbs. Now, if we had –  – Jean Luc, you’re late.</content></utterance>
+<utterance uid="42-2"><speaker>CASTLE</speaker><content>Oh, oui, Monsieur. Pardonne moi.</content></utterance>
+<utterance uid="42-3"><speaker>EMERSON</speaker><content>That’s all right. Have a seat.</content></utterance>
+<utterance uid="42-4"><speaker>EMERSON</speaker><content>Actually, Monsieur Emerson, if I could just have a word with … you. In private, sil vous plaît.</content></utterance>
+<utterance uid="42-5"><speaker>EMERSON</speaker><content>Sure.</content></utterance>
+</scene>
+<scene id="43"><utterance uid="43-1"><speaker>EMERSON</speaker><content>Jean Luc? Did you bring these men here?</content></utterance>
+<utterance uid="43-2"><speaker>CASTLE</speaker><content>Oh yeah, they’re with me. They’re here to arrest you for the murder of Eddie Ramirez.</content></utterance>
+<utterance uid="43-3"><speaker>EMERSON</speaker><content> What?</content></utterance>
+<utterance uid="43-4"><speaker>ESPOSITO</speaker><content>We know you were working with Judge Caldwell, funneling him immigrants in exchange for a cut of the extortion money.</content></utterance>
+<utterance uid="43-5"><speaker>RYAN</speaker><content>You know each one of their pressure points, which ones were illegal.</content></utterance>
+<utterance uid="43-6"><speaker>EMERSON</speaker><content>That’s absurd.</content></utterance>
+<utterance uid="43-7"><speaker>RYAN</speaker><content>Is it? Then why are so many of your students in those private detention centers? Too many to be a coincidence.</content></utterance>
+<utterance uid="43-8"><speaker>CASTLE</speaker><content>It’s a solid plan. I mean, who’s going to notice? They’re here alone, marginalized by society. In your position I’d’ve done the same thing.</content></utterance>
+<utterance uid="43-9"><speaker>ESPOSITO</speaker><content>No you wouldn’t.</content></utterance>
+<utterance uid="43-10"><speaker>CASTLE</speaker><content>No, I wouldn’t. I have a soul.</content></utterance>
+<utterance uid="43-11"><speaker>ESPOSITO</speaker><content>Come on. Let’s go.</content></utterance>
+</scene>
+<scene id="44"><utterance uid="44-1"><speaker>CASTLE</speaker><content>Everyone, I have some good news. Anita Rodriguez has been released.  And a federal investigation has been launched into the private detention facility that was holding her.</content></utterance>
+<utterance uid="44-2"><speaker>HAYLEY</speaker><content>Nice.</content></utterance>
+<utterance uid="44-3"><speaker>ACHMED</speaker><content>What about the judge?</content></utterance>
+<utterance uid="44-4"><speaker>CASTLE</speaker><content>Your teacher sold him out. He confessed to everything. Now the FBI can properly prosecute the judge and justice has been served.</content></utterance>
+<utterance uid="44-5"><speaker>AIDA</speaker><content>Si magnificent! Oh, but uh … who will finish teaching us now?</content></utterance>
+<utterance uid="44-6"><speaker>KIM</speaker><content>I saw on the website. It’s Mr. Castle.</content></utterance>
+<utterance uid="44-7"><speaker>CASTLE</speaker><content>Uh … I’m – I’m so sorry, I have no idea how that got on there.</content></utterance>
+<utterance uid="44-8"><speaker>HAYLEY</speaker><content>I do. Only the Castle that will be filling in isn’t a mister.</content></utterance>
+<utterance uid="44-9"><speaker>ALEXIS</speaker><content>It’s me.</content></utterance>
+<utterance uid="44-10"><speaker>CASTLE</speaker><content>Really?</content></utterance>
+<utterance uid="44-11"><speaker>ALEXIS</speaker><content>Uh huh.</content></utterance>
+<utterance uid="44-12"><speaker>CASTLE</speaker><content>Nice work.</content></utterance>
+<utterance uid="44-13"><speaker>ALEXIS</speaker><content>Thanks.</content></utterance>
+<utterance uid="44-14"><speaker>MARTHA RODGERS</speaker><content>Darling, I am so proud. Isn’t she lovely. Okay, everyone. Shall we dine? Follow me.</content></utterance>
+<utterance uid="44-15"><speaker>CASTLE</speaker><content>Ah, yes. And everyone, we are so glad that you are all able to join us. Now, we celebrated your food earlier. We think it’s time for you guys to celebrate some American food.</content></utterance>
+<utterance uid="44-16"><speaker>MARTHA</speaker><content>Voila.</content></utterance>
+<utterance uid="44-17"><speaker>ACHMED</speaker><content>This is American food?</content></utterance>
+<utterance uid="44-18"><speaker>DIEGO</speaker><content>It’s very … international.</content></utterance>
+<utterance uid="44-19"><speaker>MARTHA</speaker><content>Exactly. And this country was founded by immigrants. And it’s those customs and cultures that have shaped and molded us. And you – and you are the ones that make this country great.</content></utterance>
+<utterance uid="44-20"><speaker>CASTLE</speaker><content>Mother, I couldn’t have said it better myself. Now, let’s dig in.</content></utterance>
+<utterance uid="44-21"><speaker>MARTHA</speaker><content>Yes. Yes.</content></utterance>
+<utterance uid="44-22"><speaker>CASTLE</speaker><content>There are plates behind you there.</content></utterance>
+</scene>
+<scene id="45"><utterance uid="45-1"><speaker>BECKETT</speaker><content>What is it?</content></utterance>
+<utterance uid="45-2"><speaker>CASTLE</speaker><content>I wasn’t in Korea. I was in Koreatown. In Los Angeles. Beckett, I’ve got to go to LA.</content></utterance>
+<utterance uid="45-3"><speaker>THE END</speaker><content>CASTLE</content></utterance>
+</scene>
+</script>

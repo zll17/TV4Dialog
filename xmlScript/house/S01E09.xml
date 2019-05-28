@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+<scene id="1"><utterance uid="1-1"><speaker>Brandy</speaker><content>This is a really nice room!</content></utterance>
+<utterance uid="1-2"><speaker>Tommy</speaker><content>Yeah, it sounds thick. Too bad he’s not coming.</content></utterance>
+<utterance uid="1-3"><speaker>Brandy</speaker><content>Look, I talked to him myself. He’ll be here.</content></utterance>
+<utterance uid="1-4"><speaker>Tommy</speaker><content>Right.</content></utterance>
+<utterance uid="1-5"><speaker>Brandy</speaker><content>You’re the one who said the song could use a horn part, so I got the best. John Henry!</content></utterance>
+<utterance uid="1-6"><speaker>Tommy</speaker><content>You think I’m stupid?</content></utterance>
+<utterance uid="1-7"><speaker>Brandy</speaker><content>Of course I do, but that’s not the point.  He’ll be here, okay? </content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>John</speaker><content> Take a left up ahead.</content></utterance>
+<utterance uid="2-2"><speaker>Cora</speaker><content>South Street? I cancelled this gig. You said you didn’t want to do any sessions for a while.</content></utterance>
+<utterance uid="2-3"><speaker>John</speaker><content>For a while. I called her; I un-cancelled it.</content></utterance>
+<utterance uid="2-4"><speaker>Cora</speaker><content>But you up to it?</content></utterance>
+<utterance uid="2-5"><speaker>John</speaker><content>Let’s find out.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>Tommy</speaker><content> You lied to me, John Henry’s never gonna show up!</content></utterance>
+<utterance uid="3-2"><speaker>Brandy</speaker><content>Will you stop?</content></utterance>
+<utterance uid="3-3"><speaker>Tommy</speaker><content> It’s been, like, two hours.</content></utterance>
+<utterance uid="3-4"><speaker>Brandy</speaker><content>And we will keep waiting. I mean, you’ve heard this guy play and you know what he does, so can you just shut up, Tommy? </content></utterance>
+<utterance uid="3-5"><speaker>Brandy</speaker><content>Oh, my God!</content></utterance>
+<utterance uid="3-6"><speaker>John</speaker><content>Am I late? </content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>Brandy</speaker><content>You need to hear it again?</content></utterance>
+<utterance uid="4-2"><speaker>John</speaker><content>Nope, I get it. Let’s try one. See what we get. Let’s do it. </content></utterance>
+<utterance uid="4-3"><speaker>Cora</speaker><content>John! You okay? You okay? </content></utterance>
+<utterance uid="4-4"><speaker>John</speaker><content>I can’t breathe, I can’t breathe. </content></utterance>
+<utterance uid="4-5"><speaker>Cora</speaker><content>Call an ambulance! Now! </content></utterance>
+</scene>
+
+<scene id="5"><utterance uid="5-1"><speaker>House</speaker><content>I want in.</content></utterance>
+<utterance uid="5-2"><speaker>Cuddy</speaker><content>John Henry Giles, you a fan of his music?</content></utterance>
+<utterance uid="5-3"><speaker>House</speaker><content>He’s a musician? That paralysis thing, guy can’t walk for two years and nobody knows why, that seems mildly interesting.</content></utterance>
+<utterance uid="5-4"><speaker>Cuddy</speaker><content>Forget his paralysis.</content></utterance>
+<utterance uid="5-5"><speaker>House</speaker><content>Tell that to the rest of his bowling team.</content></utterance>
+<utterance uid="5-6"><speaker>Cuddy</speaker><content>As far as this hospital is concerned, this is a simple case of lobar pneumonia. Boring.</content></utterance>
+<utterance uid="5-7"><speaker>House</speaker><content>But that “not walking” thing, that could turn into something serious!</content></utterance>
+<utterance uid="5-8"><speaker>Cuddy</speaker><content>Marty Hamilton is his primary physician out in California. He’s dealing with the paralysis.</content></utterance>
+<utterance uid="5-9"><speaker>House</speaker><content>Know all about it. Multiple treatments, multiple surgeries. Making real progress. Fixed everything but the legs.</content></utterance>
+<utterance uid="5-10"><speaker>Cuddy</speaker><content>Dr. Hamilton already called and asked for your team. And by team, I don’t mean you.</content></utterance>
+<utterance uid="5-11"><speaker>House</speaker><content>Like I always say, there’s no “I” in “team”. There is a “me”, though, if you jumble it up. </content></utterance>
+<utterance uid="5-12"><speaker>Cuddy</speaker><content>Foreman did his residency with Hamilton.</content></utterance>
+<utterance uid="5-13"><speaker>House</speaker><content>I know. I did accidentally glance at his resume before I hired him.</content></utterance>
+<utterance uid="5-14"><speaker>Cuddy</speaker><content>He wants someone he can trust.</content></utterance>
+<utterance uid="5-15"><speaker>House</speaker><content>He must have spoken to Foreman’s parole officer.</content></utterance>
+<utterance uid="5-16"><speaker>Cuddy</speaker><content>Someone who will stick to the pneumonia. John Henry’s on an experimental protocol for the paralysis.</content></utterance>
+<utterance uid="5-17"><speaker>House</speaker><content>I respect that. I’m not going to get in his way.</content></utterance>
+<utterance uid="5-18"><speaker>Cuddy</speaker><content>It’s Foreman’s case. </content></utterance>
+<utterance uid="5-19"><speaker>House</speaker><content>It’s pneumonia, he can handle it. Guy’s already paralyzed, how badly can he screw it up?</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>Foreman</speaker><content>So, what are his stats?</content></utterance>
+<utterance uid="6-2"><speaker>Chase</speaker><content>Staying in the 90s on the nasal canula.</content></utterance>
+<utterance uid="6-3"><speaker>Foreman</speaker><content>Coughing up much sputa?</content></utterance>
+<utterance uid="6-4"><speaker>Cameron</speaker><content>Almost none, he seems to be stabilized.</content></utterance>
+<utterance uid="6-5"><speaker>Foreman</speaker><content>Dr. House, is there anything back from Micro?</content></utterance>
+<utterance uid="6-6"><speaker>House</speaker><content>Not yet. You gonna fire me?</content></utterance>
+<utterance uid="6-7"><speaker>Foreman</speaker><content>You can make up for it by washing my car.</content></utterance>
+<utterance uid="6-8"><speaker>House</speaker><content>Oh, this is fun. </content></utterance>
+<utterance uid="6-9"><speaker>Foreman</speaker><content>Let’s keep him on the broad-spectrum antibiotics, and since he’s displaying septic physiology, draw blood for adrenal and thyroid function. </content></utterance>
+<utterance uid="6-10"><speaker>House</speaker><content>How about the paralysis?</content></utterance>
+<utterance uid="6-11"><speaker>Foreman</speaker><content>We’re sticking to the pneumonia.</content></utterance>
+<utterance uid="6-12"><speaker>House</speaker><content>Well, you certainly are, boss. Like a wet tongue sticks to dry ice. </content></utterance>
+<utterance uid="6-13"><speaker>Foreman</speaker><content>The paralysis has already been diagnosed by Dr. Hamilton. It’s ALS.</content></utterance>
+<utterance uid="6-14"><speaker>House</speaker><content>Lou Gehrig’s disease. It’s a lovely diagnosis. They make movies about it. No tests, no treatment. It’s a disease of exclusion –</content></utterance>
+<utterance uid="6-15"><speaker>Foreman</speaker><content>-- because Hamilton has excluded everything else.</content></utterance>
+<utterance uid="6-16"><speaker>House</speaker><content>I haven’t.  What else could it be?</content></utterance>
+<utterance uid="6-17"><speaker>Chase</speaker><content>Guillain-Barre, which would be reversible.</content></utterance>
+<utterance uid="6-18"><speaker>House</speaker><content>Excellent. </content></utterance>
+<utterance uid="6-19"><speaker>Foreman</speaker><content>No, the progression of the paralysis would be symmetric. This wasn’t.</content></utterance>
+<utterance uid="6-20"><speaker>Cameron</speaker><content>Transverse myelitis.</content></utterance>
+<utterance uid="6-21"><speaker>Foreman</speaker><content>Hamilton tested for it. Negative. And he was negative for masses, and AVM, and –</content></utterance>
+<utterance uid="6-22"><speaker>Chase</speaker><content>Antibodies could be attacking the nerve. Multifocal motor neuropathy.</content></utterance>
+<utterance uid="6-23"><speaker>House</speaker><content>Uncommon, but it fits. It’s also treatable. Did Hamilton try putting the guy on IVIG?</content></utterance>
+<utterance uid="6-24"><speaker>Foreman</speaker><content>No, because the MRI showed –</content></utterance>
+<utterance uid="6-25"><speaker>House</speaker><content>Well, let’s do an MRI of our own. </content></utterance>
+<utterance uid="6-26"><speaker>Foreman</speaker><content>Guys? It’s my case.  ALS fits. It even predicts the pneumonia. The paralysis is progressive.</content></utterance>
+<utterance uid="6-27"><speaker>House</speaker><content>It’s a death sentence.</content></utterance>
+<utterance uid="6-28"><speaker>Foreman</speaker><content>That doesn’t make it wrong.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>John</speaker><content>So, you think the breathing stuff is connected to my ALS?</content></utterance>
+<utterance uid="7-2"><speaker>Foreman</speaker><content>It makes sense.</content></utterance>
+<utterance uid="7-3"><speaker>John</speaker><content>So, it’s just gonna get worse, huh?</content></utterance>
+<utterance uid="7-4"><speaker>Foreman</speaker><content>Well, Dr. Hamilton –</content></utterance>
+<utterance uid="7-5"><speaker>John</speaker><content>Great guy. Really smart doctor, but his treatment obviously isn’t working. Do you think I’m gonna die here, or you think I’m gonna get to go back home first?</content></utterance>
+<utterance uid="7-6"><speaker>Foreman</speaker><content>An MRI would give us a better idea –</content></utterance>
+<utterance uid="7-7"><speaker>John</speaker><content>An MRI? Come on. For pneumonia?</content></utterance>
+<utterance uid="7-8"><speaker>Foreman</speaker><content>Well, Dr. House thinks we should test for –</content></utterance>
+<utterance uid="7-9"><speaker>John</speaker><content>House? Yeah, I heard about him. Obsessive son-of-a-bitch?</content></utterance>
+<utterance uid="7-10"><speaker>Foreman</speaker><content> That’s him.</content></utterance>
+<utterance uid="7-11"><speaker>John</speaker><content>So, who do you think is right? Hamilton or House?</content></utterance>
+<utterance uid="7-12"><speaker>Foreman</speaker><content>They’re both excellent physicians.</content></utterance>
+<utterance uid="7-13"><speaker>John</speaker><content>Come on. One of ‘em says ALS, the other one says not ALS… you gotta pick one, son.</content></utterance>
+<utterance uid="7-14"><speaker>Foreman</speaker><content> Everything points to ALS.</content></utterance>
+<utterance uid="7-15"><speaker>John</speaker><content>Then no MRI. And I want one of them papers that say I, I don’t want nothin’ done if something go bad.</content></utterance>
+<utterance uid="7-16"><speaker>Foreman</speaker><content>A DNR? Mr. Giles, you don’t want to rush things –</content></utterance>
+<utterance uid="7-17"><speaker>John</speaker><content>It’s been two years, I ain’t rushing. I wanna sign one. Now, while my arm still works.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>Foreman</speaker><content>He signed a DNR.</content></utterance>
+<utterance uid="8-2"><speaker>House</speaker><content> He rhymes with dinner?</content></utterance>
+<utterance uid="8-3"><speaker>Foreman</speaker><content>He signed a DNR.</content></utterance>
+<utterance uid="8-4"><speaker>House</speaker><content>Oh. That makes more sense. You tell him it might not be ALS?</content></utterance>
+<utterance uid="8-5"><speaker>Foreman</speaker><content>No.</content></utterance>
+<utterance uid="8-6"><speaker>House</speaker><content>Well, no wonder he signed. Who wouldn’t?</content></utterance>
+<utterance uid="8-7"><speaker>Foreman</speaker><content>I started him on IV steroids and ancinthroid. </content></utterance>
+<utterance uid="8-8"><speaker>House</speaker><content>Great. If it was my case, I’d be adding a little IVIG to the mix.</content></utterance>
+<utterance uid="8-9"><speaker>Foreman</speaker><content>For his pneumonia?</content></utterance>
+<utterance uid="8-10"><speaker>House</speaker><content>That’s my story and I’m sticking to it.</content></utterance>
+<utterance uid="8-11"><speaker>Foreman</speaker><content>He doesn’t want anything done. No treatment.</content></utterance>
+<utterance uid="8-12"><speaker>House</speaker><content>DNR means “do not resuscitate”, not “do not treat”. You do nothing, it doesn’t matter which one of us is right.  And hang on to that DNR. That signature could be worth a lot of money real soon. </content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>Foreman</speaker><content>This is Dr. Foreman. What’s Mr. Giles’s status? Okay, increase the steroids to 100mg every 12 hours, and, ah, start him on IVIG. Yeah, I’m sure. One gram per kilo.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>Willie</speaker><content>My nature isn’t what it used to be. The little man has lost some bounce in his step.  He needs to crank it up, have himself some fun this weekend.  He wants the blue pills.</content></utterance>
+<utterance uid="10-2"><speaker>House</speaker><content>You’re talking about your penis in the third person.</content></utterance>
+<utterance uid="10-3"><speaker>Willie</speaker><content>Me and him, two people.</content></utterance>
+<utterance uid="10-4"><speaker>House</speaker><content>Separate vacations? That’d be a drag for one of you. I don’t think you need the pills. I think you have a conflict of medications. You need to up your insulin to “chocolate chip ice cream” levels.</content></utterance>
+<utterance uid="10-5"><speaker>Willie</speaker><content>Insulin?</content></utterance>
+<utterance uid="10-6"><speaker>House</speaker><content>Yeah, you remember. That’s the stuff you take for the diabetes that you forgot to tell the nurse about. Your hands. No hair, which means nerve damage. And your shoes look about two sizes too small which means you’ve lost sensation in your feet. And then there’s your pants.</content></utterance>
+<utterance uid="10-7"><speaker>Willie</speaker><content>My pants tell you I have diabetes?</content></utterance>
+<utterance uid="10-8"><speaker>House</speaker><content>No, they tell me you’re an idiot. Powdered sugar on the right pant leg. Based on the two napkins in your right pocket, I’m willing to bet it’s not your first donut of the day. </content></utterance>
+<utterance uid="10-9"><speaker>Willie</speaker><content>You’re giving me the pills?</content></utterance>
+<utterance uid="10-10"><speaker>House</speaker><content>Sure, why not? If you’ve got heart disease from ignoring the diabetes they’ll kill you. Otherwise, you two have a fun weekend. </content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>Chase</speaker><content>0-2 stats are dropping.</content></utterance>
+<utterance uid="11-2"><speaker>Cameron</speaker><content>Breath sounds?</content></utterance>
+<utterance uid="11-3"><speaker>Chase</speaker><content>Junky.</content></utterance>
+<utterance uid="11-4"><speaker>Cameron</speaker><content>Mucus plug?</content></utterance>
+<utterance uid="11-5"><speaker>Foreman</speaker><content>No, it’s our mistake. He’s sludging from the IVIG. Blood can’t get through to his lungs.</content></utterance>
+<utterance uid="11-6"><speaker>Cameron</speaker><content>Start Heparin. 500ccs, IV push.</content></utterance>
+<utterance uid="11-7"><speaker>Chase</speaker><content>He won’t last long enough for it to work. We’ve got to intubate him, stat. </content></utterance>
+<utterance uid="11-8"><speaker>Foreman</speaker><content>We can’t! He’s DNR.</content></utterance>
+<utterance uid="11-9"><speaker>Chase</speaker><content>What?! </content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>Doctor in Elevator</speaker><content>Someone likes music.</content></utterance>
+<utterance uid="12-2"><speaker>Cora</speaker><content>Oh, yeah.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>House</speaker><content>His stats are in the 70s. How long has he been like this?</content></utterance>
+<utterance uid="13-2"><speaker>Chase</speaker><content>10 minutes.</content></utterance>
+<utterance uid="13-3"><speaker>House</speaker><content>Well, why aren’t you doing –</content></utterance>
+<utterance uid="13-4"><speaker>Foreman</speaker><content>The IVIG put him into respiratory failure.</content></utterance>
+<utterance uid="13-5"><speaker>House</speaker><content>You put him on the IVIG?</content></utterance>
+<utterance uid="13-6"><speaker>Foreman</speaker><content>We did this.</content></utterance>
+<utterance uid="13-7"><speaker>House</speaker><content>So undo it! Chase!</content></utterance>
+<utterance uid="13-8"><speaker>Foreman</speaker><content>It’s too late! We killed him.</content></utterance>
+<utterance uid="13-9"><speaker>House</speaker><content>Nobody killed him! He’s not dead! Chase, intubate him!</content></utterance>
+<utterance uid="13-10"><speaker>Chase</speaker><content>He’s DNR. </content></utterance>
+<utterance uid="13-11"><speaker>Foreman</speaker><content>What are you doing? You can’t do this!</content></utterance>
+<utterance uid="13-12"><speaker>House</speaker><content>Bag.</content></utterance>
+<utterance uid="13-13"><speaker>Foreman</speaker><content>You can’t do this!</content></utterance>
+<utterance uid="13-14"><speaker>House</speaker><content>Bag!  He had a bad reaction to some medicine we gave him.</content></utterance>
+<utterance uid="13-15"><speaker>Cora</speaker><content>What did you just do?</content></utterance>
+<utterance uid="13-16"><speaker>Cameron</speaker><content>He saved his life.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>Chase</speaker><content>He’s stable on the ventilator. Oxygenating well.</content></utterance>
+<utterance uid="14-2"><speaker>House</speaker><content>The IVIG made him worse, which means multifocal motoneuropathy was a bad diagnosis. Okay, what’s really wrong with him?</content></utterance>
+<utterance uid="14-3"><speaker>Foreman</speaker><content>What’s wrong with you?</content></utterance>
+<utterance uid="14-4"><speaker>House</speaker><content>Everyone knows what’s wrong with me. What’s wrong with him is much more interesting.</content></utterance>
+<utterance uid="14-5"><speaker>Foreman</speaker><content>You tubed him and he didn’t wanna be tubed! He has a legal paper saying just that.</content></utterance>
+<utterance uid="14-6"><speaker>House</speaker><content>To intubate or not to intubate, that is the big ethical question. Actually, I was hoping we could avoid it, maybe just practice some medicine.</content></utterance>
+<utterance uid="14-7"><speaker>Foreman</speaker><content>There’s no question. It’s the patient’s decision –</content></utterance>
+<utterance uid="14-8"><speaker>House</speaker><content>-- if the patient is competent to make it, if his thyroid numbers aren’t making him sad.</content></utterance>
+<utterance uid="14-9"><speaker>Foreman</speaker><content>Oh, my God. You don’t believe that.</content></utterance>
+<utterance uid="14-10"><speaker>Cameron</speaker><content>His thyroid levels were a little –</content></utterance>
+<utterance uid="14-11"><speaker>Foreman</speaker><content>It’s nothing. Do not defend him.</content></utterance>
+<utterance uid="14-12"><speaker>House</speaker><content>Why did he sign that DNR?</content></utterance>
+<utterance uid="14-13"><speaker>Foreman</speaker><content>I didn’t talk him into –</content></utterance>
+<utterance uid="14-14"><speaker>House</speaker><content>No, he signed the DNR ‘cause he didn’t want a slow and painful death from ALS. What was happening to him had nothing to do with his ALS.</content></utterance>
+<utterance uid="14-15"><speaker>Foreman</speaker><content>Right! Exactly! It’s the IVIG, you screwed up! You’re not gonna let him die because you screwed up!</content></utterance>
+<utterance uid="14-16"><speaker>House</speaker><content>Technically, your case. You screwed up. Is that what this is about? Looking bad in front of your old boss?</content></utterance>
+<utterance uid="14-17"><speaker>Foreman</speaker><content>You assaulted that man.</content></utterance>
+<utterance uid="14-18"><speaker>House</speaker><content>Fine. I’ll never do it again.</content></utterance>
+<utterance uid="14-19"><speaker>Foreman</speaker><content>Yes, you will.</content></utterance>
+<utterance uid="14-20"><speaker>House</speaker><content>All the more reason this debate is pointless. </content></utterance>
+<utterance uid="14-21"><speaker>House</speaker><content>His lungs are worse. Any theories?  Oh, I’m sure he just went to the little boys’ room. Come on, people.</content></utterance>
+<utterance uid="14-22"><speaker>Chase</speaker><content>Uh, vasculitis?</content></utterance>
+<utterance uid="14-23"><speaker>House</speaker><content>Wouldn’t likely hit both lungs.</content></utterance>
+<utterance uid="14-24"><speaker>Cameron</speaker><content>It could be Wegener’s granulomatosis. </content></utterance>
+<utterance uid="14-25"><speaker>Woman</speaker><content>Dr. House? </content></utterance>
+<utterance uid="14-26"><speaker>House</speaker><content>Cuddy sent me a stripper again? Ah, love that woman. So thoughtful.</content></utterance>
+<utterance uid="14-27"><speaker>Woman</speaker><content> Sorry. </content></utterance>
+<utterance uid="14-28"><speaker>Chase</speaker><content>There are case reports of Wegener’s hitting both the legs and the spine.</content></utterance>
+<utterance uid="14-29"><speaker>House</speaker><content>Well, it’s not great, but it’s better than ALS. At least it’s treatable.</content></utterance>
+<utterance uid="14-30"><speaker>Cameron</speaker><content> It’s a restraining order. You’re not to come within 50 feet of John Henry Giles, and they’ve asked the DA to file criminal charges for battery. </content></utterance>
+<utterance uid="14-31"><speaker>House</speaker><content>Cameron, test the blood for c-ANCA.</content></utterance>
+<utterance uid="14-32"><speaker>Cameron</speaker><content>These are criminal charges. They aren’t going to let you take blood to make more tests.</content></utterance>
+<utterance uid="14-33"><speaker>House</speaker><content>He has blood left in the lab, just add on the c-ANCA.  Foreman’s still got you doing bronchioscopic suctioning for the pneumonia?</content></utterance>
+<utterance uid="14-34"><speaker>Chase</speaker><content>Every four hours.</content></utterance>
+<utterance uid="14-35"><speaker>House</speaker><content>Well, while you’re down in his lungs, grab a biopsy. We’ll need it to confirm Wegener’s. And move the patient to the second floor ICU.</content></utterance>
+<utterance uid="14-36"><speaker>Chase</speaker><content>Why?</content></utterance>
+<utterance uid="14-37"><speaker>House</speaker><content>It’s right above the clinic. I’m pretty sure it’s 50 feet in any direction. It’s nice having a court order saying you don’t have to work clinic duty. </content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>House</speaker><content> Dr. Cuddy!</content></utterance>
+<utterance uid="15-2"><speaker>Cuddy</speaker><content> Excuse me.</content></utterance>
+<utterance uid="15-3"><speaker>House</speaker><content>You paged me.</content></utterance>
+<utterance uid="15-4"><speaker>Cuddy</speaker><content>Why the yelling?</content></utterance>
+<utterance uid="15-5"><speaker>House</speaker><content>His bed is behind that wall. The plaintiff’s. I can’t, you know, come any closer.</content></utterance>
+<utterance uid="15-6"><speaker>Cuddy</speaker><content>It’s right over the clinic. Very cute.</content></utterance>
+<utterance uid="15-7"><speaker>House</speaker><content>Can we get the lecture over with, because I’ve got a, actually, I’ve got nothing to do. Take your time.</content></utterance>
+<utterance uid="15-8"><speaker>Cuddy</speaker><content>You need a lawyer?</content></utterance>
+<utterance uid="15-9"><speaker>House</speaker><content>You don’t have a problem with what I did?</content></utterance>
+<utterance uid="15-10"><speaker>Cuddy</speaker><content>When I hired you, I knew you were insane. I will continue to try and stop you from doing insane things, but once they’re done…. Trying to convince an insane person not to do insane things is, in itself, insane, so when I hired you I also set aside $50,000 a year for legal expenses. So far you’ve come in under budget.</content></utterance>
+<utterance uid="15-11"><speaker>House</speaker><content>Great. Any chance you could help me run some tests?</content></utterance>
+<utterance uid="15-12"><speaker>Cuddy</speaker><content>Dr. Foreman called Dr. Hamilton. He’s flying in from L.A.</content></utterance>
+<utterance uid="15-13"><speaker>House</speaker><content>You can talk to him.</content></utterance>
+<utterance uid="15-14"><speaker>Cuddy</speaker><content>Dr. Hamilton is flying in as a friend of John Henry’s to pull the plug. </content></utterance>
+<utterance uid="15-15"><speaker>House</speaker><content>Yeah. I need a lawyer.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>Judge Winter</speaker><content>Mr. House faces criminal charges for battery against… John Henry Giles. You beat up a guy in a wheelchair?</content></utterance>
+<utterance uid="16-2"><speaker>House</speaker><content>A medical tube, saving his life.</content></utterance>
+<utterance uid="16-3"><speaker>Judge Winter</speaker><content>Dr. House, please let your attorney speak for you. </content></utterance>
+<utterance uid="16-4"><speaker>House</speaker><content>I’m sorry, your Honor. I was way out of line. </content></utterance>
+<utterance uid="16-5"><speaker>Judge Winter</speaker><content>So, uh, your client forced the patient into this position,  and now he wants a court order to force the patient to stay that way.</content></utterance>
+<utterance uid="16-6"><speaker>Judge Winter</speaker><content>Well, I assume the patient knows that, he had a DNR. That’s why your client is facing criminal charges, right?</content></utterance>
+<utterance uid="16-7"><speaker>Judge Winter</speaker><content>The right to face his accuser.  That’s clever, huh?</content></utterance>
+<utterance uid="16-8"><speaker>Wilson</speaker><content>Why are you doing this? It’s not going to keep you out of jail.</content></utterance>
+<utterance uid="16-9"><speaker>House</speaker><content>No.</content></utterance>
+<utterance uid="16-10"><speaker>Wilson</speaker><content>Even if you win, the restraining order and battery charge stay in place. What have you gained?</content></utterance>
+<utterance uid="16-11"><speaker>House</speaker><content>Time.</content></utterance>
+<utterance uid="16-12"><speaker>Wilson</speaker><content>To diagnose him? You can’t get near him!</content></utterance>
+<utterance uid="16-13"><speaker>House</speaker><content>I don’t want to get near him.</content></utterance>
+<utterance uid="16-14"><speaker>Wilson</speaker><content>You know how some doctors have the Messiah complex, they need to save the world? You’ve got the Rubik’s complex, you need to solve the puzzle.</content></utterance>
+<utterance uid="16-15"><speaker>House</speaker><content>Are you done, or do you have more references to 1980s fads? I’m trying to listen to this. </content></utterance>
+<utterance uid="16-16"><speaker>Judge Winter</speaker><content>The DNR order was witnessed by Dr. House’s own staff, a, a Dr. Foreman. </content></utterance>
+<utterance uid="16-17"><speaker>House</speaker><content>My staff are idiots. I’m sure you know what it’s like, your Honor.</content></utterance>
+<utterance uid="16-18"><speaker>Judge Winter</speaker><content>Sit down! </content></utterance>
+<utterance uid="16-19"><speaker>Judge Winter</speaker><content>And this poor guy has gotta stay on life support until we can schedule a trial. </content></utterance>
+<utterance uid="16-20"><speaker>House</speaker><content>Your Honor –</content></utterance>
+<utterance uid="16-21"><speaker>Judge Winter</speaker><content>Dr. House, I will hold you in contempt if you don’t sit down.</content></utterance>
+<utterance uid="16-22"><speaker>House</speaker><content>I have a medical issue.</content></utterance>
+<utterance uid="16-23"><speaker>Judge Winter</speaker><content>If it pertains to this case your attorney should –</content></utterance>
+<utterance uid="16-24"><speaker>House</speaker><content>It doesn’t. Do you have any history of heart disease in your family? </content></utterance>
+<utterance uid="16-25"><speaker>House</speaker><content>Your fingers. They show signs of clubbing, which indicate a health problem. Remember Bart Giamotti? Same thing, just dropped dead one day. Please see your doctor.</content></utterance>
+<utterance uid="16-26"><speaker>House</speaker><content>Of course, I’m sorry. </content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>Wilson</speaker><content>Congratulations, impressive legal argument.</content></utterance>
+<utterance uid="17-2"><speaker>House</speaker><content>I watched Matlock last night. </content></utterance>
+<utterance uid="17-3"><speaker>Wilson</speaker><content>Oh, say no more. I didn’t notice any clubbing on the judge’s fingers.</content></utterance>
+<utterance uid="17-4"><speaker>House</speaker><content>Neither did I.</content></utterance>
+<utterance uid="17-5"><speaker>Wilson</speaker><content>So, the family history thing…</content></utterance>
+<utterance uid="17-6"><speaker>House</speaker><content>Every family has some history of heart disease.</content></utterance>
+<utterance uid="17-7"><speaker>Wilson</speaker><content>And mental illness.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>Chase</speaker><content>Biopsy only shows inflammation.</content></utterance>
+<utterance uid="18-2"><speaker>House</speaker><content>Start him on Cytoxan.</content></utterance>
+<utterance uid="18-3"><speaker>Cameron</speaker><content>You’re diagnosing Wegener’s based on a little inflammation?</content></utterance>
+<utterance uid="18-4"><speaker>House</speaker><content>Well, unfortunately I think we’ve exhausted all the tests we can do in the capacity as the doctors he doesn’t want doing tests on him.</content></utterance>
+<utterance uid="18-5"><speaker>Cameron</speaker><content>But you don’t --</content></utterance>
+<utterance uid="18-6"><speaker>House</speaker><content>We’ll know I’m right if he starts walking.</content></utterance>
+<utterance uid="18-7"><speaker>Chase</speaker><content>You can’t do any more tests, but you want me to treat him?</content></utterance>
+<utterance uid="18-8"><speaker>House</speaker><content>The medicine’s in the pharmacy, patient’s immobilized in the ICU. Sounds like a simple geography problem.</content></utterance>
+<utterance uid="18-9"><speaker>Cameron</speaker><content>Are you asking us to jeopardize our medical licenses for this treatment?</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>House</speaker><content>Uh, I’m Dr. House, I’m –</content></utterance>
+<utterance uid="19-2"><speaker>Hamilton</speaker><content>Gregg, right? I’m Marty Hamilton, John Henry’s doctor.  We should talk.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>Hamilton</speaker><content>I’d appreciate any list of medications, anything like that.</content></utterance>
+<utterance uid="20-2"><speaker>House</speaker><content>I’ve started him on Cytoxan.</content></utterance>
+<utterance uid="20-3"><speaker>Hamilton</speaker><content>For Wegener’s, right? Look, Gregg. I checked you out, you know? I know you’re a good doctor. You have to appreciate that I’m a good doctor, too.</content></utterance>
+<utterance uid="20-4"><speaker>House</speaker><content>Why?</content></utterance>
+<utterance uid="20-5"><speaker>Hamilton</speaker><content>Wegener’s is one of the first things I looked for. The biopsy and the blood tests were negative, just like yours.</content></utterance>
+<utterance uid="20-6"><speaker>House</speaker><content>There’s an error rate, Marty.</content></utterance>
+<utterance uid="20-7"><speaker>Hamilton</speaker><content>And there’s a time to let go. Look, I’m gonna take him off the ventilator, and John Henry’s gonna die. He’s accepted that. </content></utterance>
+<utterance uid="20-8"><speaker>Foreman</speaker><content>Dr. Hamilton. Hey!  Listen, Dr. Hamilton, I’m sorry.  I should have never put your patient on IVIG.</content></utterance>
+<utterance uid="20-9"><speaker>Hamilton</speaker><content>It’s not your fault, Eric.</content></utterance>
+<utterance uid="20-10"><speaker>House</speaker><content>No, it’s mine. Eric.</content></utterance>
+<utterance uid="20-11"><speaker>Hamilton</speaker><content>That’s not what I said.  Everyone asks about you back in L.A.</content></utterance>
+<utterance uid="20-12"><speaker>Foreman</speaker><content>How’s the old place doing? </content></utterance>
+<utterance uid="20-13"><speaker>House</speaker><content>Oh, this is wonderful.  But before you guys break out the oil, I should point out you can’t pull the plug; I have a court order.</content></utterance>
+<utterance uid="20-14"><speaker>Hamilton</speaker><content>You used to, but –</content></utterance>
+<utterance uid="20-15"><speaker>House</speaker><content>I have the right to face my accuser. Judge said so.</content></utterance>
+<utterance uid="20-16"><speaker>Hamilton</speaker><content>Not if no one’s accusing you. All the charges have been dropped.</content></utterance>
+<utterance uid="20-17"><speaker>House</speaker><content>He doesn’t have to die.</content></utterance>
+<utterance uid="20-18"><speaker>Foreman</speaker><content>It’s not Wegener’s.</content></utterance>
+<utterance uid="20-19"><speaker>House</speaker><content>If it’s Wegener’s, his lungs won’t be able to handle it. As soon as they pull that plug he’ll die.</content></utterance>
+<utterance uid="20-20"><speaker>Wilson</speaker><content>That’s why they call it pulling the plug. </content></utterance>
+<utterance uid="20-21"><speaker>Cora</speaker><content>I’m gonna miss you. </content></utterance>
+<utterance uid="20-22"><speaker>Foreman</speaker><content> He’s still breathing!</content></utterance>
+<utterance uid="20-23"><speaker>Hamilton</speaker><content>His 0-2 stats are holding.</content></utterance>
+<utterance uid="20-24"><speaker>Foreman</speaker><content>He’s holding his own.</content></utterance>
+<utterance uid="20-25"><speaker>Wilson</speaker><content>He’s still breathing.</content></utterance>
+<utterance uid="20-26"><speaker>House</speaker><content>It’s not Wegener’s. Wrong again. </content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>Wilson</speaker><content>He’s stable, but one of his arms is now paralyzed.</content></utterance>
+<utterance uid="21-2"><speaker>House</speaker><content>The real question is, why is he still alive?</content></utterance>
+<utterance uid="21-3"><speaker>Wilson</speaker><content>Do you think he’s just being stubborn?</content></utterance>
+<utterance uid="21-4"><speaker>Foreman</speaker><content>He’s alive because you were wrong. It’s not Wegener’s.</content></utterance>
+<utterance uid="21-5"><speaker>House</speaker><content>Yeah, seem to be doing that a lot, lately. People keep living because of my mistakes.</content></utterance>
+<utterance uid="21-6"><speaker>Cameron</speaker><content>Progression of the paralysis pretty much confirms Hamilton was right. It’s ALS.</content></utterance>
+<utterance uid="21-7"><speaker>House</speaker><content>Assuming this is a progression of his paralysis.</content></utterance>
+<utterance uid="21-8"><speaker>Chase</speaker><content>He can’t move his arm.</content></utterance>
+<utterance uid="21-9"><speaker>House</speaker><content>Yes, his arm is paralyzed. Yes, his legs are paralyzed. Why is everyone so gung-ho to connect those two conditions? You could think I’m wrong, but that’s no reason to stop thinking?</content></utterance>
+<utterance uid="21-10"><speaker>Foreman</speaker><content>How about this one? He’s not our patient.</content></utterance>
+<utterance uid="21-11"><speaker>House</speaker><content>Nope, not good enough.</content></utterance>
+<utterance uid="21-12"><speaker>Cameron</speaker><content>He could have suffered a stroke when he was intubated.  Well, blood clots are common in intubated patients. The inactivity causes –</content></utterance>
+<utterance uid="21-13"><speaker>House</speaker><content>Not interested in why. Let’s get an MR-angiogram for an embolic stroke.</content></utterance>
+<utterance uid="21-14"><speaker>Foreman</speaker><content>He doesn’t want you treating him!</content></utterance>
+<utterance uid="21-15"><speaker>House</speaker><content>They dropped the court order.</content></utterance>
+<utterance uid="21-16"><speaker>Wilson</speaker><content>Yeah, and that girl dropped the charges against Kobe. Doesn’t mean that he should call her and see if she’s free to get a sundae.</content></utterance>
+<utterance uid="21-17"><speaker>House</speaker><content>Good point, but I can go within 50 feet of him now.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>Hamilton</speaker><content>If you need anything, page me. Any time.</content></utterance>
+<utterance uid="22-2"><speaker>John</speaker><content>Okay.  Get outta here.</content></utterance>
+<utterance uid="22-3"><speaker>House</speaker><content>Sure. That makes sense. You hate me for saving your life. In fairness to your side, you were also dying because of me, so –</content></utterance>
+<utterance uid="22-4"><speaker>John</speaker><content>You know I didn’t wanna be saved.</content></utterance>
+<utterance uid="22-5"><speaker>House</speaker><content>That’s what’s interesting. Your thyroid was low, but not low enough to cause depression.</content></utterance>
+<utterance uid="22-6"><speaker>John</speaker><content>So, you came here to tell me that even if I can’t walk I can still hear the birds sing? Enjoy the rainbow, and feeling the sun shine on my face?</content></utterance>
+<utterance uid="22-7"><speaker>House</speaker><content>Those things are fun. Okay, life sucks. Your life sucks more than most. It’s not as bad as some, which is depressing all by itself. But do me a favor. Just let me find out what’s wrong with you. And if you still want to kill yourself, I’ll give you a hand. That sound fair?</content></utterance>
+<utterance uid="22-8"><speaker>John</speaker><content>Yeah, sure. I’ll stick around to indulge your obsession. It’s over. I lost my air. The session the other night, with those kids? That was a test to see if I could still play. I can’t.</content></utterance>
+<utterance uid="22-9"><speaker>House</speaker><content>And that’s all you are? A musician?</content></utterance>
+<utterance uid="22-10"><speaker>John</speaker><content>I got one thing, same as you.</content></utterance>
+<utterance uid="22-11"><speaker>House</speaker><content>Really? Apparently, you know me better than I know you.</content></utterance>
+<utterance uid="22-12"><speaker>John</speaker><content>I know that limp. I know the empty ring finger. And that obsessive nature of yours, that’s a big secret. You don’t risk jail and your career just to save somebody who doesn’t want to be saved unless you got something, anything, one thing. The reason normal people got wives and kids and hobbies, whatever. That’s because they don’t got that one thing that hits them that hard and that true. I got music, you got this. The thing you think about all the time, the thing that keeps you south of normal. Yeah, makes us great, makes us the best. All we miss out on is everything else. No woman waiting at home after work with the drink and the kiss, that ain’t gonna happen for us.</content></utterance>
+<utterance uid="22-13"><speaker>House</speaker><content>That’s why God made microwaves.</content></utterance>
+<utterance uid="22-14"><speaker>John</speaker><content>Yeah, but when it’s over, it’s over.</content></utterance>
+<utterance uid="22-15"><speaker>House</speaker><content>Yeah. </content></utterance>
+<utterance uid="22-16"><speaker>John</speaker><content>What are you doing?</content></utterance>
+<utterance uid="22-17"><speaker>House</speaker><content>It’s not over for me. Either you’re gonna call the cops again, or we’re doing this.  If you wanna die, you can do it just as easily inside an MRI machine. </content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>Hamilton</speaker><content>So, I go back to L.A. I’m doing the Dana lectures again this year.</content></utterance>
+<utterance uid="23-2"><speaker>Foreman</speaker><content>Wow. That’s quite an honor. </content></utterance>
+<utterance uid="23-3"><speaker>Hamilton</speaker><content>It’s all political.</content></utterance>
+<utterance uid="23-4"><speaker>Foreman</speaker><content>To be honest, you’ve earned it.</content></utterance>
+<utterance uid="23-5"><speaker>Hamilton</speaker><content>I got lucky on a couple studies I was doing. It all sells tickets. You remember last year’s lectures, don’t you?</content></utterance>
+<utterance uid="23-6"><speaker>Foreman</speaker><content>I remember the cigar bar afterwards.</content></utterance>
+<utterance uid="23-7"><speaker>Hamilton</speaker><content>The only reason to attend the thing: cigars and pool.  You enjoy working with Dr. House?</content></utterance>
+<utterance uid="23-8"><speaker>Foreman</speaker><content>Not the word I’d use.</content></utterance>
+<utterance uid="23-9"><speaker>Hamilton</speaker><content>We work too hard not to enjoy ourselves, right? Hmm. You seeing anybody?</content></utterance>
+<utterance uid="23-10"><speaker>Foreman</speaker><content>Kinda sorta.</content></utterance>
+<utterance uid="23-11"><speaker>Hamilton</speaker><content>Serious?</content></utterance>
+<utterance uid="23-12"><speaker>Foreman</speaker><content>I don’t know. Could be.</content></utterance>
+<utterance uid="23-13"><speaker>Hamilton</speaker><content>You think she would enjoy L.A.?</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>Foreman</speaker><content>Hamilton offered me a job.</content></utterance>
+<utterance uid="24-2"><speaker>Cameron</speaker><content>You gonna take it?</content></utterance>
+<utterance uid="24-3"><speaker>Foreman</speaker><content>I haven’t decided.</content></utterance>
+<utterance uid="24-4"><speaker>Cameron</speaker><content>You already have the most prestigious fellowship.</content></utterance>
+<utterance uid="24-5"><speaker>Foreman</speaker><content>It’s a partnership.  Three times the money, car allowance, moving expense, pension plan, the chance to work for a guy who gives a crap what other people think.</content></utterance>
+<utterance uid="24-6"><speaker>Chase</speaker><content>So, why didn’t you just tell him yes?</content></utterance>
+<utterance uid="24-7"><speaker>Foreman</speaker><content>I made a commitment here.</content></utterance>
+<utterance uid="24-8"><speaker>Chase</speaker><content>Right.</content></utterance>
+<utterance uid="24-9"><speaker>Cameron</speaker><content>House would let you out of it in a heartbeat.</content></utterance>
+<utterance uid="24-10"><speaker>Foreman</speaker><content>Or he wouldn’t, just to jerk me around. Would you guys have taken the job?</content></utterance>
+<utterance uid="24-11"><speaker>Chase</speaker><content>Don’t need the money.</content></utterance>
+<utterance uid="24-12"><speaker>Cameron</speaker><content>I’m not like you. I don’t hate House.</content></utterance>
+<utterance uid="24-13"><speaker>Foreman</speaker><content>You guys really don’t have a problem with him, with what he did?</content></utterance>
+<utterance uid="24-14"><speaker>Chase</speaker><content>He knows we disagree with his choice.</content></utterance>
+<utterance uid="24-15"><speaker>Foreman</speaker><content>Choice? Chase, it’s not apples and oranges, its right and wrong. And he does it like he doesn’t care! He assaults the guy and moves on to the next differential diagnosis like it’s nothing –</content></utterance>
+<utterance uid="24-16"><speaker>Cameron</speaker><content>What do you want from him? More hand-wringing, more torment? You want him to cry himself to sleep at night?</content></utterance>
+<utterance uid="24-17"><speaker>Foreman</speaker><content>Yeah! Yeah, I want some clue that he knows it’s a big deal. That it scares him, that it matters.</content></utterance>
+<utterance uid="24-18"><speaker>Chase</speaker><content> Whoa, whoa, whoa, what’s that?</content></utterance>
+<utterance uid="24-19"><speaker>Cameron</speaker><content>It was a stroke!</content></utterance>
+<utterance uid="24-20"><speaker>Chase</speaker><content>Well done, Cameron.</content></utterance>
+<utterance uid="24-21"><speaker>Cameron</speaker><content>House called it. The arm and legs are unrelated.</content></utterance>
+<utterance uid="24-22"><speaker>Foreman</speaker><content>You make enough calls, one of them is bound to be right.</content></utterance>
+<utterance uid="24-23"><speaker>Chase</speaker><content>Yeah, he’s just a lucky, lucky guy.</content></utterance>
+<utterance uid="24-24"><speaker>Foreman</speaker><content>Listen, listen, I just think it wouldn’t hurt him to learn a little humility. </content></utterance>
+<utterance uid="24-25"><speaker>House</speaker><content>So, what’s the verdict?</content></utterance>
+<utterance uid="24-26"><speaker>Cameron</speaker><content>Embolus. The arm problem’s caused by a clot.</content></utterance>
+<utterance uid="24-27"><speaker>Chase</speaker><content>There’s a good chance we can still bust the clot with tPA.</content></utterance>
+<utterance uid="24-28"><speaker>House</speaker><content>Do it. See what happens to his arm.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>Foreman</speaker><content>We found a blood clot in your brain. We’d like to start you on heparin, it’s a blood thinner.</content></utterance>
+<utterance uid="25-2"><speaker>John</speaker><content>What are the side effects?</content></utterance>
+<utterance uid="25-3"><speaker>Foreman</speaker><content>Well, your lungs are kind of chewed up from the pneumonia. Good chance there’ll be an effusion.</content></utterance>
+<utterance uid="25-4"><speaker>Cora</speaker><content>Bleeding?</content></utterance>
+<utterance uid="25-5"><speaker>Hamilton</speaker><content>Into his lungs.</content></utterance>
+<utterance uid="25-6"><speaker>Foreman</speaker><content>It’s our best chance to give you back the use of your arm.</content></utterance>
+<utterance uid="25-7"><speaker>John</speaker><content>I don’t need my arm without my air.</content></utterance>
+<utterance uid="25-8"><speaker>Foreman</speaker><content>The damage would likely be minimal.</content></utterance>
+<utterance uid="25-9"><speaker>John</speaker><content>No. </content></utterance>
+<utterance uid="25-10"><speaker>Hamilton</speaker><content>It’s his call.</content></utterance>
+<utterance uid="25-11"><speaker>Foreman</speaker><content>Or we could do an embolectomy. Basically, we’d go in and pull the clot out.</content></utterance>
+<utterance uid="25-12"><speaker>Cora</speaker><content>He’s saying no to drugs and you’re recommending brain surgery?</content></utterance>
+<utterance uid="25-13"><speaker>Hamilton</speaker><content>Bypasses risk to the lungs.</content></utterance>
+<utterance uid="25-14"><speaker>Foreman</speaker><content>It’ll either help your arm, or –</content></utterance>
+<utterance uid="25-15"><speaker>John</speaker><content>Or it’ll kill me.</content></utterance>
+<utterance uid="25-16"><speaker>Foreman</speaker><content>From your point of view, it’s a win-win.</content></utterance>
+<utterance uid="25-17"><speaker>John</speaker><content>Okay.</content></utterance>
+<utterance uid="25-18"><speaker>Foreman</speaker><content>We’ll set up the procedure for today.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>Chase</speaker><content>We’re in your carotid artery. This is going to take us all the way up into your brain.</content></utterance>
+<utterance uid="26-2"><speaker>Cameron</speaker><content>You all right?</content></utterance>
+<utterance uid="26-3"><speaker>John</speaker><content>Yes. </content></utterance>
+<utterance uid="26-4"><speaker>Cameron</speaker><content>The sludge is blocking the blood flow to the part of the brain that controls your arm. All done. You still okay?</content></utterance>
+<utterance uid="26-5"><speaker>John</speaker><content>I think so.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>Foreman</speaker><content>I don’t know, I guess… It’s just with Dr. Hamilton here, I notice a difference in styles.</content></utterance>
+<utterance uid="27-2"><speaker>House</speaker><content>His style involves humility.  Another difference in our styles: I don’t care much for apologies. You can go.</content></utterance>
+<utterance uid="27-3"><speaker>Foreman</speaker><content>I didn’t know you were standing there when I said that, okay? It was completely rude.</content></utterance>
+<utterance uid="27-4"><speaker>House</speaker><content>Do you mean genuine humility? You know, with all the self-doubt and the self-questioning, or Hamilton’s polite, patronizing “Aw, shucks” humility?</content></utterance>
+<utterance uid="27-5"><speaker>Foreman</speaker><content>You’re both excellent doctors.</content></utterance>
+<utterance uid="27-6"><speaker>House</speaker><content>Thank you. And humility is an important quality. Especially if you’re wrong a lot.</content></utterance>
+<utterance uid="27-7"><speaker>Foreman</speaker><content>You’ve been wrong every step of the way.</content></utterance>
+<utterance uid="27-8"><speaker>House</speaker><content>Of course, when you’re right, self-doubt doesn’t help anybody, does it?  We gotta go.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>Hamilton</speaker><content>Congratulations, Gregg.</content></utterance>
+<utterance uid="28-2"><speaker>House</speaker><content> Congratulations…  Why, Marty?</content></utterance>
+<utterance uid="28-3"><speaker>Cora</speaker><content>John woke up, he can use his arm.</content></utterance>
+<utterance uid="28-4"><speaker>John</speaker><content> Thank you.</content></utterance>
+<utterance uid="28-5"><speaker>Hamilton</speaker><content>Now look, I know we’ve had our differences, but I think when a person does something well  it ought to be recognized.</content></utterance>
+<utterance uid="28-6"><speaker>House</speaker><content>The phone works. Next time you want to make me feel all warm and fuzzy, leave a message.  Don’t get me wrong, I’m overcome with joy.</content></utterance>
+<utterance uid="28-7"><speaker>John</speaker><content>Doc?</content></utterance>
+<utterance uid="28-8"><speaker>Hamilton</speaker><content>Yeah?</content></utterance>
+<utterance uid="28-9"><speaker>House</speaker><content>What?</content></utterance>
+<utterance uid="28-10"><speaker>John</speaker><content>You just touched my leg.</content></utterance>
+<utterance uid="28-11"><speaker>House</speaker><content>What, you gonna charge me with assault again?</content></utterance>
+<utterance uid="28-12"><speaker>John</speaker><content>No, I felt it.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>House</speaker><content>He now has feeling all the way up to calf. This is the way medicine evolved. Patients sometimes get better. You have no idea why, but unless you give a reason they won’t pay you. Anybody notice if there’s a full moon?</content></utterance>
+<utterance uid="29-2"><speaker>Cameron</speaker><content>You’re saying he just spontaneously got better?</content></utterance>
+<utterance uid="29-3"><speaker>House</speaker><content>No, I’m saying let’s rule out the lunar god and go from there.</content></utterance>
+<utterance uid="29-4"><speaker>Chase</speaker><content>Something he’s on is working.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>Hamilton</speaker><content>The enzyme replacement protocol is working, reversing the ALS.</content></utterance>
+<utterance uid="30-2"><speaker>Foreman</speaker><content>The timing doesn’t seem suspicious to you?</content></utterance>
+<utterance uid="30-3"><speaker>Hamilton</speaker><content>Heh heh, do you think Dr. House will see it that way? Figure it’s his medication doing the job?</content></utterance>
+<utterance uid="30-4"><speaker>Foreman</speaker><content>I’m sure he will.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>House</speaker><content>It’s one of ours.</content></utterance>
+<utterance uid="31-2"><speaker>Cameron</speaker><content>How do we figure out which drug is doing the trick?</content></utterance>
+<utterance uid="31-3"><speaker>House</speaker><content>Easy. We stop all of them.</content></utterance>
+<utterance uid="31-4"><speaker>Cameron</speaker><content>One of those drugs is helping him.</content></utterance>
+<utterance uid="31-5"><speaker>House</speaker><content>And the rest? Steroids, antibiotics, anti-inflammatories, they’re toxic if we leave him on all of them.</content></utterance>
+<utterance uid="31-6"><speaker>Cameron</speaker><content>He’ll walk again.</content></utterance>
+<utterance uid="31-7"><speaker>House</speaker><content>Yeah, to his own funeral.</content></utterance>
+<utterance uid="31-8"><speaker>Chase</speaker><content>But if we stop everything, he’ll get worse.</content></utterance>
+<utterance uid="31-9"><speaker>House</speaker><content>True. And then we’ll add our medications back, one at a time. If he gets better, then we’ll have our answer.</content></utterance>
+<utterance uid="31-10"><speaker>Cameron</speaker><content>And if he doesn’t get better?</content></utterance>
+<utterance uid="31-11"><speaker>House</speaker><content>Then we’re in trouble. Not as much as he is. I suppose that was your point.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>Foreman</speaker><content>I assume you want me to convince Hamilton to stop his treatments, too?</content></utterance>
+<utterance uid="32-2"><speaker>House</speaker><content>Don’t care.</content></utterance>
+<utterance uid="32-3"><speaker>Foreman</speaker><content>You know at least five of the medications are part of his protocol?</content></utterance>
+<utterance uid="32-4"><speaker>House</speaker><content>If his stuff was helping the guy would be playing tennis six months ago. It’s our round of treatment that’s helping.</content></utterance>
+<utterance uid="32-5"><speaker>Foreman</speaker><content>Right. So that’s what you’ll stop.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>Wilson</speaker><content>So your philosophy is, “If they don’t want treatment, they get it shoved down their throat, but if it might cure their paralysis, whoa, better slow down.”</content></utterance>
+<utterance uid="33-2"><speaker>House</speaker><content>Yeah.  My old philosophy used to be “Live and let live,” but I’m taking this needlepoint class and they gave us these really big pillows.</content></utterance>
+<utterance uid="33-3"><speaker>Wilson</speaker><content>What’s your philosophy on employee relations?</content></utterance>
+<utterance uid="33-4"><speaker>House</speaker><content>That’s a very tiny pillow.</content></utterance>
+<utterance uid="33-5"><speaker>Wilson</speaker><content>Great. Sounds like you know what you’re doing. </content></utterance>
+<utterance uid="33-6"><speaker>Hamilton</speaker><content>Gregg. Can I have a word?</content></utterance>
+<utterance uid="33-7"><speaker>House</speaker><content>Can it wait for the commercial, Marty? Say “hi” to my friend, Jimmy.</content></utterance>
+<utterance uid="33-8"><speaker>Hamilton</speaker><content>Pleasure. Your diagnostic trial –</content></utterance>
+<utterance uid="33-9"><speaker>House</speaker><content>Seriously, commercial’s in about five minutes.</content></utterance>
+<utterance uid="33-10"><speaker>Hamilton</speaker><content>-- it’s a dangerous game.</content></utterance>
+<utterance uid="33-11"><speaker>House</speaker><content>Only if we’re watching in the bathtub.</content></utterance>
+<utterance uid="33-12"><speaker>Hamilton</speaker><content>I need to know exactly what medications you were giving John Henry.</content></utterance>
+<utterance uid="33-13"><speaker>House</speaker><content>Forget it. And if Foreman tells you what John Henry used to be on –</content></utterance>
+<utterance uid="33-14"><speaker>Hamilton</speaker><content>You’re gonna fire him?</content></utterance>
+<utterance uid="33-15"><speaker>House</speaker><content>Nope. Make him live out every day of his two-year contract.</content></utterance>
+<utterance uid="33-16"><speaker>Wilson</speaker><content>Foreman asked to leave?</content></utterance>
+<utterance uid="33-17"><speaker>House</speaker><content>Not yet.</content></utterance>
+<utterance uid="33-18"><speaker>Hamilton</speaker><content>But how do you know I made him an –</content></utterance>
+<utterance uid="33-19"><speaker>House</speaker><content>You’re a polite twit, but you’re not an idiot.</content></utterance>
+<utterance uid="33-20"><speaker>Hamilton</speaker><content>I need to know what medications you’ve taken him off of.</content></utterance>
+<utterance uid="33-21"><speaker>House</speaker><content>Wait a second. You’re not an idiot. You need to know what medications I’ve stopped, because…</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>House</speaker><content>He’s getting worse.   Right now you still work for me. Come on!</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>House</speaker><content>No feeling, no wiggling. The bad news is, John Henry’s back where he started. The good news is, Hamilton looks bad.</content></utterance>
+<utterance uid="35-2"><speaker>Foreman</speaker><content>Yeah, it’s not whether you win or lose, it’s whether the other guy loses.</content></utterance>
+<utterance uid="35-3"><speaker>House</speaker><content>What was the first thing we put him on?</content></utterance>
+<utterance uid="35-4"><speaker>Chase</speaker><content>Steroids, for the pneumonia.</content></utterance>
+<utterance uid="35-5"><speaker>House</speaker><content>Well, put him back on them. Give them 24 hours, see what happens.</content></utterance>
+<utterance uid="35-6"><speaker>Cameron</speaker><content>His lungs aren’t great. It might cause another respiratory collapse.</content></utterance>
+<utterance uid="35-7"><speaker>House</speaker><content>Sure hope not. I didn’t much like that lawyer. And get an MRI.</content></utterance>
+<utterance uid="35-8"><speaker>Foreman</speaker><content>He already got one. And an MRA.</content></utterance>
+<utterance uid="35-9"><speaker>House</speaker><content>Well, obviously something is different now. Do it again. Chase, take care of the scan. Cameron, put him on the steroids.  We should probably talk, huh?</content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>Chase</speaker><content>Thin cuts.</content></utterance>
+<utterance uid="36-2"><speaker>Cameron</speaker><content>What levels?</content></utterance>
+<utterance uid="36-3"><speaker>Chase</speaker><content>T9 through the quarter-equinus, same as the last time. You really think House would let Foreman out of his contract?</content></utterance>
+<utterance uid="36-4"><speaker>Cameron</speaker><content>He has to. If he doesn’t, he’s telling Foreman he needs him. House can’t handle that.  Oh, my God!</content></utterance>
+</scene>
+<scene id="37"><utterance uid="37-1"><speaker>House</speaker><content>I checked him out. He’s a great doctor. You think he’s better than I am?</content></utterance>
+<utterance uid="37-2"><speaker>Foreman</speaker><content>This about your ego?</content></utterance>
+<utterance uid="37-3"><speaker>House</speaker><content>Answer the question. It’s not going to change my opinion of myself. Might affect my opinion of you, but that shouldn’t affect your opinion of yourself. Now I’m getting confused. If you think he’s a better doctor than I am, then you should take the job. Otherwise, you should get him to buy you two or three more nostalgic lunches and politely decline.</content></utterance>
+<utterance uid="37-4"><speaker>Foreman</speaker><content>It’s that simple? I should just ignore the mockery and abuse?</content></utterance>
+<utterance uid="37-5"><speaker>House</speaker><content>Oh, how do I abuse you?</content></utterance>
+<utterance uid="37-6"><speaker>Foreman</speaker><content>How do you not? If I make a mistake –</content></utterance>
+<utterance uid="37-7"><speaker>House</speaker><content>I hold you accountable, so what?</content></utterance>
+<utterance uid="37-8"><speaker>Foreman</speaker><content>Dr. Hamilton forgives. He’s capable of moving on.</content></utterance>
+<utterance uid="37-9"><speaker>House</speaker><content>That is not what he does!</content></utterance>
+<utterance uid="37-10"><speaker>Foreman</speaker><content>I screwed up his case, he told me –</content></utterance>
+<utterance uid="37-11"><speaker>House</speaker><content>He never said you were forgiven. I was there, he said it wasn’t your fault.</content></utterance>
+<utterance uid="37-12"><speaker>Foreman</speaker><content>So?</content></utterance>
+<utterance uid="37-13"><speaker>House</speaker><content>So, it was. You took a chance, you did something great. You were wrong, but it was still great. You should feel great that it was great. You should feel like crap that it was wrong. That’s the difference between him and me. He thinks you do your job, and what will be, will be. I think that what I do and what you do matters. He sleeps better at night. He shouldn’t. </content></utterance>
+<utterance uid="37-14"><speaker>Cameron</speaker><content>Arteriovenous malformation.</content></utterance>
+<utterance uid="37-15"><speaker>Chase</speaker><content>Intradural, compressing his spine. </content></utterance>
+<utterance uid="37-16"><speaker>House</speaker><content>Causing his paralysis.</content></utterance>
+<utterance uid="37-17"><speaker>Foreman</speaker><content>How could Hamilton have missed an AVM?</content></utterance>
+<utterance uid="37-18"><speaker>House</speaker><content>Well, we missed it, too. ‘Cause it wasn’t there before.</content></utterance>
+<utterance uid="37-19"><speaker>Chase</speaker><content>You saying it just grew overnight?</content></utterance>
+<utterance uid="37-20"><speaker>House</speaker><content>No. It was on the spine, it wasn’t on the MRI.  Same anatomic location.</content></utterance>
+<utterance uid="37-21"><speaker>Cameron</speaker><content>It’s not there.</content></utterance>
+<utterance uid="37-22"><speaker>House</speaker><content>Well, what is there?</content></utterance>
+<utterance uid="37-23"><speaker>Chase</speaker><content>Nothing.</content></utterance>
+<utterance uid="37-24"><speaker>House</speaker><content>Or something that looks like nothing.</content></utterance>
+<utterance uid="37-25"><speaker>Cameron</speaker><content>Background noise, static.</content></utterance>
+<utterance uid="37-26"><speaker>Chase</speaker><content>Scar tissue? Inflammation?</content></utterance>
+<utterance uid="37-27"><speaker>Foreman</speaker><content>If it’s inflammation, the steroids would have shrunk it down.</content></utterance>
+<utterance uid="37-28"><speaker>House</speaker><content>Revealing the AVM, which has always been there, hiding behind its own swelling. We remove that, he’ll walk again.</content></utterance>
+</scene>
+
+<scene id="38"><utterance uid="38-1"><speaker>John</speaker><content>Dr. House! Cora’s meeting me outside with a limo. I’m being discharged.</content></utterance>
+<utterance uid="38-2"><speaker>House</speaker><content>Fifty bucks says I can beat you to the curb. </content></utterance>
+<utterance uid="38-3"><speaker>John</speaker><content>Thanks for sticking with the case.</content></utterance>
+<utterance uid="38-4"><speaker>House</speaker><content>I can’t do anything else.  You’re much more easily amused when you can walk.</content></utterance>
+<utterance uid="38-5"><speaker>John</speaker><content>How bizarre. I’m guessing you weren’t exactly Mr. Sunshine even before your leg got messed up.  I want you to have this.</content></utterance>
+<utterance uid="38-6"><speaker>House</speaker><content>Wow.</content></utterance>
+<utterance uid="38-7"><speaker>John</speaker><content>You can sell it if you want to, just promise me you won’t play it.  How many of those pills you taking?</content></utterance>
+<utterance uid="38-8"><speaker>House</speaker><content>I’m in pain.</content></utterance>
+<utterance uid="38-9"><speaker>John</speaker><content>Yeah. Aren’t we all?  So, where do you buy these things, do they have cane stores?</content></utterance>
+<utterance uid="38-10"><speaker>House</speaker><content>Oh, don’t worry about it. You’ll be jogging before you need a second one.  See you tomorrow, Eric.</content></utterance>
+</scene>
+</script>

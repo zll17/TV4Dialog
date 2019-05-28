@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+<scene id="1"><utterance uid="1-1"><speaker>Crowd</speaker><content/></utterance>
+<utterance uid="1-2"><speaker>Player 1</speaker><content>On your right, on your right.</content></utterance>
+<utterance uid="1-3"><speaker>Player 2</speaker><content>Back, back, back.</content></utterance>
+<utterance uid="1-4"><speaker>Crowd</speaker><content/></utterance>
+<utterance uid="1-5"><speaker>Player 3</speaker><content>Back, back, back, back</content></utterance>
+<utterance uid="1-6"><speaker>Player 4</speaker><content>Watch the winger!</content></utterance>
+<utterance uid="1-7"><speaker>Crowd</speaker><content/></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>Dan</speaker><content/></utterance>
+<utterance uid="2-2"><speaker>Coach</speaker><content> You ok? Dan, Dan, talk to me. Dan, Dan, get a doctor!</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>Wilson</speaker><content>Hey!</content></utterance>
+<utterance uid="3-2"><speaker>House</speaker><content>Close the door. Close the door!</content></utterance>
+<utterance uid="3-3"><speaker>Wilson</speaker><content>Is Cuddy down the hall counting to 50?</content></utterance>
+<utterance uid="3-4"><speaker>House</speaker><content>She’s knows I’m in here, the clinic, as she commanded; she just doesn’t know I’m alone.</content></utterance>
+<utterance uid="3-5"><speaker>Wilson</speaker><content>Well, you’ve got a full waiting room, how long do you think you can ignore them?</content></utterance>
+<utterance uid="3-6"><speaker>House</speaker><content>I’m off at 4:00.</content></utterance>
+<utterance uid="3-7"><speaker>Wilson</speaker><content>You’re doing this to avoid 5 minutes of work?</content></utterance>
+<utterance uid="3-8"><speaker>House</speaker><content>I go out there, I get assigned a kid with a runny nose. That’s 30 seconds looking at the nose; 25 minutes talking to a worried mom who won’t leave until she sure it’s not meningitis or a tumor.</content></utterance>
+<utterance uid="3-9"><speaker>Wilson</speaker><content>Yes, concerned parents can be so annoying. Just tell Cuddy you’ve got an urgent case, you had to leave early.</content></utterance>
+<utterance uid="3-10"><speaker>House</speaker><content>That would be lying.</content></utterance>
+<utterance uid="3-11"><speaker>Wilson</speaker><content>And that would be wrong. But luckily, the definition of urgent is fungible.</content></utterance>
+<utterance uid="3-12"><speaker>House</speaker><content>Not the definition of case though.</content></utterance>
+<utterance uid="3-13"><speaker>Wilson</speaker><content>You have no cases. You have NO cases. You’ve got handpicked doctors, specialists, working for you, and they’re sitting on their hands?</content></utterance>
+<utterance uid="3-14"><speaker>House</speaker><content>Cameron is answering my mail.</content></utterance>
+<utterance uid="3-15"><speaker>Wilson</speaker><content>Time well spent I’m sure. Foreman and Chase?</content></utterance>
+<utterance uid="3-16"><speaker>House</speaker><content>Research?</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>Chase</speaker><content>9 letters, iodine deficiency in children.</content></utterance>
+<utterance uid="4-2"><speaker>Foreman</speaker><content>Cretinism.</content></utterance>
+<utterance uid="4-3"><speaker>Chase</speaker><content>Huh </content></utterance>
+<utterance uid="4-4"><speaker>House</speaker><content>So, 4:03 PM. Dr. House checks out. Please write that down.</content></utterance>
+<utterance uid="4-5"><speaker>House</speaker><content>Sorry, done for the day. There’s plenty of docs here to take care of you.</content></utterance>
+<utterance uid="4-6"><speaker>Dad</speaker><content>But we had an appointment.</content></utterance>
+<utterance uid="4-7"><speaker>House</speaker><content>Hah, nice try, but this is a walk-in clinic, which means there are no appointments. It means you walk in, sign the chart and a doctor will see you, just not me.</content></utterance>
+<utterance uid="4-8"><speaker>Dad</speaker><content>But your letter says that we would see you.</content></utterance>
+<utterance uid="4-9"><speaker>House</speaker><content>Not a big letter writer.</content></utterance>
+<utterance uid="4-10"><speaker>Dad</speaker><content>Here.</content></utterance>
+<utterance uid="4-11"><speaker>House</speaker><content>When did my signature get so girly?</content></utterance>
+<utterance uid="4-12"><speaker>Cameron</speaker><content>I can explain.</content></utterance>
+<utterance uid="4-13"><speaker>House</speaker><content>See that “G”, see how it makes a big loop on top? It doesn’t even look like my handwriting. Think I have something? What’s the differential diagnosis for writing “G’s” like a junior high school girl?</content></utterance>
+<utterance uid="4-14"><speaker>Cameron</speaker><content>It’s impossible to get to you through normal channels, they have called…</content></utterance>
+<utterance uid="4-15"><speaker>House</speaker><content>Perseverance does not equal worthiness. Next time you want to get my attention wear something fun. Low-rider jeans are hot.</content></utterance>
+<utterance uid="4-16"><speaker>Cameron</speaker><content>16 year old male, sudden onset of double vision and night terrors, with no apparent cause. The kid’s been to 2 neurologists…</content></utterance>
+<utterance uid="4-17"><speaker>House</speaker><content>Night terrors, yeah? As in big scary monsters?</content></utterance>
+<utterance uid="4-18"><speaker>Cameron</speaker><content>Yeah.</content></utterance>
+<utterance uid="4-19"><speaker>Cameron</speaker><content>Where are you going?</content></utterance>
+<utterance uid="4-20"><speaker>House</speaker><content>To see the family.</content></utterance>
+<utterance uid="4-21"><speaker>Cameron</speaker><content>You’re going to examine a patient?</content></utterance>
+<utterance uid="4-22"><speaker>House</speaker><content>9 times out of 10 there’s no reason to talk to a patient, but night terrors in a 16 year old is a VERY good reason to talk to this family. Good work.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>House</speaker><content>Margins look fine. No lesions, color is good. How long have you been having night terrors?</content></utterance>
+<utterance uid="5-2"><speaker>Dan</speaker><content>Three weeks.</content></utterance>
+<utterance uid="5-3"><speaker>Dad</speaker><content>He’s afraid to go to bed, he’s exhausted, he can barely function.</content></utterance>
+<utterance uid="5-4"><speaker>Mom</speaker><content>What does that tell you?</content></utterance>
+<utterance uid="5-5"><speaker>House</speaker><content>Nothing, it’s just fun watching him blink.  Name as many animals as you can that begin with the letter “B” go.</content></utterance>
+<utterance uid="5-6"><speaker>Dan</speaker><content>Baby elephant.</content></utterance>
+<utterance uid="5-7"><speaker>House</speaker><content>Baby elephant is actually a good answer; “B” is a bear of a letter.</content></utterance>
+<utterance uid="5-8"><speaker>Dad</speaker><content>What does that tell you?</content></utterance>
+<utterance uid="5-9"><speaker>House</speaker><content>Proves two things, no neurological damage, and your son is never going to be chief fry cook. In teens there are two likely causes of night terrors: post traumatic stress, any recent shootouts at your high school?</content></utterance>
+<utterance uid="5-10"><speaker>Dan</speaker><content>No.</content></utterance>
+<utterance uid="5-11"><speaker>House</speaker><content>Well, then, Dave…</content></utterance>
+<utterance uid="5-12"><speaker>Cameron</speaker><content>Dan</content></utterance>
+<utterance uid="5-13"><speaker>Dad</speaker><content>We would never do anything to hurt Dan.</content></utterance>
+<utterance uid="5-14"><speaker>House</speaker><content>I say it here, it comes out there. This lack of response is consistent with abuse.</content></utterance>
+<utterance uid="5-15"><speaker>Dan</speaker><content>There’s no one, ok? I swear. There was trauma; I got hit in the head during a lacrosse game.</content></utterance>
+<utterance uid="5-16"><speaker>House</speaker><content> Did you know that he got hit in the head?</content></utterance>
+<utterance uid="5-17"><speaker>Cameron</speaker><content>They didn’t mention it, no.</content></utterance>
+<utterance uid="5-18"><speaker>House</speaker><content>Yeah, why bother.</content></utterance>
+<utterance uid="5-19"><speaker>Dad</speaker><content>No, no, we took him to the ER after the game. He was scanned, they tested him, they said he was fine. No concussion, it’s gotta be something else.</content></utterance>
+<utterance uid="5-20"><speaker>House</speaker><content>You hound me for my opinion and then question my diagnosis. Cool. ER obviously screwed up, kid’s got a concussion.</content></utterance>
+<utterance uid="5-21"><speaker>Dan</speaker><content>I had double vision before I got hit.</content></utterance>
+<utterance uid="5-22"><speaker>House</speaker><content>Well, that changes everything, you need glasses. That’s why you had double vision, which is why you got hit, which is why you have a concussion, which is why you have night terrors. You need to see an ophthalmologist, which I am not.</content></utterance>
+<utterance uid="5-23"><speaker>Cameron</speaker><content>You enjoyed that. I brought a reasonable case to your attention, and you shoved it in my face just to humiliate me.</content></utterance>
+<utterance uid="5-24"><speaker>House</speaker><content>You’re an only child, aren’t you?</content></utterance>
+<utterance uid="5-25"><speaker>Cameron</speaker><content>Why would you say that?</content></utterance>
+<utterance uid="5-26"><speaker>House</speaker><content>Everything is about you. This may seem incredibly controversial, but I think sexual abuse is bad. I just wanted to make sure he wasn’t being diddled by daddy, or mommy, anything else is just a bonus.</content></utterance>
+<utterance uid="5-27"><speaker>Cameron</speaker><content>I’m not an only child.</content></utterance>
+<utterance uid="5-28"><speaker>House</speaker><content> Interesting.</content></utterance>
+<utterance uid="5-29"><speaker>Cameron</speaker><content>What?</content></utterance>
+<utterance uid="5-30"><speaker>House</speaker><content>Don’t move. Did I bore you in there?</content></utterance>
+<utterance uid="5-31"><speaker>Dan</speaker><content>What? Ah, no, not, not really.</content></utterance>
+<utterance uid="5-32"><speaker>House</speaker><content>Are you tired?</content></utterance>
+<utterance uid="5-33"><speaker>Dan</speaker><content>Sometimes.</content></utterance>
+<utterance uid="5-34"><speaker>Dad</speaker><content>He never sleeps! Of course he’s tired.</content></utterance>
+<utterance uid="5-35"><speaker>House</speaker><content>Right now, at this moment, are you tired?</content></utterance>
+<utterance uid="5-36"><speaker>Dan</speaker><content>No, no.</content></utterance>
+<utterance uid="5-37"><speaker>House</speaker><content>That twitch in your leg. Did you feel that?</content></utterance>
+<utterance uid="5-38"><speaker>Dan</speaker><content>Didn’t hurt.</content></utterance>
+<utterance uid="5-39"><speaker>Dad</speaker><content>His leg twitched. I don’t see what…</content></utterance>
+<utterance uid="5-40"><speaker>House</speaker><content>It’s called a myoclonic jerk, it’s very common when you’re falling asleep. Respiration rate falls, and the brain interprets this as the body dying, so it sends a pulse to wake it up.</content></utterance>
+<utterance uid="5-41"><speaker>Dad</speaker><content>So?</content></utterance>
+<utterance uid="5-42"><speaker>House</speaker><content>So, he’s not asleep, he’s awake.  Admit him.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>House</speaker><content>I recognize that loopy “G”. So, what does the jerk tell us?</content></utterance>
+<utterance uid="6-2"><speaker>Foreman</speaker><content>Nothing good, the brain’s losing control of the body. Can’t order the eyes to focus, regulate sleep patterns or control muscle movements.</content></utterance>
+<utterance uid="6-3"><speaker>House</speaker><content>A movement disorder, or degenerative brain disease. Either way this kid’s gonna be picking up his diploma in diapers and a wheelchair.</content></utterance>
+<utterance uid="6-4"><speaker>Chase</speaker><content>Maybe not that bad, could be an infection.</content></utterance>
+<utterance uid="6-5"><speaker>House</speaker><content>You wish. No fever, no white count. Anyone think this differential diagnosis might be compromised because we don’t have an accurate family history?</content></utterance>
+<utterance uid="6-6"><speaker>Cameron</speaker><content>I took an accurate family history.</content></utterance>
+<utterance uid="6-7"><speaker>House</speaker><content>You didn’t even take an accurate family. His father’s not his father.</content></utterance>
+<utterance uid="6-8"><speaker>Chase</speaker><content>Why would you say that?</content></utterance>
+<utterance uid="6-9"><speaker>House</speaker><content>30% of all dads out there don’t realize they’re raising someone else’s kid.</content></utterance>
+<utterance uid="6-10"><speaker>Foreman</speaker><content>From what I’ve read false paternity is more like 10%.</content></utterance>
+<utterance uid="6-11"><speaker>House</speaker><content>That’s what our moms would like us to believe.</content></utterance>
+<utterance uid="6-12"><speaker>Cameron</speaker><content>Who cares? If he got it from his parents they’d both be dead by now, can we get on with the differential diagnosis?</content></utterance>
+<utterance uid="6-13"><speaker>House</speaker><content>Fifty bucks says I’m right.</content></utterance>
+<utterance uid="6-14"><speaker>Foreman</speaker><content>I’ll take your money.</content></utterance>
+<utterance uid="6-15"><speaker>House</speaker><content>Hit a nerve? Don’t worry, Foreman. I’m sure the guy who tucked you in at night was your daddy.</content></utterance>
+<utterance uid="6-16"><speaker>Foreman</speaker><content>Make it $100.</content></utterance>
+<utterance uid="6-17"><speaker>Cameron</speaker><content>What about leukoencephalopathy? In a 16 year old.</content></utterance>
+<utterance uid="6-18"><speaker>Chase</speaker><content>It doesn’t necessarily have to be that bad. If we exclude the night terrors it could be something systemic: his liver, kidneys, something outside the brain.</content></utterance>
+<utterance uid="6-19"><speaker>House</speaker><content>Yes, feel free to exclude any symptom if it makes your job easier.</content></utterance>
+<utterance uid="6-20"><speaker>Chase</speaker><content>The night terrors were anecdotal. He could have had a bad dream.</content></utterance>
+<utterance uid="6-21"><speaker>Cameron</speaker><content>No, parents said he was conscious during the event and didn’t remember anything afterwards. That’s a night terror.</content></utterance>
+<utterance uid="6-22"><speaker>Chase</speaker><content>Parents said?</content></utterance>
+<utterance uid="6-23"><speaker>House</speaker><content>That’s a good point. Before we condemn this kid, maybe we should entertain Dr. Chase’s skepticism. I want a detailed polysomnograph. If he’s having night terrors I want to see them.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>Dan</speaker><content>I usually don’t move during night terrors.</content></utterance>
+<utterance uid="7-2"><speaker>House</speaker><content>I’m not restraining you for them. EEG revealed abnormalities in your brain caused by nerve damage in your toes.</content></utterance>
+<utterance uid="7-3"><speaker>Dan</speaker><content> What are you doing?</content></utterance>
+<utterance uid="7-4"><speaker>House</speaker><content>Fixing it.</content></utterance>
+<utterance uid="7-5"><speaker>Dan</speaker><content> Can I talk to my parents?</content></utterance>
+<utterance uid="7-6"><speaker>House</speaker><content>Oh, they know all about this.</content></utterance>
+<utterance uid="7-7"><speaker>Dan</speaker><content>I’d really like to see them.  Please! I’d really like them here.</content></utterance>
+<utterance uid="7-8"><speaker>House</speaker><content>This is gonna hurt, Dan.</content></utterance>
+<utterance uid="7-9"><speaker>Dan</speaker><content> Oh, God!</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>Chase</speaker><content>That’s a night terror.</content></utterance>
+<utterance uid="8-2"><speaker>Foreman</speaker><content>We did a CT, MRI, CBC, Chem-7 and chest x-ray. All the tests came back normal. There’s nothing to explain his symptoms.</content></utterance>
+<utterance uid="8-3"><speaker>House</speaker><content>Ok, but let’s pretend there’s something and go from there. Who sees something on this MRI?</content></utterance>
+<utterance uid="8-4"><speaker>Cameron</speaker><content>No lesions, no white matter.</content></utterance>
+<utterance uid="8-5"><speaker>Foreman</speaker><content>No structural abnormalities.</content></utterance>
+<utterance uid="8-6"><speaker>Cameron</speaker><content>No space-occupying tumors.</content></utterance>
+<utterance uid="8-7"><speaker>House</speaker><content>He’s 16, so he should have an absolutely pristine brain. The smallest thing is abnormal.</content></utterance>
+<utterance uid="8-8"><speaker>Chase</speaker><content>Meningeal enhancement. My bet is viral meningitis.</content></utterance>
+<utterance uid="8-9"><speaker>House</speaker><content>Excellent, you see what he did there? He took a small clue that there’s a neurological problem and wasn’t afraid to run with it.</content></utterance>
+<utterance uid="8-10"><speaker>Foreman</speaker><content>There’s no evidence of meningitis on that MRI.</content></utterance>
+<utterance uid="8-11"><speaker>House</speaker><content>No, there’s not, he's completely wrong.</content></utterance>
+<utterance uid="8-12"><speaker>Cameron</speaker><content>Then what clue are you talking about?</content></utterance>
+<utterance uid="8-13"><speaker>House</speaker><content>He knew that I saw something on the MRI so he figured there must be something there and took a guess. Clever, but also pathetic.</content></utterance>
+<utterance uid="8-14"><speaker>Chase</speaker><content>So, what did you find?</content></utterance>
+<utterance uid="8-15"><speaker>House</speaker><content>Take a close look at the corpus callosum.</content></utterance>
+<utterance uid="8-16"><speaker>Chase</speaker><content>It looks ok.</content></utterance>
+<utterance uid="8-17"><speaker>House</speaker><content>Are we all looking at the same thing? 200 million interhemispheric nerve fibers, the George Washington Bridge between the left and right side of the brain. It’s subtle.</content></utterance>
+<utterance uid="8-18"><speaker>Chase</speaker><content>There’s some bowing, there. An upward arch.</content></utterance>
+<utterance uid="8-19"><speaker>House</speaker><content>Are you guessing?</content></utterance>
+<utterance uid="8-20"><speaker>Chase</speaker><content>Yes.</content></utterance>
+<utterance uid="8-21"><speaker>House</speaker><content>Too bad, you’re right.</content></utterance>
+<utterance uid="8-22"><speaker>Foreman</speaker><content>He probably just moved, nobody stays perfectly still for their entire MRI.</content></utterance>
+<utterance uid="8-23"><speaker>House</speaker><content>Yeah, he probably got restless and shifted one hemisphere of his brain to a more comfortable position. Something is pushing on it.</content></utterance>
+<utterance uid="8-24"><speaker>Foreman</speaker><content>If there’s bowing it could be a tumor.</content></utterance>
+<utterance uid="8-25"><speaker>House</speaker><content>Do you see a tumor on this MRI?</content></utterance>
+<utterance uid="8-26"><speaker>Foreman</speaker><content>No, but I don’t see any bowing, either.</content></utterance>
+<utterance uid="8-27"><speaker>House</speaker><content>There’s no tumor, just a blockage causing pressure, causing symptoms. Today</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>Dad</speaker><content>Ok…all right easy…</content></utterance>
+<utterance uid="9-2"><speaker>Foreman</speaker><content>Now, I’m injecting a material that’s tagged with a radioactive isotope. It’s gonna enter your spine and travel up to your brain. It’ll make you able to think deep thoughts, at about 100 miles per hour.</content></utterance>
+<utterance uid="9-3"><speaker>Dad</speaker><content> Easy.</content></utterance>
+<utterance uid="9-4"><speaker>Foreman</speaker><content>Their eyes aren’t the same color, but that fleck in the eyes… that’s maybe a one in ten chance if they’re not related?</content></utterance>
+<utterance uid="9-5"><speaker>Chase</speaker><content>Nah, House isn’t gonna pay you based on that.</content></utterance>
+<utterance uid="9-6"><speaker>Foreman</speaker><content> Any excuse we can give the folks to justify a DNA test?</content></utterance>
+<utterance uid="9-7"><speaker>Chase</speaker><content>We could tell them he’s got Huntington’s. The whole family should be tested or they’ll all die.</content></utterance>
+<utterance uid="9-8"><speaker>Foreman</speaker><content/></utterance>
+<utterance uid="9-9"><speaker>Foreman</speaker><content>Hey, there’s a lot of blockage.</content></utterance>
+<utterance uid="9-10"><speaker>Chase</speaker><content>I’ve scheduled him for surgery. They’re gonna put a shunt into one of the ventricles to give the cerebrospinal fluid an out.</content></utterance>
+<utterance uid="9-11"><speaker>Foreman</speaker><content>No more pressure, everything goes back to normal.</content></utterance>
+<utterance uid="9-12"><speaker>House</speaker><content>He’s lucky to have you as his doctors.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>Young Mother</speaker><content>No formula, just mommy’s healthy natural breast milk.</content></utterance>
+<utterance uid="10-2"><speaker>House</speaker><content>Yummy.</content></utterance>
+<utterance uid="10-3"><speaker>Young Mother</speaker><content>Her whole face just got swollen like this overnight.</content></utterance>
+<utterance uid="10-4"><speaker>House</speaker><content>Mmhmm. No fever, glands normal, missing her vaccination dates.</content></utterance>
+<utterance uid="10-5"><speaker>Young Mother</speaker><content>We’re not vaccinating.</content></utterance>
+<utterance uid="10-6"><speaker>Young Mother</speaker><content> Gribbit, gribbit, gribbit. </content></utterance>
+<utterance uid="10-7"><speaker>House</speaker><content>Think they don’t work?</content></utterance>
+<utterance uid="10-8"><speaker>Young Mother</speaker><content>I think some multinational pharmaceutical company wants me to think they work. Pad their bottom line.</content></utterance>
+<utterance uid="10-9"><speaker>House</speaker><content>Mmmm. May I? </content></utterance>
+<utterance uid="10-10"><speaker>Young Mother</speaker><content> Sure.</content></utterance>
+<utterance uid="10-11"><speaker>House</speaker><content>Gribbit, gribbit, gribbit.  All natural, no dyes. That’s a good business: all-natural children’s toys. Those toy companies, they don’t arbitrarily mark up their frogs. They don’t lie about how much they spend on research and development. The worst a toy company can be accused of is making a really boring frog.</content></utterance>
+<utterance uid="10-12"><speaker>House</speaker><content>Gribbit, gribbit, gribbit. You know another really good business? Teeny tiny baby coffins. You can get them in frog green or fire engine red. Really. The antibodies in yummy mummy only protect the kid for 6 months, which is why these companies think they can gouge you. They think that you’ll spend whatever they ask to keep your kid alive. Want to change things? Prove them wrong. A few hundred parents like you decide they’d rather let their kid die then cough up 40 bucks for a vaccination, believe me, prices will drop REALLY fast. Gribbit, gribbit, gribbit, gribbit, gribbit.</content></utterance>
+<utterance uid="10-13"><speaker>Young Mother</speaker><content>Tell me what she has.</content></utterance>
+<utterance uid="10-14"><speaker>House</speaker><content>A cold.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>Cameron</speaker><content>There’s a problem.</content></utterance>
+<utterance uid="11-2"><speaker>House</speaker><content>Complications in surgery?</content></utterance>
+<utterance uid="11-3"><speaker>Foreman</speaker><content>Surgery went fine, he’s in recovery, but we took a vial of CSF and tested it.</content></utterance>
+<utterance uid="11-4"><speaker>House</speaker><content>Really?</content></utterance>
+<utterance uid="11-5"><speaker>Foreman</speaker><content>Turns out the bowing wasn’t the cause of his problems, it was a symptom.</content></utterance>
+<utterance uid="11-6"><speaker>Chase</speaker><content>Oligoclonal bands, and an increase of intrathecal IGG.</content></utterance>
+<utterance uid="11-7"><speaker>House</speaker><content>Which means multiple sclerosis. And the reason it takes three of you to tell me this?</content></utterance>
+<utterance uid="11-8"><speaker>Cameron</speaker><content>Because we’re having a disagreement about whether or not it is MS.</content></utterance>
+<utterance uid="11-9"><speaker>Chase</speaker><content>No lesions on the MRI.</content></utterance>
+<utterance uid="11-10"><speaker>Foreman</speaker><content>It’s early; he’s had the disease for maybe two weeks.</content></utterance>
+<utterance uid="11-11"><speaker>Cameron</speaker><content>McDonald criteria requires six months to make a definitive diagnosis.</content></utterance>
+<utterance uid="11-12"><speaker>House</speaker><content>Oh, who cares about McPherson? I hear he tortured kittens.</content></utterance>
+<utterance uid="11-13"><speaker>Foreman</speaker><content>McDonald.</content></utterance>
+<utterance uid="11-14"><speaker>House</speaker><content>Oh, McDonald. Wonderful doctor, loved kittens.</content></utterance>
+<utterance uid="11-15"><speaker>Foreman</speaker><content>The VEP indicates slowing of the brain.</content></utterance>
+<utterance uid="11-16"><speaker>Cameron</speaker><content>Without the lesions we can’t be sure.</content></utterance>
+<utterance uid="11-17"><speaker>House</speaker><content>Well if it is, it’s gone from 0 to 60 in three weeks, which would indicate rapidly progressive MS. Not the fun MS with the balloons and the bike rides for cripples in wheelchairs.</content></utterance>
+<utterance uid="11-18"><speaker>Cameron</speaker><content>We should wait until we </content></utterance>
+<utterance uid="11-19"><speaker>House</speaker><content>Start treating him now, he can walk for another couple of years, maybe live for another 5. Break it to the family. I’m going home.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>Chase</speaker><content>It’ll take months for a definitive diagnosis.</content></utterance>
+<utterance uid="12-2"><speaker>Dan</speaker><content>What’ll happen to me?</content></utterance>
+<utterance uid="12-3"><speaker>Chase</speaker><content>MS is an incredibly variable disease, if it is MS, and we’re not 100% sure.</content></utterance>
+<utterance uid="12-4"><speaker>Dad</speaker><content>What do you think is gonna happen?</content></utterance>
+<utterance uid="12-5"><speaker>Chase</speaker><content>There are some medications to manage the symptoms, but as the disease progresses the problems will become more severe: bowel and bladder dysfunction, loss of cognitive function, pain.</content></utterance>
+<utterance uid="12-6"><speaker>Dan</speaker><content>It’s gonna hurt?</content></utterance>
+<utterance uid="12-7"><speaker>Chase</speaker><content>The brain’s like a big jumble of wires. MS strips them of the insulation, and the nerves die. The brain interprets it as pain, but by starting treatment we’re gonna avoid that for as long as possible. We’re looking into a couple specialists, and until we get you squared away you’ll stay here. Ok?</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>Cameron</speaker><content>Security checked the videotapes for all the perimeter cameras; he’s still gotta be in the hospital.</content></utterance>
+<utterance uid="13-2"><speaker>Foreman</speaker><content>Where’s Chase?</content></utterance>
+<utterance uid="13-3"><speaker>Cameron</speaker><content>Main floor.</content></utterance>
+<utterance uid="13-4"><speaker>Foreman</speaker><content>Ok, you take the cafeteria and administration. I’ll hit the research annex and work my way back to you.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>Chase</speaker><content>Dan?</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>House</speaker><content>Dr. Cuddy, great outfit.</content></utterance>
+<utterance uid="15-2"><speaker>Cuddy</speaker><content>What are you doing back here? Patient?</content></utterance>
+<utterance uid="15-3"><speaker>House</speaker><content>No, hooker. Went to my office instead of my home.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>Foreman</speaker><content>Dr. House, Dan’s missing.</content></utterance>
+<utterance uid="16-2"><speaker>House</speaker><content>Yeah, I got that part from the message. You said I was needed immediately.</content></utterance>
+<utterance uid="16-3"><speaker>Foreman</speaker><content>He shouldn’t move after a lumbar puncture.</content></utterance>
+<utterance uid="16-4"><speaker>House</speaker><content>I agree, he’s gonna have a very nasty headache. That would also be my opinion if consulted tomorrow morning.</content></utterance>
+<utterance uid="16-5"><speaker>Foreman</speaker><content>We wanted to keep you informed. He heard some pretty heavy news.</content></utterance>
+<utterance uid="16-6"><speaker>House</speaker><content> This is not a toddler wandering around a department store. He’s 16. You’ll find him. I’m going home.</content></utterance>
+<utterance uid="16-7"><speaker>Foreman</speaker><content>So, when you say “Call me if you need anything,” You mean, “Don’t call me.”</content></utterance>
+<utterance uid="16-8"><speaker>House</speaker><content>No, I mean “Call me if I can do something.” I’m bad at search parties and I’m bad at sitting around looking nervous doing nothing.</content></utterance>
+<utterance uid="16-9"><speaker>Foreman</speaker><content>What about his parents? Should we call them?</content></utterance>
+<utterance uid="16-10"><speaker>House</speaker><content>Why? You think they’re hiding him? Make sure someone checks the roof; some of the orderlies keep the door propped open so they can grab a smoke.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>Chase</speaker><content>Dan? You ok?  There are experimental treatments, ongoing research… Who knows what they’ll discover in a year or two?</content></utterance>
+<utterance uid="17-2"><speaker>Dan</speaker><content>This is where I dropped the ball.</content></utterance>
+<utterance uid="17-3"><speaker>Chase</speaker><content>Dan, we’re standing on the roof of the hospital! Dan! Dan, you’re not on the field!</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>Cameron</speaker><content>He doesn’t know where he is.</content></utterance>
+<utterance uid="18-2"><speaker>Foreman</speaker><content>Dan!</content></utterance>
+<utterance uid="18-3"><speaker>Chase</speaker><content>Foreman!</content></utterance>
+<utterance uid="18-4"><speaker>Chase</speaker><content>Dan.</content></utterance>
+<utterance uid="18-5"><speaker>Cameron</speaker><content>Dan!</content></utterance>
+<utterance uid="18-6"><speaker>Foreman</speaker><content>Dan! No!</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>House</speaker><content>Dr. Foreman. I assume you found the kid.</content></utterance>
+<utterance uid="19-2"><speaker>Foreman</speaker><content>He almost walked off the roof.</content></utterance>
+<utterance uid="19-3"><speaker>House</speaker><content>Suicidal?</content></utterance>
+<utterance uid="19-4"><speaker>Foreman</speaker><content>No, he thought he was on his lacrosse field. Look, look, I was just gonna run home, shower, change…</content></utterance>
+<utterance uid="19-5"><speaker>House</speaker><content>Conscious?</content></utterance>
+<utterance uid="19-6"><speaker>Foreman</speaker><content>Yeah.</content></utterance>
+<utterance uid="19-7"><speaker>House</speaker><content>How’d you talk him down?</content></utterance>
+<utterance uid="19-8"><speaker>Foreman</speaker><content>Actually, Chase tackled him.</content></utterance>
+<utterance uid="19-9"><speaker>House</speaker><content>How come you didn’t do it?</content></utterance>
+<utterance uid="19-10"><speaker>Foreman</speaker><content>Right, well, I am black, but he was closer.</content></utterance>
+<utterance uid="19-11"><speaker>House</speaker><content>Come on, you can ride up with me.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>House</speaker><content>Anybody tell the family that their boy almost stepped off a roof? They must be thrilled.</content></utterance>
+<utterance uid="20-2"><speaker>Cameron</speaker><content>They’re not suing, but I think only because Chase asked them.</content></utterance>
+<utterance uid="20-3"><speaker>House</speaker><content>Why does everyone always think I’m being sarcastic? This is great news! He doesn’t have MS. The parents should be thrilled, well, the mom anyway. Of course, the dad probably doesn’t know…</content></utterance>
+<utterance uid="20-4"><speaker>Foreman</speaker><content>Why doesn’t he have MS?</content></utterance>
+<utterance uid="20-5"><speaker>House</speaker><content>He was on the roof thinking he was on the lacrosse field, conscious, and therefore not a night terror. You want some of this? </content></utterance>
+<utterance uid="20-6"><speaker>Foreman</speaker><content>Yeah, sure.</content></utterance>
+<utterance uid="20-7"><speaker>House</speaker><content>He was in an acute confusional state, which doesn’t fit with a demyelinating disease like MS.</content></utterance>
+<utterance uid="20-8"><speaker>Foreman</speaker><content>The oligoclonal bands.</content></utterance>
+<utterance uid="20-9"><speaker>Chase</speaker><content>That the immune system is working.</content></utterance>
+<utterance uid="20-10"><speaker>House</speaker><content>Right, he has an infection in his brain.</content></utterance>
+<utterance uid="20-11"><speaker>Cameron</speaker><content>What about sex?</content></utterance>
+<utterance uid="20-12"><speaker>House</speaker><content>Well, it might get complicated. We work together. I am older, certainly, but maybe you like that.</content></utterance>
+<utterance uid="20-13"><speaker>Cameron</speaker><content>I meant maybe he has neurosyphilis.</content></utterance>
+<utterance uid="20-14"><speaker>House</speaker><content>Heh, nice cover.</content></utterance>
+<utterance uid="20-15"><speaker>Chase</speaker><content>Sorry, RPR was negative.</content></utterance>
+<utterance uid="20-16"><speaker>House</speaker><content>We don’t need a definitive test to confirm this.</content></utterance>
+<utterance uid="20-17"><speaker>Cameron</speaker><content>Sure, didn’t need one to confirm MS.</content></utterance>
+<utterance uid="20-18"><speaker>House</speaker><content>Ok, let’s wait for you to run titers on 4000 viruses while this kid’s brain turns to mush.</content></utterance>
+<utterance uid="20-19"><speaker>Foreman</speaker><content>So the fact that he doesn’t have MS is, it’s really not good news after all?</content></utterance>
+<utterance uid="20-20"><speaker>House</speaker><content>Well, it is if it’s neurosyphilis, the likelihood of a false negative on an RPR test, 30%, the likelihood of a 16 year old having sex, roughly 120%.</content></utterance>
+<utterance uid="20-21"><speaker>Cameron</speaker><content>I’ll start him on IV penicillin.</content></utterance>
+<utterance uid="20-22"><speaker>House</speaker><content>We’re not going to wait for that. The most effective way to deliver the drug is right into his brain via the spine.</content></utterance>
+<utterance uid="20-23"><speaker>Foreman</speaker><content>We can’t. In a cramped space like the brain, increased intracranial pressure from a high-volume drug like penicillin could herniate his brain stem and kill him. No neurologist in his right mind would recommend that.</content></utterance>
+<utterance uid="20-24"><speaker>House</speaker><content>Show of hands. Who thinks I’m not in my right mind?</content></utterance>
+<utterance uid="20-25"><speaker>House</speaker><content>And who thinks I forget this fairly basic neurological fact?</content></utterance>
+<utterance uid="20-26"><speaker>House</speaker><content>Who thinks there’s a third option?</content></utterance>
+<utterance uid="20-27"><speaker>House</speaker><content>Very good, what’s the third choice?</content></utterance>
+<utterance uid="20-28"><speaker>Chase</speaker><content>No idea, you just asked if I thought there was one.</content></utterance>
+<utterance uid="20-29"><speaker>Foreman</speaker><content> The patient has a shunt in his brain. There’ll be no increased pressure, we can put as much penicillin into his body as we want.</content></utterance>
+<utterance uid="20-30"><speaker>House</speaker><content>Excellent, inject him through a lumbar puncture.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>Foeman</speaker><content>One of us is going to do this to you twice a day for the next two weeks.</content></utterance>
+<utterance uid="21-2"><speaker>Dad</speaker><content>He could get syphilis even if he’s not sexually active?</content></utterance>
+<utterance uid="21-3"><speaker>Foreman</speaker><content>Well, it’s unusual, but it’s possible. Relax.</content></utterance>
+<utterance uid="21-4"><speaker>Dan</speaker><content/></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>House</speaker><content>Geesh. It’s infected, with a really big hole like you stuck a nail in it to relieve the pressure.</content></utterance>
+<utterance uid="22-2"><speaker>House</speaker><content>Although the wound is irregular, not cylindrical, it’s shaped like a triangle, so not a nail. Steak knife?</content></utterance>
+<utterance uid="22-3"><speaker>Funsten</speaker><content>Wife’s nail file.</content></utterance>
+<utterance uid="22-4"><speaker>House</speaker><content> Nail File. Yeah, pain’ll make you do stupid things. Something to take the edge off? </content></utterance>
+<utterance uid="22-5"><speaker>Funsten</speaker><content>Yeah.</content></utterance>
+<utterance uid="22-6"><speaker>House</speaker><content>Cheers.  [Limps back</content></utterance>
+<utterance uid="22-7"><speaker>Funsten</speaker><content>No.</content></utterance>
+<utterance uid="22-8"><speaker>House</speaker><content>Here on work?</content></utterance>
+<utterance uid="22-9"><speaker>Funsten</speaker><content>No, why are you </content></utterance>
+<utterance uid="22-10"><speaker>House</speaker><content>Does your penis hurt?</content></utterance>
+<utterance uid="22-11"><speaker>Funsten</speaker><content>No. What? Should it?</content></utterance>
+<utterance uid="22-12"><speaker>House</speaker><content>No, just thought I’d toss you a really inappropriate question. Your lawyer’s gonna love it.</content></utterance>
+<utterance uid="22-13"><speaker>Funsten</speaker><content>Why would I want to sue you? I want you to treat me.</content></utterance>
+<utterance uid="22-14"><speaker>House</speaker><content>You’re from Maplewood, New Jersey. Right?</content></utterance>
+<utterance uid="22-15"><speaker>Funsten</speaker><content>Yeah.</content></utterance>
+<utterance uid="22-16"><speaker>House</speaker><content>Now, why would you drive 70 miles to get treatment for a condition that a 9 year old could diagnose? It’s the free-flowing pus that’s the tip-off.</content></utterance>
+<utterance uid="22-17"><speaker>Funsten</speaker><content>I was in town.</content></utterance>
+<utterance uid="22-18"><speaker>House</speaker><content>Not for family, not for work. You drove 70 miles to a walk-in-clinic. You passed two hospitals on the road. Now, either you have a problem with those hospitals, or they have a problem with you. My guess is that you’ve sued half the doctors in Maplewood, and the rest are now refusing to treat you. It’s ironic, isn’t it? It’s like the boy who sued wolf. You know what? I bet we have a doctor here named Wolfe. How perfect would that be? I’m gonna page him.</content></utterance>
+<utterance uid="22-19"><speaker>Funsten</speaker><content>Ok, you know what? Thank you, I’m gonna find a doctor to take care of this.</content></utterance>
+<utterance uid="22-20"><speaker>House</speaker><content>I didn’t say I wouldn’t treat you. We’ll drain your knee, run some lab work, fix you right up.</content></utterance>
+<utterance uid="22-21"><speaker>Funsten</speaker><content>Why would you do that?</content></utterance>
+<utterance uid="22-22"><speaker>House</speaker><content>I’m a people person.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>Wilson</speaker><content>You actually treated him?</content></utterance>
+<utterance uid="23-2"><speaker>House</speaker><content>All I know is that he sued some doctors, who am I to assume that they didn’t have it coming to them.  The cutest little tennis outfit, my God I thought I was going to have a heart attack. Oh my, I didn’t see you there, that is so embarrassing.</content></utterance>
+<utterance uid="23-3"><speaker>Cuddy</speaker><content>How’s your hooker doing?</content></utterance>
+<utterance uid="23-4"><speaker>House</speaker><content>Oh, sweet of you to ask, funny story, she was going to be a hospital administrator, but hated having to screw people like that.</content></utterance>
+<utterance uid="23-5"><speaker>Cuddy</speaker><content>I heard you found her on the roof.</content></utterance>
+<utterance uid="23-6"><speaker>House</speaker><content>You have very acute hearing.</content></utterance>
+<utterance uid="23-7"><speaker>Cuddy</speaker><content>You notify the parents?</content></utterance>
+<utterance uid="23-8"><speaker>House</speaker><content>In due course, of course.</content></utterance>
+<utterance uid="23-9"><speaker>Cuddy</speaker><content>And is there a paternity bet on the father of the patient?</content></utterance>
+<utterance uid="23-10"><speaker>House</speaker><content>Doesn’t sound like me.</content></utterance>
+<utterance uid="23-11"><speaker>Wilson</speaker><content>Well, it does actually, but that doesn’t mean you’re guilty.</content></utterance>
+<utterance uid="23-12"><speaker>House</speaker><content>You think?</content></utterance>
+<utterance uid="23-13"><speaker>Cuddy</speaker><content>I saw the parents in the lobby, smart money is obviously on the father.</content></utterance>
+<utterance uid="23-14"><speaker>House</speaker><content> My guy knows a guy who can get you in for $50 bucks.</content></utterance>
+<utterance uid="23-15"><speaker>Cuddy</speaker><content>Fine. You tell your guy if I win, you attend the faculty symposium and you wear a tie.</content></utterance>
+<utterance uid="23-16"><speaker>House</speaker><content>And if I win, no clinic hours for a week.</content></utterance>
+<utterance uid="23-17"><speaker>Cuddy</speaker><content>My guy will call your guy.</content></utterance>
+<utterance uid="23-18"><speaker>Wilson</speaker><content>She’s very good at her job.</content></utterance>
+<utterance uid="23-19"><speaker>Chase</speaker><content>The treatments should start helping soon. Let us know if it gets easier to focus on things, remember stuff.</content></utterance>
+<utterance uid="23-20"><speaker>Chase</speaker><content>Hey Dan, isn’t Dr. Cameron’s necklace a beauty? Something South American, I think.</content></utterance>
+<utterance uid="23-21"><speaker>Cameron</speaker><content>Yeah, Guatemalan.</content></utterance>
+<utterance uid="23-22"><speaker>Dan</speaker><content>It’s a cool necklace.</content></utterance>
+<utterance uid="23-23"><speaker>Cameron</speaker><content>Thank you so much.</content></utterance>
+<utterance uid="23-24"><speaker>Chase</speaker><content>The kid’s in pain.</content></utterance>
+<utterance uid="23-25"><speaker>Cameron</speaker><content/></utterance>
+<utterance uid="23-26"><speaker>Male Voice 1</speaker><content>Don’t fight it.</content></utterance>
+<utterance uid="23-27"><speaker>Male Voice 2</speaker><content>Just let it happen.</content></utterance>
+<utterance uid="23-28"><speaker>Dan</speaker><content>No.</content></utterance>
+<utterance uid="23-29"><speaker>Chase</speaker><content>No, what?</content></utterance>
+<utterance uid="23-30"><speaker>Female Voice 1</speaker><content>You’ll be dead in three days.</content></utterance>
+<utterance uid="23-31"><speaker>Female Voice 2</speaker><content>I give it a day.</content></utterance>
+<utterance uid="23-32"><speaker>Chase</speaker><content>Dan? You ok?</content></utterance>
+<utterance uid="23-33"><speaker>Cameron</speaker><content>Dan?</content></utterance>
+<utterance uid="23-34"><speaker>Cameron</speaker><content>He’s hearing voices.</content></utterance>
+<utterance uid="23-35"><speaker>Chase</speaker><content> Dan?  Push three milligrams IV, stat!</content></utterance>
+<utterance uid="23-36"><speaker>Cameron</speaker><content>Come on Dan!</content></utterance>
+<utterance uid="23-37"><speaker>Dan</speaker><content> GET OUT OF MY HEAD!</content></utterance>
+<utterance uid="23-38"><speaker>Cameron</speaker><content>Auditory hallucination shows further brain degeneration.</content></utterance>
+<utterance uid="23-39"><speaker>Chase</speaker><content>Penicillin’s not working.</content></utterance>
+<utterance uid="23-40"><speaker>House</speaker><content>So, either it’s a bad batch of penicillin, or our diagnosis is wrong. Square one. “Mignight.”</content></utterance>
+<utterance uid="23-41"><speaker>Foreman</speaker><content>LFTs, BUN, and creatinine, are all normal, diabetes is out. No gap.</content></utterance>
+<utterance uid="23-42"><speaker>House</speaker><content>There goes metabolic. </content></utterance>
+<utterance uid="23-43"><speaker>Cameron</speaker><content>MRI rules out vasculitis.</content></utterance>
+<utterance uid="23-44"><speaker>House</speaker><content>“I” for inflammation. </content></utterance>
+<utterance uid="23-45"><speaker>Chase</speaker><content>Too young for anything degenerative.</content></utterance>
+<utterance uid="23-46"><speaker>House</speaker><content>“D”, see ya.  “N” for neoplastic?</content></utterance>
+<utterance uid="23-47"><speaker>Chase</speaker><content>MRI was clean.</content></utterance>
+<utterance uid="23-48"><speaker>House</speaker><content>“I” for inflammation.</content></utterance>
+<utterance uid="23-49"><speaker>Cameron</speaker><content>We already did that.</content></utterance>
+<utterance uid="23-50"><speaker>House</speaker><content>Stupid to have two I’s in one mneumonic. What’s the other one?</content></utterance>
+<utterance uid="23-51"><speaker>Foreman</speaker><content>Infection.</content></utterance>
+<utterance uid="23-52"><speaker>Cameron</speaker><content>Oligoclonal bands still have to mean something.</content></utterance>
+<utterance uid="23-53"><speaker>Foreman</speaker><content>But no fevers; white count’s elevated but within range.</content></utterance>
+<utterance uid="23-54"><speaker>Chase</speaker><content>And we’ve tested for anything remotely possible. Everything is negative.</content></utterance>
+<utterance uid="23-55"><speaker>Cameron</speaker><content>CT scan rules out subdural.</content></utterance>
+<utterance uid="23-56"><speaker>House</speaker><content>Trauma, later much.  You know the problem? Midnight is actually spelled with a “G” and an “H,” If we could just figure out what those two letters stand for.  It’s a sick brain, having fun, torturing him, talking to him.  Scaring the hell out of him. Get him an EEG, left and right EOG esophageal microphones. If this thing wants to talk, let’s listen.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>House</speaker><content>We’re missing something. This is screwed up.</content></utterance>
+<utterance uid="24-2"><speaker>Wilson</speaker><content>That’s why you came up with the brain talking to the virus thing?</content></utterance>
+<utterance uid="24-3"><speaker>House</speaker><content>I panicked, ok? Sounded cool though, they bought it.</content></utterance>
+<utterance uid="24-4"><speaker>House</speaker><content>Oh, crap. Another reason I don’t like meeting patients. If they don’t know what you look like they can’t yell at you.  Here we go.</content></utterance>
+<utterance uid="24-5"><speaker>Mom</speaker><content>How can you just sit there?</content></utterance>
+<utterance uid="24-6"><speaker>House</speaker><content>If I eat standing up, I spill.</content></utterance>
+<utterance uid="24-7"><speaker>Dad</speaker><content>Our son is dying, and you could care less? We’re going through hell; you’re doing nothing?</content></utterance>
+<utterance uid="24-8"><speaker>House</speaker><content>I’m sorry, you need to vent, I understand.</content></utterance>
+<utterance uid="24-9"><speaker>Dad</speaker><content>Don’t be condescending. You haven’t checked in on him once.</content></utterance>
+<utterance uid="24-10"><speaker>House</speaker><content>Blood pressure’s 110/70, the shunt is patent well placed in the right lateral ventricle, the EKG shows a normal QRS with deep wave inversions throughout both limb and pericardial leads. LFTs are elevated but only twice the normal range. Oh yeah, and he’s hearing voices.  Go hold his hand. Go on; I’ll bus your tray.</content></utterance>
+<utterance uid="24-11"><speaker>House</speaker><content>Got any sample bags on you?</content></utterance>
+<utterance uid="24-12"><speaker>Wilson</speaker><content>I don’t believe you. You’re gonna run DNA tests?</content></utterance>
+<utterance uid="24-13"><speaker>House</speaker><content>Their son is deathly ill, I know it’s terrible, but the fact is if I don’t keep busy with trivial things like this I’m afraid I might start to cry.</content></utterance>
+<utterance uid="24-14"><speaker>Wilson</speaker><content>You’re an ass.</content></utterance>
+<utterance uid="24-15"><speaker>House</speaker><content>Yeah? You want to double the bet?</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>House</speaker><content>General Hospital is on channel 6.</content></utterance>
+<utterance uid="25-2"><speaker>Foreman</speaker><content>Dan’s brain’s not showing channel 6 right now, only mush.</content></utterance>
+<utterance uid="25-3"><speaker>House</speaker><content>No epileptiform activity.  What are you doing?</content></utterance>
+<utterance uid="25-4"><speaker>Cameron</speaker><content>Waiting for CBC and Chem-7.</content></utterance>
+<utterance uid="25-5"><speaker>House</speaker><content>Good, run DNA on these. </content></utterance>
+<utterance uid="25-6"><speaker>Cameron</speaker><content>What’s this?</content></utterance>
+<utterance uid="25-7"><speaker>House</speaker><content>Parents’ coffee cups.</content></utterance>
+<utterance uid="25-8"><speaker>Cameron</speaker><content>I can’t believe you </content></utterance>
+<utterance uid="25-9"><speaker>House</speaker><content>I’ve had this conversation once already. If you’ve got something else to do, do it. Otherwise, do this.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>Funsten</speaker><content>Dr. House?</content></utterance>
+<utterance uid="26-2"><speaker>House</speaker><content>Hey, Mr. Funsten! I was wondering when you’d be back. Got some papers for me?</content></utterance>
+<utterance uid="26-3"><speaker>Funsten</speaker><content>You’ve caused me considerable mental distress.</content></utterance>
+<utterance uid="26-4"><speaker>House</speaker><content>I certainly hope so.  What? Too cheap to have your lawyer serve it for you, or is it more fun this way?</content></utterance>
+<utterance uid="26-5"><speaker>Funsten</speaker><content>I’m obviously prepared to consider a settlement.</content></utterance>
+<utterance uid="26-6"><speaker>House</speaker><content>You have gonorrhea.</content></utterance>
+<utterance uid="26-7"><speaker>Funsten</speaker><content>No, I don’t!</content></utterance>
+<utterance uid="26-8"><speaker>House</speaker><content>Well, maybe you’re right, but I have a lab result that says you do. It could be a false positive; normally I’d run a second test, but since you’re here I’ll just go with the first.</content></utterance>
+<utterance uid="26-9"><speaker>Funsten</speaker><content>You’re just trying to scare me.</content></utterance>
+<utterance uid="26-10"><speaker>House</speaker><content>It’s reportable you know, public health issue.</content></utterance>
+<utterance uid="26-11"><speaker>Funsten</speaker><content>I’ll be sure to let my wife know.</content></utterance>
+<utterance uid="26-12"><speaker>House</speaker><content>Oh, don’t bother yourself, the state will call for you. Look, if you’re clean I’m sure this will all blow over, no big deal. There’s an easy way to find out, get one of your doctors to run a test.</content></utterance>
+<utterance uid="26-13"><speaker>House</speaker><content>Uh-uh. These are mine now. I’ll see you in court. </content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>Foreman</speaker><content>West Nile negative, not surprising, since not too many mosquitoes passing through Jersey in December.</content></utterance>
+<utterance uid="27-2"><speaker>Chase</speaker><content>No Eastern Equine Encephalitis.</content></utterance>
+<utterance uid="27-3"><speaker>Cameron</speaker><content>You guys aren’t going to believe this.</content></utterance>
+<utterance uid="27-4"><speaker>Chase</speaker><content>What’s that?</content></utterance>
+<utterance uid="27-5"><speaker>Cameron</speaker><content>House was right, the father’s not the father.</content></utterance>
+<utterance uid="27-6"><speaker>Foreman</speaker><content> Dude doubled up on me.</content></utterance>
+<utterance uid="27-7"><speaker>Chase</speaker><content>You’re not gonna believe this, the mother’s not the mother either.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>Cuddy</speaker><content>It’s not a good idea to move your son in his condition.</content></utterance>
+<utterance uid="28-2"><speaker>Mom</speaker><content>We just want a second opinion.</content></utterance>
+<utterance uid="28-3"><speaker>Dad</speaker><content>We need an answer.</content></utterance>
+<utterance uid="28-4"><speaker>House</speaker><content>You idiots! You lied to me!</content></utterance>
+<utterance uid="28-5"><speaker>Dad</speaker><content>We didn’t lie about anything. You, on the other hand, accused us of molesting our son.</content></utterance>
+<utterance uid="28-6"><speaker>Cuddy</speaker><content>Perfect.</content></utterance>
+<utterance uid="28-7"><speaker>House</speaker><content>Can we get off my screw-ups and focus on theirs? Theirs is bigger. You’re not Dan’s parents.</content></utterance>
+<utterance uid="28-8"><speaker>Mom</speaker><content>We’re his parents.</content></utterance>
+<utterance uid="28-9"><speaker>Dad</speaker><content>He was adopted. He doesn’t need to know.</content></utterance>
+<utterance uid="28-10"><speaker>House</speaker><content>I do.</content></utterance>
+<utterance uid="28-11"><speaker>Dad</speaker><content>Adoption makes him just as much his </content></utterance>
+<utterance uid="28-12"><speaker>House</speaker><content>Listen, when we were taking his medical history, were you confused? Did you think we were looking for a genetic clue to his condition, or did you think we were trying to ascertain who loves him the most in the whole wide world?</content></utterance>
+<utterance uid="28-13"><speaker>Cuddy</speaker><content>How did you find out about this?</content></utterance>
+<utterance uid="28-14"><speaker>House</speaker><content>I sampled their DNA.</content></utterance>
+<utterance uid="28-15"><speaker>Dad</speaker><content>We didn’t give you any DNA.</content></utterance>
+<utterance uid="28-16"><speaker>House</speaker><content>Your coffee cups from the cafeteria.</content></utterance>
+<utterance uid="28-17"><speaker>Cuddy</speaker><content>You can’t do that!</content></utterance>
+<utterance uid="28-18"><speaker>House</speaker><content>Again, why are we getting hung up on what I did?  Your medical history is useless.</content></utterance>
+<utterance uid="28-19"><speaker>Dad</speaker><content>No, we gave you a detailed history of his biological mother.</content></utterance>
+<utterance uid="28-20"><speaker>Mom</speaker><content>Her history; non-smoker, good health, low cholesterol, no blood pressure problems.</content></utterance>
+<utterance uid="28-21"><speaker>Dad</speaker><content>Dan was adopted two weeks after he was born. You have his history. There’s nothing you need to know that we didn’t tell you.</content></utterance>
+<utterance uid="28-22"><speaker>Cuddy</speaker><content>Sounds reasonable. Well, if you want to transfer your boy that is your choice, but I still think it’s the wrong </content></utterance>
+<utterance uid="28-23"><speaker>House</speaker><content>Was she vaccinated?  The biological mother, when she was a baby, did she get her vaccinations?</content></utterance>
+<utterance uid="28-24"><speaker>Dad</speaker><content>Dan was vaccinated at 6 months.</content></utterance>
+<utterance uid="28-25"><speaker>House</speaker><content>Mm hmm, and do you know why kids get vaccinated at 6 months? Because before that, they are protected by their biological mother’s immune system. So, was she vaccinated?</content></utterance>
+</scene>
+
+<scene id="29"><utterance uid="29-1"><speaker>Foreman</speaker><content>Sub-acute Sclerosing Pan-encephalitis.</content></utterance>
+<utterance uid="29-2"><speaker>House</speaker><content>I know. There’s only been 20 cases in the United States in the past 30 years.</content></utterance>
+<utterance uid="29-3"><speaker>Foreman</speaker><content>I suppose you could make an argument that the kid’s still in stage one. Once SSPE moves to stage two </content></utterance>
+<utterance uid="29-4"><speaker>House</speaker><content>Boom, stage two is universally fatal.</content></utterance>
+<utterance uid="29-5"><speaker>Cameron</speaker><content>I assume it’s impossible to tell when he might move into stage two.</content></utterance>
+<utterance uid="29-6"><speaker>House</speaker><content>He’s already started showing symptoms. It could be a month, it could be tonight.</content></utterance>
+<utterance uid="29-7"><speaker>Cameron</speaker><content>Can we treat it?</content></utterance>
+<utterance uid="29-8"><speaker>House</speaker><content>Ask the neurologist.</content></utterance>
+<utterance uid="29-9"><speaker>Foreman</speaker><content>Intraventricular interferon.</content></utterance>
+<utterance uid="29-10"><speaker>Chase</speaker><content>We’re not gonna shove a spike into his brain and drip interferon without confirming this diagnosis.</content></utterance>
+<utterance uid="29-11"><speaker>House</speaker><content>Tap him.</content></utterance>
+<utterance uid="29-12"><speaker>Foreman</speaker><content>We won’t get a reliable result for measles antibodies in his CSF, not after everything we’ve given him.</content></utterance>
+<utterance uid="29-13"><speaker>House</speaker><content>So the wrong treatment kills any hope of the right diagnosis. Why do people lie to me?  It could also kill him. Your ball, Foreman, tell me I don’t have to biopsy his brain.</content></utterance>
+<utterance uid="29-14"><speaker>Foreman</speaker><content> Well, there is one other way.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>Dan</speaker><content>You sure this isn’t gonna hurt?</content></utterance>
+<utterance uid="30-2"><speaker>Foreman</speaker><content>Yeah, it’s just scary as hell. See, we go through the pupil. You won’t feel it; the eye’s been paralyzed. The needle travels to the back of the eye which is where we perform the biopsy on your retina.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>Foreman</speaker><content>So we’ve confirmed that the problem is this mutated virus. The treatment for SSPE is intra-ventricular interferon. We implant an Ommaya reservoir under the scalp, which is connected to a ventricular catheter that delivers the antiviral directly to the left hemisphere </content></utterance>
+<utterance uid="31-2"><speaker>Dad</speaker><content>Look, you want us to consent to this? I don’t even understand what you’re talking about.</content></utterance>
+<utterance uid="31-3"><speaker>Foreman</speaker><content>Well, the antiviral… Look, I’m sorry, I can explain this as best I can, but the notion that you’re gonna fully understand your son’s treatment and make an informed decision, is, it’s kinda insane. Now, here’s what you need to know, it’s dangerous, it could kill him, you should do it.</content></utterance>
+</scene>
+
+<scene id="32"><utterance uid="32-1"><speaker>Cuddy</speaker><content>You can’t order a $3,200 DNA test to win a bet.</content></utterance>
+<utterance uid="32-2"><speaker>House</speaker><content>It’s not an actual cost. I don’t know if you know this, but the hospital actually owns the sequencing machine.</content></utterance>
+<utterance uid="32-3"><speaker>Cuddy</speaker><content>I’m serious.</content></utterance>
+<utterance uid="32-4"><speaker>House</speaker><content>Well, tell the parents to submit the bill to insurance.</content></utterance>
+<utterance uid="32-5"><speaker>Cuddy</speaker><content>Insurance is not going to pay for a bet.</content></utterance>
+<utterance uid="32-6"><speaker>House</speaker><content>It should. If we don’t make that bet, the kid dies. If not for the paternity bet, I never would have taken their DNA, without their DNA we never would have discovered that Dan was adopted, which was the key to this case. You just don’t want to pay your end. Big mistake. My guy knows a guy.</content></utterance>
+<utterance uid="32-7"><speaker>Cuddy</speaker><content>Fine. I will let you out of clinic duty for one week, after you pay the $3,200 for the PCR test.</content></utterance>
+<utterance uid="32-8"><speaker>Cuddy</speaker><content>Whoo.</content></utterance>
+<utterance uid="32-9"><speaker>House</speaker><content>Well now, there’s the $100 you owe me, there’s the $100 I won from Cameron, $200 I took off of Foreman, and $600 I got from Wilson. Very bitter.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>Cameron</speaker><content>Hey, good morning.</content></utterance>
+<utterance uid="33-2"><speaker>Foreman</speaker><content>Good news on your EEG, treatment is working.</content></utterance>
+<utterance uid="33-3"><speaker>Cameron</speaker><content>And your immune system is responding.</content></utterance>
+<utterance uid="33-4"><speaker>Foreman</speaker><content>I know it’s early, but let me take a look. Let’s see what that brain of yours can do. Name as many animals as you can that start with the letter “O”.</content></utterance>
+<utterance uid="33-5"><speaker>Dan</speaker><content>Ostrich, ox, old elephant.</content></utterance>
+<utterance uid="33-6"><speaker>Cameron</speaker><content>Well, that’s 2 better than last time. How you doing with the whole adoption thing?</content></utterance>
+<utterance uid="33-7"><speaker>Dan</speaker><content>I knew since 5th grade.</content></utterance>
+<utterance uid="33-8"><speaker>Foreman</speaker><content>How’s that?</content></utterance>
+<utterance uid="33-9"><speaker>Dan</speaker><content>Cleft chin. I have one, my dad doesn’t. I looked it up on the Internet; it’s one of those trait things.</content></utterance>
+<utterance uid="33-10"><speaker>Forman</speaker><content>That’s right, it’s autosomal dominant. Since neither of your parents have cleft chins, it’s highly unlikely that you’re biologically related.</content></utterance>
+<utterance uid="33-11"><speaker>Cameron</speaker><content>You sure you’re ok?</content></utterance>
+<utterance uid="33-12"><speaker>Dan</speaker><content>I’ve got no problems with being adopted. I love my parents.</content></utterance>
+<utterance uid="33-13"><speaker>Dad</speaker><content>How’s he doing?</content></utterance>
+<utterance uid="33-14"><speaker>Cameron</speaker><content>He’s doing pretty well. He’s a smart kid. I think he’s gonna be fine.</content></utterance>
+<utterance uid="33-15"><speaker>Dad</speaker><content>Thanks.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>House</speaker><content>Wheels, one-eight! Wheels!</content></utterance>
+</scene>
+</script>

@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>MANDY BRONSON</speaker><content>Joseph, this is the last time we can do this.</content></utterance>
+<utterance uid="1-2"><speaker>LANCE HASTINGS</speaker><content>What are you talking about?</content></utterance>
+<utterance uid="1-3"><speaker>MANDY BRONSON</speaker><content>I'm going back to my husband.</content></utterance>
+<utterance uid="1-4"><speaker>LANCE HASTINGS</speaker><content>Alfonso?</content></utterance>
+<utterance uid="1-5"><speaker>MANDY BRONSON</speaker><content>I'm sorry.</content></utterance>
+<utterance uid="1-6"><speaker>LANCE HASTINGS</speaker><content>Angie, baby, what about us?</content></utterance>
+<utterance uid="1-7"><speaker>MANDY BRONSON</speaker><content>Oh, my God. Oh, my God, that's him. He's home early.</content></utterance>
+<utterance uid="1-8"><speaker>ALFONSO</speaker><content>Angela, are you upstairs?</content></utterance>
+<utterance uid="1-9"><speaker>MANDY BRONSON</speaker><content>Hide in the closet. Mi bello!</content></utterance>
+<utterance uid="1-10"><speaker>LANCE HASTINGS</speaker><content>All right, what's going on, fellas? The gag reel getting a little thin?</content></utterance>
+<utterance uid="1-11"><speaker>CREWMAN</speaker><content>No.</content></utterance>
+<utterance uid="1-12"><speaker>LANCE HASTINGS</speaker><content>Oh, my God. It's Sarah! They killed Sarah!</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>CASTLE</speaker><content>I know you aren't cooking breakfast. So, what is all this?</content></utterance>
+<utterance uid="2-2"><speaker>MARTHA</speaker><content>Spring cleaning.</content></utterance>
+<utterance uid="2-3"><speaker>CASTLE</speaker><content>Oh! Well, Mother, I am-- I am shocked that you even know how to operate a sponge.</content></utterance>
+<utterance uid="2-4"><speaker>MARTHA</speaker><content>Oh! I have cleaned before. Well, I-- supervised cleaning before.</content></utterance>
+<utterance uid="2-5"><speaker>CASTLE</speaker><content>And what has, uh, prompted this sudden burst of domestic devotion?</content></utterance>
+<utterance uid="2-6"><speaker>MARTHA</speaker><content>The space for my acting school won't be ready for another month, Alexis is all busy with her AP tests, my lunch date canceled.</content></utterance>
+<utterance uid="2-7"><speaker>CASTLE</speaker><content>Oh.</content></utterance>
+<utterance uid="2-8"><speaker>MARTHA</speaker><content>And if I don't do something productive, I'm going to tear my hair out. So, out of my way.</content></utterance>
+<utterance uid="2-9"><speaker>CASTLE</speaker><content>Pardon.</content></utterance>
+<utterance uid="2-10"><speaker>CASTLE</speaker><content>Oh, speaking of hair. Hello, Beckett. Yes. 1777 21st Street. All right, I'll meet you there.</content></utterance>
+<utterance uid="2-11"><speaker>MARTHA</speaker><content>Did you say 1777 21st Street?</content></utterance>
+<utterance uid="2-12"><speaker>CASTLE</speaker><content>Yeah, there was a murder there. Why?</content></utterance>
+<utterance uid="2-13"><speaker>MARTHA</speaker><content>Oh, I know that address. That's Gemstar Studios. That's where they film Temptation Lane.</content></utterance>
+<utterance uid="2-14"><speaker>CASTLE</speaker><content>The soap opera you used to be on.</content></utterance>
+<utterance uid="2-15"><speaker>MARTHA</speaker><content>Oh, I-- I hope it's nobody that I know. Maybe I should go with you.</content></utterance>
+<utterance uid="2-16"><speaker>CASTLE</speaker><content>It's a crime scene, Mother, for trained professionals.</content></utterance>
+<utterance uid="2-17"><speaker>MARTHA</speaker><content>Richard Castle. You are neither trained, nor a professional.</content></utterance>
+<utterance uid="2-18"><speaker>CASTLE</speaker><content>I'll text you with updates.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>ESPOSITO</speaker><content>Victim's name is Sarah Cutler. Looks like she was killed last night and stuffed into a closet on set.</content></utterance>
+<utterance uid="3-2"><speaker>BECKETT</speaker><content>Was she a part of the production?</content></utterance>
+<utterance uid="3-3"><speaker>ESPOSITO</speaker><content>Yeah.</content></utterance>
+<utterance uid="3-4"><speaker>CASTLE</speaker><content>Let me guess. The diva actress that everyone hated.</content></utterance>
+<utterance uid="3-5"><speaker>ESPOSITO</speaker><content>Actually, Castle, she was a writer.</content></utterance>
+<utterance uid="3-6"><speaker>CASTLE</speaker><content>A writer?</content></utterance>
+<utterance uid="3-7"><speaker>ESPOSITO</speaker><content>Mm.</content></utterance>
+<utterance uid="3-8"><speaker>CASTLE</speaker><content>Why would anyone want to kill a writer?</content></utterance>
+<utterance uid="3-9"><speaker>BECKETT</speaker><content>Oh, so many reasons.</content></utterance>
+<utterance uid="3-10"><speaker>CASTLE</speaker><content>Or maybe Sarah discovered that Greek billionaire Mikos had invented a machine that could cause blizzards that would plunge the entire world into an ice age.</content></utterance>
+<utterance uid="3-11"><speaker>BECKETT</speaker><content>Really? You're gonna go with a evil weather machine?</content></utterance>
+<utterance uid="3-12"><speaker>CASTLE</speaker><content>It already happened. On General Hospital. Look, bear in mind, we're entering into a world of epic drama with larger than life characters, each one teeming with twisted secrets and personal intrigue. It stands to reason that the motive for this murder will be worthy of a soap opera.</content></utterance>
+<utterance uid="3-13"><speaker>BECKETT</speaker><content>Castle, even in a world of epic drama, the motives are usually quite ordinary.</content></utterance>
+<utterance uid="3-14"><speaker>CASTLE</speaker><content>Now, does that look ordinary to you? The victim with an axe in her back on the set of her own show. Odds are, the killer walks amongst us on this very soundstage.</content></utterance>
+<utterance uid="3-15"><speaker>BECKETT</speaker><content>So, what've we got?</content></utterance>
+<utterance uid="3-16"><speaker>LANIE</speaker><content>Her spinal cord was severed with the axe. Upon contact, her lungs filled with blood, causing her to drown. I can put the time of death in the four hour window somewhere between 7 and 11 p.m. last night.</content></utterance>
+<utterance uid="3-17"><speaker>BECKETT</speaker><content>And where did this axe come from?</content></utterance>
+<utterance uid="3-18"><speaker>ESPOSITO</speaker><content>It's the fire axe from the stage. Crew members think it might be symbolic.</content></utterance>
+<utterance uid="3-19"><speaker>CASTLE</speaker><content>Symbolic?</content></utterance>
+<utterance uid="3-20"><speaker>ESPOSITO</speaker><content>Well, when Miss Cutler took over writing the show, first thing she did was kill off one of the main characters with an axe. Helped save the show, but some of the fans were unhappy.</content></utterance>
+<utterance uid="3-21"><speaker>LANIE</speaker><content>You damn right, we were unhappy. Ashley Conrad was the matriarch of Temptation Lane for thirty years. And then, all of a sudden, whap!</content></utterance>
+<utterance uid="3-22"><speaker>BECKETT</speaker><content>Lanie.</content></utterance>
+<utterance uid="3-23"><speaker>LANIE</speaker><content>Right. Based on the CSU sweep, she was killed right here. The killer wiped up the blood spatter and shoved her in the closet.</content></utterance>
+<utterance uid="3-24"><speaker>CASTLE</speaker><content>Which means they knew there was a closet to shove her into, suggesting someone familiar with the layout. An insider, perhaps.</content></utterance>
+<utterance uid="3-25"><speaker>RYAN</speaker><content>So, I just checked with Security. They're on high alert now, but, as you can tell, things aren't exactly buttoned up around here.</content></utterance>
+<utterance uid="3-26"><speaker>BECKETT</speaker><content>And what about the cameras?</content></utterance>
+<utterance uid="3-27"><speaker>RYAN</speaker><content>Only one at the main entrance, but no one was manning the entrance to this soundstage.</content></utterance>
+<utterance uid="3-28"><speaker>BECKETT</speaker><content>Oh, so, it is possible that someone from the outside got in. Have you talked to next of kin?</content></utterance>
+<utterance uid="3-29"><speaker>ESPOSITO</speaker><content>Husband was on set when the body was discovered. Turns out, he's one of the directors.</content></utterance>
+<utterance uid="3-30"><speaker>BECKETT</speaker><content>Okay. So, why don't you guys get statements from the actors that found her. Castle and I'll talk to the husband.</content></utterance>
+<utterance uid="3-31"><speaker>ESPOSITO</speaker><content>Right.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>LANCE HASTINGS</speaker><content>It's tragic, really. Sarah was a gem. Supremely talented, too.</content></utterance>
+<utterance uid="4-2"><speaker>MANDY BRONSON</speaker><content>It all begins with the words.</content></utterance>
+<utterance uid="4-3"><speaker>ESPOSITO</speaker><content>But it's also how you say them.</content></utterance>
+<utterance uid="4-4"><speaker>MANDY BRONSON</speaker><content>So true. My performance brings Angela Cannon to life. Without Sarah's words, I'd just be an incredibly gorgeous woman named Mandy Bronson.</content></utterance>
+<utterance uid="4-5"><speaker>LANCE HASTINGS</speaker><content>She really understood Joseph Fox. My character. He's very complicated.</content></utterance>
+<utterance uid="4-6"><speaker>MANDY BRONSON</speaker><content>Complicated? A five year old could write him.</content></utterance>
+<utterance uid="4-7"><speaker>LANCE HASTINGS</speaker><content>Yeah, I'd be insulted if you actually knew anything about acting.</content></utterance>
+<utterance uid="4-8"><speaker>ESPOSITO</speaker><content>Miss Bronson, what time did you leave the studio last night?</content></utterance>
+<utterance uid="4-9"><speaker>MANDY BRONSON</speaker><content>We wrapped at six and then went straight home. I, um...</content></utterance>
+<utterance uid="4-10"><speaker>MANDY BRONSON</speaker><content>Drew a bath, poured a glass of wine, put on a little John Legend. Then I slipped out of my silk robe and let the bubbles soak every inch of my body.</content></utterance>
+<utterance uid="4-11"><speaker>ESPOSITO</speaker><content>Wow. Dude. Dude.</content></utterance>
+<utterance uid="4-12"><speaker>RYAN</speaker><content>Dude.</content></utterance>
+<utterance uid="4-13"><speaker>ESPOSITO</speaker><content>I'm just--</content></utterance>
+<utterance uid="4-14"><speaker>RYAN</speaker><content>Mr. Hastings, how about you?</content></utterance>
+<utterance uid="4-15"><speaker>LANCE HASTINGS</speaker><content>Ditto.</content></utterance>
+<utterance uid="4-16"><speaker>RYAN</speaker><content>You also drew a bubble bath and listened to some John Legend?</content></utterance>
+<utterance uid="4-17"><speaker>LANCE HASTINGS</speaker><content>No, I left right after we wrapped.</content></utterance>
+<utterance uid="4-18"><speaker>ESPOSITO</speaker><content>And when did you last see Sarah?</content></utterance>
+<utterance uid="4-19"><speaker>LANCE HASTINGS</speaker><content>She came down to the set right before we shot a love scene.</content></utterance>
+<utterance uid="4-20"><speaker>MANDY BRONSON</speaker><content>Ha! More like a torture scene with me getting smothered by his bulk. Why don't you get your ass to the gym?</content></utterance>
+<utterance uid="4-21"><speaker>LANCE HASTINGS</speaker><content>I'll go to the gym if you pop a tic-tac the next time we have to kiss.</content></utterance>
+<utterance uid="4-22"><speaker>RYAN</speaker><content>Can we get back to Sarah for just one more moment? Did she have any enemies in the production?</content></utterance>
+<utterance uid="4-23"><speaker>LANCE HASTINGS</speaker><content>No, no! Sarah was wonderful. Everybody loved her.</content></utterance>
+<utterance uid="4-24"><speaker>MANDY BRONSON</speaker><content>Yeah, she treated everyone with respect. I can't imagine who would do this.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>BECKETT</speaker><content>Mr. Powers, when was the last time you spoke with your wife?</content></utterance>
+<utterance uid="5-2"><speaker>VINCE POWERS</speaker><content>I, um, spoke with Sarah last night. Right-- right here. Right where we're standing right now.</content></utterance>
+<utterance uid="5-3"><speaker>BECKETT</speaker><content>And what did the two of you talk about?</content></utterance>
+<utterance uid="5-4"><speaker>VINCE POWERS</speaker><content>End of the day, just touching base.</content></utterance>
+<utterance uid="5-5"><speaker>BECKETT</speaker><content>What time was that?</content></utterance>
+<utterance uid="5-6"><speaker>VINCE POWERS</speaker><content>Maybe a little after six.</content></utterance>
+<utterance uid="5-7"><speaker>BECKETT</speaker><content>Didn't you find it strange that Sarah didn't come home last night?</content></utterance>
+<utterance uid="5-8"><speaker>VINCE POWERS</speaker><content>I'm used to it. Sarah's the head writer. Long hours writing scripts kind of comes with the territory.</content></utterance>
+<utterance uid="5-9"><speaker>CASTLE</speaker><content>She have any trouble with cast or crew?</content></utterance>
+<utterance uid="5-10"><speaker>VINCE POWERS</speaker><content>Well, everybody here has an agenda, and Sarah had to make a lot of tough decisions, but nobody here would actually hurt her. We're like a family.</content></utterance>
+<utterance uid="5-11"><speaker>BECKETT</speaker><content>And what about anyone outside the show?</content></utterance>
+<utterance uid="5-12"><speaker>VINCE POWERS</speaker><content>No, not that I-- Wait.</content></utterance>
+<utterance uid="5-13"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="5-14"><speaker>VINCE POWERS</speaker><content>FoxCanLover.</content></utterance>
+<utterance uid="5-15"><speaker>BECKETT</speaker><content>FoxCanLover?</content></utterance>
+<utterance uid="5-16"><speaker>VINCE POWERS</speaker><content>About a week ago, Sarah had this-- this crazy, obsessed fan kicked off the set. Sh--she writes an unofficial blog about the show. She's a shipper who goes by the screen name FoxCanLover.</content></utterance>
+<utterance uid="5-17"><speaker>CASTLE</speaker><content>A shipper?</content></utterance>
+<utterance uid="5-18"><speaker>BECKETT</speaker><content>Uh, yeah. It's a person who invests in the relationships of a show. In this case, it would be Joseph Fox and Angela Cannon. Hence, FoxCan.</content></utterance>
+<utterance uid="5-19"><speaker>VINCE POWERS</speaker><content>Exactly. But once she gets here, she loses it, goes crazy, threatens Sarah. Security has to escort her off.</content></utterance>
+<utterance uid="5-20"><speaker>BECKETT</speaker><content>Do you know the lady's name?</content></utterance>
+<utterance uid="5-21"><speaker>VINCE POWERS</speaker><content>No, I-- I don't, but Sarah's assistant would. Reese Harmon.</content></utterance>
+<utterance uid="5-22"><speaker>GLORIA CHAMBERS</speaker><content>Is it true?</content></utterance>
+<utterance uid="5-23"><speaker>VINCE POWERS</speaker><content>I'm so-- I'm so sorry.</content></utterance>
+<utterance uid="5-24"><speaker>GLORIA CHAMBERS</speaker><content>My baby's gone!</content></utterance>
+<utterance uid="5-25"><speaker>VINCE POWERS</speaker><content>I'm sorry.</content></utterance>
+<utterance uid="5-26"><speaker>VINCE POWERS</speaker><content>This is, um, this is Sarah's mom, Gloria Chambers. Detective Beckett is investigating Sarah's murder.</content></utterance>
+<utterance uid="5-27"><speaker>GLORIA CHAMBERS</speaker><content>It's so unfair. I just got her back and now she's gone.</content></utterance>
+<utterance uid="5-28"><speaker>BECKETT</speaker><content>Mrs. Chambers, were the two of you estranged?</content></utterance>
+<utterance uid="5-29"><speaker>GLORIA CHAMBERS</speaker><content>We had been for years. I gave her up for adoption when I was young. What kind of monster would do this?</content></utterance>
+<utterance uid="5-30"><speaker>BECKETT</speaker><content>We don't know just yet, but we are gonna do everything we can to bring them to justice.</content></utterance>
+<utterance uid="5-31"><speaker>GLORIA CHAMBERS</speaker><content>You'd better. Or I will sue the entire city for every nickel it's worth!</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>CASTLE</speaker><content>Well, I understand being upset, but threatening to sue?</content></utterance>
+<utterance uid="6-2"><speaker>BECKETT</speaker><content>Yeah, well, everybody processes their grief differently.</content></utterance>
+<utterance uid="6-3"><speaker>CASTLE</speaker><content>Yes. Unless she's a gold digging opportunist who's insinuated herself back into her daughter's life because she's in need of a heart transplant and Sarah is the only compatible donor.</content></utterance>
+<utterance uid="6-4"><speaker>BECKETT</speaker><content>Mm, sure, maybe on Temptation Lane. Not in the real world.</content></utterance>
+<utterance uid="6-5"><speaker>CASTLE</speaker><content>Oh, speaking of which, FoxCan?</content></utterance>
+<utterance uid="6-6"><speaker>BECKETT</speaker><content>Mm-hmm.</content></utterance>
+<utterance uid="6-7"><speaker>CASTLE</speaker><content>Joseph Fox and Angela Cannon, how did you know their names?</content></utterance>
+<utterance uid="6-8"><speaker>BECKETT</speaker><content>Uh, one of the uniforms briefed me.</content></utterance>
+<utterance uid="6-9"><speaker>CASTLE</speaker><content>Oh. And shippers. Relationship fans?</content></utterance>
+<utterance uid="6-10"><speaker>BECKETT</speaker><content>Castle, I do read, you know.</content></utterance>
+<utterance uid="6-11"><speaker>CASTLE</speaker><content>Cool.</content></utterance>
+<utterance uid="6-12"><speaker>BECKETT</speaker><content>Excuse me, are you Reese Harmon?</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>REESE HARMON</speaker><content>FoxCanLover's real name is Carrie Edwards. She won the set visit from a literacy charity that Sarah supported. She paid a thousand dollars for it. Everything was fine at first, but when she saw Sarah, she got in her face and started yelling, "You ruined everything!"</content></utterance>
+<utterance uid="7-2"><speaker>BECKETT</speaker><content>Did she ever send Sarah any threatening letters? Anything that you might have on file?</content></utterance>
+<utterance uid="7-3"><speaker>REESE HARMON</speaker><content>No. But she did write some pretty awful things on her blog. I'll show you that.</content></utterance>
+<utterance uid="7-4"><speaker>CASTLE</speaker><content>If Sarah was working late, why weren't you here? You-- you are her assistant.</content></utterance>
+<utterance uid="7-5"><speaker>REESE HARMON</speaker><content>I usually stay, but Sarah wouldn't let me.</content></utterance>
+<utterance uid="7-6"><speaker>BECKETT</speaker><content>Why not?</content></utterance>
+<utterance uid="7-7"><speaker>REESE HARMON</speaker><content>One of her passions was helping young writers. She got me a position at the network fellowship program. We had a mixer last night. She was supposed to come, but she never showed.</content></utterance>
+<utterance uid="7-8"><speaker>BECKETT</speaker><content>When was the last time you saw her?</content></utterance>
+<utterance uid="7-9"><speaker>REESE HARMON</speaker><content>Around 6:30. Brought her her coffee and scone. Here it is. Last week, the day of the set visit, look at what she wrote.</content></utterance>
+<utterance uid="7-10"><speaker>BECKETT</speaker><content>"Made it onto the set, but didn't complete the mission."</content></utterance>
+<utterance uid="7-11"><speaker>CASTLE</speaker><content>Look at the most recent post. "Last time, I failed. This time I will succeed. She's been stabbing us loyal fans in the back. Now it's our turn to take her down..."</content></utterance>
+<utterance uid="7-12"><speaker>BECKETT</speaker><content>"It's time to give her the axe."</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>CARRIE EDWARDS</speaker><content>She's dead? Sarah Cutler's dead? This is the best news ever. Can I send a quick Tweet? Not cool? I'll wait.</content></utterance>
+<utterance uid="8-2"><speaker>BECKETT</speaker><content>Must've been difficult not to blog about it last night.</content></utterance>
+<utterance uid="8-3"><speaker>CARRIE EDWARDS</speaker><content>Yeah, how would I know. Wait. You guys think I had something to do this?</content></utterance>
+<utterance uid="8-4"><speaker>BECKETT</speaker><content>Well, I mean, your blog clearly spells out your determination to take out Sarah.</content></utterance>
+<utterance uid="8-5"><speaker>CARRIE EDWARDS</speaker><content>But everybody talks tough on the internet.</content></utterance>
+<utterance uid="8-6"><speaker>CASTLE</speaker><content>You wrote, "It's time to give her the axe," the day she was killed with an axe.</content></utterance>
+<utterance uid="8-7"><speaker>CARRIE EDWARDS</speaker><content>Okay. Now, I can explain this!</content></utterance>
+<utterance uid="8-8"><speaker>BECKETT</speaker><content>We already figured it out. You bought the set visit to get closer to Sarah. The visit was cut short. You came back last night, when no one was around, and then you remembered there's an axe on the soundstage.</content></utterance>
+<utterance uid="8-9"><speaker>CARRIE EDWARDS</speaker><content>No, no, no! I bought the set visit because she was being swayed by the CanFonsos!</content></utterance>
+<utterance uid="8-10"><speaker>CASTLE</speaker><content>Who?</content></utterance>
+<utterance uid="8-11"><speaker>CARRIE EDWARDS</speaker><content>The CanFonsos. The opposition.  They believe that Angela Cannon should be together with Alfonso Dominguez. I was trying to convince her that Angela belongs with Joseph!</content></utterance>
+<utterance uid="8-12"><speaker>CASTLE</speaker><content>With an axe.</content></utterance>
+<utterance uid="8-13"><speaker>CARRIE EDWARDS</speaker><content>Yes! Wait. No. I was organizing a protest, okay? We were gonna send a whole bunch of axes to the head of the network, demanding that Sarah be fired. I've got everybody on my website doing it. We want them to know that we think Sarah's ruining the show!</content></utterance>
+<utterance uid="8-14"><speaker>BECKETT</speaker><content>Where were you last night between seven and eleven?</content></utterance>
+<utterance uid="8-15"><speaker>CARRIE EDWARDS</speaker><content>I was chatting with the other FoxCans.</content></utterance>
+<utterance uid="8-16"><speaker>CASTLE</speaker><content>Wild guess. Alone?</content></utterance>
+<utterance uid="8-17"><speaker>CARRIE EDWARDS</speaker><content>No. No, and I can prove it. Mary and Dennis were home.</content></utterance>
+<utterance uid="8-18"><speaker>BECKETT</speaker><content>And those are your roommates?</content></utterance>
+<utterance uid="8-19"><speaker>CARRIE EDWARDS</speaker><content>No, my parents.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>CASTLE</speaker><content>Just don't see that girl swinging an axe, let alone leaving her house.</content></utterance>
+<utterance uid="9-2"><speaker>BECKETT</speaker><content>What's the matter? Homicidal fan not soapy enough for you?</content></utterance>
+<utterance uid="9-3"><speaker>CASTLE</speaker><content>You know, when you say soapy, I conjure up images--</content></utterance>
+<utterance uid="9-4"><speaker>BECKETT</speaker><content>Castle, focus.</content></utterance>
+<utterance uid="9-5"><speaker>CASTLE</speaker><content>I am.</content></utterance>
+<utterance uid="9-6"><speaker>BECKETT</speaker><content>On our suspect.</content></utterance>
+<utterance uid="9-7"><speaker>CASTLE</speaker><content>Oh.</content></utterance>
+<utterance uid="9-8"><speaker>BECKETT</speaker><content>I mean, you saw how obsessive she was. She invests in these fictional relationships. She cares if Angela's gonna get back together with Alfonso, if Marguerite's gonna survive her cancer scare--</content></utterance>
+<utterance uid="9-9"><speaker>CASTLE</speaker><content>Oh, my god.</content></utterance>
+<utterance uid="9-10"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="9-11"><speaker>CASTLE</speaker><content>You watch Temptation Lane.</content></utterance>
+<utterance uid="9-12"><speaker>BECKETT</speaker><content>What? No.</content></utterance>
+<utterance uid="9-13"><speaker>CASTLE</speaker><content>No one said anything--</content></utterance>
+<utterance uid="9-14"><speaker>CASTLE</speaker><content>--about Marguerite's cancer scare. You know a lot about shippers. You know about FoxCans. You are a fan. A big, fat, Temptation Lane fan.</content></utterance>
+<utterance uid="9-15"><speaker>BECKETT</speaker><content>Okay, maybe I watched, it, like, once or twice.</content></utterance>
+<utterance uid="9-16"><speaker>CASTLE</speaker><content>It's just so delightfully not you!</content></utterance>
+<utterance uid="9-17"><speaker>BECKETT</speaker><content>So says the guy who rattles off plot points from General Hospital.</content></utterance>
+<utterance uid="9-18"><speaker>CASTLE</speaker><content>Oh, that is completely different! That is for research.</content></utterance>
+<utterance uid="9-19"><speaker>ESPOSITO</speaker><content>What was for research?</content></utterance>
+<utterance uid="9-20"><speaker>ESPOSITO</speaker><content>Mary and Dennis confirm that blogger chick was in her room all night.</content></utterance>
+<utterance uid="9-21"><speaker>CASTLE</speaker><content>What about the cast and crew?</content></utterance>
+<utterance uid="9-22"><speaker>ESPOSITO</speaker><content>So far, all their alibis checked out. But I was looking over Sarah's schedule. Last week, there were a couple of appointments that just say "M". And there was another one the day before the murder, and then one scheduled for tomorrow.</content></utterance>
+<utterance uid="9-23"><speaker>BECKETT</speaker><content>So...</content></utterance>
+<utterance uid="9-24"><speaker>ESPOSITO</speaker><content>So, her assistant didn't schedule these, which means it was personal. And her husband didn't know about them, either.</content></utterance>
+<utterance uid="9-25"><speaker>CASTLE</speaker><content>With Sarah's work load, it must've been important for her to make time.</content></utterance>
+<utterance uid="9-26"><speaker>ESPOSITO</speaker><content>Exactly. And her husband and assistant both say, when she came back from this appointment, she was upset.</content></utterance>
+<utterance uid="9-27"><speaker>BECKETT</speaker><content>All right, let's see what we can dig up from that.</content></utterance>
+<utterance uid="9-28"><speaker>RYAN</speaker><content>Hey, Beckett.</content></utterance>
+<utterance uid="9-29"><speaker>BECKETT</speaker><content>Hey. What'd you find at the apartment?</content></utterance>
+<utterance uid="9-30"><speaker>RYAN</speaker><content>Her husband's stuff. His clothes are gone, and only her stuff is in the bathroom. So, I talked to the doorman, and he said that Vince hasn't lived there in almost two months. They've been separated.</content></utterance>
+<utterance uid="9-31"><speaker>BECKETT</speaker><content>Funny he didn't mention that earlier. Looks like someone's hiding something on Temptation Lane.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>VINCENT POWERS</speaker><content>Look, I knew if I told you that my marriage was in trouble that I would be suspect number one.</content></utterance>
+<utterance uid="10-2"><speaker>BECKETT</speaker><content>Maybe. But, now that we know that you lied, it makes you look even worse.</content></utterance>
+<utterance uid="10-3"><speaker>CASTLE</speaker><content>Why did you separate?</content></utterance>
+<utterance uid="10-4"><speaker>VINCENT POWERS</speaker><content>Everything changed after Sarah got the big promotion. If I wanted to spend time with my own wife, I had to schedule an appointment. It wasn't working. So, I moved out.</content></utterance>
+<utterance uid="10-5"><speaker>BECKETT</speaker><content>You know, there's another version of this story where your wife kicked you out, and then she demanded a divorce.</content></utterance>
+<utterance uid="10-6"><speaker>CASTLE</speaker><content>Mmm. Only, this way, you don't have to worry about splitting your assets.</content></utterance>
+<utterance uid="10-7"><speaker>VINCENT POWERS</speaker><content>I didn't kill my wife.</content></utterance>
+<utterance uid="10-8"><speaker>BECKETT</speaker><content>Well, then where were you the night that she was killed?</content></utterance>
+<utterance uid="10-9"><speaker>VINCENT POWERS</speaker><content>I was at the hotel. I went there immediately after we wrapped here.</content></utterance>
+<utterance uid="10-10"><speaker>BECKETT</speaker><content>And can anyone vouch for that?</content></utterance>
+<utterance uid="10-11"><speaker>CASTLE</speaker><content>Come on, Vince. Tell us you were alone. It'll make arresting you that much easier.</content></utterance>
+<utterance uid="10-12"><speaker>VINCENT POWERS</speaker><content>I, um... I wasn't alone.</content></utterance>
+<utterance uid="10-13"><speaker>BECKETT</speaker><content>I'm gonna need a name.</content></utterance>
+<utterance uid="10-14"><speaker>VINCENT POWERS</speaker><content>Mandy Bronson.</content></utterance>
+<utterance uid="10-15"><speaker>CASTLE</speaker><content>Mandy Bronson? As in Angela Cannon? As in star of Temptation Lane?</content></utterance>
+<utterance uid="10-16"><speaker>VINCENT POWERS</speaker><content>Yes, that Mandy Bronson.</content></utterance>
+<utterance uid="10-17"><speaker>CASTLE</speaker><content>Just checking.</content></utterance>
+<utterance uid="10-18"><speaker>BECKETT</speaker><content>Did she stay the night?</content></utterance>
+<utterance uid="10-19"><speaker>VINCENT POWERS</speaker><content>No. We ordered room service and, um, about seven o'clock, she got an e-mail from Sarah and she went running off.</content></utterance>
+<utterance uid="10-20"><speaker>BECKETT</speaker><content>So, the night that your wife was killed, she e-mailed your mistress? And you didn't think that that was important to mention?</content></utterance>
+<utterance uid="10-21"><speaker>VINCENT POWERS</speaker><content>It wasn't a big deal. I asked Mandy about it. Well, she got some new script pages that Sarah wanted her to look over. So, she went home to memorize them.</content></utterance>
+<utterance uid="10-22"><speaker>BECKETT</speaker><content>Were you alone the rest of the night?</content></utterance>
+<utterance uid="10-23"><speaker>VINCENT POWERS</speaker><content>Yes. Yes, I cracked the mini-bar, I ordered Pay Per View. You can check.</content></utterance>
+<utterance uid="10-24"><speaker>BECKETT</speaker><content>I will.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>CASTLE</speaker><content>It can't be the husband.</content></utterance>
+<utterance uid="11-2"><speaker>BECKETT</speaker><content>Why? He's got motive?</content></utterance>
+<utterance uid="11-3"><speaker>CASTLE</speaker><content>Yeah, but marriage on the rocks, killing for money? That's just so...</content></utterance>
+<utterance uid="11-4"><speaker>BECKETT</speaker><content>Ordinary.</content></utterance>
+<utterance uid="11-5"><speaker>CASTLE</speaker><content>We need to focus on Mandy Bronson. Home wrecking diva engaged in a tour d'affair with the victim's husband. She fled their illicit love nest after a mysterious e-mail from Sarah on the eve of her murder.</content></utterance>
+<utterance uid="11-6"><speaker>BECKETT</speaker><content>Yeah, but we don't even know if there was an e-mail. I mean, Vincent could've been lying. But, you are right, Mandy Bronson does have some explaining to do.</content></utterance>
+<utterance uid="11-7"><speaker>CASTLE</speaker><content>Esplanie.</content></utterance>
+<utterance uid="11-8"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="11-9"><speaker>CASTLE</speaker><content>Lanie and Esposito. Like FoxCan. We can call them Esplanie. Which is perfect, because they're always Esplaning things. Mother.</content></utterance>
+<utterance uid="11-10"><speaker>MARTHA</speaker><content>Hi.</content></utterance>
+<utterance uid="11-11"><speaker>BECKETT</speaker><content>Martha. What a surprise.</content></utterance>
+<utterance uid="11-12"><speaker>CASTLE</speaker><content>Yes. What an unexpected surprise. What are you doing here?</content></utterance>
+<utterance uid="11-13"><speaker>MARTHA</speaker><content>Grieving!</content></utterance>
+<utterance uid="11-14"><speaker>CASTLE</speaker><content>You didn't even know the victim.</content></utterance>
+<utterance uid="11-15"><speaker>MARTHA</speaker><content>Darling, a loss for a show like this is a loss for anyone who was ever part of its history. And...I think I can be of help here. I think I could be your inside source and get the scoop on what's really going on here. Oh-ho-ho, and what better place to start than Lance Hastings?</content></utterance>
+<utterance uid="11-16"><speaker>CASTLE</speaker><content>You know him?</content></utterance>
+<utterance uid="11-17"><speaker>MARTHA</speaker><content>He was my love interest 30 years ago. On screen. And off.</content></utterance>
+<utterance uid="11-18"><speaker>MARTHA</speaker><content>After my character married his character, Joseph Fox, she was kidnapped, buried alive, trapped in a cave with bears, uh, kidnapped again, and held hostage in the sewers of Paris.</content></utterance>
+<utterance uid="11-19"><speaker>BECKETT</speaker><content>How long were you on the show?</content></utterance>
+<utterance uid="11-20"><speaker>MARTHA</speaker><content>Three weeks. Got to go. Excuse me.</content></utterance>
+<utterance uid="11-21"><speaker>CASTLE</speaker><content>My mother gives new meaning to the word "transparent".</content></utterance>
+<utterance uid="11-22"><speaker>MARTHA</speaker><content>Yes. Oh, darling, I know.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>REESE HARMON</speaker><content>There's her account. What are you looking for?</content></utterance>
+<utterance uid="12-2"><speaker>BECKETT</speaker><content>An e-mail that Sarah sent before she died.</content></utterance>
+<utterance uid="12-3"><speaker>CASTLE</speaker><content>There it is.</content></utterance>
+<utterance uid="12-4"><speaker>BECKETT</speaker><content>"Meet me at the office ASAP." So, Sarah had Mandy meet her here that night.</content></utterance>
+<utterance uid="12-5"><speaker>CASTLE</speaker><content>You think she found out about the affair? Planned to confront her?</content></utterance>
+<utterance uid="12-6"><speaker>BECKETT</speaker><content>I don't know. Here's an attachment.</content></utterance>
+<utterance uid="12-7"><speaker>CASTLE</speaker><content>Oh, it's a script for an upcoming episode.</content></utterance>
+<utterance uid="12-8"><speaker>BECKETT</speaker><content>The characters are vacationing in Pamplona. Oh, my god!</content></utterance>
+<utterance uid="12-9"><speaker>CASTLE</speaker><content>Oh, my god. Mandy Bronson's character is gored to death while running with the bulls.</content></utterance>
+<utterance uid="12-10"><speaker>BECKETT</speaker><content>Sarah brought her here to tell Mandy she was writing her off the show.</content></utterance>
+<utterance uid="12-11"><speaker>CASTLE</speaker><content>Looks like Mandy wrote her off first.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>ESPOSITO</speaker><content>Castle! C'mere, c'mere! I know she's a murder suspect, but you got to admit, she is smoking hot.</content></utterance>
+<utterance uid="13-2"><speaker>CASTLE</speaker><content>Agreed. So hot, in fact, that it led to a torrid affair with Sarah's director husband. Sarah found out about it, decided to kill off Mandy's character. Doesn't get any soapier than that.</content></utterance>
+<utterance uid="13-3"><speaker>ESPOSITO</speaker><content>Well, obviously, you haven't seen Chiquitas.</content></utterance>
+<utterance uid="13-4"><speaker>CASTLE</speaker><content>As in .</content></utterance>
+<utterance uid="13-5"><speaker>ESPOSITO</speaker><content>No. As in telenovelas. I used to watch it growing up with my grandmother. Bro, there was this one episode where Gabriella discovered that her husband was sleeping with her evil twin sister Teresita. Only to later find out that she had multiple personality disorder.</content></utterance>
+<utterance uid="13-6"><speaker>CASTLE</speaker><content>Wait, does that even qualify as cheating?</content></utterance>
+<utterance uid="13-7"><speaker>ESPOSITO</speaker><content>Dude.</content></utterance>
+<utterance uid="13-8"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="13-9"><speaker>ESPOSITO</speaker><content>Don't even think it.</content></utterance>
+<utterance uid="13-10"><speaker>BECKETT</speaker><content>Miss Bronson, I'm curious how you felt when you found out that Sarah was gonna kill off your character.</content></utterance>
+<utterance uid="13-11"><speaker>MANDY BRONSON</speaker><content>Kill off my character?  That's ridiculous. I'm the reason the ratings were up.</content></utterance>
+<utterance uid="13-12"><speaker>BECKETT</speaker><content>Well, then why did she write this scene where Angela Cannon has an unfortunate encounter with a bull?</content></utterance>
+<utterance uid="13-13"><speaker>MANDY BRONSON</speaker><content>Sarah probably writes a death scene for every character on the show. To keep the actors in line.</content></utterance>
+<utterance uid="13-14"><speaker>BECKETT</speaker><content>She wrote those particular pages the night that she was murdered. While you were with her husband. He told us that you left right after you got an e-mail from Sarah. But you didn't go home, did you? You went to go and confront her.</content></utterance>
+<utterance uid="13-15"><speaker>MANDY BRONSON</speaker><content>Sarah wanted to save her marriage. She thought the way she could do that was to get me out of the picture.</content></utterance>
+<utterance uid="13-16"><speaker>BECKETT</speaker><content>And you wanted to urge her to reconsider and, when she didn't, you killed her.</content></utterance>
+<utterance uid="13-17"><speaker>MANDY BRONSON</speaker><content>I admit, I went to see the *****. I told her Angela Cannon is the heart and soul of the show. But when I saw she wouldn't back down, I left. I didn't need to kill her.</content></utterance>
+<utterance uid="13-18"><speaker>BECKETT</speaker><content>And why is that?</content></utterance>
+<utterance uid="13-19"><speaker>MANDY BRONSON</speaker><content>Because I still had a hand to play. Everybody thinks Sarah calls the shots at Temptation Lane, but the second in command, Peter Connelly? He's the one the network really trusts.</content></utterance>
+<utterance uid="13-20"><speaker>BECKETT</speaker><content>What is this other hand that you had to play?</content></utterance>
+<utterance uid="13-21"><speaker>MANDY BRONSON</speaker><content>I did what any industrious actress would do. I went to his apartment straight from the studio and used my powers of persuasion to get him on my side.</content></utterance>
+<utterance uid="13-22"><speaker>BECKETT</speaker><content>When did you leave?</content></utterance>
+<utterance uid="13-23"><speaker>MANDY BRONSON</speaker><content>The sun was up, and my character's still alive.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>PETER CONNELLY</speaker><content>Yeah, she showed up at my apartment last night. She was wearing a fur coat.</content></utterance>
+<utterance uid="14-2"><speaker>BECKETT</speaker><content>So?</content></utterance>
+<utterance uid="14-3"><speaker>PETER CONNELLY</speaker><content>Just a fur coat. And I nearly had a heart attack when she let it slip open. Years of fantasizing and there she was, standing right in front of me.</content></utterance>
+<utterance uid="14-4"><speaker>BECKETT</speaker><content>And what did she want?</content></utterance>
+<utterance uid="14-5"><speaker>PETER CONNELLY</speaker><content>She was all fired up about Sarah wanting to write her off the show. So, then I had to listen to Mandy summarize every soap digest article praising her performance. Just to make her stop, I agreed that I would talk to Sarah.</content></utterance>
+<utterance uid="14-6"><speaker>CASTLE</speaker><content>Only now you don't have to.</content></utterance>
+<utterance uid="14-7"><speaker>PETER CONNELLY</speaker><content>Reese! Grab your laptop and join the group. We're all hands on deck.</content></utterance>
+<utterance uid="14-8"><speaker>REESE HARMON</speaker><content>You mean it?</content></utterance>
+<utterance uid="14-9"><speaker>PETER CONNELLY</speaker><content>I'm not gonna ask you twice.</content></utterance>
+<utterance uid="14-10"><speaker>CASTLE</speaker><content>Sounds like you're pretty desperate.</content></utterance>
+<utterance uid="14-11"><speaker>PETER CONNELLY</speaker><content>Mr. Castle, you publish, what? One book a year?</content></utterance>
+<utterance uid="14-12"><speaker>CASTLE</speaker><content>Give or take.</content></utterance>
+<utterance uid="14-13"><speaker>PETER CONNELLY</speaker><content>In that same time period, we produce 250 episodes. I'm down a writer. Reese wrote some script about horses that Sarah actually liked. So, yeah, I'm gonna take the extra help where I can get it. Unless, of course, you'd like to jump in.</content></utterance>
+<utterance uid="14-14"><speaker>CASTLE</speaker><content>You know what's interesting? With Sarah out of the way, Mandy gets to stay on the show and you get promoted.</content></utterance>
+<utterance uid="14-15"><speaker>PETER CONNELLY</speaker><content>Hey, I'm a professional. Mandy's staying because Angela Cannon is the heart and soul of this show.</content></utterance>
+<utterance uid="14-16"><speaker>BECKETT</speaker><content>Well, where have I heard that before? Uh, we'll keep in touch.  Beckett.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>ESPOSITO</speaker><content>So, the hotel confirmed that the time sensors in Vince's mini-bar were activated until 11:30 p.m.</content></utterance>
+<utterance uid="15-2"><speaker>BECKETT</speaker><content>So, I guess our deadly love triangle wasn't so deadly after all.</content></utterance>
+<utterance uid="15-3"><speaker>ESPOSITO</speaker><content>Not on his side, anyway. But the hot news is, Ryan got a hit on those mystery appointments Sarah was going to. He found credit card charges that matched up time and date to the meetings.</content></utterance>
+<utterance uid="15-4"><speaker>BECKETT</speaker><content>And where was she going?</content></utterance>
+<utterance uid="15-5"><speaker>ESPOSITO</speaker><content>To a coffee shop on 7th. According to her calendar, her next meeting is in about an hour.</content></utterance>
+<utterance uid="15-6"><speaker>BECKETT</speaker><content>Castle, you up for a coffee break?</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>LAUREN GOLDBERG</speaker><content>Here you go.</content></utterance>
+<utterance uid="16-2"><speaker>CUSTOMER</speaker><content>Thanks.</content></utterance>
+<utterance uid="16-3"><speaker>LAUREN GOLDBERG</speaker><content>Can I help you?</content></utterance>
+<utterance uid="16-4"><speaker>BECKETT</speaker><content>Yes. I hope so.</content></utterance>
+<utterance uid="16-5"><speaker>BECKETT</speaker><content>Do you recognize this woman?</content></utterance>
+<utterance uid="16-6"><speaker>LAUREN GOLDBERG</speaker><content>Yeah. Why?</content></utterance>
+<utterance uid="16-7"><speaker>LAUREN GOLDBERG</speaker><content>She can't be dead! She can't be dead! She can't.</content></utterance>
+<utterance uid="16-8"><speaker>BECKETT</speaker><content>I'm so sorry, Miss Goldberg.</content></utterance>
+<utterance uid="16-9"><speaker>LAUREN GOLDBERG</speaker><content>It's not fair. It is so not fair. What am I supposed to do?</content></utterance>
+<utterance uid="16-10"><speaker>BECKETT</speaker><content>Did the two of you know each other very well?</content></utterance>
+<utterance uid="16-11"><speaker>LAUREN GOLDBERG</speaker><content>Actually, I didn't know her at all.</content></utterance>
+<utterance uid="16-12"><speaker>CASTLE</speaker><content>Then why would you be so upset?</content></utterance>
+<utterance uid="16-13"><speaker>LAUREN GOLDBERG</speaker><content>Well, because she promised she would read my screenplay and, if she liked it, she would help me find an agent.</content></utterance>
+<utterance uid="16-14"><speaker>BECKETT</speaker><content>Who would she meet when she came here?</content></utterance>
+<utterance uid="16-15"><speaker>LAUREN GOLDBERG</speaker><content>What's it matter? She's dead. I lost my chance.</content></utterance>
+<utterance uid="16-16"><speaker>CASTLE</speaker><content>I'll tell you what, I'll make you a deal. If you tell us what happened after that, I'll read your script and if I like it, I'll give it to my agent.</content></utterance>
+<utterance uid="16-17"><speaker>LAUREN GOLDBERG</speaker><content>Really?</content></utterance>
+<utterance uid="16-18"><speaker>CASTLE</speaker><content>Really.</content></utterance>
+<utterance uid="16-19"><speaker>LAUREN GOLDBERG</speaker><content>She met with a guy and they sat at a table in a corner.</content></utterance>
+<utterance uid="16-20"><speaker>BECKETT</speaker><content>Do you remember what he looked like?</content></utterance>
+<utterance uid="16-21"><speaker>LAUREN GOLDBERG</speaker><content>Um. Like him.</content></utterance>
+<utterance uid="16-22"><speaker>LAUREN GOLDBERG</speaker><content>Exactly like him.</content></utterance>
+<utterance uid="16-23"><speaker>JOHNNY DIMES</speaker><content>A double espresso...</content></utterance>
+<utterance uid="16-24"><speaker>LAUREN GOLDBERG</speaker><content>What about my script?</content></utterance>
+<utterance uid="16-25"><speaker>CASTLE</speaker><content>I'll come back and get it when we're done.</content></utterance>
+<utterance uid="16-26"><speaker>JOHNNY DIMES</speaker><content>Do I know you?</content></utterance>
+<utterance uid="16-27"><speaker>BECKETT</speaker><content>I'm a friend of Sarah Cutler.</content></utterance>
+<utterance uid="16-28"><speaker>JOHNNY DIMES</speaker><content>Yeah? You bring my money?</content></utterance>
+<utterance uid="16-29"><speaker>BECKETT</speaker><content>What money?</content></utterance>
+<utterance uid="16-30"><speaker>JOHNNY DIMES</speaker><content>Look, I did what she asked, and now I want what I'm owed.</content></utterance>
+<utterance uid="16-31"><speaker>BECKETT</speaker><content>And, uh, what is it that she asked you to do?</content></utterance>
+<utterance uid="16-32"><speaker>JOHNNY DIMES</speaker><content>None of your damn business. Who the hell are you?</content></utterance>
+<utterance uid="16-33"><speaker>BECKETT</speaker><content>NYPD. Sarah's dead, so it is my business. Now, who the hell are you?</content></utterance>
+<utterance uid="16-34"><speaker>JOHNNY DIMES</speaker><content>Johnny Dimes, I'm a P.I. Sarah Cutler was a client. What do you mean she's dead?</content></utterance>
+<utterance uid="16-35"><speaker>CASTLE</speaker><content>She's dead. Only really has the one meaning.</content></utterance>
+<utterance uid="16-36"><speaker>BECKETT</speaker><content>Did she hire you to follow her husband?</content></utterance>
+<utterance uid="16-37"><speaker>JOHNNY DIMES</speaker><content>Husband? No. She hired me to investigate Gloria Chambers.</content></utterance>
+<utterance uid="16-38"><speaker>CASTLE</speaker><content>The mom. I knew it. Was she involved in organ harvesting?</content></utterance>
+<utterance uid="16-39"><speaker>JOHNNY DIMES</speaker><content>That didn't really come up. But I can tell you this, Gloria Chambers isn't her real birth mom. She's a fake.</content></utterance>
+<utterance uid="16-40"><speaker>CASTLE</speaker><content>Oh. The mom isn't really the mom? Does it get any soapier than that?</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>CASTLE</speaker><content>Ooh! Oh, it's that the P.I.'s file on Sarah's faux mother?</content></utterance>
+<utterance uid="17-2"><speaker>BECKETT</speaker><content>Yeah. Apparently, Gloria showed up three years ago claiming to be Sarah's birth mom and Sarah got suspicious, so she hired a P.I. in order to look into Gloria's history.</content></utterance>
+<utterance uid="17-3"><speaker>CASTLE</speaker><content>What nefarious scheme has Gloria set into motion? Perhaps she planned on replacing Sarah with a clone.</content></utterance>
+<utterance uid="17-4"><speaker>BECKETT</speaker><content>She wanted Sarah's money.</content></utterance>
+<utterance uid="17-5"><speaker>CASTLE</speaker><content>Money!</content></utterance>
+<utterance uid="17-6"><speaker>BECKETT</speaker><content>Yeah, sorry to burst your bubble, Castle, but Gloria's got a history of insurance scams and husbands with empty bank accounts.</content></utterance>
+<utterance uid="17-7"><speaker>CASTLE</speaker><content>You bringing her in?</content></utterance>
+<utterance uid="17-8"><speaker>BECKETT</speaker><content>Yeah, we're trying. We put out an APB. Her apartment's empty, and the doorman saw her leave with a suitcase this morning.</content></utterance>
+<utterance uid="17-9"><speaker>CASTLE</speaker><content>Ooh.</content></utterance>
+<utterance uid="17-10"><speaker>BECKETT</speaker><content>So, maybe Dimes tells Sarah about Gloria. Sarah confronts her, and then Gloria kills Sarah in order to avoid exposure.</content></utterance>
+<utterance uid="17-11"><speaker>CASTLE</speaker><content>And, after playing the role of grieving mother on set, Gloria knew enough to get the hell out of Dodge.</content></utterance>
+<utterance uid="17-12"><speaker>ESPOSITO</speaker><content>Yo. Look who got caught trying to buy a ticket to the Bahamas at JFK.</content></utterance>
+<utterance uid="17-13"><speaker>CASTLE</speaker><content>Gloria.</content></utterance>
+<utterance uid="17-14"><speaker>GLORIA CHAMBERS</speaker><content>Everything in New York reminded me of Sarah. I needed to distance myself from the agonizing truth that she's dead. And now, if denial is a crime, I plead guilty.</content></utterance>
+<utterance uid="17-15"><speaker>BECKETT</speaker><content>Good to know. Now, how do you plead on murder?</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>BECKETT</speaker><content>Gloria Chambers, also known as Charlene Sullers, you have been a very busy woman.</content></utterance>
+<utterance uid="18-2"><speaker>CASTLE</speaker><content>Yours is a real rags to riches story. Only trouble is, the riches never seem to be yours.</content></utterance>
+<utterance uid="18-3"><speaker>BECKETT</speaker><content>Fraud in Florida, embezzlement in North Carolina.</content></utterance>
+<utterance uid="18-4"><speaker>GLORIA CHAMBERS</speaker><content>I served my time for those prime misunderstandings.</content></utterance>
+<utterance uid="18-5"><speaker>BECKETT</speaker><content>And then you latched onto your next meal ticket, Constantine Pirelli. After him, it was Ernesto Cruz.</content></utterance>
+<utterance uid="18-6"><speaker>CASTLE</speaker><content>I hear they're very anxious for you to come back. With their money.</content></utterance>
+<utterance uid="18-7"><speaker>GLORIA CHAMBERS</speaker><content>I was married to those men. It was our money. I can tell you, I earned every penny.</content></utterance>
+<utterance uid="18-8"><speaker>BECKETT</speaker><content>But, as usual, you blew it all, and so, you looked for your next ticket, which you found in Sarah Cutler.</content></utterance>
+<utterance uid="18-9"><speaker>CASTLE</speaker><content>You heard an interview where she mentioned being adopted, did a little research, and then showed up as the long lost mother.</content></utterance>
+<utterance uid="18-10"><speaker>GLORIA CHAMBERS</speaker><content>Sarah might've been under the impression that she was my daughter, but I didn't kill her. And, in my own way, I was-- I was fond of Sarah.</content></utterance>
+<utterance uid="18-11"><speaker>BECKETT</speaker><content>Fond enough that you were able to masquerade as her mother. You had motive to kill her. That's why you tried to flee the country.</content></utterance>
+<utterance uid="18-12"><speaker>GLORIA CHAMBERS</speaker><content>What motive?</content></utterance>
+<utterance uid="18-13"><speaker>BECKETT</speaker><content>Her will shows that she planned to leave you $300,000.</content></utterance>
+<utterance uid="18-14"><speaker>GLORIA CHAMBERS</speaker><content>Oh, she's a generous girl, my Sarah.</content></utterance>
+<utterance uid="18-15"><speaker>CASTLE</speaker><content>She's not your Sarah.</content></utterance>
+<utterance uid="18-16"><speaker>BECKETT</speaker><content>And that's not your money. You knew she wrote you into her will. In fact, you probably planned it all along. So, when she confronted you, you knew that you had a narrow window within which to kill her before she wrote you out.</content></utterance>
+<utterance uid="18-17"><speaker>GLORIA CHAMBERS</speaker><content>Here's your problem. I am not your killer. If I were you, I'd look into the other man in her life.</content></utterance>
+<utterance uid="18-18"><speaker>CASTLE</speaker><content>What other man?</content></utterance>
+<utterance uid="18-19"><speaker>GLORIA CHAMBERS</speaker><content>The one that gave her the two karat Arthur Klein earrings just the other day.</content></utterance>
+<utterance uid="18-20"><speaker>BECKETT</speaker><content>Does this other man have a name?</content></utterance>
+<utterance uid="18-21"><speaker>GLORIA CHAMBERS</speaker><content>Sarah didn't tell me that, but whoever he was, they must've just split up, because he was trying to win her over.</content></utterance>
+<utterance uid="18-22"><speaker>BECKETT</speaker><content>Really? You're going to point us to a mysterious stranger?</content></utterance>
+<utterance uid="18-23"><speaker>GLORIA CHAMBERS</speaker><content>It's the truth.</content></utterance>
+<utterance uid="18-24"><speaker>BECKETT</speaker><content>Coming from a professional liar.</content></utterance>
+<utterance uid="18-25"><speaker>GLORIA CHAMBERS</speaker><content>I was nowhere near this godforsaken soap set when she died. I-- I was doing something useful with my time.</content></utterance>
+<utterance uid="18-26"><speaker>CASTLE</speaker><content>Reading to the blind?</content></utterance>
+<utterance uid="18-27"><speaker>GLORIA CHAMBERS</speaker><content>Mm, close. I was donating. To the ponies.</content></utterance>
+<utterance uid="18-28"><speaker>CASTLE</speaker><content>Oh.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>ESPOSITO</speaker><content>OTB receipts in Gloria's purse put her betting on races till 10 p.m.</content></utterance>
+<utterance uid="19-2"><speaker>BECKETT</speaker><content>And our time of death is estimated at 11 on the outside, and we don't have anything to tie her to the studio.</content></utterance>
+<utterance uid="19-3"><speaker>CASTLE</speaker><content>I thought fake mom was a lock.</content></utterance>
+<utterance uid="19-4"><speaker>RYAN</speaker><content>Starting to look less that way by the minute. I found the earrings that Gloria talked about in Sarah's apartment.</content></utterance>
+<utterance uid="19-5"><speaker>CASTLE</speaker><content>Fancy.</content></utterance>
+<utterance uid="19-6"><speaker>BECKETT</speaker><content>Yeah, over ten grand worth of fancy.</content></utterance>
+<utterance uid="19-7"><speaker>ESPOSITO</speaker><content>Those are worth over ten grand? Please.</content></utterance>
+<utterance uid="19-8"><speaker>BECKETT</speaker><content>Lanie loves diamonds.</content></utterance>
+<utterance uid="19-9"><speaker>CASTLE</speaker><content>"Diamonds are forever. Like my devotion to you." Who writes notes this cheesy?</content></utterance>
+<utterance uid="19-10"><speaker>RYAN</speaker><content>Well, not the husband. I checked on his financials; he didn't buy them.</content></utterance>
+<utterance uid="19-11"><speaker>BECKETT</speaker><content>Okay, so, maybe Gloria was telling us the truth. Maybe Sarah was having an affair.</content></utterance>
+<utterance uid="19-12"><speaker>CASTLE</speaker><content>Well, that makes perfect sense. Sarah was separated from her husband, Vince. And after long, grueling days at work, she'd go home to a cold empty apartment. Feeling lonely, betrayed, she seeks comfort the arms of this mystery man...</content></utterance>
+<utterance uid="19-13"><speaker>BECKETT</speaker><content>And she decides that she wants her husband back. So, she writes his mistress, Mandy Bronson, off the show in order to save their marriage...</content></utterance>
+<utterance uid="19-14"><speaker>CASTLE</speaker><content>And her next step would be to get rid of the other man...</content></utterance>
+<utterance uid="19-15"><speaker>BECKETT</speaker><content>So, maybe the other man didn't go off quietly into the night.</content></utterance>
+<utterance uid="19-16"><speaker>RYAN</speaker><content>Do you two practice this when we're not around?</content></utterance>
+<utterance uid="19-17"><speaker>BECKETT</speaker><content>These earrings are exclusive to Arthur Klein's boutique in Chelsea. Let's find out who bought them.</content></utterance>
+<utterance uid="19-18"><speaker>RYAN</speaker><content>Okay.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>BECKETT</speaker><content>Okay. So, Gloria is in the clear. Uniforms showed her the photo at the OTB and a bartender there remembers seeing her at 11:15.</content></utterance>
+<utterance uid="20-2"><speaker>CASTLE</speaker><content>You know, I can see why she fell for Gloria's con. Sarah was motherless, childless, she was taking young writers under her wing. She's looking for family.</content></utterance>
+<utterance uid="20-3"><speaker>BECKETT</speaker><content>Wow, Castle, that's a refreshingly down to earth theory.</content></utterance>
+<utterance uid="20-4"><speaker>CASTLE</speaker><content>Just trying to keep you on your toes.</content></utterance>
+<utterance uid="20-5"><speaker>RYAN</speaker><content>Hey. So, we ran down purchases at Klein's boutique, and guess who popped?</content></utterance>
+<utterance uid="20-6"><speaker>ESPOSITO</speaker><content>And that's not all. I ran Lance's credit card activity to confirm the purchase, something else caught my eye. Lance charged a cab ride to the studio the night of the murder.</content></utterance>
+<utterance uid="20-7"><speaker>RYAN</speaker><content>But when we interviewed him, he said he went straight home at 6 p.m.</content></utterance>
+<utterance uid="20-8"><speaker>ESPOSITO</speaker><content>Cab company drove him back to the studio around eight.</content></utterance>
+<utterance uid="20-9"><speaker>BECKETT</speaker><content>Okay. So, that falls right within the window of our time of death. Go pick him up.</content></utterance>
+<utterance uid="20-10"><speaker>RYAN</speaker><content>Yeah, we already sent a unit for him. He's not home, he's not answering his phone.</content></utterance>
+<utterance uid="20-11"><speaker>CASTLE</speaker><content>My mother was speaking to him earlier on set.  Hi, sweetie. Is Gram there? I need to talk to her.</content></utterance>
+<utterance uid="20-12"><speaker>BECKETT</speaker><content>What's wrong?</content></utterance>
+<utterance uid="20-13"><speaker>CASTLE</speaker><content>I know where the killer is. He's with my mother.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>BECKETT</speaker><content>Castle, it's okay. I'm sure your mom's not in any danger.</content></utterance>
+<utterance uid="21-2"><speaker>CASTLE</speaker><content>Yeah, you're probably right.</content></utterance>
+<utterance uid="21-3"><speaker>LANCE HASTINGS</speaker><content>I'm sorry, my dear, but after everything I've told you, I can't let you leave this room alive.</content></utterance>
+<utterance uid="21-4"><speaker>MARTHA</speaker><content>Lance, think about what you're doing.</content></utterance>
+<utterance uid="21-5"><speaker>LANCE HASTINGS</speaker><content>I'm thinking about it...</content></utterance>
+<utterance uid="21-6"><speaker>MARTHA</speaker><content>Think about us!</content></utterance>
+<utterance uid="21-7"><speaker>LANCE HASTINGS</speaker><content>...I can't--!</content></utterance>
+<utterance uid="21-8"><speaker>CASTLE</speaker><content>Drop the knife!</content></utterance>
+<utterance uid="21-9"><speaker>BECKETT</speaker><content>Drop the weapon!</content></utterance>
+<utterance uid="21-10"><speaker>LANCE HASTINGS</speaker><content>Whoa, whoa, wait, wait-- Wait a minute. Wait a minute.</content></utterance>
+<utterance uid="21-11"><speaker>MARTHA</speaker><content>Oh! Richard! What are you doing?!</content></utterance>
+<utterance uid="21-12"><speaker>CASTLE</speaker><content>Oh, nothing. Just saving your life, that's all. She said drop the knife!</content></utterance>
+<utterance uid="21-13"><speaker>MARTHA</speaker><content>The only thing that knife could kill is butter.</content></utterance>
+<utterance uid="21-14"><speaker>CASTLE</speaker><content>What are you talking about?</content></utterance>
+<utterance uid="21-15"><speaker>BECKETT</speaker><content>It's a prop.</content></utterance>
+<utterance uid="21-16"><speaker>LANCE HASTINGS</speaker><content>We were just working out a scene.</content></utterance>
+<utterance uid="21-17"><speaker>MARTHA</speaker><content>Guys, it was completely my idea. You know, the actor's version of "Show me your golf swing."</content></utterance>
+<utterance uid="21-18"><speaker>CASTLE</speaker><content>The knife may be fake, but the axe he put into Sarah's back was real.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>BECKETT</speaker><content>You lied to Detectives Ryan and Esposito regarding your whereabouts the night of the murder.</content></utterance>
+<utterance uid="22-2"><speaker>LANCE HASTINGS</speaker><content>You want the truth?</content></utterance>
+<utterance uid="22-3"><speaker>BECKETT</speaker><content>That would be a great place to start.</content></utterance>
+<utterance uid="22-4"><speaker>LANCE HASTINGS</speaker><content>"You can't handle the truth!"</content></utterance>
+<utterance uid="22-5"><speaker>BECKETT</speaker><content>Sir, I am not interested in your Jack Nicholson impressions. We know that you went back to the studio the night of the murder. And what I'm asking is, why?</content></utterance>
+<utterance uid="22-6"><speaker>LANCE HASTINGS</speaker><content>It was a friendly conversation between colleagues.</content></utterance>
+<utterance uid="22-7"><speaker>BECKETT</speaker><content>A friendly conversation in which she told you she was going to go back to her husband.</content></utterance>
+<utterance uid="22-8"><speaker>LANCE HASTINGS</speaker><content>What the hell are you talking about? Why would she do that?</content></utterance>
+<utterance uid="22-9"><speaker>CASTLE</speaker><content>Because she was breaking up with you.</content></utterance>
+<utterance uid="22-10"><speaker>LANCE HASTINGS</speaker><content>Is that what you think is going on here? You think that-- Sarah and I were lovers?</content></utterance>
+<utterance uid="22-11"><speaker>BECKETT</speaker><content>Did you or did you not buy an expensive pair of diamond earrings for her.</content></utterance>
+<utterance uid="22-12"><speaker>LANCE HASTINGS</speaker><content>Yes, but not to woo her. It was to encourage Sarah to let me out of my contract for a movie role.</content></utterance>
+<utterance uid="22-13"><speaker>CASTLE</speaker><content>A movie role?</content></utterance>
+<utterance uid="22-14"><speaker>LANCE HASTINGS</speaker><content>Yes. The Coen brothers have asked me to play Matt Damon's halfwit dad in their new movie. It's a role of a lifetime. It has nominations written all over it.</content></utterance>
+<utterance uid="22-15"><speaker>BECKETT</speaker><content>That still doesn't explain why you went back to the studio that night.</content></utterance>
+<utterance uid="22-16"><speaker>LANCE HASTINGS</speaker><content>I went to thank Sarah in person, because my agent had called me that evening to tell me that she had agreed to let me out. The reason I didn't mention any of this is, I didn't want to risk missing work on the movie.</content></utterance>
+<utterance uid="22-17"><speaker>BECKETT</speaker><content>Why didn't you just call her?</content></utterance>
+<utterance uid="22-18"><speaker>LANCE HASTINGS</speaker><content>I wanted her to know how much I appreciated it.</content></utterance>
+<utterance uid="22-19"><speaker>BECKETT</speaker><content>So, you went back to thank her, and that's it?</content></utterance>
+<utterance uid="22-20"><speaker>LANCE HASTINGS</speaker><content>No. Not exactly. Um, when I got there, she was reading a script and she seemed upset. I asked her why, and she said somebody'd betrayed her.</content></utterance>
+<utterance uid="22-21"><speaker>BECKETT</speaker><content>Who?</content></utterance>
+<utterance uid="22-22"><speaker>LANCE HASTINGS</speaker><content>At first I thought it was me for taking the movie role, but then she said that someone wasn't who she thought they were.</content></utterance>
+<utterance uid="22-23"><speaker>CASTLE</speaker><content>And she didn't let on as to who this person was?</content></utterance>
+<utterance uid="22-24"><speaker>LANCE HASTINGS</speaker><content>No. I didn't want to give her the opportunity to change her mind about the movie. So, I exited stage left.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>BECKETT</speaker><content>Okay, found the deal memo Sarah signed in order to get Lance out for his movie.</content></utterance>
+<utterance uid="23-2"><speaker>CASTLE</speaker><content>He wasn't lying. My mother's never going to let me forget this.</content></utterance>
+<utterance uid="23-3"><speaker>BECKETT</speaker><content>Oh, come on, Castle. She'll probably think it was sweet that you were concerned about her.</content></utterance>
+<utterance uid="23-4"><speaker>CASTLE</speaker><content>This is Martha Rogers we are talking about. I intruded on her "moment." No, I will pay dearly.</content></utterance>
+<utterance uid="23-5"><speaker>BECKETT</speaker><content>When Lance came here, Sarah told him that someone wasn't who she thought they were. Who do you think that was?</content></utterance>
+<utterance uid="23-6"><speaker>CASTLE</speaker><content>How about the woman who makes my mother look like a saint?</content></utterance>
+<utterance uid="23-7"><speaker>BECKETT</speaker><content>Yeah, but Sarah already cut Gloria out of her life. Maybe... maybe it was her cheating husband.</content></utterance>
+<utterance uid="23-8"><speaker>CASTLE</speaker><content>Except Lance met with Sarah after Mandy Bronson. By the time Mandy showed up, Sarah'd already decided what she wanted to do with her marriage.</content></utterance>
+<utterance uid="23-9"><speaker>BECKETT</speaker><content>Yeah, but even if Sarah decided that she was gonna get back together with Vince, it doesn't mean that she didn't have doubts.</content></utterance>
+<utterance uid="23-10"><speaker>CASTLE</speaker><content>No. No, you're right. Except, he has an alibi. Everyone has an alibi.</content></utterance>
+<utterance uid="23-11"><speaker>BECKETT</speaker><content>Yeah, well, somebody out there doesn't, and we are gonna find them.</content></utterance>
+<utterance uid="23-12"><speaker>CASTLE</speaker><content>Well, maybe we should sleep on it.</content></utterance>
+<utterance uid="23-13"><speaker>CASTLE</speaker><content>Separately. Katherine Beckett, I never.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>CASTLE</speaker><content>Hello, ladies.</content></utterance>
+<utterance uid="24-2"><speaker>ALEXIS</speaker><content>Hey, Dad. Gram told me how you went all Jason Bourne on her date.</content></utterance>
+<utterance uid="24-3"><speaker>CASTLE</speaker><content>Come on, I think I deserve some kudos for my selfless courage in the face of perceived danger.</content></utterance>
+<utterance uid="24-4"><speaker>MARTHA</speaker><content>Think what you will, but I've taken the liberty of selecting an apology gift. Page 47, dog-eared for your convenience.</content></utterance>
+<utterance uid="24-5"><speaker>CASTLE</speaker><content>The dress?</content></utterance>
+<utterance uid="24-6"><speaker>MARTHA</speaker><content>Uh-huh. And the shoes. Oh! And the purse, ha-ha. Where did you get this, darling?</content></utterance>
+<utterance uid="24-7"><speaker>CASTLE</speaker><content>Oh, from a woman I met on the case. She's a-- aspiring writer. In a moment of weakness, I told her I'd read it.</content></utterance>
+<utterance uid="24-8"><speaker>MARTHA</speaker><content>Oh, it's really pretty good. She's got very vivid characters, well plotted, pleasantly salacious.</content></utterance>
+<utterance uid="24-9"><speaker>CASTLE</speaker><content>Great. That's what I'll tell her.</content></utterance>
+<utterance uid="24-10"><speaker>MARTHA</speaker><content>No, no, no, no, no. You said you would read it, honey. You.</content></utterance>
+<utterance uid="24-11"><speaker>CASTLE</speaker><content>I will. I just have to do a little more thinking on the case.</content></utterance>
+<utterance uid="24-12"><speaker>ALEXIS</speaker><content>He's procrastinating.</content></utterance>
+<utterance uid="24-13"><speaker>CASTLE</speaker><content>No, I am not. I am just about to solve a critical piece of our mystery.</content></utterance>
+<utterance uid="24-14"><speaker>MARTHA</speaker><content>Now that you've determined that Lance is not the axe murderer.</content></utterance>
+<utterance uid="24-15"><speaker>ALEXIS</speaker><content>So, what's the critical piece of evidence, Dad?</content></utterance>
+<utterance uid="24-16"><speaker>CASTLE</speaker><content>Shortly before she died, Sarah Cutler said that someone had betrayed her. I think that person is our killer.</content></utterance>
+<utterance uid="24-17"><speaker>MARTHA</speaker><content>Well, then it could be anybody, darling, because betrayal is a way of life on a soap opera. And, let me tell you, Temptation Lane is like this seething cauldron of sordidness, and treachery, and naked ambition. And do you know which people are the most manipulative and devious?</content></utterance>
+<utterance uid="24-18"><speaker>CASTLE</speaker><content>I do. I know who betrayed Sarah.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>LANCE HASTINGS</speaker><content>Look, there's nothing in my contract that says I have to be a cop. So, I-- I gotta rehearse.</content></utterance>
+<utterance uid="25-2"><speaker>MANDY BRONSON</speaker><content>Get off the phone, please.</content></utterance>
+<utterance uid="25-3"><speaker>LANCE HASTINGS</speaker><content>Let's go.</content></utterance>
+<utterance uid="25-4"><speaker>BECKETT</speaker><content>Okay, Castle, let's go.</content></utterance>
+<utterance uid="25-5"><speaker>CASTLE</speaker><content>Oh, wait, no. Hang on, I just wrote my first soap scene, which they are about to shoot.</content></utterance>
+<utterance uid="25-6"><speaker>BECKETT</speaker><content>Well, I-- I'll catch it on TV, we've got to arrest to make.</content></utterance>
+<utterance uid="25-7"><speaker>CASTLE</speaker><content>No, no, wait. Th-- this scene is going to expose the killer. "The play is the thing wherein we'll catch the conscience of the king." Hamlet.</content></utterance>
+<utterance uid="25-8"><speaker>BECKETT</speaker><content>"We already know who the killer is. So, you're wasting my time." Me.</content></utterance>
+<utterance uid="25-9"><speaker>CASTLE</speaker><content>Not if I get us a confession.</content></utterance>
+<utterance uid="25-10"><speaker>DIRECTOR</speaker><content>Places, please.</content></utterance>
+<utterance uid="25-11"><speaker>CASTLE</speaker><content>They're starting, let's go.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>PETER CONNELLY</speaker><content>No, send it back. Yeah. All right, thanks.  Hey, come on in, guys.</content></utterance>
+<utterance uid="26-2"><speaker>CASTLE</speaker><content>Thanks.</content></utterance>
+<utterance uid="26-3"><speaker>BECKETT</speaker><content>Castle, what are you--?</content></utterance>
+<utterance uid="26-4"><speaker>CASTLE</speaker><content>Ah-- Sh-sh-sh. Just watch. Just watch.</content></utterance>
+<utterance uid="26-5"><speaker>VINCE POWERS</speaker><content>Can we close the downstage door to get better eyes on Mandy, please? And clear the set. Here we go, everybody. In five, four, three, two. Two's on the line.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>MANDY BRONSON</speaker><content>Can't you at least knock? I'm changing.</content></utterance>
+<utterance uid="27-2"><speaker>LANCE HASTINGS</speaker><content>Nothing I haven't seen before. And enjoyed immensely.</content></utterance>
+<utterance uid="27-3"><speaker>BECKETT</speaker><content>Really?</content></utterance>
+<utterance uid="27-4"><speaker>CASTLE</speaker><content>It's a soap opera. I had to honor the form.</content></utterance>
+<utterance uid="27-5"><speaker>MANDY BRONSON</speaker><content>What are you doing here, Joseph? If this is about our relationship--</content></utterance>
+<utterance uid="27-6"><speaker>LANCE HASTINGS</speaker><content>No, it isn't. It's about your research paper. The one I had you submit for the Montenegro Journalism Fellowship.</content></utterance>
+<utterance uid="27-7"><speaker>MANDY BRONSON</speaker><content>Is there news about the winner?</content></utterance>
+<utterance uid="27-8"><speaker>LANCE HASTINGS</speaker><content>The thing about the Fellowship is that it can open doors that launch careers.</content></utterance>
+<utterance uid="27-9"><speaker>LANCE HASTINGS</speaker><content>That's why I recommended you.</content></utterance>
+<utterance uid="27-10"><speaker>VINCE POWERS</speaker><content>Over to one.</content></utterance>
+<utterance uid="27-11"><speaker>MANDY BRONSON</speaker><content>So, did I win?</content></utterance>
+<utterance uid="27-12"><speaker>VINCE POWERS</speaker><content>Three.</content></utterance>
+<utterance uid="27-13"><speaker>LANCE HASTINGS</speaker><content>Went to the coffee shop this morning and a barista there asked me to read an article that she had written for her college paper. Oddly enough, it was identical to yours.</content></utterance>
+<utterance uid="27-14"><speaker>MANDY BRONSON</speaker><content>There must be some mistake.</content></utterance>
+<utterance uid="27-15"><speaker>LANCE HASTINGS</speaker><content>No, just the one you made in assuming that you could pass off somebody else's material as your own. You are a fraud, Angela! And I am going to call the Fellowship and let them know that exactly. Oh, and by the way, you're fired.</content></utterance>
+<utterance uid="27-16"><speaker>VINCE POWERS</speaker><content>And cut. Nice job, people.</content></utterance>
+<utterance uid="27-17"><speaker>REESE HARMON</speaker><content>Um, I don't understand. This is-- this is not the scene that we worked on yesterday.</content></utterance>
+<utterance uid="27-18"><speaker>PETER CONNELLY</speaker><content>We made some adjustments.</content></utterance>
+<utterance uid="27-19"><speaker>CASTLE</speaker><content>And yet it has an oddly familiar ring to it.</content></utterance>
+<utterance uid="27-20"><speaker>BECKETT</speaker><content>Reading other people's scripts is a part of your job.</content></utterance>
+<utterance uid="27-21"><speaker>REESE HARMON</speaker><content>What are you accusing me of?</content></utterance>
+<utterance uid="27-22"><speaker>CASTLE</speaker><content>Did you not see the scene? If you're going to be a writer, you have to have a better grasp of subtext.</content></utterance>
+<utterance uid="27-23"><speaker>REESE HARMON</speaker><content>Look, I-- I m-- I might've mixed up some of the scripts, but I was at the fellowship mixer the night that Sarah died.</content></utterance>
+<utterance uid="27-24"><speaker>CASTLE</speaker><content>Nobody there remembers seeing you after 8 p.m.</content></utterance>
+<utterance uid="27-25"><speaker>BECKETT</speaker><content>Sarah was killed with an axe, Reese. Whoever killed her got blood on their clothes and on their shoes. Some of it invisible to the naked eye. But it doesn't matter how much you try to wash it, it's still there. I have officers at your apartment.</content></utterance>
+<utterance uid="27-26"><speaker>REESE HARMON</speaker><content>You have no idea what I did for her. Picking up her dogs, picking up her dry cleaning, the late nights, the weekends, no vacation. You try writing a script with all of that going on! I worked too hard to let it end that way. I deserve that opportunity, and I could not let her take that away from me.</content></utterance>
+<utterance uid="27-27"><speaker>CASTLE</speaker><content>It was never yours to begin with.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>ESPOSITO</speaker><content>Killing Sarah to keep a lid on her plagiarism? That's cold.</content></utterance>
+<utterance uid="28-2"><speaker>BECKETT</speaker><content>And pretty ordinary as far as motives go.</content></utterance>
+<utterance uid="28-3"><speaker>RYAN</speaker><content>She didn't want to put in the work, so she took a short cut.</content></utterance>
+<utterance uid="28-4"><speaker>CASTLE</speaker><content>There are no shortcuts in writing.</content></utterance>
+<utterance uid="28-5"><speaker>RYAN</speaker><content>No. But there is to our favorite bar. I found a new route that'll get us to The Old Haunt in eight minutes. You up for a beer? Come on, I know the owner.</content></utterance>
+<utterance uid="28-6"><speaker>ESPOSITO</speaker><content>Yeah, I'm down, bro. What about you, Castle?</content></utterance>
+<utterance uid="28-7"><speaker>BECKETT</speaker><content>I'm right behind you.</content></utterance>
+<utterance uid="28-8"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="28-9"><speaker>CASTLE</speaker><content>Got you a present.</content></utterance>
+<utterance uid="28-10"><speaker>BECKETT</speaker><content>Signed cast photo from Temptation Lane. How did you even get this?</content></utterance>
+<utterance uid="28-11"><speaker>CASTLE</speaker><content>I know people who know people.</content></utterance>
+<utterance uid="28-12"><speaker>BECKETT</speaker><content>Okay. I was nine and I had to get my tonsils taken out and I was miserable. And so, my mom took time off of work and stayed with me and cuddled up in front of the TV on the couch and we would watch episodes of Temptation Lane. So, every time I see it now, it just-- it makes me feel like home and safe. So, there you go. Judge away.</content></utterance>
+<utterance uid="28-13"><speaker>CASTLE</speaker><content>My DVR would make yours look like Masterpiece Theater. But I am glad to know this about you.</content></utterance>
+<utterance uid="28-14"><speaker>CASTLE</speaker><content>I'll leave you to it.</content></utterance>
+<utterance uid="28-15"><speaker>BECKETT</speaker><content>Hey, Castle, thank you for the photo.</content></utterance>
+<utterance uid="28-16"><speaker>CASTLE</speaker><content>I'll see you.</content></utterance>
+<utterance uid="28-17"><speaker>BECKETT</speaker><content>Hey.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>LANCE HASTINGS</speaker><content>After all these years, all the times I could've been holding you in my arms...</content></utterance>
+<utterance uid="29-2"><speaker>MARTHA</speaker><content>Then let's not waste more time with words. Let's just let our lips do the talking.</content></utterance>
+<utterance uid="29-3"><speaker>CASTLE</speaker><content>Are you two running lines again?</content></utterance>
+<utterance uid="29-4"><speaker>MARTHA</speaker><content>Oh! Well, no. No, we were just, uh, you know. Talking.</content></utterance>
+<utterance uid="29-5"><speaker>CASTLE</speaker><content>Oh.</content></utterance>
+<utterance uid="29-6"><speaker>CASTLE</speaker><content>Oh. Um... I'm gonna -- I'll j-- I'll-- go to the--</content></utterance>
+</scene>
+</script>

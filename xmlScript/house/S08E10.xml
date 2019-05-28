@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+<scene id="1"><utterance uid="1-1"><speaker>House</speaker><content>How long has your daughter had trouble breathing?</content></utterance>
+<utterance uid="1-2"><speaker>Father</speaker><content>About a week now.</content></utterance>
+<utterance uid="1-3"><speaker>House</speaker><content>The best dads wait two or more.</content></utterance>
+<utterance uid="1-4"><speaker>Jane Doe</speaker><content>Yeah, no, it's not like it's serious. I-I checked online, and it's… asthma or something.</content></utterance>
+<utterance uid="1-5"><speaker>House</speaker><content>"Or something" is the number one killer of teens with no medical degree. When was the last time he took you to see a doctor?</content></utterance>
+<utterance uid="1-6"><speaker>Jane Doe</speaker><content>Uh, like five months ago. We went a clinic in Trenton. I had strep throat.</content></utterance>
+<utterance uid="1-7"><speaker>House</speaker><content>You remember the antibiotic they gave you? Is it neomycin?</content></utterance>
+<utterance uid="1-8"><speaker>Jane Doe</speaker><content>Amoxicillin.  So about the inhaler for my asthma, I was—</content></utterance>
+<utterance uid="1-9"><speaker>House</speaker><content>Sorry! Hospital policy specifically prohibits me from giving meds to unrelated homeless people pretending to be father and daughter.  Your pants are a size too short, so either you grew a couple of inches or you grabbed the closest size in a thrift store.  And only you have dimples, which are adorable, but they're also an x-linked dominant genetic trait. Which actually doesn't prove anything. The fact that you didn't burst into tears tells me that you never thought he was your dad.</content></utterance>
+<utterance uid="1-10"><speaker>Jane Doe</speaker><content> Let's get out of here.</content></utterance>
+<utterance uid="1-11"><speaker>House</speaker><content>Since you're the brains of the operation, might wanna stick around.</content></utterance>
+<utterance uid="1-12"><speaker>Jane Doe</speaker><content>What, so I can get busted by Social Services?</content></utterance>
+<utterance uid="1-13"><speaker>House</speaker><content>No, so you can stop bleeding out of your ear.  It's usually a sign of a skull fracture. Someone been using your head as a soccer ball?</content></utterance>
+<utterance uid="1-14"><speaker>Jane Doe</speaker><content>No.</content></utterance>
+<utterance uid="1-15"><speaker>House</speaker><content>Much as I'd like to take your word for it, I have no interest in taking your word for it.  No tenderness, no pain. Looks like you might actually be telling the truth about something.  Ear canal is fine.  You don't have a fever. Pay the man. He's late for a trashcan fire.</content></utterance>
+<utterance uid="1-16"><speaker>Jane Doe</speaker><content>Would you - would you tell me what's going on? What's wrong with me?</content></utterance>
+<utterance uid="1-17"><speaker>House</speaker><content>I have no idea.</content></utterance>
+</scene>
+
+<scene id="2"><utterance uid="2-1"><speaker>Taub</speaker><content>Why'd you ask to meet us 30 miles away from the hospital?</content></utterance>
+<utterance uid="2-2"><speaker>House</speaker><content> Because I can. Also, Chris Christie's blog says the pancakes here are the best. So… what do we got on this 18-year-old with the ear bleed and the breathing problems?</content></utterance>
+<utterance uid="2-3"><speaker>Adams</speaker><content>CT confirms no skull fracture. And looking at her confirms she's not 18.</content></utterance>
+<utterance uid="2-4"><speaker>House</speaker><content>Yes, she is. Says so in the file.</content></utterance>
+<utterance uid="2-5"><speaker>Adams</speaker><content>We can't treat an underage patient without a guardian. We need to call Social Services.</content></utterance>
+<utterance uid="2-6"><speaker>House</speaker><content>I cut a deal with the patient. We don't call, she doesn't bolt.</content></utterance>
+<utterance uid="2-7"><speaker>Taub</speaker><content>Whatever age, living on the street makes her vulnerable to malnutrition, drug use, H.I.V., all things which could explain her symptoms.</content></utterance>
+<utterance uid="2-8"><speaker>Chase</speaker><content> No sign of malnutrition. Tox screen is clear. S.T.D. panel was negative.  And… is that Foreman?</content></utterance>
+<utterance uid="2-9"><speaker>House</speaker><content>Oh, my goodness, it is!  Hi, Dean Foreman!  Are you not gonna introduce us because we're married? Oh, no, wait — that's her.</content></utterance>
+<utterance uid="2-10"><speaker>Foreman</speaker><content>She's a pharmaceutical rep, and this is a working breakfast.</content></utterance>
+<utterance uid="2-11"><speaker>House</speaker><content>In a restaurant that's nowhere near your home or the hospital.</content></utterance>
+<utterance uid="2-12"><speaker>Foreman</speaker><content>Chris Christie recommends the pancakes. </content></utterance>
+<utterance uid="2-13"><speaker>Chase</speaker><content>Squamous cell middle ear tumor could have caused the ear bleed. Paraneoplastic reaction caused the breathing problems.</content></utterance>
+<utterance uid="2-14"><speaker>Taub</speaker><content>Middle ear looks completely normal. But there is thickening in the lining of the wall of the third ventricle. Could be a sign of cerebral infection.</content></utterance>
+<utterance uid="2-15"><speaker>Adams</speaker><content>Would explain the lack of fever. Pneumococcus is pretty common among the homeless population. We should find out if she's been vaccinated.</content></utterance>
+<utterance uid="2-16"><speaker>House</speaker><content>Sure, ask her, and when she refuses to tell you anything, start her on ceftriaxone for pneumococcus.</content></utterance>
+<utterance uid="2-17"><speaker>Taub</speaker><content>And if she says she has been vaccinated?</content></utterance>
+<utterance uid="2-18"><speaker>House</speaker><content>Then don't believe her, and start her on ceftriaxone for pneumococcus.</content></utterance>
+<utterance uid="2-19"><speaker>Adams</speaker><content>How about we don't believe she's gonna bolt and we call Social Services?</content></utterance>
+<utterance uid="2-20"><speaker>House</speaker><content>While I'm in the little boys' room, you can pretend that I'm seriously considering that idea.</content></utterance>
+<utterance uid="2-21"><speaker>Park</speaker><content>The bathroom's that way.</content></utterance>
+<utterance uid="2-22"><speaker>House</speaker><content>Pretty sure there's one in the hospital.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>Adams</speaker><content>When I was your age, I ran away. Lived on my own. At the time, it seemed—</content></utterance>
+<utterance uid="3-2"><speaker>Jane Doe</speaker><content>Oh, let me guess. Life with mom and dad was kind of a drag. So you just ran away, lived with friends, and partied with guys that you knew your parents would hate. And then when you got tired of being a rebel, you just went home. Being homeless isn't a vacation for me. And I'm not acting out. My life at home sucked, so I got the hell out of there.</content></utterance>
+<utterance uid="3-3"><speaker>Taub</speaker><content>There are other options besides living on the streets.</content></utterance>
+<utterance uid="3-4"><speaker>Jane Doe</speaker><content>Right, like group homes, where you're packed in with as many messed-up delinquent kids as possible; foster parents who only take you in because you're a meal ticket.</content></utterance>
+<utterance uid="3-5"><speaker>Taub</speaker><content>I can think of easier ways to make 175 bucks a week.</content></utterance>
+<utterance uid="3-6"><speaker>Jane Doe</speaker><content>No, you're right — I really should roll the dice and hope for a pair that don't ruin my life the way that my mom— Get your hands off my stuff!</content></utterance>
+<utterance uid="3-7"><speaker>Adams</speaker><content>The stuff might tell us more about why you're sick. A history textbook. You go to school?</content></utterance>
+<utterance uid="3-8"><speaker>Jane Doe</speaker><content>I don't plan on being homeless forever.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>George</speaker><content> Hello, good sir. My brother, the General here, gots the green-apple quickstep.</content></utterance>
+<utterance uid="4-2"><speaker>House</speaker><content>One of us is in the wrong time zone. And if it's me, I need to talk to a stockbroker and anyone from the Kennedy family, in that order.</content></utterance>
+<utterance uid="4-3"><speaker>George</speaker><content>Well, he got the runs, and we do need him up and at 'em for battle tomorrow.</content></utterance>
+<utterance uid="4-4"><speaker>House</speaker><content>It's hardly authentic, coming to a newfangled clinic, especially with a Yankee doctor.</content></utterance>
+<utterance uid="4-5"><speaker>Sheldon</speaker><content>Sir, are you questioning my resolve?</content></utterance>
+<utterance uid="4-6"><speaker>House</speaker><content>Yes, and your sanity. I'm multitasking.</content></utterance>
+<utterance uid="4-7"><speaker>George</speaker><content>Uh, General… Don’t light out. We swore that we would see the elephant together.</content></utterance>
+<utterance uid="4-8"><speaker>House</speaker><content>Well, far be it from me to come between two nut jobs and their "elephant."  I could add some mercury, if you want to make it more authentic.</content></utterance>
+<utterance uid="4-9"><speaker>George</speaker><content>The Confederacy thanks you, Doc.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>Chase</speaker><content>Got House's phone. Deleted all photos of you and Anita.</content></utterance>
+<utterance uid="5-2"><speaker>Foreman</speaker><content>I owe you.</content></utterance>
+<utterance uid="5-3"><speaker>Taub</speaker><content>An affair? Never knew you were such a tramp.</content></utterance>
+<utterance uid="5-4"><speaker>Foreman</speaker><content>Neither did I. Anita, she's fun, smart. Not looking for anything serious. It's-it's… pretty perfect. Except for the gnawing guilt about the husband. The lies she must be telling him.</content></utterance>
+<utterance uid="5-5"><speaker>Chase</speaker><content>But not guilty enough to stop seeing her.</content></utterance>
+<utterance uid="5-6"><speaker>Taub</speaker><content>She's smoking hot, and it's not his job to protect her marriage.</content></utterance>
+<utterance uid="5-7"><speaker>Foreman</speaker><content>Aren't you supposed to be pointing a finger at your own life as a cautionary tale?</content></utterance>
+<utterance uid="5-8"><speaker>Taub</speaker><content>If not for cheating, I might still have a wife, but I wouldn't have Sophie and Sophia. Which means I wouldn't be preparing for their visit this week by child locking all my cabinets, padding table corners, and getting rid of every single magazine.</content></utterance>
+<utterance uid="5-9"><speaker>Chase</speaker><content>You could probably just hide the porn in your underwear drawer.</content></utterance>
+<utterance uid="5-10"><speaker>Taub</speaker><content>Magazines go away so I won't ignore my children. I know I have to pay attention to them. I want to pay attention to them, but they're just so… boring.</content></utterance>
+<utterance uid="5-11"><speaker>Taub</speaker><content>Did you learn anything at Jane Doe's school?</content></utterance>
+<utterance uid="5-12"><speaker>Adams</speaker><content>They did a bunch of vaccinations, including pneumococcus. Take her off the ceftriaxone.</content></utterance>
+<utterance uid="5-13"><speaker>Taub</speaker><content>So we're back to square none?</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>Adams</speaker><content>Not exactly. The name she registered under seems to be fake, but the address is a foreclosed house. We'll let you know what we find.</content></utterance>
+<utterance uid="6-2"><speaker>Park</speaker><content> Plenty of food, water.</content></utterance>
+<utterance uid="6-3"><speaker>Adams</speaker><content> And beer.</content></utterance>
+<utterance uid="6-4"><speaker>Park</speaker><content>She eats well. Goes to school and makes good grades. She's a homeless girl who's captain of the volleyball team.</content></utterance>
+<utterance uid="6-5"><speaker>Adams</speaker><content>How can you be okay with this? Your mom sends you to work with snacks.</content></utterance>
+<utterance uid="6-6"><speaker>Park</speaker><content>I want and need parents. Jane Doe is flourishing without them.</content></utterance>
+<utterance uid="6-7"><speaker>Adams</speaker><content>Maybe.  But this mold definitely is.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>Jane Doe</speaker><content> You went to my school. Now that they know, they'll report me. I can't go back there!</content></utterance>
+<utterance uid="7-2"><speaker>Adams</speaker><content>You may have a fungal infection. You need that medicine.</content></utterance>
+<utterance uid="7-3"><speaker>Jane Doe</speaker><content>Fluconazole, right?  I'll get it at a clinic.  Ohh! Oh. I can't feel my legs. Hey, wha— is that the infection?</content></utterance>
+<utterance uid="7-4"><speaker>Adams</speaker><content>I don't think so.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>House</speaker><content>So… What causes an ear bleed, breathing problems, and our runaway's inability to run away?</content></utterance>
+<utterance uid="8-2"><speaker>Chase</speaker><content>Fungal infection's off the table. What about transverse myelitis?</content></utterance>
+<utterance uid="8-3"><speaker>House</speaker><content>Not with normal posterior column function.  I've been waiting to do this for months. Pull!  Sights seem to be off on this.</content></utterance>
+<utterance uid="8-4"><speaker>Adams</speaker><content>We didn't call Social Services before because we didn't want the patient to take off. Now she can't. There's no reason for us not to call.</content></utterance>
+<utterance uid="8-5"><speaker>House</speaker><content>Well, how about the reason that there's no reason? This is working fine for me. Pull!  Well, now, that one clearly took evasive action.</content></utterance>
+<utterance uid="8-6"><speaker>Adams</speaker><content>You want to protect her because you think she's fine on her own, outside the system.</content></utterance>
+<utterance uid="8-7"><speaker>House</speaker><content>Does anyone have a position on our patient's medical condition?</content></utterance>
+<utterance uid="8-8"><speaker>Taub</speaker><content>Could be endocarditis with septic emboli.</content></utterance>
+<utterance uid="8-9"><speaker>House</speaker><content>Pull!   I'd turn around and shoot you, but apparently I'd miss. There's no murmurs, no Osler nodes.</content></utterance>
+<utterance uid="8-10"><speaker>Park</speaker><content>You've never done this before, have you?</content></utterance>
+<utterance uid="8-11"><speaker>House</speaker><content>No, I have not. But all the time I had my ankle monitor on, I was furious that I couldn't.</content></utterance>
+<utterance uid="8-12"><speaker>Chase</speaker><content>Vasculitis fits.</content></utterance>
+<utterance uid="8-13"><speaker>House</speaker><content> Start treatment with steroids. She's lucky, she'll be free to flee again.</content></utterance>
+<utterance uid="8-14"><speaker>Adams</speaker><content>Not once I call Social Services. I'm not giving up.</content></utterance>
+<utterance uid="8-15"><speaker>House</speaker><content>You wanna bet?  One shot, one birdie. You hit, you make the call. You miss, never mention it again.</content></utterance>
+<utterance uid="8-16"><speaker>Adams</speaker><content>No. Why would I agree?</content></utterance>
+<utterance uid="8-17"><speaker>House</speaker><content>'Cause your only other option is you call and I fire you.</content></utterance>
+<utterance uid="8-18"><speaker>Adams</speaker><content>Pull!</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>Taub</speaker><content>She responding to corticosteroids?</content></utterance>
+<utterance uid="9-2"><speaker>Adams</speaker><content>Looks like it. And Social Services.</content></utterance>
+<utterance uid="9-3"><speaker>Taub</speaker><content>I thought for sure there'd be some yelling or profanity, possible bloodletting.</content></utterance>
+<utterance uid="9-4"><speaker>Adams</speaker><content>She's tired of living on the streets after all. I'll bet House re… gret…  Could he know I'm good with a gun?</content></utterance>
+<utterance uid="9-5"><speaker>Taub</speaker><content>I don't know how, but…</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>Foreman</speaker><content>Hiring a hooker to pretend to be a social worker?</content></utterance>
+<utterance uid="10-2"><speaker>House</speaker><content>She took a bet that she knew she'd win. Frankly, I feel violated.</content></utterance>
+<utterance uid="10-3"><speaker>Adams</speaker><content>What happened to the social worker I called?</content></utterance>
+<utterance uid="10-4"><speaker>Foreman</speaker><content>Apparently, someone identifying themselves as Dr. Pujols called and said the patient ran off.</content></utterance>
+<utterance uid="10-5"><speaker>House</speaker><content> Come on. "Poo holes."</content></utterance>
+<utterance uid="10-6"><speaker>Foreman</speaker><content>I've informed Social Services of the mistake and given Jane Doe's description to the cops. They'll track down the parents.</content></utterance>
+<utterance uid="10-7"><speaker>Adams</speaker><content>Thank you. I'll leave you and Dr. "Pujols" alone. </content></utterance>
+<utterance uid="10-8"><speaker>Foreman</speaker><content>You should have told me you were treating an underage clinic patient.</content></utterance>
+<utterance uid="10-9"><speaker>House</speaker><content>I was giving you the gift of deniability.</content></utterance>
+<utterance uid="10-10"><speaker>Foreman</speaker><content>Now I'm giving you the gift of additional clinic hours.</content></utterance>
+<utterance uid="10-11"><speaker>House</speaker><content> No, you're not.</content></utterance>
+<utterance uid="10-12"><speaker>Foreman</speaker><content> You've got nothing on me. Check your phone.</content></utterance>
+<utterance uid="10-13"><speaker>House</speaker><content>Uh… my phone? Oh, right. Yes, I-I did have some pictures on that. But… I also have these.  There's the two of you kissing over dinner. Busting a move in a night club. Is that your hand near her nether regions? Thanks again for taking off the ankle bracelet.</content></utterance>
+<utterance uid="10-14"><speaker>Foreman</speaker><content>I'm not gonna let you blackmail me, House.</content></utterance>
+<utterance uid="10-15"><speaker>House</speaker><content>Oh, of course not. There's no way someone of your integrity would let me compromise your job in any major way over some tawdry bit of gossip. But what about compromising it in a minor way? Reduced clinic hours. Unlimited Internet porn budget. That makes much more sense than the nuclear option of ruining both our lives. You can keep these. I got copies. </content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>House</speaker><content>How I miss the sweet smell of stickin' it to the man.</content></utterance>
+<utterance uid="11-2"><speaker>Wilson</speaker><content>Adams is right. You're protecting this girl.</content></utterance>
+<utterance uid="11-3"><speaker>House</speaker><content> No, I was wrong. It's the stench of moralizing. I'm protecting myself from meddling bureaucrats and parents.</content></utterance>
+<utterance uid="11-4"><speaker>Wilson</speaker><content>You admire this girl. She had a horrible home life, so she went out on her own. She's your road not taken.</content></utterance>
+<utterance uid="11-5"><speaker>House</speaker><content>I've always dreamed of living in an abandoned house with mold.</content></utterance>
+<utterance uid="11-6"><speaker>Wilson</speaker><content>House, all I'm accusing you of is having a connection with a patient. This is a good thing.</content></utterance>
+<utterance uid="11-7"><speaker>House</speaker><content>It's not a good thing, 'cause it's not a thing.</content></utterance>
+<utterance uid="11-8"><speaker>Wilson</speaker><content>It is a thing… which she'll prove when her parents show up and you start protecting her from them.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>Taub</speaker><content>The sound I make is, moooo! The sound I make is, quack quack quack quack quack.  Moo.  The sound is quack. Quack quack. Quack quack quack.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>Taub</speaker><content>I'm an ass. On the plus side, I can now program my DVR from my phone.</content></utterance>
+<utterance uid="13-2"><speaker>Adams</speaker><content>They are kind of boring. All kids, not just yours.</content></utterance>
+<utterance uid="13-3"><speaker>Taub</speaker><content>Very helpful.</content></utterance>
+<utterance uid="13-4"><speaker>Adams</speaker><content>You need to log more hours. Eventually, you'll pass boredom and get to bonding. Kind of like Stockholm syndrome.</content></utterance>
+<utterance uid="13-5"><speaker>Jane Doe</speaker><content>I heard the nurses talking. You called Social Services for real.</content></utterance>
+<utterance uid="13-6"><speaker>Adams</speaker><content>Because you shouldn't be living on your own.</content></utterance>
+<utterance uid="13-7"><speaker>Jane Doe</speaker><content>Right, better my mom should use me as a punching bag.</content></utterance>
+<utterance uid="13-8"><speaker>Taub</speaker><content>If your mom abused you, Social Services won't let you go home with her.</content></utterance>
+<utterance uid="13-9"><speaker>Jane Doe</speaker><content>Have I mentioned I don't trust the system?</content></utterance>
+<utterance uid="13-10"><speaker>Adams</speaker><content>We don't know if you're better yet. You can't just take off.</content></utterance>
+<utterance uid="13-11"><speaker>Taub</speaker><content>Uh, can we help you?</content></utterance>
+<utterance uid="13-12"><speaker>Brown</speaker><content>I'm Adele Brown from Social Services, and this is—</content></utterance>
+<utterance uid="13-13"><speaker>Ellen</speaker><content>I'm Ellen Rogers. Callie's mother.</content></utterance>
+<utterance uid="13-14"><speaker>Callie</speaker><content>You haven't been that for two years.</content></utterance>
+<utterance uid="13-15"><speaker>Ellen</speaker><content>I promise, things are different.</content></utterance>
+<utterance uid="13-16"><speaker>Callie</speaker><content>Mom… two sentences in, and you're already making promises.</content></utterance>
+<utterance uid="13-17"><speaker>Brown</speaker><content>Okay, maybe we need to take a minute here and give Callie some space.</content></utterance>
+<utterance uid="13-18"><speaker>Callie</speaker><content>No, I don't need a minute. I need her out of my life. </content></utterance>
+<utterance uid="13-19"><speaker>Ellen</speaker><content>Is she okay?</content></utterance>
+<utterance uid="13-20"><speaker>Callie</speaker><content>I will be once you just…</content></utterance>
+<utterance uid="13-21"><speaker>Ellen</speaker><content>Oh, my God!</content></utterance>
+<utterance uid="13-22"><speaker>Taub</speaker><content>We need help in here!</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>House</speaker><content>Go!</content></utterance>
+<utterance uid="14-2"><speaker>Announcer</speaker><content>And they're off!</content></utterance>
+<utterance uid="14-3"><speaker>Adams</speaker><content>You bet 100 bucks on a turtle race?</content></utterance>
+<utterance uid="14-4"><speaker>House</speaker><content>I paid Mr. Chips 5 bucks to take a dive.</content></utterance>
+<utterance uid="14-5"><speaker>Adams</speaker><content>The bleeding stopped on its own. She got worse after being on steroids, so autoimmune is out.</content></utterance>
+<utterance uid="14-6"><speaker>Park</speaker><content>Diagnosis depends on whether the blood was coming from the sinuses, lungs, or her guts.  Mr. Chips looks like he wants it. 100 bucks says he'll make soup out of Franklin.</content></utterance>
+<utterance uid="14-7"><speaker>House</speaker><content>You're on.</content></utterance>
+<utterance uid="14-8"><speaker>Adams</speaker><content>How'd the mom seem to you?</content></utterance>
+<utterance uid="14-9"><speaker>House</speaker><content>If you're asking him if she looks like someone who beat her kid, you're a moron.</content></utterance>
+<utterance uid="14-10"><speaker>Parks</speaker><content>Move your ass, Mr. Chips!</content></utterance>
+<utterance uid="14-11"><speaker>Adams</speaker><content>You should have seen her face when mom walked in. Callie hates her. I don't think she's lying.</content></utterance>
+<utterance uid="14-12"><speaker>Chase</speaker><content>Because people never lie about people they hate. Big sinus bleed could be sinusitis and a bleeding disorder.</content></utterance>
+<utterance uid="14-13"><speaker>Taub</speaker><content>She didn't complain about a headache.</content></utterance>
+<utterance uid="14-14"><speaker>Adams</speaker><content>The bleeding is in her gut. Could be Zollinger-Ellison. Acid reflux causes asthma, and the acid erodes the stomach, causing the bleeding.</content></utterance>
+<utterance uid="14-15"><speaker>House</speaker><content>Franklin rules. Mr. Chips drools.  Mr. Chips's owner only feeds him on apples and bananas. Nowhere near enough vitamin A. Pay up.  And do an upper endoscopy to confirm for Zollinger-Ellison, after Mommie Dearest has given her permission.</content></utterance>
+<utterance uid="14-16"><speaker>Adams</speaker><content>Ellen shouldn't have consent if she beat her daughter.</content></utterance>
+<utterance uid="14-17"><speaker>House</speaker><content>Doesn't matter if she beat her daughter. Only matters if Social Services says she beat her daughter. Good thing you made it all official.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>Ellen</speaker><content>Will the endoscopy be painful?</content></utterance>
+<utterance uid="15-2"><speaker>Adams</speaker><content>Is that an issue? It's a medical procedure. There will be some discomfort.</content></utterance>
+<utterance uid="15-3"><speaker>Ellen</speaker><content>I never meant to hurt my daughter.</content></utterance>
+<utterance uid="15-4"><speaker>Adams</speaker><content>And yet you hit her.</content></utterance>
+<utterance uid="15-5"><speaker>Ellen</speaker><content>She told you that?</content></utterance>
+<utterance uid="15-6"><speaker>Adams</speaker><content>And now you're gonna tell me you didn't. </content></utterance>
+<utterance uid="15-7"><speaker>Ellen</speaker><content>I'm a drug addict. And I've been a lousy mom.  Especially since my husband died. I mean, he was closer to Callie than I was, and I missed him… so much. And it was too hard. And taking Oxy just… made things easier. Right up until it made me lose my daughter. I hurt Callie a lot. But one of the only things that I can feel okay about is that I never hit her.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>Anita</speaker><content>Didn't peg you as the midday fun kind of guy. So glad I was wrong.</content></utterance>
+<utterance uid="16-2"><speaker>Foreman</speaker><content>Ohh. Unfortunately, that's not why we're here. Remember that guy from the restaurant yesterday?</content></utterance>
+<utterance uid="16-3"><speaker>Anita</speaker><content>Mm-hmm.</content></utterance>
+<utterance uid="16-4"><speaker>Foreman</speaker><content>He's got pictures of us. He's threatening to show your husband.</content></utterance>
+<utterance uid="16-5"><speaker>Anita</speaker><content>I thought you said that guy was one of your best doctors.</content></utterance>
+<utterance uid="16-6"><speaker>Foreman</speaker><content>Not one of my best people. We've gotta stop seeing each other.</content></utterance>
+<utterance uid="16-7"><speaker>Anita</speaker><content>Not necessarily. I told my husband about you.</content></utterance>
+<utterance uid="16-8"><speaker>Foreman</speaker><content>What?  Why?</content></utterance>
+<utterance uid="16-9"><speaker>Anita</speaker><content>He was saying that things had been better lately between him and I, that I was happier. I said that I was. And that you were the reason.</content></utterance>
+<utterance uid="16-10"><speaker>Foreman</speaker><content>And… he was okay with that?</content></utterance>
+<utterance uid="16-11"><speaker>Anita</speaker><content>Not initially. It was a pretty tough conversation. Neither of us is ready</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>House</speaker><content>You didn't need to shoot yourself. I could have given you a Section 8.</content></utterance>
+<utterance uid="17-2"><speaker>George</speaker><content> We've hit the drills pretty hard, and by the fourth round, my hand went numb. The-the gun slipped and— I only had blanks in it, but…</content></utterance>
+<utterance uid="17-3"><speaker>House</speaker><content>It's funny how nearly shooting your toe off cured that speech impediment.</content></utterance>
+<utterance uid="17-4"><speaker>George</speaker><content>Ah. Yeah. Sorry about that. Sheldon's a… progressive.</content></utterance>
+<utterance uid="17-5"><speaker>House</speaker><content>Eh — compared to who? Rupert Murdoch?</content></utterance>
+<utterance uid="17-6"><speaker>George</speaker><content>Progressives are reenactors who strive for complete authenticity. They never drop character while in uniform.</content></utterance>
+<utterance uid="17-7"><speaker>House</speaker><content>Whereas you just dabble in crazy.</content></utterance>
+<utterance uid="17-8"><speaker>George</speaker><content> Sheldon and I had a big falling out years ago. We only really started talking again because of the reenactments. They, uh… gave me my brother back.</content></utterance>
+<utterance uid="17-9"><speaker>House</speaker><content>That's a very moving story. Be a lot more affecting if you hadn't bonded over something so completely idiotic.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>Adams</speaker><content>Your mom didn't hit you, did she?</content></utterance>
+<utterance uid="18-2"><speaker>Callie</speaker><content>No.</content></utterance>
+<utterance uid="18-3"><speaker>Adams</speaker><content>Then why'd you lie about it?</content></utterance>
+<utterance uid="18-4"><speaker>Callie</speaker><content>Because I wanted to get out of here. People understand getting hit more than what my mom does.</content></utterance>
+<utterance uid="18-5"><speaker>Adams</speaker><content>Tell me. Maybe I'll understand.</content></utterance>
+<utterance uid="18-6"><speaker>Callie</speaker><content> Well, I was the mom. She couldn't keep a job. Spend all her money on pills. I had to get a job. Double shifts, just to keep the power on. Keep food in the house. I couldn't tell you how many times she nearly O.D.ed and I had to clean her up and put her in bed. So… I decided, if I was gonna be the grown-up, I'd rather do it on my own terms.</content></utterance>
+<utterance uid="18-7"><speaker>Adams</speaker><content> Your mom knows she messed up. She's determined not to do it again.</content></utterance>
+<utterance uid="18-8"><speaker>Callie</speaker><content>Yeah. And she'll feel that way, right up until things get too tough and she has to start using again.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>Adams</speaker><content>Do you think people can change?</content></utterance>
+<utterance uid="19-2"><speaker>Chase</speaker><content>No. But I don't think that's gonna change your opinion, because… people don't change.</content></utterance>
+<utterance uid="19-3"><speaker>Adams</speaker><content>Stop. Is that an ulcer?</content></utterance>
+<utterance uid="19-4"><speaker>Chase</speaker><content>Yeah, it is. But we haven't reached the stomach yet. I'm still high in the esophagus. Means it's not Zollinger-Ellison.</content></utterance>
+<utterance uid="19-5"><speaker>Adams</speaker><content>Ulcer's bleeding. </content></utterance>
+<utterance uid="19-6"><speaker>Chase</speaker><content>We need to lavage before she drowns in her own blood.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>Chase</speaker><content>Cauterized the ulcer, stopped the bleeding.</content></utterance>
+<utterance uid="20-2"><speaker>Taub</speaker><content>Compromised immune system from living on the street could have made her susceptible to HPV.</content></utterance>
+<utterance uid="20-3"><speaker>Adams</speaker><content>HPV was covered on the STD panel. She's negative. What if she didn't get this from being homeless? What if she got it from her mom?</content></utterance>
+<utterance uid="20-4"><speaker>Park</speaker><content>I'm assuming you're thinking something genetic, because—</content></utterance>
+<utterance uid="20-5"><speaker>Adams</speaker><content>I'm thinking addiction. Alcohol-induced esophagitis.</content></utterance>
+<utterance uid="20-6"><speaker>Chase</speaker><content>Explains esophageal ulcers and her other symptoms.</content></utterance>
+<utterance uid="20-7"><speaker>House</speaker><content> If only it would explain why we've never seen her drunk, drinking, or detoxing.</content></utterance>
+<utterance uid="20-8"><speaker>Adams</speaker><content>Her blood pressure's been elevated. Could be the DTs.</content></utterance>
+<utterance uid="20-9"><speaker>Taub</speaker><content>It's been mildly elevated.</content></utterance>
+<utterance uid="20-10"><speaker>House</speaker><content>Mildly elevated BP could put her at risk of a Berry aneurysm. Weak blood vessel in the brain gets pounded on by elevated BP, causes it to expand and contract. Causes the symptoms to come and go.</content></utterance>
+<utterance uid="20-11"><speaker>Adams</speaker><content>CT didn't show any signs of an aneurysm.</content></utterance>
+<utterance uid="20-12"><speaker>House</speaker><content>Did I mention they come and go? Much as your presence may cause objects to become engorged with blood, sometimes aneurysms just aren't in the mood.</content></utterance>
+<utterance uid="20-13"><speaker>Adams</speaker><content>Alcoholism and Berry aneurysm are both valid theories. I think we should discuss this with the patient and her mom.</content></utterance>
+<utterance uid="20-14"><speaker>House</speaker><content>Why? We discussed it right here. Go tell 'em she needs a cerebral angiogram to locate the aneurysm, then surgery to repair.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>Callie</speaker><content>Brain surgery? When?</content></utterance>
+<utterance uid="21-2"><speaker>Taub</speaker><content>We booked the O.R. for an hour from now.</content></utterance>
+<utterance uid="21-3"><speaker>Ellen</speaker><content>And Dr. House is sure that's what she has?</content></utterance>
+<utterance uid="21-4"><speaker>Taub</speaker><content>He's confident in the diagnosis. It's consistent with all of her symptoms.</content></utterance>
+<utterance uid="21-5"><speaker>Callie</speaker><content> But you don't buy it.</content></utterance>
+<utterance uid="21-6"><speaker>Adams</speaker><content>No. I think your symptoms are the result of alcohol abuse.</content></utterance>
+<utterance uid="21-7"><speaker>Callie</speaker><content>But I'm not — I'm not an alcoholic.</content></utterance>
+<utterance uid="21-8"><speaker>Adams</speaker><content>You came to the hospital with beer in your pocket. We found more alcohol at your house.</content></utterance>
+<utterance uid="21-9"><speaker>Callie</speaker><content>Yeah, I use booze as payment. I have an occasional beer with my friends. That doesn't mean I have a problem. I want the surgery.</content></utterance>
+<utterance uid="21-10"><speaker>Taub</speaker><content>Actually, it's your mom's decision.</content></utterance>
+<utterance uid="21-11"><speaker>Callie</speaker><content>I'm not an addict.</content></utterance>
+<utterance uid="21-12"><speaker>Ellen</speaker><content>That's what I always said to you, Callie, but I had a problem—</content></utterance>
+<utterance uid="21-13"><speaker>Callie</speaker><content>I'm nothing like you! Tell them to do the surgery.</content></utterance>
+<utterance uid="21-14"><speaker>Ellen</speaker><content>I need a few minutes to think. </content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>Adams</speaker><content>The patient asked me what I thought.</content></utterance>
+<utterance uid="22-2"><speaker>House</speaker><content>I pay you to think inside this room. Outside this room, I pay you to parrot.</content></utterance>
+<utterance uid="22-3"><speaker>Adams</speaker><content>It's her choice. She has the right to know!</content></utterance>
+<utterance uid="22-4"><speaker>House</speaker><content>It's a medical choice that you turned into an extension of your baggage and hers. You told the mom something you want to believe because you don't want to believe that this girl might be doing fine parent-free. Which also happens to be what the mom wants to believe.</content></utterance>
+<utterance uid="22-5"><speaker>Adams</speaker><content>You think she wants to feel responsible for her daughter's illness?</content></utterance>
+<utterance uid="22-6"><speaker>House</speaker><content>That woman sees everything to do with her daughter through… guilt-colored glasses. It's all her fault. </content></utterance>
+<utterance uid="22-7"><speaker>Adams</speaker><content>House… don't… bully her. She's overwhelmed enough.</content></utterance>
+<utterance uid="22-8"><speaker>House</speaker><content>Well, it's nothing compared to how she's gonna feel when her daughter dies from the aneurysm she decided not to treat.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>Ellen</speaker><content>You must be Dr. House.</content></utterance>
+<utterance uid="23-2"><speaker>House</speaker><content>I save my appearances for when parents are on the brink of doing something incredibly stupid. Your daughter has a Berry aneurysm. She needs surgery. What she does not need is you making this or any other decision.</content></utterance>
+<utterance uid="23-3"><speaker>Ellen</speaker><content>Well, I can't just leave this up to her.</content></utterance>
+<utterance uid="23-4"><speaker>House</speaker><content>Then leave it up to me, and just leave.</content></utterance>
+<utterance uid="23-5"><speaker>Ellen</speaker><content>Ohh. I'm not gonna abandon my daughter.</content></utterance>
+<utterance uid="23-6"><speaker>House</speaker><content>She hates you.  It's actually not such a big deal. There's plenty of kids who hate their parents. What makes it a big deal is that she should hate you. Playing the biology card doesn't change anything except where she lives. Your daughter is better off without you. So… let her be better off without you. I'm gonna do the surgery. I'll take the fallout from Social Services.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>Ellen</speaker><content> Dr. House!  My daughter's care is my choice. And so is this.  Treat her for alcoholism.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>Chase</speaker><content>Peek-a-boo! </content></utterance>
+<utterance uid="25-2"><speaker>Foreman</speaker><content>Why would Anita tell her husband about our affair?</content></utterance>
+<utterance uid="25-3"><speaker>Chase</speaker><content>Probably just got sick of lying. Look at it this way. Now the sex is both commitment- and guilt-free.  And men love commitment-free sex. Yes, they do. Oh, yes, they do!  They're gonna find out eventually. Peek-a-boo! Peek-a-boo!</content></utterance>
+<utterance uid="25-4"><speaker>Taub</speaker><content>How do you keep doing the same thing over and over with the same level of enthusiasm?</content></utterance>
+<utterance uid="25-5"><speaker>Chase</speaker><content>First off, be a decent, empathetic person.  This is what you said you wanted, but you're actually more upset now that her husband knows.</content></utterance>
+<utterance uid="25-6"><speaker>Foreman</speaker><content>'Cause I'm hurting him.</content></utterance>
+<utterance uid="25-7"><speaker>Taub</speaker><content>You always were.</content></utterance>
+<utterance uid="25-8"><speaker>Foreman</speaker><content>Yeah, but he didn't know that. Which means he wasn't really hurt. Yeah, I know it's a rationalization, but it went a long way to making me feel… a little less guilty about seeing her.</content></utterance>
+<utterance uid="25-9"><speaker>Chase</speaker><content>Looks like you're gonna need a bigger rationalization.  Ahh… peek-a-boo!  Peek-a-boo!</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>Adams</speaker><content>Social Services report came in on your mom.</content></utterance>
+<utterance uid="26-2"><speaker>Callie</speaker><content>Ah, let me guess. She passed with flying colors. She always does.</content></utterance>
+<utterance uid="26-3"><speaker>Adams</speaker><content>I think she might make it this time. House left a bottle of Vicodin to see if she'd steal it. She gave it back. You could at least let her sleep in the room.</content></utterance>
+<utterance uid="26-4"><speaker>Callie</speaker><content>She could have listened to me about my drinking. I mean, even if you are right about it, why take your word over mine? I'm her daughter.</content></utterance>
+<utterance uid="26-5"><speaker>Adams</speaker><content>Because it… She's your mom. And, for the first time, she's acting like it.</content></utterance>
+<utterance uid="26-6"><speaker>Callie</speaker><content>It's a little late for that. Good night.</content></utterance>
+<utterance uid="26-7"><speaker>House</speaker><content>Morning!</content></utterance>
+<utterance uid="26-8"><speaker>Wilson</speaker><content>I heard you went head-to-head with the mom.</content></utterance>
+<utterance uid="26-9"><speaker>House</speaker><content>Not for your reasons.</content></utterance>
+<utterance uid="26-10"><speaker>Wilson</speaker><content>You're protecting the girl.</content></utterance>
+<utterance uid="26-11"><speaker>House</speaker><content>I'm protecting my diagnosis.</content></utterance>
+<utterance uid="26-12"><speaker>Wilson</speaker><content>And you tested her — see if you could get her back on drugs and out of her daughter's life.</content></utterance>
+<utterance uid="26-13"><speaker>House</speaker><content>That was to show Adams that Mommie Dearest hadn't changed. I'm taking a principled stand against idealism.</content></utterance>
+<utterance uid="26-14"><speaker>Wilson</speaker><content>Your patient's stable? Well, maybe Adams was right. The illness is alcohol-related.</content></utterance>
+<utterance uid="26-15"><speaker>House</speaker><content>Well, I hope so, considering it's what we're treating her for.</content></utterance>
+<utterance uid="26-16"><speaker>Wilson</speaker><content>You-you hope you're wrong for the sake of the patient?</content></utterance>
+<utterance uid="26-17"><speaker>House</speaker><content>I hope that I'm right but the aneurism bursts without killing her. Call me a softie.  Or the mom agrees to an autopsy so I can prove it.</content></utterance>
+<utterance uid="26-18"><speaker>Taub</speaker><content>Your patients love you because you're empathetic.</content></utterance>
+<utterance uid="26-19"><speaker>Wilson</speaker><content>I also have kind eyes. Why are you here?</content></utterance>
+<utterance uid="26-20"><speaker>Taub</speaker><content>But you don't love all your patients?</content></utterance>
+<utterance uid="26-21"><speaker>Wilson</speaker><content>Of course not.</content></utterance>
+<utterance uid="26-22"><speaker>Taub</speaker><content>I'll-I'll bet some of them bore you.</content></utterance>
+<utterance uid="26-23"><speaker>Wilson</speaker><content>Dull people get cancer too. Why are you here?</content></utterance>
+<utterance uid="26-24"><speaker>Taub</speaker><content>But you… fake an interest in them because you needed to, right? And if you do it long enough, it becomes real?</content></utterance>
+<utterance uid="26-25"><speaker>Wilson</speaker><content>Well, no, because the interest isn't fake.</content></utterance>
+<utterance uid="26-26"><speaker>Taub</speaker><content>Really?  Because you realize they're not dull. It was just your misinterpretation of them.</content></utterance>
+<utterance uid="26-27"><speaker>Wilson</speaker><content>I just haven't found a way to make them interesting yet. It's all about common ground. You find one thing you both like or hate. John Woo movies, romance novels, kale…  Sometimes, the best way to connect with someone is stop thinking about them and focus on yourself. Wh-uhh. What is this about?</content></utterance>
+<utterance uid="26-28"><speaker>Taub</speaker><content>Not everything has an agenda. See ya.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>Anita</speaker><content>I told him because it was the right thing to do.</content></utterance>
+<utterance uid="27-2"><speaker>Foreman</speaker><content>Right.</content></utterance>
+<utterance uid="27-3"><speaker>Anita</speaker><content>This doesn't change anything between us.</content></utterance>
+<utterance uid="27-4"><speaker>Foreman</speaker><content>It… sort of does for me.</content></utterance>
+<utterance uid="27-5"><speaker>Anita</speaker><content>Y-you want to stop seeing each other?</content></utterance>
+<utterance uid="27-6"><speaker>Foreman</speaker><content>No. I was thinking… maybe you could tell your husband that we did.</content></utterance>
+<utterance uid="27-7"><speaker>Anita</speaker><content>And then go back to sneaking around behind his back?</content></utterance>
+<utterance uid="27-8"><speaker>Foreman</speaker><content>Yes.</content></utterance>
+<utterance uid="27-9"><speaker>Anita</speaker><content>Why would you want to do that?</content></utterance>
+<utterance uid="27-10"><speaker>Foreman</speaker><content>I don't know. I… This just feels… wrong.</content></utterance>
+<utterance uid="27-11"><speaker>Anita</speaker><content>I th-I think I'm gonna go. </content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>George</speaker><content>Ohh, God. We thought it was the salt pork.</content></utterance>
+<utterance uid="28-2"><speaker>Sheldon</speaker><content> But all the menfolk been eatin' it, and we the only ones that's sick.</content></utterance>
+<utterance uid="28-3"><speaker>House</speaker><content>Which one of you is the cheap bastard?  Your uniforms. They're not wool. They're polyester. Cheap polyester. Which gets processed with a heavy metal called antimony. You wear badly processed polyester all day and night for days and nights, you get antimony poisoning, which caused your diarrhea and your numbness in your hands. And your collective vomiting.</content></utterance>
+<utterance uid="28-4"><speaker>George</speaker><content>Polyester uniforms?</content></utterance>
+<utterance uid="28-5"><speaker>Sheldon</speaker><content>I was being authentic.</content></utterance>
+<utterance uid="28-6"><speaker>George</speaker><content>With polyester uniforms?</content></utterance>
+<utterance uid="28-7"><speaker>Sheldon</speaker><content>The Confederacy gave men $21 every six months—</content></utterance>
+<utterance uid="28-8"><speaker>George</speaker><content>You poisoned us both.</content></utterance>
+<utterance uid="28-9"><speaker>Sheldon</speaker><content>At least I have principles.</content></utterance>
+<utterance uid="28-10"><speaker>George</speaker><content>Because they don't cost anything.</content></utterance>
+<utterance uid="28-11"><speaker>House</speaker><content>Brother against brother. Now, that is authentic.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>Ellen</speaker><content>I know you don't want me here, but, um… They had banana muffins downstairs. Reminded me of our St. Pete's trip.  Remember? We used to walk and get some every morning at that bakery.</content></utterance>
+<utterance uid="29-2"><speaker>Callie</speaker><content>I guess.  Were you high on that trip?</content></utterance>
+<utterance uid="29-3"><speaker>Ellen</speaker><content> Not when we were together. I used to wait until you went to bed.</content></utterance>
+<utterance uid="29-4"><speaker>Callie</speaker><content>You can stay. If you want.</content></utterance>
+<utterance uid="29-5"><speaker>Ellen</speaker><content>Okay.</content></utterance>
+<utterance uid="29-6"><speaker>Callie</speaker><content> Mm. It's not bad.</content></utterance>
+<utterance uid="29-7"><speaker>Ellen</speaker><content>What's happening?  Is this from the alcohol treatment?</content></utterance>
+<utterance uid="29-8"><speaker>Adams</speaker><content>I was wrong. The Berry aneurysm must have just burst.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>Adams</speaker><content>Temporal lobes are clear. Parietal, clear.</content></utterance>
+<utterance uid="30-2"><speaker>Chase</speaker><content>Get me a micro-vascular clip tray as well as the occlusion.</content></utterance>
+<utterance uid="30-3"><speaker>House</speaker><content> Check the ventricles.</content></utterance>
+<utterance uid="30-4"><speaker>Adams</speaker><content>Ventricles are clear too.</content></utterance>
+<utterance uid="30-5"><speaker>House</speaker><content>Aneurysm must have leaked instead of burst. Inject the dye.</content></utterance>
+<utterance uid="30-6"><speaker>Adams</speaker><content>Posterior cerebral clear. Vertebral clear. Circle of Willis also clear. She doesn't have a Berry aneurysm.</content></utterance>
+<utterance uid="30-7"><speaker>Chase</speaker><content>Her BP's dropping. Start her on pressors. We gotta get her BP up before her organs start shutting down.</content></utterance>
+<utterance uid="30-8"><speaker>House</speaker><content>Adams… with me.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>Adams</speaker><content>Pressors will only give us a couple hours, Max.</content></utterance>
+<utterance uid="31-2"><speaker>Taub</speaker><content>What causes breathing issues, bleeding issues, paralysis, loss of consciousness? What are we missing?</content></utterance>
+<utterance uid="31-3"><speaker>Adams</speaker><content>That's everything bad that's happened. What about the good stuff?</content></utterance>
+<utterance uid="31-4"><speaker>Park</speaker><content>You mean like we should be more optimistic?</content></utterance>
+<utterance uid="31-5"><speaker>Adams</speaker><content>She got a little better when we put her on steroids, which can attack tumor cells. Maybe she has cancer.</content></utterance>
+<utterance uid="31-6"><speaker>House</speaker><content>No hypercalcemia, no elevated blood proteins.</content></utterance>
+<utterance uid="31-7"><speaker>Adams</speaker><content>She and her mom mentioned a trip they took to Florida a couple years ago —what about dengue fever? Cholera?</content></utterance>
+<utterance uid="31-8"><speaker>House</speaker><content>Great ideas, if dengue fever or cholera laid in wait for two years before suddenly…</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>House</speaker><content>Did your biological daughter go swimming in Florida? In a lake or a pond or an Everglade?</content></utterance>
+<utterance uid="32-2"><speaker>Ellen</speaker><content>Uh…yeah. There's a canal near my mother's house. Do you know what's wrong with her?</content></utterance>
+<utterance uid="32-3"><speaker>House</speaker><content>Family vacations kill.  Come with me. Don't want to explain this twice.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>Chase</speaker><content>You're letting in the flies. And she needs an LVAD.</content></utterance>
+<utterance uid="33-2"><speaker>House</speaker><content>No, she doesn't. Your daughter has ascariasis. It's a disease caused by a parasitic worm found in feces. Animals use the canal as a potty, the eggs from the feces ended up in Callie's intestines when she went swimming…  where they hung out, quietly and asymptomatically, biding their time till, somewhere along the way, they got knocked loose. Maybe a dive in volleyball practice or maybe she slipped on her way into a soup kitchen. But once they hatched, the worms got to work on her lungs, her ear, the nerves in her legs. The worms got agitated by the steroids we gave her, which started them on their journey to the esophagus and, ultimately, to the heart. A few pills of Mebendazole… She'll be fine.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>Ellen</speaker><content>She's feeling much better. Walking on her own.</content></utterance>
+<utterance uid="34-2"><speaker>Adams</speaker><content>Getting along with her mother?</content></utterance>
+<utterance uid="34-3"><speaker>Ellen</speaker><content>As long as I keep bringing her muffins.</content></utterance>
+<utterance uid="34-4"><speaker>Ellen</speaker><content>Did someone come take her for a test?</content></utterance>
+<utterance uid="34-5"><speaker>Adams</speaker><content>Callie agrees with you… that people don't change. She said when her mom slips again, she didn't want to be there. She'd rather remember her like she is now.</content></utterance>
+<utterance uid="34-6"><speaker>House</speaker><content>Smart girl.</content></utterance>
+<utterance uid="34-7"><speaker>Adams</speaker><content>You got the ending you wanted.</content></utterance>
+<utterance uid="34-8"><speaker>House</speaker><content>'Cause I was only looking to solve the case, not their lives. Now, I don't care if the people who work for me are screwed up. In fact, I even encourage it. But absolution? You do that on your own time.  Or not at all. 'Cause… clearly, you suck at it.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>Taub</speaker><content>This is Aaron Rodgers. Wow, 127 quarterback rating. You know what sound he makes? Grrrrr!  Okay. Oy! Um… This… is Terrell Owens. People call him "T.O." Do you know what sound he makes? Wah! Wah!  Wah! Wah! Wah!</content></utterance>
+<utterance uid="35-2"><speaker>Taub</speaker><content>This is Mark Sanchez. Do you know what sound people make about him? Pffftt! </content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>House</speaker><content>Working late? Husband have her tonight?</content></utterance>
+<utterance uid="36-2"><speaker>Foreman</speaker><content>And every night. She broke it off. It's for the best. I'm not really an affair guy after all.</content></utterance>
+<utterance uid="36-3"><speaker>House</speaker><content>Sure you are, buddy. You just lost interest once it stopped being an affair. That's why you're relieved. But don't worry — it's not gonna end here. You'll just have to get your adrenaline fix somewhere else.  When that doesn't do it anymore, then you'll just… escalate things somehow.  At least, that's what I've been told.</content></utterance>
+<utterance uid="36-4"><speaker>Foreman</speaker><content>I'm not like you, House.</content></utterance>
+<utterance uid="36-5"><speaker>House</speaker><content>True. No limp.</content></utterance>
+<utterance uid="36-6"><speaker>Notes</speaker><content/></utterance>
+</scene>
+</script>

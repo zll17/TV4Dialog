@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>1st EMT</speaker><content>He's got a good pulse.</content></utterance>
+<utterance uid="1-2"><speaker>2nd EMT</speaker><content>Maintain head stabilization and flip him over. My count, guys. Ready. Go.</content></utterance>
+<utterance uid="1-3"><speaker>1st EMT</speaker><content>Sir, we're paramedics. The mailman saw you having a seizure. We had to break down your door. Do you know what your name is?</content></utterance>
+<utterance uid="1-4"><speaker>1st EMT</speaker><content>On my count. One, two, three. Up.  We're taking you to the hospital.</content></utterance>
+<utterance uid="1-5"><speaker>Stewart</speaker><content>No, I can't — no. No, I can't…</content></utterance>
+<utterance uid="1-6"><speaker>EMT</speaker><content>Hey, buddy. Buddy, we're trying to help.</content></utterance>
+<utterance uid="1-7"><speaker>1st EMT</speaker><content> Sir!</content></utterance>
+<utterance uid="1-8"><speaker>Stewart</speaker><content>Stay out of my house!</content></utterance>
+<utterance uid="1-9"><speaker>1st EMT</speaker><content> You just had a seizure. You could have a stroke. A bleed in your brain.</content></utterance>
+<utterance uid="1-10"><speaker>Stewart</speaker><content> Leave me alone!</content></utterance>
+</scene>
+
+<scene id="2"><utterance uid="2-1"><speaker>Cameron</speaker><content>35-year-old male — crushing headache and three seizures in the last two days.</content></utterance>
+<utterance uid="2-2"><speaker>House</speaker><content>So it's a bleed, clot, tumor, metabolic, or infection. Stick him in a CT.</content></utterance>
+<utterance uid="2-3"><speaker>Cameron</speaker><content>Can’t.</content></utterance>
+<utterance uid="2-4"><speaker>House</speaker><content>I'm assuming he has a giant head.</content></utterance>
+<utterance uid="2-5"><speaker>Cameron</speaker><content> Severe agoraphobe. The world scares the hell out of him. So we can only test him with whatever we can take to him.</content></utterance>
+<utterance uid="2-6"><speaker>House</speaker><content>Fun.</content></utterance>
+<utterance uid="2-7"><speaker>Kutner</speaker><content>Agoraphobia a symptom?</content></utterance>
+<utterance uid="2-8"><speaker>Cameron</speaker><content>Only of being shot. He and his girlfriend were mugged seven years ago. That's when it started.</content></utterance>
+<utterance uid="2-9"><speaker>House</speaker><content>Anybody can hate humanity after getting shot. Takes a big man to hate it beforehand.</content></utterance>
+<utterance uid="2-10"><speaker>Taub</speaker><content>How'd you get this case if he didn't come to the ER?</content></utterance>
+<utterance uid="2-11"><speaker>Cameron</speaker><content>I talked to him through his door when he had flu last year. I run the community outreach program now.</content></utterance>
+<utterance uid="2-12"><speaker>House</speaker><content>See? Perfectly reasonable explanation. She's definitely not here trying to work her way back on the team and steal your job or anything.</content></utterance>
+<utterance uid="2-13"><speaker>Taub</speaker><content>It's a legitimate question.</content></utterance>
+<utterance uid="2-14"><speaker>Cameron</speaker><content>He agreed to meet with us. But even if I can get inside his house, his brain is a black box.  We can pick this up in a minute.</content></utterance>
+<utterance uid="2-15"><speaker>House</speaker><content> What's this?</content></utterance>
+<utterance uid="2-16"><speaker>Cuddy</speaker><content>Take-out menus. But I'm hoping you'll come up with a better answer when everyone asks what we're talking about. Last night —</content></utterance>
+<utterance uid="2-17"><speaker>House</speaker><content>Forget it.</content></utterance>
+<utterance uid="2-18"><speaker>Cuddy</speaker><content>I know this is awkward, but we need to talk.</content></utterance>
+<utterance uid="2-19"><speaker>House</speaker><content>There's a reason that we've evolved a feeling of awkwardness. It tells us not to talk about things.</content></utterance>
+<utterance uid="2-20"><speaker>Cuddy</speaker><content>I was emotional because of the adoption falling through. And you actually let your human side show for a moment. That is why we kissed. I just want to say thank you for not… taking advantage.</content></utterance>
+<utterance uid="2-21"><speaker>House</speaker><content>You're welcome. Any time you want to stop kissing, I'm there for you.</content></utterance>
+<utterance uid="2-22"><speaker>Cameron</speaker><content>Portable equipment can't distinguish a bleed or a tumor. Can't see vasculitis.</content></utterance>
+<utterance uid="2-23"><speaker>Thirteen</speaker><content>What did Cuddy want?</content></utterance>
+<utterance uid="2-24"><speaker>House</speaker><content>I kinda hit that last night, so now she's all on my jock.</content></utterance>
+<utterance uid="2-25"><speaker>Thirteen</speaker><content>Wow! She looks pretty good for someone on roofies.</content></utterance>
+<utterance uid="2-26"><speaker>Cameron</speaker><content>The only equipment we have is a sonogram and a portable X-ray.</content></utterance>
+<utterance uid="2-27"><speaker>House</speaker><content>What part of olivine, pyroxene, and amphibole don't you understand?</content></utterance>
+<utterance uid="2-28"><speaker>Kutner</speaker><content>Pyroxene. Pyro means "fire"…</content></utterance>
+<utterance uid="2-29"><speaker>Cameron</speaker><content>They're indicator minerals. You can't see diamonds so you look for the indicator minerals. I assume the diamond is the tumor or bleed or whatever it is.</content></utterance>
+<utterance uid="2-30"><speaker>Foreman</speaker><content>We provoke a seizure. The indicator is the increased electrical activity focused around the abnormality. We do an EEG, see the focus, see where the problem is, which tells us what the problem is.</content></utterance>
+<utterance uid="2-31"><speaker>House</speaker><content>The Formster and the Camster. Kickin' it old school.  Thank God she's not trying to steal your job.  Go do it. And search the home for toxins.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>Stewart</speaker><content>I agreed to talk, not let you in.</content></utterance>
+<utterance uid="3-2"><speaker>Cameron</speaker><content>You could be very sick. We need access.</content></utterance>
+<utterance uid="3-3"><speaker>Stewart</speaker><content>I'm just not ready.</content></utterance>
+<utterance uid="3-4"><speaker>Taub</speaker><content>Why does he have two locked doors?</content></utterance>
+<utterance uid="3-5"><speaker>Thirteen</speaker><content>He must use this room as an airlock. Deliveries in. Garbage out. He never has to go outside.</content></utterance>
+<utterance uid="3-6"><speaker>Cameron</speaker><content>Just tell us when you are. We're not going away.</content></utterance>
+<utterance uid="3-7"><speaker>Kutner</speaker><content>Seriously?</content></utterance>
+<utterance uid="3-8"><speaker>Thirteen</speaker><content>You want her to admit that all he has to do is ignore us for a few minutes and we'll take off?</content></utterance>
+<utterance uid="3-9"><speaker>Kutner</speaker><content>He was shot. Girlfriend killed. He probably has post traumatic stress disorder. He doesn't believe in a just universe. He doesn't trust anyone. Give him some honesty.</content></utterance>
+<utterance uid="3-10"><speaker>Cameron</speaker><content> I shouldn’t have implied we can wait forever. We've got a whole hospital full of patients. We can give you a few minutes. But eventually, if you don't let us in, we're gonna have to leave.</content></utterance>
+<utterance uid="3-11"><speaker>Stewart</speaker><content>Just one person comes in.</content></utterance>
+<utterance uid="3-12"><speaker>Cameron</speaker><content>No. We've got to search the whole house for toxins.  How about I examine you in one room and my colleagues will do the search?</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>Cameron</speaker><content>I'm gonna try to provoke a seizure. I need you to look straight ahead, okay?</content></utterance>
+<utterance uid="4-2"><speaker>Cameron</speaker><content>You all right?</content></utterance>
+<utterance uid="4-3"><speaker>Stewart</speaker><content>Yeah. Uh, I just, um, I haven't been in a room with anyone for a while. Um, can you just give me a second?</content></utterance>
+<utterance uid="4-4"><speaker>Cameron</speaker><content> Sure.</content></utterance>
+<utterance uid="4-5"><speaker>Stewart</speaker><content>You're the, uh, uh, person I talked to through the door last year, right?</content></utterance>
+<utterance uid="4-6"><speaker>Cameron</speaker><content>Yeah.</content></utterance>
+<utterance uid="4-7"><speaker>Stewart</speaker><content>You were, uh, you were nice… and smart. Kind of made me expect someone older.</content></utterance>
+<utterance uid="4-8"><speaker>Cameon</speaker><content>I'm not that young. Must've been scary being shot.</content></utterance>
+<utterance uid="4-9"><speaker>Stewart</speaker><content> Don't do that. Okay? You — you don't know me.  I've got everything I want here. I — I — I make a lot of money writing tech manuals. I get stuff delivered. I work out. I see anything I want over the web. Um, I'm — I'm happy here.</content></utterance>
+<utterance uid="4-10"><speaker>Cameron</speaker><content>You don't seem very happy.</content></utterance>
+<utterance uid="4-11"><speaker>Stewart</speaker><content>Well, right now I'm not.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>House</speaker><content>Go away.</content></utterance>
+<utterance uid="5-2"><speaker>Wilson</speaker><content> Did you speak to Cuddy last night?</content></utterance>
+<utterance uid="5-3"><speaker>House</speaker><content>She's fine. Why would it take anyone more than a few hours to get over misplacing a baby?</content></utterance>
+<utterance uid="5-4"><speaker>Wilson</speaker><content>You spoke to her?</content></utterance>
+<utterance uid="5-5"><speaker>House</speaker><content>Kinda hit that. So she's all on my jock.</content></utterance>
+<utterance uid="5-6"><speaker>Wilson</speaker><content>Wha — what?</content></utterance>
+<utterance uid="5-7"><speaker>House</speaker><content> Huh. Everyone else thought I was kidding.</content></utterance>
+<utterance uid="5-8"><speaker>Wilson</speaker><content>You hit? Like making out, or full-on sex or —</content></utterance>
+<utterance uid="5-9"><speaker>House</speaker><content>Got a chart laid out with all the bases. I'll take you through it.</content></utterance>
+<utterance uid="5-10"><speaker>Wilson</speaker><content>Wh — what are you gonna do?</content></utterance>
+<utterance uid="5-11"><speaker>House</speaker><content>What can I do? I'm going to ignore her for the rest of my life. This mosquito bite kept me awake.</content></utterance>
+<utterance uid="5-12"><speaker>Wilson</speaker><content>Don't care about the bug bite. She's your boss.</content></utterance>
+<utterance uid="5-13"><speaker>House</speaker><content>So now I have two reasons to ignore her.  It was just a kiss.</content></utterance>
+<utterance uid="5-14"><speaker>Wilson</speaker><content>There's a reason.</content></utterance>
+<utterance uid="5-15"><speaker>House</speaker><content>Yes. Those large things in her bra.</content></utterance>
+<utterance uid="5-16"><speaker>Wilson</speaker><content>You were hiding it from me, means it meant something to you.</content></utterance>
+<utterance uid="5-17"><speaker>House</speaker><content>Yeah, I fiendishly concealed it within the phrase "I hit that."</content></utterance>
+<utterance uid="5-18"><speaker>Wilson</speaker><content>Stop scratching. You'll draw blood.</content></utterance>
+<utterance uid="5-19"><speaker>House</speaker><content>Finally you said something useful. If I actually break the skin, it'll let the poison out.</content></utterance>
+<utterance uid="5-20"><speaker>Wilson</speaker><content>If you… dated Cuddy… there would —</content></utterance>
+<utterance uid="5-21"><speaker>House</speaker><content>Sorry. I get better reception when you're not here.</content></utterance>
+<utterance uid="5-22"><speaker>House</speaker><content> What do you got?</content></utterance>
+<utterance uid="5-23"><speaker>Taub</speaker><content>His place is totally clean. No animals. No hidden drugs or alcohol. No lead in the paint.</content></utterance>
+<utterance uid="5-24"><speaker>House</speaker><content>And since you're not breathing hard, I assume you're not holding Cameron aloft in triumph. Which means no seizures.</content></utterance>
+<utterance uid="5-25"><speaker>House</speaker><content>Hey, speaking of breathing hard, Cameron, you engaged to Chase yet?</content></utterance>
+<utterance uid="5-26"><speaker>Thirteen</speaker><content>Sorry, we should have clarified. We're calling about the patient, not Dr. Cameron’s love life.</content></utterance>
+<utterance uid="5-27"><speaker>Cameron</speaker><content>We aren't engaged.  Moves things along much faster to just give him the answers.  Seizures can also be induced through —</content></utterance>
+<utterance uid="5-28"><speaker>House</speaker><content>After six years?</content></utterance>
+<utterance uid="5-29"><speaker>Cameron</speaker><content>A year and a half. Through sleep deprivation or —</content></utterance>
+<utterance uid="5-30"><speaker>House</speaker><content>Sleep deprivation would take too long. You living together?</content></utterance>
+<utterance uid="5-31"><speaker>Cameron</speaker><content>We spend most nights together. There's a bunch of drugs that can lower a seizure threshold.</content></utterance>
+<utterance uid="5-32"><speaker>House</speaker><content>And cloud the diagnosis with side effects. His place or yours?</content></utterance>
+<utterance uid="5-33"><speaker>Cameron</speaker><content>His usually.</content></utterance>
+<utterance uid="5-34"><speaker>House</speaker><content>Interesting.</content></utterance>
+<utterance uid="5-35"><speaker>Cameron</speaker><content>You would've said interesting no matter what the answer.</content></utterance>
+<utterance uid="5-36"><speaker>House</speaker><content>And no matter what the answer, it would've been interesting. No engagement. Commitment issues. His place, control issues. Not sure whose, but interesting.</content></utterance>
+<utterance uid="5-37"><speaker>Thirteen</speaker><content>Yeah, moves much faster this way.</content></utterance>
+<utterance uid="5-38"><speaker>House</speaker><content>Where was the patient when he had his first seizure?</content></utterance>
+<utterance uid="5-39"><speaker>Taub</speaker><content>In his entry hallway getting his mail.</content></utterance>
+<utterance uid="5-40"><speaker>House</speaker><content>Getting close to the outdoors, spooked him, raised his BP. Use that fear. Bring him outside.</content></utterance>
+<utterance uid="5-41"><speaker>Kutner</speaker><content>He punched out a fireman. We're doctors, not bouncers.</content></utterance>
+<utterance uid="5-42"><speaker>House</speaker><content>Okay. So bring the outside to him.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>House</speaker><content>Floors , genuine wood.</content></utterance>
+<utterance uid="6-2"><speaker>Taub</speaker><content>Why are they here?</content></utterance>
+<utterance uid="6-3"><speaker>House</speaker><content>They overheard me announce the half price bank foreclosure in the ER waiting room. Where's everybody?</content></utterance>
+<utterance uid="6-4"><speaker>Taub</speaker><content>Cameron’s with the patient. Uh, everybody else went home.</content></utterance>
+<utterance uid="6-5"><speaker>House</speaker><content>Because they don't need to be here. Neither do you. And yet you are.</content></utterance>
+<utterance uid="6-6"><speaker>House</speaker><content> This way.</content></utterance>
+<utterance uid="6-7"><speaker>House</speaker><content>Original? They were here before the house.  The shut-in's also original. Come on. Don't be shy.</content></utterance>
+<utterance uid="6-8"><speaker>Cameron</speaker><content>House, get them out of here.</content></utterance>
+<utterance uid="6-9"><speaker>House</speaker><content>Easy for you to say. You're not gonna be making some serious capital gains.</content></utterance>
+<utterance uid="6-10"><speaker>Cameron</speaker><content>This is cruel.</content></utterance>
+<utterance uid="6-11"><speaker>House</speaker><content>And leaving him undiagnosed is what, altruistic? Procedure worked. He's seizing. What do you see?</content></utterance>
+<utterance uid="6-12"><speaker>Cameron</speaker><content>Normal theta. Normal delta. This isn't a seizure.</content></utterance>
+<utterance uid="6-13"><speaker>House</speaker><content>It's something.</content></utterance>
+<utterance uid="6-14"><speaker>Cameron</speaker><content> Mr. Nozick, are you okay?</content></utterance>
+<utterance uid="6-15"><speaker>Stewart</speaker><content>Stomach's killing me.</content></utterance>
+<utterance uid="6-16"><speaker>House</speaker><content>See? It's something.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>Kutner</speaker><content>Partial small bowel obstruction.</content></utterance>
+<utterance uid="7-2"><speaker>House</speaker><content>Blockage explains the pain. What explains the blockage plus seizures?</content></utterance>
+<utterance uid="7-3"><speaker>Thirteen</speaker><content>Atrial fibrillation throwing emboli.</content></utterance>
+<utterance uid="7-4"><speaker>Taub</speaker><content>Crohn's causing an abscess.</content></utterance>
+<utterance uid="7-5"><speaker>Foreman</speaker><content>Could be a million things. There's no way to know unless we get him in for an MRI on his head or exploratory surgery so we can biopsy his bowels, which he won't let us do.</content></utterance>
+<utterance uid="7-6"><speaker>House</speaker><content>Wouldn't. Pain changes things.</content></utterance>
+<utterance uid="7-7"><speaker>Cameron</speaker><content>House.</content></utterance>
+<utterance uid="7-8"><speaker>Cameron</speaker><content> He told you to stay out of here.</content></utterance>
+<utterance uid="7-9"><speaker>House</speaker><content>He can chase me out once he's done doubling up in agony.</content></utterance>
+<utterance uid="7-10"><speaker>House</speaker><content> Whatever your big problem is, it's caused a complication we call "colon FOS." "Fo," full of. Since we're in mixed company, "S" is stool. Nothing's coming out. So the pain's gonna get worse and worse. We need to stick a pooper scooper in you. We also need to take a look at your bowel.</content></utterance>
+<utterance uid="7-11"><speaker>Stewart</speaker><content>I made my wishes clear.</content></utterance>
+<utterance uid="7-12"><speaker>House</speaker><content>Uh-huh, and if the crazy fairy were here, she could grant them.</content></utterance>
+<utterance uid="7-13"><speaker>Stewart</speaker><content>I'm not insane. I — I feel pain when I go outside. So it — it's rational to avoid that pain.</content></utterance>
+<utterance uid="7-14"><speaker>House</speaker><content>Except now you're feeling pain inside.</content></utterance>
+<utterance uid="7-15"><speaker>Stewart</speaker><content>Not as bad. Nowhere near.</content></utterance>
+<utterance uid="7-16"><speaker>Cameron</speaker><content>We can give him drugs for the blockage.</content></utterance>
+<utterance uid="7-17"><speaker>House</speaker><content>And if it doesn't work? That blockage will rupture your intestines, spew sewage throughout your body. Whatever you're scared of out there, aren't you more scared of death?</content></utterance>
+<utterance uid="7-18"><speaker>Stewart</speaker><content>You obviously can't stand people. But for me, it's worse. All right? I'd rather die in here than live out there.</content></utterance>
+<utterance uid="7-19"><speaker>House</speaker><content>If you don't mind floppy hair and an annoying accent, I know a surgeon who will operate in your home.</content></utterance>
+<utterance uid="7-20"><speaker>Stewart</speaker><content>Thank you.</content></utterance>
+<utterance uid="7-21"><speaker>Cameron</speaker><content>With the risk of infection, Chase won't actually —</content></utterance>
+<utterance uid="7-22"><speaker>House</speaker><content>He's not gonna do surgery in some crazy dude's house.</content></utterance>
+<utterance uid="7-23"><speaker>Cameron</speaker><content>You just said —</content></utterance>
+<utterance uid="7-24"><speaker>House</speaker><content>What I said was that Chase would put him under at the house, we'd take him to the hospital, open him up, do our thing, then slip him back into his room for the post-op without him ever finding out that we tricked him. Some of that was implied.</content></utterance>
+<utterance uid="7-25"><speaker>Cameron</speaker><content>It's unethical.</content></utterance>
+<utterance uid="7-26"><speaker>House</speaker><content>He'll be asleep.</content></utterance>
+<utterance uid="7-27"><speaker>Cameron</speaker><content>He gets to make his own calls even if he's asleep.</content></utterance>
+<utterance uid="7-28"><speaker>House</speaker><content>Why are you siding with him?  Oh, yeah, you're that girl who likes broken people because her husband died. And since Chase isn’t all that broken —</content></utterance>
+<utterance uid="7-29"><speaker>Cameron</speaker><content>Hey, why don't we operate on his infarcted leg while we're at it? Who cares if he said no.</content></utterance>
+<utterance uid="7-30"><speaker>House</speaker><content>I was risking my life to avoid becoming a cripple. He's doing it to avoid sunlight and fresh air.</content></utterance>
+<utterance uid="7-31"><speaker>Cameron</speaker><content>We've got to make it look good.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>Stewart</speaker><content> I know I'm a pain in the ass. I know it would have been easy just to walk away, but… You're a good person.</content></utterance>
+<utterance uid="8-2"><speaker>Chase</speaker><content>Count down from 10.</content></utterance>
+<utterance uid="8-3"><speaker>Stewart</speaker><content>10, 9, 8…</content></utterance>
+<utterance uid="8-4"><speaker>Chase</speaker><content>Let's go!</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>Wilson</speaker><content>How you doin'?</content></utterance>
+<utterance uid="9-2"><speaker>Cuddy</speaker><content>Better.</content></utterance>
+<utterance uid="9-3"><speaker>Wilson</speaker><content>Great. Everything else good?</content></utterance>
+<utterance uid="9-4"><speaker>Cuddy</speaker><content>Uh, everything involving me kissing House is good. Oh, God, you dragged it out of me, you're a genius. It's no big deal. I was feeling vulnerable. He's a friend. And I leaned on him.</content></utterance>
+<utterance uid="9-5"><speaker>Wilson</speaker><content>It's funny. I've leaned on friends in the past. Never leaned so far my tongue fell into their mouths.</content></utterance>
+<utterance uid="9-6"><speaker>Cuddy</speaker><content>I don't think of House that way. I never have.</content></utterance>
+<utterance uid="9-7"><speaker>Wilson</speaker><content>Why not?</content></utterance>
+<utterance uid="9-8"><speaker>Cuddy</speaker><content>You know exactly how it would go. It'd start off exciting. We'd get caught up in the novelty and the hostility and the forbiddenness. And then we'd realize that the flirty hostility is just hostility and his inability to open up is no longer exciting, it’s just frustrating. And then it’s the inevitable blowup and the recriminations and we don’t talk for two months…</content></utterance>
+<utterance uid="9-9"><speaker>Wilson</speaker><content>Yeah. Well, it certainly proves you've never thought about House that way.</content></utterance>
+<utterance uid="9-10"><speaker>Cuddy</speaker><content>I get your point. I will be more careful with my tongue in the future.</content></utterance>
+<utterance uid="9-11"><speaker>Wilson</speaker><content>That's not my point. Maybe novelty and hostility and forbiddenness doesn't have to end bad.</content></utterance>
+<utterance uid="9-12"><speaker>Cuddy</speaker><content> Gotta go.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>Chase</speaker><content>What time you done? We could try that new sushi place next to my house.</content></utterance>
+<utterance uid="10-2"><speaker>Cameron</speaker><content>Why don't we stay at my house tonight?</content></utterance>
+<utterance uid="10-3"><speaker>Chase</speaker><content>We always stay at mine.</content></utterance>
+<utterance uid="10-4"><speaker>Cameron</speaker><content>That's what I mean. We — we used to split it. What happened?</content></utterance>
+<utterance uid="10-5"><speaker>Chase</speaker><content>I don't know. Closer to work.</content></utterance>
+<utterance uid="10-6"><speaker>Cameron</speaker><content>By five minutes. And my house doesn't look like it was decorated by a drunk rugby player.</content></utterance>
+<utterance uid="10-7"><speaker>Cameron</speaker><content>Well, we can discuss it. I hadn't really —</content></utterance>
+<utterance uid="10-8"><speaker>Chase</speaker><content>Why does it have to be a discussion? Can't you just stay over?</content></utterance>
+<utterance uid="10-9"><speaker>Cuddy</speaker><content>You do know they page me when that much surgical equipment is signed out.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>Cuddy</speaker><content>He didn't consent.</content></utterance>
+<utterance uid="11-2"><speaker>Cameron</speaker><content>He consented to the surgery. You think he's gonna sue over where?</content></utterance>
+<utterance uid="11-3"><speaker>Chase</speaker><content>He won't even know where. He'll wake up in his house. He won't know a thing about what happened.</content></utterance>
+<utterance uid="11-4"><speaker>Cuddy</speaker><content>Until he catches a post-surgical infection in his dirty apartment and finds out we tricked him and winds up owning the hospital.</content></utterance>
+<utterance uid="11-5"><speaker>Cameron</speaker><content> Why aren't you arguing with her?</content></utterance>
+<utterance uid="11-6"><speaker>House</speaker><content>Because she's right. I don't care where he gets the post-op, just that he gets it. Keep him here.</content></utterance>
+<utterance uid="11-7"><speaker>Cuddy</speaker><content>House. You okay?</content></utterance>
+<utterance uid="11-8"><speaker>House</speaker><content>Yes. We don't need to talk.</content></utterance>
+<utterance uid="11-9"><speaker>Cuddy</speaker><content>Your hand.</content></utterance>
+<utterance uid="11-10"><speaker>House</speaker><content> That's weird. I usually don't get the stigmata until Easter.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>Cameron</speaker><content> Please tell Dr. Chase the patient's ready for him now.  Stewart, wake up. It's Dr. Cameron. If you can hear me, blink.  We were concerned for your safety so we brought you to the hospital.  No, it's okay.</content></utterance>
+<utterance uid="12-2"><speaker>Stewart</speaker><content>Why — why?</content></utterance>
+<utterance uid="12-3"><speaker>Cameron</speaker><content>It's okay.</content></utterance>
+<utterance uid="12-4"><speaker>Stewart</speaker><content>Why — why?</content></utterance>
+<utterance uid="12-5"><speaker>Cameron</speaker><content>I just wanted to keep you informed. I didn't want you to have a bad shock while you were recovering from surgery.</content></utterance>
+<utterance uid="12-6"><speaker>Stewart</speaker><content>Gotta get outta of here.</content></utterance>
+<utterance uid="12-7"><speaker>Cameron</speaker><content>It's okay, Stewart. Calm down. Calm down. Stewart. Stewart, I’m gonna sedate you. I'm gonna sedate you.</content></utterance>
+<utterance uid="12-8"><speaker>Stewart</speaker><content>No!</content></utterance>
+<utterance uid="12-9"><speaker>Cameron</speaker><content>Calm down. I need some help in here! Damn it! Somebody get in here!</content></utterance>
+<utterance uid="12-10"><speaker>Chase</speaker><content>What did you do?</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>Cuddy</speaker><content>Well done. Your patient called his lawyer, threatened to sue us. He's now heading home completely undiagnosed.</content></utterance>
+<utterance uid="13-2"><speaker>House</speaker><content>He'll soon be on his way back. He's sick. He'll crash. He'll lose consciousness.  I'll declare an emergency, bring him back in.</content></utterance>
+<utterance uid="13-3"><speaker>Cuddy</speaker><content>Not anymore you won’t. His lawyer now holds his health care proxy. The next time we have an emergency, Larry Ruseckas, esquire, will be calling the shots.</content></utterance>
+<utterance uid="13-4"><speaker>Cameron</speaker><content>I made the right call. If he'd flipped out after major surgery, it would've been worse.</content></utterance>
+<utterance uid="13-5"><speaker>Cuddy</speaker><content>The benefit of being boss is that I don't have to argue. You're all off the case.</content></utterance>
+<utterance uid="13-6"><speaker>Cameron</speaker><content> Whaaa?</content></utterance>
+<utterance uid="13-7"><speaker>Cameron</speaker><content>What's going on between you and Cuddy?</content></utterance>
+<utterance uid="13-8"><speaker>House</speaker><content>Bad lovin' gone bad.</content></utterance>
+<utterance uid="13-9"><speaker>Cameron</speaker><content>Seriously. Why didn’t you argue with her? She just threw us off the case.</content></utterance>
+<utterance uid="13-10"><speaker>House</speaker><content>Because ignoring her is a lot easier. Convince the patient to let us back in again. See if you can clear his blockage with lactulose. If this thing kills him before we can diagnose, it won't be fun anymore.</content></utterance>
+<utterance uid="13-11"><speaker>Cameron</speaker><content>Okay.</content></utterance>
+<utterance uid="13-12"><speaker>Chase</speaker><content>You gonna keep working on this?</content></utterance>
+<utterance uid="13-13"><speaker>Cameron</speaker><content>Yeah. I brought in the case.</content></utterance>
+<utterance uid="13-14"><speaker>Chase</speaker><content>There is no case. He's gone. You've been tossed. This is totally nuts.</content></utterance>
+<utterance uid="13-15"><speaker>Cameron</speaker><content>He's incredibly sick. We don't know —</content></utterance>
+<utterance uid="13-16"><speaker>Chase</speaker><content>Forget about the patient. What is going on with you? This is why we left House's team to avoid this constant flood of pure craziness.</content></utterance>
+<utterance uid="13-17"><speaker>Cameron</speaker><content>That's why I left House. You got fired.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>Cameron</speaker><content>I'm sorry. I know I let you down. But you know who else I let down, pretty much everyone who's important to me. My boss, my old boss, my boyfriend.  I did that for you. I'm not gonna let you down again.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>Wilson</speaker><content>It's like the red badge of idiocy.</content></utterance>
+<utterance uid="15-2"><speaker>House</speaker><content>If the confederacy had mosquitoes, we'd all have southern accents and I'd be paying Foreman less.</content></utterance>
+<utterance uid="15-3"><speaker>Wilson</speaker><content>She kicked you off the case. This is what happens when you don't address it. She acts weird, things get different.</content></utterance>
+<utterance uid="15-4"><speaker>House</speaker><content>You understand that different implies difference. She's tossed me a million times before.</content></utterance>
+<utterance uid="15-5"><speaker>Wilson</speaker><content>No, she always chastises you. And you'd always come running to me to complain. So you're acting different too. You're scared. You are scared to get involved.</content></utterance>
+<utterance uid="15-6"><speaker>House</speaker><content>How is that scary? It's rational. Emotionally mature people who work together should not date. Guaranteed breakup. Guaranteed ugliness.</content></utterance>
+<utterance uid="15-7"><speaker>Wilson</speaker><content>Any relationship that doesn't end in a breakup ends in death. Everything falls apart in the end. That's your worldview. The corollary, which you keep forgetting, is that you have to grab any chance for happiness.</content></utterance>
+<utterance uid="15-8"><speaker>House</speaker><content>Why does this matter so much to you? Cuddy and I are fine. The only person getting worked up here is you.</content></utterance>
+<utterance uid="15-9"><speaker>Wilson</speaker><content>I don't want you to be fine. I want you to be happy. I think if you dated her —</content></utterance>
+<utterance uid="15-10"><speaker>House</speaker><content>Are you familiar with the adverb "vicariously?”</content></utterance>
+<utterance uid="15-11"><speaker>Wilson</speaker><content>If I wanted to ask her out —</content></utterance>
+<utterance uid="15-12"><speaker>House</speaker><content>You did ask her out. Last year. Whatever happened there?</content></utterance>
+<utterance uid="15-13"><speaker>Wilson</speaker><content>I don't know. I wasn't interested.</content></utterance>
+<utterance uid="15-14"><speaker>House</speaker><content>Wrong. You were interested. But Amber grabbed your genitals first. But now you're single, and that makes you miserable because you think it's too soon for another relationship. So you're gonna make me miserable. Please, get a girlfriend, or a life, or something. For me.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>House</speaker><content>Better or worse?</content></utterance>
+<utterance uid="16-2"><speaker>Cameron</speaker><content>Worse. Drugs aren't working. I think we should do the surgery in his house like we planned.</content></utterance>
+<utterance uid="16-3"><speaker>House</speaker><content>Well, then one of us wasn’t paying attention because I thought that surgery thing was just a trick.</content></utterance>
+<utterance uid="16-4"><speaker>Cameron</speaker><content>We prepared the room. We hung the drapes. It's probably ten times as sterile as any mobile operating theater you'd find in a battlefield.</content></utterance>
+<utterance uid="16-5"><speaker>House</speaker><content>We still need Trapper John.</content></utterance>
+<utterance uid="16-6"><speaker>Cameron</speaker><content>Chase doesn't want anywhere near this surgery. Maybe you could talk to him.</content></utterance>
+<utterance uid="16-7"><speaker>House</speaker><content>I can't understand a word he says.</content></utterance>
+<utterance uid="16-8"><speaker>House</speaker><content>Taub. Doing anything later?</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>Taub</speaker><content> Blood in the field. Not where I'm looking.</content></utterance>
+<utterance uid="17-2"><speaker>Kutner</speaker><content>How am I supposed to know where you're looking?</content></utterance>
+<utterance uid="17-3"><speaker>Taub</speaker><content>Here's a hint. It's the bloody part.</content></utterance>
+<utterance uid="17-4"><speaker>Kutner</speaker><content>The whole thing's bloody. It's a guy with a hole in his body.</content></utterance>
+<utterance uid="17-5"><speaker>Taub</speaker><content>It's like you've never done this before. Use the suction.</content></utterance>
+<utterance uid="17-6"><speaker>Kutner</speaker><content>I will. And in fact I’ve never done this before because I went to med school, not nurse school.</content></utterance>
+<utterance uid="17-7"><speaker>House</speaker><content> Hey, wanna see if your client's actually made of money?</content></utterance>
+<utterance uid="17-8"><speaker>Taub</speaker><content>Cutting out last piece of bowel. </content></utterance>
+<utterance uid="17-9"><speaker>Taub</speaker><content>Suture.</content></utterance>
+<utterance uid="17-10"><speaker>House</speaker><content> Mucosa's pink. Flattened villi.</content></utterance>
+<utterance uid="17-11"><speaker>Cameron</speaker><content>Intestinal atrophy. It's Whipple's disease.</content></utterance>
+<utterance uid="17-12"><speaker>House</speaker><content>Explains the seizure and the stomach pain.</content></utterance>
+<utterance uid="17-13"><speaker>Taub</speaker><content>Little bleeder here. Cautering.</content></utterance>
+<utterance uid="17-14"><speaker>House</speaker><content>Hey, wait. The gas —</content></utterance>
+<utterance uid="17-15"><speaker>House</speaker><content> That always happens during surgery. Just the gas build up in the blockage. Nothing to sue about.  Treat him for the burns. Put him on antibiotics for the Whipple’s. He'll be fine.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>Cameron</speaker><content>That's nice of you.</content></utterance>
+<utterance uid="18-2"><speaker>Chase</speaker><content>He doing good?</content></utterance>
+<utterance uid="18-3"><speaker>Cameron</speaker><content>Uh, burns are healing fine. He's stable otherwise.</content></utterance>
+<utterance uid="18-4"><speaker>Chase</speaker><content>Good. So, uh, I could stay at your place tonight if you'd like.</content></utterance>
+<utterance uid="18-5"><speaker>Cameron</speaker><content>I can’t.</content></utterance>
+<utterance uid="18-6"><speaker>Chase</speaker><content>Well, you're not gonna sleep here, again.</content></utterance>
+<utterance uid="18-7"><speaker>Cameron</speaker><content>You might have noticed the lack of nurses.</content></utterance>
+<utterance uid="18-8"><speaker>Chase</speaker><content>Because you're not on the case. You can't really use that as an excuse…</content></utterance>
+<utterance uid="18-9"><speaker>Stewart</speaker><content> Dr. Cameron!</content></utterance>
+<utterance uid="18-10"><speaker>Cameron</speaker><content>Wait here.</content></utterance>
+<utterance uid="18-11"><speaker>Cameron</speaker><content>Your stomach?</content></utterance>
+<utterance uid="18-12"><speaker>Stewart</speaker><content>My legs are numb. I can't feel them at all.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>Cameron</speaker><content>New symptom. Peripheral neuropathy. Got worse on antibiotics. It's not Whipple's.</content></utterance>
+<utterance uid="19-2"><speaker>Kutner</speaker><content>Porphyria.</content></utterance>
+<utterance uid="19-3"><speaker>Thirteen</speaker><content>Liver's fine. Amyloidosis.</content></utterance>
+<utterance uid="19-4"><speaker>Taub</speaker><content>We would've seen it on the intestines.</content></utterance>
+<utterance uid="19-5"><speaker>Foreman</speaker><content>What did we see on the intestines? Pink mucosa, flattened villi. It's not Whipple’s, it's gotta be celiac. Wheat allergy means she's not absorbing nutrients. Explains the seizures, stomach, and now the nerves.</content></utterance>
+<utterance uid="19-6"><speaker>Cameron</speaker><content>We should run a blood test for celiac.</content></utterance>
+<utterance uid="19-7"><speaker>House</speaker><content>Not fast enough. Not accurate enough.  Force-feed him wheat then do an endoscopy as it hits his duodenum. See if there's an allergic reaction.</content></utterance>
+<utterance uid="19-8"><speaker>Taub</speaker><content>His guts just exploded. It might be a tad painful to make him eat.</content></utterance>
+<utterance uid="19-9"><speaker>Cameron</speaker><content>That's House's point. There's nothing diagnostic about it. He's trying to put the patient in pain, force him to come in.</content></utterance>
+<utterance uid="19-10"><speaker>Foreman</speaker><content>It is a valid test.</content></utterance>
+<utterance uid="19-11"><speaker>Cameron</speaker><content>So is the blood test, which is painless.</content></utterance>
+<utterance uid="19-12"><speaker>House</speaker><content>Foreman, listen to that little voice in your head that's coming from the telephone.  Force-feed him.</content></utterance>
+<utterance uid="19-13"><speaker>Cameron</speaker><content>Don’t. You know House. You know I'm right.</content></utterance>
+<utterance uid="19-14"><speaker>Foreman</speaker><content>We'll do both tests.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>Wilson</speaker><content>I'm not here to play matchmaker.</content></utterance>
+<utterance uid="20-2"><speaker>Cuddy</speaker><content> Okay.</content></utterance>
+<utterance uid="20-3"><speaker>Wilson</speaker><content>House basically… Well, he accused me of being interested in you.</content></utterance>
+<utterance uid="20-4"><speaker>Cuddy</speaker><content> Oh, he's just trying to change the subject.</content></utterance>
+<utterance uid="20-5"><speaker>Wilson</speaker><content>I know. But I do have… I've always… had… some feelings for you.</content></utterance>
+<utterance uid="20-6"><speaker>Cuddy</speaker><content>Are you saying you want to date me?</content></utterance>
+<utterance uid="20-7"><speaker>Wilson</speaker><content>No. I — I — it wouldn’t be fair to House and it's too soon after Amber.</content></utterance>
+<utterance uid="20-8"><speaker>Cuddy</speaker><content> But you thought you should just say it.</content></utterance>
+<utterance uid="20-9"><speaker>Wilson</speaker><content>Yeah. I thought you should know.</content></utterance>
+<utterance uid="20-10"><speaker>Cuddy</speaker><content>Let's have dinner tomorrow night.</content></utterance>
+<utterance uid="20-11"><speaker>Wilson</speaker><content>Okay.</content></utterance>
+<utterance uid="20-12"><speaker>Cuddy</speaker><content>Or maybe it would be better if we just… had sex.</content></utterance>
+<utterance uid="20-13"><speaker>Wilson</speaker><content>Pardon me?</content></utterance>
+<utterance uid="20-14"><speaker>Cuddy</speaker><content>In front of House's office. I mean, I don't want to take any chances.  I assume the point of this is to make him jealous and make him realize that he does want a relationship with me?</content></utterance>
+<utterance uid="20-15"><speaker>Wilson</speaker><content>Yes. You think it'll work?</content></utterance>
+<utterance uid="20-16"><speaker>Cuddy</speaker><content>You're an idiot. Trust me. Everybody will be happier if House and I aren't dating.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>Stewart</speaker><content>You sure this is the best test?</content></utterance>
+<utterance uid="21-2"><speaker>Cameron</speaker><content>No. But you've kind of tied our hands. Soon as this hits your intestines, I'll look at it through an endoscope. Stewart, I know you don't want to talk about this, but… People who get shot often get PTSD. It's nothing to be ashamed of. It's very treatable with drugs and therapy.</content></utterance>
+<utterance uid="21-3"><speaker>Stewart</speaker><content>It's not PTSD. My girlfriend was with me when I got shot. She died.</content></utterance>
+<utterance uid="21-4"><speaker>Cameron</speaker><content>I'm sorry. But that's what I mean. I lost someone myself. I know it's traumatic.</content></utterance>
+<utterance uid="21-5"><speaker>Stewart</speaker><content>No, what — what — what I'm trying to say is that… I was like this before the shooting. Since I was a kid. Everything was hard for me. I — I didn't go out that much. And — and when I did… Panic attacks. Like physical pain. No, it was, like, worse. It was like I was dying. Then I met Angela. She was the only reason that I ever wanted to go out. But then she died.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>Taub</speaker><content>Blood test will be done soon.</content></utterance>
+<utterance uid="22-2"><speaker>Taub</speaker><content>I'm guessing that's a new technique.</content></utterance>
+<utterance uid="22-3"><speaker>House</speaker><content>Hey, you remember that idea that Cameron had about trying to torture the patient into admitting himself?</content></utterance>
+<utterance uid="22-4"><speaker>Taub</speaker><content>Pretty sure it was your idea. You want me to slow down the test?</content></utterance>
+<utterance uid="22-5"><speaker>House</speaker><content>Wow. Everyone's got all these great ideas today.  So you're thinking patient won't leave because leaving causes pain, so we gotta make staying more painful. That actually makes sense.</content></utterance>
+<utterance uid="22-6"><speaker>Taub</speaker><content>You'll increase his pain, but not enough to make a difference. He's on morphine.</content></utterance>
+<utterance uid="22-7"><speaker>House</speaker><content>He's on morphine now. Pretty soon he'll be on less-phine. 'Cause when you restock, you'll actually be giving Cameron IV bags of saline.</content></utterance>
+<utterance uid="22-8"><speaker>Taub</speaker><content>And why do you think I’ll be doing this?</content></utterance>
+<utterance uid="22-9"><speaker>House</speaker><content>Same reason you did the surgery.</content></utterance>
+<utterance uid="22-10"><speaker>Taub</speaker><content>That was because it was an emergency.</content></utterance>
+<utterance uid="22-11"><speaker>House</speaker><content>No. It was because your marriage is falling apart. When you confess adultery, things tend to go bad. When one part of your life does a Titanic, you make a life raft out of whatever's left, which makes your job more significant, which is why you did the surgery, why you pulled an all-nighter, and why you'll do this.</content></utterance>
+<utterance uid="22-12"><speaker>Taub</speaker><content> She's having me sleep on the couch. Just for a few nights. I'm not doing this to save my job. I'm doing this to save his life.</content></utterance>
+<utterance uid="22-13"><speaker>House</speaker><content> Right. That's what we'll tell everyone.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>House</speaker><content> Huh.</content></utterance>
+</scene>
+
+
+<scene id="24"><utterance uid="24-1"><speaker>House</speaker><content>Buzzzzzzz.</content></utterance>
+<utterance uid="24-2"><speaker>Wilson</speaker><content>Have you considered that it's not my place you really want to be walking into right now?</content></utterance>
+<utterance uid="24-3"><speaker>House</speaker><content>Rick Ocasek would kill me if I — oh, you mean Cuddy.</content></utterance>
+<utterance uid="24-4"><speaker>Wilson</speaker><content>Yeah, she's a little nuts. But she's beautiful, smart, funny, and most important, she can stand you.</content></utterance>
+<utterance uid="24-5"><speaker>House</speaker><content>Yeah. I came here to have you lecture me on Cuddy, not because there's a killer mosquito chasing me around my apartment.</content></utterance>
+<utterance uid="24-6"><speaker>Wilson</speaker><content>House, there is no mosquito. This is all about Cuddy.</content></utterance>
+<utterance uid="24-7"><speaker>House</speaker><content>Ah, she's bugging me. Poetic.</content></utterance>
+<utterance uid="24-8"><speaker>Wilson</speaker><content>Have you seen this bug?</content></utterance>
+<utterance uid="24-9"><speaker>House</speaker><content> Have you seen this bite?</content></utterance>
+<utterance uid="24-10"><speaker>Wilson</speaker><content>No. What I've seen is a suppurating wound that you've scratched and mutilated into a gangrenous state. Delusional parasitosis.</content></utterance>
+<utterance uid="24-11"><speaker>House</speaker><content>I am not imagining things.</content></utterance>
+<utterance uid="24-12"><speaker>Wilson</speaker><content>House, you're a drug addict. You're always imagining things. You got bitten the night you kissed her. Your itching always gets worse when you think about her. You need to address this.</content></utterance>
+<utterance uid="24-13"><speaker>House</speaker><content>She's my boss.</content></utterance>
+<utterance uid="24-14"><speaker>Wilson</speaker><content>No, you're not afraid of authority. You're afraid she actually is right for you. You're afraid to take a chance because it's too big a chance. If it doesn't work with her, then maybe there’s no one out there.</content></utterance>
+<utterance uid="24-15"><speaker>House</speaker><content>I am not rationalizing. I'm better off alone. Also, you seen her ass recently?</content></utterance>
+<utterance uid="24-16"><speaker>Wilson</speaker><content>You're not staying here.</content></utterance>
+<utterance uid="24-17"><speaker>House</speaker><content>Oh, come on.</content></utterance>
+<utterance uid="24-18"><speaker>Wilson</speaker><content>No. You can go home.  Or you're going to Cuddy's,  gonna ring her doorbell… And you're gonna ask her out on a date  like regular people do.</content></utterance>
+<utterance uid="24-19"><speaker>House</speaker><content>At 3:00 in the morning? When do regular people sleep?</content></utterance>
+<utterance uid="24-20"><speaker>Wilson</speaker><content> Buh-bye. </content></utterance>
+<utterance uid="24-21"><speaker>House</speaker><content>Is he in enough pain to come in yet?</content></utterance>
+<utterance uid="24-22"><speaker>Cameron</speaker><content> No. Antibody tests back?</content></utterance>
+<utterance uid="24-23"><speaker>House</speaker><content>Inconclusive.</content></utterance>
+<utterance uid="24-24"><speaker>Cameron</speaker><content>Then why are you here?</content></utterance>
+<utterance uid="24-25"><speaker>House</speaker><content>I missed you. Endoscopy?</content></utterance>
+<utterance uid="24-26"><speaker>Cameron</speaker><content>Inconclusive.</content></utterance>
+<utterance uid="24-27"><speaker>House</speaker><content>Well, then do it again.</content></utterance>
+<utterance uid="24-28"><speaker>Cameron</speaker><content> I know it sucks, but I need to test your stomach again.</content></utterance>
+<utterance uid="24-29"><speaker>Stewart</speaker><content> It's really hurting.</content></utterance>
+<utterance uid="24-30"><speaker>Cameron</speaker><content>I know. I'm sorry. Try to get you on your back and have you open your mouth.</content></utterance>
+<utterance uid="24-31"><speaker>Stewart</speaker><content>I can't…</content></utterance>
+<utterance uid="24-32"><speaker>Cameron</speaker><content>He's out.</content></utterance>
+<utterance uid="24-33"><speaker>Cameron</speaker><content>Anything?</content></utterance>
+<utterance uid="24-34"><speaker>House</speaker><content>No pulse.  Start CPR.</content></utterance>
+<utterance uid="24-35"><speaker>Cameron</speaker><content>Get the paddles. Get the paddles!</content></utterance>
+<utterance uid="24-36"><speaker>Cameron</speaker><content>Who are you calling?</content></utterance>
+<utterance uid="24-37"><speaker>House</speaker><content>Pizza. You like anchovies? I'm calling the lawyer.  Genuine emergency. He'll okay admission.</content></utterance>
+<utterance uid="24-38"><speaker>Cameron</speaker><content>He's dying.</content></utterance>
+<utterance uid="24-39"><speaker>House</speaker><content>Exactly.  Hi. Sorry to wake you. Your introvert is having a heart attack.</content></utterance>
+<utterance uid="24-40"><speaker>Cameron</speaker><content> House, if we don't restart his heart…</content></utterance>
+<utterance uid="24-41"><speaker>House</speaker><content> He can survive 15 minutes on oxygen and CPR. We can get him to the hospital in five.  Lawyer says yes. Continue CPR.</content></utterance>
+<utterance uid="24-42"><speaker>House</speaker><content>2123 Holden Green. Patient with PEA.</content></utterance>
+<utterance uid="24-43"><speaker>Cameron</speaker><content>Clear.</content></utterance>
+<utterance uid="24-44"><speaker>House</speaker><content>Wait!</content></utterance>
+<utterance uid="24-45"><speaker>Cameron</speaker><content>I got a pulse. Cancel the ambulance. He's stable enough to stay here.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>Foreman</speaker><content>His heart's back to sinus rhythm, but it's bradycardic. Taub's putting in a temporary pacemaker. It'll keep his heart beating for now.</content></utterance>
+<utterance uid="25-2"><speaker>House</speaker><content>Hey, Cameron, how would you like your old job back? I'm asking 'cause it’s the only way I can fire you.</content></utterance>
+<utterance uid="25-3"><speaker>Cameron</speaker><content>Sorry. In the ER, we like to actually resuscitate dying people, not just let them flop around.</content></utterance>
+<utterance uid="25-4"><speaker>Kutner</speaker><content>Could be lymphoma.</content></utterance>
+<utterance uid="25-5"><speaker>House</speaker><content>We'd have seen it on the abdomen. It has to be a poison.</content></utterance>
+<utterance uid="25-6"><speaker>Kutner</speaker><content>Organophosphates.</content></utterance>
+<utterance uid="25-7"><speaker>Thirteen</speaker><content>We checked the place over and over. It's completely clean.</content></utterance>
+<utterance uid="25-8"><speaker>Kutner</speaker><content>There where rose petals in the front entry.</content></utterance>
+<utterance uid="25-9"><speaker>Foreman</speaker><content>Unless he's eating a bouquet a day, he couldn't —</content></utterance>
+<utterance uid="25-10"><speaker>House</speaker><content>How clean?</content></utterance>
+<utterance uid="25-11"><speaker>Thirteen</speaker><content>Very. He probably has a little OCD.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>House</speaker><content> How often do you wash your tub?</content></utterance>
+<utterance uid="26-2"><speaker>Stewart</speaker><content>Every couple days.</content></utterance>
+<utterance uid="26-3"><speaker>House</speaker><content>Bleach and ammonia?</content></utterance>
+<utterance uid="26-4"><speaker>Stewart</speaker><content>Yeah.</content></utterance>
+<utterance uid="26-5"><speaker>House</speaker><content>You know how kids play toy soldiers in the bath? He likes to re-enact the battle of Ypres three times a week with real gas.</content></utterance>
+<utterance uid="26-6"><speaker>Kutner</speaker><content>Ammonia and bleach makes chlorine gas.</content></utterance>
+<utterance uid="26-7"><speaker>Foreman</speaker><content>Highly fat soluble. He lost weight after the stomach pain. Explains why his symptoms kept getting worse.</content></utterance>
+<utterance uid="26-8"><speaker>House</speaker><content>Put him on parenteral steroids and sodium bicarbonate.</content></utterance>
+<utterance uid="26-9"><speaker>Taub</speaker><content>Even if you're right, that external pacemaker's gonna fail eventually. And I don't have the skills to put in a permanent one.</content></utterance>
+<utterance uid="26-10"><speaker>House</speaker><content>Well, maybe the poison hasn’t completely shot his heart. And you won't have to feel guilty for the rest of your life.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>Chase</speaker><content>How am I gonna place the leads in the exact spot on the right ventricle without fluoroscopy? The force?</content></utterance>
+<utterance uid="27-2"><speaker>Cameron</speaker><content>Taub put in the temporary one.</content></utterance>
+<utterance uid="27-3"><speaker>Chase</speaker><content>You can do that playing pin the tail on the donkey. Permanent pacemakers need precision.</content></utterance>
+<utterance uid="27-4"><speaker>Cameron</speaker><content>So we can use the portable X-ray.</content></utterance>
+<utterance uid="27-5"><speaker>Chase</speaker><content>It's not real time.</content></utterance>
+<utterance uid="27-6"><speaker>Cameron</speaker><content>Sonogram.</content></utterance>
+<utterance uid="27-7"><speaker>Chase</speaker><content>And what happens when I put him into v-tach because the sonogram isn't precise enough?</content></utterance>
+<utterance uid="27-8"><speaker>Cameron</speaker><content>He's dying.</content></utterance>
+<utterance uid="27-9"><speaker>Chase</speaker><content>Exactly why I don’t want to be the one to kill him.</content></utterance>
+<utterance uid="27-10"><speaker>Cameron</speaker><content> Thanks.</content></utterance>
+<utterance uid="27-11"><speaker>Chase</speaker><content>You knew I'd have to say no. But you came anyway. You just wanted a reason to be angry at me. If there's something wrong between us, then —</content></utterance>
+<utterance uid="27-12"><speaker>Cameron</speaker><content>Forget it. </content></utterance>
+<utterance uid="27-13"><speaker>Chase</speaker><content>You know why we spend nights at my house?  Because when we spend them at yours… I could tell you didn't want me there.</content></utterance>
+<utterance uid="27-14"><speaker>Cameron</speaker><content>Why would I keep inviting you over if I didn’t want you there?</content></utterance>
+<utterance uid="27-15"><speaker>Chase</speaker><content>You always kicked me out every morning. You never offered me a drawer. You never cleared out your closet for me. I was just a visitor.</content></utterance>
+<utterance uid="27-16"><speaker>Cameron</speaker><content>How long have you felt like this?</content></utterance>
+<utterance uid="27-17"><speaker>Chase</speaker><content>From the start.</content></utterance>
+<utterance uid="27-18"><speaker>Chase</speaker><content>I know it's hard for you because you lost your husband, but.  I can't keep chasing you forever.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>Cameron</speaker><content> I just tried your house. Where are you?</content></utterance>
+<utterance uid="28-2"><speaker>House</speaker><content>Clubbing. Good or bad?</content></utterance>
+<utterance uid="28-3"><speaker>Cameron</speaker><content>Bad. Vitals are dropping. The abdominal pain keeps getting worse.</content></utterance>
+<utterance uid="28-4"><speaker>House</speaker><content>Means we were too late with the treatment. Tell the lawyer he’s off the clock. We're done.</content></utterance>
+<utterance uid="28-5"><speaker>Cameron</speaker><content>You're giving up?</content></utterance>
+<utterance uid="28-6"><speaker>House</speaker><content>Call Taub. Tell him to pick up some morphine.  There's no need for the patient to be in pain.</content></utterance>
+<utterance uid="28-7"><speaker>Cameron</speaker><content>He's on morphine.</content></utterance>
+<utterance uid="28-8"><speaker>House</speaker><content>No. He's on saline.</content></utterance>
+<utterance uid="28-9"><speaker>Cameron</speaker><content>I figured you put him on saline so I switched him back to morphine.</content></utterance>
+<utterance uid="28-10"><speaker>House</speaker><content>I love you. When you reach puberty, give me —  His abdominal pain. That was on morphine?</content></utterance>
+<utterance uid="28-11"><speaker>Cameron</speaker><content>Yes. Is there something that causes abdominal pain that doesn't respond to morphine?</content></utterance>
+<utterance uid="28-12"><speaker>House</speaker><content>I was right. He is being poisoned.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>House</speaker><content>What's this density on his hip?</content></utterance>
+<utterance uid="29-2"><speaker>Cameron</speaker><content> Just bone.</content></utterance>
+<utterance uid="29-3"><speaker>House</speaker><content>Think less boney.</content></utterance>
+<utterance uid="29-4"><speaker>Cameron</speaker><content>You think he's got lead poisoning?</content></utterance>
+<utterance uid="29-5"><speaker>House</speaker><content>Explains the constipation, the nerves, the seizures. Hold him down.</content></utterance>
+<utterance uid="29-6"><speaker>House</speaker><content> You're not gonna feel a thing… Except excruciating pain.</content></utterance>
+<utterance uid="29-7"><speaker>House</speaker><content>The mugger used hollow points. They exploded and left fragments. Your doctors missed a couple hiding behind your hipbone. It's no biggie. Except years later, they started to dissolve, and then, biggie, you started to dissolve.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>Cameron</speaker><content>I'll start him on chelation. The agoraphobia, could it —</content></utterance>
+<utterance uid="30-2"><speaker>House</speaker><content>No. Lead wouldn't have started to disintegrate till years after.</content></utterance>
+<utterance uid="30-3"><speaker>Cameron</speaker><content>But it could have exacerbated the fear.</content></utterance>
+<utterance uid="30-4"><speaker>Stewart</speaker><content>I don't need to change.</content></utterance>
+<utterance uid="30-5"><speaker>Cameron</speaker><content>I know you think that. But your life could be better. You — you — you’d have choices.</content></utterance>
+<utterance uid="30-6"><speaker>House</speaker><content>He's lying.</content></utterance>
+<utterance uid="30-7"><speaker>Cameron</speaker><content>About what?</content></utterance>
+<utterance uid="30-8"><speaker>House</speaker><content>About everything. About his life. He doesn't even think he's happy here. He's miserable.</content></utterance>
+<utterance uid="30-9"><speaker>Stewart</speaker><content>I've got everything I need.</content></utterance>
+<utterance uid="30-10"><speaker>House</speaker><content>Yeah? Well, then why did Taub find rose petals in your entry hallway? Struck me as a little weird. Thought it might be medically relevant. But it actually just told me that you were pathetic. The day you crashed in your entryway… Was your girlfriend’s birthday.  You weren't there for the mail. You were trying to go lay flowers on her grave. </content></utterance>
+<utterance uid="30-11"><speaker>House</speaker><content>Yeah, he's got PTSD. Yeah, he's agoraphobic. He's also a coward. You want to change your life, do something. Don't believe your own rationalizations. Don't lock yourself up and pretend you're happy.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>Cameron</speaker><content>Hi.</content></utterance>
+<utterance uid="31-2"><speaker>Chase</speaker><content>Hi.</content></utterance>
+<utterance uid="31-3"><speaker>Cameron</speaker><content>You were right. About my husband. It affected me. It still affects me.</content></utterance>
+<utterance uid="31-4"><speaker>Chase</speaker><content>If you're saying you'll never be able to —</content></utterance>
+<utterance uid="31-5"><speaker>Cameron</speaker><content>I cleaned out a drawer for you. Like a big one.</content></utterance>
+</scene>
+
+
+
+
+
+
+
+</script>

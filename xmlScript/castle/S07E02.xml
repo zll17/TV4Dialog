@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>COXSWAIN</speaker><content>Hold water. Hold water.</content></utterance>
+<utterance uid="1-2"><speaker>ROWER</speaker><content>What is that?</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>BROOKE</speaker><content>Gruesome murders, chills and thrills, it’s what author Richard Castle is known for. And he’s delivered yet again with two new books, Wild Storm and Raging Heat.  Thank you for joining us this morning.</content></utterance>
+<utterance uid="2-2"><speaker>CASTLE</speaker><content>My pleasure.</content></utterance>
+<utterance uid="2-3"><speaker>BROOKE</speaker><content>But perhaps the bigger mystery is the one that surrounds you. Your disappearance made national headlines.  Months later you were found in a dinghy at sea, yet you claim to have no memory of where you’d been or how you got there.</content></utterance>
+<utterance uid="2-4"><speaker>CASTLE</speaker><content>Yeah, I know it … uh … sounds crazy, even to me, and we’re still looking for answers.</content></utterance>
+<utterance uid="2-5"><speaker>BROOKE</speaker><content>Well your critics seem to have some. It’s no secret your last book, Wild Storm, slipped off the bestseller list. Isn’t the most logical explanation that this is all a publicity stunt? A way to make headlines to drum up book sales?</content></utterance>
+<utterance uid="2-6"><speaker>CASTLE</speaker><content>I assure you, Brooke, it was no publicity stunt. I would never do that to my family or my fiancée.</content></utterance>
+<utterance uid="2-7"><speaker>BROOKE</speaker><content>Speaking of you fiancée, you vanished just moments before your wedding. What do you say to fans who chalk your disappearance up to cold feet?</content></utterance>
+<utterance uid="2-8"><speaker>CASTLE</speaker><content>Well, I would say that they don’t know what they’re talking about.</content></utterance>
+<utterance uid="2-9"><speaker>BROOKE</speaker><content>So the wedding’s still on?</content></utterance>
+<utterance uid="2-10"><speaker>CASTLE</speaker><content>Well we’ve – been through a very tough experience. We’re still trying to make sense of everything. Actually, I – I just – I came here to talk about my books.</content></utterance>
+<utterance uid="2-11"><speaker>BROOKE</speaker><content>And if this were one of your books, Mr. Castle, wouldn’t you find the plot a little hard to swallow? I mean, amnesia? Really?</content></utterance>
+<utterance uid="2-12"><speaker>CASTLE</speaker><content>Well this isn’t a novel, Brooke. This actually happened. And no one wants the truth more than I do.  And I can prove it.  I’m offering a reward. Two hundred and fifty thousand dollars to anyone who can give me verifiable proof as to where I was and exactly what I was doing during the two months I was missing.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>KATE BECKETT</speaker><content>That wasn’t an interview. That was an ambush. And what were you thinking, offering a quarter million dollar reward?</content></utterance>
+<utterance uid="3-2"><speaker>CASTLE</speaker><content>Genius, right? I don’t know why I didn’t think of it sooner.</content></utterance>
+<utterance uid="3-3"><speaker>BECKETT</speaker><content>Well, maybe because you knew it was going to lure crackpots and opportunists. And instead of going after real leads we’re going to be chasing thousands of half-baked tipsters playing the Richard Castle lottery.</content></utterance>
+<utterance uid="3-4"><speaker>CASTLE</speaker><content>What real leads? So far we’ve had nothing but dead ends and I’m tired of not knowing. No, to find a needle in a haystack do we not first need a haystack?</content></utterance>
+<utterance uid="3-5"><speaker>BECKETT</speaker><content>Yeah, but not a haystack full of nutjobs.</content></utterance>
+<utterance uid="3-6"><speaker>CASTLE</speaker><content>You saw that interview. No one believes me. But somewhere out there someone knows where I was and what I was doing.</content></utterance>
+<utterance uid="3-7"><speaker>BECKETT</speaker><content>You ready for this?</content></utterance>
+<utterance uid="3-8"><speaker>CASTLE</speaker><content>A mystery I might be able to solve? It’ll be a relief.</content></utterance>
+<utterance uid="3-9"><speaker>KEVIN RYAN</speaker><content>Hey Castle. Welcome back.</content></utterance>
+<utterance uid="3-10"><speaker>CASTLE</speaker><content>Thank you. I hear the East River’s a little more polluted than usual today.</content></utterance>
+<utterance uid="3-11"><speaker>RYAN</speaker><content>Yeah. A crew team, they found the body in the river wrapped in plastic. Someone probably dumped it hoping to make it disappear.</content></utterance>
+<utterance uid="3-12"><speaker>BECKETT</speaker><content>They didn’t weigh it down enough. So, who’s the victim?</content></utterance>
+<utterance uid="3-13"><speaker>RYAN</speaker><content>Well, he didn’t have an ID on him but we matched it to a missing persons. Wallace Williger, 45. Owner and CEO of Williger Toys.</content></utterance>
+<utterance uid="3-14"><speaker>CASTLE</speaker><content>Makers of Sunshine Sara.</content></utterance>
+<utterance uid="3-15"><speaker>RYAN</speaker><content>Sunshine Sara?</content></utterance>
+<utterance uid="3-16"><speaker>CASTLE</speaker><content>She’s a spunky red-headed rag doll. Alexis’s favorite when she was growing up. Wouldn’t go anywhere without her.</content></utterance>
+<utterance uid="3-17"><speaker>BECKETT</speaker><content>When did he go missing?</content></utterance>
+<utterance uid="3-18"><speaker>RYAN</speaker><content>Last Friday, so four days ago. His wife, Samantha, said he went off to the movies and never came back.</content></utterance>
+<utterance uid="3-19"><speaker>CASTLE</speaker><content>Whoa.</content></utterance>
+<utterance uid="3-20"><speaker>CASTLE</speaker><content>Something I should know?</content></utterance>
+<utterance uid="3-21"><speaker>RYAN</speaker><content>Oh, Beckett didn’t tell you? Yeah, yeah. Your disappearance kind of drove them back together. Life being short and all that.</content></utterance>
+<utterance uid="3-22"><speaker>CASTLE</speaker><content>Hmm.  Disappear for two months.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>LANIE PARISH</speaker><content>So the prelim exam indicates his neck was broken.</content></utterance>
+<utterance uid="4-2"><speaker>JAVIER ESPOSITO</speaker><content>Probably after a struggle given his defensive wounds.</content></utterance>
+<utterance uid="4-3"><speaker>LANIE</speaker><content>Luckily his body was wrapped when it went into the water. I may still be able to pull the attacker’s DNA from under the victim’s nails.</content></utterance>
+<utterance uid="4-4"><speaker>BECKETT</speaker><content>Wait, how long has he been dead?</content></utterance>
+<utterance uid="4-5"><speaker>LANIE</speaker><content> At least a couple of days.</content></utterance>
+<utterance uid="4-6"><speaker>CASTLE</speaker><content>What happened to his face and hands? They look like they’ve been burned.</content></utterance>
+<utterance uid="4-7"><speaker>LANIE</speaker><content>Honestly, I don’t know. But the rest of the body wasn’t affected. I’ll know more when I get him back to the lab.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>SAMANTHA WILLIGER</speaker><content>I had that sick feeling when he didn’t come home. I – you hope.</content></utterance>
+<utterance uid="5-2"><speaker>BECKETT</speaker><content>Mrs. Williger, was there anyone that would have wanted to do your husband any harm?</content></utterance>
+<utterance uid="5-3"><speaker>SAMANTHA</speaker><content>No. He made toys for a living. He was a decent man.  But –</content></utterance>
+<utterance uid="5-4"><speaker>BECKETT</speaker><content>But what?</content></utterance>
+<utterance uid="5-5"><speaker>SAMANTHA</speaker><content>These last few weeks he had been having a hard time. Ever since Annie died.</content></utterance>
+<utterance uid="5-6"><speaker>CASTLE</speaker><content>I’m sorry. Um … who’s Annie?</content></utterance>
+<utterance uid="5-7"><speaker>SAMANTHA</speaker><content>Our Labrador retriever. After she died, Wally started working late, coming home after I was asleep, like he was avoiding me.</content></utterance>
+<utterance uid="5-8"><speaker>CASTLE</speaker><content>Did you talk to him about it?</content></utterance>
+<utterance uid="5-9"><speaker>SAMANTHA</speaker><content>I tried. He said everything was fine. He was just working on an important project.</content></utterance>
+<utterance uid="5-10"><speaker>BECKETT</speaker><content>And what about the day that he disappeared? Did he say anything that would indicate he was in trouble?</content></utterance>
+<utterance uid="5-11"><speaker>SAMANTHA</speaker><content>No. He was happy. He told me he loved me. Said things would be better soon.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>CASTLE</speaker><content>You know, seeing her? I can’t imagine what it was like for you, all those nights not knowing.</content></utterance>
+<utterance uid="6-2"><speaker>BECKETT</speaker><content>Well, I was lucky. You came back.</content></utterance>
+<utterance uid="6-3"><speaker>ESPOSITO</speaker><content>Hey, so we took a look at WILLIGER’s phone and financials. There’s no activity on the day he disappeared.</content></utterance>
+<utterance uid="6-4"><speaker>RYAN</speaker><content>If he was on his way to the movies either he didn’t make it there or he paid with cash.</content></utterance>
+<utterance uid="6-5"><speaker>BECKETT</speaker><content>Canvass local theaters, see if anyone saw him. And take a look at his records for the past couple of weeks. See if there’s anything out of the ordinary there. Castle and I are going to go to his office and check if there were any problems.</content></utterance>
+<utterance uid="6-6"><speaker>ESPOSITO</speaker><content>Right on.</content></utterance>
+<utterance uid="6-7"><speaker>CAPTAIN VICTORIA GATES</speaker><content>Mr. Castle!</content></utterance>
+<utterance uid="6-8"><speaker>GATES</speaker><content>Just what in the hell do you think you’re doing?</content></utterance>
+<utterance uid="6-9"><speaker>BECKETT</speaker><content>Did you give that TV station the precinct number?</content></utterance>
+<utterance uid="6-10"><speaker>CASTLE</speaker><content>Well I’m not going to give them my home phone. That’s private.</content></utterance>
+<utterance uid="6-11"><speaker>GATES</speaker><content>The NYPD is not your personal secretary. Do you know how many man hours this little stunt of yours is costing us? The phones have been ringing off the hook!</content></utterance>
+<utterance uid="6-12"><speaker>CASTLE</speaker><content> Did you hear that? Ringing off the hook?</content></utterance>
+<utterance uid="6-13"><speaker>CASTLE</speaker><content>We have leads.</content></utterance>
+<utterance uid="6-14"><speaker>GATES</speaker><content>What just happened?</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>BECKETT</speaker><content>Castle, what were you thinking?</content></utterance>
+<utterance uid="7-2"><speaker>CASTLE</speaker><content>“The supreme art of war is to subdue the enemy without fighting.” Sun-Su. The tactical smooch is just one weapon in my vast arsenal.</content></utterance>
+<utterance uid="7-3"><speaker>BECKETT</speaker><content>Well employ it again and the enemy might go nuclear.</content></utterance>
+<utterance uid="7-4"><speaker>CASTLE</speaker><content>Okay. But somewhere in this pile is the answer to where I was. I can feel it.</content></utterance>
+<utterance uid="7-5"><speaker>BECKETT</speaker><content>Look, Castle, I know how important this is to us. But you have to realize this is a longshot. And I don’t want you to be disappointed if it doesn’t pan out.</content></utterance>
+<utterance uid="7-6"><speaker>CASTLE</speaker><content>Toys!</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>MARSHA STOLLER</speaker><content>Wally built this place from the ground up. Seems impossible that he’s gone.</content></utterance>
+<utterance uid="8-2"><speaker>BECKETT</speaker><content>Ms. Stoller, was everything okay at work? Did he have any conflicts with colleagues or business rivals?</content></utterance>
+<utterance uid="8-3"><speaker>MARSHA</speaker><content>Not that I’m aware of, and as VP of the company I’m sure I’d know.</content></utterance>
+<utterance uid="8-4"><speaker>BECKETT</speaker><content>I understand he was under pressure the past couple of weeks. That he was coming home late.</content></utterance>
+<utterance uid="8-5"><speaker>MARSHA</speaker><content>Who told you that?</content></utterance>
+<utterance uid="8-6"><speaker>BECKETT</speaker><content>His wife.</content></utterance>
+<utterance uid="8-7"><speaker>MARSHA</speaker><content>I’m sorry, but that’s not true. I mean, he may have been under pressure, but it certainly wasn’t here at work.</content></utterance>
+<utterance uid="8-8"><speaker>BECKETT</speaker><content>So he wasn’t staying late?</content></utterance>
+<utterance uid="8-9"><speaker>MARSHA</speaker><content>No, just the opposite. He was leaving early several days a week.</content></utterance>
+<utterance uid="8-10"><speaker>CASTLE</speaker><content>I did not realize this would be on.  Sorry.</content></utterance>
+<utterance uid="8-11"><speaker>BECKETT</speaker><content>Do you know why he was leaving early?</content></utterance>
+<utterance uid="8-12"><speaker>MARSHA</speaker><content>No. He said he was taking care of some personal things. It sounded private so I didn’t ask. But maybe he told his assistant.  Matt?</content></utterance>
+<utterance uid="8-13"><speaker>MARSHA</speaker><content>Did Mr. Williger ever mention to you why he was leaving early?</content></utterance>
+<utterance uid="8-14"><speaker>MATT MONROE</speaker><content>No. He was actually pretty secretive about the whole thing.</content></utterance>
+<utterance uid="8-15"><speaker>CASTLE</speaker><content>You leave these loaded?</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>ESPOSITO</speaker><content>So I checked with the vic’s wife. The days Mr. Williger claimed he was working late are the exact same days he was leaving work early.</content></utterance>
+<utterance uid="9-2"><speaker>BECKETT</speaker><content>That leaves about ten to twelve hours over at least a dozen days that he’s unaccounted for. What was he doing?</content></utterance>
+<utterance uid="9-3"><speaker>RYAN</speaker><content>I just went back through his phones and financials and they are clean. In fact, they are too clean. From the time he left work on those days to the time he got home there’s no activity at all. No calls or purchases of any kind. Not even subway or cab charges.</content></utterance>
+<utterance uid="9-4"><speaker>BECKETT</speaker><content>So whatever he was doing he wanted to keep it a secret from everyone. Why?</content></utterance>
+<utterance uid="9-5"><speaker>RYAN</speaker><content>What we could use right now is a crazy Castle theory.</content></utterance>
+<utterance uid="9-6"><speaker>ESPOSITO</speaker><content> Where is Castle anyway?</content></utterance>
+<utterance uid="9-7"><speaker>BECKETT</speaker><content>He needed a time out so I sent him home to check his leads.</content></utterance>
+<utterance uid="9-8"><speaker>ESPOSITO</speaker><content>Lanie … must have … changed my ringtone.  Hola paisosa, what’s up?</content></utterance>
+<utterance uid="9-9"><speaker>LANIE</speaker><content>Something weird. You know that discoloration on the victims hands and face? It was caused by an industrial cleaner. It looks like someone scrubbed his skin with it, but after he was already dead.</content></utterance>
+<utterance uid="9-10"><speaker>BECKETT</speaker><content>Wait, Lanie, if the killer was trying to get rid of evidence why would he only scrub the hands and face.</content></utterance>
+<utterance uid="9-11"><speaker>LANIE</speaker><content>Don’t know, but the cleaner wasn’t bleached based so I still may be able to pull DNA from under the fingernails. I also found a receipt in the victim’s pocket. It’s from a coffee shop in Brooklyn dated the day he disappeared.</content></utterance>
+<utterance uid="9-12"><speaker>RYAN</speaker><content>Williger lived in Manhattan and his office was in Midtown. What was he doing out in Brooklyn?</content></utterance>
+<utterance uid="9-13"><speaker>BECKETT</speaker><content> Why don’t you guys canvass the coffee shop for anyone that say Williger. I’ll get a search warrant for his office and house first thing in the morning.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>LANIE</speaker><content>Come on, Kate. It’s his first case back after two months. You didn’t expect everything to be back to normal right away?</content></utterance>
+<utterance uid="10-2"><speaker>BECKETT</speaker><content>No, Lane. It’s just – it’s just, I want it to be us again. And it’s like there’s this shadow between us. Look, I am – I am choosing to trust him, in spite of all of the evidence. I just … I want to believe that he –</content></utterance>
+<utterance uid="10-3"><speaker>LANIE</speaker><content>But you don’t know if you can.</content></utterance>
+<utterance uid="10-4"><speaker>BECKETT</speaker><content>Yeah.  And he’s – he’s acting like everything is fine. We both are. But it’s not.</content></utterance>
+<utterance uid="10-5"><speaker>LANIE</speaker><content>Maybe this reward he’s offering is a good thing. Maybe it’ll lead to the truth.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>ALEXIS CASTLE</speaker><content>No, I don’t want to know what you’re wearing. Now, do you have any information about Richard Castle or not?  Thanks.</content></utterance>
+<utterance uid="11-2"><speaker>BECKETT</speaker><content>So how goes the haystack?</content></utterance>
+<utterance uid="11-3"><speaker>CASTLE</speaker><content>Uh … apparently you were right.</content></utterance>
+<utterance uid="11-4"><speaker>BECKETT</speaker><content>Nutjobs?</content></utterance>
+<utterance uid="11-5"><speaker>ALEXIS</speaker><content>No, not all of them. Some are lonely women hoping for a call from the famous Richard Castle.</content></utterance>
+<utterance uid="11-6"><speaker>MARTHA RODGERS</speaker><content>Ah ha! That will be my date.</content></utterance>
+<utterance uid="11-7"><speaker>CASTLE</speaker><content>Ooh, you have a date?</content></utterance>
+<utterance uid="11-8"><speaker>MARTHA</speaker><content>Uh huh. Robert. We met at the grief counseling group when you were presumed … </content></utterance>
+<utterance uid="11-9"><speaker>CASTLE</speaker><content>You – you picked up a man at grief counseling?</content></utterance>
+<utterance uid="11-10"><speaker>MARTHA</speaker><content>Yes. Now I will thank you to go into the other room.</content></utterance>
+<utterance uid="11-11"><speaker>CASTLE</speaker><content>Why?</content></utterance>
+<utterance uid="11-12"><speaker>MARTHA</speaker><content>Because at the moment, our relationship is based on mutual loss and if he finds out that you have returned and are alive it would just – it will ruin everything.</content></utterance>
+<utterance uid="11-13"><speaker>CASTLE</speaker><content>Mother, you realize I was on television this morning.</content></utterance>
+<utterance uid="11-14"><speaker>MARTHA</speaker><content>Luckily Robert is a cultured man, he does not watch television. They only newspaper he reads is The Wall Street Journal, which thankfully, did not carry news of your return. So, go. Go. Go, go.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>BECKETT</speaker><content>Castle, I’m sure she means well.</content></utterance>
+<utterance uid="12-2"><speaker>CASTLE</speaker><content>No, it’s not that. It’s just – uh – I really thought someone out there could help.</content></utterance>
+<utterance uid="12-3"><speaker>BECKETT</speaker><content>We’ll figure this out, Castle. Together.</content></utterance>
+<utterance uid="12-4"><speaker>CASTLE</speaker><content>Excuse me.  Hello?</content></utterance>
+<utterance uid="12-5"><speaker>MAN</speaker><content>Mr. Castle. I understand you’re looking for answers.</content></utterance>
+<utterance uid="12-6"><speaker>CASTLE</speaker><content> Who is this? How did you get this number?</content></utterance>
+<utterance uid="12-7"><speaker>MAN</speaker><content>Because I know things. Including what happened to you. Are you ready to head the truth?</content></utterance>
+</scene>
+
+<scene id="13"><utterance uid="13-1"><speaker>BECKETT</speaker><content>I don’t like this. I should go with you.</content></utterance>
+<utterance uid="13-2"><speaker>CASTLE</speaker><content>He said I had to come alone.</content></utterance>
+<utterance uid="13-3"><speaker>BECKETT</speaker><content>Yeah, but you don’t even know who he is.</content></utterance>
+<utterance uid="13-4"><speaker>CASTLE</speaker><content>He sounded like a spy.</content></utterance>
+<utterance uid="13-5"><speaker>BECKETT</speaker><content>Do you think this has something to do about your father?</content></utterance>
+<utterance uid="13-6"><speaker>CASTLE</speaker><content>It doesn’t seem like his style. It’s time.</content></utterance>
+<utterance uid="13-7"><speaker>MAN</speaker><content>Walk with me.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>CASTLE</speaker><content>Who are you?</content></utterance>
+<utterance uid="14-2"><speaker>MAN</speaker><content>The less you know the better.</content></utterance>
+<utterance uid="14-3"><speaker>CASTLE</speaker><content>But you know what happened to me. How?</content></utterance>
+<utterance uid="14-4"><speaker>MAN</speaker><content>Because I was with you. I don’t expect you to remember. Not after what they did. I was lucky I escaped.</content></utterance>
+<utterance uid="14-5"><speaker>CASTLE</speaker><content>Escaped from where?</content></utterance>
+<utterance uid="14-6"><speaker>MAN</speaker><content>The ship.</content></utterance>
+<utterance uid="14-7"><speaker>CASTLE</speaker><content>I was on a ship.  Which is why I was found at sea. Who’s ship?</content></utterance>
+<utterance uid="14-8"><speaker>MAN</speaker><content>It was a survey vessel, at least that was what they claimed. But I saw weapons on board. I’m pretty sure it was an attack ship.</content></utterance>
+<utterance uid="14-9"><speaker>CASTLE</speaker><content>So it was military.</content></utterance>
+<utterance uid="14-10"><speaker>MAN</speaker><content>It must have been. I mean, why else would they keep it on the dark side of the moon? Where our scientists can’t see it?</content></utterance>
+<utterance uid="14-11"><speaker>CASTLE</speaker><content>Excuse me?</content></utterance>
+<utterance uid="14-12"><speaker>MAN</speaker><content>You know they look like us now? That’s why they took you. To copy your skin.</content></utterance>
+<utterance uid="14-13"><speaker>CASTLE</speaker><content>So when you say ship, you mean … spaceship?</content></utterance>
+<utterance uid="14-14"><speaker>MAN</speaker><content>We’ll be defenseless when the invasion comes. We have to find a way to warn people. You can tell people. You were on TV.</content></utterance>
+<utterance uid="14-15"><speaker>CASTLE</speaker><content>No, I’ll – I’ll warn them. I’ll … tell me again, how did you get my phone number?</content></utterance>
+<utterance uid="14-16"><speaker>MAN</speaker><content>I work for the phone company.</content></utterance>
+<utterance uid="14-17"><speaker>CASTLE</speaker><content>Of course you do.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>BECKETT</speaker><content>So? What happened?</content></utterance>
+<utterance uid="15-2"><speaker>CASTLE</speaker><content>I really don’t want to talk about it.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>ESPOSITO</speaker><content>Would you … !  … knock it off? Come help me search?</content></utterance>
+<utterance uid="16-2"><speaker>RYAN</speaker><content>Sorry. I don’t know how my parents did it.</content></utterance>
+<utterance uid="16-3"><speaker>ESPOSITO</speaker><content>Did what?</content></utterance>
+<utterance uid="16-4"><speaker>RYAN</speaker><content>Raised me, raised all my sisters, put food on the table, and still managed to give me piano lessons. With Jenny not working and all the baby expenses I’m barely making ends meet. I’m probably going to have to get a second job.</content></utterance>
+<utterance uid="16-5"><speaker>ESPOSITO</speaker><content>Looks like they’re hiring security guards down at their warehouse. A rented cop uniform would look good on you.</content></utterance>
+<utterance uid="16-6"><speaker>RYAN</speaker><content>Find any dark secrets in our victim’s desk?</content></utterance>
+<utterance uid="16-7"><speaker>ESPOSITO</speaker><content>No, this guy’s a saint.  Gives to charity, employees love him. As far as I can tell, there’s no indication of any dirty little secrets –  There’s something in this drawer.</content></utterance>
+<utterance uid="16-8"><speaker>RYAN</speaker><content>What?</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>ESPOSITO</speaker><content>Keys. Brand new. And they’re not to his work or house.  A phone, pay as you go. Purchased a month ago using cash.</content></utterance>
+<utterance uid="17-2"><speaker>BECKETT</speaker><content>Any calls on it?</content></utterance>
+<utterance uid="17-3"><speaker>ESPOSITO</speaker><content>A bunch. All made during that unaccounted time and all made to the same time. A Natalie Mendoza, 28.</content></utterance>
+<utterance uid="17-4"><speaker>CASTLE</speaker><content>What’s her relation to Williger?</content></utterance>
+<utterance uid="17-5"><speaker>ESPOSITO</speaker><content>We’re still running background.</content></utterance>
+<utterance uid="17-6"><speaker>RYAN</speaker><content>I may have a guess. Wally’s wife said that his behavior changed after their dog died. I checked with the vet, turns out there’s a whole lot more to that story. Now, Wally asked the vet to keep it out of the report so as not to upset his wife, but the dog didn’t just die. She was poisoned.</content></utterance>
+<utterance uid="17-7"><speaker>CASTLE</speaker><content>Poisoned?</content></utterance>
+<utterance uid="17-8"><speaker>RYAN</speaker><content>Yes. The vet wanted to run a test to find out what the toxin was but for some reason Wally adamantly refused. The vet said he seemed pretty shaken up about it.</content></utterance>
+<utterance uid="17-9"><speaker>CASTLE</speaker><content>Well now it makes perfect sense. A secret phone, keys to his secret love nest, lying to his wife? This is Fatal Attraction. Wally was having an affair and when he when he tried to end it Natalie went all Glenn Close on him, poisoning his dog to send a message.</content></utterance>
+<utterance uid="17-10"><speaker>RYAN</speaker><content>It would explain why Wally started missing work: to spend time with his mistress.</content></utterance>
+<utterance uid="17-11"><speaker>CASTLE</speaker><content>But in the end it wasn’t enough.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>BECKETT</speaker><content>Ms. Mendoza? NYPD.  Ms. Mendoza?</content></utterance>
+<utterance uid="18-2"><speaker>CASTLE</speaker><content>It’s unlocked.  Hello? Ms. Mendoza?</content></utterance>
+<utterance uid="18-3"><speaker>BECKETT</speaker><content>Hello?</content></utterance>
+<utterance uid="18-4"><speaker>BECKETT</speaker><content>Blood?</content></utterance>
+<utterance uid="18-5"><speaker>BECKETT</speaker><content>It looks like her throat’s been slit.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>BECKETT</speaker><content>You’re a makeup artist?</content></utterance>
+<utterance uid="19-2"><speaker>NATALIE MENDOZA</speaker><content>Mostly for low budget horror. I spent all morning testing out this new look and they went to take a nap.</content></utterance>
+<utterance uid="19-3"><speaker>CASTLE</speaker><content>Can I just say, the new look? Very effective.</content></utterance>
+<utterance uid="19-4"><speaker>BECKETT</speaker><content>Ms. Mendoza, what was your relationship with Wally Williger?</content></utterance>
+<utterance uid="19-5"><speaker>NATALIE</speaker><content>Who?</content></utterance>
+<utterance uid="19-6"><speaker>CASTLE</speaker><content>Wally Williger. He’s the CEO of Williger toys.</content></utterance>
+<utterance uid="19-7"><speaker>NATALIE</speaker><content>I’m sorry, I don’t know who that it.</content></utterance>
+<utterance uid="19-8"><speaker>BECKETT</speaker><content>Natalie, please don’t lie to us. We’ve got evidence of several dozens of phone calls between the two of you over the past month.</content></utterance>
+<utterance uid="19-9"><speaker>NATALIE</speaker><content>I’m not lying.</content></utterance>
+<utterance uid="19-10"><speaker>CASTLE</speaker><content>The more you deny it the guiltier you look.</content></utterance>
+<utterance uid="19-11"><speaker>NATALIE</speaker><content>The guiltier I look for what? Look, I told you, I don’t know him.</content></utterance>
+<utterance uid="19-12"><speaker>BECKETT</speaker><content>Then why was he calling you?</content></utterance>
+<utterance uid="19-13"><speaker>NATALIE</speaker><content>Wait, that’s Wally?</content></utterance>
+<utterance uid="19-14"><speaker>BECKETT</speaker><content>So you do know him?</content></utterance>
+<utterance uid="19-15"><speaker>NATALIE</speaker><content>Yeah. But he told me his name was Joe. Joe Meyers.</content></utterance>
+<utterance uid="19-16"><speaker>CASTLE</speaker><content>And what exactly was your relationship with Joe?</content></utterance>
+<utterance uid="19-17"><speaker>NATALIE</speaker><content>He hired me. To teach him to do theatrical makeup.</content></utterance>
+<utterance uid="19-18"><speaker>BECKETT</speaker><content>Why would he need to use theatrical makeup?</content></utterance>
+<utterance uid="19-19"><speaker>NATALIE</speaker><content>Uh, for a research project he was doing? He wanted me to teach him how to completely change his appearance.</content></utterance>
+<utterance uid="19-20"><speaker>CASTLE</speaker><content>To what?</content></utterance>
+<utterance uid="19-21"><speaker>NATALIE</speaker><content>Um …  … he said he was studying society’s reactions to aging and wanted my help to transform him into a 70 year old man.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>ESPOSITO</speaker><content>Missing time? Makeup? None of this makes any sense. What’s the CEO of a toy company doing secretly dressing up as an old man?</content></utterance>
+<utterance uid="20-2"><speaker>CASTLE</speaker><content>I don’t know, but Natalie said she only taught Wally how to apply the makeup to his hands and face.</content></utterance>
+<utterance uid="20-3"><speaker>RYAN</speaker><content>The same parts of the body the killer scrubbed. He was trying to remove the makeup.</content></utterance>
+<utterance uid="20-4"><speaker>CASTLE</speaker><content>Right. So Wally’s murder is connected to his secret identity somehow.</content></utterance>
+<utterance uid="20-5"><speaker>BECKETT</speaker><content>You know that receipt that was in Wally’s pocket, the one from the Brooklyn coffee house? Did teams canvasss it?</content></utterance>
+<utterance uid="20-6"><speaker>ESPOSITO</speaker><content> This morning. But they got no hits.</content></utterance>
+<utterance uid="20-7"><speaker>BECKETT</speaker><content>You know what? Have them canvasss it again. We might have been looking for the wrong man.</content></utterance>
+<utterance uid="20-8"><speaker>CASTLE</speaker><content>Alexis. What are you doing here?</content></utterance>
+<utterance uid="20-9"><speaker>ALEXIS</speaker><content>Dad, this is Mike and Lauren Adams. They have something you need to see.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>MIKE ADAMS</speaker><content>About six weeks ago we were on our honeymoon. We just started going through the photos the last couple of days.</content></utterance>
+<utterance uid="21-2"><speaker>LAURA ADAMS</speaker><content>Mike took pictures of me everywhere we went. Last night we noticed this.</content></utterance>
+<utterance uid="21-3"><speaker>MIKE</speaker><content>Here. In the background.</content></utterance>
+<utterance uid="21-4"><speaker>MIKE</speaker><content>Mr. Castle, I think that’s you.</content></utterance>
+<utterance uid="21-5"><speaker>CASTLE</speaker><content>That is me.  Who am I talking to?</content></utterance>
+<utterance uid="21-6"><speaker>BECKETT</speaker><content>Castle, that’s the guy from the trailer on the Massachusetts coast. The one that lied about you and then disappeared.</content></utterance>
+<utterance uid="21-7"><speaker>CASTLE</speaker><content>Where was this photo taken?</content></utterance>
+<utterance uid="21-8"><speaker>MIKE</speaker><content>Montreal.</content></utterance>
+<utterance uid="21-9"><speaker>CASTLE</speaker><content> Montreal.  What the hell was I doing in Montreal?</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>ALEXIS</speaker><content>So according to the jpeg’s geotag, the photo was taken here –  – and here is the building you were coming out of.</content></utterance>
+<utterance uid="22-2"><speaker>BECKETT</speaker><content>Montreal Global Bank.</content></utterance>
+<utterance uid="22-3"><speaker>CASTLE</speaker><content>What was I doing at a bank?</content></utterance>
+<utterance uid="22-4"><speaker>ALEXIS</speaker><content>Dad, the key!  The one sewn into your pants when they found you. What if the bank is where it came from?</content></utterance>
+<utterance uid="22-5"><speaker>CASTLE</speaker><content>A safe deposit box.</content></utterance>
+<utterance uid="22-6"><speaker>ALEXIS</speaker><content>It’s the right size.</content></utterance>
+<utterance uid="22-7"><speaker>CASTLE</speaker><content>We need to get up there. This is the break we’ve been waiting for.</content></utterance>
+<utterance uid="22-8"><speaker>BECKETT</speaker><content>Okay, fine. We’ll go this weekend.</content></utterance>
+<utterance uid="22-9"><speaker>CASTLE</speaker><content>We can’t wait for the weekend. We’ve gotta go now.</content></utterance>
+<utterance uid="22-10"><speaker>BECKETT</speaker><content>I’m in the middle of a case.</content></utterance>
+<utterance uid="22-11"><speaker>CASTLE</speaker><content>Fine, I’ll go! Montreal is a short flight. I’ll be there and back in a couple of hours.</content></utterance>
+<utterance uid="22-12"><speaker>BECKETT</speaker><content>No, not after everything we’ve been through. You’re not going alone.</content></utterance>
+<utterance uid="22-13"><speaker>ALEXIS</speaker><content>She’s right, Dad. You can’t go by yourself.  I’ll go with you!</content></utterance>
+<utterance uid="22-14"><speaker>CASTLE</speaker><content>Yes. Yes!  She’ll go with me.</content></utterance>
+<utterance uid="22-15"><speaker>BECKETT</speaker><content>We have no idea what’s out there. No idea who’s out there. That’s too risky.</content></utterance>
+<utterance uid="22-16"><speaker>CASTLE</speaker><content>It’s Canada. How risky could it be? And need I remind you, I’m a grown man. I don’t need to ask your permission. That being said, please, please, please can I go?</content></utterance>
+<utterance uid="22-17"><speaker>BECKETT</speaker><content>Okay, fine. But only because I know you’re not going to do anything stupid if she’s with you.  Don’t let him do anything stupid.</content></utterance>
+<utterance uid="22-18"><speaker>ALEXIS</speaker><content> Promise.</content></utterance>
+<utterance uid="22-19"><speaker>CASTLE</speaker><content> Grab your passport. I’ll get the tickets.</content></utterance>
+<utterance uid="22-20"><speaker>BECKETT</speaker><content>Beckett.</content></utterance>
+<utterance uid="22-21"><speaker>ESPOSITO</speaker><content>Hey. So uniforms recanvasssed at that coffee shop using that geezer photo. They got a hit. A patron identified old man Wally as a tenant at a nearby building.</content></utterance>
+<utterance uid="22-22"><speaker>BECKETT</speaker><content>Okay. I’ll be right there.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>ESPOSITO</speaker><content>Now we know what Wally’s keys were to.</content></utterance>
+<utterance uid="23-2"><speaker>BECKETT</speaker><content>How long has he had this place?</content></utterance>
+<utterance uid="23-3"><speaker>ESPOSITO</speaker><content>Super said he rented it three weeks ago. Paid cash. At least the old man version of him did.</content></utterance>
+<utterance uid="23-4"><speaker>BECKETT</speaker><content>Yeah, this is obviously where he came to change.</content></utterance>
+<utterance uid="23-5"><speaker>RYAN</speaker><content>Yeah, but to do what?</content></utterance>
+<utterance uid="23-6"><speaker>BECKETT</speaker><content>Have CSU sweep the room. Let’s talk to neighbors, see if they saw anything.</content></utterance>
+</scene>
+
+<scene id="24"><utterance uid="24-1"><speaker>ALEXIS</speaker><content>That’s it, the building in the photo. Any of it look familiar?</content></utterance>
+<utterance uid="24-2"><speaker>CASTLE</speaker><content>No.</content></utterance>
+<utterance uid="24-3"><speaker>ALEXIS</speaker><content>You really think the answer’s inside?</content></utterance>
+<utterance uid="24-4"><speaker>CASTLE</speaker><content>Only one way to find out.</content></utterance>
+<utterance uid="24-5"><speaker>ALEXIS</speaker><content>Dad, where are you going?</content></utterance>
+<utterance uid="24-6"><speaker>CASTLE</speaker><content>To open box number 38.</content></utterance>
+<utterance uid="24-7"><speaker>ALEXIS</speaker><content>You can’t just walk into a safe deposit room. You need account info, signature cards. We don’t’ even know if that key came from here.</content></utterance>
+<utterance uid="24-8"><speaker>CASTLE</speaker><content>I have a plan.</content></utterance>
+<utterance uid="24-9"><speaker>ALEXIS</speaker><content>Dad –</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>CASTLE</speaker><content>Hi there. I’m wondering if you can help me. I’d like to rent a safe deposit box.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>BECKETT</speaker><content>So the neighbor doesn’t remember any visitors and she never saw young Wally, but old Wally was paying her to walk and feed the dog.</content></utterance>
+<utterance uid="26-2"><speaker>ESPOSITO</speaker><content>Another apartment, another dog, dressing up like this. What was this guy doing?</content></utterance>
+<utterance uid="26-3"><speaker>BECKETT</speaker><content>I don’t know, but whatever it was it got him killed.  Why don’t you take him to the vet. Maybe he’s got a microchip that’ll tell us where he came from.</content></utterance>
+<utterance uid="26-4"><speaker>ESPOSITO</speaker><content>Right on.</content></utterance>
+<utterance uid="26-5"><speaker>RYAN</speaker><content>Hey Beckett? Looks like our old man was fond of Chinese food.  This is from a restaurant half a dozen subway stops away.</content></utterance>
+<utterance uid="26-6"><speaker>BECKETT</speaker><content>That’s a long way to go for takeout.</content></utterance>
+<utterance uid="26-7"><speaker>RYAN</speaker><content>Yeah. So I called over there. Turns out old man Wally was a regular there over the last several weeks, stopping by late every other night, always paying cash.</content></utterance>
+<utterance uid="26-8"><speaker>BECKETT</speaker><content>Wherever he was going it was near that restaurant.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>BANK MANAGER</speaker><content>There you go, Mr. Castle. Box 115.</content></utterance>
+<utterance uid="27-2"><speaker>CASTLE</speaker><content>Thank you. And, may I ask you something? Do I look familiar to you?</content></utterance>
+<utterance uid="27-3"><speaker>BANK MANAGER</speaker><content>Uh, no. I don’t believe so. Have we met?</content></utterance>
+<utterance uid="27-4"><speaker>CASTLE</speaker><content>I guess not. My mistake.  Is it possible to access this box today?</content></utterance>
+<utterance uid="27-5"><speaker>BANK MANAGER</speaker><content>Of course.  Would you please take Mr. Castle back to the safe deposit box?</content></utterance>
+<utterance uid="27-6"><speaker>GUARD</speaker><content>Follow me, sir.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>GUARD</speaker><content>Which box, sir?</content></utterance>
+<utterance uid="28-2"><speaker>CASTLE</speaker><content>38.</content></utterance>
+<utterance uid="28-3"><speaker>ALEXIS</speaker><content> If it’s not the right key we’ll get caught.</content></utterance>
+<utterance uid="28-4"><speaker>GUARD</speaker><content>Sir?</content></utterance>
+<utterance uid="28-5"><speaker>CASTLE</speaker><content>Ah. There we are.</content></utterance>
+<utterance uid="28-6"><speaker>CASTLE</speaker><content>Ooh.</content></utterance>
+<utterance uid="28-7"><speaker>GUARD</speaker><content>Is there a problem?</content></utterance>
+<utterance uid="28-8"><speaker>CASTLE</speaker><content>No. No problem. Just –  - a little sticky.</content></utterance>
+<utterance uid="28-9"><speaker>GUARD</speaker><content>Are you sure you have the right box?</content></utterance>
+<utterance uid="28-10"><speaker>CASTLE</speaker><content>Positive.</content></utterance>
+<utterance uid="28-11"><speaker>GUARD</speaker><content>I’ll just check with the manager.</content></utterance>
+<utterance uid="28-12"><speaker>CASTLE</speaker><content>Whoa, whoa, whoa. Let’s try one more time.</content></utterance>
+<utterance uid="28-13"><speaker>CASTLE</speaker><content> There we go. It was just a little sticky.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>ALEXIS</speaker><content>What do you think’s inside?</content></utterance>
+<utterance uid="29-2"><speaker>CASTLE</speaker><content>I don’t know. Someone went to a lot of trouble to make sure I had a key.</content></utterance>
+<utterance uid="29-3"><speaker>CASTLE</speaker><content>You ready?</content></utterance>
+<utterance uid="29-4"><speaker>ALEXIS</speaker><content>Dad, that’s your handwriting.</content></utterance>
+<utterance uid="29-5"><speaker>CASTLE</speaker><content>I don’t remember writing those.</content></utterance>
+<utterance uid="29-6"><speaker>ALEXIS</speaker><content>They’re letters addressed to Beckett, Gram, and … me.</content></utterance>
+<utterance uid="29-7"><speaker>ALEXIS</speaker><content>A memory card?</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>RYAN</speaker><content>All right, here’s the restaurant. I’ll start a canvasss. See if anyone else around here knows what the hell our victim was doing in the area.</content></utterance>
+<utterance uid="30-2"><speaker>BECKETT</speaker><content>Don’t bother.  I think I know where he was coming from.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>MAC</speaker><content>Excuse me, can I help you?</content></utterance>
+<utterance uid="31-2"><speaker>BECKETT</speaker><content>Yes.  I’m Detective Beckett, this is Detective Ryan. Do you recognize this man?</content></utterance>
+<utterance uid="31-3"><speaker>MAC</speaker><content>Yeah. That’s Joe.</content></utterance>
+<utterance uid="31-4"><speaker>RYAN</speaker><content>Exactly how do you know him?</content></utterance>
+<utterance uid="31-5"><speaker>MAC</speaker><content>He’s a janitor here. I hired him part time two weeks ago.</content></utterance>
+<utterance uid="31-6"><speaker>WORKER</speaker><content>Hey Mac?</content></utterance>
+<utterance uid="31-7"><speaker>MAC</speaker><content>Yeah?  Excuse me one second.</content></utterance>
+<utterance uid="31-8"><speaker>BECKETT</speaker><content> Ryan, that’s why he made himself up. He didn’t want his employees to recognize him.</content></utterance>
+<utterance uid="31-9"><speaker>RYAN</speaker><content>What’s the CEO of a company doing working as a janitor in his own warehouse?</content></utterance>
+<utterance uid="31-10"><speaker>BECKETT</speaker><content>It’s Undercover Boss. But what was he going undercover for?</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>MAC</speaker><content>He was a quiet guy. He kept to himself mostly. I never would have guessed he was the CEO.</content></utterance>
+<utterance uid="32-2"><speaker>BECKETT</speaker><content>Was he working here last Friday?</content></utterance>
+<utterance uid="32-3"><speaker>MAC</speaker><content>Yeah. In fact, he came in for his shift at 4, he left at 11, and then on Monday he didn’t show.</content></utterance>
+<utterance uid="32-4"><speaker>RYAN</speaker><content>Did anything unusual happen that day?</content></utterance>
+<utterance uid="32-5"><speaker>MAC</speaker><content>I don’t think so.</content></utterance>
+<utterance uid="32-6"><speaker>BECKETT</speaker><content>Well, were they any problems here? Any reason that Mr. Williger would want to go undercover?</content></utterance>
+<utterance uid="32-7"><speaker>MAC</speaker><content>No. He and his team came in last month for their quarterly inspection and we got a glowing report.</content></utterance>
+<utterance uid="32-8"><speaker>RYAN</speaker><content>Well how about when he was here as a janitor. Did he do or say anything out of the ordinary?</content></utterance>
+<utterance uid="32-9"><speaker>WORKER</speaker><content>There was that thing, last week.</content></utterance>
+<utterance uid="32-10"><speaker>RYAN</speaker><content>Uh … what thing?</content></utterance>
+<utterance uid="32-11"><speaker>MAC</speaker><content>One of the guards caught him in the back office after hours rifling through some paperwork.</content></utterance>
+<utterance uid="32-12"><speaker>BECKETT</speaker><content>What kind of paperwork?</content></utterance>
+<utterance uid="32-13"><speaker>MAC</speaker><content>Manifests, mostly. Tracking shipments from our factory. The guard admonished him, he apologized, everybody moved on.</content></utterance>
+<utterance uid="32-14"><speaker>BECKETT</speaker><content>Well, we need to see those manifests.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>BECKETT</speaker><content>I talked to his wife, his colleagues. If any of them know what Wally was doing around his warehouse they’re not admitting to it. How about you? What did you find?</content></utterance>
+<utterance uid="33-2"><speaker>RYAN</speaker><content>Aside from our country outsourcing all its manufacturing needs to Asia, everything seems to be in order.</content></utterance>
+<utterance uid="33-3"><speaker>ESPOSITO</speaker><content>Whoa, whoa, whoa. Slow down, slow down!</content></utterance>
+<utterance uid="33-4"><speaker>BECKETT</speaker><content>How’d it go?</content></utterance>
+<utterance uid="33-5"><speaker>ESPOSITO</speaker><content>Hey. Struck out. Rover here didn’t have a microchip, so we still don’t know where he came from. But the vet said he’s in perfect health.</content></utterance>
+<utterance uid="33-6"><speaker>RYAN</speaker><content>You know what I don’t get? Why did he have a dog? I mean, was it part of his cover? Of did it have something to do with his own dog’s death?</content></utterance>
+<utterance uid="33-7"><speaker>BECKETT</speaker><content>We’re missing something. Something that makes all of this make sense. Ryan, can you look into security camera footage around Wally’s warehouse the night that he disappeared? I want to find out where he went.</content></utterance>
+<utterance uid="33-8"><speaker>RYAN</speaker><content>Right. Come on, boy.</content></utterance>
+<utterance uid="33-9"><speaker>CASTLE</speaker><content>Kate?</content></utterance>
+<utterance uid="33-10"><speaker>BECKETT</speaker><content>Castle?</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>BECKETT</speaker><content>A memory card.</content></utterance>
+<utterance uid="34-2"><speaker>CASTLE</speaker><content>Yeah, there were three of them in three separate envelopes. One for Alexis, one for my mother, and one for you.</content></utterance>
+<utterance uid="34-3"><speaker>BECKETT</speaker><content>What’s on it?</content></utterance>
+<utterance uid="34-4"><speaker>CASTLE</speaker><content>Watch.</content></utterance>
+<utterance uid="34-5"><speaker>CASTLE</speaker><content>Kate, if you’re seeing this … well, if you’re seeing this, I’m probably dead. I want you to know, I never intended to leave you, not like this, not on our wedding day, but I – it wasn’t my choice. I wish I could tell you what’s going on, I wish I could explain … but just know that I love you. I’ve always loved you. Always.</content></utterance>
+<utterance uid="34-6"><speaker>CASTLE</speaker><content> The ones to Alexis and my mother were pretty much the same.  Kate, what did I do?</content></utterance>
+<utterance uid="34-7"><speaker>BECKETT</speaker><content>I don’t know. I don’t.  But maybe there’s a way we can find out.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>TORY ELLIS</speaker><content>There’s no metadata on the file and it wasn’t geotagged.</content></utterance>
+<utterance uid="35-2"><speaker>BECKETT</speaker><content>Is there any other way to find out where this was taken?</content></utterance>
+<utterance uid="35-3"><speaker>CASTLE</speaker><content>Maybe there’s something in the room, or something in the audio.</content></utterance>
+<utterance uid="35-4"><speaker>TORY</speaker><content>The recording’s low quality so there’s not much to go on, but I’ll see what I can dig up.</content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>CASTLE</speaker><content>It’s weird. Before I saw that, all I wanted to know was where I was and what I was doing. Now I’m not so sure.</content></utterance>
+<utterance uid="36-2"><speaker>CASTLE</speaker><content>Any news about your undercover boss?</content></utterance>
+<utterance uid="36-3"><speaker>BECKETT</speaker><content>Every answer just leads to more questions. I have no idea what he was doing at that warehouse or what this guy was doing with him.  Actually, I was kind of hoping you’d help me with a crazy theory.</content></utterance>
+<utterance uid="36-4"><speaker>CASTLE</speaker><content>Sorry, I’m fresh out. How about a kiss?</content></utterance>
+<utterance uid="36-5"><speaker>BECKETT</speaker><content>Even better.</content></utterance>
+<utterance uid="36-6"><speaker>CASTLE</speaker><content>You think he was a nun in a previous life?</content></utterance>
+</scene>
+<scene id="37"><utterance uid="37-1"><speaker>CASTLE</speaker><content>Detective, what do you have in your pocket?</content></utterance>
+<utterance uid="37-2"><speaker>DETECTIVE</speaker><content>Evidence. From a bust.  My girl was dealing.</content></utterance>
+<utterance uid="37-3"><speaker>BECKETT</speaker><content>So he’s not just a dog. He’s a trained drug dog.</content></utterance>
+<utterance uid="37-4"><speaker>CASTLE</speaker><content>I think I have a crazy theory for you.</content></utterance>
+</scene>
+<scene id="38"><utterance uid="38-1"><speaker>ESPOSITO</speaker><content>That’s what you think Wally was up to? Well that’s the craziest theory I’ve ever heard.</content></utterance>
+<utterance uid="38-2"><speaker>CASTLE</speaker><content>I admit, it’s crazy. But it’s the only story that matches all the facts.</content></utterance>
+<utterance uid="38-3"><speaker>BECKETT</speaker><content>Castle’s right.</content></utterance>
+<utterance uid="38-4"><speaker>RYAN</speaker><content>Even if he is, it’s still just a story. We don’t have any proof.</content></utterance>
+<utterance uid="38-5"><speaker>BECKETT</speaker><content>I think I know how we can find some.</content></utterance>
+<utterance uid="38-6"><speaker>BECKETT</speaker><content>Castle, you coming with me?</content></utterance>
+<utterance uid="38-7"><speaker>CASTLE</speaker><content>Uh, if you don’t mind I’d like to stay here for a while.</content></utterance>
+<utterance uid="38-8"><speaker>BECKETT</speaker><content>Okay. I’ll be back soon.</content></utterance>
+<utterance uid="38-9"><speaker>BECKETT</speaker><content>Come on, guys.</content></utterance>
+</scene>
+<scene id="39"><utterance uid="39-1"><speaker>CASTLE</speaker><content>Any luck?</content></utterance>
+<utterance uid="39-2"><speaker>TORY</speaker><content>I know this much: you were in a city.</content></utterance>
+<utterance uid="39-3"><speaker>CASTLE</speaker><content>How can you tell?</content></utterance>
+<utterance uid="39-4"><speaker>TORY</speaker><content>Out the window.</content></utterance>
+<utterance uid="39-5"><speaker>CASTLE</speaker><content>It’s completely white.</content></utterance>
+<utterance uid="39-6"><speaker>TORY</speaker><content>Not completely.</content></utterance>
+<utterance uid="39-7"><speaker>CASTLE</speaker><content>Skyscrapers. So do you know where this is?</content></utterance>
+<utterance uid="39-8"><speaker>TORY</speaker><content>No. But this view out the window, the configuration of buildings, ought to be unique.</content></utterance>
+<utterance uid="39-9"><speaker>CASTLE</speaker><content>So you can find it.</content></utterance>
+<utterance uid="39-10"><speaker>TORY</speaker><content>Theoretically. But comparing this data set to global 3D mapping would take forever. And more computing power than I have.</content></utterance>
+<utterance uid="39-11"><speaker>CASTLE</speaker><content>What if we narrowed it to just one city? Montreal. Could you do it then?</content></utterance>
+<utterance uid="39-12"><speaker>TORY</speaker><content>I don’t know. Best I can do is try.</content></utterance>
+</scene>
+<scene id="40"><utterance uid="40-1"><speaker>ESPOSITO</speaker><content>I can’t imagine how freaky it must be getting a message from myself and not remember recording it.</content></utterance>
+<utterance uid="40-2"><speaker>RYAN</speaker><content>How’s he doing with it all?</content></utterance>
+<utterance uid="40-3"><speaker>BECKETT</speaker><content>He needs answers. We both do.</content></utterance>
+</scene>
+<scene id="41"><utterance uid="41-1"><speaker>CASTLE</speaker><content>How long do you think this is going to take?</content></utterance>
+<utterance uid="41-2"><speaker>TORY</speaker><content>Hell if I know. I’m not even sure it’s going to work.</content></utterance>
+<utterance uid="41-3"><speaker>TORY</speaker><content>This is Ellis.  I’m on it.</content></utterance>
+</scene>
+<scene id="42"><utterance uid="42-1"><speaker>BECKETT</speaker><content>Okay, let’s see if Castle was right.</content></utterance>
+<utterance uid="42-2"><speaker>RYAN</speaker><content>Easy, boy. Easy!</content></utterance>
+<utterance uid="42-3"><speaker>ESPOSITO</speaker><content>He’s really going crazy.</content></utterance>
+<utterance uid="42-4"><speaker>RYAN</speaker><content>Come on, boy.</content></utterance>
+<utterance uid="42-5"><speaker>MAC</speaker><content>Hey! What the hell’s going on here?</content></utterance>
+<utterance uid="42-6"><speaker>BECKETT</speaker><content>Where did they boxes come from?</content></utterance>
+<utterance uid="42-7"><speaker>MAC</speaker><content>Our manufacturer in China.</content></utterance>
+<utterance uid="42-8"><speaker>BECKETT</speaker><content>Check inside.</content></utterance>
+<utterance uid="42-9"><speaker>BECKETT</speaker><content>Drugs.  Who’s in charge of this shipment?</content></utterance>
+<utterance uid="42-10"><speaker>BECKETT</speaker><content>McElroy!</content></utterance>
+<utterance uid="42-11"><speaker>MAC</speaker><content>Please, no, I swear! I didn’t kill him!</content></utterance>
+<utterance uid="42-12"><speaker>ESPOSITO</speaker><content>Yeah? They who did?</content></utterance>
+</scene>
+
+<scene id="43"><utterance uid="43-1"><speaker>MATT</speaker><content>I’m sorry, Ms. Stoller, they insisted.</content></utterance>
+<utterance uid="43-2"><speaker>MARSHA</speaker><content>That’s fine, Matt. We were just going over the company’s finances with Mrs. Williger.</content></utterance>
+<utterance uid="43-3"><speaker>SAMANTHA</speaker><content>Has there been any progress in the investigation?</content></utterance>
+<utterance uid="43-4"><speaker>BECKETT</speaker><content>Yes, there has. We know why your husband was killed, and it started with your dog.</content></utterance>
+<utterance uid="43-5"><speaker>SAMANTHA</speaker><content>My dog? Annie?</content></utterance>
+<utterance uid="43-6"><speaker>BECKETT</speaker><content>Yeah. A month ago your husband went to the company warehouse in Brooklyn. We believe that while he was there he picked up a Sunshine Sarah doll to use as a chew toy for Annie.</content></utterance>
+<utterance uid="43-7"><speaker>SAMANTHA</speaker><content>Yes, she loved those dolls.</content></utterance>
+<utterance uid="43-8"><speaker>RYAN</speaker><content>Except this one killed her.</content></utterance>
+<utterance uid="43-9"><speaker>MARSHA</speaker><content>What are you talking about?</content></utterance>
+<utterance uid="43-10"><speaker>BECKETT</speaker><content>There were drugs inside of it.</content></utterance>
+<utterance uid="43-11"><speaker>MARSHA</speaker><content>That’s impossible.</content></utterance>
+<utterance uid="43-12"><speaker>ESPOSITO</speaker><content>That’s most likely what Wally though and why he started wearing disguises, leaving early, and coming home late.</content></utterance>
+<utterance uid="43-13"><speaker>BECKETT</speaker><content>He went back to the warehouse, day after day, trying to figure out what had happened. Until he got too close and they had him killed.</content></utterance>
+<utterance uid="43-14"><speaker>SAMANTHA</speaker><content>Who had him killed?</content></utterance>
+<utterance uid="43-15"><speaker>BECKETT</speaker><content>The drug ring run out of your warehouse. They were smuggling heroin into the country from China inside of those dolls.</content></utterance>
+<utterance uid="43-16"><speaker>ESPOSITO</speaker><content>Ms. Stoller, we talked to your foreman. He told us how the night shift would remove the drugs from the dolls before returning them to the inventory.</content></utterance>
+<utterance uid="43-17"><speaker>MARSHA</speaker><content>There’s no way our warehouse employees could pull that off. All of those shipments are coordinated from here.</content></utterance>
+<utterance uid="43-18"><speaker>BECKETT</speaker><content>Yes. From this office. Which means whoever was in charge of it had to have access to Mr. Williger’s files.</content></utterance>
+<utterance uid="43-19"><speaker>ESPOSITO</speaker><content>Where’re you going, bro?</content></utterance>
+<utterance uid="43-20"><speaker>MATT</speaker><content>Oh, I’m – I’m just –</content></utterance>
+<utterance uid="43-21"><speaker>RYAN</speaker><content>You’ll never make it.</content></utterance>
+<utterance uid="43-22"><speaker>MARSHA</speaker><content>Matt?</content></utterance>
+<utterance uid="43-23"><speaker>RYAN</speaker><content>Matt Monroe. Before he joined the company he was living over in Asia. In fact, that’s one of the reasons Williger hired you, your familiarity with local cultures.</content></utterance>
+<utterance uid="43-24"><speaker>BECKETT</speaker><content>I guess Mr. Williger wasn’t aware that familiarity extended to their heroin trade. The foreman said you were behind the whole operation.</content></utterance>
+<utterance uid="43-25"><speaker>MATT</speaker><content>He’s lying.</content></utterance>
+<utterance uid="43-26"><speaker>ESPOSITO</speaker><content>Really? Because he said that he called you, told you he was suspicious about the new janitor who had been poking around. You said you’d take care of it.</content></utterance>
+<utterance uid="43-27"><speaker>BECKETT</speaker><content>That was the same night that Mr. Williger disappeared.</content></utterance>
+<utterance uid="43-28"><speaker>RYAN</speaker><content>It must have been quite a surprise when you realized the old man was your boss.</content></utterance>
+<utterance uid="43-29"><speaker>MATT</speaker><content>I had nothing to do with this.</content></utterance>
+<utterance uid="43-30"><speaker>RYAN</speaker><content>We double checked street cams. This is your car, three blocks from the warehouse, just after Wally ended his shift.</content></utterance>
+<utterance uid="43-31"><speaker>BECKETT</speaker><content>And I bet the DNA samples that we collect are going to confirm what we already know.</content></utterance>
+<utterance uid="43-32"><speaker>ESPOSITO</speaker><content>Matt Monroe, you’re under arrest for the murder of Wally Williger.</content></utterance>
+<utterance uid="43-33"><speaker>MARSHA</speaker><content>Detective, if Wally knew something was wrong why did he hide it from everyone?</content></utterance>
+<utterance uid="43-34"><speaker>BECKETT</speaker><content>He didn’t know who he could trust and he couldn’t go to the authorities because –</content></utterance>
+<utterance uid="43-35"><speaker>SAMANTHA</speaker><content>Because our company name would become synonymous with drug smuggling.</content></utterance>
+<utterance uid="43-36"><speaker>BECKETT</speaker><content>Beckett.</content></utterance>
+<utterance uid="43-37"><speaker>TORY</speaker><content>Hey, it’s Tory. Is Castle with you?</content></utterance>
+<utterance uid="43-38"><speaker>BECKETT</speaker><content>No. Why?</content></utterance>
+<utterance uid="43-39"><speaker>TORY</speaker><content>I think he might be in Montreal.</content></utterance>
+</scene>
+
+<scene id="44"><utterance uid="44-1"><speaker>HENRY JENKINS</speaker><content>You weren’t supposed to come back.</content></utterance>
+<utterance uid="44-2"><speaker>JENKINS</speaker><content>Ever.</content></utterance>
+<utterance uid="44-3"><speaker>CASTLE</speaker><content>It’s you.</content></utterance>
+<utterance uid="44-4"><speaker>JENKINS</speaker><content>What do you remember?</content></utterance>
+<utterance uid="44-5"><speaker>CASTLE</speaker><content>Nothing.</content></utterance>
+<utterance uid="44-6"><speaker>JENKINS</speaker><content>That’s good.</content></utterance>
+<utterance uid="44-7"><speaker>CASTLE</speaker><content>I know you’re involved. I know you know what happened to me. Who are you?</content></utterance>
+<utterance uid="44-8"><speaker>JENKINS</speaker><content>You can’t be doing this. Asking questions, offering rewards; it’s too dangerous.</content></utterance>
+<utterance uid="44-9"><speaker>CASTLE</speaker><content>Then tell me what happened!</content></utterance>
+<utterance uid="44-10"><speaker>JENKINS</speaker><content>You’re not listening, Mr. Castle. You need to stop.</content></utterance>
+<utterance uid="44-11"><speaker>CASTLE</speaker><content>Or what?</content></utterance>
+<utterance uid="44-12"><speaker>JENKINS</speaker><content>Or you’re going to find out the truth. And you said you didn’t want to remember. We went to great lengths to make sure you didn’t. But if you keep looking –</content></utterance>
+<utterance uid="44-13"><speaker>CASTLE</speaker><content>There’s no way in hell I asked for this.</content></utterance>
+<utterance uid="44-14"><speaker>JENKINS</speaker><content>I’m sorry. But you did.</content></utterance>
+<utterance uid="44-15"><speaker>CASTLE</speaker><content>I don’t believe you.</content></utterance>
+<utterance uid="44-16"><speaker>JENKINS</speaker><content>Hollander’s Woods, Mr. Castle. That February day when you were 11 years old.</content></utterance>
+<utterance uid="44-17"><speaker>CASTLE</speaker><content>No.</content></utterance>
+<utterance uid="44-18"><speaker>JENKINS</speaker><content>What happened to you there, the real reason you became a mystery writer.</content></utterance>
+<utterance uid="44-19"><speaker>CASTLE</speaker><content>How did you – I never told anyone about that.</content></utterance>
+<utterance uid="44-20"><speaker>JENKINS</speaker><content>No. Not Beckett, not your family. But you told me. Three weeks ago. So that if this ever happened you’d have proof. You’d know that you were the one who asked to forget.</content></utterance>
+<utterance uid="44-21"><speaker>CASTLE</speaker><content>I asked for this?</content></utterance>
+<utterance uid="44-22"><speaker>JENKINS</speaker><content>Some mysteries aren’t meant to be solved. It’s over, now. Go home. Live your life. Forget this ever happened. It’s what you wanted.</content></utterance>
+</scene>
+
+<scene id="45"><utterance uid="45-1"><speaker>ALEXIS</speaker><content>How could you go up there on your own and not even tell us?</content></utterance>
+<utterance uid="45-2"><speaker>CASTLE</speaker><content>Because I knew you would try and stop me and I needed to know. But … but now … what could I have done that was so bad that I asked them to make me forget?</content></utterance>
+<utterance uid="45-3"><speaker>ALEXIS</speaker><content>Maybe you didn’t do anything. Maybe you found out something terrible or witnessed something terrible you didn’t want to have to live with.</content></utterance>
+<utterance uid="45-4"><speaker>MARTHA</speaker><content>Or maybe the past two months is like Pandora’s Box and shouldn’t be opened.</content></utterance>
+</scene>
+<scene id="46"><utterance uid="46-1"><speaker>CASTLE</speaker><content>What I did to them, to you … how am I supposed to just let that go?</content></utterance>
+<utterance uid="46-2"><speaker>BECKETT</speaker><content>I don’t know. I tried with my mom’s murder. I buried it until you came along.</content></utterance>
+<utterance uid="46-3"><speaker>CASTLE</speaker><content>You think it’s possible? To live with it without ever knowing?</content></utterance>
+<utterance uid="46-4"><speaker>BECKETT</speaker><content>Oh, Castle.  This is completely different. Whatever happened to you, you already knew the truth and you decided you didn’t want to remember it anymore. And as much as we wanted to know the answers, if you decided that then there had to have been a reason.</content></utterance>
+<utterance uid="46-5"><speaker>CASTLE</speaker><content>Maybe that’s why I asked them to make me forget. So I could come home to you.</content></utterance>
+<utterance uid="46-6"><speaker>CASTLE</speaker><content>You know what?</content></utterance>
+<utterance uid="46-7"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="46-8"><speaker>CASTLE</speaker><content>We should get married. Tomorrow. First thing. Put all this behind us. What do you say?</content></utterance>
+<utterance uid="46-9"><speaker>BECKETT</speaker><content>Babe, there is nothing more that I want than to marry you. But not like this.</content></utterance>
+<utterance uid="46-10"><speaker>CASTLE</speaker><content>You’re not ready.</content></utterance>
+<utterance uid="46-11"><speaker>BECKETT</speaker><content>No, we’re both not ready. We’re looking for solid ground and you think that getting married is going to fix the way you feel and it won’t. Look, I love you. And I’m here for you. But we need to get some distance from all of this. We need to get back to our own lives. Find solid ground together. I promise you, I’m not going anywhere. We’ve waited this long, so let’s just make it right.</content></utterance>
+<utterance uid="46-12"><speaker>CASTLE</speaker><content>How long?</content></utterance>
+<utterance uid="46-13"><speaker>BECKETT</speaker><content> A month?  No expectations, no pressure. Just us? And then we’ll talk about it then?</content></utterance>
+<utterance uid="46-14"><speaker>CASTLE</speaker><content>A month.  It’s a date.</content></utterance>
+<utterance uid="46-15"><speaker>THE END</speaker><content>CASTLE</content></utterance>
+</scene>
+</script>

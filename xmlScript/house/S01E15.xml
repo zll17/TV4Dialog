@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+<scene id="1"><utterance uid="1-1"><speaker>Bill</speaker><content>If you testify, no one can protect you. Especially the Feds.</content></utterance>
+<utterance uid="1-2"><speaker>Everhardt</speaker><content>We’ll keep you safe, Joey.</content></utterance>
+<utterance uid="1-3"><speaker>Bill</speaker><content>Right. Witness Protection. This great new life he’s giving you? You’re sacking groceries at some goat-town Stop and Shop when one of the Talli guys comes up and puts two in the back of your skull.</content></utterance>
+<utterance uid="1-4"><speaker>Everhardt</speaker><content>Counselor, are you advising a witness to withhold evidence from a federal grand jury?</content></utterance>
+<utterance uid="1-5"><speaker>Bill</speaker><content>He came forward; he volunteered. I’m advising him not to testify until I’m satisfied you can protect him.</content></utterance>
+<utterance uid="1-6"><speaker>Joey</speaker><content>Hey, you guys mind? I got money on this.</content></utterance>
+<utterance uid="1-7"><speaker>Everhardt</speaker><content> What do you want? We gave you everything you asked for.</content></utterance>
+<utterance uid="1-8"><speaker>Joey</speaker><content>I asked for pasta.</content></utterance>
+<utterance uid="1-9"><speaker>Everhardt</speaker><content>You got steak, enjoy it. </content></utterance>
+<utterance uid="1-10"><speaker>Bill</speaker><content>What are you doing?  Where’s your quit candy? I just gave you a pack.</content></utterance>
+<utterance uid="1-11"><speaker>Joey</speaker><content>Yeah, sorry, I forgot.</content></utterance>
+<utterance uid="1-12"><speaker>Bill</speaker><content>Joey, whatever they give us, what they tell you, you get popped, what am I going to do? Sue them?</content></utterance>
+<utterance uid="1-13"><speaker>Joey</speaker><content>That’s not what this is about. You’re gonna miss me.</content></utterance>
+<utterance uid="1-14"><speaker>Bill</speaker><content>I’m your lawyer, Joey.</content></utterance>
+<utterance uid="1-15"><speaker>Joey</speaker><content>You’re my brother. And I do this, you know, go into Witness Protection, we’re never gonna see each other again.</content></utterance>
+<utterance uid="1-16"><speaker>Bill</speaker><content>That doesn’t bother you?</content></utterance>
+<utterance uid="1-17"><speaker>Joey</speaker><content>Kills me.  Hey, I gotta take a leak. </content></utterance>
+<utterance uid="1-18"><speaker>Bill</speaker><content>You all right?</content></utterance>
+<utterance uid="1-19"><speaker>Joey</speaker><content>Yeah, yeah, just, uh, little dizzy…</content></utterance>
+<utterance uid="1-20"><speaker>Bill</speaker><content>Get some air.</content></utterance>
+<utterance uid="1-21"><speaker>Joey</speaker><content>And hot. </content></utterance>
+<utterance uid="1-22"><speaker>Bill</speaker><content>Joey! </content></utterance>
+<utterance uid="1-23"><speaker>Everhardt</speaker><content>What did you say to him?</content></utterance>
+<utterance uid="1-24"><speaker>Brady</speaker><content>Yeah, nice try. </content></utterance>
+<utterance uid="1-25"><speaker>Bill</speaker><content>Let go of me! Let go of me, can’t you see he’s sick?</content></utterance>
+<utterance uid="1-26"><speaker>Everhardt</speaker><content>Joey! Joey!</content></utterance>
+<utterance uid="1-27"><speaker>Bill</speaker><content>Something’s wrong with him! </content></utterance>
+<utterance uid="1-28"><speaker>Everhardt</speaker><content>Come on, you’re not getting out of this that easy! Either you’re dead, or you’re testifying. </content></utterance>
+</scene>
+
+<scene id="2"><utterance uid="2-1"><speaker>Cuddy</speaker><content>Don’t have it.</content></utterance>
+<utterance uid="2-2"><speaker>Vogler</speaker><content>Budget?</content></utterance>
+<utterance uid="2-3"><speaker>Cuddy</speaker><content>Nope.</content></utterance>
+<utterance uid="2-4"><speaker>Vogler</speaker><content>Revenue statement, list of expenses…</content></utterance>
+<utterance uid="2-5"><speaker>Cuddy</speaker><content>House has been very busy.</content></utterance>
+<utterance uid="2-6"><speaker>Vogler</speaker><content>Saving New Jersey from leprosy, yes, I know. Getting me his numbers, that’s your job. </content></utterance>
+<utterance uid="2-7"><speaker>Cuddy</speaker><content>We’re in a meeting.</content></utterance>
+<utterance uid="2-8"><speaker>House</speaker><content>Need the lawyer.</content></utterance>
+<utterance uid="2-9"><speaker>Vogler</speaker><content>Who’d you kill?</content></utterance>
+<utterance uid="2-10"><speaker>House</speaker><content>Nobody, but it’s not even lunch. Got served with a federal court order. Some witness went into a coma and they want me to take a look at it. </content></utterance>
+<utterance uid="2-11"><speaker>Vogler</speaker><content>What? They want you to examine a sick person? This is a public relations nightmare. Don’t think our staff do that kind of thing around here… this place would be crawling with sick people!</content></utterance>
+<utterance uid="2-12"><speaker>House</speaker><content>I’m a doctor, I’m not a lapdog for the feds; I don’t play fetch.</content></utterance>
+<utterance uid="2-13"><speaker>Vogler</speaker><content>Nobody tells you what to do. Am I right, Dr. Cuddy?</content></utterance>
+<utterance uid="2-14"><speaker>Cuddy</speaker><content>You have three choices: hire a lawyer to fight the order, treat the guy, or go to jail for contempt. Up to you.</content></utterance>
+<utterance uid="2-15"><speaker>House</speaker><content> Jail. You’d like that. No more naughty schoolgirl.  Conjugal visit, that’s her new fantasy. </content></utterance>
+<utterance uid="2-16"><speaker>Vogler</speaker><content>We’re not leaving until he’s gone or you show me one good reason for keeping him.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>House</speaker><content>He’s really out of it, huh?</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>Foreman</speaker><content>Causes of coma: metabolic, structural –</content></utterance>
+<utterance uid="4-2"><speaker>Chase</speaker><content> He had his stomach pumped! Why would they do that?</content></utterance>
+<utterance uid="4-3"><speaker>House</speaker><content>Rule out poisoning.</content></utterance>
+<utterance uid="4-4"><speaker>Chase</speaker><content>Huh. Not the typical first guess.</content></utterance>
+<utterance uid="4-5"><speaker>House</speaker><content>No, the first guess was faking it. Patient’s a federal witness, reluctant, I’m assuming. He’s also an 8 on the Glasgow coma scale.</content></utterance>
+<utterance uid="4-6"><speaker>Foreman</speaker><content> That’s barely alive. Pretty tough to fake it.</content></utterance>
+<utterance uid="4-7"><speaker>Cameron</speaker><content>Any recent history of head trauma? Bad car accident, fall?</content></utterance>
+<utterance uid="4-8"><speaker>House</speaker><content>They tell me no, but do an MRI to be sure. </content></utterance>
+<utterance uid="4-9"><speaker>Chase</speaker><content>Metabolic causes. Liver, kidney, diabetes –</content></utterance>
+<utterance uid="4-10"><speaker>House</speaker><content>Check for everything, feds are paying. We’re gonna turn a profit on this one, boys.</content></utterance>
+<utterance uid="4-11"><speaker>Bill</speaker><content>Dr. House, Bill Arnello.  I’m a lawyer, I represent Mr. Smith. What’s wrong with him?</content></utterance>
+<utterance uid="4-12"><speaker>House</speaker><content>Do I come to you with my problems?</content></utterance>
+<utterance uid="4-13"><speaker>Bill</speaker><content>He’s also my brother.</content></utterance>
+<utterance uid="4-14"><speaker>House</speaker><content>What, you changed your name? “Smith” wasn’t good enough for you?</content></utterance>
+<utterance uid="4-15"><speaker>Bill</speaker><content>His name’s Joey, he’s my only brother.</content></utterance>
+<utterance uid="4-16"><speaker>House</speaker><content>He’s important to you, got it. So, no placebos for him, we’ll use the real medicine.  Well, this was fun, let’s do it again soon.  Brother in the Mafia?  So, just Joey? I was hoping for a nickname. Joey Mango. Joey the Wrench.  People know where I am.</content></utterance>
+<utterance uid="4-17"><speaker>Bill</speaker><content>I want you to do your job. Diagnose him, fix him, and keep him here.</content></utterance>
+<utterance uid="4-18"><speaker>House</speaker><content>We’re a bit of a specialized hospital. We generally only deal with patients when they’re actually sick.</content></utterance>
+<utterance uid="4-19"><speaker>Bill</speaker><content>If you release my brother to the government, and he does what they want, even if you fix him, he’s dead. I need time to convince him of that.  Good news is, if you screw up you don’t have to worry about a malpractice suit. If he’s dead, one by one, I’ll take away the things you love ‘till there’s nothing left. </content></utterance>
+<utterance uid="4-20"><speaker>House</speaker><content>So, on the Mafia thing, that’s a yes.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>Cameron</speaker><content>Did House seem weird to you?</content></utterance>
+<utterance uid="5-2"><speaker>Chase</speaker><content>Are you expecting him to be weird?</content></utterance>
+<utterance uid="5-3"><speaker>Cameron</speaker><content>We spoke about how we felt.</content></utterance>
+<utterance uid="5-4"><speaker>Chase</speaker><content>You told him you liked him?</content></utterance>
+<utterance uid="5-5"><speaker>Cameron</speaker><content>No, of course not.</content></utterance>
+<utterance uid="5-6"><speaker>Chase</speaker><content>What are you talking about, then?</content></utterance>
+<utterance uid="5-7"><speaker>Cameron</speaker><content>I asked him if he liked me.</content></utterance>
+<utterance uid="5-8"><speaker>Chase</speaker><content>Why would you do that?</content></utterance>
+<utterance uid="5-9"><speaker>Cameron</speaker><content>Because I like him.</content></utterance>
+<utterance uid="5-10"><speaker>Chase</speaker><content>You like him, like him?</content></utterance>
+<utterance uid="5-11"><speaker>Cameron</speaker><content>Doesn’t matter, he doesn’t like me.</content></utterance>
+<utterance uid="5-12"><speaker>Chase</speaker><content>Hey, he doesn’t like anybody. And nobody likes him.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>Chase</speaker><content>MRI showed a subdural hematoma.</content></utterance>
+<utterance uid="6-2"><speaker>Foreman</speaker><content>Bleeding around his brain caused pressure inside his head which caused the coma.</content></utterance>
+<utterance uid="6-3"><speaker>House</speaker><content> These look like pseudomembranes. Those take time to form. If it was an old injury it wouldn’t have caused the coma.</content></utterance>
+<utterance uid="6-4"><speaker>Cameron</speaker><content>Patient history indicates he was hit with a tire iron in 1996. Brother says he was changing a tire and it slipped.</content></utterance>
+<utterance uid="6-5"><speaker>Foreman</speaker><content>Subdural hematoma placed where this one is, it could have caused his coma.</content></utterance>
+<utterance uid="6-6"><speaker>House</speaker><content>What about his liver?</content></utterance>
+<utterance uid="6-7"><speaker>Cameron</speaker><content>LFTs are slightly elevated.</content></utterance>
+<utterance uid="6-8"><speaker>Chase</speaker><content>Key word is slightly. As in, not high enough to cause the coma. It’s the subdural.</content></utterance>
+<utterance uid="6-9"><speaker>Foreman</speaker><content>I say we evacuate the cavity, see if he wakes up.</content></utterance>
+<utterance uid="6-10"><speaker>House</speaker><content>The neurologist thinks it’s his brain, wants to open up his head. Frankly, I’m shocked! You get to use the big boy drill and Daddy’s big red toolbox.</content></utterance>
+<utterance uid="6-11"><speaker>Joey</speaker><content>No drilling.  Hi.</content></utterance>
+<utterance uid="6-12"><speaker>Foreman</speaker><content>Mr. Smith!</content></utterance>
+<utterance uid="6-13"><speaker>Joey</speaker><content>Call me Joe.  Can you not do that? So, we’re clear about the no drilling?</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>Chase</speaker><content>He’s okay now, he can leave.</content></utterance>
+<utterance uid="7-2"><speaker>House</speaker><content>I’m not releasing him.</content></utterance>
+<utterance uid="7-3"><speaker>Chase</speaker><content>Because the brother doesn’t want you to?</content></utterance>
+<utterance uid="7-4"><speaker>House</speaker><content>Or because he had an unexplained coma, which sounds better?</content></utterance>
+<utterance uid="7-5"><speaker>Chase</speaker><content>The hematoma caused the coma.</content></utterance>
+<utterance uid="7-6"><speaker>House</speaker><content>That’s a catchy diagnosis, you could dance to that.</content></utterance>
+<utterance uid="7-7"><speaker>Foreman</speaker><content>I think Chase is right. It still should be evacuated, but it’s not an immediate threat.</content></utterance>
+<utterance uid="7-8"><speaker>House</speaker><content>Cameron’s my girl.</content></utterance>
+<utterance uid="7-9"><speaker>Cameron</speaker><content>I’d release him.</content></utterance>
+<utterance uid="7-10"><speaker>House</speaker><content>Are you disagreeing with me because –</content></utterance>
+<utterance uid="7-11"><speaker>Cameron</speaker><content>I’m disagreeing because that’s my medical opinion.</content></utterance>
+<utterance uid="7-12"><speaker>House</speaker><content>Of course it is. But unless I’ve been named as the fourth part of the Axis of Evil, invaded and occupied, this is still not a democracy. He’s staying. Send for Hepatitis serologies and an autoimmune panel. </content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>House</speaker><content>Hey. I’m with you. Old enough to drink, old enough to do something really stupid and make yourself a baby.</content></utterance>
+<utterance uid="8-2"><speaker>Henry</speaker><content>He’s my brother. I’m watching him while my parents are in Barbados. He’s having trouble breathing and there’s a lot of wheezing.</content></utterance>
+<utterance uid="8-3"><speaker>House</speaker><content> Whistling, technically. Upper airways, nose.</content></utterance>
+<utterance uid="8-4"><speaker>Henry</speaker><content>If he’s got the croup, that could become meningitis, right?</content></utterance>
+<utterance uid="8-5"><speaker>House</speaker><content>Absolutely. </content></utterance>
+<utterance uid="8-6"><speaker>Henry</speaker><content>I was just studying and all of a sudden I hear him crying and sounding all weird. My parents are going to kill me. </content></utterance>
+<utterance uid="8-7"><speaker>House</speaker><content>I doubt it.</content></utterance>
+<utterance uid="8-8"><speaker>Henry</speaker><content>You don’t know them.</content></utterance>
+<utterance uid="8-9"><speaker>House</speaker><content>No, I doubt you were studying while your parents were away.  Hello, officer. You might want to rinse this off before you let him play with it again. </content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>House</speaker><content>What happened? Where is he?</content></utterance>
+<utterance uid="9-2"><speaker>Foreman</speaker><content>Vogler called admitting, admitting called Justice, Justice came and took him away.</content></utterance>
+<utterance uid="9-3"><speaker>House</speaker><content>And who called Vogler? </content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>Vogler</speaker><content>He loses money.</content></utterance>
+<utterance uid="10-2"><speaker>Cuddy</speaker><content>So does ophthalmology. Who cares, this is a hospital. You can’t just cut a department!</content></utterance>
+<utterance uid="10-3"><speaker>Vogler</speaker><content>You can’t control him.</content></utterance>
+<utterance uid="10-4"><speaker>Cuddy</speaker><content>I am the only one that can control him. </content></utterance>
+<utterance uid="10-5"><speaker>Vogler</speaker><content>D-D-D-D-Dr. House in the House! Impeccable timing as always.</content></utterance>
+<utterance uid="10-6"><speaker>House</speaker><content>You had no authority to release my patient.</content></utterance>
+<utterance uid="10-7"><speaker>Vogler</speaker><content>My colleague has just informed me that she has a singular talent. You are just in time for a demonstration. </content></utterance>
+<utterance uid="10-8"><speaker>Cuddy</speaker><content>Dr. House, from what I understand, your –</content></utterance>
+<utterance uid="10-9"><speaker>House</speaker><content>From what you understand? He’s not your patient; how the hell do you understand anything?</content></utterance>
+<utterance uid="10-10"><speaker>Vogler</speaker><content>That’s sad.</content></utterance>
+<utterance uid="10-11"><speaker>House</speaker><content>You’re not even a doctor.</content></utterance>
+<utterance uid="10-12"><speaker>Vogler</speaker><content>John Smith is here only because of court order. I had the records faxed to the judge; she rescinded the order.</content></utterance>
+<utterance uid="10-13"><speaker>House</speaker><content>Why bother, just to piss me off?</content></utterance>
+<utterance uid="10-14"><speaker>Vogler</speaker><content>Keeping the government off our ass. Hmm. Yeah.  That makes no sense for a public institution.</content></utterance>
+<utterance uid="10-15"><speaker>House</speaker><content>Okay. </content></utterance>
+<utterance uid="10-16"><speaker>Cuddy</speaker><content>Okay what?</content></utterance>
+<utterance uid="10-17"><speaker>House</speaker><content>Okay, sir. Carry on. </content></utterance>
+<utterance uid="10-18"><speaker>Cuddy</speaker><content>He really cares about his patients.</content></utterance>
+<utterance uid="10-19"><speaker>Vogler</speaker><content>Yeah, and he just walked out of here with nothing. Something’s up.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>Everhardt</speaker><content>He just started vomiting and passed out</content></utterance>
+<utterance uid="11-2"><speaker>Paramedic</speaker><content>35-year-old male, vital signs are stable now. Gave him 2 liters en route. Just released from here two hours ago. </content></utterance>
+<utterance uid="11-3"><speaker>House</speaker><content>So, your junior G-man badge isn’t looking so good.</content></utterance>
+</scene>
+
+<scene id="12"><utterance uid="12-1"><speaker>Chase</speaker><content>His liver’s worse.</content></utterance>
+<utterance uid="12-2"><speaker>House</speaker><content>Comatose?</content></utterance>
+<utterance uid="12-3"><speaker>Cameron</speaker><content>No, completely different symptoms than the first time.</content></utterance>
+<utterance uid="12-4"><speaker>Chase</speaker><content>Serology tests came back positive for Hep-C.</content></utterance>
+<utterance uid="12-5"><speaker>House</speaker><content>Hep-C is a chronic condition. You don’t think this is an acute situation?</content></utterance>
+<utterance uid="12-6"><speaker>Chase</speaker><content>Coma, vomiting, abdominal pain, Hep-C explains everything.</content></utterance>
+<utterance uid="12-7"><speaker>House</speaker><content>Except for the suddenness of the onset.</content></utterance>
+<utterance uid="12-8"><speaker>Foreman</speaker><content>What’s wrong with the timing?</content></utterance>
+<utterance uid="12-9"><speaker>House</speaker><content>You get home one night. Your wife hits you with a baseball bat. Likely cause is the fact you haven’t thanked her for dinner in eight years, or the receipt for fur handcuffs she found in your pants. Sudden onset equals proximate cause.</content></utterance>
+<utterance uid="12-10"><speaker>Chase</speaker><content>He also has high estrogen levels in his blood. That’s indicative of a chronic condition, not acute.</content></utterance>
+<utterance uid="12-11"><speaker>House</speaker><content>One test. What do his other liver tests tell us?</content></utterance>
+<utterance uid="12-12"><speaker>Cameron</speaker><content>Normal albumin levels point toward acute.</content></utterance>
+<utterance uid="12-13"><speaker>Chase</speaker><content>Uh-huh. And why is her test better than mine?</content></utterance>
+<utterance uid="12-14"><speaker>House</speaker><content>Because she’s cuter.  Though it’s close. Do a liver biopsy. When the results come back we’ll know what we’re looking at.</content></utterance>
+<utterance uid="12-15"><speaker>Chase</speaker><content>Why wait to treat the Hep-C? If I’m right, Joey gets better that much faster.</content></utterance>
+<utterance uid="12-16"><speaker>House</speaker><content>Right. Then he gets to testify, and you get a gold star from Cuddy.</content></utterance>
+<utterance uid="12-17"><speaker>Chase</speaker><content>Then what’s the downside? Or is that the downside.</content></utterance>
+<utterance uid="12-18"><speaker>House</speaker><content>Do I have a reason for not wanting you to get any stars?  Fine, start the treatment. It’s all your idea. Don’t even mention my name. There’s nothing wrong with your theory, go.  But in the “humor me” department, get a biopsy while you’re at it.  Foreman, we need to talk.  You’re off the case.</content></utterance>
+<utterance uid="12-19"><speaker>Foreman</speaker><content>What? Why?</content></utterance>
+<utterance uid="12-20"><speaker>House</speaker><content>Somebody told Vogler that I lied to the transplant committee.</content></utterance>
+<utterance uid="12-21"><speaker>Foreman</speaker><content>You think I did?</content></utterance>
+<utterance uid="12-22"><speaker>House</speaker><content>You’re too careful. You wouldn’t jump ship unless you knew what was in the water.</content></utterance>
+<utterance uid="12-23"><speaker>Foreman</speaker><content>Stop, you’re embarrassing me.</content></utterance>
+<utterance uid="12-24"><speaker>House</speaker><content>But I want Vogler to think I think it’s you. And I want Cameron and Chase and Cuddy and Wilson and the nursing staff and the cashier in the parking lot to think that, too.</content></utterance>
+<utterance uid="12-25"><speaker>Foreman</speaker><content> Right.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>Chase</speaker><content>The blood tests show you have Hepatitis C. It’s a virus that infects the liver.</content></utterance>
+<utterance uid="13-2"><speaker>Bill</speaker><content>No way.</content></utterance>
+<utterance uid="13-3"><speaker>Chase</speaker><content>Well, it’s not all bad news. It can often be cured, and even if not, it’s manageable.</content></utterance>
+<utterance uid="13-4"><speaker>Bill</speaker><content>How’d my brother get this?</content></utterance>
+<utterance uid="13-5"><speaker>Chase</speaker><content>Usually it involves the exchange of bodily fluids, the, uh –</content></utterance>
+<utterance uid="13-6"><speaker>Bill</speaker><content>Bodily fluids, what are you talking about?</content></utterance>
+<utterance uid="13-7"><speaker>Chase</speaker><content>There are many ways the virus can be transmitted. Sharing needles, blood transfusions –</content></utterance>
+<utterance uid="13-8"><speaker>Bill</speaker><content>Hey!  Nobody talks to my brother like this, okay?</content></utterance>
+<utterance uid="13-9"><speaker>Chase</speaker><content>Fine. I’ve no idea how he got it. But he has Hepatitis-C. We’re going to start him on Interferon – </content></utterance>
+<utterance uid="13-10"><speaker>Bill</speaker><content>He doesn’t have it, don’t mention it again, don’t treat him for it. </content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>Cuddy</speaker><content>House has some directed donations, foundation support…  It’s around here…</content></utterance>
+<utterance uid="14-2"><speaker>Vogler</speaker><content>He makes you miserable. Eight years he’s worked here, never made a dime for you, never listened to you.</content></utterance>
+<utterance uid="14-3"><speaker>Cuddy</speaker><content>He can change, he’s –</content></utterance>
+<utterance uid="14-4"><speaker>Vogler</speaker><content>He hasn’t changed in eight years. Either he can’t change, or you can’t change him. You have no idea how many times he’s lied to you, undercut your authority, made you look like crap to other doctors.</content></utterance>
+<utterance uid="14-5"><speaker>Cuddy</speaker><content>Yes, I hate him, and here I am, desperately trying to protect his job. What does that tell you?</content></utterance>
+<utterance uid="14-6"><speaker>Vogler</speaker><content>That you don’t hate him.</content></utterance>
+<utterance uid="14-7"><speaker>Cuddy</speaker><content>I do not protect people I like. I protect people who are assets to this hospital.</content></utterance>
+<utterance uid="14-8"><speaker>Vogler</speaker><content>No. That’s me. You, you’re softer.</content></utterance>
+<utterance uid="14-9"><speaker>Cuddy</speaker><content>Right. There are three female Chiefs of Medicine at major hospitals in this country and we all got there using our feminine wiles.</content></utterance>
+<utterance uid="14-10"><speaker>Vogler</speaker><content>It’s human nature to wanna protect people we like.</content></utterance>
+<utterance uid="14-11"><speaker>Cuddy</speaker><content>I don’t like him!</content></utterance>
+<utterance uid="14-12"><speaker>Vogler</speaker><content>We think if we can just form the right team, we’ll all get along, be able to pull the boat –</content></utterance>
+<utterance uid="14-13"><speaker>Cuddy</speaker><content>I don’t get along with him!</content></utterance>
+<utterance uid="14-14"><speaker>Vogler</speaker><content>Well, this is not a team, it’s not a boat, it’s not a machine that has a lot of parts that have to work together. The metaphors are all crap. This is a business. That’s all it is. You like him, that’s bad for business.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>Henry</speaker><content>Ah, this is all my fault.</content></utterance>
+<utterance uid="15-2"><speaker>House</speaker><content>Took another homework break with Betty Lou?</content></utterance>
+<utterance uid="15-3"><speaker>Henry</speaker><content>No, last week I showed him a magic trick.</content></utterance>
+<utterance uid="15-4"><speaker>House</speaker><content>Pulled a quarter out of his nose. It’s a classic.</content></utterance>
+<utterance uid="15-5"><speaker>Henry</speaker><content>Yeah, now he won’t stop shoving stuff up there. </content></utterance>
+<utterance uid="15-6"><speaker>Bill</speaker><content>Dr. House.</content></utterance>
+<utterance uid="15-7"><speaker>House</speaker><content>Got a crisis here!</content></utterance>
+<utterance uid="15-8"><speaker>Henry</speaker><content> It’s okay. </content></utterance>
+<utterance uid="15-9"><speaker>Bill</speaker><content> Stop! </content></utterance>
+<utterance uid="15-10"><speaker>House</speaker><content>It’s a neat trick.</content></utterance>
+<utterance uid="15-11"><speaker>Bill</speaker><content>You have to believe you’ll actually hurt them.</content></utterance>
+<utterance uid="15-12"><speaker>House</speaker><content>Ah.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>Bill</speaker><content>Your people insulted my brother.</content></utterance>
+<utterance uid="16-2"><speaker>House</speaker><content>What, they put romano in the parmesan cheese shaker again?</content></utterance>
+<utterance uid="16-3"><speaker>Bill</speaker><content>Said he was a crackhead or a homo or something.</content></utterance>
+<utterance uid="16-4"><speaker>House</speaker><content>Those idiots. How many times am I going to have to send them through sensitivity training? Nobody’s saying he’s a homo, that would be really, really bad. So let’s put a nice, friendly spin on it. Let’s go with: he got raped in prison. I saw the jailhouse tats, put it together with the blood tests…</content></utterance>
+<utterance uid="16-5"><speaker>Bill</speaker><content>There were rumors, but Joey never said anything about…. If people find out he’s being treated for Hep-C? Feds get that chart, someone says something to somebody, word’ll get out. And then Joey’s manhood, his rep is destroyed.</content></utterance>
+<utterance uid="16-6"><speaker>House</speaker><content>You’re worried about how his coworkers will react in the Walmart in Des Moines.</content></utterance>
+<utterance uid="16-7"><speaker>Bill</speaker><content>He’s not going into Witness Protection, I won’t let that happen.</content></utterance>
+<utterance uid="16-8"><speaker>House</speaker><content>Listen, I don’t know if you know about this, but mob businesses sometimes keep two sets of books.</content></utterance>
+<utterance uid="16-9"><speaker>Bill</speaker><content>One legit, one not.</content></utterance>
+<utterance uid="16-10"><speaker>House</speaker><content>Exactly.</content></utterance>
+<utterance uid="16-11"><speaker>Bill</speaker><content>You jerking my chain?</content></utterance>
+<utterance uid="16-12"><speaker>House</speaker><content>Doctors are busy, sometimes they forget to write things down, it happens all the time.</content></utterance>
+<utterance uid="16-13"><speaker>Bill</speaker><content>Thanks.  Oh, and whatever you’re not giving him for whatever he doesn’t have, is that going to fix him?</content></utterance>
+<utterance uid="16-14"><speaker>House</speaker><content>I doubt it.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>House</speaker><content>On your way to polish Vogler’s car?</content></utterance>
+<utterance uid="17-2"><speaker>Wilson</speaker><content>Gone are the days of the grumpy old doc seeing patients in the basement of his house, getting paid a few chickens.</content></utterance>
+<utterance uid="17-3"><speaker>House</speaker><content>How will I eat?</content></utterance>
+<utterance uid="17-4"><speaker>Wilson</speaker><content>You know what Cuddy has been locked in with Vogler about all day today, and yesterday?</content></utterance>
+<utterance uid="17-5"><speaker>House</speaker><content>Floor polish costs through the roof?</content></utterance>
+<utterance uid="17-6"><speaker>Wilson</speaker><content>You. Her secretary’s been to the photocopier all day with your records. It’s all they’re looking at in there. </content></utterance>
+<utterance uid="17-7"><speaker>House</speaker><content>My car has been stolen. </content></utterance>
+<utterance uid="17-8"><speaker>Wilson</speaker><content>Or rein-CAR-nated.  Pink slip. “A gift from the Arnello brothers.”</content></utterance>
+<utterance uid="17-9"><speaker>House</speaker><content> You know, they’re gangsters, sure, but they’re thoughtful, too.</content></utterance>
+<utterance uid="17-10"><speaker>Wilson</speaker><content>You can’t keep it. It’s graft.</content></utterance>
+<utterance uid="17-11"><speaker>House</speaker><content>No, no, no, no. Uh-uh. Graft is if I tell them I’ll only make him better if he slips me a couple bucks. A payoff for something I’m not supposed to do. If I’d asked for the payoff , I would have done the bad thing anyway. So there’s nothing wrong with this.</content></utterance>
+<utterance uid="17-12"><speaker>Wilson</speaker><content>Right.</content></utterance>
+<utterance uid="17-13"><speaker>House</speaker><content>Damn. ’65. Perfectly restored. What do you think a guy like Joey would do if someone turned down a gift? That’s kind of an insult, isn’t it?</content></utterance>
+<utterance uid="17-14"><speaker>Wilson</speaker><content>He might hurt you. It’s definitely possible.</content></utterance>
+<utterance uid="17-15"><speaker>House</speaker><content>I’m screwed. Gotta take the car.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>Cameron</speaker><content>Did you see House’s new car?</content></utterance>
+<utterance uid="18-2"><speaker>Chase</speaker><content>Joey. He obviously can’t keep it.</content></utterance>
+<utterance uid="18-3"><speaker>Cameron</speaker><content>You don’t mind the hospital taking money from Vogler?</content></utterance>
+<utterance uid="18-4"><speaker>Chase</speaker><content>That’s different, Vogler’s legit.</content></utterance>
+<utterance uid="18-5"><speaker>Cameron</speaker><content>That’s worse. Vogler’s money came with strings.</content></utterance>
+<utterance uid="18-6"><speaker>Chase</speaker><content>Vogler doesn’t set me up to have a mobster take a swing at me.</content></utterance>
+<utterance uid="18-7"><speaker>Cameron</speaker><content>I’m sure House didn’t know –</content></utterance>
+<utterance uid="18-8"><speaker>Foreman</speaker><content> Joey’s pressure dropped. Pushed IV fluids, now he’s holding 100 systolic.</content></utterance>
+<utterance uid="18-9"><speaker>Cameron</speaker><content>Septic?</content></utterance>
+<utterance uid="18-10"><speaker>Foreman</speaker><content>No, looks like he’s bleeding into his liver.</content></utterance>
+<utterance uid="18-11"><speaker>Chase</speaker><content>Varices. You see it with chronic Hep-C all the time.</content></utterance>
+<utterance uid="18-12"><speaker>House</speaker><content> Biopsy’s back. Two findings. Number one: lymphocytic infiltrate and no bridging fibrosis.</content></utterance>
+<utterance uid="18-13"><speaker>Foreman</speaker><content>Well, whatever’s killing him is not Hep-C. It’s acute.</content></utterance>
+<utterance uid="18-14"><speaker>House</speaker><content>Who said that? I forget. What are you doing here? I told you you were off the case.</content></utterance>
+<utterance uid="18-15"><speaker>Foreman</speaker><content>Right. Your diabolic plan to convince the evil genius he’s in the clear so he’ll let his guard down and make a fatal mistake, sure.</content></utterance>
+<utterance uid="18-16"><speaker>House</speaker><content>Well, it’s clearly not going to work now.</content></utterance>
+<utterance uid="18-17"><speaker>Chase</speaker><content>What evil genius?</content></utterance>
+<utterance uid="18-18"><speaker>House</speaker><content>If we knew that, then we wouldn’t need a diabolic plan now, would we?</content></utterance>
+<utterance uid="18-19"><speaker>Foreman</speaker><content>House thinks someone ratted him out to Vogler.</content></utterance>
+<utterance uid="18-20"><speaker>Chase</speaker><content>Oh, what? One of us?</content></utterance>
+<utterance uid="18-21"><speaker>House</speaker><content>No, you guys love me too much.</content></utterance>
+<utterance uid="18-22"><speaker>Chase</speaker><content>All right, look, if it’s not the Hep-C, then what’s the problem? What’s causing the liver failure?</content></utterance>
+<utterance uid="18-23"><speaker>House</speaker><content>Finding number two: toxins.</content></utterance>
+<utterance uid="18-24"><speaker>Cameron</speaker><content>No. He’s only 30 years old and his job doesn’t expose him to heavy metals or environmental –</content></utterance>
+<utterance uid="18-25"><speaker>House</speaker><content>He’s a 30-year-old mobster. He doesn’t have a job that results in accidental exposure to toxins, he has a job that results in intentional exposure to toxins. Someone’s poisoned him.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>House</speaker><content>Whatever this toxin is, it’s doing its job and fast. How long do we have until the next round of test results?</content></utterance>
+<utterance uid="19-2"><speaker>Chase</speaker><content>About four hours.</content></utterance>
+<utterance uid="19-3"><speaker>Foreman</speaker><content>Too bad his liver’s only going to last another two.</content></utterance>
+<utterance uid="19-4"><speaker>Cameron</speaker><content>We’re going to have to get him a new one.</content></utterance>
+<utterance uid="19-5"><speaker>Chase</speaker><content>What, in two hours?</content></utterance>
+<utterance uid="19-6"><speaker>House</speaker><content>There is another way. Relax, it’s kosher.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>Bill</speaker><content>This is so bizarre.</content></utterance>
+<utterance uid="20-2"><speaker>Chase</speaker><content>Not really. We just take the blood out of Joey’s body and run it through a pig.  The pig’s liver does what Joey’s can’t, cleans the blood, which we send right back to him.</content></utterance>
+<utterance uid="20-3"><speaker>Bill</speaker><content>And the pig makes him better?</content></utterance>
+<utterance uid="20-4"><speaker>Chase</speaker><content>No, just buys us some time to figure out what’s poisoning your brother.</content></utterance>
+<utterance uid="20-5"><speaker>Bill</speaker><content>Like you do this all the time?</content></utterance>
+<utterance uid="20-6"><speaker>Chase</speaker><content>Oh, we’ve basically got a barn in the basement.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>Cameron</speaker><content>Cross off hemlock.</content></utterance>
+<utterance uid="21-2"><speaker>Foreman</speaker><content>You thought he was being poisoned by hemlock? Dr. Euripides tell you to check for that?</content></utterance>
+<utterance uid="21-3"><speaker>Cameron</speaker><content>Grows wild by the highways out here.</content></utterance>
+<utterance uid="21-4"><speaker>Foreman</speaker><content>How much do you like House?</content></utterance>
+<utterance uid="21-5"><speaker>Cameron</speaker><content>Chase has a big mouth.</content></utterance>
+<utterance uid="21-6"><speaker>Foreman</speaker><content>Yeah. He's probably the one who ratted to Vogler.</content></utterance>
+<utterance uid="21-7"><speaker>Cameron</speaker><content>I don't think that he would --</content></utterance>
+<utterance uid="21-8"><speaker>Foreman</speaker><content>Does it hurt when you're with House? Little pain in the tummy, but it sort of feels good, too?</content></utterance>
+<utterance uid="21-9"><speaker>Cameron</speaker><content>I don't have the right to show interest in someone?</content></utterance>
+<utterance uid="21-10"><speaker>Foreman</speaker><content>You absolutely do, and I absolutely have the right to humiliate you for it. </content></utterance>
+<utterance uid="21-11"><speaker>House</speaker><content>Anything?</content></utterance>
+<utterance uid="21-12"><speaker>Foreman</speaker><content>White blood count's low; probably a result of the illness, nothing to connect to the liver.</content></utterance>
+<utterance uid="21-13"><speaker>House</speaker><content>Is he a smoker?</content></utterance>
+<utterance uid="21-14"><speaker>Cameron</speaker><content>Let me check. </content></utterance>
+<utterance uid="21-15"><speaker>House</speaker><content>Early signs of emphysema. He's been smoking at least a dozen years.</content></utterance>
+<utterance uid="21-16"><speaker>Cameron</speaker><content>18. You got that from the white count?</content></utterance>
+<utterance uid="21-17"><speaker>House</speaker><content>Nope, got that from the chest x-ray. White count just tells me he's quitting. </content></utterance>
+<utterance uid="21-18"><speaker>Cameron</speaker><content>Two weeks ago. </content></utterance>
+<utterance uid="21-19"><speaker>Foreman</speaker><content>How’s your tummy?</content></utterance>
+<utterance uid="21-20"><speaker>Cameron</speaker><content>Flat and taut.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>Brady</speaker><content>I’ve been on the job for 12 years.</content></utterance>
+<utterance uid="22-2"><speaker>Everhardt</speaker><content>You put $3,000 in your wife’s checking account this morning. I want to know where it came from.</content></utterance>
+<utterance uid="22-3"><speaker>Brady</speaker><content>I got a perfect record.</content></utterance>
+<utterance uid="22-4"><speaker>Everhardt</speaker><content>Where did you get the money.</content></utterance>
+<utterance uid="22-5"><speaker>House</speaker><content>Cancel the thumb screws, I’ve got our culprit.</content></utterance>
+<utterance uid="22-6"><speaker>Everhardt</speaker><content>Who?</content></utterance>
+<utterance uid="22-7"><speaker>House</speaker><content>Not who, Hu.</content></utterance>
+<utterance uid="22-8"><speaker>Everhardt</speaker><content>Huh?</content></utterance>
+<utterance uid="22-9"><speaker>House</speaker><content>Thanks for playing along. Chai Hu, a Chinese herb in his quit smoking candy. Reduces cravings, also reduces his white blood count. Oh yeah, he also took enough of them to poison himself. We’ll keep him on the pig for a few more hours, then take him off the candy, he’ll be fine. Pig won’t be. Oh no.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>Joey</speaker><content>Hey.</content></utterance>
+<utterance uid="23-2"><speaker>Bill</speaker><content>Hey, you feeling better?</content></utterance>
+<utterance uid="23-3"><speaker>Joey</speaker><content>Famished.</content></utterance>
+<utterance uid="23-4"><speaker>Bill</speaker><content>I think they’ve got fish sticks on the menu.</content></utterance>
+<utterance uid="23-5"><speaker>Joey</speaker><content>Makes me miss prison.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>Wilson</speaker><content>So, the mobster’s good to go?</content></utterance>
+<utterance uid="24-2"><speaker>House</speaker><content>I’ll keep him overnight, then let the feds know he’s good to rat out whoever he wants.</content></utterance>
+<utterance uid="24-3"><speaker>Wilson</speaker><content>Brother won’t be happy.</content></utterance>
+<utterance uid="24-4"><speaker>House</speaker><content>Maybe have to give back the car.</content></utterance>
+<utterance uid="24-5"><speaker>Wilson</speaker><content>You should let Vogler tell the feds.</content></utterance>
+<utterance uid="24-6"><speaker>House</speaker><content>Why?</content></utterance>
+<utterance uid="24-7"><speaker>Wilson</speaker><content>Because it matters to him. Because you humiliated him the first time Joey was released. You think you should still be in third there, ace?</content></utterance>
+<utterance uid="24-8"><speaker>House</speaker><content>He humiliated himself.</content></utterance>
+<utterance uid="24-9"><speaker>Wilson</speaker><content>And because your job depends on the kind of mood Vogler’s in at the end of his marathon with Cuddy. Seriously, man, have you ever driven an automobile before? There are four gears, you know.</content></utterance>
+<utterance uid="24-10"><speaker>House</speaker><content>The ’66 came with a Shut Up button.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>House</speaker><content>It is my medical opinion that the patient is healthy and can be released.</content></utterance>
+<utterance uid="25-2"><speaker>Vogler</speaker><content>Thanks for letting us know.  Give me the U.S. Attorney’s office.</content></utterance>
+<utterance uid="25-3"><speaker>Cuddy</speaker><content> I see you’ve found out what we’re meeting about.</content></utterance>
+<utterance uid="25-4"><speaker>House</speaker><content>You’re having a meeting?</content></utterance>
+<utterance uid="25-5"><speaker>Cuddy</speaker><content>Well, whatever the reason, the coat looks good on you.  Chai Hu lozenges cause this kind of liver failure, no way!</content></utterance>
+<utterance uid="25-6"><speaker>House</speaker><content>Not by themselves, but in combination with the Interferon it’s like gas to a flame.</content></utterance>
+<utterance uid="25-7"><speaker>Cuddy</speaker><content>What Interferon?</content></utterance>
+<utterance uid="25-8"><speaker>House</speaker><content>For the Hep-C.</content></utterance>
+<utterance uid="25-9"><speaker>Cuddy</speaker><content>What Hep-C?</content></utterance>
+<utterance uid="25-10"><speaker>House</speaker><content>Oops.</content></utterance>
+<utterance uid="25-11"><speaker>Cuddy</speaker><content>Is hiding a mobster’s Hep-C that important?</content></utterance>
+<utterance uid="25-12"><speaker>House</speaker><content>Is letting the feds know everything that important? </content></utterance>
+<utterance uid="25-13"><speaker>Cuddy</speaker><content>You know, you are a piece of work, even now.</content></utterance>
+<utterance uid="25-14"><speaker>House</speaker><content>Ed!</content></utterance>
+<utterance uid="25-15"><speaker>Vogler</speaker><content>Edward.</content></utterance>
+<utterance uid="25-16"><speaker>House</speaker><content>Joey’s back in a coma.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>Chase</speaker><content>He’s stable, but comatose.</content></utterance>
+<utterance uid="26-2"><speaker>Foreman</speaker><content>Worse than before, he’s on a ventilator.</content></utterance>
+<utterance uid="26-3"><speaker>House</speaker><content>Question is, why? It’s not his brain, it’s not a toxin. Our friend Babe helped with that one. So what else?</content></utterance>
+<utterance uid="26-4"><speaker>Chase</speaker><content>The Hep-C. We never really treated it, we stopped the Interferon when it started poisoning his liver.</content></utterance>
+<utterance uid="26-5"><speaker>House</speaker><content>Am I going to have to write a song about it? His chronic Hep-C was not bad enough to produce these symptoms.</content></utterance>
+<utterance uid="26-6"><speaker>Foreman</speaker><content>The estrogen level indicates it is.</content></utterance>
+<utterance uid="26-7"><speaker>House</speaker><content>Indicates something else entirely.</content></utterance>
+<utterance uid="26-8"><speaker>Cameron</speaker><content>We can’t give him Interferon now. There’s still traces of the lozenges in his system. It’ll just poison him again,</content></utterance>
+<utterance uid="26-9"><speaker>Chase</speaker><content>Genetics. We don’t just treat the virus, we change it. A non-nucleoside allosteric inhibitor.</content></utterance>
+<utterance uid="26-10"><speaker>Foreman</speaker><content>It’s never been tried on a human being. It could kill him.</content></utterance>
+<utterance uid="26-11"><speaker>Chase</speaker><content>Well, what’s the difference? He’s dead without it.</content></utterance>
+<utterance uid="26-12"><speaker>Foreman</speaker><content>They’re running a trial on dogs at St. Sebastian’s in Philadelphia. I’ll make the call.</content></utterance>
+<utterance uid="26-13"><speaker>House</speaker><content> What else could cause his estrogen level to be that high?</content></utterance>
+<utterance uid="26-14"><speaker>Cameron</speaker><content>Nothing. </content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>Chase</speaker><content>We’re going to put the medicine here. We don’t want it to burn his veins when it goes in.</content></utterance>
+<utterance uid="27-2"><speaker>Bill</speaker><content>You have no idea if it will work.</content></utterance>
+<utterance uid="27-3"><speaker>Chase</speaker><content>It’s shown promise in testing.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>Henry</speaker><content>Maybe there’s nothing up there, I watched him like a hawk. </content></utterance>
+<utterance uid="28-2"><speaker>House</speaker><content>Pretty sure you didn’t.</content></utterance>
+<utterance uid="28-3"><speaker>Henry</speaker><content>I didn’t let him play with any more little toys.</content></utterance>
+<utterance uid="28-4"><speaker>House</speaker><content>Thus forcing him to shove a big one up there.  Stop or I snap your nose off! </content></utterance>
+<utterance uid="28-5"><speaker>Henry</speaker><content>He’s not too smart.</content></utterance>
+<utterance uid="28-6"><speaker>House</speaker><content>Genetics is a powerful force. On the other hand, maybe he’s smarter than you think.</content></utterance>
+<utterance uid="28-7"><speaker>Henry</speaker><content>What’s going on?</content></utterance>
+<utterance uid="28-8"><speaker>House</speaker><content>Just give me a second. Always wanted to use one of these.  Tilt his head back.</content></utterance>
+<utterance uid="28-9"><speaker>Henry</speaker><content>I don’t know.</content></utterance>
+<utterance uid="28-10"><speaker>House</speaker><content>Just tilt his head back.  Nice grasp of concepts, relationships. Very smart, very cool. First the policeman, fireman, fire truck. Your brother was sending in teams to save the cat.</content></utterance>
+<utterance uid="28-11"><speaker>Henry</speaker><content>Wow.</content></utterance>
+<utterance uid="28-12"><speaker>House</speaker><content>Sometimes the simplest answer… </content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>House</speaker><content>Most types of coma you just don’t snap out of. </content></utterance>
+<utterance uid="29-2"><speaker>Chase</speaker><content>He’s not snapping out of this one, he’s not improving. You crossed out estrogen, you’ve got an explanation?</content></utterance>
+<utterance uid="29-3"><speaker>House</speaker><content>Yes, I have. A very simple one.</content></utterance>
+<utterance uid="29-4"><speaker>Chase</speaker><content>And?</content></utterance>
+<utterance uid="29-5"><speaker>House</speaker><content>It’s private.</content></utterance>
+<utterance uid="29-6"><speaker>Chase</speaker><content>You think I’m the one running to Vogler.</content></utterance>
+<utterance uid="29-7"><speaker>House</speaker><content>You’re currently top of the list. Toxic comas, person’s away from the cause long enough and they recover.</content></utterance>
+<utterance uid="29-8"><speaker>Chase</speaker><content>The feds checked for poisons, we checked for poisons. I didn’t do it.</content></utterance>
+<utterance uid="29-9"><speaker>House</speaker><content>It’s not a poison, then.</content></utterance>
+<utterance uid="29-10"><speaker>Chase</speaker><content>An allergy, then. Did you hear me?</content></utterance>
+<utterance uid="29-11"><speaker>House</speaker><content>How about a food sensitivity?</content></utterance>
+<utterance uid="29-12"><speaker>Chase</speaker><content>All of his food is strictly controlled. There’s no correlation between his meals and his condition. He had steak and potatoes before the first coma, and the hospital served fish sticks before the second one. You can trust me.</content></utterance>
+<utterance uid="29-13"><speaker>House</speaker><content>Problem is, if I can’t trust you, I can’t trust your statement that I can trust you. But thanks anyway, you’ve been a big help.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>House</speaker><content>So where did you get the money?</content></utterance>
+<utterance uid="30-2"><speaker>Brady</speaker><content>What?</content></utterance>
+<utterance uid="30-3"><speaker>House</speaker><content>Someone paid you off.</content></utterance>
+<utterance uid="30-4"><speaker>Brady</speaker><content>What are you talking about? It wasn’t poison, you told us that it –</content></utterance>
+<utterance uid="30-5"><speaker>House</speaker><content>You’re talking about poison. I’m talking about payoff. Graft.</content></utterance>
+<utterance uid="30-6"><speaker>Bill</speaker><content>Leave him alone.</content></utterance>
+<utterance uid="30-7"><speaker>House</speaker><content>You paid the marshal off.</content></utterance>
+<utterance uid="30-8"><speaker>Bill</speaker><content>I didn’t pay him to poison my brother.</content></utterance>
+<utterance uid="30-9"><speaker>House</speaker><content>No, it just worked out that way.</content></utterance>
+<utterance uid="30-10"><speaker>Bill</speaker><content>I gave the guy some money to get him some decent food.</content></utterance>
+<utterance uid="30-11"><speaker>House</speaker><content>Better than fish sticks? I’m thinking steak.</content></utterance>
+<utterance uid="30-12"><speaker>Bill</speaker><content>We asked for pasta. Those stupid feds could care less –</content></utterance>
+<utterance uid="30-13"><speaker>House</speaker><content>He had steak before both comas. Your brother has Ornithine Transcarbamylase Deficiency. You want me to write it down? Good, because it takes a while. It’s genetic, it can present at any time. The patient eats a large amount of protein, especially if he’s not used to it.</content></utterance>
+<utterance uid="30-14"><speaker>Bill</speaker><content>That’s it? He stays off the red meat and he’s going to be fine?</content></utterance>
+<utterance uid="30-15"><speaker>House</speaker><content>Yes. If I’m right, and we stop the current treatment, he gets better. If we stop the current treatment and I’m wrong, he dies.</content></utterance>
+<utterance uid="30-16"><speaker>Bill</speaker><content>Why would you be wrong?</content></utterance>
+<utterance uid="30-17"><speaker>House</speaker><content>His estrogen level. OTD doesn’t explain his estrogen level. But I have a theory. There is one chemical that, if ingested, can cause a person’s estrogen level to increase dramatically. </content></utterance>
+<utterance uid="30-18"><speaker>Bill</speaker><content>What is it?</content></utterance>
+<utterance uid="30-19"><speaker>House</speaker><content>It’s called estrogen.</content></utterance>
+<utterance uid="30-20"><speaker>Bill</speaker><content>Joey’s taking estrogen? What, he wants a sex change?</content></utterance>
+<utterance uid="30-21"><speaker>House</speaker><content>No, nothing like that. It’s called Male Flame. It’s probably more consumer friendly in the original Chinese. It’s an herbal aphrodisiac marketed to gay men.</content></utterance>
+<utterance uid="30-22"><speaker>Bill</speaker><content>Oh, here we go.</content></utterance>
+<utterance uid="30-23"><speaker>House</speaker><content>And sold on the same website that sells his Chai Hu lozenges. Guess what’s in it? Starts with an “e”.</content></utterance>
+<utterance uid="30-24"><speaker>Bill</speaker><content>You want to get hit, too?</content></utterance>
+<utterance uid="30-25"><speaker>House</speaker><content>That would be quite a trick. “He slapped me so hard his brother turned straight.” Joey’s a big-time mobster. Guys like that don’t get raped in prison. They get gifts, they get food, drugs, cigarettes, cable TV…</content></utterance>
+<utterance uid="30-26"><speaker>Bill</speaker><content> Joey is not gay.</content></utterance>
+<utterance uid="30-27"><speaker>House</speaker><content>Well, maybe not gay, but certainly delightful. You, on the other hand, hitting a doctor, even if it was only Chase… and asking another one to keep his chart fresh and homo-free. Well, that’s a bit of an overreaction, wouldn’t you say? It’s almost like you’re scared that it might be true.</content></utterance>
+<utterance uid="30-28"><speaker>Bill</speaker><content>You’re wrong.</content></utterance>
+<utterance uid="30-29"><speaker>House</speaker><content>Okay. Then don’t stop the treatment.  But if you’re wrong, he dies.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>Bill</speaker><content>Okay.  He never said anything to me about it, not once.</content></utterance>
+<utterance uid="31-2"><speaker>House</speaker><content>That’s what I love about you mob guys: so tolerant of others, so accepting. Only way he was coming out was way, way out. Lose the tattoos, change his name, move to another town… how’s a guy like him going to do that? Witness protection. It’s not just for witnesses any more.</content></utterance>
+<utterance uid="31-3"><speaker>Chase</speaker><content>You can go in now, sit with him if you want. </content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>Bill</speaker><content>How much longer?</content></utterance>
+<utterance uid="32-2"><speaker>Foreman</speaker><content>It’s only been three hours. If it’s the OTD –</content></utterance>
+<utterance uid="32-3"><speaker>Bill</speaker><content>If it’s the OTD? What if House is wrong, huh?</content></utterance>
+<utterance uid="32-4"><speaker>Foreman</speaker><content>That severe a reaction, it’ll take some time –</content></utterance>
+<utterance uid="32-5"><speaker>Bill</speaker><content>He makes assumptions about people, talks you into things.</content></utterance>
+<utterance uid="32-6"><speaker>Cameron</speaker><content>Mr. Arnello. He’s awake. He wants to see you.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>Joey</speaker><content>You look like crap. That’s a joke, see. I’m sick, I said you look like crap –</content></utterance>
+<utterance uid="33-2"><speaker>Bill</speaker><content>You have no idea what I just went through out there. You kept getting worse, and Dr. House kept saying all this crap. If I think you’re normal, then he’s going to keep giving you the medicine, and if you weren’t… </content></utterance>
+<utterance uid="33-3"><speaker>Joey</speaker><content>Weren’t what?  Normal?</content></utterance>
+<utterance uid="33-4"><speaker>Bill</speaker><content>Yeah. He said you were a fag. Witness protection, that’s your big chance to be one.</content></utterance>
+<utterance uid="33-5"><speaker>Joey</speaker><content>You believe him?</content></utterance>
+<utterance uid="33-6"><speaker>Bill</speaker><content>I don’t know what to believe. You were sick. I had to make a decision. I thought you were gonna die.</content></utterance>
+<utterance uid="33-7"><speaker>Joey</speaker><content> You believed him. He stopped the medicine. Here I am.  I wanted to talk to you about this –</content></utterance>
+<utterance uid="33-8"><speaker>Bill</speaker><content>There’s nothing to talk about. You, uh, ordered some Chinese internet health crap, they sent the wrong pills, you took ‘em.</content></utterance>
+<utterance uid="33-9"><speaker>Joey</speaker><content>Yeah, yeah, that, uh, that must be it. </content></utterance>
+<utterance uid="33-10"><speaker>Bill</speaker><content>You want to testify, go ahead. I told the doc, he said it’s okay.</content></utterance>
+<utterance uid="33-11"><speaker>Joey</speaker><content>I don’t expect you to understand –</content></utterance>
+<utterance uid="33-12"><speaker>Bill</speaker><content>I don’t. All I need to know is you’re my brother, Joey. If you think this thing, whatever, is going to make you happy, I think you should do it. You should. </content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>Cuddy</speaker><content>Vogler wants to fire you. Lose the whole department.</content></utterance>
+<utterance uid="34-2"><speaker>House</speaker><content>Good thing you fought for me, though, right? The dress was a nice move, but you’ve got to follow it up. Nasty weekend in Vegas, something that shows off your real administrative skills. </content></utterance>
+<utterance uid="34-3"><speaker>Cuddy</speaker><content>He threatened to fire me. </content></utterance>
+<utterance uid="34-4"><speaker>House</speaker><content>I’m sorry. So, how long do I have? I’ve a lot of personal stuff to pack up. I assume you’re going to want to throw a party.</content></utterance>
+<utterance uid="34-5"><speaker>Cuddy</speaker><content>I told him I know where the bodies are buried, the stuff he needs to know that’s not in the books. Told him he can’t ditch me.</content></utterance>
+<utterance uid="34-6"><speaker>House</speaker><content>He’s only keeping you on because you know the secret handshakes. He’s a quick study. Six months, he’ll have the moves down. Then he won’t need you any more.</content></utterance>
+<utterance uid="34-7"><speaker>Cuddy</speaker><content>I’ll deal with that then.</content></utterance>
+<utterance uid="34-8"><speaker>House</speaker><content>So I stay.</content></utterance>
+<utterance uid="34-9"><speaker>Cuddy</speaker><content>Yes. But some things are going to change.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>House</speaker><content>Profits. New world order.</content></utterance>
+<utterance uid="35-2"><speaker>Wilson</speaker><content>Huh.</content></utterance>
+<utterance uid="35-3"><speaker>House</speaker><content>Everything’s about profits.</content></utterance>
+<utterance uid="35-4"><speaker>Wilson</speaker><content>Yeah, that’s real new. You could rent out the Corvette every once in a while, or lend it to a friend.</content></utterance>
+<utterance uid="35-5"><speaker>House</speaker><content>That would be easy, and it would be wrong.</content></utterance>
+<utterance uid="35-6"><speaker>Wilson</speaker><content>But Cuddy stood up for you.</content></utterance>
+<utterance uid="35-7"><speaker>House</speaker><content>To a point.</content></utterance>
+<utterance uid="35-8"><speaker>Wilson</speaker><content>To what point?</content></utterance>
+<utterance uid="35-9"><speaker>House</speaker><content>I gotta do six more clinic hours a month. So do two of them. </content></utterance>
+<utterance uid="35-10"><speaker>Wilson</speaker><content>Why only two?</content></utterance>
+<utterance uid="35-11"><speaker>House</speaker><content>‘Cause one of them’s gone. I gotta fire somebody.  Good morning.</content></utterance>
+</scene>
+</script>

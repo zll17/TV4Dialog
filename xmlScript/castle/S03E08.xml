@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+
+<scene id="1"><utterance uid="1-1"><speaker>RICHARD CASTLE</speaker><content>Oh. Science project?</content></utterance>
+<utterance uid="1-2"><speaker>ALEXIS</speaker><content>No, it’s a pet. Say hello to Theodore, Dad. I’m rat-sitting him for Ashley.</content></utterance>
+<utterance uid="1-3"><speaker>CASTLE</speaker><content> Hello, Theodore. How goes the rat race?</content></utterance>
+<utterance uid="1-4"><speaker>ALEXIS</speaker><content>Did you know the average lifespan of a rat is two to three years? Ashley has had Theodore for five. And this is the first time he’s left him with anyone.</content></utterance>
+<utterance uid="1-5"><speaker>CASTLE</speaker><content>Trusting you with a treasured pet. That’s a big step in a relationship.</content></utterance>
+<utterance uid="1-6"><speaker>ALEXIS</speaker><content>Yeah. I guess it kind of is.</content></utterance>
+<utterance uid="1-7"><speaker>MARTHA RODGERS</speaker><content>I must say, the little plague pusher is not very diligent about his exercise.  I don’t know why. I think it’s just those beady little eyes.</content></utterance>
+<utterance uid="1-8"><speaker>CASTLE</speaker><content>It’s a rat, Mother. They all have beady eyes. That’s where the phrase comes from.</content></utterance>
+<utterance uid="1-9"><speaker>ALEXIS</speaker><content>Dad, those are for Theodore. He has a very specific diet I’m supposed to follow.</content></utterance>
+<utterance uid="1-10"><speaker>CASTLE</speaker><content>Well, unless he’s Ben I’m sure he won’t hold it against me.  If anyone needs me, I’ll be in the park with a dead body.</content></utterance>
+<utterance uid="1-11"><speaker>ALEXIS</speaker><content> Who’s Ben?</content></utterance>
+<utterance uid="1-12"><speaker>MARTHA</speaker><content>Killer rat movie. Before your time.</content></utterance>
+</scene>
+
+<scene id="2"><utterance uid="2-1"><speaker>CASTLE</speaker><content>You know, I understand ferrets as a pet. Snakes, spiders, even a hairless mole, but a rat?</content></utterance>
+<utterance uid="2-2"><speaker>BECKETT</speaker><content>Probably kids in the city who keep cockroaches as pets.</content></utterance>
+<utterance uid="2-3"><speaker>CASTLE</speaker><content>Ah, you’re probably right. What’s the strangest pet you’ve ever had?</content></utterance>
+<utterance uid="2-4"><speaker>BECKETT</speaker><content> You. Hey Lanie.</content></utterance>
+<utterance uid="2-5"><speaker>CASTLE</speaker><content>What’s this, a hit and run?</content></utterance>
+<utterance uid="2-6"><speaker>LANIE PARISH</speaker><content>In a manner of speaking. Two BMX bikers rode over the body, then called it in. But the cause of death are the gunshot wounds. One to the chest and two more in the back.</content></utterance>
+<utterance uid="2-7"><speaker>BECKETT</speaker><content>So he’s wounded on both sides?</content></utterance>
+<utterance uid="2-8"><speaker>CASTLE</speaker><content>Maybe there were two shooters? And he was caught in the crossfire?</content></utterance>
+<utterance uid="2-9"><speaker>LANIE</speaker><content>Won’t know ‘til I get him back to the lab.</content></utterance>
+<utterance uid="2-10"><speaker>BECKETT</speaker><content>Got an ID?</content></utterance>
+<utterance uid="2-11"><speaker>LANIE</speaker><content>Leonard Levitt, Ozark Park, Queens. Wallet, cash, keys … everything’s still here.</content></utterance>
+<utterance uid="2-12"><speaker>BECKETT</speaker><content>Which means it wasn’t theft.</content></utterance>
+<utterance uid="2-13"><speaker>CASTLE</speaker><content>No.  Something much more nefarious. A feather.  Alternating stripes, uniform color …  This is no ordinary pigeon feather. This is from a bird of prey.</content></utterance>
+<utterance uid="2-14"><speaker>BECKETT</speaker><content>So what are you suggesting, Castle? That a bird shot him three times?</content></utterance>
+<utterance uid="2-15"><speaker>CASTLE</speaker><content>Not just any bird. This is the calling card of a murderer known only as The Falcon Killer.</content></utterance>
+<utterance uid="2-16"><speaker>BECKETT</speaker><content> Or, maybe before getting shot he just bent down and picked up the feather.</content></utterance>
+<utterance uid="2-17"><speaker>CASTLE</speaker><content>See, that’s why you’ll never be a bestselling novelist. No sense of drama.</content></utterance>
+<utterance uid="2-18"><speaker>BECKETT</speaker><content>I find that dead bodies are usually enough. . Thanks, Lanie.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>JAVIER ESPOSITO</speaker><content>Yo, so we ran background on your vic. It’s pretty thin. He was a New York City Transit employee, worked in the subway out of 116th Street station.</content></utterance>
+<utterance uid="3-2"><speaker>BECKETT</speaker><content>He worked uptown and he lived in Queens? Then what was he doing in the park? That’s pretty out of the way.</content></utterance>
+<utterance uid="3-3"><speaker>ESPOSITO</speaker><content>Well, we thought that he was looking to buy some weed or some love, but he has no drug history, no convictions of solicitations, no nothing.</content></utterance>
+<utterance uid="3-4"><speaker>BECKETT</speaker><content>What about his family?</content></utterance>
+<utterance uid="3-5"><speaker>KEVIN RYAN</speaker><content>Both parents are deceased, guy never married, has no children. It’s like he barely existed.</content></utterance>
+<utterance uid="3-6"><speaker>CASTLE</speaker><content>Making him the perfect victim. Mild mannered city employee, lured into a conveniently wooded area, struck down by a murderer with the speed and cunning of a bird of prey.</content></utterance>
+<utterance uid="3-7"><speaker>BECKETT</speaker><content>Don’t ask. You guys go to his apartment. Find out who he is and what he was doing in the park.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>LANIE</speaker><content>Lividity and temperature puts time of death between five and seven PM. The victim also has a broken wrist; could be post mortem from those BMXers playing X Games on his corpse.</content></utterance>
+<utterance uid="4-2"><speaker>BECKETT</speaker><content>What about the gunshot wounds?</content></utterance>
+<utterance uid="4-3"><speaker>LANIE</speaker><content>All three entry wounds were made by the same weapon, a .45. There was only one shooter.</content></utterance>
+<utterance uid="4-4"><speaker>BECKETT</speaker><content>So the same person shot him in the front and then shot him in the back?</content></utterance>
+<utterance uid="4-5"><speaker>LANIE</speaker><content>Didn’t make any sense to me, either, so I decided to take some measurements. Turns out, the wounds are of different depths.</content></utterance>
+<utterance uid="4-6"><speaker>LANIE</speaker><content>The wound on his chest is very shallow, indicating the shot came from a distance.</content></utterance>
+<utterance uid="4-7"><speaker>CASTLE</speaker><content>How far?</content></utterance>
+<utterance uid="4-8"><speaker>LANIE</speaker><content>About a hundred and fifty feet.</content></utterance>
+<utterance uid="4-9"><speaker>CASTLE</speaker><content>That’s quite an accurate shot with a handgun.</content></utterance>
+<utterance uid="4-10"><speaker>LANIE</speaker><content>Yeah, I’d say your shooter had some shooting experience. But the next two shots, in the back, were close range. Inside six feet, maybe.</content></utterance>
+<utterance uid="4-11"><speaker>BECKETT</speaker><content>So he got shot in the chest at long range, turned around to run –</content></utterance>
+<utterance uid="4-12"><speaker>CASTLE</speaker><content>But he’s wounded. The killer goes after him to finish what he’s started with a double tap to the back.</content></utterance>
+<utterance uid="4-13"><speaker>BECKETT</speaker><content>He wasn’t just shot. He was hunted down and killed.</content></utterance>
+<utterance uid="4-14"><speaker>CASTLE</speaker><content>But why?</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>RYAN</speaker><content>What was this guy up to?</content></utterance>
+<utterance uid="5-2"><speaker>ESPOSITO</speaker><content>No idea.</content></utterance>
+<utterance uid="5-3"><speaker>ESPOSITO</speaker><content>What abut that?</content></utterance>
+<utterance uid="5-4"><speaker>RYAN</speaker><content>Looks like some sort of counter.</content></utterance>
+<utterance uid="5-5"><speaker>ESPOSITO</speaker><content>What do you think he was counting?</content></utterance>
+<utterance uid="5-6"><speaker>RYAN</speaker><content>Nothing good. Night vision, spotting scope, parabolic microphone. Top quality, too. What’s a subway worker doing with all this?</content></utterance>
+<utterance uid="5-7"><speaker>ESPOSITO</speaker><content>I don’t know. Whatever he was up to, it had something to do with the park.  Look. This is right where his body was found.</content></utterance>
+<utterance uid="5-8"><speaker>RYAN</speaker><content>Five twenty-six. That’s right around our time of death.</content></utterance>
+<utterance uid="5-9"><speaker>ESPOSITO</speaker><content>Looks like he was tracing something, or someone, with the initials BHS.</content></utterance>
+<utterance uid="5-10"><speaker>RYAN</speaker><content>And it looks like that someone found him.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>CASTLE</speaker><content>Surveillance equipment, clandestine meetings, a professional hit? Mix in the subway and we’re looking at The Taking of Pellham 123, or better yet, Money Train. And one of these people could be a secret accomplice. That’s what I love about the subway. Down here everyone’s got a story.</content></utterance>
+<utterance uid="6-2"><speaker>BECKETT</speaker><content>See, that’s the difference between you and me, Castle. You see the subway as a place to pick up dialogue for your novels.</content></utterance>
+<utterance uid="6-3"><speaker>CASTLE</speaker><content>Or the occasional investment banker on her way to the gym.</content></utterance>
+<utterance uid="6-4"><speaker>BECKETT</speaker><content>I, on the other hand, see it as a way of getting from point A to point B.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>MARIO</speaker><content>Lightbulb Len’s dead, huh?</content></utterance>
+<utterance uid="7-2"><speaker>CASTLE</speaker><content>Lightbulb Len?</content></utterance>
+<utterance uid="7-3"><speaker>MARIO</speaker><content>Yeah, it was his job to change the light bulbs in the stations and tunnels all over New York. I figured something was wrong. It’s the first time he’s missed work in twenty two years.</content></utterance>
+<utterance uid="7-4"><speaker>BECKETT</speaker><content>Mr. Rivera, Len was found shot to death in the park. Any idea what he was doing there?</content></utterance>
+<utterance uid="7-5"><speaker>MARIO</speaker><content>The guy changed light bulbs for a living, You know, a job like that, it’s not for the social. I mean, for the twelve years I was his supervisor, I don’t think we ever had one personal conversation.</content></utterance>
+<utterance uid="7-6"><speaker>MARIO</speaker><content>But you know who you should talk to?</content></utterance>
+<utterance uid="7-7"><speaker>BECKETT</speaker><content>Who?</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>BECKETT</speaker><content>Mr. Sansone!  Arthur!</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>ARTHUR</speaker><content>I’m sorry. It’s just … why would anybody want to shoot him?</content></utterance>
+<utterance uid="9-2"><speaker>BECKETT</speaker><content>Well we were hoping that you could tell us that.</content></utterance>
+<utterance uid="9-3"><speaker>ARTHUR</speaker><content>The guy was one of the unsung heroes of this city. He saved a lot of lives.</content></utterance>
+<utterance uid="9-4"><speaker>CASTLE</speaker><content>I’m sorry. I thought … I thought he changed light bulbs.</content></utterance>
+<utterance uid="9-5"><speaker>ARTHUR</speaker><content>Bad things happen in darkness, Mr. Castle. Dimly lit tunnels, darkened stairwells … if Len heard about a blown bulb before shift end he would stay late on his own time to fix it. And of course there was his response to the Abe Lipschitz tragedy.  1989? An electrocution of a bulb changer at the Brighton Beach station?</content></utterance>
+<utterance uid="9-6"><speaker>ARTHUR</speaker><content>This is a circuit interrupter switch.  Shuts down all the power inside a tunnel so that electrical maintenance could be performed safely.  Down here it’s called the Lenny Box, because it took a visionary like Len Levitt to design it and force the transit authority to install one in every station in this city.</content></utterance>
+<utterance uid="9-7"><speaker>BECKETT</speaker><content>What about high tech gear? Did Lenny ever use any night vision or microphones for his work?</content></utterance>
+<utterance uid="9-8"><speaker>ARTHUR</speaker><content>No, why?</content></utterance>
+<utterance uid="9-9"><speaker>CASTLE</speaker><content>How about the initials BHS? Does that mean anything to you? Maybe someone or something that Len was keeping tabs on?</content></utterance>
+<utterance uid="9-10"><speaker>ARTHUR</speaker><content>The only thing that Len Levitt ever kept tabs on was every single bulb he ever changed.</content></utterance>
+<utterance uid="9-11"><speaker>BECKETT</speaker><content>Did he have any enemies that you know of?</content></utterance>
+<utterance uid="9-12"><speaker>ARTHUR</speaker><content>You don’t make waves without making a few enemies. Because of Len we’re in the middle of a system wide changeover from incandescent to compact fluorescents. New technology comes in, the city ends up with a warehouse of old bulbs. That makes some guy in a suit at the old bulb factory very unhappy. You ask me? Corporations conspired to take Lenny out.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>ESPOSITO</speaker><content>Lenny Box. So the guy’s an inventor.</content></utterance>
+<utterance uid="10-2"><speaker>CASTLE</speaker><content>Apparently he was an underground renaissance man.</content></utterance>
+<utterance uid="10-3"><speaker>ESPOSITO</speaker><content>Guess that explains all the electronics.</content></utterance>
+<utterance uid="10-4"><speaker>CASTLE</speaker><content>Yeah, and the counter in his apartment. All the light bulbs he changed.</content></utterance>
+<utterance uid="10-5"><speaker>ESPOSITO</speaker><content>Seriously, this guy changed over a million light bulbs?</content></utterance>
+<utterance uid="10-6"><speaker>CASTLE</speaker><content>The man was an unsung hero, all right? Cut down by the forces of Big Bulb.</content></utterance>
+<utterance uid="10-7"><speaker>ESPOSITO</speaker><content>Big Bulb?</content></utterance>
+<utterance uid="10-8"><speaker>CASTLE</speaker><content>The filament industrial complex.</content></utterance>
+<utterance uid="10-9"><speaker>BECKETT</speaker><content>Lenny’s buddy is delusional if he actually thinks that Lenny was killed by a light bulb conspiracy.</content></utterance>
+<utterance uid="10-10"><speaker>RYAN</speaker><content>Ah … I wouldn’t dismiss our subterranean friend just yet. I was running through Len’s phone records and one jumped out.</content></utterance>
+<utterance uid="10-11"><speaker>BECKETT</speaker><content>The outgoing call to the New York City employee tip line?</content></utterance>
+<utterance uid="10-12"><speaker>RYAN</speaker><content> It’s where you call to rat out your coworkers.</content></utterance>
+<utterance uid="10-13"><speaker>CASTLE</speaker><content>Must rat always be used in the pejorative? In the Chinese zodiac, the rat is the –</content></utterance>
+<utterance uid="10-14"><speaker>BECKETT</speaker><content>What was the tip?</content></utterance>
+<utterance uid="10-15"><speaker>RYAN</speaker><content>Well, all those incandescent bulb they were replacing? Levitt claims that he has evidence that his supervisor was stealing them and then reselling them on the black market.</content></utterance>
+<utterance uid="10-16"><speaker>BECKETT</speaker><content>You mean Mario Rivera?</content></utterance>
+<utterance uid="10-17"><speaker>RYAN</speaker><content>The same. The charges pan out, the guy could lose his job and his pension. Oh and get this, before he was in the Transit Authority, Mario was in the Marine Corps where he won a weapons medal for sharpshooting.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>BECKETT</speaker><content>Where were you last night between five and seven PM?</content></utterance>
+<utterance uid="11-2"><speaker>MARIO</speaker><content>Working.</content></utterance>
+<utterance uid="11-3"><speaker>BECKETT</speaker><content>We checked. You clocked out at four thirty-four.</content></utterance>
+<utterance uid="11-4"><speaker>CASTLE</speaker><content>You hopped the B or the D, down to 59th Street in the express lane, that takes, what? Ten minutes? Plenty of time to get to the park, kill Len.</content></utterance>
+<utterance uid="11-5"><speaker>MARIO</speaker><content>Why would I kill Len?</content></utterance>
+<utterance uid="11-6"><speaker>CASTLE</speaker><content>Because he filed a report against you with the Transit Authority when he found out about Costa Rica.</content></utterance>
+<utterance uid="11-7"><speaker>MARIO</speaker><content>What the hell are you guys talking about?</content></utterance>
+<utterance uid="11-8"><speaker>BECKETT</speaker><content>These are emails that were sent from you to your contact in Costa Rica.</content></utterance>
+<utterance uid="11-9"><speaker>MARIO</speaker><content>These are my private emails.</content></utterance>
+<utterance uid="11-10"><speaker>BECKETT</speaker><content>Sent from a workplace computer, which means we can look.</content></utterance>
+<utterance uid="11-11"><speaker>MARIO</speaker><content>So? I was thinking about taking a vacation down there.</content></utterance>
+<utterance uid="11-12"><speaker>CASTLE</speaker><content>Yeah. Drink a few cervezas, maybe going parasailing on the beach, sell some light bulbs to some locals.</content></utterance>
+<utterance uid="11-13"><speaker>BECKETT</speaker><content>The city has a warehouse full of old incandescent light bulbs that you figured no one would miss, so you sold them to a wholesaler in Costa Rica for twenty cents a pop. That’s a hundred grand.</content></utterance>
+<utterance uid="11-14"><speaker>CASTLE</speaker><content>Only someone did miss them. Someone with the word ‘lightbulb’ in his name. When you found out Len was on to you, you realized you could lose your job and your pension. You couldn’t afford to let him go to the transit authority with what he knew.</content></utterance>
+<utterance uid="11-15"><speaker>MARIO</speaker><content>I didn’t kill nobody.</content></utterance>
+<utterance uid="11-16"><speaker>BECKETT</speaker><content>Well then, why don’t you just come clean with what you did last night between five and seven? The thing about murderers, Mario, is that they tend to not have solid alibis.</content></utterance>
+<utterance uid="11-17"><speaker>CASTLE</speaker><content> Generally because they’re murdering somebody.</content></utterance>
+<utterance uid="11-18"><speaker>MARIO</speaker><content>Look. Those old light bulbs were just going to get destroyed and end up in a landfill. I was doing the city a favor. So I make a little extra. Who gets hurt?</content></utterance>
+<utterance uid="11-19"><speaker>CASTLE</speaker><content>Uh …  I’m going to go with Len.</content></utterance>
+<utterance uid="11-20"><speaker>BECKETT</speaker><content>Last chance, Mario.</content></utterance>
+<utterance uid="11-21"><speaker>MARIO</speaker><content>After work I went up to the Grand concourse to pack up a shipment of light bulbs. They went out to Costa Rica last night. You can check, I was there.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>ESPOSITO</speaker><content>Thanks.  He’s telling the truth. Len’s call to the tip line? Turns out the transit cops had him under surveillance all last week. His tail has him in the Bronx last night, just like he said.</content></utterance>
+<utterance uid="12-2"><speaker>BECKETT</speaker><content>Call the transit cops and tell them that we just closed their case for them.</content></utterance>
+<utterance uid="12-3"><speaker>ESPOSITO</speaker><content>Right.</content></utterance>
+<utterance uid="12-4"><speaker>CASTLE</speaker><content>So if light bulbs didn’t get Lenny killed, then what did?</content></utterance>
+<utterance uid="12-5"><speaker>BECKETT</speaker><content>You know, it can’t be a coincidence that he was killed right there at about the same time that he has written down.</content></utterance>
+<utterance uid="12-6"><speaker>CASTLE</speaker><content>And what does BHS stand for?</content></utterance>
+<utterance uid="12-7"><speaker>CASTLE</speaker><content>Bronx High School.</content></utterance>
+<utterance uid="12-8"><speaker>BECKETT</speaker><content>Hmm.</content></utterance>
+<utterance uid="12-9"><speaker>CASTLE</speaker><content> Big honkin’ stereo.</content></utterance>
+<utterance uid="12-10"><speaker>CASTLE</speaker><content>Boys have shoes?</content></utterance>
+<utterance uid="12-11"><speaker>RYAN</speaker><content>Try Byron H. Singer. Found a small vendor decal on the parabolic microphone that we found in his apartment so I called the vendor to find out if he knew why Len bought the equipment. Turns out, Len didn’t buy it at all. It was purchased two months ago by an insurance actuary named Byron H. Singer.</content></utterance>
+<utterance uid="12-12"><speaker>BECKETT</speaker><content>BHS!  Sorry.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>BECKETT</speaker><content>Mr. Singer, thank you for coming down.</content></utterance>
+<utterance uid="13-2"><speaker>BYRON</speaker><content>They said it was important.</content></utterance>
+<utterance uid="13-3"><speaker>BECKETT</speaker><content>Do you know a man named Len Levitt?</content></utterance>
+<utterance uid="13-4"><speaker>BYRON</speaker><content>What did that bastard tell you?</content></utterance>
+<utterance uid="13-5"><speaker>BECKETT</speaker><content>He didn’t tell us anything.</content></utterance>
+<utterance uid="13-6"><speaker>BYRON</speaker><content>Good! Because he’s a liar. He thought that he knew better than me. He thought he knew better than everybody.</content></utterance>
+<utterance uid="13-7"><speaker>BECKETT</speaker><content>Mr. Singer –</content></utterance>
+<utterance uid="13-8"><speaker>BYRON</speaker><content>I don’t care if he didn’t believe me. I don’t care how much it hurt him. I know what I saw.</content></utterance>
+<utterance uid="13-9"><speaker>BECKETT</speaker><content>And what did you see?</content></utterance>
+<utterance uid="13-10"><speaker>BYRON</speaker><content>The two of them. Together. In the park. Like a pair of lovebirds. But he accused me of making the whole thing up. I mean, why would I make something like that up? Why would anybody?</content></utterance>
+<utterance uid="13-11"><speaker>BECKETT</speaker><content>Mr. Singer, what exactly did you see in the park?</content></utterance>
+<utterance uid="13-12"><speaker>BRYON</speaker><content>I saw enough. And believe me, I was pretty shocked to see them together. I knew I had to tell Len before somebody else did.</content></utterance>
+<utterance uid="13-13"><speaker>CASTLE</speaker><content>Len must have been very angry when you told him.</content></utterance>
+<utterance uid="13-14"><speaker>BRYON</speaker><content>Very angry and jealous. But I had followed them and found their secret spot. And I told him when and where to find them. I even lent him some of my equipment so he could spy on them himself.</content></utterance>
+<utterance uid="13-15"><speaker>CASTLE</speaker><content> So then he goes to the park and he sees for himself.</content></utterance>
+<utterance uid="13-16"><speaker>BECKETT</speaker><content> And then he confronts them in a jealous rage and they kill him.</content></utterance>
+<utterance uid="13-17"><speaker>BYRON</speaker><content>They do what now?</content></utterance>
+<utterance uid="13-18"><speaker>CASTLE</speaker><content>They kill him.  The cheating girlfriend and the lover.</content></utterance>
+<utterance uid="13-19"><speaker>BYRON</speaker><content>What are you talking about?</content></utterance>
+<utterance uid="13-20"><speaker>BECKETT_CASTLE</speaker><content> What are you talking about?</content></utterance>
+<utterance uid="13-21"><speaker>BECKETT</speaker><content>Uh, who did you see in the park that night?</content></utterance>
+<utterance uid="13-22"><speaker>BYRON</speaker><content>The red tailed hawks.</content></utterance>
+<utterance uid="13-23"><speaker>BYRON</speaker><content>There haven’t been a nesting pair in the park for forty years.</content></utterance>
+<utterance uid="13-24"><speaker>BECKETT</speaker><content>You … mean this is about birds?</content></utterance>
+<utterance uid="13-25"><speaker>BYRON</speaker><content>Not just birds. The red tailed hawks! Len oversees the log in the Central Park Boathouse where all the sightings are officially recorded. He refused to acknowledge my sighting. So I told him if he didn’t believe me he should go out to the park and see for himself. They nest at dusk.</content></utterance>
+<utterance uid="13-26"><speaker>BECKETT</speaker><content>Mr. Singer, were you in the park yesterday between five and seven PM?</content></utterance>
+<utterance uid="13-27"><speaker>BYRON</speaker><content>Usually I am, but yesterday I was in my office working.</content></utterance>
+<utterance uid="13-28"><speaker>BECKETT</speaker><content>And can any of your colleagues verify that?</content></utterance>
+<utterance uid="13-29"><speaker>BYRON</speaker><content>I’m sure they can. But about the hawks, and I want this on the official record, I would never exaggerate or fabricate a bird sighting. It’s unthinkable!</content></utterance>
+<utterance uid="13-30"><speaker>BYRON</speaker><content>They’re there. And I saw them first.</content></utterance>
+<utterance uid="13-31"><speaker>CASTLE</speaker><content>I’m putting that in the official record.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>BECKETT</speaker><content>So the equipment, the park, the feather, and BHS. Looks like we’ve explained everything.</content></utterance>
+<utterance uid="14-2"><speaker>CASTLE</speaker><content>Yes, except why he was killed.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>CASTLE</speaker><content>Good morning, Mother.</content></utterance>
+<utterance uid="15-2"><speaker>MARTHA</speaker><content>Morning.</content></utterance>
+<utterance uid="15-3"><speaker>CASTLE</speaker><content>So why is Gram on the table and why are you on the floor?</content></utterance>
+<utterance uid="15-4"><speaker>ALEXIS</speaker><content>Dad, he’s gone.</content></utterance>
+<utterance uid="15-5"><speaker>CASTLE</speaker><content>Theodore?</content></utterance>
+<utterance uid="15-6"><speaker>ALEXIS</speaker><content>When I fed him his quinoa salad with wheat berries I must not have closed the cage door all the way and now he’s gone and Ashley’s going to hate me.</content></utterance>
+<utterance uid="15-7"><speaker>CASTLE</speaker><content>Oh, he’s not going to hate you. He’ll understand.</content></utterance>
+<utterance uid="15-8"><speaker>ALEXIS</speaker><content>No, he won’t! He trusted me and I let him down.</content></utterance>
+<utterance uid="15-9"><speaker>CASTLE</speaker><content>No, not yet you haven’t. We’ll find him. Have you looked in your room?</content></utterance>
+<utterance uid="15-10"><speaker>ALEXIS</speaker><content> And in Gram’s, too.</content></utterance>
+<utterance uid="15-11"><speaker>MARTHA</speaker><content>If that creature entered my room, I’m going to need a new bed. And wardrobe.</content></utterance>
+<utterance uid="15-12"><speaker>ALEXIS</speaker><content>Dad, what if he got out. Like out, out.</content></utterance>
+<utterance uid="15-13"><speaker>CASTLE</speaker><content>All right, Theodore’s an uptown rat. He’s here someplace. Okay, to find a rodent you have to think like a rodent.  You are Theodore. What do you want?</content></utterance>
+<utterance uid="15-14"><speaker>ALEXIS</speaker><content>Food.</content></utterance>
+<utterance uid="15-15"><speaker>CASTLE</speaker><content>Nah, you’ve got a personal chef. You’re not hungry.</content></utterance>
+<utterance uid="15-16"><speaker>ALEXIS</speaker><content>Warmth. I’d want to stay warm and safe.</content></utterance>
+<utterance uid="15-17"><speaker>CASTLE</speaker><content>Yeah. Cozy, quiet place out of the way where no one’s going to step on you.</content></utterance>
+<utterance uid="15-18"><speaker>ALEXIS</speaker><content>Front hall closet!</content></utterance>
+<utterance uid="15-19"><speaker>CASTLE</speaker><content>Nice.</content></utterance>
+<utterance uid="15-20"><speaker>CASTLE</speaker><content>You see him?</content></utterance>
+<utterance uid="15-21"><speaker>ALEXIS</speaker><content>No, he’s not here. </content></utterance>
+<utterance uid="15-22"><speaker>CASTLE</speaker><content> He’s not here.</content></utterance>
+<utterance uid="15-23"><speaker>ALEXIS</speaker><content>What?</content></utterance>
+<utterance uid="15-24"><speaker>ALEXIS</speaker><content>You need to go?</content></utterance>
+<utterance uid="15-25"><speaker>CASTLE</speaker><content>And leave you rat-less?</content></utterance>
+<utterance uid="15-26"><speaker>ALEXIS</speaker><content>It’s my responsibility, Dad, not yours. I’ll find him.</content></utterance>
+<utterance uid="15-27"><speaker>CASTLE</speaker><content>Are you sure?</content></utterance>
+<utterance uid="15-28"><speaker>ALEXIS</speaker><content>Yeah.</content></utterance>
+<utterance uid="15-29"><speaker>CASTLE</speaker><content>All right. Call me.  If you need anything.</content></utterance>
+<utterance uid="15-30"><speaker>MARTHA</speaker><content>Just so you know, I’m checking into the Plaza.</content></utterance>
+<utterance uid="15-31"><speaker>MARTHA</speaker><content>And you’re paying!</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>BECKETT</speaker><content>Okay Castle, I’m here. What was so important?</content></utterance>
+<utterance uid="16-2"><speaker>CASTLE</speaker><content>Your first clue is – ‘The Curious Incident of the Dog in the Nighttime’.</content></utterance>
+<utterance uid="16-3"><speaker>BECKETT</speaker><content>Oh geez Castle, I haven’t even had my coffee yet.</content></utterance>
+<utterance uid="16-4"><speaker>BECKETT</speaker><content>Thank you.</content></utterance>
+<utterance uid="16-5"><speaker>CASTLE</speaker><content>From the Sherlock Holmes story, "Silver Blaze". Holmes unmasks the murderer because of what didn’t happen. The dog didn’t bark. That’s how he knew the dog must have known the killer.</content></utterance>
+<utterance uid="16-6"><speaker>BECKETT</speaker><content>Okay, yes, I remember the story.</content></utterance>
+<utterance uid="16-7"><speaker>CASTLE</speaker><content>Then you know the hardest form of detection is looking for the thing that isn’t there.  Byron said that Len was going to verify the hawks. Verify, as in, provide proof, which means …</content></utterance>
+<utterance uid="16-8"><speaker>BECKETT</speaker><content>He would have had a camera.</content></utterance>
+<utterance uid="16-9"><speaker>CASTLE</speaker><content>Which we didn’t find. And if he was taking pictures …</content></utterance>
+<utterance uid="16-10"><speaker>BECKETT</speaker><content>We should be able to figure out what he was up to.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>CASTLE</speaker><content>We found the body here where he took the last two bullets.</content></utterance>
+<utterance uid="17-2"><speaker>BECKETT</speaker><content>Running away from his killer.</content></utterance>
+<utterance uid="17-3"><speaker>CASTLE</speaker><content>Yeah, a broken wrist.</content></utterance>
+<utterance uid="17-4"><speaker>BECKETT</speaker><content>From the BMX guys riding over his body.</content></utterance>
+<utterance uid="17-5"><speaker>CASTLE</speaker><content>Or he fell from a tree.</content></utterance>
+<utterance uid="17-6"><speaker>CASTLE</speaker><content>This tree. There’s a fresh divot.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>BECKETT</speaker><content>It’s all birds.</content></utterance>
+<utterance uid="18-2"><speaker>CASTLE</speaker><content>Hmm. Red tailed hawks! Looks like Byron Singer was telling the truth after all.</content></utterance>
+<utterance uid="18-3"><speaker>BECKETT</speaker><content>Yeah, remind me to notify the bird police.</content></utterance>
+<utterance uid="18-4"><speaker>BECKETT</speaker><content>But I doubt it was the hawks that killed him.</content></utterance>
+<utterance uid="18-5"><speaker>CASTLE</speaker><content>Woah.</content></utterance>
+<utterance uid="18-6"><speaker>BECKETT</speaker><content>Lightbulb Len witnessed a child abduction.</content></utterance>
+<utterance uid="18-7"><speaker>CASTLE</speaker><content>And the last thing he saw was his killer.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>BECKETT</speaker><content>We don’t know his name or age, but we’re estimating between ten and twelve years old. He has brown hair, hazel eyes, and was last seen wearing shorts, sneakers, and a grey and white jacket. Now, our kidnapper is male, brown hair, between five ten and six foot. He was carrying a Glock .45 which matches the size of the slugs we found in our victim’s body. Now both photos have timestamps on them, so we know that the abduction took place at five twelve PM on Tuesday.</content></utterance>
+<utterance uid="19-2"><speaker>MONTGOMERY</speaker><content>After forty eight hours the chances of finding a child abduction victim alive go way down. The only thing that matters is finding that kid.</content></utterance>
+<utterance uid="19-3"><speaker>CASTLE</speaker><content>If he’s been missing for thirty six hours, how come his parents haven’t reported it?</content></utterance>
+<utterance uid="19-4"><speaker>BECKETT</speaker><content>They might not know. Or they might be under duress.</content></utterance>
+<utterance uid="19-5"><speaker>CASTLE</speaker><content>He was wearing shorts. Which means he probably knew he was going to the park.</content></utterance>
+<utterance uid="19-6"><speaker>BECKETT</speaker><content>Well, if he wasn’t lured there maybe he knew his kidnapper.</content></utterance>
+<utterance uid="19-7"><speaker>CASTLE</speaker><content>Well, then why would the kidnapper need a gun?</content></utterance>
+<utterance uid="19-8"><speaker>RYAN</speaker><content>I emailed the photo to the New York State Police and the parole division. They’re looking into any kidnappers with this abduction MO. And Esposito is canvassing that part of the park looking for any witnesses.</content></utterance>
+<utterance uid="19-9"><speaker>CASTLE</speaker><content>What about schools? If the boy goes to a local school they’d know he was absent.</content></utterance>
+<utterance uid="19-10"><speaker>BECKETT</speaker><content>Have uniforms fax his photo to all schools in the five boroughs.</content></utterance>
+<utterance uid="19-11"><speaker>RYAN</speaker><content>Done.</content></utterance>
+<utterance uid="19-12"><speaker>CASTLE</speaker><content>That car looks to be a compact or a sub-compact. Can we get the make or model?</content></utterance>
+<utterance uid="19-13"><speaker>BECKETT</speaker><content>Lab’s already looking into it.</content></utterance>
+<utterance uid="19-14"><speaker>RYAN</speaker><content>We’re pulling video from all traffic cameras leading in and out of the park on Tuesday evening. Maybe we’ll catch a license plate.</content></utterance>
+<utterance uid="19-15"><speaker>BECKETT</speaker><content>Or the driver’s face.</content></utterance>
+<utterance uid="19-16"><speaker>CASTLE</speaker><content>What if we were to enlarge this part of the photo.  Not the face, just this part of the window.</content></utterance>
+<utterance uid="19-17"><speaker>BECKETT</speaker><content>Are you thinking of the reflection?</content></utterance>
+<utterance uid="19-18"><speaker>CASTLE</speaker><content>I’m wondering if maybe we can see the kidnapper’s face in that side view mirror.</content></utterance>
+<utterance uid="19-19"><speaker>BECKETT</speaker><content>It’s worth a shot.</content></utterance>
+<utterance uid="19-20"><speaker>BECKETT</speaker><content>I need a CSU photo tech up here, now.</content></utterance>
+</scene>
+
+<scene id="20"><utterance uid="20-1"><speaker>ESPOSITO</speaker><content>Are you sure you haven’t seen him?</content></utterance>
+<utterance uid="20-2"><speaker>VENDOR</speaker><content>Man, I see so many kids every day I couldn’t tell one from the next.</content></utterance>
+<utterance uid="20-3"><speaker>ESPOSITO</speaker><content>What about a blue car at the same time, somewhere around this area?</content></utterance>
+<utterance uid="20-4"><speaker>VENDOR</speaker><content>Tuesday about five?</content></utterance>
+<utterance uid="20-5"><speaker>ESPOSITO</speaker><content>Yeah.</content></utterance>
+<utterance uid="20-6"><speaker>VENDOR</speaker><content>Yeah, as a matter of fact, a blue Saturn.</content></utterance>
+<utterance uid="20-7"><speaker>ESPOSITO</speaker><content>You sure?</content></utterance>
+<utterance uid="20-8"><speaker>VENDOR</speaker><content>Yeah, people I forget. Things that get in my way I remember. It was parked right in front of my regular spot. Instead I’ve got to set up at the edge of the roadway. I almost get clipped by a cab.</content></utterance>
+<utterance uid="20-9"><speaker>ESPOSITO</speaker><content>Anybody inside?</content></utterance>
+<utterance uid="20-10"><speaker>VENDOR</speaker><content>No, because I would have yelled at the driver if there was. I don’t know what’s wrong with people in the city.</content></utterance>
+<utterance uid="20-11"><speaker>ESPOSITO</speaker><content>Yeah. Thanks.</content></utterance>
+<utterance uid="20-12"><speaker>VENDOR</speaker><content>Yeah.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>BECKETT</speaker><content>Our pretzel vendor ID’d the kidnapper’s car as a blue Saturn sedan anywhere from ’07 to ’02. The problem is there are six thousand blue Saturns registered in the tri-state area alone. Ryan, where are we on the traffic cams?</content></utterance>
+<utterance uid="21-2"><speaker>RYAN</speaker><content> The make and model will help narrow it down, but there’s a lot of footage.  There’s also no central database for school absences. We can’t sort by grade or gender and there’s a bad cold making the rounds, so more kids are out than usual.</content></utterance>
+<utterance uid="21-3"><speaker>CASTLE</speaker><content>What about state police?</content></utterance>
+<utterance uid="21-4"><speaker>RYAN</speaker><content>A whole lot of nada. And nothing popped on parolees with the same kidnapping MO.  Yes, I’ll continue to hold.</content></utterance>
+<utterance uid="21-5"><speaker>CSU TECH</speaker><content>Detective, enhanced and enlarged.</content></utterance>
+<utterance uid="21-6"><speaker>BECKETT</speaker><content>Thank you.</content></utterance>
+<utterance uid="21-7"><speaker>CASTLE</speaker><content>The enhancement only increased the pixelation on all these. You can’t even see there’s a side view mirror.</content></utterance>
+<utterance uid="21-8"><speaker>BECKETT</speaker><content>It’s not like on 24, Castle. In the real world zoom and enhance can only get us so far.</content></utterance>
+<utterance uid="21-9"><speaker>CASTLE</speaker><content>Yeah but … you can’t even … there’s no reflection, it’s just mush.</content></utterance>
+<utterance uid="21-10"><speaker>BECKETT</speaker><content>Are you okay?</content></utterance>
+<utterance uid="21-11"><speaker>CASTLE</speaker><content>Yeah. No. God, this kid isn’t that much younger than Alexis.</content></utterance>
+<utterance uid="21-12"><speaker>BECKETT</speaker><content>Don’t worry. We’ll find him.</content></utterance>
+<utterance uid="21-13"><speaker>CASTLE</speaker><content>Alexis.</content></utterance>
+<utterance uid="21-14"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="21-15"><speaker>CASTLE</speaker><content>I’ve seen this before.</content></utterance>
+<utterance uid="21-16"><speaker>BECKETT</speaker><content>You’ve seen what?</content></utterance>
+<utterance uid="21-17"><speaker>CASTLE</speaker><content>This mark. On his sock. Alexis used to get these when she played soccer. They’re cleat marks from where other kids kicked her in the shin.</content></utterance>
+<utterance uid="21-18"><speaker>BECKETT</speaker><content>If he was playing soccer in the park he might be part of an organized team or a league.</content></utterance>
+<utterance uid="21-19"><speaker>CASTLE</speaker><content>And youth leagues have websites that you can go to that parents and kids can track scores and standings.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>RYAN</speaker><content>I spoke to the league commissioner and only one ten to twelve year old team had practice on Tuesday. The Wildcats.</content></utterance>
+<utterance uid="22-2"><speaker>BECKETT_CASTLE</speaker><content> There!</content></utterance>
+<utterance uid="22-3"><speaker>RYAN</speaker><content>Tyler Donegal. He’s twelve.</content></utterance>
+<utterance uid="22-4"><speaker>BECKETT</speaker><content>Ryan, let’s get everything we can on this kid. The clock is ticking and we’ve got to bring him back alive.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>BECKETT</speaker><content>Tyler Donegal lives with his mother in Westchester. Court records show that the parents' divorce was finalized two months ago.</content></utterance>
+<utterance uid="23-2"><speaker>MONTGOMERY</speaker><content>You reach the parents?</content></utterance>
+<utterance uid="23-3"><speaker>RYAN</speaker><content>Just got off with the mother, Mirielle Leftcourt. She moved out of the city last year, got remarried to an anesthesiologist last month. She says she has no idea that her son is missing. He was spending two days in the city with her ex. She’s on her way in now.</content></utterance>
+<utterance uid="23-4"><speaker>MONTGOMERY</speaker><content>If the father had custody, where the hell is he and why didn’t he report the boy missing?</content></utterance>
+<utterance uid="23-5"><speaker>RYAN</speaker><content>We’re working on that, sir. The father is a maintenance supervisor at a high rise on West Broadway and Canal. He lives six blocks from Central Park.</content></utterance>
+<utterance uid="23-6"><speaker>ESPOSITO</speaker><content>Yo. Donegal called in sick for work yesterday and today.</content></utterance>
+<utterance uid="23-7"><speaker>MONTGOMERY</speaker><content>Divorced parents, one child, one spouse remarries quickly.</content></utterance>
+<utterance uid="23-8"><speaker>BECKETT</speaker><content>So she dumps the janitor in the city for the doctor in the ‘burbs.</content></utterance>
+<utterance uid="23-9"><speaker>MONTGOMERY</speaker><content>All the father has left his is son. It’s got all the hallmarks of a custodial abduction.</content></utterance>
+<utterance uid="23-10"><speaker>BECKETT</speaker><content>You got a photo?</content></utterance>
+<utterance uid="23-11"><speaker>ESPOSITO</speaker><content>I’ll get one.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>ESPOSITO</speaker><content>Dean Donegal. Five foot ten, one seventy-five, brown hair.</content></utterance>
+<utterance uid="24-2"><speaker>BECKETT</speaker><content>Well, the vitals match.</content></utterance>
+<utterance uid="24-3"><speaker>CASTLE</speaker><content>Yeah, but why do you need a gun to kidnap your own son? You just put him in the car, tell him you’re going for ice cream. What’s he doing?</content></utterance>
+<utterance uid="24-4"><speaker>RYAN</speaker><content>Hey Beckett? The mother’s here.</content></utterance>
+<utterance uid="24-5"><speaker>BECKETT</speaker><content>All right, Ryan, you go to Dean’s office, Esposito, you check out his apartment. Maybe something else is going on with that family.</content></utterance>
+<utterance uid="24-6"><speaker>ESPOSITO</speaker><content>Right.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>MIRIELLE LEFTCOURT</speaker><content>Where’s my son?</content></utterance>
+<utterance uid="25-2"><speaker>BECKETT</speaker><content>That’s what we’re trying to determine, Ms. Leftcourt. When was the last time you spoke with him?</content></utterance>
+<utterance uid="25-3"><speaker>MIRIELLE</speaker><content>Uh, two days ago when I dropped him off at his father’s.</content></utterance>
+<utterance uid="25-4"><speaker>ELLIOT LEFTCOURT</speaker><content>He was supposed to be with Dean. Have you talked with Dean?</content></utterance>
+<utterance uid="25-5"><speaker>BECKETT</speaker><content>We’re trying to locate him now.</content></utterance>
+<utterance uid="25-6"><speaker>MIRIELLE</speaker><content>He’s not at work? He never misses work.</content></utterance>
+<utterance uid="25-7"><speaker>BECKETT</speaker><content>Can you tell me about the divorce? How did Dean take that?</content></utterance>
+<utterance uid="25-8"><speaker>MIRIELLE</speaker><content>Um, not well. He was very bitter and angry.</content></utterance>
+<utterance uid="25-9"><speaker>BECKETT</speaker><content>Does he own a gun?</content></utterance>
+<utterance uid="25-10"><speaker>MIRIELLE</speaker><content>A handgun. Yes. There were break-ins in his building.</content></utterance>
+<utterance uid="25-11"><speaker>BECKETT</speaker><content>Do you know what kind?</content></utterance>
+<utterance uid="25-12"><speaker>MIRIELLE</speaker><content>Why are you asking me about a gun? Was somebody shot? Was my son shot?</content></utterance>
+<utterance uid="25-13"><speaker>BECKETT</speaker><content>No, nobody was shot, Ms. Leftcourt. It’s just the man who took your son was carrying a gun. Now, I’m going to have to show you this photograph.  Do you recognize this man?</content></utterance>
+<utterance uid="25-14"><speaker>MIRIELLE</speaker><content>I don’t know. Is that Dean?</content></utterance>
+<utterance uid="25-15"><speaker>BECKETT</speaker><content>I was hoping that you could tell me. What about this car? Is that his car?</content></utterance>
+<utterance uid="25-16"><speaker>ELLIOT</speaker><content>Dean doesn’t own a car. He rents one as he needs one.</content></utterance>
+<utterance uid="25-17"><speaker>MIRIELLE</speaker><content>A Glock. Dean’s gun, it’s a Glock. We had to itemize our property for the divorce.</content></utterance>
+<utterance uid="25-18"><speaker>BECKETT</speaker><content>Ms. Leftcourt, does Dean have a place that he likes to take Tyler? Any favorite hangouts?</content></utterance>
+<utterance uid="25-19"><speaker>ELLIOT</speaker><content>As far as I know, he’s never taken him anywhere.</content></utterance>
+<utterance uid="25-20"><speaker>MIRIELLE</speaker><content> That’s not true.  Dean’s family has a cabin in the Poconos.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>BECKETT</speaker><content>Pennsylvania State Police are on their way to the cabin. With any luck, we’ll find Tyler.</content></utterance>
+<utterance uid="26-2"><speaker>BECKETT</speaker><content>You okay?</content></utterance>
+<utterance uid="26-3"><speaker>CASTLE</speaker><content>Can’t imagine how Tyler’s mother feels.</content></utterance>
+<utterance uid="26-4"><speaker>BECKETT</speaker><content>Yeah, me neither.</content></utterance>
+<utterance uid="26-5"><speaker>CASTLE</speaker><content>When Alexis was four, we went Christmas shopping at some mall in White Plains. I was trying on some charcoal fedora. I turn around, she is gone. Vanished. I looked everywhere. So did mall security, so did the police. We searched for an hour. You have to be a novelist to think of all the worst case scenarios.</content></utterance>
+<utterance uid="26-6"><speaker>BECKETT</speaker><content>Where did you find her?</content></utterance>
+<utterance uid="26-7"><speaker>CASTLE</speaker><content>Behind a rack of winter coats. She got bored. She crawled underneath there and went to sleep.</content></utterance>
+<utterance uid="26-8"><speaker>CASTLE</speaker><content>To this day I dream about that.</content></utterance>
+<utterance uid="26-9"><speaker>MONTGOMERY</speaker><content>Just got off the phone with Esposito. Looks like Dean’s on the move.</content></utterance>
+<utterance uid="26-10"><speaker>BECKETT</speaker><content>What did they find?</content></utterance>
+<utterance uid="26-11"><speaker>MONTGOMERY</speaker><content>It’s what they didn’t find. No toothbrush, no deodorant, no shampoo in the shower.</content></utterance>
+<utterance uid="26-12"><speaker>BECKETT</speaker><content>I’ll run his credit card for anything that indicates he’s travelling.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>RYAN</speaker><content>Dean’s desk?</content></utterance>
+<utterance uid="27-2"><speaker>TERESA DE LA TORRE</speaker><content>You can’t miss it, right? Pictures everywhere. He calls it Tyler-Palooza.</content></utterance>
+<utterance uid="27-3"><speaker>RYAN</speaker><content>Is this his only work area?</content></utterance>
+<utterance uid="27-4"><speaker>TERESA</speaker><content>Yeah, uh huh.</content></utterance>
+<utterance uid="27-5"><speaker>RYAN</speaker><content>How did he sound when he called in sick? Did he sound stressed?</content></utterance>
+<utterance uid="27-6"><speaker>TERESA</speaker><content>To tell you the truth, Detective, Dean didn’t call in sick. I covered for him.</content></utterance>
+<utterance uid="27-7"><speaker>RYAN</speaker><content>Why?</content></utterance>
+<utterance uid="27-8"><speaker>TERESA</speaker><content>His ex-wife got remarried to some rich doctor like five minutes after the divorce was final. He had legal bills up the ass. I figured he just needed to spend a little time with his son. So what if he didn’t call in sick. I had his back. That’s how we do it down here.</content></utterance>
+<utterance uid="27-9"><speaker>COWORKER</speaker><content>Hey, Teresa!</content></utterance>
+<utterance uid="27-10"><speaker>TERESA</speaker><content>All right, already!</content></utterance>
+<utterance uid="27-11"><speaker>RYAN</speaker><content>What’s in Indy, Dean?</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>CASTLE</speaker><content>Maybe he’s got family in Indianapolis? Uh, friends? Someone he can trust? Someone who can hide him.</content></utterance>
+<utterance uid="28-2"><speaker>BECKETT</speaker><content>Yeah, but there weren’t any airline tickets purchased in his name or in Tyler’s.</content></utterance>
+<utterance uid="28-3"><speaker>ESPOSITO</speaker><content>Yo. The cabin’s empty. PA State Troopers say it looks like there hasn’t been anyone there in months.</content></utterance>
+<utterance uid="28-4"><speaker>MONTGOMERY</speaker><content>Just got a hit on Dean Donegal’s financials. An hour ago he booked a motel room in Jamaica, Queens.</content></utterance>
+<utterance uid="28-5"><speaker>CASTLE</speaker><content>That’s not far from the airport. He might still be trying to get Tyler out of town.</content></utterance>
+<utterance uid="28-6"><speaker>BECKETT</speaker><content>If we’re lucky.</content></utterance>
+<utterance uid="28-7"><speaker>MONTGOMERY</speaker><content>He shot someone, he’s on the run, he under extreme duress. Let’s get him before this ends bloody for everyone.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>ESPOSITO</speaker><content>NYPD!</content></utterance>
+<utterance uid="29-2"><speaker>BECKETT</speaker><content>Hands! Show me your hands!</content></utterance>
+<utterance uid="29-3"><speaker>ESPOSITO</speaker><content>Tyler! Tyler, are you here?</content></utterance>
+<utterance uid="29-4"><speaker>RYAN</speaker><content>Tyler!</content></utterance>
+<utterance uid="29-5"><speaker>ESPOSITO</speaker><content>Bathroom’s clear.</content></utterance>
+<utterance uid="29-6"><speaker>RYAN</speaker><content>He’s not here.</content></utterance>
+<utterance uid="29-7"><speaker>BECKETT</speaker><content>Where’s Tyler?</content></utterance>
+<utterance uid="29-8"><speaker>DEAN</speaker><content>I don’t know. They told me to check into a motel and wait for further instructions.</content></utterance>
+<utterance uid="29-9"><speaker>CASTLE</speaker><content>Who did?</content></utterance>
+<utterance uid="29-10"><speaker>DEAN</speaker><content>I don’t know! All I know is they took him. If I help you, they’ll kill my son.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>BECKETT</speaker><content>Where is Tyler, Dean?</content></utterance>
+<utterance uid="30-2"><speaker>DEAN</speaker><content>I told you, I don’t know.</content></utterance>
+<utterance uid="30-3"><speaker>CASTLE</speaker><content>Why were you going to Indianapolis?</content></utterance>
+<utterance uid="30-4"><speaker>DEAN</speaker><content>Indian– what are you taking about?</content></utterance>
+<utterance uid="30-5"><speaker>CASTLE</speaker><content>We know you were checking on airfare.</content></utterance>
+<utterance uid="30-6"><speaker>DEAN</speaker><content>I was researching a trip for the holidays. What, you think I took my own son?</content></utterance>
+<utterance uid="30-7"><speaker>BECKETT</speaker><content>You were in a hotel by the airport.</content></utterance>
+<utterance uid="30-8"><speaker>DEAN</speaker><content>That’s where they told me to go.</content></utterance>
+<utterance uid="30-9"><speaker>BECKETT</speaker><content>Who?</content></utterance>
+<utterance uid="30-10"><speaker>DEAN</speaker><content>Please… they said if I talked to the cops, he’s dead.</content></utterance>
+<utterance uid="30-11"><speaker>BECKETT</speaker><content>Dean, if your son is in danger then you need to tell us what you know.</content></utterance>
+<utterance uid="30-12"><speaker>DEAN</speaker><content>I went to pick him up after practice. When he wasn’t at the usual spot, I figured he must have walked home. When I got back to my apartment, that phone was on my doormat. It had a text on it.</content></utterance>
+<utterance uid="30-13"><speaker>BECKETT</speaker><content> ‘We have your son. Tell no one. Use only this phone. Contact the police and Tyler dies.’  ‘Stand by, we will tell you where to go and what to do. Tell no one, your son’s life depends on it.’</content></utterance>
+<utterance uid="30-14"><speaker>CASTLE</speaker><content>What do they want from you?</content></utterance>
+<utterance uid="30-15"><speaker>DEAN</speaker><content>I have no idea.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>RYAN</speaker><content>Dean’s Glock is a 9 millimeter.</content></utterance>
+<utterance uid="31-2"><speaker>MONTGOMERY</speaker><content>Right make, wrong model. Lightbulb Len was killed with a .45.</content></utterance>
+<utterance uid="31-3"><speaker>RYAN</speaker><content>The SIM card form his cell phone is a burner and the text messages aren’t coming from another phone. They’re coming from an internet texting service based in the Ukraine. No IP address. Untraceable.</content></utterance>
+<utterance uid="31-4"><speaker>MONTGOMERY</speaker><content>Track the SIM. And I want a printout of every text message. And get the electronic serial number off that phone. I want to find out when it was purchased and by whom.</content></utterance>
+<utterance uid="31-5"><speaker>RYAN</speaker><content>You got it, sir.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>CASTLE</speaker><content>What do they want from you? Are they after ransom?</content></utterance>
+<utterance uid="32-2"><speaker>DEAN</speaker><content> You’re kidding. I’m forty grand in debt after my divorce. I’m looking up at broke.</content></utterance>
+<utterance uid="32-3"><speaker>BECKETT</speaker><content>What about your ex-wife’s new husband? He has money.</content></utterance>
+<utterance uid="32-4"><speaker>DEAN</speaker><content>They’re not calling him, they’re calling me. What if they find out I’m here? I just want my son back.</content></utterance>
+<utterance uid="32-5"><speaker>BECKETT</speaker><content>Then your best option is to work with us. Let us help you.</content></utterance>
+<utterance uid="32-6"><speaker>DEAN</speaker><content>I need to get some air.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>BECKETT</speaker><content>Look, I know this is hard. But you have to trust us. We will find him.</content></utterance>
+<utterance uid="33-2"><speaker>DEAN</speaker><content>Okay. Don’t let them hurt my boy.</content></utterance>
+<utterance uid="33-3"><speaker>MIRIELLE</speaker><content>Where is he?</content></utterance>
+<utterance uid="33-4"><speaker>MIRELLE</speaker><content>Where’s Tyler?  You should have been there to pick him up at soccer practice! This is why I should have never agreed to joint custody.</content></utterance>
+<utterance uid="33-5"><speaker>DEAN</speaker><content>We’re doing everything we can. It’s just … it’s going to be all right.</content></utterance>
+<utterance uid="33-6"><speaker>ELLIOT</speaker><content>How could you let this happen?</content></utterance>
+<utterance uid="33-7"><speaker>DEAN</speaker><content> Stay out of this, you’re not family.</content></utterance>
+<utterance uid="33-8"><speaker>ELLIOT</speaker><content>He’s my boy too.</content></utterance>
+<utterance uid="33-9"><speaker>DEAN</speaker><content>Sit down!</content></utterance>
+<utterance uid="33-10"><speaker>MONTGOMERY</speaker><content>That's enough!</content></utterance>
+<utterance uid="33-11"><speaker>MONTGOMERY</speaker><content>Now I need everyone to calm down. Cooperate and think. Dean, you notice anyone unusual hanging around your son? Anything out of the ordinary going on in his life?</content></utterance>
+<utterance uid="33-12"><speaker>DEAN</speaker><content>No. I mean … I don’t think so.</content></utterance>
+<utterance uid="33-13"><speaker>MONTGOMERY</speaker><content>What about you two?</content></utterance>
+<utterance uid="33-14"><speaker>ELLIOT</speaker><content>Nothing comes to mind.</content></utterance>
+<utterance uid="33-15"><speaker>MIRELLE</speaker><content>No.</content></utterance>
+<utterance uid="33-16"><speaker>MONTGOMERY</speaker><content>Now this abduction was clearly planned, so the kidnapper had to know where Tyler was going to be.</content></utterance>
+<utterance uid="33-17"><speaker>MONTGOMERY</speaker><content>Sir, this is a message. It’s from the kidnapper. There’s a video attached.</content></utterance>
+<utterance uid="33-18"><speaker>TYLER</speaker><content> Hi Dad. I know you’re worried, but I’m okay. They say if you do what they ask, everything will be fine, just don’t go to the police. I’ll see you soon, and don’t forget to feed Ace.</content></utterance>
+<utterance uid="33-19"><speaker>MIRIELLE</speaker><content>Oh, thank God he’s alive.</content></utterance>
+<utterance uid="33-20"><speaker>BECKETT</speaker><content>There’s a time stamp on it. One thirty-one AM. That was sent eight minutes ago.</content></utterance>
+<utterance uid="33-21"><speaker>MONTGOMERY</speaker><content>It’s a good thing, Ms. Leftcourt, it’s called a proof of life video. The kidnappers sent it to prove your son’s alive and that you do exactly what they ask.</content></utterance>
+<utterance uid="33-22"><speaker>MIRIELLE</speaker><content>Okay.  You’ll do exactly what they ask you to, do you understand?</content></utterance>
+<utterance uid="33-23"><speaker>DEAN</speaker><content>Wait. Play that last part again.</content></utterance>
+<utterance uid="33-24"><speaker>TYLER</speaker><content> Don’t forget to feed Ace.</content></utterance>
+<utterance uid="33-25"><speaker>DEAN</speaker><content>Who’s Ace? I don’t know any Ace.</content></utterance>
+<utterance uid="33-26"><speaker>ELLIOT</speaker><content>We don’t have any pets.</content></utterance>
+<utterance uid="33-27"><speaker>CASTLE</speaker><content>He’s sending us a message.</content></utterance>
+<utterance uid="33-28"><speaker>DEAN</speaker><content>He’s a smart boy.</content></utterance>
+<utterance uid="33-29"><speaker>CASTLE</speaker><content>Ace could refer to a person or a business.</content></utterance>
+<utterance uid="33-30"><speaker>BECKETT</speaker><content>Sir, there’s another text.  680 Canal Streel. Thirty minutes.</content></utterance>
+<utterance uid="33-31"><speaker>DEAN</speaker><content>That’s the building where I work.</content></utterance>
+<utterance uid="33-32"><speaker>CASTLE</speaker><content>What’s there? A jewelry store? A bank?</content></utterance>
+<utterance uid="33-33"><speaker>DEAN</speaker><content>No, just offices.</content></utterance>
+<utterance uid="33-34"><speaker>BECKETT</speaker><content>Why you? What’s so special that they need you?</content></utterance>
+<utterance uid="33-35"><speaker>DEAN</speaker><content>Uh … oh God. Because I have elevator access to all the floors in the building.</content></utterance>
+<utterance uid="33-36"><speaker>CASTLE</speaker><content>You’re a human key.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>BECKETT</speaker><content>Sir, I just talked to the building’s owner. He’s emailing blueprints and a tenant list for 680 Canal, including the secure floors.</content></utterance>
+<utterance uid="34-2"><speaker>MONTGOMERY</speaker><content>Ryan and Esposito are with me. We’ll take Dean to the building.  I’ve arranged to have an ESU team standing by in striking distance.</content></utterance>
+<utterance uid="34-3"><speaker>BECKETT</speaker><content>Sir, you can’t take Dean to that building. It is way too dangerous.</content></utterance>
+<utterance uid="34-4"><speaker>CASTLE</speaker><content>He’s a father who loves his son. You’re not going to be able to stop him.</content></utterance>
+<utterance uid="34-5"><speaker>MONTGOMERY</speaker><content>And until we find the boy we don’t have any other choice. Scrub the video. Look for anything that could lead us to him.</content></utterance>
+<utterance uid="34-6"><speaker>BECKETT</speaker><content>Yes sir.</content></utterance>
+</scene>
+
+<scene id="35"><utterance uid="35-1"><speaker>ESPOSITO</speaker><content>Okay, we’re a block away.</content></utterance>
+<utterance uid="35-2"><speaker>RYAN</speaker><content>We’ll be able to see and hear everything that’s happening, okay? And we cloned your phone so we’ll be able to read your texts in real time.</content></utterance>
+<utterance uid="35-3"><speaker>MONTGOMERY</speaker><content>You follow the kidnapper’s instructions to the letter. No cowboy stuff, you understand me?</content></utterance>
+<utterance uid="35-4"><speaker>DEAN</speaker><content>Yes.</content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>TYLER</speaker><content> Hi Dad. I know you’re worried, but I’m okay. They say if you do what they ask, everything will be fine, just don’t go to the police. I’ll see you soon, and don’t forget to feed Ace.</content></utterance>
+<utterance uid="36-2"><speaker>BECKETT</speaker><content>There are no identifying markers in the background. It’s all black. I don’t know if we’re going to find him in time.</content></utterance>
+<utterance uid="36-3"><speaker>CASTLE</speaker><content>The video was taken at one thirty-one AM but they didn’t send it until one thirty-nine.</content></utterance>
+<utterance uid="36-4"><speaker>BECKETT</speaker><content>Yeah well, sometimes it takes a while for a text to go through.</content></utterance>
+<utterance uid="36-5"><speaker>CASTLE</speaker><content>Yeah, but eight minutes? You want Dean to do something for you. You make a proof of life video. But you wait eight minutes to send it. Why?</content></utterance>
+<utterance uid="36-6"><speaker>BECKETT</speaker><content>Well, maybe there wasn’t a signal, or not enough bars.</content></utterance>
+<utterance uid="36-7"><speaker>CASTLE</speaker><content>Yeah. Maybe they had to walk a long way to get a signal. Maybe they were under a …  Underground. Ace.  It’s not Ace. It’s ACE. The A, C, and E subway lines.</content></utterance>
+<utterance uid="36-8"><speaker>BECKETT</speaker><content>They’re holding Tyler in the subway. He must have spotted a sign.</content></utterance>
+<utterance uid="36-9"><speaker>CASTLE</speaker><content>There’s half a dozen stations with an A, C, and E stop. That’s too many to search.</content></utterance>
+<utterance uid="36-10"><speaker>BECKETT</speaker><content>Yeah, but the last stop for all three lines is on Canal Street and West Broadway. That’s –</content></utterance>
+<utterance uid="36-11"><speaker>CASTLE</speaker><content>Right under Dean’s building. They’ve been holding him under everyone’s nose.</content></utterance>
+<utterance uid="36-12"><speaker>BECKETT</speaker><content>Let’s go.</content></utterance>
+</scene>
+<scene id="37"><utterance uid="37-1"><speaker>BECKETT</speaker><content>Check every room on the east end of the station. You guys check ticket booths on both ends. Go.</content></utterance>
+<utterance uid="37-2"><speaker>BECKETT</speaker><content>Castle, what are you thinking?</content></utterance>
+<utterance uid="37-3"><speaker>CASTLE</speaker><content>The only reason to keep him here is for a quick getaway, which is helped by the fact that 680 Canal Street has its own entrance to the subway. If it were me?  I get close enough to hook up with my partners but far enough that I’d be out of the way.</content></utterance>
+<utterance uid="37-4"><speaker>BECKETT</speaker><content>Which means he’s holding Tyler on the west end of the tunnel.</content></utterance>
+<utterance uid="37-5"><speaker>CASTLE</speaker><content>West end of the tunnel … this room. </content></utterance>
+<utterance uid="37-6"><speaker>BECKETT</speaker><content>All right, you should stay back.</content></utterance>
+<utterance uid="37-7"><speaker>CASTLE</speaker><content>Not a chance.</content></utterance>
+</scene>
+
+<scene id="38"><utterance uid="38-1"><speaker>RYAN</speaker><content> Go to the thirty seventh floor now.</content></utterance>
+<utterance uid="38-2"><speaker>DEAN</speaker><content>They said thirty minutes. It hasn’t been thirty minutes yet.</content></utterance>
+<utterance uid="38-3"><speaker>MONTGOMERY</speaker><content>They’re changing the time table. In case you went to the cops. What’s on the thirty seventh floor?</content></utterance>
+<utterance uid="38-4"><speaker>DEAN</speaker><content>Nothing. It’s vacant. It’s not even secure.</content></utterance>
+<utterance uid="38-5"><speaker>MONTGOMERY</speaker><content> Try Beckett.</content></utterance>
+</scene>
+<scene id="39"><utterance uid="39-1"><speaker>BECKETT</speaker><content>Nothing.</content></utterance>
+</scene>
+<scene id="40"><utterance uid="40-1"><speaker>ESPOSITO</speaker><content>It’s going straight to voicemail. She must already be in the subway.</content></utterance>
+<utterance uid="40-2"><speaker>DEAN</speaker><content>I gotta go.</content></utterance>
+<utterance uid="40-3"><speaker>MONTGOMERY</speaker><content>Remember, we can see and hear everything. Anything goes south and a hundred cops will be on you inside a minute.</content></utterance>
+<utterance uid="40-4"><speaker>DEAN</speaker><content>Not until you find my son.</content></utterance>
+</scene>
+
+<scene id="41"><utterance uid="41-1"><speaker>DEAN</speaker><content>Just my luck. Pulled graveyard tonight.</content></utterance>
+</scene>
+<scene id="42"><utterance uid="42-1"><speaker>MONTGOMERY</speaker><content>All right, he’s in.</content></utterance>
+<utterance uid="42-2"><speaker>ESPOSITO</speaker><content>Not bad with the guard. Guy’s all right.</content></utterance>
+<utterance uid="42-3"><speaker>RYAN</speaker><content>Camera and mic are all good.</content></utterance>
+<utterance uid="42-4"><speaker>RYAN</speaker><content>Oooh.</content></utterance>
+<utterance uid="42-5"><speaker>DEAN</speaker><content>I want to see Tyler, first.</content></utterance>
+<utterance uid="42-6"><speaker>ROBERT KINCADE</speaker><content>Just follow instructions, you’ll see him soon enough.</content></utterance>
+<utterance uid="42-7"><speaker>MONTGOMERY</speaker><content>What’s on the thirty ninth floor?</content></utterance>
+<utterance uid="42-8"><speaker>RYAN</speaker><content>A financial firm, Breskin and Wright.</content></utterance>
+<utterance uid="42-9"><speaker>ESPOSITO</speaker><content>Thirty seven was just a staging area.</content></utterance>
+<utterance uid="42-10"><speaker>MONTGOMERY</speaker><content>They let him see their faces. As soon as they get what they came for, they’re going to kill him.</content></utterance>
+<utterance uid="42-11"><speaker>ESPOSITO</speaker><content>Just like Lightbulb Len.</content></utterance>
+<utterance uid="42-12"><speaker>RYAN</speaker><content>Beckett’s still going to voicemail. Castle too.</content></utterance>
+<utterance uid="42-13"><speaker>ESPOSITO</speaker><content>Sir. What do you want to do?</content></utterance>
+<utterance uid="42-14"><speaker>MONTGOMERY</speaker><content>If we go in before we find the kid we might lose them both.</content></utterance>
+</scene>
+<scene id="43"><utterance uid="43-1"><speaker>CASTLE</speaker><content>Beckett.</content></utterance>
+<utterance uid="43-2"><speaker>BECKETT</speaker><content>One armed and the kid. If I go in he’ll kill him before I get a shot off.</content></utterance>
+<utterance uid="43-3"><speaker>CASTLE</speaker><content>He’s holding a flashlight. If we kill the ambient light he’ll light up like a Christmas tree. We just –</content></utterance>
+<utterance uid="43-4"><speaker>CASTLE</speaker><content>It’s like it’s meant to be.</content></utterance>
+<utterance uid="43-5"><speaker>BECKETT</speaker><content>Maybe Lenny can prevent another tragedy. On my count.</content></utterance>
+<utterance uid="43-6"><speaker>BECKETT</speaker><content>Three, two, one.</content></utterance>
+</scene>
+<scene id="44"><utterance uid="44-1"><speaker>DEAN</speaker><content>I did what you asked. Now where’s Tyler?</content></utterance>
+<utterance uid="44-2"><speaker>ROBERT</speaker><content>You’ll see him in a minute.</content></utterance>
+<utterance uid="44-3"><speaker>ROBERT</speaker><content>We’re supposed to go to subway level. Why’re we stopping at the lobby?</content></utterance>
+<utterance uid="44-4"><speaker>MONTGOMERY</speaker><content>No, look at me.</content></utterance>
+<utterance uid="44-5"><speaker>MONTGOMERY</speaker><content>I suggest you drop your weapons.</content></utterance>
+<utterance uid="44-6"><speaker>DEAN</speaker><content>Where’s Tyler?</content></utterance>
+</scene>
+
+
+<scene id="45"><utterance uid="45-1"><speaker>BECKETT</speaker><content>The ringleader was Robert Kincade, former bond trader. He’s the one who planned the entire operation. The economy might have collapsed but he was still going to get his payday. Most of them were ex-Wall Street-ers. They knew that they needed biometric clearance in order to get on secure floors and they knew that Dean wasn’t going to help them, so they took Tyler as leverage.</content></utterance>
+<utterance uid="45-2"><speaker>ESPOSITO</speaker><content>But all they took were files.</content></utterance>
+<utterance uid="45-3"><speaker>CASTLE</speaker><content>Financial files. Containing unpublished earnings reports. To a savvy investor they’d be worth millions.</content></utterance>
+<utterance uid="45-4"><speaker>RYAN</speaker><content>Would have worked, too, if Lightbulb Len hadn’t been taking pictures in the park. He helped catch his own killer.</content></utterance>
+<utterance uid="45-5"><speaker>CASTLE</speaker><content>And foiled a kidnapping. Kind of poetic.</content></utterance>
+<utterance uid="45-6"><speaker>CASTLE</speaker><content>In an unspeakably tragic sort of way.</content></utterance>
+<utterance uid="45-7"><speaker>MONTGOMERY</speaker><content>The guy you shot in the subway, the thug Kincade hired to do his dirty work, he just confessed to kidnapping Tyler, murdering Lightbulb Len, and no surprise, he ratted out Kincade in two seconds flat.</content></utterance>
+<utterance uid="45-8"><speaker>CASTLE</speaker><content>Oh. Speaking of rats.  I gotta … I gotta go.</content></utterance>
+</scene>
+<scene id="46"><utterance uid="46-1"><speaker>ALEXIS</speaker><content>I’m the worst person in the whole world.</content></utterance>
+<utterance uid="46-2"><speaker>CASTLE</speaker><content>No, you’re not. You’re wonderful and kind and you’re sweet.</content></utterance>
+<utterance uid="46-3"><speaker>ALEXIS</speaker><content>I’m a rat killer.</content></utterance>
+<utterance uid="46-4"><speaker>CASTLE</speaker><content>You don’t know that. You may just be a loser.</content></utterance>
+<utterance uid="46-5"><speaker>CASTLE</speaker><content>A rat loser. This did not come out right. Look, he cares. He’ll understand.</content></utterance>
+<utterance uid="46-6"><speaker>ALEXIS</speaker><content>He’ll understand, all right. When he sees me in the halls at school he’ll think ‘there’s the awful girl that lost my best friend’.</content></utterance>
+<utterance uid="46-7"><speaker>ALEXIS</speaker><content>It’s him.</content></utterance>
+<utterance uid="46-8"><speaker>ALEXIS</speaker><content>Hey.</content></utterance>
+<utterance uid="46-9"><speaker>ASHELY</speaker><content>Hi. I missed you.</content></utterance>
+<utterance uid="46-10"><speaker>ALEXIS</speaker><content>I missed you, too.</content></utterance>
+<utterance uid="46-11"><speaker>ASHLEY</speaker><content>What … what’s wrong?</content></utterance>
+<utterance uid="46-12"><speaker>ALEXIS</speaker><content>It’s about Theodore. When fed him he must have got out of his cage and … and he’s gone.</content></utterance>
+<utterance uid="46-13"><speaker>ASHLEY</speaker><content>He’s gone?</content></utterance>
+<utterance uid="46-14"><speaker>ALEXIS</speaker><content>We looked everywhere, I swear. We turned this whole place upside down.</content></utterance>
+<utterance uid="46-15"><speaker>ASHLEY</speaker><content>How’d he get out?</content></utterance>
+<utterance uid="46-16"><speaker>ALEXIS</speaker><content>I must not have locked the cage right. Ashley, I’m so sorry. You have every right to hate me.</content></utterance>
+<utterance uid="46-17"><speaker>ASHLEY</speaker><content>C’mon, Alexis, I – I’m upset, but I don’t hate you.</content></utterance>
+<utterance uid="46-18"><speaker>ALEXIS</speaker><content>You don’t?</content></utterance>
+<utterance uid="46-19"><speaker>ASHLEY</speaker><content>I mean, n– look at this place. Look at what you did to try to get him back. Who else would do that?</content></utterance>
+<utterance uid="46-20"><speaker>ALEXIS</speaker><content>You cared about him a lot.</content></utterance>
+<utterance uid="46-21"><speaker>ASHLEY</speaker><content>Yeah, but… I care about you more.</content></utterance>
+<utterance uid="46-22"><speaker>CASTLE</speaker><content> Found him.</content></utterance>
+<utterance uid="46-23"><speaker>THE END</speaker><content>CASTLE</content></utterance>
+</scene>
+</script>

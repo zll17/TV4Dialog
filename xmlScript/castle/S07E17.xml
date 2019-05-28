@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+
+<scene id="1"><utterance uid="1-1"><speaker>KATE BECKETT</speaker><content>Oh, God. Shoot me now.</content></utterance>
+<utterance uid="1-2"><speaker>RICHARD CASTLE</speaker><content>I’d rather not. What’s up?</content></utterance>
+<utterance uid="1-3"><speaker>BECKETT</speaker><content>Ensign Klemp has just been promoted to Captain. He’s going to run the Nine Two.</content></utterance>
+<utterance uid="1-4"><speaker>CASTLE</speaker><content>Who is Ensign Klemp and why hasn’t he changed his name?</content></utterance>
+<utterance uid="1-5"><speaker>BECKETT</speaker><content>We went to the Academy together.</content></utterance>
+<utterance uid="1-6"><speaker>CASTLE</speaker><content>Oh, and he’s your sworn nemesis.</content></utterance>
+<utterance uid="1-7"><speaker>BECKETT</speaker><content>No. He was my friend.</content></utterance>
+<utterance uid="1-8"><speaker>CASTLE</speaker><content>So he’s grossly underqualified?</content></utterance>
+<utterance uid="1-9"><speaker>BECKETT</speaker><content>No, he’s great.</content></utterance>
+<utterance uid="1-10"><speaker>CASTLE</speaker><content>So then what’s the problem?</content></utterance>
+<utterance uid="1-11"><speaker>BECKETT</speaker><content>Me. We started together, we graduated together, and he’s going to be Captain and I’m just –</content></utterance>
+<utterance uid="1-12"><speaker>CASTLE</speaker><content>The best homicide detective in the city?</content></utterance>
+<utterance uid="1-13"><speaker>BECKETT</speaker><content>No. I’m falling behind.</content></utterance>
+</scene>
+
+<scene id="2"><utterance uid="2-1"><speaker>CASTLE</speaker><content>You know what you’ve got? Patterson syndrome.</content></utterance>
+<utterance uid="2-2"><speaker>BECKETT</speaker><content> Patterson syndrome?</content></utterance>
+<utterance uid="2-3"><speaker>CASTLE</speaker><content>Yeah. Every time I write a best seller, Patterson writes, like, six. It’s maddening. But comparing myself to him does not make me write any faster.</content></utterance>
+<utterance uid="2-4"><speaker>BECKETT</speaker><content> I guess that I just thought that I would be in more of a leadership by now. I don’t know. Maybe I shouldn’t have left the AG’s office in DC.</content></utterance>
+<utterance uid="2-5"><speaker>CASTLE</speaker><content>Except you didn’t want to compromise yourself to play their game.</content></utterance>
+<utterance uid="2-6"><speaker>BECKETT</speaker><content>Well, I feel like maybe there’s something more I should be doing.</content></utterance>
+<utterance uid="2-7"><speaker>KEVIN RYAN</speaker><content>Hey Castles. Our victim is one Henry Graham. Took a single GSW to the chest around midnight.</content></utterance>
+<utterance uid="2-8"><speaker>BECKETT</speaker><content>So someone must have heard the gunshot. Do we have a witness?</content></utterance>
+<utterance uid="2-9"><speaker>RYAN</speaker><content>Uh, as a matter of fact.  That jogger right there.</content></utterance>
+<utterance uid="2-10"><speaker>BECKETT</speaker><content>Did he see the murder?</content></utterance>
+<utterance uid="2-11"><speaker>RYAN</speaker><content>No, but the killer was still looking though the vic’s pockets when he jogged up.</content></utterance>
+<utterance uid="2-12"><speaker>CASTLE</speaker><content>I’m surprised he didn’t get shot, too.</content></utterance>
+<utterance uid="2-13"><speaker>RYAN</speaker><content>So is he. She had the drop on him and told him to run. Probably set a personal best.</content></utterance>
+<utterance uid="2-14"><speaker>BECKETT</speaker><content>Our killer’s a she?</content></utterance>
+<utterance uid="2-15"><speaker>RYAN</speaker><content>Asian female, mid 30s. Well dressed.</content></utterance>
+<utterance uid="2-16"><speaker>CASTLE</speaker><content>Doesn’t fit the profile of a typical mugger.</content></utterance>
+<utterance uid="2-17"><speaker>RYAN</speaker><content>Neither does the stuff that she took from the vic’s pockets. She made off with his cell phone and his keys, but left his wallet and two hundred bucks in cash.</content></utterance>
+<utterance uid="2-18"><speaker>BECKETT</speaker><content>So this was more than just a late night stickup.</content></utterance>
+<utterance uid="2-19"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+<utterance uid="2-20"><speaker>BECKETT</speaker><content>Well, why don’t we get the witness together with a sketch artist.</content></utterance>
+<utterance uid="2-21"><speaker>JAVIER ESPOSITO</speaker><content>Already in the works. And to hear the jogger tell it, this chick was cool as could be. She may be a pro.</content></utterance>
+<utterance uid="2-22"><speaker>CASTLE</speaker><content>It does raise the question: what was Henry doing here so late at night?</content></utterance>
+<utterance uid="2-23"><speaker>RYAN</speaker><content>Waiting for someone. CSU found cigarette butts that match the pack in his pocket.</content></utterance>
+<utterance uid="2-24"><speaker>ESPOSITO</speaker><content>And if he was up to no good it wouldn’t be his first time. He did a nickel at Elmira for aggravated assault. Got out a few years ago.</content></utterance>
+<utterance uid="2-25"><speaker>BECKETT</speaker><content>He’s still got his work uniform on, so let’s see if anyone at Go Quick Towing knows how he wound up here.</content></utterance>
+<utterance uid="2-26"><speaker>ESPOSITO</speaker><content> Let’s go.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>BECKETT</speaker><content>Well, who would? Did he have any family?</content></utterance>
+<utterance uid="3-2"><speaker>CASTLE</speaker><content>Even though he had a record?</content></utterance>
+<utterance uid="3-3"><speaker>BECKETT</speaker><content>Did he have problems with anyone that you know of?</content></utterance>
+<utterance uid="3-4"><speaker>CASTLE</speaker><content>He did? By whom?</content></utterance>
+<utterance uid="3-5"><speaker>BECKETT</speaker><content>Wait a minute, I thought that he was tow-truck driver.</content></utterance>
+<utterance uid="3-6"><speaker>CASTLE</speaker><content>Henry was a repo man.</content></utterance>
+<utterance uid="3-7"><speaker>BECKETT</speaker><content>So these threats that he got. Did any of them ever come from an Asian woman?</content></utterance>
+<utterance uid="3-8"><speaker>BECKETT</speaker><content>Still. We’ll need a list of the repos.</content></utterance>
+<utterance uid="3-9"><speaker>BECKETT</speaker><content>What do you mean?</content></utterance>
+<utterance uid="3-10"><speaker>CASTLE</speaker><content>What about?</content></utterance>
+<utterance uid="3-11"><speaker>BECKETT</speaker><content>And where exactly did he go to lunch?</content></utterance>
+<utterance uid="3-12"><speaker>CASTLE</speaker><content>What was strange about that?</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>BECKETT</speaker><content>So I spoke to Henry’s colleagues. None of them knows where he went to lunch yesterday or why he was asking for the X5 codes.</content></utterance>
+<utterance uid="4-2"><speaker>CASTLE</speaker><content>Maybe our repo man was actually stealing cars. He clearly had the skill set.</content></utterance>
+<utterance uid="4-3"><speaker>BECKETT</speaker><content>Yeah, but from everything that everyone said, including Henry’s former parole officer, he was just a standup citizen.</content></utterance>
+<utterance uid="4-4"><speaker>CASTLE</speaker><content>Yeah, that was because he was concealing his car-stealing ways. Even his boss said he was a very private guy. So unbeknownst to anyone, Henry sets his eyes on an X5. He gets the alarm codes, but in a fateful error he steals the X5 belonging to this one.  A Triad assassin.</content></utterance>
+<utterance uid="4-5"><speaker>BECKETT</speaker><content>An assassin? Really? Again?</content></utterance>
+<utterance uid="4-6"><speaker>CASTLE</speaker><content>Come on. This time it fits.</content></utterance>
+<utterance uid="4-7"><speaker>BECKETT</speaker><content>How does it fit? He steals her car and she kills him? Why doesn’t she just put in an insurance claim and call it a day?</content></utterance>
+<utterance uid="4-8"><speaker>CASTLE</speaker><content>Ah. Because it wasn’t about the car. See, when Henry stole the vehicle he took something of value from the inside. That’s what the assassin was trying to retrieve from his pocket.</content></utterance>
+<utterance uid="4-9"><speaker>BECKETT</speaker><content>And said stolen item was?</content></utterance>
+<utterance uid="4-10"><speaker>CASTLE</speaker><content> Cold fusion technology. Genetically engineered super virus. Some secret unpublished Harry Potter manuscript.</content></utterance>
+<utterance uid="4-11"><speaker>BECKETT</speaker><content>Actually, one thing you said does make sense.</content></utterance>
+<utterance uid="4-12"><speaker>CASTLE</speaker><content>One thing?</content></utterance>
+<utterance uid="4-13"><speaker>BECKET</speaker><content>The X5 might have something to do with Henry’s death. You know what? I’m going to call auto theft and see if there are any reported stolen X5s recently.</content></utterance>
+<utterance uid="4-14"><speaker>CASTLE</speaker><content>From a Triad assassin.</content></utterance>
+<utterance uid="4-15"><speaker>BECKETT</speaker><content>She’s not a Triad assassin.</content></utterance>
+<utterance uid="4-16"><speaker>CASTLE</speaker><content> You don’t know that.</content></utterance>
+</scene>
+
+<scene id="5"><utterance uid="5-1"><speaker>GLADYS</speaker><content>This is just so terrible. Henry was such a decent man. I wish all my tenants were like him.</content></utterance>
+<utterance uid="5-2"><speaker>RYAN</speaker><content>I’m sure you do. Ma’am, have you seen this woman before?</content></utterance>
+<utterance uid="5-3"><speaker>GLADYS</speaker><content>Well I – I believe I have.</content></utterance>
+<utterance uid="5-4"><speaker>ESPOSITO</speaker><content>Here? In this building?</content></utterance>
+<utterance uid="5-5"><speaker>GLADYS</speaker><content>Why yes. We passed each other in the hall. She was headed for Henry’s unit.</content></utterance>
+<utterance uid="5-6"><speaker>RYAN</speaker><content>When was this?</content></utterance>
+<utterance uid="5-7"><speaker>GLADYS</speaker><content>Oh, about … ten minutes ago?</content></utterance>
+<utterance uid="5-8"><speaker>ESPOSITO</speaker><content>Ten minutes ago?</content></utterance>
+<utterance uid="5-9"><speaker>GLADYS</speaker><content>Uh, maybe less? Does she have something to do with what happened to Henry?</content></utterance>
+<utterance uid="5-10"><speaker>RYAN</speaker><content>Ma’am, what’s Henry’s apartment number?</content></utterance>
+<utterance uid="5-11"><speaker>GLADYS</speaker><content>Uh, 517.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>RYAN</speaker><content> Bedroom.</content></utterance>
+<utterance uid="6-2"><speaker>ESPOSITO</speaker><content>Yeah.</content></utterance>
+<utterance uid="6-3"><speaker>CHIEF INSPECTOR ZHANG</speaker><content>Now hand me your backup weapon.</content></utterance>
+<utterance uid="6-4"><speaker>ESPOSITO</speaker><content>Here’s his backup. Drop it.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>ESPOSITO</speaker><content>You better think this through. We’re the cops.</content></utterance>
+<utterance uid="7-2"><speaker>ZHANG</speaker><content>So am I.  Hong Kong PD. Now, who’s the lead investigator on this case?</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>BECKETT</speaker><content>You’re awfully far from Hong Kong, Chief Inspector Zhang.</content></utterance>
+<utterance uid="8-2"><speaker>ZHANG</speaker><content>Are these handcuffs truly necessary?</content></utterance>
+<utterance uid="8-3"><speaker>BECKETT</speaker><content>You attacked two NYPD detectives.</content></utterance>
+<utterance uid="8-4"><speaker>ZHANG</speaker><content>Only because I had no idea they were police.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>CASTLE</speaker><content>So, you mean to tell me, she got both your guns.</content></utterance>
+<utterance uid="9-2"><speaker>RYAN</speaker><content>Hey. You weren’t there. She’s fast. I mean like, crazy fast.</content></utterance>
+<utterance uid="9-3"><speaker>ESPOSITO</speaker><content>Please. She ain’t all that.</content></utterance>
+<utterance uid="9-4"><speaker>CASTLE</speaker><content>Yet she got both your guns.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>BECKETT</speaker><content>It says here that you are part of a US-Chinese organized taskforce based in San Francisco. What are you doing in New York?</content></utterance>
+<utterance uid="10-2"><speaker>ZHANG</speaker><content>Detective, let’s cut to the chase, shall we? I am not the murderer.</content></utterance>
+<utterance uid="10-3"><speaker>BECKETT</speaker><content>So do you always make a habit of finding dead bodies and relieving them of their belongings?</content></utterance>
+<utterance uid="10-4"><speaker>ZHANG</speaker><content>I know Henry. Rather, I knew him.</content></utterance>
+<utterance uid="10-5"><speaker>BECKETT</speaker><content>How?</content></utterance>
+<utterance uid="10-6"><speaker>ZHANG</speaker><content>It’s complicated.</content></utterance>
+<utterance uid="10-7"><speaker>BECKETT</speaker><content>Was he involved in one of your investigations?</content></utterance>
+<utterance uid="10-8"><speaker>ZHANG</speaker><content>He was a friend. We hadn’t seen each other in years. We made plans to meet here, in the city, and then he called me and told me he couldn’t come. He sounded frightened. I asked him what was going on and he told me he was in trouble.</content></utterance>
+<utterance uid="10-9"><speaker>BECKETT</speaker><content>What kind of trouble?</content></utterance>
+<utterance uid="10-10"><speaker>ZHANG</speaker><content>He wouldn’t say. I called back, he never answered. I was worried, so I flew out right away.</content></utterance>
+<utterance uid="10-11"><speaker>BECKETT</speaker><content>How did you end up at the crime scene?</content></utterance>
+<utterance uid="10-12"><speaker>ZHANG</speaker><content>When Henry didn’t return my calls I had a colleague in San Francisco ping his cell.</content></utterance>
+<utterance uid="10-13"><speaker>BECKETT</speaker><content>So you found him in the park?</content></utterance>
+<utterance uid="10-14"><speaker>ZHANG</speaker><content>When I got there he was already dead. So I took his phone and his keys and I began to investigate.</content></utterance>
+<utterance uid="10-15"><speaker>BECKETT</speaker><content>And why didn’t you call us from the crime scene?</content></utterance>
+<utterance uid="10-16"><speaker>ZHANG</speaker><content>Because I didn’t want to waste my time having this conversation. My friend had been murdered. I have to find out who did it.</content></utterance>
+<utterance uid="10-17"><speaker>BECKETT</speaker><content>No. I do.</content></utterance>
+<utterance uid="10-18"><speaker>CAPTAIN VICTORIA GATES</speaker><content>Detective, I just got off with the TSA. Chief Inspector Zhang’s flight didn’t arrive until midnight.</content></utterance>
+<utterance uid="10-19"><speaker>BECKETT</speaker><content>Which is when Henry was killed.</content></utterance>
+<utterance uid="10-20"><speaker>GATES</speaker><content>She couldn’t have done it.</content></utterance>
+<utterance uid="10-21"><speaker>ZHANG</speaker><content>Now may I go?</content></utterance>
+<utterance uid="10-22"><speaker>GATES</speaker><content>As long as you promise that you’re not going to work this case.</content></utterance>
+<utterance uid="10-23"><speaker>ZHANG</speaker><content>That’s a promise I cannot make. And you no longer have cause to hold me.</content></utterance>
+<utterance uid="10-24"><speaker>GATES</speaker><content>Chief Inspector, in the interest of all parties perhaps you should consider working with us.</content></utterance>
+<utterance uid="10-25"><speaker>ZHANG</speaker><content>I would like my effects returned to me now.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>GATES</speaker><content>Take a peek at this.  It’s Zhang’s personnel file. She’s more than just some cop.</content></utterance>
+<utterance uid="11-2"><speaker>BECKETT</speaker><content>Wait a minute. That US-Chinese taskforce. She’s not just on it, she’s running it?</content></utterance>
+<utterance uid="11-3"><speaker>BECKETT</speaker><content>Wow. Commendations, citations. Oh my gosh, she is impressive.</content></utterance>
+<utterance uid="11-4"><speaker>CASTLE</speaker><content>Oh, sure. On paper.</content></utterance>
+<utterance uid="11-5"><speaker>BECKETT</speaker><content>What about the way she schooled Ryan and Esposito. Is that just on paper?</content></utterance>
+<utterance uid="11-6"><speaker>ZHANG</speaker><content>Captain. I’ve been thinking about your proposal and I do see the advantage of us working together. Does the offer still stand?</content></utterance>
+<utterance uid="11-7"><speaker>GATES</speaker><content>Yes.</content></utterance>
+<utterance uid="11-8"><speaker>ZHANG</speaker><content>Okay. Then let’s start with this.  You had mentioned that before Henry died, he had gone to lunch and returned upset. I had found that receipt in his pocket.</content></utterance>
+<utterance uid="11-9"><speaker>BECKETT</speaker><content>From The Jade Temple restaurant in Chinatown. It’s time stamped yesterday afternoon.</content></utterance>
+<utterance uid="11-10"><speaker>GATES</speaker><content>Why don’t the three of you check it out? See if there’s anything about his lunch that can explain why he got killed.</content></utterance>
+<utterance uid="11-11"><speaker>BECKETT</speaker><content>Okay.</content></utterance>
+<utterance uid="11-12"><speaker>CASTLE</speaker><content>Hi.  I’m Castle.  We’re partners. Actually – we’re also married.</content></utterance>
+<utterance uid="11-13"><speaker>ZHANG</speaker><content> Interesting arrangement.</content></utterance>
+<utterance uid="11-14"><speaker>CASTLE</speaker><content>Yeah. This is going to be fun, this little threesome here.</content></utterance>
+<utterance uid="11-15"><speaker>CASTLE</speaker><content>Investigatively speaking. I don’t want – didn’t mean to – I’m not trying to imply that –</content></utterance>
+<utterance uid="11-16"><speaker>BECKETT</speaker><content>Quit while you’re behind.</content></utterance>
+<utterance uid="11-17"><speaker>CASTLE</speaker><content>Yeah.</content></utterance>
+</scene>
+
+<scene id="12"><utterance uid="12-1"><speaker>CASTLE</speaker><content>Oh, thank you.</content></utterance>
+<utterance uid="12-2"><speaker>BECKETT</speaker><content>Mmhmm.</content></utterance>
+<utterance uid="12-3"><speaker>MEI WU</speaker><content>Hello. Table for three?</content></utterance>
+<utterance uid="12-4"><speaker>BECKETT</speaker><content>Uh, no. Not today.  Detective Beckett. NYPD.</content></utterance>
+<utterance uid="12-5"><speaker>MIMI TAN</speaker><content>You are the police? I’m Mimi Tan. This is my establishment. What can I do for you?</content></utterance>
+<utterance uid="12-6"><speaker>CASTLE</speaker><content>We’d like to ask you some questions about one of your customers.</content></utterance>
+<utterance uid="12-7"><speaker>MIMI</speaker><content>Oh. Not one of my customers. He’s my number one customer. Henry eats here every day.</content></utterance>
+<utterance uid="12-8"><speaker>ZHANG</speaker><content>Not anymore. He was murdered.</content></utterance>
+<utterance uid="12-9"><speaker>MIMI</speaker><content>This is tragic.</content></utterance>
+<utterance uid="12-10"><speaker>BECKETT</speaker><content>When Henry was here yesterday, did he say that anything was wrong or that he was having problems with anyone?</content></utterance>
+<utterance uid="12-11"><speaker>MIMI</speaker><content>No, I don’t think so.</content></utterance>
+<utterance uid="12-12"><speaker>ZHANG</speaker><content>Her.  Was she working here yesterday?</content></utterance>
+<utterance uid="12-13"><speaker>MEI WU</speaker><content>Zhu Yin? Yes.</content></utterance>
+<utterance uid="12-14"><speaker>BECKETT</speaker><content>I’ll go talk to her.</content></utterance>
+<utterance uid="12-15"><speaker>ZHANG</speaker><content>I’ll go talk to her.</content></utterance>
+<utterance uid="12-16"><speaker>CASTLE</speaker><content>What if I just stay here while you …</content></utterance>
+<utterance uid="12-17"><speaker>BECKETT</speaker><content>Uh, yeah.</content></utterance>
+<utterance uid="12-18"><speaker>BECKETT</speaker><content>Uh, Zhu Yin? Detective Beckett, NYPD. We’d like a word.</content></utterance>
+<utterance uid="12-19"><speaker>ZHU YIN</speaker><content>I don’t want trouble.</content></utterance>
+<utterance uid="12-20"><speaker>BECKETT</speaker><content>No, no. You’re not in any trouble. We just need to ask you a few questions.</content></utterance>
+<utterance uid="12-21"><speaker>ZHU YIN</speaker><content>I know nothing. I must work now.</content></utterance>
+<utterance uid="12-22"><speaker>BECKETT</speaker><content>She knows more than she’s letting on. It’s like she’s afraid to talk to us.</content></utterance>
+<utterance uid="12-23"><speaker>ZHANG</speaker><content>Us, or perhaps you. Her dialect indicates she’s from the Chongqing region. The police corruption is rampant there. Let me talk to her in her native language. Put her at ease.</content></utterance>
+<utterance uid="12-24"><speaker>CASTLE</speaker><content>Um… did she just take over your interview?</content></utterance>
+<utterance uid="12-25"><speaker>BECKETT</speaker><content>Yeah. She’s more than qualified, Castle. Did you know she was the youngest officer to become Chief Inspector? She has cleared more murders than anyone in Hong Kong PD history.</content></utterance>
+<utterance uid="12-26"><speaker>CASTLE</speaker><content> Okay, so she’s good at her job.</content></utterance>
+<utterance uid="12-27"><speaker>BECKETT</speaker><content>Not just that. Take a look at her husband.  Action movie star.</content></utterance>
+<utterance uid="12-28"><speaker>CASTLE</speaker><content>Yes, well, I’m a highly paid novelist.</content></utterance>
+<utterance uid="12-29"><speaker>BECKETT</speaker><content>What about the kids. Cute, huh?</content></utterance>
+<utterance uid="12-30"><speaker>CASTLE</speaker><content>Oh …  I’ve seen cuter. That’s – please tell me you’re not comparing yourself to her.</content></utterance>
+<utterance uid="12-31"><speaker>CASTLE</speaker><content>Oh. We’re – </content></utterance>
+<utterance uid="12-32"><speaker>ZHANG</speaker><content>She said there was an incident yesterday. A customer refused to order lunch. He said he was waiting for someone. Apparently he just checked his email until Henry arrived. He joined Henry at his table. An argument broke out and he finally left, but not before he told Henry “you cannot walk away from this”.</content></utterance>
+<utterance uid="12-33"><speaker>BECKETT</speaker><content>Does Zhu Yin know what they were fighting about?</content></utterance>
+<utterance uid="12-34"><speaker>ZHANG</speaker><content>No, she didn’t get a good look at him. She said he was white, 40s, average height, average weight.</content></utterance>
+<utterance uid="12-35"><speaker>ZHANG</speaker><content>Is there a password required for the Wi-Fi?</content></utterance>
+<utterance uid="12-36"><speaker>MEI WU</speaker><content>No. Wi-Fi is free.</content></utterance>
+<utterance uid="12-37"><speaker>BECKETT</speaker><content>What are you thinking?</content></utterance>
+<utterance uid="12-38"><speaker>ZHANG</speaker><content>If the man connected his phone to the Wi-Fi the router would have logged his unique MAC address. We can use that to track his name.</content></utterance>
+<utterance uid="12-39"><speaker>BECKETT</speaker><content>Did you see that? She might have just broken this case with a Wi-Fi sign.</content></utterance>
+<utterance uid="12-40"><speaker>CASTLE</speaker><content>Yes. Yes, I’m impressed. Are you happy?</content></utterance>
+<utterance uid="12-41"><speaker>BECKETT</speaker><content>No, Castle. She’s just like me. Only better.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>ZHANG</speaker><content>So I traced all the devices that used the restaurants Wi-Fi during the time Henry was there. Only one is owned by a man fitting our suspect’s description.  Michael Glassman.</content></utterance>
+<utterance uid="13-2"><speaker>CASTLE</speaker><content>Good. We should send a copy of this over to Zhu Yin.</content></utterance>
+<utterance uid="13-3"><speaker>ZHANG</speaker><content>I already did. And she positively identified him as the one Henry was having the argument with.</content></utterance>
+<utterance uid="13-4"><speaker>BECKETT</speaker><content>Does Glassman have a criminal record?</content></utterance>
+<utterance uid="13-5"><speaker>ZHANG</speaker><content>Actually, quite the opposite.</content></utterance>
+<utterance uid="13-6"><speaker>BECKETT</speaker><content>Wait a minute, is this right?</content></utterance>
+<utterance uid="13-7"><speaker>CASTLE</speaker><content>What? Who’s this guy?</content></utterance>
+<utterance uid="13-8"><speaker>BECKETT</speaker><content>He’s an FBI agent.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>BECKETT</speaker><content>Agent Glassman, hi. I’m Detective Beckett.</content></utterance>
+<utterance uid="14-2"><speaker>BECKETT</speaker><content>This is Mr. Castle.</content></utterance>
+<utterance uid="14-3"><speaker>CASTLE</speaker><content>Hello.</content></utterance>
+<utterance uid="14-4"><speaker>BECKETT</speaker><content>Thank you for coming in.</content></utterance>
+<utterance uid="14-5"><speaker>AGENT MICHAEL GLASSMAN</speaker><content>Well, we’re all on the same team, right? Law enforcement synergy. So what can I do for the NYPD?</content></utterance>
+<utterance uid="14-6"><speaker>BECKETT</speaker><content>We’re looking into the death of Henry Graham and we’re hoping you can fill in the blanks.</content></utterance>
+<utterance uid="14-7"><speaker>GLASSMAN</speaker><content>Henry Graham? I’m afraid that name doesn’t ring a bell.</content></utterance>
+<utterance uid="14-8"><speaker>CASTLE</speaker><content>Uh, this man right here? You don’t recognize him?</content></utterance>
+<utterance uid="14-9"><speaker>GLASSMAN</speaker><content>No, I don’t.</content></utterance>
+<utterance uid="14-10"><speaker>BECKETT</speaker><content>Agent Glassman, we know that you had contact with our victim. You were seen with him, yesterday, at the Jade Temple Restaurant, together, having a heated argument.</content></utterance>
+<utterance uid="14-11"><speaker>GLASSMAN</speaker><content>Somebody gave you a bum tip. I was never at any Jade Temple.</content></utterance>
+<utterance uid="14-12"><speaker>CASTLE</speaker><content>Your phone was. Along with someone who bore a striking resemblance to you.</content></utterance>
+<utterance uid="14-13"><speaker>BECKETT</speaker><content>And then hours later Henry ended up dead.</content></utterance>
+<utterance uid="14-14"><speaker>BECKETT</speaker><content>Where were you at midnight last night?</content></utterance>
+<utterance uid="14-15"><speaker>GLASSMAN</speaker><content>Trust me, Detective Beckett, you do not want to go there.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>BECKETT</speaker><content>So much for law enforcement synergy.</content></utterance>
+<utterance uid="15-2"><speaker>CASTLE</speaker><content>He out and out lied about knowing Henry. He’s in this thing up to his bolo tie.</content></utterance>
+<utterance uid="15-3"><speaker>BECKETT</speaker><content>Only we don’t know what this thing is. You know, I’m going to see if Captain Gates can talk to the Bureau. Maybe she can shake some info loose. What about you? Do you have anything?</content></utterance>
+<utterance uid="15-4"><speaker>RYAN</speaker><content>Uh … yeah. But I’m not quite sure what to make of it yet. The lab found phenol formaldehyde resin on the bottom of Henry’s shoes.</content></utterance>
+<utterance uid="15-5"><speaker>BECKETT</speaker><content>Formaldehyde? Like for embalming?</content></utterance>
+<utterance uid="15-6"><speaker>RYAN</speaker><content>Yeah, for embalming, making circuit boards, treatment of fabrics, all kinds of stuff. They think that he must have been somewhere where that chemical was used right before he died.</content></utterance>
+<utterance uid="15-7"><speaker>CASTLE</speaker><content>Maybe he stepped in the formaldehyde right before he stole the X5.</content></utterance>
+<utterance uid="15-8"><speaker>ESPOSITO</speaker><content>He didn’t jack any X5. I checked. There were no X5s reported stolen.</content></utterance>
+<utterance uid="15-9"><speaker>CASTLE</speaker><content>So what was he was doing with those alarm codes?</content></utterance>
+<utterance uid="15-10"><speaker>BECKETT</speaker><content>And if Henry left work at 2PM, showed up dead at midnight, he’s unaccounted for for 10 hours, so where was he during that time?</content></utterance>
+<utterance uid="15-11"><speaker>ESPOSITO</speaker><content>Well, he didn’t own a car so I’ll check the activity on his Metro and credit cards, see if he went anywhere.</content></utterance>
+<utterance uid="15-12"><speaker>RYAN</speaker><content>I’ll circle back with his neighbors, see if they saw him.</content></utterance>
+<utterance uid="15-13"><speaker>BECKETT</speaker><content>Okay, call me if you guys find anything.</content></utterance>
+<utterance uid="15-14"><speaker>RYAN</speaker><content>Yep.</content></utterance>
+<utterance uid="15-15"><speaker>CASTLE</speaker><content>For a second there I thought I was going to get stuck doing thankless grunt work tonight.</content></utterance>
+<utterance uid="15-16"><speaker>ESPOSITO</speaker><content>Castle. We’re standing right here.</content></utterance>
+<utterance uid="15-17"><speaker>CASTLE</speaker><content>What?</content></utterance>
+<utterance uid="15-18"><speaker>BECKETT</speaker><content>Oh, tonight. Sorry, I forgot to tell you. I’m going out with Zhang tonight.</content></utterance>
+<utterance uid="15-19"><speaker>CASTLE</speaker><content>You are?</content></utterance>
+<utterance uid="15-20"><speaker>BECKETT</speaker><content>Mmhmm.</content></utterance>
+<utterance uid="15-21"><speaker>CASTLE</speaker><content>Is … um … you think that’s a good idea?</content></utterance>
+<utterance uid="15-22"><speaker>BECKETT</speaker><content>Yeah. I mean, we’re working together. We should get to know each other better. Anyway, don’t wait up for me, okay?</content></utterance>
+<utterance uid="15-23"><speaker>CASTLE</speaker><content>Bye.</content></utterance>
+<utterance uid="15-24"><speaker>ESPOSITO</speaker><content>Take a seat, Castle.</content></utterance>
+<utterance uid="15-25"><speaker>RYAN</speaker><content>Let me tell you a little something about life. You see, what you did there, Castle … rookie mistake.</content></utterance>
+<utterance uid="15-26"><speaker>CASTLE</speaker><content>What’d I do?</content></utterance>
+<utterance uid="15-27"><speaker>RYAN</speaker><content>You tried to stop her. I mean, Jenny, she’s got her girl’s nights and I’m totally fine with that. You see, in a marriage you have to give your partner some space.</content></utterance>
+<utterance uid="15-28"><speaker>CASTLE</speaker><content> Okay, Ryan. This is my third marriage. I think I know what I’m doing.</content></utterance>
+<utterance uid="15-29"><speaker>RYAN</speaker><content>Richard, why don’t you want her to go?</content></utterance>
+<utterance uid="15-30"><speaker>CASTLE</speaker><content>Guys, it’s not a secret that Zhang is … accomplished, and Beckett admires her for that.  Even envies her. So if they hang out I’m just afraid it’s going to be some sort of weird competition.</content></utterance>
+<utterance uid="15-31"><speaker>RYAN</speaker><content>Come on, Beckett would never do that.</content></utterance>
+<utterance uid="15-32"><speaker>ESPOSITO</speaker><content>Yeah, bro. This is Beckett we’re talking about. It’s a girl’s night out. It won’t be a competition.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>ZHANG</speaker><content>Not bad.</content></utterance>
+<utterance uid="16-2"><speaker>BECKETT</speaker><content>Thanks. I’m uh … little rusty though.</content></utterance>
+<utterance uid="16-3"><speaker>ZHANG</speaker><content>Me too. I haven’t been to a range in six months.</content></utterance>
+<utterance uid="16-4"><speaker>BECKETT</speaker><content>That’s after six months?</content></utterance>
+<utterance uid="16-5"><speaker>ZHANG</speaker><content>It’s hard to find time to practice with my duties in Hong Kong, San Fran, The Hague.</content></utterance>
+<utterance uid="16-6"><speaker>BECKETT</speaker><content>Wait a minute, you work at The Hague?</content></utterance>
+<utterance uid="16-7"><speaker>ZHANG</speaker><content> With the International War Crimes Tribunal.  Trust me, it’s not as glamorous as it sounds. But when you reach the peak of a mountain it’s time to scale another one, right?</content></utterance>
+<utterance uid="16-8"><speaker>BECKETT</speaker><content>Yeah. So, uh … team leader, a wife, a mom. Isn’t it a struggle to do it all?</content></utterance>
+<utterance uid="16-9"><speaker>ZHANG</speaker><content>The trick is to not struggle but to find balance. The moment you think it’s a struggle, that’s when you fall.</content></utterance>
+<utterance uid="16-10"><speaker>BECKETT</speaker><content>You know, there’s one thing that doesn’t add up, though. I mean, given who you are.</content></utterance>
+<utterance uid="16-11"><speaker>ZHANG</speaker><content>How Henry and I know each other. Because we come from such different worlds.</content></utterance>
+<utterance uid="16-12"><speaker>BECKETT</speaker><content>Exactly.</content></utterance>
+<utterance uid="16-13"><speaker>ZHANG</speaker><content>My parents worked as house staff for the Chinese mission to the U.N. I ended up in public school here in the city. I didn’t speak much English, got bullied for it. Henry stood up for me. I couldn’t stop what he became, but we never stopped being friends.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>CASTLE</speaker><content>Somehow the fact that you did this makes you even more attractive.</content></utterance>
+<utterance uid="17-2"><speaker>BECKETT</speaker><content>Yeah? Well, tell it to Zhang.</content></utterance>
+<utterance uid="17-3"><speaker>CASTLE</speaker><content>This is her target?</content></utterance>
+<utterance uid="17-4"><speaker>BECKETT</speaker><content>And she had ten others just like it.</content></utterance>
+<utterance uid="17-5"><speaker>CASTLE</speaker><content>Oh, well, so she’s a good shot. Big deal.</content></utterance>
+<utterance uid="17-6"><speaker>BECKETT</speaker><content>She’s good at everything! She’s got an incredible career, movie star husband, perfect kids. She does it all, she has it all, and to top it off she’s gorgeous.</content></utterance>
+<utterance uid="17-7"><speaker>CASTLE</speaker><content> Yeah, she is.</content></utterance>
+<utterance uid="17-8"><speaker>BECKETT</speaker><content>Wait, you think she’s gorgeous?</content></utterance>
+<utterance uid="17-9"><speaker>CASTLE</speaker><content>I … was just agreeing with you.</content></utterance>
+<utterance uid="17-10"><speaker>BECKETT</speaker><content>Okay, but did you think it before I said it?</content></utterance>
+<utterance uid="17-11"><speaker>CASTLE</speaker><content>No?</content></utterance>
+<utterance uid="17-12"><speaker>BECKETT</speaker><content>Oh my God, Castle. I haven’t felt like this since I had pimples.</content></utterance>
+<utterance uid="17-13"><speaker>BECKETT</speaker><content>I’m insecure.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>CASTLE</speaker><content>You’re not insecure.</content></utterance>
+<utterance uid="18-2"><speaker>BECKETT</speaker><content>Wait, if I’m not insecure then why did you say what you just said?</content></utterance>
+<utterance uid="18-3"><speaker>CASTLE</speaker><content>Okay, look. You’re doing it again. It’s Patterson syndrome. I knew it was a bad idea for you to go out with her.</content></utterance>
+<utterance uid="18-4"><speaker>BECKETT</speaker><content>No, no. Castle, I just wanted to see what made Zhang tick. You know, how she achieved what she did so maybe that could help me move forward.</content></utterance>
+<utterance uid="18-5"><speaker>CASTLE</speaker><content>Kate, you don’t need her help. You’re doing just fine.</content></utterance>
+<utterance uid="18-6"><speaker>BECKETT</speaker><content>Yeah, but when you reach the peak of one mountain isn’t it time to scale another one?</content></utterance>
+<utterance uid="18-7"><speaker>CASTLE</speaker><content>That sounds like something Zhang would say.  Are you quoting her?</content></utterance>
+<utterance uid="18-8"><speaker>BECKETT</speaker><content>No.</content></utterance>
+<utterance uid="18-9"><speaker>CASTLE</speaker><content>Look. You’re idealizing Zhang. You’re comparing yourself to a version of her that doesn’t even exist. She is a human, like the rest of us, flaws and all. Not some infallible super cop who swoops in every time to save the day.</content></utterance>
+<utterance uid="18-10"><speaker>RYAN</speaker><content>Hey. Zhang just got a lead that could crack this case.</content></utterance>
+<utterance uid="18-11"><speaker>BECKETT</speaker><content>You were saying?</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>ZHANG</speaker><content>I was scanning surveillance video of Henry’s apartment complex, trying to piece together the timeline on the day he died, when I saw this.</content></utterance>
+<utterance uid="19-2"><speaker>ZHANG</speaker><content>That’s Henry. Note the time: 2:37PM.</content></utterance>
+<utterance uid="19-3"><speaker>BECKETT</speaker><content>Meaning, after Henry left the repo yard he went back home.</content></utterance>
+<utterance uid="19-4"><speaker>ZHANG</speaker><content>Except he didn’t stay. Five minutes later he left his apartment complex.  Watch what happens next.</content></utterance>
+<utterance uid="19-5"><speaker>CASTLE</speaker><content>Before he was killed, Henry Graham was kidnapped.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>ESPOSITO</speaker><content>Tech was able to pull the numbers off the license plate. The SUV is registered to a William "Billy" Hicks.</content></utterance>
+<utterance uid="20-2"><speaker>RYAN</speaker><content>According to my buddies in narcotics, this guy’s hard core. Every year he makes their top twenty list for drug dealers. But they’ve never been able to nail him, mostly because he has other guys do his dirty work.</content></utterance>
+<utterance uid="20-3"><speaker>ZHANG</speaker><content>I know this man. Billy Hicks started Henry on a life of crime. Hired him as an enforcer. He’s the reason that Henry went to prison.</content></utterance>
+<utterance uid="20-4"><speaker>CASTLE</speaker><content>Well then, he’s probably the reason Henry was murdered.</content></utterance>
+<utterance uid="20-5"><speaker>ZHANG</speaker><content>But Henry hasn’t worked for Hicks in almost ten years. Why would Hicks come after him now?</content></utterance>
+<utterance uid="20-6"><speaker>BECKETT</speaker><content>Maybe Henry knew too much. About Hicks and the organization. That’s probably why Glassman approached him at the Jade Temple. The FBI is building a case against Hicks.</content></utterance>
+<utterance uid="20-7"><speaker>CASTLE</speaker><content>And Glassman wanted Henry to roll.</content></utterance>
+<utterance uid="20-8"><speaker>BECKETT</speaker><content>You know, if Henry refused, that explains why Glassman and he fought.</content></utterance>
+<utterance uid="20-9"><speaker>ZHANG</speaker><content>It doesn’t matter if he refused. If a man like Hicks thought Henry was talking to the FBI, he would stop at nothing to protect his empire and eliminate the threat.</content></utterance>
+<utterance uid="20-10"><speaker>BECKETT</speaker><content>Where do we find Hicks?</content></utterance>
+<utterance uid="20-11"><speaker>ESPOSITO</speaker><content>He operates out of a gym he owns in Queens, O’Donnell’s Boxing.</content></utterance>
+<utterance uid="20-12"><speaker>BECKETT</speaker><content>All right, let’s go.</content></utterance>
+<utterance uid="20-13"><speaker>GATES</speaker><content>Detective, wait. I need a word with you.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>GATES</speaker><content>You can’t go after Hicks.</content></utterance>
+<utterance uid="21-2"><speaker>BECKETT</speaker><content>Why not?</content></utterance>
+<utterance uid="21-3"><speaker>GATES</speaker><content>Orders straight from 1PP.</content></utterance>
+<utterance uid="21-4"><speaker>BECKETT</speaker><content> Did they say why?</content></utterance>
+<utterance uid="21-5"><speaker>GATES</speaker><content>Just that it’s a federal matter.</content></utterance>
+<utterance uid="21-6"><speaker>BECKETT</speaker><content> So I’m right. Hicks is being investigated by the Feds.</content></utterance>
+<utterance uid="21-7"><speaker>GATES</speaker><content>And they don’t want us screwing up their case.</content></utterance>
+<utterance uid="21-8"><speaker>BECKETT</speaker><content>Sir, he could be our killer.</content></utterance>
+<utterance uid="21-9"><speaker>GATES</speaker><content>They are aware of that. They need us to wait.</content></utterance>
+<utterance uid="21-10"><speaker>BECKETT</speaker><content>For how long?</content></utterance>
+<utterance uid="21-11"><speaker>GATES</speaker><content>Until indictments come down.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>ZHANG</speaker><content>And when exactly do they expect these indictments? Days? Weeks? Months?</content></utterance>
+<utterance uid="22-2"><speaker>BECKETT</speaker><content>We don’t know. But until then we’ve been ordered to stand down from this investigation.</content></utterance>
+<utterance uid="22-3"><speaker>ZHANG</speaker><content>What are you saying? That my friend is dead and I can do nothing? Is that what you’re telling me, Detective Beckett?  Where is the justice in that?</content></utterance>
+<utterance uid="22-4"><speaker>BECKETT</speaker><content>She’s not wrong.</content></utterance>
+<utterance uid="22-5"><speaker>CASTLE</speaker><content>Look, even though we can’t approach Hicks, we can build a case. Gather evidence against him.</content></utterance>
+<utterance uid="22-6"><speaker>RYAN</speaker><content>We’ll start by combing street cams, see if we can find out where that SUV went after Henry was taken.</content></utterance>
+<utterance uid="22-7"><speaker>ESPOSITO</speaker><content>I’ll send a team to the crime scene to canvas the park, see if anyone remembers seeing that SUV.</content></utterance>
+<utterance uid="22-8"><speaker>BECKETT</speaker><content>You know, we should talk to Zhang. See what else she knows about Henry and Hicks.</content></utterance>
+<utterance uid="22-9"><speaker>BECKETT</speaker><content>Zhang?</content></utterance>
+<utterance uid="22-10"><speaker>BECKETT</speaker><content>You guys, did Zhang circle back through here?</content></utterance>
+<utterance uid="22-11"><speaker>ESPOSITO</speaker><content>No, she stormed off that way, didn’t she?</content></utterance>
+<utterance uid="22-12"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+<utterance uid="22-13"><speaker>CASTLE</speaker><content>Oh, you don’t think –</content></utterance>
+<utterance uid="22-14"><speaker>BECKETT</speaker><content>Yeah, I do. O’Donnell’s Boxing Gym.</content></utterance>
+<utterance uid="22-15"><speaker>RYAN</speaker><content>She’s going after Hicks.</content></utterance>
+<utterance uid="22-16"><speaker>BECKETT</speaker><content>I’ll get her. She’s my responsibility.</content></utterance>
+</scene>
+
+
+<scene id="23"><utterance uid="23-1"><speaker>TONY</speaker><content>If you’re looking for the Pilates studio, it’s across the street.</content></utterance>
+<utterance uid="23-2"><speaker>ZHANG</speaker><content>I’m looking for your boss. There? Hicks.</content></utterance>
+<utterance uid="23-3"><speaker>BILLY HICKS</speaker><content>Step aside, Tony. Make a lady feel welcome here. Especially someone as – as lovely as this delicate flower.</content></utterance>
+<utterance uid="23-4"><speaker>HICKS</speaker><content>What can I do you for, Miss –</content></utterance>
+<utterance uid="23-5"><speaker>ZHANG</speaker><content>Zhang. I’d like to discuss a mutual friend. Henry Graham?</content></utterance>
+<utterance uid="23-6"><speaker>HICKS</speaker><content>Sorry, I don’t know that name.</content></utterance>
+<utterance uid="23-7"><speaker>ZHANG</speaker><content>Oh, I think you do.</content></utterance>
+<utterance uid="23-8"><speaker>HICKS</speaker><content>You don’t want to do that. You might get hurt.</content></utterance>
+<utterance uid="23-9"><speaker>ZHANG</speaker><content>Funny. I was going to say the same thing to him.</content></utterance>
+<utterance uid="23-10"><speaker>HICKS</speaker><content>Wrong move, sweetheart.</content></utterance>
+</scene>
+
+<scene id="24"><utterance uid="24-1"><speaker>HICKS</speaker><content>Help me!</content></utterance>
+<utterance uid="24-2"><speaker>HICKS</speaker><content>Help me! Please, help me!</content></utterance>
+<utterance uid="24-3"><speaker>BECKETT</speaker><content>Zhang, step away!</content></utterance>
+<utterance uid="24-4"><speaker>ZHANG</speaker><content>Leave us, Detective.</content></utterance>
+<utterance uid="24-5"><speaker>BECKETT</speaker><content>Don’t make me ask again.</content></utterance>
+<utterance uid="24-6"><speaker>HICKS</speaker><content>Say goodbye, sister, because I am pressing charges.  Now arrest this crazy b*tch.</content></utterance>
+<utterance uid="24-7"><speaker>BECKETT</speaker><content>Right after I arrest you.</content></utterance>
+<utterance uid="24-8"><speaker>HICKS</speaker><content>For what?</content></utterance>
+<utterance uid="24-9"><speaker>BECKETT</speaker><content>We have a video of you abducting Henry Graham outside his apartment.</content></utterance>
+<utterance uid="24-10"><speaker>HICKS</speaker><content>Abduct? We gave him a ride.</content></utterance>
+<utterance uid="24-11"><speaker>ZHANG</speaker><content>By forcing him into your SUV?</content></utterance>
+<utterance uid="24-12"><speaker>HICKS</speaker><content>Come on, that was a gag. Okay? My boys were just messing with him. We do that stuff all the time. Ask Henry.</content></utterance>
+<utterance uid="24-13"><speaker>ZHANG</speaker><content>That’s going to be hard, seeing as you killed him.</content></utterance>
+<utterance uid="24-14"><speaker>HICKS</speaker><content>Wait. Henry’s dead? Okay, I had nothing to do with that. All I did was help him.</content></utterance>
+<utterance uid="24-15"><speaker>BECKETT</speaker><content>Help him with what?</content></utterance>
+<utterance uid="24-16"><speaker>BECKETT</speaker><content>You don’t want to talk to me? Fine. You can talk to her.</content></utterance>
+<utterance uid="24-17"><speaker>HICKS</speaker><content>Okay, look. He came to me last week needing a favor.</content></utterance>
+<utterance uid="24-18"><speaker>BECKETT</speaker><content>What kind of favor?</content></utterance>
+<utterance uid="24-19"><speaker>HICKS</speaker><content>Let’s just say he needed something.</content></utterance>
+<utterance uid="24-20"><speaker>BECKETT</speaker><content>What did he want?</content></utterance>
+<utterance uid="24-21"><speaker>HICKS</speaker><content>Hypothetically?</content></utterance>
+<utterance uid="24-22"><speaker>BECKETT</speaker><content>Yeah, fine. Hypothetically.</content></utterance>
+<utterance uid="24-23"><speaker>HICKS</speaker><content>Let’s say, and this is just an example, that he wanted half a kilo of coke.</content></utterance>
+<utterance uid="24-24"><speaker>ZHANG</speaker><content>Why would Henry need cocaine?</content></utterance>
+<utterance uid="24-25"><speaker>HICKS</speaker><content>Let’s just assume in this particular example that he said he was trying to help a friend get out of a bad situation.</content></utterance>
+<utterance uid="24-26"><speaker>BECKETT</speaker><content>Who was the friend and what were they going to do with the coke?</content></utterance>
+<utterance uid="24-27"><speaker>HICKS</speaker><content>Maybe he didn’t say and I didn’t ask. Maybe I told him he shouldn’t get back in the game. It’s too dangerous. But he said it was just a one-time deal.</content></utterance>
+<utterance uid="24-28"><speaker>ZHANG</speaker><content>You’re lying. Henry would never sell drugs.</content></utterance>
+<utterance uid="24-29"><speaker>BECKETT</speaker><content>Wait, Zhang! Zhang!</content></utterance>
+<utterance uid="24-30"><speaker>HICKS</speaker><content>Maybe we’re talking about different Henrys. Because the one in my example asked for it to be divided into smaller 8-balls.</content></utterance>
+<utterance uid="24-31"><speaker>HICKS</speaker><content>Look, Detective. Henry served me well back in the day. When the shipment was ready I had him picked up. Not abducted. I gave him the coke he needed. He was so grateful he even told me about the Feds watching my place. How they saw him leaving here last week and they tried to get him to roll on me. Hypothetically, of course.</content></utterance>
+<utterance uid="24-32"><speaker>HICKS</speaker><content>And that was the last I heard of him.</content></utterance>
+<utterance uid="24-33"><speaker>BECKETT</speaker><content>Let’s just say that you’re telling the truth. Did he tell you where he was going with the drugs?</content></utterance>
+<utterance uid="24-34"><speaker>HICKS</speaker><content>No. But when my boys took him back to the city he didn’t go home. He wanted out on 53rd and 1st.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>BECKETT</speaker><content>Yeah, Ryan. Look, Hicks could be lying about everything. We’ve still got to send a patrol to canvass 53rd and 1st, just in case.  Yeah, look for witnesses. Thanks.</content></utterance>
+<utterance uid="25-2"><speaker>ZHANG</speaker><content>They should also pull traffic camera footage of the area.</content></utterance>
+<utterance uid="25-3"><speaker>BECKETT</speaker><content>That is not your call. Not anymore. What the hell were you thinking?</content></utterance>
+<utterance uid="25-4"><speaker>ZHANG</speaker><content>I did what I had to!</content></utterance>
+<utterance uid="25-5"><speaker>BECKETT</speaker><content>Without any regard for the Feds, for the NYPD, for me. Is that what you call being balanced?</content></utterance>
+<utterance uid="25-6"><speaker>ZHANG</speaker><content>Okay, you want to know about being balanced? My husband and I are separated. I am not the mother I should be. You think I’m this amazing cop, that I have it all together, but I don’t. I’m the reason that Henry’s dead.</content></utterance>
+<utterance uid="25-7"><speaker>BECKETT</speaker><content>What are you taking about?</content></utterance>
+<utterance uid="25-8"><speaker>ZHANG</speaker><content>Henry called the other week. He left a message saying that –  – he needed my help. I didn’t think it was important so I didn’t call him back right away and when I did it was too late. He told me no one could help him anymore.</content></utterance>
+<utterance uid="25-9"><speaker>BECKETT</speaker><content>That’s why you hopped on that plane?</content></utterance>
+<utterance uid="25-10"><speaker>ZHANG</speaker><content>Growing up Henry was always there for me, protecting me. And when he needed me I was too busy. I am always too busy for everything that really matters. That’s why I need to do this. Not just for Henry. For me.</content></utterance>
+<utterance uid="25-11"><speaker>ZHANG</speaker><content>Who is it?</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>ZHANG</speaker><content>This is all my fault.</content></utterance>
+<utterance uid="26-2"><speaker>CASTLE</speaker><content>It sure is.</content></utterance>
+<utterance uid="26-3"><speaker>ZHANG</speaker><content>I’m going in. She shouldn’t take the blame.</content></utterance>
+<utterance uid="26-4"><speaker>CASTLE</speaker><content>Ah. She wouldn’t take it if she didn’t want to. Believe me, Beckett has plenty of experience taking a bullet for other people doing stupid things. Hell, she’s married to me. But uh … you super cops need to stick together, right?</content></utterance>
+<utterance uid="26-5"><speaker>ZHANG</speaker><content>What happened?</content></utterance>
+<utterance uid="26-6"><speaker>BECKETT</speaker><content>I told her that you left before you knew Hicks was off limits.</content></utterance>
+<utterance uid="26-7"><speaker>ZHANG</speaker><content>Did she believe you?</content></utterance>
+<utterance uid="26-8"><speaker>BECKETT</speaker><content> She … chose to believe me.</content></utterance>
+<utterance uid="26-9"><speaker>ZHANG</speaker><content>Thank you, Detective.</content></utterance>
+<utterance uid="26-10"><speaker>BECKETT</speaker><content>Well, the best way to thank me is to help us solve the case.</content></utterance>
+<utterance uid="26-11"><speaker>RYAN</speaker><content>Hey, so, we got a hit off that canvass. Unis, they found a street vendor who works near the corner of 53rd and 1st who saw Henry loitering around a residential parking garage the day of the murder.</content></utterance>
+<utterance uid="26-12"><speaker>ESPOSITO</speaker><content>Seeing that Henry’s a repo man we contacted the building manager to get a list of all the vehicles parked there.</content></utterance>
+<utterance uid="26-13"><speaker>RYAN</speaker><content>And one of them was a 2013 X5.</content></utterance>
+<utterance uid="26-14"><speaker>CASTLE</speaker><content>Those alarm codes that Henry requested.</content></utterance>
+<utterance uid="26-15"><speaker>BECKETT</speaker><content>Who owns the car?</content></utterance>
+<utterance uid="26-16"><speaker>RYAN</speaker><content>This guy.  Jeffrey Wadlow. He’s a wealthy businessman in property development with a history of drug charges.</content></utterance>
+<utterance uid="26-17"><speaker>ESPOSITO</speaker><content>That his high powered attorneys always got dismissed.</content></utterance>
+<utterance uid="26-18"><speaker>RYAN</speaker><content>Until the other day, because after receiving an anonymous tip to the police that Wadlow was selling drugs, they pulled him over and found half a kilo of cocaine separated out into 8-balls stashed inside the car.</content></utterance>
+<utterance uid="26-19"><speaker>ZHANG</speaker><content>That means Henry wasn’t selling drugs. He was planting them.</content></utterance>
+<utterance uid="26-20"><speaker>CASTLE</speaker><content>Yeah, but why?</content></utterance>
+<utterance uid="26-21"><speaker>BECKETT</speaker><content>Is there a connection between Henry and Wadlow?</content></utterance>
+<utterance uid="26-22"><speaker>EPSOSITO</speaker><content> Not that we could find.</content></utterance>
+<utterance uid="26-23"><speaker>BECKETT</speaker><content>Where’s Wadlow now?</content></utterance>
+<utterance uid="26-24"><speaker>RYAN</speaker><content>Central booking, awaiting arraignment for felony distribution charges.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>HENRY WADLOW</speaker><content>Who the hell is Henry Graham?</content></utterance>
+<utterance uid="27-2"><speaker>BECKETT</speaker><content>Come on, Mr. Wadlow. I’ve got detectives digging into your life looking for ties between the two of you.</content></utterance>
+<utterance uid="27-3"><speaker>ZHANG</speaker><content>And it’s going to be worse for you if you say you don’t know Henry and we find out you do.</content></utterance>
+<utterance uid="27-4"><speaker>WADLOW</speaker><content>But I don’t know him.</content></utterance>
+<utterance uid="27-5"><speaker>BECKETT</speaker><content>So why would he plant drugs in your car?</content></utterance>
+<utterance uid="27-6"><speaker>WADLOW</speaker><content>Yes. I told the cops they were planted. Finally someone who believes me. Hey, hey. If you know it was this guy then I can get out of here, right?</content></utterance>
+<utterance uid="27-7"><speaker>ZHANG</speaker><content>Not when you reached out and hired someone to murder Henry.</content></utterance>
+<utterance uid="27-8"><speaker>WADLOW</speaker><content>Murder? I would never have someone killed. Especially someone I’ve never even seen before.</content></utterance>
+<utterance uid="27-9"><speaker>ZHANG</speaker><content>If you don’t know Henry then why would he try to frame you?</content></utterance>
+<utterance uid="27-10"><speaker>WADLOW</speaker><content>I have no idea. Maybe somebody put him up to it.</content></utterance>
+<utterance uid="27-11"><speaker>BECKETT</speaker><content>Like who?</content></utterance>
+<utterance uid="27-12"><speaker>WADLOW</speaker><content>I don’t know.  Maybe somebody who – somebody who doesn’t like the way I do business. A competitor, maybe?</content></utterance>
+<utterance uid="27-13"><speaker>BECKETT</speaker><content>Who stands to gain by you going to prison, Mr. Wadlow?</content></utterance>
+<utterance uid="27-14"><speaker>WADLOW</speaker><content>A whole lot of people.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>BECKETT</speaker><content>Wadlow’s in the clear for the murder. He was locked up at the time of the death.</content></utterance>
+<utterance uid="28-2"><speaker>ZHANG</speaker><content>Could he have ordered Henry’s execution while detained?</content></utterance>
+<utterance uid="28-3"><speaker>BECKETT</speaker><content>Ah … he made one phone call. To his lawyer. And he didn’t manage to get through until Henry was already dead.</content></utterance>
+<utterance uid="28-4"><speaker>ESPOSITO</speaker><content>Yo Beckett. Been combing through Wadlow’s business dealings and we came across something that might be connected to our case.</content></utterance>
+<utterance uid="28-5"><speaker>RYAN</speaker><content>Over the past six months Wadlow’s been buying up real estate for his next new development. In Chinatown. And each time he did he outbid the same rival company.</content></utterance>
+<utterance uid="28-6"><speaker>ESPOSITO</speaker><content>VCN Holdings. And the woman who runs VCN also happens to own a little restaurant called The Jade Temple.</content></utterance>
+<utterance uid="28-7"><speaker>CASTLE</speaker><content>Mimi Tan is behind this?</content></utterance>
+<utterance uid="28-8"><speaker>ESPOSITO</speaker><content>That’s right. It’s one of dozens of businesses she owns and not all of them are on the up and up.</content></utterance>
+<utterance uid="28-9"><speaker>RYAN</speaker><content>Organized crime tells us that Mimi Tan’s rumored to be linked to human trafficking.</content></utterance>
+<utterance uid="28-10"><speaker>ESPOSITO</speaker><content>She staffs her businesses with illegals that she smuggles from China via a network of Triads.</content></utterance>
+<utterance uid="28-11"><speaker>RYAN</speaker><content>But now she’s looking to go legit and she sees the Chinatown development as her ticket to respectability.</content></utterance>
+<utterance uid="28-12"><speaker>ZHANG</speaker><content>So the fact that Henry was eating at her restaurant every day was not a coincidence.</content></utterance>
+<utterance uid="28-13"><speaker>CASTLE</speaker><content>Mimi must have persuaded her number one customer to plant those drugs on Wadlow to eliminate the competition.</content></utterance>
+<utterance uid="28-14"><speaker>BECKETT</speaker><content>And then once Henry completed his task Mimi had him eliminated.</content></utterance>
+<utterance uid="28-15"><speaker>ZHANG</speaker><content>Only how do we prove it?</content></utterance>
+<utterance uid="28-16"><speaker>BECKETT</speaker><content>We’re going to need something stronger than just the lunch special.</content></utterance>
+<utterance uid="28-17"><speaker>RYAN</speaker><content>Well, ask and ye shall receive. Do you remember that phenol formaldehyde resin that the lab found on the bottom of Henry’s shoes? Well, it might have come from a garment factory a few blocks from the park where Henry was shot.</content></utterance>
+<utterance uid="28-18"><speaker>CASTLE</speaker><content>What makes you say that?</content></utterance>
+<utterance uid="28-19"><speaker>RYAN</speaker><content>Because. That factory is owned by Mimi Tan.</content></utterance>
+</scene>
+
+<scene id="29"><utterance uid="29-1"><speaker>MIMI</speaker><content>Hello again. Joining us for dinner this time, I hope?</content></utterance>
+<utterance uid="29-2"><speaker>BECKET</speaker><content>Uh, no. Not tonight. Actually, we were hoping that you could help us a little more with Henry’s murder investigation.</content></utterance>
+<utterance uid="29-3"><speaker>MIMI</speaker><content>Of course. Whatever I can do to help.</content></utterance>
+<utterance uid="29-4"><speaker>BECKETT</speaker><content>Jeffrey Wadlow. Do you know him? He’s a local developer.</content></utterance>
+<utterance uid="29-5"><speaker>MIMI</speaker><content>I know of him. Very unscrupulous.</content></utterance>
+<utterance uid="29-6"><speaker>ZHANG</speaker><content>Perhaps so. He was arrested for drug charges the other day.</content></utterance>
+<utterance uid="29-7"><speaker>MIMI</speaker><content>How unfortunate for him.</content></utterance>
+<utterance uid="29-8"><speaker>ZHANG</speaker><content>And how fortunate for you. Wadlow goes to prison, all his recent real estate deals fall apart.</content></utterance>
+<utterance uid="29-9"><speaker>BECKETT</speaker><content>Making room for your company to swoop in and buy numerous Chinatown properties.</content></utterance>
+<utterance uid="29-10"><speaker>MIMI</speaker><content>And what does this have to do with Henry’s death?</content></utterance>
+<utterance uid="29-11"><speaker>BECKETT</speaker><content>You enlisted Henry to plant those drugs in Wadlow’s car to get rid of your competition.</content></utterance>
+<utterance uid="29-12"><speaker>MIMI</speaker><content>That’s absurd.</content></utterance>
+<utterance uid="29-13"><speaker>BECKETT</speaker><content>Is it? We found phenol formaldehyde resin under Henry’s shoe, the same kind that’s used at your garment factory near the crime scene.</content></utterance>
+<utterance uid="29-14"><speaker>ZHANG</speaker><content>We talked to several of your workers who saw you with Henry at the factory the night he was murdered.</content></utterance>
+<utterance uid="29-15"><speaker>MIMI</speaker><content>I want to talk to my lawyer now.</content></utterance>
+<utterance uid="29-16"><speaker>ZHANG</speaker><content>Why did you do it? To tie up loose ends, is that it?</content></utterance>
+<utterance uid="29-17"><speaker>MIMI</speaker><content>I’m not saying another word until –</content></utterance>
+<utterance uid="29-18"><speaker>ZHU YIN</speaker><content>It was you! You killed him! You –</content></utterance>
+<utterance uid="29-19"><speaker>BECKETT</speaker><content>Wait! Hey!</content></utterance>
+<utterance uid="29-20"><speaker>ZHANG</speaker><content>Step back!</content></utterance>
+<utterance uid="29-21"><speaker>BECKETT</speaker><content>Henry didn’t come here for the food.</content></utterance>
+<utterance uid="29-22"><speaker>ZHANG</speaker><content> He came here for you.</content></utterance>
+<utterance uid="29-23"><speaker>ZHU YIN</speaker><content>He was going to take me away. Free me. And you killed him.</content></utterance>
+<utterance uid="29-24"><speaker>MIMI</speaker><content>I did not kill Henry.</content></utterance>
+<utterance uid="29-25"><speaker>ZHU YIN</speaker><content>You lie.</content></utterance>
+<utterance uid="29-26"><speaker>BECKETT</speaker><content>What do you mean, he came here to free you?</content></utterance>
+<utterance uid="29-27"><speaker>ZHU YIN</speaker><content>I owe much money to the smugglers who bring me here. She buy my debt. I work here to pay it off. For years.</content></utterance>
+<utterance uid="29-28"><speaker>MIMI</speaker><content>That’s not true.</content></utterance>
+<utterance uid="29-29"><speaker>ZHANG</speaker><content>And then you met Henry.</content></utterance>
+<utterance uid="29-30"><speaker>ZHU YIN</speaker><content>He want us to start a life together. He went to Mimi to pay my debt. Forty thousand dollars.</content></utterance>
+<utterance uid="29-31"><speaker>BECKETT</speaker><content>And Henry didn’t have that kind of cash so you made a different agreement for Zhu Yin’s release.</content></utterance>
+<utterance uid="29-32"><speaker>ZHANG</speaker><content>You had Henry frame Wadlow for her freedom.</content></utterance>
+<utterance uid="29-33"><speaker>ZHU YIN</speaker><content>He did that for me? That’s why he say for me to meet him at the park that night. He say he would have good news.</content></utterance>
+<utterance uid="29-34"><speaker>ZHANG</speaker><content>Wait, wait, wait. So you were the one he was waiting for at the park?</content></utterance>
+<utterance uid="29-35"><speaker>ZHU YIN</speaker><content>No. I was supposed to. But Henry phoned me. He say not to come.</content></utterance>
+<utterance uid="29-36"><speaker>ZHANG</speaker><content>He canceled?</content></utterance>
+<utterance uid="29-37"><speaker>BECKETT</speaker><content>Did he tell you why?</content></utterance>
+<utterance uid="29-38"><speaker>ZHU YIN</speaker><content> I did not speak to him. He call here and left a message.</content></utterance>
+<utterance uid="29-39"><speaker>BECKETT</speaker><content>Zhu Yin, who gave you that message?</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>BECKETT</speaker><content>Thanks, Mei Wu. We just need to clear up a few details. This shouldn’t take too long.</content></utterance>
+<utterance uid="30-2"><speaker>MEI WU</speaker><content>Of course. Henry was a good man.</content></utterance>
+<utterance uid="30-3"><speaker>ZHANG</speaker><content>Yes, he was.</content></utterance>
+<utterance uid="30-4"><speaker>BECKETT</speaker><content>So, Zhu Yin told us that you were working at the restaurant the night the night that Henry was killed. She said that you gave her a message. Is that correct?</content></utterance>
+<utterance uid="30-5"><speaker>MEI WU</speaker><content>Yes.  I’m sorry, did I do something wrong?</content></utterance>
+<utterance uid="30-6"><speaker>CASTLE</speaker><content>I’ll say so. You lied to her, just like you’re lying to us right now.</content></utterance>
+<utterance uid="30-7"><speaker>BECKETT</speaker><content>We checked Henry’s phone records. He never called the restaurant.</content></utterance>
+<utterance uid="30-8"><speaker>MEI WU</speaker><content>He must have used a different phone. I did speak with him.</content></utterance>
+<utterance uid="30-9"><speaker>CASTLE</speaker><content>Of course you did. When you confronted him at the park.</content></utterance>
+<utterance uid="30-10"><speaker>MEI WU</speaker><content>What park?</content></utterance>
+<utterance uid="30-11"><speaker>BECKETT</speaker><content>Your metro card shows that you entered the subway across the street during Henry’s time of death window.</content></utterance>
+<utterance uid="30-12"><speaker>ZHANG</speaker><content>Zhu Yin told us about your friendship. How you grew up together, how you both came here, how hard it was. How you both owe a debt to Mimi Tan.</content></utterance>
+<utterance uid="30-13"><speaker>CASTLE</speaker><content>But that was all about to change. You realized that Henry was going to clear Zhu Yin’s debt and take her away from you. And you could not allow that to happen.</content></utterance>
+<utterance uid="30-14"><speaker>MEI WU</speaker><content>Please, I did nothing wrong.</content></utterance>
+<utterance uid="30-15"><speaker>BECKETT</speaker><content>CSU recovered blood micro-sprays on clothes found in your apartment. That blood matches Henry’s.</content></utterance>
+<utterance uid="30-16"><speaker>MEI WU</speaker><content>No, no. This is a mistake.</content></utterance>
+<utterance uid="30-17"><speaker>MEI WU</speaker><content>Zhu Yin is all I have here. And she was going to leave me. I had to do something. I had to!</content></utterance>
+<utterance uid="30-18"><speaker>ZHANG</speaker><content>Mei Wu, you’re under arrest for the murder of Henry Graham.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>BECKETT</speaker><content>How’s Zhu Yin doing?</content></utterance>
+<utterance uid="31-2"><speaker>ZHANG</speaker><content>She’s strong. She’ll be all right.</content></utterance>
+<utterance uid="31-3"><speaker>BECKETT</speaker><content>So, um … a bit of good news? I spoke with immigration and in exchange for Zhu Yin testifying against Mimi Tan they are going to grant her asylum. She’s going to be able to stay in the US, but free this time.</content></utterance>
+<utterance uid="31-4"><speaker>ZHANG</speaker><content>Just as Henry wanted.</content></utterance>
+<utterance uid="31-5"><speaker>BECKETT</speaker><content>So what are you going to do now?</content></utterance>
+<utterance uid="31-6"><speaker>ZHANG</speaker><content>I don’t know. Pick up where I left off, pick up the pieces. Try to find my balance.</content></utterance>
+<utterance uid="31-7"><speaker>BECKETT</speaker><content>It’s easier said than done. Good luck, Inspector.</content></utterance>
+<utterance uid="31-8"><speaker>ZHANG</speaker><content>Thank you, Kate. For everything.</content></utterance>
+</scene>
+
+<scene id="32"><utterance uid="32-1"><speaker>CASTLE</speaker><content>So, you think you and Zhang will stay in touch?</content></utterance>
+<utterance uid="32-2"><speaker>BECKETT</speaker><content>I hope so. I mean, us super cops need to stick together.</content></utterance>
+<utterance uid="32-3"><speaker>CASTLE</speaker><content>You’re not trying to break my high score on Fruit Ninja, are you?</content></utterance>
+<utterance uid="32-4"><speaker>BECKETT</speaker><content>No, I’m writing up a list of priorities for my future.</content></utterance>
+<utterance uid="32-5"><speaker>CASTLE</speaker><content>Ah. New mountains to climb. Well, what’s it going to be? Fuji? Kilimanjaro? Everest?</content></utterance>
+<utterance uid="32-6"><speaker>BECKETT</speaker><content>I don’t know yet. I mean, I love what I do but I feel like I have to find a new challenge. It’s kind of like when you killed off Derek Storm because you were bored.</content></utterance>
+<utterance uid="32-7"><speaker>CASTLE</speaker><content>Ah, yeah. Look how that turned out.</content></utterance>
+<utterance uid="32-8"><speaker>BECKETT</speaker><content>Mmm. Yeah.  Well, whatever’s next, I don’t want to have to compromise my priorities to get there, and –  – I never want to be guilty of leaving behind what matters most.</content></utterance>
+<utterance uid="32-9"><speaker>CASTLE</speaker><content>You cannot leave behind what is always by your side.</content></utterance>
+<utterance uid="32-10"><speaker>BECKETT</speaker><content>Did you just make that up?</content></utterance>
+<utterance uid="32-11"><speaker>CASTLE</speaker><content>Yeah. Why?</content></utterance>
+<utterance uid="32-12"><speaker>BECKETT</speaker><content>You are so much better than Patterson.</content></utterance>
+</scene>
+</script>

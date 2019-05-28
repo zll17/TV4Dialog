@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>Brandon</speaker><content>I didn’t sleep well last night, and I woke up with a scratchy throat. I just don’t feel so good.  Uh, cough,  Yeah, I’m, I’m, a bit of an upset stomach too, and I think I’m running a fever, I’m just worried I might be contagious.  Inventory, tomorrow, yeah I’m sure I’ll be feeling better by then.  Thanks, Mr. Nobby.</content></utterance>
+<utterance uid="1-2"><speaker>Mindy</speaker><content>I cannot believe you just did that.</content></utterance>
+<utterance uid="1-3"><speaker>Brandon</speaker><content>I really do have a cough.</content></utterance>
+<utterance uid="1-4"><speaker>Mindy</speaker><content>Oh, so you weren’t lying, you’d be curled up in bed with a bowl of chicken soup even if you didn’t have a horny girl in your bed?</content></utterance>
+<utterance uid="1-5"><speaker>Brandon</speaker><content>Yes,  Because I really do, hey, I really do have a cough.</content></utterance>
+<utterance uid="1-6"><speaker>Mindy</speaker><content>You also have a little rash. </content></utterance>
+<utterance uid="1-7"><speaker>Brandon</speaker><content>Um, umm, I’m uh not sure that we should be kissing.</content></utterance>
+<utterance uid="1-8"><speaker>Mindy</speaker><content>Oh, that’s ok, because I have almost no interest in kissing you.</content></utterance>
+<utterance uid="1-9"><speaker>Both</speaker><content/></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>Mindy</speaker><content> Oh, Brandon.  Brandon, I know I’m good but come on. Brandon, Brandon, Brandon… </content></utterance>
+</scene>
+
+
+<scene id="3"><utterance uid="3-1"><speaker>House</speaker><content>Why do you want me to treat this guy?</content></utterance>
+<utterance uid="3-2"><speaker>Wilson</speaker><content>Blood pressure’s not responding to IV fluids.</content></utterance>
+<utterance uid="3-3"><speaker>House</speaker><content>No, no I didn’t ask how you plan to con me into treating him, I asked you why YOU want me to treat him.</content></utterance>
+<utterance uid="3-4"><speaker>Wilson</speaker><content>He’s sick, I care, I’m pathetic.</content></utterance>
+<utterance uid="3-5"><speaker>House</speaker><content>There are about a billion sick people on the planet, why this one?</content></utterance>
+<utterance uid="3-6"><speaker>Wilson</speaker><content>Because this one’s is in our emergency room.</content></utterance>
+<utterance uid="3-7"><speaker>House</speaker><content>Ah, so it’s a proximity issue. If somebody was sick in the third floor stairwell that’s who we would be talking about.</content></utterance>
+<utterance uid="3-8"><speaker>Wilson</speaker><content>Yes, I checked the stairwell, it’s clear.</content></utterance>
+<utterance uid="3-9"><speaker>House</speaker><content>Ok then, emergency room guy it is.</content></utterance>
+<utterance uid="3-10"><speaker>Wilson</speaker><content>Wait, how was that so easy?</content></utterance>
+<utterance uid="3-11"><speaker>House</speaker><content>You know why.</content></utterance>
+<utterance uid="3-12"><speaker>Wilson</speaker><content>Blood pressure’s not responding to IV fluids?</content></utterance>
+<utterance uid="3-13"><speaker>House</speaker><content>Yeah, that’s just weird.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>House</speaker><content>CBC was unremarkable, abdominal CT scan didn’t show anything. So, people, differential diagnosis. What’s wrong with her?</content></utterance>
+<utterance uid="4-2"><speaker>Cameron</speaker><content>Him.</content></utterance>
+<utterance uid="4-3"><speaker>House</speaker><content>Him, her, does it matter? Does anyone think it is a testicular problem? No, so Chase…</content></utterance>
+<utterance uid="4-4"><speaker>Chase</speaker><content>Absidia infection?</content></utterance>
+<utterance uid="4-5"><speaker>Foreman</speaker><content>No, you wouldn’t get the rash or cough. What about arthritis? Accompanying vasculitis causes nerve damage –</content></utterance>
+<utterance uid="4-6"><speaker>Cameron</speaker><content>No, it wouldn’t cause the blood pressure problems. Allergy?</content></utterance>
+<utterance uid="4-7"><speaker>Chase</speaker><content>The kid’s got abdominal pain. Maybe carcinoid?</content></utterance>
+<utterance uid="4-8"><speaker>Foreman</speaker><content>Nah, but then you wouldn’t get the – </content></utterance>
+<utterance uid="4-9"><speaker>House</speaker><content>Foreman, if you’re going to list all the things it’s not, it might be quicker to do it alphabetically. Let’s see. Absidia? Excellent. Doesn’t account for any of the symptoms.</content></utterance>
+<utterance uid="4-10"><speaker>Cameron</speaker><content>No condition accounts for all these symptoms.</content></utterance>
+<utterance uid="4-11"><speaker>House</speaker><content>Well, good! Because I thought maybe he was sick, but apparently he’s not. Who wants to do up the discharge papers?  Okay, unless we control the blood pressure, he’s going to start circling the drain before we can figure out what’s wrong with him. Treat him for sepsis, broad-spectrum antibiotics and I want a cort-stim test and an echocardiogram.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>Chase</speaker><content>You all right?</content></utterance>
+<utterance uid="5-2"><speaker>Brandon</speaker><content>Yeah.</content></utterance>
+<utterance uid="5-3"><speaker>Foreman</speaker><content>Cort-stim tests will tell us if your pituitary and adrenal glands are working properly.</content></utterance>
+<utterance uid="5-4"><speaker>Mindy</speaker><content>His glands? What does that mean?</content></utterance>
+<utterance uid="5-5"><speaker>Chase</speaker><content>We have a few theories we’re working on.</content></utterance>
+<utterance uid="5-6"><speaker>Mindy</speaker><content>You mean you don’t know.</content></utterance>
+<utterance uid="5-7"><speaker>Brandon</speaker><content>Mindy…</content></utterance>
+<utterance uid="5-8"><speaker>Mindy</speaker><content>I’m just saying if they knew they wouldn’t be testing you, they’d be treating you.</content></utterance>
+<utterance uid="5-9"><speaker>Foreman</speaker><content>Yeah, well, that’s the way it works. First you find out what it is, then we get you better.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>Cuddy</speaker><content>You’re half an hour late.</content></utterance>
+<utterance uid="6-2"><speaker>House</speaker><content>Busy case load.</content></utterance>
+<utterance uid="6-3"><speaker>Cuddy</speaker><content>One case is not a “load”.</content></utterance>
+<utterance uid="6-4"><speaker>House</speaker><content>So, how are we doing on cotton swabs today? If there’s an acute shortage I could run home –</content></utterance>
+<utterance uid="6-5"><speaker>Cuddy</speaker><content> No, you couldn’t.</content></utterance>
+<utterance uid="6-6"><speaker>House</speaker><content>Nice.  Hello, sick people and their loved ones!  In the interest of saving time and avoiding a lot of boring chit-chat later, I’m Dr. Gregory House. You can call me Gregg. I’m one of three doctors staffing this clinic this morning.</content></utterance>
+<utterance uid="6-7"><speaker>Cuddy</speaker><content>Short, sweet. Grab a file.</content></utterance>
+<utterance uid="6-8"><speaker>House</speaker><content>This ray of sunshine is Dr. Lisa Cuddy. Dr. Cuddy runs this whole hospital so, unfortunately, she’s much too busy to deal with you. I am a bored  certified diagnostician with a double specialty of infectious disease and nephrology. I’m also the only doctor currently employed at this clinic who is here against his will. That is true, isn’t it?  But not to worry, because for most of you this job could be done by a monkey with a bottle of Motrin. Speaking of which, if you’re particularly annoying, you may see me reach for this. This is Vicodin. It’s mine. You can’t have any. And no, I do not have a pain management problem, I have a pain problem. But who knows? Maybe I’m wrong. Maybe I’m too stoned to tell. So, who wants me?  And who would rather wait for one of the other two doctors?  Okay, well, I’ll be in Exam Room 1 if you change your mind.</content></utterance>
+<utterance uid="6-9"><speaker>Cuddy</speaker><content>Jodi Matthews?  Please accompany Dr. House to Exam Room 1.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>Mindy</speaker><content>Dr. Chase!</content></utterance>
+<utterance uid="7-2"><speaker>Chase</speaker><content>I’m not sure scaring your boyfriend is the best medicine for him right now.</content></utterance>
+<utterance uid="7-3"><speaker>Mindy</speaker><content>I know, I get… stupid when I’m scared.</content></utterance>
+<utterance uid="7-4"><speaker>Chase</speaker><content>Don’t go rock climbing.</content></utterance>
+<utterance uid="7-5"><speaker>Mindy</speaker><content>Look, I was wondering…. Before this happened, we were having sex.</content></utterance>
+<utterance uid="7-6"><speaker>Chase</speaker><content>What, you, you’re wondering if whatever he has you might have gotten it? It’s unlikely, we ran a complete STD panel, so –</content></utterance>
+<utterance uid="7-7"><speaker>Mindy</speaker><content>No, I was wondering if maybe I did this to him. I was kind of rough.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>Jodi</speaker><content>It was yellow.</content></utterance>
+<utterance uid="8-2"><speaker>House</speaker><content>It was?</content></utterance>
+<utterance uid="8-3"><speaker>Jodi</speaker><content>It’s not any more.</content></utterance>
+<utterance uid="8-4"><speaker>House</speaker><content>Hmmm, that’s a shame.</content></utterance>
+<utterance uid="8-5"><speaker>Jodi</speaker><content>I thought that might be a problem, so I brought you this. </content></utterance>
+<utterance uid="8-6"><speaker>House</speaker><content>Your mucus was pale goldenrod.</content></utterance>
+<utterance uid="8-7"><speaker>Jodi</speaker><content>Last week, yes. Should I be worried?</content></utterance>
+<utterance uid="8-8"><speaker>House</speaker><content>Oh, yes. Very.</content></utterance>
+<utterance uid="8-9"><speaker>Jodi</speaker><content>Really? I thought I was okay now.</content></utterance>
+<utterance uid="8-10"><speaker>House</speaker><content>And yet, here you are. What happened? Paramedics took a week to respond to your 911 call?</content></utterance>
+<utterance uid="8-11"><speaker>Jodi</speaker><content>You’re not a very nice doctor, are you?</content></utterance>
+<utterance uid="8-12"><speaker>House</speaker><content>And you are very bad at whatever it is you do.</content></utterance>
+<utterance uid="8-13"><speaker>Jodi</speaker><content>You don’t even know me!</content></utterance>
+<utterance uid="8-14"><speaker>House</speaker><content>I know you’re going to get fired. That’s why you got the new glasses, that’s why your teeth are sparkly white. You’re getting the most of your health insurance while you still can.</content></utterance>
+<utterance uid="8-15"><speaker>Jodi</speaker><content>I might be quitting.</content></utterance>
+<utterance uid="8-16"><speaker>House</speaker><content>If you were quitting you would have known that last week when your snot was still pale goldenrod; you’re getting fired.</content></utterance>
+<utterance uid="8-17"><speaker>Jodi</speaker><content>I just don’t like being told what to do.</content></utterance>
+<utterance uid="8-18"><speaker>House</speaker><content>I’ll get you in for a full body scan later this week.</content></utterance>
+<utterance uid="8-19"><speaker>Jodi</speaker><content>Thanks.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>Foreman</speaker><content>It’s got to be viral. We should start running gels and titers.</content></utterance>
+<utterance uid="9-2"><speaker>Chase</speaker><content>We should test the girlfriend’s theory. She thinks she rode him to death.</content></utterance>
+<utterance uid="9-3"><speaker>Foreman</speaker><content> What did you tell her?</content></utterance>
+<utterance uid="9-4"><speaker>Chase</speaker><content>Well, I told her 22-year old men don’t die of sex.</content></utterance>
+<utterance uid="9-5"><speaker>Cameron</speaker><content>What’d you ask her?</content></utterance>
+<utterance uid="9-6"><speaker>Chase</speaker><content>What do you mean?</content></utterance>
+<utterance uid="9-7"><speaker>Cameron</speaker><content>I mean, I hope you got some specifics on exactly what was going on. It’s a girl who thinks it could kill you… it’s worth knowing about. </content></utterance>
+<utterance uid="9-8"><speaker>Chase</speaker><content>Have you ever taken a life? </content></utterance>
+<utterance uid="9-9"><speaker>Foreman</speaker><content>We should stop the antibiotics.</content></utterance>
+<utterance uid="9-10"><speaker>Cameron</speaker><content>It’s too soon to say they’re not having an effect.</content></utterance>
+</scene>
+
+<scene id="10"><utterance uid="10-1"><speaker>House</speaker><content>So, we had six symptoms that didn’t add up to anything, now we have seven. Who’s excited?</content></utterance>
+<utterance uid="10-2"><speaker>Foreman</speaker><content>I don’t think it complicates things. The kidney failure was caused by the antibiotics.</content></utterance>
+<utterance uid="10-3"><speaker>House</speaker><content>Maybe.</content></utterance>
+<utterance uid="10-4"><speaker>Foreman</speaker><content>Typically, low blood pressure and abdominal pain means an infection. An abdominal infection causes sepsis, low blood pressure…</content></utterance>
+<utterance uid="10-5"><speaker>Chase</speaker><content>Except we checked for abdominal infections.</content></utterance>
+<utterance uid="10-6"><speaker>Foreman</speaker><content>I know, but what if it’s the other way around. What if the low blood pressure is causing the abdominal pain?</content></utterance>
+<utterance uid="10-7"><speaker>Cameron</speaker><content>Viral heart infection. The intestines aren’t getting enough blood, and the result is belly pain.</content></utterance>
+<utterance uid="10-8"><speaker>Foreman</speaker><content>I know it’s not the standard presentation.</content></utterance>
+<utterance uid="10-9"><speaker>Chase</speaker><content>It’s a 10 million to one shot.</content></utterance>
+<utterance uid="10-10"><speaker>Foreman</speaker><content>I thought that’s what we dealt with, here. It explains the cardiomyopathy, pain, the low BP, the fever.</content></utterance>
+<utterance uid="10-11"><speaker>House</speaker><content>You read the book. Impressive. It’s a ludicrously long shot that explains every one of those symptoms, except for the cough and the rash. Should we just erase those?</content></utterance>
+<utterance uid="10-12"><speaker>Foreman</speaker><content>Well, anything can cause a rash.</content></utterance>
+<utterance uid="10-13"><speaker>House</speaker><content>Okay.  Cardiac infection.  Cameron, you thought… allergy?  Chase, what was it you thought, carcinoid? And then there’s hypothyroidism, could be parasites. Finally, sinus infection.</content></utterance>
+<utterance uid="10-14"><speaker>Foreman</speaker><content>If you’re going to list all of the things it can’t be, you’re gonna need more colors.</content></utterance>
+<utterance uid="10-15"><speaker>House</speaker><content>Cameron was right. No condition explains all these symptoms. But orange and green covers everything.</content></utterance>
+<utterance uid="10-16"><speaker>Chase</speaker><content>Orange and green? Two conditions, contracted simultaneously?</content></utterance>
+<utterance uid="10-17"><speaker>Foreman</speaker><content>Occam’s Razor. The simplest explanation is always the best.</content></utterance>
+<utterance uid="10-18"><speaker>House</speaker><content>And you think one is simpler than two.</content></utterance>
+<utterance uid="10-19"><speaker>Cameron</speaker><content>Pretty sure it is, yeah.</content></utterance>
+<utterance uid="10-20"><speaker>House</speaker><content>Baby shows up. Chase tells you that two people exchanged fluids to create this being. I tell you that one stork dropped the little tyke off in a diaper. You going to go with the two or the one?</content></utterance>
+<utterance uid="10-21"><speaker>Foreman</speaker><content>I think your argument is specious.</content></utterance>
+<utterance uid="10-22"><speaker>House</speaker><content>I think your tie is ugly. Why is one simpler than two? It’s lower, lonelier… is it simpler? Each one of these conditions is about a thousand to one shot. That means that any two of them happening at the same time is a million to one shot. Chase says that cardiac infection is a 10 million to one shot, which makes my idea 10 times better than yours. Get a calculator, run the numbers.</content></utterance>
+<utterance uid="10-23"><speaker>Chase</speaker><content>We’ll run the tests.</content></utterance>
+<utterance uid="10-24"><speaker>House</speaker><content>Tests take time. Treatment’s quicker. Start the kid on Unasyn for the sinus infection and… what was orange?</content></utterance>
+<utterance uid="10-25"><speaker>Cameron</speaker><content>Hypothyroidism.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>Brandon</speaker><content>My uncle has hypothyroidism.</content></utterance>
+<utterance uid="11-2"><speaker>Cameron</speaker><content>Not like this. Intravenous levothyroxine is an artificial thyroid medication that should take care of it. Also, the nurses are going to start you on Unasyn, it’s a more targeted antibiotic.</content></utterance>
+<utterance uid="11-3"><speaker>Mindy</speaker><content>For the sinus infection?</content></utterance>
+<utterance uid="11-4"><speaker>Cameron</speaker><content>Yes.</content></utterance>
+<utterance uid="11-5"><speaker>Mindy</speaker><content>And the other stuff is for… something else entirely?</content></utterance>
+<utterance uid="11-6"><speaker>Cameron</speaker><content>Bad luck, huh? Don’t worry, he should be back to ditching work in no time. </content></utterance>
+<utterance uid="11-7"><speaker>Brandon</speaker><content>Hey. </content></utterance>
+<utterance uid="11-8"><speaker>Cameron</speaker><content>Um, Brandon is –</content></utterance>
+<utterance uid="11-9"><speaker>Brandon</speaker><content>Um, Mom, Dad, this is Mindy. I was going to bring her home for Christmas, so…. We’re engaged. </content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>Chase</speaker><content>Tell the family House’s theory?</content></utterance>
+<utterance uid="12-2"><speaker>Foreman</speaker><content>Two odd conditions striking completely coincidentally at the exact same time?</content></utterance>
+<utterance uid="12-3"><speaker>Cameron</speaker><content>I didn’t phrase it quite that way.</content></utterance>
+<utterance uid="12-4"><speaker>Chase</speaker><content>They agree to treatment?</content></utterance>
+<utterance uid="12-5"><speaker>Foreman</speaker><content>Of course they did, we’re doctors. They believe whatever we tell them.  So, is that our job? House’s puppets? He comes up with an insane idea, we get to pretend it’s not?</content></utterance>
+<utterance uid="12-6"><speaker>Cameron</speaker><content>His insane ideas are usually right. We’ve been here long enough to –</content></utterance>
+<utterance uid="12-7"><speaker>Foreman</speaker><content>-- been here long enough to have Stockholm Syndrome. </content></utterance>
+<utterance uid="12-8"><speaker>Chase</speaker><content>What? Because we don’t hate him? He thinks outside the box, is that so evil?</content></utterance>
+<utterance uid="12-9"><speaker>Foreman</speaker><content>He has no idea where the box is! If you guys think he’s right, go home. Relax. Just wait for the kid to get all better. I’m going to the lab to test for viral infections. </content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>Foreman</speaker><content>Negative for Coxsackie-B virus.</content></utterance>
+<utterance uid="13-2"><speaker>Chase</speaker><content>Seven down, about 5000 to go. You really think we’re going to come up with your mystery virus by running gels until we guess it right? </content></utterance>
+<utterance uid="13-3"><speaker>Foreman</speaker><content>No, I think we’re going to get it by standing around watching other people work.</content></utterance>
+<utterance uid="13-4"><speaker>Chase</speaker><content>I’m waiting for the Epstein Barr virus.  She’s weird, isn’t she?</content></utterance>
+<utterance uid="13-5"><speaker>Foreman</speaker><content>Bad idea.</content></utterance>
+<utterance uid="13-6"><speaker>Chase</speaker><content>What?</content></utterance>
+<utterance uid="13-7"><speaker>Foreman</speaker><content>Bad idea. You work with her.</content></utterance>
+<utterance uid="13-8"><speaker>Chase</speaker><content>What did I say? Is “weird” some new ghetto euphemism for sexy, like “bad” is good and “phat” is good? Then what the hell does “good” mean?</content></utterance>
+<utterance uid="13-9"><speaker>Foreman</speaker><content>“Ghetto euphemism”?  You don’t think she’s hot?</content></utterance>
+<utterance uid="13-10"><speaker>Chase</speaker><content>No.</content></utterance>
+<utterance uid="13-11"><speaker>Foreman</speaker><content>Wow, then you’re brilliant. And I am using “brilliant” as a euphemism.</content></utterance>
+<utterance uid="13-12"><speaker>Chase</speaker><content>Obviously, the girl is hot. You, you’re not talking about her aesthetics, you’re talking about if I want to jump her. I don’t.</content></utterance>
+<utterance uid="13-13"><speaker>Foreman</speaker><content>Brilliant.  Your Epstein Barr is ready.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>Clinic patient</speaker><content>What are you doing?</content></utterance>
+<utterance uid="14-2"><speaker>House</speaker><content>Level 4.</content></utterance>
+<utterance uid="14-3"><speaker>Patient</speaker><content>No, I mean –</content></utterance>
+<utterance uid="14-4"><speaker>House</speaker><content>I know what you meant. We’re waiting.</content></utterance>
+<utterance uid="14-5"><speaker>Patient</speaker><content>My throat hurts.</content></utterance>
+<utterance uid="14-6"><speaker>House</speaker><content>So you said.</content></utterance>
+<utterance uid="14-7"><speaker>Patient</speaker><content>How long are we waiting?</content></utterance>
+<utterance uid="14-8"><speaker>House</speaker><content>Two minutes less then when you asked me two minutes ago. </content></utterance>
+<utterance uid="14-9"><speaker>Patient</speaker><content>Hi.</content></utterance>
+<utterance uid="14-10"><speaker>Cuddy</speaker><content>Hi. I’m Dr. Cuddy. Nice to meet you.</content></utterance>
+<utterance uid="14-11"><speaker>House</speaker><content>Dr. Cuddy, thanks for the consult.  His throat seems to have some condition.</content></utterance>
+<utterance uid="14-12"><speaker>Cuddy</speaker><content>Say “Ah”.</content></utterance>
+<utterance uid="14-13"><speaker>Cuddy</speaker><content>He has a sore throat.</content></utterance>
+<utterance uid="14-14"><speaker>House</speaker><content>Of course! Yes, why didn’t I… I mean, because he said that… it hurt, and I, I should have deduced that meant it was sore…</content></utterance>
+<utterance uid="14-15"><speaker>Cuddy</speaker><content>I was in a board meeting.</content></utterance>
+<utterance uid="14-16"><speaker>House</speaker><content>Patients come first, right?</content></utterance>
+<utterance uid="14-17"><speaker>Cuddy</speaker><content>Wouldn’t want to prescribe a lozenge if there was any doubt about its efficacy, huh?</content></utterance>
+<utterance uid="14-18"><speaker>House</speaker><content>You once asked why I think I’m always right, and I realized that you’re right… at least, I think you’re right. I don’t really know now, do I? </content></utterance>
+<utterance uid="14-19"><speaker>Patient</speaker><content>Hey! I’m here.</content></utterance>
+<utterance uid="14-20"><speaker>Cuddy</speaker><content>Go home. Drink some hot tea. </content></utterance>
+<utterance uid="14-21"><speaker>House</speaker><content>Excellent counsel.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>Cameron</speaker><content>Negative on parvovirus B19.</content></utterance>
+<utterance uid="15-2"><speaker>Foreman</speaker><content>I’m impressed.</content></utterance>
+<utterance uid="15-3"><speaker>Cameron</speaker><content>Thank you, I was born to run gels.</content></utterance>
+<utterance uid="15-4"><speaker>Foreman</speaker><content>I meant about Chase.</content></utterance>
+<utterance uid="15-5"><speaker>Cameron</speaker><content>What about Chase?</content></utterance>
+<utterance uid="15-6"><speaker>Foreman</speaker><content>Well, the man has no physical interest in you. He has a completely professional relationship with you, he respects you as a colleague and a doctor, and yet he can’t look at you without thinking sex.</content></utterance>
+<utterance uid="15-7"><speaker>Cameron</speaker><content>Because I asked what kind of sex could kill you?</content></utterance>
+<utterance uid="15-8"><speaker>Foreman</speaker><content>You now have total control over your relationship with him.</content></utterance>
+<utterance uid="15-9"><speaker>Cameron</speaker><content>So, a woman can’t express her interest in sex without it being some professional powerplay?</content></utterance>
+<utterance uid="15-10"><speaker>House</speaker><content>No.  If you look the way you do, and you say what you said, you have to be aware of the effect that it’ll have on men.</content></utterance>
+<utterance uid="15-11"><speaker>Cameron</speaker><content>Men should grow up.</content></utterance>
+<utterance uid="15-12"><speaker>House</speaker><content>Yeah. And dogs should stop licking themselves, it’s not gonna happen. </content></utterance>
+<utterance uid="15-13"><speaker>Chase</speaker><content>What’s going on? </content></utterance>
+<utterance uid="15-14"><speaker>Cameron</speaker><content>Yeah, what are you doing here?</content></utterance>
+<utterance uid="15-15"><speaker>House</speaker><content>Looking for you guys.</content></utterance>
+<utterance uid="15-16"><speaker>Foreman</speaker><content>Why didn’t you page us?</content></utterance>
+<utterance uid="15-17"><speaker>House</speaker><content>‘Cause I knew you’d be here.</content></utterance>
+<utterance uid="15-18"><speaker>Chase</speaker><content>Who told him?</content></utterance>
+<utterance uid="15-19"><speaker>House</speaker><content>No one. I assume you’re trying to prove my crazy two-illness theory wrong, so, obviously, you’re going to be in the lab. You spin the urine? </content></utterance>
+<utterance uid="15-20"><speaker>Foreman</speaker><content>Not yet.</content></utterance>
+<utterance uid="15-21"><speaker>House</speaker><content>Talk to me when you have.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>House</speaker><content>What did you find out?</content></utterance>
+<utterance uid="16-2"><speaker>Foreman</speaker><content>The kidney failure. It’s acute interstitial nephritis.</content></utterance>
+<utterance uid="16-3"><speaker>House</speaker><content>I wonder if that’s signifigant.</content></utterance>
+<utterance uid="16-4"><speaker>Foreman</speaker><content>It means the antibiotics didn’t cause the kidney failure. How did you know?</content></utterance>
+<utterance uid="16-5"><speaker>House</speaker><content>Well, if you guys hadn’t been so busy trying to prove me wrong, you might have checked in on the poor kid.</content></utterance>
+<utterance uid="16-6"><speaker>Foreman</speaker><content>You visited a patient?</content></utterance>
+<utterance uid="16-7"><speaker>House</speaker><content>I was sitting by his bed all morning, just so he’d know someone was there for him.</content></utterance>
+<utterance uid="16-8"><speaker>Wilson</speaker><content>I looked in on him. He’s much better.</content></utterance>
+<utterance uid="16-9"><speaker>House</speaker><content>Ergo, the treatment’s working. Ergo, me right, you wrong.</content></utterance>
+<utterance uid="16-10"><speaker>Foreman</speaker><content>Hey, I’m glad for the kid. </content></utterance>
+<utterance uid="16-11"><speaker>Wilson</speaker><content>That smugness of yours really is an attractive quality.</content></utterance>
+<utterance uid="16-12"><speaker>House</speaker><content>Thank you. It was either that or get my hair highlighted. Smugness is easier to maintain.</content></utterance>
+<utterance uid="16-13"><speaker>Wilson</speaker><content>I get that you’re not a big believer in the ‘catching flies with honey’ approach, but do you honestly think you’ll collect a jarful by cleverly taunting them?</content></utterance>
+<utterance uid="16-14"><speaker>House</speaker><content>Flies, no. Doctors, sure. If I’d said to Foreman, “Nice try, it was a great guess, but not this time,” what do you think he’d be doing right now?</content></utterance>
+<utterance uid="16-15"><speaker>Wilson</speaker><content>I think he’d be going home not feeling like a piece of crap.</content></utterance>
+<utterance uid="16-16"><speaker>House</speaker><content>Exactly.</content></utterance>
+<utterance uid="16-17"><speaker>Wilson</speaker><content>You want him to feel like a piece of crap?</content></utterance>
+<utterance uid="16-18"><speaker>House</speaker><content>No, I don’t want him going home.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>Brandon</speaker><content>Dr. Foreman. </content></utterance>
+<utterance uid="17-2"><speaker>Foreman</speaker><content>Still have the cough.</content></utterance>
+<utterance uid="17-3"><speaker>Brandon</speaker><content>I’m feeling a lot better, though.</content></utterance>
+<utterance uid="17-4"><speaker>Foreman</speaker><content>I see.</content></utterance>
+<utterance uid="17-5"><speaker>Mindy</speaker><content>Is everything okay?</content></utterance>
+<utterance uid="17-6"><speaker>Foreman</speaker><content>Just ordering some tests. Absolutely nothing to worry about.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>Patient</speaker><content>How much longer?</content></utterance>
+<utterance uid="18-2"><speaker>House</speaker><content>9:30, I figure she was on the 8th hole when I paged her…  Probably got another half hour. </content></utterance>
+<utterance uid="18-3"><speaker>Foreman</speaker><content>I ran a TSH, T3 and T4. Patient’s negative for hypothyroidism.  Not talking about you. </content></utterance>
+<utterance uid="18-4"><speaker>House</speaker><content>Well the fact that he’s getting better would indicate the unreliability of the tests.</content></utterance>
+<utterance uid="18-5"><speaker>Foreman</speaker><content>If I’m right and it’s a viral infection, one of two things always happens: patient dies or the patient’s immune system fights off the invader.  What’s with her?</content></utterance>
+<utterance uid="18-6"><speaker>House</speaker><content>Her leg hurts after running six miles. Who knows, it could be anything!</content></utterance>
+<utterance uid="18-7"><speaker>Foreman</speaker><content>He’s getting better. That doesn’t prove you’re right, it just proves he’s getting better.  It, it’s not two illnesses! It can’t be two illnesses!</content></utterance>
+<utterance uid="18-8"><speaker>House</speaker><content>I am so glad you work here.</content></utterance>
+<utterance uid="18-9"><speaker>Foreman</speaker><content>If I’m right, the antibiotics you prescribed could block his kidneys and liver, impeding his ability to fight off the virus. Could kill him.</content></utterance>
+<utterance uid="18-10"><speaker>House</speaker><content>Well, that certainly would be a concern. Fifty bucks?  Don’t look away, the space monkeys will be all over you.</content></utterance>
+<utterance uid="18-11"><speaker>Foreman</speaker><content>You wanna bet on the patient’s health?</content></utterance>
+<utterance uid="18-12"><speaker>House</speaker><content>You think that’s bad luck? Do you think that God will smite him because of our insensitivity? Well, if God does, you make a quick fifty.  Go check his white blood count. If he’s fighting off a virus like you think it’ll be way up. </content></utterance>
+<utterance uid="18-13"><speaker>Wilson</speaker><content>Hey, Cuddy said you needed a consult, what’s up? I’m busy.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>Chase</speaker><content>Ah!</content></utterance>
+<utterance uid="19-2"><speaker>Cameron</speaker><content>I was just being glib.</content></utterance>
+<utterance uid="19-3"><speaker>Chase</speaker><content>You haven’t said anything.</content></utterance>
+<utterance uid="19-4"><speaker>Cameron</speaker><content>No, before when I was talking about Brandon’s girlfriend thinking sex could kill you. I was just making a joke because I was uncomfortable.</content></utterance>
+<utterance uid="19-5"><speaker>Chase</speaker><content>Oh, I don’t even remember what you said.</content></utterance>
+<utterance uid="19-6"><speaker>Cameron</speaker><content>I’m uncomfortable about sex. </content></utterance>
+<utterance uid="19-7"><speaker>Chase</speaker><content>Well, we don’t have to talk about this…</content></utterance>
+<utterance uid="19-8"><speaker>Cameron</speaker><content>Sex… could kill you. Do you know what the human body goes through when you have sex? Pupils dilate, arteries constrict, core temperature rises, heart races, blood pressure skyrockets , respiration becomes rapid and shallow, the brain fires bursts of electrical impulses from nowhere to nowhere and secretions spit out of every gland , and the muscles tense and spasm like you’re lifting three times your body weight. It’s violent, it’s ugly, and it’s messy, and if God hadn’t made it unbelievably fun… the human race would have died out eons ago.  Men are lucky they can only have one orgasm. You know that women can have an hour-long orgasm?  Hey, Foreman. What’s up?</content></utterance>
+<utterance uid="19-9"><speaker>Chase</speaker><content>Hey, Foreman!</content></utterance>
+<utterance uid="19-10"><speaker>Foreman</speaker><content>Hey. </content></utterance>
+<utterance uid="19-11"><speaker>House</speaker><content>White cell count isn’t up, is it?</content></utterance>
+<utterance uid="19-12"><speaker>Foreman</speaker><content>No. We were both wrong. White cell count is down, way down, and dropping. His immune system is shot. We need to get him into a clean room.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>Chase</speaker><content>Can you walk, Brandon?</content></utterance>
+<utterance uid="20-2"><speaker>Brandon</speaker><content>Yeah, a little.</content></utterance>
+<utterance uid="20-3"><speaker>Chase</speaker><content>All right, okay. ‘Cause we’ll need to leave the chair outside.  Thank you. Where’s April? April!  Can you take the chair, please?  I’ll need to take your mask and your robe, too. You might want to block your ears for this, it’s quite loud. [They’re blasted with air. Next we see Cameron, Foreman, the Merrells and Mindy watching Chase and Brandon in the clean room.)</content></utterance>
+<utterance uid="20-4"><speaker>Foreman</speaker><content>Something’s made his immune system compromised.</content></utterance>
+<utterance uid="20-5"><speaker>Cameron</speaker><content>His white blood cell count is down, which means his body can’t fight off infections.</content></utterance>
+<utterance uid="20-6"><speaker>Foreman</speaker><content>If he gets sick, he’ll die.</content></utterance>
+<utterance uid="20-7"><speaker>Foreman</speaker><content>If he gets a cold, he’ll die.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>Foreman</speaker><content>Okay. I’m going to push the needle into your hipbone, and take some of the marrow. </content></utterance>
+<utterance uid="21-2"><speaker>Brandon</speaker><content>That’s not so bad.</content></utterance>
+<utterance uid="21-3"><speaker>Foreman</speaker><content>Hah, that was just the anesthetic. The core biopsy needle, it’s a little bit bigger. Okay man, take a deep breath, this is, this is gonna hurt. A lot.  Marrow makes the blood cells. You take a peek of it under a microscope, and maybe we find a viral infection. Maybe we find some fibrosis. Something to explain why your blood count is so low.  There we go. One step closer to an answer.</content></utterance>
+<utterance uid="21-4"><speaker>Brandon</speaker><content>What if you don’t find one? I can’t stay here forever.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>House</speaker><content>The patient could have died.</content></utterance>
+<utterance uid="22-2"><speaker>Cuddy</speaker><content>The one with the pulled muscle.</content></utterance>
+<utterance uid="22-3"><speaker>House</speaker><content>Well, those symptoms are consistent with a dozen other conditions. I, you know, I, I’m entitled to a consult!</content></utterance>
+<utterance uid="22-4"><speaker>Cuddy</speaker><content>You are not getting out of clinic duty.</content></utterance>
+<utterance uid="22-5"><speaker>House</speaker><content>Oh, come on. You’ve got a hundred other idiot doctors in this building who go warm and fuzzy every time they pull a toy car out of a nose, you don’t need me here.</content></utterance>
+<utterance uid="22-6"><speaker>Cuddy</speaker><content>No, I don’t, but working with people actually makes you a better doctor.</content></utterance>
+<utterance uid="22-7"><speaker>House</speaker><content>When did I sign up for that course?</content></utterance>
+<utterance uid="22-8"><speaker>Cuddy</speaker><content>When did I give you the impression that I care? </content></utterance>
+<utterance uid="22-9"><speaker>House</speaker><content>Working in this clinic obviously instills a deep sense of compassion.  I’ve got your home number, right? In case anything comes up at 3 o’clock in the morning.</content></utterance>
+<utterance uid="22-10"><speaker>Cuddy</speaker><content>It’s not going to work. You know why? Because this is fun. You think of something to make me miserable, I think of something to make you miserable: it’s a game! And I’m going to win, because I got a head start. You are already miserable. </content></utterance>
+<utterance uid="22-11"><speaker>Wilson</speaker><content>Uh…</content></utterance>
+<utterance uid="22-12"><speaker>Cuddy</speaker><content>Is this important?</content></utterance>
+<utterance uid="22-13"><speaker>Wilson</speaker><content>Uh, no.</content></utterance>
+<utterance uid="22-14"><speaker>Cuddy</speaker><content>No. </content></utterance>
+<utterance uid="22-15"><speaker>Wilson</speaker><content>What’s with you and her?</content></utterance>
+<utterance uid="22-16"><speaker>House</speaker><content>Don’t.</content></utterance>
+<utterance uid="22-17"><speaker>Wilson</speaker><content>Do you have a thing for her? The only people who can get to you –</content></utterance>
+<utterance uid="22-18"><speaker>House</speaker><content>No! There is not a thin line between love and hate. There is, in fact, a Great Wall of China with armed sentries posted every 20 feet between love and hate.  36 Vicodin.</content></utterance>
+<utterance uid="22-19"><speaker>Pharmacist</speaker><content>Who’s the patient?</content></utterance>
+<utterance uid="22-20"><speaker>House</speaker><content>I am.</content></utterance>
+<utterance uid="22-21"><speaker>Pharmacist</speaker><content>You can’t…</content></utterance>
+<utterance uid="22-22"><speaker>House</speaker><content>Dr. Wilson is the prescribing physician.</content></utterance>
+<utterance uid="22-23"><speaker>Wilson</speaker><content>Yeah.  You will lie, cheat and steal to get what you want, but you’re incapable of kissing a little ass?</content></utterance>
+<utterance uid="22-24"><speaker>House</speaker><content>Well, we all have our limitations. </content></utterance>
+<utterance uid="22-25"><speaker>Wilson</speaker><content>House! Wrong bottle.  Do me a favor. Take one of these, wait five minutes for it to kick in, and find Cuddy, and kiss her ass. </content></utterance>
+<utterance uid="22-26"><speaker>House</speaker><content>What was the kid’s first symptom?  You did the history; of his 800 symptoms, which one hit him first?</content></utterance>
+<utterance uid="22-27"><speaker>Wilson</speaker><content>Ah, the cough.</content></utterance>
+</scene>
+
+
+<scene id="23"><utterance uid="23-1"><speaker>House</speaker><content>Gout. </content></utterance>
+<utterance uid="23-2"><speaker>Chase</speaker><content>Um, are we talking about Brandon?</content></utterance>
+<utterance uid="23-3"><speaker>Foreman</speaker><content>Gout? Uric acid crystals in the joints? The symptoms are pain, swelling, redness, stiffness… not one of which do I see on that board.</content></utterance>
+<utterance uid="23-4"><speaker>House</speaker><content>Because he doesn’t have gout. Every day, cells die.  We survive because the remaining cells divide and replace the losses. The colchicine, a gout medicine, blocks mitosis and stops cell division, which will result in abdominal pain, rash, nausea, fever, kidney failure, low blood pressure, and will also mess with the bone marrow. </content></utterance>
+<utterance uid="23-5"><speaker>Chase</speaker><content>But he doesn’t have gout. Why would he have gout medication?</content></utterance>
+<utterance uid="23-6"><speaker>House</speaker><content>Because you guys were right. He didn’t have two conditions at the exact same time. First, he got a cough. Now, because he’s an idiot, he went to a doctor. In order to feel justified charging $200, the doctor felt he should actually do something. Oops. He wrote a prescription. 7000 people die each year from pharmacy screw-ups. Not nearly as many as die from doctor screw-ups, but still, not something they use in their promotional material. The pharmacist gave him gout medicine instead of cough medicine. And the only thing it wouldn’t do: it would do absolutely nothing to relieve his cough. Occam’s Razor. The simplest explanation is almost always somebody screwed up.</content></utterance>
+<utterance uid="23-7"><speaker>Cameron</speaker><content>But once he checked into this hospital he was completely in our control. Our food, our pills, our everything. So even if you’re right, no gout medication. He’d either continue to deteriorate or he would have gotten better. But he got better, and then he got worse. It doesn’t fit. It doesn’t make sense.</content></utterance>
+<utterance uid="23-8"><speaker>House</speaker><content>Okay. Two people screwed up. Not as simple as one, but…</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>Mindy</speaker><content>He’s resting; he –</content></utterance>
+<utterance uid="24-2"><speaker>House</speaker><content>I’m Dr. House. I’m your son’s physician.</content></utterance>
+<utterance uid="24-3"><speaker>House</speaker><content>It’s easy if you don’t give a crap about them. That’s a good thing. If emotions made you act rationally, then they wouldn’t be called emotions, would they? That’s why we have this nice division of labor: you hold his hand, I get him better. If I start tucking him in at night, well, that’s not fair to you guys, and if you start prescribing medicine, that’s not fair to me. So what I want to know is: who stepped on my side of the med? Who cared enough to get stupid enough to give him his cough medicine?</content></utterance>
+<utterance uid="24-4"><speaker>Mindy</speaker><content>When we checked in Dr. Foreman said –</content></utterance>
+<utterance uid="24-5"><speaker>House</speaker><content>Tuesday, he’s getting better. Wednesday, he’s getting sick again. Somebody gave him his cough medicine Wednesday.  Come on, nobody’s gonna be mad. I just want to know who tried to kill the kid.</content></utterance>
+<utterance uid="24-6"><speaker>Foreman</speaker><content>Dr. House, maybe we should –</content></utterance>
+<utterance uid="24-7"><speaker>House</speaker><content>Page Dr. Occam. He’s gonna want to hear about this.</content></utterance>
+<utterance uid="24-8"><speaker>House</speaker><content>I wish you would dare. Where are the pills?</content></utterance>
+<utterance uid="24-9"><speaker>Cameron</speaker><content>They’re all gone?</content></utterance>
+<utterance uid="24-10"><speaker>House</speaker><content>No, it wasn’t. Where’s the bottle?</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>Chase</speaker><content>We need to know exactly what you put in this bottle. We think it was colchicine, a gout medication.</content></utterance>
+<utterance uid="25-2"><speaker>Pharmacist</speaker><content>If the prescription said cough medicine, that’s what I dispensed.</content></utterance>
+<utterance uid="25-3"><speaker>Chase</speaker><content>The family is prepared to waive liability, all right? We just need to know what it was, what dosage it was –</content></utterance>
+<utterance uid="25-4"><speaker>Pharmacist</speaker><content>It was cough medicine.</content></utterance>
+<utterance uid="25-5"><speaker>Chase</speaker><content> Refill it.</content></utterance>
+<utterance uid="25-6"><speaker>Mindy</speaker><content>You don’t know that.</content></utterance>
+<utterance uid="25-7"><speaker>Mindy</speaker><content>Things don’t always work out for the best.</content></utterance>
+<utterance uid="25-8"><speaker>Mindy</speaker><content>No. Not unless it makes you figure you can do whatever you want, like give people cough medicine. </content></utterance>
+<utterance uid="25-9"><speaker>Chase</speaker><content>This is cough medication. This is what Brandon was supposed to get.  They’re small, round and yellow. Can you tell this man what the pills in your son’s medicine bottle actually looked like?</content></utterance>
+<utterance uid="25-10"><speaker>Mindy</speaker><content>Those were the pills that Brandon was taking.</content></utterance>
+<utterance uid="25-11"><speaker>Pharmacist</speaker><content>Hey, I’m just a pharmacist, but I know what cough medicine looks like, Doctor.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>House</speaker><content>It was so perfect. It was beautiful.</content></utterance>
+<utterance uid="26-2"><speaker>Wilson</speaker><content>Beauty often seduces us on the road to truth.</content></utterance>
+<utterance uid="26-3"><speaker>House</speaker><content>And triteness kicks us in the nads.</content></utterance>
+<utterance uid="26-4"><speaker>Wilson</speaker><content>So true.</content></utterance>
+<utterance uid="26-5"><speaker>House</speaker><content>This doesn’t bother you?</content></utterance>
+<utterance uid="26-6"><speaker>Wilson</speaker><content>That you were wrong? I try to work through the pain –</content></utterance>
+<utterance uid="26-7"><speaker>House</speaker><content>I was not wrong. Everything I said was true. It fit. It was elegant.</content></utterance>
+<utterance uid="26-8"><speaker>Wilson</speaker><content>So… reality was wrong.</content></utterance>
+<utterance uid="26-9"><speaker>House</speaker><content>Reality is almost always wrong.  The cough medicine did something. Aggravated the condition. It’s all over the place, must be in his blood.</content></utterance>
+<utterance uid="26-10"><speaker>Wilson</speaker><content>What if it is his blood?</content></utterance>
+<utterance uid="26-11"><speaker>House</speaker><content>Lymphoma?</content></utterance>
+<utterance uid="26-12"><speaker>Wilson</speaker><content>Unless you’ve got something better.</content></utterance>
+<utterance uid="26-13"><speaker>House</speaker><content>Well, we foolishly ruled out lymphoma because his CT scan showed no adenophathy, CBC showed a normal diffen smear, bone marrow showed no –</content></utterance>
+<utterance uid="26-14"><speaker>Wilson</speaker><content>Screw the tests. Do an exploratory laparotomy and find out what’s in there.</content></utterance>
+<utterance uid="26-15"><speaker>House</speaker><content>He has no blood pressure, no immune system and no kidneys. Surgery will kill him.</content></utterance>
+<utterance uid="26-16"><speaker>Wilson</speaker><content>Yeah, you’re right. Let’s stick with the wrong pill theory. </content></utterance>
+<utterance uid="26-17"><speaker>House</speaker><content>I’ll schedule him for surgery.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>Foreman</speaker><content>Okay, Brandon, we’re gonna run this tube through your heart and into the pulmonary arteries in your lung.</content></utterance>
+<utterance uid="27-2"><speaker>Cameron</speaker><content>Sensors will give us information we need for the exploratory surgery later this afternoon.</content></utterance>
+<utterance uid="27-3"><speaker>Brandon</speaker><content>My fingers are numb.</content></utterance>
+<utterance uid="27-4"><speaker>Foreman</speaker><content>Try not to move. We’re in the right atrium, trying to catch the flow through the tricuspid valve.</content></utterance>
+<utterance uid="27-5"><speaker>Chase</speaker><content>I think the catheter’s curling in the atrium.</content></utterance>
+<utterance uid="27-6"><speaker>Foreman</speaker><content>Got it. We’re in the RV now. </content></utterance>
+<utterance uid="27-7"><speaker>Chase</speaker><content>Ectopy. You must have irritated the heart wall.</content></utterance>
+<utterance uid="27-8"><speaker>Foreman</speaker><content>It’ll calm down.</content></utterance>
+<utterance uid="27-9"><speaker>Chase</speaker><content>He can’t tolerate any cardiac arrhythmia. Pull back.</content></utterance>
+<utterance uid="27-10"><speaker>Foreman</speaker><content>He needs this surgery. </content></utterance>
+<utterance uid="27-11"><speaker>Cameron</speaker><content>Pressure’s dropped.</content></utterance>
+<utterance uid="27-12"><speaker>Chase</speaker><content>You still with us, Brandon?</content></utterance>
+<utterance uid="27-13"><speaker>Cameron</speaker><content>Get the curtains! </content></utterance>
+<utterance uid="27-14"><speaker>Chase</speaker><content>Charging. Clear!  Sign of rhythm.</content></utterance>
+<utterance uid="27-15"><speaker>Cameron</speaker><content>I got a pulse.</content></utterance>
+<utterance uid="27-16"><speaker>Foreman</speaker><content>Yeah, but no surgery today.</content></utterance>
+<utterance uid="27-17"><speaker>House</speaker><content>How you doing?</content></utterance>
+<utterance uid="27-18"><speaker>Patient</speaker><content>Okay.</content></utterance>
+<utterance uid="27-19"><speaker>House</speaker><content>Great. I’m doing good, too. I get to knock off an hour early today. Know why? ‘Cause I kissed my boss’ ass, you ever do that? I think she just said yes because she wants to reinforce that behavior. Wants me to kiss a lot of other people’s ass, like she wants me to kiss yours.  What would you want, a doctor who holds your hand while you die, or a doctor who ignores you while you get better? I guess it would particularly suck to have a doctor who ignores you while you die.</content></utterance>
+<utterance uid="27-20"><speaker>Patient</speaker><content>I should go.</content></utterance>
+<utterance uid="27-21"><speaker>House</speaker><content>You think it’s going to come out on its own? Are we talking bigger than a breadbasket? ‘Cause actually, it will come out on its own, which for small stuff is no problem. Gets wrapped up in a nice soft package and plop! Big stuff, you’re going to rip something, which speaking medically, is when the fun stops.</content></utterance>
+<utterance uid="27-22"><speaker>Patient</speaker><content>How did you –</content></utterance>
+<utterance uid="27-23"><speaker>House</speaker><content>You’ve been here half an hour and haven’t sat down, that tells me its location. You haven’t told me what it is, that tells me it’s humiliating. You have a little birdie carved on your arm, that tells me you have a high tolerance for humiliation, so I figure it’s not hemorrhoids.  I’ve been a doctor 20 years, you’re not going to surprise me.</content></utterance>
+<utterance uid="27-24"><speaker>Patient</speaker><content>It’s an MP3 player.</content></utterance>
+<utterance uid="27-25"><speaker>House</speaker><content> Is it… is it because of the size, or the shape, or the pounding bass line?</content></utterance>
+<utterance uid="27-26"><speaker>Patient</speaker><content>What are we going to do?</content></utterance>
+<utterance uid="27-27"><speaker>House</speaker><content> I’m gonna wait.</content></utterance>
+<utterance uid="27-28"><speaker>Patient</speaker><content>For what?</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>House</speaker><content>Okay, it’s 3:00, I’m off. Would you tell Dr. Cuddy there’s a patient in Exam Room 2 that needs her attention? And the RIAA wants her to check for illegal downloads. </content></utterance>
+<utterance uid="28-2"><speaker>Cameron</speaker><content>Brandon’s not ready for surgery.</content></utterance>
+<utterance uid="28-3"><speaker>House</speaker><content>Okay, well, let’s leave it a couple of weeks. He should be feeling better by then. Oh wait, which way does time go?</content></utterance>
+<utterance uid="28-4"><speaker>Cameron</speaker><content>He crashed during prep. He’s also experiencing pain in his fingers. I think some bug may have gotten in the clean room. I think we should double his dosage of GCSF to temporarily boost his blood cell count.</content></utterance>
+<utterance uid="28-5"><speaker>House</speaker><content>Pain in his fingers… right. </content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>House</speaker><content> Hi again. </content></utterance>
+<utterance uid="29-2"><speaker>House</speaker><content>Hey! How y’all doing? Interesting fact: every seven years it’s a whole new you. Inspiring metaphor, huh?</content></utterance>
+<utterance uid="29-3"><speaker>Chase</speaker><content>Dr. House, this is a clean room.</content></utterance>
+<utterance uid="29-4"><speaker>House</speaker><content>Yeah, I read the sign. But cells of different organs reproduce at different rates.  So, a new kidney every three years, a new stomach lining every week…. This is why colchicine poisoning causes all of these symptoms but not all at once.</content></utterance>
+<utterance uid="29-5"><speaker>House</speaker><content>Colchicine does its damage in a very specific order. First of all, there’s a pain in the abdomen, the rash, the fever… isn’t that what you got first? Then, the kidneys go, which is exactly what happened to….</content></utterance>
+<utterance uid="29-6"><speaker>Cameron</speaker><content>Brandon.</content></utterance>
+<utterance uid="29-7"><speaker>House</speaker><content>Right. Then it screws up your bone marrow, and then – neuropathy. Painful tingling in the fingers and toes. And what do you suppose happens after that?  Hair loss. The bad new is: your special boy is doing drugs.</content></utterance>
+<utterance uid="29-8"><speaker>House</speaker><content>Ecstasy?</content></utterance>
+<utterance uid="29-9"><speaker>Brandon</speaker><content>Twice, with Dan and Mike.</content></utterance>
+<utterance uid="29-10"><speaker>House</speaker><content>D’you know what they cut that stuff with? Apparently colchicine, unless you ingested the colchicine through your contact lens solution, or skin cream, or some other drug you’re lying about. I don’t know how it happened, I don’t care how it happened, it happened. Start….</content></utterance>
+<utterance uid="29-11"><speaker>Cameron</speaker><content>Brandon.</content></utterance>
+<utterance uid="29-12"><speaker>House</speaker><content>Lovely name. Start Brandon on fab fragments, and give him some Tylenol for the hair I pulled out. And get some air in here!  Make a note: I should never doubt myself.</content></utterance>
+<utterance uid="29-13"><speaker>Wilson</speaker><content>I think you’ll remember. You know, it wouldn’t hurt you to be wrong now and then.</content></utterance>
+<utterance uid="29-14"><speaker>House</speaker><content>What, you don’t care about these people?</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>Foreman</speaker><content>The colchicine interferes with the ability of the heart muscle to contract pumping blood, lowering your blood pressure.  The antibodies we’re giving you should neutralize the colchicine, allowing your heart to beat at its normal rate.</content></utterance>
+<utterance uid="30-2"><speaker>Brandon</speaker><content>When will you know?</content></utterance>
+<utterance uid="30-3"><speaker>Cameron</speaker><content>We know now. </content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>Wilson</speaker><content>Big weekend?</content></utterance>
+<utterance uid="31-2"><speaker>House</speaker><content>It’s not for me, I’m fully stocked.</content></utterance>
+<utterance uid="31-3"><speaker>Wilson</speaker><content>Cuddy got you doing inventory?</content></utterance>
+<utterance uid="31-4"><speaker>House</speaker><content>Nope. Trying to solve that kid’s case.</content></utterance>
+<utterance uid="31-5"><speaker>Wilson</speaker><content>The gout medicine OD?</content></utterance>
+<utterance uid="31-6"><speaker>House</speaker><content>Yeah.</content></utterance>
+<utterance uid="31-7"><speaker>Wilson</speaker><content>The fact that I know that it’s a gout medicine OD would seem to indicate that the case is already solved.</content></utterance>
+<utterance uid="31-8"><speaker>House</speaker><content>Well, you’d be wrong.</content></utterance>
+<utterance uid="31-9"><speaker>Wilson</speaker><content>What about the fact that the kid is now, I believe the technical term is, not sick?</content></utterance>
+<utterance uid="31-10"><speaker>House</speaker><content>You know how many forms of colchicine there are on the market?</content></utterance>
+<utterance uid="31-11"><speaker>Wilson</speaker><content>Stop it.</content></utterance>
+<utterance uid="31-12"><speaker>House</speaker><content>Neither do I, but it’s a lot. Pills, powders, liquids, IV fluids…. Somewhere at a party, in his coffee, up his nose, in his ear, this kid had some.</content></utterance>
+<utterance uid="31-13"><speaker>Wilson</speaker><content>So, you’re not happy with your Ecstasy theory?</content></utterance>
+<utterance uid="31-14"><speaker>House</speaker><content>He said he used it twice.</content></utterance>
+<utterance uid="31-15"><speaker>Wilson</speaker><content>People lie.</content></utterance>
+<utterance uid="31-16"><speaker>House</speaker><content>Yeah, but if you’re gonna lie, it’s –</content></utterance>
+<utterance uid="31-17"><speaker>Wilson</speaker><content>You know what, I’m not interested.</content></utterance>
+<utterance uid="31-18"><speaker>House</speaker><content>Not curious?</content></utterance>
+<utterance uid="31-19"><speaker>Wilson</speaker><content>No, because I’m well-adjusted. </content></utterance>
+<utterance uid="31-20"><speaker>House</speaker><content>Right.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>Cameron</speaker><content>Temperature’s normal.</content></utterance>
+<utterance uid="32-2"><speaker>Brandon</speaker><content>I want Cousin Sharon there.</content></utterance>
+<utterance uid="32-3"><speaker>Mindy</speaker><content>So what? My side of the family doesn’t need anything. </content></utterance>
+<utterance uid="32-4"><speaker>Brandon</speaker><content>Don’t suppose I could have some of those cough pills, huh? They’re okay, right?</content></utterance>
+<utterance uid="32-5"><speaker>Cameron</speaker><content>Yes, you’re doing great.</content></utterance>
+<utterance uid="32-6"><speaker>Chase</speaker><content>You should invite Dr. House.</content></utterance>
+<utterance uid="32-7"><speaker>Brandon</speaker><content>Will he come?</content></utterance>
+<utterance uid="32-8"><speaker>Chase</speaker><content>No, but he’ll send a gift.</content></utterance>
+<utterance uid="32-9"><speaker>Cameron</speaker><content>I’ll make sure it’s a good one. </content></utterance>
+<utterance uid="32-10"><speaker>Brandon</speaker><content>There’s a letter on the back of these pills.</content></utterance>
+<utterance uid="32-11"><speaker>Cameron</speaker><content>Your old pills didn’t have a letter on them?</content></utterance>
+<utterance uid="32-12"><speaker>Brandon</speaker><content>No. Round and yellow, but no letter. </content></utterance>
+<utterance uid="32-13"><speaker>Cameron</speaker><content>Well, these will help your cough. </content></utterance>
+<utterance uid="32-14"><speaker>Chase</speaker><content>Hey, you want to go get some –</content></utterance>
+<utterance uid="32-15"><speaker>Cameron</speaker><content>No.</content></utterance>
+</scene>
+
+</script>

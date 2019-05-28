@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+
+<scene id="1"><utterance uid="1-1"><speaker>ALEXIS</speaker><content>Five. Six. Seven. Eight. One and two. Three and f--</content></utterance>
+<utterance uid="1-2"><speaker>CASTLE</speaker><content>Why are you all Beyoncé this morning? You got a school dance coming up?</content></utterance>
+<utterance uid="1-3"><speaker>ALEXIS</speaker><content>No. Ashley gave me some of her cheer routine. She's been on the J.V. for two years, and she wants me to try out for the squad.</content></utterance>
+<utterance uid="1-4"><speaker>CASTLE</speaker><content>Cheerleading?</content></utterance>
+<utterance uid="1-5"><speaker>ALEXIS</speaker><content>Yeah. Why?</content></utterance>
+<utterance uid="1-6"><speaker>CASTLE</speaker><content>Who are you and what have you done with my daughter?</content></utterance>
+<utterance uid="1-7"><speaker>ALEXIS</speaker><content>What’s wrong with cheerleading?</content></utterance>
+<utterance uid="1-8"><speaker>CASTLE</speaker><content>No, no, nothing's - nothing's... I'm just- I didn’t know you... wanted to be one.</content></utterance>
+<utterance uid="1-9"><speaker>ALEXIS</speaker><content>Me either. But I watched Ashley practice, and it looks like fun. And my college counselor, Ms. Schaefer, said I need to consider diversifying my activities. I figure I'm a natural 'cause I root for you all the time. Oh, I gotta go. Love you.</content></utterance>
+<utterance uid="1-10"><speaker>CASTLE</speaker><content>Have fun.</content></utterance>
+<utterance uid="1-11"><speaker>ALEXIS</speaker><content> Five. Six. Seven. Eight.</content></utterance>
+<utterance uid="1-12"><speaker>CASTLE</speaker><content>Cheerleading?</content></utterance>
+<utterance uid="1-13"><speaker>MARTHA</speaker><content>So? The time you wanted to play hockey because all the cool guys in school were playing it?</content></utterance>
+<utterance uid="1-14"><speaker>CASTLE</speaker><content>Yeah, but I didn't join the team.</content></utterance>
+<utterance uid="1-15"><speaker>MARTHA</speaker><content>Well, no, because you knocked out two teeth at the first practice. Darling... let Alexis figure this out on her own, hmm?</content></utterance>
+<utterance uid="1-16"><speaker>CASTLE</speaker><content>This coming from the woman who just last week told me not to reserve a seat on the space shuttle?</content></utterance>
+<utterance uid="1-17"><speaker>MARTHA</speaker><content>Oh. Well, we have to rethink that.</content></utterance>
+<utterance uid="1-18"><speaker>CASTLE</speaker><content>Really?</content></utterance>
+<utterance uid="1-19"><speaker>MARTHA</speaker><content>Mm-hmm.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>RYAN</speaker><content>Vic's a female, late 20s, no I.D. She was found hanging from the monkey bars by a jogger just after dawn.</content></utterance>
+<utterance uid="2-2"><speaker>CASTLE</speaker><content>Is that honey?</content></utterance>
+<utterance uid="2-3"><speaker>LANIE</speaker><content>From the smell of it, I'd say it's caramel sauce. But I'll be testing, not tasting.</content></utterance>
+<utterance uid="2-4"><speaker>BECKETT</speaker><content>Caramel sauce?</content></utterance>
+<utterance uid="2-5"><speaker>CASTLE</speaker><content>Maybe our killer has a sweet tooth.</content></utterance>
+<utterance uid="2-6"><speaker>BECKETT</speaker><content>Given her state of undress, I'd say it's more likely he had a sexual fetish.</content></utterance>
+<utterance uid="2-7"><speaker>LANIE</speaker><content>Yeah, I can do the chocolate, I'll even do the whipped cream bikini, but caramel? I prefer slippery to sticky.</content></utterance>
+<utterance uid="2-8"><speaker>CASTLE</speaker><content>Does she know we can hear her?</content></utterance>
+<utterance uid="2-9"><speaker>BECKETT</speaker><content>Bondage cuffs, custom made? Looks like our killer liked public play.</content></utterance>
+<utterance uid="2-10"><speaker>CASTLE</speaker><content>How can you tell the difference between custom and regular?</content></utterance>
+<utterance uid="2-11"><speaker>BECKETT</speaker><content>The leather is too high quality to be mass-produced, and it's hand-stitched.</content></utterance>
+<utterance uid="2-12"><speaker>CASTLE</speaker><content>No, I mean, how can you tell the difference?</content></utterance>
+<utterance uid="2-13"><speaker>BECKETT</speaker><content> So time of death?</content></utterance>
+<utterance uid="2-14"><speaker>LANIE</speaker><content>From body temperature, I'd say between 10:00 and 11:00 last night, but I'm pretty sure she was not killed here. Based on lividity, she spent several hours in the fetal position after she died. And then was hung here a few hours ago. Petechial hemorrhaging suggests she was suffocated. And then there's these.</content></utterance>
+<utterance uid="2-15"><speaker>CASTLE</speaker><content>Was she restrained?</content></utterance>
+<utterance uid="2-16"><speaker>LANIE</speaker><content>Looks like it.</content></utterance>
+<utterance uid="2-17"><speaker>ESPOSITO</speaker><content>Yo, Beckett. Crime scene’s negative for any signs of a struggle. Found about a dozen partial shoe impressions, but the ground's too cold to get any imprints.</content></utterance>
+<utterance uid="2-18"><speaker>RYAN</speaker><content>But... we did find this. Wheel marks, about 18 inches apart.</content></utterance>
+<utterance uid="2-19"><speaker>CASTLE</speaker><content>Rolling suitcase?</content></utterance>
+<utterance uid="2-20"><speaker>BECKETT</speaker><content>And judging by the depth of the tracks, I'd say it was carrying something heavy.</content></utterance>
+<utterance uid="2-21"><speaker>RYAN</speaker><content>I'm guessing around, uh, 105 pounds.</content></utterance>
+<utterance uid="2-22"><speaker>BECKETT</speaker><content>So he killed her elsewhere and then brought her here.</content></utterance>
+<utterance uid="2-23"><speaker>ESPOSITO</speaker><content>Yeah, which means the crime scene could be anywhere.</content></utterance>
+<utterance uid="2-24"><speaker>CASTLE</speaker><content>The psychology doesn't make any sense. The crime scene was pretty elaborately staged, which seems to suggest a significant amount of premeditation, but the murder itself- suffocation- might indicate a crime of passion.</content></utterance>
+<utterance uid="2-25"><speaker>RYAN</speaker><content>Guy covered her in caramel. Do you really think we're gonna find a logical explanation?</content></utterance>
+<utterance uid="2-26"><speaker>BECKETT</speaker><content>Only a handful of bondage shops in the city do custom work. So let's take photos of those cuffs, send it out, see if anyone can I.D. where it came from.</content></utterance>
+<utterance uid="2-27"><speaker>CASTLE</speaker><content> "Only a handful of shops"? Okay, what aren’t you telling me?</content></utterance>
+<utterance uid="2-28"><speaker>BECKETT</speaker><content>So much, Castle. So very, very much.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>RYAN</speaker><content>It's a little creepy doing this with you breathing on my neck.</content></utterance>
+<utterance uid="3-2"><speaker>ESPOSITO</speaker><content>Oh, sorry, bro. I mean, I'd do it on mine, but I.A. checks browser history, so...</content></utterance>
+<utterance uid="3-3"><speaker>RYAN</speaker><content>Great. Thanks.</content></utterance>
+<utterance uid="3-4"><speaker>ESPOSITO</speaker><content>What does that thing do?</content></utterance>
+<utterance uid="3-5"><speaker>RYAN</speaker><content>Looks like a potato peeler.</content></utterance>
+<utterance uid="3-6"><speaker>ESPOSITO</speaker><content>Yeah. Oh, that is nasty. Oh.</content></utterance>
+<utterance uid="3-7"><speaker>CASTLE</speaker><content>And illegal in 12 states.</content></utterance>
+<utterance uid="3-8"><speaker>BECKETT</speaker><content>Yeah, you're right. That is weird. Okay. Thank you.</content></utterance>
+<utterance uid="3-9"><speaker>CASTLE</speaker><content>What's weird?</content></utterance>
+<utterance uid="3-10"><speaker>BECKETT</speaker><content>Lanie ran a SART kit. There's no signs of sexual assault or activity. This has all the makings of a sex crime, but there's no sex involved.</content></utterance>
+<utterance uid="3-11"><speaker>CASTLE</speaker><content>Well, maybe our psychopath believes in abstinence.</content></utterance>
+<utterance uid="3-12"><speaker>BECKETT</speaker><content>It's more likely he has a performance problem. And there's no I.D. Her fingerprints aren't in the system.</content></utterance>
+<utterance uid="3-13"><speaker>RYAN AND ESPOSITO</speaker><content> Oh! No, no, no, no, no.</content></utterance>
+<utterance uid="3-14"><speaker>RYAN</speaker><content>How do you even get in that position?</content></utterance>
+<utterance uid="3-15"><speaker>ESPOSITO</speaker><content>I don't know, but you should try that with your, uh, girlfriend, honey milk. As a matter of fact, I think I'm gonna buy this for you right now.</content></utterance>
+<utterance uid="3-16"><speaker>CASTLE</speaker><content>Oh, jeez. How do you even get in that position?</content></utterance>
+<utterance uid="3-17"><speaker>RYAN</speaker><content>Right? It's not even possible.</content></utterance>
+<utterance uid="3-18"><speaker>BECKETT</speaker><content>Oh, it's possible.</content></utterance>
+<utterance uid="3-19"><speaker>BECKETT</speaker><content>Anything on the canvass?</content></utterance>
+<utterance uid="3-20"><speaker>ESPOSITO</speaker><content>Nothing yet. And nothing back from missing persons. Given that it just happened last night, it's most likely not gonna be reported for a couple of days.</content></utterance>
+<utterance uid="3-21"><speaker>BECKETT</speaker><content>What about the cuffs?</content></utterance>
+<utterance uid="3-22"><speaker>RYAN</speaker><content>We found seven shops in Manhattan that make custom bondage gear.</content></utterance>
+<utterance uid="3-23"><speaker>ESPOSITO</speaker><content>And while we're waiting to hear back, we're gonna buy a gift for Ryan's imaginary girlfriend.</content></utterance>
+<utterance uid="3-24"><speaker>CASTLE</speaker><content>Ooh, yeah. When are we gonna meet that Jenny?</content></utterance>
+<utterance uid="3-25"><speaker>RYAN</speaker><content>When the time is right, I'll bring her around. I don't want you guys scaring her off.</content></utterance>
+<utterance uid="3-26"><speaker>ESPOSITO</speaker><content>Oh, there she is now. Ugh. I don't know.</content></utterance>
+<utterance uid="3-27"><speaker>RYAN</speaker><content> Hello. Detective Kevin Ryan.</content></utterance>
+<utterance uid="3-28"><speaker>BECKETT</speaker><content>You guys, give him a break. I wouldn't bring my boyfriend around here either.</content></utterance>
+<utterance uid="3-29"><speaker>CASTLE</speaker><content>Boyfriend? Did I miss something?</content></utterance>
+<utterance uid="3-30"><speaker>RYAN</speaker><content>So that was Barry from the Love Shackle. He says the cuff might be theirs, but he'd have to examine 'em up close to know for sure.</content></utterance>
+<utterance uid="3-31"><speaker>BECKETT</speaker><content>Well, then have evidence pull them and tell them I'm coming.</content></utterance>
+<utterance uid="3-32"><speaker>CASTLE</speaker><content>Oh, a field trip to a sex store. I love this case.</content></utterance>
+<utterance uid="3-33"><speaker>RYAN</speaker><content>Look at him following her. Who's whipped, huh, me or him?</content></utterance>
+<utterance uid="3-34"><speaker>ESPOSITO</speaker><content>You, bro, hands down.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>CASTLE</speaker><content>You know, while we're here, we should really pick up something for that new imaginary boyfriend of yours.  Oh, this his speed?</content></utterance>
+<utterance uid="4-2"><speaker>BECKETT</speaker><content>No. But if you keep talking, I'll put you in one of these. </content></utterance>
+<utterance uid="4-3"><speaker>BARRY</speaker><content>Hey, guys. Looking for something special?</content></utterance>
+<utterance uid="4-4"><speaker>CASTLE</speaker><content>Yes.</content></utterance>
+<utterance uid="4-5"><speaker>BECKETT</speaker><content>No.</content></utterance>
+<utterance uid="4-6"><speaker>BARRY</speaker><content>Just gettin' started, huh? Yeah, we get a lot of first timers. We carry everything from bondage 101 all the way up to the more advanced stuff for your pleasure PhD. But if you're just looking to dip your toe in the water, these little guys are best sellers.  Want to give 'em a try?</content></utterance>
+<utterance uid="4-7"><speaker>BECKETT</speaker><content>No, thanks. I've already got a pair of my own. </content></utterance>
+<utterance uid="4-8"><speaker>BARRY</speaker><content> Double cross lap stitch on the seam. Yeah, this is definitely one of mine.</content></utterance>
+<utterance uid="4-9"><speaker>BECKETT</speaker><content>Can you tell us who ordered them?</content></utterance>
+<utterance uid="4-10"><speaker>BARRY</speaker><content>Yeah, I remember this kid. Very vanilla. Then again, it's always the normal-looking ones that end up being the most freaky, right?</content></utterance>
+<utterance uid="4-11"><speaker>BECKETT</speaker><content>Do you have a name or a billing address?</content></utterance>
+<utterance uid="4-12"><speaker>BARRY</speaker><content>Yeah. The cuffs were purchased six months ago by a Tyler Benton. He had 'em specially made for his girlfriend. Cute girl, too.</content></utterance>
+<utterance uid="4-13"><speaker>BECKETT</speaker><content>You remember her?</content></utterance>
+<utterance uid="4-14"><speaker>BARRY</speaker><content>Yeah, brunette, mid-20s, asked a lot of questions.</content></utterance>
+<utterance uid="4-15"><speaker>BECKETT</speaker><content>Did she by any chance look like this? </content></utterance>
+<utterance uid="4-16"><speaker>BARRY</speaker><content>Oh, my God.</content></utterance>
+<utterance uid="4-17"><speaker>BECKETT</speaker><content>We need to talk to Tyler Benton and find out what he was doing last night.</content></utterance>
+<utterance uid="4-18"><speaker>CASTLE</speaker><content>My guess is killing his girlfriend.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>TYLER BENTON</speaker><content>That's Jessica. Jessica Margolis- my girlfriend. Next week was our one-year anniversary. I was going to propose.</content></utterance>
+<utterance uid="5-2"><speaker>BECKETT</speaker><content>Where were you last night, Mr. Benton?</content></utterance>
+<utterance uid="5-3"><speaker>TYLER</speaker><content>At the hospital. I'm a first year. I was working a 24-hour shift. You can ask my attending.</content></utterance>
+<utterance uid="5-4"><speaker>BECKETT</speaker><content> Have you ever seen these before?</content></utterance>
+<utterance uid="5-5"><speaker>TYLER</speaker><content>Yeah, I-I bought them for Jessica a few months ago. Why?</content></utterance>
+<utterance uid="5-6"><speaker>CASTLE</speaker><content>She was found hanging by them in the park. You guys like to play?</content></utterance>
+<utterance uid="5-7"><speaker>TYLER</speaker><content>What? No. We never even used them. They were- they were just supposed to be a joke because of her research.</content></utterance>
+<utterance uid="5-8"><speaker>CASTLE</speaker><content>Research?</content></utterance>
+<utterance uid="5-9"><speaker>TYLER</speaker><content>I tried to be supportive, but I should've stopped her. I should've pushed her to study something else.</content></utterance>
+<utterance uid="5-10"><speaker>BECKETT</speaker><content>What was she studying?</content></utterance>
+<utterance uid="5-11"><speaker>TYLER</speaker><content>The sociology of sexual bondage and domination. She spent months meeting people in that world, trying to understand what made them tick. And they killed her for it.</content></utterance>
+<utterance uid="5-12"><speaker>BECKETT</speaker><content>And where did you keep these cuffs?</content></utterance>
+<utterance uid="5-13"><speaker>TYLER</speaker><content>I don't- I don't know. At her place, I guess. Her roommate probably knows. The two of them were, like, attached at the hip.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>DANIELLE</speaker><content>Jessica and I have been roommates since freshman year. We've lived together so long, we're practically sisters.</content></utterance>
+<utterance uid="6-2"><speaker>BECKETT</speaker><content>Tyler said that you might know where she kept the cuffs he gave her.</content></utterance>
+<utterance uid="6-3"><speaker>DANIELLE</speaker><content>Oh, she showed them to me when she got them, but I never saw them after that.</content></utterance>
+<utterance uid="6-4"><speaker>BECKETT</speaker><content>And when was the last time that you saw Jessica?</content></utterance>
+<utterance uid="6-5"><speaker>DANIELLE</speaker><content>Yesterday morning.</content></utterance>
+<utterance uid="6-6"><speaker>CASTLE</speaker><content>What about her research? Did she ever talk to you about where she went, uh, the people involved?</content></utterance>
+<utterance uid="6-7"><speaker>DANIELLE</speaker><content>No, she pretty much kept all that to herself.</content></utterance>
+<utterance uid="6-8"><speaker>ESPOSITO</speaker><content> Detective Beckett.</content></utterance>
+<utterance uid="6-9"><speaker>BECKETT</speaker><content>Excuse me.</content></utterance>
+<utterance uid="6-10"><speaker>ESPOSITO</speaker><content>So the bed hasn't been slept in. There's no signs of a struggle.</content></utterance>
+<utterance uid="6-11"><speaker>BECKETT</speaker><content>Cell phone, purse?</content></utterance>
+<utterance uid="6-12"><speaker>RYAN</speaker><content>Nada.</content></utterance>
+<utterance uid="6-13"><speaker>BECKETT</speaker><content>Which means she was somewhere else where she was killed. Okay, let's put a trace on her cell phone. If she has a GPS locator, we might get lucky.</content></utterance>
+<utterance uid="6-14"><speaker>RYAN</speaker><content>All right.</content></utterance>
+<utterance uid="6-15"><speaker>BECKETT</speaker><content> Did Jessica ever mention where she was going to be last night?</content></utterance>
+<utterance uid="6-16"><speaker>DANIELLE</speaker><content>No. I-I got in at around 10:00. It didn't look like she had been home. Since Tyler was on call, I... I assumed she was up at the university working on her thesis.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>PROFESSOR STEVENSON</speaker><content>I wish I could help you, detective. Sometimes she'd work late, but she wasn't here last night.</content></utterance>
+<utterance uid="7-2"><speaker>BECKETT</speaker><content>Are you sure about that?</content></utterance>
+<utterance uid="7-3"><speaker>STEVENSON</speaker><content>I was here till 11:00 grading papers. I would've seen her.</content></utterance>
+<utterance uid="7-4"><speaker>BECKETT</speaker><content>As her advisor, how much would you know about the people that she was researching?</content></utterance>
+<utterance uid="7-5"><speaker>STEVENSON</speaker><content>She was spending a lot of time with a dominatrix named Mistress Venom.</content></utterance>
+<utterance uid="7-6"><speaker>CASTLE</speaker><content>Mistress Venom?</content></utterance>
+<utterance uid="7-7"><speaker>STEVENSON</speaker><content>Sounds more like "Penthouse Forum" than PhD. Mr. Castle, people who study sex-related fields are often derided within academia. Jessica was determined not to be held hostage by their little minds. Venom was Jessica's guide to that world. If you want to know more about the people Jessica was studying, you'll have to ask Venom.  Kelly, this is Detective Beckett and Richard Castle. They need to see Jessica's research.</content></utterance>
+<utterance uid="7-8"><speaker>CASTLE</speaker><content>She kept her notes locked up?</content></utterance>
+<utterance uid="7-9"><speaker>KELLY</speaker><content>She was a finalist for the Kellerman fellowship. You know, when you're competing against other people in the department, the last thing you want to do is leave your notes lying around.</content></utterance>
+<utterance uid="7-10"><speaker>BECKETT</speaker><content>Well, it looks like a lot of late nights.</content></utterance>
+<utterance uid="7-11"><speaker>KELLY</speaker><content>When Tyler was on shift, she'd just pull an all-nighter and go visit him on his breaks.</content></utterance>
+<utterance uid="7-12"><speaker>MATT</speaker><content> Kelly, did you hear how they found her?</content></utterance>
+<utterance uid="7-13"><speaker>KELLY</speaker><content>Matt--</content></utterance>
+<utterance uid="7-14"><speaker>MATT</speaker><content>Tied to the monkey bars on a playground in her underwear?</content></utterance>
+<utterance uid="7-15"><speaker>KELLY</speaker><content>Matt, um, this is Detective Beckett. She's here investigating Jessica's death.  Matt, Jess and I all started the PhD program at the same time.</content></utterance>
+<utterance uid="7-16"><speaker>BECKETT</speaker><content>I can tell you were close.</content></utterance>
+<utterance uid="7-17"><speaker>MATT</speaker><content>I'm sorry. It's just-</content></utterance>
+<utterance uid="7-18"><speaker>BECKETT</speaker><content>Kelly, did Jessica have any enemies in the department? Anyone in school that she didn't get along with?</content></utterance>
+<utterance uid="7-19"><speaker>MATT</speaker><content>Just because we were competing for the same fellowship doesn't mean that we weren’t civil.</content></utterance>
+<utterance uid="7-20"><speaker>KELLY</speaker><content>Not everyone was civil. In the last few weeks, Jessica was getting these phone calls on her office line.</content></utterance>
+<utterance uid="7-21"><speaker>BECKETT</speaker><content>What kind of calls?</content></utterance>
+<utterance uid="7-22"><speaker>KELLY</speaker><content>Um, heavy breathing, moaning. Made you want to take a hand sanitizer shower.</content></utterance>
+<utterance uid="7-23"><speaker>CASTLE</speaker><content>Seems a little immature for grad students.</content></utterance>
+<utterance uid="7-24"><speaker>MATT</speaker><content>Look, I'm studying the impact of A.I.D.S. treatments in inner-city clinics. Kelly's is about overcoming the glass ceiling. And Jessica was watching a dominatrix dig her stiletto into some loser's chest. She was bound to get some grief for it.</content></utterance>
+<utterance uid="7-25"><speaker>JANITOR</speaker><content> Ah.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>CASTLE</speaker><content>Jessica's notes on Venom's sessions are pretty detailed. She studied these guys like lab rats.</content></utterance>
+<utterance uid="8-2"><speaker>BECKETT</speaker><content>But she only identifies them by nickname - "ladyboy," "pin cushion" and "scared bunny."</content></utterance>
+<utterance uid="8-3"><speaker>CASTLE</speaker><content>You know, if they didn't know what Jessica was doing, and one of them found out...</content></utterance>
+<utterance uid="8-4"><speaker>BECKETT</speaker><content>Fear of exposure would be a strong motive to kill.</content></utterance>
+<utterance uid="8-5"><speaker>CASTLE</speaker><content>I wonder what attracted her to all this.</content></utterance>
+<utterance uid="8-6"><speaker>BECKETT</speaker><content>Well, according to her thesis proposal, she became interested in S_M after witnessing a dysfunctional relationship up close. Apparently her dissertation compares the overt expressions of dominance in the dungeon to more subtle expressions in real-world relationships... Like who drives.</content></utterance>
+<utterance uid="8-7"><speaker>CASTLE</speaker><content>Hey, I would drive if you would let me.  That actually didn't prove my point like I thought it would.</content></utterance>
+<utterance uid="8-8"><speaker>BECKETT</speaker><content>You know, it says here that Mistress Venom works in a bondage club somewhere in Dungeon Alley, but it doesn't say which one.</content></utterance>
+<utterance uid="8-9"><speaker>CASTLE</speaker><content>Dungeon Alley.</content></utterance>
+<utterance uid="8-10"><speaker>BECKETT</speaker><content>It's an area between Chelsea and Midtown. There's a whole slew of fetish clubs there.</content></utterance>
+<utterance uid="8-11"><speaker>CASTLE</speaker><content>Yes, I know where Dungeon Alley is. I want to know... How do you know?</content></utterance>
+<utterance uid="8-12"><speaker>BECKETT</speaker><content>Vice raided a few of them looking for a reason to shut them down. But since there's no sexual contact and the acts are all consensual, it was perfectly legal.</content></utterance>
+<utterance uid="8-13"><speaker>CASTLE</speaker><content>Hmm. You know, you should moonlight. Seriously, you would make a fortune. Come on. Haven't you ever wanted to do... something with your handcuffs other than arrest criminals?</content></utterance>
+<utterance uid="8-14"><speaker>BECKETT</speaker><content>No. But there is one hot... wild... kinky thing that I do like doing. Putting killers behind bars.</content></utterance>
+<utterance uid="8-15"><speaker>CASTLE</speaker><content>See? You're already a tease. You're halfway there.</content></utterance>
+<utterance uid="8-16"><speaker>RYAN</speaker><content> Hey, we tried to trace the creepy calls that Jessica was getting at her office. But since they were routed through the main switchboard at the college, there's no way to determine their source.</content></utterance>
+<utterance uid="8-17"><speaker>BECKETT</speaker><content>What about the cell phone?</content></utterance>
+<utterance uid="8-18"><speaker>ESPOSITO</speaker><content>The day she died, she placed a call to her boyfriend at the hospital, she placed a call to her voice mail at the office, and she placed two calls to Lady Irena's House of Pain.</content></utterance>
+<utterance uid="8-19"><speaker>BECKETT</speaker><content>Lady Irena's House of Pain? That must be where Mistress Venom works. Did you get an address?</content></utterance>
+<utterance uid="8-20"><speaker>ESPOSITO</speaker><content>Yeah, an office building on 38th.</content></utterance>
+<utterance uid="8-21"><speaker>RYAN</speaker><content>Oh, conveniently located for all your lunchtime spanking needs.</content></utterance>
+<utterance uid="8-22"><speaker>BECKETT</speaker><content>All right, you guys look through her notes, see if there's anything that's there that might implicate one of her clients. Meanwhile, Castle and I will go and meet this Mistress Venom.</content></utterance>
+<utterance uid="8-23"><speaker>CASTLE</speaker><content>Whips, women and murder - sounds like my lucky day.</content></utterance>
+<utterance uid="8-24"><speaker>BECKETT</speaker><content>I'm so glad you're excited by this.</content></utterance>
+<utterance uid="8-25"><speaker>CASTLE</speaker><content>Whoo.</content></utterance>
+<utterance uid="8-26"><speaker>BECKETT</speaker><content> Hi, my name is Kate, and my boyfriend has been a very bad boy. Yes, that's right. His name's Ricky.</content></utterance>
+<utterance uid="8-27"><speaker>CASTLE</speaker><content>What are you doing?</content></utterance>
+<utterance uid="8-28"><speaker>BECKETT</speaker><content> Actually, a friend of mine recommended a Mistress Venom.</content></utterance>
+<utterance uid="8-29"><speaker>CASTLE</speaker><content>Wait.</content></utterance>
+<utterance uid="8-30"><speaker>BECKETT</speaker><content> Is she available tonight? 4:00 pm?</content></utterance>
+<utterance uid="8-31"><speaker>CASTLE</speaker><content>You know what?</content></utterance>
+<utterance uid="8-32"><speaker>BECKETT</speaker><content> Sure, that's perfect. Thank you.</content></utterance>
+<utterance uid="8-33"><speaker>CASTLE</speaker><content>Okay, that's very funny. Now call her back.</content></utterance>
+<utterance uid="8-34"><speaker>BECKETT</speaker><content>Unh-unh, Castle. This is the perfect way to get Venom without tipping our hand. What's the matter, Castle? You afraid of a little role play? </content></utterance>
+<utterance uid="8-35"><speaker>CASTLE</speaker><content>Yeah, you better run.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>CASTLE</speaker><content>This place looks like a law firm.</content></utterance>
+<utterance uid="9-2"><speaker>BECKETT</speaker><content>What'd you think it was gonna be, torture wheels and women in corsets?</content></utterance>
+<utterance uid="9-3"><speaker>CASTLE</speaker><content>Well, yeah.</content></utterance>
+<utterance uid="9-4"><speaker>BECKETT</speaker><content>That's in the back.</content></utterance>
+<utterance uid="9-5"><speaker>RECEPTIONIST</speaker><content>Welcome to Lady Irena's House of Pain. How can I serve you?</content></utterance>
+<utterance uid="9-6"><speaker>BECKETT</speaker><content> Well, answer her!  You see what I have to deal with? My boyfriend Ricky has an appointment at 4:00 pm with Mistress Venom.</content></utterance>
+<utterance uid="9-7"><speaker>RECEPTIONIST</speaker><content>Will you be joining him?</content></utterance>
+<utterance uid="9-8"><speaker>BECKETT</speaker><content>Oh, yes. I've been dying to watch him squirm.</content></utterance>
+<utterance uid="9-9"><speaker>RECEPTIONIST</speaker><content>Mistress Venom would be delighted to have an audience. Follow me, please.</content></utterance>
+<utterance uid="9-10"><speaker>BECKETT</speaker><content>Do you think we could gag him?</content></utterance>
+<utterance uid="9-11"><speaker>CASTLE</speaker><content>Remember, my safe word is "apples."</content></utterance>
+<utterance uid="9-12"><speaker>CASTLE</speaker><content>You should bring your new boyfriend here.</content></utterance>
+<utterance uid="9-13"><speaker>BECKETT</speaker><content>Mistress Venom?</content></utterance>
+<utterance uid="9-14"><speaker>LADY IRENA</speaker><content>Mistress Venom is unavailable. But I'm Lady Irena. I own this dungeon. I'm sure we can find another dominatrix to suit your needs.</content></utterance>
+<utterance uid="9-15"><speaker>BECKETT</speaker><content>I'm afraid we can't. I'm Detective Beckett. I need to speak with her right now concerning a murder investigation.</content></utterance>
+<utterance uid="9-16"><speaker>LADY IRENA</speaker><content>Who was murdered?</content></utterance>
+<utterance uid="9-17"><speaker>BECKETT</speaker><content>Jessica Margolis. The PhD student who was observing her sessions.</content></utterance>
+<utterance uid="9-18"><speaker>LADY IRENA</speaker><content>There was no one observing her sessions.</content></utterance>
+<utterance uid="9-19"><speaker>BECKETT</speaker><content>Are you sure?</content></utterance>
+<utterance uid="9-20"><speaker>LADY IRENA</speaker><content>Positive. Privacy is paramount in my dungeon.</content></utterance>
+<utterance uid="9-21"><speaker>BECKETT</speaker><content>You've never seen this girl?</content></utterance>
+<utterance uid="9-22"><speaker>LADY IRENA</speaker><content>Of course I've seen that girl. She wasn't observing Mistress Venom. She was Mistress Venom. </content></utterance>
+<utterance uid="9-23"><speaker>BECKETT</speaker><content>Well, this explains the marks on her body. Jessica must have been wearing this before she died.</content></utterance>
+<utterance uid="9-24"><speaker>LADY IRENA</speaker><content>Like cruel shoes, these outfits can leave marks for hours after you wear them. She had three sessions yesterday. She left around 7:30.</content></utterance>
+<utterance uid="9-25"><speaker>CASTLE</speaker><content>You really had no idea that Jessica was conducting a sociological experiment out of your dungeon?</content></utterance>
+<utterance uid="9-26"><speaker>LADY IRENA</speaker><content>No. She came to me about six months ago. Quickly became one of my most requested doms.</content></utterance>
+<utterance uid="9-27"><speaker>BECKETT</speaker><content>Did Jessica have any clients who were unusually obsessed with her?</content></utterance>
+<utterance uid="9-28"><speaker>LADY IRENA</speaker><content>Of course. I mean, they all were. But her clients were submissive. Killing is an act of dominance.</content></utterance>
+<utterance uid="9-29"><speaker>BECKETT</speaker><content>You and I both know that people aren't that simple. Men might come here for humiliation and torture, but it's easy to imagine that one of them might have been pushed too far and lashed out.</content></utterance>
+<utterance uid="9-30"><speaker>LADY IRENA</speaker><content>If she was concerned for her safety, she would've told me.</content></utterance>
+<utterance uid="9-31"><speaker>BECKETT</speaker><content>Do you have a list of Jessica's clients?</content></utterance>
+<utterance uid="9-32"><speaker>LADY IRENA</speaker><content>Detective... All of the services that we provide here are perfectly legal. Now part of that service is protecting the privacy of our client. I'm not about to betray the trust that they've paid for because you have a hunch.</content></utterance>
+<utterance uid="9-33"><speaker>BECKETT</speaker><content>Oh, I think it's more than just a hunch.</content></utterance>
+<utterance uid="9-34"><speaker>LADY IRENA</speaker><content>Well, gee, I'm sorry. Unless you have a court order, my hands are tied, so to speak.</content></utterance>
+<utterance uid="9-35"><speaker>BECKETT</speaker><content>You're pretty well-versed in law for a dominatrix.</content></utterance>
+<utterance uid="9-36"><speaker>LADY IRENA</speaker><content>Don't let the leather fool you. I used to be a partner at a law firm.</content></utterance>
+<utterance uid="9-37"><speaker>CASTLE</speaker><content>Wow.</content></utterance>
+<utterance uid="9-38"><speaker>LADY IRENA</speaker><content> When you dominate and manipulate men in every boardroom and courtroom that you're in, this just seemed like the natural progression.</content></utterance>
+<utterance uid="9-39"><speaker>LADY IRENA</speaker><content>It's called Mistress Red.</content></utterance>
+<utterance uid="9-40"><speaker>CASTLE</speaker><content>Excuse me?</content></utterance>
+<utterance uid="9-41"><speaker>LADY IRENA</speaker><content>My lipstick. I noticed you couldn't stop staring.</content></utterance>
+<utterance uid="9-42"><speaker>CASTLE</speaker><content>Sorry. It was just hypnotic.</content></utterance>
+<utterance uid="9-43"><speaker>BECKETT</speaker><content>It's not you. It's her.</content></utterance>
+<utterance uid="9-44"><speaker>CASTLE</speaker><content>Well, if you're so upset, we could find someone for you to go medieval on, like, uh, him perhaps. </content></utterance>
+<utterance uid="9-45"><speaker>BECKETT</speaker><content>She wants to protect her clients? What about her girls?</content></utterance>
+<utterance uid="9-46"><speaker>MISTRESS SAPPHIRE</speaker><content>Hey. You the cop?</content></utterance>
+<utterance uid="9-47"><speaker>BECKETT</speaker><content>I'm Detective Beckett.</content></utterance>
+<utterance uid="9-48"><speaker>MISTRESS SAPPHIRE</speaker><content>I'm Mistress Sapphire. So it's true? She's dead?</content></utterance>
+<utterance uid="9-49"><speaker>BECKETT</speaker><content>Yes. I'm sorry-</content></utterance>
+<utterance uid="9-50"><speaker>MISTRESS SAPPHIRE</speaker><content>This weird thing happened last week, I think you should know about.</content></utterance>
+<utterance uid="9-51"><speaker>CASTLE</speaker><content>With one of her clients?</content></utterance>
+<utterance uid="9-52"><speaker>MISTRESS SAPPHIRE</speaker><content>Sort of. A first-time client came in for a session, but he left just after a few minutes. I found her in the locker room, crying.</content></utterance>
+<utterance uid="9-53"><speaker>BECKETT</speaker><content>Did she tell you why?</content></utterance>
+<utterance uid="9-54"><speaker>MISTRESS SAPPHIRE</speaker><content>No.</content></utterance>
+<utterance uid="9-55"><speaker>BECKETT</speaker><content>This client, do you remember anything about him?</content></utterance>
+<utterance uid="9-56"><speaker>MISTRESS SAPPHIRE</speaker><content>It was a week ago, and I only saw him from behind. But he was wearing one of those medical shirts.</content></utterance>
+<utterance uid="9-57"><speaker>BECKETT</speaker><content>Scrubs?</content></utterance>
+<utterance uid="9-58"><speaker>MISTRESS SAPPHIRE</speaker><content>Yes.</content></utterance>
+<utterance uid="9-59"><speaker>CASTLE</speaker><content>You thinking what I'm thinking?</content></utterance>
+<utterance uid="9-60"><speaker>BECKETT</speaker><content>Jessica's boyfriend discovered her secret identity.</content></utterance>
+<utterance uid="9-61"><speaker>CASTLE</speaker><content>And instead of proposing to her, he kills her.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>TYLER</speaker><content>Jessica was the love of my life. Why would I want to hurt her?</content></utterance>
+<utterance uid="10-2"><speaker>BECKETT</speaker><content>Because she hurt you.</content></utterance>
+<utterance uid="10-3"><speaker>TYLER</speaker><content>What the hell are you talking about?</content></utterance>
+<utterance uid="10-4"><speaker>BECKETT</speaker><content>You said so yourself. You wanted her to stop. You were gonna make her study something else. It must have been a real shocker when you realized she wasn't just studying that world, she was living it.</content></utterance>
+<utterance uid="10-5"><speaker>TYLER</speaker><content>What the hell is this? This is crazy. You're telling me this is real? You're telling me Jessica was one of them?</content></utterance>
+<utterance uid="10-6"><speaker>BECKETT</speaker><content>Why did you go to the dungeon last week? Was it to confront her?</content></utterance>
+<utterance uid="10-7"><speaker>TYLER</speaker><content>The dungeon?</content></utterance>
+<utterance uid="10-8"><speaker>CASTLE</speaker><content>We have a witness who saw you there.</content></utterance>
+<utterance uid="10-9"><speaker>BECKETT</speaker><content>It's completely understandable. The woman that you loved lied to you? I could see how you could lose control and go into a jealous rage.</content></utterance>
+<utterance uid="10-10"><speaker>CASTLE</speaker><content>And then in a panic, decide to stage the body in a manner so unusual, we'd naturally assume it was someone in the bondage world.</content></utterance>
+<utterance uid="10-11"><speaker>TYLER</speaker><content>I never went to a dungeon. There was no jealous rage because I didn't know! I was going to marry her. We just signed a lease to move in together three days ago. If I was so angry with her, why would I do that?</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>BECKETT</speaker><content>He was telling the truth about the lease. Not only did he and Jessica sign the lease, but it was also notarized.</content></utterance>
+<utterance uid="11-2"><speaker>MONTGOMERY</speaker><content>That doesn't mean he didn't do it. He coulda had her sign to help his alibi.</content></utterance>
+<utterance uid="11-3"><speaker>CASTLE</speaker><content>Maybe she was afraid of him. I've been thinking - the dysfunctional relationship she refers to in her research - There's a passage where she describes subject "a" as being afraid to tell subject "b" that she's leaving because he's become dangerously codependent. What if she was describing Tyler?</content></utterance>
+<utterance uid="11-4"><speaker>MONTGOMERY</speaker><content>Maybe that's why she became a dominatrix, to give her the courage to stand up for herself.</content></utterance>
+<utterance uid="11-5"><speaker>BECKETT</speaker><content>We have uniforms combing through hospital security footage. If Tyler left at any point that night, there should be some trace.</content></utterance>
+<utterance uid="11-6"><speaker>MONTGOMERY</speaker><content>In the meantime, let's just keep digging through those notebooks. We're gonna need more than speculation if we want to file charges.</content></utterance>
+<utterance uid="11-7"><speaker>BECKETT</speaker><content>Great.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>ALEXIS</speaker><content>Dad!  Do we need to talk about this?</content></utterance>
+<utterance uid="12-2"><speaker>CASTLE</speaker><content>This is research for a case.</content></utterance>
+<utterance uid="12-3"><speaker>ALEXIS</speaker><content>Oh.</content></utterance>
+<utterance uid="12-4"><speaker>CASTLE</speaker><content>And we need to get you some noisier shoes. Seriously, I –  Hey, you made the team.</content></utterance>
+<utterance uid="12-5"><speaker>ALEXIS</speaker><content>No. Tryouts aren't for another month, but Ashley let me take her uniform home to see how it fit.</content></utterance>
+<utterance uid="12-6"><speaker>CASTLE</speaker><content>And what do you think?</content></utterance>
+<utterance uid="12-7"><speaker>ALEXIS</speaker><content>I think it's totally not me, which is why I kind of like it.</content></utterance>
+<utterance uid="12-8"><speaker>CASTLE</speaker><content>It's not you, so you like it?</content></utterance>
+<utterance uid="12-9"><speaker>ALEXIS</speaker><content>Yeah. You know how in Storm Fall, you killed off Derrick Storm because you were bored with him?</content></utterance>
+<utterance uid="12-10"><speaker>CASTLE</speaker><content>Yeah.</content></utterance>
+<utterance uid="12-11"><speaker>ALEXIS</speaker><content>Sometimes I feel that way about me, like I'm hiding inside my comfort zone. And maybe it's time to venture out a little.</content></utterance>
+<utterance uid="12-12"><speaker>CASTLE</speaker><content>Well, does that venture have to include pom-poms?</content></utterance>
+<utterance uid="12-13"><speaker>ALEXIS</speaker><content>I don't want to look back on high school and feel like I missed out on something. So promise you'll be supportive.</content></utterance>
+<utterance uid="12-14"><speaker>CASTLE</speaker><content>Yeah, I, uh... I promise.</content></utterance>
+<utterance uid="12-15"><speaker>ALEXIS</speaker><content> Go, dad! Whoo! Move, move, move. Get out of the way. 'cause The Bears are comin', and we're ready to play. Go, Bears!</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>CASTLE</speaker><content>You ever want to be a cheerleader?</content></utterance>
+<utterance uid="13-2"><speaker>BECKETT</speaker><content>No. Did you?</content></utterance>
+<utterance uid="13-3"><speaker>CASTLE</speaker><content>Not me. Alexis. She wants to try out for the team.</content></utterance>
+<utterance uid="13-4"><speaker>BECKETT</speaker><content>So?</content></utterance>
+<utterance uid="13-5"><speaker>CASTLE</speaker><content>So? You see what they wear? She wants to join a team, why not join mathletes?</content></utterance>
+<utterance uid="13-6"><speaker>BECKETT</speaker><content>Why can't she do both? Besides, kids try on personalities the way they try on clothes. It's the way that they figure out who they are.</content></utterance>
+<utterance uid="13-7"><speaker>CASTLE</speaker><content>What are you looking for?</content></utterance>
+<utterance uid="13-8"><speaker>BECKETT</speaker><content>According to the security footage, the boyfriend never left the hospital during his shift. It wasn't him.</content></utterance>
+<utterance uid="13-9"><speaker>CASTLE</speaker><content>Maybe he faked the footage.</content></utterance>
+<utterance uid="13-10"><speaker>BECKETT</speaker><content>He's an intern, not Jason Bourne.</content></utterance>
+<utterance uid="13-11"><speaker>CASTLE</speaker><content>Oh. Well, there goes my subject "b" theory.</content></utterance>
+<utterance uid="13-12"><speaker>BECKETT</speaker><content>So Jessica left the dungeon at 7:30, and she was killed sometime between 10:00 and 11:00. If she didn't go home or to the university, then where did she go?</content></utterance>
+<utterance uid="13-13"><speaker>ESPOSITO</speaker><content>Beckett. Something in here you gotta see.</content></utterance>
+<utterance uid="13-14"><speaker>ESPOSITO</speaker><content> It's one of Jessica's subjects. She calls him "Sam-I-am."</content></utterance>
+<utterance uid="13-15"><speaker>CASTLE</speaker><content>Because he has a Dr. Seuss fetish?</content></utterance>
+<utterance uid="13-16"><speaker>RYAN</speaker><content>Because he's a SAM - "a smart-assed masochist." According to her notes, a SAM pretends he wants to be submissive, but what he actually wants to do is dominate his Mistress, usually with passive-aggression.</content></utterance>
+<utterance uid="13-17"><speaker>ESPOSITO</speaker><content>Instead of asking for what he wants, he makes a game out of making other people upset so they can be punished.</content></utterance>
+<utterance uid="13-18"><speaker>BECKETT</speaker><content>Really? There's people like that? </content></utterance>
+<utterance uid="13-19"><speaker>RYAN</speaker><content>Only these SAMs can be dangerous. Sometimes resorting to threats to provoke their response.</content></utterance>
+<utterance uid="13-20"><speaker>BECKETT</speaker><content>Listen to this. "He said Mistress Venom was the one who needed to be punished. He said he was going to find her, tie her up and drown her, but in something... sweet, like caramel."</content></utterance>
+<utterance uid="13-21"><speaker>MONTGOMERY</speaker><content>Sexual obsession and a description of the crime scene. Sounds like our guy to me.</content></utterance>
+<utterance uid="13-22"><speaker>ESPOSITO</speaker><content>Yeah, but we only got a nickname.</content></utterance>
+<utterance uid="13-23"><speaker>MONTGOMERY</speaker><content>We have more than a nickname. We have enough to force Lady Irena to turn over her client list.</content></utterance>
+<utterance uid="13-24"><speaker>BECKETT</speaker><content> Judge Markway, please.</content></utterance>
+<utterance uid="13-25"><speaker>CASTLE</speaker><content>Ooh. Sounds like someone's gonna get punished.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>ESPOSITO</speaker><content>William Caraway, aka "Sam-I-am." Senior vice president at Stewart, Cabot and Sagansky.</content></utterance>
+<utterance uid="14-2"><speaker>CASTLE</speaker><content>The global consulting firm?</content></utterance>
+<utterance uid="14-3"><speaker>ESPOSITO</speaker><content>Mm-hmm.</content></utterance>
+<utterance uid="14-4"><speaker>CASTLE</speaker><content>No wonder Lady Irena was protecting his identity.</content></utterance>
+<utterance uid="14-5"><speaker>BECKETT</speaker><content>Castle, why don't you sit this one out? I think Mr. Caraway will respond better to a strong... female hand. </content></utterance>
+<utterance uid="14-6"><speaker>CASTLE</speaker><content>Sam-I-am... in a box...</content></utterance>
+<utterance uid="14-7"><speaker>ESPOSITO</speaker><content>With a fox -</content></utterance>
+<utterance uid="14-8"><speaker>CASTLE</speaker><content>We're gonna need some popcorn.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>BECKETT</speaker><content>Sit.</content></utterance>
+<utterance uid="15-2"><speaker>CARAWAY</speaker><content>First why don't you tell me why the hell I'm here? I got a board meeting -</content></utterance>
+<utterance uid="15-3"><speaker>BECKETT</speaker><content>I said sit down... now.</content></utterance>
+<utterance uid="15-4"><speaker>BECKETT</speaker><content>Good boy. Your Mistress would be very proud of you.</content></utterance>
+<utterance uid="15-5"><speaker>CARAWAY</speaker><content>Excuse me?</content></utterance>
+<utterance uid="15-6"><speaker>BECKETT</speaker><content>Mistress Venom. Lady Irena's House of Pain. You like to be tied up, you like to be spanked, but more than anything, you like to make threats.</content></utterance>
+<utterance uid="15-7"><speaker>CARAWAY</speaker><content>I don't know what you're talking about.</content></utterance>
+<utterance uid="15-8"><speaker>BECKETT</speaker><content>There is no dominatrix-client privilege in New York. And your Mistress was very thorough in documenting your deepest, darkest desires - the thing with the matches, how you liked it messy.</content></utterance>
+<utterance uid="15-9"><speaker>CARAWAY</speaker><content>She wrote that down?</content></utterance>
+<utterance uid="15-10"><speaker>BECKETT</speaker><content>She also wrote how you wanted to turn the tables on her, how you threatened to tie her up and drown her in caramel.</content></utterance>
+<utterance uid="15-11"><speaker>CARAWAY</speaker><content>I-it's fantasy.</content></utterance>
+<utterance uid="15-12"><speaker>BECKETT</speaker><content>But the fantasies weren't enough. And so you had to make your dreams come true.</content></utterance>
+<utterance uid="15-13"><speaker>CARAWAY</speaker><content>No, that's not possible.</content></utterance>
+<utterance uid="15-14"><speaker>BECKETT</speaker><content>The more she said no, the more you became obsessed. You didn't want to be the submissive. You wanted to dominate her, and the ultimate domination is murder.</content></utterance>
+<utterance uid="15-15"><speaker>CARAWAY</speaker><content>No, I swear. I didn't even know she was dead.</content></utterance>
+<utterance uid="15-16"><speaker>BECKETT</speaker><content>You were very specific in your threats, and that's exactly how we found her. Do you really expect me to believe that that wasn't you?</content></utterance>
+<utterance uid="15-17"><speaker>CARAWAY</speaker><content>Well--well, someone must have found out. Someone could've read her notes.</content></utterance>
+<utterance uid="15-18"><speaker>BECKETT</speaker><content>Where were you two nights ago?</content></utterance>
+<utterance uid="15-19"><speaker>BECKETT</speaker><content>Mr. Caraway, where were you?</content></utterance>
+<utterance uid="15-20"><speaker>CARAWAY</speaker><content>I was with my wife. It was our anniversary.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>ESPOSITO</speaker><content>His wife confirms it. He was with her at the anniversary party all night.</content></utterance>
+<utterance uid="16-2"><speaker>BECKETT</speaker><content>This staging was way too specific to be just a coincidence. Somebody knew.</content></utterance>
+<utterance uid="16-3"><speaker>ESPOSITO</speaker><content>Maybe she told someone.</content></utterance>
+<utterance uid="16-4"><speaker>CASTLE</speaker><content>Maybe someone had access to the research. Filing cabinet's not Fort Knox. Anyone with access would've read exactly what we read and could use it to throw us off their trail.</content></utterance>
+<utterance uid="16-5"><speaker>BECKETT</speaker><content>Okay.  You and Ryan go back to the dungeon. See if any of the girls swap stories after work. Meanwhile, Castle and I will go to the university and see who had access to her research.</content></utterance>
+<utterance uid="16-6"><speaker>ESPOSITO</speaker><content>Okay.</content></utterance>
+<utterance uid="16-7"><speaker>MISTRESS</speaker><content>No, Mistress Venom never mentioned him to me, or any of her other clients.</content></utterance>
+<utterance uid="16-8"><speaker>ESPOSITO</speaker><content>Really? Come on. You girls don't share shop talk?</content></utterance>
+<utterance uid="16-9"><speaker>MISTRESS</speaker><content>You work here long enough, and the kinkiest things you could ever imagine... are just another day at the office.  The only time we trade info is if we share clients, but Mistress Venom didn't share. Do you mind unstrapping my boot?</content></utterance>
+<utterance uid="16-10"><speaker>RYAN</speaker><content> Uh, thank you, Mistress Amber?</content></utterance>
+<utterance uid="16-11"><speaker>MISTRESS AMBER</speaker><content>Yes.</content></utterance>
+<utterance uid="16-12"><speaker>RYAN</speaker><content>Mistress Scorpion?</content></utterance>
+<utterance uid="16-13"><speaker>MISTRESS</speaker><content>Faster.</content></utterance>
+<utterance uid="16-14"><speaker>ESPOSITO</speaker><content>Is, uh, is there a possibility that she may have mentioned one client's fetishes to another client?</content></utterance>
+<utterance uid="16-15"><speaker>MISTRESS</speaker><content>Absolutely not. Lady Irena beats confidentiality rules into our heads. Mistress Venom wasn't stupid.  Is there a problem?</content></utterance>
+<utterance uid="16-16"><speaker>ESPOSITO</speaker><content>Just this knot. It's like an octagonal knot. It's got, like, eight sides. I've never seen a knot like -</content></utterance>
+<utterance uid="16-17"><speaker>RYAN</speaker><content>Detective Esposito, bringing crime to its knees.</content></utterance>
+<utterance uid="16-18"><speaker>MISTRESS</speaker><content>Stay.</content></utterance>
+<utterance uid="16-19"><speaker>RYAN</speaker><content>So none of the girls claim that they remember Jessica talking about any of her clients. But I think we might have an explanation as to where she was between the time she left work and when she was killed. Uh, Mistress Scorpion thinks that Jessica might have been working off the books.</content></utterance>
+<utterance uid="16-20"><speaker>MISTRESS</speaker><content>Well, if she was, then she was asking for trouble. Nothing upsets Lady Irena more than some girl trying to screw her out of her 40%. </content></utterance>
+<utterance uid="16-21"><speaker>ESPOSITO</speaker><content>Ow.</content></utterance>
+<utterance uid="16-22"><speaker>MISTRESS</speaker><content>Hey, Irish, you want to help out your little buddy here? He seems to be all thumbs. </content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>BECKETT</speaker><content>You were her office mate, Kelly. It would've been very easy for you to access her files.</content></utterance>
+<utterance uid="17-2"><speaker>KELLY</speaker><content>No, it wouldn't. I told you. She was very private about her work.</content></utterance>
+<utterance uid="17-3"><speaker>CASTLE</speaker><content>You mean to tell me, she didn't once slip out to the bathroom and just leave her notes sitting on the desk?</content></utterance>
+<utterance uid="17-4"><speaker>KELLY</speaker><content>If she did, I wouldn't be interested, and the night she was killed, I was in Westchester with my folks.</content></utterance>
+<utterance uid="17-5"><speaker>BECKETT</speaker><content>Does anyone else have access to this office?</content></utterance>
+<utterance uid="17-6"><speaker>KELLY</speaker><content>The only other person with a key to the office is maintenance.</content></utterance>
+<utterance uid="17-7"><speaker>CASTLE</speaker><content>What about your keys? Did you ever lose them or lend them to a friend?</content></utterance>
+<utterance uid="17-8"><speaker>KELLY</speaker><content>No. I mean, I gave them to Matt last week because he said he had some papers here. What, you think he broke in to her filing cabinet and took her research?</content></utterance>
+<utterance uid="17-9"><speaker>CASTLE</speaker><content>That is exactly what I'm thinking. You said it yourself. It's a very competitive program. And they were both finalists for the same fellowship.  This is, uh, Matt's proposal for studying the effect of A.I.D.S. on inner-city clinics. Look at the picture.</content></utterance>
+<utterance uid="17-10"><speaker>BECKETT</speaker><content>He's in scrubs.</content></utterance>
+<utterance uid="17-11"><speaker>CASTLE</speaker><content>It wasn't Tyler who confronted Jessica at the dungeon.</content></utterance>
+<utterance uid="17-12"><speaker>BECKETT</speaker><content>It was Matt.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>MATT</speaker><content>I borrowed Kelly's keys. That doesn't prove anything.</content></utterance>
+<utterance uid="18-2"><speaker>BECKETT</speaker><content>Which is why we took a look at the whole picture. This is a list of phone calls made from your cell phone to the university switchboard. Each one coincides with a harassing call to Jessica.</content></utterance>
+<utterance uid="18-3"><speaker>CASTLE</speaker><content>You made those calls.</content></utterance>
+<utterance uid="18-4"><speaker>MATT</speaker><content>Look, it was a joke.</content></utterance>
+<utterance uid="18-5"><speaker>BECKETT</speaker><content>How about your little visit to Jessica at the dungeon last week? Was that a joke as well?</content></utterance>
+<utterance uid="18-6"><speaker>CASTLE</speaker><content>She didn't tell anybody where the dungeon was. So how'd you find it? Did you follow her or the clues in her research?</content></utterance>
+<utterance uid="18-7"><speaker>BECKETT</speaker><content>You were her rival for a fellowship. You needed her out of the way. And when you read her research, you saw your chance.</content></utterance>
+<utterance uid="18-8"><speaker>MATT</speaker><content>Look, I needed that funding, okay? My work is important. I mean, come on. Seriously. I couldn't let her get that fellowship. And when I saw her research, I mean, it read like fiction. So I went to the dungeon to find out.</content></utterance>
+<utterance uid="18-9"><speaker>CASTLE</speaker><content> So you broke in to her filing cabinet, you copied her research, and then you followed her to the dungeon. You're not putting a whole lot of checks in the innocent column here, Matt.</content></utterance>
+<utterance uid="18-10"><speaker>MATT</speaker><content> The innocent column. Listen... I threatened her. All right? But I did not kill her. When I found out that she was Mistress Venom, I told her that if she didn't withdraw her fellowship application, I was gonna tell her boyfriend.</content></utterance>
+<utterance uid="18-11"><speaker>CASTLE</speaker><content>And when that didn't work, you killed her?</content></utterance>
+<utterance uid="18-12"><speaker>MATT</speaker><content>It did work. Jessica withdrew her application the day before she was killed.</content></utterance>
+<utterance uid="18-13"><speaker>BECKETT</speaker><content>How do you know?</content></utterance>
+<utterance uid="18-14"><speaker>MATT</speaker><content>Because she blind copied me on an e-mail that she sent to the head of the committee. We were cool. What she was most concerned about was getting back this research that I copied. So as soon as she was out of the running, I brought it all back to her apartment.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>CASTLE</speaker><content>You know you are morally challenged if your murder alibi is a blackmailing scheme.</content></utterance>
+<utterance uid="19-2"><speaker>BECKETT</speaker><content>Yeah, but if he's telling the truth, then we have no motive.</content></utterance>
+<utterance uid="19-3"><speaker>CASTLE</speaker><content> Well, hello, gentlemen. How was your trip to the dungeon?</content></utterance>
+<utterance uid="19-4"><speaker>RYAN</speaker><content>Well, we learned that Esposito is not very good with laces.</content></utterance>
+<utterance uid="19-5"><speaker>ESPOSITO</speaker><content>There were a lot of laces - I-I loosened 'em for you.</content></utterance>
+<utterance uid="19-6"><speaker>RYAN</speaker><content>Yeah, sure. None of the girls admit to Jessica sharing any of her client secrets with 'em.</content></utterance>
+<utterance uid="19-7"><speaker>ESPOSITO</speaker><content>Oh, one of 'em thought that she might have been seeing clients outside of the dungeon, which might explain the hole in our timeline.</content></utterance>
+<utterance uid="19-8"><speaker>RYAN</speaker><content>But we ran through her phones and financials again. We can't find any record of it. How out you? Hear you have a suspect.</content></utterance>
+<utterance uid="19-9"><speaker>BECKETT</speaker><content>Had. Matt was telling the truth. Jessica pulled out of the fellowship. </content></utterance>
+<utterance uid="19-10"><speaker>CASTLE</speaker><content>But if he was telling the truth, then where's all the research he brought back</content></utterance>
+<utterance uid="19-11"><speaker>BECKETT</speaker><content>Well, maybe we missed something. Maybe she hid it somewhere. Or maybe Matt is lying about the research.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>BECKETT</speaker><content>So you didn't see a stack of paperwork?</content></utterance>
+<utterance uid="20-2"><speaker>DANIELLE</speaker><content>No, I would've noticed that. Maybe she took them up to school?</content></utterance>
+<utterance uid="20-3"><speaker>CASTLE</speaker><content>No, it wasn't there either.</content></utterance>
+<utterance uid="20-4"><speaker>DANIELLE</speaker><content>Are you sure Matt's telling the truth?</content></utterance>
+<utterance uid="20-5"><speaker>CASTLE</speaker><content>Most people lie to avoid suspicion. Not a lot of people lie to incriminate themselves.</content></utterance>
+<utterance uid="20-6"><speaker>BECKETT</speaker><content>That night that you came home, did you notice anything different or out of place?</content></utterance>
+<utterance uid="20-7"><speaker>DANIELLE</speaker><content>Now that you mention it, I did find something odd. Earlier tonight I was emptying the dishwasher, and I found a wine glass with lipstick on it. It didn't seem like Jessica's shade, and it wasn't one of mine. I put it aside to hand-wash it later.</content></utterance>
+<utterance uid="20-8"><speaker>BECKETT</speaker><content>Recognize this shade?</content></utterance>
+<utterance uid="20-9"><speaker>CASTLE</speaker><content>If I'm not mistaken, and I rarely am, that's Mistress Red.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>BECKETT</speaker><content>Did you know that lip prints are a lot like fingerprints? No two are exactly alike.</content></utterance>
+<utterance uid="21-2"><speaker>LADY IRENA</speaker><content>Hmm.</content></utterance>
+<utterance uid="21-3"><speaker>BECKETT</speaker><content>We found this on a wine glass in Jessica's apartment. What do you think we'll find when we compare it to your lips?</content></utterance>
+<utterance uid="21-4"><speaker>LADY IRENA</speaker><content>That stain could've been there for months.</content></utterance>
+<utterance uid="21-5"><speaker>BECKETT</speaker><content>But it wasn't.</content></utterance>
+<utterance uid="21-6"><speaker>CASTLE</speaker><content> We checked with your... car service. They said they dropped you off at 9:00 pm in front of Jessica's place the night she was killed.</content></utterance>
+<utterance uid="21-7"><speaker>BECKETT</speaker><content>You were the last one to see her alive. What happened that night?</content></utterance>
+<utterance uid="21-8"><speaker>CASTLE</speaker><content>Did you find out who she really was, that she was studying her clients without their permission? I mean, if word of that got out... that would've destroyed your business. That can't have made you happy.</content></utterance>
+<utterance uid="21-9"><speaker>LADY IRENA</speaker><content>And you're grasping at straws, and that can't make you happy. Detective, at this time, I'm exercising my right to legal counsel. I won't be answering any further questions.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>RYAN</speaker><content>Yo! How'd it go with Lady Irena?</content></utterance>
+<utterance uid="22-2"><speaker>BECKETT</speaker><content>She's lawyering up. What'd you guys find at Jessica's apartment?</content></utterance>
+<utterance uid="22-3"><speaker>ESPOSITO</speaker><content>Well, it looks like we found the crime scene. Irena was pretty good at cleaning up after herself. There was no trace or blood evidence, but the area around Jessica's bedside table lit up like a Christmas tree. It'd been scrubbed down with bleach.</content></utterance>
+<utterance uid="22-4"><speaker>BECKETT</speaker><content>That's why we didn't find Jessica's research. Irena got rid of it all.</content></utterance>
+<utterance uid="22-5"><speaker>RYAN</speaker><content>Yeah, but she didn't quite clean everything. Once C.S.U. stripped the bed, the swab test revealed dried saliva in one of her pillows from her screams as she was smothered.</content></utterance>
+<utterance uid="22-6"><speaker>CASTLE</speaker><content>Looks like she'd do anything to protect her business, even kill.</content></utterance>
+<utterance uid="22-7"><speaker>BECKETT</speaker><content>All right, lawyer or not, let's book her.</content></utterance>
+<utterance uid="22-8"><speaker>RYAN</speaker><content>Let's do it.</content></utterance>
+<utterance uid="22-9"><speaker>ESPOSITO</speaker><content>Hmm.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>MARTHA</speaker><content>Are you straining those noodles or just my patience?</content></utterance>
+<utterance uid="23-2"><speaker>CASTLE</speaker><content>Hmm? Oh, I'm... sorry. Just... This case. I keep thinking that I'm missing something.</content></utterance>
+<utterance uid="23-3"><speaker>MARTHA</speaker><content>Yeah, me, too. Salt. </content></utterance>
+<utterance uid="23-4"><speaker>CASTLE</speaker><content>Whoa. W-whoa. Ee. Doh. Can you die from sodium poisoning?</content></utterance>
+<utterance uid="23-5"><speaker>MARTHA</speaker><content> Ooh. You have a point.</content></utterance>
+<utterance uid="23-6"><speaker>ALEXIS</speaker><content>Hey, that smells good.</content></utterance>
+<utterance uid="23-7"><speaker>ALEXIS</speaker><content>But... I already ate?</content></utterance>
+<utterance uid="23-8"><speaker>MARTHA</speaker><content>Oh, no.</content></utterance>
+<utterance uid="23-9"><speaker>CASTLE</speaker><content>So did you and Ashley do cheerleading practice?</content></utterance>
+<utterance uid="23-10"><speaker>ALEXIS</speaker><content>Uh, no. Turns out, cheerleading conflicts with my fencing schedule, my violin lessons and French Club. Cheerleading is more of a lifestyle, and as much as I like to visit, it's not really a place I'd like to live.</content></utterance>
+<utterance uid="23-11"><speaker>MARTHA</speaker><content> I told you she'd figure it out.</content></utterance>
+<utterance uid="23-12"><speaker>CASTLE</speaker><content>Well, we both learned a valuable lesson today. You learned that you can expand your horizons and grow. I learned that if that involves short skirts and boys, I'm not gonna like it.</content></utterance>
+<utterance uid="23-13"><speaker>ALEXIS</speaker><content>Fair enough.</content></utterance>
+<utterance uid="23-14"><speaker>MARTHA</speaker><content>Fine. Now that you've both learned your lessons, how about starting on the dishes?</content></utterance>
+<utterance uid="23-15"><speaker>CASTLE</speaker><content>You're gonna need a fire hose to clean this up.</content></utterance>
+<utterance uid="23-16"><speaker>MARTHA</speaker><content>No, I cooked. Someone else cleans up.</content></utterance>
+<utterance uid="23-17"><speaker>CASTLE</speaker><content>Clean up.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>CASTLE</speaker><content>Who washed the pillowcase?</content></utterance>
+<utterance uid="24-2"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="24-3"><speaker>CASTLE</speaker><content>Esposito said C.S.U. didn't find anything until they stripped the bed. That means there was saliva on the pillow, but not on the pillowcase.</content></utterance>
+<utterance uid="24-4"><speaker>BECKETT</speaker><content> You're right. Someone washed the pillowcase. But the washer-dryer cycle would've taken at least an hour.</content></utterance>
+<utterance uid="24-5"><speaker>CASTLE</speaker><content>At which point, the roommate would've been home.</content></utterance>
+<utterance uid="24-6"><speaker>BECKETT</speaker><content>Irena couldn't have gotten out in time.</content></utterance>
+<utterance uid="24-7"><speaker>CASTLE</speaker><content>Only one person could've cleaned the apartment.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>DANIELLE</speaker><content>I-I don't understand. I thought you'd caught the killer.</content></utterance>
+<utterance uid="25-2"><speaker>BECKETT</speaker><content>We thought so, too.</content></utterance>
+<utterance uid="25-3"><speaker>DANIELLE</speaker><content>If it wasn't her, then who?</content></utterance>
+<utterance uid="25-4"><speaker>BECKETT</speaker><content>It was you, Danielle.</content></utterance>
+<utterance uid="25-5"><speaker>DANIELLE</speaker><content>Me? Oh, why would I kill my best friend?</content></utterance>
+<utterance uid="25-6"><speaker>CASTLE</speaker><content>In her research, Jessica describes being in a dysfunctional relationship, one she was scared to leave because the other person had become so dangerously codependent.</content></utterance>
+<utterance uid="25-7"><speaker>BECKETT</speaker><content>At first we thought it was her boyfriend Tyler. But it wasn't, was it?</content></utterance>
+<utterance uid="25-8"><speaker>DANIELLE</speaker><content>I don't know what you're talking about.</content></utterance>
+<utterance uid="25-9"><speaker>BECKETT</speaker><content>The research that Matt dropped off – her research - must've been very hurtful to read all the things that she wrote about you.</content></utterance>
+<utterance uid="25-10"><speaker>DANIELLE</speaker><content>Jessica loved me. She would never hurt me.</content></utterance>
+<utterance uid="25-11"><speaker>CASTLE</speaker><content> "Subject 'b' shows all the signs of being a masochist, completely dependent for her sense of self."</content></utterance>
+<utterance uid="25-12"><speaker>BECKETT</speaker><content>We know you read the files, Danielle. That's why you staged her body that way.</content></utterance>
+<utterance uid="25-13"><speaker>DANIELLE</speaker><content>No, I didn't read anything. There was nothing here.</content></utterance>
+<utterance uid="25-14"><speaker>BECKETT</speaker><content>Because you got rid of it all.</content></utterance>
+<utterance uid="25-15"><speaker>DANIELLE</speaker><content>You're wrong.</content></utterance>
+<utterance uid="25-16"><speaker>BECKETT</speaker><content>It had to have been you, Danielle. You were the only one who had time to clean up after yourself.</content></utterance>
+<utterance uid="25-17"><speaker>CASTLE</speaker><content>Judging from her office space, Jessica wasn't the kind of girl that scrubbed her floor clean with bleach. Jessica told you... she had to get away from you. She told you... she was gonna leave.</content></utterance>
+<utterance uid="25-18"><speaker>DANIELLE</speaker><content> She... She was... everything to me. I thought we were family. But then she wrote those awful things! She had no right!</content></utterance>
+<utterance uid="25-19"><speaker>BECKETT</speaker><content>What happened that night?</content></utterance>
+<utterance uid="25-20"><speaker>DANIELLE</speaker><content>She said she was... gonna move out, that she was done with me. I pushed her. She fell. Her head... hit the table. She started to scream. She said--she said she hated me! I told her to shut up! I just wanted her to shut up.</content></utterance>
+<utterance uid="25-21"><speaker>BECKETT</speaker><content>And then you put a pillow over her head and you suffocated her.</content></utterance>
+<utterance uid="25-22"><speaker>DANIELLE</speaker><content>I... I didn't mean to kill her. I just didn't want her to go.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>BECKETT</speaker><content>In the end, Castle was right. The murder was a crime of passion. The cuffs, the caramel were all just theater to throw us off.</content></utterance>
+<utterance uid="26-2"><speaker>CASTLE</speaker><content>I can't help but think that if Matt hadn't copied Jessica's research, Danielle never would've read it, and none of this woulda happened.</content></utterance>
+<utterance uid="26-3"><speaker>MONTGOMERY</speaker><content>Well, now he won't get his precious little fellowship or his degree. What about Lady Irena? What was she doing at the apartment?</content></utterance>
+<utterance uid="26-4"><speaker>BECKETT</speaker><content>Some of the girls thought that Jessica was working off the books. So Irena came by to tell her to knock it off.</content></utterance>
+<utterance uid="26-5"><speaker>CASTLE</speaker><content>They had a glass of wine, and she left. She just did it on the wrong night.</content></utterance>
+<utterance uid="26-6"><speaker>MONTGOMERY</speaker><content>Yeah, but why'd she give you such a hard time, then?</content></utterance>
+<utterance uid="26-7"><speaker>BECKETT</speaker><content>Because she's a lawyer.</content></utterance>
+<utterance uid="26-8"><speaker>CASTLE</speaker><content>And a dominatrix.</content></utterance>
+<utterance uid="26-9"><speaker>RYAN</speaker><content> Hey. You made it. </content></utterance>
+<utterance uid="26-10"><speaker>RYAN</speaker><content>Guys, uh, I want you to meet... Jenny.</content></utterance>
+<utterance uid="26-11"><speaker>JENNY</speaker><content>Hi.</content></utterance>
+<utterance uid="26-12"><speaker>BECKETT</speaker><content>Welcome. We've heard wonderful things about you.</content></utterance>
+<utterance uid="26-13"><speaker>JENNY</speaker><content>Oh, the same goes for all of you. I-I feel like I know you guys already.  You are so much prettier than your picture in Cosmo.  Kevin gave me his copy of Heat Wave. I could not put it down.  And thanks for being such a great partner. You know, make sure you keep him safe out there.</content></utterance>
+<utterance uid="26-14"><speaker>ESPOSITO</speaker><content>You got it.</content></utterance>
+<utterance uid="26-15"><speaker>RYAN</speaker><content>We have a movie to catch. I'll see you guys tomorrow.</content></utterance>
+<utterance uid="26-16"><speaker>BECKETT</speaker><content>You guys have a great time.</content></utterance>
+<utterance uid="26-17"><speaker>ESPOSITO</speaker><content>Damn. If I had a girl like that, I might be whipped by her, too.</content></utterance>
+<utterance uid="26-18"><speaker>CASTLE</speaker><content>Now we know why he didn't bring her around sooner.</content></utterance>
+<utterance uid="26-19"><speaker>BECKETT</speaker><content>So the two of you don't act like idiots around her.</content></utterance>
+<utterance uid="26-20"><speaker>ESPOSITO</speaker><content>No, so we wouldn't try to steal her from him.</content></utterance>
+<utterance uid="26-21"><speaker>CASTLE</speaker><content>So what about this imaginary boyfriend of yours? Are we gonna see him around here or is he at home tied to a bed?</content></utterance>
+<utterance uid="26-22"><speaker>BECKETT</speaker><content>What's the matter, Ricky? You jealous?</content></utterance>
+<utterance uid="26-23"><speaker>CASTLE</speaker><content>No. You only get to punish him at night. You punish me all day.</content></utterance>
+<utterance uid="26-24"><speaker>BECKETT</speaker><content>Well, you deserve it.</content></utterance>
+<utterance uid="26-25"><speaker>CASTLE</speaker><content>What did I do to you?</content></utterance>
+<utterance uid="26-26"><speaker>BECKETT</speaker><content>Let's just start with the first day we met…</content></utterance>
+</scene>
+</script>

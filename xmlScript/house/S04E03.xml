@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>STARK</speaker><content>It's... cold.</content></utterance>
+<utterance uid="1-2"><speaker>STARK</speaker><content>Good. Thank you.</content></utterance>
+<utterance uid="1-3"><speaker>STARK</speaker><content>There's a new girl at the ice-cream store. She doesn't seem too fond of buttoning her top button. Let's go check her out.</content></utterance>
+</scene>
+
+
+<scene id="2"><utterance uid="2-1"><speaker>COLE</speaker><content>What are we supposed to be doing? It's almost four.</content></utterance>
+<utterance uid="2-2"><speaker>KUTNER</speaker><content>Tchah! You got someplace to be?</content></utterance>
+<utterance uid="2-3"><speaker>TWIN 15B</speaker><content>We know he likes to manipulate people. He's probably testing us.</content></utterance>
+<utterance uid="2-4"><speaker>AMBER</speaker><content>To find out what? How long we can look stupid for?</content></utterance>
+<utterance uid="2-5"><speaker>AMBER</speaker><content>He said he'd be here by three; he's obviously not coming.</content></utterance>
+<utterance uid="2-6"><speaker>AMBER</speaker><content>I'm going home.</content></utterance>
+<utterance uid="2-7"><speaker>COLE</speaker><content>Nobody follow her. She Pied-Piper'ed nine people right out of a job last week.</content></utterance>
+<utterance uid="2-8"><speaker>HOUSE</speaker><content>Would you mind holding my metaphor for a second?</content></utterance>
+<utterance uid="2-9"><speaker>HOUSE</speaker><content>New patient. Thirty-seven-year-old male, suffers from severe ascending muscle weakness.</content></utterance>
+<utterance uid="2-10"><speaker>COLE</speaker><content> Why are you late?</content></utterance>
+<utterance uid="2-11"><speaker>HOUSE</speaker><content>To see who'd put up with it.</content></utterance>
+<utterance uid="2-12"><speaker>COLE</speaker><content>So, you mean if we'd left, we'd have been fired?</content></utterance>
+<utterance uid="2-13"><speaker>HOUSE</speaker><content>No, I was going to fire everyone who stuck around. But since everyone stuck around....</content></utterance>
+<utterance uid="2-14"><speaker>HOUSE</speaker><content>Twenty-eight percent curvature of the spine has caused reduced lung capacity, and he has reduced bone mineral density.</content></utterance>
+<utterance uid="2-15"><speaker>THIRTEEN</speaker><content>Patient has Spinal Muscular Atrophy. It's genetic. Incurable. This is not a diagnostic mystery.</content></utterance>
+<utterance uid="2-16"><speaker>HOUSE</speaker><content>You have just given state secrets to the enemy.</content></utterance>
+<utterance uid="2-17"><speaker>THIRTEEN</speaker><content> What enemy?</content></utterance>
+<utterance uid="2-18"><speaker>HOUSE</speaker><content> New patient. New rules.</content></utterance>
+<utterance uid="2-19"><speaker>HOUSE</speaker><content>Today you're going to split yourselves into two teams.</content></utterance>
+<utterance uid="2-20"><speaker>HOUSE</speaker><content>The first to figure out what's threatening to deprive the patient of the twenty or so miserable years he's got left with SMA gets to keep their jobs.  Take off your numbers. You look stupid.</content></utterance>
+<utterance uid="2-21"><speaker>HOUSE</speaker><content>And I think I know who you are by now.</content></utterance>
+<utterance uid="2-22"><speaker>KUTNER</speaker><content>Wait. How do you want us to split up?</content></utterance>
+<utterance uid="2-23"><speaker>HOUSE</speaker><content>Good question, Overly Excited Former Foster Kid. There's ten of you. I was thinking... six against six? No, wait...</content></utterance>
+<utterance uid="2-24"><speaker>TWIN 15B</speaker><content>How about Women versus Men?</content></utterance>
+<utterance uid="2-25"><speaker>HOUSE</speaker><content>Excellent suggestion, Fat Twin. More interesting than Evens versus Odds, less interesting than Shirts against Skins.</content></utterance>
+<utterance uid="2-26"><speaker>HOUSE</speaker><content> If your sex organs dangle, you're the Confederates. If your sex organs are aesthetically pleasing, you're the Yanks.</content></utterance>
+<utterance uid="2-27"><speaker>AMBER</speaker><content>Dr. House?</content></utterance>
+<utterance uid="2-28"><speaker>AMBER</speaker><content>I'd like to be on the men's team.</content></utterance>
+<utterance uid="2-29"><speaker>HOUSE</speaker><content>Do your sex organs dangle,  Cutthroat Bitch?</content></utterance>
+<utterance uid="2-30"><speaker>AMBER</speaker><content>Not yet.</content></utterance>
+<utterance uid="2-31"><speaker>AMBER</speaker><content>You've never hired more than one female on your team before.</content></utterance>
+<utterance uid="2-32"><speaker>AMBER</speaker><content>If you're going to purge an entire gender, it isn't going to be the danglers.</content></utterance>
+<utterance uid="2-33"><speaker>HOUSE</speaker><content>Sounds logical.  If you don't think about it for more than three seconds. But I just told you that if the danglers lose, they're out.</content></utterance>
+<utterance uid="2-34"><speaker>HOUSE</speaker><content>So, I can only assume you're hiding the real reason.</content></utterance>
+<utterance uid="2-35"><speaker>HOUSE</speaker><content>You don't think the women will be aggressive enough, will be good enough at science. They'll be too emotional.</content></utterance>
+<utterance uid="2-36"><speaker>AMBER</speaker><content> Can I switch teams?</content></utterance>
+<utterance uid="2-37"><speaker>HOUSE</speaker><content> If the danglers are okay, I'm okay.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>DOBSON</speaker><content>We're not okay.</content></utterance>
+<utterance uid="3-2"><speaker>AMBER</speaker><content>I get it. You don't like me because maybe I'm a little bit... competitive.</content></utterance>
+<utterance uid="3-3"><speaker>TAUB</speaker><content>Manipulative.</content></utterance>
+<utterance uid="3-4"><speaker>KUTNER</speaker><content>Cutthroat Bitch is your official title.</content></utterance>
+<utterance uid="3-5"><speaker>AMBER</speaker><content>It's a game. You can either play for fun or play to win. If you want to win, you want cutthroat.</content></utterance>
+<utterance uid="3-6"><speaker>COLE</speaker><content>No, thank you.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>THIRTEEN</speaker><content>First thing we have to do is get inside his head.</content></utterance>
+<utterance uid="4-2"><speaker>JODY</speaker><content>It's not psychological.</content></utterance>
+<utterance uid="4-3"><speaker>THIRTEEN</speaker><content>Not talking about the patient. Talking about House. He's insane, but he's not irresponsible. He wouldn't be playing this game if he didn't already know the answer.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>KUTNER</speaker><content>First thing we do is gang-bang the sucker. There's five of us. We can run dozens of tests. We don't need a theory; we just need brute force.</content></utterance>
+<utterance uid="5-2"><speaker>TWIN 15B</speaker><content>What about the assist dog? Picks bacteria-infested things up with its bacteria-infested mouth, hands them over to the guy and...</content></utterance>
+<utterance uid="5-3"><speaker>JODY</speaker><content>It's not the dog. Wouldn't be fair.</content></utterance>
+<utterance uid="5-4"><speaker>TWIN 15A</speaker><content>To who?</content></utterance>
+<utterance uid="5-5"><speaker>JODY</speaker><content>Whom.  The men.</content></utterance>
+<utterance uid="5-6"><speaker>JODY</speaker><content>House knows I used to be a vet. If the dog's the answer, they'd be at a handicap.</content></utterance>
+<utterance uid="5-7"><speaker>COLE</speaker><content>What about the dog? Assist dogs put everything in their mouths...</content></utterance>
+<utterance uid="5-8"><speaker>COLE</speaker><content>...money, doorknobs....</content></utterance>
+<utterance uid="5-9"><speaker>BRENNAN</speaker><content>Great.</content></utterance>
+<utterance uid="5-10"><speaker>COLE</speaker><content>That's not what I said. Why'd you think of low sodium?</content></utterance>
+<utterance uid="5-11"><speaker>BRENNAN</speaker><content>I don't.</content></utterance>
+<utterance uid="5-12"><speaker>KUTNER</speaker><content>Patient took a trip to Thailand two weeks ago.  Hey, write bigger and angle the board more so they can see it.</content></utterance>
+<utterance uid="5-13"><speaker>COLE</speaker><content>This is wrong.</content></utterance>
+<utterance uid="5-14"><speaker>BRENNAN</speaker><content>It's only wrong if they cheat off us, and if they cheat off us, they're wrong.</content></utterance>
+<utterance uid="5-15"><speaker>DOBSON</speaker><content>They're not cheating. One of them is moving....</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>CAMERON</speaker><content> Hey! Stop playing with your sutures or I'll have to redo them.</content></utterance>
+<utterance uid="6-2"><speaker>AMBER</speaker><content>Why do you guys keep a 'D' cell battery in a urine specimen cup?</content></utterance>
+<utterance uid="6-3"><speaker>CAMERON</speaker><content>Because we pulled it from a patient's intestine.</content></utterance>
+<utterance uid="6-4"><speaker>AMBER</speaker><content>Why would somebody swallow a battery?</content></utterance>
+<utterance uid="6-5"><speaker>CAMERON</speaker><content> Why do you assume it was swallowed?  Bed 5 needs a bag of Ringer's Lactate.</content></utterance>
+<utterance uid="6-6"><speaker>AMBER</speaker><content>Would have been worse if he'd used a 9-volt.</content></utterance>
+<utterance uid="6-7"><speaker>CAMERON</speaker><content> Who said it was a 'he'?</content></utterance>
+<utterance uid="6-8"><speaker>AMBER</speaker><content>False assumptions. You're good. You're trying to get me to think like him.</content></utterance>
+<utterance uid="6-9"><speaker>CAMERON</speaker><content>And you're trying to kiss my ass.  Why are you talking to me?</content></utterance>
+<utterance uid="6-10"><speaker>AMBER</speaker><content> Because House is turning patient care into a game. It's dangerous. The patient's going to suffer - maybe die.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>HOUSE</speaker><content>Wow! You really need a shave.</content></utterance>
+<utterance uid="7-2"><speaker>HOUSE</speaker><content>You see what I did there.</content></utterance>
+<utterance uid="7-3"><speaker>HOUSE</speaker><content>Whoa.</content></utterance>
+<utterance uid="7-4"><speaker>HOUSE</speaker><content>Interesting.</content></utterance>
+<utterance uid="7-5"><speaker>HOUSE</speaker><content>Need a crash cart in here!</content></utterance>
+<utterance uid="7-6"><speaker>HOUSE</speaker><content> I didn't do it.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>THIRTEEN</speaker><content>When a person faints, it's because they're not getting enough blood to their brain. The act of falling corrects the problem. You faint again strapped into that power chair where you can't fall, you might not wake up.</content></utterance>
+<utterance uid="8-2"><speaker>STARK</speaker><content>Killed by an assistive device. At least my death would be ironic.</content></utterance>
+<utterance uid="8-3"><speaker>THIRTEEN</speaker><content>I think when you went to Thailand you picked up a threadworm called Strongyloides. They usually go up through your feet.</content></utterance>
+<utterance uid="8-4"><speaker>STARK</speaker><content>I didn't do a lot of walking on the beach.</content></utterance>
+<utterance uid="8-5"><speaker>THIRTEEN</speaker><content>But I assume you did have someone lay you down in the sand. Bare back, bare legs - increases exposure tenfold over bare feet.</content></utterance>
+<utterance uid="8-6"><speaker>THIRTEEN</speaker><content>Two pills. You'll be all better.</content></utterance>
+<utterance uid="8-7"><speaker>STARK</speaker><content>Can I have some water for those, please?</content></utterance>
+<utterance uid="8-8"><speaker>THIRTEEN</speaker><content>Hey! Take a number.</content></utterance>
+<utterance uid="8-9"><speaker>KUTNER</speaker><content>House didn't say anything about taking turns. What's she testing you for?</content></utterance>
+<utterance uid="8-10"><speaker>THIRTEEN</speaker><content>Don't.  They'll spend all day obsessing over my idea instead of coming up with one of their own.</content></utterance>
+<utterance uid="8-11"><speaker>THIRTEEN</speaker><content>But hey, I might be wrong.</content></utterance>
+<utterance uid="8-12"><speaker>KUTNER</speaker><content>Seriously. I'm worried that if we don't know what she's given you, there could be conflicts.</content></utterance>
+<utterance uid="8-13"><speaker>STARK</speaker><content>No, you're not. House told me. He's keeping track of all that. Ten doctors. I should be getting ten cures.</content></utterance>
+<utterance uid="8-14"><speaker>KUTNER</speaker><content>We need blood, hair, and stool. You poop, and then you use the wooden sticks to collect the fecal matter and you rub it on the green box.</content></utterance>
+<utterance uid="8-15"><speaker>STARK</speaker><content>Why don't you hand it to my dog? Only one of us thinks I can do it on my own, and the last couple of days, I haven't even been doing that.</content></utterance>
+<utterance uid="8-16"><speaker>STARK</speaker><content>Ow!</content></utterance>
+<utterance uid="8-17"><speaker>BRENNAN</speaker><content>Is it all right with you if we carry you into the bathroom?</content></utterance>
+<utterance uid="8-18"><speaker>STARK</speaker><content>If you want me there, that's the way you're going to have to do it.</content></utterance>
+<utterance uid="8-19"><speaker>BRENNAN</speaker><content>Ready?</content></utterance>
+<utterance uid="8-20"><speaker>STARK</speaker><content>Mmm-hmm.</content></utterance>
+<utterance uid="8-21"><speaker>BRENNAN</speaker><content>One, two, three.</content></utterance>
+<utterance uid="8-22"><speaker>STARK</speaker><content>Can I get a little head support please?</content></utterance>
+<utterance uid="8-23"><speaker>STARK</speaker><content>Thank you.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>CUDDY</speaker><content>Why are you here?</content></utterance>
+<utterance uid="9-2"><speaker>HOUSE</speaker><content>My offices are being used by my teams.</content></utterance>
+<utterance uid="9-3"><speaker>CUDDY</speaker><content>Teams?</content></utterance>
+<utterance uid="9-4"><speaker>HOUSE</speaker><content>Which means this is the only place where you can yell at me.</content></utterance>
+<utterance uid="9-5"><speaker>CUDDY</speaker><content>You have team-s?</content></utterance>
+<utterance uid="9-6"><speaker>HOUSE</speaker><content>Two of them. I wanted to deal with the yelling today because I noticed what you were wearing and I wouldn't have to listen all that closely.</content></utterance>
+<utterance uid="9-7"><speaker>CUDDY</speaker><content>You can't make a competition out of patient care.</content></utterance>
+<utterance uid="9-8"><speaker>HOUSE</speaker><content> Without competition, we'd still be single-celled organisms.  Can I go now?</content></utterance>
+<utterance uid="9-9"><speaker>CUDDY</speaker><content> Not until after the yelling.  What's wrong with him?</content></utterance>
+<utterance uid="9-10"><speaker>HOUSE</speaker><content>I have seven of the finest minds on it, along with three very special...</content></utterance>
+<utterance uid="9-11"><speaker>CUDDY</speaker><content>You wouldn’t be doing this unless you already knew.</content></utterance>
+<utterance uid="9-12"><speaker>HOUSE</speaker><content>Ah. I tell you; you tell them; game's over.</content></utterance>
+<utterance uid="9-13"><speaker>CUDDY</speaker><content>If you know, you are OBLIGATED to treat...</content></utterance>
+<utterance uid="9-14"><speaker>HOUSE</speaker><content>Well, then, in that case... I don't know.</content></utterance>
+<utterance uid="9-15"><speaker>HOUSE</speaker><content>Why would a guy voluntarily shove a metal object into an electrical socket?</content></utterance>
+<utterance uid="9-16"><speaker>CUDDY</speaker><content> I'm getting closer and closer to knowing the answer. What would happen if I shut down this game?</content></utterance>
+<utterance uid="9-17"><speaker>HOUSE</speaker><content>I'd fire them all, hire forty new fellowship applicants, start the game all over again.</content></utterance>
+<utterance uid="9-18"><speaker>CUDDY</speaker><content>You DO know what's wrong with him, right?</content></utterance>
+<utterance uid="9-19"><speaker>HOUSE</speaker><content>It'd be pretty irresponsible if I didn't, wouldn't it?</content></utterance>
+</scene>
+
+<scene id="10"><utterance uid="10-1"><speaker>FEMALE FELLOW</speaker><content>Antibiotics aren't working.</content></utterance>
+<utterance uid="10-2"><speaker>HANDSOME FELLOW</speaker><content>Legionella could explain the lungs, the fever.</content></utterance>
+<utterance uid="10-3"><speaker>LATINO FELLOW</speaker><content>If she had Legionella, she'd have low sodium.</content></utterance>
+<utterance uid="10-4"><speaker>FOREMAN</speaker><content>What can you tell me about HER?</content></utterance>
+<utterance uid="10-5"><speaker>FEMALE FELLOW</speaker><content>She likes bodysurfing.</content></utterance>
+<utterance uid="10-6"><speaker>HANDSOME FELLOW</speaker><content>Maybe picked up a virus swimming off Johns Beach.</content></utterance>
+<utterance uid="10-7"><speaker>FEMALE FELLOW</speaker><content>But she doesn't even have the energy to finish her crossword any more.</content></utterance>
+<utterance uid="10-8"><speaker>LATINO FELLOW</speaker><content>Her boyfriend said...</content></utterance>
+<utterance uid="10-9"><speaker>FOREMAN</speaker><content>That's it!</content></utterance>
+<utterance uid="10-10"><speaker>HANDSOME FELLOW</speaker><content>What is?</content></utterance>
+<utterance uid="10-11"><speaker>FOREMAN</speaker><content>Blurry vision!</content></utterance>
+<utterance uid="10-12"><speaker>LATINO FELLOW</speaker><content>How do you get blurry vision from not being...</content></utterance>
+<utterance uid="10-13"><speaker>FOREMAN</speaker><content> You don't stop a daily ritual that cures boredom because you're bored. She stopped doing her crossword puzzle because she's having a hard time reading it. What causes fever, boggy lungs, and blurry vision?</content></utterance>
+<utterance uid="10-14"><speaker>HANDSOME FELLOW</speaker><content> Fungal. Aspergillus would explain the pneumonia, which explains the fever.</content></utterance>
+<utterance uid="10-15"><speaker>FOREMAN</speaker><content> Start her on amphotericin.</content></utterance>
+<utterance uid="10-16"><speaker>FOREMAN</speaker><content>Hey, guys! Great job.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>HOUSE</speaker><content> If you're going to try to take yourself out,  why choose electricity? You'd eat a bullet  or jump off a building...</content></utterance>
+<utterance uid="11-2"><speaker>WILSON</speaker><content> I love the 'team' thing, by the way.</content></utterance>
+<utterance uid="11-3"><speaker>HOUSE</speaker><content> ...bury yourself alive in Cuddy's cleavage.</content></utterance>
+<utterance uid="11-4"><speaker>WILSON</speaker><content>Teamwork. Collaboration. All for the greater good....</content></utterance>
+<utterance uid="11-5"><speaker>HOUSE</speaker><content>It could have been a suicidal gesture, as opposed to an actual attempt.</content></utterance>
+<utterance uid="11-6"><speaker>WILSON</speaker><content>Interestingly, the rain in Spain doesn't actually fall in the plain all that much.</content></utterance>
+<utterance uid="11-7"><speaker>HOUSE</speaker><content>Who puts their internal organs on a skillet just to get attention?</content></utterance>
+<utterance uid="11-8"><speaker>WILSON</speaker><content> Go ask him.</content></utterance>
+<utterance uid="11-9"><speaker>HOUSE</speaker><content> Well, that would be cheating.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>AMBER</speaker><content> Got a diagnosis yet?</content></utterance>
+<utterance uid="12-2"><speaker>TAUB</speaker><content> Get out of here.</content></utterance>
+<utterance uid="12-3"><speaker>AMBER</speaker><content> Got a stool sample yet?</content></utterance>
+<utterance uid="12-4"><speaker>COLE</speaker><content>How could you know?</content></utterance>
+<utterance uid="12-5"><speaker>AMBER</speaker><content>Oh, I talked to a nurse. Pretty brilliant, hunh?  I give you a move House will love, straight from one of his former fellows, and you let me join your team.</content></utterance>
+<utterance uid="12-6"><speaker>KUTNER</speaker><content> You're too late. We already have our diagnosis.</content></utterance>
+<utterance uid="12-7"><speaker>COLE</speaker><content> He's lying because he wants you to go away.  So do I.</content></utterance>
+<utterance uid="12-8"><speaker>BRENNAN</speaker><content>How do we know you're not a double agent? Find out what we're thinking, then go back to the women?</content></utterance>
+<utterance uid="12-9"><speaker>AMBER</speaker><content>Because I don't care what you're thinking. You want to know why I want to be on your team? Because you're idiots. If I can get the women out of the competition, I'm in.  And so are two of you.</content></utterance>
+<utterance uid="12-10"><speaker>TAUB</speaker><content>So. What's the big move?</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>AMBER</speaker><content>It's called xenodiagnosis.</content></utterance>
+<utterance uid="13-2"><speaker>AMBER</speaker><content>We let these bugs bite you, and then we test their feces for parasites.</content></utterance>
+<utterance uid="13-3"><speaker>STARK</speaker><content>Why can't you test my feces?</content></utterance>
+<utterance uid="13-4"><speaker>TAUB</speaker><content>Because you've been chugging milk of magnesia for the past hour. You got a lot going in and nothing coming out.</content></utterance>
+<utterance uid="13-5"><speaker>AMBER</speaker><content>Testing the bugs' feces is actually more accurate than testing yours. Smaller haystack, easier to find the needle.</content></utterance>
+<utterance uid="13-6"><speaker>TAUB</speaker><content>Get the bugs off.  Get the bugs OFF him!</content></utterance>
+<utterance uid="13-7"><speaker>AMBER</speaker><content>The test isn't done.</content></utterance>
+<utterance uid="13-8"><speaker>TAUB</speaker><content>He's choking.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>HOUSE</speaker><content>Patchy infiltrates on the x-ray. Patient improved with chest PT and oxygen, consistent with aspiration.</content></utterance>
+<utterance uid="14-2"><speaker>HOUSE</speaker><content>So now we have another symptom to explain - why does his throat think his lungs are his stomach?</content></utterance>
+<utterance uid="14-3"><speaker>HOUSE</speaker><content>And why are your throats closing up?</content></utterance>
+<utterance uid="14-4"><speaker>AMBER</speaker><content>Shouldn't we be in separate rooms?</content></utterance>
+<utterance uid="14-5"><speaker>HOUSE</speaker><content>If you think I'm going to run two differentials at this time of the morning.... Grumpy, you're first.</content></utterance>
+<utterance uid="14-6"><speaker>BRENNAN</speaker><content>I'm not grumpy.</content></utterance>
+<utterance uid="14-7"><speaker>HOUSE</speaker><content>Why would I call you that if you weren't?</content></utterance>
+<utterance uid="14-8"><speaker>BRENNAN</speaker><content>It's an unusual combination. Unusual equals exotic, equals foreign. Has to be connected to his trip to Thailand.</content></utterance>
+<utterance uid="14-9"><speaker>HOUSE</speaker><content>You practice medicine overseas?</content></utterance>
+<utterance uid="14-10"><speaker>BRENNAN</speaker><content>I was with Doctors without Borders for eight years.</content></utterance>
+<utterance uid="14-11"><speaker>HOUSE</speaker><content> Ta-da!</content></utterance>
+<utterance uid="14-12"><speaker>BRENNAN</speaker><content>It's in my file.</content></utterance>
+<utterance uid="14-13"><speaker>HOUSE</speaker><content>David Blaine hides the six of hearts in a beer bottle, it's still impressive.</content></utterance>
+<utterance uid="14-14"><speaker>HOUSE</speaker><content> You like exotic. Why are you here?</content></utterance>
+<utterance uid="14-15"><speaker>BRENNAN</speaker><content>I want this job.</content></utterance>
+<utterance uid="14-16"><speaker>HOUSE</speaker><content>Parents sick?</content></utterance>
+<utterance uid="14-17"><speaker>BRENNAN</speaker><content>No. I... I just...</content></utterance>
+<utterance uid="14-18"><speaker>HOUSE</speaker><content> This is not the job you want. This is the job in the ZIP code you want. You engaged?</content></utterance>
+<utterance uid="14-19"><speaker>BRENNAN</speaker><content>Yes.</content></utterance>
+<utterance uid="14-20"><speaker>HOUSE</speaker><content> Ta-da!</content></utterance>
+<utterance uid="14-21"><speaker>BRENNAN</speaker><content>Am I not allowed to grow up and change my priorities?</content></utterance>
+<utterance uid="14-22"><speaker>HOUSE</speaker><content>You're allowed to. People usually don't.</content></utterance>
+<utterance uid="14-23"><speaker>THIRTEEN</speaker><content>This is not a new symptom. Our patient has Spinal Muscular Atrophy. He has documented trouble swallowing. The choking is not new.</content></utterance>
+<utterance uid="14-24"><speaker>HOUSE</speaker><content>So if it's nothing new, what caused the old?</content></utterance>
+<utterance uid="14-25"><speaker>THIRTEEN</speaker><content>Strongyloides worms explain the fainting. We already treated...</content></utterance>
+<utterance uid="14-26"><speaker>HOUSE</speaker><content> So, he's all better, Woman Who...  Thirteen.</content></utterance>
+<utterance uid="14-27"><speaker>THIRTEEN</speaker><content>Hasn't gotten any worse.</content></utterance>
+<utterance uid="14-28"><speaker>HOUSE</speaker><content> That's a pretty passive approach for the daughter of an alcoholic.</content></utterance>
+<utterance uid="14-29"><speaker>THIRTEEN</speaker><content>Wrong again.</content></utterance>
+<utterance uid="14-30"><speaker>TWIN 15A</speaker><content>We could stress his system. Put him on a tilt table. If he stays conscious, it means we made the right diagnosis and we win.</content></utterance>
+<utterance uid="14-31"><speaker>HOUSE</speaker><content>Then why haven't you?</content></utterance>
+<utterance uid="14-32"><speaker>HOUSE</speaker><content>Six against four. One of the men is going to have to join the women's team.</content></utterance>
+<utterance uid="14-33"><speaker>HOUSE</speaker><content>On the other hand, one of the men isn't an actual doctor, so... I guess it's pretty fair.</content></utterance>
+<utterance uid="14-34"><speaker>HOUSE</speaker><content>Men, you're in the penalty box.</content></utterance>
+<utterance uid="14-35"><speaker>TAUB</speaker><content>Who's not the doctor?</content></utterance>
+<utterance uid="14-36"><speaker>HOUSE</speaker><content>I'm glad you asked about that.</content></utterance>
+<utterance uid="14-37"><speaker>HOUSE</speaker><content>Reason I'm penalizing you is time management.</content></utterance>
+<utterance uid="14-38"><speaker>HOUSE</speaker><content>In Diagnostics, you're always working against the clock. The women came up with a theory and they treated the patient. You guys just sat around in a lab, hoping a series of blind tests would GIVE you a theory. You wasted the patient's time.  Now I'm going to waste yours.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>HANDSOME FELLOW</speaker><content>Her gums are turning yellow.</content></utterance>
+<utterance uid="15-2"><speaker>LATINO FELLOW</speaker><content>Whatever it is, it's in her liver now.</content></utterance>
+<utterance uid="15-3"><speaker>FEMALE FELLOW</speaker><content>Fungal fit perfectly.</content></utterance>
+<utterance uid="15-4"><speaker>FOREMAN</speaker><content>We were wrong.</content></utterance>
+<utterance uid="15-5"><speaker>FOREMAN</speaker><content>And we're going to keep being wrong until we're right.</content></utterance>
+<utterance uid="15-6"><speaker>LATINO FELLOW</speaker><content>Or until she dies.</content></utterance>
+<utterance uid="15-7"><speaker>FOREMAN</speaker><content>Yeah, that was very helpful.  Need a team to tell me we're mortals.  Look, I'm sorry. You're right. Doesn't hurt to be reminded that we're dealing with the real stakes here.  Liver failure's a bad thing, but it's also a clue.  What does it tell us?</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>HOUSE</speaker><content>Can't let you leave if they think you're still... suicidal.</content></utterance>
+<utterance uid="16-2"><speaker>HOUSE</speaker><content> No, that's right. You were just trying to kill the wall.  I check this box, and your next roommates are gonna be Jesus and Crazy McLoonyBin. That guy never had a chance.</content></utterance>
+<utterance uid="16-3"><speaker>HOUSE</speaker><content>Suddenly you're shy?  You pooped your pants in front of me.  It's one of the nasty side effects of dying.</content></utterance>
+<utterance uid="16-4"><speaker>HOUSE</speaker><content> Okay. Here's what happened. Your oxygen-deprived brain was shutting down. A flood of endorphins and serotonin was released. That's what gave you the visions.</content></utterance>
+<utterance uid="16-5"><speaker>HOUSE</speaker><content> Nope.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>TAUB</speaker><content>Who the hell isn't a doctor?</content></utterance>
+<utterance uid="17-2"><speaker>COLE</speaker><content>House said we can't talk.</content></utterance>
+<utterance uid="17-3"><speaker>TAUB</speaker><content>He meant we can't talk about the case.</content></utterance>
+<utterance uid="17-4"><speaker>DOBSON</speaker><content>House is just jerking us around. That's what he does.</content></utterance>
+<utterance uid="17-5"><speaker>TAUB</speaker><content>You're not curious? There's only one reason you wouldn't be curious.</content></utterance>
+<utterance uid="17-6"><speaker>AMBER</speaker><content> We should talk about the case.  He's punishing us for wasting time, maybe we shouldn't be wasting this time.</content></utterance>
+<utterance uid="17-7"><speaker>BRENNAN</speaker><content>Close that door. You're going to get us all fired.</content></utterance>
+<utterance uid="17-8"><speaker>AMBER</speaker><content>We need to find a link between fainting and trouble swallowing.</content></utterance>
+<utterance uid="17-9"><speaker>TAUB</speaker><content>We need to know if it's dysphagia or full-blown achalasia.</content></utterance>
+<utterance uid="17-10"><speaker>DOBSON</speaker><content>Paraganglioma.</content></utterance>
+<utterance uid="17-11"><speaker>TAUB</speaker><content>How would a neoplastic growth in his abdomen...</content></utterance>
+<utterance uid="17-12"><speaker>DOBSON</speaker><content>Not his abdomen. In his neck. A carotid body tumor causes trouble swallowing. Food presses against the vagus nerve, and causes the fainting.</content></utterance>
+<utterance uid="17-13"><speaker>COLE</speaker><content>So, if this guy has CANCER, we get to keep our jobs? And if he's healthy, we're fired.</content></utterance>
+<utterance uid="17-14"><speaker>AMBER</speaker><content>We need the CT to prove it.</content></utterance>
+<utterance uid="17-15"><speaker>BRENNAN</speaker><content>And we need the women not to figure it out while we're sitting here.</content></utterance>
+<utterance uid="17-16"><speaker>KUTNER</speaker><content>And does House's computer have a built-in microphone?</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>WILSON</speaker><content>There is a potential toxicity with the experimental treatment....</content></utterance>
+<utterance uid="18-2"><speaker>AMBER</speaker><content>I was never here.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>JODY</speaker><content>Blood pressure is remaining stable through 60 degrees.</content></utterance>
+<utterance uid="19-2"><speaker>THIRTEEN</speaker><content>No pauses on his EKG, no nausea. The treatment worked.</content></utterance>
+<utterance uid="19-3"><speaker>AMBER</speaker><content>I need our patient.</content></utterance>
+<utterance uid="19-4"><speaker>THIRTEEN</speaker><content>Syncope's cured, Amber. It's over.</content></utterance>
+<utterance uid="19-5"><speaker>AMBER</speaker><content>You obviously haven't stressed his system hard enough.</content></utterance>
+<utterance uid="19-6"><speaker>JODY</speaker><content>You crank that thing high enough, anyone will pass out.</content></utterance>
+<utterance uid="19-7"><speaker>STARK</speaker><content> This is incredible! This is the most I've moved in twenty years!</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>THIRTEEN</speaker><content>The tilt table test showed that the patient's EKG, BP, and pulse were made normal, despite considerable...</content></utterance>
+<utterance uid="20-2"><speaker>HOUSE</speaker><content>Who are you, Thirteen?</content></utterance>
+<utterance uid="20-3"><speaker>THIRTEEN</speaker><content>My name's in the file.</content></utterance>
+<utterance uid="20-4"><speaker>HOUSE</speaker><content>The fact that you won't answer my questions tells me more about you than answers could.</content></utterance>
+<utterance uid="20-5"><speaker>THIRTEEN</speaker><content>No, it doesn't. We turned the thing up to 95 degrees...</content></utterance>
+<utterance uid="20-6"><speaker>HOUSE</speaker><content>Do you think that non-answers tell me anything?</content></utterance>
+<utterance uid="20-7"><speaker>THIRTEEN</speaker><content>Sure. Just not as much as actual answers. That's why they are called answers.</content></utterance>
+<utterance uid="20-8"><speaker>HOUSE</speaker><content>Tell me you're hiding something.</content></utterance>
+<utterance uid="20-9"><speaker>THIRTEEN</speaker><content>Tells you I'm hiding everything.</content></utterance>
+<utterance uid="20-10"><speaker>HOUSE</speaker><content>Tells me you've got something worth hiding. Some Turkish prison, gay porn... ya killed a man just because he was asking too many questions.</content></utterance>
+<utterance uid="20-11"><speaker>THIRTEEN</speaker><content>Can I finish reporting on the patient?</content></utterance>
+<utterance uid="20-12"><speaker>HOUSE</speaker><content>No need. See you in an hour or so. Got to... set some stuff up.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>HOUSE</speaker><content>Thank you all for coming... to Tribal Council.  Man of your integrity, I feel I can trust... Big Love. And I don't call you that because you are a Mormon.  So, where's your team's sixth man?</content></utterance>
+<utterance uid="21-2"><speaker>COLE</speaker><content>She went rogue. Broke the rules.</content></utterance>
+<utterance uid="21-3"><speaker>HOUSE</speaker><content>You also sinned. You have no right to cast the first stone.</content></utterance>
+<utterance uid="21-4"><speaker>COLE</speaker><content>And atheists have no right to quote Scripture.</content></utterance>
+<utterance uid="21-5"><speaker>HOUSE</speaker><content>The rules said 'no talking'.</content></utterance>
+<utterance uid="21-6"><speaker>COLE</speaker><content>I told her not to talk.</content></utterance>
+<utterance uid="21-7"><speaker>HOUSE</speaker><content>Out loud.</content></utterance>
+<utterance uid="21-8"><speaker>TAUB</speaker><content>We were trying to save a man's life.</content></utterance>
+<utterance uid="21-9"><speaker>HOUSE</speaker><content>Key word being 'trying'. Tilt table test confirmed that you guys were wrong. You're fired.</content></utterance>
+<utterance uid="21-10"><speaker>HOUSE</speaker><content>Ah, the Prodigal Son returneth. You're also fired.</content></utterance>
+<utterance uid="21-11"><speaker>AMBER</speaker><content>We thought there was a tumor on the patient's esophagus. We were right about the area, wrong about the diagnosis.  Turns out the esophagus is just straightening. It's scleroderma. It explains the syncope and the choking. He needs steroids.</content></utterance>
+<utterance uid="21-12"><speaker>THIRTEEN</speaker><content>You did a CT scan?</content></utterance>
+<utterance uid="21-13"><speaker>AMBER</speaker><content>Obviously.</content></utterance>
+<utterance uid="21-14"><speaker>THIRTEEN</speaker><content>After you were already proven wrong?</content></utterance>
+<utterance uid="21-15"><speaker>HOUSE</speaker><content>Good for you. It's too bad you're wrong. Straightening indicates weakening, not hardening. SMA explains the weakening.  Strongyloides infection explains everything else.  You ladies have the honor to give the patient a feeding tube, discharge him, and show up for work tomorrow. The rest of you... you're a disappointment. You make me want to stop dangling.</content></utterance>
+<utterance uid="21-16"><speaker>DOBSON</speaker><content>It was the best two weeks of my life.</content></utterance>
+<utterance uid="21-17"><speaker>HOUSE</speaker><content>I think I will miss you most of all, Ridiculously Old Fraud.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>AMBER</speaker><content>Do you think House could be wrong?</content></utterance>
+<utterance uid="22-2"><speaker>CHASE</speaker><content>I thought he fired you.</content></utterance>
+<utterance uid="22-3"><speaker>AMBER</speaker><content>No, he fired the men.</content></utterance>
+<utterance uid="22-4"><speaker>CHASE</speaker><content>I don't think he's wrong.</content></utterance>
+<utterance uid="22-5"><speaker>AMBER</speaker><content>If he is, how would I prove it?</content></utterance>
+<utterance uid="22-6"><speaker>CHASE</speaker><content>Just said I don't think he is.</content></utterance>
+<utterance uid="22-7"><speaker>AMBER</speaker><content>Well, thinking isn't good enough.</content></utterance>
+<utterance uid="22-8"><speaker>CHASE</speaker><content>You'd have to run a blood test for anti-centromere antibodies.</content></utterance>
+<utterance uid="22-9"><speaker>AMBER</speaker><content>Would you mind running the labs?</content></utterance>
+<utterance uid="22-10"><speaker>CHASE</speaker><content>You can't.</content></utterance>
+<utterance uid="22-11"><speaker>AMBER</speaker><content>Well, I can, but...</content></utterance>
+<utterance uid="22-12"><speaker>CHASE</speaker><content> No, I was making a statement. You've been fired, so you no longer have lab privileges. You weren't coming here for advice, you coming here to con a favor to save your job. Sorry. I'm not working for him any more, but he can still make my life miserable.</content></utterance>
+<utterance uid="22-13"><speaker>AMBER</speaker><content>You have a chance to make his life miserable.</content></utterance>
+<utterance uid="22-14"><speaker>CHASE</speaker><content>I'm insulted. You conned Cameron by appealing to her humanity.</content></utterance>
+<utterance uid="22-15"><speaker>AMBER</speaker><content>I told her what she wanted to hear.</content></utterance>
+<utterance uid="22-16"><speaker>CHASE</speaker><content>And you told me what you thought I wanted to hear.</content></utterance>
+<utterance uid="22-17"><speaker>AMBER</speaker><content>If it's any consolation, I think your motives are more interesting.</content></utterance>
+<utterance uid="22-18"><speaker>CHASE</speaker><content>I cannot believe he fired you. Go draw his blood. Meet you in the lab when I'm done here.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>STARK</speaker><content>Guess you didn't find your tumor?</content></utterance>
+<utterance uid="23-2"><speaker>AMBER</speaker><content>The other doctors tell you that you were fine?</content></utterance>
+<utterance uid="23-3"><speaker>STARK</speaker><content>Yeah. In the sense that it's just my disease getting worse.  You come to terms with this disease. You know it's there. You know it's waiting. And every now and again, it takes something away.</content></utterance>
+<utterance uid="23-4"><speaker>STARK</speaker><content>Took my walking. Took my modesty. Now it's taking one of my last pleasures.</content></utterance>
+<utterance uid="23-5"><speaker>AMBER</speaker><content>There's an outside shot that something OTHER than the SMA is causing your eating problems. And if it is, we can fix it. Remove that tube.</content></utterance>
+<utterance uid="23-6"><speaker>STARK</speaker><content>That my blood? It's green. What does that mean?</content></utterance>
+<utterance uid="23-7"><speaker>AMBER</speaker><content> It means I'm not fired.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>HOUSE</speaker><content>Is he a Vulcan? If no, what makes Nimoy bleed green?</content></utterance>
+<utterance uid="24-2"><speaker>KUTNER</speaker><content>Are we officially unfired?</content></utterance>
+<utterance uid="24-3"><speaker>TWIN 15B</speaker><content>How do we know she didn't fake the green blood?</content></utterance>
+<utterance uid="24-4"><speaker>HOUSE</speaker><content>Because that would be stupid. And while she may be manipulative, borderline evil, shallow...</content></utterance>
+<utterance uid="24-5"><speaker>AMBER</speaker><content>They get it. I'm not stupid.</content></utterance>
+<utterance uid="24-6"><speaker>TAUB</speaker><content>What contrast did you use for the CT?</content></utterance>
+<utterance uid="24-7"><speaker>AMBER</speaker><content>ICM.</content></utterance>
+<utterance uid="24-8"><speaker>TAUB</speaker><content>His kidneys aren't working. They didn't filter the contrast, which in ICM, is green.</content></utterance>
+<utterance uid="24-9"><speaker>HOUSE</speaker><content>Ten points.  'k... let's add kidney failure to our list of symptoms.</content></utterance>
+<utterance uid="24-10"><speaker>KUTNER</speaker><content>What are these points? Is that how you're deciding who to fire?</content></utterance>
+<utterance uid="24-11"><speaker>HOUSE</speaker><content> I'm going to fire the next person who asks me who I'm going to fire.</content></utterance>
+<utterance uid="24-12"><speaker>KUTNER</speaker><content>Now we're on the points system? What happened to Men against Women?</content></utterance>
+<utterance uid="24-13"><speaker>HOUSE</speaker><content>Forget the game.</content></utterance>
+<utterance uid="24-14"><speaker>KUTNER</speaker><content>What do you mean forget the game?</content></utterance>
+<utterance uid="24-15"><speaker>HOUSE</speaker><content> I mean, forget the damn game! Guy's kidneys are failing. We need to diagnose exactly...</content></utterance>
+<utterance uid="24-16"><speaker>DOBSON</speaker><content>I thought we were diagnosing.</content></utterance>
+<utterance uid="24-17"><speaker>HOUSE</speaker><content>YOU were diagnosing. Now I am too.  I thought that Thirteen was right about the Strongyloides.  I was obviously wrong.  Okay, kidney failure, aspiration, fainting... go!</content></utterance>
+<utterance uid="24-18"><speaker>THIRTEEN</speaker><content>Kidney failure could be the result of a Gram-negative bacteria. Our patient wears a catheter full-time. It virtually guarantees bacterial infection.</content></utterance>
+<utterance uid="24-19"><speaker>TWIN 15B</speaker><content>Which could have migrated up to his kidneys.</content></utterance>
+<utterance uid="24-20"><speaker>TWIN 15A</speaker><content>Infection stresses his already weakened system, makes his SMA worse, that explains the choking and fainting.</content></utterance>
+<utterance uid="24-21"><speaker>HOUSE</speaker><content>Put him on IV Ampigen.</content></utterance>
+<utterance uid="24-22"><speaker>AMBER</speaker><content>Our team's scleroderma diagnosis still holds. The test could have been negative because the blood was contaminated with contrast.</content></utterance>
+<utterance uid="24-23"><speaker>HOUSE</speaker><content>Do a skin biopsy. Get a side of lymph node to confirm.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>HOUSE</speaker><content>I could have you fired!</content></utterance>
+<utterance uid="25-2"><speaker>CHASE</speaker><content> You've already had me fired.</content></utterance>
+<utterance uid="25-3"><speaker>HOUSE</speaker><content>Which proves that I can.</content></utterance>
+<utterance uid="25-4"><speaker>CHASE</speaker><content> Were the men wrong?</content></utterance>
+<utterance uid="25-5"><speaker>HOUSE</speaker><content>No. That doesn't change the fact...</content></utterance>
+<utterance uid="25-6"><speaker>CHASE</speaker><content>Why are you yelling at me?</content></utterance>
+<utterance uid="25-7"><speaker>HOUSE</speaker><content>Because performing tests for someone who is not a doctor in this hospital...</content></utterance>
+<utterance uid="25-8"><speaker>CHASE</speaker><content>You're frustrated. If you want help, I'm here. If you just need to vent... leave a message.</content></utterance>
+<utterance uid="25-9"><speaker>CAMERON</speaker><content>I like him better like this.  You?</content></utterance>
+<utterance uid="25-10"><speaker>THIRTEEN</speaker><content>Patient developed pneumonia. His lungs are filling fast. We started him on antibiotics. Nothing. We were wrong.</content></utterance>
+<utterance uid="25-11"><speaker>HOUSE</speaker><content> And you're here to say?</content></utterance>
+<utterance uid="25-12"><speaker>BRENNAN</speaker><content>We were wrong too. He doesn't have scleroderma. Biopsy revealed no fibrotic changes.</content></utterance>
+<utterance uid="25-13"><speaker>HOUSE</speaker><content>Cervical lymph node has black flecks.</content></utterance>
+<utterance uid="25-14"><speaker>BRENNAN</speaker><content>Small areas of necrosis. It's nothing.</content></utterance>
+<utterance uid="25-15"><speaker>HOUSE</speaker><content>You say nothing? I say cancer.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>SCHAFFER</speaker><content>It's a bit of a stretch to jump right to cancer.</content></utterance>
+<utterance uid="26-2"><speaker>FOREMAN</speaker><content>I'm not jumping. Broad specs haven't worked, so it's not bacterial. Failing liver despite treatment suggests it's not fungal. And her high lactic acidosis points towards anaplastic large cell lymphoma.</content></utterance>
+<utterance uid="26-3"><speaker>SCHAFFER</speaker><content>Also suggests infection. Which is a lot easier and safer to treat. </content></utterance>
+<utterance uid="26-4"><speaker>FOREMAN</speaker><content>Large cell lymphoma's incredibly aggressive. She'll be dead in a week if we follow the textbooks.</content></utterance>
+<utterance uid="26-5"><speaker>SCHAFFER</speaker><content>Unless it's infection, in which case you radiate her and she'll be dead in a day. And I know you've had some experience with that.  I've seen doctors do this before. Go back to the scene of the crime - if you're right this time, you purge yourself of past ghosts.</content></utterance>
+<utterance uid="26-6"><speaker>FOREMAN</speaker><content>I know it's contrary to protocol. But I think it's more like...</content></utterance>
+<utterance uid="26-7"><speaker>SCHAFFER</speaker><content>Ghosts are there for a reason. So you don't make the same mistake twice. Switch her over to third-generation cephalosporin.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>CUDDY</speaker><content>You want to remove his EYE?</content></utterance>
+<utterance uid="27-2"><speaker>HOUSE</speaker><content> Who told you?</content></utterance>
+<utterance uid="27-3"><speaker>CUDDY</speaker><content>You booked the OR.</content></utterance>
+<utterance uid="27-4"><speaker>HOUSE</speaker><content> Good.</content></utterance>
+<utterance uid="27-5"><speaker>CUDDY</speaker><content>You can't beat me in a foot race.</content></utterance>
+<utterance uid="27-6"><speaker>HOUSE</speaker><content>Thought we were dancing.</content></utterance>
+<utterance uid="27-7"><speaker>HOUSE</speaker><content>Cervical lymph node is a garbage dump. A very small one. Just one truck comes in and it only comes from one home. Al Gore would be appalled. The home...</content></utterance>
+<utterance uid="27-8"><speaker>CUDDY</speaker><content>The home is the right eye. I get it. Do a biopsy.</content></utterance>
+<utterance uid="27-9"><speaker>HOUSE</speaker><content>On my way.</content></utterance>
+<utterance uid="27-10"><speaker>CUDDY</speaker><content>You're not DOING a biopsy. You ordered an orbital exenteration.</content></utterance>
+<utterance uid="27-11"><speaker>HOUSE</speaker><content>Right. Because I don't want to remove a little tiny piece, sit in a lab, and confirm what I already know, while my patient drowns in his own fluid.  But if you want me to, I absolutely will.</content></utterance>
+<utterance uid="27-12"><speaker>CUDDY</speaker><content>How advanced is the pneumonia?</content></utterance>
+<utterance uid="27-13"><speaker>HOUSE</speaker><content>It's taking college courses.  Hey, Wilson! I'm going to cut some cripple's eye out! Want to come watch?</content></utterance>
+<utterance uid="27-14"><speaker>WILSON</speaker><content>Good times.</content></utterance>
+<utterance uid="27-15"><speaker>HOUSE</speaker><content>We good to go?</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>STARK</speaker><content>I thought melanoma was skin cancer.</content></utterance>
+<utterance uid="28-2"><speaker>WILSON</speaker><content>Technically, it's cancer of the pigment cells, the same cells that give your iris its color.</content></utterance>
+<utterance uid="28-3"><speaker>STARK</speaker><content>Cancer. Why not? What else can God throw at me?</content></utterance>
+<utterance uid="28-4"><speaker>HOUSE</speaker><content>Hail. Locusts. Smiting of the firstborn. Course, it all depends on how evil you've been.</content></utterance>
+<utterance uid="28-5"><speaker>WILSON</speaker><content>House.</content></utterance>
+<utterance uid="28-6"><speaker>STARK</speaker><content>If it's cancer, it's spread everywhere, right? It's what's in my lungs, my kidneys?</content></utterance>
+<utterance uid="28-7"><speaker>WILSON</speaker><content>There is a chance, by removing the eye, get the primary tumor, and three courses of radiation, that could...</content></utterance>
+<utterance uid="28-8"><speaker>STARK</speaker><content>Could? What? Few months? Years?</content></utterance>
+<utterance uid="28-9"><speaker>WILSON</speaker><content>More likely months.</content></utterance>
+<utterance uid="28-10"><speaker>STARK</speaker><content> Any of your other doctors have any cheerier diagnoses?</content></utterance>
+<utterance uid="28-11"><speaker>HOUSE</speaker><content>If they do, they're wrong. This is the answer. It's the only way to help you.</content></utterance>
+<utterance uid="28-12"><speaker>STARK</speaker><content>I already can't walk. I can't eat. You're telling me that the rest of my life... is in this bed... puking and in pain?</content></utterance>
+<utterance uid="28-13"><speaker>WILSON</speaker><content>We can manage the pain.</content></utterance>
+<utterance uid="28-14"><speaker>STARK</speaker><content>I'd rather just get this over with. I've been trapped... in this useless body long enough. It'd be nice to finally get out.</content></utterance>
+<utterance uid="28-15"><speaker>HOUSE</speaker><content>Get out and go where? You think you're gonna sprout wings and start flying around with the other angels? Don't be an idiot. There is no 'after', there's just 'this'.</content></utterance>
+<utterance uid="28-16"><speaker>WILSON</speaker><content>House!</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>WILSON</speaker><content> You can't let a dying man take solace in his beliefs.</content></utterance>
+<utterance uid="29-2"><speaker>HOUSE</speaker><content>His beliefs are stupid.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>WILSON</speaker><content>Everybody lies. Some for good reasons, some for bad. This would have been a fantastic reason to lie!</content></utterance>
+<utterance uid="30-2"><speaker>HOUSE</speaker><content> Hi! Greg House.</content></utterance>
+<utterance uid="30-3"><speaker>WILSON</speaker><content>Why can't you just let him have his fairy tale? If it give him comfort to imagine  beaches and loved ones and life outside a wheelchair....</content></utterance>
+<utterance uid="30-4"><speaker>HOUSE</speaker><content> Are there 72 virgins too?</content></utterance>
+<utterance uid="30-5"><speaker>WILSON</speaker><content>It's over. He's got days, maybe hours left. What pain does it cause you if he spends that time with a peaceful smile? What sick pleasure do you get in making damn sure he's filled with fear and dread?</content></utterance>
+<utterance uid="30-6"><speaker>HOUSE</speaker><content>He shouldn't be making a decision based on a lie. Misery is better than nothing.</content></utterance>
+<utterance uid="30-7"><speaker>WILSON</speaker><content>You don't KNOW there's nothing. You haven't been there.</content></utterance>
+<utterance uid="30-8"><speaker>HOUSE</speaker><content>Oh, God, I am TIRED of that argument! I don't have to go to Detroit to know that it smells.</content></utterance>
+<utterance uid="30-9"><speaker>WILSON</speaker><content>Yes. Detroit. The Afterlife. Same thing.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>AMBER</speaker><content>You're not getting enough oxygen, so we're inserting a tube directly into your lungs. It should help us drain some of this excess fluid.</content></utterance>
+<utterance uid="31-2"><speaker>THIRTEEN</speaker><content> Should make you a little more comfortable.</content></utterance>
+<utterance uid="31-3"><speaker>AMBER</speaker><content>Sats are still dropping.</content></utterance>
+<utterance uid="31-4"><speaker>THIRTEEN</speaker><content>The fluid's clear. If this was cancer, there should be blood. Call House.</content></utterance>
+<utterance uid="31-5"><speaker>AMBER</speaker><content>He just paged me.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>AMBER</speaker><content>Dr. House!</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>COLE</speaker><content>Maybe it was... just an accident.</content></utterance>
+<utterance uid="33-2"><speaker>AMBER</speaker><content>It wasn't an accident.</content></utterance>
+<utterance uid="33-3"><speaker>TAUB</speaker><content>Think his nihilism got the best of him and he tried to kill himself?</content></utterance>
+<utterance uid="33-4"><speaker>AMBER</speaker><content>He paged me.</content></utterance>
+<utterance uid="33-5"><speaker>KUTNER</speaker><content>He paged you?</content></utterance>
+<utterance uid="33-6"><speaker>TWIN 15A</speaker><content>Why you?</content></utterance>
+<utterance uid="33-7"><speaker>AMBER</speaker><content>I assume because he...</content></utterance>
+<utterance uid="33-8"><speaker>WILSON</speaker><content>Don't assume anything.</content></utterance>
+<utterance uid="33-9"><speaker>WILSON</speaker><content>Don't fall into that trap.</content></utterance>
+<utterance uid="33-10"><speaker>THIRTEEN</speaker><content>Is he okay?</content></utterance>
+<utterance uid="33-11"><speaker>WILSON</speaker><content> Burned his hand pretty good. His heart stopped for nearly a minute. But your cohort managed to... restart it. But... he has not regained consciousness.  So...  since I have you all here, we should probably talk about your ACTUAL patient.</content></utterance>
+<utterance uid="33-12"><speaker>WILSON</speaker><content>Clear fluid from the lungs indicates that it's probably not cancer, so it would be nice if we could come up with a new idea.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>WILSON</speaker><content>You're an idiot. You nearly killed yourself.</content></utterance>
+<utterance uid="34-2"><speaker>HOUSE</speaker><content>That was the whole idea.</content></utterance>
+<utterance uid="34-3"><speaker>WILSON</speaker><content>You WANTED to kill yourself?</content></utterance>
+<utterance uid="34-4"><speaker>HOUSE</speaker><content>I wanted to NEARLY kill myself. Is he... better?</content></utterance>
+<utterance uid="34-5"><speaker>WILSON</speaker><content>No. But he doesn't have cancer. We think it might be eosinophilic pneumonia.  Maybe you didn't want to die, but you didn't care if you lived.</content></utterance>
+<utterance uid="34-6"><speaker>HOUSE</speaker><content>You insisted that I needed to see for myself.</content></utterance>
+<utterance uid="34-7"><speaker>HOUSE</speaker><content> What, was he discharged?</content></utterance>
+<utterance uid="34-8"><speaker>WILSON</speaker><content>No. He's dying. You've already had two near-death experiences.</content></utterance>
+<utterance uid="34-9"><speaker>HOUSE</speaker><content>Not that guy. The guy in the car accident. With the knife. I... I need to talk to him.</content></utterance>
+<utterance uid="34-10"><speaker>WILSON</speaker><content>He... died almost an hour ago. Apparently, it's bad to electrocute yourself within days of suffering massive internal injuries. Why did you need to talk to him? Did you... see... something?</content></utterance>
+<utterance uid="34-11"><speaker>HOUSE</speaker><content>Eosinophilic pneumonia...</content></utterance>
+<utterance uid="34-12"><speaker>WILSON</speaker><content>House? What did you see?</content></utterance>
+<utterance uid="34-13"><speaker>HOUSE</speaker><content>Nothing. Who's idea was that?</content></utterance>
+<utterance uid="34-14"><speaker>WILSON</speaker><content>Brennan. Nothing-you-don't-want-to-talk-about-it or nothing...</content></utterance>
+<utterance uid="34-15"><speaker>HOUSE</speaker><content>Which one's Brennan? Is he the ridiculously old guy?</content></utterance>
+<utterance uid="34-16"><speaker>WILSON</speaker><content>House, you gotta talk about this.</content></utterance>
+<utterance uid="34-17"><speaker>HOUSE</speaker><content>If it's aggressive enough, it might have gotten past the steroids. Start him on cyclophosphamide.</content></utterance>
+<utterance uid="34-18"><speaker>WILSON</speaker><content>I already did.  Just looking at you hurts.  I'm going to order up some extra pain meds.</content></utterance>
+<utterance uid="34-19"><speaker>HOUSE</speaker><content>I love you.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>STARK</speaker><content>How fast... will this work?</content></utterance>
+<utterance uid="35-2"><speaker>THIRTEEN</speaker><content>New meds should start helping in minutes. Just hang in there.</content></utterance>
+<utterance uid="35-3"><speaker>JODY</speaker><content>Vacutainer's full. I need to replace it.</content></utterance>
+<utterance uid="35-4"><speaker>STARK</speaker><content>I don't... I don't think it... it's working.</content></utterance>
+<utterance uid="35-5"><speaker>THIRTEEN</speaker><content>Try and relax.</content></utterance>
+<utterance uid="35-6"><speaker>STARK</speaker><content>You must... you must be wr... wrong.</content></utterance>
+<utterance uid="35-7"><speaker>THIRTEEN</speaker><content>Stop talking.  Hurry up and get that chest tube working?</content></utterance>
+<utterance uid="35-8"><speaker>JODY</speaker><content>Okay. I got it.</content></utterance>
+<utterance uid="35-9"><speaker>STARK</speaker><content>Could you get... Hoover?</content></utterance>
+<utterance uid="35-10"><speaker>STARK</speaker><content>I can't... Can you... put my... hand... on his head?</content></utterance>
+<utterance uid="35-11"><speaker>STARK</speaker><content> It's okay. Don't worry. I'm not scared.</content></utterance>
+<utterance uid="35-12"><speaker>JODY</speaker><content>Oh, God.</content></utterance>
+<utterance uid="35-13"><speaker>THIRTEEN</speaker><content>Time of death...</content></utterance>
+</scene>
+
+<scene id="36"><utterance uid="36-1"><speaker>AMBER</speaker><content> You're looking better.  Stark's dead.</content></utterance>
+<utterance uid="36-2"><speaker>AMBER</speaker><content>What are you doing?</content></utterance>
+<utterance uid="36-3"><speaker>HOUSE</speaker><content>Going to see our patient.</content></utterance>
+<utterance uid="36-4"><speaker>AMBER</speaker><content>He's dead.</content></utterance>
+<utterance uid="36-5"><speaker>HOUSE</speaker><content>Dead is not a diagnosis.</content></utterance>
+<utterance uid="36-6"><speaker>AMBER</speaker><content>You really shouldn't be...</content></utterance>
+<utterance uid="36-7"><speaker>HOUSE</speaker><content>Shut up. And give me my cane.</content></utterance>
+<utterance uid="36-8"><speaker>AMBER</speaker><content>I assume we're all fired.</content></utterance>
+<utterance uid="36-9"><speaker>HOUSE</speaker><content>Should I fire myself, too? I thought it was Strongyloides, then I thought it was cancer. Little help here.</content></utterance>
+<utterance uid="36-10"><speaker>AMBER</speaker><content>Ready? One, two...</content></utterance>
+<utterance uid="36-11"><speaker>AMBER</speaker><content>Why'd you call me?</content></utterance>
+<utterance uid="36-12"><speaker>HOUSE</speaker><content>Because if I pooped myself in front of Wilson, I'd never hear the end of it.</content></utterance>
+<utterance uid="36-13"><speaker>AMBER</speaker><content>But why not one of the others?</content></utterance>
+<utterance uid="36-14"><speaker>HOUSE</speaker><content>You always had that phone in your hand.</content></utterance>
+<utterance uid="36-15"><speaker>AMBER</speaker><content>We all have cell phones. That's not the reason. What is?</content></utterance>
+<utterance uid="36-16"><speaker>HOUSE</speaker><content>If I died, you'd never get the job. I knew you wouldn't let that happen.</content></utterance>
+<utterance uid="36-17"><speaker>AMBER</speaker><content>You don't think anybody else has any reason to care?</content></utterance>
+<utterance uid="36-18"><speaker>HOUSE</speaker><content>Think this is starting to come back to me. Right, left, then repeat.</content></utterance>
+<utterance uid="36-19"><speaker>HOUSE</speaker><content>Yeah, that works.</content></utterance>
+</scene>
+<scene id="37"><utterance uid="37-1"><speaker>HOUSE</speaker><content>What did we miss?</content></utterance>
+<utterance uid="37-2"><speaker>JODY</speaker><content>If we knew, he wouldn’t be dead.</content></utterance>
+<utterance uid="37-3"><speaker>HOUSE</speaker><content>So, that's it? You're just gonna give up?</content></utterance>
+<utterance uid="37-4"><speaker>THIRTEEN</speaker><content>No. We were defeated. It's over.</content></utterance>
+<utterance uid="37-5"><speaker>JODY</speaker><content>Patient presented with syncope. We thought it was threadworms, gave him ivermectin.</content></utterance>
+<utterance uid="37-6"><speaker>HOUSE</speaker><content>Thank you. Patient seemed... better, 'til his blood turned green.</content></utterance>
+<utterance uid="37-7"><speaker>THIRTEEN</speaker><content> Can we at least remove the body before launching into a purely academic exercise?</content></utterance>
+<utterance uid="37-8"><speaker>HOUSE</speaker><content>The patient didn't respond to antibiotics or steroids.</content></utterance>
+<utterance uid="37-9"><speaker>THIRTEEN</speaker><content>You okay, boy?</content></utterance>
+<utterance uid="37-10"><speaker>HOUSE</speaker><content>What's wrong with the dog?</content></utterance>
+<utterance uid="37-11"><speaker>JODY</speaker><content>He's dead. There are only a handful of viruses that can cross between dogs and humans, but they may not be connected at all. The dog was old. I've seen it before. They hang on way past their normal life expectancy to take care of their masters.</content></utterance>
+<utterance uid="37-12"><speaker>HOUSE</speaker><content> Did you watch him take the pills?  The ivermectin. Did you watch the patient put them in his mouth and swallow them?</content></utterance>
+<utterance uid="37-13"><speaker>THIRTEEN</speaker><content>I don't know. I think so.</content></utterance>
+<utterance uid="37-14"><speaker>HOUSE</speaker><content>What kind of dog is that?</content></utterance>
+<utterance uid="37-15"><speaker>JODY</speaker><content>English Shepherd.</content></utterance>
+<utterance uid="37-16"><speaker>HOUSE</speaker><content>It's in the Collie family, right?</content></utterance>
+<utterance uid="37-17"><speaker>JODY</speaker><content>Not really.</content></utterance>
+<utterance uid="37-18"><speaker>HOUSE</speaker><content>They share the MDR-1 gene.</content></utterance>
+<utterance uid="37-19"><speaker>JODY</speaker><content>Yeah.</content></utterance>
+<utterance uid="37-20"><speaker>HOUSE</speaker><content>What happens when you give a dog with the MDR-1 gene ivermectin?</content></utterance>
+<utterance uid="37-21"><speaker>JODY</speaker><content>They don't. I mean, it's used to treat heartworms in most dogs, but it'd be fatal if the...</content></utterance>
+<utterance uid="37-22"><speaker>HOUSE</speaker><content>Look familiar? I think the last time you saw it, it didn't have that dead dog's teethmarks on it.</content></utterance>
+<utterance uid="37-23"><speaker>THIRTEEN</speaker><content>I just put it on the bed tray to get him some water.</content></utterance>
+<utterance uid="37-24"><speaker>HOUSE</speaker><content> When I asked you if you watched the patient swallow the pills, the right answer was 'no'.  Take his body down to the morgue.</content></utterance>
+</scene>
+<scene id="38"><utterance uid="38-1"><speaker>CUDDY</speaker><content>If you hadn't treated this patient as a game, he wouldn't be dead.</content></utterance>
+<utterance uid="38-2"><speaker>HOUSE</speaker><content>Feeling much better, thank you.</content></utterance>
+<utterance uid="38-3"><speaker>CUDDY</speaker><content>I'm supposed to show you sympathy? He died... while his attending was lying on a hospital bed because he stuck a knife in a wall socket.</content></utterance>
+<utterance uid="38-4"><speaker>HOUSE</speaker><content>He died because a doctor made a mistake. He was an idiot.</content></utterance>
+<utterance uid="38-5"><speaker>CUDDY</speaker><content>You employed her. You're responsible.</content></utterance>
+</scene>
+
+<scene id="39"><utterance uid="39-1"><speaker>SCHAFFER</speaker><content>Dr. Foreman.</content></utterance>
+<utterance uid="39-2"><speaker>SCHAFFER</speaker><content>How's she doing?</content></utterance>
+<utterance uid="39-3"><speaker>FOREMAN</speaker><content>Fever's gone. AST and ALT are back within normal range. She should be out of here in a few days.</content></utterance>
+<utterance uid="39-4"><speaker>SCHAFFER</speaker><content>Gutsy call.</content></utterance>
+<utterance uid="39-5"><speaker>FOREMAN</speaker><content>Thanks.</content></utterance>
+<utterance uid="39-6"><speaker>SCHAFFER</speaker><content>It wasn't a compliment. If you were wrong, she'd be dead.</content></utterance>
+<utterance uid="39-7"><speaker>FOREMAN</speaker><content>I was sure...</content></utterance>
+<utterance uid="39-8"><speaker>SCHAFFER</speaker><content>No, you weren't. You couldn't be. There's a reason we have rules. If every doctor did whatever his 'gut' told him was right, we'd have a lot more dead bodies to deal with.</content></utterance>
+<utterance uid="39-9"><speaker>FOREMAN</speaker><content>It won't happen again.</content></utterance>
+<utterance uid="39-10"><speaker>SCHAFFER</speaker><content>Yes, it will. Because you confused saving her life with doing the right thing.  I'm sorry, Dr. Foreman, you're fired.</content></utterance>
+</scene>
+<scene id="40"><utterance uid="40-1"><speaker>THIRTEEN</speaker><content> As soon as the pathologist cut into the lungs, we saw the threadworms.</content></utterance>
+<utterance uid="40-2"><speaker>HOUSE</speaker><content>You think it's fair that I fired all the other members of your team when you guys actually came up with the right diagnosis?</content></utterance>
+<utterance uid="40-3"><speaker>THIRTEEN</speaker><content>I keep replaying it in my mind. Did I drop the pills when I put them on the bed tray? Did I knock them over when I turned to leave?</content></utterance>
+<utterance uid="40-4"><speaker>HOUSE</speaker><content>You know he'd be alive.</content></utterance>
+<utterance uid="40-5"><speaker>HOUSE</speaker><content>His dog'd be alive.</content></utterance>
+<utterance uid="40-6"><speaker>THIRTEEN</speaker><content>I know.</content></utterance>
+<utterance uid="40-7"><speaker>HOUSE</speaker><content>You forced us to act on a false assumption.</content></utterance>
+<utterance uid="40-8"><speaker>THIRTEEN</speaker><content>I know.</content></utterance>
+<utterance uid="40-9"><speaker>HOUSE</speaker><content>Everything we built from that step on. Every test. Every theory. Every treatment.</content></utterance>
+<utterance uid="40-10"><speaker>THIRTEEN</speaker><content> I know! Forget the lecture and fire me already!</content></utterance>
+<utterance uid="40-11"><speaker>HOUSE</speaker><content>If I was going to fire you, I wouldn't be giving you the lecture. I know you're not going to let anything like this ever happen again.  I'll see you tomorrow.</content></utterance>
+<utterance uid="40-12"><speaker>HOUSE</speaker><content>And I'm sorry to say... I told you so.</content></utterance>
+</scene>
+</script>

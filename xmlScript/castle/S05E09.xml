@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>MOM</speaker><content>Honey? What is that?</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>RICHARD CASTLE</speaker><content>Ah ha! Found it.</content></utterance>
+<utterance uid="2-2"><speaker>ALEXIS CASTLE</speaker><content>Dad, you should toss that. It’s getting kinda gross.</content></utterance>
+<utterance uid="2-3"><speaker>CASTLE</speaker><content>Toss cookie angel? No way. You made this for me in first grade with your chubby little hands.</content></utterance>
+<utterance uid="2-4"><speaker>MARTHA RODGERS</speaker><content>Darling, could you pick me up an extra bottle of aquavit for our Glögg?</content></utterance>
+<utterance uid="2-5"><speaker>CASTLE</speaker><content>An extra bottle of hundred proof? You’re not tampering with our secret holiday recipe?</content></utterance>
+<utterance uid="2-6"><speaker>MARTHA</speaker><content>No, no, no. I was going to make an extra-large batch to take with me Christmas Eve caroling. Oh, it’ll be after our Christmas dinner. You don’t mind, do you?</content></utterance>
+<utterance uid="2-7"><speaker>CASTLE</speaker><content>But it’s Christmas Eve. That’s when we open the gifts.</content></utterance>
+<utterance uid="2-8"><speaker>ALEXIS</speaker><content>Maybe we can open them in the morning.</content></utterance>
+<utterance uid="2-9"><speaker>CASTLE</speaker><content> In the morning? Mornings are for stockings.</content></utterance>
+<utterance uid="2-10"><speaker>MARTHA</speaker><content>Well, I think – I think what Alexis is trying to say is that she has other plans, too.</content></utterance>
+<utterance uid="2-11"><speaker>ALEXIS</speaker><content>Just with a couple of friends. It’s – </content></utterance>
+<utterance uid="2-12"><speaker>CASTLE</speaker><content>What friends?  What plans? What is happening to our family tradition?</content></utterance>
+<utterance uid="2-13"><speaker>ALEXIS</speaker><content>Dad, I think you’re kind of over reacting.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>CASTLE</speaker><content>I am not overreacting. It’s one night out of the year. Is it too much to ask to stick to the program?</content></utterance>
+<utterance uid="3-2"><speaker>DETECTIVE KATE BECKETT</speaker><content>Well maybe your program should evolve a little.</content></utterance>
+<utterance uid="3-3"><speaker>CASTLE</speaker><content>It is evolving. I invited you, didn’t I? You are still coming, right?</content></utterance>
+<utterance uid="3-4"><speaker>BECKETT</speaker><content>Ah, yeah, I mean, if I don’t have to work.  But look, no presents, remember? We promised. It’s just … a little too stressful this first year.</content></utterance>
+<utterance uid="3-5"><speaker>CASTLE</speaker><content>No presents. I’m flexible. There are certain aspects to this that are time honored. The heart, the beating heart behind the Christmas holidays.  And now Santa is dead? When will it end?</content></utterance>
+<utterance uid="3-6"><speaker>BECKETT</speaker><content>I hate to break it to you Castle, but there is no Santa.</content></utterance>
+<utterance uid="3-7"><speaker>CASTLE</speaker><content>Well not any more.</content></utterance>
+<utterance uid="3-8"><speaker>LANIE PARISH</speaker><content>You gotta admit, with that beard and that belly he looks like the real deal.</content></utterance>
+<utterance uid="3-9"><speaker>BECKETT</speaker><content>If by the real deal you mean an overweight man in a red suit who is hopefully carrying ID?</content></utterance>
+<utterance uid="3-10"><speaker>LANIE</speaker><content>Yeah.  Along with lots of candy cane wrappers, though I don’t think that ID of his is going to do you much good.</content></utterance>
+<utterance uid="3-11"><speaker>BECKETT</speaker><content>Kris Kringle, address North Pole.  That’s cute.</content></utterance>
+<utterance uid="3-12"><speaker>CASTLE</speaker><content>Maybe he’s the real Santa. Like in Miracle on 34th Street.</content></utterance>
+<utterance uid="3-13"><speaker>LANIE</speaker><content>Yeah, but with no happy ending. This Santa fell out of the sky around 9:30.</content></utterance>
+<utterance uid="3-14"><speaker>BECKETT</speaker><content>From an aircraft?</content></utterance>
+<utterance uid="3-15"><speaker>LANIE</speaker><content>Maybe, but it wasn’t a commercial plane, I can tell you that. With a fall from high altitude we’d see severe frostbite on his eyes and his face.</content></utterance>
+<utterance uid="3-16"><speaker>DETECTIVE KEVIN RYAN</speaker><content>Hey, so I just talked with the family. They didn’t see or hear any planes overhead.</content></utterance>
+<utterance uid="3-17"><speaker>BECKETT</speaker><content>That doesn’t make any sense. He had to have fallen from somewhere.</content></utterance>
+<utterance uid="3-18"><speaker>CASTLE</speaker><content>I’m sorry, are we overlooking the obvious here? He hit some turbulence and slipped out of his sleigh and fell to his doom.</content></utterance>
+<utterance uid="3-19"><speaker>RYAN</speaker><content>Santa, lying there dead. You gotta ask yourself, what kind of world do we live in?</content></utterance>
+<utterance uid="3-20"><speaker>BECKETT</speaker><content>A world in which there is no Santa and people don’t fall out of nowhere.  Can you check with air traffic control and find out what flights were in the area?</content></utterance>
+<utterance uid="3-21"><speaker>RYAN</speaker><content>Sure. Bah humbug.</content></utterance>
+<utterance uid="3-22"><speaker>BECKETT</speaker><content>So was the fall cause of death?</content></utterance>
+<utterance uid="3-23"><speaker>LANIE</speaker><content>Looks like it, but I won’t know for sure until I get him back to the morgue.</content></utterance>
+<utterance uid="3-24"><speaker>CASTLE</speaker><content>Well Santa or no, he sure is committed. And you’re saying there’s nothing in his wallet that indicated a break in character?</content></utterance>
+<utterance uid="3-25"><speaker>LANIE</speaker><content>Nope.</content></utterance>
+<utterance uid="3-26"><speaker>BECKETT</speaker><content>Except for these boots.  They are definitely not from the North Pole. They’re custom made from a leather shop in Queens. I got a pair of motorcycle boots there. Hopefully they’ll have a record of who this man is.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>RYAN</speaker><content>Hey, I heard from air traffic control, but you’re not going to like the news. They have no record of anyone flying over the park during the time our guy hit the ground.</content></utterance>
+<utterance uid="4-2"><speaker>BECKETT</speaker><content>How is that even possible?</content></utterance>
+<utterance uid="4-3"><speaker>CASTLE</speaker><content>Santa had his sleigh in stealth mode.</content></utterance>
+<utterance uid="4-4"><speaker>BECKETT</speaker><content>No. I mean, after 9/11 how is it possible that someone can just fly over Manhattan?</content></utterance>
+<utterance uid="4-5"><speaker>CASTLE</speaker><content>Sightseeing choppers do it all the time. There was this one time, took a midnight loop around the Statue of Liberty with this Latin –  – publisher.</content></utterance>
+<utterance uid="4-6"><speaker>CAPTAIN VICTORIA GATES</speaker><content>No, he’s right. There’s a Manhattan flight carter which doesn’t require you to radio in if you stay under 1300 feet.  My mother-in-law is a licensed pilot, as she keeps reminding me. Part of a larger effort to make me feel inferior.  I’m sorry, did I just say that out loud?</content></utterance>
+<utterance uid="4-7"><speaker>RYAN</speaker><content>Sounds like she’s … staying with you, Captain?</content></utterance>
+<utterance uid="4-8"><speaker>GATES</speaker><content>One day soon your in-laws will visit too, and when they do, think hotel.  Oh Lord, I hate the holidays.</content></utterance>
+<utterance uid="4-9"><speaker>CASTLE</speaker><content>Yet another quality she has in common with the Grinch.</content></utterance>
+<utterance uid="4-10"><speaker>BECKETT</speaker><content>So if we don’t’ know where our Santa fell from, do we at least know who he is?</content></utterance>
+<utterance uid="4-11"><speaker>DETECTIVE JAVIER ESPOSITO</speaker><content>Hopefully we will soon. Unis rousted the owner of that boot store in Queens. They’re getting him to open up the shop and check his invoices.</content></utterance>
+<utterance uid="4-12"><speaker>BECKETT</speaker><content>Lanie’s got something for us. Can you keep us posted on the boots?</content></utterance>
+<utterance uid="4-13"><speaker>ESPOSITO</speaker><content>Yeah.</content></utterance>
+<utterance uid="4-14"><speaker>ESPOSITO</speaker><content> You’re taking this on kind of hard, bro.</content></utterance>
+<utterance uid="4-15"><speaker>RYAN</speaker><content>He’s a symbol of childhood innocence. Makes me wonder what this means for the future.</content></utterance>
+<utterance uid="4-16"><speaker>ESPOSITO</speaker><content>It means there’s going to be one less guy being dressed up as Santa.  Hey, so uh, we’re coming up on Christmas Eve. Want to keep the tradition going? You, me, a six-pack, Madden on the big screen?</content></utterance>
+<utterance uid="4-17"><speaker>RYAN</speaker><content>You know what? Um … I think Jenny has other plans this year.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>LANIE</speaker><content>Remember how you asked if that fall was what killed him?  Well it wasn’t. I pulled this out of his back.</content></utterance>
+<utterance uid="5-2"><speaker>BECKETT</speaker><content>And that is a .38. Do you still think he fell off his sleigh, Castle?</content></utterance>
+<utterance uid="5-3"><speaker>CASTLE</speaker><content>No. Clearly he was shot out of it. Talk about a war on Christmas.</content></utterance>
+<utterance uid="5-4"><speaker>BECKETT</speaker><content>Or he was just shot in an aircraft and pushed out.  So we have anything else?</content></utterance>
+<utterance uid="5-5"><speaker>LANIE</speaker><content>Just this embedded in his suit.  A chip of paint or some kind of enamel. Cherry red.</content></utterance>
+<utterance uid="5-6"><speaker>CASTLE</speaker><content>From a sleigh.</content></utterance>
+<utterance uid="5-7"><speaker>LANIE</speaker><content>I don’t know yet. I’m sending it down to the lab for analysis.</content></utterance>
+<utterance uid="5-8"><speaker>CASTLE</speaker><content>Probably from a sleigh.</content></utterance>
+<utterance uid="5-9"><speaker>BECKETT</speaker><content>Are we any closer to figuring out who he is?</content></utterance>
+<utterance uid="5-10"><speaker>ESPOSITO</speaker><content>We are now. Name’s Edmund Smith. Lives in the Bronx. Got his ID from that boot shop.</content></utterance>
+<utterance uid="5-11"><speaker>BECKETT</speaker><content>I’m sorry, you just came all the way down her to give me this?</content></utterance>
+<utterance uid="5-12"><speaker>ESPOSITO</speaker><content>Yeah … you told me to keep you posted. You did say that, right?</content></utterance>
+<utterance uid="5-13"><speaker>BECKETT</speaker><content>You know what? Castle and I are gonna go check out the place and see what there is to see.</content></utterance>
+<utterance uid="5-14"><speaker>LANIE</speaker><content>Mmm. Javi, since when did you wearing cologne to work?</content></utterance>
+<utterance uid="5-15"><speaker>ESPOSITO</speaker><content>Oh, you know, it’s the holidays and I’ve got places to be, people to see.  How about you?</content></utterance>
+<utterance uid="5-16"><speaker>LANIE</speaker><content>Okay, I see where this is going. I’m going to stop you right there. I already have plans for Christmas Eve. I’m hanging out with my girlfriends.</content></utterance>
+<utterance uid="5-17"><speaker>ESPOSITO</speaker><content>Oh. That’s cool.  Maybe afterwards you and I can -</content></utterance>
+<utterance uid="5-18"><speaker>LANIE</speaker><content>Javi! Let’s not be one of those sad, desperate holiday hookups. But all this dies down, if you still want to get together, just … give me a call.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>BETH CABOT</speaker><content>I don’t think he’s home.</content></utterance>
+<utterance uid="6-2"><speaker>BECKETT</speaker><content>NYPD. Is there a super or someone who can let us into this apartment?</content></utterance>
+<utterance uid="6-3"><speaker>BETH</speaker><content>Yeah, um, we have a key. Tim, could you grab Ed’s key? Did uh, something happen to Edmund?</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>BECKETT</speaker><content>So when was the last time you saw him?</content></utterance>
+<utterance uid="7-2"><speaker>BETH</speaker><content>It must have been last night around 5. I saw him leave with his costume bag. I figured he was going on a job.</content></utterance>
+<utterance uid="7-3"><speaker>TIM CABOT</speaker><content>Ed was a professional Santa. </content></utterance>
+<utterance uid="7-4"><speaker>CASTLE</speaker><content>Looks like he took his job pretty seriously.</content></utterance>
+<utterance uid="7-5"><speaker>BETH</speaker><content>Oh, he lived it, really. I mean, volunteering at the rec center and the shelter. He was always here for Tim and the kids. He even helped with our lawsuit.</content></utterance>
+<utterance uid="7-6"><speaker>CASTLE</speaker><content>He was a Santa and a lawyer?</content></utterance>
+<utterance uid="7-7"><speaker>BETH</speaker><content>No. We lost our house and he was just trying to help us out. He was like that.</content></utterance>
+<utterance uid="7-8"><speaker>BECKETT</speaker><content>Sounds like he got involved in a lot of people’s lives. Do you think he made any enemies along the way?</content></utterance>
+<utterance uid="7-9"><speaker>BETH</speaker><content>I didn’t think so, but then last week I heard this man pounding on Ed’s door shouting cuss words.</content></utterance>
+<utterance uid="7-10"><speaker>BECKETT</speaker><content>Did you see who it was?</content></utterance>
+<utterance uid="7-11"><speaker>TIM</speaker><content>I did. I looked out. It was an older, tough looking dude. When he saw me he said, “when you see Ed again tell him that I’ll kill him”. So I told Ed.</content></utterance>
+<utterance uid="7-12"><speaker>CASTLE</speaker><content>How did he react?</content></utterance>
+<utterance uid="7-13"><speaker>BETH</speaker><content>He told us not to worry, but you could tell he was pretty shaken up.</content></utterance>
+<utterance uid="7-14"><speaker>BECKETT</speaker><content>You think you could describe him?</content></utterance>
+<utterance uid="7-15"><speaker>TIM</speaker><content>You know what? I – I don’t have to. That’s him.</content></utterance>
+<utterance uid="7-16"><speaker>CASTLE</speaker><content>Well whoever he is, he’s a pilot.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>RYAN</speaker><content>According to the tail number on that plane, the Cessna is registered to a David Dunne. Guy’s got priors, too. Drunken disorderly, assault.</content></utterance>
+<utterance uid="8-2"><speaker>BECKETT</speaker><content>Where do we find him?</content></utterance>
+<utterance uid="8-3"><speaker>RYAN</speaker><content>Well this just lists his place of employment. 1215 Canal Street. 2nd floor.</content></utterance>
+</scene>
+
+<scene id="9"><utterance uid="9-1"><speaker>BECKETT</speaker><content>Wow. Someone takes Christmas seriously.</content></utterance>
+<utterance uid="9-2"><speaker>CASTLE</speaker><content>Ah, you should see our place. Our tree is a 15 ft.DouglasFir. We had our garland shipped in from some lake I can’t pronounce by the Canadian border. And wait ‘til you see my train set.</content></utterance>
+<utterance uid="9-3"><speaker>BECKETT</speaker><content>Yeah, can’t wait.</content></utterance>
+<utterance uid="9-4"><speaker>CASTLE</speaker><content>Hi.</content></utterance>
+<utterance uid="9-5"><speaker>RECEPTIONIST</speaker><content>Merry Christmas.</content></utterance>
+<utterance uid="9-6"><speaker>BECKETT</speaker><content>We’re looking for David Dunne.</content></utterance>
+<utterance uid="9-7"><speaker>RECEPTIONIST</speaker><content>Oh, Dave’s in the big room teaching a class.</content></utterance>
+<utterance uid="9-8"><speaker>CASTLE</speaker><content>What is it you do here, exactly?</content></utterance>
+<utterance uid="9-9"><speaker>RECEPTIONIST</speaker><content>We make magic.</content></utterance>
+<utterance uid="9-10"><speaker>DAVID DUNNE</speaker><content>Again!</content></utterance>
+<utterance uid="9-11"><speaker>SANTAS</speaker><content>Ho ho ho!</content></utterance>
+<utterance uid="9-12"><speaker>DUNNE</speaker><content>Again!</content></utterance>
+<utterance uid="9-13"><speaker>SANTAS</speaker><content>Ho ho ho!</content></utterance>
+<utterance uid="9-14"><speaker>DUNNE</speaker><content>Once again, from the diaphragm!</content></utterance>
+<utterance uid="9-15"><speaker>SANTAS</speaker><content>Ho ho ho!</content></utterance>
+<utterance uid="9-16"><speaker>DUNNE</speaker><content>That’s it.</content></utterance>
+<utterance uid="9-17"><speaker>CASTLE</speaker><content>Santa school?</content></utterance>
+<utterance uid="9-18"><speaker>BECKETT</speaker><content>And I bet you one Santa is missing.</content></utterance>
+<utterance uid="9-19"><speaker>SANTAS</speaker><content>Ho ho ho!</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>DUNNE</speaker><content>This is crazy. I did not kill Edmund.</content></utterance>
+<utterance uid="10-2"><speaker>CASTLE</speaker><content>Trust me, you’re going to have to do a lot better than that to convince her.</content></utterance>
+<utterance uid="10-3"><speaker>BECKETT</speaker><content>You can start by telling us when you last flew your plane.</content></utterance>
+<utterance uid="10-4"><speaker>DUNNE</speaker><content>Not for weeks. You can check.</content></utterance>
+<utterance uid="10-5"><speaker>BECKETT</speaker><content>We intend to. Now, where were you at 9:30 last night.</content></utterance>
+<utterance uid="10-6"><speaker>DUNNE</speaker><content>I was at the Harlem Youth Center handing out gifts to kids. I wasn’t anywhere near Edmund.</content></utterance>
+<utterance uid="10-7"><speaker>CASTLE</speaker><content>But you did engage in some un-Santa-like behavior at his apartment.</content></utterance>
+<utterance uid="10-8"><speaker>DUNNE</speaker><content>Is that what this is about?  That was nothing.</content></utterance>
+<utterance uid="10-9"><speaker>BECKETT</speaker><content>You threatened to kill him and now he’s dead. I wouldn’t call that nothing.</content></utterance>
+<utterance uid="10-10"><speaker>DUNNE</speaker><content>I can explain that, okay? See, Edmund took one of my best gigs. It was a print ad for Cartier. I was their go-to Santa. But this year they wanted to go more warm and cuddly. Look at me. I’m warm, I’m cuddly. But no, they chose Edmund, so yeah, I drank too much peppermint schnapps and went over to his place and popped off. I’m not proud of it. But that was all I did.</content></utterance>
+<utterance uid="10-11"><speaker>BECKETT</speaker><content>Did you see him again after that?</content></utterance>
+<utterance uid="10-12"><speaker>DUNNE</speaker><content>No. You have to understand. When I first met Edmund 5 years ago, he was at a low point in life. I raised him up. I taught him everything I knew. I turned him into a world class Santa. And now I’m losing gigs to him? Maybe that’s it. Maybe it’s time to hang up the fluffy red jockstrap.</content></utterance>
+<utterance uid="10-13"><speaker>CASTLE</speaker><content>Is – is that a metaphor or do you really –</content></utterance>
+<utterance uid="10-14"><speaker>BECKETT</speaker><content>Ah, when Edmund was killed he was wearing his Santa suit. Do you know if he had a job last night?</content></utterance>
+<utterance uid="10-15"><speaker>DUNNE</speaker><content>You’d have to ask his agent.</content></utterance>
+<utterance uid="10-16"><speaker>CASTLE</speaker><content>Santas have agents?</content></utterance>
+<utterance uid="10-17"><speaker>DUNNE</speaker><content>Yeah. Mostly we use the Bells and Holly Agency.</content></utterance>
+<utterance uid="10-18"><speaker>CASTLE</speaker><content>You said Edmund was at a low point in his life. What did you mean by that?</content></utterance>
+<utterance uid="10-19"><speaker>DUNNE</speaker><content>I just think he became a Santa to turn his life around. And it worked, too.</content></utterance>
+<utterance uid="10-20"><speaker>BECKETT</speaker><content>Turn his life around? Was he in trouble of some sort?</content></utterance>
+<utterance uid="10-21"><speaker>DUNNE</speaker><content>All I know is back when I met him, Edmund was a totally different guy.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>RYAN</speaker><content>David Dunne’s alibi checked out. Harlem Youth Club said that he was there last night and the Cessna’s been parked in a hangar for over a month.</content></utterance>
+<utterance uid="11-2"><speaker>BECKETT</speaker><content>Did you find out what Santa job Edmund was doing?</content></utterance>
+<utterance uid="11-3"><speaker>RYAN</speaker><content>His agent said he wasn’t booked on any gigs last night.</content></utterance>
+<utterance uid="11-4"><speaker>BECKETT</speaker><content>So why was he wearing his Santa suit and how did he end up dead?</content></utterance>
+<utterance uid="11-5"><speaker>CASTLE</speaker><content>If this was a story it would all come back to Edmund’s character. Why he became a Santa in the first place.</content></utterance>
+<utterance uid="11-6"><speaker>ESPOSITO</speaker><content>Turns out, that’s a mystery all by itself. I’ve been looking into this guy and check it.  That is Santa 5 years ago. Meet James Edmund Smith. He was a private equity manager at some big firm.</content></utterance>
+<utterance uid="11-7"><speaker>BECKETT</speaker><content>That’s the same guy?</content></utterance>
+<utterance uid="11-8"><speaker>ESPOSITO</speaker><content>Yeah.</content></utterance>
+<utterance uid="11-9"><speaker>BECKETT</speaker><content>What happened?</content></utterance>
+<utterance uid="11-10"><speaker>CASTLE</speaker><content>Dedication to his craft.</content></utterance>
+<utterance uid="11-11"><speaker>ESPOSITO</speaker><content>Like De Niro in Raging Bull.</content></utterance>
+<utterance uid="11-12"><speaker>BECKETT</speaker><content>To be a Santa?</content></utterance>
+<utterance uid="11-13"><speaker>ESPOSITO</speaker><content>It’s pretty extreme, I know. And I’ll tell you this much. He didn’t go all Santa for the money. Back in the day he used to pull down half a mil a year. As Santa he made a tenth of that.</content></utterance>
+<utterance uid="11-14"><speaker>RYAN</speaker><content>He made that much as a Santa? Maybe I should switch jobs, huh?</content></utterance>
+<utterance uid="11-15"><speaker>ESPOSITO</speaker><content>What, gain 200 pounds and have a bunch of rugrats sitting in your lap with dirty diapers?</content></utterance>
+<utterance uid="11-16"><speaker>RYAN</speaker><content>Yeah, thanks for that visual.</content></utterance>
+<utterance uid="11-17"><speaker>ESPOSITO</speaker><content>Oh, here’s another thing. I pulled Edmund’s financials. On the night he was killed he withdrew $2 grand from his ATM.</content></utterance>
+<utterance uid="11-18"><speaker>CASTLE</speaker><content>He didn’t have that money on him when we found him. His wallet was empty.</content></utterance>
+<utterance uid="11-19"><speaker>BECKETT</speaker><content>All right, take a look at the ATM footage and see if anyone was with him. He might have been robbed.</content></utterance>
+<utterance uid="11-20"><speaker>CASTLE</speaker><content>Ah… robbed and then launched into space?</content></utterance>
+<utterance uid="11-21"><speaker>BECKETT</speaker><content>And how is that less plausible than your sleigh?</content></utterance>
+<utterance uid="11-22"><speaker>CASTLE</speaker><content>I think you mean less claus-ible.</content></utterance>
+<utterance uid="11-23"><speaker>BECKETT</speaker><content>What about his phone records?</content></utterance>
+<utterance uid="11-24"><speaker>RYAN</speaker><content>Made a bunch of calls to some lawyer in Brooklyn. But here’s the interesting one. The last phone call he ever made was to his ex-wife.</content></utterance>
+<utterance uid="11-25"><speaker>CASTLE</speaker><content>Mrs. Claus.</content></utterance>
+<utterance uid="11-26"><speaker>RYAN</speaker><content>Gwenn Harwin. I went back pretty far in his phone records. He hasn’t called her for at least 3 years.</content></utterance>
+<utterance uid="11-27"><speaker>BECKETT</speaker><content>So he pulls out $2 grand, calls his ex-wife, and a couple of hours later he ends up dead. Let’s bring her in.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>GWENN HARWIN</speaker><content>He called me to say that he wanted to stop by. It was the strangest thing. When he showed up, I didn’t recognize him. He was just … gone.</content></utterance>
+<utterance uid="12-2"><speaker>BECKETT</speaker><content>I’m sorry to ask you this, Ms. Harwin, but where were you last night at 9:30?</content></utterance>
+<utterance uid="12-3"><speaker>GWENN</speaker><content>It’s quite all right. I understand. I was hosting a benefit for the food bank.</content></utterance>
+<utterance uid="12-4"><speaker>BECKETT</speaker><content>And why did Edmund come to see you?</content></utterance>
+<utterance uid="12-5"><speaker>GWENN</speaker><content>To apologize.</content></utterance>
+<utterance uid="12-6"><speaker>CASTLE</speaker><content>Apologize for what?</content></utterance>
+<utterance uid="12-7"><speaker>GWENN</speaker><content>For the way he walked out on our life.  We were good together. At least, I thought we were. Twelve years of marriage, of building a life together, and then five years ago, Christmas Eve, we went to a party and afterwards we stayed up to watch It’s A Wonderful Life. And the next morning he left with just the shirt on his back and no explanation.</content></utterance>
+<utterance uid="12-8"><speaker>BECKETT</speaker><content>But why would he visit you now?</content></utterance>
+<utterance uid="12-9"><speaker>GWENN</speaker><content>He wanted me to know how sorry he was for the way he left in case … anything happened to him.</content></utterance>
+<utterance uid="12-10"><speaker>CASTLE</speaker><content>What did he mean by that?</content></utterance>
+<utterance uid="12-11"><speaker>GWENN</speaker><content>I – I don’t know what he meant. I don’t even know who this man was. He seemed very nervous and very on edge.</content></utterance>
+<utterance uid="12-12"><speaker>BECKETT</speaker><content>Did he give you any indication of what he was afraid of or who might have been after him?</content></utterance>
+<utterance uid="12-13"><speaker>GWENN</speaker><content>After he left I went to the window to watch him get to the cab. And as the cab pulled away there was a man on a motorcycle who was following him.</content></utterance>
+<utterance uid="12-14"><speaker>BECKETT</speaker><content>We’re going to need you to give us a description of that motorcycle along with its rider.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>ESPOSITO</speaker><content>Early Christmas present from Jenny?</content></utterance>
+<utterance uid="13-2"><speaker>RYAN</speaker><content>Something like that. Would you mind … not touching it?</content></utterance>
+<utterance uid="13-3"><speaker>ESPOSITO</speaker><content>Oooh.  Well, well, well. Now I see what you and Jenny have got planned for Christmas Eve.  Ya’ll are gonna be getting busy.</content></utterance>
+<utterance uid="13-4"><speaker>ESPOSITO</speaker><content> Ho! Ho! Ho!</content></utterance>
+<utterance uid="13-5"><speaker>GATES</speaker><content>Uh …  I take it this is your idea of working the Santa case. Detective Esposito, you’re supposed to be digging up that ATM footage. And you are –</content></utterance>
+<utterance uid="13-6"><speaker>RYAN</speaker><content>Chasing down that lawyer our victim had been calling. Sir.</content></utterance>
+<utterance uid="13-7"><speaker>GATES</speaker><content>Okay, then. Let’s finish up this hoochie-coochie thing and get on with it.</content></utterance>
+<utterance uid="13-8"><speaker>ESPOSITO</speaker><content>Yes, Sir.</content></utterance>
+<utterance uid="13-9"><speaker>RYAN</speaker><content>So busted.</content></utterance>
+<utterance uid="13-10"><speaker>ESPOSITO</speaker><content>Bow chicha bow bown.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>BECKETT</speaker><content>How does a guy on a motorcycle connect to Edmund landing in the park?</content></utterance>
+<utterance uid="14-2"><speaker>CASTLE</speaker><content>Nothing connects. Why does a man watch a Christmas movie and then walk out on everything to become Santa?  Unless the key to Edmund’s story is It’s A Wonderful Life. You remember in the movie, George Bailey tried to commit suicide on Christmas Eve and was saved by an angel.</content></utterance>
+<utterance uid="14-3"><speaker>BECKETT</speaker><content>Which in our story is David Dunne.</content></utterance>
+<utterance uid="14-4"><speaker>CASTLE</speaker><content>Weird casting choice, I know. But what if Edmund was trying to jump off a metaphoric bridge? You know, start over.</content></utterance>
+<utterance uid="14-5"><speaker>BECKETT</speaker><content>As a Santa?</content></utterance>
+<utterance uid="14-6"><speaker>CASTLE</speaker><content>Yes.  Yeah, that’s where it falls apart.</content></utterance>
+<utterance uid="14-7"><speaker>RYAN</speaker><content>Actually, it looks like Edmund was way more than just a Santa. I finally got a hold of that lawyer he’d been calling. She’s actually filed a suit on behalf of his neighbors, the Cabots, who lost their home to a predatory lender, Suncove Funding. Something about illegal practices and forged documents. Anyway, it’s a class action suit representing 43 families with millions of dollars at stake.</content></utterance>
+<utterance uid="14-8"><speaker>BECKETT</speaker><content>But why was Edmund calling the lawyer?</content></utterance>
+<utterance uid="14-9"><speaker>RYAN</speaker><content>She had been working on contingency. She’s already lost tons of money pressing the case so she wanted to drop the suit. But Edmund begged her not to. In fact, he asked her to hold off just a few days, maybe he could turn things around.</content></utterance>
+<utterance uid="14-10"><speaker>CASTLE</speaker><content>How?</content></utterance>
+<utterance uid="14-11"><speaker>RYAN</speaker><content>He didn’t say. But the only thing that would turn things around was a check for $25 grand.</content></utterance>
+<utterance uid="14-12"><speaker>BECKETT</speaker><content>What do we know about this company that Edmund was up against?</content></utterance>
+<utterance uid="14-13"><speaker>RYAN</speaker><content>Suncove? It’s a fly by night. They made their money and then they folded. Gates actually has a friend at the SEC trying to dig up some information on them.</content></utterance>
+<utterance uid="14-14"><speaker>BECKETT</speaker><content>Can you check with the fraud division, see what they know about Suncove?</content></utterance>
+<utterance uid="14-15"><speaker>RYAN</speaker><content>Yeah, you got it.</content></utterance>
+<utterance uid="14-16"><speaker>BECKETT</speaker><content>Thanks.</content></utterance>
+<utterance uid="14-17"><speaker>CASTLE</speaker><content>Speaking of It’s A Wonderful Life, I was thinking perhaps tomorrow night we should have a Christmas movie marathon. Or some other kind of marathon that makes life wonderful.</content></utterance>
+<utterance uid="14-18"><speaker>BECKETT</speaker><content>Um…</content></utterance>
+<utterance uid="14-19"><speaker>CASTLE</speaker><content>What?</content></utterance>
+<utterance uid="14-20"><speaker>BECKETT</speaker><content>Castle, look, I know how much the holidays mean to you and how much you love Christmas, but I can’t make it tomorrow.</content></utterance>
+<utterance uid="14-21"><speaker>CASTLE</speaker><content>What?</content></utterance>
+<utterance uid="14-22"><speaker>BECKETT</speaker><content>The precinct is short staffed, so I’m gonna have to work.</content></utterance>
+<utterance uid="14-23"><speaker>CASTLE</speaker><content>How – what – don’t – don’t you have seniority? Don’t – how – how can this happen?</content></utterance>
+<utterance uid="14-24"><speaker>BECKETT</speaker><content> Look, I couldn’t tell Gates. She doesn’t know about us, okay? So … look, I’m sorry. I know that you’re disappointed.</content></utterance>
+<utterance uid="14-25"><speaker>CASTLE</speaker><content>No, uh … no. It’s not your fault, I know. It’s okay. I’m –  I gotta get out of here anyway, got to deal with Alexis and Christmas shopping.</content></utterance>
+<utterance uid="14-26"><speaker>BECKETT</speaker><content>Okay. Have fun.</content></utterance>
+<utterance uid="14-27"><speaker>CASTLE</speaker><content>Okay.</content></utterance>
+<utterance uid="14-28"><speaker>BECKETT</speaker><content>And don’t get me anything.</content></utterance>
+<utterance uid="14-29"><speaker>CASTLE</speaker><content>Right.</content></utterance>
+<utterance uid="14-30"><speaker>ESPOSITO</speaker><content>Hey. So uh, I pulled this from the ATM footage. Edmund was alone when he took out the cash, but he did get into a cab.</content></utterance>
+<utterance uid="14-31"><speaker>BECKETT</speaker><content>Any idea where he was going?</content></utterance>
+<utterance uid="14-32"><speaker>ESPOSITO</speaker><content>Yeah, I traced the taxi using the medallion. Cabbie said he took Edmund to Hohokus Field. It’s a small airfield out in Jersey.</content></utterance>
+<utterance uid="14-33"><speaker>BECKETT</speaker><content>Is that where he got on the plane?</content></utterance>
+<utterance uid="14-34"><speaker>ESPOSITO</speaker><content>You’d think, but no. The cabbie said that Edmund had him wait so he could go meet somebody. Then he got back in the cab, they left the airfield, and the cabbie dropped him off in Long Island City.</content></utterance>
+<utterance uid="14-35"><speaker>BECKETT</speaker><content>That doesn’t make any sense. How did he end up in the air if he went to Long Island City?</content></utterance>
+<utterance uid="14-36"><speaker>ESPOSITO</speaker><content>I have no idea. But the person that he met with at the airfield might.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>ESPOSITO</speaker><content>So. You pulled the Christmas shift. Again.</content></utterance>
+<utterance uid="15-2"><speaker>BECKETT</speaker><content>You know you shouldn’t be eavesdropping, buddy.</content></utterance>
+<utterance uid="15-3"><speaker>BECKETT</speaker><content>Espo, does that look cherry red to you?</content></utterance>
+<utterance uid="15-4"><speaker>ESPOSITO</speaker><content>It does.</content></utterance>
+<utterance uid="15-5"><speaker>BECKETT</speaker><content>Just like the paint chip we found on Edmund.</content></utterance>
+<utterance uid="15-6"><speaker>BECKETT</speaker><content>This lock’s been tampered with. Looks like it was forced open.</content></utterance>
+<utterance uid="15-7"><speaker>BECKETT</speaker><content>There’s fresh blood here. And lots of it.</content></utterance>
+<utterance uid="15-8"><speaker>ESPOSITO</speaker><content>Looks like we just found our crime scene.</content></utterance>
+<utterance uid="15-9"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>ESPOSITO</speaker><content>Looks like the blood is a match to Edmund, but so far there are no prints. It looks like the cockpit’s been wiped.</content></utterance>
+<utterance uid="16-2"><speaker>BECKETT</speaker><content>If Edmund came down here and then he went back to Long Island City then how the hell did he end up in this chopper?</content></utterance>
+<utterance uid="16-3"><speaker>ESPOSITO</speaker><content>Well whoever was with him has got to have the answer to that.</content></utterance>
+<utterance uid="16-4"><speaker>BECKETT</speaker><content>Let’s start with who owns this thing.</content></utterance>
+<utterance uid="16-5"><speaker>ESPOSITO</speaker><content>Well, according to the airfield manager Mr. Mudge, it belongs to a Chuck Ames. He’s on vacation in Hawaii.</content></utterance>
+<utterance uid="16-6"><speaker>BECKETT</speaker><content>Hi, Mr. Mudge. I’m Kate Beckett.  Now, is anyone else authorized to fly that bird?</content></utterance>
+<utterance uid="16-7"><speaker>ESPOSITO</speaker><content>Looks like just about anybody can have access to this airfield. There’s no checkpoints, no cameras.</content></utterance>
+<utterance uid="16-8"><speaker>ESPOSITO</speaker><content>The point is, if someone did get on to this property how hard would it be to fly that chopper out of here?</content></utterance>
+<utterance uid="16-9"><speaker>BECKETT</speaker><content>So then we’re looking for someone who knew the ins and outs of this airport along with the act that that chopper was going to be here.</content></utterance>
+<utterance uid="16-10"><speaker>ESPOSITO</speaker><content>Maybe even someone that knew Chuck Ames would be in Hawaii.</content></utterance>
+<utterance uid="16-11"><speaker>BECKETT</speaker><content>We’re gonna need Mr. Ames’ contact info, along with all the names of your employees and everyone who’s flown through here in the past year.</content></utterance>
+<utterance uid="16-12"><speaker>BECKETT</speaker><content>Yeah, and we have a murder to solve. Now, is there any way to know where the chopper flew last night? Is there a flight recorder? GPS system?</content></utterance>
+<utterance uid="16-13"><speaker>BECKETT</speaker><content>Do you have a record of the fuel that was in the tank?</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>RYAN</speaker><content>Which means we can figure out how far the chopper flew by how much fuel was used. It was down about a fifth of a tank, the R-44 burns about 4 or 5 miles per gallon, so it flew about 45 miles.</content></utterance>
+<utterance uid="17-2"><speaker>BECKETT</speaker><content>That’s almost exactly how far it is to Long Island City and back.</content></utterance>
+<utterance uid="17-3"><speaker>RYAN</speaker><content>Edmund took the cab there and must have gotten in that chopper.</content></utterance>
+<utterance uid="17-4"><speaker>BECKETT</speaker><content>Okay, let’s check all the heliports in Long Island City and find out where.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>CASTLE</speaker><content>I mean, it’s bad enough that Santa has been murdered. This will be the first Christmas Eve in 18 years we haven’t spent together. I mean, it sets a grim precedent.</content></utterance>
+<utterance uid="18-2"><speaker>ALEXIS</speaker><content>Dad, you’re being dramatic.</content></utterance>
+<utterance uid="18-3"><speaker>CASTLE</speaker><content>Ah, you can see your friends any time.</content></utterance>
+<utterance uid="18-4"><speaker>ALEXIS</speaker><content>Well, what if it’s just one person? And he’s not really just a friend?</content></utterance>
+<utterance uid="18-5"><speaker>CASTLE</speaker><content>Oh. Oh, a new guy. Okay. Well, does this non-plural non-friend have a name?</content></utterance>
+<utterance uid="18-6"><speaker>ALEXIS</speaker><content>It’s Max.</content></utterance>
+<utterance uid="18-7"><speaker>CASTLE</speaker><content>Max.</content></utterance>
+<utterance uid="18-8"><speaker>ALEXIS</speaker><content>I met him at the annual bad poetry contest right before Thanksgiving.</content></utterance>
+<utterance uid="18-9"><speaker>CASTLE</speaker><content>I see. Well, bring him along. I would like to meet this bad poet.</content></utterance>
+<utterance uid="18-10"><speaker>ALEXIS</speaker><content>Meet my dad on Christmas Eve?</content></utterance>
+<utterance uid="18-11"><speaker>CASTLE</speaker><content>Yeah.</content></utterance>
+<utterance uid="18-12"><speaker>ALEXIS</speaker><content>That’s – that’s way too much pressure.</content></utterance>
+<utterance uid="18-13"><speaker>CASTLE</speaker><content>Pressure to what? Eat, drink, and be merry? It’ll be – we –</content></utterance>
+<utterance uid="18-14"><speaker>ALEXIS</speaker><content>Max is going to London with his family on Christmas Day. I won’t get to see him until after break. We just want to go ice skating in the park.</content></utterance>
+<utterance uid="18-15"><speaker>CASTLE</speaker><content>Yeah, of course. Of course. Go. Have a great time.</content></utterance>
+<utterance uid="18-16"><speaker>ALEXIS</speaker><content>Besides, you’ll be with Beckett.</content></utterance>
+<utterance uid="18-17"><speaker>CASTLE</speaker><content>Right.</content></utterance>
+<utterance uid="18-18"><speaker>ALEXIS</speaker><content>Oh! And don’t worry. I’ll be home in bed before Santa comes.</content></utterance>
+<utterance uid="18-19"><speaker>CASTLE</speaker><content>Right.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>CASTLE</speaker><content>Oh, Captain Gates.</content></utterance>
+<utterance uid="19-2"><speaker>GATES</speaker><content>Yes, what is it?</content></utterance>
+<utterance uid="19-3"><speaker>CASTLE</speaker><content>I just wanted to make sure that you go this before you took off for the holidays.</content></utterance>
+<utterance uid="19-4"><speaker>GATES</speaker><content>Oh. Well thank you, Mr. Castle. I – I’m sorry, I don’t have anything for you.</content></utterance>
+<utterance uid="19-5"><speaker>CASTLE</speaker><content>Please. Just being here each day is a gift. I just wanted to let you know how much I appreciate all that you do.  You and Detective Beckett.</content></utterance>
+<utterance uid="19-6"><speaker>GATES</speaker><content>Mr. Castle, I am on my way uptown to meet my mother-in-law to have tea and eat those tiny freaking sandwiches, so why don’t you say what’s on your mind.</content></utterance>
+<utterance uid="19-7"><speaker>CASTLE</speaker><content>I’m just so worried about Detective Beckett. I mean, she works so hard. Don’t you think she deserves a little holiday? Isn’t there someone else who could take that Christmas Eve shift?</content></utterance>
+<utterance uid="19-8"><speaker>GATES</speaker><content>First of all, how I schedule my people is not your concern. And having said that, Detective Beckett volunteered to take the shift.</content></utterance>
+<utterance uid="19-9"><speaker>CASTLE</speaker><content>When did she do that?</content></utterance>
+<utterance uid="19-10"><speaker>GATES</speaker><content>Earlier today. She came to me and asked to take Detective Eldin’s shift. He has a family and she doesn’t.</content></utterance>
+<utterance uid="19-11"><speaker>CASTLE</speaker><content>Okay then. Problem solved.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>BECKETT</speaker><content>Okay, so that narrows it down to five heliports in Long Island City.</content></utterance>
+<utterance uid="20-2"><speaker>RYAN</speaker><content>One is a police station, one’s a hospital. They’d both be monitored, so that leaves helipads at Bankcorp Building, One West Hotel, and Case Commerce Building.</content></utterance>
+<utterance uid="20-3"><speaker>BECKETT</speaker><content> Case Commerce.  The candy canes. Case Commerce, CC. That’s where Edmund was. Let’s find out why.</content></utterance>
+<utterance uid="20-4"><speaker>BECKETT</speaker><content>Hey, Castle. You coming?</content></utterance>
+<utterance uid="20-5"><speaker>CASTLE</speaker><content>Yeah, sure.</content></utterance>
+</scene>
+
+<scene id="21"><utterance uid="21-1"><speaker>CASTLE</speaker><content>Ah, you can’t escape it. Christmas is everywhere. So much pressure to have a good time.</content></utterance>
+<utterance uid="21-2"><speaker>BECKETT</speaker><content>Are you okay?</content></utterance>
+<utterance uid="21-3"><speaker>CASTLE</speaker><content>Why wouldn’t I be?</content></utterance>
+<utterance uid="21-4"><speaker>BECKETT</speaker><content>Case Commerce. There it is.</content></utterance>
+<utterance uid="21-5"><speaker>BECKETT</speaker><content>Hi.  What’s going on here?</content></utterance>
+<utterance uid="21-6"><speaker>UNIFORM</speaker><content>A heist occurred at the Christmas party last night.</content></utterance>
+<utterance uid="21-7"><speaker>CASTLE</speaker><content>A heist?</content></utterance>
+<utterance uid="21-8"><speaker>DENISE MCKAY</speaker><content>Well, I – I didn’t notice anything was missing until this morning. And that’s when I called you people.</content></utterance>
+<utterance uid="21-9"><speaker>CASTLE</speaker><content>You didn’t happen to have a Santa working your party, did you?</content></utterance>
+<utterance uid="21-10"><speaker>DENISE</speaker><content>Yes, we did.</content></utterance>
+<utterance uid="21-11"><speaker>BECKETT</speaker><content>Did he look like this?</content></utterance>
+<utterance uid="21-12"><speaker>DENISE</speaker><content>Yes. He was our Santa. Why?</content></utterance>
+<utterance uid="21-13"><speaker>CASTLE</speaker><content>Looks like our Santa was a little more naughty than nice.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>MICHAEL CASE</speaker><content>No, I never saw him before last night. And I wasn’t aware he’d stolen anything. But given what we do here, I suppose it could have been a lot worse.</content></utterance>
+<utterance uid="22-2"><speaker>BECKETT</speaker><content>And what is it that your company does, Mr. Case?</content></utterance>
+<utterance uid="22-3"><speaker>CASE</speaker><content>Investment services. Asset management, mostly. Given the amount of client and account information we’d be a gold mine for identity thieves.  None of those systems were touched.</content></utterance>
+<utterance uid="22-4"><speaker>CASTLE</speaker><content>So what did he steal?</content></utterance>
+<utterance uid="22-5"><speaker>DENISE</speaker><content>A clock from his office in back.</content></utterance>
+<utterance uid="22-6"><speaker>BECKETT</speaker><content>I’m sorry, did you just say clock?</content></utterance>
+<utterance uid="22-7"><speaker>CASE</speaker><content>Not just any clock, Detective. A Thomas Tillage.</content></utterance>
+<utterance uid="22-8"><speaker>CASTLE</speaker><content>Ooh.  Legendary clockmaker from the restoration period.  That must have been a great deal.</content></utterance>
+<utterance uid="22-9"><speaker>CASE</speaker><content>I had it appraised at $30 thousand.</content></utterance>
+<utterance uid="22-10"><speaker>CASTLE</speaker><content>Wow. How big was it?</content></utterance>
+<utterance uid="22-11"><speaker>CASE</speaker><content>It was about this size. </content></utterance>
+<utterance uid="22-12"><speaker>CASTLE</speaker><content>Small enough to fit in his sack.</content></utterance>
+<utterance uid="22-13"><speaker>CASE</speaker><content>You know, it’s hard enough imagining one of my guests being a thief, but Santa?</content></utterance>
+<utterance uid="22-14"><speaker>BECKETT</speaker><content>Are you sure nothing else is missing?</content></utterance>
+<utterance uid="22-15"><speaker>CASE</speaker><content>Positive. Why?</content></utterance>
+<utterance uid="22-16"><speaker>BECKETT</speaker><content>Well because our evidence suggests that your Santa left by helicopter, which was waiting on you helipad.</content></utterance>
+<utterance uid="22-17"><speaker>DENISE</speaker><content>Why would he take a helicopter?</content></utterance>
+<utterance uid="22-18"><speaker>CASTLE</speaker><content>You didn’t hear anything from the party?</content></utterance>
+<utterance uid="22-19"><speaker>CASE</speaker><content>No. But the music was loud and the back wall is soundproof.</content></utterance>
+<utterance uid="22-20"><speaker>BECKETT</speaker><content>Was there anything else that was special about this clock?</content></utterance>
+<utterance uid="22-21"><speaker>CASE</speaker><content>Not that I’m aware of.</content></utterance>
+<utterance uid="22-22"><speaker>BECKETT</speaker><content>Okay. I’m going to get one of my Detectives to come down and interview your staff. In the meantime, could I have a list of all the party attendees?</content></utterance>
+<utterance uid="22-23"><speaker>CASE</speaker><content>Sure.</content></utterance>
+<utterance uid="22-24"><speaker>DENISE</speaker><content>Of course.</content></utterance>
+<utterance uid="22-25"><speaker>BECKETT</speaker><content>We’ll also pull elevator footage to make sure that there weren’t any uninvited guests.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>CASTLE</speaker><content>$30 thousand. That’s a little more than the Cabots needed for their lawsuit. Maybe our Santa is Robin Hood. Stealing from the rich to give to the poor?</content></utterance>
+<utterance uid="23-2"><speaker>BECKETT</speaker><content>Yeah, but why would he use a helicopter to steal this? I mean, he could have just stuffed it in his sack and ho ho ho’d his way out of there. It has to be about more than just the clock.</content></utterance>
+<utterance uid="23-3"><speaker>CASTLE</speaker><content>Well, there were a couple more clocks on his workbench. Maybe this one’s significance somehow.</content></utterance>
+<utterance uid="23-4"><speaker>BECKETT</speaker><content>Okay. What’s your theory?</content></utterance>
+<utterance uid="23-5"><speaker>CASTLE</speaker><content>Uh …  Treasure map inside.  No. No, the clock was commissioned by a secret society to count down the end of days. A secret society of Santas, who are the guardians of times.  Oh, that’s good.</content></utterance>
+<utterance uid="23-6"><speaker>BECKETT</speaker><content>Okay, putting aside the mystery of the helicopter, let’s say it is about the clock. How did Edmund know about it? No one from the office recognized him.</content></utterance>
+<utterance uid="23-7"><speaker>CASTLE</speaker><content>Well maybe he worked the party before.</content></utterance>
+<utterance uid="23-8"><speaker>ESPOSITO</speaker><content>Sorry, bro. I checked. He hasn’t. But he sure was determined to work it this year. The agency had booked another Santa to work that party but someone from Case Commerce called about a week ago to cancel.</content></utterance>
+<utterance uid="23-9"><speaker>BECKETT</speaker><content>Let me guess. No one actually called from Case?</content></utterance>
+<utterance uid="23-10"><speaker>ESPOSITO</speaker><content>Ding ding.</content></utterance>
+<utterance uid="23-11"><speaker>CASTLE</speaker><content>And when he arrived they assumed he was the Santa they’d hired.</content></utterance>
+<utterance uid="23-12"><speaker>ESPOSITO</speaker><content>Kind of a brilliant scam, really. You have access to high end homes and businesses. And who’s going to distrust Santa?</content></utterance>
+<utterance uid="23-13"><speaker>CASTLE</speaker><content>Uh … his partners, apparently. No honor among thieves. Even Santa thieves.</content></utterance>
+<utterance uid="23-14"><speaker>BECKETT</speaker><content>All right, have robbery send that photo to pawn shops and auction houses. If his partners try to cash in, I want to know.</content></utterance>
+<utterance uid="23-15"><speaker>ESPOSITO</speaker><content>Absolutely.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>BECKETT</speaker><content>Man leaves his life in a high paid job to become the neighborhood saint only to be shot dead after stealing a clock that’s worth less than your average car. And then he gets thrown out of a helicopter that he didn’t even need to be in in the first place. It makes no sense. Given everything that we know about this guy, this is completely out of character.</content></utterance>
+<utterance uid="24-2"><speaker>CASTLE</speaker><content>Sometimes people do inexplicable things.</content></utterance>
+<utterance uid="24-3"><speaker>BECKETT</speaker><content>There’s an explanation for everything.</content></utterance>
+<utterance uid="24-4"><speaker>CASTLE</speaker><content>Is there?  You volunteered to take Eldin’s shift. Don’t pretend. If you aren’t ready, why not just tell me?</content></utterance>
+<utterance uid="24-5"><speaker>BECKETT</speaker><content>I’m sorry, Castle. I didn’t mean to –</content></utterance>
+<utterance uid="24-6"><speaker>CASTLE</speaker><content>You didn’t mean to what?</content></utterance>
+<utterance uid="24-7"><speaker>BECKETT</speaker><content>Christmas means something different to me than it does to you.</content></utterance>
+<utterance uid="24-8"><speaker>CASTLE</speaker><content>It’s Christmas. I mean, how can it be different?</content></utterance>
+<utterance uid="24-9"><speaker>BECKETT</speaker><content> Castle, every winter, as soon as that chill rolls in, I’m right back there in that alley. January 9th and we still hadn’t taken our Christmas decorations down. And by the time my dad and I did, it was like we were putting Christmas away forever.  We haven’t opened those boxes since.</content></utterance>
+<utterance uid="24-10"><speaker>CASTLE</speaker><content>I didn’t know.</content></utterance>
+<utterance uid="24-11"><speaker>BECKETT</speaker><content>That’s why every year my dad goes up to his cabin and ever since I became a rookie I have taken the Christmas shift. Because I know that there are families out there that are celebrating together in their homes and I am keeping watch. And that is my tradition. And that is important to me. It’s as important as your tradition is to you. And I’m sorry, Castle. I thought I could let that go, but I –</content></utterance>
+<utterance uid="24-12"><speaker>CASTLE</speaker><content>I understand.</content></utterance>
+<utterance uid="24-13"><speaker>BECKETT</speaker><content>Beckett.</content></utterance>
+<utterance uid="24-14"><speaker>RYAN</speaker><content>Yeah, so I got a custodian that was up on the roof last night for a smoke.</content></utterance>
+<utterance uid="24-15"><speaker>BECKETT</speaker><content>Did he see anything?</content></utterance>
+<utterance uid="24-16"><speaker>RYAN</speaker><content>It’s not what he saw, it’s what he found. Place was cleaned earlier in the day but when he got up there there was trash blown all over the helipad. Probably from the rotor wash when it took off.</content></utterance>
+<utterance uid="24-17"><speaker>BECKETT</speaker><content>What kind of trash?</content></utterance>
+<utterance uid="24-18"><speaker>RYAN</speaker><content>The kind that looked like someone had been waiting for someone. Soda can, candy wrappers, and an empty pouch of pipe tobacco.</content></utterance>
+<utterance uid="24-19"><speaker>BECKETT</speaker><content>Pipe tobacco.</content></utterance>
+<utterance uid="24-20"><speaker>CASTLE</speaker><content>Now who do we know that smokes a pipe and flies?</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>DUNNE</speaker><content>Now remember, when you go out there, Santa does not enter through the chimney. He enters through the heart.</content></utterance>
+<utterance uid="25-2"><speaker>ESPOSITO</speaker><content>What about through a helicopter?</content></utterance>
+<utterance uid="25-3"><speaker>ESPOSITO</speaker><content>What are you doing?</content></utterance>
+<utterance uid="25-4"><speaker>ESPOSITO</speaker><content>Put that down.</content></utterance>
+<utterance uid="25-5"><speaker>ESPOSITO</speaker><content>Are you crazy?</content></utterance>
+<utterance uid="25-6"><speaker>ESPOSITO</speaker><content>I said put that down!</content></utterance>
+<utterance uid="25-7"><speaker>RYAN</speaker><content>Merry Christmas to all.</content></utterance>
+<utterance uid="25-8"><speaker>ESPOSITO</speaker><content>And to all a good night.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>DUNNE</speaker><content>I already told you where I was and it wasn’t in any helicopter!</content></utterance>
+<utterance uid="26-2"><speaker>CASTLE</speaker><content>Yeah, about that. We checked the photos from the Harlem Youth Club. The Santa that was there was not you.</content></utterance>
+<utterance uid="26-3"><speaker>BECKETT</speaker><content>Where were you that night, really?  Let me help you. I just got off the phone with Chuck Ames, the guy that owns that helicopter, and he said that you’ve rented it from him before.</content></utterance>
+<utterance uid="26-4"><speaker>DUNNE</speaker><content>Do I know the guy, so what? You’ve got no proof that I was in that helicopter that night.</content></utterance>
+<utterance uid="26-5"><speaker>BECKETT</speaker><content>That’s because you wiped it down when you brought it back but you took something with you, didn’t you?  We found this in your apartment.</content></utterance>
+<utterance uid="26-6"><speaker>CASTLE</speaker><content>Care to revise your statement?</content></utterance>
+<utterance uid="26-7"><speaker>BECKETT</speaker><content>Let me help you again. Edmund figured out a way to make a quick score for you both. He worked the party and you were the getaway flyer. And when he got back into the chopper you decided you wanted it all to yourself.</content></utterance>
+<utterance uid="26-8"><speaker>DUNNE</speaker><content>All what? All he had was a damn clock.</content></utterance>
+<utterance uid="26-9"><speaker>CASTLE</speaker><content>Not just any clock. A Thomas Tillage worth $30 thousand dollars.</content></utterance>
+<utterance uid="26-10"><speaker>DUNNE</speaker><content>That crap is worth $30 grand?</content></utterance>
+<utterance uid="26-11"><speaker>CASTLE</speaker><content>You didn’t know that?</content></utterance>
+<utterance uid="26-12"><speaker>DUNNE</speaker><content>No, I … And I didn’t kill him.</content></utterance>
+<utterance uid="26-13"><speaker>BECKETT</speaker><content>C’mon, Dave. You just admitted to being there.</content></utterance>
+<utterance uid="26-14"><speaker>DUNNE</speaker><content>All right, I was there.  Ed said he’d pay me $2 grand to fly the chopper to that building, wait while he loaded something on, then take off. And it wasn’t no clock. He wanted to know how much extra weight the chopper could handle.</content></utterance>
+<utterance uid="26-15"><speaker>BECKETT</speaker><content>What was he planning on taking?</content></utterance>
+<utterance uid="26-16"><speaker>DUNNE</speaker><content>For $2 grand I didn’t ask. I just flew the helipad and waited. Then all of a sudden here comes Edmund, running out onto the roof yelling ‘go, go!’. Next thing I know we’re taking fire.</content></utterance>
+<utterance uid="26-17"><speaker>BECKETT</speaker><content>Someone was shooting at you?</content></utterance>
+<utterance uid="26-18"><speaker>DUNNE</speaker><content>Hell yeah. They nailed Edmund just as he boarded the chopper.</content></utterance>
+<utterance uid="26-19"><speaker>CASTLE</speaker><content>Did you see who it was?</content></utterance>
+<utterance uid="26-20"><speaker>DUNNE</speaker><content>No, it was dark. I just cowboy’ed the hell out of there.  But poor Ed, I kept yelling to him to ‘close the damn door!’, but when I turned back he was already dead. Chopper banked hard. Before I knew it he was gone.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>CASTLE</speaker><content>Well if Dave was telling the truth the shooter was in that building.</content></utterance>
+<utterance uid="27-2"><speaker>BECKETT</speaker><content>Not just in the building. The only access to the helipad is through Case Commerce, which means our killer was at the party.</content></utterance>
+<utterance uid="27-3"><speaker>CASTLE</speaker><content>Okay, but what was Edmund doing? What was he planning on stealing that weighed so much and why would he take that stupid clock? It makes no sense.</content></utterance>
+<utterance uid="27-4"><speaker>ESPOSITO</speaker><content>It makes even less sense now.</content></utterance>
+<utterance uid="27-5"><speaker>RYAN</speaker><content>We were running though elevator security footage and we found one person who went up to the party who wasn’t on the guest list.</content></utterance>
+<utterance uid="27-6"><speaker>BECKETT</speaker><content>The neighbor kid? Tim Cabot?</content></utterance>
+<utterance uid="27-7"><speaker>CASTLE</speaker><content>And look what he’s holding.</content></utterance>
+<utterance uid="27-8"><speaker>BECKETT</speaker><content>A motorcycle helmet. So he was the one that followed Edmund on the motorcycle that night.</content></utterance>
+<utterance uid="27-9"><speaker>ESPOSITO</speaker><content>Kid’s got a record, too. B and E, assault, possession.</content></utterance>
+<utterance uid="27-10"><speaker>BECKETT</speaker><content>Yeah, but what the hell was he doing there?</content></utterance>
+<utterance uid="27-11"><speaker>GATES</speaker><content>I think I may have an answer. Remember that class action suit against Suncove Funding?</content></utterance>
+<utterance uid="27-12"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="27-13"><speaker>GATES</speaker><content>My contact at the SEC dug these up.  Suncove’s original articles of incorporation showing the name of the account signatory. Look familiar?</content></utterance>
+<utterance uid="27-14"><speaker>BECKETT</speaker><content>James Edmund Smith. The victim.</content></utterance>
+<utterance uid="27-15"><speaker>CASTLE</speaker><content>Santa is the shark that built those people out of their homes?</content></utterance>
+<utterance uid="27-16"><speaker>GATES</speaker><content>He’s got more blood on his hands than that. Tim Cabot’s father died in a car crash. Fell asleep at the wheel working three jobs to pay his inflated mortgage courtesy of Edmund Smith. That was Christmas Eve five years ago.</content></utterance>
+<utterance uid="27-17"><speaker>RYAN</speaker><content>The Christmas that Edmund walked out on his life.</content></utterance>
+<utterance uid="27-18"><speaker>CASTLE</speaker><content>So … it was a tale of redemption. Edmund moves next door to the family whose lives he destroyed, dedicating his life to repairing theirs, never telling themwho he really is.</content></utterance>
+<utterance uid="27-19"><speaker>ESPOSITO</speaker><content>But what if Tim found out?</content></utterance>
+<utterance uid="27-20"><speaker>CASTLE</speaker><content>Then it’s a very different tale.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>BETH</speaker><content>Oh.</content></utterance>
+<utterance uid="28-2"><speaker>BECKETT</speaker><content>I’m sorry, Mrs. Cabot. But we need to speak to your son.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>CASTLE</speaker><content>Your mom doesn’t know, does she? But you do. You knew who he was and how he ruined your lives.</content></utterance>
+<utterance uid="29-2"><speaker>TIM</speaker><content>Yeah. Yeah, I knew.</content></utterance>
+<utterance uid="29-3"><speaker>BETH</speaker><content>Tim, what –</content></utterance>
+<utterance uid="29-4"><speaker>TIM</speaker><content>It was Ed, Mom. He was Suncove, he was the one who bled us dry.</content></utterance>
+<utterance uid="29-5"><speaker>BETH</speaker><content>Ed? Our Ed?</content></utterance>
+<utterance uid="29-6"><speaker>BECKETT</speaker><content>You must have been pretty angry when you found out.</content></utterance>
+<utterance uid="29-7"><speaker>TIM</speaker><content>Hell yeah I was angry. When he told me I wanted to kill him. But I didn’t.</content></utterance>
+<utterance uid="29-8"><speaker>CASTLE</speaker><content>Wait. He told you?</content></utterance>
+<utterance uid="29-9"><speaker>TIM</speaker><content>Yeah. Last week. He asked for my forgiveness and said he wanted to make things right. The lawyer was going to drop the lawsuit but Ed said he couldn’t sit by any more. He knew where there was evidence that could win our case. But he needed my help.</content></utterance>
+<utterance uid="29-10"><speaker>BECKETT</speaker><content>What kind of help?</content></utterance>
+<utterance uid="29-11"><speaker>TIM</speaker><content>I’m good with locks, all right? He needed me to slip into the party with the wait staff and jimmy open the storage room door in the back.</content></utterance>
+<utterance uid="29-12"><speaker>BECKETT</speaker><content>And why didn’t you tell us this before?</content></utterance>
+<utterance uid="29-13"><speaker>TIM</speaker><content>Because I couldn’t get in trouble again. I need to be here for my mom.</content></utterance>
+<utterance uid="29-14"><speaker>BETH</speaker><content>What was in the storage room?</content></utterance>
+<utterance uid="29-15"><speaker>TIM</speaker><content>Files.  Boxes of them. Edmund said that they were the original, unaltered loan docs for Suncove. They were the evidence he needed to set things right.</content></utterance>
+<utterance uid="29-16"><speaker>BECKETT</speaker><content> One of his old partners must be at Case Commerce. He recognized Edmund and realized he was going after those files.</content></utterance>
+<utterance uid="29-17"><speaker>CASTLE</speaker><content>And that’s why he needed the helicopter. He couldn’t exactly cart them out the front door.</content></utterance>
+<utterance uid="29-18"><speaker>BECKETT</speaker><content>And with the cops all over the building it would have been risky for the killer to destroy them.</content></utterance>
+<utterance uid="29-19"><speaker>CASTLE</speaker><content>Which means they’re still there.</content></utterance>
+<utterance uid="29-20"><speaker>BECKETT</speaker><content>Along with our killer.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>DENISE</speaker><content>I tried to stop them but they had a warrant.</content></utterance>
+<utterance uid="30-2"><speaker>CASE</speaker><content>What the hell is this all about?</content></utterance>
+<utterance uid="30-3"><speaker>CASTLE</speaker><content>We were about to ask you the same thing.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>CASE</speaker><content>I’m telling you, I’ve never seen those files in my life.</content></utterance>
+<utterance uid="31-2"><speaker>BECKETT</speaker><content>So then what were they doing in your office storage space, Mr. Case?</content></utterance>
+<utterance uid="31-3"><speaker>CASE</speaker><content>I don’t have the slightest idea.</content></utterance>
+<utterance uid="31-4"><speaker>BECKETT</speaker><content> Are we really going to play this game, where you deny things that you and I both know are true? Like you telling me didn’t know Edmund?  We ran a background check. You and Edmund were business associates. So why would you claim that you didn’t know him? Unless you were hiding something. Like your involvement with Suncove Funding?  Did the two of you talk about how much money you could make if you could just bend the rules? How easy it would be to forge documents to put people into mortgages they couldn’t afford? How you could make a quick buck by selling them off to investors.</content></utterance>
+<utterance uid="31-5"><speaker>CASE</speaker><content>There’s nothing in those files that can implicate me. And nothing to tie me to Suncove Funding or to that man’s death.</content></utterance>
+<utterance uid="31-6"><speaker>BECKETT</speaker><content>That clock that was stolen, where did it come from?</content></utterance>
+<utterance uid="31-7"><speaker>CASE</speaker><content>I’m not sure. I’ll have to ask my decorator.</content></utterance>
+<utterance uid="31-8"><speaker>BECKETT</speaker><content>Don’t bother. We already have documents that prove it belonged to the Cabots.</content></utterance>
+<utterance uid="31-9"><speaker>CASE</speaker><content>Who are the Cabots?</content></utterance>
+<utterance uid="31-10"><speaker>BECKETT</speaker><content>One of the families whose house you stole. They put that clock up as collateral against a loan and when they couldn’t make the payments Suncove Funding kept it. And that connects you to Suncove.</content></utterance>
+<utterance uid="31-11"><speaker>BECKETT</speaker><content>When you saw Edmund that night you realized he was going after those files because he was going to blow the whistle on Suncove. You knew that Edmund could implicate him, so you killed him.</content></utterance>
+<utterance uid="31-12"><speaker>CASE</speaker><content>No. You’re wrong.</content></utterance>
+<utterance uid="31-13"><speaker>BECKETT</speaker><content>The US Attorney’s office would freeze your assets. They would seize all of your money. You were going to lose everything. Now, that is motive, that is opportunity, and that is enough for any jury to convict you.</content></utterance>
+<utterance uid="31-14"><speaker>CASE</speaker><content> I did not kill Edmund.  But I know who did. She was here. She stopped by the party.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>GWENN</speaker><content>You must be kidding me. Why would I kill him?</content></utterance>
+<utterance uid="32-2"><speaker>BECKETT</speaker><content>Because he couldn’t live with himself any longer with what he had done. Which meant he was going to take away the one thing that he left you after the divorce. Your lifestyle. Paid for by Suncove profits.</content></utterance>
+<utterance uid="32-3"><speaker>CASTLE</speaker><content>He didn’t come to you to apologize that night, did he? He came to warn you, because he knew if he blew the whistle on Suncove you stood to lose everything.</content></utterance>
+<utterance uid="32-4"><speaker>GWENN</speaker><content>This is absurd.</content></utterance>
+<utterance uid="32-5"><speaker>BECKETT</speaker><content>You knew everything and you knew why. So you followed him to the rooftop and then you shot him.</content></utterance>
+<utterance uid="32-6"><speaker>GWENN</speaker><content>I was at the benefit.</content></utterance>
+<utterance uid="32-7"><speaker>BECKETT</speaker><content>We know you were at Case Commerce. We have a witness. You killed Edmund.</content></utterance>
+<utterance uid="32-8"><speaker>GWENN</speaker><content>When he left me he told me he never wanted to hurt me. That’s what people always say right before they hurt you.  Yes, he left me my lifestyle. Five years later he shows up on my doorstep telling me again how he doesn’t want to hurt me. You know what the worst part is? Just for a moment when he stood there that night I was happy to see him.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>CASTLE</speaker><content>Gotta admire the guy. Sacrificed everything to redeem himself. It’s too bad his past caught up with him.</content></utterance>
+<utterance uid="33-2"><speaker>GATES</speaker><content>Still, those files are on their way to the US Attorney’s Office. Now the Cabots have a real shot at getting back what they lost.</content></utterance>
+<utterance uid="33-3"><speaker>BECKETT</speaker><content>Along with the 42 other families, all because of Edmund.</content></utterance>
+<utterance uid="33-4"><speaker>GATES</speaker><content>Speaking of people having their homes stolen.</content></utterance>
+<utterance uid="33-5"><speaker>BECKETT</speaker><content>Is that your mother-in-law again, Sir?</content></utterance>
+<utterance uid="33-6"><speaker>GATES</speaker><content>Detective, if you happen to receive a report of a homicide tonight at my address, do me a favor. Ignore it.</content></utterance>
+<utterance uid="33-7"><speaker>BECKETT</speaker><content> Yes, Sir.</content></utterance>
+<utterance uid="33-8"><speaker>BECKETT</speaker><content>Well Castle, looks like you might have been right. Maybe there is a Santa Claus after all.</content></utterance>
+<utterance uid="33-9"><speaker>CASTLE</speaker><content>Whether there’s a Santa Claus or not, that’s not why I love Christmas.  When I was a kid, not matter how bad things got, my mother always managed to make Christmas Eve magical. Every year she would put on The Nutcracker Suite. And I thought, if she can do that in our tiny apartment when money was tight and we were alone, it gave me hope that things could get better. And I love that feeling, that sense of hope. It’s crazy, you know. On the shortest, darkest days of the year people of all faiths celebrate the light.  Plus, who doesn’t love presents?</content></utterance>
+<utterance uid="33-10"><speaker>CASTLE</speaker><content>Um …. Merry Christmas.</content></utterance>
+<utterance uid="33-11"><speaker>BECKETT</speaker><content>You too.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>ESPOSITO</speaker><content>Yo, what you still doing here?  Shouldn’t you be at home, stuffing your wife’s stocking?</content></utterance>
+<utterance uid="34-2"><speaker>RYAN</speaker><content>I don’t think I’m ready, Javi.</content></utterance>
+<utterance uid="34-3"><speaker>ESPOSITO</speaker><content>For what? Sex?</content></utterance>
+<utterance uid="34-4"><speaker>RYAN</speaker><content>No. For what sex leads to. We were putting up the tree the other day, and Jenny says to me, “just doesn’t feel like Christmas without kids”. She wants to try. But I come to work. I watch the news every day. It seems like the world’s falling apart. How am I supposed to bring a kid into that?</content></utterance>
+<utterance uid="34-5"><speaker>ESPOSITO</speaker><content>The world’s always falling apart, bro. Since the beginning of time. But having kids? Making a family? That’s what keeps it together. So go home. Make a baby. You’re ready.</content></utterance>
+<utterance uid="34-6"><speaker>RYAN</speaker><content>Yeah. Thanks, bro.  Merry Christmas.</content></utterance>
+<utterance uid="34-7"><speaker>ESPOSITO</speaker><content>Yeah. Merry Christmas.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>CASTLE</speaker><content>Mother, the glögg is excellent.</content></utterance>
+<utterance uid="35-2"><speaker>MARTHA</speaker><content>Thank you.</content></utterance>
+<utterance uid="35-3"><speaker>CASTLE</speaker><content>And everything looks excellent. Just like always.</content></utterance>
+<utterance uid="35-4"><speaker>MARTHA</speaker><content>Oh, Richard. Richard, darling.  You don’t have to look so miserable.</content></utterance>
+<utterance uid="35-5"><speaker>CASTLE</speaker><content>Oh –</content></utterance>
+<utterance uid="35-6"><speaker>ALEXIS</speaker><content>She’s right, Dad. We know how much this tradition means to you. So we both decided to cancel our plans. We’re here all night. Like always.</content></utterance>
+<utterance uid="35-7"><speaker>CASTLE</speaker><content>I love you both so much that you would do that for me. But I was wrong about tonight. There’s some place I need to be.</content></utterance>
+<utterance uid="35-8"><speaker>ALEXIS</speaker><content>Dad, I –</content></utterance>
+<utterance uid="35-9"><speaker>MARTHA</speaker><content>Go.  Go, go, go.</content></utterance>
+<utterance uid="35-10"><speaker>CASTLE</speaker><content>I –  Uh, I was just coming to see you.</content></utterance>
+<utterance uid="35-11"><speaker>BECKETT</speaker><content>I was coming to see you.</content></utterance>
+<utterance uid="35-12"><speaker>CASTLE</speaker><content>What about your shift?</content></utterance>
+<utterance uid="35-13"><speaker>BECKETT</speaker><content>I got Karpowski to cover. What about your family tradition?</content></utterance>
+<utterance uid="35-14"><speaker>CASTLE</speaker><content>Um …  I was just thinking it’s time for a new tradition.</content></utterance>
+<utterance uid="35-15"><speaker>BECKETT</speaker><content>Me too.</content></utterance>
+<utterance uid="35-16"><speaker>MARTHA</speaker><content>Oh for God's sakes, Richard. Invite the girl in.</content></utterance>
+<utterance uid="35-17"><speaker>CASTLE</speaker><content>Right. Would you - ?</content></utterance>
+<utterance uid="35-18"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="35-19"><speaker>BECKETT</speaker><content>It’s beautiful.</content></utterance>
+<utterance uid="35-20"><speaker>BECKETT</speaker><content> Merry Christmas.</content></utterance>
+<utterance uid="35-21"><speaker>CASTLE</speaker><content> I didn’t get you anything.</content></utterance>
+<utterance uid="35-22"><speaker>BECKETT</speaker><content>What?</content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>ESPOSITO</speaker><content>Ms. Cabot?  I’m Detective Esposito. I have something that I think belongs to you.</content></utterance>
+<utterance uid="36-2"><speaker>ESPOSITO</speaker><content>We found out that your husband put that up for collateral against the mortgage on your house.</content></utterance>
+<utterance uid="36-3"><speaker>BETH</speaker><content>I haven’t seen this for so long. It was handed down through his family for generations.</content></utterance>
+<utterance uid="36-4"><speaker>ESPOSITO</speaker><content>I think that’s why Edmund took it. He wanted to you to have it back.</content></utterance>
+<utterance uid="36-5"><speaker>BETH</speaker><content>Thank you.</content></utterance>
+<utterance uid="36-6"><speaker>BETH</speaker><content>Wait. Why don’t you come inside? We’re just having dinner.</content></utterance>
+<utterance uid="36-7"><speaker>ESPOSITO</speaker><content>Okay.</content></utterance>
+</scene>
+</script>

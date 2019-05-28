@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>MAN</speaker><content>This is Blackbird. Identification?</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>MAN</speaker><content>This call is unauthorized, 223. This line is not secure.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>MAN</speaker><content>Negative, 223. You know the rules. </content></utterance>
+</scene>
+
+<scene id="4"><utterance uid="4-1"><speaker>WALTER BURNS</speaker><content>We've got something between us nothing can change.</content></utterance>
+<utterance uid="4-2"><speaker>HILDY JOHNSON</speaker><content>Oh, well, I suppose you're right in a way, Walter.</content></utterance>
+<utterance uid="4-3"><speaker>WALTER BURNS</speaker><content>Sure, I'm right.</content></utterance>
+<utterance uid="4-4"><speaker>MARTHA</speaker><content>Aren't you gonna answer that?</content></utterance>
+<utterance uid="4-5"><speaker>CASTLE</speaker><content>Nope. And neither are you.</content></utterance>
+<utterance uid="4-6"><speaker>MARTHA</speaker><content>Ah. Who are you hiding from now?</content></utterance>
+<utterance uid="4-7"><speaker>CASTLE</speaker><content>Gina.</content></utterance>
+<utterance uid="4-8"><speaker>MARTHA</speaker><content>Oh. Forget an alimony payment?</content></utterance>
+<utterance uid="4-9"><speaker>CASTLE</speaker><content>No, this time she's not calling as my ex-wife. She's calling as my publisher. The first draft of my new manuscript was due yesterday, and I haven't finished.</content></utterance>
+<utterance uid="4-10"><speaker>MARTHA</speaker><content>Why not?</content></utterance>
+<utterance uid="4-11"><speaker>CASTLE</speaker><content>Haven't felt like writing. And besides, I don't think I'm entirely happy with where my characters are going.</content></utterance>
+<utterance uid="4-12"><speaker>MARTHA</speaker><content>Well, change them.</content></utterance>
+<utterance uid="4-13"><speaker>CASTLE</speaker><content>Working on it. What are you doing here? I thought you had an audition for Williamstown tonight.</content></utterance>
+<utterance uid="4-14"><speaker>MARTHA</speaker><content>I do. Just came to pick up my lucky blouse.</content></utterance>
+<utterance uid="4-15"><speaker>ALEXIS</speaker><content>I got in! I got in!</content></utterance>
+<utterance uid="4-16"><speaker>MARTHA</speaker><content>Oh, good!</content></utterance>
+<utterance uid="4-17"><speaker>CASTLE</speaker><content>Oh, my God! You got in! That's amazing! I can't b-- I don't-- What did you get into?</content></utterance>
+<utterance uid="4-18"><speaker>ALEXIS</speaker><content>Princeton's summer program for high school students.</content></utterance>
+<utterance uid="4-19"><speaker>CASTLE</speaker><content>I thought you got waitlisted.</content></utterance>
+<utterance uid="4-20"><speaker>ALEXIS</speaker><content>Someone just canceled, but we have to send them a deposit ASAP because it starts this weekend.</content></utterance>
+<utterance uid="4-21"><speaker>CASTLE</speaker><content>This weekend?</content></utterance>
+<utterance uid="4-22"><speaker>ALEXIS</speaker><content>I know we had plans, but...</content></utterance>
+<utterance uid="4-23"><speaker>CASTLE</speaker><content>Not just plans. Memorial Day. The Hamptons, our annual "kick off the summer week." I mean, I got the illegal fireworks, the kind you like. The ones with the silver starbursts.</content></utterance>
+<utterance uid="4-24"><speaker>ALEXIS</speaker><content>Dad, it's Princeton.</content></utterance>
+<utterance uid="4-25"><speaker>CASTLE</speaker><content>I can't believe you would blow off illegal fireworks for a lousy head start at a top-notch education.</content></utterance>
+<utterance uid="4-26"><speaker>ALEXIS</speaker><content>I know, I'm a huge disappointment. Now, there are a bunch of forms you need to sign, and I'll fill the rest out for you later.</content></utterance>
+<utterance uid="4-27"><speaker>CASTLE</speaker><content>Mm-hmm. Oh, whoa, whoa, whoa. Hey! It says here that the, uh, the dorms are coed.</content></utterance>
+<utterance uid="4-28"><speaker>ALEXIS</speaker><content>Yeah, it's college.</content></utterance>
+<utterance uid="4-29"><speaker>CASTLE</speaker><content>No. No, it's a summer program for high school students at a college. According to this, half the kids in your building will be 16 and 17 year old boys.</content></utterance>
+<utterance uid="4-30"><speaker>ALEXIS</speaker><content>Relax, Dad, each floor has a resident advisor who's 21.</content></utterance>
+<utterance uid="4-31"><speaker>CASTLE</speaker><content>Oh. So the one person in charge is conveniently old enough to buy alcohol?</content></utterance>
+<utterance uid="4-32"><speaker>MARTHA</speaker><content>Darling, don't be such a prude. Remember that trip you took to Italy with your class? You were younger than Alexis is now.</content></utterance>
+<utterance uid="4-33"><speaker>CASTLE</speaker><content>Mother, if you had any idea what happened on that trip, you would've never let me leave the house again.</content></utterance>
+<utterance uid="4-34"><speaker>MARTHA</speaker><content>Sometimes, the less you know, the better.</content></utterance>
+<utterance uid="4-35"><speaker>CASTLE</speaker><content>Ah! Beckett.</content></utterance>
+<utterance uid="4-36"><speaker>MARTHA</speaker><content>You have a novel to finish.</content></utterance>
+<utterance uid="4-37"><speaker>CASTLE</speaker><content>It's Castle.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>CASTLE</speaker><content>It's kind of like a tradition, you know? Bonfires, roasting marshmallows, telling ghost stories, sleeping late. We've done it since she was five.</content></utterance>
+<utterance uid="5-2"><speaker>BECKETT</speaker><content>Sounds nice. Kind of magical, actually.</content></utterance>
+<utterance uid="5-3"><speaker>CASTLE</speaker><content>Yeah, you know what? You should come. Oh, it's right on the ocean. There's a secluded pool. You could lay out, work on your tan.</content></utterance>
+<utterance uid="5-4"><speaker>BECKETT</speaker><content>Wow, Castle, you're working really hard to see me in a swimsuit.</content></utterance>
+<utterance uid="5-5"><speaker>CASTLE</speaker><content>If you are not comfortable in a swimsuit, you can just skinny dip.</content></utterance>
+<utterance uid="5-6"><speaker>ESPOSITO</speaker><content>Vic's a white male. Multiple gunshot wounds to the chest. Found him about an hour ago.</content></utterance>
+<utterance uid="5-7"><speaker>CASTLE</speaker><content>Mugging?</content></utterance>
+<utterance uid="5-8"><speaker>ESPOSITO</speaker><content>Nah, still has his watch, wallet and cash.</content></utterance>
+<utterance uid="5-9"><speaker>RYAN</speaker><content>Then there's the matter of the phantom bullets.</content></utterance>
+<utterance uid="5-10"><speaker>ESPOSITO</speaker><content>Yeah, he took five to the chest. There are no slugs, shell casings. And the killer went so far as to dig his bullets out of that tree branch.</content></utterance>
+<utterance uid="5-11"><speaker>BECKETT</speaker><content>That's weird. What about in the body?</content></utterance>
+<utterance uid="5-12"><speaker>LANIE</speaker><content>They're all through and throughs. Exit holes on each wound.</content></utterance>
+<utterance uid="5-13"><speaker>BECKETT</speaker><content>So, our doer cleaned up after himself.</content></utterance>
+<utterance uid="5-14"><speaker>CASTLE</speaker><content>It takes real presence of mind to put five bullets into a man's chest and then keep your cool long enough to pick up after yourself. Natural instinct is to run. I would say we are most likely dealing with a highly trained assassin.</content></utterance>
+<utterance uid="5-15"><speaker>BECKETT</speaker><content>Time of death?</content></utterance>
+<utterance uid="5-16"><speaker>LANIE</speaker><content>Based on temperature and lividity, I'd say between 11 p.m. and 1 a.m.</content></utterance>
+<utterance uid="5-17"><speaker>BECKETT</speaker><content>ID?</content></utterance>
+<utterance uid="5-18"><speaker>LANIE</speaker><content>Shawn Caldwell. No driver's license, but according to his work ID he was a consultant for FGS in Midtown.</content></utterance>
+<utterance uid="5-19"><speaker>BECKETT</speaker><content>Fastwater Global Services?</content></utterance>
+<utterance uid="5-20"><speaker>CASTLE</speaker><content>Sounds like a CIA front.</content></utterance>
+<utterance uid="5-21"><speaker>RYAN</speaker><content>Okay. Found these in his pocket.</content></utterance>
+<utterance uid="5-22"><speaker>BECKETT</speaker><content>Company car keys. There's no house keys on the chain. There's a generic hotel key card.</content></utterance>
+<utterance uid="5-23"><speaker>CASTLE</speaker><content>In from out of town?</content></utterance>
+<utterance uid="5-24"><speaker>BECKETT</speaker><content>Except the company address is local, and so is his gym membership. All right, have CSU sweep the area. Canvass the homeless people. See if anyone saw or heard anything.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>CASTLE</speaker><content>Ocean view from my patio. It does not get better than this. What's wrong?</content></utterance>
+<utterance uid="6-2"><speaker>BECKETT</speaker><content>I tried information, our database...They even did an internet search, and it's like these guys don't even exist.</content></utterance>
+<utterance uid="6-3"><speaker>CASTLE</speaker><content>Who?</content></utterance>
+<utterance uid="6-4"><speaker>BECKETT</speaker><content>Fastwater Global Services.</content></utterance>
+<utterance uid="6-5"><speaker>CASTLE</speaker><content>Ah! See? I told you. CIA cover. No, I mean, they probably just don't like to advertise.</content></utterance>
+<utterance uid="6-6"><speaker>BECKETT</speaker><content>Yeah, well, I thought so as well. So I checked their address, 1747 West 43rd Street. It's in the middle of the Hudson River. So, I went back and checked through his wallet, and looked at his IDs, his gym membership, health insurance, even his ATM card. They're all fakes.</content></utterance>
+<utterance uid="6-7"><speaker>CASTLE</speaker><content>You run his name?</content></utterance>
+<utterance uid="6-8"><speaker>BECKETT</speaker><content>Yeah, they're about half a dozen Shawn Caldwells in the Tri-State area, and none of them are a match.</content></utterance>
+<utterance uid="6-9"><speaker>CASTLE</speaker><content>What about his fingerprints?</content></utterance>
+<utterance uid="6-10"><speaker>BECKETT</speaker><content>Not in our system.</content></utterance>
+<utterance uid="6-11"><speaker>RYAN</speaker><content>Hey, Beckett.</content></utterance>
+<utterance uid="6-12"><speaker>BECKETT</speaker><content>Hey, what'd you guys find?</content></utterance>
+<utterance uid="6-13"><speaker>RYAN</speaker><content>Well, we spoke to some homeless guys who were camped a couple hundred yards from the overpass last night. They didn't see or hear anything.</content></utterance>
+<utterance uid="6-14"><speaker>CASTLE</speaker><content>Couple hundred yards? How do you not hear five gunshots? Unless...</content></utterance>
+<utterance uid="6-15"><speaker>BECKETT</speaker><content>He used a silencer.</content></utterance>
+<utterance uid="6-16"><speaker>CASTLE</speaker><content>To kill a man who went out of the way to hide who he was?</content></utterance>
+<utterance uid="6-17"><speaker>ESPOSITO</speaker><content>This is starting to sound more and more like a professional hit.</content></utterance>
+<utterance uid="6-18"><speaker>BECKETT</speaker><content>Yeah, well, we're nowhere till we figure out who this guy actually is. So why don't you guys go canvass the area near the entrance to the park, see if you can find his car. And fax his photo to the local hotels, see if anyone recognizes his face.</content></utterance>
+<utterance uid="6-19"><speaker>ESPOSITO</speaker><content>Right on.</content></utterance>
+<utterance uid="6-20"><speaker>CASTLE</speaker><content>You know, I was... I was kidding about the assassin stuff.</content></utterance>
+<utterance uid="6-21"><speaker>BECKETT</speaker><content>That's Lanie.  Please tell me that you found something.</content></utterance>
+<utterance uid="6-22"><speaker>LANIE</speaker><content>Well, I found nothing that sheds light on the identity of your victim, but I did find something that may help with your killer. We know the shooter tried to scrub the crime scene of ballistic evidence, but one of the rounds shattered Mr. Caldwell's rib and left this little souvenir.</content></utterance>
+<utterance uid="6-23"><speaker>BECKETT</speaker><content>A bullet fragment?</content></utterance>
+<utterance uid="6-24"><speaker>LANIE</speaker><content>Can't tell the caliber, but this polygonal rifling along the outer rim is consistent with the barrel of a Glock.</content></utterance>
+<utterance uid="6-25"><speaker>CASTLE</speaker><content>Hmm.</content></utterance>
+<utterance uid="6-26"><speaker>LANIE</speaker><content>What?</content></utterance>
+<utterance uid="6-27"><speaker>CASTLE</speaker><content>The grouping of the shots. You see how tight they all are?</content></utterance>
+<utterance uid="6-28"><speaker>BECKETT</speaker><content>There's no stippling, no muzzle burns. The killer must have shot from a distance.</content></utterance>
+<utterance uid="6-29"><speaker>CASTLE</speaker><content>Which means he's a very good shot.</content></utterance>
+<utterance uid="6-30"><speaker>BECKETT</speaker><content>Hey. Great. Thanks.  They found the car.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>ESPOSITO</speaker><content>Car is registered to Allied Fleet Services, a car rental agency.</content></utterance>
+<utterance uid="7-2"><speaker>CASTLE</speaker><content>Well, I hope they got the insurance option.</content></utterance>
+<utterance uid="7-3"><speaker>BECKETT</speaker><content>Who did they rent it to?</content></utterance>
+<utterance uid="7-4"><speaker>ESPOSITO</speaker><content>This particular car is on a long-term lease to FGS.</content></utterance>
+<utterance uid="7-5"><speaker>BECKETT</speaker><content>Fastwater Global Services.</content></utterance>
+<utterance uid="7-6"><speaker>CASTLE</speaker><content>Do they know they rented their car to a company that doesn't exist?</content></utterance>
+<utterance uid="7-7"><speaker>ESPOSITO</speaker><content>Oh, no, it exists. Just not in New York. All correspondence, billing, and payments go through a PO box in the Cayman Islands.</content></utterance>
+<utterance uid="7-8"><speaker>RYAN</speaker><content>Gets even weirder. In the trunk, we found these.</content></utterance>
+<utterance uid="7-9"><speaker>BECKETT</speaker><content>Euros.</content></utterance>
+<utterance uid="7-10"><speaker>RYAN</speaker><content>Five thousand of them, and...</content></utterance>
+<utterance uid="7-11"><speaker>BECKETT</speaker><content>That looks military.</content></utterance>
+<utterance uid="7-12"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+<utterance uid="7-13"><speaker>CASTLE</speaker><content>What's in the box?</content></utterance>
+<utterance uid="7-14"><speaker>RYAN</speaker><content>A fancy pen.</content></utterance>
+<utterance uid="7-15"><speaker>CASTLE</speaker><content>Nice.</content></utterance>
+<utterance uid="7-16"><speaker>ESPOSITO</speaker><content>Bag full of Euros, a high-tech heater and a silent killer who leaves no trace.</content></utterance>
+<utterance uid="7-17"><speaker>MAN</speaker><content>Good evening, 223, the informant has been identified. Ally contact will meet you at Café Moulin...</content></utterance>
+<utterance uid="7-18"><speaker>CASTLE</speaker><content>I didn't...</content></utterance>
+<utterance uid="7-19"><speaker>BECKETT</speaker><content>No, no. Shh.</content></utterance>
+<utterance uid="7-20"><speaker>MAN</speaker><content>...1315 hours with further instructions. Wear the pin. Use the following code phrase, "Aren't you Steve's friend?" Response, "No, Steve is my brother." Good luck, 223.</content></utterance>
+<utterance uid="7-21"><speaker>CASTLE</speaker><content>Ow!</content></utterance>
+<utterance uid="7-22"><speaker>BECKETT</speaker><content>Well, now we know why our victim doesn't exist. He's a spy.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>BECKETT</speaker><content>We contacted the CIA, the FBI, the NSA, and Homeland Security, and so far, all of them are denying that he was one of theirs.</content></utterance>
+<utterance uid="8-2"><speaker>CASTLE</speaker><content>Well, of course they're gonna deny it. He was probably disavowed the moment he was killed, making this officially the coolest case ever.</content></utterance>
+<utterance uid="8-3"><speaker>BECKETT</speaker><content>So, what do you want us to do, sir?</content></utterance>
+<utterance uid="8-4"><speaker>MONTGOMERY</speaker><content>Your job. Till someone more important tells us different, treat this like a standard homicide case. You go to the café. If this contact of his is an ally, they may be willing to talk.</content></utterance>
+<utterance uid="8-5"><speaker>CASTLE</speaker><content>How are we gonna identify the contact?</content></utterance>
+<utterance uid="8-6"><speaker>BECKETT</speaker><content>Same way our victim was going to.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>CASTLE</speaker><content>Bingo.</content></utterance>
+<utterance uid="9-2"><speaker>BECKETT</speaker><content>Her?</content></utterance>
+<utterance uid="9-3"><speaker>CASTLE</speaker><content>She's the only one here alone.</content></utterance>
+<utterance uid="9-4"><speaker>CASTLE</speaker><content>Aren't you Steve's friend?</content></utterance>
+<utterance uid="9-5"><speaker>ANDREA FISHER</speaker><content>Pardon?</content></utterance>
+<utterance uid="9-6"><speaker>CASTLE</speaker><content>Aren't you Steve's friend?</content></utterance>
+<utterance uid="9-7"><speaker>ANDREA FISHER</speaker><content>Steve? No, no, I'm sorry. I don't know Steve.</content></utterance>
+<utterance uid="9-8"><speaker>CASTLE</speaker><content>Are you sure? So he's not your brother?</content></utterance>
+<utterance uid="9-9"><speaker>ANDREA FISHER</speaker><content>Go away.</content></utterance>
+<utterance uid="9-10"><speaker>CASTLE</speaker><content>Okay.</content></utterance>
+<utterance uid="9-11"><speaker>CASTLE</speaker><content>Wasn't her.</content></utterance>
+<utterance uid="9-12"><speaker>BECKETT</speaker><content>Yeah, I gathered. This all feel a little odd to you?</content></utterance>
+<utterance uid="9-13"><speaker>CASTLE</speaker><content>What?</content></utterance>
+<utterance uid="9-14"><speaker>BECKETT</speaker><content>The old cloak-and-dagger, secret meetings, code words. It all feels a little old-fashioned. I mean, why meet face-to-face when you can just send an encrypted e-mail?</content></utterance>
+<utterance uid="9-15"><speaker>CASTLE</speaker><content>Sometimes, you just have to do things off the grid. Speaking of off the grid, I was serious about this weekend.</content></utterance>
+<utterance uid="9-16"><speaker>BECKETT</speaker><content>You're seriously asking me to your place in the Hamptons?</content></utterance>
+<utterance uid="9-17"><speaker>CASTLE</speaker><content>I promise, no funny stuff. Just a friendly getaway. It'd be fun.</content></utterance>
+<utterance uid="9-18"><speaker>BECKETT</speaker><content>Yeah... No. You know, some of us have to work for a living.</content></utterance>
+<utterance uid="9-19"><speaker>CASTLE</speaker><content>On Memorial Day?</content></utterance>
+<utterance uid="9-20"><speaker>BECKETT</speaker><content>Yes. I spent all of my vacation days looking for a new place to live.</content></utterance>
+<utterance uid="9-21"><speaker>CASTLE</speaker><content>Shh-shh-shh.</content></utterance>
+<utterance uid="9-22"><speaker>HANS</speaker><content>Aren't you Steve's friend?</content></utterance>
+<utterance uid="9-23"><speaker>CASTLE</speaker><content>No, Steve's my brother.</content></utterance>
+<utterance uid="9-24"><speaker>HANS</speaker><content>Brauer. Hans Brauer.</content></utterance>
+<utterance uid="9-25"><speaker>CASTLE</speaker><content>Shawn Caldwell.</content></utterance>
+<utterance uid="9-26"><speaker>HANS</speaker><content>We don't have much time. The target's in country, but on the move. Go to Alpha location and look for the sign, but Blackbird wants you to know, there are other assets in play. So, if they move on you, go to ground. But if you get a shot, take it. Understood?</content></utterance>
+<utterance uid="9-27"><speaker>CASTLE</speaker><content>Understood. Uh...wait. My people need confirmation on the target's name.</content></utterance>
+<utterance uid="9-28"><speaker>HANS</speaker><content>What did you say?</content></utterance>
+<utterance uid="9-29"><speaker>CASTLE</speaker><content>The target's name, my people need confirmation.</content></utterance>
+<utterance uid="9-30"><speaker>HANS</speaker><content>Who are you?</content></utterance>
+<utterance uid="9-31"><speaker>BECKETT</speaker><content>NYPD! Hands up. Not you, Castle.</content></utterance>
+<utterance uid="9-32"><speaker>CASTLE</speaker><content>Right.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>HANS</speaker><content>You people have no idea what you just stepped into. No idea.</content></utterance>
+<utterance uid="10-2"><speaker>BECKETT</speaker><content>Why don't you tell us?</content></utterance>
+<utterance uid="10-3"><speaker>HANS</speaker><content>Because you don't want to know. The things that I've seen? Trust me, ignorance is bliss.</content></utterance>
+<utterance uid="10-4"><speaker>CASTLE</speaker><content>Who do you work for? The government?</content></utterance>
+<utterance uid="10-5"><speaker>BECKETT</speaker><content>Well, if not the government, then who?</content></utterance>
+<utterance uid="10-6"><speaker>HANS</speaker><content>What happened to the real Caldwell?</content></utterance>
+<utterance uid="10-7"><speaker>BECKETT</speaker><content>Dead.</content></utterance>
+<utterance uid="10-8"><speaker>HANS</speaker><content>When?</content></utterance>
+<utterance uid="10-9"><speaker>BECKETT</speaker><content>Last night.</content></utterance>
+<utterance uid="10-10"><speaker>HANS</speaker><content>That means they know.</content></utterance>
+<utterance uid="10-11"><speaker>BECKETT</speaker><content>They know about what? About the target? About how you were going to "take your shot"?</content></utterance>
+<utterance uid="10-12"><speaker>CASTLE</speaker><content>Who's your target, Hans?</content></utterance>
+<utterance uid="10-13"><speaker>HANS</speaker><content>I spent three weeks in Afghanistan with fire ants crawling on my privates. Somehow I don't think your polite but stern routine is gonna get you very far. You can ask me whatever you want. But let me tell you what's gonna happen here. In just a little while, you will receive a phone call from someone much more important than you. Then they will tell you that there's been a misunderstanding, and you will be instructed to release me. You will do so grudgingly, but you will do so nonetheless. And you will watch me walk out of here, into the night, never to be seen again.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>CASTLE</speaker><content>What the hell are we into here?</content></utterance>
+<utterance uid="11-2"><speaker>BECKETT</speaker><content>Hopefully the Feds'll have more luck.</content></utterance>
+<utterance uid="11-3"><speaker>CASTLE</speaker><content>Somehow I doubt it. At least not in time to stop whatever he's planning.</content></utterance>
+<utterance uid="11-4"><speaker>ESPOSITO</speaker><content>Yo, Beckett! That was the manager of the Carter Regency Hotel. Says he recognized our vic. Guy checked in two days ago and never checked out.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>BECKETT</speaker><content>Clear. Castle, check the bureau. Safe is locked. Open it. Whatever he was supposed to do, it was going down today. He was scheduled to check out tomorrow.</content></utterance>
+<utterance uid="12-2"><speaker>BECKETT</speaker><content>It's more IDs. "John Mason, Paul Chenausky."</content></utterance>
+<utterance uid="12-3"><speaker>CASTLE</speaker><content>Probably fake, too.</content></utterance>
+<utterance uid="12-4"><speaker>BECKETT</speaker><content>Castle.</content></utterance>
+<utterance uid="12-5"><speaker>CASTLE</speaker><content>What is it?</content></utterance>
+<utterance uid="12-6"><speaker>BECKETT</speaker><content>It's a security dossier. Kofi Amandul.</content></utterance>
+<utterance uid="12-7"><speaker>CASTLE</speaker><content>Who's Kofi Amandul?</content></utterance>
+<utterance uid="12-8"><speaker>BECKETT</speaker><content>Minister of Banking for the Republic of Luvania. These were taken in front of the UN. This is the target. This is who they're trying to kill. I have to call the State Department.</content></utterance>
+<utterance uid="12-9"><speaker>CASTLE</speaker><content>I don't think you have to. When writing Derrick Storm, I became somewhat of an expert on world geography. You ever heard of the Republic of Luvania?</content></utterance>
+<utterance uid="12-10"><speaker>BECKETT</speaker><content>No.</content></utterance>
+<utterance uid="12-11"><speaker>CASTLE</speaker><content>Yeah, neither have I. You know why?</content></utterance>
+<utterance uid="12-12"><speaker>CASTLE</speaker><content>Because it doesn't exist. I got a feeling Kofi Amandul doesn't exist either.</content></utterance>
+<utterance uid="12-13"><speaker>BECKETT</speaker><content>Then why would they try to kill someone who doesn't exist?</content></utterance>
+<utterance uid="12-14"><speaker>CASTLE</speaker><content>I think I know. Come on.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>RYAN</speaker><content>Hey. So, I just got back from ballistics. That gun that we found in the victim's car...</content></utterance>
+<utterance uid="13-2"><speaker>CASTLE</speaker><content>Let me guess, it's not real.</content></utterance>
+<utterance uid="13-3"><speaker>CASTLE</speaker><content>It's a game.</content></utterance>
+<utterance uid="13-4"><speaker>HANS</speaker><content>What are you talking about?</content></utterance>
+<utterance uid="13-5"><speaker>CASTLE</speaker><content>This whole thing. The fake IDs, the dossiers, Luvania, the banking minister. It's all part of a game.</content></utterance>
+<utterance uid="13-6"><speaker>HANS</speaker><content>Come on. You're breaking the fourth wall here.</content></utterance>
+<utterance uid="13-7"><speaker>CASTLE</speaker><content>Listen, Hans, or whatever your name is, you see that woman? She's a real cop. There's been a real murder, and you are really under arrest. If you don't start talking to us, you're gonna stay in jail. Real jail.</content></utterance>
+<utterance uid="13-8"><speaker>HANS</speaker><content>You're telling me this is real?</content></utterance>
+<utterance uid="13-9"><speaker>BECKETT</speaker><content>Very.</content></utterance>
+<utterance uid="13-10"><speaker>HANS</speaker><content>I'm really in jail?</content></utterance>
+<utterance uid="13-11"><speaker>CASTLE</speaker><content>Yes, you are really in jail.</content></utterance>
+<utterance uid="13-12"><speaker>HANS</speaker><content>No, no, see-- see, I-- I-- I thought that... This isn't part of the experience?</content></utterance>
+<utterance uid="13-13"><speaker>BECKETT</speaker><content>What experience?</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>ESPOSITO</speaker><content>The company is called Spy Ventures. They specialize in high-end spy-cations for thrill seekers.</content></utterance>
+<utterance uid="14-2"><speaker>CASTLE</speaker><content>Spy-cations?</content></utterance>
+<utterance uid="14-3"><speaker>ESPOSITO</speaker><content>Yeah. You want to be kidnapped and interrogated? They got a package. You want to be a super spy? They got a package. Their motto is "authenticity."</content></utterance>
+<utterance uid="14-4"><speaker>CASTLE</speaker><content>Right down to the offshore accounts, false identifications, and realistic weaponry.</content></utterance>
+<utterance uid="14-5"><speaker>BECKETT</speaker><content>All right, find out who the hell's in charge. Let's see if "authenticity" includes murder.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>MARTHA</speaker><content>Are you still hiding from Gina?</content></utterance>
+<utterance uid="15-2"><speaker>CASTLE</speaker><content>She's persistent, I'll give her that.</content></utterance>
+<utterance uid="15-3"><speaker>MARTHA</speaker><content>You can't outrun her forever, darling. Why don't I just talk to her?</content></utterance>
+<utterance uid="15-4"><speaker>CASTLE</speaker><content>No! No! Ha-ha. No, no, no.</content></utterance>
+<utterance uid="15-5"><speaker>MARTHA</speaker><content>All right.</content></utterance>
+<utterance uid="15-6"><speaker>CASTLE</speaker><content>Ah. Does the reemergence of summer hats mean you'll be making an appearance in the Hamptons?</content></utterance>
+<utterance uid="15-7"><speaker>MARTHA</speaker><content>Alas, you're going to have to stagger along without me. I got the part!</content></utterance>
+<utterance uid="15-8"><speaker>CASTLE</speaker><content>Fantastic! Ha-ha! I'm so proud!</content></utterance>
+<utterance uid="15-9"><speaker>MARTHA</speaker><content>Thank you, thank you. It's not the biggest role in the world, but I do love summer stock. You gonna be okay?</content></utterance>
+<utterance uid="15-10"><speaker>CASTLE</speaker><content>Why wouldn't I be?</content></utterance>
+<utterance uid="15-11"><speaker>MARTHA</speaker><content>I'm gonna be gone through August. Alexis is away, and...</content></utterance>
+<utterance uid="15-12"><speaker>CASTLE</speaker><content>I'll be fine. I'll finish the book.</content></utterance>
+<utterance uid="15-13"><speaker>MARTHA</speaker><content>Good.</content></utterance>
+<utterance uid="15-14"><speaker>CASTLE</speaker><content>What about Chet? He'll be all alone.</content></utterance>
+<utterance uid="15-15"><speaker>MARTHA</speaker><content>It's good for him to miss me. I don't want him to assume that I'm gonna always just be around.</content></utterance>
+<utterance uid="15-16"><speaker>CARTER</speaker><content>Sweet place.</content></utterance>
+<utterance uid="15-17"><speaker>ALEXIS</speaker><content>Oh! Everyone's here.</content></utterance>
+<utterance uid="15-18"><speaker>CASTLE</speaker><content>You were expecting to be alone?</content></utterance>
+<utterance uid="15-19"><speaker>ALEXIS</speaker><content>No, you're just home early. This is Carter. He's going to the Princeton program, too.</content></utterance>
+<utterance uid="15-20"><speaker>CASTLE</speaker><content>Is he now?</content></utterance>
+<utterance uid="15-21"><speaker>MARTHA</speaker><content>Lovely to meet you, Carter.</content></utterance>
+<utterance uid="15-22"><speaker>CARTER</speaker><content>Nice to meet you.</content></utterance>
+<utterance uid="15-23"><speaker>ALEXIS</speaker><content>Um, I'll meet you in the kitchen.</content></utterance>
+<utterance uid="15-24"><speaker>CARTER</speaker><content>Oh.</content></utterance>
+<utterance uid="15-25"><speaker>ALEXIS</speaker><content>Yeah. I friended him on the program page and found out he lived nearby, so we decided to hook up. We just thought it'd be nice to go there knowing someone, and our rooms are right across from each other.</content></utterance>
+<utterance uid="15-26"><speaker>ALEXIS</speaker><content>Hey, sorry about that.</content></utterance>
+<utterance uid="15-27"><speaker>CASTLE</speaker><content>How old would you say that kid is?</content></utterance>
+<utterance uid="15-28"><speaker>MARTHA</speaker><content>Old enough to do all the things you did when you were his age.</content></utterance>
+<utterance uid="15-29"><speaker>ALEXIS</speaker><content>I'm really looking forward to it.</content></utterance>
+<utterance uid="15-30"><speaker>CASTLE</speaker><content>That's what I'm afraid of.</content></utterance>
+<utterance uid="15-31"><speaker>MARTHA</speaker><content>Oh. I almost forgot to tell you. James Patterson called. He's gonna be a little late for the poker game tomorrow.</content></utterance>
+<utterance uid="15-32"><speaker>CASTLE</speaker><content>Probably wants to use the time to write another book.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>DEMMING</speaker><content>Good thing your captain's not here. This might be construed as inappropriate office behavior.</content></utterance>
+<utterance uid="16-2"><speaker>DEMMING</speaker><content>See you later.</content></utterance>
+<utterance uid="16-3"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="16-4"><speaker>CASTLE</speaker><content>Didn't mean to break up your party.</content></utterance>
+<utterance uid="16-5"><speaker>BECKETT</speaker><content>No. No party. I was actually waiting for you. We finally got a hold of someone from Spy Ventures. The owners are meeting us at their offices. Oh, yeah, and your ex-wife called. She said that you've been avoiding her because you're late delivering your manuscript of Naked Heat. That's a catchy title. When were you gonna tell me?</content></utterance>
+<utterance uid="16-6"><speaker>CASTLE</speaker><content>Well, I was waiting for the perfect time. It just never happened.</content></utterance>
+<utterance uid="16-7"><speaker>BECKETT</speaker><content>She's naked on the cover again, isn't she?</content></utterance>
+<utterance uid="16-8"><speaker>CASTLE</speaker><content>Kind of, yeah.</content></utterance>
+<utterance uid="16-9"><speaker>BECKETT</speaker><content>That's great. No one's gonna make fun of me.</content></utterance>
+<utterance uid="16-10"><speaker>CASTLE</speaker><content>Good.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>LIZ FENN</speaker><content>That's Roger Farraday. He was on the four day covert ops package culminating in a staged assassination of a UN diplomat.</content></utterance>
+<utterance uid="17-2"><speaker>BECKETT</speaker><content>Stamford, Connecticut. He lists his wife as Melinda as his emergency contact.</content></utterance>
+<utterance uid="17-3"><speaker>JASON FENN</speaker><content>Detective, we're very sorry about the confusion. We called as soon as we got your messages.</content></utterance>
+<utterance uid="17-4"><speaker>CASTLE</speaker><content>So the fake IDs, the Cayman Islands...</content></utterance>
+<utterance uid="17-5"><speaker>JASON FENN</speaker><content>Yeah, they're all part of the experience.</content></utterance>
+<utterance uid="17-6"><speaker>LIZ FENN</speaker><content>You have no idea how excited people get when they have to wire their payment to an offshore account.</content></utterance>
+<utterance uid="17-7"><speaker>CASTLE</speaker><content>So your slogan is "authenticity." Is it possible one of your other players took things too far?</content></utterance>
+<utterance uid="17-8"><speaker>JASON FENN</speaker><content>Mr. Castle, we take the safety of our guests very seriously. Our weapons look real, but they're legal, inoperable, and rigged for game play. So if one of the guests killed Roger, they used their own weapon, not ours.</content></utterance>
+<utterance uid="17-9"><speaker>CASTLE</speaker><content>So the weapons are fake, but the money is real?</content></utterance>
+<utterance uid="17-10"><speaker>LIZ FENN</speaker><content>What money?</content></utterance>
+<utterance uid="17-11"><speaker>CASTLE</speaker><content>The 5,000 Euros we found in the car.</content></utterance>
+<utterance uid="17-12"><speaker>JASON FENN</speaker><content>Uh, yeah, we-- we do money drops sometimes, but never with real currency.</content></utterance>
+<utterance uid="17-13"><speaker>LIZ FENN</speaker><content>That's more than he paid for his package. Are you sure it was real?</content></utterance>
+<utterance uid="17-14"><speaker>BECKETT</speaker><content>Positive. What was Mr. Farraday doing in the park that night? Was that a part of a mission?</content></utterance>
+<utterance uid="17-15"><speaker>JASON FENN</speaker><content>No, no, no. The park is too dangerous to work at night. And his last mission should've ended hours earlier.</content></utterance>
+<utterance uid="17-16"><speaker>CASTLE</speaker><content>What was his last mission?</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>HUGO MORRISON</speaker><content>Farraday? Yeah, I was his handler. His last mission that day was the bus locker drop. I checked it at ten, it was empty. So we know he picked up the pen.</content></utterance>
+<utterance uid="18-2"><speaker>CASTLE</speaker><content>The one with the recording?</content></utterance>
+<utterance uid="18-3"><speaker>HUGO MORRISON</speaker><content>Yeah. His next activity was the cafe meet yesterday.</content></utterance>
+<utterance uid="18-4"><speaker>BECKETT</speaker><content>So where did he go between ten and midnight?</content></utterance>
+<utterance uid="18-5"><speaker>CASTLE</speaker><content>And how did he end up in the park with 5,000 Euros in his car?</content></utterance>
+<utterance uid="18-6"><speaker>JASON FENN</speaker><content>Wasn't his last drop an accomplice mission?</content></utterance>
+<utterance uid="18-7"><speaker>BECKETT</speaker><content>An accomplice mission?</content></utterance>
+<utterance uid="18-8"><speaker>LIZ FENN</speaker><content>Well, sometimes we have players do tasks together, not knowing if the other is friend or foe.</content></utterance>
+<utterance uid="18-9"><speaker>JASON FENN</speaker><content>He was paired with Designate 145, French Intelligence.</content></utterance>
+<utterance uid="18-10"><speaker>LIZ FENN</speaker><content>Andrea Fisher. If she was with him, maybe she knows where he went next.</content></utterance>
+<utterance uid="18-11"><speaker>BECKETT</speaker><content>Recognize her?</content></utterance>
+<utterance uid="18-12"><speaker>CASTLE</speaker><content>Mais, oui.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>ANDREA FISHER</speaker><content>Oh, God. You both must think I'm so stupid, the way that I acted in the cafe.</content></utterance>
+<utterance uid="19-2"><speaker>CASTLE</speaker><content>All part of the game.</content></utterance>
+<utterance uid="19-3"><speaker>ANDREA FISHER</speaker><content>It's a vacation from yourself. That's what they say. I mean, don't get me wrong. You know, I loved my husband and my kids, but every time I go away, I'm still a mom and a wife. My husband said, "If you can pay for it, you can go." so, it took a lot of coupon clipping, but I got to be a spy.</content></utterance>
+<utterance uid="19-4"><speaker>BECKETT</speaker><content>Our victim, how well did you know him?</content></utterance>
+<utterance uid="19-5"><speaker>ANDREA FISHER</speaker><content>We had a couple of tasks together, but-- but we were always playing roles.</content></utterance>
+<utterance uid="19-6"><speaker>BECKETT</speaker><content>You were with Mr. Farraday when he did the bus station drop?</content></utterance>
+<utterance uid="19-7"><speaker>ANDREA FISHER</speaker><content>Yeah. Yeah, we, uh, we cracked the code, and um, we went to-- to get our packages.</content></utterance>
+<utterance uid="19-8"><speaker>BECKETT</speaker><content>Do you know where he went next?</content></utterance>
+<utterance uid="19-9"><speaker>ANDREA FISHER</speaker><content>To deliver the briefcase.</content></utterance>
+<utterance uid="19-10"><speaker>CASTLE</speaker><content>Briefcase? What briefcase?</content></utterance>
+<utterance uid="19-11"><speaker>ANDREA FISHER</speaker><content>It was in the locker. I didn't get one, so I assumed it was a bonus mission.</content></utterance>
+<utterance uid="19-12"><speaker>BECKETT</speaker><content>Do you know what was in the briefcase?</content></utterance>
+<utterance uid="19-13"><speaker>ANDREA FISHER</speaker><content>I-- I don't know. You have to ask them.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>BECKETT</speaker><content>That was Jason from Spy Ventures. The only thing that was supposed to be in that locker was a pen set, which he put in there himself. He has no idea where that briefcase came from.</content></utterance>
+<utterance uid="20-2"><speaker>CASTLE</speaker><content>If the money and the briefcase weren't connected to the game, maybe they're connected to each other.</content></utterance>
+<utterance uid="20-3"><speaker>RYAN</speaker><content>Hey. Victim's wife and business partner. They just ID'd the body.</content></utterance>
+<utterance uid="20-4"><speaker>BECKETT</speaker><content>Can you check the lockers at the bus depot, see if they're covered by cameras?</content></utterance>
+<utterance uid="20-5"><speaker>RYAN</speaker><content>Yeah, sure.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>BECKETT</speaker><content>Please take a seat.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>BECKETT</speaker><content>We can't be sure that your husband's death had anything to do with the game, Mrs. Farraday.</content></utterance>
+<utterance uid="22-2"><speaker>CASTLE</speaker><content>Can you think of a reason someone would want to harm Roger?</content></utterance>
+<utterance uid="22-3"><speaker>LEE COPELY</speaker><content>Roger was one of those guys everybody instantly liked. That's why he was so good at his job. We owned a dealership together just outside Stamford. You can't sell cars if people don't like you.</content></utterance>
+<utterance uid="22-4"><speaker>BECKETT</speaker><content>Who else knew that he was gonna be in the city?</content></utterance>
+</scene>
+
+<scene id="23"><utterance uid="23-1"><speaker>BECKETT</speaker><content>You know, it used to be if you were gonna have a midlife crisis, you'd just buy a Ferrari, get a new girlfriend, even jump out of a plane.</content></utterance>
+<utterance uid="23-2"><speaker>CASTLE</speaker><content>Shot in the park, money in his car. Makes you wonder what else he did to get his jollies.</content></utterance>
+<utterance uid="23-3"><speaker>BECKETT</speaker><content>Now that we know who he really is, I've asked Esposito to look into his financials. Maybe we'll see a red flag somewhere.</content></utterance>
+<utterance uid="23-4"><speaker>CASTLE</speaker><content>Speaking of red flags. Hey, Demming.</content></utterance>
+<utterance uid="23-5"><speaker>DEMMING</speaker><content>Hey, Castle. So, you know that little place in Asbury I was telling you about, around the corner from our beach house?</content></utterance>
+<utterance uid="23-6"><speaker>BECKETT</speaker><content>Mm-hmm.</content></utterance>
+<utterance uid="23-7"><speaker>DEMMING</speaker><content>Well, they just had a reservation open up on Friday. If we leave early enough, we could probably make it.</content></utterance>
+<utterance uid="23-8"><speaker>BECKETT</speaker><content>Yeah, um, will you let me check into it?</content></utterance>
+<utterance uid="23-9"><speaker>DEMMING</speaker><content>Great. I'll see you later.</content></utterance>
+<utterance uid="23-10"><speaker>CASTLE</speaker><content>Beach house? Thought you were working this weekend.</content></utterance>
+<utterance uid="23-11"><speaker>BECKETT</speaker><content>Yeah, I'm sorry, Castle. I should've just told you. I just didn't want things to be awkward between us, now that Tom and I are together.</content></utterance>
+<utterance uid="23-12"><speaker>CASTLE</speaker><content>No, I get it. Yeah. No, you want your private life to be private.</content></utterance>
+<utterance uid="23-13"><speaker>BECKETT</speaker><content>Yeah, I just don't-- I don't want anyone to feel uncomfortable.</content></utterance>
+<utterance uid="23-14"><speaker>CASTLE</speaker><content>No, of course not. No, I mean... Actually, that makes what I was gonna say a little easier. Um... What with my book due, I was thinking it'd be a good time for us to take a break.</content></utterance>
+<utterance uid="23-15"><speaker>BECKETT</speaker><content>A break?</content></utterance>
+<utterance uid="23-16"><speaker>CASTLE</speaker><content>Yeah. God knows, you got to be tired of me following you around all the time, and I really do need to get some work done. With everyone gone, I figured, why not just stay up in the Hamptons, you know? Get away from the city for a while.</content></utterance>
+<utterance uid="23-17"><speaker>BECKETT</speaker><content>Well, for how long?</content></utterance>
+<utterance uid="23-18"><speaker>CASTLE</speaker><content>The summer at least. I thought this would be our last case.</content></utterance>
+<utterance uid="23-19"><speaker>RYAN</speaker><content>Hey. So, uh, we...</content></utterance>
+<utterance uid="23-20"><speaker>ESPOSITO</speaker><content>Everything okay?</content></utterance>
+<utterance uid="23-21"><speaker>CASTLE</speaker><content>Great.</content></utterance>
+<utterance uid="23-22"><speaker>BECKETT</speaker><content>Yeah, fine. Uh, what'd you guys find?</content></utterance>
+<utterance uid="23-23"><speaker>RYAN</speaker><content>Surveillance stills from the bus locker. Your long Island housewife was right. Roger picked up the briefcase from locker 27B shortly before 10 p.m.</content></utterance>
+<utterance uid="23-24"><speaker>BECKETT</speaker><content>Great.</content></utterance>
+<utterance uid="23-25"><speaker>ESPOSITO</speaker><content>You don't want to know who put it in there?</content></utterance>
+<utterance uid="23-26"><speaker>BECKETT</speaker><content>Oh. Yeah, I'm sorry. Yeah.</content></utterance>
+<utterance uid="23-27"><speaker>CASTLE</speaker><content>That's Roger's handler from Spy Ventures. He said the briefcase wasn't part of the game, so why is he putting it in Roger's locker?</content></utterance>
+<utterance uid="23-28"><speaker>BECKETT</speaker><content>And why did he lie?</content></utterance>
+<utterance uid="23-29"><speaker>CASTLE</speaker><content>Exactly.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>BECKETT</speaker><content>What was in the briefcase, Hugo?</content></utterance>
+<utterance uid="24-2"><speaker>CASTLE</speaker><content>We talked to your bosses, Hugo. We know it wasn't part of the game.</content></utterance>
+<utterance uid="24-3"><speaker>BECKETT</speaker><content>And yet you had one of your players pick it up and deliver it for you. And he just happened to end up dead.</content></utterance>
+<utterance uid="24-4"><speaker>HUGO MORRISON</speaker><content>I didn't know.</content></utterance>
+<utterance uid="24-5"><speaker>BECKETT</speaker><content>You didn't know what?</content></utterance>
+<utterance uid="24-6"><speaker>HUGO MORRISON</speaker><content>Look, no one was supposed to get hurt. I just... I needed someone to make the exchange.</content></utterance>
+<utterance uid="24-7"><speaker>CASTLE</speaker><content>What was in the briefcase, Hugo? Drugs? Money?</content></utterance>
+<utterance uid="24-8"><speaker>HUGO MORRISON</speaker><content>IDs.</content></utterance>
+<utterance uid="24-9"><speaker>BECKETT</speaker><content>IDs?</content></utterance>
+<utterance uid="24-10"><speaker>HUGO MORRISON</speaker><content>Part of my job is to make the ID kits. Corporate badges, passports from nonexistent countries. But with Jason's equipment, you can forge counterfeit IDs for real countries, too. But it's illegal.</content></utterance>
+<utterance uid="24-11"><speaker>CASTLE</speaker><content>But that didn't stop you, did it?</content></utterance>
+<utterance uid="24-12"><speaker>BECKETT</speaker><content>So who did you sell to?</content></utterance>
+<utterance uid="24-13"><speaker>HUGO MORRISON</speaker><content>College kids, mostly looking to buy beer.</content></utterance>
+<utterance uid="24-14"><speaker>CASTLE</speaker><content>And then you used game players to make the drops?</content></utterance>
+<utterance uid="24-15"><speaker>HUGO MORRISON</speaker><content>So if anybody got busted, they couldn't identify me. I mean, these are college kids. They'd roll over on their grandmothers if they got caught.</content></utterance>
+<utterance uid="24-16"><speaker>BECKETT</speaker><content>Well, something tells me that Roger wasn't killed by a group of under-aged college kids.</content></utterance>
+<utterance uid="24-17"><speaker>HUGO MORRISON</speaker><content>No. This last job, it was different. I knew I shouldn't have taken it, but they were paying so much money.</content></utterance>
+<utterance uid="24-18"><speaker>BECKETT</speaker><content>Who?</content></utterance>
+<utterance uid="24-19"><speaker>HUGO MORRISON</speaker><content>They're Ukrainians. They found me on the internet. They said they needed passports. I sent Roger to make the drop and pick up the money.</content></utterance>
+<utterance uid="24-20"><speaker>CASTLE</speaker><content>5,000 Euros.</content></utterance>
+<utterance uid="24-21"><speaker>HUGO MORRISON</speaker><content>He thought it was just another mission. But something must have gone wrong. After he made the drop, he called me on the hotline, said he was being followed by a dark sedan.</content></utterance>
+<utterance uid="24-22"><speaker>BECKETT</speaker><content>A dark sedan? And what time was this?</content></utterance>
+<utterance uid="24-23"><speaker>HUGO MORRISON</speaker><content>11:30-ish. Look, playing the game, it makes you paranoid. So I just-- I figured it was just his imagination. So I gave him the standard line about evasive maneuvers. I didn't really think he was being followed. But he was. He called again close to midnight and said his cover had been blown. I thought he was messing with me, so I shined him on. Shined him on, and now he's dead. I must have done something wrong. Must have messed up the passports... And they came after him and they killed him.</content></utterance>
+<utterance uid="24-24"><speaker>BECKETT</speaker><content>The briefcase, where did he deliver it to? Hugo, the Ukrainians, I need an address now.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>RYAN</speaker><content>Clear!</content></utterance>
+<utterance uid="25-2"><speaker>ESPOSITO</speaker><content>Turn 'em around!</content></utterance>
+<utterance uid="25-3"><speaker>RYAN</speaker><content>Kids.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>ESPOSITO</speaker><content>Yep, they're Ukrainians, but they're students. They're used to being able to drink back home, but they needed fake IDs to buy booze here. They got Hugo's information from another kid in the summer program.</content></utterance>
+<utterance uid="26-2"><speaker>CASTLE</speaker><content>Summer program?</content></utterance>
+<utterance uid="26-3"><speaker>ESPOSITO</speaker><content>Yeah, they're part of the summer exchange program at Hudson University. Why?</content></utterance>
+<utterance uid="26-4"><speaker>CASTLE</speaker><content>No reason.</content></utterance>
+<utterance uid="26-5"><speaker>ESPOSITO</speaker><content>Anyway, none of them own a dark sedan. And seeing as how they all went out partying the moment Roger dropped off the IDs, it's doubtful any of them are our killer.</content></utterance>
+<utterance uid="26-6"><speaker>BECKETT</speaker><content>Mmm.</content></utterance>
+<utterance uid="26-7"><speaker>CASTLE</speaker><content>You actually think he was being followed?</content></utterance>
+<utterance uid="26-8"><speaker>BECKETT</speaker><content>Well, he calls at 11:30, and then just before he's shot, his car is damaged. He runs on foot into the park. Sounds to me like he was running away. But from whom?</content></utterance>
+<utterance uid="26-9"><speaker>CASTLE</speaker><content>Well, as much as I'd like to help you run down every dark sedan in the city, I have a poker game to host. See you in the morning.</content></utterance>
+<utterance uid="26-10"><speaker>BECKETT</speaker><content>See you.</content></utterance>
+<utterance uid="26-11"><speaker>ESPOSITO</speaker><content>So...Castle's last case, huh?</content></utterance>
+<utterance uid="26-12"><speaker>BECKETT</speaker><content>Mm-hmm.</content></utterance>
+<utterance uid="26-13"><speaker>ESPOSITO</speaker><content>Ryan and I thought we'd do a little going away party.</content></utterance>
+<utterance uid="26-14"><speaker>BECKETT</speaker><content>Yeah, well, it's not like he's leaving forever.</content></utterance>
+<utterance uid="26-15"><speaker>ESPOSITO</speaker><content>You sure about that? Why do you think he's been following you around all this time? What, research? The guy's done enough research to write 50 books. Look, whatever the reason is, I'm pretty sure it doesn't include watching you be with another guy.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>MICHAEL CONNELLY</speaker><content>The Ukrainians are a nice twist.</content></utterance>
+<utterance uid="27-2"><speaker>CASTLE</speaker><content>So, we've explained the money, the gadgets and the briefcase. The only thing we can't explain, why was he killed?</content></utterance>
+<utterance uid="27-3"><speaker>JAMES PATTERSON</speaker><content>Maybe that's because you're looking in the wrong place.</content></utterance>
+<utterance uid="27-4"><speaker>CASTLE</speaker><content>All right, Patterson, where would you look?</content></utterance>
+<utterance uid="27-5"><speaker>JAMES PATTERSON</speaker><content>If I was writing this, the murder would have nothing to do with the spy game, except that it gave the killer an opportunity to act.</content></utterance>
+<utterance uid="27-6"><speaker>MICHAEL CONNELLY</speaker><content>Knowing that the trappings of the game would cover his tracks.</content></utterance>
+<utterance uid="27-7"><speaker>MICHAEL CONNELLY</speaker><content>Cannell's right. I'd spend more time looking at your victim and less time looking at the game.</content></utterance>
+<utterance uid="27-8"><speaker>JAMES PATTERSON</speaker><content>Personally, I'd spend more time writing and less time hanging out with your cop friend. I mean, really, Ricky. Just one book a year?</content></utterance>
+<utterance uid="27-9"><speaker>JAMES PATTERSON</speaker><content>She seems like more of a distraction than a muse.</content></utterance>
+<utterance uid="27-10"><speaker>CASTLE</speaker><content>No, you're right. I think I've gotten everything I can get out of that relationship anyway.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>DEMMING</speaker><content>Hey, you ready?</content></utterance>
+<utterance uid="28-2"><speaker>BECKETT</speaker><content>Yeah. Yeah.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>BECKETT</speaker><content>Hey.</content></utterance>
+<utterance uid="29-2"><speaker>CASTLE</speaker><content>Hey.</content></utterance>
+<utterance uid="29-3"><speaker>CASTLE</speaker><content>Uh... I was just thinking. May...</content></utterance>
+<utterance uid="29-4"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="29-5"><speaker>CASTLE</speaker><content>I've been thinking...</content></utterance>
+<utterance uid="29-6"><speaker>CASTLE</speaker><content>Maybe we're looking in the wrong place. Maybe the murder has nothing to do with the game. Maybe it just afforded the killer an opportunity to act.</content></utterance>
+<utterance uid="29-7"><speaker>BECKETT</speaker><content>That's so funny, because I was thinking the same thing when I woke up this morning, that maybe we got so caught up in the game that we stopped looking at what really mattered.</content></utterance>
+<utterance uid="29-8"><speaker>CASTLE</speaker><content>The victim.</content></utterance>
+<utterance uid="29-9"><speaker>BECKETT</speaker><content>Exactly. So, check this out. His financials came back clean. But then we did a search on his business partner, Lee Copley, and it turns out that he filed for bankruptcy two months ago. Overextended himself in real estate.</content></utterance>
+<utterance uid="29-10"><speaker>CASTLE</speaker><content>Let me guess, if Roger dies, his half of the business goes to Copley.</content></utterance>
+<utterance uid="29-11"><speaker>BECKETT</speaker><content>Over half a million dollars worth.</content></utterance>
+<utterance uid="29-12"><speaker>CASTLE</speaker><content>His wife did say the only two people who knew Roger was in the city were her and Copley.</content></utterance>
+<utterance uid="29-13"><speaker>BECKETT</speaker><content>And guess what Copley drives.</content></utterance>
+<utterance uid="29-14"><speaker>CASTLE</speaker><content>A dark sedan?</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>LEE COPLEY</speaker><content>Roger was my friend. We grew up together. Why would I kill him?</content></utterance>
+<utterance uid="30-2"><speaker>CASTLE</speaker><content>I can give you half a million reasons why.</content></utterance>
+<utterance uid="30-3"><speaker>LEE COPLEY</speaker><content>What, because I'm having financial problems? Because we just happen to own a business together?</content></utterance>
+<utterance uid="30-4"><speaker>CASTLE</speaker><content>Greed, Mr. Copley, it's the purest motive there is.</content></utterance>
+<utterance uid="30-5"><speaker>LEE COPLEY</speaker><content>This is ridiculous.</content></utterance>
+<utterance uid="30-6"><speaker>BECKETT</speaker><content>Where were you the night that Roger Farraday was murdered?</content></utterance>
+<utterance uid="30-7"><speaker>LEE COPLEY</speaker><content>I was home in bed.</content></utterance>
+<utterance uid="30-8"><speaker>BECKETT</speaker><content>Really? Then do you care to explain these? These are photos of you leaving your apartment garage at eight o'clock the night that he was murdered. And these are photos of you returning the following morning at 7 a.m.</content></utterance>
+<utterance uid="30-9"><speaker>CASTLE</speaker><content>Kind of blows a hole in your whole "home in bed" thing.</content></utterance>
+<utterance uid="30-10"><speaker>BECKETT</speaker><content>You lied to me, Mr. Copely. Do you care to revise your statement? 8 p.m. That's plenty of time to drive to the city from Stamford.</content></utterance>
+<utterance uid="30-11"><speaker>CASTLE</speaker><content>What'd you do, Lee? Wait for him at the hotel, follow him till he was alone?</content></utterance>
+<utterance uid="30-12"><speaker>LEE COPLEY</speaker><content>No, I didn't.</content></utterance>
+<utterance uid="30-13"><speaker>BECKETT</speaker><content>And then you used the game as cover.</content></utterance>
+<utterance uid="30-14"><speaker>LEE COPLEY</speaker><content>No. Look, I swear, I didn't do it.</content></utterance>
+<utterance uid="30-15"><speaker>BECKETT</speaker><content>Right. You were at home in bed.</content></utterance>
+<utterance uid="30-16"><speaker>LEE COPLEY</speaker><content>No, I wasn't at home, but I was in bed. With his wife.</content></utterance>
+<utterance uid="30-17"><speaker>BECKETT</speaker><content>I'm sorry. What?</content></utterance>
+<utterance uid="30-18"><speaker>LEE COPLEY</speaker><content>I was in bed with Roger's wife.</content></utterance>
+<utterance uid="30-19"><speaker>CASTLE</speaker><content>Let me-- Let me get this straight. You-- your alibi for killing your friend is you were doing his-- his wife?</content></utterance>
+<utterance uid="30-20"><speaker>LEE COPLEY</speaker><content>Yeah.</content></utterance>
+<utterance uid="30-21"><speaker>CASTLE</speaker><content>Wow.</content></utterance>
+</scene>
+
+<scene id="31"><utterance uid="31-1"><speaker>BECKETT</speaker><content>Well, if things were that bad, why not just get a divorce?</content></utterance>
+</scene>
+
+<scene id="32"><utterance uid="32-1"><speaker>CASTLE</speaker><content>I can see why Roger needed a little extra fantasy in his life.</content></utterance>
+<utterance uid="32-2"><speaker>ESPOSITO</speaker><content>I talked to the wife's neighbors. A few of them remember Lee's car outside the house that night.</content></utterance>
+<utterance uid="32-3"><speaker>RYAN</speaker><content>That doesn't mean anything. The guy runs an auto dealership. Could have just switched cars.</content></utterance>
+<utterance uid="32-4"><speaker>ESPOSITO</speaker><content>True, except it was a warm night. Warm enough to leave the windows open.</content></utterance>
+<utterance uid="32-5"><speaker>BECKETT</speaker><content>Oh, no.</content></utterance>
+<utterance uid="32-6"><speaker>ESPOSITO</speaker><content>Oh, yes. The next door neighbor distinctly remembers hearing the sounds of loud, passionate lovemaking coming from the open bedroom window. Kept him up till well past midnight.</content></utterance>
+<utterance uid="32-7"><speaker>CASTLE</speaker><content>I don't buy it. They both had motive. They were having an affair. They knew exactly where he was. Just because they had an alibi does not mean they didn't do it.</content></utterance>
+<utterance uid="32-8"><speaker>BECKETT</speaker><content>Do you think they hired someone?</content></utterance>
+<utterance uid="32-9"><speaker>CASTLE</speaker><content>It had all the hallmarks of a professional hit.</content></utterance>
+<utterance uid="32-10"><speaker>BECKETT</speaker><content>Well, it couldn't have been Lee unless he asked the bankruptcy court for permission to hire a hit man, and I don't think that's likely.</content></utterance>
+<utterance uid="32-11"><speaker>RYAN</speaker><content>And the only unusual charge in the Farradays' account was the ten grand that Roger wired to the Spy Ventures account in the Cayman Islands.</content></utterance>
+<utterance uid="32-12"><speaker>CASTLE</speaker><content>Ten grand?</content></utterance>
+<utterance uid="32-13"><speaker>RYAN</speaker><content>Yeah, why?</content></utterance>
+<utterance uid="32-14"><speaker>CASTLE</speaker><content>Because he only should've paid half that much. Do you remember what the woman at Spy Ventures said about the money we found in the car?</content></utterance>
+<utterance uid="32-15"><speaker>BECKETT</speaker><content>Yeah, that 5,000 Euros was more than what he paid for his entire spy-cation.</content></utterance>
+<utterance uid="32-16"><speaker>RYAN</speaker><content>His bank statement indicates he transferred two payments of five grand each to the game, for a total of $10,000.</content></utterance>
+<utterance uid="32-17"><speaker>CASTLE</speaker><content>The payments were made at the same time, almost like he paid twice.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>JASON FENN</speaker><content>If these numbers are correct, he did pay twice. Once for him, once for another player.</content></utterance>
+<utterance uid="33-2"><speaker>BECKETT</speaker><content>Another player?</content></utterance>
+<utterance uid="33-3"><speaker>CASTLE</speaker><content>Who was the other player?</content></utterance>
+<utterance uid="33-4"><speaker>JASON FENN</speaker><content>Andrea Fisher.</content></utterance>
+<utterance uid="33-5"><speaker>CASTLE</speaker><content>Our Long Island housewife? She said she never met Roger until they were teamed up for the game.</content></utterance>
+<utterance uid="33-6"><speaker>BECKETT</speaker><content>But if they never met, why did he pay for her?</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>ANDREA FISHER</speaker><content>There must be some mistake.</content></utterance>
+<utterance uid="34-2"><speaker>BECKETT</speaker><content>We checked with the bank, Mrs. Fisher. There is no mistake. You never paid Spy Ventures.</content></utterance>
+<utterance uid="34-3"><speaker>CASTLE</speaker><content>But Roger did. The coupon clipping was a nice touch, though. I assume that was for your husband's benefit?</content></utterance>
+<utterance uid="34-4"><speaker>BECKETT</speaker><content>What was the nature of your relationship with Roger Farraday?</content></utterance>
+<utterance uid="34-5"><speaker>ANDREA FISHER</speaker><content>We were, um, friends.</content></utterance>
+<utterance uid="34-6"><speaker>BECKETT</speaker><content>When did the two of you first meet?</content></utterance>
+<utterance uid="34-7"><speaker>ANDREA FISHER</speaker><content>Last year. I was, uh, I was taking my daughter Shelby into, uh, the city for dance classes. After I dropped her off, I'd go to the museum. Every week, I'd see him, standing in front of Monet's Water Lilies. You know, for an hour, it wasn't, "Mommy, can you do this?" or "Honey, can you do that?" You know? I was me. Oh, God. After a few weeks, the museum turned into a hotel. And then Shelby's dance classes ended.</content></utterance>
+<utterance uid="34-8"><speaker>CASTLE</speaker><content>You had no excuse to go into the city anymore.</content></utterance>
+<utterance uid="34-9"><speaker>ANDREA FISHER</speaker><content>When we first met, we pretended to be spies, exchanging secrets at the museum. Roger thought, "Why not have a real-life spy adventure?" And we could have one last time together.</content></utterance>
+<utterance uid="34-10"><speaker>KEN FISHER</speaker><content>Hey, hon, I'm back.</content></utterance>
+<utterance uid="34-11"><speaker>ANDREA FISHER</speaker><content>Oh, my God. Please don't tell my husband.</content></utterance>
+<utterance uid="34-12"><speaker>BECKETT</speaker><content>We don't have to, Mrs. Fisher. He already knows.</content></utterance>
+<utterance uid="34-13"><speaker>KEN FISHER</speaker><content>What's going on?</content></utterance>
+<utterance uid="34-14"><speaker>BECKETT</speaker><content>Mr. Fisher, I'm Detective Kate Beckett. NYPD.</content></utterance>
+<utterance uid="34-15"><speaker>KEN FISHER</speaker><content>What's this about?</content></utterance>
+<utterance uid="34-16"><speaker>BECKETT</speaker><content>You own a black 2009 four-door sedan?</content></utterance>
+<utterance uid="34-17"><speaker>KEN FISHER</speaker><content>Yeah, why?</content></utterance>
+<utterance uid="34-18"><speaker>BECKETT</speaker><content>Where is it?</content></utterance>
+<utterance uid="34-19"><speaker>KEN FISHER</speaker><content>It's in the shop. I hit a pole while I was backing out at the supermarket.</content></utterance>
+<utterance uid="34-20"><speaker>CASTLE</speaker><content>You're a much better shot than you are a liar.</content></utterance>
+<utterance uid="34-21"><speaker>BECKETT</speaker><content>The state of New York lists you as a registered gun owner, Glock .45.</content></utterance>
+<utterance uid="34-22"><speaker>ANDREA FISHER</speaker><content>Oh, my God. Oh, my God. What did you do to him?</content></utterance>
+<utterance uid="34-23"><speaker>KEN FISHER</speaker><content>What he deserved.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>MONTGOMERY</speaker><content>So Roger was right about being followed that night.</content></utterance>
+<utterance uid="35-2"><speaker>BECKETT</speaker><content>Well, when the husband got on to the affair, he did a little spy game of his own. Tracked down and killed his wife's lover.</content></utterance>
+<utterance uid="35-3"><speaker>MONTGOMERY</speaker><content>Mmm. Two affairs, a loveless marriage. It's sad a man had to die because all the people involved were too scared to say what they really felt.</content></utterance>
+<utterance uid="35-4"><speaker>BECKETT</speaker><content>Yes, it is sad.</content></utterance>
+<utterance uid="35-5"><speaker>CASTLE</speaker><content>And how many shows like that? Sure. Make it two, and you got a deal. All right.  Hey, I gotta run. I gotta drive Alexis to Princeton. But I will be back in time for that little surprise party the boys are throwing for me... What? What?</content></utterance>
+<utterance uid="35-6"><speaker>BECKETT</speaker><content>Nothing.</content></utterance>
+<utterance uid="35-7"><speaker>CASTLE</speaker><content>Okay. I'll see you.</content></utterance>
+<utterance uid="35-8"><speaker>BECKETT</speaker><content>Mm-hmm.</content></utterance>
+<utterance uid="35-9"><speaker>DEMMING</speaker><content>It's like a real restaurant-style cappuccino machine.</content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>CASTLE</speaker><content>Is there anything you're not bringing?</content></utterance>
+<utterance uid="36-2"><speaker>ALEXIS</speaker><content>You. Are you sure you're gonna be okay? This is the first time you've ever been alone this long.</content></utterance>
+<utterance uid="36-3"><speaker>CASTLE</speaker><content>I'm supposed to be saying that to you. And besides, I might not be alone for very long.</content></utterance>
+<utterance uid="36-4"><speaker>ALEXIS</speaker><content>You invited someone?</content></utterance>
+<utterance uid="36-5"><speaker>CASTLE</speaker><content>She said no at first, but I got a feeling she'll come around.</content></utterance>
+<utterance uid="36-6"><speaker>ALEXIS</speaker><content>Oh. Is it anyone I know?</content></utterance>
+<utterance uid="36-7"><speaker>CASTLE</speaker><content>I don't kiss and tell.</content></utterance>
+<utterance uid="36-8"><speaker>ALEXIS</speaker><content>Well, it looks like I'm not the only one who's getting lucky this summer. Kidding, kidding. I'm just-- I'm just kidding.</content></utterance>
+<utterance uid="36-9"><speaker>CASTLE</speaker><content>That's not funny. Oh, that's so not funny.</content></utterance>
+</scene>
+<scene id="37"><utterance uid="37-1"><speaker>DEMMING</speaker><content>It's not just this weekend we're talking about, is it?</content></utterance>
+<utterance uid="37-2"><speaker>BECKETT</speaker><content>No.</content></utterance>
+<utterance uid="37-3"><speaker>DEMMING</speaker><content>No. Was it something I said, Kate? Something I did?</content></utterance>
+<utterance uid="37-4"><speaker>BECKETT</speaker><content>No, you're great. You're really great, and I really like you. It's just, I don't think that this is what I'm looking for right now.</content></utterance>
+<utterance uid="37-5"><speaker>DEMMING</speaker><content>Well, what is it you're looking for, Kate?</content></utterance>
+</scene>
+<scene id="38"><utterance uid="38-1"><speaker>CASTLE</speaker><content>It was very emotional. Yeah, there were a lot of tears. Um... Alexis was fine, by the way.</content></utterance>
+<utterance uid="38-2"><speaker>ESPOSITO</speaker><content>I gotta say, Castle, we're gonna miss you around here.</content></utterance>
+<utterance uid="38-3"><speaker>CASTLE</speaker><content>Yeah, I'm gonna miss you, too.</content></utterance>
+<utterance uid="38-4"><speaker>RYAN</speaker><content>You're still leaving the coffee machine, though, right?</content></utterance>
+<utterance uid="38-5"><speaker>CASTLE</speaker><content>I can't have you suffer in my absence.</content></utterance>
+<utterance uid="38-6"><speaker>RYAN</speaker><content>That's good.</content></utterance>
+<utterance uid="38-7"><speaker>LANIE</speaker><content>Oh, we could really use one of those down in the morgue.</content></utterance>
+<utterance uid="38-8"><speaker>MONTGOMERY</speaker><content>With Castle gone, I just hope our clearance rate doesn't drop.</content></utterance>
+<utterance uid="38-9"><speaker>CASTLE</speaker><content>Oh! Look who's off duty.</content></utterance>
+<utterance uid="38-10"><speaker>BECKETT</speaker><content>Yeah, well, Castle, I'm not all work.</content></utterance>
+<utterance uid="38-11"><speaker>LANIE</speaker><content>Don't get into a drinking contest with her. She can take you.</content></utterance>
+<utterance uid="38-12"><speaker>CASTLE</speaker><content>Thank you.</content></utterance>
+<utterance uid="38-13"><speaker>BECKETT</speaker><content>Oh, I don't need to drink to take him.</content></utterance>
+<utterance uid="38-14"><speaker>LANIE</speaker><content>Ooh! What's gotten into you?</content></utterance>
+<utterance uid="38-15"><speaker>BECKETT</speaker><content>Castle, do you have a second?</content></utterance>
+<utterance uid="38-16"><speaker>CASTLE</speaker><content>Of course. Yeah.</content></utterance>
+<utterance uid="38-17"><speaker>CASTLE</speaker><content>What's up?</content></utterance>
+<utterance uid="38-18"><speaker>BECKETT</speaker><content>Look... I know that I'm not the easiest person to get to know, and I don't always let on what's on my mind. But this past year, working with you, I've had a really good time.</content></utterance>
+<utterance uid="38-19"><speaker>CASTLE</speaker><content>Yeah. Me, too.</content></utterance>
+<utterance uid="38-20"><speaker>BECKETT</speaker><content>So, I'm-- I'm just gonna say this and...</content></utterance>
+<utterance uid="38-21"><speaker>GINA</speaker><content>Richard? You ready?</content></utterance>
+<utterance uid="38-22"><speaker>CASTLE</speaker><content>Hey, Gina. Um, Beckett, you remember Gina, my ex-wife.</content></utterance>
+<utterance uid="38-23"><speaker>GINA</speaker><content>And publisher.</content></utterance>
+<utterance uid="38-24"><speaker>CASTLE</speaker><content>Yes.</content></utterance>
+<utterance uid="38-25"><speaker>BECKETT</speaker><content>Yeah, we spoke the other day. Looks like you finally tracked him down.</content></utterance>
+<utterance uid="38-26"><speaker>GINA</speaker><content>Oh, yeah, he's such a little boy sometimes. I mean, I don't know why. It's not like I bite...much.</content></utterance>
+<utterance uid="38-27"><speaker>GINA</speaker><content>But we better get going or we're gonna be stuck in traffic all night.</content></utterance>
+<utterance uid="38-28"><speaker>BECKETT</speaker><content>Going?</content></utterance>
+<utterance uid="38-29"><speaker>CASTLE</speaker><content>To the Hamptons.</content></utterance>
+<utterance uid="38-30"><speaker>BECKETT</speaker><content>For the weekend?</content></utterance>
+<utterance uid="38-31"><speaker>GINA</speaker><content>No, for the summer, actually. So I can stay on top of him while he finishes his book.</content></utterance>
+<utterance uid="38-32"><speaker>BECKETT</speaker><content>I'm sorry, I-- I didn't think the two of you got along.</content></utterance>
+<utterance uid="38-33"><speaker>CASTLE</speaker><content>We didn't. But then last night on the phone, we started talking...</content></utterance>
+<utterance uid="38-34"><speaker>GINA</speaker><content>And we ended up talking for hours.</content></utterance>
+<utterance uid="38-35"><speaker>CASTLE</speaker><content>Yeah.</content></utterance>
+<utterance uid="38-36"><speaker>GINA</speaker><content>Just like old times.</content></utterance>
+<utterance uid="38-37"><speaker>CASTLE</speaker><content>Yeah. So... I'm sorry. You were, uh, you were telling me something.</content></utterance>
+<utterance uid="38-38"><speaker>BECKETT</speaker><content>Yeah, I wanted to say, have a great summer.</content></utterance>
+<utterance uid="38-39"><speaker>CASTLE</speaker><content>You, too. And like you said, it's-- it's been really, really great.</content></utterance>
+<utterance uid="38-40"><speaker>BECKETT</speaker><content>Yeah, it has.</content></utterance>
+<utterance uid="38-41"><speaker>BECKETT</speaker><content>See you in the fall?</content></utterance>
+<utterance uid="38-42"><speaker>CASTLE</speaker><content>See you in the fall.</content></utterance>
+</scene>
+</script>

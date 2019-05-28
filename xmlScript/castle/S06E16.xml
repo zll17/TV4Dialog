@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+
+<scene id="1"><utterance uid="1-1"><speaker>RICHARD CASTLE</speaker><content>Do I smell coffee?</content></utterance>
+<utterance uid="1-2"><speaker>KATE BECKETT</speaker><content> If you do, it was made by elves.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>CASTLE</speaker><content>Oh!</content></utterance>
+<utterance uid="2-2"><speaker>CASTLE</speaker><content>Geez.</content></utterance>
+<utterance uid="2-3"><speaker>ALEXIS CASTLE</speaker><content>You scared me.</content></utterance>
+<utterance uid="2-4"><speaker>BECKETT</speaker><content>Yeah, I think we all just kick-started our day.</content></utterance>
+<utterance uid="2-5"><speaker>CASTLE</speaker><content>What are you doing here?</content></utterance>
+<utterance uid="2-6"><speaker>ALEXIS</speaker><content>Oh, my tutoring job went late and the train wasn’t running back to my place, so I crashed here. I hope you don’t mind.</content></utterance>
+<utterance uid="2-7"><speaker>CASTLE</speaker><content>No! No, of course not. Matter of fact, um … now that you’ve broke up with your boyfriend there’s really no reason you can’t move back in here.</content></utterance>
+<utterance uid="2-8"><speaker>ALEXIS</speaker><content>Actually there are many reasons. Starting with, I have a lease?</content></utterance>
+<utterance uid="2-9"><speaker>CASTLE</speaker><content>Ah, I told you I would help you with that. And you know I don’t like you living in that place alone.</content></utterance>
+<utterance uid="2-10"><speaker>ALEXIS</speaker><content>Dad, it’s fine. I can handle it.  I’ve gotta go. I’ve got an early class.</content></utterance>
+<utterance uid="2-11"><speaker>BECKETT</speaker><content> And we have an early murder.</content></utterance>
+</scene>
+
+<scene id="3"><utterance uid="3-1"><speaker>CASTLE</speaker><content>It was one thing when she was living there with Pi, but now that she’s alone why not dump the dump and come home?</content></utterance>
+<utterance uid="3-2"><speaker>BECKETT</speaker><content> Maybe she’s enjoying her independence.</content></utterance>
+<utterance uid="3-3"><speaker>CASTLE</speaker><content>She doesn’t have time for independence. She’s got her tutoring gigs, her classes, her work study job. She’s exhausted.</content></utterance>
+<utterance uid="3-4"><speaker>BECKETT</speaker><content>Well Castle, I mean, she’s strong willed. Maybe it’s pride.</content></utterance>
+<utterance uid="3-5"><speaker>CASTLE</speaker><content>If it were pride she’d be more … well, proud. No, it’s something else. Another reason why she’s not coming home.</content></utterance>
+<utterance uid="3-6"><speaker>CASTLE</speaker><content>‘sito!</content></utterance>
+<utterance uid="3-7"><speaker>JAVIER ESPOSITO</speaker><content>Yeah.</content></utterance>
+<utterance uid="3-8"><speaker>CASTLE</speaker><content>Someone miss their checkout?</content></utterance>
+<utterance uid="3-9"><speaker>ESPOSITO</speaker><content>He checked out, all right. Housekeeping found this guy, Justin Marquette, dead in 147. His driver’s license says he lives nearby.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>BECKETT</speaker><content>Single gunshot to the chest?</content></utterance>
+<utterance uid="4-2"><speaker>LANIE PARISH</speaker><content>One is all it took. Based on the entry wound, I’d say a small caliber handgun. Lividity and liver temp put the time of death between 10PM and midnight.</content></utterance>
+<utterance uid="4-3"><speaker>BECKETT</speaker><content>And he wasn’t found until morning?</content></utterance>
+<utterance uid="4-4"><speaker>BECKETT</speaker><content>So how come no one heard the shot?</content></utterance>
+<utterance uid="4-5"><speaker>ESPOSITO</speaker><content>All the neighboring rooms are empty. The manager says that the place is only about 40% occupied.</content></utterance>
+<utterance uid="4-6"><speaker>CASTLE</speaker><content>Did the manager mention him checking in with anyone?</content></utterance>
+<utterance uid="4-7"><speaker>ESPOSITO</speaker><content>The room was in his name alone. Ryan is trying to track down the desk clerk from last night to see if he can get some more details. There’s no sign of forced entry, though.</content></utterance>
+<utterance uid="4-8"><speaker>CASTLE</speaker><content>So either the killer was with him, or the victim let him in.</content></utterance>
+<utterance uid="4-9"><speaker>ESPOSITO</speaker><content>Yeah.</content></utterance>
+<utterance uid="4-10"><speaker>BECKETT</speaker><content>It looks like he took a bottle of water from this mini fridge, turned back around, got shot, and then he took the chair down with him.</content></utterance>
+<utterance uid="4-11"><speaker>CASTLE</speaker><content>There’s no luggage.  You said he lived nearby. What was he doing here?</content></utterance>
+<utterance uid="4-12"><speaker>ESPOSITO</speaker><content>I don’t know.  I checked his phone; there was no indication of a meeting. There was no appointments, texts, or calls in the hours leading up to his death.</content></utterance>
+<utterance uid="4-13"><speaker>KEVIN RYAN</speaker><content>Hey. I found the desk clerk who checked in Justin Marquette. Something was up with this guy.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>JANE</speaker><content>Mr. Marquette came in about 8. No reservation, which is not unusual.</content></utterance>
+<utterance uid="5-2"><speaker>RYAN</speaker><content>Jane, tell them about the room.</content></utterance>
+<utterance uid="5-3"><speaker>JANE</speaker><content>That was unusual. He asked to stay in room 147. In fact, he insisted on it.</content></utterance>
+<utterance uid="5-4"><speaker>CASTLE</speaker><content>Is there anything special about 147?</content></utterance>
+<utterance uid="5-5"><speaker>JANE</speaker><content>No, all our rooms are identical, which is why it was so strange.</content></utterance>
+<utterance uid="5-6"><speaker>BECKETT</speaker><content>Had he been here before?</content></utterance>
+<utterance uid="5-7"><speaker>JANE</speaker><content>Well, he’s not in the system, which means he’s never been a guest at any Best Traveler hotel.</content></utterance>
+<utterance uid="5-8"><speaker>CASTLE</speaker><content>Did he mention why he was staying?</content></utterance>
+<utterance uid="5-9"><speaker>JANE</speaker><content>He didn’t have to. Good looking guy, no bags, checking in for one night?  In my experience that means he was here to hook up.</content></utterance>
+<utterance uid="5-10"><speaker>BECKETT</speaker><content>Did he come here with anyone?</content></utterance>
+<utterance uid="5-11"><speaker>JANE</speaker><content>No, but he was texting with someone. I figured that’s who he was meeting.</content></utterance>
+<utterance uid="5-12"><speaker>BECKETT</speaker><content>He texted? Are you sure? We didn’t find any texts on his phone.</content></utterance>
+<utterance uid="5-13"><speaker>JANE</speaker><content>I’m positive.</content></utterance>
+<utterance uid="5-14"><speaker>JANE</speaker><content>There.  See? He’s texting.</content></utterance>
+<utterance uid="5-15"><speaker>CASTLE</speaker><content>On a flip phone.</content></utterance>
+<utterance uid="5-16"><speaker>BECKETT</speaker><content>That’s not the phone we found.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>ESPOSITO</speaker><content>As far as I can tell, that’s the only cellphone registered to Justin Marquette.</content></utterance>
+<utterance uid="6-2"><speaker>BECKETT</speaker><content>So the one we saw in the video must be a second secret one.</content></utterance>
+<utterance uid="6-3"><speaker>CASTLE</speaker><content>Which the killer took to hide their identity.</content></utterance>
+<utterance uid="6-4"><speaker>BECKETT</speaker><content>So who is this guy, why a second phone, and why room 147?</content></utterance>
+<utterance uid="6-5"><speaker>RYAN</speaker><content>I didn’t get much from hotel security video. Coverage is sketchy and there are no cameras in the hallway outside Justin’s room.</content></utterance>
+<utterance uid="6-6"><speaker>BECKETT</speaker><content>Did you get ahold of the next of kin?</content></utterance>
+<utterance uid="6-7"><speaker>RYAN</speaker><content>Not yet, but I did find out about of victim thought his personal website.</content></utterance>
+<utterance uid="6-8"><speaker>BECKETT</speaker><content>He’s got his own website?</content></utterance>
+<utterance uid="6-9"><speaker>RYAN</speaker><content>He’s an actor – and a struggling on, judging by his credits.</content></utterance>
+<utterance uid="6-10"><speaker>CASTLE</speaker><content> Justin Marquette is a member of the Rooster Theater Company and is currently appearing in their off-off-off Broadway production of Chekhov’s Platonov. That’s … a lot of –offs.</content></utterance>
+<utterance uid="6-11"><speaker>BECKETT</speaker><content>Let’s see if anyone down there knows what he was into.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>EDDIE</speaker><content>This is the absolute end. What’s going on out there?</content></utterance>
+<utterance uid="7-2"><speaker>LAURA WESTBOURNE</speaker><content>Joseph’s been lynched by the villagers.</content></utterance>
+<utterance uid="7-3"><speaker>PAM</speaker><content>I’m sorry, this is a closed rehearsal.</content></utterance>
+<utterance uid="7-4"><speaker>BECKET</speaker><content>NYPD. I’m Detective Beckett. We’re hear about Justin Marquette.</content></utterance>
+<utterance uid="7-5"><speaker>LAURA</speaker><content>What about Justin? Is he okay?</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>LAURA</speaker><content>We met through the theater company and started dating three months ago. I knew something was wrong when he didn’t show up for rehearsal today.</content></utterance>
+<utterance uid="8-2"><speaker>BECKETT</speaker><content>When was the last time you saw him?</content></utterance>
+<utterance uid="8-3"><speaker>LAURA</speaker><content>Yesterday morning at my place. We um … we went for a run and then he showered and left for work.</content></utterance>
+<utterance uid="8-4"><speaker>CASTLE</speaker><content>Where did he work?</content></utterance>
+<utterance uid="8-5"><speaker>LAURA</speaker><content>Temp jobs, mostly. He wasn’t getting much recently, but he said he didn’t mind because  because it gave him more time to spend with me.</content></utterance>
+<utterance uid="8-6"><speaker>CASTLE</speaker><content>Any idea what he would be doing at the Best Traveler hotel last night?</content></utterance>
+<utterance uid="8-7"><speaker>LAURA</speaker><content>No – hotel? He was at a hotel?</content></utterance>
+<utterance uid="8-8"><speaker>BECKETT</speaker><content>Look, Laura, I know this is difficult, but is it possible that Justin was seeing someone else?</content></utterance>
+<utterance uid="8-9"><speaker>LAURA</speaker><content>What? No!</content></utterance>
+<utterance uid="8-10"><speaker>CASTLE</speaker><content>Was he involved in anything dangerous or illegal?</content></utterance>
+<utterance uid="8-11"><speaker>LAURA</speaker><content> No, not that I know of. No.</content></utterance>
+<utterance uid="8-12"><speaker>BECKETT</speaker><content>Was there anyone in his life that may have wanted to hurt him?</content></utterance>
+<utterance uid="8-13"><speaker>EDDIE</speaker><content> There was that thing the other day, remember?</content></utterance>
+<utterance uid="8-14"><speaker>CASTLE</speaker><content>What thing?</content></utterance>
+<utterance uid="8-15"><speaker>EDDIE</speaker><content>Some crazy woman walked up to him on the street and threatened him.</content></utterance>
+<utterance uid="8-16"><speaker>PAM</speaker><content>That’s right. Justin was totally rattled. He could barely perform that night.</content></utterance>
+<utterance uid="8-17"><speaker>BECKETT</speaker><content>Did he know who she was?</content></utterance>
+<utterance uid="8-18"><speaker>LAURA</speaker><content>Uh uh. And he did not want to talk about it, either. All he said was that it happened outside a coffee shop on 9th and Mercer.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>ESPOSITO</speaker><content>Thanks.  Hey. That was the coffee shop. A barista saw the whole thing go down. A woman walked up to Justin outside and started yelling at him.</content></utterance>
+<utterance uid="9-2"><speaker>BECKETT</speaker><content>You get a description?</content></utterance>
+<utterance uid="9-3"><speaker>ESPOSITO</speaker><content>I did better than that. She’s a regular customer and she’s got a loyalty card. Her name’s Anita Miller. I’ll send a unit to pick her up.</content></utterance>
+<utterance uid="9-4"><speaker>BECKETT</speaker><content>Great.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>BECKETT</speaker><content>Thanks for coming in, Ms. Miller. I’m Detective Beckett. Uh … I just need to ask you a few questions about –</content></utterance>
+<utterance uid="10-2"><speaker>ANITA MILLER</speaker><content>Justin Marquette.</content></utterance>
+<utterance uid="10-3"><speaker>BECKETT</speaker><content>So you know him?</content></utterance>
+<utterance uid="10-4"><speaker>ANITA</speaker><content>I more than know him, Detective. In fact, I killed him.</content></utterance>
+<utterance uid="10-5"><speaker>BECKETT</speaker><content>Are you confessing?</content></utterance>
+<utterance uid="10-6"><speaker>ANITA</speaker><content>I’m just … give me some paper. I want to write it all down.</content></utterance>
+<utterance uid="10-7"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>CASTLE</speaker><content>Eleven seconds to a confession. That’s got to be your personal best.</content></utterance>
+<utterance uid="11-2"><speaker>BECKETT</speaker><content> You sound like you’re disappointed, Castle.</content></utterance>
+<utterance uid="11-3"><speaker>CASTLE</speaker><content>Well, I am. A little. I mean, a secret phone, room 147? This case had a conspiratorial premise.</content></utterance>
+<utterance uid="11-4"><speaker>BECKETT</speaker><content>Well, most likely Justin was cheating on his girlfriend with Anita and the two of them met up at the hotel and that’s where things went south.</content></utterance>
+<utterance uid="11-5"><speaker>CASTLE</speaker><content>Yes, well, most likely that is boring.</content></utterance>
+<utterance uid="11-6"><speaker>BECKETT</speaker><content> Look, not every case has to be shrouded in mystery and intrigue.</content></utterance>
+<utterance uid="11-7"><speaker>ESPOSITO</speaker><content>Yo. Uh … we got a problem.</content></utterance>
+<utterance uid="11-8"><speaker>BECKETT</speaker><content>What’s wrong?</content></utterance>
+<utterance uid="11-9"><speaker>ESPOSITO</speaker><content>I was looking into Anita Miller’s whereabouts try to tie her to the hotel, except her credit card records show that she was at Mavaggio restaurant last night.</content></utterance>
+<utterance uid="11-10"><speaker>BECKETT</speaker><content>So maybe someone else used her credit card.</content></utterance>
+<utterance uid="11-11"><speaker>ESPOSITO</speaker><content>Nah, the manager ID’d her. And he said she split the bill with another guy. Her AA sponsor. I just spoke to him and he confirmed that they were together from 9:30PM to 12:30AM.</content></utterance>
+<utterance uid="11-12"><speaker>CASTLE</speaker><content>But that’s our entire time of death window. If that’s true then Anita can’t be our killer.</content></utterance>
+<utterance uid="11-13"><speaker>BECKETT</speaker><content>Then why is she confessing?</content></utterance>
+<utterance uid="11-14"><speaker>CASTLE</speaker><content>Not so boring after all.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>CAPTAIN VICTORIA GATES</speaker><content>So Anita Miller is confessing to the murder and she has an alibi?</content></utterance>
+<utterance uid="12-2"><speaker>BECKETT</speaker><content>Yeah. We’re still trying to make sense of it, Sir.</content></utterance>
+<utterance uid="12-3"><speaker>GATES</speaker><content>Well is it possible that we misjudged the time of death?</content></utterance>
+<utterance uid="12-4"><speaker>BECKETT</speaker><content>No. No, Lanie stands behind her examination.</content></utterance>
+<utterance uid="12-5"><speaker>GATES</speaker><content>Okay, then what about the alibi?</content></utterance>
+<utterance uid="12-6"><speaker>BECKETT</speaker><content>Esposito verified it with the restaurant. The manager, the hostess, even the waiter confirmed that Anita was there all evening. Not only that, but this restaurant is nowhere near the hotel.</content></utterance>
+<utterance uid="12-7"><speaker>GATES</speaker><content>Then she couldn’t have killed him. So find out why she’s lying.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>ANITA</speaker><content>It’s all there. Everything I remember about what I did.</content></utterance>
+<utterance uid="13-2"><speaker>BECKETT</speaker><content>Well, we just wanted to go over this in person. Just to clear up any discrepancies.</content></utterance>
+<utterance uid="13-3"><speaker>ANITA</speaker><content>What discrepancies?</content></utterance>
+<utterance uid="13-4"><speaker>CASTLE</speaker><content>Well, why don’t you just tell us what happened?</content></utterance>
+<utterance uid="13-5"><speaker>ANITA</speaker><content>I went to see him in his room -</content></utterance>
+<utterance uid="13-6"><speaker>CASTLE</speaker><content>Which room was that?</content></utterance>
+<utterance uid="13-7"><speaker>ANITA</speaker><content>Room 147.</content></utterance>
+<utterance uid="13-8"><speaker>BECKETT</speaker><content>Room 147?</content></utterance>
+<utterance uid="13-9"><speaker>ANITA</speaker><content> At the Best Traveler hotel.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>ANITA</speaker><content>I knocked on the door. He opened it almost immediately.</content></utterance>
+<utterance uid="14-2"><speaker>JUSTIN</speaker><content>Been waiting for you. Come on in.  Let me get you a water.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>ANITA</speaker><content>He offered me a water and then he went to the mini fridge. That’s when I took out the gun.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>ANITA</speaker><content>He turned around to give me the water.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>ANITA</speaker><content>I shot him. I shot him in the chest.</content></utterance>
+<utterance uid="17-2"><speaker>BECKETT</speaker><content>And then what happened?</content></utterance>
+<utterance uid="17-3"><speaker>ANITA</speaker><content>He looked surprised. He staggered back. He dropped the water and he kind of gripped onto the back of this chair. Then he fell and knocked it over.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>ESPOSITO</speaker><content>That’s exactly how we found the crime scene.</content></utterance>
+<utterance uid="18-2"><speaker>RYAN</speaker><content>She must have been there.</content></utterance>
+<utterance uid="18-3"><speaker>ESPOSITO</speaker><content>How? How is that possible?</content></utterance>
+<utterance uid="18-4"><speaker>BECKETT</speaker><content>Anita, what was your relationship with Justin Marquette?</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>ANITA</speaker><content>My relationship?</content></utterance>
+<utterance uid="19-2"><speaker>CASTLE</speaker><content>Were the two of you involved?</content></utterance>
+<utterance uid="19-3"><speaker>ANITA</speaker><content> I don’t think so.</content></utterance>
+<utterance uid="19-4"><speaker>BECKETT</speaker><content>Then how did you know him.</content></utterance>
+<utterance uid="19-5"><speaker>ANITA</speaker><content> I’m not sure.</content></utterance>
+<utterance uid="19-6"><speaker>BECKETT</speaker><content>If you don’t know how you know him, then why would you kill him?</content></utterance>
+<utterance uid="19-7"><speaker>ANITA</speaker><content>I’m an alcoholic. He was responsible for my drinking.</content></utterance>
+<utterance uid="19-8"><speaker>CASTLE</speaker><content>How was he responsible?</content></utterance>
+<utterance uid="19-9"><speaker>ANITA</speaker><content> I don’t know. I’m – I’m sorry. I’ve been really confused lately.</content></utterance>
+<utterance uid="19-10"><speaker>CASTLE</speaker><content>Because of the drinking?</content></utterance>
+<utterance uid="19-11"><speaker>ANITA</speaker><content>No. I’ve been sober for four years. God knows I still struggle, but these last two weeks, they’ve just been really … blurry.</content></utterance>
+<utterance uid="19-12"><speaker>BECKETT</speaker><content>Do you remember going to dinner with your sponsor last night?</content></utterance>
+<utterance uid="19-13"><speaker>ANITA</speaker><content>Was that last night?</content></utterance>
+<utterance uid="19-14"><speaker>ANITA</speaker><content>Yes, you’re right. It was.</content></utterance>
+<utterance uid="19-15"><speaker>CASTLE</speaker><content>So then when did you go to the hotel and meet Justin?</content></utterance>
+<utterance uid="19-16"><speaker>ANITA</speaker><content> I don’t remember.</content></utterance>
+<utterance uid="19-17"><speaker>BECKETT</speaker><content>Anita, we have a witness that saw you accost Justin outside a coffee shop a couple of days ago. Do you remember that?</content></utterance>
+<utterance uid="19-18"><speaker>ANITA</speaker><content> Yes, I do. Uh, he was talking to this big bald man. I had to warn Justin. To tell him that he was in danger.</content></utterance>
+<utterance uid="19-19"><speaker>CASTLE</speaker><content>From the bald man.</content></utterance>
+<utterance uid="19-20"><speaker>ANITA</speaker><content>No. From me. The moment I saw Justin I just had this awful feeling that I was going to hurt him.  And I did.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>RYAN</speaker><content>All right. Thanks.  So no one at the hotel saw Anita last night and tech can’t find her in any of the can footage.</content></utterance>
+<utterance uid="20-2"><speaker>BECKETT</speaker><content>This doesn’t make any sense. She knows details about our crime that only our killer could know.</content></utterance>
+<utterance uid="20-3"><speaker>CASTLE</speaker><content>What about forensics? Did CSU come up with anything?</content></utterance>
+<utterance uid="20-4"><speaker>ESPOSITO</speaker><content>Yeah, a hotel room in New York City?  They found all kinds of fun stuff. But nothing to tie Anita back to room 147.</content></utterance>
+<utterance uid="20-5"><speaker>RYAN</speaker><content>Well maybe it’s an act. You know? Some kind of smoke screen and she’s taking the fall for someone else.</content></utterance>
+<utterance uid="20-6"><speaker>BECKETT</speaker><content>Except she had to have known that we would check her alibi, which completely contradicts her confession.</content></utterance>
+<utterance uid="20-7"><speaker>ESPOSITO</speaker><content>Hum.  All right. C’mon, huh? Give us one of your theories, bro.</content></utterance>
+<utterance uid="20-8"><speaker>ESPOSITO</speaker><content>Come on. Whatever it is, it can’t be any crazier that what we’re already dealing with.</content></utterance>
+<utterance uid="20-9"><speaker>CASTLE</speaker><content>Okay.  Mmm… I think …</content></utterance>
+<utterance uid="20-10"><speaker>CASTLE</speaker><content>… I’m man enough to admit I’m completely theory-less.</content></utterance>
+<utterance uid="20-11"><speaker>RYAN</speaker><content>Maybe Anita suffered some kind of psychotic break.</content></utterance>
+<utterance uid="20-12"><speaker>BECKETT</speaker><content>I’ve ordered a psych eval, but psychosis doesn’t explain how she knew all about the murder.</content></utterance>
+<utterance uid="20-13"><speaker>ESPOSITO</speaker><content>Or why she killed the guy in the first place. I double checked her phone records. Not a single call or text between her and Justin Marquette. It’s like they had no history at all.</content></utterance>
+<utterance uid="20-14"><speaker>BECKETT</speaker><content>Okay, why don’t you guys go over to her apartment and check everything. Emails, calendars, her diary and let’s see if we can find anything there that’ll connect her to our victim.</content></utterance>
+<utterance uid="20-15"><speaker>RYAN</speaker><content>All right. We’re on it.</content></utterance>
+<utterance uid="20-16"><speaker>DOC HOLLOWAY</speaker><content>Detective Beckett, Mr. Castle. Nice to see you.</content></utterance>
+<utterance uid="20-17"><speaker>BECKETT</speaker><content>Thank you so much for coming in, Doctor Holloway.</content></utterance>
+<utterance uid="20-18"><speaker>HOLLOWAY</speaker><content>I gather you have a patient for me.</content></utterance>
+<utterance uid="20-19"><speaker>CASTLE</speaker><content>Oh yeah.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>RYAN</speaker><content>Well we’ve been through every room of the house. No gun, no bloody clothes, nothing that links Anita back to that crime scene or to Justin.</content></utterance>
+<utterance uid="21-2"><speaker>ESPOSITO</speaker><content>Maybe not, but check out her datebook. Some pages have been ripped out, including all of the last two weeks.</content></utterance>
+<utterance uid="21-3"><speaker>RYAN</speaker><content>Two weeks? Wait a minute, that’s how long Anita says she’s been feeling blurry.</content></utterance>
+<utterance uid="21-4"><speaker>ESPOSITO</speaker><content>Mmhmm.</content></utterance>
+<utterance uid="21-5"><speaker>RYAN</speaker><content>Maybe she kept a calendar on her computer.  Yeah. And it looks like the same two weeks have been erased.</content></utterance>
+<utterance uid="21-6"><speaker>ESPOSITO</speaker><content>It looks like someone is trying to cover something up.</content></utterance>
+<utterance uid="21-7"><speaker>RYAN</speaker><content>Yeah, but who? And what?</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>CASTLE</speaker><content>As much as I love a good mystery, a small part is hoping he can give us some clarity on what the hell is going on.</content></utterance>
+<utterance uid="22-2"><speaker>BECKETT</speaker><content> Speaking of clarity, what did you mean when you said that there might be something else that’s keeping Alexis from moving back to your loft?</content></utterance>
+<utterance uid="22-3"><speaker>CASTLE</speaker><content>I don’t know. And Alexis won’t talk about it, so … maybe when Doctor Holloway is done talking to Anita I can get him to talk to Alexis.</content></utterance>
+<utterance uid="22-4"><speaker>BECKETT</speaker><content>Hey. So, what’s the verdict?</content></utterance>
+<utterance uid="22-5"><speaker>HOLLOWAY</speaker><content>Based on my examination so far, I find her to be mentally competent, if somewhat disoriented. By all indication she seems to be telling the truth.</content></utterance>
+<utterance uid="22-6"><speaker>BECKETT</speaker><content>Meaning … she did kill Justin Marquette?</content></utterance>
+<utterance uid="22-7"><speaker>HOLLOWAY</speaker><content>Or she believes she did, anyway.</content></utterance>
+<utterance uid="22-8"><speaker>CASTLE</speaker><content>And what about the disorientation? How do you account for that?</content></utterance>
+<utterance uid="22-9"><speaker>HOLLOWAY</speaker><content>Could be medical, or neurologic condition, or an adverse reaction to drugs. It’s possible she experienced a traumatic event which caused some sort of retrograde amnesia.</content></utterance>
+<utterance uid="22-10"><speaker>BECKETT</speaker><content>So traumatic like killing someone?</content></utterance>
+<utterance uid="22-11"><speaker>HOLLOWAY</speaker><content>Potentially. I’m going to do a full workup. I’ll know more when the results come back.</content></utterance>
+<utterance uid="22-12"><speaker>BECKETT</speaker><content>Thank you, Doctor.</content></utterance>
+<utterance uid="22-13"><speaker>CASTLE</speaker><content>So Anita Miller believes she killed the victim, but the facts say she couldn’t have.</content></utterance>
+<utterance uid="22-14"><speaker>BECKETT</speaker><content>Not all the facts. I mean, we know she accosted Justin outside the coffee shop. She confessed to the murder and she had intimate knowledge of the crime. So, look, clearly we haven’t explained everything, but –</content></utterance>
+<utterance uid="22-15"><speaker>CASTLE</speaker><content>But you believe she killed him.</content></utterance>
+<utterance uid="22-16"><speaker>BECKETT</speaker><content> I think that until something changes, she’s our best suspect.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>SAM CARSON</speaker><content> I want to confess to a murder. I killed Justin Marquette.</content></utterance>
+<utterance uid="23-2"><speaker>CASTLE</speaker><content>I’d say something just changed.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>SAM</speaker><content>Yeah, it was me. Don’t get me wrong, it’s not like I’m proud of it.</content></utterance>
+<utterance uid="24-2"><speaker>GATES</speaker><content>Did I hear right? Another person has confessed to this murder?</content></utterance>
+<utterance uid="24-3"><speaker>ESPOSITO</speaker><content>Yeah, but I think he’s some kind of attention seeker.</content></utterance>
+<utterance uid="24-4"><speaker>CASTLE</speaker><content>Yeah, so far the confession’s just a rehash of the news report.</content></utterance>
+<utterance uid="24-5"><speaker>BECKETT</speaker><content>Mr. Carson, do you realize that making false statements to the police is a crime?</content></utterance>
+<utterance uid="24-6"><speaker>SAM</speaker><content>I’m telling you the truth. I killed the guy. In his hotel room.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>BECKETT</speaker><content>Okay, fine. What room was that?</content></utterance>
+<utterance uid="25-2"><speaker>SAM</speaker><content>Um …</content></utterance>
+<utterance uid="25-3"><speaker>SAM</speaker><content>Room 147.</content></utterance>
+<utterance uid="25-4"><speaker>SAM</speaker><content>It was room 147.</content></utterance>
+</scene>
+
+<scene id="26"><utterance uid="26-1"><speaker>BECKETT</speaker><content>I need you to tell me exactly what happened.</content></utterance>
+<utterance uid="26-2"><speaker>SAM</speaker><content>I was in his room –</content></utterance>
+<utterance uid="26-3"><speaker>BECKETT</speaker><content>No, no. I need details. Were you hiding in the closet? Did you kick down the door?</content></utterance>
+<utterance uid="26-4"><speaker>SAM</speaker><content>No. I knocked.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>JUSTIN</speaker><content>Been waiting for you. Come on in.  Let me get you a water.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>SAM</speaker><content>He let me in, offered me a water.</content></utterance>
+<utterance uid="28-2"><speaker>BECKETT</speaker><content>A water?</content></utterance>
+<utterance uid="28-3"><speaker>SAM</speaker><content>Yeah, like a bottle. He – he went to the fridge. That’s when I pulled out my gun.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>SAM</speaker><content>He turned around and I shot him. Right in the chest.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>BECKETT</speaker><content>And then what?</content></utterance>
+<utterance uid="30-2"><speaker>SAM</speaker><content>He fell back, grabbed a chair, knocked it over when he fell down. Then I left.</content></utterance>
+<utterance uid="30-3"><speaker>BECKETT</speaker><content>Why did you kill him?</content></utterance>
+<utterance uid="30-4"><speaker>SAM</speaker><content>Why?</content></utterance>
+<utterance uid="30-5"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="30-6"><speaker>SAM</speaker><content>Because I was angry. I’ve got anger issues, you know? When I saw him I was just … filled with rage.</content></utterance>
+<utterance uid="30-7"><speaker>BECKETT</speaker><content>Because he did what to you?</content></utterance>
+<utterance uid="30-8"><speaker>SAM</speaker><content>That’s – that’s the part I’m not too clear on. The last - last couple of weeks have been kind of hazy.</content></utterance>
+<utterance uid="30-9"><speaker>BECKETT</speaker><content>How did you know the victim?</content></utterance>
+<utterance uid="30-10"><speaker>SAM</speaker><content>I don’t – I don’t know that I do.</content></utterance>
+<utterance uid="30-11"><speaker>BECKETT</speaker><content>Okay, he filled you with rage and you don’t know him? Why did you go to room 147 in the first place? Did he contact you?</content></utterance>
+<utterance uid="30-12"><speaker>SAM</speaker><content>I don’t remember.</content></utterance>
+<utterance uid="30-13"><speaker>BECKETT</speaker><content>How do you not remember? What kind of game are you playing here?</content></utterance>
+<utterance uid="30-14"><speaker>SAM</speaker><content>I’m not playing any game!</content></utterance>
+<utterance uid="30-15"><speaker>BECKETT</speaker><content>You know what I think you’re doing? You’re trying to sabotage my case. You know that no DA is going to get a conviction with multiple confessions!</content></utterance>
+<utterance uid="30-16"><speaker>SAM</speaker><content>Multiple confessions?</content></utterance>
+<utterance uid="30-17"><speaker>BECKETT</speaker><content>Yeah, you and Anita Miller are working together on this. You’re either covering for each other or you’re covering for someone else out there.</content></utterance>
+<utterance uid="30-18"><speaker>SAM</speaker><content>Who the hell is Anita Miller?</content></utterance>
+<utterance uid="30-19"><speaker>BECKETT</speaker><content>You know who she is.</content></utterance>
+<utterance uid="30-20"><speaker>SAM</speaker><content>I’ve never seen that woman before in my life.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>ANITA</speaker><content>I’m telling you, I don’t know him.</content></utterance>
+<utterance uid="31-2"><speaker>CASTLE</speaker><content>Are you sure about that?</content></utterance>
+<utterance uid="31-3"><speaker>BECKETT</speaker><content>Because Sam told us the same story that you did, but that he killed Justin.</content></utterance>
+<utterance uid="31-4"><speaker>ANITA</speaker><content>Well he’s lying. I killed Justin Marquette.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>BECKETT</speaker><content>So we can’t find a link between Sam and Anita or between either one of them and our victim.</content></utterance>
+<utterance uid="32-2"><speaker>CASTLE</speaker><content>What about Sam’s alibi?</content></utterance>
+<utterance uid="32-3"><speaker>BECKETT</speaker><content>His brother says that he and Sam were at the batting cages all last night and based on the security video, Sam never set foot in the hotel.</content></utterance>
+<utterance uid="32-4"><speaker>CASTLE</speaker><content>They both believe they killed Justin, they both know details about the murder, and they both have similar memory problems. I mean, they must be connected. What if their lives intersect, just not in such a literal sense?</content></utterance>
+<utterance uid="32-5"><speaker>BECKETT</speaker><content>No, Castle. No. Please. If this is some alternate universe theory, I’m not in the mood.</content></utterance>
+<utterance uid="32-6"><speaker>CASTLE</speaker><content> Really? Alternate universe? That’s how little you think of me?</content></utterance>
+<utterance uid="32-7"><speaker>BECKETT</speaker><content> I’m sorry.  I’m – I’m sorry. I just thought that you –</content></utterance>
+<utterance uid="32-8"><speaker>CASTLE</speaker><content>No, they’re psychically linked.</content></utterance>
+<utterance uid="32-9"><speaker>CASTLE</speaker><content>And not just to each other, but to the actual killer. See, they’re seeing the crime through his or her eyes. And the experience is so visceral that both Sam and Anita think that they committed the crime themselves.</content></utterance>
+<utterance uid="32-10"><speaker>BECKETT</speaker><content> I’m sorry, it’s just, you got excited. It’s kind of cute.</content></utterance>
+<utterance uid="32-11"><speaker>CASTLE</speaker><content>Yeah, yeah, yeah. You know how I like the weird stuff.</content></utterance>
+<utterance uid="32-12"><speaker>CASTLE</speaker><content>Who’s that?</content></utterance>
+<utterance uid="32-13"><speaker>BECKETT</speaker><content>Uh … it’s nobody. Nothing. It’s nothing.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>BECKETT</speaker><content>Another what?</content></utterance>
+<utterance uid="33-2"><speaker>DWIGHT CARRUTHERS</speaker><content>I’m Dwight Carruthers, CPA. I’m here to turn myself in.  For killing Justin Marquette.</content></utterance>
+<utterance uid="33-3"><speaker>BECKETT</speaker><content> No.</content></utterance>
+<utterance uid="33-4"><speaker>CASTLE</speaker><content> All right. This is now officially outstanding.</content></utterance>
+<utterance uid="33-5"><speaker>RYAN</speaker><content>Hey. You guys need to see this.</content></utterance>
+<utterance uid="33-6"><speaker>DWIGHT</speaker><content>Wait, I – I need to confess.</content></utterance>
+<utterance uid="33-7"><speaker>BECKETT</speaker><content>Yeah. Take a number.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>RYAN</speaker><content>Once we realized that someone might have gone through Anita’s apartment, we had unis canvass the area. Now, one of Anita’s neighbors remembers seeing a red van parked outside her place about two weeks ago.</content></utterance>
+<utterance uid="34-2"><speaker>BECKETT</speaker><content>Right when she started feeling disoriented.</content></utterance>
+<utterance uid="34-3"><speaker>RYAN</speaker><content>Yeah, not only that, we checked in with Sam Carson’s neighbors. Turns out one of them remembers seeing the same red van parked outside of Carson’s house a few nights later. She remembers it because she thought it looked suspicious.</content></utterance>
+<utterance uid="34-4"><speaker>BECKETT</speaker><content>Did you get a plate number?</content></utterance>
+<utterance uid="34-5"><speaker>RYAN</speaker><content>No, but she took a picture with her phone.  Take a look at who’s behind the wheel.</content></utterance>
+<utterance uid="34-6"><speaker>CASTLE</speaker><content>Is that –</content></utterance>
+<utterance uid="34-7"><speaker>BECKETT</speaker><content>A big, bald man, just like the one Anita said she saw talking to our victim outside the coffee shop.</content></utterance>
+<utterance uid="34-8"><speaker>CASTLE</speaker><content>So our victim and two suspects do have something in common.</content></utterance>
+<utterance uid="34-9"><speaker>BECKETT</speaker><content>Yeah. Him.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>GATES</speaker><content>So now there are three of them?</content></utterance>
+<utterance uid="35-2"><speaker>BECKETT</speaker><content>Yes, Sir.  But we believe that this man is the key to our case. His van was seen outside both Anita and Sam’s apartments and Anita ID’d him as the guy that was talking to our victim outside the coffee shop.</content></utterance>
+<utterance uid="35-3"><speaker>GATES</speaker><content>And what is this man’s connection to Mr. Carruthers?</content></utterance>
+<utterance uid="35-4"><speaker>BECKETT</speaker><content>That’s what I’m going to find out.</content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>DWIGHT</speaker><content>I’m prepared to take full responsibility and admit to what I did.</content></utterance>
+<utterance uid="36-2"><speaker>BECKETT</speaker><content>Yes, I’m sure you are. Now, do you recognize this man?</content></utterance>
+<utterance uid="36-3"><speaker>DWIGHT</speaker><content>Don’t you want to hear my confession?</content></utterance>
+<utterance uid="36-4"><speaker>BECKETT</speaker><content>Best Traveler hotel, room 147, Justin offered you water, and then you shot him.</content></utterance>
+<utterance uid="36-5"><speaker>DWIGHT</speaker><content>How – how did you know?</content></utterance>
+<utterance uid="36-6"><speaker>CASTLE</speaker><content>Beckett? Just like the one Anita drew.</content></utterance>
+<utterance uid="36-7"><speaker>BECKETT</speaker><content>Dwight, what does that symbol mean?</content></utterance>
+<utterance uid="36-8"><speaker>DWIGHT</speaker><content>Uh … I – I don’t know. It’s just been stuck in my head lately. But what difference does that make? I shot a guy.</content></utterance>
+<utterance uid="36-9"><speaker>BECKETT</speaker><content>We know. Now, can you take a closer look at these pictures and tell me if you recognize that man?</content></utterance>
+<utterance uid="36-10"><speaker>DWIGHT</speaker><content>Uh … no. But the van looks familiar.</content></utterance>
+<utterance uid="36-11"><speaker>CASTLE</speaker><content>You’ve seen it before? Where?</content></utterance>
+<utterance uid="36-12"><speaker>DWIGHT</speaker><content>I’m – I’m not sure. I’ve been –</content></utterance>
+<utterance uid="36-13"><speaker>CASTLE</speaker><content>Confused recently? Like the last two weeks?</content></utterance>
+<utterance uid="36-14"><speaker>BECKETT</speaker><content>Dwight, think. This is important.</content></utterance>
+<utterance uid="36-15"><speaker>DWIGHT</speaker><content>It was last Tuesday. Around noon. I was coming home from assertiveness training and it was parked on Houston Street up outside my apartment.</content></utterance>
+<utterance uid="36-16"><speaker>BECKETT</speaker><content>There are traffic cams on Houston. Might have caught a plate number.</content></utterance>
+<utterance uid="36-17"><speaker>DWIGHT</speaker><content>Seriously? I killed someone and all you care about is a van.</content></utterance>
+</scene>
+<scene id="37"><utterance uid="37-1"><speaker>RYAN</speaker><content>Okay, tech scrubbed traffic cam footage from last Tuesday on Houston and they got a hit on our vehicle.</content></utterance>
+<utterance uid="37-2"><speaker>ESPOSITO</speaker><content>Traced it to a Miles Madsen.</content></utterance>
+<utterance uid="37-3"><speaker>BECKETT</speaker><content>Great. That’s our guy. So what do we know about him?</content></utterance>
+<utterance uid="37-4"><speaker>ESPOSITO</speaker><content>He’s in the wind. Uniforms hit his apartment, but the landlord says he hasn’t seen Madsen in weeks.</content></utterance>
+<utterance uid="37-5"><speaker>BECKETT</speaker><content> Okay, put out an APB. Find out everything you can about him. Right now he’s the only link connecting all these people.</content></utterance>
+<utterance uid="37-6"><speaker>ESPOSITO</speaker><content>Where’re you going?</content></utterance>
+<utterance uid="37-7"><speaker>BECKETT</speaker><content>Uh … I’ve got an errand to run. Can you tell Castle I’ll be back in an hour?</content></utterance>
+<utterance uid="37-8"><speaker>RYAN</speaker><content> Yeah.</content></utterance>
+<utterance uid="37-9"><speaker>BECKETT</speaker><content>Thanks.</content></utterance>
+</scene>
+
+<scene id="38"><utterance uid="38-1"><speaker>BECKETT</speaker><content>Hey.</content></utterance>
+<utterance uid="38-2"><speaker>ALEXIS</speaker><content>Hey.</content></utterance>
+<utterance uid="38-3"><speaker>BECKETT</speaker><content>Thanks for meeting with me.</content></utterance>
+<utterance uid="38-4"><speaker>ALEXIS</speaker><content>Yeah. What’s so important?</content></utterance>
+<utterance uid="38-5"><speaker>BECKETT</speaker><content>Um … you know that I don’t take sides on anything between you and your dad, right?</content></utterance>
+<utterance uid="38-6"><speaker>ALEXIS</speaker><content>Yeah. I appreciate that.</content></utterance>
+<utterance uid="38-7"><speaker>BECKETT</speaker><content>Okay, well … your dad wants you to move back home.  And I know that you said you have a lease, but you also said that there were other reasons why you didn’t want to move back and I – I just … I want to make sure one of those reasons isn’t me.</content></utterance>
+<utterance uid="38-8"><speaker>ALEXIS</speaker><content>Oh no. No, no, it’s – it’s not you at all.</content></utterance>
+<utterance uid="38-9"><speaker>BECKETT</speaker><content>Are you sure?  Because the last thing I want to do is make you feel unwelcome in your own home.</content></utterance>
+<utterance uid="38-10"><speaker>ALEXIS</speaker><content>No. It’s … not you, it’s me.  All those things my dad said when I was moving out. About me making a mistake, moving in with my boyfriend. He was right. I can see it so clearly now. Why didn’t I then?</content></utterance>
+<utterance uid="38-11"><speaker>BECKETT</speaker><content>You were in the love haze.</content></utterance>
+<utterance uid="38-12"><speaker>ALEXIS</speaker><content>The love haze?</content></utterance>
+<utterance uid="38-13"><speaker>BECKETT</speaker><content>It’s like a drug. It makes intelligent people do stupid things. And then it clears and you look around and wonder ‘what was I thinking?’. You dad just wants to help. It’s okay to let him.</content></utterance>
+<utterance uid="38-14"><speaker>ALEXIS</speaker><content>Yes. But this was my mistake. He shouldn’t have to pay for it. So I will tutor and do whatever I have to until the lease is up.</content></utterance>
+<utterance uid="38-15"><speaker>BECKETT</speaker><content> Okay. I get it. But … look. I know what you’re doing seems noble, but it’s not. I mean, the long hours, the exhaustion? What you’re actually doing is punishing yourself. Trust me. I’ve been there.</content></utterance>
+<utterance uid="38-16"><speaker>BECKETT</speaker><content>This – this isn’t necessary. Your dad loves you, he worries about you. I think your penance is paid.</content></utterance>
+<utterance uid="38-17"><speaker>BECKETT</speaker><content> I’m sorry. I have to go. Just think about it, okay?</content></utterance>
+<utterance uid="38-18"><speaker>BECKETT</speaker><content>I’ll see you.</content></utterance>
+</scene>
+<scene id="39"><utterance uid="39-1"><speaker>BECKETT</speaker><content>Hey. Did you guys find Madsen?</content></utterance>
+<utterance uid="39-2"><speaker>ESPOSITO</speaker><content>No, but we’re getting close. We got that he’s an independent contractor for Apollo Pinnacle Inc.</content></utterance>
+<utterance uid="39-3"><speaker>RYAN</speaker><content>Which turns out to be a front for another organization called EHI, or Eternal Horizons Institute.</content></utterance>
+<utterance uid="39-4"><speaker>BECKETT</speaker><content>And what is that?</content></utterance>
+<utterance uid="39-5"><speaker>RYAN</speaker><content>Well, to quote their website, “EHI provides sanctuary, enlightenment, and pathways to the ultimate self”. They claim to have thousands of followers all over the world.</content></utterance>
+<utterance uid="39-6"><speaker>ESPOSITO</speaker><content>But not all of them are satisfied customers. In 2005 three of those followers died in some kind of sweat lodge initiation. Charges were filed but ultimately the deaths were ruled accidental.</content></utterance>
+<utterance uid="39-7"><speaker>BECKETT</speaker><content>Followers? Initiations? This thing sounds like a cult.</content></utterance>
+<utterance uid="39-8"><speaker>CASTLE</speaker><content>Oh, it’s a cult, all right. Complete with a charismatic and sinister leader brought to you courtesy of this recruitment video.</content></utterance>
+<utterance uid="39-9"><speaker>BECKETT</speaker><content>Dr. Gustavo Bauer? So what is he a doctor of?</content></utterance>
+<utterance uid="39-10"><speaker>RYAN</speaker><content>It says here he holds a PhD in transpersonal psychology.</content></utterance>
+<utterance uid="39-11"><speaker>ESPOSITO</speaker><content>From Never Heard Of It University?</content></utterance>
+<utterance uid="39-12"><speaker>BAUER</speaker><content>- biocognative program to help free you from the negative anchors holding you down so you can soar.  Visit us at one of the Eternal Horizon Institute’s many reception centers and take the first step at becoming the person you were truly meant to be.</content></utterance>
+<utterance uid="39-13"><speaker>CASTLE</speaker><content>Wait for it …</content></utterance>
+<utterance uid="39-14"><speaker>BECKETT</speaker><content>That’s the symbol that Anita and Dwight were drawing.</content></utterance>
+<utterance uid="39-15"><speaker>CASTLE</speaker><content>Yes, and the boys checked. Sam’s been drawing it as well.</content></utterance>
+<utterance uid="39-16"><speaker>BECKETT</speaker><content>Okay, so the three of them must have been a part of whatever the hell this thing is. That’s our connection.</content></utterance>
+<utterance uid="39-17"><speaker>RYAN</speaker><content>Except we asked each of them. They all deny being members.</content></utterance>
+<utterance uid="39-18"><speaker>BECKETT</speaker><content>Yeah, but they also said that they killed Justin Marquette and we know that that’s not true, either. So where is this EHI?</content></utterance>
+<utterance uid="39-19"><speaker>RYAN</speaker><content>Right here in the city. Midtown.</content></utterance>
+</scene>
+
+<scene id="40"><utterance uid="40-1"><speaker>CASTLE</speaker><content>This case is exceeding even my expectations. An impossible murder connected to a shadowy and mysterious cult.</content></utterance>
+<utterance uid="40-2"><speaker>BECKETT</speaker><content>Not to mention prosperous. This is prime real Manhattan real estate.</content></utterance>
+</scene>
+<scene id="41"><utterance uid="41-1"><speaker>BECKETT</speaker><content>Hi. We’re here to see Dr. Bauer –</content></utterance>
+<utterance uid="41-2"><speaker>RECEPTIONIST</speaker><content>Detective Beckett. Richard Castle. Welcome to EHI. Dr. Bauer’s expecting you.</content></utterance>
+<utterance uid="41-3"><speaker>BECKETT</speaker><content>How? We didn’t make an appointment.</content></utterance>
+<utterance uid="41-4"><speaker>RECEPTIONIST</speaker><content>Dr. Bauer’s a brilliant man. Right this way.</content></utterance>
+<utterance uid="41-5"><speaker>RECEPTIONIST</speaker><content>He’s just inside.</content></utterance>
+<utterance uid="41-6"><speaker>BECKETT</speaker><content>Uh … no he’s not.</content></utterance>
+<utterance uid="41-7"><speaker>BAUER</speaker><content>On the contrary.</content></utterance>
+<utterance uid="41-8"><speaker>CASTLE</speaker><content>Whoa.  That is so … Big Brother.</content></utterance>
+<utterance uid="41-9"><speaker>BAUER</speaker><content>Greetings Detective Beckett, Mr. Castle. What can I do for you?</content></utterance>
+<utterance uid="41-10"><speaker>BECKETT</speaker><content>Well, you could start by speaking with us in person.</content></utterance>
+<utterance uid="41-11"><speaker>BAUER</speaker><content>Regrettably I’m in Stockholm conducting a seminar.</content></utterance>
+<utterance uid="41-12"><speaker>BECKETT</speaker><content> Okay. Well then, do you know this man?  Justin Marquette.</content></utterance>
+<utterance uid="41-13"><speaker>BAUER</speaker><content>I’m afraid not.</content></utterance>
+<utterance uid="41-14"><speaker>BECKETT</speaker><content>What about this man?  Miles Madsen. I understand he works for you.</content></utterance>
+<utterance uid="41-15"><speaker>BAUER</speaker><content>Mr. Madsen has not been employed by EHI for some time. Years, in fact.</content></utterance>
+<utterance uid="41-16"><speaker>CASTLE</speaker><content>Well what did Mr. Madsen do when he worked for you?</content></utterance>
+<utterance uid="41-17"><speaker>BAUER</speaker><content>Since he is no longer in my employ I don’t see the relevance.</content></utterance>
+<utterance uid="41-18"><speaker>BECKETT</speaker><content>The relevance is that he is connected to a murder investigation.</content></utterance>
+<utterance uid="41-19"><speaker>BAUER</speaker><content>I’m struck by the level of your hostility, Detective. It’s not healthy.</content></utterance>
+<utterance uid="41-20"><speaker>CASTLE</speaker><content>You know what I’m struck by is your total lack of curiosity as to why a homicide detective is asking about your employee.</content></utterance>
+<utterance uid="41-21"><speaker>BAUER</speaker><content>Former employee.</content></utterance>
+<utterance uid="41-22"><speaker>BECKETT</speaker><content>Well whatever he is he is definitely involved in this case. Along with three other members of your little group: Anita Miller, Sam Carson, Dwight Carruthers.</content></utterance>
+<utterance uid="41-23"><speaker>BAUER</speaker><content>I’m sorry, Detective. Those people are not part of EHI.</content></utterance>
+<utterance uid="41-24"><speaker>CASTLE</speaker><content>Wow. That’s – amazing, how you would just know what off the top of your head.</content></utterance>
+<utterance uid="41-25"><speaker>BAUER</speaker><content>I make a point of meeting every member of my EHI family. The people you mentioned are not among them.</content></utterance>
+<utterance uid="41-26"><speaker>BECKETT</speaker><content>Well then I’m sure you won’t mind if we check your files. Along with the records you have on Miles Madsen.</content></utterance>
+<utterance uid="41-27"><speaker>BAUER</speaker><content>You’ll need a warrant for that, Detective. And you won’t get one.</content></utterance>
+<utterance uid="41-28"><speaker>BAUER</speaker><content> What’s that? They’re ready?  I’m sorry, my session is ready. Jasmine will show you out.</content></utterance>
+<utterance uid="41-29"><speaker>BECKETT</speaker><content>No, Dr. Bauer, I –</content></utterance>
+<utterance uid="41-30"><speaker>RECEPTIONIST</speaker><content>Right this way.</content></utterance>
+</scene>
+<scene id="42"><utterance uid="42-1"><speaker>BECKETT</speaker><content>Bauer was right. Judge turned us down for a search warrant.</content></utterance>
+<utterance uid="42-2"><speaker>RYAN</speaker><content>You really think EHI’s grand poobah is behind this?</content></utterance>
+<utterance uid="42-3"><speaker>BECKETT</speaker><content>I think that he knows where Madsen is and that Madsen is still working for him.</content></utterance>
+<utterance uid="42-4"><speaker>RYAN</speaker><content>But doing what? And what does any of this have to do with a struggling actor like Justin Marquette?</content></utterance>
+<utterance uid="42-5"><speaker>CASTLE</speaker><content>Huh.</content></utterance>
+<utterance uid="42-6"><speaker>BECKETT</speaker><content>Huh, what?</content></utterance>
+<utterance uid="42-7"><speaker>CASTLE</speaker><content>Uh, the EHI website. The testimonials claim that they have programs to quit smoking, quit drinking, take charge of their lives …</content></utterance>
+<utterance uid="42-8"><speaker>RYAN</speaker><content>So?</content></utterance>
+<utterance uid="42-9"><speaker>CASTLE</speaker><content>So all three of our confessors have had problems in their lives. Alcoholism, anger management, assertiveness issues, all things that they could have gone to EHI to treat.</content></utterance>
+<utterance uid="42-10"><speaker>RYAN</speaker><content>But they all claim that they didn’t.</content></utterance>
+<utterance uid="42-11"><speaker>CASTLE</speaker><content>What if they did? What if they did but something made EHI want to eliminate any record of their involvement? Torn datebook pages, wiped calendars. Maybe that’s why Madsen went to their apartments, to erase any trace of their connection to EHI.</content></utterance>
+<utterance uid="42-12"><speaker>BECKETT</speaker><content>Castle, you can’t just do that by wiping out calendars. You’d have to –</content></utterance>
+<utterance uid="42-13"><speaker>CASTLE</speaker><content>Wipe memories. Think about it. The fogginess, the confusion over the last two weeks?</content></utterance>
+<utterance uid="42-14"><speaker>RYAN</speaker><content>So you’re saying that a glorified self-help group can erase memories? How?</content></utterance>
+<utterance uid="42-15"><speaker>HOLLOWAY</speaker><content>With drugs.  Anita Miller’s tests came back.  I found unusual levels of a propranolol derivative in her system. So I tested Mr. Carson and Mr. Carruthers. It was in their blood as well.</content></utterance>
+<utterance uid="42-16"><speaker>BECKETT</speaker><content>Propranolol?</content></utterance>
+<utterance uid="42-17"><speaker>HOLLOWAY</speaker><content>In small doses it’s generally a blood pressure drug. In high doses it’s been found to alter memories, even eliminate them.</content></utterance>
+<utterance uid="42-18"><speaker>CASTLE</speaker><content>If it can alter memories, could it make someone believe they had done something they actually hadn’t?</content></utterance>
+<utterance uid="42-19"><speaker>HOLLOWAY</speaker><content>Under normal circumstances the human brain is very suggestible. Combined with a drug like this, I’d say it’s entirely possible.  Excuse me.</content></utterance>
+<utterance uid="42-20"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="42-21"><speaker>CASTLE</speaker><content>Outstanding. This is straight out of Inception. Someone planted the memory of the murder in all three of their heads while erasing all knowledge of their connection to EHI.</content></utterance>
+<utterance uid="42-22"><speaker>RYAN</speaker><content>Castle, do you have any idea how insane that sounds?</content></utterance>
+<utterance uid="42-23"><speaker>CASTLE</speaker><content>It’s a diabolical plan. Have three suspects confess to the same crime, making it impossible for the police to arrest anyone.</content></utterance>
+<utterance uid="42-24"><speaker>RYAN</speaker><content>But none of this explains how they all knew the details of the murder without actually being there.</content></utterance>
+<utterance uid="42-25"><speaker>CASTLE</speaker><content>Maybe they were there, just not in person. What if Justin’s killer filmed the murder and then showed it to these people while they were in their drug induced state? They would think the images were drawn from their own experience.</content></utterance>
+<utterance uid="42-26"><speaker>BECKETT</speaker><content>If they were shown the actual murder then that makes all three of them witnesses.</content></utterance>
+<utterance uid="42-27"><speaker>CASTLE</speaker><content>With details of the crime that could lead to our real killer.</content></utterance>
+</scene>
+<scene id="43"><utterance uid="43-1"><speaker>SAM</speaker><content>I’m telling you, I pulled the trigger myself.</content></utterance>
+<utterance uid="43-2"><speaker>DWIGHT</speaker><content>So did I.</content></utterance>
+<utterance uid="43-3"><speaker>BECKETT</speaker><content>Look, I understand that it seems real to you, but it may not be.</content></utterance>
+<utterance uid="43-4"><speaker>ANITA</speaker><content>But why would somebody do this to us?</content></utterance>
+<utterance uid="43-5"><speaker>BECKETT</speaker><content>To get away with murder.</content></utterance>
+<utterance uid="43-6"><speaker>CASTLE</speaker><content>We just need you to tell us everything you … remember about being in that hotel room down to the last overheard whisper or a glimpse of a shadow in a mirror.</content></utterance>
+<utterance uid="43-7"><speaker>BECKETT</speaker><content>Now keep in mind that what seems like a minor detail to you may actually be the key to use solving this case, so let’s start with Anita.</content></utterance>
+<utterance uid="43-8"><speaker>ANITA</speaker><content>The first thing I remember is knocking on the door of 147. After a few seconds Justin opened it. He smiled flirtatiously –</content></utterance>
+<utterance uid="43-9"><speaker>SAM</speaker><content>Okay, he did not flirt with me.</content></utterance>
+<utterance uid="43-10"><speaker>DWIGHT</speaker><content>No, he was businesslike.</content></utterance>
+<utterance uid="43-11"><speaker>CASTLE</speaker><content>And what did you see when you went into the room?</content></utterance>
+<utterance uid="43-12"><speaker>ANITA</speaker><content>I remember the carpet. It was beige. The wallpaper had a subtle floral pattern and there was a painting above the fridge. I – I think it was a landscape.</content></utterance>
+<utterance uid="43-13"><speaker>DWIGHT</speaker><content>Yeah, of a countryside.</content></utterance>
+<utterance uid="43-14"><speaker>ANITA</speaker><content>And when he pulled out the bottle of water from the fridge, I remember there were six other bottles in the fridge door there.</content></utterance>
+<utterance uid="43-15"><speaker>SAM</speaker><content>No, no. There were five. I remember that clear as day.</content></utterance>
+<utterance uid="43-16"><speaker>ANITA</speaker><content>No, there were six.</content></utterance>
+<utterance uid="43-17"><speaker>DWIGHT</speaker><content>I remember five, too.</content></utterance>
+<utterance uid="43-18"><speaker>SAM</speaker><content>See?</content></utterance>
+<utterance uid="43-19"><speaker>ANITA</speaker><content>I know what I saw.</content></utterance>
+<utterance uid="43-20"><speaker>SAM</speaker><content> You saw wrong. There were five. He saw five, I saw five. You saw …</content></utterance>
+<utterance uid="43-21"><speaker>BECKETT</speaker><content> Castle, if they can’t agree on the details then I don’t think we’re going to learn anything here.</content></utterance>
+<utterance uid="43-22"><speaker>CASTLE</speaker><content>Au contraire. We’ve already learned something very, very important. Come with me.</content></utterance>
+<utterance uid="43-23"><speaker>BECKETT</speaker><content>Where’re we going?</content></utterance>
+<utterance uid="43-24"><speaker>CASTLE</speaker><content>Back to the hotel.</content></utterance>
+<utterance uid="43-25"><speaker>SAM</speaker><content>You are clearly lying, okay? I -</content></utterance>
+</scene>
+<scene id="44"><utterance uid="44-1"><speaker>BECKETT</speaker><content>C’mon, Castle, could you just tell me what this is all about?</content></utterance>
+<utterance uid="44-2"><speaker>CASTLE</speaker><content>Not until I know I’m right.  Which … I am.  You should know you’re engaged to a genius.</content></utterance>
+<utterance uid="44-3"><speaker>BECKETT</speaker><content>Yes, a genius at annoying me.</content></utterance>
+<utterance uid="44-4"><speaker>CASTLE</speaker><content>So I’m Justin and you are one of the several people who shot me.</content></utterance>
+<utterance uid="44-5"><speaker>BECKETT</speaker><content> I’m starting to feel the urge.</content></utterance>
+<utterance uid="44-6"><speaker>CASTLE</speaker><content>I go to get you a bottle of water and tell me –  – how many bottles do you see in the fridge?</content></utterance>
+<utterance uid="44-7"><speaker>BECKETT</speaker><content>None. The door’s blocking it.</content></utterance>
+<utterance uid="44-8"><speaker>CASTLE</speaker><content>Exactly. Which means Anita, Sam, or Dwight couldn’t have seen it, either. Whatever they saw?</content></utterance>
+<utterance uid="44-9"><speaker>BECKETT</speaker><content> It didn’t happen in this room.</content></utterance>
+</scene>
+<scene id="45"><utterance uid="45-1"><speaker>GATES</speaker><content>Okay, if they didn’t witness the actual murder, then what did they see?</content></utterance>
+<utterance uid="45-2"><speaker>CASTLE</speaker><content>Something that happened at another Best Traveler hotel. In another room 147.</content></utterance>
+<utterance uid="45-3"><speaker>BECKETT</speaker><content>We checked other branches in the area. Now, three weeks ago the Best Traveler in Long Island City rented an entire floor, including room 147, to EHI.</content></utterance>
+<utterance uid="45-4"><speaker>CASTLE</speaker><content>Their room 147 is identical to the one we found our victim in.</content></utterance>
+<utterance uid="45-5"><speaker>BECKETT</speaker><content>Except that fridge opens exactly like our witnesses described it.</content></utterance>
+<utterance uid="45-6"><speaker>GATES</speaker><content>What was EHI doing there?</content></utterance>
+<utterance uid="45-7"><speaker>CASTLE</speaker><content>They told the hotel it was some kind of member event.</content></utterance>
+<utterance uid="45-8"><speaker>BECKETT</speaker><content>But they brought their own security and they kept hotel staff off the floor for hours.</content></utterance>
+<utterance uid="45-9"><speaker>CASTLE</speaker><content>Something happened that day. Something connected to Justin’s murder that EHI wants everyone to forget.</content></utterance>
+<utterance uid="45-10"><speaker>RYAN</speaker><content>I got something.</content></utterance>
+</scene>
+<scene id="46"><utterance uid="46-1"><speaker>RYAN</speaker><content>All right, so I was going through surveillance footage at the Best Traveler in Long Island City. I wanted to see if any of our three confessors did attend that EHI event.</content></utterance>
+<utterance uid="46-2"><speaker>BECKETT</speaker><content>And?</content></utterance>
+<utterance uid="46-3"><speaker>RYAN</speaker><content>No sign of them, but I did see this.</content></utterance>
+<utterance uid="46-4"><speaker>GATES</speaker><content>That’s our victim.</content></utterance>
+<utterance uid="46-5"><speaker>CASTLE</speaker><content>Look who he’s with.</content></utterance>
+<utterance uid="46-6"><speaker>BECKETT</speaker><content>Dr. Bauer lied to us. He did know Justin.</content></utterance>
+<utterance uid="46-7"><speaker>CASTLE</speaker><content>We got enough for a warrant now?</content></utterance>
+</scene>
+<scene id="47"><utterance uid="47-1"><speaker>RECEPTIONIST</speaker><content>Please, you can’t take those files!</content></utterance>
+<utterance uid="47-2"><speaker>ESPOSITO</speaker><content>Really? That’s not what my warrant says. Now where’s Dr. Bauer?</content></utterance>
+<utterance uid="47-3"><speaker>RECEPTIONIST</speaker><content>I told you, he’s in Stockholm.</content></utterance>
+<utterance uid="47-4"><speaker>ESPOSITO</speaker><content>Where in Stockholm? What hotel?</content></utterance>
+<utterance uid="47-5"><speaker>RECEPTIONIST</speaker><content>I don’t know. He didn’t leave a contact number.</content></utterance>
+<utterance uid="47-6"><speaker>CSU TECH</speaker><content>Detective, I traced the signal from Bauer’s video conference with Beckett.</content></utterance>
+<utterance uid="47-7"><speaker>ESPOSITO</speaker><content>So where in Stockholm is he?</content></utterance>
+<utterance uid="47-8"><speaker>CSU TECH</speaker><content>That’s the thing. The signal was routed through Stockholm, but it looks like it originated from a local IP address.</content></utterance>
+<utterance uid="47-9"><speaker>ESPOSITO</speaker><content>Local, as in Manhattan?</content></utterance>
+<utterance uid="47-10"><speaker>CSU TECH</speaker><content>As in inside this building.</content></utterance>
+<utterance uid="47-11"><speaker>ESPOSITO</speaker><content>Where?</content></utterance>
+<utterance uid="47-12"><speaker>RECEPTIONIST</speaker><content>You can’t go back there. This area’s restricted!</content></utterance>
+<utterance uid="47-13"><speaker>CSU TECH</speaker><content> That one.</content></utterance>
+<utterance uid="47-14"><speaker>ESPOSITO</speaker><content>So this is Stockholm?</content></utterance>
+</scene>
+<scene id="48"><utterance uid="48-1"><speaker>BAUER</speaker><content>All right, yes. I knew him. But I know nothing about his death.</content></utterance>
+<utterance uid="48-2"><speaker>CASTLE</speaker><content>And yet you were shredding files. Files on Anita, Sam, Dwight, Madsen … all people connected with this case.</content></utterance>
+<utterance uid="48-3"><speaker>BECKETT</speaker><content>What happened that day? Why were you there with Justin?</content></utterance>
+<utterance uid="48-4"><speaker>BAUER</speaker><content>All we did was make a film.</content></utterance>
+<utterance uid="48-5"><speaker>BECKETT</speaker><content>A film?</content></utterance>
+<utterance uid="48-6"><speaker>BAUER</speaker><content>I didn’t kill Justin.  I hired him as an actor.</content></utterance>
+<utterance uid="48-7"><speaker>BAUER</speaker><content>It was part of our image therapy pilot program.</content></utterance>
+<utterance uid="48-8"><speaker>JUSTIN</speaker><content>Been waiting for you. Come on in. 9he backs toward the fridge) Let me get you a water.</content></utterance>
+<utterance uid="48-9"><speaker>BAUER</speaker><content>The viewer was supposed to project their problems on a person, in this case Justin.</content></utterance>
+<utterance uid="48-10"><speaker>BECKETT</speaker><content>That’s why Anita blamed him for her drinking, and why he was the focus of Sam’s anger issues.</content></utterance>
+<utterance uid="48-11"><speaker>CASTLE</speaker><content>I knew it. You were implanting memories.</content></utterance>
+<utterance uid="48-12"><speaker>BAUER</speaker><content>No, no! It was supposed to help them take control of their problems by literally shooting them dead. We made two versions, one for women and another for men. For the therapy to work we had to put subjects in a chemically induced, suggestive state while showing them this footage. But it was just too real. They began to internalize the experience, then they started to believe they actually killed Justin. We halted the program immediately.</content></utterance>
+<utterance uid="48-13"><speaker>BECKETT</speaker><content>But the damage was already done.</content></utterance>
+<utterance uid="48-14"><speaker>BAUER</speaker><content>They threatened to sue. They said we were using them as guinea pigs.</content></utterance>
+<utterance uid="48-15"><speaker>CASTLE</speaker><content>Which you were.</content></utterance>
+<utterance uid="48-16"><speaker>BAUER</speaker><content>We tried to help them. We brought them back for one final session to correct the problem.</content></utterance>
+<utterance uid="48-17"><speaker>BECKETT</speaker><content>And by correcting you mean dosing them with propranolol so that they would forget they ever visited EHI.</content></utterance>
+<utterance uid="48-18"><speaker>BAUER</speaker><content>We were just trying to help people.</content></utterance>
+<utterance uid="48-19"><speaker>CASTLE</speaker><content>Is that why you sent Madsen after Justin? To help him?</content></utterance>
+<utterance uid="48-20"><speaker>BAUER</speaker><content>Madsen only talked with Justin, to remind him of the confidentiality agreement that prevented him from talking about the program. We knew nothing about his murder.</content></utterance>
+<utterance uid="48-21"><speaker>CASTLE</speaker><content>And yet his death was staged to mirror that video exactly.</content></utterance>
+<utterance uid="48-22"><speaker>BAUER</speaker><content>Why would we do that when we were just trying to make this go away? No, no, no, no, no. Someone’s targeting us. Someone who knew about that tape and knew that they could use it against us. One of the other test subjects, someone on the crew.</content></utterance>
+<utterance uid="48-23"><speaker>BECKETT</speaker><content>I’m going to need a list of all of the people that knew about that video.</content></utterance>
+</scene>
+<scene id="49"><utterance uid="49-1"><speaker>PAM</speaker><content>Be sure not to step any further downstage or the backdrop will smack you in the head when it flies in.</content></utterance>
+<utterance uid="49-2"><speaker>EDDIE</speaker><content>Roger that.</content></utterance>
+<utterance uid="49-3"><speaker>LAURA</speaker><content>Detective Beckett. Do you have news about Justin’s case?</content></utterance>
+<utterance uid="49-4"><speaker>BECKETT</speaker><content>We do. We now believe that Justin was killed because of a video he acted in.</content></utterance>
+<utterance uid="49-5"><speaker>LAURA</speaker><content>A video?</content></utterance>
+<utterance uid="49-6"><speaker>CASTLE</speaker><content>It was made for an organization called EHI and it just so happens it was edited by Conpost Production.</content></utterance>
+<utterance uid="49-7"><speaker>EDDIE</speaker><content>Conpost? Pam, isn’t that where your day job is?</content></utterance>
+<utterance uid="49-8"><speaker>PAM</speaker><content>Yeah, but I don’t know about any video.</content></utterance>
+<utterance uid="49-9"><speaker>CASTLE</speaker><content>We think you do. And when you saw the video you saw an opportunity.</content></utterance>
+<utterance uid="49-10"><speaker>BECKETT</speaker><content>Pam, we checked your credit card. We know that you just bought a flip phone.</content></utterance>
+<utterance uid="49-11"><speaker>PAM</speaker><content>So?</content></utterance>
+<utterance uid="49-12"><speaker>CASTLE</speaker><content>So just before Justin died, he was texting someone on a flip phone. Presumably his killer.</content></utterance>
+<utterance uid="49-13"><speaker>BECKETT</speaker><content>When we looked into the phone records there were texts, supposedly from EHI to Justin, offering him $5000 dollars to reprise his role in that video.</content></utterance>
+<utterance uid="49-14"><speaker>CASTLE</speaker><content>I’m betting that you gave Justin that phone. Probably told him someone from EHI dropped by, wanted him to have it.</content></utterance>
+<utterance uid="49-15"><speaker>BECKETT</speaker><content>But it was SHI that sent those texts. It was you. You lured him to that hotel and then you killed him.</content></utterance>
+<utterance uid="49-16"><speaker>PAM</speaker><content>Wait, this is crazy. Justin was my friend. Why would I do that?</content></utterance>
+<utterance uid="49-17"><speaker>BECKETT</speaker><content>We checked your background, Pam. One of the man that was killed in that EHI sweat lodge initiation was Alan Clark. Your brother.</content></utterance>
+<utterance uid="49-18"><speaker>CASTLE</speaker><content>EHI was to blame, but no one was held accountable. His death was ruled accidental. When you watched that video you realized you had the perfect chance to take them down.</content></utterance>
+<utterance uid="49-19"><speaker>BECKETT</speaker><content>But you knew you needed Justin so you found a way to get close to him.</content></utterance>
+<utterance uid="49-20"><speaker>EDDIE</speaker><content>Oh my God, that’s why you joined our theater company.</content></utterance>
+<utterance uid="49-21"><speaker>LAURA</speaker><content>Pam, what did you do?</content></utterance>
+<utterance uid="49-22"><speaker>PAM</speaker><content> You don’t understand. For Alan, for the others. Those monsters had to be stopped.</content></utterance>
+<utterance uid="49-23"><speaker>BECKETT</speaker><content>By killing an innocent man?</content></utterance>
+<utterance uid="49-24"><speaker>PAM</speaker><content>Justin was not innocent. He was one of them.</content></utterance>
+<utterance uid="49-25"><speaker>CASTLE</speaker><content>He was just an actor, hired for the day.</content></utterance>
+<utterance uid="49-26"><speaker>PAM</speaker><content>Then why did he stonewall me when I tried to talk to him about it? They are all accountable. Somebody had to stop them, somebody had to show the world what they really are.</content></utterance>
+<utterance uid="49-27"><speaker>BECKETT</speaker><content>Pam, turn around. You are under arrest.</content></utterance>
+</scene>
+<scene id="50"><utterance uid="50-1"><speaker>SAM</speaker><content>All of this was about revenge?</content></utterance>
+<utterance uid="50-2"><speaker>CASTLE</speaker><content>Yeah. And unfortunately, you just caught in the middle.</content></utterance>
+<utterance uid="50-3"><speaker>DWIGHT</speaker><content>What about Dr. Bauer?</content></utterance>
+<utterance uid="50-4"><speaker>BECKETT</speaker><content>EHI has been shut down, effective immediately and the FBI is launching a full scale investigation.</content></utterance>
+<utterance uid="50-5"><speaker>ANITA</speaker><content>And the guy in the van, the one who drugged us?</content></utterance>
+<utterance uid="50-6"><speaker>CASTLE</speaker><content>Border control caught him trying to cross into Canada. He’s being extradited back here now.</content></utterance>
+<utterance uid="50-7"><speaker>DWIGHT</speaker><content>What I don’t understand is, what made us come in when we did, all in the same day?</content></utterance>
+<utterance uid="50-8"><speaker>CASTLE</speaker><content>Dr. Holloway figures it was some kind of trigger. Maybe you read an article about the murder, or you saw something on TV.</content></utterance>
+<utterance uid="50-9"><speaker>BECKETT</speaker><content>Yeah, but whatever it was, it’s over now. You’re all free to go.</content></utterance>
+<utterance uid="50-10"><speaker>BECKETT</speaker><content>Dwight, are you okay?</content></utterance>
+<utterance uid="50-11"><speaker>DWIGHT</speaker><content>Ah, it’s nothing.</content></utterance>
+<utterance uid="50-12"><speaker>ANITA</speaker><content>No, what?</content></utterance>
+<utterance uid="50-13"><speaker>DWIGHT</speaker><content> I just never got to confess.</content></utterance>
+<utterance uid="50-14"><speaker>ANITA</speaker><content>Well, if it makes you feel any better, I’ll hear it.</content></utterance>
+<utterance uid="50-15"><speaker>SAM</speaker><content>Yeah, me too. C’mon. I’ll buy us all a slice.</content></utterance>
+<utterance uid="50-16"><speaker>DWIGHT</speaker><content>Okay, so I walked to room 147 …</content></utterance>
+<utterance uid="50-17"><speaker>BECKETT</speaker><content>If I have to hear that confession one more time I’m going to shoot somebody.</content></utterance>
+</scene>
+
+<scene id="51"><utterance uid="51-1"><speaker>CASTLE</speaker><content>Here’s a little something to help you forget.</content></utterance>
+<utterance uid="51-2"><speaker>BECKETT</speaker><content>It’s okay, Castle. You know I like the weird ones.  It’s interesting how malleable the human mind is. I mean, all those people wanted was a little help.</content></utterance>
+<utterance uid="51-3"><speaker>CASTLE</speaker><content>But instead they became guinea pigs all because they turned to the wrong person for answers.</content></utterance>
+<utterance uid="51-4"><speaker>BECKETT</speaker><content>Yeah, well, sometimes it’s hard to know who the right person is.  After all, it took you three tries.</content></utterance>
+<utterance uid="51-5"><speaker>CASTLE</speaker><content>True. But I figured it out. And you didn’t even have to drug me.</content></utterance>
+<utterance uid="51-6"><speaker>BECKETT</speaker><content> How do you know what I do to you when you’re sleeping?</content></utterance>
+<utterance uid="51-7"><speaker>CASTLE</speaker><content>Whoa. Well whatever it is, wake me up for it next time.</content></utterance>
+<utterance uid="51-8"><speaker>CASTLE</speaker><content>Excuse me.</content></utterance>
+<utterance uid="51-9"><speaker>CASTLE</speaker><content> Alexis. What’s going on?</content></utterance>
+<utterance uid="51-10"><speaker>ALEXIS</speaker><content>Dad … can I come home?</content></utterance>
+<utterance uid="51-11"><speaker>CASTLE</speaker><content>Come here.</content></utterance>
+</scene>
+</script>

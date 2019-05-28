@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>ALEXIS</speaker><content>Help!</content></utterance>
+<utterance uid="1-2"><speaker>ALEXIS</speaker><content>Help! Help me!</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>RICHARD CASTLE</speaker><content>They’re in another country. How is that possible?</content></utterance>
+<utterance uid="2-2"><speaker>FBI AGENT HARRIS</speaker><content>We don’t know. But clearly the kidnappers were working for outside interests. The voices on the call have been identified as Egyptian.</content></utterance>
+<utterance uid="2-3"><speaker>CASTLE</speaker><content>This isn’t a kidnapping for ransom, is it?  Why are they in Paris?</content></utterance>
+<utterance uid="2-4"><speaker>CASTLE</speaker><content>They took your daughter there and my daughter along with her. There must be a reason.</content></utterance>
+<utterance uid="2-5"><speaker>ANWAR</speaker><content> I don’t know!</content></utterance>
+<utterance uid="2-6"><speaker>CASTLE</speaker><content>They are covering their tracks! Why?</content></utterance>
+<utterance uid="2-7"><speaker>HARRIS</speaker><content>Show them the sketch.</content></utterance>
+<utterance uid="2-8"><speaker>CAPTAIN VICTORIA GATES</speaker><content>A neighbor spotted this man coming out of the farmhouse driveway after the girls were taken. Do either of you recognize him?</content></utterance>
+<utterance uid="2-9"><speaker>ANWAR</speaker><content>No, he’s not familiar.</content></utterance>
+<utterance uid="2-10"><speaker>BECKETT</speaker><content> So what’s our next step?</content></utterance>
+<utterance uid="2-11"><speaker>HARRIS</speaker><content>The Skype call was made over a cellular data network. So we have isolated the signal to a 30 square kilometer area.</content></utterance>
+<utterance uid="2-12"><speaker>BECKETT</speaker><content>30 square kilometers is the whole city.</content></utterance>
+<utterance uid="2-13"><speaker>HARRIS</speaker><content>I know. But hopefully an analysis of the video will give us a clue as to where they’re being held. In the meantime we’re reaching out to the embassy to establish -</content></utterance>
+<utterance uid="2-14"><speaker>CASTLE</speaker><content>Reaching out? What does that mean?</content></utterance>
+<utterance uid="2-15"><speaker>HARRIS</speaker><content>Uh, there are certain protocols we have to follow before we can move forward. Permissions we have to get.</content></utterance>
+<utterance uid="2-16"><speaker>CASTLE</speaker><content>And how long will that take?</content></utterance>
+<utterance uid="2-17"><speaker>HARRIS</speaker><content>A day or two at the most.</content></utterance>
+<utterance uid="2-18"><speaker>CASTLE</speaker><content>A day or –  Our daughters are out there right now. They need our help right now!</content></utterance>
+<utterance uid="2-19"><speaker>HARRIS</speaker><content>If you want to help your daughter, you’re going to have to be patient.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>BECKETT</speaker><content>Hey.</content></utterance>
+<utterance uid="3-2"><speaker>CASTLE</speaker><content> She sounded so scared. I could hear it in her voice, just like when she was a little girl. And there was nothing I could do.</content></utterance>
+<utterance uid="3-3"><speaker>BECKETT</speaker><content> She wasn’t hurt, Castle. That’s what matters. That’s what we hold on to.</content></utterance>
+<utterance uid="3-4"><speaker>CASTLE</speaker><content>I just want her home.</content></utterance>
+<utterance uid="3-5"><speaker>BECKETT</speaker><content>We’re not giving up yet.</content></utterance>
+<utterance uid="3-6"><speaker>GATES</speaker><content>Hey. They just called El-Masri with terms.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>HARRIS</speaker><content>It’s too soon. We can’t be in position in time.</content></utterance>
+<utterance uid="4-2"><speaker>ANWAR</speaker><content>I don’t care. I’m getting her back.</content></utterance>
+<utterance uid="4-3"><speaker>CASTLE</speaker><content>What did they say?</content></utterance>
+<utterance uid="4-4"><speaker>HARRIS</speaker><content>It was a ransom demand. 15 million Euro from anti-Mubarak dissonants. They set an exchange three hours from now.</content></utterance>
+<utterance uid="4-5"><speaker>BECKETT</speaker><content>Where?</content></utterance>
+<utterance uid="4-6"><speaker>HARRIS</speaker><content>In Paris, down by the Seine. Mr. El-Masri, you have to let me contact the local authorities.</content></utterance>
+<utterance uid="4-7"><speaker>ANWAR</speaker><content>No!  They were clear. They see police, my daughter dies. We’ll pay to get her back.</content></utterance>
+<utterance uid="4-8"><speaker>CASTLE</speaker><content>Did they –  – did they say anything about Alexis?</content></utterance>
+<utterance uid="4-9"><speaker>LINA</speaker><content>Anwar insisted. And they’ve agreed to release both our daughters.</content></utterance>
+<utterance uid="4-10"><speaker>CASTLE</speaker><content>If there is anything I owe you –</content></utterance>
+<utterance uid="4-11"><speaker>ANWAR</speaker><content>You owe me nothing.</content></utterance>
+<utterance uid="4-12"><speaker>GATES</speaker><content>If the police aren’t involved then who’s making the drop?</content></utterance>
+<utterance uid="4-13"><speaker>ANWAR</speaker><content>My wife has a sister living in Paris. Her husband will do the exchange.  Now if you’ll excuse us, we have many calls to make.</content></utterance>
+<utterance uid="4-14"><speaker>CASTLE</speaker><content>Thank you.</content></utterance>
+<utterance uid="4-15"><speaker>ANWAR</speaker><content>Just pray these men are honorable.</content></utterance>
+<utterance uid="4-16"><speaker>HARRIS</speaker><content>There are security cameras covering that part of the Seine. At the very least maybe we can get a tap in. See who these guys are.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>TECH GUY</speaker><content>Sir. We’re live.</content></utterance>
+<utterance uid="5-2"><speaker>HARRIS</speaker><content>Any activity?</content></utterance>
+<utterance uid="5-3"><speaker>TECH GUY</speaker><content>Looks deserted so far.</content></utterance>
+<utterance uid="5-4"><speaker>HARRIS</speaker><content>There. Can you get any closer?</content></utterance>
+<utterance uid="5-5"><speaker>LINA</speaker><content>That’s him. That’s Achmed.</content></utterance>
+<utterance uid="5-6"><speaker>CASTLE</speaker><content>This doesn’t even seem real. Like some kind of show.</content></utterance>
+<utterance uid="5-7"><speaker>LINA</speaker><content>Achmed!</content></utterance>
+<utterance uid="5-8"><speaker>HARRIS</speaker><content>Get the Paris police on the phone, now.</content></utterance>
+<utterance uid="5-9"><speaker>ANWAR</speaker><content>No, no, no! Wait, wait. Wait.</content></utterance>
+<utterance uid="5-10"><speaker>LINA</speaker><content>No. No!</content></utterance>
+<utterance uid="5-11"><speaker>CASTLE</speaker><content>Where – where are they? Where are the girls?</content></utterance>
+<utterance uid="5-12"><speaker>ANWAR</speaker><content>He has her. She’s safe.</content></utterance>
+<utterance uid="5-13"><speaker>CASTLE</speaker><content>Where’s Alexis?</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>BECKETT</speaker><content>Agent Harris just spoke with Sara. She and Alexis were separated after the escape attempt and that was the last time that she saw her.</content></utterance>
+<utterance uid="6-2"><speaker>CASTLE</speaker><content>They got what they wanted. She’s of no value anymore.</content></utterance>
+<utterance uid="6-3"><speaker>BECKETT</speaker><content>You don’t know that.</content></utterance>
+<utterance uid="6-4"><speaker>CASTLE</speaker><content>Yes, I do.</content></utterance>
+<utterance uid="6-5"><speaker>BECKETT</speaker><content>Where’re you going?</content></utterance>
+<utterance uid="6-6"><speaker>CASTLE</speaker><content>To tell my mother. She doesn’t know yet.</content></utterance>
+<utterance uid="6-7"><speaker>BECKETT</speaker><content>I’ll go with.</content></utterance>
+<utterance uid="6-8"><speaker>CASTLE</speaker><content>No.  I need to do this alone.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>HARRIS</speaker><content>Castle may be right. Sara was the objective. Alexis is just a liability now.</content></utterance>
+<utterance uid="7-2"><speaker>BECKETT</speaker><content>Then why didn’t they bring her to the exchange?</content></utterance>
+<utterance uid="7-3"><speaker>HARRIS</speaker><content>Same reason they took her. A bargaining chip. Insurance in case something went wrong.</content></utterance>
+<utterance uid="7-4"><speaker>GATES</speaker><content>Insurance they don’t need anymore.</content></utterance>
+<utterance uid="7-5"><speaker>HARRIS</speaker><content>We’ll keep moving forward. But we have to manage our expectations now.</content></utterance>
+<utterance uid="7-6"><speaker>BECKETT</speaker><content>Agent Harris, I’m not going to manage expectations. I’ll be solving a murder. The girl’s kidnapper, Roger Henson, was tortured and killed, most likely by the people that hired him. We find those people, we will find Alexis.</content></utterance>
+</scene>
+
+<scene id="8"><utterance uid="8-1"><speaker>BECKETT</speaker><content> Castle, it’s me again. Can you just call me when you get this?</content></utterance>
+<utterance uid="8-2"><speaker>JAVIER ESPOSITO</speaker><content>Still not answering?</content></utterance>
+<utterance uid="8-3"><speaker>BECKETT</speaker><content>No.  Thanks.</content></utterance>
+<utterance uid="8-4"><speaker>ESPOSITO</speaker><content>Welcome. Any luck on the dead guy?</content></utterance>
+<utterance uid="8-5"><speaker>BECKETT</speaker><content>Henson’s been … completely off the grid. I can’t even find a known address.</content></utterance>
+<utterance uid="8-6"><speaker>ESPOSITO</speaker><content>All right, here’s what I don’t get. How does a mid-level narcotics smuggler get hooked up with a bunch of Middle Eastern radicals?</content></utterance>
+<utterance uid="8-7"><speaker>BECKETT</speaker><content>Espo, I can’t find a connection if I don’t even know where to start.  How are you guys doing on the planes?</content></utterance>
+<utterance uid="8-8"><speaker>ESPOSITO</speaker><content>Ryan and I have been through every flight plan of every private jet that’s departed from here to Albany. And only a couple of them filed flight plans for France. So far they all seem legit. So Ryan and I are going to expand our search in the morning.</content></utterance>
+<utterance uid="8-9"><speaker>ESPOSITO</speaker><content>Kate.</content></utterance>
+<utterance uid="8-10"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="8-11"><speaker>ESPOSITO</speaker><content>You should go.  He needs you.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>MARTHA</speaker><content>Kate! Thank God. Is there any news?</content></utterance>
+<utterance uid="9-2"><speaker>BECKETT</speaker><content>Uh, no. Not yet. But we’re doing everything that we can.</content></utterance>
+<utterance uid="9-3"><speaker>MARTHA</speaker><content>Well, where’s Richard?</content></utterance>
+<utterance uid="9-4"><speaker>BECKETT</speaker><content>I thought that he was with you.</content></utterance>
+<utterance uid="9-5"><speaker>MARTHA</speaker><content>No! He told me he was going to be with you, working on the case.</content></utterance>
+<utterance uid="9-6"><speaker>BECKETT</speaker><content>Martha, I haven’t seen him all day.</content></utterance>
+<utterance uid="9-7"><speaker>MARTHA</speaker><content> Oh, no.</content></utterance>
+<utterance uid="9-8"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="9-9"><speaker>MARTHA</speaker><content>No.  It’s gone.</content></utterance>
+<utterance uid="9-10"><speaker>BECKETT</speaker><content>What’s gone?</content></utterance>
+<utterance uid="9-11"><speaker>MARTHA</speaker><content>Ugh, it’s so stupid. It’s just – stupid.</content></utterance>
+<utterance uid="9-12"><speaker>BECKETT</speaker><content>Martha, what’s going on?</content></utterance>
+<utterance uid="9-13"><speaker>MARTHA</speaker><content> Pick up, pick up, pick up.</content></utterance>
+<utterance uid="9-14"><speaker>CASTLE</speaker><content>Castle.</content></utterance>
+<utterance uid="9-15"><speaker>MARTHA</speaker><content>Richard! Where are you?</content></utterance>
+<utterance uid="9-16"><speaker>CASTLE</speaker><content>I’m at the precinct with Beckett. Why?</content></utterance>
+<utterance uid="9-17"><speaker>MARTHA</speaker><content>Don’t lie to me, Richard. Beckett is here, your passport is gone.  Now what the hell do you think you’re doing?</content></utterance>
+<utterance uid="9-18"><speaker>CASTLE</speaker><content>Getting my daughter back.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>ESPOSITO</speaker><content>Paris? What the hell’s he doing in Paris?</content></utterance>
+<utterance uid="10-2"><speaker>BECKETT</speaker><content>He thinks that he can find her.</content></utterance>
+<utterance uid="10-3"><speaker>KEVIN RYAN</speaker><content>What, so he’s Liam Neeson now?</content></utterance>
+<utterance uid="10-4"><speaker>ESPOSITO</speaker><content>Liam Neeson? The dude’s barely Ashley Judd.</content></utterance>
+<utterance uid="10-5"><speaker>BECKETT</speaker><content>Look, in the state that he’s who knows what he’s capable of. But he says that he knows someone that can help.</content></utterance>
+<utterance uid="10-6"><speaker>ESPOSITO</speaker><content>You gonna go after him?</content></utterance>
+<utterance uid="10-7"><speaker>BECKETT</speaker><content>And lose a day flying out there and another one tracking him down in a place that I don’t have jurisdiction or authority? No. Look, he’s – he’s acting like a father and … I have to act like a cop.  Can you circle back with the Feds? Have them widen the search to any private jets flying out to anywhere in Europe. And Ryan, I’m hitting a wall with Roger Henson. You think you can reach out to your guys in narcotics? Maybe they heard something on the streets.</content></utterance>
+<utterance uid="10-8"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+<utterance uid="10-9"><speaker>BECKETT</speaker><content>Look, you guys, I don’t know who Castle thinks he knows, but let’s find his daughter before he does something stupid and gets himself killed.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>GASTON</speaker><content>Merci, Colette. Et si jamais vous quittez votre petit ami –  – Richard!</content></utterance>
+<utterance uid="11-2"><speaker>CASTLE</speaker><content>Hello Gaston.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>GASTON</speaker><content>Richard, I am so terribly sorry. If there’s anything I can do –</content></utterance>
+<utterance uid="12-2"><speaker>CASTLE</speaker><content>You’re still working as an advisor to the Administrator of Defense, right?</content></utterance>
+<utterance uid="12-3"><speaker>GASTON</speaker><content>Yes, but that gives me very little pull with the Police Nationale. I can make inquiries though.</content></utterance>
+<utterance uid="12-4"><speaker>CASTLE</speaker><content>No, I – I appreciate it. I’m not really looking for a bureaucratic runaround. When you were advising me on those last few Derrick Storm novels you mentioned a man that the French government would sometimes hire when they couldn’t afford to take official action.</content></utterance>
+<utterance uid="12-5"><speaker>GASTON</speaker><content>Ricky, I told you that in confidence.</content></utterance>
+<utterance uid="12-6"><speaker>CASTLE</speaker><content>But he exists.</content></utterance>
+<utterance uid="12-7"><speaker>GASTON</speaker><content> It is one thing to write about these characters from the safety of your own desk. But men like this? They are not the kind of people you ever want to know.</content></utterance>
+<utterance uid="12-8"><speaker>CASTLE</speaker><content>Beatrice, she must be what, 14 now? Patrice is going on 9. I want you to think about how it feels when you hug them. The look in their eye when you come home. Now imagine them gone.</content></utterance>
+<utterance uid="12-9"><speaker>GASTON</speaker><content>He’s expensive.</content></utterance>
+<utterance uid="12-10"><speaker>CASTLE</speaker><content>I don’t care.  Gaston, please.</content></utterance>
+<utterance uid="12-11"><speaker>GASTON</speaker><content>Stay close to your phone.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>ESPOSITO</speaker><content>Yo Beckett! They didn’t fly to Paris. At least not at first.  FAA shows a Dassault Falcon left departing Teterboro to Brussels 18 hours after the girls were taken. The plane was then designated a medical angel flight transporting two young women awaiting organ transplant from Brussels to Paris.</content></utterance>
+<utterance uid="13-2"><speaker>BECKETT</speaker><content>Alexis and Sara.</content></utterance>
+<utterance uid="13-3"><speaker>ESPOSITO</speaker><content>French immigration met them at the plane and processed the girls before they were loaded onto an ambulance. They were both unconscious at the time.</content></utterance>
+<utterance uid="13-4"><speaker>GATES</speaker><content>That’s how they did it.</content></utterance>
+<utterance uid="13-5"><speaker>BECKETT</speaker><content>What do we know about the plane?</content></utterance>
+<utterance uid="13-6"><speaker>ESPOSITO</speaker><content>It’s owed by one of those Russian oligarchs. A Vladimir Abramivich.</content></utterance>
+<utterance uid="13-7"><speaker>BECKETT</speaker><content>And how is he connected to the El-Masris?</content></utterance>
+<utterance uid="13-8"><speaker>ESPOSITO</speaker><content>He’s not. In fact, it’s possible he’s not even involved. His plane was in Paris under repairs and none of his people even knew it was taken.</content></utterance>
+<utterance uid="13-9"><speaker>GATES</speaker><content>These people stole a jet?</content></utterance>
+<utterance uid="13-10"><speaker>BECKETT</speaker><content>For a simple hostage exchange? That doesn’t add up.</content></utterance>
+<utterance uid="13-11"><speaker>RYAN</speaker><content>Hey so, I talked to my guys in narcotics. They didn’t seem to know much about what Henson had been into recently or where he’d been living, but they did know something that we didn’t.  Henson had a girlfriend.</content></utterance>
+</scene>
+
+<scene id="14"><utterance uid="14-1"><speaker>JACQUE HENRI</speaker><content>“Vengeance is mine”, sayeth the Lord. “I will repay.” Sometimes the Lord needs a little help, huh?</content></utterance>
+<utterance uid="14-2"><speaker>CASTLE</speaker><content>Thank you for coming.</content></utterance>
+<utterance uid="14-3"><speaker>HENRI</speaker><content>Don’t thank me yet. My terms. Half now, half when I find her.</content></utterance>
+<utterance uid="14-4"><speaker>CASTLE</speaker><content>Can you? Find her?</content></utterance>
+<utterance uid="14-5"><speaker>HENRI</speaker><content>Yes. But I don’t promise to find her alive. That, I’m afraid, is out of my control.</content></utterance>
+<utterance uid="14-6"><speaker>CASTLE</speaker><content>Where do we start?</content></utterance>
+<utterance uid="14-7"><speaker>HENRI</speaker><content>I understand there is a recording of a call she made to you.</content></utterance>
+<utterance uid="14-8"><speaker>CASTLE</speaker><content>How did you –  Yeah, there’s a recording.</content></utterance>
+<utterance uid="14-9"><speaker>HENRI</speaker><content>I need a copy.</content></utterance>
+<utterance uid="14-10"><speaker>CASTLE</speaker><content>There’s nothing on it that indicates where she is.</content></utterance>
+<utterance uid="14-11"><speaker>HENRI</speaker><content>And who told you that?</content></utterance>
+<utterance uid="14-12"><speaker>CASTLE</speaker><content>The FBI.</content></utterance>
+<utterance uid="14-13"><speaker>HENRI</speaker><content>And then you thank God I’m not the FBI.</content></utterance>
+<utterance uid="14-14"><speaker>HENRI</speaker><content>Come.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>CASTLE</speaker><content>Where are we going?</content></utterance>
+<utterance uid="15-2"><speaker>HENRI</speaker><content>To see a friend.</content></utterance>
+<utterance uid="15-3"><speaker>THE MOLE</speaker><content>Bonjour, Henri!</content></utterance>
+<utterance uid="15-4"><speaker>HENRI</speaker><content>Bonjour!</content></utterance>
+<utterance uid="15-5"><speaker>THE MOLE</speaker><content>Monsieur Castle, I presume.</content></utterance>
+<utterance uid="15-6"><speaker>CASTLE</speaker><content>Yeah. And you are?</content></utterance>
+<utterance uid="15-7"><speaker>HENRI</speaker><content>We call him la taupe – the mole.</content></utterance>
+<utterance uid="15-8"><speaker>THE MOLE</speaker><content>Il est tendu, eh?</content></utterance>
+<utterance uid="15-9"><speaker>HENRI</speaker><content>Pas mal, eh.</content></utterance>
+<utterance uid="15-10"><speaker>CASTLE</speaker><content>What?</content></utterance>
+<utterance uid="15-11"><speaker>HENRI</speaker><content>Says you’re nervous. He can hear your heart.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>CASTLE</speaker><content>I told you, there’s nothing on there. Nothing to see or hear.</content></utterance>
+<utterance uid="16-2"><speaker>THE MOLE</speaker><content>Ah, you listen with your eyes. Shh.</content></utterance>
+<utterance uid="16-3"><speaker>THE MOLE</speaker><content>There. Hear that?</content></utterance>
+<utterance uid="16-4"><speaker>CASTLE</speaker><content>No.</content></utterance>
+<utterance uid="16-5"><speaker>THE MOLE</speaker><content>Right there.  Church bells.</content></utterance>
+<utterance uid="16-6"><speaker>THE MOLE</speaker><content>Saint George’s in the … sixteenth.  From the sound of it, she’s 6, maybe 8 blocks away. And there’s a restaurant in the building she’s in.</content></utterance>
+<utterance uid="16-7"><speaker>CASTLE</speaker><content>How can you tell that?</content></utterance>
+<utterance uid="16-8"><speaker>THE MOLE</speaker><content>Sounds, Monsieur Castle, are like fingerprints. No two are alike. Ah, that hum? That’s from a restaurant ventilation system. Commercial grade.</content></utterance>
+<utterance uid="16-9"><speaker>HENRI</speaker><content>When was the last time you slept?</content></utterance>
+<utterance uid="16-10"><speaker>CASTLE</speaker><content>I – I don’t know. I’m good.</content></utterance>
+<utterance uid="16-11"><speaker>HENRI</speaker><content>No, this will take some time. I will wake you when we find something, hmm?</content></utterance>
+<utterance uid="16-12"><speaker>ALEXIS</speaker><content> They’re coming. They’ve realized we’re gone.</content></utterance>
+<utterance uid="16-13"><speaker>CASTLE</speaker><content> Baby, get out of there. Get out of there now.</content></utterance>
+</scene>
+
+<scene id="17"><utterance uid="17-1"><speaker>BECKETT</speaker><content> Ms. Degarmo, I’m going to ask you again. What else can you tell me about Roger Henson’s murder?</content></utterance>
+<utterance uid="17-2"><speaker>PAULINE DEGARMO</speaker><content>I don’t have to tell you nothing. I know my rights. You can’t keep me here.</content></utterance>
+<utterance uid="17-3"><speaker>BECKETT</speaker><content>He’s dead. Tortured. I’m just trying to find the people that did it to him.</content></utterance>
+<utterance uid="17-4"><speaker>PAULINE</speaker><content>Listen, b*tch. I don’t talk to cops. Now go get me my lawyer and then go to hell.</content></utterance>
+<utterance uid="17-5"><speaker>BECKETT</speaker><content> Do you have any idea what this is all about? You think I’m some beat cop busting you on possession charges? My partner’s daughter is missing and you –  – are in my way. Now you don’t talk to cops? I’m not a cop today, honey. Now, who was he working for?</content></utterance>
+<utterance uid="17-6"><speaker>PAULINE</speaker><content>He didn’t say.</content></utterance>
+<utterance uid="17-7"><speaker>BECKETT</speaker><content>Who’s this guy?</content></utterance>
+<utterance uid="17-8"><speaker>PAULINE</speaker><content> I don’t know.</content></utterance>
+<utterance uid="17-9"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="17-10"><speaker>PAULINE</speaker><content>But Roger got strange calls in the middle of the night. People with accents.</content></utterance>
+<utterance uid="17-11"><speaker>BECKETT</speaker><content>What kind of accents?</content></utterance>
+<utterance uid="17-12"><speaker>PAULINE</speaker><content>Foreign.</content></utterance>
+<utterance uid="17-13"><speaker>BECKETT</speaker><content>What phone did he use?</content></utterance>
+<utterance uid="17-14"><speaker>PAULINE</speaker><content>He didn’t give me the number!</content></utterance>
+<utterance uid="17-15"><speaker>BECKETT</speaker><content>Good. I believe you. Now you’re going to give me his address.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>ESPOSITO</speaker><content>It looks like somebody got here first.</content></utterance>
+<utterance uid="18-2"><speaker>BECKETT</speaker><content>These people hired him to kidnap those girls. So why would they torture and murder him? Why would they toss this place?</content></utterance>
+<utterance uid="18-3"><speaker>ESPOSITO</speaker><content>Maybe it wasn’t the same guys.</content></utterance>
+<utterance uid="18-4"><speaker>BECKETT</speaker><content>Who else is it gonna be? Check with the neighbors. See if they saw anything.</content></utterance>
+<utterance uid="18-5"><speaker>ESPOSITO</speaker><content> Yeah.</content></utterance>
+<utterance uid="18-6"><speaker>RYAN</speaker><content>Beckett.  A computer.</content></utterance>
+<utterance uid="18-7"><speaker>BECKETT</speaker><content>Get it to tech. Tear it apart. Find me something. Anything.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>CASTLE</speaker><content>What’s going on? You found something?</content></utterance>
+<utterance uid="19-2"><speaker>HENRI</speaker><content>Maybe. Acoustic tiles, office space, close to a rooftop. Might fit the bill.</content></utterance>
+<utterance uid="19-3"><speaker>CASTLE</speaker><content>I’m coming.</content></utterance>
+<utterance uid="19-4"><speaker>HENRI</speaker><content>No, no, no. It might not be the place.</content></utterance>
+<utterance uid="19-5"><speaker>CASTLE</speaker><content>I don’t care.</content></utterance>
+<utterance uid="19-6"><speaker>HENRI</speaker><content>It might be the place.</content></utterance>
+<utterance uid="19-7"><speaker>CASTLE</speaker><content>My daughter. My money. I’m coming.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>CASTLE</speaker><content>They were here.</content></utterance>
+<utterance uid="20-2"><speaker>HENRI</speaker><content>Not anymore.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>HENRI</speaker><content>This is not the work of typical kidnappers. The place is clean. It’s too clean. This is trade craft.</content></utterance>
+<utterance uid="21-2"><speaker>CASTLE</speaker><content>Trade craft as in spies?</content></utterance>
+<utterance uid="21-3"><speaker>HENRI</speaker><content>Whoever is behind this has intelligence training. They left no trace.</content></utterance>
+<utterance uid="21-4"><speaker>CASTLE</speaker><content>So how do we find them?</content></utterance>
+<utterance uid="21-5"><speaker>CASTLE</speaker><content> You said you could find them.</content></utterance>
+<utterance uid="21-6"><speaker>HENRI</speaker><content>Shh!</content></utterance>
+<utterance uid="21-7"><speaker>HENRI</speaker><content> They’re listening. So if the cops find this place they stay ahead of the investigation.</content></utterance>
+<utterance uid="21-8"><speaker>CASTLE</speaker><content> Who are these people?</content></utterance>
+<utterance uid="21-9"><speaker>HENRI</speaker><content> Let’s find out.</content></utterance>
+<utterance uid="21-10"><speaker>HENRI</speaker><content>I know you’re out there. I know you’re listening, so you know I’m not a cop. I’m not interested in you, your cause, or the law. All we want is the girl. Now you got what you wanted. Now she’s meaningless to you, but not to me. So, if you’re smart you call, we discuss terms. But if you’re stupid, then I’ll come for you. I expect by now you have run voice recognition, so you know who I am, you know my reputation, and you know what I will do when I find you. The choice is yours.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>CASTLE</speaker><content>Sans le père? Without the father?</content></utterance>
+<utterance uid="22-2"><speaker>HENRI</speaker><content>Don’t you see? This is good news. They want to negotiate. It means she’s safe.</content></utterance>
+<utterance uid="22-3"><speaker>CASTLE</speaker><content>You’re not having that meeting without me.</content></utterance>
+<utterance uid="22-4"><speaker>HENRI</speaker><content>You’re emotionally compromised. That makes you like an animal to them. Unpredictable and dangerous.  Mr. Castle, this is what I do. It’s what you paid me for. Now let me meet with them. Let me negotiate the terms.</content></utterance>
+<utterance uid="22-5"><speaker>HENRI</speaker><content>Oh, well of course they will ask for more money. I need to know. How much can you afford?</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>ESPOSITO</speaker><content>Yo Beckett. One of Henson’s neighbors saw someone leaving his apartment two days back. We just got the sketch.  It’s the same dude who was spotted leaving the farmhouse where Henson was found.</content></utterance>
+<utterance uid="23-2"><speaker>BECKETT</speaker><content>First he tortures Henson and then he trashes his place. Why?  Where are you with Henson’s hard drive?</content></utterance>
+<utterance uid="23-3"><speaker>TECH GUY</speaker><content>It’s been erased. And not with commercial software.</content></utterance>
+<utterance uid="23-4"><speaker>BECKETT</speaker><content>Were you able to pull anything from it?</content></utterance>
+<utterance uid="23-5"><speaker>TECH GUY</speaker><content>I’ll do what I can, but I wouldn’t get your hopes up.</content></utterance>
+<utterance uid="23-6"><speaker>BECKETT</speaker><content>Do it. We gotta figure out what he was looking for.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>THE MOLE</speaker><content>Don’t worry. Henri always comes through.</content></utterance>
+<utterance uid="24-2"><speaker>CASTLE</speaker><content>Shouldn’t he be back by now?</content></utterance>
+<utterance uid="24-3"><speaker>THE MOLE</speaker><content>He is.</content></utterance>
+<utterance uid="24-4"><speaker>CASTLE</speaker><content>Was she there?</content></utterance>
+<utterance uid="24-5"><speaker>HENRI</speaker><content>Yes.  And she is safe. This is today’s paper.</content></utterance>
+<utterance uid="24-6"><speaker>CASTLE</speaker><content>Why did they take her?</content></utterance>
+<utterance uid="24-7"><speaker>HENRI</speaker><content>It was convenient. But they’ve agreed to let her go.</content></utterance>
+<utterance uid="24-8"><speaker>CASTLE</speaker><content>When?</content></utterance>
+<utterance uid="24-9"><speaker>HENRI</speaker><content>Later today. In the Forest of Fontainebleau. It will give you time to get the money together.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>TECH GUY</speaker><content>Detective Beckett?</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>TECH GUY</speaker><content>Henson was looking at these. Surveillance photos.</content></utterance>
+<utterance uid="26-2"><speaker>BECKETT</speaker><content>Oh God. Alexis. She wasn’t at the wrong place at the wrong time. She was the target.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>CASTLE</speaker><content>Where’s Alexis? I don’t see her.</content></utterance>
+<utterance uid="27-2"><speaker>HENRI</speaker><content>Stay calm.</content></utterance>
+<utterance uid="27-3"><speaker>CASTLE</speaker><content>No, no, no. This isn’t right. It’s not right.</content></utterance>
+<utterance uid="27-4"><speaker>HENRI</speaker><content>Don’t move.  He’s yours, like we agreed.</content></utterance>
+<utterance uid="27-5"><speaker>CASTLE</speaker><content>You’re selling me out? Why?</content></utterance>
+<utterance uid="27-6"><speaker>HENRI</speaker><content>I value my life more than my word. If I had known who was really holding your daughter, who your daughter really is –</content></utterance>
+<utterance uid="27-7"><speaker>CASTLE</speaker><content>Who she really is? That – I – I don’t understand.</content></utterance>
+<utterance uid="27-8"><speaker>HENRI</speaker><content>I never would have taken the job.</content></utterance>
+<utterance uid="27-9"><speaker>CASTLE</speaker><content>She’s nobody.</content></utterance>
+<utterance uid="27-10"><speaker>HENRI</speaker><content>Mon paiement?</content></utterance>
+<utterance uid="27-11"><speaker>CASTLE</speaker><content>Ow! Wait, okay, wait. Just – what do you want?</content></utterance>
+<utterance uid="27-12"><speaker>JACKSON HUNT</speaker><content>Ah, ah, ah.</content></utterance>
+<utterance uid="27-13"><speaker>HUNT</speaker><content>If I’d wanted you dead, you’d be dead.</content></utterance>
+<utterance uid="27-14"><speaker>CASTLE</speaker><content>You’re the guy in the sketch. You were at the farmhouse.</content></utterance>
+<utterance uid="27-15"><speaker>HUNT</speaker><content>That’s right. Your friend there was pretty good. A bit out of his league. I am not surprised he crossed to the other side.</content></utterance>
+<utterance uid="27-16"><speaker>CASTLE</speaker><content>You know what’s going on here? You – you know where my daughter is?</content></utterance>
+<utterance uid="27-17"><speaker>HUNT</speaker><content>Look, we’re exposed here. We gotta go. Now.</content></utterance>
+<utterance uid="27-18"><speaker>CASTLE</speaker><content>Go? What are you talking about? Go where?</content></utterance>
+<utterance uid="27-19"><speaker>HUNT</speaker><content>Somewhere safe. Get in the car.</content></utterance>
+<utterance uid="27-20"><speaker>CASTLE</speaker><content>No, not until you tell me what’s going on.  Beckett. I am so glad you called.</content></utterance>
+<utterance uid="27-21"><speaker>BECKETT</speaker><content>Castle, Alexis wasn’t taken by accident. She was the target. They wanted her.</content></utterance>
+<utterance uid="27-22"><speaker>CASTLE</speaker><content>Listen, I –</content></utterance>
+<utterance uid="27-23"><speaker>CASTLE</speaker><content>What are you doing? That was a $200 phone!</content></utterance>
+<utterance uid="27-24"><speaker>HUNT</speaker><content>That’s how they track you. Now get in the car.</content></utterance>
+<utterance uid="27-25"><speaker>CASTLE</speaker><content> Hey, I am not getting in the car.</content></utterance>
+<utterance uid="27-26"><speaker>HUNT</speaker><content>Oh, don’t be an idiot. I’m the good guy.</content></utterance>
+<utterance uid="27-27"><speaker>CASTLE</speaker><content>Oh, you expect me to trust you?</content></utterance>
+<utterance uid="27-28"><speaker>HUNT</speaker><content>You’re still alive, aren’t you?  What are you going to do? Stay out here in the woods with all the dead guys?</content></utterance>
+<utterance uid="27-29"><speaker>CASTLE</speaker><content>Fine. I’ll get in the car.</content></utterance>
+<utterance uid="27-30"><speaker>HUNT</speaker><content>Given how you’re feeling so bad about your $200 buck phone you might want to pick up that 3 million dollar briefcase.</content></utterance>
+<utterance uid="27-31"><speaker>HUNT</speaker><content>Take it with you.</content></utterance>
+<utterance uid="27-32"><speaker>CASTLE</speaker><content>At least tell me your name.</content></utterance>
+<utterance uid="27-33"><speaker>HUNT</speaker><content>Hunt. Jackson Hunt.</content></utterance>
+<utterance uid="27-34"><speaker>CASTLE</speaker><content>Sounds made up.</content></utterance>
+<utterance uid="27-35"><speaker>HUNT</speaker><content> It is.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>ALEXIS</speaker><content>Hey. Hey. Can someone just please tell me what’s going on? Why am I here?</content></utterance>
+</scene>
+
+<scene id="29"><utterance uid="29-1"><speaker>HUNT</speaker><content>We should be safe here for now.</content></utterance>
+<utterance uid="29-2"><speaker>CASTLE</speaker><content>Where did you get these?</content></utterance>
+<utterance uid="29-3"><speaker>HUNT</speaker><content>It’s not important. Now what’s important is that we get her back.</content></utterance>
+<utterance uid="29-4"><speaker>CASTLE</speaker><content>I don’t even know you. Why would you care?</content></utterance>
+<utterance uid="29-5"><speaker>HUNT</speaker><content> It’s my job. I was sent.</content></utterance>
+<utterance uid="29-6"><speaker>CASTLE</speaker><content>By whom? El-Masri?</content></utterance>
+<utterance uid="29-7"><speaker>HUNT</speaker><content>What’s the difference?</content></utterance>
+<utterance uid="29-8"><speaker>CASTLE</speaker><content>You need to tell me who hired you and why these people took my daughter.</content></utterance>
+<utterance uid="29-9"><speaker>HUNT</speaker><content>That’s yours. You want to get it?</content></utterance>
+<utterance uid="29-10"><speaker>CASTLE</speaker><content>How’s it mine? You shot mine.</content></utterance>
+<utterance uid="29-11"><speaker>HUNT</speaker><content>It’s a clone. That’s how I tracked you. Difference is, that one’s secure. It’s probably Beckett.</content></utterance>
+<utterance uid="29-12"><speaker>HUNT</speaker><content>You ought to let her know you’re safe.</content></utterance>
+<utterance uid="29-13"><speaker>CASTLE</speaker><content>It’s not Beckett. It’s a local number.  Alexis.  Alexis?</content></utterance>
+<utterance uid="29-14"><speaker>GREGOR VOLKOV</speaker><content>I’m afraid not, Mr. Castle. But I am the one holding her. If you value her life you will give the phone to the man standing next to you. The one responsible for all the bloodshed in the woods.</content></utterance>
+<utterance uid="29-15"><speaker>HUNT</speaker><content>Yeah.</content></utterance>
+<utterance uid="29-16"><speaker>VOLKOV</speaker><content>It’s you. After all these years, it’s finally you.</content></utterance>
+<utterance uid="29-17"><speaker>HUNT</speaker><content>Time to let her go, Volkov.</content></utterance>
+<utterance uid="29-18"><speaker>VOLKOV</speaker><content>The way you let Anna go? No. It’s time to end things. A life for a life. Tomorrow, 6AM. Outside the Palais Le Bon. You show, I’ll spare her. But if you don’t I will put a bullet in her brain instead of yours. And we start again.</content></utterance>
+<utterance uid="29-19"><speaker>CASTLE</speaker><content>This is about you?</content></utterance>
+<utterance uid="29-20"><speaker>HUNT</speaker><content>Yeah.</content></utterance>
+<utterance uid="29-21"><speaker>CASTLE</speaker><content>I don’t understand. What does this have to do with Alexis? Why would they take her?</content></utterance>
+<utterance uid="29-22"><speaker>HUNT</speaker><content>Because I was careless. Because somehow she found out who she was. Who you were. And he knew I’d come for her.</content></utterance>
+<utterance uid="29-23"><speaker>CASTLE</speaker><content>Why? Why would you come for her?</content></utterance>
+<utterance uid="29-24"><speaker>HUNT</speaker><content>Because she is my granddaughter.</content></utterance>
+<utterance uid="29-25"><speaker>HUNT</speaker><content>Richard, I’m your father.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>CASTLE</speaker><content>You’re telling me you’re a spy?</content></utterance>
+<utterance uid="30-2"><speaker>HUNT</speaker><content>Intelligence asset is the term.</content></utterance>
+<utterance uid="30-3"><speaker>CASTLE</speaker><content>My dad’s a spy.  Does my mom know?</content></utterance>
+<utterance uid="30-4"><speaker>HUNT</speaker><content> Uh uh. What’d she tell you about me?</content></utterance>
+<utterance uid="30-5"><speaker>CASTLE</speaker><content>Uh, that it was a special night, she was in love, she woke up the next morning, you were gone, she never saw you again.</content></utterance>
+<utterance uid="30-6"><speaker>HUNT</speaker><content>That night I had just finished a job at the U.N. At least, I thought I had. The next day things went south. I had to get out of the city fast. It was a year before I was stateside again. That’s when I found out about you.</content></utterance>
+<utterance uid="30-7"><speaker>CASTLE</speaker><content>You’ve known about me? About us? All these years and you never once let us know you were out there?</content></utterance>
+<utterance uid="30-8"><speaker>HUNT</speaker><content>What I do means no communication, no relationships, to anyone. But, hey, I’ve been around. We’ve met before.  Yeah. When you were about 10 years old. Your mother took you to the library and you were looking for a book and I gave you a copy of –</content></utterance>
+<utterance uid="30-9"><speaker>CASTLE</speaker><content>Casino Royale.</content></utterance>
+<utterance uid="30-10"><speaker>HUNT</speaker><content>Yeah.</content></utterance>
+<utterance uid="30-11"><speaker>CASTLE</speaker><content>That was you?</content></utterance>
+<utterance uid="30-12"><speaker>CASTLE</speaker><content>That book made me want to be a writer.</content></utterance>
+<utterance uid="30-13"><speaker>HUNT</speaker><content>I could believe it when I read your first spy novel.</content></utterance>
+<utterance uid="30-14"><speaker>CASTLE</speaker><content>You read my books?</content></utterance>
+<utterance uid="30-15"><speaker>HUNT</speaker><content>Oh yeah. I greased some wheels at the CIA when you were trying to get access to some information for research. I know that’s not much, but for a minute there it made me feel like a father. No, I’ve been checking on you, and your mom, and Alexis your whole lives.</content></utterance>
+<utterance uid="30-16"><speaker>CASTLE</speaker><content>This man who has my daughter, who is he?</content></utterance>
+<utterance uid="30-17"><speaker>HUNT</speaker><content>Gregor Volkov. KGB’s most feared agent. I killed his wife Anna at a counterintelligence op twelve years ago here in Paris. The first time he came after me I put him away in a Chechnyan prison for life. Then he escaped. He’s been trying to figure out a way to draw me out ever since.</content></utterance>
+<utterance uid="30-18"><speaker>CASTLE</speaker><content>If this was about Alexis, why would he take the other girl?</content></utterance>
+<utterance uid="30-19"><speaker>HUNT</speaker><content>Because if he just took Alexis it wouldn’t be international news. He needed somebody high profile. He needed me to know. And now he’s got me exactly where he wants me. If I don’t show up tomorrow he will kill her.</content></utterance>
+<utterance uid="30-20"><speaker>CASTLE</speaker><content>And if you do show up?</content></utterance>
+<utterance uid="30-21"><speaker>HUNT</speaker><content>He’ll kill us both just for fun.</content></utterance>
+<utterance uid="30-22"><speaker>CASTLE</speaker><content>If you know me at all you know I’ll do anything.</content></utterance>
+<utterance uid="30-23"><speaker>HUNT</speaker><content>You know, our only advantage is Volkov doesn’t know I’ve found him.  He may not be prepared for a direct assault. If I can get inside his compound I can get Alexis out.</content></utterance>
+<utterance uid="30-24"><speaker>CASTLE</speaker><content>A direct assault?</content></utterance>
+<utterance uid="30-25"><speaker>HUNT</speaker><content>This is our best shot. Her best shot. But we need a tactical advantage. I can’t do this alone.</content></utterance>
+<utterance uid="30-26"><speaker>CASTLE</speaker><content> Tell me what you need.</content></utterance>
+<utterance uid="30-27"><speaker>HUNT</speaker><content>Where she’s being held, there’s a conduit supplying it that runs through the old sewer system. You cut those cables you cut their power. Lights, alarm, security video. That conduit’s the key. What do you say, kid? You’ve been playing cop for years. You ready to play spy?</content></utterance>
+</scene>
+
+<scene id="31"><utterance uid="31-1"><speaker>HUNT</speaker><content>How’re we doing?</content></utterance>
+<utterance uid="31-2"><speaker>CASTLE</speaker><content>Yeah, I’m almost there.</content></utterance>
+<utterance uid="31-3"><speaker>HUNT</speaker><content>You should see a junction box with six conduits coming from it.</content></utterance>
+<utterance uid="31-4"><speaker>CASTLE</speaker><content>I see it.</content></utterance>
+<utterance uid="31-5"><speaker>HUNT</speaker><content>The one you want is the third one from the bottom.</content></utterance>
+<utterance uid="31-6"><speaker>CASTLE</speaker><content>Got it.</content></utterance>
+<utterance uid="31-7"><speaker>HUNT</speaker><content>Wrap the charge around it like I showed you. And then attach the detonator.</content></utterance>
+<utterance uid="31-8"><speaker>CASTLE</speaker><content>All right, I’m setting the detonator for 30 seconds … now.</content></utterance>
+<utterance uid="31-9"><speaker>GUARD</speaker><content>Hey, don’t move!</content></utterance>
+<utterance uid="31-10"><speaker>CASTLE</speaker><content>We may have a problem.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>ALEXIS</speaker><content>Dad? Dad?</content></utterance>
+<utterance uid="32-2"><speaker>CASTLE</speaker><content>Alexis? Alexis?</content></utterance>
+<utterance uid="32-3"><speaker>ALEXIS</speaker><content>Dad? Dad!</content></utterance>
+<utterance uid="32-4"><speaker>CASTLE</speaker><content>Alexis!</content></utterance>
+<utterance uid="32-5"><speaker>CASTLE</speaker><content>Alexis! Hey. You okay?</content></utterance>
+<utterance uid="32-6"><speaker>ALEXIS</speaker><content>Yeah but, what are you doing here? The kidnap you too?</content></utterance>
+<utterance uid="32-7"><speaker>CASTLE</speaker><content>Uh, yeah. Trying to rescue you.</content></utterance>
+<utterance uid="32-8"><speaker>ALEXIS</speaker><content> You shouldn’t be here.</content></utterance>
+<utterance uid="32-9"><speaker>CASTLE</speaker><content>Shh.  It’s okay. We’re together. It’s going to be okay.  You look good.</content></utterance>
+<utterance uid="32-10"><speaker>VOLKOV</speaker><content>You are like your father, Mr. Castle.</content></utterance>
+<utterance uid="32-11"><speaker>VOLKOV</speaker><content>Getting involved where you don’t belong.  Did he really think I would not be prepared for an attack?</content></utterance>
+<utterance uid="32-12"><speaker>ALEXIS</speaker><content>Dad, what’s he talking about?</content></utterance>
+<utterance uid="32-13"><speaker>VOLKOV</speaker><content>Tell her. Go on. Tell her why she’s here.</content></utterance>
+<utterance uid="32-14"><speaker>CASTLE</speaker><content>She’s of no use to you. Let her go.</content></utterance>
+<utterance uid="32-15"><speaker>VOLKOV</speaker><content>When a man doubles his wealth, why should he give half of it away?</content></utterance>
+<utterance uid="32-16"><speaker>GUARD</speaker><content>He had this on him.</content></utterance>
+<utterance uid="32-17"><speaker>VOLKOV</speaker><content>Time to end this.  I know that you are here. I know that you are close. And I want you to know that I have your son. You have 10 seconds to show yourself to my men out front. Give yourself up –  – or I will kill him.</content></utterance>
+<utterance uid="32-18"><speaker>ALEXIS</speaker><content> Dad.</content></utterance>
+<utterance uid="32-19"><speaker>CASTLE</speaker><content> It’s okay.</content></utterance>
+<utterance uid="32-20"><speaker>VOLKOV</speaker><content>10. .. 9… 8 … 7…</content></utterance>
+<utterance uid="32-21"><speaker>ALEXIS</speaker><content>I’m sorry.</content></utterance>
+<utterance uid="32-22"><speaker>CASTLE</speaker><content>It’s all right.</content></utterance>
+<utterance uid="32-23"><speaker>VOLKOV</speaker><content>6 … 5 … 4 …</content></utterance>
+<utterance uid="32-24"><speaker>VOLKOV</speaker><content>3 …</content></utterance>
+<utterance uid="32-25"><speaker>HUNT</speaker><content> You’re not going to kill my son, Volkov.</content></utterance>
+<utterance uid="32-26"><speaker>VOLKOV</speaker><content>No? And why is that?</content></utterance>
+<utterance uid="32-27"><speaker>HUNT</speaker><content>Because you’ll be dead.</content></utterance>
+<utterance uid="32-28"><speaker>CASTLE</speaker><content> Get down.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>HUNT</speaker><content>Once the charge goes off there’ll be a moment when it all hits the fan.  Use this to get her out.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>CASTLE</speaker><content>Watch your eyes, sweetheart.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>HUNT</speaker><content>And then run.</content></utterance>
+</scene>
+
+<scene id="36"><utterance uid="36-1"><speaker>HUNT</speaker><content>His men will move to the front to respond to my attack. You move to the back, through these doors, and right down this corridor.</content></utterance>
+<utterance uid="36-2"><speaker>CASTLE</speaker><content>What about his men? What if they try to stop us?</content></utterance>
+<utterance uid="36-3"><speaker>HUNT</speaker><content>Don’t let them.</content></utterance>
+</scene>
+<scene id="37"><utterance uid="37-1"><speaker>HUNT</speaker><content>Just keep moving until you hit the back door. I’ll be coming in the front. Don’t stop running. Ever. Not until you reach the U.S. Embassy.</content></utterance>
+</scene>
+<scene id="38"><utterance uid="38-1"><speaker>HUNT</speaker><content>And once you reach the Embassy ask for Deputy Chief of Missions Jim Aldicot. He’ll provide you both with an official cover story. One that credits Interpol and the French police and doesn’t include me.</content></utterance>
+<utterance uid="38-2"><speaker>CASTLE</speaker><content>What happens to you after?</content></utterance>
+<utterance uid="38-3"><speaker>HUNT</speaker><content>Assuming we’re both not killed, I – I disappear.</content></utterance>
+<utterance uid="38-4"><speaker>CASTLE</speaker><content>No, but we just –</content></utterance>
+<utterance uid="38-5"><speaker>HUNT</speaker><content>That’s the job. That’s my life.</content></utterance>
+<utterance uid="38-6"><speaker>CASTLE</speaker><content>Yeah, but – we just met. I mean, I got a lot of questions. A lot of things I want to say. I don’t – I don’t …  I – I need to have more time.</content></utterance>
+<utterance uid="38-7"><speaker>HUNT</speaker><content>Maybe we can do that sometime, you know, some day.</content></utterance>
+<utterance uid="38-8"><speaker>CASTLE</speaker><content>How will I know if you made it?</content></utterance>
+<utterance uid="38-9"><speaker>HUNT</speaker><content>Oh, you won’t. Not officially, at least. I know this has been tough for you, Richard, and I just want you to know, son … I’ve always been proud of you.</content></utterance>
+<utterance uid="38-10"><speaker>HUNT</speaker><content>Always.</content></utterance>
+</scene>
+<scene id="39"><utterance uid="39-1"><speaker>ALEXIS</speaker><content>I have never in my life been so happy to be home.</content></utterance>
+<utterance uid="39-2"><speaker>CASTLE</speaker><content>Amen.</content></utterance>
+<utterance uid="39-3"><speaker>ALEXIS</speaker><content>I know we’re not supposed to talk about what really happened, but … thank you. For everything.</content></utterance>
+<utterance uid="39-4"><speaker>CASTLE</speaker><content>Hey. That’s what fathers do.</content></utterance>
+<utterance uid="39-5"><speaker>ALEXIS</speaker><content>You think he made it out?</content></utterance>
+<utterance uid="39-6"><speaker>CASTLE</speaker><content> I wish I knew.  You ready?</content></utterance>
+<utterance uid="39-7"><speaker>MARTHA</speaker><content>Oh… you’re back!</content></utterance>
+<utterance uid="39-8"><speaker>MARTHA</speaker><content>You’re back!</content></utterance>
+<utterance uid="39-9"><speaker>ALEXIS</speaker><content>Oh, it’s so great to be home.</content></utterance>
+<utterance uid="39-10"><speaker>BECKETT</speaker><content> I’m so glad you’re okay.  Please don’t do anything like that again without me, okay?</content></utterance>
+<utterance uid="39-11"><speaker>CASTLE</speaker><content>I won’t.</content></utterance>
+<utterance uid="39-12"><speaker>ALEXIS</speaker><content>It’s okay, Gram. I’m okay.</content></utterance>
+<utterance uid="39-13"><speaker>MARTHA</speaker><content>Oh!</content></utterance>
+<utterance uid="39-14"><speaker>BECKETT</speaker><content>Hi, honey!</content></utterance>
+<utterance uid="39-15"><speaker>BECKETT</speaker><content> How are you?</content></utterance>
+<utterance uid="39-16"><speaker>MARTHA</speaker><content>Brilliant. You are just brilliant. Everyone must be starving. C’mon. I’ve made breakfast.</content></utterance>
+<utterance uid="39-17"><speaker>CASTLE</speaker><content>Mother, what’s this?</content></utterance>
+<utterance uid="39-18"><speaker>MARTHA</speaker><content>Oh, it came for you this morning. Why? Is it important?</content></utterance>
+<utterance uid="39-19"><speaker>CASTLE</speaker><content> Mom, there’s something I want to tell you.</content></utterance>
+<utterance uid="39-20"><speaker>THE END</speaker><content>CASTLE</content></utterance>
+</scene>
+</script>

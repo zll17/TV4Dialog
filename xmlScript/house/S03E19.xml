@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+<scene id="1"><utterance uid="1-1"><speaker>JANIE</speaker><content>Jasper hold still.  Stop squirming.</content></utterance>
+<utterance uid="1-2"><speaker>DERAN</speaker><content>What did he do now?</content></utterance>
+<utterance uid="1-3"><speaker>JANIE</speaker><content>He got in another fight and I can't get his nose to stop bleeding.</content></utterance>
+<utterance uid="1-4"><speaker>DERAN</speaker><content>You have to apply much more pressure than that.   You had to do this today. I got office hours, supposed to have dinner with the Dean, you just can't lash out whenever you get angry.</content></utterance>
+<utterance uid="1-5"><speaker>JASPER</speaker><content>He said I smelt like a monkey.</content></utterance>
+<utterance uid="1-6"><speaker>DERAN</speaker><content>Well you do. You can't refuse to take a bath and then hit kids who tell you that you smell.  Damn. </content></utterance>
+<utterance uid="1-7"><speaker>JANIE</speaker><content>Don't you think we should call 911?</content></utterance>
+<utterance uid="1-8"><speaker>DERAN</speaker><content>No, this isn't his first nosebleed. He'll be fine.</content></utterance>
+<utterance uid="1-9"><speaker>LUCY</speaker><content>Daddy!</content></utterance>
+<utterance uid="1-10"><speaker>DERAN</speaker><content>Hey Lucy-Goosy.</content></utterance>
+<utterance uid="1-11"><speaker>LUCY</speaker><content>I'm playing doctor.</content></utterance>
+<utterance uid="1-12"><speaker>DERAN</speaker><content>So am I. Can you go back and play?</content></utterance>
+<utterance uid="1-13"><speaker>JASPER</speaker><content>Ow.</content></utterance>
+<utterance uid="1-14"><speaker>DERAN</speaker><content> When was this fight?</content></utterance>
+<utterance uid="1-15"><speaker>JANIE</speaker><content>Over 10 minutes ago.</content></utterance>
+<utterance uid="1-16"><speaker>JASPER</speaker><content>I feel dizzy.</content></utterance>
+<utterance uid="1-17"><speaker>DERAN</speaker><content> Maybe you should make that call.</content></utterance>
+<utterance uid="1-18"><speaker>JANIE</speaker><content>OK. </content></utterance>
+<utterance uid="1-19"><speaker>LUCY</speaker><content>Daddy, look. I can help.</content></utterance>
+<utterance uid="1-20"><speaker>DERAN</speaker><content>No, that's great honey. Can you just please leave Daddy alone!</content></utterance>
+<utterance uid="1-21"><speaker>JANIE</speaker><content>They're sending an ambulance.</content></utterance>
+<utterance uid="1-22"><speaker>DERAN</speaker><content>Call them back. He'll be fine.  How you feeling, Bud? You light headed?</content></utterance>
+<utterance uid="1-23"><speaker>JASPER</speaker><content>Lucy.</content></utterance>
+<utterance uid="1-24"><speaker>DERAN</speaker><content>Oh, God.  Lucy? Are you OK? Lucy? Lucy? Lucy? Lucy, are you OK? Lucy? Lucy?</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>HOUSE</speaker><content> Oh for God's sakes.  Stop! Don't move. The way the soft evening light catches your eyes.  The gentle caress of the dusk on her hair as you turn around and leave my office without giving me that file.</content></utterance>
+<utterance uid="2-2"><speaker>CUDDY</speaker><content> Restrictive pericarditis.</content></utterance>
+<utterance uid="2-3"><speaker>HOUSE</speaker><content>Boring.</content></utterance>
+<utterance uid="2-4"><speaker>CUDDY</speaker><content>She's in kindergarten.</content></utterance>
+<utterance uid="2-5"><speaker>HOUSE</speaker><content>Less boring, or grandma's been held back a few years.</content></utterance>
+<utterance uid="2-6"><speaker>CUDDY</speaker><content>It's calcified and she's hypertensive.</content></utterance>
+<utterance uid="2-7"><speaker>HOUSE</speaker><content>Then get her into surgery.</content></utterance>
+<utterance uid="2-8"><speaker>CUDDY</speaker><content>She already is in surgery.</content></utterance>
+<utterance uid="2-9"><speaker>HOUSE</speaker><content>Tricky procedure. It's going to take all night.  Sleep tight. </content></utterance>
+<utterance uid="2-10"><speaker>CUDDY</speaker><content> No congenital defects, no health problems, but her heart is strangling itself.</content></utterance>
+<utterance uid="2-11"><speaker>HOUSE</speaker><content>Fascinating, but since the pathology on the pericardium won't be back until after they remove it. </content></utterance>
+<utterance uid="2-12"><speaker>CUDDY</speaker><content>Get started on her blood, you can test for viral infections, bacteria... </content></utterance>
+<utterance uid="2-13"><speaker>HOUSE</speaker><content> Round up the usual suspects. Amyloidosis, sarcoidosis, hemochromatosis... Heck, go wild, do all the osises.   All taken care of, sleep tight. </content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>FOREMAN</speaker><content>This thing is already all around her heart. If it gets into the muscle she's dead.</content></utterance>
+<utterance uid="3-2"><speaker>CHASE</speaker><content>Best bet's Coxsackie virus, Parvovirus B19, CMV...</content></utterance>
+<utterance uid="3-3"><speaker>CAMERON</speaker><content>Bacterial infection is more likely to turn constrictive. It could be TB.</content></utterance>
+<utterance uid="3-4"><speaker>CHASE</speaker><content>Right. Forgot about the part where she did time in Russian gulag. Her hematocrit’s elevated.</content></utterance>
+<utterance uid="3-5"><speaker>CAMERON</speaker><content>Few extra blood cells means nothing. She's probably just dehydrated.</content></utterance>
+<utterance uid="3-6"><speaker>CHASE</speaker><content>Yes and I could assume 3 or 4 things to fit my theory too.</content></utterance>
+<utterance uid="3-7"><speaker>CAMERON</speaker><content>She's sick. She obviously hasn't been drinking enough...</content></utterance>
+<utterance uid="3-8"><speaker>FOREMAN</speaker><content>Enough!  I take it you two aren't sleeping together anymore? We do what House said. We test for everything.</content></utterance>
+<utterance uid="3-9"><speaker>CHASE</speaker><content>Good.  Then I can go home. </content></utterance>
+<utterance uid="3-10"><speaker>CAMERON</speaker><content>Since when does we not include you?</content></utterance>
+<utterance uid="3-11"><speaker>CHASE</speaker><content>Well House is going to call us all idiots anyway. Might as well be a well-rested idiot. </content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>HOUSE</speaker><content>You guys are idiots.</content></utterance>
+<utterance uid="4-2"><speaker>CAMERON</speaker><content>Why? Because we stayed up all night doing exactly what you told us to do?</content></utterance>
+<utterance uid="4-3"><speaker>HOUSE</speaker><content>No. Because you stayed up all night doing exactly what I told you to do and have nothing to show for it.</content></utterance>
+<utterance uid="4-4"><speaker>FOREMAN</speaker><content>We eliminated dozens of wrong answers.</content></utterance>
+<utterance uid="4-5"><speaker>HOUSE</speaker><content>I asked you what 2 + 2 equals and a day later you tell me not 25.</content></utterance>
+<utterance uid="4-6"><speaker>CHASE</speaker><content>The pathology report just got filed. Found granulomas in Lucy's pericardium.  Could be a case of fungal infection.</content></utterance>
+<utterance uid="4-7"><speaker>HOUSE</speaker><content>Nice work.</content></utterance>
+<utterance uid="4-8"><speaker>CAMERON</speaker><content>He went home!</content></utterance>
+<utterance uid="4-9"><speaker>HOUSE</speaker><content>Work smart, not hard.  Find out which fungus, biopsy a lymph node. Take employee of the month with you.</content></utterance>
+<utterance uid="4-10"><speaker>CAMERON</speaker><content>I would rather Foreman...</content></utterance>
+<utterance uid="4-11"><speaker>HOUSE</speaker><content>I know. </content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>LUCY</speaker><content>I don't want any more shots.</content></utterance>
+<utterance uid="5-2"><speaker>JASPER</speaker><content> I don't want any more shots.</content></utterance>
+<utterance uid="5-3"><speaker>DERAN</speaker><content>Jasper.  Look at me, Goosy. Squeeze my hand, ok? </content></utterance>
+<utterance uid="5-4"><speaker>CHASE</speaker><content>This will tell us why you are sick so we can make you all better.</content></utterance>
+<utterance uid="5-5"><speaker>DERAN</speaker><content> Where would she pick up a fungus?</content></utterance>
+<utterance uid="5-6"><speaker>CAMERON</speaker><content>Anywhere moist. Around a pool, locker room, public shower...</content></utterance>
+<utterance uid="5-7"><speaker>DERAN</speaker><content>She doesn't have any gym or swim classes, she doesn't even like to play with kids outside.</content></utterance>
+<utterance uid="5-8"><speaker>CAMERON</speaker><content>You haven't taken any trips, gone anywhere new?</content></utterance>
+<utterance uid="5-9"><speaker>DERAN</speaker><content>It's been hard to get away, since their mom...</content></utterance>
+<utterance uid="5-10"><speaker>JASPER</speaker><content>Our mom's dead.</content></utterance>
+<utterance uid="5-11"><speaker>CAMERON</speaker><content>I'm sorry.</content></utterance>
+<utterance uid="5-12"><speaker>DERAN</speaker><content>Last year, brain cancer.</content></utterance>
+<utterance uid="5-13"><speaker>JASPER</speaker><content>You're going to stick that thing in her arm? Cool!</content></utterance>
+<utterance uid="5-14"><speaker>CAMERON</speaker><content>The cool part is, your sister won't feel a thing.</content></utterance>
+<utterance uid="5-15"><speaker>JASPER</speaker><content>Nice necklace.</content></utterance>
+<utterance uid="5-16"><speaker>CAMERON</speaker><content>Thanks.</content></utterance>
+<utterance uid="5-17"><speaker>JASPER</speaker><content>You like video games?</content></utterance>
+<utterance uid="5-18"><speaker>CAMERON</speaker><content>Love them.</content></utterance>
+<utterance uid="5-19"><speaker>CHASE</speaker><content>That should do it. You OK?</content></utterance>
+<utterance uid="5-20"><speaker>LUCY</speaker><content>I want my bunny.</content></utterance>
+<utterance uid="5-21"><speaker>DERAN</speaker><content>Are you being silly?</content></utterance>
+<utterance uid="5-22"><speaker>LUCY</speaker><content>I didn't know which one to take.</content></utterance>
+<utterance uid="5-23"><speaker>DERAN</speaker><content> What do you mean?  What's happening?</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>HOUSE</speaker><content>So, what does the double vision tell us?</content></utterance>
+<utterance uid="6-2"><speaker>CAMERON</speaker><content>Slit lamp revealed the eye’s anterior chamber is swollen, uveitis, means it's not a post op effect and it's not neurological.</content></utterance>
+<utterance uid="6-3"><speaker>CHASE</speaker><content>It's not fungal either, lymph node biopsy was clean.</content></utterance>
+<utterance uid="6-4"><speaker>HOUSE</speaker><content>So we're back to square one.</content></utterance>
+<utterance uid="6-5"><speaker>FOREMAN</speaker><content>One and a half. We've eliminated two more conditions.</content></utterance>
+<utterance uid="6-6"><speaker>HOUSE</speaker><content>Yes, 2+2 doesn't equal 12 or 16 either.</content></utterance>
+<utterance uid="6-7"><speaker>FOREMAN</speaker><content>Vision issues plus screwy heart equals some type of autoimmune. Lupus and Kawasakis are the most common in a 6-year-old.</content></utterance>
+<utterance uid="6-8"><speaker>CHASE</speaker><content> Yeah, tough to find a 6 year old who doesn't have Lupus or Kawasakis.</content></utterance>
+<utterance uid="6-9"><speaker>HOUSE</speaker><content>Did you look at her knees?</content></utterance>
+<utterance uid="6-10"><speaker>HOUSE</speaker><content>Those knobby things in the middle of her legs, any scars or scabs?</content></utterance>
+<utterance uid="6-11"><speaker>FOREMAN</speaker><content>What does that have to do with...</content></utterance>
+<utterance uid="6-12"><speaker>HOUSE</speaker><content>Well most 6 year olds hurt themselves, a lot. Crash their bikes, climb trees, bungee jump.</content></utterance>
+<utterance uid="6-13"><speaker>DERAN</speaker><content>Dad said she doesn't like to run around outside.</content></utterance>
+<utterance uid="6-14"><speaker>HOUSE</speaker><content>Because running around outside hurts.</content></utterance>
+<utterance uid="6-15"><speaker>CAMERON</speaker><content>She didn't mention anything about...</content></utterance>
+<utterance uid="6-16"><speaker>HOUSE</speaker><content>Most 6 year olds are not familiar with the phrase 'my joints feel inflamed'. So, 2+2 equals?</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>HOUSE</speaker><content>Juvenile Rheumatoid Arthritis. We're checking her ANA to confirm and giving her steroids to fix her vision. Some idiot gave me two tickets for a play tonight. Saved his life, apparently worth 186 dollars.   Sorry, had to take a leak.</content></utterance>
+<utterance uid="7-2"><speaker>WILSON</speaker><content>Oh I didn't know you were seeing a patient.</content></utterance>
+<utterance uid="7-3"><speaker>HOUSE</speaker><content>It's an exam room. What did you think I was doing?</content></utterance>
+<utterance uid="7-4"><speaker>WILSON</speaker><content>What you usually do - hiding from Cuddy.</content></utterance>
+<utterance uid="7-5"><speaker>HOUSE</speaker><content>Well it'd be stupid to do it in here. There's a patient in here.   You been drinking more?</content></utterance>
+<utterance uid="7-6"><speaker>EDDIE</speaker><content>Ah no, I, I....</content></utterance>
+<utterance uid="7-7"><speaker>HOUSE</speaker><content> Guy's peeing all the time. Play. Interested?</content></utterance>
+<utterance uid="7-8"><speaker>WILSON</speaker><content>Sure, want me to pick you up?</content></utterance>
+<utterance uid="7-9"><speaker>HOUSE</speaker><content>I'm not going.</content></utterance>
+<utterance uid="7-10"><speaker>WILSON</speaker><content>You said two tickets.</content></utterance>
+<utterance uid="7-11"><speaker>HOUSE</speaker><content>You thought this was a date?  Any other symptoms?</content></utterance>
+<utterance uid="7-12"><speaker>EDDIE</speaker><content>My stomach hurts, I have back pain and muscle aches, I feel dizzy  and I have trouble concentrating sometimes in class.</content></utterance>
+<utterance uid="7-13"><speaker>WILSON</speaker><content>I really shouldn't...</content></utterance>
+<utterance uid="7-14"><speaker>HOUSE</speaker><content> You want the tickets or not?</content></utterance>
+<utterance uid="7-15"><speaker>WILSON</speaker><content> Why don't you want to go with me?</content></utterance>
+<utterance uid="7-16"><speaker>HOUSE</speaker><content>It's a play. Dudes only go to plays if they're dragged by women they're hoping to see naked.</content></utterance>
+<utterance uid="7-17"><speaker>WILSON</speaker><content>So why are you giving them to me?</content></utterance>
+<utterance uid="7-18"><speaker>HOUSE</speaker><content>Maybe there's someone you want to see naked.</content></utterance>
+<utterance uid="7-19"><speaker>WILSON</speaker><content> All right. </content></utterance>
+<utterance uid="7-20"><speaker>HOUSE</speaker><content> Any fever?</content></utterance>
+<utterance uid="7-21"><speaker>EDDIE</speaker><content>No.</content></utterance>
+<utterance uid="7-22"><speaker>HOUSE</speaker><content>Anything in your pee other than pee?</content></utterance>
+<utterance uid="7-23"><speaker>EDDIE</speaker><content>No.</content></utterance>
+<utterance uid="7-24"><speaker>HOUSE</speaker><content>I'm going to need a urine sample.</content></utterance>
+<utterance uid="7-25"><speaker>EDDIE</speaker><content>No!</content></utterance>
+<utterance uid="7-26"><speaker>HOUSE</speaker><content>Yeah that last one wasn't a question. You might have diabetes...</content></utterance>
+<utterance uid="7-27"><speaker>EDDIE</speaker><content>I can't pee in public.</content></utterance>
+<utterance uid="7-28"><speaker>HOUSE</speaker><content>We have bathrooms.</content></utterance>
+<utterance uid="7-29"><speaker>EDDIE</speaker><content>I can't pee in public bathrooms.</content></utterance>
+<utterance uid="7-30"><speaker>HOUSE</speaker><content>Where can you pee?</content></utterance>
+<utterance uid="7-31"><speaker>EDDIE</speaker><content>I only live a few miles from here.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>DERAN</speaker><content>I though arthritis was for old people.</content></utterance>
+<utterance uid="8-2"><speaker>FOREMAN</speaker><content>JRA is an autoimmune disease. Her body is attacking itself, causing inflammation in the joints, her eyes and her heart.</content></utterance>
+<utterance uid="8-3"><speaker>DERAN</speaker><content>Is it treatable?</content></utterance>
+<utterance uid="8-4"><speaker>FOREMAN</speaker><content>It can be crippling, but it can also go into complete remission. The good thing is we caught it early. It gives her the best chance to have a positive outcome.</content></utterance>
+<utterance uid="8-5"><speaker>DERAN</speaker><content>Don't get up, Goosy, your stitches. </content></utterance>
+<utterance uid="8-6"><speaker>FOREMAN</speaker><content> She's having a stroke.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>FOREMAN</speaker><content>The stroke was caused by a clot in her middle cerebral artery. Started her on TPA. It should dissolve the clot and hopefully prevent brain damage, but we wont know for sure until she regains consciousness.</content></utterance>
+<utterance uid="9-2"><speaker>HOUSE</speaker><content>Or she has another stroke. Arthritis, heart disease, why can't this kid act her age?</content></utterance>
+<utterance uid="9-3"><speaker>FOREMAN</speaker><content>JRA doesn't affect the blood, means the clot’s a symptom of something else. </content></utterance>
+<utterance uid="9-4"><speaker>CAMERON</speaker><content>It's a symptom of polycythemia, she's fully hydrated and her blood's still thicker than pancake batter.</content></utterance>
+<utterance uid="9-5"><speaker>HOUSE</speaker><content>Well thick blood explains the stroke, could also have caused an autoimmune response, which would explain the JRA kicking into gear. But what explains the thick blood?</content></utterance>
+<utterance uid="9-6"><speaker>FOREMAN</speaker><content>Lack of oxygen, forces the body to over produce red cells.</content></utterance>
+<utterance uid="9-7"><speaker>HOUSE</speaker><content>What explains the lack of oxygen?</content></utterance>
+<utterance uid="9-8"><speaker>CHASE</speaker><content>Carbon monoxide fumes, cigarette smoke.</content></utterance>
+<utterance uid="9-9"><speaker>CAMERON</speaker><content>Doubt our patient's a smoker.</content></utterance>
+<utterance uid="9-10"><speaker>CHASE</speaker><content>Dad could be.</content></utterance>
+<utterance uid="9-11"><speaker>CAMERON</speaker><content>He's not.</content></utterance>
+<utterance uid="9-12"><speaker>CHASE</speaker><content> He says he's not.</content></utterance>
+<utterance uid="9-13"><speaker>HOUSE</speaker><content>Hey! Don't make me turn the hose on you two. Chase is right. You two go check the house, see if Dad's a closet Marlboro man.</content></utterance>
+<utterance uid="9-14"><speaker>CAMERON</speaker><content>You're intentionally punishing us.</content></utterance>
+<utterance uid="9-15"><speaker>HOUSE</speaker><content>By making you do your job? Does seem kind of cruel doesn't it? Take along a carbon monoxide detector to check for leaks and you  start her on hydroxyurea to control her red blood cell production. Take out a Merck Manual, medieval edition, tell you how to drain a pint or two so she doesn't clot again.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>JASPER</speaker><content>Dr. Cameron!  I got you flowers, for helping my sister.</content></utterance>
+<utterance uid="10-2"><speaker>CAMERON</speaker><content> That's so sweet. </content></utterance>
+<utterance uid="10-3"><speaker>CHASE</speaker><content>Does your dad know you're down here?</content></utterance>
+<utterance uid="10-4"><speaker>JASPER</speaker><content>Yes.</content></utterance>
+<utterance uid="10-5"><speaker>CHASE</speaker><content> Congratulations on your bundle of joy.  Something you forgot to tell me? </content></utterance>
+<utterance uid="10-6"><speaker>CAMERON</speaker><content> You should take these back to where you found them.</content></utterance>
+<utterance uid="10-7"><speaker>JASPER</speaker><content>Okay. </content></utterance>
+<utterance uid="10-8"><speaker>CHASE</speaker><content> Excuse me? Can you make sure these flowers and this kid both get back to where they belong?</content></utterance>
+<utterance uid="10-9"><speaker>SECURITY GUARD</speaker><content>Sure.</content></utterance>
+<utterance uid="10-10"><speaker>CHASE</speaker><content>Thanks.</content></utterance>
+<utterance uid="10-11"><speaker>SECURITY GUARD</speaker><content> Lets go. C 'mon. </content></utterance>
+<utterance uid="10-12"><speaker>CAMERON</speaker><content>Wait. </content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>DERAN</speaker><content>So you're just draining blood from her? You're not testing it, you're not fixing it?</content></utterance>
+<utterance uid="11-2"><speaker>FOREMAN</speaker><content>Your daughters vascular system is engorged with blood, draining some reduces the chances of another stroke. We're also starting her on a drug that suppresses the production of red cells so we don't have to keep doing this. Good chance she'll make a full recovery.</content></utterance>
+<utterance uid="11-3"><speaker>DERAN</speaker><content>She hasn't spoken yet.</content></utterance>
+<utterance uid="11-4"><speaker>FOREMAN</speaker><content>Give her time.</content></utterance>
+<utterance uid="11-5"><speaker>SECURITY GUARD</speaker><content>This your boy?</content></utterance>
+<utterance uid="11-6"><speaker>DERAN</speaker><content> Where have you been?</content></utterance>
+<utterance uid="11-7"><speaker>JASPER</speaker><content>Exploring.  Seeya.</content></utterance>
+<utterance uid="11-8"><speaker>DERAN</speaker><content>Thank you.   You know you just can't run off without telling me.</content></utterance>
+<utterance uid="11-9"><speaker>JASPER</speaker><content>Ok. Can I have two dollars?</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>CHASE</speaker><content>Oven's a long shot. You'd smell the gas long before anyone got sick.</content></utterance>
+<utterance uid="12-2"><speaker>CAMERON</speaker><content>Yeah right, House loves it when we skip something because it's a long shot. </content></utterance>
+<utterance uid="12-3"><speaker>CHASE</speaker><content>Why did you take the flower? Why'd you kiss him?</content></utterance>
+<utterance uid="12-4"><speaker>CAMERON</speaker><content>He did something sweet.</content></utterance>
+<utterance uid="12-5"><speaker>CHASE</speaker><content>He STOLE flowers!</content></utterance>
+<utterance uid="12-6"><speaker>CAMERON</speaker><content>He's eight.</content></utterance>
+<utterance uid="12-7"><speaker>CHASE</speaker><content>You're trying to make me jealous.</content></utterance>
+<utterance uid="12-8"><speaker>CAMERON</speaker><content> Yeah, I want you to profess your love for me. Oh wait, you already did that and it caused me to end our relationship. </content></utterance>
+<utterance uid="12-9"><speaker>CHASE</speaker><content>You're enabling a thief.  And a delinquent!  Letters from school, fights, detentions, a parent conference. Oh, I know, I know, bad boys are hard to resist.</content></utterance>
+<utterance uid="12-10"><speaker>CAMERON</speaker><content>It's a crush. It's harmless.</content></utterance>
+<utterance uid="12-11"><speaker>CHASE</speaker><content>It's never harmless.</content></utterance>
+<utterance uid="12-12"><speaker>CAMERON</speaker><content>So I'm learning.</content></utterance>
+<utterance uid="12-13"><speaker>CHASE</speaker><content> So this is us now? We snipe at each other?</content></utterance>
+<utterance uid="12-14"><speaker>CAMERON</speaker><content>I'm not sniping I'm looking for a vent. Her room's directly above the garage. There's all sorts of CO sources down there.  I found a vent, I think there's something in it.</content></utterance>
+<utterance uid="12-15"><speaker>CHASE</speaker><content> This isn't right. You dumped me, you don't get to be mad.</content></utterance>
+<utterance uid="12-16"><speaker>CAMERON</speaker><content>We had a really good thing. You broke the rules, I'm angry. I'll get over it.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>CAMERON</speaker><content>She's being abused.</content></utterance>
+<utterance uid="13-2"><speaker>FOREMAN</speaker><content>A bloody t-shirt doesn't equal abuse. Kids get hurt all the time.</content></utterance>
+<utterance uid="13-3"><speaker>CHASE</speaker><content>That amount of blood?</content></utterance>
+<utterance uid="13-4"><speaker>FOREMAN</speaker><content> Oh crap. You two are agreeing again.</content></utterance>
+<utterance uid="13-5"><speaker>CAMERON</speaker><content>Father's overwhelmed, hectic job, his wife passed away last year. He could easily be taking it out on the kids.</content></utterance>
+<utterance uid="13-6"><speaker>FOREMAN</speaker><content>Or she had a nosebleed and grabbed a t-shirt.</content></utterance>
+<utterance uid="13-7"><speaker>CHASE</speaker><content>She's so ashamed of a nosebleed she has to hide the evidence in a vent under her bed?</content></utterance>
+<utterance uid="13-8"><speaker>CAMERON</speaker><content>She's socially isolated, the brother's always in trouble its classic signs...</content></utterance>
+<utterance uid="13-9"><speaker>FOREMAN</speaker><content>But no physical signs. No marks on her body, no bruises at all.</content></utterance>
+<utterance uid="13-10"><speaker>CAMERON</speaker><content> What if it's sexual? We should call social services.</content></utterance>
+<utterance uid="13-11"><speaker>HOUSE</speaker><content>Well this sucks. Either it's abuse or it's not abuse. Which means either it's a symptom or it's completely irrelevant. Either way we have to waste half a day figuring out which. Full physical exam. Look for bruises we may have missed, check her mouth and do a vaginal exam.</content></utterance>
+<utterance uid="13-12"><speaker>CHASE</speaker><content>We can't do a vaginal exam on a 6 year old without the Dad's consent and if he's abusing her he'll never say yes.</content></utterance>
+<utterance uid="13-13"><speaker>HOUSE</speaker><content>Never is just reven spelt backwards. </content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>FOREMAN</speaker><content>Have you been abusing your daughter?</content></utterance>
+<utterance uid="14-2"><speaker>DERAN</speaker><content>What? Why would you...</content></utterance>
+<utterance uid="14-3"><speaker>FOREMAN</speaker><content>We found this.  Hidden in a vent under her bed.</content></utterance>
+<utterance uid="14-4"><speaker>DERAN</speaker><content>I don't know anything about this. Maybe she had a bloody nose?</content></utterance>
+<utterance uid="14-5"><speaker>FOREMAN</speaker><content>We need to examine her for abuse.</content></utterance>
+<utterance uid="14-6"><speaker>DERAN</speaker><content>You can't really think that I...</content></utterance>
+<utterance uid="14-7"><speaker>FOREMAN</speaker><content>Maybe you, maybe the school bully, maybe the creepy neighbour. I'm guessing that you're not paying as much attention as you should be. Do you even know where your son is right now?</content></utterance>
+<utterance uid="14-8"><speaker>DERAN</speaker><content>Yeah he was here just...  a minute ago.  She isn't being abused.</content></utterance>
+<utterance uid="14-9"><speaker>FOREMAN</speaker><content>Unfortunately that answer doesn't help me. If you have abused her you're obviously going to lie.</content></utterance>
+<utterance uid="14-10"><speaker>DERAN</speaker><content>I'm not lying!</content></utterance>
+<utterance uid="14-11"><speaker>FOREMAN</speaker><content>We need to do a vaginal exam.</content></utterance>
+<utterance uid="14-12"><speaker>DERAN</speaker><content>No. She may be dying, she still can't talk and you're going to waste your time with THIS?</content></utterance>
+<utterance uid="14-13"><speaker>FOREMAN</speaker><content>You consent and we waste a few hours doing an exam or you refuse and I call social services, and they waste three days doing an investigation, which ends with them doing the exam anyway.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>CAMERON</speaker><content>Ok, I'm going to look inside your mouth, open wide.  Ok, I'm going to look at your chest and your back next. Ok?  I know you can't talk so stop me if you get scared.  Before you came here, did anyone hurt you? Make you bleed?  I need to look in your vagina now, do you understand? I'm a doctor so it's ok, all right? Bend your knees, keep your ankles together and just let your knees fall to the side, ok?  Oh my God.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>CAMERON</speaker><content>She has cuts all over her genital area, like slices, some are almost healed but some are new.</content></utterance>
+<utterance uid="16-2"><speaker>CHASE</speaker><content>She could be doing it to herself.</content></utterance>
+<utterance uid="16-3"><speaker>FOREMAN</speaker><content>She's a little young to be cutting.</content></utterance>
+<utterance uid="16-4"><speaker>CHASE</speaker><content>She's a little young for a stroke. Depression accounts for the cuts, molestation accounts for the depression.</content></utterance>
+<utterance uid="16-5"><speaker>FOREMAN</speaker><content>But do the cuts account for all that blood?</content></utterance>
+<utterance uid="16-6"><speaker>CAMERON</speaker><content>They weren't deep enough.</content></utterance>
+<utterance uid="16-7"><speaker>CHASE</speaker><content>So she's getting cut but that's not the source of the blood?</content></utterance>
+<utterance uid="16-8"><speaker>FOREMAN</speaker><content>The other obvious source is forcible penetration.</content></utterance>
+<utterance uid="16-9"><speaker>CHASE</speaker><content>The other obvious source of the blood, not the cuts.</content></utterance>
+<utterance uid="16-10"><speaker>CAMERON</speaker><content>And there was no tearing, there's no evidence at all.</content></utterance>
+<utterance uid="16-11"><speaker>CHASE</speaker><content>So we have no explanation for the cuts or the blood.  Where is he?</content></utterance>
+<utterance uid="16-12"><speaker>FOREMAN</speaker><content>What if our original assumption was wrong?</content></utterance>
+<utterance uid="16-13"><speaker>CAMERON</speaker><content>Meaning what?</content></utterance>
+<utterance uid="16-14"><speaker>FOREMAN</speaker><content>We found a t-shirt covered with blood hidden in a heating vent. How do we know it's even hers?</content></utterance>
+<utterance uid="16-15"><speaker>CHASE</speaker><content>Her Dad identified it.</content></utterance>
+<utterance uid="16-16"><speaker>FOREMAN</speaker><content>Not the shirt. The blood.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>EDDIE</speaker><content>Are those the urine test results?</content></utterance>
+<utterance uid="17-2"><speaker>HOUSE</speaker><content>Yes.</content></utterance>
+<utterance uid="17-3"><speaker>EDDIE</speaker><content>And…</content></utterance>
+<utterance uid="17-4"><speaker>HOUSE</speaker><content>I'm going to ask you for some blood.</content></utterance>
+<utterance uid="17-5"><speaker>EDDIE</speaker><content>Why?</content></utterance>
+<utterance uid="17-6"><speaker>HOUSE</speaker><content>To see if your answer will be 'I can't bleed in public'. This wasn't your urine was it?</content></utterance>
+<utterance uid="17-7"><speaker>EDDIE</speaker><content>Why would I give you someone else's urine?</content></utterance>
+<utterance uid="17-8"><speaker>HOUSE</speaker><content>Usual reason is because you're on steroids.</content></utterance>
+<utterance uid="17-9"><speaker>EDDIE</speaker><content>I'm not an athlete.</content></utterance>
+<utterance uid="17-10"><speaker>HOUSE</speaker><content>Duh. The second favourite reason is because you're on drugs.</content></utterance>
+<utterance uid="17-11"><speaker>EDDIE</speaker><content>I'm not.</content></utterance>
+<utterance uid="17-12"><speaker>HOUSE</speaker><content>I am. Third favourite reason is — you have insurance but your friend, Eggs Benedict, doesn't. So Eggs describes a list of symptoms and you repeat them to a doctor. Which is particularly stupid because this is a free clinic.</content></utterance>
+<utterance uid="17-13"><speaker>CUDDY</speaker><content>Need you, now. </content></utterance>
+<utterance uid="17-14"><speaker>HOUSE</speaker><content>My work here is done. </content></utterance>
+<utterance uid="17-15"><speaker>EDDIE</speaker><content>Am… I… ok? Is it diabetes?</content></utterance>
+<utterance uid="17-16"><speaker>HOUSE</speaker><content>No, you're pregnant.</content></utterance>
+<utterance uid="17-17"><speaker>CUDDY</speaker><content>6-year-old abuse victim and you haven't called social services?</content></utterance>
+<utterance uid="17-18"><speaker>HOUSE</speaker><content>She might have been abused. That's horrifying. Why are you wearing extra concealer under your eyes?</content></utterance>
+<utterance uid="17-19"><speaker>CUDDY</speaker><content>The law's clear, you suspect abuse you call the authorities. You don't proceed as usual while the possible abuser sits by her bedside.</content></utterance>
+<utterance uid="17-20"><speaker>HOUSE</speaker><content>Dad consented to the exam, which means it's not the Dad. How late were you out last night?</content></utterance>
+<utterance uid="17-21"><speaker>CUDDY</speaker><content>It's always the Dad and I don't have a curfew.</content></utterance>
+<utterance uid="17-22"><speaker>HOUSE</speaker><content> Panty hamster get a spin on its wheel?</content></utterance>
+<utterance uid="17-23"><speaker>CUDDY</speaker><content>I went to a play,  House you are going back to your office, you are picking up your phone, calling social services and you are reporting suspected abuse. Do you understand?</content></utterance>
+<utterance uid="17-24"><speaker>HOUSE</speaker><content>What play?</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>HOUSE</speaker><content>You're trying to have sex with Cuddy.</content></utterance>
+<utterance uid="18-2"><speaker>WILSON</speaker><content> Fries?</content></utterance>
+<utterance uid="18-3"><speaker>HOUSE</speaker><content>You took her to a play. You only take women to plays because...</content></utterance>
+<utterance uid="18-4"><speaker>WILSON</speaker><content>No, YOU only take women to plays for that reason. That's your theory.</content></utterance>
+<utterance uid="18-5"><speaker>HOUSE</speaker><content>Ok, then why did you take her to a play?</content></utterance>
+<utterance uid="18-6"><speaker>WILSON</speaker><content>She's a friend.</content></utterance>
+<utterance uid="18-7"><speaker>HOUSE</speaker><content>A friend with a squish mitten.</content></utterance>
+<utterance uid="18-8"><speaker>WILSON</speaker><content>It is possible to have a friend of the opposite sex without...</content></utterance>
+<utterance uid="18-9"><speaker>HOUSE</speaker><content>Blasphemer! She's not a friend of the opposite sex, she's a different species.  She's an administrator. She's going to eat your head after she's done.</content></utterance>
+<utterance uid="18-10"><speaker>WILSON</speaker><content>Yes, I slept with her.</content></utterance>
+<utterance uid="18-11"><speaker>HOUSE</speaker><content> Seriously?</content></utterance>
+<utterance uid="18-12"><speaker>WILSON</speaker><content>No.</content></utterance>
+<utterance uid="18-13"><speaker>HOUSE</speaker><content> Yes you did.</content></utterance>
+<utterance uid="18-14"><speaker>WILSON</speaker><content> Yes I did.</content></utterance>
+<utterance uid="18-15"><speaker>HOUSE</speaker><content> Seriously?</content></utterance>
+<utterance uid="18-16"><speaker>WILSON</speaker><content>No. You've got a problem House.</content></utterance>
+<utterance uid="18-17"><speaker>FOREMAN</speaker><content>We just tested the blood on Lucy's t-shirt. It's full of endometrial cells.</content></utterance>
+<utterance uid="18-18"><speaker>HOUSE</speaker><content>It's not her blood.</content></utterance>
+<utterance uid="18-19"><speaker>FOREMAN</speaker><content>We tested that too. It is.</content></utterance>
+<utterance uid="18-20"><speaker>WILSON</speaker><content>Your 6-year-old patient?</content></utterance>
+<utterance uid="18-21"><speaker>FOREMAN</speaker><content>It's menstrual blood. She's started puberty.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>DERAN</speaker><content>How can someone start puberty before they even start the first grade? She was in diapers two years ago.</content></utterance>
+<utterance uid="19-2"><speaker>CAMERON</speaker><content>For some reason her body has too much sex hormone. Caused her reproductive system to get confused, start operating prematurely. We need to find out the source of the hormones and cut it off.</content></utterance>
+<utterance uid="19-3"><speaker>DERAN</speaker><content>She's so young. I haven't even talked to her about sex. I doubt she even knows what a period is... Girls talk to their moms about that.  You're going to be ok, Goosy. I love you.</content></utterance>
+<utterance uid="19-4"><speaker>LUCY</speaker><content>I... want... juice.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>CAMERON</speaker><content>She got her period and didn't know what it was. She was scared and confused. A friend told her to put a t-shirt in her underwear. When she started growing pubic hair, she snuck Daddy's razor and tried to shave it off.</content></utterance>
+<utterance uid="20-2"><speaker>HOUSE</speaker><content>Apparently forgot to sneak the shaving cream.</content></utterance>
+<utterance uid="20-3"><speaker>FOREMAN</speaker><content>A tumour's most likely. A pituitary adenoma would send her hormone levels sky high.</content></utterance>
+<utterance uid="20-4"><speaker>CAMERON</speaker><content>In Puerto Rico in the 70s there was an epidemic of kids growing breasts because of estrogen in the poultry.</content></utterance>
+<utterance uid="20-5"><speaker>CHASE</speaker><content>If it was in the food it would be an epidemic. We've got one kid.</content></utterance>
+<utterance uid="20-6"><speaker>CAMERON</speaker><content>She's 6. She's tiny. She lives on chicken fingers and milk. Dad doesn't look like the type to read labels. He's probably buying stuff packed full of hormones.</content></utterance>
+<utterance uid="20-7"><speaker>HOUSE</speaker><content>Excellent argument.  It's a tumour.</content></utterance>
+<utterance uid="20-8"><speaker>CAMERON</speaker><content>There's all sorts of environmental sources. Pesticides, soy products… Some shampoos are basically a placenta in a bottle.</content></utterance>
+<utterance uid="20-9"><speaker>HOUSE</speaker><content>If the tumour's not in her brain it's in her reproductive tract. Get an MRI. </content></utterance>
+<utterance uid="20-10"><speaker>CAMERON</speaker><content>Can I at least...</content></utterance>
+<utterance uid="20-11"><speaker>HOUSE</speaker><content>Waste your time? Wouldn't recognise you if you didn't.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>FOREMAN</speaker><content>Frontal cortex is clean. Moving caudally.</content></utterance>
+<utterance uid="21-2"><speaker>CHASE</speaker><content>For the record, Cameron's the one who broke it off.</content></utterance>
+<utterance uid="21-3"><speaker>FOREMAN</speaker><content>Not interested. No masses in the hypothalamus.</content></utterance>
+<utterance uid="21-4"><speaker>CHASE</speaker><content>I wanted more. She didn't share my feelings.</content></utterance>
+<utterance uid="21-5"><speaker>FOREMAN</speaker><content>I feel like I'm in a similar position.</content></utterance>
+<utterance uid="21-6"><speaker>CHASE</speaker><content>Pituitary's clean.</content></utterance>
+<utterance uid="21-7"><speaker>FOREMAN</speaker><content>You're an idiot. Either she's lying or she's actually emotionally detached. Which one sounds more like Cameron to you?</content></utterance>
+<utterance uid="21-8"><speaker>CHASE</speaker><content>Neither.</content></utterance>
+<utterance uid="21-9"><speaker>FOREMAN</speaker><content>You have to choose one. There's a bright spot on her left ovary. Looks like a solid tumour.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>HOUSE</speaker><content>They printed my letter. </content></utterance>
+<utterance uid="22-2"><speaker>WILSON</speaker><content>You were right.</content></utterance>
+<utterance uid="22-3"><speaker>HOUSE</speaker><content>Of course I was. What are we talking about?  They printed my letter.</content></utterance>
+<utterance uid="22-4"><speaker>WILSON</speaker><content>Great. Cuddy.</content></utterance>
+<utterance uid="22-5"><speaker>HOUSE</speaker><content>You want to see her naked. </content></utterance>
+<utterance uid="22-6"><speaker>WILSON</speaker><content>No, no, no. She wants to see ME naked. She sent me flowers.</content></utterance>
+<utterance uid="22-7"><speaker>HOUSE</speaker><content>Just thanking you for the play. You see some people fell an emotion called gratitude.</content></utterance>
+<utterance uid="22-8"><speaker>WILSON</speaker><content>There's a card.</content></utterance>
+<utterance uid="22-9"><speaker>HOUSE</speaker><content>I suspected. Explains how you knew who they were from.</content></utterance>
+<utterance uid="22-10"><speaker>WILSON</speaker><content> Lets do it again. Soon. X X. Lisa. Xs are the kisses right?</content></utterance>
+<utterance uid="22-11"><speaker>HOUSE</speaker><content>No… I think they're the hugs. I think Os are the kisses.</content></utterance>
+<utterance uid="22-12"><speaker>WILSON</speaker><content>No, no, Xs are definitely the kisses. Soon is its own sentence.  I got to go. </content></utterance>
+<utterance uid="22-13"><speaker>HOUSE</speaker><content>I'll miss you. You were a good friend.  They printed my letter. How was the play Mrs. Lincoln?</content></utterance>
+<utterance uid="22-14"><speaker>CUDDY</speaker><content>What's up with Wilson?</content></utterance>
+<utterance uid="22-15"><speaker>HOUSE</speaker><content>He's just a little freaked.</content></utterance>
+<utterance uid="22-16"><speaker>CUDDY</speaker><content>Why?</content></utterance>
+<utterance uid="22-17"><speaker>HOUSE</speaker><content>I sent him flowers. </content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>CAMERON</speaker><content>Jasper, you're not supposed to be up here.</content></utterance>
+<utterance uid="23-2"><speaker>JASPER</speaker><content>Is that other doctor your boyfriend?</content></utterance>
+<utterance uid="23-3"><speaker>CAMERON</speaker><content>No. Your Dad's probably looking for you. He's got enough to worry about right now.</content></utterance>
+<utterance uid="23-4"><speaker>JASPER</speaker><content>Do you like him?</content></utterance>
+<utterance uid="23-5"><speaker>CAMERON</speaker><content>He's a friend.</content></utterance>
+<utterance uid="23-6"><speaker>JASPER</speaker><content>Do you LIKE him like him?</content></utterance>
+<utterance uid="23-7"><speaker>CAMERON</speaker><content>We should get you back to your Dad. Let me put this down and I'll take you there. </content></utterance>
+<utterance uid="23-8"><speaker>JASPER</speaker><content>I could be your boyfriend.</content></utterance>
+<utterance uid="23-9"><speaker>CAMERON</speaker><content> I… think that wouldn't be fair to the girls your own age.</content></utterance>
+<utterance uid="23-10"><speaker>JASPER</speaker><content>He seems like a tool.</content></utterance>
+<utterance uid="23-11"><speaker>CAMERON</speaker><content>He's not. And that's rude. I'm taking you back to your father. </content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>FOREMAN</speaker><content> The mass is small. About a centimetre across.</content></utterance>
+<utterance uid="24-2"><speaker>CHASE</speaker><content>Firing the biopsy needle.</content></utterance>
+<utterance uid="24-3"><speaker>FOREMAN</speaker><content>You nick an artery?</content></utterance>
+<utterance uid="24-4"><speaker>CHASE</speaker><content>No.</content></utterance>
+<utterance uid="24-5"><speaker>FOREMAN</speaker><content>She's in VTAC, no pulse.  Charging 50! Clear!  Clear!  Clear! </content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>CHASE</speaker><content>The arrhythmia must've been a reaction to the hydroxyurea. We have to stop the drug therapy.</content></utterance>
+<utterance uid="25-2"><speaker>CAMERON</speaker><content>The bone marrow will just go back to over producing blood cells. She'll keep having strokes and we'll have to keep bleeding her, forever.</content></utterance>
+<utterance uid="25-3"><speaker>CHASE</speaker><content>You resect the tumour, hormones levels go back to normal and her symptoms go away.</content></utterance>
+<utterance uid="25-4"><speaker>FOREMAN</speaker><content> Great plan. Except the fact that her tumour's not a tumour. It's a benign cyst.</content></utterance>
+<utterance uid="25-5"><speaker>CAMERON</speaker><content> If it's not a tumour that just leaves an environmental source. </content></utterance>
+<utterance uid="25-6"><speaker>FOREMAN</speaker><content>I'm feeling another late night... I'm gonna leave you two alone. </content></utterance>
+<utterance uid="25-7"><speaker>CAMERON</speaker><content>You're kidding me right?</content></utterance>
+<utterance uid="25-8"><speaker>FOREMAN</speaker><content>What? The answer's right there, it's just a question of finding it. You don't need me for that. </content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>CAMERON</speaker><content>Don't get the mochachino. They screwed up and put hot chocolate in the dispenser.</content></utterance>
+<utterance uid="26-2"><speaker>CHASE</speaker><content>Thank you.</content></utterance>
+<utterance uid="26-3"><speaker>CAMERON</speaker><content>You were right. That eight-year-old kid grabbed my ass. I shouldn't have encouraged him.</content></utterance>
+<utterance uid="26-4"><speaker>CHASE</speaker><content> Well, I was a boy once. I know how they think.</content></utterance>
+<utterance uid="26-5"><speaker>CAMERON</speaker><content>You were a pervert at 8?</content></utterance>
+<utterance uid="26-6"><speaker>CHASE</speaker><content>Maybe... 11. </content></utterance>
+<utterance uid="26-7"><speaker>CAMERON</speaker><content>I didn't realise you were going to get hurt. I'm sorry I misled you.</content></utterance>
+<utterance uid="26-8"><speaker>CHASE</speaker><content>You didn't. You have feelings for me. You come back to me again and again.</content></utterance>
+<utterance uid="26-9"><speaker>CAMERON</speaker><content>For sex. It's a simple, physical...</content></utterance>
+<utterance uid="26-10"><speaker>CHASE</speaker><content>C'mon, you have feelings for puppies and patients that you barely know, but when it comes to a guy that you've worked with for 3 years?  Had sex with, spent the night with, you're telling me you feel nothing? Absolutely nothing?</content></utterance>
+<utterance uid="26-11"><speaker>JASPER</speaker><content> Get away from her! Don't touch her! I'll kill you if you touch her. </content></utterance>
+<utterance uid="26-12"><speaker>CAMERON</speaker><content>Jasper!</content></utterance>
+<utterance uid="26-13"><speaker>CHASE</speaker><content>Get him off!  AHH! He's biting me! Get him off! AHH! </content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>HOUSE</speaker><content> Somebody better be dying.</content></utterance>
+<utterance uid="27-2"><speaker>CAMERON</speaker><content>Lucy's big brother's got a crush on me so he bit the crap out of Chase.</content></utterance>
+<utterance uid="27-3"><speaker>HOUSE</speaker><content>And I care because?</content></utterance>
+<utterance uid="27-4"><speaker>CHASE</speaker><content>Just thought you might want to know when one of your employees gets attacked by a sociopath.</content></utterance>
+<utterance uid="27-5"><speaker>HOUSE</speaker><content>Bees or monkeys yes, sociopaths no.</content></utterance>
+<utterance uid="27-6"><speaker>CAMERON</speaker><content>Hello?</content></utterance>
+<utterance uid="27-7"><speaker>HOUSE</speaker><content>He's not a sociopath.</content></utterance>
+<utterance uid="27-8"><speaker>CAMERON</speaker><content>How do you know?</content></utterance>
+<utterance uid="27-9"><speaker>HOUSE</speaker><content>He's acting logically. He's got a crush on you. He's being aggressive about it. Not just regular aggressive. He's out of his mind on hormones aggressive.</content></utterance>
+<utterance uid="27-10"><speaker>CHASE</speaker><content>You think he's...</content></utterance>
+<utterance uid="27-11"><speaker>HOUSE</speaker><content>Better figure out what's killing the girl cause her brother's got it too.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>CHASE</speaker><content>Jasper's got 100 times more testosterone than a healthy 8-year-old. But we scanned his brain and reproductive tract, no hormone secreting tumours.</content></utterance>
+<utterance uid="28-2"><speaker>FOREMAN</speaker><content>Not surprised. What's more likely? Brother and sister get the same type of tumour at exactly the same time or they both play in the same toxic sandbox?</content></utterance>
+<utterance uid="28-3"><speaker>CAMERON</speaker><content>Yes you would think that if for some reason you were completely unaware of the fact that we spent the entire night testing everything from that home. It was all negative.</content></utterance>
+<utterance uid="28-4"><speaker>HOUSE</speaker><content> You went home?  Good for you. Delegate.</content></utterance>
+<utterance uid="28-5"><speaker>CAMERON</speaker><content>We're not his subordinates.</content></utterance>
+<utterance uid="28-6"><speaker>HOUSE</speaker><content>Making it all the more impressive.</content></utterance>
+<utterance uid="28-7"><speaker>CHASE</speaker><content>What if it's genetic?  What, anyone else think it's more than a coincidence these kids have symptoms that could be caused by a brain tumour which is exactly what killed their mum?</content></utterance>
+<utterance uid="28-8"><speaker>FOREMAN</speaker><content>You just said there were no tumours. We scanned both their brains.</content></utterance>
+<utterance uid="28-9"><speaker>CHASE</speaker><content>They looked clean. So did their mum's until it didn't.</content></utterance>
+<utterance uid="28-10"><speaker>CAMERON</speaker><content>It can't be genetic. Mom had none of the same symptoms.</content></utterance>
+<utterance uid="28-11"><speaker>CHASE</speaker><content>Yes she did, if the symptoms were pubic hair and menstruation.</content></utterance>
+<utterance uid="28-12"><speaker>CAMERON</speaker><content> That's ridiculous. If menstruation is a symptom of brain cancer then I should be on chemo right now.</content></utterance>
+<utterance uid="28-13"><speaker>HOUSE</speaker><content>That's ridiculous. You're way too skinny to be menstruating.</content></utterance>
+<utterance uid="28-14"><speaker>CHASE</speaker><content>What if the mum had other problems? Symptoms her doctors ignored on account of the fact she was already dying.</content></utterance>
+<utterance uid="28-15"><speaker>HOUSE</speaker><content>Pull all of her medical records, find any similarities to our patients, and punch the little brat on the nose so he doesn't have a stroke like his sister. </content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>JASPER</speaker><content>I'm not sick.</content></utterance>
+<utterance uid="29-2"><speaker>FOREMAN</speaker><content>Just trying to keep you that way.</content></utterance>
+<utterance uid="29-3"><speaker>JASPER</speaker><content>I want Dr. Cameron to do mine.</content></utterance>
+<utterance uid="29-4"><speaker>FOREMAN</speaker><content> Trust me, you don't want her cutting you right now. </content></utterance>
+<utterance uid="29-5"><speaker>DERAN</speaker><content>So Jasper's behavioural issues?</content></utterance>
+<utterance uid="29-6"><speaker>FOREMAN</speaker><content>Could be a function of the increased testosterone. Hopefully, he'll be a delight, as soon as we figure this out.</content></utterance>
+<utterance uid="29-7"><speaker>LUCY</speaker><content> My tummy hurts, it hurts! </content></utterance>
+<utterance uid="29-8"><speaker>JASPER</speaker><content>No it doesn't. Don't be such a baby.</content></utterance>
+<utterance uid="29-9"><speaker>LUCY</speaker><content>My tummy hurts!</content></utterance>
+<utterance uid="29-10"><speaker>FOREMAN</speaker><content>Where on your tummy?</content></utterance>
+<utterance uid="29-11"><speaker>LUCY</speaker><content> It hurts! It hurts! </content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>FOREMAN</speaker><content>Stomach pain is from a cyst in her pancreas. Found two more in her kidneys and one in her lung. They weren't there 48 hours ago. The hormones are making her body go haywire.</content></utterance>
+<utterance uid="30-2"><speaker>HOUSE</speaker><content>If she gets one in her brain or heart, she's dead.  No pressure though.</content></utterance>
+<utterance uid="30-3"><speaker>CHASE</speaker><content>Mum was perfectly healthy until she got cancer. She had none of the symptoms the kids have.</content></utterance>
+<utterance uid="30-4"><speaker>CAMERON</speaker><content>It's not genetic. It's not environmental. It's got to be a pituitary adenoma.</content></utterance>
+<utterance uid="30-5"><speaker>HOUSE</speaker><content>Yes, that would make complete sense if they had one.</content></utterance>
+<utterance uid="30-6"><speaker>CAMERON</speaker><content>Just because we haven't found anything on the scan doesn't mean it's not there. We should remove her pituitary gland.</content></utterance>
+<utterance uid="30-7"><speaker>HOUSE</speaker><content>Two siblings, same condition. Its got to be genetic or environmental. If you add in ‘same time’ and we're back to just environmental.</content></utterance>
+<utterance uid="30-8"><speaker>CHASE</speaker><content>Yes and that would make complete sense if there was anything in her environment.</content></utterance>
+<utterance uid="30-9"><speaker>HOUSE</speaker><content> Just because we haven't found anything yet.</content></utterance>
+<utterance uid="30-10"><speaker>FOREMAN</speaker><content>She's been out of her environment for 4 days and she's still getting worse.</content></utterance>
+<utterance uid="30-11"><speaker>CAMERON</speaker><content>I'm getting the father's consent. </content></utterance>
+<utterance uid="30-12"><speaker>HOUSE</speaker><content>No!  We have no evidence.</content></utterance>
+<utterance uid="30-13"><speaker>CAMERON</speaker><content>This is YOUR process House. You asked us what 2 + 2 is, we've eliminated every number except for 4. She needs brain surgery. </content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>CAMERON</speaker><content>The ovaries produce sex hormones in response to a signal from the pituitary gland. Since we know the ovaries are fine the most likely cause...</content></utterance>
+<utterance uid="31-2"><speaker>HOUSE</speaker><content> Most likely means she wants to root around inside your little girl's brain without any guarantee that it will work, that's why she's holding off on doing your son.</content></utterance>
+<utterance uid="31-3"><speaker>CAMERON</speaker><content>Dr. House knows that unfortunately we've ruled out every other option. We need to resect Lucy's pituitary before...</content></utterance>
+<utterance uid="31-4"><speaker>HOUSE</speaker><content>Who else visits these kids?</content></utterance>
+<utterance uid="31-5"><speaker>CAMERON</speaker><content>They don't have any family in town.</content></utterance>
+<utterance uid="31-6"><speaker>HOUSE</speaker><content>You got a girlfriend?</content></utterance>
+<utterance uid="31-7"><speaker>DERAN</speaker><content>No one visits.</content></utterance>
+<utterance uid="31-8"><speaker>HOUSE</speaker><content>School?</content></utterance>
+<utterance uid="31-9"><speaker>CAMERON</speaker><content>They don't go to the same school, House I...</content></utterance>
+<utterance uid="31-10"><speaker>HOUSE</speaker><content>Nanny?</content></utterance>
+<utterance uid="31-11"><speaker>CAMERON</speaker><content>They don't have one.</content></utterance>
+<utterance uid="31-12"><speaker>DERAN</speaker><content>They go to an after school day care but none of the other kids are sick.</content></utterance>
+<utterance uid="31-13"><speaker>HOUSE</speaker><content>Yet. It took your son twice as long to develop symptoms as your daughter, maybe the other kids are just slow.</content></utterance>
+<utterance uid="31-14"><speaker>CAMERON</speaker><content>We wait and your daughter may die.</content></utterance>
+<utterance uid="31-15"><speaker>HOUSE</speaker><content>She does this and your daughter will need hormone replacement therapy for the rest of her life.</content></utterance>
+<utterance uid="31-16"><speaker>CAMERON</speaker><content>The treatments are extremely effective. She should lead a relatively normal life.</content></utterance>
+<utterance uid="31-17"><speaker>HOUSE</speaker><content>And isn't that every parents dream, to have a kid grow up to be relatively normal.</content></utterance>
+<utterance uid="31-18"><speaker>CAMERON</speaker><content>My husband died of thyroid cancer that metastasised to his brain. I've been there. I know how terrifying this can be. I am telling you this is your best chance to save your daughter’s life.</content></utterance>
+<utterance uid="31-19"><speaker>HOUSE</speaker><content> You did NOT just play the dead husband card.  My wife died because she signed a consent form that I didn't want her to sign. Died.</content></utterance>
+<utterance uid="31-20"><speaker>CAMERON</speaker><content>Thank you. </content></utterance>
+<utterance uid="31-21"><speaker>HOUSE</speaker><content>How did you know?</content></utterance>
+<utterance uid="31-22"><speaker>DERAN</speaker><content> Know what?</content></utterance>
+<utterance uid="31-23"><speaker>HOUSE</speaker><content>That the other kids weren't sick. You've been here for 4 days.</content></utterance>
+<utterance uid="31-24"><speaker>DERAN</speaker><content>I just... I would've heard. </content></utterance>
+<utterance uid="31-25"><speaker>HOUSE</speaker><content>Right...</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>HOUSE</speaker><content> Do you have hair on your special place?</content></utterance>
+<utterance uid="32-2"><speaker>LITTLE GIRL</speaker><content>Miss Janie! </content></utterance>
+<utterance uid="32-3"><speaker>JANIE</speaker><content>Can I help you?</content></utterance>
+<utterance uid="32-4"><speaker>HOUSE</speaker><content>I'm a doctor. Two of your kids are sick and I need to know why.</content></utterance>
+<utterance uid="32-5"><speaker>JANIE</speaker><content>You think they got sick here?</content></utterance>
+<utterance uid="32-6"><speaker>HOUSE</speaker><content>I think you're dating their Dad.</content></utterance>
+<utterance uid="32-7"><speaker>JANIE</speaker><content>He told you?</content></utterance>
+<utterance uid="32-8"><speaker>HOUSE</speaker><content>No, but I don't really care why he didn't. I just need to know how often you go to their house and what you bring.</content></utterance>
+<utterance uid="32-9"><speaker>JANIE</speaker><content>I don't.</content></utterance>
+<utterance uid="32-10"><speaker>HOUSE</speaker><content>Shampoos, fancy soaps, kids get in your bag?</content></utterance>
+<utterance uid="32-11"><speaker>JANIE</speaker><content>I've never been to their house. They just lost their mom, and we thought it was too soon.  Why are you staring at me?</content></utterance>
+<utterance uid="32-12"><speaker>HOUSE</speaker><content>Lip wax?</content></utterance>
+<utterance uid="32-13"><speaker>JANIE</speaker><content>I just had it done over lunch.</content></utterance>
+<utterance uid="32-14"><speaker>HOUSE</speaker><content> Mani-pedi?</content></utterance>
+<utterance uid="32-15"><speaker>JANIE</speaker><content> No, just the wax.</content></utterance>
+<utterance uid="32-16"><speaker>HOUSE</speaker><content>Women get a wax as part of a whole self-indulgent beauty ritual — pedicure, steam, cucumber masks. No one runs out at lunch just to get a lip wax, unless you woke up looking like Yosemite Sam.</content></utterance>
+<utterance uid="32-17"><speaker>JANIE</speaker><content>You're an ass.</content></utterance>
+<utterance uid="32-18"><speaker>CAMERON</speaker><content>Cameron.</content></utterance>
+<utterance uid="32-19"><speaker>HOUSE</speaker><content>It's always the Dad.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>HOUSE</speaker><content>Excess facial hair in women, it's a clear sign of hormonal imbalance, exactly what the little kiddies have.</content></utterance>
+<utterance uid="33-2"><speaker>DERAN</speaker><content>Is there something wrong at the Day Care Centre?</content></utterance>
+<utterance uid="33-3"><speaker>HOUSE</speaker><content>There's something wrong in your pants.</content></utterance>
+<utterance uid="33-4"><speaker>DERAN</speaker><content>Oh... She's a lot younger than I am, I... use a male enhancement cream to keep up with her. What does this have to do with...</content></utterance>
+<utterance uid="33-5"><speaker>HOUSE</speaker><content>Never occurred to you to get a prescription instead of some penis pumper loaded with testosterone?</content></utterance>
+<utterance uid="33-6"><speaker>DERAN</speaker><content>I keep it at the gym. I apply it daily in the shower just like it says on the bottle. It's never been in my home. It's obviously never been near the kids.</content></utterance>
+<utterance uid="33-7"><speaker>HOUSE</speaker><content>But you have.</content></utterance>
+<utterance uid="33-8"><speaker>DERAN</speaker><content>We've been through that I'm not a pervert or a paedophile.</content></utterance>
+<utterance uid="33-9"><speaker>HOUSE</speaker><content>30% of our waste is excreted through our skin. That sounds high. That's why you stink after eating garlic. Jack waters his beanstalk everyday for a week and he's oozing bean curd out of his pores for a month. Every time you gave the little tykes a hug you gave them a dose of testosterone, small for you but more then their little bodies could handle.</content></utterance>
+<utterance uid="33-10"><speaker>DERAN</speaker><content>So... I did this to them?  Just holding their hands?</content></utterance>
+<utterance uid="33-11"><speaker>HOUSE</speaker><content>Uh-huh.</content></utterance>
+<utterance uid="33-12"><speaker>DERAN</speaker><content>If I stop using it?</content></utterance>
+<utterance uid="33-13"><speaker>HOUSE</speaker><content>You'll be floppy, they'll be fine.  He'll still be eight. </content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>HOUSE</speaker><content> You ok?</content></utterance>
+<utterance uid="34-2"><speaker>WILSON</speaker><content>Yeah, I think so.</content></utterance>
+<utterance uid="34-3"><speaker>HOUSE</speaker><content> Talk to Cuddy?</content></utterance>
+<utterance uid="34-4"><speaker>WILSON</speaker><content>No, not yet!  I don't know what to say.</content></utterance>
+<utterance uid="34-5"><speaker>HOUSE</speaker><content>Just... be straight with her.</content></utterance>
+<utterance uid="34-6"><speaker>WILSON</speaker><content>I'm not sure what that is. I... I can't stop thinking about her.</content></utterance>
+<utterance uid="34-7"><speaker>HOUSE</speaker><content> In what way?</content></utterance>
+<utterance uid="34-8"><speaker>WILSON</speaker><content>Maybe she's right, maybe... maybe this is worth exploring?</content></utterance>
+<utterance uid="34-9"><speaker>HOUSE</speaker><content> You sure she feels...</content></utterance>
+<utterance uid="34-10"><speaker>WILSON</speaker><content>She sent me flowers! How do I do this? What do I say?</content></utterance>
+<utterance uid="34-11"><speaker>HOUSE</speaker><content>Cameron would tell you to say how you feel. Me, I'd get her drunk.</content></utterance>
+<utterance uid="34-12"><speaker>WILSON</speaker><content> I'm not going to say anything. I'm just going to walk into her office, and I'm going to kiss her. </content></utterance>
+<utterance uid="34-13"><speaker>HOUSE</speaker><content> That's... a bold move, Cuddy likes bold. Yeah, your right, if you spoke you'd say something stupid.</content></utterance>
+<utterance uid="34-14"><speaker>WILSON</speaker><content>Yeah. I mean I'll either get a girlfriend or get fired.  Ok... yea... ok...  You, you, you! You were going to let me do that?!</content></utterance>
+<utterance uid="34-15"><speaker>HOUSE</speaker><content> Well you made a compelling argument.</content></utterance>
+<utterance uid="34-16"><speaker>WILSON</speaker><content>YOU sent those flowers to me!</content></utterance>
+<utterance uid="34-17"><speaker>HOUSE</speaker><content>Yes, because, you took her to a play  because actually you do want to march down there and kiss her.</content></utterance>
+<utterance uid="34-18"><speaker>WILSON</speaker><content>No! I don't!</content></utterance>
+<utterance uid="34-19"><speaker>HOUSE</speaker><content>Yes you do.</content></utterance>
+<utterance uid="34-20"><speaker>WILSON</speaker><content> You're right.</content></utterance>
+<utterance uid="34-21"><speaker>HOUSE</speaker><content> Seriously?</content></utterance>
+<utterance uid="34-22"><speaker>WILSON</speaker><content>No.  You're a jerk. </content></utterance>
+<utterance uid="34-23"><speaker>HOUSE</speaker><content>Night Wilson.</content></utterance>
+<utterance uid="34-24"><speaker>WILSON</speaker><content>Night House.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>CAMERON</speaker><content>They're beautiful.  I thought about what you said, and ... I really don't want a relationship with you.</content></utterance>
+<utterance uid="35-2"><speaker>CHASE</speaker><content>I know. I also know you like flowers. </content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>CUDDY</speaker><content>I don't get the whole May - December thing.</content></utterance>
+<utterance uid="36-2"><speaker>HOUSE</speaker><content>Give him a break, it's May - October at worst.</content></utterance>
+<utterance uid="36-3"><speaker>CUDDY</speaker><content>Well why can't it be October - October?</content></utterance>
+<utterance uid="36-4"><speaker>HOUSE</speaker><content>May is when things start to get hot.</content></utterance>
+<utterance uid="36-5"><speaker>CUDDY</speaker><content> If that guy wasn't trying so hard to keep up with a women half his age he wouldn't have almost killed both his kids.</content></utterance>
+<utterance uid="36-6"><speaker>HOUSE</speaker><content>Guy gets a little something-something, couple of kids have to die, circle of life.</content></utterance>
+<utterance uid="36-7"><speaker>CUDDY</speaker><content>So many people, so much energy and drama just trying to find someone who's almost never the right person anyway. It just... shouldn't be so hard.</content></utterance>
+<utterance uid="36-8"><speaker>HOUSE</speaker><content> I got tickets to a play...</content></utterance>
+</scene>
+</script>

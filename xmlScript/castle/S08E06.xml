@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>JAVIER ESPOSITO</speaker><content>Expect the worst. These guys are beyond dangerous.</content></utterance>
+<utterance uid="1-2"><speaker>KEVIN RYAN</speaker><content>Let’s go.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>DETECTIVE ETHAN SLAUGHTER</speaker><content>Is that all the guys you brought?</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>MARTHA ROGERS</speaker><content>How’re you holding up, kiddo?</content></utterance>
+<utterance uid="3-2"><speaker>CASTLE</speaker><content>Oh … this separation thing is getting really old.</content></utterance>
+<utterance uid="3-3"><speaker>MARTHA</speaker><content>I know. But Katherine is at a crossroads. The loss she suffered when she was young has just changed her in ways that she’s … just now beginning to realize.  Can your mother give you a little unsolicited advice?</content></utterance>
+<utterance uid="3-4"><speaker>CASTLE</speaker><content>No.</content></utterance>
+<utterance uid="3-5"><speaker>MARTHA</speaker><content>Too bad. I need to work on my material.</content></utterance>
+<utterance uid="3-6"><speaker>CASTLE</speaker><content>Your material?</content></utterance>
+<utterance uid="3-7"><speaker>MARTHA</speaker><content>Didn’t I tell you? I’m writing a book. Unsolicited Advice by Martha Rodgers.</content></utterance>
+<utterance uid="3-8"><speaker>CASTLE</speaker><content>That’s –  – that’s actually a great idea.</content></utterance>
+<utterance uid="3-9"><speaker>MARTHA</speaker><content>I know! Isn’t it? Oh, and your agent loved it, too.</content></utterance>
+<utterance uid="3-10"><speaker>CASTLE</speaker><content>My agent?</content></utterance>
+<utterance uid="3-11"><speaker>MARTHA</speaker><content>Never you mind that. Just listen. Have faith. Things between you and Katherine have a tendency to just work themselves out. I think it’s probably good that she’s out of town for a couple of days because a little time apart is just what you need.</content></utterance>
+<utterance uid="3-12"><speaker>CASTLE</speaker><content>What I need is a distraction.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>NEWSCASTER</speaker><content>The burglary, at what has been labeled as New York’s most secure building, is clearly a black eye for billionaire developer Ronald Booth, who’s keeping quiet about exactly what was stored but had this to say earlier...</content></utterance>
+<utterance uid="4-2"><speaker>ALEXIS CASTLE</speaker><content>Hi. Welcome to Richard Castle Investigations.</content></utterance>
+<utterance uid="4-3"><speaker>SLAUGHTER</speaker><content>Wow. You grew up nice.</content></utterance>
+<utterance uid="4-4"><speaker>ALEXIS</speaker><content>I’m sorry, do I know you?</content></utterance>
+<utterance uid="4-5"><speaker>SLAUGHTER</speaker><content>Old friend of your dad’s. Ethan Slaughter.</content></utterance>
+<utterance uid="4-6"><speaker>ALEXIS</speaker><content>Of – of course. Yeah. Let me just tell him you’re here.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>ALEXIS</speaker><content>Def con 1 … Slaughter is here.</content></utterance>
+<utterance uid="5-2"><speaker>CASTLE</speaker><content>Here?  Like right behind the door, here?</content></utterance>
+<utterance uid="5-3"><speaker>ALEXIS</speaker><content>Yeah.</content></utterance>
+<utterance uid="5-4"><speaker>CASTLE</speaker><content>What does he want?</content></utterance>
+<utterance uid="5-5"><speaker>ALEXIS</speaker><content>I don’t know. He just said he was an old friend.</content></utterance>
+<utterance uid="5-6"><speaker>CASTLE</speaker><content>That can’t be good.</content></utterance>
+<utterance uid="5-7"><speaker>MARTHA</speaker><content>Is that the old friend that almost got you killed a few years ago?</content></utterance>
+<utterance uid="5-8"><speaker>CASTLE</speaker><content>Yeah, like six times. Okay, uh … I … uh … I can handle this. I’ll just, uh … I’ll just tell him … I’ll just tell him I’m not interested in, uh … in whatever it is.</content></utterance>
+<utterance uid="5-9"><speaker>SLAUGHTER</speaker><content>Hey, Sherlock! Long time no see.</content></utterance>
+<utterance uid="5-10"><speaker>CASTLE</speaker><content>Hey, Slaughter. Buddy. How’ve you been?</content></utterance>
+<utterance uid="5-11"><speaker>SLAUGHTER</speaker><content>Not enough shootouts, but otherwise stellar.</content></utterance>
+<utterance uid="5-12"><speaker>CASTLE</speaker><content>Yeah. You’re not going to find many shootouts around here.</content></utterance>
+<utterance uid="5-13"><speaker>SLAUGHTER</speaker><content>Ah.</content></utterance>
+<utterance uid="5-14"><speaker>CASTLE</speaker><content>So good seeing you. You should come back again sometime.</content></utterance>
+<utterance uid="5-15"><speaker>SLAUGHTER</speaker><content>Not so fast. We’ve got some business to discuss.</content></utterance>
+<utterance uid="5-16"><speaker>MARTHA</speaker><content>What kind of business?</content></utterance>
+<utterance uid="5-17"><speaker>SLAUGHTER</speaker><content>Ma’am, I don’t believe we’ve had the pleasure.</content></utterance>
+<utterance uid="5-18"><speaker>MARTHA</speaker><content>Don’t ma’am me, darling. I’m Martha Rodgers, Richard Castle is my son, and the last time you did business together he was on anti-anxiety medication for a month.</content></utterance>
+<utterance uid="5-19"><speaker>CASTLE</speaker><content> She’s kidding. Kidder. It was just – just a few weeks.</content></utterance>
+<utterance uid="5-20"><speaker>SLAUGHTER</speaker><content>Well, you got a real mama lion here, Sherlock. But no reason to worry. What I’m here about won’t put you in a lick of danger, I promise.</content></utterance>
+<utterance uid="5-21"><speaker>ALEXIS</speaker><content>Hmm. And what’s that?</content></utterance>
+<utterance uid="5-22"><speaker>SLAUGHTER</speaker><content>A case I’m working on, I need help with. High end burglary in this big shiny building in Midtown.</content></utterance>
+<utterance uid="5-23"><speaker>ALEXIS</speaker><content>The most secure building in New York? I just watched a news report about it.</content></utterance>
+<utterance uid="5-24"><speaker>SLAUGHTER</speaker><content>Yeah. Seems somebody was able to bypass the alarm system and steal themselves a top secret microchip. The whole thing’s above my intellectual pay grade, so I thought Sherlock here could help me out.</content></utterance>
+<utterance uid="5-25"><speaker>CASTLE</speaker><content>I – I thought you were gang taskforce?</content></utterance>
+<utterance uid="5-26"><speaker>SLAUGHTER</speaker><content>Oh yeah. I got tired of that. I moved on to a whole new class of dirtbags.</content></utterance>
+<utterance uid="5-27"><speaker>CASTLE</speaker><content>I’m flattered you thought of me, that’s – my – my schedule is so full.</content></utterance>
+<utterance uid="5-28"><speaker>ALEXIS</speaker><content>Yeah, we’re swamped.</content></utterance>
+<utterance uid="5-29"><speaker>MARTHA</speaker><content>Completely swamped.</content></utterance>
+<utterance uid="5-30"><speaker>CASTLE</speaker><content>Completely.</content></utterance>
+<utterance uid="5-31"><speaker>SLAUGHTER</speaker><content>Okay. You don’t have to tell me twice. I got it. Great to see you again, Sherlock. I got some stories I was going to tell you to help you with your next book. Like this time I was chasing this cartel hit team through the sewers for three days, but that’s just going to have to be for another time.  Ciao!</content></utterance>
+<utterance uid="5-32"><speaker>CASTLE</speaker><content> Cartel hit team.</content></utterance>
+<utterance uid="5-33"><speaker>MARTHA</speaker><content>Be strong, Richard.</content></utterance>
+<utterance uid="5-34"><speaker>CASTLE</speaker><content>In the sewers.</content></utterance>
+<utterance uid="5-35"><speaker>MARTHA</speaker><content>Oh!</content></utterance>
+<utterance uid="5-36"><speaker>CASTLE</speaker><content>Slaughter! Wait!</content></utterance>
+<utterance uid="5-37"><speaker>CASTLE</speaker><content>I’m in.</content></utterance>
+<utterance uid="5-38"><speaker>SLAUGHTER</speaker><content>Outstanding!</content></utterance>
+<utterance uid="5-39"><speaker>CASTLE</speaker><content>What’s our first move?</content></utterance>
+<utterance uid="5-40"><speaker>SLAUGHTER</speaker><content>Lower East Side. A guy I know named Victor Lee.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>LANIE PARISH</speaker><content>Victim’s name is Victor Lee. 30 year old male. Died of exsanguination from that giant knife in his neck. Killed between 10 and 2 last night.</content></utterance>
+<utterance uid="6-2"><speaker>RYAN</speaker><content>All right, let’s find out who the victim was talking to.</content></utterance>
+<utterance uid="6-3"><speaker>ESPOSITO</speaker><content>What about that bruising on his face?</content></utterance>
+<utterance uid="6-4"><speaker>LANIE</speaker><content>That’s older. Looks like someone worked Mr. Lee over within the last twenty-four hours.</content></utterance>
+<utterance uid="6-5"><speaker>ESPOSITO</speaker><content>Any hope of getting a print off that murder weapon?</content></utterance>
+<utterance uid="6-6"><speaker>LANIE</speaker><content>Doubtful. Looks like it’s been wiped clean.</content></utterance>
+<utterance uid="6-7"><speaker>RYAN</speaker><content>Hey, Espo. Guess who the last person our victim called was.</content></utterance>
+<utterance uid="6-8"><speaker>ESPOSITO</speaker><content>You know how hard it is for me to not say ‘your mama’ right now?</content></utterance>
+<utterance uid="6-9"><speaker>ESPOSITO</speaker><content>Slaughter?</content></utterance>
+<utterance uid="6-10"><speaker>SLAUGHTER</speaker><content>Hey. What the hell happened to my guy?</content></utterance>
+<utterance uid="6-11"><speaker>ESPOSITO</speaker><content>Castle? Slaughter? This is not a pairing that I would have expected.</content></utterance>
+<utterance uid="6-12"><speaker>CASTLE</speaker><content>I know, right?</content></utterance>
+<utterance uid="6-13"><speaker>SLAUGHTER</speaker><content>Huh?</content></utterance>
+<utterance uid="6-14"><speaker>CASTLE</speaker><content>I mean, together again.  Yay!</content></utterance>
+<utterance uid="6-15"><speaker>SLAUGHTER</speaker><content>You got any leads?</content></utterance>
+<utterance uid="6-16"><speaker>RYAN</speaker><content>Yeah. We got our victim calling you last night. Care to share what you talked about?</content></utterance>
+<utterance uid="6-17"><speaker>SLAUGHTER</speaker><content>Victor was my CI. Best damn snitch I ever had, ‘cause he wasn’t a criminal. He managed some burger joint. But he grew up with the rogues, a gallery of low-lifes, just too stupid not to keep bragging to him about the crimes they were committing.</content></utterance>
+<utterance uid="6-18"><speaker>ESPOSITO</speaker><content>So what was he calling you about?</content></utterance>
+<utterance uid="6-19"><speaker>SLAUGHTER</speaker><content>Uh … he was doing some digging on this burglary I’m investigating.</content></utterance>
+<utterance uid="6-20"><speaker>RYAN</speaker><content>Well, looks like that digging might have gotten him killed.</content></utterance>
+<utterance uid="6-21"><speaker>SLAUGHTER</speaker><content>Are you saying this was my fault?</content></utterance>
+<utterance uid="6-22"><speaker>CASTLE</speaker><content>No – well, uh, was Victor talking to anyone else besides you?</content></utterance>
+<utterance uid="6-23"><speaker>SLAUGHTER</speaker><content>No, he said he was going to go meet someone. He didn’t give me the name.</content></utterance>
+<utterance uid="6-24"><speaker>CASTLE</speaker><content>All right, then our first step is to identify that guy.</content></utterance>
+<utterance uid="6-25"><speaker>RYAN</speaker><content>No, that’s our job. This is a homicide investigation.</content></utterance>
+<utterance uid="6-26"><speaker>SLAUGHTER</speaker><content>Tough. It was my case first. Victor was my guy, so we’re going to find the rodent that killed him together.  Come on, Sherlock.</content></utterance>
+<utterance uid="6-27"><speaker>ESPOSITO</speaker><content>All right. But Slaughter?  You’re going to keep us in the loop on every move you make.</content></utterance>
+<utterance uid="6-28"><speaker>SLAUGHTER</speaker><content>Of course. I’m a team player.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>SLAUGHTER</speaker><content>I totally lied to those guys. I already got a line on who Victor might have met with last night.</content></utterance>
+<utterance uid="7-2"><speaker>CASTLE</speaker><content>Don’t you think that’s information we should share with Ryan and Esposito?</content></utterance>
+<utterance uid="7-3"><speaker>SLAUGHTER</speaker><content>Nah. Isn’t this fun? You and me, together again. Like Butch and Sundance.</content></utterance>
+<utterance uid="7-4"><speaker>CASTLE</speaker><content>You know they die at the end of the movie, right?</content></utterance>
+<utterance uid="7-5"><speaker>SLAUGHTER</speaker><content> What a way to go.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>DAWN</speaker><content>I can’t believe it. I just talked to him yesterday.</content></utterance>
+<utterance uid="8-2"><speaker>CASTLE</speaker><content>What did you talk to him about?</content></utterance>
+<utterance uid="8-3"><speaker>DAWN</speaker><content>Getting back together. We broke up a few months ago. I got sick of him not keeping his word. But he said it was going to be different this time. Told me he was about to come into some big money. We were talking about taking off together. California.  I always wanted to live on the beach.</content></utterance>
+<utterance uid="8-4"><speaker>SLAUGHTER</speaker><content>Did he say where this big money was coming from?</content></utterance>
+<utterance uid="8-5"><speaker>DAWN</speaker><content>No.</content></utterance>
+<utterance uid="8-6"><speaker>CASTLE</speaker><content>Would you … excuse us a second?</content></utterance>
+<utterance uid="8-7"><speaker>CASTLE</speaker><content>Do you think Victor might have been involved in stealing that microchip?</content></utterance>
+<utterance uid="8-8"><speaker>SLAUGHTER</speaker><content>No way. He was a straight arrow.</content></utterance>
+<utterance uid="8-9"><speaker>CASTLE</speaker><content>I know you liked the guy. But he was working a minimum wage job while all his criminal buddies were pulling in big cash. Is it so impossible to believe that he might have … given in to temptation?</content></utterance>
+<utterance uid="8-10"><speaker>SLAUGHTER</speaker><content>Yeah, it’s possible. I just hate the idea he was playing me.</content></utterance>
+<utterance uid="8-11"><speaker>CASTLE</speaker><content> Did Victor say who he was meeting with last night?</content></utterance>
+<utterance uid="8-12"><speaker>DAWN</speaker><content>Some guy named Trucco.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>RYAN</speaker><content>So I looked into Slaughter’s burglary case. The burglars made off with a microchip for a next-gen cell phone. Prototype is worth north of a million bucks on the black market. Vikram’s looking into databases of known fences to find out who deals in that kind of loot.</content></utterance>
+<utterance uid="9-2"><speaker>ESPOSITO</speaker><content>Yo, CSU managed to find a print on the murder weapon. It was hidden under the hilt of the knife.</content></utterance>
+<utterance uid="9-3"><speaker>RYAN</speaker><content>They get a match in the system?</content></utterance>
+<utterance uid="9-4"><speaker>ESPOSITO</speaker><content>Yeah, they’re sending it now.  Here it is.</content></utterance>
+<utterance uid="9-5"><speaker>RYAN</speaker><content>What?</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>SLAUGHTER</speaker><content>Yeah. Got it.  Found Trucco. Turns out he’s a fence specializing in high-tech. What do you say we go shake his tree?</content></utterance>
+<utterance uid="10-2"><speaker>CASTLE</speaker><content>Sounds good.  Castle.</content></utterance>
+<utterance uid="10-3"><speaker>RYAN</speaker><content>Where are you?</content></utterance>
+<utterance uid="10-4"><speaker>CASTLE</speaker><content>At the office.</content></utterance>
+<utterance uid="10-5"><speaker>RYAN</speaker><content>Is Slaughter with you?</content></utterance>
+<utterance uid="10-6"><speaker>CASTLE</speaker><content>Yeah.</content></utterance>
+<utterance uid="10-7"><speaker>RYAN</speaker><content>Listen, Castle. His prints were on the murder weapon. Slaughter killed Victor Lee.</content></utterance>
+<utterance uid="10-8"><speaker>SLAUGHTER</speaker><content>Everything okay, Sherlock?</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>SLAUGHTER</speaker><content>Who’re you talking to?</content></utterance>
+<utterance uid="11-2"><speaker>CASTLE</speaker><content>Oh, it’s my mommy – mother. It’s my mother.  I’m sorry, Mother, what were you uh, what were you saying?</content></utterance>
+<utterance uid="11-3"><speaker>RYAN</speaker><content>We’re headed to you right now.</content></utterance>
+<utterance uid="11-4"><speaker>CASTLE</speaker><content>Oh, you’re going to the club. How long until you get there?</content></utterance>
+<utterance uid="11-5"><speaker>RYAN</speaker><content>We are five minutes away.</content></utterance>
+<utterance uid="11-6"><speaker>ESPOSITO</speaker><content>So just play it cool.</content></utterance>
+<utterance uid="11-7"><speaker>RYAN</speaker><content>Yeah, don’t let on that you’re talking to us.</content></utterance>
+<utterance uid="11-8"><speaker>CASTLE</speaker><content>Yeah, no problem.</content></utterance>
+<utterance uid="11-9"><speaker>SLAUGHTER</speaker><content>That ain’t your mom. It’s El-vez and Lucky Charms, isn’t it?</content></utterance>
+<utterance uid="11-10"><speaker>CASTLE</speaker><content> There’s a slight problem –</content></utterance>
+<utterance uid="11-11"><speaker>SLAUGHTER</speaker><content>Give me that phone.</content></utterance>
+<utterance uid="11-12"><speaker>SLAUGHTER</speaker><content>What are you, Inspector Gadget? This is a gun, not a pen. You don’t keep it in your desk. You strap it to your side.  Or in your case, keep it in your purse.</content></utterance>
+<utterance uid="11-13"><speaker>CASTLE</speaker><content>Please don’t kill me.</content></utterance>
+<utterance uid="11-14"><speaker>SLAUGHTER</speaker><content>Not going to kill you.</content></utterance>
+<utterance uid="11-15"><speaker>CASTLE</speaker><content>Is that what you told Victor before your buried a knife in his neck?</content></utterance>
+<utterance uid="11-16"><speaker>SLAUGHTER</speaker><content>That wasn’t me.</content></utterance>
+<utterance uid="11-17"><speaker>CASTLE</speaker><content>Then why were your fingerprints all over the murder weapon?</content></utterance>
+<utterance uid="11-18"><speaker>SLAUGHTER</speaker><content>I gave Victor that knife as a thank you.</content></utterance>
+<utterance uid="11-19"><speaker>CASTLE</speaker><content>A thank you gift? Flowers are a nice thank you gift. A giant Rambo knife, that’s psychotic.</content></utterance>
+<utterance uid="11-20"><speaker>SLAUGHTER</speaker><content>Yeah, different strokes. But it’s the truth.</content></utterance>
+<utterance uid="11-21"><speaker>CASTLE</speaker><content>Just turn yourself into the boys. They’ll treat you fairly.</content></utterance>
+<utterance uid="11-22"><speaker>SLAUGHTER</speaker><content>It ain’t that simple.  I may have hit Victor a few times yesterday morning when he wouldn’t look into that burglary for me, but I didn’t kill him.</content></utterance>
+<utterance uid="11-23"><speaker>CASTLE</speaker><content>Says the man holding a gun on me.</content></utterance>
+<utterance uid="11-24"><speaker>SLAUGHTER</speaker><content>Here. Take it. Take it.  I didn’t tell you any of this before ‘cause I know how it looks. You didn’t doubt for a second that I killed Victor. Neither will anyone else. So the only way to clear my name is to find the real killer.</content></utterance>
+<utterance uid="11-25"><speaker>CASTLE</speaker><content>So … why come to me?</content></utterance>
+<utterance uid="11-26"><speaker>SLAUGHTER</speaker><content>‘Cause I got lots of enemies. What I don’t got is a friend. I need a friend, Sherlock.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>ESPOSITO</speaker><content>Where’s Slaughter?</content></utterance>
+<utterance uid="12-2"><speaker>CASTLE</speaker><content>He’s gone. He left a few minutes ago.</content></utterance>
+<utterance uid="12-3"><speaker>RYAN</speaker><content>What happened?</content></utterance>
+<utterance uid="12-4"><speaker>CASTLE</speaker><content>He insisted he was innocent. Said he gave that knife to Victor as a gift.</content></utterance>
+<utterance uid="12-5"><speaker>ESPOSITO</speaker><content>A gift? What’s wrong with a nice bottle of wine?</content></utterance>
+<utterance uid="12-6"><speaker>CASTLE</speaker><content>I know! But guys, I gotta tell you. He really seemed like he was telling the truth.</content></utterance>
+<utterance uid="12-7"><speaker>RYAN</speaker><content> Forget it. You can’t trust a word what that guy says. You of all people should know that, Castle!</content></utterance>
+<utterance uid="12-8"><speaker>ESPOSITO</speaker><content>It was only a matter of time before he crossed the line and got caught.</content></utterance>
+<utterance uid="12-9"><speaker>RYAN</speaker><content>You’re just lucky to be alive. Stay away from him.</content></utterance>
+<utterance uid="12-10"><speaker>CASTLE</speaker><content>I do not like lying to those guys, but you were right. They’re not going to give you the benefit of the doubt.</content></utterance>
+<utterance uid="12-11"><speaker>SLAUGHTER</speaker><content>You’re a good man, Sherlock. Now we’re neck deep in this. Together.</content></utterance>
+<utterance uid="12-12"><speaker>CASTLE</speaker><content>Then we better get to work. Ryan and Esposito are good cops. They’re going to find you.</content></utterance>
+<utterance uid="12-13"><speaker>SLAUGHTER</speaker><content>All right. Let’s go hang Trucco out a window until he talks. Or we lose our grip. Vamonos muchacho!</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>CASTLE</speaker><content>So where is this guy?</content></utterance>
+<utterance uid="13-2"><speaker>SLAUGHTER</speaker><content>My source says he’ll be here.  Hey, any chance that smoking hot wife of yours is going to come hunting for me, too? Might be worth getting caught if she does the cuffing.</content></utterance>
+<utterance uid="13-3"><speaker>CASTLE</speaker><content>Um … no. Beckett and I are sort of on a time out right now.</content></utterance>
+<utterance uid="13-4"><speaker>SLAUGHTER</speaker><content>Oh. Sorry to hear that.</content></utterance>
+<utterance uid="13-5"><speaker>CASTLE</speaker><content>Thanks.</content></utterance>
+<utterance uid="13-6"><speaker>SLAUGHTER</speaker><content>So, uh … what happened?</content></utterance>
+<utterance uid="13-7"><speaker>CASTLE</speaker><content>I don’t know. She just said she needed time to figure things out.</content></utterance>
+<utterance uid="13-8"><speaker>SLAUGHTER</speaker><content>Women.</content></utterance>
+<utterance uid="13-9"><speaker>CASTLE</speaker><content>Yeah.</content></utterance>
+<utterance uid="13-10"><speaker>SLAUGHTER</speaker><content>If you’re looking for a rebound, my cousin Shauna’s got a nympho roommate.</content></utterance>
+<utterance uid="13-11"><speaker>CASTLE</speaker><content>Um … I’m good – I can – I’m good, thanks.</content></utterance>
+<utterance uid="13-12"><speaker>SLAUGHTER</speaker><content>All right, suit yourself. Nothing makes a woman want you more than moving on, though.</content></utterance>
+<utterance uid="13-13"><speaker>CASTLE</speaker><content>Okay, conversation’s over. And – and – and another thing. This time, you need me. So we’re going to play it by my rules.</content></utterance>
+<utterance uid="13-14"><speaker>SLAUGHTER</speaker><content>And what rules are those?</content></utterance>
+<utterance uid="13-15"><speaker>CASTLE</speaker><content>You’re not going to hurt anybody. You’re not going to intimidate anybody. You’re not even going to raise your voice. You do and I’m out.</content></utterance>
+<utterance uid="13-16"><speaker>SLAUGHTER</speaker><content>You’re kidding, right?</content></utterance>
+<utterance uid="13-17"><speaker>CASTLE</speaker><content> No.</content></utterance>
+<utterance uid="13-18"><speaker>SLAUGHTER</speaker><content> Okay. Deal.</content></utterance>
+<utterance uid="13-19"><speaker>SLAUGHTER</speaker><content>Hey, Trucco!  Time to pay the piper, buddy.</content></utterance>
+<utterance uid="13-20"><speaker>CASTLE</speaker><content>Hey! Hey, hey, hey. What did I just say? Huh?</content></utterance>
+<utterance uid="13-21"><speaker>SLAUGHTER</speaker><content>Oh. Oh.  My apologies, Mr. Trucco. My name is Detective Slaughter, this is Castle. We’d like to have a little chat with you about Victor Lee.</content></utterance>
+<utterance uid="13-22"><speaker>BRIAN TRUCCO</speaker><content>I’ve never heard of him.</content></utterance>
+<utterance uid="13-23"><speaker>SLAUGHTER</speaker><content>Mr. Trucco, we both know that you fence high tech items for a living and that you had a deal with Mr. Lee to move a certain microchip that he stole. Now, unless you want us to go check out your place and see if we can find any stolen merchandise, I strongly recommend you tell us what we want to know.</content></utterance>
+<utterance uid="13-24"><speaker>TRUCCO</speaker><content>And what’s that?</content></utterance>
+<utterance uid="13-25"><speaker>CASTLE</speaker><content>Did you buy a stolen microchip from Victor last night?</content></utterance>
+<utterance uid="13-26"><speaker>TRUCCO</speaker><content>No.</content></utterance>
+<utterance uid="13-27"><speaker>SLAUGHTER</speaker><content>See, ass clown, I’ll tear your face off –</content></utterance>
+<utterance uid="13-28"><speaker>CASTLE</speaker><content>Dude.</content></utterance>
+<utterance uid="13-29"><speaker>SLAUGHTER</speaker><content>Please sir, tell us the truth.</content></utterance>
+<utterance uid="13-30"><speaker>TRUCCO</speaker><content>I am. Look, Victor and his partner were supposed to meet me last night but they never showed.</content></utterance>
+<utterance uid="13-31"><speaker>CASTLE</speaker><content>Who’s his partner?</content></utterance>
+<utterance uid="13-32"><speaker>TRUCCO</speaker><content>I don’t know. But from the way Victor talked about him it seems like they weren’t going to be partners for long.</content></utterance>
+<utterance uid="13-33"><speaker>CASTLE</speaker><content>You thinking what I’m thinking?</content></utterance>
+<utterance uid="13-34"><speaker>SLAUGHTER</speaker><content>Uh … probably not.</content></utterance>
+<utterance uid="13-35"><speaker>CASTLE</speaker><content>That maybe Victor got greedy, tried to double cross his partner?</content></utterance>
+<utterance uid="13-36"><speaker>SLAUGHTER</speaker><content>And the partner might have killed him for it. Nice going, Sherlock. See, we make a perfect team. Let’s go.</content></utterance>
+<utterance uid="13-37"><speaker>CASTLE</speaker><content>What was that?</content></utterance>
+<utterance uid="13-38"><speaker>SLAUGHTER</speaker><content>What was what?</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>RYAN</speaker><content>Hey, check this out. Traffic cam caught Victor parked a block away from where the microchip was stolen.  That is Victor right before the burglary - and there’s someone with him.</content></utterance>
+<utterance uid="14-2"><speaker>ESPOSITO</speaker><content>Must be a partner. Is there a better look?</content></utterance>
+<utterance uid="14-3"><speaker>RYAN</speaker><content>Nope.</content></utterance>
+<utterance uid="14-4"><speaker>ESPOSITO</speaker><content>What if that’s Slaughter? I spoke to his Captain. Slaughter was reassigned from gangs because a dealer accused him of pocketing $20k during a drug bust. Word is, Slaughter was about to be suspended. Quite possibly kicked off the job.</content></utterance>
+<utterance uid="14-5"><speaker>RYAN</speaker><content>Which means bye-bye pension.</content></utterance>
+<utterance uid="14-6"><speaker>ESPOSITO</speaker><content>The microchip burglary might have been Slaughter’s retirement plan.</content></utterance>
+<utterance uid="14-7"><speaker>RYAN</speaker><content>And if Victor tried to double cross him –</content></utterance>
+<utterance uid="14-8"><speaker>ESPOSITO</speaker><content>Slaughter would have put him down.</content></utterance>
+<utterance uid="14-9"><speaker>RYAN</speaker><content>But why involve Castle in all of this?</content></utterance>
+<utterance uid="14-10"><speaker>ESPOSITO</speaker><content>Maybe Victor hid the microchip before he died. Slaughter couldn’t find it and so he thought he could fool Castle into using his unique brain to help him find it.</content></utterance>
+<utterance uid="14-11"><speaker>RYAN</speaker><content>Well, it’s a good thing Castle’s not dumb enough to fall for that.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>SLAUGHTER</speaker><content>So where do you think the chip is?</content></utterance>
+<utterance uid="15-2"><speaker>CASTLE</speaker><content>If Victor’s partner didn’t sell it to Trucco then they probably still have it.</content></utterance>
+<utterance uid="15-3"><speaker>SLAUGHTER</speaker><content>Ah hah. Oh, hey, who’s the talent?</content></utterance>
+<utterance uid="15-4"><speaker>CASTLE</speaker><content>Slaughter, this is Hayley.</content></utterance>
+<utterance uid="15-5"><speaker>HAYLEY SHIPTON</speaker><content>Hi.</content></utterance>
+<utterance uid="15-6"><speaker>SLAUGHTER</speaker><content>No wonder you weren’t interested in that nympho roommate, huh?</content></utterance>
+<utterance uid="15-7"><speaker>HAYLEY</speaker><content>I’m sorry, what?</content></utterance>
+<utterance uid="15-8"><speaker>CASTLE</speaker><content>No, just … forget it.  Hayley just started working with me as a consultant.</content></utterance>
+<utterance uid="15-9"><speaker>HAYLEY</speaker><content>Yes, Rick has asked me to suss out the break-in at Booth Tower.</content></utterance>
+<utterance uid="15-10"><speaker>SLAUGHTER</speaker><content>Oh, she speaks British. That’s hot.</content></utterance>
+<utterance uid="15-11"><speaker>HAYLEY</speaker><content>Wow. It’s always a pleasure meeting one of your friends, Rick.</content></utterance>
+<utterance uid="15-12"><speaker>CASTLE</speaker><content>He’s really not – just – please ignore him. Did you find anything?</content></utterance>
+<utterance uid="15-13"><speaker>HAYLEY</speaker><content>Of course I did. So the security system at Booth Tower is definitely cutting edge. It would have taken a genius level digital locksmith to get through the several layers of alarm system.</content></utterance>
+<utterance uid="15-14"><speaker>SLAUGHTER</speaker><content>A genius? That sure as hell ain’t Victor or anyone he hangs with.</content></utterance>
+<utterance uid="15-15"><speaker>HAYLEY</speaker><content>You sure about that? Because I did some digging and it turns out that Victor volunteered as a mentor to an underprivileged 16 year old boy named Louis Prince. Now, I hacked Louis’s records and he has quite the history of violence. Turns out he’s been in and out of several juvenile detention facilities and he was kicked out of four high schools.</content></utterance>
+<utterance uid="15-16"><speaker>SLAUGHTER</speaker><content>Doesn’t sound too smart to me.</content></utterance>
+<utterance uid="15-17"><speaker>CASTLE</speaker><content>Is that his IQ?</content></utterance>
+<utterance uid="15-18"><speaker>HAYLEY</speaker><content>Oh yes. 190.</content></utterance>
+<utterance uid="15-19"><speaker>SLAUGHTER</speaker><content>It’s like a criminal Good Will Hunting?</content></utterance>
+<utterance uid="15-20"><speaker>CASTLE</speaker><content>Yeah. And looks like he’s graduated to murder.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>MARK WEST</speaker><content>Louis has had a rough life. He was abandoned by his father when he was five and then he was raised by his mother who has to work two jobs to support him. The kid was on his own twenty hours a day.</content></utterance>
+<utterance uid="16-2"><speaker>SLAUGHTER</speaker><content>Not all latchkey kids wind up killers.</content></utterance>
+<utterance uid="16-3"><speaker>CASTLE</speaker><content>Yeah, they’re not all Einstein level geniuses, either.</content></utterance>
+<utterance uid="16-4"><speaker>WEST</speaker><content>Louis was – honestly, he was just too smart. And he didn’t have anyone to help nurture his talents, so all he could do was lash out. That’s when I first met him. I knew right away he was the perfect candidate for Operation Mentor. What he needed more than anything was a strong male role model to look out for him.</content></utterance>
+<utterance uid="16-5"><speaker>SLAUGHTER</speaker><content>That was Victor.</content></utterance>
+<utterance uid="16-6"><speaker>WEST</speaker><content>Eventually, yes. But Louis went through five other mentors, first. I got a lot of pressure to kick him out of the program. Victor was my last shot, but they hit it off right away and Louis started getting better. You know, Detective, you should consider becoming a mentor.</content></utterance>
+<utterance uid="16-7"><speaker>SLAUGHTER</speaker><content>Yeah, I’m not role model material.</content></utterance>
+<utterance uid="16-8"><speaker>CASTLE</speaker><content>He’s really not.</content></utterance>
+<utterance uid="16-9"><speaker>WEST</speaker><content>You never know. I wasn’t always a counselor. I used to chase money around Wall Street for fifteen hours a day. But this here? This is definitely more fulfilling.</content></utterance>
+<utterance uid="16-10"><speaker>CASTLE</speaker><content>Yes, I imagine so. Now, if Victor were to use Louis’s genius to help commit a crime, that would be quite a betrayal of trust, wouldn’t it?</content></utterance>
+<utterance uid="16-11"><speaker>SLAUGHTER</speaker><content>Enough to make him snap and kill his mentor?</content></utterance>
+<utterance uid="16-12"><speaker>WEST</speaker><content>Well, Victor was the first person that Louis ever trusted, besides his mom, so finding out he’d been betrayed would be pretty devastating.</content></utterance>
+<utterance uid="16-13"><speaker>SLAUGHTER</speaker><content>Any idea where Louis might be hiding?</content></utterance>
+<utterance uid="16-14"><speaker>WEST</speaker><content>Ah, I don’t know. I’m sorry.</content></utterance>
+<utterance uid="16-15"><speaker>CASTLE</speaker><content>Oh, uh … thank you very much for your time, Mr. West.  We – we gotta go. Now.</content></utterance>
+<utterance uid="16-16"><speaker>SLAUGHTER</speaker><content>Yeah. Thanks.</content></utterance>
+<utterance uid="16-17"><speaker>RYAN</speaker><content>Mr. West, I’m Detective Ryan, this is Detective Esposito. NYPD. We just have a few questions about a kid Victor Lee was mentoring named Louis Prince?</content></utterance>
+<utterance uid="16-18"><speaker>ESPOSITO</speaker><content>It’s possible he might have some information that can help us solve a crime.</content></utterance>
+<utterance uid="16-19"><speaker>WEST</speaker><content>That’s funny. You guys just missed the two other cops that were here. They were asking about Louis, too.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>CASTLE</speaker><content>Yes, got it.  Hayley managed to track Louis down using the IP address on his computer. I have an address.  Thank you very much for doing this, Hayley. I have another call. Thanks.  This is Castle.</content></utterance>
+<utterance uid="17-2"><speaker>RYAN</speaker><content>You lied to us?</content></utterance>
+<utterance uid="17-3"><speaker>CASTLE</speaker><content>Oh, well, when you put it that way –</content></utterance>
+<utterance uid="17-4"><speaker>RYAN</speaker><content>Castle, no. This is not funny. What are you doing running around with our murder suspect?</content></utterance>
+<utterance uid="17-5"><speaker>CASTLE</speaker><content>Hey, Slaughter didn’t kill anyone, all right? I promise you, he wants to find Victor’s killer just as much as we do.</content></utterance>
+<utterance uid="17-6"><speaker>RYAN</speaker><content>Really? Did he tell you why he’s not working gangs anymore?</content></utterance>
+<utterance uid="17-7"><speaker>CASTLE</speaker><content>Yes, he said he got bored.</content></utterance>
+<utterance uid="17-8"><speaker>RYAN</speaker><content>No. He got demoted. He’s under investigation for robbing a drug dealer.</content></utterance>
+<utterance uid="17-9"><speaker>CASTLE</speaker><content> You robbed a drug dealer?</content></utterance>
+<utterance uid="17-10"><speaker>SLAUGHTER</speaker><content>Oh, hell no. That’s a BS charge.</content></utterance>
+<utterance uid="17-11"><speaker>RYAN</speaker><content>Slaughter’s about to lose his pension, Castle. We figure he teamed up with Victor to steal that chip and then he got greedy.</content></utterance>
+<utterance uid="17-12"><speaker>SLAUGHTER</speaker><content>Give me that.  Hey, Detective, get your head out of our butt. Yeah, sure, I might have tuned Victor up a little bit, but I didn’t kill him. You’re wasting your time chasing after me. You should be after the kid.</content></utterance>
+<utterance uid="17-13"><speaker>RYAN</speaker><content>Hello?</content></utterance>
+<utterance uid="17-14"><speaker>CASTLE</speaker><content>You know you can just take the SIM card out, right?  I lose more phones in this line of work.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>CASTLE</speaker><content>If I wanted to walk away, you’d let me, right?</content></utterance>
+<utterance uid="18-2"><speaker>SLAUGHTER</speaker><content>Having second thoughts?</content></utterance>
+<utterance uid="18-3"><speaker>CASTLE</speaker><content>I think that’s reasonable, given your history.</content></utterance>
+<utterance uid="18-4"><speaker>SLAUGHTER</speaker><content>You mean given our history.</content></utterance>
+<utterance uid="18-5"><speaker>SLAUGHTER</speaker><content>Hey! Hey! Freeze!</content></utterance>
+<utterance uid="18-6"><speaker>SLAUGHTER</speaker><content>Stay with the kid, Sherlock!</content></utterance>
+<utterance uid="18-7"><speaker>CASTLE</speaker><content>Whoa, whoa. Relax. We’re not here to hurt you.</content></utterance>
+<utterance uid="18-8"><speaker>LOUIS</speaker><content>Please, please. Stay away from me.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>SLAUGHTER</speaker><content>Come here.  You’re okay. Come on.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>CASTLE</speaker><content>We’re just trying to figure out what happened to Victor.</content></utterance>
+<utterance uid="20-2"><speaker>LOUIS</speaker><content>I didn’t kill him, I swear.</content></utterance>
+<utterance uid="20-3"><speaker>CASTLE</speaker><content>Hey, hey.  No one’s saying you did.</content></utterance>
+<utterance uid="20-4"><speaker>CASTLE</speaker><content>Really?</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>SLAUGHTER</speaker><content>Not your proudest moment, huh?</content></utterance>
+<utterance uid="21-2"><speaker>CASTLE</speaker><content>I don’t think he did it.</content></utterance>
+<utterance uid="21-3"><speaker>SLAUGHTER</speaker><content>Sure he did.</content></utterance>
+<utterance uid="21-4"><speaker>CASTLE</speaker><content>You didn’t see his face. He was scared. And young. It’s not the face of a killer.</content></utterance>
+<utterance uid="21-5"><speaker>SLAUGHTER</speaker><content>We’re all killers, Castle. When push comes to shove.  Come on.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>SLAUGHTER</speaker><content>Do I still have to play nice?</content></utterance>
+<utterance uid="22-2"><speaker>CASTLE</speaker><content>No.</content></utterance>
+<utterance uid="22-3"><speaker>SLAUGHTER</speaker><content>Good.  Now, you’re going to tell me what you’re doing here or I’m going to pull your dipstick up to your chin like a zipper.</content></utterance>
+<utterance uid="22-4"><speaker>EDDIE</speaker><content>Okay. I came for the kid.</content></utterance>
+<utterance uid="22-5"><speaker>CASTLE</speaker><content>Why?</content></utterance>
+<utterance uid="22-6"><speaker>EDDIE</speaker><content>Because he’s the key.</content></utterance>
+<utterance uid="22-7"><speaker>SLAUGHTER</speaker><content>I’m going to start zipping.</content></utterance>
+<utterance uid="22-8"><speaker>EDDIE</speaker><content>No, wait! I work for a crew that specializes in high end B and Es. Run by a guy named David Lacey.</content></utterance>
+<utterance uid="22-9"><speaker>SLAUGHTER</speaker><content>Ugh. I know Lacey. Gives sociopaths a bad name.</content></utterance>
+<utterance uid="22-10"><speaker>CASTLE</speaker><content>So you guys helped Victor steal the microchip?</content></utterance>
+<utterance uid="22-11"><speaker>EDDIE</speaker><content>No!</content></utterance>
+<utterance uid="22-12"><speaker>SLAUGHTER</speaker><content>See, now he’s insulting our intelligence. Go get the shower curtain. It’s going to get a little messy.</content></utterance>
+<utterance uid="22-13"><speaker>EDDIE</speaker><content>It’s true! Victor and the kid pulled off the microchip job alone. To send a message.</content></utterance>
+<utterance uid="22-14"><speaker>CASTLE</speaker><content>What kind of message?</content></utterance>
+<utterance uid="22-15"><speaker>EDDIE</speaker><content>Victor was going around town boasting that he had the key to any lock.</content></utterance>
+<utterance uid="22-16"><speaker>CASTLE</speaker><content>Meaning Louis.</content></utterance>
+<utterance uid="22-17"><speaker>EDDIE</speaker><content>The kid invented a device that could disarm any alarm system no matter how complex. So breaking into the Booth tower put the town on notice that Victor’s services were available to the highest bidder.</content></utterance>
+<utterance uid="22-18"><speaker>CASTLE</speaker><content>So Victor was using Louis. And your boss Lacey wasn’t interested in paying Victor’s price. So Victor ends up dead, you come here, pick up the kid free of charge.</content></utterance>
+<utterance uid="22-19"><speaker>RYAN</speaker><content>Slaughter! Put your hands up right now.</content></utterance>
+<utterance uid="22-20"><speaker>ESPOSITO</speaker><content>Do it. Now!</content></utterance>
+<utterance uid="22-21"><speaker>SLAUGHTER</speaker><content>Easy with that. That’s a little more weapon than you’re used to.</content></utterance>
+<utterance uid="22-22"><speaker>RYAN</speaker><content> Yeah.</content></utterance>
+<utterance uid="22-23"><speaker>ESPOSITO</speaker><content>You have the right to remain silent.</content></utterance>
+<utterance uid="22-24"><speaker>SLAUGHTER</speaker><content>Yeah, yeah, yeah. Heard it all before.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>RYAN</speaker><content>We’re going to need another unit to transport a second suspect. Thank you.</content></utterance>
+<utterance uid="23-2"><speaker>CASTLE</speaker><content>Espo. Espo! He didn’t kill Victor. And if my instincts are right, neither did Louis. Which means there is a sixteen year old kid out there alone with a very dangerous crew after him. We’re going to need all hands on deck to find him.</content></utterance>
+<utterance uid="23-3"><speaker>ESPOSITO</speaker><content>It’s not going to happen, Castle. Slaughter’s going in.</content></utterance>
+<utterance uid="23-4"><speaker>CASTLE</speaker><content>But –</content></utterance>
+<utterance uid="23-5"><speaker>ESPOSITO</speaker><content>And you’re lucky I don’t arrest you, too, for aiding and abetting.</content></utterance>
+<utterance uid="23-6"><speaker>CASTLE</speaker><content>Espo, please.</content></utterance>
+<utterance uid="23-7"><speaker>ESPOSITO</speaker><content>No, Castle. I won’t change my mind on this.  Ryan. Ryan, where are we with that other unit.</content></utterance>
+<utterance uid="23-8"><speaker>ESPOSITO</speaker><content>What the hell?</content></utterance>
+<utterance uid="23-9"><speaker>CASTLE</speaker><content>I’m sorry – I’m sorry. I shouldn’t have done that.</content></utterance>
+<utterance uid="23-10"><speaker>RYAN</speaker><content>What just happened?</content></utterance>
+<utterance uid="23-11"><speaker>ESPOSITO</speaker><content>Castle just stole our murder suspect. And our car.</content></utterance>
+<utterance uid="23-12"><speaker>ESPOSITO</speaker><content> What are you laughing at?</content></utterance>
+<utterance uid="23-13"><speaker>RYAN</speaker><content> What are you laughing at?</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>RYAN</speaker><content> Javi, I think they know.</content></utterance>
+<utterance uid="24-2"><speaker>ESPOSITO</speaker><content>They don’t know. No, that patrol unit totally bought our story about our car breaking down.  Yo. Take him to holding.</content></utterance>
+<utterance uid="24-3"><speaker>RYAN</speaker><content>Hey. Come here.  What happens when we don’t get the car back to the motor pool at the end of our shift?  I think we should call Beckett.</content></utterance>
+<utterance uid="24-4"><speaker>ESPOSITO</speaker><content>And tell her what? That her husband staged a jailbreak right under our noses?</content></utterance>
+<utterance uid="24-5"><speaker>RYAN</speaker><content>Well, technically your nose –  – but that’s not the point. We just need to find Castle and Slaughter.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>SLAUGHTER</speaker><content>We’ll be safe here until we figure out our next move.</content></utterance>
+<utterance uid="25-2"><speaker>CASTLE</speaker><content>This can’t be your place.</content></utterance>
+<utterance uid="25-3"><speaker>SLAUGHTER</speaker><content>Why not?</content></utterance>
+<utterance uid="25-4"><speaker>CASTLE</speaker><content>Two reasons: one, we’re both fugitives. Hiding at either of our apartments would be a terrible idea. Two, I picture your décor less Architectural Digest, more Guns and Ammo.</content></utterance>
+<utterance uid="25-5"><speaker>SLAUGHTER</speaker><content>It’s my ex-wife’s. She’s uh … out of town.</content></utterance>
+<utterance uid="25-6"><speaker>CASTLE</speaker><content>Oh. I had no idea you were married. What’s her name?</content></utterance>
+<utterance uid="25-7"><speaker>SLAUGHTER</speaker><content>Maddie.</content></utterance>
+<utterance uid="25-8"><speaker>CASTLE</speaker><content>And I take it Maddie’s a fan of the opera?</content></utterance>
+<utterance uid="25-9"><speaker>SLAUGHTER</speaker><content>She’s a mezzo soprano with the New York City Opera.</content></utterance>
+<utterance uid="25-10"><speaker>CASTLE</speaker><content>I’m sorry, Maddie, as in Madelyn Corday?</content></utterance>
+<utterance uid="25-11"><speaker>SLAUGHTER</speaker><content>Mmhmm.</content></utterance>
+<utterance uid="25-12"><speaker>CASTLE</speaker><content>I’ve seen her perform. She – she’s an absolute revelation. I just can’t picture her …  … with you. How would you even meet her?</content></utterance>
+<utterance uid="25-13"><speaker>SLAUGHTER</speaker><content>College. We had the same major –</content></utterance>
+<utterance uid="25-14"><speaker>CASTLE</speaker><content>You majored in opera singing?</content></utterance>
+<utterance uid="25-15"><speaker>SLAUGHTER</speaker><content>No. Musical theater.</content></utterance>
+<utterance uid="25-16"><speaker>CASTLE</speaker><content>You?</content></utterance>
+<utterance uid="25-17"><speaker>SLAUGHTER</speaker><content>Yeah. And if you tell anyone I’m going to force feed you your spleen through your nose.</content></utterance>
+<utterance uid="25-18"><speaker>CASTLE</speaker><content>Yeah, I’m sorry, I’m trying to be scared. I just keep picturing you doing jazz hands.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>ESPOSITO</speaker><content>Where’s Castle?</content></utterance>
+<utterance uid="26-2"><speaker>ALEXIS</speaker><content>I have no idea.</content></utterance>
+<utterance uid="26-3"><speaker>ESPOSITO</speaker><content>Don’t lie to us. We’re not in the mood.</content></utterance>
+<utterance uid="26-4"><speaker>RYAN</speaker><content>Yeah. We had to Uber here.</content></utterance>
+<utterance uid="26-5"><speaker>HAYLEY</speaker><content>What? Where’s your car?</content></utterance>
+<utterance uid="26-6"><speaker>ESPOSITO</speaker><content>That’s – not important. What is important is that we need to find him. Now.</content></utterance>
+<utterance uid="26-7"><speaker>HAYLEY</speaker><content>Well, we haven’t seen him for hours. What’s going on?</content></utterance>
+<utterance uid="26-8"><speaker>RYAN</speaker><content>Castle stole our car after we arrested Slaughter.</content></utterance>
+<utterance uid="26-9"><speaker>ALEXIS</speaker><content>I’m sorry, that’s – uh, really not funny.</content></utterance>
+<utterance uid="26-10"><speaker>HAYLEY</speaker><content>It really is, though.</content></utterance>
+<utterance uid="26-11"><speaker>ESPOSITO</speaker><content>Okay, knock it off.</content></utterance>
+<utterance uid="26-12"><speaker>ALEXIS</speaker><content>But, wait. Wait. Why did you arrest Slaughter? According to Dad he didn’t kill Victor Lee.</content></utterance>
+<utterance uid="26-13"><speaker>RYAN</speaker><content>That’s not the point.</content></utterance>
+<utterance uid="26-14"><speaker>HAYLEY</speaker><content>It’s kind of the point.</content></utterance>
+<utterance uid="26-15"><speaker>ESPOSITO</speaker><content>Look, we had reason to believe that Slaughter, but –</content></utterance>
+<utterance uid="26-16"><speaker>RYAN</speaker><content>Now we’re not so sure.</content></utterance>
+<utterance uid="26-17"><speaker>HAYLEY</speaker><content>Well, I can tell you this: that genius kid Louis definitely didn’t kill him, either.</content></utterance>
+<utterance uid="26-18"><speaker>RYAN</speaker><content>How do you know that?</content></utterance>
+<utterance uid="26-19"><speaker>HAYLEY</speaker><content>While I was tracking his IP address for Castle I noticed that during the time of the murder Louis was at a coffee shop in Brooklyn.</content></utterance>
+<utterance uid="26-20"><speaker>ALEXIS</speaker><content>And a barista remembers seeing him.</content></utterance>
+<utterance uid="26-21"><speaker>ESPOSITO</speaker><content>Which makes David Lacey our prime suspect.</content></utterance>
+<utterance uid="26-22"><speaker>HAYLEY</speaker><content>Who’s this Lacey guy?</content></utterance>
+<utterance uid="26-23"><speaker>ESPOSITO</speaker><content>He runs a heist crew. With a trail of bodies. We’ve got one of his soldiers in holding but he’s not talking.</content></utterance>
+<utterance uid="26-24"><speaker>ALEXIS</speaker><content>Wait, is my dad in danger?</content></utterance>
+<utterance uid="26-25"><speaker>RYAN</speaker><content>We really need to find him.</content></utterance>
+<utterance uid="26-26"><speaker>ESPOSITO</speaker><content>Fast.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>SLAUGHTER</speaker><content>Yum, yum, yum, yum.</content></utterance>
+<utterance uid="27-2"><speaker>SLAUGHTER</speaker><content>Try that.</content></utterance>
+<utterance uid="27-3"><speaker>CASTLE</speaker><content>Who are you?</content></utterance>
+<utterance uid="27-4"><speaker>SLAUGHTER</speaker><content>I do some of my best thinking when I’m cooking. It’s what got me through my divorce.</content></utterance>
+<utterance uid="27-5"><speaker>CASTLE</speaker><content>What happened to you and Maddie?</content></utterance>
+<utterance uid="27-6"><speaker>SLAUGHTER</speaker><content>Her career took off, mine failed to launch. I got jealous. Went downhill from there. What really happened with you and your wife?</content></utterance>
+<utterance uid="27-7"><speaker>CASTLE</speaker><content>I told you, I don’t know.</content></utterance>
+<utterance uid="27-8"><speaker>SLAUGHTER</speaker><content>You’re too smart to be talking this stupid, Sherlock. If you really love that broad you figure out what the problem is and you do something.</content></utterance>
+<utterance uid="27-9"><speaker>CASTLE</speaker><content>Hey! It’s the kid.</content></utterance>
+<utterance uid="27-10"><speaker>LOUIS</speaker><content>Oh God, not you again. I’m looking for Detective Slaughter.</content></utterance>
+<utterance uid="27-11"><speaker>CASTLE</speaker><content>Yeah, he’s –</content></utterance>
+<utterance uid="27-12"><speaker>SLAUGHTER</speaker><content>Hey.</content></utterance>
+<utterance uid="27-13"><speaker>LOUIS</speaker><content>Victor told me that if I ever got into trouble to find you. He said that you’d look out for me.</content></utterance>
+<utterance uid="27-14"><speaker>SLAUGHTER</speaker><content>He did?  I mean, yeah. Yeah. Of course I will.</content></utterance>
+<utterance uid="27-15"><speaker>CASTLE</speaker><content>Wait a minute, how did you find him here?</content></utterance>
+<utterance uid="27-16"><speaker>LOUIS</speaker><content>I hacked his life.</content></utterance>
+<utterance uid="27-17"><speaker>SLAUGHTER</speaker><content>You what my life?</content></utterance>
+<utterance uid="27-18"><speaker>LOUIS</speaker><content>I used a cryptographic generator I created to get your Social Security Number. After that it was – it was simple guesswork. I went through your credit cards, your bank statements, and when I discovered you had an ex-wife who was currently performing in Italy I found it odd that her home alarm system had recently been disarmed. I knocked down a few firewalls, got into your ex’s calendar, and discovered the housekeeper doesn’t come until Thursday, so I assumed it was you. I hacked her desktop’s IP address and here I am.</content></utterance>
+<utterance uid="27-19"><speaker>SLAUGHTER</speaker><content>Maybe I should be calling him Sherlock.</content></utterance>
+<utterance uid="27-20"><speaker>LOUIS</speaker><content> Someone’s here.</content></utterance>
+<utterance uid="27-21"><speaker>SLAUGHTER</speaker><content>Hey, kid. Tell us where you are and then I want you to hide.</content></utterance>
+<utterance uid="27-22"><speaker>LOUIS</speaker><content>I – I’m at a warehouse –</content></utterance>
+<utterance uid="27-23"><speaker>SLAUGHTER</speaker><content>Hey! Damn it, we lost him.</content></utterance>
+<utterance uid="27-24"><speaker>CASTLE</speaker><content>Maybe not. Look at the wall.</content></utterance>
+<utterance uid="27-25"><speaker>SLAUGHTER</speaker><content>What’s that?</content></utterance>
+<utterance uid="27-26"><speaker>CASTLE</speaker><content>Fumigation notice. You can just make out the company name and the phone number.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>CASTLE</speaker><content>I really think we should call for backup.</content></utterance>
+<utterance uid="28-2"><speaker>SLAUGHTER</speaker><content>Ah, screw that. Come on.</content></utterance>
+<utterance uid="28-3"><speaker>SLAUGHTER</speaker><content>I see the kid. He’s tied to a chair. Looks like he’s being interrogated.</content></utterance>
+<utterance uid="28-4"><speaker>CASTLE</speaker><content>By how many?</content></utterance>
+<utterance uid="28-5"><speaker>SLAUGHTER</speaker><content>I only see one. Come on.</content></utterance>
+<utterance uid="28-6"><speaker>CASTLE</speaker><content>Whoa, whoa, whoa, whoa. You don’t even have a gun.</content></utterance>
+<utterance uid="28-7"><speaker>SLAUGHTER</speaker><content>It’s just one guy. Come on!</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>SLAUGHTER</speaker><content>Hey buddy.</content></utterance>
+<utterance uid="29-2"><speaker>CASTLE</speaker><content>Nice.</content></utterance>
+<utterance uid="29-3"><speaker>SLAUGHTER</speaker><content>Piece of cake, huh?</content></utterance>
+<utterance uid="29-4"><speaker>SLAUGHTER</speaker><content>What’s the matter, kid?</content></utterance>
+<utterance uid="29-5"><speaker>SLAUGHTER</speaker><content>I guess we should have called for backup.</content></utterance>
+<utterance uid="29-6"><speaker>CASTLE</speaker><content>Do you think?</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>SLAUGHTER</speaker><content>Okay, chuckleheads. Killing a police officer is not exactly a good addition to your rap sheet.</content></utterance>
+<utterance uid="30-2"><speaker>CASTLE</speaker><content>Or – or a bestselling author.</content></utterance>
+<utterance uid="30-3"><speaker>DAVID LACEY</speaker><content>It’s kind of hard to charge us with murder if nobody ever finds the bodies.</content></utterance>
+<utterance uid="30-4"><speaker>THUG</speaker><content>Should I take the kid out of here?</content></utterance>
+<utterance uid="30-5"><speaker>LACEY</speaker><content>Nah, let him watch. This way he knows what’s going to happen to him if he doesn’t do exactly what I ask.</content></utterance>
+<utterance uid="30-6"><speaker>LACEY</speaker><content>What the hell are you doing?</content></utterance>
+<utterance uid="30-7"><speaker>LACEY</speaker><content>Hey, knock it off!</content></utterance>
+<utterance uid="30-8"><speaker>SLAUGHTER</speaker><content>Sherlock, we’re going to die here. Let’s at least try to do it like men, huh?</content></utterance>
+<utterance uid="30-9"><speaker>CASTLE</speaker><content>“Boy, boy, crazy boy. Get cool, boy! Got a rocket in your pocket, keep coolly cool boy!”</content></utterance>
+<utterance uid="30-10"><speaker>SLAUGHTER</speaker><content>“Don’t get hot, ‘cause man you got some high times ahead.”</content></utterance>
+<utterance uid="30-11"><speaker>SLAUGHTER_CASTLE</speaker><content>“Boy, boy, crazy boy. Stay loose, boy! Breeze it, buzz it, easy does it.”</content></utterance>
+<utterance uid="30-12"><speaker>LACEY</speaker><content>Will someone please shoot these guys?</content></utterance>
+<utterance uid="30-13"><speaker>SLAUGHTER_CASTLE</speaker><content>“Turn off the juice, boy!” Fight scene!</content></utterance>
+<utterance uid="30-14"><speaker>CASTLE</speaker><content> Sorry!</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>DETECTIVE ETHAN SLAUGHTER</speaker><content>Is that it? Is that all the guys you brought?</content></utterance>
+<utterance uid="31-2"><speaker>RYAN</speaker><content>You think we enjoy this?</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>LOUIS</speaker><content>Hey uh … thanks for coming for me. Victor wasn’t wrong about you.</content></utterance>
+<utterance uid="32-2"><speaker>SLAUGHTER</speaker><content>Yeah, but I was wrong about Victor. He was a crappy role model.</content></utterance>
+<utterance uid="32-3"><speaker>LOUIS</speaker><content>You’re a crappy singer.</content></utterance>
+<utterance uid="32-4"><speaker>SLAUGHTER</speaker><content>Hey. You nail Lacey and his crew?</content></utterance>
+<utterance uid="32-5"><speaker>RYAN</speaker><content>Yeah. They’ll being doing some serious time for kidnapping and attempted murder.</content></utterance>
+<utterance uid="32-6"><speaker>SLAUGHTER</speaker><content>Whoa. Why aren’t they getting charged with actual murder?</content></utterance>
+<utterance uid="32-7"><speaker>CASTLE</speaker><content>Because none of them killed Victor.</content></utterance>
+<utterance uid="32-8"><speaker>ESPOSITO</speaker><content>They were at a restaurant in SoHo at the time of Victor’s homicide.</content></utterance>
+<utterance uid="32-9"><speaker>SLAUGHTER</speaker><content>So we’re right back to square one.</content></utterance>
+<utterance uid="32-10"><speaker>CASTLE</speaker><content>Not necessarily. Louis, is there anything you can remember about Victor’s death?</content></utterance>
+<utterance uid="32-11"><speaker>LOUIS</speaker><content>No, nothing. I swear.</content></utterance>
+<utterance uid="32-12"><speaker>RYAN</speaker><content>But you and Victor, you did use your device to break into Booth Tower and steal that microchip, right?</content></utterance>
+<utterance uid="32-13"><speaker>LOUIS</speaker><content>Victor came to me with the idea. All right? He was sick of living paycheck to paycheck. Promised to split the profit that we got from selling the chip to Booth’s competitor. I could take care of my mom for once. When he didn’t show up for the chip I didn’t know what to do.</content></utterance>
+<utterance uid="32-14"><speaker>CASTLE</speaker><content>Wait, you have the chip?</content></utterance>
+<utterance uid="32-15"><speaker>CASTLE</speaker><content>Was that part of the plan?</content></utterance>
+<utterance uid="32-16"><speaker>LOUIS</speaker><content>No. When we were leaving the tower Victor started getting all weird.</content></utterance>
+<utterance uid="32-17"><speaker>ESPOSITO</speaker><content>Why? What happened?</content></utterance>
+<utterance uid="32-18"><speaker>LOUIS</speaker><content> I don’t know. But he deviated from our plan. He told me to hang on to the chip and that he would catch up later. He said that he had to take care of some business.</content></utterance>
+<utterance uid="32-19"><speaker>SLAUGHTER</speaker><content>That’s probably part of the bigger score.</content></utterance>
+<utterance uid="32-20"><speaker>LOUIS</speaker><content>Wait, what bigger score?</content></utterance>
+<utterance uid="32-21"><speaker>SLAUGHTER</speaker><content>Hate to tell you, kid. That break in was never just about stealing that microchip. It was an advertisement to all the heist crews in town.</content></utterance>
+<utterance uid="32-22"><speaker>CASTLE</speaker><content>For your invention. Victor was using you.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>RYAN</speaker><content>Mr. Booth, I’m Detective Ryan. This is Detective Esposito.</content></utterance>
+<utterance uid="33-2"><speaker>BOOTH</speaker><content>Oh. So that’s the punk that broke into my building, turned me into a late night punchline, huh?</content></utterance>
+<utterance uid="33-3"><speaker>ESPOSITO</speaker><content>We recovered your microchip.</content></utterance>
+<utterance uid="33-4"><speaker>BOOTH</speaker><content>Who cares. Word in private.</content></utterance>
+<utterance uid="33-5"><speaker>RYAN</speaker><content>Yes.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>BOOTH</speaker><content>Gentlemen, as you know I am a generous supporter of the NYPD, be it the Policeman’s Ball or the Widows and Orphans Fund –</content></utterance>
+<utterance uid="34-2"><speaker>RYAN</speaker><content>Mr. Booth, is there something you need from us?</content></utterance>
+<utterance uid="34-3"><speaker>BOOTH</speaker><content>A favor.</content></utterance>
+<utterance uid="34-4"><speaker>ESPOSITO</speaker><content>A discreet one, I take it.</content></utterance>
+<utterance uid="34-5"><speaker>BOOTH</speaker><content>Yes. The money I’d lose if a rival brought a version of that microchip to market before me pales in comparison to the real fortune that punk kid stole from my building.</content></utterance>
+<utterance uid="34-6"><speaker>ESPOSITO</speaker><content>What fortune is that?</content></utterance>
+<utterance uid="34-7"><speaker>BOOTH</speaker><content>Earlier today fifty million dollars was wired from a Cayman Islands account I have. A private account.</content></utterance>
+<utterance uid="34-8"><speaker>RYAN</speaker><content>You mean a secret account.</content></utterance>
+<utterance uid="34-9"><speaker>BOOTH</speaker><content>Yeah.</content></utterance>
+<utterance uid="34-10"><speaker>RYAN</speaker><content>Hmm.</content></utterance>
+<utterance uid="34-11"><speaker>BOOTH</speaker><content>From my wife. It needs to stay that way. So I need you to do whatever it takes to recover my money quietly to avoid further scandal, you understand?</content></utterance>
+<utterance uid="34-12"><speaker>ESPOSITO</speaker><content>What makes you think this kid stole your money?</content></utterance>
+<utterance uid="34-13"><speaker>BOOTH</speaker><content> Who else could have? Account number, transfer codes, they were kept in an electronic safe in my office two floors up from the clean room where he stole the microchip. I mean, the kid’s a genius. Got a device that can open any lock, right?</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>LOUIS</speaker><content>I don’t know anything about a Cayman account and I sure as hell didn’t steal fifty million!</content></utterance>
+<utterance uid="35-2"><speaker>ESPOSITO</speaker><content>Louis, come on, man. Be straight with us.</content></utterance>
+<utterance uid="35-3"><speaker>SLAUGHTER</speaker><content>Yeah, kid. If you took that money, first of all, impressive, but more importantly you’ve gotta fess up.</content></utterance>
+<utterance uid="35-4"><speaker>LOUIS</speaker><content>Look, it wasn’t me!</content></utterance>
+<utterance uid="35-5"><speaker>CASTLE</speaker><content>Guys, I think he’s telling the truth. If Louis stole the money why would he go to Slaughter for help in the first place? Why would we find him hiding in a warehouse?</content></utterance>
+<utterance uid="35-6"><speaker>SLAUGHTER</speaker><content>Look, Sherlock’s got a point here. Kid’s a genius. For fifty million dollars he’d drop off the face of the Earth before we could even blink.</content></utterance>
+<utterance uid="35-7"><speaker>RYAN</speaker><content>Okay. Louis, is it possible that Victor stole the codes from that safe?</content></utterance>
+<utterance uid="35-8"><speaker>LOUIS</speaker><content>No. No way. He was with me every second we were inside that building.</content></utterance>
+<utterance uid="35-9"><speaker>RYAN</speaker><content>So what are we saying here? Someone else broke into that building, too?</content></utterance>
+<utterance uid="35-10"><speaker>CASTLE</speaker><content>Wait. You said that when you and Victor left the building he started acting strange and broke from the original plan by giving you the microchip.</content></utterance>
+<utterance uid="35-11"><speaker>LOUIS</speaker><content>Yeah.</content></utterance>
+<utterance uid="35-12"><speaker>CASTLE</speaker><content>Well, maybe he did that because he saw something.</content></utterance>
+<utterance uid="35-13"><speaker>ESPOSITO</speaker><content>Like what?</content></utterance>
+<utterance uid="35-14"><speaker>CASTLE</speaker><content>Something that made him think that someone else was piggybacking on their burglary to pull a heist of their own. Who else knew about your plan?</content></utterance>
+<utterance uid="35-15"><speaker>LOUIS</speaker><content>No one. At least not from me.</content></utterance>
+<utterance uid="35-16"><speaker>SLAUGHTER</speaker><content>But maybe from Victor.</content></utterance>
+<utterance uid="35-17"><speaker>LOUIS</speaker><content>Hey, wait a minute. When we accessed the building’s service elevators in the basement Victor wedged the door open. But when we left it was closed. I – I assumed it was a draft.</content></utterance>
+<utterance uid="35-18"><speaker>SLAUGHTER</speaker><content>Could have been a second thief. Hot damn, that’s gotta be what spooked Victor.</content></utterance>
+<utterance uid="35-19"><speaker>ESPOSITO</speaker><content>Maybe when Victor said that he had to take care of something first, it was to confront this piggyback thief.</content></utterance>
+<utterance uid="35-20"><speaker>RYAN</speaker><content>Which means whoever our second burglar was, he not only knew about the plan to rob Booth but also had knowledge of where Booth kept those codes for his secret account.</content></utterance>
+<utterance uid="35-21"><speaker>CASTLE</speaker><content>We find that person, we find our killer.</content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>CASTLE</speaker><content>We’re missing something, gentlemen. More specifically, we’re missing someone. A person who knew Victor and Louis were planning their heist and had intimate knowledge of Booth’s finances. We’ll find our killer in the intersection of that Venn diagram.</content></utterance>
+<utterance uid="36-2"><speaker>ESPOSITO</speaker><content>And the question is, who could that be?</content></utterance>
+<utterance uid="36-3"><speaker>CASTLE</speaker><content>Oh, come on, Espo. You’re not really going to charge Louis, are you?</content></utterance>
+<utterance uid="36-4"><speaker>ESPOSITO</speaker><content>He broke the law, Castle. It’s not Monopoly. There’s no get out of jail free card.</content></utterance>
+<utterance uid="36-5"><speaker>SLAUGHTER</speaker><content>Grand theft. Even though he’s a minor he’s looking at real time.</content></utterance>
+<utterance uid="36-6"><speaker>CASTLE</speaker><content>Kid never stood a chance. All his life he’d been taken advantage of by adults who should be acting like his role models.</content></utterance>
+<utterance uid="36-7"><speaker>RYAN</speaker><content>Hey.</content></utterance>
+<utterance uid="36-8"><speaker>ESPOSITO</speaker><content>What’s up, man? You got something?</content></utterance>
+<utterance uid="36-9"><speaker>RYAN</speaker><content>Oh yeah. While questioning Mr. Booth about his Cayman Islands accounts he told me they were set up a mere five years ago.</content></utterance>
+<utterance uid="36-10"><speaker>SLAUGHTER</speaker><content>Yeah, so?</content></utterance>
+<utterance uid="36-11"><speaker>RYAN</speaker><content>So guess who worked at the accounting firm who originally set them up?</content></utterance>
+</scene>
+<scene id="37"><utterance uid="37-1"><speaker>MARK WEST</speaker><content>I’m just glad you guys were able to find Louis before something horrible happened to him.</content></utterance>
+<utterance uid="37-2"><speaker>RYAN</speaker><content>Yes, uh … we got lucky.  Please, have a seat.</content></utterance>
+<utterance uid="37-3"><speaker>WEST</speaker><content>Poor kid. He’s – he’s been through so much. You know, I’d like to testify as a character witness on Louis’s behalf when this case goes to trial.</content></utterance>
+<utterance uid="37-4"><speaker>ESPOSITO</speaker><content>That’s very kind of you, Mr. West. But won’t you be too busy with your own trial?</content></utterance>
+<utterance uid="37-5"><speaker>WEST</speaker><content> My trial? What are you talking about?</content></utterance>
+<utterance uid="37-6"><speaker>RYAN</speaker><content>We know.</content></utterance>
+<utterance uid="37-7"><speaker>WEST</speaker><content>You know what?</content></utterance>
+<utterance uid="37-8"><speaker>RYAN</speaker><content>Well, for starters, you didn’t always work with at-risk youth.</content></utterance>
+<utterance uid="37-9"><speaker>WEST</speaker><content>No. I mean, I’ve had other jobs. So?</content></utterance>
+<utterance uid="37-10"><speaker>ESPOSITO</speaker><content>So you were Mr. Booth’s accountant. Where you worked on his most sensitive matters.</content></utterance>
+<utterance uid="37-11"><speaker>RYAN</speaker><content>Like setting up tax shelters in off shore banks.</content></utterance>
+<utterance uid="37-12"><speaker>WEST</speaker><content>Well, yeah. But the work was unfulfilling, so I left because I wanted to give back to the community.</content></utterance>
+<utterance uid="37-13"><speaker>RYAN</speaker><content>No, you wanted to give back to Mr. Booth’s wife, but she didn’t appreciate your sexual advances, so Mr. Booth fired your ass.</content></utterance>
+<utterance uid="37-14"><speaker>ESPOSITO</speaker><content>Yeah, you lost your job, you lost your pension, all those stock options.</content></utterance>
+<utterance uid="37-15"><speaker>WEST</speaker><content>All right, listen. I know how this looks, but –</content></utterance>
+<utterance uid="37-16"><speaker>ESPOSITO</speaker><content>Your reputation was ruined. The only job you could get was working with juvenile delinquents.</content></utterance>
+<utterance uid="37-17"><speaker>RYAN</speaker><content>Not exactly the cushy life you were used to.</content></utterance>
+<utterance uid="37-18"><speaker>ESPOSITO</speaker><content>So you heard about Louis’s invention. And you saw not only a way to get back on top –</content></utterance>
+<utterance uid="37-19"><speaker>RYAN</speaker><content>But also get revenge on your former boss who ruined your life. That’s why you convinced Victor to pull that heist, didn’t you?</content></utterance>
+<utterance uid="37-20"><speaker>ESPOSITO</speaker><content>So you could go in right behind him and steal those Cayman Island bank codes.</content></utterance>
+<utterance uid="37-21"><speaker>WEST</speaker><content>Well, that is an imaginative story. You got surprise twists, revenge. All that’s missing is the proof.</content></utterance>
+<utterance uid="37-22"><speaker>ESPOSITO</speaker><content>Like records of the bank transfers on your home computer? We got a warrant for your place, Mark.</content></utterance>
+<utterance uid="37-23"><speaker>RYAN</speaker><content>We also have a credit card receipt for a cab ride that you took to Victor’s apartment on the night he was murdered.</content></utterance>
+<utterance uid="37-24"><speaker>RYAN</speaker><content>It’s over, Mr. West.</content></utterance>
+<utterance uid="37-25"><speaker>WEST</speaker><content>Look, Victor wasn’t supposed to know what I was doing. But somehow he found out and he confronted me at his apartment. Now, I panicked, okay? I didn’t mean to kill him. I – you have to believe me. That was not –</content></utterance>
+</scene>
+<scene id="38"><utterance uid="38-1"><speaker>SLAUGHTER</speaker><content>Ah, come on. It ain’t that bad, kid. We caught the bastard, didn’t we?</content></utterance>
+<utterance uid="38-2"><speaker>LOUIS</speaker><content>Yeah. But I’m still going to prison. How much time am I looking at?</content></utterance>
+<utterance uid="38-3"><speaker>SLAUGHTER</speaker><content>Maybe none.</content></utterance>
+<utterance uid="38-4"><speaker>LOUIS</speaker><content>What? How?</content></utterance>
+<utterance uid="38-5"><speaker>SLAUGHTER</speaker><content>You’re a good kid, Louis. Too good to be rotting in a cell for a few bonehead decisions. So from now on I’m going to personally see to it that you’ve got someone looking out for you. That you’ve got a cool role model.</content></utterance>
+<utterance uid="38-6"><speaker>LOUIS</speaker><content>You mean Mr. Castle?</content></utterance>
+<utterance uid="38-7"><speaker>SLAUGHTER</speaker><content>No. Me.</content></utterance>
+<utterance uid="38-8"><speaker>LOUIS</speaker><content>Really?</content></utterance>
+<utterance uid="38-9"><speaker>SLAUGHTER</speaker><content>You bet. First thing I’m going to do is I’m going to use my pull to get the Mayor to ask the DA to reduce your sentence down to probation.</content></utterance>
+<utterance uid="38-10"><speaker>LOUIS</speaker><content>You’ve got that kind of clout with the Mayor?</content></utterance>
+<utterance uid="38-11"><speaker>SLAUGHTER</speaker><content>Hell no. But Castle does. And I’m going to see to it that he makes that call.  Or else.</content></utterance>
+<utterance uid="38-12"><speaker>LOUIS</speaker><content>So – so you’re going to beat up Mr. Castle if he doesn’t do what you ask?</content></utterance>
+<utterance uid="38-13"><speaker>LOUIS</speaker><content>Some role model.</content></utterance>
+<utterance uid="38-14"><speaker>SLAUGHTER</speaker><content>Yeah. You got a point. Looks like the two of us are going to have to do some role modeling for each other. Sound good?</content></utterance>
+</scene>
+<scene id="39"><utterance uid="39-1"><speaker>SLAUGHTER</speaker><content>Uh oh, you got that dumb look on your face again.</content></utterance>
+<utterance uid="39-2"><speaker>CASTLE</speaker><content>Um – I don’t know. I’m just confused about Beckett.</content></utterance>
+<utterance uid="39-3"><speaker>SLAUGHTER</speaker><content>That makes two of us. I mean, how does a hot lady like that fall in love with a guy like you? Especially when there’s real men like me running around.</content></utterance>
+<utterance uid="39-4"><speaker>CASTLE</speaker><content>All right, Slaughter, I’ll take a lot of crap from you, but not about Beckett. It’s not a joke to me.</content></utterance>
+<utterance uid="39-5"><speaker>SLAUGHTER</speaker><content>Just trying to get your attention, Sherlock. Look, I don’t know much, but what I do know is that lady has it bad for you. And you feel the same.</content></utterance>
+<utterance uid="39-6"><speaker>CASTLE</speaker><content>Your point?</content></utterance>
+<utterance uid="39-7"><speaker>SLAUGHTER</speaker><content>Whatever’s going on with Beckett, she shouldn’t have to go through it alone.</content></utterance>
+<utterance uid="39-8"><speaker>CASTLE</speaker><content>Yes, well, I’ve tried. She won’t let me in.</content></utterance>
+<utterance uid="39-9"><speaker>SLAUGHTER</speaker><content>Then quit asking permission.  I lost my wife because I wasn’t man enough to put her needs ahead of mine. Don’t make the same mistake.</content></utterance>
+<utterance uid="39-10"><speaker>CASTLE</speaker><content>You know what, Slaughter? For all your bluster and bravado, you are actually a wise, and dare I say sensitive –</content></utterance>
+<utterance uid="39-11"><speaker>SLAUGHTER</speaker><content>Whoa! Hey! Stop right there. Only you could take two guys talking about a chick and make it weird.</content></utterance>
+<utterance uid="39-12"><speaker>CASTLE</speaker><content>Sorry.</content></utterance>
+<utterance uid="39-13"><speaker>SLAUGHTER</speaker><content>Yeah. Me too.</content></utterance>
+<utterance uid="39-14"><speaker>SLAUGHTER</speaker><content>Every time.</content></utterance>
+<utterance uid="39-15"><speaker>CASTLE</speaker><content>Thank you.</content></utterance>
+<utterance uid="39-16"><speaker>SLAUGHTER</speaker><content>Whatever, Sherlock.</content></utterance>
+<utterance uid="39-17"><speaker>THE END</speaker><content>CASTLE</content></utterance>
+</scene>
+</script>

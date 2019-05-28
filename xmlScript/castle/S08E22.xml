@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+
+
+<scene id="1"><utterance uid="1-1"><speaker>KATE BECKETT</speaker><content>Okay, it’s almost time.</content></utterance>
+<utterance uid="1-2"><speaker>RICHARD CASTLE</speaker><content>All right. Shall we review?</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>VIKRAM SINGH</speaker><content>Please.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>BECKETT</speaker><content>Okay, according to Caleb this phone is going to ring at exactly 8AM. Now because it’s GPS enabled it will only work in this particular park.</content></utterance>
+<utterance uid="3-2"><speaker>CASTLE</speaker><content>At which time an electronically altered voice, most likely LokSat’s, will issue Caleb his orders.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>VIKRAM</speaker><content>Orders that I’ll intercept and trace with a cellular relay.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>BECKETT</speaker><content>Okay, I’m going to attach you to the relay. You connected, Vikram?</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>VIKRAM</speaker><content>Synched up and ready to go. Guys, this is it. If all goes well we’ll identify LokSat and finally take his ass down.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>BECKETT</speaker><content>And if anything goes sideways we immediately shut it down and meet up at the precinct. Got it?</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>VIKRAM</speaker><content>Roger that.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>BECKETT</speaker><content>You thinking what I’m thinking?</content></utterance>
+<utterance uid="9-2"><speaker>CASTLE</speaker><content>Mmhmm. You want a Fudgsicle, too? I know, could be a trap.</content></utterance>
+<utterance uid="9-3"><speaker>BECKETT</speaker><content>Just because Caleb switched sides doesn’t mean that LokSat doesn’t have him under surveillance. Any one of these people could be a LokSat agent. Or even LokSat himself.</content></utterance>
+<utterance uid="9-4"><speaker>CASTLE</speaker><content>You care to put a wager on it?</content></utterance>
+<utterance uid="9-5"><speaker>BECKETT</speaker><content>A wager on what?</content></utterance>
+<utterance uid="9-6"><speaker>CASTLE</speaker><content>On which one’s LokSat. I got twenty bucks says that it’s that handsy yogi over there.</content></utterance>
+<utterance uid="9-7"><speaker>BECKETT</speaker><content>I’m going for the carrot-top Cruella DeVille. Wait a minute, does she look a little bit like your first ex-wife?</content></utterance>
+<utterance uid="9-8"><speaker>CASTLE</speaker><content>She kind of does. Oh my God, could my ex-wife be LokSat? Because in a lot of ways that would make perfect sense.</content></utterance>
+<utterance uid="9-9"><speaker>BECKETT</speaker><content>All right, Vikram, here we go.</content></utterance>
+<utterance uid="9-10"><speaker>ROBOT VOICE</speaker><content>Good morning, Caleb. I have an urgent matter for you. There’s an abandoned warehouse near Broadway and Flushing in Brooklyn. There’s a security booth in the parking lot. Dead drop a flash drive with the new bank routing numbers in the top drawer of that booth at precisely noon today for my accountant to retrieve. That is all for now.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>BECKETT</speaker><content> Did you get a trace?</content></utterance>
+<utterance uid="10-2"><speaker>VIKRAM</speaker><content>No, the call was short.  Wait, I’ve got something. Oh no, it says here the call originated in Dye-2.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>BECKETT</speaker><content>Uh, what’s that?</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>VIKRAM</speaker><content>It’s an abandoned cold war radar station in the Arctic Circle. LokSat must have set up a cellular relay there. Guys, this is a dead end.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>CASTLE</speaker><content>Or … is it an opportunity? We all heard Caleb’s instructions.</content></utterance>
+<utterance uid="13-2"><speaker>BECKETT</speaker><content>LokSat’s accountant is going to expose himself at that dead drop.</content></utterance>
+<utterance uid="13-3"><speaker>CASTLE</speaker><content>Talk about high on the food chain. We get LokSat’s accountant …</content></utterance>
+<utterance uid="13-4"><speaker>BECKETT</speaker><content>It could bring us one step closer to LokSat himself. Vikram, send an encrypted email to Caleb. He’s going to have to show up at that dead drop.  And you have to get ahold of Hayley. We need all the help we can get.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>KEVIN RYAN</speaker><content> No matter how long I’ve been on the job, burned ones always get me.</content></utterance>
+<utterance uid="14-2"><speaker>JAVIER ESPOSITO</speaker><content>Yo Lanie, do we have a name?</content></utterance>
+<utterance uid="14-3"><speaker>LANIE PARISH</speaker><content>No, he’s a John Doe.</content></utterance>
+<utterance uid="14-4"><speaker>ESPOSITO</speaker><content>Do we know who owns the car?</content></utterance>
+<utterance uid="14-5"><speaker>LANIE</speaker><content>It was stolen last night from a used car lot. Unfortunately I can’t tell you much right now other than the victim was male, and you see these burnt remnants around his legs, hands, and face?</content></utterance>
+<utterance uid="14-6"><speaker>RYAN</speaker><content>Duct tape?</content></utterance>
+<utterance uid="14-7"><speaker>LANIE</speaker><content>Yep. Our victim was bound, gagged, and very much alive when the killer lit the fire.</content></utterance>
+<utterance uid="14-8"><speaker>RYAN</speaker><content>Hell of a way to go.</content></utterance>
+<utterance uid="14-9"><speaker>ESPOSITO</speaker><content>Yo, this is an Endicott briefcase, very high end. You can still make out the serial number on the frame. If we’re lucky, our victim registered it and we can get his name that way.</content></utterance>
+<utterance uid="14-10"><speaker>RYAN</speaker><content>The killer chose this location for a reason. Vacant buildings on either side, not a security camera in sight.  It rained last night, so clearly these tracks were made afterwards.</content></utterance>
+<utterance uid="14-11"><speaker>ESPOSITO</speaker><content>They might be from the killer walking to his getaway car.</content></utterance>
+<utterance uid="14-12"><speaker>RYAN</speaker><content>Yeah. You know, why don’t we make impressions of all the shoeprints and tire tracks. Maybe we’ll get lucky.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>HAYLEY SHIPTON</speaker><content>And what do I need these for?</content></utterance>
+<utterance uid="15-2"><speaker>CASTLE</speaker><content>Like I said, you’re the lookout.  When we do our surveillance of LokSat’s accountant we’re going to need you to find a high vantage point. Be our eye in the sky.</content></utterance>
+<utterance uid="15-3"><speaker>CASTLE</speaker><content>There’s not a guitar in there, is there?</content></utterance>
+<utterance uid="15-4"><speaker>HAYLEY</speaker><content>Not the kind that plays music.</content></utterance>
+<utterance uid="15-5"><speaker>CASTLE</speaker><content>Uh, Hayley?</content></utterance>
+<utterance uid="15-6"><speaker>HAYLEY</speaker><content>Hmm?</content></utterance>
+<utterance uid="15-7"><speaker>CASTLE</speaker><content>In case anything goes wrong –</content></utterance>
+<utterance uid="15-8"><speaker>HAYLEY</speaker><content>I will get Martha and Alexis here and I will protect them. You have my word.</content></utterance>
+<utterance uid="15-9"><speaker>CASTLE</speaker><content>Thank you. I owe you one.  And by one I mean more like one dozen.</content></utterance>
+<utterance uid="15-10"><speaker>HAYLEY</speaker><content>Mmm.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>VIKRAM</speaker><content>After we take down LokSat I’m thinking I might tender my resignation.</content></utterance>
+<utterance uid="16-2"><speaker>BECKETT</speaker><content>So you want to go back to being an government analyst?</content></utterance>
+<utterance uid="16-3"><speaker>VIKRAM</speaker><content>I want to go back to being boring. I’ve kind of forgotten what that feels like. I know, that probably sounds stupid.</content></utterance>
+<utterance uid="16-4"><speaker>BECKETT</speaker><content>No, no. Not at all.  Thank you for doing this with me.</content></utterance>
+<utterance uid="16-5"><speaker>VIKRAM</speaker><content>Are you kidding? Thank you –  – for everything. Almost there.</content></utterance>
+<utterance uid="16-6"><speaker>BECKETT</speaker><content>Yeah. Almost. Speaking of, we should head out.</content></utterance>
+<utterance uid="16-7"><speaker>ESPOSITO</speaker><content>Hey, Captain.  I’m sorry, are we – are we interrupting something?</content></utterance>
+<utterance uid="16-8"><speaker>BECKETT</speaker><content>Uh, no. What’s going on?</content></utterance>
+<utterance uid="16-9"><speaker>RYAN</speaker><content>Well, we got a lead on our homicide. The tire impressions made by our killer’s getaway car show that the wheels were staggered, meaning the ones in the back were larger than the ones in the front.</content></utterance>
+<utterance uid="16-10"><speaker>BECKETT</speaker><content>So the car’s exotic?</content></utterance>
+<utterance uid="16-11"><speaker>RYAN</speaker><content>Specifically it means that the car was either mid or rear engine. So even though we don’t have any traffic cams from near the crime scene we can scrub footage from the surrounding areas and then –</content></utterance>
+<utterance uid="16-12"><speaker>BECKETT</speaker><content>Hopefully find a car that fits the bill. Okay. Good job. I’ll leave you guys to it.</content></utterance>
+<utterance uid="16-13"><speaker>ESPOSITO</speaker><content>Yo, Beckett.  Is there something going on that we should know about?</content></utterance>
+<utterance uid="16-14"><speaker>BECKETT</speaker><content>No.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>BECKETT</speaker><content>Vikram, you got a view on that security booth?</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>VIKRAM</speaker><content>Completely unobstructed.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>BECKETT</speaker><content>Okay. Between the both of us we should get a good photo of that accountant.</content></utterance>
+<utterance uid="19-2"><speaker>CASTLE</speaker><content>Are you sure that’s all we’ll need?</content></utterance>
+<utterance uid="19-3"><speaker>BECKETT</speaker><content>Yeah. Vikram’s going to run the accountant’s photo through facial recognition. We’ll ID it and then we’ll track him down later. Hayley, you in position?</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>HAYLEY</speaker><content>That’s an affirmative.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>CASTLE</speaker><content>Your guitar all tuned up, ready to play?</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>HAYLEY</speaker><content>Just about.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>BECKETT</speaker><content>Castle, you see anything?</content></utterance>
+<utterance uid="23-2"><speaker>CASTLE</speaker><content>Nah. Just two sewer rats fighting over a piece of pizza.</content></utterance>
+<utterance uid="23-3"><speaker>BECKETT</speaker><content>Hayley?</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>HAYLEY</speaker><content>Yeah?</content></utterance>
+<utterance uid="24-2"><speaker>BECKETT</speaker><content>You see anything?</content></utterance>
+<utterance uid="24-3"><speaker>HAYLEY</speaker><content>All’s quiet on the western front.</content></utterance>
+<utterance uid="24-4"><speaker>VIKRAM</speaker><content>I don’t get it. Caleb sent me back an encrypted email confirming he’d make the drop at noon sharp.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>BECKETT</speaker><content>Don’t worry. He’ll be here.</content></utterance>
+<utterance uid="25-2"><speaker>CASTLE</speaker><content>What f-stop are you using?</content></utterance>
+<utterance uid="25-3"><speaker>BECKETT</speaker><content>Excuse me?</content></utterance>
+<utterance uid="25-4"><speaker>CASTLE</speaker><content>F-stop. It’s a function of the camera. It tells it how much light to –</content></utterance>
+<utterance uid="25-5"><speaker>BECKETT</speaker><content>Yeah, no, I know what an f-stop is. This isn’t a shoot for National Geographic. It’s on auto.</content></utterance>
+<utterance uid="25-6"><speaker>CASTLE</speaker><content> Oh, no, no, no. Never use auto. Here, let me get that.</content></utterance>
+<utterance uid="25-7"><speaker>BECKETT</speaker><content>Castle, stop messing with my stuff.</content></utterance>
+<utterance uid="25-8"><speaker>CASTLE</speaker><content>I thought you liked it when I messed with your stuff.</content></utterance>
+<utterance uid="25-9"><speaker>HAYLEY</speaker><content>Hey, um, I hate to interrupt your pillow talk but Caleb Brown’s just arrived.</content></utterance>
+<utterance uid="25-10"><speaker>BECKETT</speaker><content>All right, guys. Eyes peeled. The accountant’s going to be nearby.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>VIKRAM</speaker><content>All right, Caleb’s making the drop.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>BECKETT</speaker><content>Espo. Kind of busy here.</content></utterance>
+<utterance uid="27-2"><speaker>ESPOSITO</speaker><content>I know, I know. But listen, I traced the serial number on the briefcase from the crime scene. It belongs to Caleb Brown. So I had the lab run his DNA. It’s a match. Caleb’s dead. He’s our victim.</content></utterance>
+<utterance uid="27-3"><speaker>BECKETT</speaker><content>Espo? Are you there?</content></utterance>
+<utterance uid="27-4"><speaker>CASTLE</speaker><content>What is it?</content></utterance>
+<utterance uid="27-5"><speaker>BECKETT</speaker><content>That’s not Caleb. Castle, this is a trap.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>BECKETT</speaker><content>Anyone there? Can you hear us?</content></utterance>
+<utterance uid="28-2"><speaker>CASTLE</speaker><content>Hayley? Vikram?</content></utterance>
+<utterance uid="28-3"><speaker>BECKETT</speaker><content>They’ve got a frequency jammer. Castle, we’re cut off.</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>HAYLEY</speaker><content>Uh oh.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>MAN</speaker><content>Open fire!</content></utterance>
+<utterance uid="30-2"><speaker>BECKETT</speaker><content>Castle!</content></utterance>
+<utterance uid="30-3"><speaker>MAN</speaker><content>Sniper!</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>HAYLEY</speaker><content>I don’t have a clear shot.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>CASTLE</speaker><content>I’m out.</content></utterance>
+<utterance uid="32-2"><speaker>BECKETT</speaker><content>Yeah. Same.</content></utterance>
+<utterance uid="32-3"><speaker>MASON WOOD</speaker><content>Get in!</content></utterance>
+<utterance uid="32-4"><speaker>CASTLE</speaker><content>Mason?</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>HAYLEY</speaker><content>Ugh. We’re out of here.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>MASON</speaker><content>No one’s following. We’re clear.</content></utterance>
+<utterance uid="34-2"><speaker>CASTLE</speaker><content>That … was amazing! Mason, you sir are, quite literally, a lifesaver. And talk about a getaway vehicle. A Korean barbeque taco truck? Are you serious? Is anyone hungry right now? Because I could totally whip up some kimchi tostados.</content></utterance>
+<utterance uid="34-3"><speaker>BECKETT</speaker><content>Who are you?</content></utterance>
+<utterance uid="34-4"><speaker>MASON</speaker><content>Whoa, easy now.</content></utterance>
+<utterance uid="34-5"><speaker>CASTLE</speaker><content>Whoa, whoa, whoa. No, no, no, no. Kate, Kate, Kate. This is Mason Wood. He’s the head of the Greatest Detective Society. I told you about meeting him in LA.</content></utterance>
+<utterance uid="34-6"><speaker>BECKETT</speaker><content>That doesn’t mean that we can trust him.</content></utterance>
+<utterance uid="34-7"><speaker>MASON</speaker><content>Fine, don’t trust me. But would you mind pointing that thing away from me? It makes me just a bit nervous.</content></utterance>
+<utterance uid="34-8"><speaker>CASTLE</speaker><content>Don’t worry, she’s out of bullets.</content></utterance>
+<utterance uid="34-9"><speaker>BECKETT</speaker><content>Why would you tell him that?</content></utterance>
+<utterance uid="34-10"><speaker>CASTLE</speaker><content>Because he saved our lives! And he’s a friend.</content></utterance>
+<utterance uid="34-11"><speaker>BECKETT</speaker><content>Who just happened to be at the right place at the right time with the right Korean barbeque truck? I don’t think so.</content></utterance>
+<utterance uid="34-12"><speaker>CASTLE</speaker><content>She does make a good point. Mason, what are you doing here?</content></utterance>
+<utterance uid="34-13"><speaker>MASON</speaker><content>Your mother sent me.</content></utterance>
+<utterance uid="34-14"><speaker>CASTLE</speaker><content>My mother?</content></utterance>
+<utterance uid="34-15"><speaker>BECKETT</speaker><content>You know Martha?</content></utterance>
+<utterance uid="34-16"><speaker>MASON</speaker><content>No. Not that mother. The other one. The stepmother. Rita.</content></utterance>
+<utterance uid="34-17"><speaker>BECKETT</speaker><content>How do you know her?</content></utterance>
+<utterance uid="34-18"><speaker>MASON</speaker><content>Once upon a time I was a lawyer with the state department and on an overseas assignment Rita was in my convoy going to the embassy. We were hit, we were taken hostage. If it hadn’t been for Rita I –  – look, I just owe her, all right? And when she called and said that you two were sticking your noses into something dangerous and needed a babysitter, I said okay.</content></utterance>
+<utterance uid="34-19"><speaker>CASTLE</speaker><content>Did she tell you about LokSat? How he’s connected to -</content></utterance>
+<utterance uid="34-20"><speaker>MASON</speaker><content>Ok, now stop right there. Now, whatever this is and whoever you have obviously pissed off, the less I know about this the better my chances are of staying alive. Remember, I’m just a babysitter, so I’ll change your diapers and feed you your bottle and save you from a strike force of armed mercenaries, but I am not joining your fight.</content></utterance>
+<utterance uid="34-21"><speaker>BECKETT</speaker><content>Here, give me your cell phone. Hit squad can find us on it. I’m going to dump them.</content></utterance>
+<utterance uid="34-22"><speaker>MASON</speaker><content>Here.  You’re welcome to take anything you need. It’s all untraceable. Good luck to both of you.</content></utterance>
+<utterance uid="34-23"><speaker>CASTLE</speaker><content>How do we thank you?</content></utterance>
+<utterance uid="34-24"><speaker>MASON</speaker><content>You solved my friend’s murder back in LA. Let’s call it even.</content></utterance>
+<utterance uid="34-25"><speaker>BECKETT</speaker><content>Here.</content></utterance>
+<utterance uid="34-26"><speaker>BECKETT</speaker><content>How did that happen? We were careful.</content></utterance>
+<utterance uid="34-27"><speaker>CASTLE</speaker><content>LokSat must have discovered that Caleb betrayed him and then got wind of us.</content></utterance>
+<utterance uid="34-28"><speaker>BECKETT</speaker><content>So LokSat killed Caleb and then all he had to do was hack into Caleb’s account and send a fake email to Vikram agreeing to make that drop.</content></utterance>
+<utterance uid="34-29"><speaker>CASTLE</speaker><content>LokSat is going to keep coming for us. Or worse, he’s going to come after our families.</content></utterance>
+<utterance uid="34-30"><speaker>BECKETT</speaker><content>Okay, well my dad’s away on business so he’s okay for now. But you’ve got to get Hayley to pick up Alexis and Martha and take them to the PI office safe room.</content></utterance>
+<utterance uid="34-31"><speaker>CASTLE</speaker><content>What about Vikram? He’s in danger, too.</content></utterance>
+<utterance uid="34-32"><speaker>BECKETT</speaker><content>I’ll track him down and then we’ll meet up and we’ll make a plan.  No, no, no. Don’t give me that face. Just say we’ll meet at the PI office.</content></utterance>
+<utterance uid="34-33"><speaker>CASTLE</speaker><content> We’ll meet at the PI office.</content></utterance>
+<utterance uid="34-34"><speaker>BECKETT</speaker><content>Okay.</content></utterance>
+<utterance uid="34-35"><speaker>BECKETT</speaker><content>I love you.</content></utterance>
+<utterance uid="34-36"><speaker>CASTLE</speaker><content>I love you, too.</content></utterance>
+<utterance uid="34-37"><speaker>BECKETT</speaker><content>Okay.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>ESPOSITO</speaker><content>Yo.</content></utterance>
+<utterance uid="35-2"><speaker>RYAN</speaker><content>Hey. Still haven’t found any mid or rear engine cars yet but I still have several traffic cams to scrub through, so –</content></utterance>
+<utterance uid="35-3"><speaker>ESPOSITO</speaker><content>No, check this out. CSU uncovered a message in that burned out truck. Now, I think it was from Caleb. He must have scratched it when the killer was driving him to that empty parking lot. He carved it into the metal. It survived the blaze.</content></utterance>
+<utterance uid="35-4"><speaker>RYAN</speaker><content>Was he trying to ID his killer for us? RT HD MN?</content></utterance>
+<utterance uid="35-5"><speaker>ESPOSITO</speaker><content>Right hand man.</content></utterance>
+<utterance uid="35-6"><speaker>RYAN</speaker><content>Whose right hand man?</content></utterance>
+<utterance uid="35-7"><speaker>VIKRAM</speaker><content>LokSat’s.</content></utterance>
+<utterance uid="35-8"><speaker>RYAN</speaker><content>Who’s LokSat?</content></utterance>
+<utterance uid="35-9"><speaker>VIKRAM</speaker><content>Caleb left that message for Beckett.</content></utterance>
+<utterance uid="35-10"><speaker>ESPOSITO</speaker><content>You’re still not answering the question, Vikram. Who the hell is LokSat?</content></utterance>
+<utterance uid="35-11"><speaker>VIKRAM</speaker><content>The big bad wolf. The person behind Senator Bracken, Allison Hyde, the hit squads. Every terrible thing that’s happened to me and Beckett the last nine months.</content></utterance>
+<utterance uid="35-12"><speaker>BECKETT</speaker><content>You shouldn’t have told them.</content></utterance>
+<utterance uid="35-13"><speaker>ESPOSITO</speaker><content>Yeah. You should have.</content></utterance>
+<utterance uid="35-14"><speaker>RYAN</speaker><content>Now tell us everything.</content></utterance>
+<utterance uid="35-15"><speaker>BECKETT</speaker><content>Come on.</content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>HAYLEY</speaker><content>No, no, no, no, no. He’s okay. He’s okay, he’s okay.  It’s about bloody time you got here.</content></utterance>
+</scene>
+<scene id="37"><utterance uid="37-1"><speaker>MARTHA RODGERS</speaker><content>Oh, Richard! Darling! Oh, thank goodness you’re all right.</content></utterance>
+<utterance uid="37-2"><speaker>CASTLE</speaker><content> Thank you.</content></utterance>
+<utterance uid="37-3"><speaker>MARTHA</speaker><content>Where’s Katherine?</content></utterance>
+<utterance uid="37-4"><speaker>CASTLE</speaker><content>She’s coming.</content></utterance>
+<utterance uid="37-5"><speaker>ALEXIS CASTLE</speaker><content>So what’s going on? Why are we in lockdown?</content></utterance>
+<utterance uid="37-6"><speaker>CASTLE</speaker><content> You didn’t tell them?</content></utterance>
+<utterance uid="37-7"><speaker>HAYLEY</speaker><content>Considering the danger, I didn’t think it was my place.</content></utterance>
+<utterance uid="37-8"><speaker>ALEXIS</speaker><content>Dad, does this have something to do with what you found out in LA?</content></utterance>
+<utterance uid="37-9"><speaker>CASTLE</speaker><content>Of course. I apologize. You – you both have a right to know. This all started when –</content></utterance>
+</scene>
+<scene id="38"><utterance uid="38-1"><speaker>RYAN</speaker><content>So Caleb was burned alive because LokSat found out he switched sides and was working with you?</content></utterance>
+<utterance uid="38-2"><speaker>BECKETT</speaker><content>Yeah. And now LokSat is going after Vikram, Castle, me … anyone that knows anything about them. So I need you guys to forget everything that you just heard.</content></utterance>
+<utterance uid="38-3"><speaker>RYAN</speaker><content>Oh no, afraid we can’t do that, boss.</content></utterance>
+<utterance uid="38-4"><speaker>BECKETT</speaker><content>You guys, LokSat took out my entire AG team. I’m not going to let that happen to you.</content></utterance>
+<utterance uid="38-5"><speaker>ESPOSITO</speaker><content>We’re not going to let you go to war without your two best soldiers.</content></utterance>
+<utterance uid="38-6"><speaker>BECKETT</speaker><content>Right now there’s no war to be fought. Castle and I are probably going to have to disappear for a while. At least until we find another lead on LokSat.</content></utterance>
+<utterance uid="38-7"><speaker>ESPOSITO</speaker><content>Beckett, we already have one.  Caleb IDed his killer. LokSat’s right hand man. You know what this means?</content></utterance>
+<utterance uid="38-8"><speaker>RYAN</speaker><content>Catching Caleb’s killer will put us on a path to LokSat.</content></utterance>
+<utterance uid="38-9"><speaker>VIKRAM</speaker><content>Guys? I got him.</content></utterance>
+<utterance uid="38-10"><speaker>BECKETT</speaker><content>The right hand man?</content></utterance>
+<utterance uid="38-11"><speaker>VIKRAM</speaker><content>Yeah. I found a credit card hit off of Caleb’s financials. He ate alone at a diner last night. They just emailed me the security cam footage from the parking lot.</content></utterance>
+<utterance uid="38-12"><speaker>RYAN</speaker><content>That’s Caleb with the briefcase?</content></utterance>
+<utterance uid="38-13"><speaker>VIKRAM</speaker><content>Yes. And that’s got to be LokSat’s right hand man.</content></utterance>
+<utterance uid="38-14"><speaker>ESPOSITO</speaker><content>So this is right before he torched Caleb. He never had a chance.</content></utterance>
+<utterance uid="38-15"><speaker>BECKETT</speaker><content>Can you run facial recognition?</content></utterance>
+<utterance uid="38-16"><speaker>VIKRAM</speaker><content>No, we only have his profile.</content></utterance>
+<utterance uid="38-17"><speaker>BECKETT</speaker><content>LokSat and his cleaner have had us running for cover like they’re the hunters. That’s good. They’ll never see us coming.</content></utterance>
+</scene>
+<scene id="39"><utterance uid="39-1"><speaker>CASTLE</speaker><content>That’s not what we agreed to. You were supposed to grab Vikram and then come straight here.</content></utterance>
+<utterance uid="39-2"><speaker>BECKETT</speaker><content>I – I know. But that was before the guys were brought in on this and before we got actual evidence on LokSat. I can’t leave now.</content></utterance>
+<utterance uid="39-3"><speaker>CASTLE</speaker><content>Well, then I’m coming down there.</content></utterance>
+<utterance uid="39-4"><speaker>BECKETT</speaker><content>I – no. No. Absolutely not. You can’t risk coming out in the open.</content></utterance>
+<utterance uid="39-5"><speaker>CASTLE</speaker><content>And you can’t risk staying in the open.</content></utterance>
+<utterance uid="39-6"><speaker>BECKETT</speaker><content>Castle, I am in one of the safest buildings in the city. A police station. And better yet, my police station with my cops. Nothing’s going to happen to me while I’m here.</content></utterance>
+<utterance uid="39-7"><speaker>RYAN</speaker><content>Captain Beckett?</content></utterance>
+<utterance uid="39-8"><speaker>BECKETT</speaker><content>Babe, I’ve gotta go.</content></utterance>
+<utterance uid="39-9"><speaker>CASTLE</speaker><content>Will you stay at the precinct?</content></utterance>
+<utterance uid="39-10"><speaker>BECKETT</speaker><content>Yes. I promise. I’ll stay here.  I love you.</content></utterance>
+<utterance uid="39-11"><speaker>CASTLE</speaker><content>I love you, too.</content></utterance>
+</scene>
+<scene id="40"><utterance uid="40-1"><speaker>BECKETT</speaker><content>What’ve you got?</content></utterance>
+<utterance uid="40-2"><speaker>RYAN</speaker><content>We found him.</content></utterance>
+</scene>
+<scene id="41"><utterance uid="41-1"><speaker>RYAN</speaker><content>So we scrubbed through every available traffic cam around the crime scene and we were only able to find one car with staggered wheels due to being mid-engine.</content></utterance>
+<utterance uid="41-2"><speaker>ESPOSITO</speaker><content>Which matches the tire impressions that we found at the crime scene.</content></utterance>
+<utterance uid="41-3"><speaker>VIKRAM</speaker><content>This is the car five blocks from the vacant lot driving away.</content></utterance>
+<utterance uid="41-4"><speaker>BECKETT</speaker><content>No plate. So how do we know that LokSat’s right hand man is driving the car?</content></utterance>
+<utterance uid="41-5"><speaker>VIKRAM</speaker><content>Just wait. Using traffic cams we can follow the car to what we assume is his house.</content></utterance>
+<utterance uid="41-6"><speaker>ESPOSITO</speaker><content>That’s him all right.</content></utterance>
+<utterance uid="41-7"><speaker>BECKETT</speaker><content>Who owns the home?</content></utterance>
+<utterance uid="41-8"><speaker>RYAN</speaker><content>A shell corporation.</content></utterance>
+<utterance uid="41-9"><speaker>VIKRAM</speaker><content>Now watch.  This is a live shot. He’s still there.</content></utterance>
+<utterance uid="41-10"><speaker>BECKETT</speaker><content>All right. Grab your tact gear. We’re going to that house.</content></utterance>
+<utterance uid="41-11"><speaker>RYAN</speaker><content>Excuse me, Beckett. Correct me if I’m wrong, but didn’t you just tell Castle that you’re staying put at the precinct?</content></utterance>
+<utterance uid="41-12"><speaker>BECKETT</speaker><content>You think I’m going to send you into harm’s way while I’m sitting safe behind a desk? No. Not going to happen.</content></utterance>
+<utterance uid="41-13"><speaker>ESPOSITO</speaker><content>You’ve got a target on your back. We don’t. You’re staying here.</content></utterance>
+<utterance uid="41-14"><speaker>BECKETT</speaker><content>He does know that I’m Captain, right?</content></utterance>
+<utterance uid="41-15"><speaker>RYAN</speaker><content>Yes, ma’am. You can fire us both for insubordination, otherwise we’ve got this.</content></utterance>
+</scene>
+<scene id="42"><utterance uid="42-1"><speaker>MARTHA</speaker><content>A feisty merlot, an elegant spread, delightful company... if I wasn’t scared out of my mind this would be a lovely afternoon.</content></utterance>
+<utterance uid="42-2"><speaker>CASTLE</speaker><content>I should be with Kate. I promised her we’d take down LokSat together.</content></utterance>
+<utterance uid="42-3"><speaker>ALEXIS</speaker><content>You also promised you’d stay here.</content></utterance>
+<utterance uid="42-4"><speaker>CASTLE</speaker><content>I’m going to the precinct.</content></utterance>
+<utterance uid="42-5"><speaker>MARTHA</speaker><content>Oh, no!</content></utterance>
+<utterance uid="42-6"><speaker>CASTLE</speaker><content>I’ll be fine. Don’t worry.</content></utterance>
+<utterance uid="42-7"><speaker>MARTHA</speaker><content>I don’t think –</content></utterance>
+<utterance uid="42-8"><speaker>CASTLE</speaker><content>Don’t worry. It’s okay. It’s fine. It’ll be fine. Don’t worry. I will see you soon. Okay?</content></utterance>
+<utterance uid="42-9"><speaker>CASTLE</speaker><content>See you soon.</content></utterance>
+<utterance uid="42-10"><speaker>CASTLE</speaker><content>What are you doing?</content></utterance>
+<utterance uid="42-11"><speaker>HAYLEY</speaker><content>You can’t go out there alone. Someone has to watch your back.</content></utterance>
+<utterance uid="42-12"><speaker>CASTLE</speaker><content>Someone has to watch theirs.  I don’t know those guys out front. I know you. Stay with them. Please.</content></utterance>
+<utterance uid="42-13"><speaker>CASTLE</speaker><content>No need. I’m armed. I’m packing. See? I’ll be fine.</content></utterance>
+<utterance uid="42-14"><speaker>HAYLEY</speaker><content>Be careful.</content></utterance>
+</scene>
+<scene id="43"><utterance uid="43-1"><speaker>ESPOSITO</speaker><content>Okay, Beckett. We’re ready to breach.</content></utterance>
+<utterance uid="43-2"><speaker>BECKETT</speaker><content>Go.</content></utterance>
+<utterance uid="43-3"><speaker>ESPOSITO</speaker><content>NYPD!</content></utterance>
+<utterance uid="43-4"><speaker>RYAN</speaker><content>Move!</content></utterance>
+<utterance uid="43-5"><speaker>SWAT MEMBER</speaker><content>Front room clear!</content></utterance>
+<utterance uid="43-6"><speaker>RYAN</speaker><content>Room all clear!</content></utterance>
+<utterance uid="43-7"><speaker>SWAT MEMBER</speaker><content>Get the closets.</content></utterance>
+<utterance uid="43-8"><speaker>BECKETT</speaker><content>Come on, guys. Talk to me. What do you see?</content></utterance>
+<utterance uid="43-9"><speaker>SWAT MEMBER</speaker><content>Bedroom clear.</content></utterance>
+<utterance uid="43-10"><speaker>ESPOSITO</speaker><content>Place is empty, Captain.</content></utterance>
+<utterance uid="43-11"><speaker>RYAN</speaker><content>By empty we mean completely empty. No furniture, no right hand man, no nothing. Beckett, he tricked us.</content></utterance>
+</scene>
+<scene id="44"><utterance uid="44-1"><speaker>CASTLE</speaker><content>Twelfth Precinct, please. 24th and 7th. As fast as you can.</content></utterance>
+</scene>
+<scene id="45"><utterance uid="45-1"><speaker>ESPOSITO</speaker><content>CSU’s taking the place apart.</content></utterance>
+<utterance uid="45-2"><speaker>BECKETT</speaker><content>They’re not going to find anything. The place was a waystation.</content></utterance>
+<utterance uid="45-3"><speaker>RYAN</speaker><content>You think he planned for us to follow him there?</content></utterance>
+<utterance uid="45-4"><speaker>BECKETT</speaker><content>LokSat’s people are CIA, which means they are experts at tactical subterfuge. My guess is that Mr. Right Hand Man anticipated our ability to track down his vehicle from the crime scene and he led us to a place where he knew he could lose us.</content></utterance>
+<utterance uid="45-5"><speaker>ESPOSITO</speaker><content>And your guess would be right. Surveillance cameras on the street behind the house were disabled yesterday morning.</content></utterance>
+<utterance uid="45-6"><speaker>RYAN</speaker><content>So our guy walked right in the front door and right out the back.</content></utterance>
+<utterance uid="45-7"><speaker>BECKETT</speaker><content>Which means we have no idea of knowing where he went.</content></utterance>
+</scene>
+
+<scene id="46"><utterance uid="46-1"><speaker>CASTLE</speaker><content>Who are you?</content></utterance>
+<utterance uid="46-2"><speaker>CASTLE</speaker><content>It’s an embarrassing name, isn’t it? Like A Boy Named Sue? Maybe your mother called you Doofus.</content></utterance>
+<utterance uid="46-3"><speaker>CASTLE</speaker><content>So you can kill them? Forget it. I’m not telling you anything. I’m not betraying them. I don’t care how many thumbscrews you put to me.</content></utterance>
+</scene>
+<scene id="47"><utterance uid="47-1"><speaker>BECKETT</speaker><content>Dead end is not good enough! This guy doesn’t get to be smarter than us. There’s too much at stake here. If we lose this thread then we’re just sitting ducks.  I need a miracle, guys.</content></utterance>
+<utterance uid="47-2"><speaker>RYAN</speaker><content>Okay. You got it.</content></utterance>
+<utterance uid="47-3"><speaker>ESPOSITO</speaker><content>One miracle coming up.</content></utterance>
+<utterance uid="47-4"><speaker>BECKETT</speaker><content>Castle?</content></utterance>
+<utterance uid="47-5"><speaker>MASON</speaker><content>No, it’s Mason Wood.</content></utterance>
+<utterance uid="47-6"><speaker>BECKETT</speaker><content>Uh … I thought that you were done with us.</content></utterance>
+<utterance uid="47-7"><speaker>MASON</speaker><content>I was. But unfortunately for me, I think I may have a lead that can help you.</content></utterance>
+<utterance uid="47-8"><speaker>BECKETT</speaker><content>What kind of a lead?</content></utterance>
+<utterance uid="47-9"><speaker>MASON</speaker><content>A source that I worked with in the early 'aughts. He’s a facilitator for extralegal intelligence operations. If anyone knows the dark side of the CIA it’s him.</content></utterance>
+<utterance uid="47-10"><speaker>BECKETT</speaker><content>Good. Then we’ll go see him.</content></utterance>
+<utterance uid="47-11"><speaker>MASON</speaker><content>No, no. Not we. Me.</content></utterance>
+<utterance uid="47-12"><speaker>BECKETT</speaker><content>No, Mason –</content></utterance>
+<utterance uid="47-13"><speaker>MASON</speaker><content>This guy’s default setting is early 70s conspiracy thriller. He won’t talk to you. Hell, he might not even talk to me.</content></utterance>
+<utterance uid="47-14"><speaker>BECKETT</speaker><content>Mason, this is my fight and you’re not going to know the right questions to ask. I have to be there.</content></utterance>
+<utterance uid="47-15"><speaker>MASON</speaker><content>All right. Meet me in a hour at the corner of Grand and East Broadway.</content></utterance>
+</scene>
+<scene id="48"><utterance uid="48-1"><speaker>CASTLE</speaker><content>No.</content></utterance>
+<utterance uid="48-2"><speaker>CASTLE</speaker><content>Well then, why don’t you unstrap me and I’ll come give you a big hug?</content></utterance>
+<utterance uid="48-3"><speaker>CASTLE</speaker><content>I fell in love with her.</content></utterance>
+<utterance uid="48-4"><speaker>CASTLE</speaker><content>Because I’d never met anyone like her.</content></utterance>
+<utterance uid="48-5"><speaker>CASTLE</speaker><content>Yeah, but you don’t have the legs. Or the eyes. Or the brains or the heart. Beckett makes me laugh. She challenges me. I became a better man … why am I telling you this?</content></utterance>
+<utterance uid="48-6"><speaker>CASTLE</speaker><content>Right.</content></utterance>
+<utterance uid="48-7"><speaker>CASTLE</speaker><content>What’s the alternative? To be like you? A man, alone, without empathy?</content></utterance>
+<utterance uid="48-8"><speaker>CASTLE</speaker><content>No, I wouldn’t.</content></utterance>
+<utterance uid="48-9"><speaker>CASTLE</speaker><content>She’s going to find you. You, and LokSat, and she’s going to bury you both. And I can’t tell a lie, right?</content></utterance>
+</scene>
+<scene id="49"><utterance uid="49-1"><speaker>RYAN</speaker><content>You seen Beckett?</content></utterance>
+<utterance uid="49-2"><speaker>ESPOSITO</speaker><content>No.</content></utterance>
+<utterance uid="49-3"><speaker>VIKRAM</speaker><content>Hey guys? I got something.</content></utterance>
+</scene>
+<scene id="50"><utterance uid="50-1"><speaker>VIKRAM</speaker><content>I pulled all active and passive cell phone signals originating from the cell tower that served the empty house.</content></utterance>
+<utterance uid="50-2"><speaker>RYAN</speaker><content>That must have been hundreds.</content></utterance>
+<utterance uid="50-3"><speaker>VIKRAM</speaker><content>Try thousands. Which was daunting. But then I screened them against phone signals along the route the right hand man took from the crime scene to the house and those IMEI numbers started to shrink. Until … only one remained. That, gentlemen, is right hand man’s phone number.</content></utterance>
+<utterance uid="50-4"><speaker>ESPOSITO</speaker><content>Can you locate where that phone is right now?</content></utterance>
+<utterance uid="50-5"><speaker>VIKRAM</speaker><content> I can try.</content></utterance>
+</scene>
+<scene id="51"><utterance uid="51-1"><speaker>CASTLE</speaker><content>You know, you don’t have to do this. Clearly you’re looking for something more.</content></utterance>
+<utterance uid="51-2"><speaker>CASTLE</speaker><content>Look, um … maybe I could make a quick trip to the little boy’s room before we get started with any more questions.</content></utterance>
+<utterance uid="51-3"><speaker>CASTLE</speaker><content>Who will?</content></utterance>
+<utterance uid="51-4"><speaker>MASON</speaker><content>Surprise.</content></utterance>
+</scene>
+<scene id="52"><utterance uid="52-1"><speaker>CASTLE</speaker><content>You’re LokSat?</content></utterance>
+<utterance uid="52-2"><speaker>MASON</speaker><content>Yes. Although technically that’s the codename for my extralegal operations.</content></utterance>
+<utterance uid="52-3"><speaker>CASTLE</speaker><content>So everything that happened in LA, the GDS? That was all a lie?</content></utterance>
+<utterance uid="52-4"><speaker>MASON</speaker><content>Oh, no, no, no, no. The Greatest Detective Society is very real and connected in no way to my work with the CIA. Think of it as a –  – a fun hobby.</content></utterance>
+<utterance uid="52-5"><speaker>CASTLE</speaker><content>My stepmother. Is she dead?</content></utterance>
+<utterance uid="52-6"><speaker>MASON</speaker><content>Not yet. But I needed you to trust me so I could find out who else knew about my existence before I kill you two. So let’s get right to it because I have to meet your wife in –  – just a few minutes.  Is he ready?</content></utterance>
+<utterance uid="52-7"><speaker>MASON</speaker><content>All right, then. Truth time. Who knows about me? Beckett, obviously. And Vikram. What about Hayley Shipton?</content></utterance>
+<utterance uid="52-8"><speaker>CASTLE</speaker><content>Yes.</content></utterance>
+<utterance uid="52-9"><speaker>MASON</speaker><content>Detectives Ryan and Esposito?</content></utterance>
+<utterance uid="52-10"><speaker>CASTLE</speaker><content>Yes.</content></utterance>
+<utterance uid="52-11"><speaker>MASON</speaker><content>And what about your mother?</content></utterance>
+<utterance uid="52-12"><speaker>CASTLE</speaker><content>Yes.</content></utterance>
+<utterance uid="52-13"><speaker>MASON</speaker><content>Ah. Your daughter?</content></utterance>
+<utterance uid="52-14"><speaker>CASTLE</speaker><content> Yes.</content></utterance>
+<utterance uid="52-15"><speaker>MASON</speaker><content>Yes. Ah. Anyone else?</content></utterance>
+<utterance uid="52-16"><speaker>CASTLE</speaker><content>No.</content></utterance>
+<utterance uid="52-17"><speaker>MASON</speaker><content>Good. That will be a weight off my shoulders, once everyone has been neutralized.</content></utterance>
+<utterance uid="52-18"><speaker>CASTLE</speaker><content>Don’t do this. Please.</content></utterance>
+<utterance uid="52-19"><speaker>MASON</speaker><content>There is no shame in losing, Mr. Castle. Only in the hubris that made you think this could end any other way.</content></utterance>
+</scene>
+
+<scene id="53"><utterance uid="53-1"><speaker>ESPOSITO</speaker><content>NYPD. We have reason to believe there’s a murder suspect in this building. We need to search it from top to bottom.</content></utterance>
+<utterance uid="53-2"><speaker>RECEPTIONIST</speaker><content>Sorry, Officer, but that’s not going to happen. This building belongs to the Central Intelligence Agency. It’s protected by the National Security Act. I can’t let you in.</content></utterance>
+<utterance uid="53-3"><speaker>ESPOSITO</speaker><content>I don’t care if it’s protected by the Hulk. We’re going to tear this place apart.</content></utterance>
+<utterance uid="53-4"><speaker>ESPOSITO</speaker><content>Where is this guy?  Where is he?</content></utterance>
+</scene>
+<scene id="54"><utterance uid="54-1"><speaker>CASTLE</speaker><content>What, no alcohol swab this time?</content></utterance>
+<utterance uid="54-2"><speaker>CASTLE</speaker><content>Or – and just go with me on this – we could just skip it. There’s no reason this has to end in tragedy.</content></utterance>
+<utterance uid="54-3"><speaker>RYAN</speaker><content>NYPD! Hands in the air! Now!</content></utterance>
+<utterance uid="54-4"><speaker>CASTLE</speaker><content>Ryan!</content></utterance>
+<utterance uid="54-5"><speaker>ESPOSITO</speaker><content>You okay?</content></utterance>
+<utterance uid="54-6"><speaker>CASTLE</speaker><content>Mason Wood is LokSat. He’s going after Beckett. He’s going to kill her. We have to warn her.</content></utterance>
+<utterance uid="54-7"><speaker>ESPOSITO</speaker><content>Dispatch, this is Esposito. I need backup –</content></utterance>
+<utterance uid="54-8"><speaker>CASTLE</speaker><content>We’ve gotta go.</content></utterance>
+<utterance uid="54-9"><speaker>ESPOSITO</speaker><content>Let’s move!</content></utterance>
+<utterance uid="54-10"><speaker>ESPOSITO</speaker><content>Go.</content></utterance>
+<utterance uid="54-11"><speaker>CASTLE</speaker><content> Call them off!</content></utterance>
+<utterance uid="54-12"><speaker>CASTLE</speaker><content>Where is Mason taking Beckett to kill her?</content></utterance>
+<utterance uid="54-13"><speaker>CASTLE</speaker><content>We’ll see.</content></utterance>
+<utterance uid="54-14"><speaker>CASTLE</speaker><content>I sure hope I get the correct dosage, because forgetting to breathe can be such a drag. Now, you’re going to tell me everything I want to know.</content></utterance>
+</scene>
+
+<scene id="55"><utterance uid="55-1"><speaker>CASTLE</speaker><content>Where is Mason taking Beckett?</content></utterance>
+<utterance uid="55-2"><speaker>CASTLE</speaker><content>Where?</content></utterance>
+<utterance uid="55-3"><speaker>CASTLE</speaker><content>How do I get a message to Beckett?</content></utterance>
+<utterance uid="55-4"><speaker>CASTLE</speaker><content>How do we get out of here?</content></utterance>
+</scene>
+<scene id="56"><utterance uid="56-1"><speaker>MASON</speaker><content>You and Mr. Castle have quite a bond. Unusual in your line of work.</content></utterance>
+<utterance uid="56-2"><speaker>BECKETT</speaker><content>Yeah well, I’m crazy for him. He’s the love of my life. And he understands the sacrifices I have to make to do this job, so.</content></utterance>
+<utterance uid="56-3"><speaker>MASON</speaker><content>Clearly whomever you’re up against is quite deadly. Ever consider just walking away?</content></utterance>
+<utterance uid="56-4"><speaker>BECKETT</speaker><content>Every day.</content></utterance>
+<utterance uid="56-5"><speaker>MASON</speaker><content>Why didn’t you?</content></utterance>
+<utterance uid="56-6"><speaker>BECKETT</speaker><content>I took an oath. People that I cared about were murdered and they deserve justice.</content></utterance>
+<utterance uid="56-7"><speaker>MASON</speaker><content>Must be hard, carrying that weight.</content></utterance>
+<utterance uid="56-8"><speaker>BECKETT</speaker><content>I don’t carry it alone.</content></utterance>
+<utterance uid="56-9"><speaker>MASON</speaker><content>Here we are.</content></utterance>
+</scene>
+<scene id="57"><utterance uid="57-1"><speaker>CASTLE</speaker><content>The wet wall.</content></utterance>
+<utterance uid="57-2"><speaker>ESPOSITO</speaker><content>What are you doing? That’s the street side. We can’t get out!</content></utterance>
+<utterance uid="57-3"><speaker>CASTLE</speaker><content>We don’t have to get out. We can get in. We can escape down there.</content></utterance>
+<utterance uid="57-4"><speaker>ESPOSITO</speaker><content>If we stop shooting they’re coming in.</content></utterance>
+<utterance uid="57-5"><speaker>RYAN</speaker><content>Don’t worry about us! Go get Beckett!</content></utterance>
+</scene>
+<scene id="58"><utterance uid="58-1"><speaker>BECKETT</speaker><content>So who is this guy we’re going to see?</content></utterance>
+<utterance uid="58-2"><speaker>MASON</speaker><content>Oh, he’s sort of an Milo Minderbinder. Owes me for retrieving some things that were stolen from him.</content></utterance>
+<utterance uid="58-3"><speaker>MASON</speaker><content>He’s going to meet us down here. I told him you were coming. You better let me do all the talking in the –</content></utterance>
+<utterance uid="58-4"><speaker>BECKETT</speaker><content>Pull the gun out of your pocket. Two fingers, put it on the ground.  Knock it off. I know it’s you. Now, gun! On the floor. Nice and slow.</content></utterance>
+<utterance uid="58-5"><speaker>MASON</speaker><content>I was, uh, worried you might be too smart to fall for this.</content></utterance>
+<utterance uid="58-6"><speaker>BECKETT</speaker><content>What’s in the other pocket?</content></utterance>
+<utterance uid="58-7"><speaker>MASON</speaker><content>Oh, this is just insurance.</content></utterance>
+<utterance uid="58-8"><speaker>MASON</speaker><content>See, mine is made of plastic, so it’s unaffected by the electromagnet in the ceiling. And I’m afraid I have some more bad news for you. Your husband’s dead.</content></utterance>
+<utterance uid="58-9"><speaker>BECKETT</speaker><content>You’re lying.</content></utterance>
+<utterance uid="58-10"><speaker>MASON</speaker><content>No, I’m not. He died about the same time I was picking you up. As a matter of fact, his body is in the furnace behind you there, being reduced to a few pounds of ashes.</content></utterance>
+<utterance uid="58-11"><speaker>MASON</speaker><content>I think it’s very fitting that your lives together end in fire, don’t you?</content></utterance>
+<utterance uid="58-12"><speaker>BECKETT</speaker><content>I’m not going in there without a fight.</content></utterance>
+<utterance uid="58-13"><speaker>MASON</speaker><content>That’s very brave of you. But there won’t be much of a fight.</content></utterance>
+<utterance uid="58-14"><speaker>CASTLE</speaker><content>Drop the gun! Or I will kill you.</content></utterance>
+<utterance uid="58-15"><speaker>BECKETT</speaker><content>Castle, stand back!</content></utterance>
+</scene>
+
+<scene id="59"><utterance uid="59-1"><speaker>NEWSCASTER</speaker><content>Meanwhile, in a dramatic scene, local and federal law enforcement officials descended on a federal building in Midtown tonight, rescuing several police officers and arresting almost a dozen people.</content></utterance>
+</scene>
+<scene id="60"><utterance uid="60-1"><speaker>ESPOSITO</speaker><content>How long before the CIA connection comes out?</content></utterance>
+<utterance uid="60-2"><speaker>BECKETT</speaker><content>Not long. It’s too big a story for the agency to bury.</content></utterance>
+<utterance uid="60-3"><speaker>RYAN</speaker><content>Get ready for hearings out the wazoo.</content></utterance>
+<utterance uid="60-4"><speaker>BECKETT</speaker><content>Yeah.</content></utterance>
+<utterance uid="60-5"><speaker>VIKRAM</speaker><content>So, that’s it. We’re finally in the clear.</content></utterance>
+<utterance uid="60-6"><speaker>ESPOSITO</speaker><content>Yeah. So we’re going to go to a bar and celebrate.</content></utterance>
+<utterance uid="60-7"><speaker>BECKETT</speaker><content>Okay. Have fun.</content></utterance>
+<utterance uid="60-8"><speaker>BECKETT</speaker><content> So, you handing in your resignation?</content></utterance>
+<utterance uid="60-9"><speaker>VIKRAM</speaker><content>No … boring is overrated.</content></utterance>
+<utterance uid="60-10"><speaker>RYAN</speaker><content>Yo, Vikram! You coming?</content></utterance>
+<utterance uid="60-11"><speaker>VIKRAM</speaker><content>It’s seven in the morning.</content></utterance>
+<utterance uid="60-12"><speaker>ESPOSITO</speaker><content> It’s New York City.</content></utterance>
+<utterance uid="60-13"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+<utterance uid="60-14"><speaker>BECKETT</speaker><content>Hey!</content></utterance>
+<utterance uid="60-15"><speaker>LANIE</speaker><content>I’m going to yell at you later, but for now I’m just glad you’re both okay.</content></utterance>
+<utterance uid="60-16"><speaker>BECKETT</speaker><content>Oh. Thank you.</content></utterance>
+<utterance uid="60-17"><speaker>ESPOSITO</speaker><content>Hey, Lanie. You coming?</content></utterance>
+<utterance uid="60-18"><speaker>LANIE</speaker><content>See ya.</content></utterance>
+<utterance uid="60-19"><speaker>BECKETT</speaker><content> Okay.</content></utterance>
+</scene>
+
+<scene id="61"><utterance uid="61-1"><speaker>CASTLE</speaker><content>Oh.</content></utterance>
+<utterance uid="61-2"><speaker>BECKETT</speaker><content>I feel like I could sleep for a week.</content></utterance>
+<utterance uid="61-3"><speaker>CASTLE</speaker><content>How about some breakfast first? Best way to start off our hibernation.</content></utterance>
+<utterance uid="61-4"><speaker>BECKETT</speaker><content>You know what? Why don’t we just order in? You don’t have to cook.</content></utterance>
+<utterance uid="61-5"><speaker>CASTLE</speaker><content>I love cooking for you.</content></utterance>
+<utterance uid="61-6"><speaker>BECKETT</speaker><content>And I love when you cook for me.  I’m going to go change.</content></utterance>
+<utterance uid="61-7"><speaker>CASTLE</speaker><content>All right.</content></utterance>
+<utterance uid="61-8"><speaker>CASTLE</speaker><content>Hey, Beckett?</content></utterance>
+<utterance uid="61-9"><speaker>BECKETT</speaker><content>Yeah?</content></utterance>
+<utterance uid="61-10"><speaker>CASTLE</speaker><content>If Mason had an incinerator in the basement why wouldn’t he just dispose of Caleb’s body there?</content></utterance>
+<utterance uid="61-11"><speaker>CALEB BROWN</speaker><content>I told Mason you would figure it out.</content></utterance>
+<utterance uid="61-12"><speaker>BECKETT</speaker><content>Castle?</content></utterance>
+<utterance uid="61-13"><speaker>CALEB</speaker><content>But the old man wouldn’t listen to me.</content></utterance>
+<utterance uid="61-14"><speaker>CASTLE</speaker><content>Caleb – don’t –</content></utterance>
+<utterance uid="61-15"><speaker>CALEB</speaker><content>Sorry, Rick. But how am I going to enjoy my retirement with you and the missus hunting me?</content></utterance>
+<utterance uid="61-16"><speaker>BECKETT</speaker><content>Castle!</content></utterance>
+</scene>
+<scene id="62"><utterance uid="62-1"><speaker>BECKETT VOICEOVER</speaker><content>Well, I guess this is it.</content></utterance>
+<utterance uid="62-2"><speaker>CASTLE VOICEOVER</speaker><content>Well, it doesn’t have to be. We could, uh, go to dinner, debrief each other.</content></utterance>
+<utterance uid="62-3"><speaker>BECKETT VOICEOVER</speaker><content>Why, Castle? So I can be another one of your conquests?</content></utterance>
+<utterance uid="62-4"><speaker>CASTLE VOICEOVER</speaker><content>Or I could be one of yours.</content></utterance>
+<utterance uid="62-5"><speaker>BECKETT VOICEOVER</speaker><content>It’s nice to meet you, Castle</content></utterance>
+<utterance uid="62-6"><speaker>CASTLE VOICEOVER</speaker><content>It’s too bad. It would have been great.</content></utterance>
+<utterance uid="62-7"><speaker>BECKETT VOICEOVER</speaker><content>You have no idea.</content></utterance>
+</scene>
+<scene id="63"><utterance uid="63-1"><speaker>CASTLE VOICEOVER</speaker><content>Every writer needs a muse, and I found mine.</content></utterance>
+<utterance uid="63-2"><speaker>BECKETT VOICEOVER</speaker><content>Always.</content></utterance>
+<utterance uid="63-3"><speaker>CASTLE VOICEOVER</speaker><content>Always.</content></utterance>
+</scene>
+</script>

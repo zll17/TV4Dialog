@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+
+<scene id="1"><utterance uid="1-1"><speaker>CHARLIE</speaker><content>You were told what would happen if you came back here.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>CASTLE</speaker><content>Ah, the last time I saw you in your PJs after 8AM I think you were 4.</content></utterance>
+<utterance uid="2-2"><speaker>ALEXIS</speaker><content>We’re off today. Teacher’s retreat.</content></utterance>
+<utterance uid="2-3"><speaker>CASTLE</speaker><content>Ooh.</content></utterance>
+<utterance uid="2-4"><speaker>ALEXIS</speaker><content>I didn’t feel like getting dressed.</content></utterance>
+<utterance uid="2-5"><speaker>CASTLE</speaker><content>This wouldn’t have anything to do with Ashley, would it?</content></utterance>
+<utterance uid="2-6"><speaker>ALEXIS</speaker><content>Did I do the right thing? Breaking up with him?</content></utterance>
+<utterance uid="2-7"><speaker>CASTLE</speaker><content>Oh, sweetie, I don’t know. That’s something only you can answer.</content></utterance>
+<utterance uid="2-8"><speaker>ALEXIS</speaker><content>It sucks. I miss him a lot.</content></utterance>
+<utterance uid="2-9"><speaker>CASTLE</speaker><content>Yeah, well, you’re not doing yourself any favors sitting around reading Pride and Prejudice. That’s just going to make it worse. You might as well be listening to Adele.</content></utterance>
+<utterance uid="2-10"><speaker>ALEXIS</speaker><content>Hey, she totally gets it and so does Jane Austen.</content></utterance>
+<utterance uid="2-11"><speaker>CASTLE</speaker><content>You know what you need?</content></utterance>
+<utterance uid="2-12"><speaker>ALEXIS</speaker><content>A new life?</content></utterance>
+<utterance uid="2-13"><speaker>CASTLE</speaker><content>A distraction. And it just so happens I know the perfect post breakup routine. Tonight, you and I go get chili-cheese dogs from Gray’s Papaya. We smuggle them in to a double feature at the Angelika.</content></utterance>
+<utterance uid="2-14"><speaker>ALEXIS</speaker><content>I know you mean well, but I don’t think going out with my dad is going to make me feel better.</content></utterance>
+<utterance uid="2-15"><speaker>CASTLE</speaker><content>Well, how about just a low-key evening with your girlfriends? You guys can have a John Hughes marathon and fill out a Cosmo quiz.</content></utterance>
+<utterance uid="2-16"><speaker>ALEXIS</speaker><content>Dad, the 80s just called … it wants its plan back.</content></utterance>
+<utterance uid="2-17"><speaker>CASTLE</speaker><content>C’mon. Gram’s upstate, she’s doing some spa retreat, she’ll be out of your hair, and I can make myself scarce.</content></utterance>
+<utterance uid="2-18"><speaker>ALEXIS</speaker><content>A few of my friends have been suggesting a girls' night. Maybe I’ll call them.</content></utterance>
+<utterance uid="2-19"><speaker>CASTLE</speaker><content>No maybe. You’re going to call them. And you’re going to have a great time.</content></utterance>
+<utterance uid="2-20"><speaker>CASTLE</speaker><content>And, if that’s the 80s, tell them they can have Cosmo but I’m keeping John Hughes.</content></utterance>
+<utterance uid="2-21"><speaker>ALEXIS</speaker><content>And if it’s Beckett?</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>CASTLE</speaker><content>Oh, the Sapphire! In Atlantic City. I love that place. All right, who’s our victim? Is it a show girl? Some big money high roller?</content></utterance>
+<utterance uid="3-2"><speaker>KATE BECKETT</speaker><content>No, our victim is Sam Siegal, co-owner of the Sapphire, where you’re always a winner.</content></utterance>
+<utterance uid="3-3"><speaker>CASTLE</speaker><content>Ah, not always, by the looks of things.</content></utterance>
+<utterance uid="3-4"><speaker>LANIE PARISH</speaker><content>Guy cashed in his chips between 9 and 11, took a small caliber to the chest. Muzzle flash burned his shirt at the point of entry.</content></utterance>
+<utterance uid="3-5"><speaker>BECKETT</speaker><content>Shooter was standing close.</content></utterance>
+<utterance uid="3-6"><speaker>LANIE</speaker><content>Mmhmm. Close enough to give him a bloody lip before pulling the trigger.</content></utterance>
+<utterance uid="3-7"><speaker>CASTLE</speaker><content>So what’s a guy like Siegal doing in an abandoned delivery dock in New York City at that time of night?</content></utterance>
+<utterance uid="3-8"><speaker>BECKETT</speaker><content>Must have been something important enough for him to drive down from Atlantic City.</content></utterance>
+<utterance uid="3-9"><speaker>CASTLE</speaker><content>You know, the man owned a casino. A guy like that, you think he’d have a driver.</content></utterance>
+<utterance uid="3-10"><speaker>JAVIER ESPOSITO</speaker><content>Especially because he was expecting trouble.</content></utterance>
+<utterance uid="3-11"><speaker>ESPOSITO</speaker><content>He came heavy. It’s a .357 Magnum with all 6 still asleep in the cylinder.</content></utterance>
+<utterance uid="3-12"><speaker>KEVIN RYAN</speaker><content>He didn’t even pull it out of the glove box. If he did, we’d be standing over the other guy.</content></utterance>
+<utterance uid="3-13"><speaker>CASTLE</speaker><content>Well, you gotta know when to hold ‘em. And, when to fold ‘em.</content></utterance>
+<utterance uid="3-14"><speaker>ESPOSITO</speaker><content>Know when to walk away, and when to run.</content></utterance>
+<utterance uid="3-15"><speaker>LANIE</speaker><content>Detective Esposito. A little respect please? I mean, there is a dead body here.</content></utterance>
+<utterance uid="3-16"><speaker>ESPOSITO</speaker><content>What’d I do?</content></utterance>
+<utterance uid="3-17"><speaker>CASTLE</speaker><content>You broke up with her.</content></utterance>
+<utterance uid="3-18"><speaker>ESPOSITO</speaker><content>We broke up with each other. That’s different.</content></utterance>
+<utterance uid="3-19"><speaker>CASTLE</speaker><content>Yeah, you’d think it’d be different, but no.</content></utterance>
+<utterance uid="3-20"><speaker>ESPOSITO</speaker><content>Will you tell him?</content></utterance>
+<utterance uid="3-21"><speaker>BECKETT</speaker><content>No, I told you I’m staying out of this one.</content></utterance>
+<utterance uid="3-22"><speaker>BECKETT</speaker><content>All right, guys. Call the Sapphire, get some background on Siegal, and look for surveillance cameras or security guards that might have seen something.</content></utterance>
+<utterance uid="3-23"><speaker>ESPOSITO</speaker><content>Women. You sure you want to spend the rest of your life with one?</content></utterance>
+<utterance uid="3-24"><speaker>RYAN</speaker><content>Uh, yeah. Mine likes me.</content></utterance>
+<utterance uid="3-25"><speaker>CASTLE</speaker><content>Ooh! Speaking of Atlantic City … perfect place for a bachelor party.</content></utterance>
+<utterance uid="3-26"><speaker>ESPOSITO</speaker><content>Ooh, that’s what I’m talking about, bro. We could rent one of these right here, hit the casino, maybe the club –</content></utterance>
+<utterance uid="3-27"><speaker>RYAN</speaker><content>Uh, I was thinking more along the lines of  camping trip.</content></utterance>
+<utterance uid="3-28"><speaker>CASTLE</speaker><content>Oh, you were … oh.</content></utterance>
+<utterance uid="3-29"><speaker>ESPOSITO</speaker><content>First of all, no. Second, it’s not up to you.  The bachelor party is strictly best man territory. And, by the way, your big date is what? Like 2 months away? So you need to officially tell the guy so that he can start planning something.</content></utterance>
+<utterance uid="3-30"><speaker>RYAN</speaker><content>I still got some time. Uh, I’m going to go check on those cameras.</content></utterance>
+<utterance uid="3-31"><speaker>ESPOSITO</speaker><content>What the fu-?  Did you see that? He just sidestepped me. What’s that about?</content></utterance>
+<utterance uid="3-32"><speaker>CASTLE</speaker><content>It’s almost as though the thought of marriage fills him with an impending sense of doom.  Oh no wait, that’s me. </content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>CASTLE</speaker><content>Nav system?</content></utterance>
+<utterance uid="4-2"><speaker>BECKETT</speaker><content>Yeah, and it looks like Siegal made a stop just before he got here.</content></utterance>
+<utterance uid="4-3"><speaker>BECKETT</speaker><content>537 West End Avenue.</content></utterance>
+<utterance uid="4-4"><speaker>CASTLE</speaker><content>Looks like Sam’s got a friend here in Manhattan.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>ESPOSITO</speaker><content>Sam Siegal, 46 years old, got his start in real estate development, then he went on to launch the Sapphire Coast Resort and Casino in 1999.</content></utterance>
+<utterance uid="5-2"><speaker>CASTLE</speaker><content>You don’t come to be a casino owner without making enemies. Look at Moe Greene in The Godfather.</content></utterance>
+<utterance uid="5-3"><speaker>ESPOSITO</speaker><content>This guy seems to be a stand up citizen. He has a foundation that gives money to charities and public schools.</content></utterance>
+<utterance uid="5-4"><speaker>BECKETT</speaker><content>Okay, check with the staff at the casino, see if he had any meeting here in Manhattan, and find out what time he left Atlantic City.</content></utterance>
+<utterance uid="5-5"><speaker>ESPOSITO</speaker><content>All right.</content></utterance>
+<utterance uid="5-6"><speaker>CASTLE</speaker><content>You know, if someone asks to meet me at an abandoned warehouse in the dead of night?  I pass. I’ve written that scene enough times to know how it ends.</content></utterance>
+<utterance uid="5-7"><speaker>RYAN</speaker><content>Hey, that address that was on Siegal’s GPS? Turns out it’s a building where his ex-wife Rebecca lives.</content></utterance>
+<utterance uid="5-8"><speaker>BECKETT</speaker><content>How long have they been divorced?</content></utterance>
+<utterance uid="5-9"><speaker>RYAN</speaker><content>About 6 months.</content></utterance>
+<utterance uid="5-10"><speaker>CASTLE</speaker><content>Recent enough for there to still be hard feelings.</content></utterance>
+<utterance uid="5-11"><speaker>RYAN</speaker><content>Hmm. According to neighbors, very hard feelings. There was a report of a very loud argument last night and neighbors said they saw Siegal leaving her place just after 8:30.</content></utterance>
+<utterance uid="5-12"><speaker>BECKETT</speaker><content>That’s just before he was killed.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>REBECCA SIEGAL</speaker><content>Yeah, we argued, but I didn’t kill him.</content></utterance>
+<utterance uid="6-2"><speaker>CASTLE</speaker><content>Was it normal for him to come and see you after the divorce?</content></utterance>
+<utterance uid="6-3"><speaker>REBECCA</speaker><content>No.  In fact, I hadn’t seen him in months. We don’t really get along anymore.</content></utterance>
+<utterance uid="6-4"><speaker>BECKETT</speaker><content>What were the two of you fighting about?</content></utterance>
+<utterance uid="6-5"><speaker>BECKETT</speaker><content>Ms. Siegal?</content></utterance>
+<utterance uid="6-6"><speaker>REBECCA</speaker><content>He said he was in trouble.</content></utterance>
+<utterance uid="6-7"><speaker>BECKETT</speaker><content>What kind of trouble?</content></utterance>
+<utterance uid="6-8"><speaker>REBECCA</speaker><content>He wouldn’t say. But he wanted me to sign over an investment property that was still in both of our names. A building here in Queens. Just a store and some apartments. I don’t know why, but he was very worked up about it. He offered me $1.5 million for my share, which is as much as the whole place was worth. He said his life depended on it.</content></utterance>
+<utterance uid="6-9"><speaker>CASTLE</speaker><content>So this building. He offered you full price of $1.5 million, instead of half, and you still said no?</content></utterance>
+<utterance uid="6-10"><speaker>REBECCA</speaker><content>I didn’t know. I thought he was working an angle.  I told him I couldn’t sign anything without my lawyer.</content></utterance>
+<utterance uid="6-11"><speaker>BECKETT</speaker><content>And after Sam left your place last night what’d you do?</content></utterance>
+<utterance uid="6-12"><speaker>REBECCA</speaker><content>I was in my apartment for the rest of the evening.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>BECKETT</speaker><content>So the doorman confirms the ex-wife’s story. She was in her apartment all night.</content></utterance>
+<utterance uid="7-2"><speaker>GATES</speaker><content>Detective Beckett, just received a call from the mayor of Atlantic City. Mr. Siegal’s death is front page news. They’re asking about suspects.</content></utterance>
+<utterance uid="7-3"><speaker>BECKETT</speaker><content>Yes sir, so are we.</content></utterance>
+<utterance uid="7-4"><speaker>GATES</speaker><content>Well, how about the property he asked his ex to sign over to him? Anything on that?</content></utterance>
+<utterance uid="7-5"><speaker>BECKETT</speaker><content>Um…  just that the victim purchased it a year and a half ago and paid cash for the full amount.</content></utterance>
+<utterance uid="7-6"><speaker>CASTLE</speaker><content>Yeah, the real estate agent was surprised anyone bought it, it had been on the market  for quite a while.</content></utterance>
+<utterance uid="7-7"><speaker>RYAN</speaker><content>Just got off the phone with Sam Siegal’s office. Apparently, he didn’t leave Atlantic City alone last night.</content></utterance>
+<utterance uid="7-8"><speaker>ESPOSITO</speaker><content>There was no indication of a passenger in his car.</content></utterance>
+<utterance uid="7-9"><speaker>RYAN</speaker><content>Not a passenger.  A driver. Around 6:30, one of Sam’s regular drivers, Ralph Marino, picked him up in front of the casino and drove him to New York City.</content></utterance>
+<utterance uid="7-10"><speaker>BECKETT</speaker><content>Then where is he now?</content></utterance>
+<utterance uid="7-11"><speaker>RYAN</speaker><content>No one knows. He didn’t show up for work today.</content></utterance>
+<utterance uid="7-12"><speaker>CASTLE</speaker><content>Which means he’s either floating in the Hudson –</content></utterance>
+<utterance uid="7-13"><speaker>BECKETT</speaker><content>Or he’s involved.</content></utterance>
+<utterance uid="7-14"><speaker>GATES</speaker><content>Well, what do we know about Mr. Marino?</content></utterance>
+<utterance uid="7-15"><speaker>RYAN</speaker><content>Well he’s no Boy Scout, that’s for sure. Background check shows felony racketeering and assault charges.</content></utterance>
+<utterance uid="7-16"><speaker>GATES</speaker><content>Put out an all points on Ralph Marino. I’ll have our brethren in Atlantic City do the same. You boys head down to Atlantic City, to Siegal’s casino. Talk to Marino’s friends and coworkers and see if any of them can shine some light on his whereabouts. Meanwhile, Beckett, you run point from here. Get unis canvassing for Marino, and figure out why in the hell Siegal was so desperate to get control of that property in Queens.</content></utterance>
+<utterance uid="7-17"><speaker>BECKETT</speaker><content>Yes, sir. C’mon, Castle.</content></utterance>
+<utterance uid="7-18"><speaker>CASTLE</speaker><content>Oh, uh… Captain Gates said the boys are going to Atlantic City.</content></utterance>
+<utterance uid="7-19"><speaker>BECKETT</speaker><content>Yeah, I don’t think she meant you.</content></utterance>
+<utterance uid="7-20"><speaker>GATES</speaker><content>Actually, that’s my call.  You’re with them.</content></utterance>
+<utterance uid="7-21"><speaker>GATES</speaker><content>Besides, Detective, I’m looking forward to seeing what you can do without him.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>ESPOSITO</speaker><content>What are you doing?</content></utterance>
+<utterance uid="8-2"><speaker>CASTLE</speaker><content>What does it look like? You think I was going to pass up a road trip to the Boardwalk Empire? The east coast epicenter of dancing, gambling, showgirls, and sin?</content></utterance>
+<utterance uid="8-3"><speaker>RYAN</speaker><content>You do realize we’re going there to investigate a murder, don’t you?</content></utterance>
+<utterance uid="8-4"><speaker>CASTLE</speaker><content>Gentlemen, if I have learned one thing, it’s to not let a little thing like murder get in the way of having a good time.</content></utterance>
+<utterance uid="8-5"><speaker>CASTLE</speaker><content>And also … shotgun.</content></utterance>
+</scene>
+
+<scene id="9"><utterance uid="9-1"><speaker>CASTLE</speaker><content>Hey Alexis, I hope you're not answering because you’re busy planning your girls' night. Anyway, I’m going out of town on a case and we may just be spending the night. So I’ll call and I’ll check on you. Love you. ‘Bye!</content></utterance>
+<utterance uid="9-2"><speaker>RYAN</speaker><content>C’mon, Castle. We are not spending the night.</content></utterance>
+<utterance uid="9-3"><speaker>CASTLE</speaker><content>How can you say that? And maybe Ralph Marino will be very difficult to find.  And I think we should start looking at the craps tables.</content></utterance>
+<utterance uid="9-4"><speaker>ESPOSITO</speaker><content>Yeah.</content></utterance>
+<utterance uid="9-5"><speaker>RYAN</speaker><content>Ah… I’m starting to understand why you ditched Beckett. And for the record, the one guy in this car who’s not a real cop is not allowed to call shotgun.</content></utterance>
+<utterance uid="9-6"><speaker>CASTLE</speaker><content>Called it fair and square.</content></utterance>
+<utterance uid="9-7"><speaker>ESPOSITO</speaker><content>Maybe Castle’s right. I mean, since we’re going to be there, we might as well consider the Sapphire as a potential bachelor party venue.</content></utterance>
+<utterance uid="9-8"><speaker>CASTLE</speaker><content>I’m so happy you said that, because there are a number of establishments down there that cater to bachelor party events. I think maybe we should take a little sampling.</content></utterance>
+<utterance uid="9-9"><speaker>RYAN</speaker><content>No, no, no. We are not sampling any clubs.</content></utterance>
+<utterance uid="9-10"><speaker>ESPOSITO</speaker><content>What? C’mon, bro. Why are you stallin’ us on this?</content></utterance>
+<utterance uid="9-11"><speaker>RYAN</speaker><content>Look Javier, I –  I got some bad news.</content></utterance>
+<utterance uid="9-12"><speaker>RYAN</speaker><content>I had to ask Jenny’s half-brother Nelson to be my best man.</content></utterance>
+<utterance uid="9-13"><speaker>ESPOSITO</speaker><content>Nelson? That guy I met at your birthday party? 16 with braces? Couldn’t stop talking about being a mathlete?</content></utterance>
+<utterance uid="9-14"><speaker>RYAN</speaker><content>It was a family thing. I – I didn’t have a choice.</content></utterance>
+<utterance uid="9-15"><speaker>ESPOSITO</speaker><content>Yeah, you did.</content></utterance>
+<utterance uid="9-16"><speaker>CASTLE</speaker><content>Actually, when it comes to weddings, you don’t. Trust me, you do not want to start a marriage with a family feud.</content></utterance>
+<utterance uid="9-17"><speaker>ESPOSITO</speaker><content>This sucks.</content></utterance>
+<utterance uid="9-18"><speaker>RYAN</speaker><content>I know.</content></utterance>
+<utterance uid="9-19"><speaker>ESPOSITO</speaker><content>And I was going to give you an awesome sendoff, bro.</content></utterance>
+<utterance uid="9-20"><speaker>RYAN</speaker><content>I know.</content></utterance>
+<utterance uid="9-21"><speaker>CASTLE</speaker><content>Well boys, I’m sorry. I’m sorry it had to come to this. I didn’t want it to, but it looks like we have no choice. There is no other way. IBPWOC.</content></utterance>
+<utterance uid="9-22"><speaker>CASTLE</speaker><content>Impromptu bachelor party while on case!</content></utterance>
+</scene>
+
+<scene id="10"><utterance uid="10-1"><speaker>CASTLE</speaker><content>Ah… smell that? That is the smell of hopes, dreams, and endless opportunities.</content></utterance>
+<utterance uid="10-2"><speaker>RYAN</speaker><content>Not to be confused with cigarette smoke, day drinking, and desperation.</content></utterance>
+<utterance uid="10-3"><speaker>CASTLE</speaker><content>Well, that’s the great thing about casinos. No clocks, no windows, and no judgments.</content></utterance>
+<utterance uid="10-4"><speaker>ESPOSITO</speaker><content>How you doing?</content></utterance>
+<utterance uid="10-5"><speaker>RYAN</speaker><content>Maybe we should stay the night.</content></utterance>
+<utterance uid="10-6"><speaker>ESPOSITO</speaker><content>What?</content></utterance>
+<utterance uid="10-7"><speaker>RYAN</speaker><content>Detective Ryan, NYPD.  I’m here to investigate Mr. Siegal’s death.</content></utterance>
+<utterance uid="10-8"><speaker>EMPLOYEE</speaker><content>The concierge is right over there. Nadine!</content></utterance>
+<utterance uid="10-9"><speaker>NADINE ESPINOZA</speaker><content>Gentlemen, welcome to the Sapphire. I’m Nadine, the personal concierge. We’re all devastated to learn about Sam.</content></utterance>
+<utterance uid="10-10"><speaker>ESPOSITO</speaker><content>We’re supposed to meet Sam’s business partner, Charlie Turner. We need to talk to him about one of your employees.</content></utterance>
+<utterance uid="10-11"><speaker>NADINE</speaker><content>He asked me to escort you to his table. Follow me.  And if you have any other questions about the hotel, don’t hesitate to ask.</content></utterance>
+<utterance uid="10-12"><speaker>CASTLE</speaker><content>Actually, now that you mention it, I’m curious. Who’s playing on the main stage?</content></utterance>
+<utterance uid="10-13"><speaker>CASTLE</speaker><content>Just in case we have time to squeeze in a show.</content></utterance>
+<utterance uid="10-14"><speaker>NADINE</speaker><content>Well, we’re hosting an Elvis impersonators convention this weekend, so we’re only featuring Carrot Top.</content></utterance>
+<utterance uid="10-15"><speaker>CASTLE</speaker><content>Carrot Top! I haven’t seen him perform since his crazy makeover. It’ll be like a new show.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>GATES</speaker><content>Well?</content></utterance>
+<utterance uid="11-2"><speaker>BECKETT</speaker><content>Uh, no luck so far on Marino. ACPD said that he’s not at his apartment and nothing turned up on the canvass.</content></utterance>
+<utterance uid="11-3"><speaker>GATES</speaker><content>What about the building in Queens?</content></utterance>
+<utterance uid="11-4"><speaker>BECKETT</speaker><content>Well, online search shows that there’s no liens or lawsuits so there doesn’t seem to be anything unusual about it.</content></utterance>
+<utterance uid="11-5"><speaker>GATES</speaker><content>Keep digging.</content></utterance>
+<utterance uid="11-6"><speaker>BECKETT</speaker><content>Mmhmm.</content></utterance>
+<utterance uid="11-7"><speaker>GATES</speaker><content>Uh, look, Detective, I know you’re probably thinking that I have you here as some kind of punishment. You’re a good cop. But I think you can be better if you minimize the distractions.</content></utterance>
+</scene>
+
+<scene id="12"><utterance uid="12-1"><speaker>CHARLIE TURNER</speaker><content>Hell of a thing, losing Sam. You know, he and I started out in this business together? We built this place from the ground up.</content></utterance>
+<utterance uid="12-2"><speaker>ESPOSITO</speaker><content>Do you have any idea what Sam was doing in New York?</content></utterance>
+<utterance uid="12-3"><speaker>CHARLIE</speaker><content>Wasn’t like him. He hated the city.</content></utterance>
+<utterance uid="12-4"><speaker>CHARLIE</speaker><content>Yo, Tommy! Good to see you back. Anything you need, you let me know.</content></utterance>
+<utterance uid="12-5"><speaker>TOMMY MORETTI</speaker><content>You know what I need? I need my luck to change.</content></utterance>
+<utterance uid="12-6"><speaker>CHARLIE</speaker><content>I’m sure it will.</content></utterance>
+<utterance uid="12-7"><speaker>CHARLIE</speaker><content>Big whale, lots of dough.</content></utterance>
+<utterance uid="12-8"><speaker>RYAN</speaker><content>What about Sam’s driver last night, Ralph Marino? What can you tell us about him?</content></utterance>
+<utterance uid="12-9"><speaker>CHARLIE</speaker><content>Not much. He drove me a couple times. Here’s his personnel file, like you asked. Honestly, after what happened between them, I don’t know why Sam kept him around.</content></utterance>
+<utterance uid="12-10"><speaker>ESPOSITO</speaker><content>Well, what happened?</content></utterance>
+<utterance uid="12-11"><speaker>DANIEL SULLIVAN</speaker><content>Mr. Turner, sorry to interrupt. Facial recognition got a hit on a card counter, table 6, purple shirt.</content></utterance>
+<utterance uid="12-12"><speaker>CHARLIE</speaker><content>Gentlemen, I’d like you to meet my security tech, Daniel Sullivan. Same software you guys use to track terrorists, we use to track low-life thieves.  Security escort, table number 6, purple striped shirt. Guy’s counting cards.</content></utterance>
+<utterance uid="12-13"><speaker>CASTLE</speaker><content>Wow. Looks like you run a tight ship.</content></utterance>
+<utterance uid="12-14"><speaker>CHARLIE</speaker><content>Everybody thinks they can beat the house. If you don’t lay down the law, they‘ll rob you blind.</content></utterance>
+<utterance uid="12-15"><speaker>ESPOSITO</speaker><content>Well, you said something happened between Ralph and Sam. What was that?</content></utterance>
+<utterance uid="12-16"><speaker>CHARLIE</speaker><content>Ah, about a week ago the two of them had a scuffle at the bar.</content></utterance>
+<utterance uid="12-17"><speaker>CASTLE</speaker><content>About what?</content></utterance>
+<utterance uid="12-18"><speaker>CHARLIE</speaker><content>Sam asked this dancer to, uh … blow on his dice.</content></utterance>
+<utterance uid="12-19"><speaker>CHARLIE</speaker><content>Turns out, she was Ralph’s girl.</content></utterance>
+<utterance uid="12-20"><speaker>CASTLE</speaker><content>Oops.</content></utterance>
+<utterance uid="12-21"><speaker>CHARLIE</speaker><content>Yeah, Sam was always a ladies' man and a lot of those ladies were already spoken for. It seems like he was on a little hot streak lately, but that's the thing about luck.</content></utterance>
+<utterance uid="12-22"><speaker>CHARLIE</speaker><content>It changes.</content></utterance>
+<utterance uid="12-23"><speaker>ESPOSITO</speaker><content>Thank you very much, Mr. Turner. We may need to interview some of your staff while we’re here.</content></utterance>
+<utterance uid="12-24"><speaker>CHARLIE</speaker><content>Of course. Nadine can help you with whatever you need.</content></utterance>
+<utterance uid="12-25"><speaker>ESPOSITO</speaker><content>All right. Thanks.</content></utterance>
+<utterance uid="12-26"><speaker>RYAN</speaker><content>Guys. Ralph listed as his emergency contact his cousin. Guess where he lives.</content></utterance>
+<utterance uid="12-27"><speaker>ESPOSITO</speaker><content>Where?</content></utterance>
+<utterance uid="12-28"><speaker>RYAN</speaker><content>New York City, 8 blocks from our crime scene.</content></utterance>
+<utterance uid="12-29"><speaker>ESPOSITO</speaker><content>Great place for Ralph to hide out.</content></utterance>
+</scene>
+
+<scene id="13"><utterance uid="13-1"><speaker>BECKETT</speaker><content>Going somewhere, Mr. Marino?</content></utterance>
+<utterance uid="13-2"><speaker>BECKETT</speaker><content>Hey!</content></utterance>
+<utterance uid="13-3"><speaker>COP</speaker><content>Hold it!</content></utterance>
+<utterance uid="13-4"><speaker>BECKETT</speaker><content>Hey! Show us your hands. Now!</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>MARINO</speaker><content>I know how it looks, but I swear to God and my mother I didn’t kill him.</content></utterance>
+<utterance uid="14-2"><speaker>BECKETT</speaker><content>That’s why you run away from me with a 9 millimeter tucked into your pants?</content></utterance>
+<utterance uid="14-3"><speaker>BECKETT</speaker><content>Because you’re innocent? C’mon, Ralph. We know that you and Sam weren’t on the best of terms.</content></utterance>
+<utterance uid="14-4"><speaker>MARINO</speaker><content>He and I were square. I would never hurt him. Look, all I did was drive him. I wasn’t there when he was shot.</content></utterance>
+<utterance uid="14-5"><speaker>BECKETT</speaker><content>Why not? You were his driver. So what did you do? Go for a midnight stroll?</content></utterance>
+<utterance uid="14-6"><speaker>MARINO</speaker><content>As a matter of fact, yeah.</content></utterance>
+<utterance uid="14-7"><speaker>MARINO</speaker><content>After he spoke to his ex, he told me to take him out to this abandoned warehouse on the other side of town. Said there was someone he needed to meet. He said he needed to meet him alone.</content></utterance>
+<utterance uid="14-8"><speaker>BECKETT</speaker><content>Who?</content></utterance>
+<utterance uid="14-9"><speaker>MARINO</speaker><content>Don’t know. Sam gave me 500 bucks, told me to find my own way home. So I – I crashed at my cousin’s place. And this morning I – I hear what happened on the radio. I figured that with my record, folks would be looking at me.</content></utterance>
+<utterance uid="14-10"><speaker>BECKETT</speaker><content>Did you see anyone else there before you left?</content></utterance>
+<utterance uid="14-11"><speaker>MARINO</speaker><content>A black SUV drove up to the dock just as I was leaving, but I didn’t see who was inside.</content></utterance>
+<utterance uid="14-12"><speaker>BECKETT</speaker><content>Ballistics is checking your 9, you better hope it’s not a match.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>GATES</speaker><content>What do you think?</content></utterance>
+<utterance uid="15-2"><speaker>BECKETT</speaker><content>I think he’s not stupid enough to kill Sam, knowing it’ll just point right back at him.</content></utterance>
+<utterance uid="15-3"><speaker>BECKETT</speaker><content>So Sam drove up to New York to secure the property in Queens from his ex-wife, and then went to the docks to meet with someone.</content></utterance>
+<utterance uid="15-4"><speaker>GATES</speaker><content>Sounds like someone was expecting the property and when Sam couldn’t deliver, they killed him.</content></utterance>
+<utterance uid="15-5"><speaker>BECKETT</speaker><content>Why? What’s so special about that property?</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>CASTLE</speaker><content>Ladies, thank you so much. You have no idea. These will not go to waste. Thank you.</content></utterance>
+<utterance uid="16-2"><speaker>CASTLE</speaker><content>All right, all right! It was not easy, but I did it. I managed to get three front row seats to the burlesque show at the Borgata. Also, reservations at a premium table at the X Club, with bottle service.</content></utterance>
+<utterance uid="16-3"><speaker>ESPOSITO</speaker><content>Sweet.</content></utterance>
+<utterance uid="16-4"><speaker>CASTLE</speaker><content>What’d you guys come up with?</content></utterance>
+<utterance uid="16-5"><speaker>RYAN</speaker><content>Well, Sam’s assistant didn’t know anything about the property in Queens, but she did remember something odd about yesterday.</content></utterance>
+<utterance uid="16-6"><speaker>ESPOSITO</speaker><content>Apparently Sam followed his usual morning routine. He had a massage in the hotel and a meeting with his casino manager. Then after lunch he came back with a bloody lip.</content></utterance>
+<utterance uid="16-7"><speaker>CASTLE</speaker><content>How’d he get it?</content></utterance>
+<utterance uid="16-8"><speaker>RYAN</speaker><content>Well, Sam was evasive, but his assistant said it looked like someone hit him.</content></utterance>
+<utterance uid="16-9"><speaker>CASTLE</speaker><content>So Sam gets punched and soon after he rushes off to New York, frantically trying to get that property.</content></utterance>
+<utterance uid="16-10"><speaker>ESPOSITO</speaker><content>Then he’s shot dead.</content></utterance>
+<utterance uid="16-11"><speaker>CASTLE</speaker><content>Well, it’s gotta be connected.</content></utterance>
+<utterance uid="16-12"><speaker>RYAN</speaker><content>The problem is, we don’t know who threw that punch.</content></utterance>
+<utterance uid="16-13"><speaker>CASTLE</speaker><content>I think I know how we can find out.</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>DANIEL</speaker><content>You said yesterday at 2PM?</content></utterance>
+<utterance uid="17-2"><speaker>RYAN</speaker><content>Yeah, that’s correct.</content></utterance>
+<utterance uid="17-3"><speaker>DANIEL</speaker><content>It’ll take a second for facial recognition to pick out Mr. Siegal in all the footage.</content></utterance>
+<utterance uid="17-4"><speaker>CASTLE</speaker><content>Do you keep former guests in the system?</content></utterance>
+<utterance uid="17-5"><speaker>DANIEL</speaker><content>Sure do. That’s how we flag gamblers with priors.</content></utterance>
+<utterance uid="17-6"><speaker>CASTLE</speaker><content>What about me?</content></utterance>
+<utterance uid="17-7"><speaker>DANIEL</speaker><content>Let’s see. Richard Castle.</content></utterance>
+<utterance uid="17-8"><speaker>CASTLE</speaker><content>Oh.</content></utterance>
+<utterance uid="17-9"><speaker>DANIEL</speaker><content>Resident of New York City.</content></utterance>
+<utterance uid="17-10"><speaker>CASTLE</speaker><content>Mmhmm.</content></utterance>
+<utterance uid="17-11"><speaker>DANIEL</speaker><content>Disorderly conduct, resisting arrest in 2003 and uh … wow. Apparently the last time you were at the Sapphire you accidentally set a mattress on fire and the drapes were covered in jam.</content></utterance>
+<utterance uid="17-12"><speaker>CASTLE</speaker><content>That was a fun night.  Check.</content></utterance>
+<utterance uid="17-13"><speaker>DANIEL</speaker><content>Ah, here he is. That’s Mr. Siegal leaving the elevator, 2PM.</content></utterance>
+<utterance uid="17-14"><speaker>ESPOSITO</speaker><content>He already has a bloody lip. Can you back that up to earlier?</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>BECKETT</speaker><content>Sir, am I interrupting?</content></utterance>
+<utterance uid="18-2"><speaker>GATES</speaker><content>Just running background on the tenants in the Queens building.</content></utterance>
+<utterance uid="18-3"><speaker>BECKETT</speaker><content>I think I may know why someone wanted Sam dead.</content></utterance>
+<utterance uid="18-4"><speaker>BECKETT</speaker><content>According to his bank, Sam wired over 10 million dollars out of the Sapphire’s business account yesterday, wiping it clean.</content></utterance>
+<utterance uid="18-5"><speaker>GATES</speaker><content>$10 million? Where did he transfer it to?</content></utterance>
+<utterance uid="18-6"><speaker>BECKETT</speaker><content>To an offshore account in the Caymans.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>ESPOSITO</speaker><content>Beckett.</content></utterance>
+<utterance uid="19-2"><speaker>DANIEL</speaker><content>So here he is, parting ways with the pit boss at one of the tables.</content></utterance>
+<utterance uid="19-3"><speaker>RYAN</speaker><content>No bloody lip yet. Let it play, please.</content></utterance>
+<utterance uid="19-4"><speaker>CASTLE</speaker><content>Ooh.</content></utterance>
+<utterance uid="19-5"><speaker>DANIEL</speaker><content>Wow.</content></utterance>
+<utterance uid="19-6"><speaker>CASTLE</speaker><content>Is there another angle on that?</content></utterance>
+<utterance uid="19-7"><speaker>RYAN</speaker><content>That’s Charlie Turner, Sam’s business partner. Why would Charlie attack Sam?</content></utterance>
+<utterance uid="19-8"><speaker>ESPOSITO</speaker><content>I think I know. That was Beckett. Sam Siegal’s been embezzling from the casino. He’s ripped them off for millions.</content></utterance>
+<utterance uid="19-9"><speaker>RYAN</speaker><content>Looks like Sam was trying to beat the house.</content></utterance>
+<utterance uid="19-10"><speaker>CASTLE</speaker><content>And Charlie laid down the law.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>ESPOSITO</speaker><content>Something you forgot to tell us, Charlie?</content></utterance>
+<utterance uid="20-2"><speaker>CHARLIE</speaker><content>Business partners have disputes. It doesn’t mean anything.</content></utterance>
+<utterance uid="20-3"><speaker>RYAN</speaker><content>What was it about?</content></utterance>
+<utterance uid="20-4"><speaker>CHARLIE</speaker><content>The thread count on the new sheets.</content></utterance>
+<utterance uid="20-5"><speaker>ESPOSITO</speaker><content>Not the $10 plus million that Sam stole from the casino?</content></utterance>
+<utterance uid="20-6"><speaker>CASTLE</speaker><content>You knew he was embezzling.</content></utterance>
+<utterance uid="20-7"><speaker>CHARLIE</speaker><content>Okay, I knew. So?</content></utterance>
+<utterance uid="20-8"><speaker>RYAN</speaker><content>So it’s 10 million motives for murder.</content></utterance>
+<utterance uid="20-9"><speaker>CHARLIE</speaker><content>You know, you may have noticed we have a few cameras here at the casino. Take a look. I was here, not in New York killing my partner.</content></utterance>
+<utterance uid="20-10"><speaker>ESPOSITO</speaker><content>Really?</content></utterance>
+<utterance uid="20-11"><speaker>CHARLIE</speaker><content>Mmhmm.</content></utterance>
+<utterance uid="20-12"><speaker>ESPOSITO</speaker><content>Well that right hook? Kind of looks like a warning to me.</content></utterance>
+<utterance uid="20-13"><speaker>CHARLIE</speaker><content>Well, you know, this town, if you’re not careful, it corrupts your soul. Sam and I were partners 20 years and still he thinks it’s okay to steal from me? When I saw he transferred the $10 million out I found him on the casino floor and he denied even knowing about it. Can you believe it? So I punched him and I told him, friend or no friend, he better have that money back into my account or he’d never walk again. So I must have scared him, because I got a call a few hours later and he said he’d have the money back in my account today. And now it’s today and my friend is dead and the money’s still gone.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>BECKETT</speaker><content>So the boys checked security footage and they said that Charlie was on the casino floor the whole night.</content></utterance>
+<utterance uid="21-2"><speaker>GATES</speaker><content>He could have paid someone.</content></utterance>
+<utterance uid="21-3"><speaker>BECKETT</speaker><content>Yeah, but why would he kill Sam before he got his money, and if Sam actually stole something, why wasn’t he on a plane to Barbados? Why was he wasting his time coming up to New York?</content></utterance>
+<utterance uid="21-4"><speaker>GATES</speaker><content>And how is all this connected to the property in Queens?</content></utterance>
+<utterance uid="21-5"><speaker>BECKETT</speaker><content>I think we’re missing something. There’s some piece of the puzzle that’ll help make all of Sam’s seemingly actions make sense.</content></utterance>
+<utterance uid="21-6"><speaker>BECKETT</speaker><content>Actually, that’s something that Castle’s pretty good at.</content></utterance>
+<utterance uid="21-7"><speaker>BECKETT</speaker><content>Taking a look at what we have and helping to find that piece.</content></utterance>
+<utterance uid="21-8"><speaker>GATES</speaker><content>Mr. Castle likes to throw a whole bunch of crazy theories against the wall. Real detectives don’t have the luxury. It’s our job to look at the facts. The bank report indicates that Sam moved the money at 9:47AM via electronic transfer on their website. Now, if we can find out who Sam talked to or met with right before that, we could maybe figure out what’s going on.</content></utterance>
+<utterance uid="21-9"><speaker>BECKETT</speaker><content>9:47?</content></utterance>
+<utterance uid="21-10"><speaker>GATES</speaker><content>Yes.</content></utterance>
+<utterance uid="21-11"><speaker>BECKETT</speaker><content>Sam’s assistant has him ... at a massage.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>AMBER</speaker><content>Yeah. Mr. Siegal had an hour session yesterday at 9. Why?</content></utterance>
+<utterance uid="22-2"><speaker>RYAN</speaker><content>Well, we need to know if Sam made or received any phone calls or perhaps any visitors during his session.</content></utterance>
+<utterance uid="22-3"><speaker>AMBER</speaker><content>No. He was very focused on the service.</content></utterance>
+<utterance uid="22-4"><speaker>ESPOSITO</speaker><content>Amber. We know he went online at 9:47. We just need to know if he made contact with anybody right before or right after.</content></utterance>
+<utterance uid="22-5"><speaker>AMBER</speaker><content>I told you, he wasn’t on the phone and he wasn’t online.</content></utterance>
+<utterance uid="22-6"><speaker>CASTLE</speaker><content>Well, what with mobile devices being so small and slim, perhaps he had it in his hand –</content></utterance>
+<utterance uid="22-7"><speaker>AMBER</speaker><content>His hands were otherwise occupied.</content></utterance>
+<utterance uid="22-8"><speaker>CASTLE</speaker><content>Oh, oh! I get it.  That kind of massage.</content></utterance>
+<utterance uid="22-9"><speaker>ESPOSITO</speaker><content>So Sam didn’t make the transfer. He didn’t steal the money. Somebody stole it from him.</content></utterance>
+<utterance uid="22-10"><speaker>RYAN</speaker><content>Ah, Amber, we need to know if, um, perhaps there was anything maybe unusual about the appointment.</content></utterance>
+<utterance uid="22-11"><speaker>AMBER</speaker><content>The only thing that seemed odd was that Nadine called that morning to confirm that appointment.</content></utterance>
+<utterance uid="22-12"><speaker>CASTLE</speaker><content>Nadine the personal concierge?</content></utterance>
+<utterance uid="22-13"><speaker>AMBER</speaker><content>Mmhmm.</content></utterance>
+<utterance uid="22-14"><speaker>RYAN</speaker><content>And why was that unusual?</content></utterance>
+<utterance uid="22-15"><speaker>AMBER</speaker><content>Mr. Siegal’s personal assistant usually books the appointment. This was the first time Nadine ever called.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>GATES</speaker><content>Wait a minute. Did you say her name was Nadine Espinoza?</content></utterance>
+<utterance uid="23-2"><speaker>RYAN</speaker><content>Yeah, the concierge. That name mean anything to you?</content></utterance>
+<utterance uid="23-3"><speaker>GATES</speaker><content>Uh, Espinoza is the last name of one of the tenants in Sam’s building in Queens. Uh … Teresa and Juan. They run the bodega on the ground floor.  And they have a daughter named Nadine.</content></utterance>
+<utterance uid="23-4"><speaker>BECKETT</speaker><content>That’s our connection.</content></utterance>
+<utterance uid="23-5"><speaker>GATES</speaker><content>Ryan, bring her in.</content></utterance>
+<utterance uid="23-6"><speaker>RYAN</speaker><content>Yes sir.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>ESPOSITO</speaker><content>Nadine’s supervisor said she left her office ten minutes ago. Claimed she needed to go home sick.</content></utterance>
+<utterance uid="24-2"><speaker>RYAN</speaker><content>Then there’s a chance we can catch her outside.</content></utterance>
+<utterance uid="24-3"><speaker>ESPOSITO</speaker><content>Let’s go.</content></utterance>
+<utterance uid="24-4"><speaker>ESPOSITO</speaker><content>There she is.</content></utterance>
+<utterance uid="24-5"><speaker>CASTLE</speaker><content>We’re not going to be seeing Carrot Top tonight, are we?</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>CASTLE</speaker><content>Yeah, honey. It turns out I am going to be stuck here the rest of the night.</content></utterance>
+<utterance uid="25-2"><speaker>ALEXIS</speaker><content>Well, is everything all right?</content></utterance>
+<utterance uid="25-3"><speaker>CASTLE</speaker><content>Yeah, just the case just got a little … complicated.  But I want you to have a good time with your girlfriends.</content></utterance>
+<utterance uid="25-4"><speaker>ALEXIS</speaker><content>I will. If you promise to be safe.</content></utterance>
+<utterance uid="25-5"><speaker>CASTLE</speaker><content>Deal. Love you.</content></utterance>
+<utterance uid="25-6"><speaker>ALEXIS</speaker><content>Love you too.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>ALEXIS</speaker><content>Hey Jules, come on in.</content></utterance>
+<utterance uid="26-2"><speaker>JULES</speaker><content>I’ve got my fave ‘get over breakup’ snack and a kick ass chick flick. Bridesmaids, of course.</content></utterance>
+<utterance uid="26-3"><speaker>ALEXIS</speaker><content>Okay. The girls are on their way and it turns out my Dad is out of town, so we have the whole place to ourselves.</content></utterance>
+<utterance uid="26-4"><speaker>JULES</speaker><content>Cool! By the way, Mina said her boyfriend might by and drop off her jacket.</content></utterance>
+<utterance uid="26-5"><speaker>ALEXIS</speaker><content>Isn’t he friends with Brian from homeroom?</content></utterance>
+<utterance uid="26-6"><speaker>JULES</speaker><content>Hot as hell Brian?  Yeah, I think they’re doing a bros night at the movies.</content></utterance>
+<utterance uid="26-7"><speaker>ALEXIS</speaker><content>Maybe we can invite them over, too. All watch a movie here.</content></utterance>
+<utterance uid="26-8"><speaker>JULES</speaker><content>Brian.</content></utterance>
+<utterance uid="26-9"><speaker>ALEXIS</speaker><content>Yeah.</content></utterance>
+<utterance uid="26-10"><speaker>JULES</speaker><content>He’s like a total jock. Completely the opposite of your type.</content></utterance>
+<utterance uid="26-11"><speaker>ALEXIS</speaker><content>I know. He’s so … not Ashley.</content></utterance>
+<utterance uid="26-12"><speaker>JULES</speaker><content>I’ll text Mina.</content></utterance>
+</scene>
+
+<scene id="27"><utterance uid="27-1"><speaker>ESPOSITO</speaker><content>So Beckett says plates on the SUV came back stolen.</content></utterance>
+<utterance uid="27-2"><speaker>CASTLE</speaker><content>Most likely the same SUV that was spotted coming out of that abandoned warehouse where Sam was killed.</content></utterance>
+<utterance uid="27-3"><speaker>ESPOSITO</speaker><content>If it was the same car, why would they want Nadine?</content></utterance>
+<utterance uid="27-4"><speaker>CASTLE</speaker><content>Because whatever this is, Nadine is knee deep in it.</content></utterance>
+<utterance uid="27-5"><speaker>RYAN</speaker><content>Try neck deep. ACPD let me check into that laptop in Nadine’s work bag. I checked her browser history. Guess who paid a visit to the New Reserve Bank website yesterday at 9:47AM.</content></utterance>
+<utterance uid="27-6"><speaker>ESPOSITO</speaker><content>Nadine’s our thief?</content></utterance>
+<utterance uid="27-7"><speaker>RYAN</speaker><content>Yep. Our concierge pulled quite a score. She logged in with Sam’s account information and transferred the $10 mil.</content></utterance>
+<utterance uid="27-8"><speaker>CASTLE</speaker><content>So whoever took her is after the money.  They tried to get it from Sam, and when that didn’t work, they killed him. And now they’ve got Nadine.</content></utterance>
+<utterance uid="27-9"><speaker>RYAN</speaker><content>Okay, but we still don’t know who they are.</content></utterance>
+<utterance uid="27-10"><speaker>CASTLE</speaker><content>There’s only one person that makes sense. The guy whose money it is.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>CHARLIE</speaker><content>Why would I kidnap my own concierge?</content></utterance>
+<utterance uid="28-2"><speaker>CASTLE</speaker><content>Because you found out she was the one who stole your money.</content></utterance>
+<utterance uid="28-3"><speaker>CHARLIE</speaker><content>Nadine stole my money?</content></utterance>
+<utterance uid="28-4"><speaker>RYAN</speaker><content>You can stop the theatrics. We know you know.</content></utterance>
+<utterance uid="28-5"><speaker>ESPOSITO</speaker><content>Mr. Turner, your casino maintains a fleet of black SUVs to shuttle around your high rollers.</content></utterance>
+<utterance uid="28-6"><speaker>CHARLIE</speaker><content>All the casinos do. That doesn’t prove anything.</content></utterance>
+<utterance uid="28-7"><speaker>ESPOSITO</speaker><content>Well then, you won’t mind If we inspect them. Just to make sure that they’re all accounted for.</content></utterance>
+<utterance uid="28-8"><speaker>CHARLIE</speaker><content>We’re done here.</content></utterance>
+<utterance uid="28-9"><speaker>RYAN</speaker><content>Excuse me?</content></utterance>
+<utterance uid="28-10"><speaker>CHARLIE</speaker><content>You people are here from another state. You have no jurisdiction, and you have no warrant, and I believe I’ve tolerated your presence long enough. Get out of my casino.</content></utterance>
+<utterance uid="28-11"><speaker>CASTLE</speaker><content>Are you kidding?</content></utterance>
+<utterance uid="28-12"><speaker>CHARLIE</speaker><content>Do I look like I’m kidding? I want you to leave, now.</content></utterance>
+<utterance uid="28-13"><speaker>CASTLE</speaker><content> Can he do that?</content></utterance>
+</scene>
+
+<scene id="29"><utterance uid="29-1"><speaker>BECKETT</speaker><content>What? How did you guys get kicked out?</content></utterance>
+<utterance uid="29-2"><speaker>RYAN</speaker><content>Turns out Charlie’s version of full cooperation isn’t all that full.</content></utterance>
+<utterance uid="29-3"><speaker>ESPOSITO</speaker><content>The only reason he kicked us out is because he’s behind the whole thing.</content></utterance>
+<utterance uid="29-4"><speaker>BECKETT</speaker><content>Yeah, but kidnap somebody right in front of his casino? That’s a bit bold. If he knew it was her, why would he wait? Why didn’t he just grab her in the casino while she was on shift?</content></utterance>
+<utterance uid="29-5"><speaker>CASTLE</speaker><content> Yeah. I mean, he did seem genuinely surprised when we told him it was Nadine. Maybe he didn’t know.</content></utterance>
+<utterance uid="29-6"><speaker>ESPOSITO</speaker><content>Yeah, but he’s the only one with motive.</content></utterance>
+<utterance uid="29-7"><speaker>CASTLE</speaker><content>Well, not necessarily. What if someone else knew what Nadine did and wanted the money?</content></utterance>
+<utterance uid="29-8"><speaker>ESPOSITO</speaker><content>How would they find out?</content></utterance>
+<utterance uid="29-9"><speaker>BECKETT</speaker><content>Maybe Nadine told them. I mean, that would explain the phone records.</content></utterance>
+<utterance uid="29-10"><speaker>RYAN</speaker><content>How so?</content></utterance>
+<utterance uid="29-11"><speaker>BECKETT</speaker><content>Listen, I pulled her phone history. She called a number inside the casino immediately before and after making that transfer at 9:47. I tracked down the extension to a, uh … Daniel Sullivan.</content></utterance>
+<utterance uid="29-12"><speaker>RYAN</speaker><content>Daniel. That’s Charlie’s security guy.</content></utterance>
+<utterance uid="29-13"><speaker>CASTLE</speaker><content>That would explain how Nadine got a hold of Sam’s passwords. Daniel was her partner. He’s got eyes and ears all over that casino.</content></utterance>
+<utterance uid="29-14"><speaker>BECKETT</speaker><content>All right, see what he knows.</content></utterance>
+<utterance uid="29-15"><speaker>ESPOSITO</speaker><content>We can’t. He’s inside the casino, and their security won’t let us back in.</content></utterance>
+<utterance uid="29-16"><speaker>BECKETT</speaker><content>Okay, sit tight. I’m driving down.</content></utterance>
+<utterance uid="29-17"><speaker>CASTLE</speaker><content>No, no – we got it.</content></utterance>
+<utterance uid="29-18"><speaker>RYAN</speaker><content>Beckett, we – you don’t have to do that. We have –</content></utterance>
+<utterance uid="29-19"><speaker>ESPOSITO</speaker><content>No! We’ve got - no, we really -</content></utterance>
+<utterance uid="29-20"><speaker>RYAN</speaker><content>Yeah… she’s gone.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>BRIAN</speaker><content>So I told coach if I’m open on the three point, guard better feed me.</content></utterance>
+<utterance uid="30-2"><speaker>ALEXIS</speaker><content>That’s really interesting. But did you have to invite half of the team over?</content></utterance>
+<utterance uid="30-3"><speaker>BRIAN</speaker><content>I like your hair. It’s … red.</content></utterance>
+<utterance uid="30-4"><speaker>ALEXIS</speaker><content> Will you excuse me for a sec?</content></utterance>
+<utterance uid="30-5"><speaker>JULES</speaker><content>Hey! I need to talk to you.</content></utterance>
+<utterance uid="30-6"><speaker>ALEXIS</speaker><content>Can it wait a second? I think someone just broke the blender. Who are all these people?</content></utterance>
+<utterance uid="30-7"><speaker>JULES</speaker><content>Jamie Cruz just posted an update on Facebook that you’re having a party.</content></utterance>
+<utterance uid="30-8"><speaker>ALEXIS</speaker><content>What?</content></utterance>
+<utterance uid="30-9"><speaker>JULES</speaker><content>He’s kind of a loser, though, so I’m sure he doesn’t have many friends.</content></utterance>
+<utterance uid="30-10"><speaker>ALEXIS</speaker><content>Yeah. I mean, how many people are just sitting at home waiting to hear about a party?</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>CASTLE</speaker><content>This is the worst impromptu bachelor party while on case ever.</content></utterance>
+<utterance uid="31-2"><speaker>ESPOSITO</speaker><content>This is humiliating. We’re homicide detectives with the NYPD.</content></utterance>
+<utterance uid="31-3"><speaker>RYAN</speaker><content>Unfortunately we’re in New Jersey. Least we’re not on a ticking clock because a woman’s been kidnapped.  Oh! Wait. We are.</content></utterance>
+<utterance uid="31-4"><speaker>RYAN</speaker><content>There’s got to be some other way we can get in.</content></utterance>
+<utterance uid="31-5"><speaker>CASTLE</speaker><content>What if I told you I could get us back into the hotel? Past security. All while circumventing facial recognition.</content></utterance>
+<utterance uid="31-6"><speaker>RYAN</speaker><content>Well, how the hell are you going to do that?</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>SHOWGIRL</speaker><content>Very nice.</content></utterance>
+<utterance uid="32-2"><speaker>CASTLE</speaker><content>Thank you. Thank you very much.</content></utterance>
+<utterance uid="32-3"><speaker>ESPOSITO</speaker><content>How do you know she wasn’t talking to me?</content></utterance>
+<utterance uid="32-4"><speaker>CASTLE</speaker><content>Well …</content></utterance>
+<utterance uid="32-5"><speaker>ESPOSITO</speaker><content>What? Elvis can’t be brown? I’m Elvez.</content></utterance>
+<utterance uid="32-6"><speaker>ESPOSITO</speaker><content>Hey! How you doing?</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>DANIEL</speaker><content>What the hell?</content></utterance>
+<utterance uid="33-2"><speaker>RYAN</speaker><content>We’d like a word about Nadine.</content></utterance>
+<utterance uid="33-3"><speaker>DANIEL</speaker><content>You’re joking, right?</content></utterance>
+<utterance uid="33-4"><speaker>CASTLE</speaker><content>Does it look like we’re joking?</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>DANIEL</speaker><content>Okay. Why're you guys dressed like that?</content></utterance>
+<utterance uid="34-2"><speaker>RYAN</speaker><content>A better question is why did Nadine call you at 9:48 yesterday?</content></utterance>
+<utterance uid="34-3"><speaker>DANIEL</speaker><content>You know about that?</content></utterance>
+<utterance uid="34-4"><speaker>ESPOSITO</speaker><content>We know you two were partners.</content></utterance>
+<utterance uid="34-5"><speaker>CASTLE</speaker><content>Who took her? Who was in the SUV?</content></utterance>
+<utterance uid="34-6"><speaker>DANIEL</speaker><content>I don’t know. That – this wasn’t supposed to happen.</content></utterance>
+<utterance uid="34-7"><speaker>RYAN</speaker><content>Are you saying you guys accidentally stole 10 million dollars from Charlie and Sam?</content></utterance>
+<utterance uid="34-8"><speaker>DANIEL</speaker><content>No, we didn’t steal it. We were … we were using it as leverage.</content></utterance>
+<utterance uid="34-9"><speaker>CASTLE</speaker><content>To get Sam to hand over that building in Queens for her parents.</content></utterance>
+<utterance uid="34-10"><speaker>DANIEL</speaker><content>Yeah. But it’s – it’s not why you think. Nadine and I started dating a few months ago. We’re in love. We wanted to start over, move somewhere, but Sam wouldn’t let her go.</content></utterance>
+<utterance uid="34-11"><speaker>RYAN</speaker><content>They were an item?</content></utterance>
+<utterance uid="34-12"><speaker>DANIEL</speaker><content>Ah, only in his mind. She refused all of his advances, but he wouldn’t stop.</content></utterance>
+<utterance uid="34-13"><speaker>ESPOSITO</speaker><content>Why didn’t she report him?</content></utterance>
+<utterance uid="34-14"><speaker>DANIEL</speaker><content>Because this was his casino. Nobody would have taken her seriously. She tried to quit about a year ago. That’s when he bought her parents' building and threatened to evict them if she didn’t sleep with him. I had to do something to stop him.</content></utterance>
+<utterance uid="34-15"><speaker>CASTLE</speaker><content>So you came up with a plan to hold the money hostage until he turned over the deed.</content></utterance>
+<utterance uid="34-16"><speaker>DANIEL</speaker><content>He was going to sign it over as a quit-claim and I was going to transfer the money back. And then Nadine would be free.</content></utterance>
+<utterance uid="34-17"><speaker>RYAN</speaker><content>None of this explains who killed Sam.</content></utterance>
+<utterance uid="34-18"><speaker>DANIEL</speaker><content>Something about the money made Sam panic.</content></utterance>
+<utterance uid="34-19"><speaker>CASTLE</speaker><content>What do you mean?</content></utterance>
+<utterance uid="34-20"><speaker>DANIEL</speaker><content>When I called Sam to give him instructions about the deed, he told me I stole the wrong person’s money. And he told me when they found out, we’d all be dead.</content></utterance>
+<utterance uid="34-21"><speaker>CASTLE</speaker><content>Who was he talking about?</content></utterance>
+<utterance uid="34-22"><speaker>DANIEL</speaker><content>I don’t know.</content></utterance>
+<utterance uid="34-23"><speaker>ESPOSITO</speaker><content>Oh hey, guys.</content></utterance>
+<utterance uid="34-24"><speaker>ESPOSITO</speaker><content>We were just leaving.</content></utterance>
+<utterance uid="34-25"><speaker>RYAN</speaker><content>This isn’t the ballroom.</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>ALEXIS</speaker><content>Let me guess. Facebook?</content></utterance>
+<utterance uid="35-2"><speaker>GUY</speaker><content>Twitter. You might just want to leave this open, by the way. There’s like, a whole bunch of people lining up for the elevator downstairs.</content></utterance>
+<utterance uid="35-3"><speaker>ALEXIS</speaker><content>Twitter?</content></utterance>
+<utterance uid="35-4"><speaker>ALEXIS</speaker><content>Jules, this is a disaster.</content></utterance>
+<utterance uid="35-5"><speaker>JULES</speaker><content>Ah, chill. It’s just a party. Have some fun for once.</content></utterance>
+<utterance uid="35-6"><speaker>ALEXIS</speaker><content>Fun? I don’t even know half these people.</content></utterance>
+<utterance uid="35-7"><speaker>JULES</speaker><content>Well, what about .. um …  … um… Brian?</content></utterance>
+<utterance uid="35-8"><speaker>ALEXIS</speaker><content>He has the IQ of a squirrel.</content></utterance>
+<utterance uid="35-9"><speaker>ALEXIS</speaker><content>Oh, God. My Dad’s going to kill me.</content></utterance>
+<utterance uid="35-10"><speaker>JULES</speaker><content>Please. You have the coolest dad ever. If he were to walk in right now I bet he wouldn’t care.</content></utterance>
+<utterance uid="35-11"><speaker>ALEXIS</speaker><content>You’re right. He probably wouldn’t care. The problem is, I do.</content></utterance>
+<utterance uid="35-12"><speaker>ALEXIS</speaker><content>Everybody! Listen up! The party is over. Thanks for coming, thanks for spilling, thanks for telling every teenager with a pulse. Now, everybody out!</content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>RYAN</speaker><content>Really?</content></utterance>
+<utterance uid="36-2"><speaker>ESPOSITO</speaker><content>Really? If it wasn’t illegal I’d kick your ass.</content></utterance>
+<utterance uid="36-3"><speaker>RYAN</speaker><content>I wonder where they took Castle.</content></utterance>
+</scene>
+
+<scene id="37"><utterance uid="37-1"><speaker>CHARLIE</speaker><content>You were told what would happen if you came back here. Now I’m not stupid enough to beat on cops, but you, on the other hand are a different story. I want my money, Mr. Castle, so you better tell me everything you know.</content></utterance>
+<utterance uid="37-2"><speaker>CASTLE</speaker><content>I know it’s not your money.</content></utterance>
+<utterance uid="37-3"><speaker>CHARLIE</speaker><content>Hmm.  Would you excuse us?</content></utterance>
+<utterance uid="37-4"><speaker>CHARLIE</speaker><content>Who told you?</content></utterance>
+<utterance uid="37-5"><speaker>CASTLE</speaker><content>No one told me. I put the pieces together. Sam’s murder, Nadine’s kidnapping, none of it makes any sense if it was your money. I think – I think the money Nadine stole from you actually belonged to someone else. Otherwise you wouldn’t be so desperate. So tell me, Charlie. What happened? You and Sam take out a loan from an institution that doesn’t offer flexible payment plans? You borrowed money from the mob. That’s why you didn’t want us sniffing around here. What I can’t figure out, is how could you be so stupid.</content></utterance>
+<utterance uid="37-6"><speaker>CHARLIE</speaker><content>The banks weren’t lending. We needed a cash infusion or else we would have had to fold. And now the money’s gone. You have any idea how bad it is to default on a loan from the mob?</content></utterance>
+<utterance uid="37-7"><speaker>CASTLE</speaker><content>How’d they find out about Nadine?</content></utterance>
+<utterance uid="37-8"><speaker>CHARLIE</speaker><content>Hell if I know. Maybe Sam told them. All I know is that I need my money back.</content></utterance>
+<utterance uid="37-9"><speaker>CASTLE</speaker><content>I can get your money back for you. But I need you to do something for me.</content></utterance>
+<utterance uid="37-10"><speaker>CASTLE</speaker><content>Who are they?</content></utterance>
+<utterance uid="37-11"><speaker>CHARLIE</speaker><content> No, no way.</content></utterance>
+<utterance uid="37-12"><speaker>CASTLE</speaker><content>C’mon, Charlie. They killed Sam and unless they get their money back they’re going to kill Nadine and then you. Those are your cards. Is this really how you’re going to play them?</content></utterance>
+</scene>
+<scene id="38"><utterance uid="38-1"><speaker>RYAN</speaker><content>Oh, um… funny story?</content></utterance>
+<utterance uid="38-2"><speaker>ESPOSITO</speaker><content>We, uh … look, this is … we can explain.</content></utterance>
+<utterance uid="38-3"><speaker>BECKETT</speaker><content>No, I’m not even sure I want to know.</content></utterance>
+<utterance uid="38-4"><speaker>CASTLE</speaker><content>And it worked. I know who killed Sam.</content></utterance>
+</scene>
+<scene id="39"><utterance uid="39-1"><speaker>CASTLE</speaker><content>Tommy Moretti. He made a hard money loan to the Sapphire 6 months ago and it’s due. That’s the money that Nadine stole.</content></utterance>
+<utterance uid="39-2"><speaker>BECKETT</speaker><content>Felony, assault, attempted murder, racketeering … the Feds have been trying to get him for years.</content></utterance>
+<utterance uid="39-3"><speaker>RYAN</speaker><content>He was at the bar earlier today. He told Charlie he needed his luck to change.</content></utterance>
+<utterance uid="39-4"><speaker>CASTLE</speaker><content>Probably a veiled threat.</content></utterance>
+<utterance uid="39-5"><speaker>DANIEL</speaker><content>What if he kills her?</content></utterance>
+<utterance uid="39-6"><speaker>CASTLE</speaker><content>No, he wants his money too much. Just stick to the plan. Charlie called Moretti, told him to meet him at the casino first thing in the morning when the banks open.</content></utterance>
+<utterance uid="39-7"><speaker>ESPOSITO</speaker><content>Once you turn over the $10 million, he’ll turn over Nadine.</content></utterance>
+<utterance uid="39-8"><speaker>BECKETT</speaker><content>And then we’ll arrest him for Sam’s murder.</content></utterance>
+<utterance uid="39-9"><speaker>DANIEL</speaker><content>Well, what if he smells a trap?</content></utterance>
+<utterance uid="39-10"><speaker>BECKETT</speaker><content>He won’t. We'll be ready.</content></utterance>
+</scene>
+<scene id="40"><utterance uid="40-1"><speaker>RYAN</speaker><content>Here he comes.</content></utterance>
+<utterance uid="40-2"><speaker>CHARLIE</speaker><content>Tommy Moretti. The guy’s a sociopath. Problem is, with half the city on his payroll, no one can touch him.</content></utterance>
+</scene>
+<scene id="41"><utterance uid="41-1"><speaker>TOMMY</speaker><content>You’ve got some pretty big balls, kid, to steal from me.</content></utterance>
+<utterance uid="41-2"><speaker>DANIEL</speaker><content>I – I’m sorry, Mr. Moretti. I had no idea you were involved. I’ll log on and transfer the fund as soon as I see Nadine.</content></utterance>
+<utterance uid="41-3"><speaker>TOMMY</speaker><content>You’ve got a lot of demands for a kid who’s lucky to be sucking down air right now.</content></utterance>
+<utterance uid="41-4"><speaker>DANIEL</speaker><content>You said you would let her go.</content></utterance>
+<utterance uid="41-5"><speaker>RYAN</speaker><content>Okay, here’s where it gets interesting.</content></utterance>
+<utterance uid="41-6"><speaker>TOMMY</speaker><content>Bonny. Somehow figured I wasn’t done.</content></utterance>
+<utterance uid="41-7"><speaker>BECKETT</speaker><content>Take a seat, Mr. Moretti.  We got a few questions about Sam Siegal’s murder.</content></utterance>
+<utterance uid="41-8"><speaker>TOMMY</speaker><content>You caught me in a cooperative mood, Detective. Now that I got my money back, what can I do for you?</content></utterance>
+<utterance uid="41-9"><speaker>BECKETT</speaker><content>The night of Sam’s murder you charged a meal at Carmine’s. That’s about a mile away from the crime scene. That’s a long way to go for good chicken parm.</content></utterance>
+<utterance uid="41-10"><speaker>TOMMY</speaker><content>I had a craving.</content></utterance>
+<utterance uid="41-11"><speaker>CASTLE</speaker><content>For good Italian or for the 10 million dollars Sam stole from you?</content></utterance>
+<utterance uid="41-12"><speaker>TOMMY</speaker><content>C’mon. If I killed Sam you think you ever would have found the body? The guy that you’re looking for ain’t me.</content></utterance>
+<utterance uid="41-13"><speaker>BECKETT</speaker><content>But you were there.</content></utterance>
+<utterance uid="41-14"><speaker>TOMMY</speaker><content>Sam called me. He said he was having trouble repaying the loan so I arranged a meeting.</content></utterance>
+<utterance uid="41-15"><speaker>CASTLE</speaker><content>Yeah, at just the kind of place guys like you like to put bullets into guys like him.</content></utterance>
+<utterance uid="41-16"><speaker>TOMMY</speaker><content>You can’t get money from a dead guy. I’d have broken his leg and taken his casino first. Now see, I know all about the blackmail. Sam told me. He said he nothing to worry about because his ex-wife had signed over the property in Queens. The blackmailers were transferring the money back. He was going to drop off the money in the morning, so I gave him another 24 hours. It’s the last I saw of him.</content></utterance>
+<utterance uid="41-17"><speaker>CASTLE</speaker><content>Except Sam lied. His ex-wife never signed.</content></utterance>
+<utterance uid="41-18"><speaker>TOMMY</speaker><content>Yeah, she did. He showed me the signature.</content></utterance>
+<utterance uid="41-19"><speaker>TOMMY</speaker><content>That’s the reason I gave him the extra time.</content></utterance>
+</scene>
+
+<scene id="42"><utterance uid="42-1"><speaker>REBECCA</speaker><content>I didn’t lie.</content></utterance>
+<utterance uid="42-2"><speaker>BECKETT</speaker><content>So then what happened to the paperwork after Sam left your apartment?</content></utterance>
+<utterance uid="42-3"><speaker>REBECCA</speaker><content>He took it with him.</content></utterance>
+<utterance uid="42-4"><speaker>BECKETT</speaker><content>It’s odd. I would have thought I would have found it on his body. But we didn’t. Made me wonder where it was.</content></utterance>
+<utterance uid="42-5"><speaker>REBECCA</speaker><content>Maybe the person who killed him took it.</content></utterance>
+<utterance uid="42-6"><speaker>BECKETT</speaker><content>Yeah, maybe she did.</content></utterance>
+<utterance uid="42-7"><speaker>BECKETT</speaker><content>So uniforms found this in your apartment’s trash bin. It has your signature on it. You did lie.</content></utterance>
+<utterance uid="42-8"><speaker>REBECCA</speaker><content>He pleaded with me. Begged me to sign that form. And when I said no, he took out his gun, put it in my mouth, and told me that if I didn’t sign that form that he would paint the walls with my brains. The only reason I was able to get that divorce is because he’d said that he'd gotten old. That he was done with me. And I was grateful. Grateful for a way out. But with a man like Sam … you’re never really out. So when he told me someone wanted him dead, I thought, here’s my chance.</content></utterance>
+<utterance uid="42-9"><speaker>BECKETT</speaker><content>So then what happened?</content></utterance>
+<utterance uid="42-10"><speaker>REBECCA</speaker><content>He made a call from my phone about the meet. After he left, I took out the .38 that he gave me for our second anniversary, went out the service exit, and I hunted him down like the vicious animal he was.</content></utterance>
+</scene>
+<scene id="43"><utterance uid="43-1"><speaker>GATES</speaker><content>I’ve asked the DA to look into the mitigating circumstances. They’ll take her situation into account when they offer her a plea.</content></utterance>
+<utterance uid="43-2"><speaker>BECKETT</speaker><content>Thank you for your help on this one.</content></utterance>
+<utterance uid="43-3"><speaker>GATES</speaker><content>I enjoy checking out the view from the trenches once in a while.</content></utterance>
+<utterance uid="43-4"><speaker>BECKETT</speaker><content>Yeah well, it helps to be surrounded by a good team.</content></utterance>
+<utterance uid="43-5"><speaker>GATES</speaker><content>You mean Castle.</content></utterance>
+<utterance uid="43-6"><speaker>BECKETT</speaker><content>You said it, not me.</content></utterance>
+<utterance uid="43-7"><speaker>GATES</speaker><content>He’s not a cop.</content></utterance>
+<utterance uid="43-8"><speaker>BECKETT</speaker><content>Yeah, but that’s what makes him so good.</content></utterance>
+<utterance uid="43-9"><speaker>GATES</speaker><content>Well, speaking of which, where are they?</content></utterance>
+<utterance uid="43-10"><speaker>BECKETT</speaker><content>I gave them the afternoon off. Apparently Ryan got stuck with an underage best man, so the boys are giving him the unofficial bachelor party.</content></utterance>
+<utterance uid="43-11"><speaker>GATES</speaker><content>I trust you’ll edit their side of their of the investigation in the report.</content></utterance>
+</scene>
+<scene id="44"><utterance uid="44-1"><speaker>ALEXIS</speaker><content>Hey.</content></utterance>
+<utterance uid="44-2"><speaker>ALEXIS</speaker><content>What happened to you?</content></utterance>
+<utterance uid="44-3"><speaker>CASTLE</speaker><content>Nothing. Nothing … what’s happened here?</content></utterance>
+<utterance uid="44-4"><speaker>ALEXIS</speaker><content>Nothing.</content></utterance>
+<utterance uid="44-5"><speaker>CASTLE</speaker><content>Where’s the … um, where’s the little silver dog statue that’s usually on the back of the couch?</content></utterance>
+<utterance uid="44-6"><speaker>ALEXIS</speaker><content>Oh, I think Gram said she needed it for set dressing for her play.</content></utterance>
+<utterance uid="44-7"><speaker>CASTLE</speaker><content>Ah.</content></utterance>
+<utterance uid="44-8"><speaker>THE END</speaker><content>CASTLE</content></utterance>
+</scene>
+</script>

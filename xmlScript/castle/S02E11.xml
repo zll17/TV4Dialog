@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>BECKETT</speaker><content>On one knee?</content></utterance>
+<utterance uid="1-2"><speaker>CASTLE</speaker><content>That's a good girl.</content></utterance>
+<utterance uid="1-3"><speaker>BECKETT</speaker><content>What's up Castle? You proposing?</content></utterance>
+<utterance uid="1-4"><speaker>CASTLE</speaker><content>Oh, no. Just waiting for you.</content></utterance>
+<utterance uid="1-5"><speaker>BECKETT</speaker><content>That's too bad. You two make a cute couple.</content></utterance>
+<utterance uid="1-6"><speaker>CASTLE</speaker><content>Yeah. Hey, you think I should get a dog?</content></utterance>
+<utterance uid="1-7"><speaker>BECKETT</speaker><content>What am I, your wife?</content></utterance>
+<utterance uid="1-8"><speaker>CASTLE</speaker><content>Yeah, you're my work wife.</content></utterance>
+<utterance uid="1-9"><speaker>BECKETT</speaker><content>No, I'm not your work wife.</content></utterance>
+<utterance uid="1-10"><speaker>CASTLE</speaker><content>I could get a bloodhound. I could name him Sherlock, and then I could-- I could bring him to crime scenes.</content></utterance>
+<utterance uid="1-11"><speaker>BECKETT</speaker><content>No, you couldn't.</content></utterance>
+<utterance uid="1-12"><speaker>CASTLE</speaker><content>Oh, what? It'd be adorable. I could get him to wear a little Sherlock hat, train him how to carry a little magnifying glass. Oh, see? Right there. Disapproving, judgmental. You're totally my work wife. Hmm. The blood's bold, but it works.</content></utterance>
+<utterance uid="1-13"><speaker>BECKETT</speaker><content>Not sure he'd agree.</content></utterance>
+<utterance uid="1-14"><speaker>CASTLE</speaker><content>Hmm. Well, obviously, he was into art.</content></utterance>
+<utterance uid="1-15"><speaker>ESPOSITO</speaker><content>Victor Fink, 43, gallery owner. There's no sign of forced entry. Tenant upstairs called in gunshots to 911 at 10:14 p.m.</content></utterance>
+<utterance uid="1-16"><speaker>BECKETT</speaker><content>Any idea what he was doing here so late?</content></utterance>
+<utterance uid="1-17"><speaker>ESPOSITO</speaker><content>No, but according to his assistant, Darius Langley, they close at eight. As far as he can tell, there's nothing missing off the walls or from the back.</content></utterance>
+<utterance uid="1-18"><speaker>CASTLE</speaker><content>Anything off those security cameras?</content></utterance>
+<utterance uid="1-19"><speaker>ESPOSITO</speaker><content>Fake. Not even hooked up.</content></utterance>
+<utterance uid="1-20"><speaker>BECKETT</speaker><content>Lucky break for the guy.</content></utterance>
+<utterance uid="1-21"><speaker>CASTLE</speaker><content>Unless he knew. Just like he knew Fink was working late.</content></utterance>
+<utterance uid="1-22"><speaker>BECKETT</speaker><content>Or made plans to meet him here. Check with the assistant.</content></utterance>
+<utterance uid="1-23"><speaker>LANIE</speaker><content>He had some fight in him. Abrasions on the forearms, on the hands.</content></utterance>
+<utterance uid="1-24"><speaker>BECKETT</speaker><content>And then he made a run for the stairs.</content></utterance>
+<utterance uid="1-25"><speaker>CASTLE</speaker><content>Only to be shot in the back.</content></utterance>
+<utterance uid="1-26"><speaker>LANIE</speaker><content>Twice, 9 millimeter. Shooter fired from over here.</content></utterance>
+<utterance uid="1-27"><speaker>ESPOSITO</speaker><content>Is it possible he might have been meeting somebody?</content></utterance>
+<utterance uid="1-28"><speaker>DARIUS LANGLEY</speaker><content>Well, if he was meeting someone, he didn't tell me.</content></utterance>
+<utterance uid="1-29"><speaker>BECKETT</speaker><content>Excuse me for a minute.</content></utterance>
+<utterance uid="1-30"><speaker>DARIUS LANGLEY</speaker><content>He'd already left by the time I locked up at eight.</content></utterance>
+<utterance uid="1-31"><speaker>BECKETT</speaker><content>Mr. Langley? I'm Detective Kate Beckett. How long have you been Mr. Fink's assistant?</content></utterance>
+<utterance uid="1-32"><speaker>DARIUS LANGLEY</speaker><content>Two months. I'm an art student. I take night classes at Tisch.</content></utterance>
+<utterance uid="1-33"><speaker>BECKETT</speaker><content>Is that where you were tonight?</content></utterance>
+<utterance uid="1-34"><speaker>DARIUS LANGLEY</speaker><content>Yeah. Mr. Fink totally supported me being in school, he'd let me leave early to make classes. That's where I was when you guys called.</content></utterance>
+<utterance uid="1-35"><speaker>BECKETT</speaker><content>Do you know if Mr. Fink had any enemies? Any unhappy clients or artists?</content></utterance>
+<utterance uid="1-36"><speaker>DARIUS LANGLEY</speaker><content>Nothing out of the ordinary. I can get you a contact list, if you like.</content></utterance>
+<utterance uid="1-37"><speaker>BECKETT</speaker><content>Yes, please.</content></utterance>
+<utterance uid="1-38"><speaker>DARIUS LANGLEY</speaker><content>Okay.</content></utterance>
+<utterance uid="1-39"><speaker>RYAN</speaker><content>Hey. We got a little problem.</content></utterance>
+<utterance uid="1-40"><speaker>BECKETT</speaker><content>Mm-hmm?</content></utterance>
+<utterance uid="1-41"><speaker>RYAN</speaker><content>We dug these two slugs out of the wall.</content></utterance>
+<utterance uid="1-42"><speaker>BECKETT</speaker><content>They're not very fragmented. See if ballistics can run a match on any of the other shootings in the city.</content></utterance>
+<utterance uid="1-43"><speaker>RYAN</speaker><content>Sure, but that's not the problem. We dug these two out of the wall and Dr. Parish has another two in our vic here.</content></utterance>
+<utterance uid="1-44"><speaker>ESPOSITO</speaker><content>So, our perp's not a sharpshooter.</content></utterance>
+<utterance uid="1-45"><speaker>RYAN</speaker><content>But we've only found four bullets, and there are 1, 2, 3, 4, 5 shell casings on the ground.</content></utterance>
+<utterance uid="1-46"><speaker>CASTLE</speaker><content>There's no blood trail leading out of here.</content></utterance>
+<utterance uid="1-47"><speaker>RYAN</speaker><content>Exactly. And not a drop of blood outside of the spatter from our vic here.</content></utterance>
+<utterance uid="1-48"><speaker>BECKETT</speaker><content>So, there's no second victim.</content></utterance>
+<utterance uid="1-49"><speaker>CASTLE</speaker><content>So, where's the fifth bullet?</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>CASTLE</speaker><content>The bullet was made of ice.</content></utterance>
+<utterance uid="2-2"><speaker>BECKETT</speaker><content>Okay. Great. Yeah, send her up.  Vic's wife is on her way up.</content></utterance>
+<utterance uid="2-3"><speaker>CASTLE</speaker><content>Fires the bullet, it melts before we can find it. An ice bullet! Hello? An ice bullet? Are you even paying attention to me?</content></utterance>
+<utterance uid="2-4"><speaker>BECKETT</speaker><content>No! You aren't saying anything worth paying attention to.</content></utterance>
+<utterance uid="2-5"><speaker>ESPOSITO</speaker><content>Yo. Uniforms are still canvassing, but so far they still haven't found any blood trails outside the gallery.</content></utterance>
+<utterance uid="2-6"><speaker>RYAN</speaker><content>And CSU's re-swept the scene twice. No sign of our fifth bullet.</content></utterance>
+<utterance uid="2-7"><speaker>CASTLE</speaker><content>I'm telling you. Ice bullet.</content></utterance>
+<utterance uid="2-8"><speaker>ESPOSITO</speaker><content>Nah, bro. An ice bullet would still make a bullet hole.</content></utterance>
+<utterance uid="2-9"><speaker>RYAN</speaker><content>You mean, ice hole.</content></utterance>
+<utterance uid="2-10"><speaker>CASTLE</speaker><content>What did you just call me?</content></utterance>
+<utterance uid="2-11"><speaker>BECKETT</speaker><content>Guys. What else?</content></utterance>
+<utterance uid="2-12"><speaker>ESPOSITO</speaker><content>We checked Fink's cell phone records. He got a call at 9:19 p.m., an hour before he was killed, from a blocked cell phone number.</content></utterance>
+<utterance uid="2-13"><speaker>RYAN</speaker><content>Phone records indicate that the call originated here in New York, but it was an international cell, satellite phone, registered to Bahrain Cellular.</content></utterance>
+<utterance uid="2-14"><speaker>CASTLE</speaker><content>Well, good luck getting a warrant from the government of Bahrain.</content></utterance>
+<utterance uid="2-15"><speaker>BECKETT</speaker><content>Run down Fink's client and artist list. See if any of them had international numbers and watch your mouth.</content></utterance>
+<utterance uid="2-16"><speaker>ESPOSITO</speaker><content>I'm gonna go 10-1.</content></utterance>
+<utterance uid="2-17"><speaker>OFFICER MARINO</speaker><content>Hey, Ryan. Got a sec?</content></utterance>
+<utterance uid="2-18"><speaker>RYAN</speaker><content>Witness?</content></utterance>
+<utterance uid="2-19"><speaker>OFFICER MARINO</speaker><content>Not exactly. Hang here, buddy, okay?</content></utterance>
+<utterance uid="2-20"><speaker>JEREMY PRESWICK</speaker><content>Of course.</content></utterance>
+<utterance uid="2-21"><speaker>OFFICER MARINO</speaker><content>I found him on the canvass, by the art gallery. I mean, the guy's got no wallet, no ID.</content></utterance>
+<utterance uid="2-22"><speaker>RYAN</speaker><content>Okay, did you ask him his name?</content></utterance>
+<utterance uid="2-23"><speaker>OFFICER MARINO</speaker><content>Yeah, I asked him his name, I asked him where he lived. You know, but here's the funny part. The guy says he don't remember.</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>ANGELICA FINK</speaker><content>Did my husband have enemies? Yeah, he had enemies. Every artist who couldn't get in his gallery, and every artist who was in his gallery. He'd sell, like, five pieces, and they'd want to know why he didn't sell six.</content></utterance>
+<utterance uid="3-2"><speaker>BECKETT</speaker><content>Mrs. Fink, I know you're upset.</content></utterance>
+<utterance uid="3-3"><speaker>ANGELICA FINK</speaker><content>Well, what am I supposed to do with these, huh?</content></utterance>
+<utterance uid="3-4"><speaker>ANGELICA FINK</speaker><content>I didn't want them. I did them for him, and now he's dead.</content></utterance>
+<utterance uid="3-5"><speaker>CASTLE</speaker><content>Mrs. Fink, can you think of anyone who would hate your husband enough to shoot him in cold blood in the back?</content></utterance>
+<utterance uid="3-6"><speaker>ANGELICA FINK</speaker><content>Rocco.</content></utterance>
+<utterance uid="3-7"><speaker>BECKETT</speaker><content>Rocco? Was that one of the artists?</content></utterance>
+<utterance uid="3-8"><speaker>ANGELICA FINK</speaker><content>His assistant.</content></utterance>
+<utterance uid="3-9"><speaker>CASTLE</speaker><content>I thought Darius was his assistant.</content></utterance>
+<utterance uid="3-10"><speaker>ANGELICA FINK</speaker><content>His old assistant. Victor fired Rocco a few months back.</content></utterance>
+<utterance uid="3-11"><speaker>BECKETT</speaker><content>Why?</content></utterance>
+<utterance uid="3-12"><speaker>ANGELICA FINK</speaker><content>He fired that little insect over money. And, boy, did Rocco go crazy, making all kinds of threats. "I'm gonna get you, Fink." But you know what, no. Rocco, he wasn't even a man. He was more like a flea. Victor didn't even think twice about it.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>CASTLE</speaker><content>You suppose the flea had a gun? A tiny gun with vanishing bullets?</content></utterance>
+<utterance uid="4-2"><speaker>BECKETT</speaker><content>Ice bullets and fleas with guns? Do you have writer's block again?</content></utterance>
+<utterance uid="4-3"><speaker>CASTLE</speaker><content>Stephen King wrote stories of bloodthirsty cars and sold millions of copies. I figure, why be limited by logic?</content></utterance>
+<utterance uid="4-4"><speaker>BECKETT</speaker><content>Rocco Jones, Fink's old assistant. The wife said that Rocco called and left threatening messages for Fink. See what you can find.</content></utterance>
+<utterance uid="4-5"><speaker>ESPOSITO</speaker><content>I'm on it.</content></utterance>
+<utterance uid="4-6"><speaker>CASTLE</speaker><content>Hey, what's up with Ryan?</content></utterance>
+<utterance uid="4-7"><speaker>ESPOSITO</speaker><content>Mugging case. The guy got hit on the head and can't remember who he is.</content></utterance>
+<utterance uid="4-8"><speaker>CASTLE</speaker><content>Oh, missing bullets are cool, amnesia's even cooler.</content></utterance>
+<utterance uid="4-9"><speaker>JEREMY PRESWICK</speaker><content>I'm sure you have better things to do. I'm sure I do, too.</content></utterance>
+<utterance uid="4-10"><speaker>RYAN</speaker><content>An inhaler. You're asthmatic.</content></utterance>
+<utterance uid="4-11"><speaker>JEREMY PRESWICK</speaker><content>Awesome.</content></utterance>
+<utterance uid="4-12"><speaker>RYAN</speaker><content>You should probably hang onto that.</content></utterance>
+<utterance uid="4-13"><speaker>JEREMY PRESWICK</speaker><content>Inhaler, grocery bag, keys.</content></utterance>
+<utterance uid="4-14"><speaker>RYAN</speaker><content>Are you telling me you don't remember, at all, what any of that's for?</content></utterance>
+<utterance uid="4-15"><speaker>JEREMY PRESWICK</speaker><content>Yeah. How ridiculous is that?</content></utterance>
+<utterance uid="4-16"><speaker>CASTLE</speaker><content>Hey. Hey. So, has he, uh, really got amnesia?</content></utterance>
+<utterance uid="4-17"><speaker>JEREMY PRESWICK</speaker><content>Yeah. But apparently my hearing's fine.</content></utterance>
+<utterance uid="4-18"><speaker>CASTLE</speaker><content>Well, that's good. Richard Castle.</content></utterance>
+<utterance uid="4-19"><speaker>JEREMY PRESWICK</speaker><content>Hi... I'd introduce myself, too, but...</content></utterance>
+<utterance uid="4-20"><speaker>RYAN</speaker><content>Yeah, we're just going through his pockets trying to find something that could tell us who he is.</content></utterance>
+<utterance uid="4-21"><speaker>JEREMY PRESWICK</speaker><content>Oh, and apparently I've been reading, as well.</content></utterance>
+<utterance uid="4-22"><speaker>CASTLE</speaker><content>Ah, Crime and Punishment. Dostoyevsky. Classic. You have excellent taste.</content></utterance>
+<utterance uid="4-23"><speaker>RYAN</speaker><content>Castle.</content></utterance>
+<utterance uid="4-24"><speaker>RYAN</speaker><content>9 millimeter. I think we just found our fifth bullet.</content></utterance>
+</scene>
+<scene id="5"><utterance uid="5-1"><speaker>CASTLE</speaker><content>You know what, if we get a dog, I could buy him little saddlebags, and then he could carry your books to school, and you wouldn't have to worry about getting scoliosis.</content></utterance>
+<utterance uid="5-2"><speaker>ALEXIS</speaker><content>Conceptually, I'd like a dog as much as you would. In reality, I'm not seeing the guy whose dishes never make it to the sink bending over to scoop poop in Hudson Park.</content></utterance>
+<utterance uid="5-3"><speaker>CASTLE</speaker><content>I bet I could train him to use a toilet.</content></utterance>
+<utterance uid="5-4"><speaker>ALEXIS</speaker><content>Oh.</content></utterance>
+<utterance uid="5-5"><speaker>ALEXIS</speaker><content>Gram! I thought you were just sleeping in.</content></utterance>
+<utterance uid="5-6"><speaker>MARTHA</speaker><content>I was, just not in my room.</content></utterance>
+<utterance uid="5-7"><speaker>ALEXIS</speaker><content>You know what? We all share way too much.</content></utterance>
+<utterance uid="5-8"><speaker>MARTHA</speaker><content>Oh, I'm sorry, kiddo. But my happiness cannot be contained.</content></utterance>
+<utterance uid="5-9"><speaker>ALEXIS</speaker><content>I'm going to school. I'm glad you had a nice date.</content></utterance>
+<utterance uid="5-10"><speaker>MARTHA</speaker><content>Yes, three, four, five...</content></utterance>
+<utterance uid="5-11"><speaker>CASTLE</speaker><content>I'm assuming from this walk of shame, that you and your high school sweetheart, Chet, had a lovely night, all night, talking.</content></utterance>
+<utterance uid="5-12"><speaker>MARTHA</speaker><content>Among other things.</content></utterance>
+<utterance uid="5-13"><speaker>CASTLE</speaker><content>Mmm. It's been a few weeks. Do I need to sit him down and ask him his intentions?</content></utterance>
+<utterance uid="5-14"><speaker>MARTHA</speaker><content>I am having way too much fun to worry about his intentions. Okay, took me for lovely candlelight dinner, horse and carriage ride through Central Park where we watched the sun rise over the same boulder where we shared our first kiss.</content></utterance>
+<utterance uid="5-15"><speaker>CASTLE</speaker><content>Wait, that's still his make-out spot? Mother, that's a red flag.</content></utterance>
+<utterance uid="5-16"><speaker>MARTHA</speaker><content>Honey, nothing you can say can spoil this for me. I haven't felt this way since...  I can't remember when.</content></utterance>
+<utterance uid="5-17"><speaker>CASTLE</speaker><content>Ah, amnesia. It's going around. Speaking of which, I'm off. I'd tell you not to wait up, but clearly there would be no point.</content></utterance>
+</scene>
+<scene id="6"><utterance uid="6-1"><speaker>BECKETT</speaker><content>His fingerprints aren't in the system, and we don't have any hits on Missing Persons.</content></utterance>
+<utterance uid="6-2"><speaker>ESPOSITO</speaker><content>This is crazy. We actually find a witness to our murder, and we don't know who he is and he doesn't remember what he saw.</content></utterance>
+<utterance uid="6-3"><speaker>BECKETT</speaker><content>Where are we on Rocco?</content></utterance>
+<utterance uid="6-4"><speaker>ESPOSITO</speaker><content>Fink's old assistant? Uniforms are bringing him in now.</content></utterance>
+<utterance uid="6-5"><speaker>RYAN</speaker><content>Ballistics confirms that the bullets came from the same gun as the others. Whatever happened in the gallery, he was there.</content></utterance>
+<utterance uid="6-6"><speaker>BECKETT</speaker><content>Not only was he there, but someone tried to kill him, as well. Good thing he reads.</content></utterance>
+<utterance uid="6-7"><speaker>RYAN</speaker><content>Good thing he reads Russian literature. If the guy was a Nicholas Sparks fan, he'd be dead.</content></utterance>
+<utterance uid="6-8"><speaker>BECKETT</speaker><content>Have CSU check the coat for gunpowder residue, blood, fibers. Maybe it can tell us what happened that night. And check photo IDs on Fink's artists and clients.</content></utterance>
+<utterance uid="6-9"><speaker>RYAN</speaker><content>Think he might be one of them?</content></utterance>
+<utterance uid="6-10"><speaker>BECKETT</speaker><content>A girl can dream.</content></utterance>
+<utterance uid="6-11"><speaker>CASTLE</speaker><content>I brought you coffee.</content></utterance>
+<utterance uid="6-12"><speaker>BECKETT</speaker><content>Thank you, Castle.</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>CASTLE</speaker><content>So, what's the problem, Doc?</content></utterance>
+<utterance uid="7-2"><speaker>JEREMY PRESWICK</speaker><content>So, like, if I were a betting man, which I have no idea if I am, would I put my money on my memory coming back, or not?</content></utterance>
+<utterance uid="7-3"><speaker>BECKETT</speaker><content>Do we know why this would have happened?</content></utterance>
+<utterance uid="7-4"><speaker>JEREMY PRESWICK</speaker><content>Trauma?</content></utterance>
+<utterance uid="7-5"><speaker>CASTLE</speaker><content>You did get shot. Could that be it?</content></utterance>
+<utterance uid="7-6"><speaker>CASTLE</speaker><content>If we took him back to the scene of the crime, could that jog his memory?</content></utterance>
+<utterance uid="7-7"><speaker>BECKETT</speaker><content>Of course. I'll need to ask a few questions first. Mr... I'm sorry, I don't even know what to call you.</content></utterance>
+<utterance uid="7-8"><speaker>JEREMY PRESWICK</speaker><content>I don't know what to call me, either.</content></utterance>
+<utterance uid="7-9"><speaker>CASTLE</speaker><content>You said his procedural memory is intact?</content></utterance>
+<utterance uid="7-10"><speaker>CASTLE</speaker><content>May I?</content></utterance>
+<utterance uid="7-11"><speaker>BECKETT</speaker><content>Sure.</content></utterance>
+<utterance uid="7-12"><speaker>CASTLE</speaker><content/></utterance>
+<utterance uid="7-13"><speaker>JEREMY PRESWICK</speaker><content>Well, that's freaky. How the hell did I do that?</content></utterance>
+<utterance uid="7-14"><speaker>BECKETT</speaker><content>That looks like a real signature.</content></utterance>
+<utterance uid="7-15"><speaker>CASTLE</speaker><content>You form neural pathways. Procedural memory.</content></utterance>
+<utterance uid="7-16"><speaker>BECKETT</speaker><content>So, he can't remember his name, but he can sign it?</content></utterance>
+<utterance uid="7-17"><speaker>CASTLE</speaker><content>It's illegible. Maybe you're a doctor.</content></utterance>
+<utterance uid="7-18"><speaker>BECKETT</speaker><content>His first initial looks like a "J." Does that ring a bell?</content></utterance>
+<utterance uid="7-19"><speaker>JEREMY PRESWICK</speaker><content>Nope.</content></utterance>
+<utterance uid="7-20"><speaker>CASTLE</speaker><content>Maybe we should just call you J.</content></utterance>
+<utterance uid="7-21"><speaker>JEREMY PRESWICK</speaker><content>J. It's as good as anything, I guess.</content></utterance>
+<utterance uid="7-22"><speaker>BECKETT</speaker><content>Do you recognize this man?</content></utterance>
+<utterance uid="7-23"><speaker>JEREMY PRESWICK</speaker><content>No. Should I?</content></utterance>
+<utterance uid="7-24"><speaker>BECKETT</speaker><content>His name is Victor Fink. He owned the art gallery where you were shot.</content></utterance>
+<utterance uid="7-25"><speaker>JEREMY PRESWICK</speaker><content>He was there with me?</content></utterance>
+<utterance uid="7-26"><speaker>BECKETT</speaker><content>He was shot and killed.</content></utterance>
+<utterance uid="7-27"><speaker>JEREMY PRESWICK</speaker><content>Oh, God.</content></utterance>
+<utterance uid="7-28"><speaker>BECKETT</speaker><content>What about this man? Rocco Jones. He used to work at the gallery.</content></utterance>
+<utterance uid="7-29"><speaker>JEREMY PRESWICK</speaker><content>Guys, I feel so useless. Look, I'm really... I'm really sorry. I-- I just don't know him.</content></utterance>
+</scene>
+<scene id="8"><utterance uid="8-1"><speaker>ROCCO</speaker><content>After all I did for you, Fink. I wasn't just your assistant, man. I broke the law for you, and you think you can just fire me? I should kill you, man. Just pop you right in the back. Bang! And you're dead.</content></utterance>
+<utterance uid="8-2"><speaker>ESPOSITO</speaker><content>Whew. Wow. So, you finally get the courage to do it there, Rocco?</content></utterance>
+<utterance uid="8-3"><speaker>ROCCO</speaker><content>Dude, come on. I was mad. I was just blowing off steam.</content></utterance>
+<utterance uid="8-4"><speaker>ESPOSITO</speaker><content>You said you broke the law for him. How? Fine by me, pal. You have a nice trial.</content></utterance>
+<utterance uid="8-5"><speaker>ROCCO</speaker><content>Come on. What... What the hell are you talking about?</content></utterance>
+<utterance uid="8-6"><speaker>ESPOSITO</speaker><content>You threatened a guy. Then he turns up dead. Do the math.</content></utterance>
+<utterance uid="8-7"><speaker>ROCCO</speaker><content>Forgeries. Fink paid me to paint forgeries of high-end paintings. I was struggling, man. I needed the dough.</content></utterance>
+<utterance uid="8-8"><speaker>ESPOSITO</speaker><content>What'd he do with the copies?</content></utterance>
+<utterance uid="8-9"><speaker>ROCCO</speaker><content>Sold them. Passed them along to the buyer like they were the real thing.</content></utterance>
+<utterance uid="8-10"><speaker>ESPOSITO</speaker><content>Who did he sell to?</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>ESPOSITO</speaker><content>Bahir Harun. He's an attaché at the Bahrain Consulate.</content></utterance>
+<utterance uid="9-2"><speaker>BECKETT</speaker><content>Bahrain? So, he's the one who talked to Fink an hour before he was murdered. Maybe he figured out Fink was selling fakes and decided to get even.</content></utterance>
+<utterance uid="9-3"><speaker>ESPOSITO</speaker><content>Doesn't matter. The guy has full diplomatic immunity.</content></utterance>
+<utterance uid="9-4"><speaker>BECKETT</speaker><content>Great.</content></utterance>
+<utterance uid="9-5"><speaker>RYAN</speaker><content>So, I checked all the photo IDs off all of Fink's clients and artists. Our friend J isn't one of them.</content></utterance>
+<utterance uid="9-6"><speaker>ESPOSITO</speaker><content>Then what was he doing at the gallery?</content></utterance>
+<utterance uid="9-7"><speaker>RYAN</speaker><content>Holloway called from the hospital. Aside from a minor head bump, J's got a clean bill of health. Well, other than the memory loss.</content></utterance>
+<utterance uid="9-8"><speaker>BECKETT</speaker><content>You know, why don't you guys grab J, take him down to the crime scene. See if that sparks his memory. And get a hold of Fink's assistant Darius. Tell him to meet you down there, with every file he has on Bahir Harun.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>JEREMY PRESWICK</speaker><content>And you're sure I was here?</content></utterance>
+<utterance uid="10-2"><speaker>RYAN</speaker><content>Take your time. No pressure.</content></utterance>
+<utterance uid="10-3"><speaker>JEREMY PRESWICK</speaker><content>Isn't this supposed to be where I get a headache and flashes of memory start overwhelming me until all the pieces come together?</content></utterance>
+<utterance uid="10-4"><speaker>RYAN</speaker><content>Okay, you've seen too many movies.</content></utterance>
+<utterance uid="10-5"><speaker>JEREMY PRESWICK</speaker><content>Yeah, that I can't remember.</content></utterance>
+<utterance uid="10-6"><speaker>RYAN</speaker><content>Wow. That's very chicken-egg.</content></utterance>
+<utterance uid="10-7"><speaker>JEREMY PRESWICK</speaker><content>Welcome to my world.</content></utterance>
+<utterance uid="10-8"><speaker>DARIUS LANGLEY</speaker><content>Weird, that someone can just lose his mind like that.</content></utterance>
+<utterance uid="10-9"><speaker>ESPOSITO</speaker><content>Are you sure you don't recognize him?</content></utterance>
+<utterance uid="10-10"><speaker>DARIUS LANGLEY</speaker><content>I don't think so. But I've only been here a few months. Anyway, here's everything I could find on Mr. Harun. All purchases going back three years. I still can't believe Fink was trafficking in forgeries.</content></utterance>
+</scene>
+<scene id="11"><utterance uid="11-1"><speaker>ESPOSITO</speaker><content>Harun's purchases from Fink.</content></utterance>
+<utterance uid="11-2"><speaker>CASTLE</speaker><content>That's dozens of paintings.</content></utterance>
+<utterance uid="11-3"><speaker>ESPOSITO</speaker><content>Yeah. And according to Fink's old assistant, Rocco, any and all of these could have been forgeries.</content></utterance>
+<utterance uid="11-4"><speaker>CASTLE</speaker><content>This is a Jules Matterson. This is worth $100,000, easy.</content></utterance>
+<utterance uid="11-5"><speaker>BECKETT</speaker><content>Yeah, but you only pay Rocco a grand to knock it off.</content></utterance>
+<utterance uid="11-6"><speaker>ESPOSITO</speaker><content>Fink could've ripped Harun off for millions.</content></utterance>
+<utterance uid="11-7"><speaker>CASTLE</speaker><content>Who says crime doesn't pay?</content></utterance>
+<utterance uid="11-8"><speaker>ESPOSITO</speaker><content>Someone took me for that much, I could see putting a bullet in his back.</content></utterance>
+<utterance uid="11-9"><speaker>CASTLE</speaker><content>Well, that explains why Harun went after Fink. But what about J?</content></utterance>
+<utterance uid="11-10"><speaker>BECKETT</speaker><content>We need to talk to Harun.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>MONTGOMERY</speaker><content>Beckett, I hate diplomatic immunity as much as the next cop, but as far as you're concerned, forget the guy. I put in an interview request. Now it's in the State Department's hands. Period.</content></utterance>
+<utterance uid="12-2"><speaker>BECKETT</speaker><content>Fine. But, sir, what about the other victim?</content></utterance>
+<utterance uid="12-3"><speaker>MONTGOMERY</speaker><content>Guy with amnesia. So?</content></utterance>
+<utterance uid="12-4"><speaker>BECKETT</speaker><content>He has nowhere to go tonight.</content></utterance>
+<utterance uid="12-5"><speaker>MONTGOMERY</speaker><content>Well, turn him over to Social Services. State's problem, not ours.</content></utterance>
+<utterance uid="12-6"><speaker>BECKETT</speaker><content>I know, sir, but he'll probably end up in a homeless shelter. He's a person of interest and a potential witness. I would hate to lose him to the system.</content></utterance>
+<utterance uid="12-7"><speaker>MONTGOMERY</speaker><content>Okay. But my couch is off limits.</content></utterance>
+<utterance uid="12-8"><speaker>BECKETT</speaker><content>Thank you, sir.</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>RYAN</speaker><content>It's not The Plaza, but I have snuck many a power nap on this couch over the years. You should sleep just fine.</content></utterance>
+<utterance uid="13-2"><speaker>JEREMY PRESWICK</speaker><content>I'm grateful not to have to go anywhere with strangers.</content></utterance>
+<utterance uid="13-3"><speaker>BECKETT</speaker><content>It's not a problem.</content></utterance>
+<utterance uid="13-4"><speaker>JEREMY PRESWICK</speaker><content>You know, it's terrifying to think that someone actually tried to kill me, and I don't know who it was, or why. And they're still out there.</content></utterance>
+<utterance uid="13-5"><speaker>RYAN</speaker><content>That's why we're gonna catch the bastard.</content></utterance>
+<utterance uid="13-6"><speaker>BECKETT</speaker><content>But to do that, we need to find out who you are. So we're gonna release your photograph to the media tomorrow morning.</content></utterance>
+<utterance uid="13-7"><speaker>JEREMY PRESWICK</speaker><content>What if nobody recognizes it?</content></utterance>
+<utterance uid="13-8"><speaker>RYAN</speaker><content>I'm sure someone will.</content></utterance>
+<utterance uid="13-9"><speaker>JEREMY PRESWICK</speaker><content>But what if no one does and I don't remember? Then who am I?</content></utterance>
+<utterance uid="13-10"><speaker>BECKETT</speaker><content>I promise you, we won't give up on you.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>ALEXIS</speaker><content>My science teacher says that chocolate contains chemicals that are proven to relieve depression.</content></utterance>
+<utterance uid="14-2"><speaker>MARTHA</speaker><content>Well, it's good, but I prefer grape, aged, bottled and corked.</content></utterance>
+<utterance uid="14-3"><speaker>CASTLE</speaker><content>You're having an ice cream tasting and no one called, texted or tweeted?</content></utterance>
+<utterance uid="14-4"><speaker>ALEXIS</speaker><content>Gram broke it off with Chet, so I suggested sugar therapy.</content></utterance>
+<utterance uid="14-5"><speaker>CASTLE</speaker><content>What happened to sunrise in Central Park?</content></utterance>
+<utterance uid="14-6"><speaker>MARTHA</speaker><content>Who am I kidding? It's a fairy tale.</content></utterance>
+<utterance uid="14-7"><speaker>CASTLE</speaker><content>And what woman doesn't want a fairy tale?</content></utterance>
+<utterance uid="14-8"><speaker>MARTHA</speaker><content>He's not who I thought he was.</content></utterance>
+<utterance uid="14-9"><speaker>CASTLE</speaker><content>How so?</content></utterance>
+<utterance uid="14-10"><speaker>MARTHA</speaker><content>Million different little things. You know, doesn't drive, he's skinny. Oh, and he has this laugh like...</content></utterance>
+<utterance uid="14-11"><speaker>MARTHA</speaker><content>I can't even do it. It's like a honking goose, kind of...</content></utterance>
+<utterance uid="14-12"><speaker>CASTLE</speaker><content>These are sitcom reasons for breaking up. This morning you were in love. What possibly could have happened?</content></utterance>
+<utterance uid="14-13"><speaker>ALEXIS</speaker><content>Dad, back off. The spark died. She's obviously reconsidered.</content></utterance>
+<utterance uid="14-14"><speaker>MARTHA</speaker><content>That's right. And now we're going through the five flavors of grieving.</content></utterance>
+<utterance uid="14-15"><speaker>CASTLE</speaker><content>Is the first stage accepting the ice cream?</content></utterance>
+<utterance uid="14-16"><speaker>MARTHA</speaker><content>Exactly.</content></utterance>
+<utterance uid="14-17"><speaker>CASTLE</speaker><content>Then I'm in.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>RYAN</speaker><content>Hey! Morning.</content></utterance>
+<utterance uid="15-2"><speaker>BECKETT</speaker><content>Hey. How was he last night?</content></utterance>
+<utterance uid="15-3"><speaker>RYAN</speaker><content>He slept like a rock. Doc Holloway stopped by this morning to give him a cognitive abilities test. Scored through the roof on the quantitative part.</content></utterance>
+<utterance uid="15-4"><speaker>BECKETT</speaker><content>He's good at math, maybe he was an engineer, or in accounting or financing.</content></utterance>
+<utterance uid="15-5"><speaker>RYAN</speaker><content>Or just good at math. Castle's testing his drawing abilities. See if he's an artist. Maybe he was trying to convince Fink to show his work.</content></utterance>
+<utterance uid="15-6"><speaker>BECKETT</speaker><content>I suppose we should be thankful he didn't offer to pose nude.</content></utterance>
+<utterance uid="15-7"><speaker>RYAN</speaker><content>Yeah. Thanks for that. Hey, any idea if we're gonna get to talk to that attaché, Harun?</content></utterance>
+<utterance uid="15-8"><speaker>BECKETT</speaker><content>Radio silence. We gotta ID J.</content></utterance>
+<utterance uid="15-9"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+<utterance uid="15-10"><speaker>BECKETT</speaker><content>Speak of the devil.</content></utterance>
+<utterance uid="15-11"><speaker>RYAN</speaker><content>Yeah. They've been showing it all morning.</content></utterance>
+<utterance uid="15-12"><speaker>BECKETT</speaker><content>Any calls yet?</content></utterance>
+<utterance uid="15-13"><speaker>RYAN</speaker><content>No.</content></utterance>
+<utterance uid="15-14"><speaker>BECKETT</speaker><content>Well, until we figure out who he is, we've got nothing.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>BECKETT</speaker><content>So, what's the verdict?</content></utterance>
+<utterance uid="16-2"><speaker>CASTLE</speaker><content>Wow.</content></utterance>
+<utterance uid="16-3"><speaker>BECKETT</speaker><content>You really captured his soul.</content></utterance>
+<utterance uid="16-4"><speaker>CASTLE</speaker><content>Okay, so you're not an artist. I'm sure you have many other talents.</content></utterance>
+<utterance uid="16-5"><speaker>JEREMY PRESWICK</speaker><content>Just not a talent for remembering them.</content></utterance>
+<utterance uid="16-6"><speaker>TORY WESTCHESTER</speaker><content>Oh, that's him. No, no, that's him! Oh, thank God.</content></utterance>
+<utterance uid="16-7"><speaker>RYAN</speaker><content>Can I help you?</content></utterance>
+<utterance uid="16-8"><speaker>CASTLE</speaker><content>I think we're about to find out who you are.</content></utterance>
+<utterance uid="16-9"><speaker>BECKETT</speaker><content>Do you recognize her?</content></utterance>
+<utterance uid="16-10"><speaker>TORY WESTCHESTER</speaker><content>Yes, it's him.</content></utterance>
+<utterance uid="16-11"><speaker>JEREMY PRESWICK</speaker><content>No. But then again, I don't recognize myself In the mirror.</content></utterance>
+<utterance uid="16-12"><speaker>RYAN</speaker><content>Go ahead, ma'am.</content></utterance>
+<utterance uid="16-13"><speaker>TORY WESTCHESTER</speaker><content>Thanks. Joel! Oh, my God!</content></utterance>
+<utterance uid="16-14"><speaker>RYAN</speaker><content>Tory Westchester. Wife.</content></utterance>
+<utterance uid="16-15"><speaker>TORY WESTCHESTER</speaker><content>I was so scared I lost you. Oh, sweetie. So, it's true? You really don't remember anything?</content></utterance>
+<utterance uid="16-16"><speaker>BECKETT</speaker><content>He's suffering from amnesia.</content></utterance>
+<utterance uid="16-17"><speaker>TORY WESTCHESTER</speaker><content>I knew something was wrong. I knew it.</content></utterance>
+<utterance uid="16-18"><speaker>CASTLE</speaker><content>J, are you crying?</content></utterance>
+<utterance uid="16-19"><speaker>JEREMY PRESWICK</speaker><content>I think I am.</content></utterance>
+<utterance uid="16-20"><speaker>BECKETT</speaker><content>Do you feel a connection?</content></utterance>
+<utterance uid="16-21"><speaker>JEREMY PRESWICK</speaker><content>Yeah. It's actually pretty overwhelming.</content></utterance>
+<utterance uid="16-22"><speaker>TORY WESTCHESTER</speaker><content>Of course it is, baby. I love you so much. We will get through this, whatever it takes.</content></utterance>
+<utterance uid="16-23"><speaker>BECKETT</speaker><content>Um, Ms. Westchester, how long have the two of you been married?</content></utterance>
+<utterance uid="16-24"><speaker>TORY WESTCHESTER</speaker><content>Two years, this past October.</content></utterance>
+<utterance uid="16-25"><speaker>BECKETT</speaker><content>And you said his name was Joel...</content></utterance>
+<utterance uid="16-26"><speaker>TORY WESTCHESTER</speaker><content>Joel Westchester. Oh, honey, look at you. You do remember me.</content></utterance>
+<utterance uid="16-27"><speaker>TORY WESTCHESTER</speaker><content>Love conquers all! Oh, it's all gonna be fine.</content></utterance>
+<utterance uid="16-28"><speaker>BECKETT</speaker><content>Are you okay?</content></utterance>
+<utterance uid="16-29"><speaker>TORY WESTCHESTER</speaker><content>What is it? What is it, my darling?</content></utterance>
+<utterance uid="16-30"><speaker>CASTLE</speaker><content>I think he's having an asthma attack.</content></utterance>
+<utterance uid="16-31"><speaker>BECKETT</speaker><content>You have an inhaler in your pocket. Get it.</content></utterance>
+<utterance uid="16-32"><speaker>CASTLE</speaker><content>Ms. Westchester, do you have cats?</content></utterance>
+<utterance uid="16-33"><speaker>TORY WESTCHESTER</speaker><content>Eight, like Jon and Kate.</content></utterance>
+<utterance uid="16-34"><speaker>CASTLE</speaker><content>I think Joel here is allergic to cats.</content></utterance>
+<utterance uid="16-35"><speaker>TORY WESTCHESTER</speaker><content>Really?</content></utterance>
+<utterance uid="16-36"><speaker>BECKETT</speaker><content>Ms. Westchester, you're not really married to him, are you?</content></utterance>
+<utterance uid="16-37"><speaker>TORY WESTCHESTER</speaker><content>I could be. I so could be! Why the hell shouldn't I be?</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>RYAN</speaker><content>She's been in and out of mental facilities for more than ten years. Every personality disorder in the book. Sorry about that.</content></utterance>
+<utterance uid="17-2"><speaker>CASTLE</speaker><content>Just another contestant on Who Wants To Marry An Amnesiac?</content></utterance>
+<utterance uid="17-3"><speaker>MONTGOMERY</speaker><content>Beckett. Your attaché, Mr. Harun, he's on his way down. He agreed to talk.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>RYAN</speaker><content>He just showed up voluntarily?</content></utterance>
+<utterance uid="18-2"><speaker>CASTLE</speaker><content>He wants to stay in control.</content></utterance>
+<utterance uid="18-3"><speaker>BECKETT</speaker><content>This could be our only shot. Let's make sure that Harun gets a good look at our friend J.</content></utterance>
+<utterance uid="18-4"><speaker>ESPOSITO</speaker><content>Inadvertent, of course.</content></utterance>
+<utterance uid="18-5"><speaker>BECKETT</speaker><content>If Harun thinks that he killed J, then his reaction could tell us everything we need to know. Let's go.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>BECKETT</speaker><content>Mr. Harun, you were a client of Mr. Fink's?</content></utterance>
+<utterance uid="19-2"><speaker>BAHIR HARUN</speaker><content>That's correct.</content></utterance>
+<utterance uid="19-3"><speaker>BECKETT</speaker><content>You bought a significant number of works from him.</content></utterance>
+<utterance uid="19-4"><speaker>BAHIR HARUN</speaker><content>Yes.</content></utterance>
+<utterance uid="19-5"><speaker>BECKETT</speaker><content>Well, we believe that many of those works were forgeries.</content></utterance>
+<utterance uid="19-6"><speaker>BAHIR HARUN</speaker><content>That's correct.</content></utterance>
+<utterance uid="19-7"><speaker>BECKETT</speaker><content>So you're saying that you knew they were fakes?</content></utterance>
+<utterance uid="19-8"><speaker>BAHIR HARUN</speaker><content>Of course I knew.</content></utterance>
+<utterance uid="19-9"><speaker>BECKETT</speaker><content>And you bought them anyway?</content></utterance>
+<utterance uid="19-10"><speaker>BAHIR HARUN</speaker><content>I have many friends back home whose wives are, how shall we say, um, demanding.</content></utterance>
+<utterance uid="19-11"><speaker>BECKETT</speaker><content>And what do demanding wives have to do with any of this?</content></utterance>
+<utterance uid="19-12"><speaker>BAHIR HARUN</speaker><content>Well, we all know that the fairer sex can be shallow. Not you, of course, Detective. A smart, liberated, American woman. But my friends' wives, they want a bag that says "Gucci." They don't care who made the bag, as long as it has that signature. And it's the same with paintings. They are more appreciative of the signature than of the work itself. And my friends don't always want to spend top dollar on authentic pieces. So Victor would commission a copy, my friends save money, I get rich, and the wives get to think they have...</content></utterance>
+<utterance uid="19-13"><speaker>RYAN</speaker><content>Hey, move to your left just a drop.</content></utterance>
+<utterance uid="19-14"><speaker>BAHIR HARUN</speaker><content>...extravagant artwork on their walls. Everyone's happy.</content></utterance>
+<utterance uid="19-15"><speaker>JEREMY PRESWICK</speaker><content>Yeah?</content></utterance>
+<utterance uid="19-16"><speaker>BAHIR HARUN</speaker><content>...And no one's broken the law.</content></utterance>
+<utterance uid="19-17"><speaker>RYAN</speaker><content>Yeah.</content></utterance>
+<utterance uid="19-18"><speaker>CASTLE</speaker><content>So, you only bought fakes from Fink?</content></utterance>
+<utterance uid="19-19"><speaker>BAHIR HARUN</speaker><content>No. He would also source originals for those husbands with taste. I was happy to provide...</content></utterance>
+<utterance uid="19-20"><speaker>RYAN</speaker><content>He look familiar?</content></utterance>
+<utterance uid="19-21"><speaker>BAHIR HARUN</speaker><content>...even though originals pay less. What with everyone wanting fair market value and all.</content></utterance>
+<utterance uid="19-22"><speaker>JEREMY PRESWICK</speaker><content>No. Sorry.</content></utterance>
+<utterance uid="19-23"><speaker>BECKETT</speaker><content>The night that Mr. Fink was murdered, you called him not long before he was killed.</content></utterance>
+<utterance uid="19-24"><speaker>BAHIR HARUN</speaker><content>That's correct, Detective. He-- he told me to come by, that he had a painting for me. I showed up around 9:45, but he sent me away.</content></utterance>
+<utterance uid="19-25"><speaker>BECKETT</speaker><content>Sent you away?</content></utterance>
+<utterance uid="19-26"><speaker>BAHIR HARUN</speaker><content>Yes. He was arguing with a man.</content></utterance>
+<utterance uid="19-27"><speaker>BECKETT</speaker><content>About what?</content></utterance>
+<utterance uid="19-28"><speaker>BAHIR HARUN</speaker><content>I have no idea. I respected his wishes and went for dinner at Nobu.</content></utterance>
+<utterance uid="19-29"><speaker>BECKETT</speaker><content>Do you think your could describe this man?</content></utterance>
+<utterance uid="19-30"><speaker>BAHIR HARUN</speaker><content>Please. Must we continue with this ridiculous charade when we both know he is standing right there.</content></utterance>
+<utterance uid="19-31"><speaker>BAHIR HARUN</speaker><content>Now, if that is all...</content></utterance>
+<utterance uid="19-32"><speaker>BECKETT</speaker><content>Mr. Harun, I'm not quite done yet.</content></utterance>
+<utterance uid="19-33"><speaker>BAHIR HARUN</speaker><content>Ah. But I am. Have a nice day.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>ESPOSITO</speaker><content>Thanks.</content></utterance>
+<utterance uid="20-2"><speaker>CASTLE</speaker><content>For a guy with diplomatic immunity, he wasn't very diplomatic.</content></utterance>
+<utterance uid="20-3"><speaker>BECKETT</speaker><content>Harun's hiding behind his immunity. He knows more than he's saying.</content></utterance>
+<utterance uid="20-4"><speaker>ESPOSITO</speaker><content>Maybe, but his alibi is good. Nobu has him on security video entering at 9:55 p.m., 19 minutes before the 911 call about shots fired. He's not our guy.</content></utterance>
+<utterance uid="20-5"><speaker>BECKETT</speaker><content>Well, just because he didn't pull the trigger, doesn't mean he wasn't involved.</content></utterance>
+<utterance uid="20-6"><speaker>CASTLE</speaker><content>And just because J was shot doesn't mean he wasn't into something shady. Could be the reason he was shot.</content></utterance>
+<utterance uid="20-7"><speaker>BECKETT</speaker><content>Harun said he saw J arguing with Fink.</content></utterance>
+<utterance uid="20-8"><speaker>ESPOSITO</speaker><content>We need to figure out why J was at the gallery.</content></utterance>
+<utterance uid="20-9"><speaker>BECKETT</speaker><content>And we can't do that if we don't know who the hell he is.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>RYAN</speaker><content>We've been through this, it's just a bunch of junk.</content></utterance>
+<utterance uid="21-2"><speaker>BECKETT</speaker><content>But if we take a look at everything we know about him collectively, maybe a picture will emerge.</content></utterance>
+<utterance uid="21-3"><speaker>RYAN</speaker><content>Nothing distinctive about these keys.</content></utterance>
+<utterance uid="21-4"><speaker>CASTLE</speaker><content>Yeah, and that plastic bag really narrows it down.</content></utterance>
+<utterance uid="21-5"><speaker>BECKETT</speaker><content>Okay, he's got asthma, he's allergic to cats, he reads.</content></utterance>
+<utterance uid="21-6"><speaker>RYAN</speaker><content>And he's good at math and he can't draw. Put it together, he's your average asthmatic mathlete with a lot of crap in his pockets.</content></utterance>
+<utterance uid="21-7"><speaker>UNIFORM</speaker><content>Detective.</content></utterance>
+<utterance uid="21-8"><speaker>BECKETT</speaker><content>Thank you. It's from Lanie. It's the forensics report on his coat.</content></utterance>
+<utterance uid="21-9"><speaker>CASTLE</speaker><content>Maybe his driver's license was sewn into the lining.</content></utterance>
+<utterance uid="21-10"><speaker>BECKETT</speaker><content>Gun powder residue.</content></utterance>
+<utterance uid="21-11"><speaker>RYAN</speaker><content>So, he was shot at close range.</content></utterance>
+<utterance uid="21-12"><speaker>BECKETT</speaker><content>Mm-hmm. Coffee stain, sugar granules, traces of milk.</content></utterance>
+<utterance uid="21-13"><speaker>CASTLE</speaker><content>We know how he takes his coffee.</content></utterance>
+<utterance uid="21-14"><speaker>BECKETT</speaker><content>Animal hairs.</content></utterance>
+<utterance uid="21-15"><speaker>RYAN</speaker><content>Not cat hairs.</content></utterance>
+<utterance uid="21-16"><speaker>CASTLE</speaker><content>How could I have missed this?</content></utterance>
+<utterance uid="21-17"><speaker>BECKETT</speaker><content>Missed what?</content></utterance>
+<utterance uid="21-18"><speaker>CASTLE</speaker><content>Do you know what this?</content></utterance>
+<utterance uid="21-19"><speaker>RYAN</speaker><content>Yeah, it's a grocery bag.</content></utterance>
+<utterance uid="21-20"><speaker>CASTLE</speaker><content>No, it's not just a grocery bag, it's the bag that's gonna tell us exactly who J is.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>BECKETT</speaker><content>Why are you dragging me back to the art gallery?</content></utterance>
+<utterance uid="22-2"><speaker>CASTLE</speaker><content>Not to the art gallery, to the street. Ah! It's gone.</content></utterance>
+<utterance uid="22-3"><speaker>BECKETT</speaker><content>What's gone?</content></utterance>
+<utterance uid="22-4"><speaker>CASTLE</speaker><content>The dog. That's why he had the bag. To clean up after his dog.</content></utterance>
+<utterance uid="22-5"><speaker>BECKETT</speaker><content>How do you know it was his dog?</content></utterance>
+<utterance uid="22-6"><speaker>CASTLE</speaker><content>Well, why else would he have a bag? Why else would there be a dog tied up outside a commercial building after midnight? Maybe someone stole it.</content></utterance>
+<utterance uid="22-7"><speaker>BECKETT</speaker><content>Get me Animal Control.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>BECKETT</speaker><content>Castle.</content></utterance>
+<utterance uid="23-2"><speaker>CASTLE</speaker><content>Aw. Who's a good girl?</content></utterance>
+<utterance uid="23-3"><speaker>BECKETT</speaker><content>That's Fink's gallery.</content></utterance>
+<utterance uid="23-4"><speaker>CASTLE</speaker><content>Good girl. Lucy.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>BECKETT</speaker><content>Your name is Jeremy Preswick. We checked it against your DMV photo and it's a positive ID.</content></utterance>
+<utterance uid="24-2"><speaker>JEREMY PRESWICK</speaker><content>Jeremy Preswick.</content></utterance>
+<utterance uid="24-3"><speaker>BECKETT</speaker><content>You are 34 years old, and you live at 82 Warren Street in Tribeca. You don't really have any family. Your parents passed away a few years ago, and you don't have any siblings. But we did manage to get ahold of your ex-wife, Emma Carnes.</content></utterance>
+<utterance uid="24-4"><speaker>JEREMY PRESWICK</speaker><content>Ex-wife?</content></utterance>
+<utterance uid="24-5"><speaker>BECKETT</speaker><content>Uh-huh.</content></utterance>
+<utterance uid="24-6"><speaker>JEREMY PRESWICK</speaker><content>I'm divorced?</content></utterance>
+<utterance uid="24-7"><speaker>BECKETT</speaker><content>Yeah. Sorry. Your ex sounded pretty concerned, and we figured that would be the fastest way of putting together the details, which would be great for you and for our investigation.</content></utterance>
+<utterance uid="24-8"><speaker>JEREMY PRESWICK</speaker><content>If you think it'll help.</content></utterance>
+<utterance uid="24-9"><speaker>JEREMY PRESWICK</speaker><content>An ex-wife that I can't remember.</content></utterance>
+<utterance uid="24-10"><speaker>CASTLE</speaker><content>Hey, some men would consider you lucky.</content></utterance>
+<utterance uid="24-11"><speaker>RYAN</speaker><content>Here you go.</content></utterance>
+<utterance uid="24-12"><speaker>EMMA CARNES</speaker><content>Thanks. Hello, Jeremy.</content></utterance>
+<utterance uid="24-13"><speaker>JEREMY PRESWICK</speaker><content>Hey. Thank you for coming. I appreciate it.</content></utterance>
+<utterance uid="24-14"><speaker>EMMA CARNES</speaker><content>Sure.</content></utterance>
+<utterance uid="24-15"><speaker>JEREMY PRESWICK</speaker><content>So, we're divorced.</content></utterance>
+<utterance uid="24-16"><speaker>EMMA CARNES</speaker><content>Yeah.</content></utterance>
+<utterance uid="24-17"><speaker>JEREMY PRESWICK</speaker><content>Must be weird coming here to try to help me out, huh?</content></utterance>
+<utterance uid="24-18"><speaker>EMMA CARNES</speaker><content>A little.</content></utterance>
+<utterance uid="24-19"><speaker>BECKETT</speaker><content>Please take a seat.</content></utterance>
+<utterance uid="24-20"><speaker>EMMA CARNES</speaker><content>So what happened to him?</content></utterance>
+<utterance uid="24-21"><speaker>CASTLE</speaker><content>That's what we are trying to figure out.</content></utterance>
+<utterance uid="24-22"><speaker>BECKETT</speaker><content>Is there anything you can tell us about Jeremy?</content></utterance>
+<utterance uid="24-23"><speaker>EMMA CARNES</speaker><content>Well, like what?</content></utterance>
+<utterance uid="24-24"><speaker>BECKETT</speaker><content>Like, uh, where he works.</content></utterance>
+<utterance uid="24-25"><speaker>EMMA CARNES</speaker><content>Well, as far as I know, he doesn't anymore. Okay, this is weird with you sitting right there.</content></utterance>
+<utterance uid="24-26"><speaker>JEREMY PRESWICK</speaker><content>Tell me about it.</content></utterance>
+<utterance uid="24-27"><speaker>EMMA CARNES</speaker><content>You have a PhD in economics from Wharton. Uh, you had a consulting business in channel economics and strategy. You're smart. Like, crazy smart.</content></utterance>
+<utterance uid="24-28"><speaker>CASTLE</speaker><content>Had a business?</content></utterance>
+<utterance uid="24-29"><speaker>EMMA CARNES</speaker><content>Yeah, yeah, he sold it last year.</content></utterance>
+<utterance uid="24-30"><speaker>CASTLE</speaker><content>Do you know why?</content></utterance>
+<utterance uid="24-31"><speaker>EMMA CARNES</speaker><content>No. I thought it was weird. He loved the business.</content></utterance>
+<utterance uid="24-32"><speaker>JEREMY PRESWICK</speaker><content>Why did we split up?</content></utterance>
+<utterance uid="24-33"><speaker>EMMA CARNES</speaker><content>Wow. I've ranted for hours to girlfriends about that.</content></utterance>
+<utterance uid="24-34"><speaker>JEREMY PRESWICK</speaker><content>I'm guessing I don't come off so well in that rant.</content></utterance>
+<utterance uid="24-35"><speaker>EMMA CARNES</speaker><content>You were a jerk.</content></utterance>
+<utterance uid="24-36"><speaker>JEREMY PRESWICK</speaker><content>Ah.</content></utterance>
+<utterance uid="24-37"><speaker>EMMA CARNES</speaker><content>But so was I. I mean, the truth is we probably got married too young.</content></utterance>
+<utterance uid="24-38"><speaker>JEREMY PRESWICK</speaker><content>Look, I'm sorry that I don't recognize you, but you seem incredibly nice and you're gorgeous, and I'm certain that it was entirely my fault that our marriage fell apart.</content></utterance>
+<utterance uid="24-39"><speaker>EMMA CARNES</speaker><content>See that. That's the guy I fell in love with. Funny. Sweet. Self-deprecating.</content></utterance>
+<utterance uid="24-40"><speaker>JEREMY PRESWICK</speaker><content>Hey.</content></utterance>
+<utterance uid="24-41"><speaker>BECKETT</speaker><content>Do you know what Jeremy had been doing with himself recently?</content></utterance>
+<utterance uid="24-42"><speaker>EMMA CARNES</speaker><content>As far as I know, he was dating the youngest, hottest women he could find, and not bothering to put the toilet seat down.</content></utterance>
+<utterance uid="24-43"><speaker>BECKETT</speaker><content>And do you have any idea what he might have been doing at the Victor Fink Gallery in Chelsea?</content></utterance>
+<utterance uid="24-44"><speaker>EMMA CARNES</speaker><content>No. I'm sorry, but we haven't even spoken in almost a year.</content></utterance>
+<utterance uid="24-45"><speaker>BECKETT</speaker><content>Um, well we're on our way to Jeremy's apartment to see if it sparks anything. Would you mind coming along? You might be able to put things in some context.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>CASTLE</speaker><content>Look familiar?</content></utterance>
+<utterance uid="25-2"><speaker>JEREMY PRESWICK</speaker><content>Nope. You can say it. I'm the worst witness ever.</content></utterance>
+<utterance uid="25-3"><speaker>BECKETT</speaker><content>You're doing fine.</content></utterance>
+<utterance uid="25-4"><speaker>CASTLE</speaker><content>Hmm. A wallet. Well, I don't think you were mugged.</content></utterance>
+<utterance uid="25-5"><speaker>BECKETT</speaker><content>Do you mind if I poke around, open some drawers?</content></utterance>
+<utterance uid="25-6"><speaker>JEREMY PRESWICK</speaker><content>Mi casa ... es tu casa. Hey, look at that. Rocking the Spanish.</content></utterance>
+<utterance uid="25-7"><speaker>EMMA CARNES</speaker><content>We did junior year in Madrid.</content></utterance>
+<utterance uid="25-8"><speaker>JEREMY PRESWICK</speaker><content>Sounds nice.</content></utterance>
+<utterance uid="25-9"><speaker>CASTLE</speaker><content>Here's the rest of your Russian literature collection. You are a very ambitious reader, Mr. Preswick.</content></utterance>
+<utterance uid="25-10"><speaker>EMMA CARNES</speaker><content>You always wanted more time to read.</content></utterance>
+<utterance uid="25-11"><speaker>JEREMY PRESWICK</speaker><content>Guess I'm gonna have to start over now.</content></utterance>
+<utterance uid="25-12"><speaker>CASTLE</speaker><content>That's not such a bad thing. What I wouldn't give to read The Cask of Amontillado for the first time. Or any Stephen King. Ah. Silver lining. You get to read all my books for the first time again.</content></utterance>
+<utterance uid="25-13"><speaker>JEREMY PRESWICK</speaker><content>Anything?</content></utterance>
+<utterance uid="25-14"><speaker>BECKETT</speaker><content>It's pretty sparse. Like a guy who spent a lot of time alone.</content></utterance>
+<utterance uid="25-15"><speaker>EMMA CARNES</speaker><content>Yeah, I thought you'd have more of a slick pad. Done up with more stuff.</content></utterance>
+<utterance uid="25-16"><speaker>CASTLE</speaker><content>Hey. Taglia. This is a pretty pricey painting.</content></utterance>
+<utterance uid="25-17"><speaker>BECKETT</speaker><content>Emma, do you know if Jeremy bought that painting at a gallery in the city?</content></utterance>
+<utterance uid="25-18"><speaker>EMMA CARNES</speaker><content>No. We bought that together on our honeymoon in Siena. I can't believe you still have it.</content></utterance>
+<utterance uid="25-19"><speaker>JEREMY PRESWICK</speaker><content>Why?</content></utterance>
+<utterance uid="25-20"><speaker>EMMA CARNES</speaker><content>Well, part of the divorce settlement was to sell it and split the cash. It appraised for over 200 grand. You sent me my half.</content></utterance>
+<utterance uid="25-21"><speaker>JEREMY PRESWICK</speaker><content>That's funny. There's something about it that's so familiar. Or maybe I just like it.</content></utterance>
+<utterance uid="25-22"><speaker>BECKETT</speaker><content>Castle.</content></utterance>
+<utterance uid="25-23"><speaker>BECKETT</speaker><content>It's a 9 millimeter. Five bullets missing.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>BECKETT</speaker><content>So, ballistics confirmed that the gun found in Jeremy's apartment was the same one that was used to kill Fink. And we just need to know if it's possible that Jeremy was the shooter.</content></utterance>
+<utterance uid="26-2"><speaker>LANIE</speaker><content>CSU did find gun residue on his coat.</content></utterance>
+<utterance uid="26-3"><speaker>BECKETT</speaker><content>Well, that just means that he was shot at close range.</content></utterance>
+<utterance uid="26-4"><speaker>CASTLE</speaker><content>Like, if Jeremy were holding the gun, struggled with Fink, Fink managed to turn the gun around and it went off?</content></utterance>
+<utterance uid="26-5"><speaker>LANIE</speaker><content>These abrasions on Fink's wrists are certainly consistent with that.</content></utterance>
+<utterance uid="26-6"><speaker>BECKETT</speaker><content>Well, then why would he have left the gun in his apartment?</content></utterance>
+<utterance uid="26-7"><speaker>CASTLE</speaker><content>Doc Holloway said he was probably in a fugue state, like sleep-walking. He could have dropped the gun off, and then went back out again.</content></utterance>
+<utterance uid="26-8"><speaker>LANIE</speaker><content>Okay, am I missing something? I thought you're supposed to be happy after you caught the killer.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>JEREMY PRESWICK</speaker><content>Why'd I do it?</content></utterance>
+<utterance uid="27-2"><speaker>BECKETT</speaker><content>We don't know why. You'll be appointed a lawyer. I know that Emma wants to help hire someone, and I don't think money will be an issue.</content></utterance>
+<utterance uid="27-3"><speaker>JEREMY PRESWICK</speaker><content>Well, thank you.</content></utterance>
+<utterance uid="27-4"><speaker>BECKETT</speaker><content>I don't know why you're thanking me, Mr. Preswick. We just arrested you for murder.</content></utterance>
+<utterance uid="27-5"><speaker>JEREMY PRESWICK</speaker><content>Yeah. Well, it's not your fault. You guys have been nothing but incredibly nice to a babbling idiot who thought he was a victim. It's like I tricked you.</content></utterance>
+<utterance uid="27-6"><speaker>CASTLE</speaker><content>Good luck, Jeremy.</content></utterance>
+<utterance uid="27-7"><speaker>JEREMY PRESWICK</speaker><content>Hey, if you figure it out, would you let me know?</content></utterance>
+<utterance uid="27-8"><speaker>BECKETT</speaker><content>Of course.</content></utterance>
+<utterance uid="27-9"><speaker>JEREMY PRESWICK</speaker><content>I just think it'd be easier, knowing why.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>CASTLE</speaker><content>The guy is guilty of a murder he can't remember. That just sucks. I mean, if you're gonna kill someone, get caught, spend the rest of your life in prison, at least you have the satisfaction of knowing why you did it. Hatred. Revenge. Hell, maybe he even cut you off on the highway. But Jeremy won't even have that, even if we do find motive, because he won't remember why it meant anything to him.</content></utterance>
+<utterance uid="28-2"><speaker>BECKETT</speaker><content>I'm with you, Castle. It sucks.</content></utterance>
+<utterance uid="28-3"><speaker>CASTLE</speaker><content>So, what next?</content></utterance>
+<utterance uid="28-4"><speaker>BECKETT</speaker><content>We, uh, submit the paperwork to the DA.</content></utterance>
+<utterance uid="28-5"><speaker>CASTLE</speaker><content>But the DA will need motive, right?</content></utterance>
+<utterance uid="28-6"><speaker>BECKETT</speaker><content>Nope. Evidence speaks. Smoking gun.</content></utterance>
+<utterance uid="28-7"><speaker>CASTLE</speaker><content>But don't you want to know why he did it?</content></utterance>
+<utterance uid="28-8"><speaker>BECKETT</speaker><content>Yeah, but the truth is, is that we don't need it.</content></utterance>
+<utterance uid="28-9"><speaker>CASTLE</speaker><content>The DA doesn't need it. But you and me? I know I couldn't sleep last night, could you?</content></utterance>
+</scene>
+<scene id="29"><utterance uid="29-1"><speaker>CASTLE</speaker><content>There's got to be an answer here. Something in his life that makes it all make sense.</content></utterance>
+<utterance uid="29-2"><speaker>BECKETT</speaker><content>Hands! Show...!</content></utterance>
+<utterance uid="29-3"><speaker>EMMA CARNES</speaker><content>Oh, that gets the heart rate going.</content></utterance>
+<utterance uid="29-4"><speaker>BECKETT</speaker><content>Ms. Carnes, what are you doing here?</content></utterance>
+<utterance uid="29-5"><speaker>EMMA CARNES</speaker><content>Getting Lucy's things. Prescription. Guess I have custody now.</content></utterance>
+<utterance uid="29-6"><speaker>BECKETT</speaker><content>I'm sorry to surprise you. We didn't know you'd be here.</content></utterance>
+<utterance uid="29-7"><speaker>BECKETT</speaker><content>Are you okay?</content></utterance>
+<utterance uid="29-8"><speaker>EMMA CARNES</speaker><content>Yeah. I guess I just thought for half a second that this would be a bizarre second chance for Jer and me. Stupid, right?</content></utterance>
+<utterance uid="29-9"><speaker>CASTLE</speaker><content>No, it's not stupid. And to find out that he's a murderer...</content></utterance>
+<utterance uid="29-10"><speaker>EMMA CARNES</speaker><content>When I saw him again, I... All those years of petty arguments that tore us apart didn't seem to matter. It was-- it was like we first met. You know, I felt that thing. And then we came here, and I saw that he didn't sell it and I thought maybe he still had feelings for me, too.</content></utterance>
+<utterance uid="29-11"><speaker>BECKETT</speaker><content>Do you mean the painting that the two of you bought on your honeymoon?</content></utterance>
+<utterance uid="29-12"><speaker>EMMA CARNES</speaker><content>We didn't buy it because we wanted to. We had to. We were in the artist's studio in Siena and Jeremy picked it up off the easel. He was always goofing around. The artist went crazy. It was still drying. We laughed for a week about our little love smudge. And then when I saw that he didn't sell it, I thought maybe... But I was kidding myself.</content></utterance>
+<utterance uid="29-13"><speaker>BECKETT</speaker><content>What do you mean?</content></utterance>
+<utterance uid="29-14"><speaker>EMMA CARNES</speaker><content>No thumbprint. It should be right here. He sold ours. This one's just a copy.</content></utterance>
+<utterance uid="29-15"><speaker>BECKETT</speaker><content>Ms. Carnes, are you sure?</content></utterance>
+<utterance uid="29-16"><speaker>EMMA CARNES</speaker><content>Of course I'm sure.</content></utterance>
+<utterance uid="29-17"><speaker>CASTLE</speaker><content>It's a fake.</content></utterance>
+<utterance uid="29-18"><speaker>BECKETT</speaker><content>And we know who dealt in fakes.</content></utterance>
+<utterance uid="29-19"><speaker>CASTLE</speaker><content>That's got to be Jeremy's connection to Fink. That's got to be why Jeremy was at the gallery.</content></utterance>
+<utterance uid="29-20"><speaker>BECKETT</speaker><content>And if Jeremy and Fink were arguing like Harun said, maybe it was over the original.</content></utterance>
+<utterance uid="29-21"><speaker>CASTLE</speaker><content>And if that's a fake, then where is the original?</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>BAHIR HARUN</speaker><content>...deux semaines. Absolutely, and...</content></utterance>
+<utterance uid="30-2"><speaker>BAHIR HARUN</speaker><content>Careful with that one.  Oui. Oui, merci. A bientot, alors.</content></utterance>
+<utterance uid="30-3"><speaker>BECKETT</speaker><content>Leaving us so soon, Mr. Harun?</content></utterance>
+<utterance uid="30-4"><speaker>BAHIR HARUN</speaker><content>Oh, what now? I have a plane to catch.</content></utterance>
+<utterance uid="30-5"><speaker>CASTLE</speaker><content>Make any interesting art acquisitions on this trip?</content></utterance>
+<utterance uid="30-6"><speaker>BAHIR HARUN</speaker><content>Actually, yes.</content></utterance>
+<utterance uid="30-7"><speaker>CASTLE</speaker><content>Mind if we take a look?</content></utterance>
+<utterance uid="30-8"><speaker>BAHIR HARUN</speaker><content>I'm sorry, I just don't have the time</content></utterance>
+<utterance uid="30-9"><speaker>BECKETT</speaker><content>Make time.</content></utterance>
+<utterance uid="30-10"><speaker>BAHIR HARUN</speaker><content>What part of diplomatic immunity are you not clear on?</content></utterance>
+<utterance uid="30-11"><speaker>BECKETT</speaker><content>See, every time you say something like that, it makes me think that you have something to hide.</content></utterance>
+<utterance uid="30-12"><speaker>BAHIR HARUN</speaker><content>Well, it's too bad that you will never find out.</content></utterance>
+<utterance uid="30-13"><speaker>BECKETT</speaker><content>License and registration, please.</content></utterance>
+<utterance uid="30-14"><speaker>DRIVER</speaker><content>What? Why?</content></utterance>
+<utterance uid="30-15"><speaker>BECKETT</speaker><content>You are double-parked.</content></utterance>
+<utterance uid="30-16"><speaker>DRIVER</speaker><content>This is New York. Everyone double-parks.</content></utterance>
+<utterance uid="30-17"><speaker>CASTLE</speaker><content>Is he resisting arrest?</content></utterance>
+<utterance uid="30-18"><speaker>BECKETT</speaker><content>I believe so. Step over here.</content></utterance>
+<utterance uid="30-19"><speaker>BECKETT</speaker><content>I'm gonna have to search your car.</content></utterance>
+<utterance uid="30-20"><speaker>BAHIR HARUN</speaker><content>You have no right to do this.</content></utterance>
+<utterance uid="30-21"><speaker>BECKETT</speaker><content>I don't see any diplomatic plates. And immunity doesn't extend to a car service.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>BECKETT</speaker><content>Mr. Harun, this can go one of two ways. You can either cooperate and tell me what I need to know, or I can call the State Department and inform them that you have a piece of artwork that's at the center of our murder investigation.</content></utterance>
+<utterance uid="31-2"><speaker>CASTLE</speaker><content>And the last I checked, the New York tabloids could give a rat's ass about your diplomatic status. They'll just print your photograph with a headline that says "Diplomatic Douchebag."</content></utterance>
+<utterance uid="31-3"><speaker>BAHIR HARUN</speaker><content>Fine. What would you like to know?</content></utterance>
+<utterance uid="31-4"><speaker>BECKETT</speaker><content>There's a fake version of this painting found in one of our shooting victim's apartments. Can you tell us how it got there?</content></utterance>
+<utterance uid="31-5"><speaker>BAHIR HARUN</speaker><content>How would I know this?</content></utterance>
+<utterance uid="31-6"><speaker>CASTLE</speaker><content>Because the fake painting is where the real painting used to be. And now you have the real painting.</content></utterance>
+<utterance uid="31-7"><speaker>BAHIR HARUN</speaker><content>All I know is that I asked Fink to acquire it for client of mine. When he said he had it, I assumed he tracked down the owner and made a deal. But when I went to the gallery that evening, he sent me away. Just like I told you.</content></utterance>
+<utterance uid="31-8"><speaker>BECKETT</speaker><content>That's a great story, Mr. Harun. But if Fink sent you away empty-handed, why do you have the painting?</content></utterance>
+<utterance uid="31-9"><speaker>BAHIR HARUN</speaker><content>Because I got a call from a man this morning that said he had it, for a price.</content></utterance>
+<utterance uid="31-10"><speaker>BECKETT</speaker><content>Who was it?</content></utterance>
+<utterance uid="31-11"><speaker>BAHIR HARUN</speaker><content>It was Fink's new assistant. Darius.</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>DARIUS LANGLEY</speaker><content>This is crazy. I told you already, I was in class when Mr. Fink was killed.</content></utterance>
+<utterance uid="32-2"><speaker>BECKETT</speaker><content>Nobody remembers seeing you there.</content></utterance>
+<utterance uid="32-3"><speaker>DARIUS LANGLEY</speaker><content>I sat in the back.</content></utterance>
+<utterance uid="32-4"><speaker>CASTLE</speaker><content>The naughty kids always do.</content></utterance>
+<utterance uid="32-5"><speaker>BECKETT</speaker><content>You were at the gallery the night that Jeremy confronted Fink about the painting.</content></utterance>
+<utterance uid="32-6"><speaker>DARIUS LANGLEY</speaker><content>Listen, there's obviously been some kind of misunderstanding.</content></utterance>
+<utterance uid="32-7"><speaker>BECKETT</speaker><content>Was this a misunderstanding, as well? It's a signed statement from the super at Preswick's building, admitting that he took a $1,000 bribe from you to allow you into Jeremy's apartment so that you could switch out the paintings.</content></utterance>
+<utterance uid="32-8"><speaker>DARIUS LANGLEY</speaker><content>I'm sorry. Should've come clean from the start. Fink wanted the painting. He told me to buy it from Preswick, but the guy wouldn't sell. So Fink had me paint a fake and, yeah, I-- I bribed the super to switch it with the real thing. It was stupid, but Fink threatened to fire me if I didn't.</content></utterance>
+<utterance uid="32-9"><speaker>BECKETT</speaker><content>It was all you, Darius. You switched out the paintings, you pocketed the money that Fink gave you to buy it.</content></utterance>
+<utterance uid="32-10"><speaker>DARIUS LANGLEY</speaker><content>It was Fink. He manipulated me.</content></utterance>
+<utterance uid="32-11"><speaker>BECKETT</speaker><content>No. That is just a lie. And you know what else is a lie? Your name. Darius Langley is your roommate.</content></utterance>
+<utterance uid="32-12"><speaker>CASTLE</speaker><content>Pretty smart using his identity to land a job at the gallery. Well, I guess it'd be pretty tough to get hired with two felony counts of counterfeiting now, isn't it, George?</content></utterance>
+<utterance uid="32-13"><speaker>BECKETT</speaker><content>You got quite a rap sheet, Mr. Heller.</content></utterance>
+<utterance uid="32-14"><speaker>CASTLE</speaker><content>Hmm. One more strike, you go away for a long time.</content></utterance>
+<utterance uid="32-15"><speaker>BECKETT</speaker><content>Which is why you couldn't afford Preswick calling the cops when he found out the truth. So you shot him. And then when he went down, you shot Fink, as well.</content></utterance>
+<utterance uid="32-16"><speaker>GEORGE HELLER</speaker><content>Think you're gonna pin this murder on me? No way. You don't got jack.</content></utterance>
+<utterance uid="32-17"><speaker>BECKETT</speaker><content>Read carefully. You bribed the super twice. And the second time was four hours after Detectives Ryan and Esposito brought Preswick to the gallery and you realized that he had lost his memory. You planted the gun.</content></utterance>
+<utterance uid="32-18"><speaker>CASTLE</speaker><content>Swing and a miss. Strike three. You're out.</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>RYAN</speaker><content>Ah. It's a beaut.</content></utterance>
+<utterance uid="33-2"><speaker>JEREMY PRESWICK</speaker><content>Isn't it?</content></utterance>
+<utterance uid="33-3"><speaker>BECKETT</speaker><content>I especially love the fingerprint.</content></utterance>
+<utterance uid="33-4"><speaker>JEREMY PRESWICK</speaker><content>Me, too. Even if I can't remember, it still somehow feels a part of me.</content></utterance>
+<utterance uid="33-5"><speaker>EMMA CARNES</speaker><content>Hey, Jer. Ready to rock?</content></utterance>
+<utterance uid="33-6"><speaker>JEREMY PRESWICK</speaker><content>Thanks for coming.</content></utterance>
+<utterance uid="33-7"><speaker>EMMA CARNES</speaker><content>You remember Lucy?</content></utterance>
+<utterance uid="33-8"><speaker>JEREMY PRESWICK</speaker><content>No.</content></utterance>
+<utterance uid="33-9"><speaker>BECKETT</speaker><content>She certainly remembers you.</content></utterance>
+<utterance uid="33-10"><speaker>JEREMY PRESWICK</speaker><content>Well, hey, thanks, guys. You made getting arrested for murder really not so bad. Thank you.</content></utterance>
+<utterance uid="33-11"><speaker>BECKETT</speaker><content>Mm-hmm.</content></utterance>
+<utterance uid="33-12"><speaker>CASTLE</speaker><content>So, are you two gonna...</content></utterance>
+<utterance uid="33-13"><speaker>BECKETT</speaker><content>Castle.</content></utterance>
+<utterance uid="33-14"><speaker>EMMA CARNES</speaker><content>It's okay. The answer is, who knows? I like him and he likes me. And right now, that's enough.</content></utterance>
+<utterance uid="33-15"><speaker>JEREMY PRESWICK</speaker><content>Well, see you. I guess if I ever lose my memory again, I'll know where to come.</content></utterance>
+<utterance uid="33-16"><speaker>CASTLE</speaker><content>I...</content></utterance>
+<utterance uid="33-17"><speaker>JEREMY PRESWICK</speaker><content>Thanks. Later.</content></utterance>
+<utterance uid="33-18"><speaker>JEREMY PRESWICK</speaker><content>Thanks again for coming.</content></utterance>
+<utterance uid="33-19"><speaker>EMMA CARNES</speaker><content>Of course.</content></utterance>
+<utterance uid="33-20"><speaker>JEREMY PRESWICK</speaker><content>Hey.</content></utterance>
+<utterance uid="33-21"><speaker>RYAN</speaker><content>One of them has 15 years of baggage. Marriage. Divorce. The other's on a first date. How long you think that'll last?</content></utterance>
+<utterance uid="33-22"><speaker>BECKETT</speaker><content>Hopefully for a long time.</content></utterance>
+<utterance uid="33-23"><speaker>CASTLE</speaker><content>Why, Detective Beckett, I had no idea you were a romantic.</content></utterance>
+<utterance uid="33-24"><speaker>BECKETT</speaker><content>I also sleep with a gun. Bet you didn't know that either.</content></utterance>
+<utterance uid="33-25"><speaker>RYAN</speaker><content>How about you, Castle? How long you think it'll last?</content></utterance>
+<utterance uid="33-26"><speaker>CASTLE</speaker><content>Well, I guess it's just the writer in me, but I'm hoping for a happy ending.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>MARTHA</speaker><content>Ooh! Well, well, well. Look who's doing the walk of shame now.</content></utterance>
+<utterance uid="34-2"><speaker>CASTLE</speaker><content>I was with Beckett.</content></utterance>
+<utterance uid="34-3"><speaker>MARTHA</speaker><content>Really?</content></utterance>
+<utterance uid="34-4"><speaker>CASTLE</speaker><content>Uh, wrapping up a case.</content></utterance>
+<utterance uid="34-5"><speaker>MARTHA</speaker><content>Ah. Well, you should kiss that girl while you're both young.</content></utterance>
+<utterance uid="34-6"><speaker>CASTLE</speaker><content>What's going on with you? What do you got there?</content></utterance>
+<utterance uid="34-7"><speaker>MARTHA</speaker><content>Oh. It's from Chet. Isn't it romantic?</content></utterance>
+<utterance uid="34-8"><speaker>CASTLE</speaker><content>Chet sent you a dead flower?</content></utterance>
+<utterance uid="34-9"><speaker>MARTHA</speaker><content>It is the most romantic thing that anyone had ever done for me.</content></utterance>
+<utterance uid="34-10"><speaker>CASTLE</speaker><content>I've been up all night, so I might be a little slow.</content></utterance>
+<utterance uid="34-11"><speaker>MARTHA</speaker><content>Well, it's the boutonniere I gave him, prom night. He saved it, tucked it into a yearbook, and he sent it over last night with a note saying, would I give-- give him a second chance?</content></utterance>
+<utterance uid="34-12"><speaker>CASTLE</speaker><content>Well, there's a lot of that going around these days.</content></utterance>
+<utterance uid="34-13"><speaker>MARTHA</speaker><content>And I'm scared. I mean, what if it doesn't work out? What if it does?</content></utterance>
+<utterance uid="34-14"><speaker>CASTLE</speaker><content>That's the cost of living.</content></utterance>
+<utterance uid="34-15"><speaker>MARTHA</speaker><content>I just don't want to ruin this.</content></utterance>
+<utterance uid="34-16"><speaker>CASTLE</speaker><content>This is dead. You are not. Time to start making some new memories.</content></utterance>
+<utterance uid="34-17"><speaker>MARTHA</speaker><content>Boy, how did you get so smart?</content></utterance>
+<utterance uid="34-18"><speaker>CASTLE</speaker><content>It must be my dad.</content></utterance>
+<utterance uid="34-19"><speaker>MARTHA</speaker><content>Dad.</content></utterance>
+</scene>
+</script>

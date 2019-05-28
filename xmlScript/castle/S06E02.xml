@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+
+<scene id="1"><utterance uid="1-1"><speaker>RICHARD CASTLE</speaker><content>What about an antidote? There has to be an antidote.</content></utterance>
+<utterance uid="1-2"><speaker>KATE BECKETT</speaker><content>The only existing vial was stolen with the toxin.</content></utterance>
+<utterance uid="1-3"><speaker>CASTLE</speaker><content>They can make more, right? They have to be able to make more.</content></utterance>
+<utterance uid="1-4"><speaker>BECKETT</speaker><content>It would take too long to synthesize.</content></utterance>
+<utterance uid="1-5"><speaker>CASTLE</speaker><content>How long?</content></utterance>
+<utterance uid="1-6"><speaker>BECKETT</speaker><content>A week.</content></utterance>
+<utterance uid="1-7"><speaker>CASTLE</speaker><content>That’s too long.  Are you sure I was exposed? I mean, I feel fine. Maybe they were wrong.</content></utterance>
+<utterance uid="1-8"><speaker>BECKETT</speaker><content>Look, there’s a doctor coming in from Walter Reed. He’s going to be able to answer any other questions you might have.</content></utterance>
+<utterance uid="1-9"><speaker>CASTLE</speaker><content>No, I think you already did that.</content></utterance>
+<utterance uid="1-10"><speaker>BECKETT</speaker><content>Hey.  We’re going to find whoever’s behind this. And when we do we’re going to get that antidote, because I’m not letting you out of our engagement that easily.</content></utterance>
+<utterance uid="1-11"><speaker>CASTLE</speaker><content>All right. So, where are you in the investigation?</content></utterance>
+<utterance uid="1-12"><speaker>BECKETT</speaker><content>We’re looking into every possible lead.</content></utterance>
+<utterance uid="1-13"><speaker>CASTLE</speaker><content>That’s what you say when you’re nowhere!</content></utterance>
+<utterance uid="1-14"><speaker>BECKETT</speaker><content>Castle –</content></utterance>
+<utterance uid="1-15"><speaker>CASTLE</speaker><content>The guy who abducted me –</content></utterance>
+<utterance uid="1-16"><speaker>BECKETT</speaker><content>Bronson.</content></utterance>
+<utterance uid="1-17"><speaker>CASTLE</speaker><content>Right. Was he military? Special ops?</content></utterance>
+<utterance uid="1-18"><speaker>BECKETT</speaker><content>Marine force recon, why?</content></utterance>
+<utterance uid="1-19"><speaker>CASTLE</speaker><content>Okay, because before he died he said something.</content></utterance>
+<utterance uid="1-20"><speaker>BECKETT</speaker><content>Valkyrie, yeah. We’ve been looking into it. There’s nothing in the databases –</content></utterance>
+<utterance uid="1-21"><speaker>CASTLE</speaker><content>Not that. He said something about “Dreamworld”. Now I didn’t think it was anything, but according to Esposito, Dreamworld is the code name of a special ops ghost base somewhere in the Middle East.</content></utterance>
+<utterance uid="1-22"><speaker>BECKETT</speaker><content>And you think that somehow relates to the theft of the toxin?</content></utterance>
+<utterance uid="1-23"><speaker>CASTLE</speaker><content>I … think … Bronson thought it did.</content></utterance>
+<utterance uid="1-24"><speaker>DOCTOR GOLDBERG</speaker><content>Sorry to interrupt. I’m Doctor Goldberg, here to check on Mr. Castle.</content></utterance>
+</scene>
+<scene id="2"><utterance uid="2-1"><speaker>RACHEL MCCORD</speaker><content>How’s he doing?</content></utterance>
+<utterance uid="2-2"><speaker>BECKETT</speaker><content>Better than I am. Where are we?</content></utterance>
+<utterance uid="2-3"><speaker>MCCORD</speaker><content>Well, we know whoever’s behind this framed Jack Bronson for the break in and then used the toxin to kill him.</content></utterance>
+<utterance uid="2-4"><speaker>BECKETT</speaker><content>Which means they would have had to cross paths with him in order to deliver it.</content></utterance>
+<utterance uid="2-5"><speaker>MCCORD</speaker><content>Exactly. Hendricks and his team are retracing all of Bronson’s movements to get a who and a when. It’s a needle in a haystack, but maybe we’ll get lucky.</content></utterance>
+<utterance uid="2-6"><speaker>BECKETT</speaker><content>Anything on Valkyrie?</content></utterance>
+<utterance uid="2-7"><speaker>MCCORD</speaker><content>Nothing that connects. Analysts are still working on it, thought.</content></utterance>
+<utterance uid="2-8"><speaker>BECKETT</speaker><content>Have you ever heard of something called Dreamworld?</content></utterance>
+<utterance uid="2-9"><speaker>MCCORD</speaker><content>What’s Dreamworld?</content></utterance>
+</scene>
+<scene id="3"><utterance uid="3-1"><speaker>GOLDBERG</speaker><content>The pralidoxime and atropine will stave off the effect of the toxin and buy you some more time.</content></utterance>
+<utterance uid="3-2"><speaker>CASTLE</speaker><content>How much more?</content></utterance>
+<utterance uid="3-3"><speaker>GOLDBERG</speaker><content>An hour, maybe two. I’ll give you another shot every four hours, but eventually it won’t be effective.</content></utterance>
+<utterance uid="3-4"><speaker>CASTLE</speaker><content>And then what?</content></utterance>
+<utterance uid="3-5"><speaker>GOLDBERG</speaker><content>Towards the end you’ll start to feel weak, experience shortness of breath.</content></utterance>
+<utterance uid="3-6"><speaker>CASTLE</speaker><content>Why did Bronson die so quickly and I’m still alive?</content></utterance>
+<utterance uid="3-7"><speaker>GOLDBERG</speaker><content>Bronson was in the car for hours so he got the motherlode. You were in the car just for a few minutes. Ingested in liquid form you go down in seconds, but based on your blood work you have at least another ten to twelve hours.</content></utterance>
+<utterance uid="3-8"><speaker>CASTLE</speaker><content>So then, apart from the part where I’m dying, I’m fine.</content></utterance>
+<utterance uid="3-9"><speaker>GOLDBERG</speaker><content>You’re asymptomatic. I’ll try to keep you that way for as long as possible.</content></utterance>
+</scene>
+<scene id="4"><utterance uid="4-1"><speaker>CHIEF CARL VILANTE</speaker><content>A ghost base in the Middle East?</content></utterance>
+<utterance uid="4-2"><speaker>BECKETT</speaker><content>Look, I know this is a longshot, but Bronson may have been trying to communicate a message.</content></utterance>
+<utterance uid="4-3"><speaker>MCCORD</speaker><content>Or it’s just the ramblings of a dying man. Look, we checked the government and military databases. There’s no official mention of Dreamworld. If it even exists.</content></utterance>
+<utterance uid="4-4"><speaker>AGENT RICHMOND</speaker><content>Uh, I think it exists.</content></utterance>
+<utterance uid="4-5"><speaker>VILANTE</speaker><content>What did you find?</content></utterance>
+<utterance uid="4-6"><speaker>RICHMOND</speaker><content>A name just popped in a Pentagon archive. Brad Parker. A reported for the Washington Union.</content></utterance>
+<utterance uid="4-7"><speaker>VILANTE</speaker><content>What’s a reporter got to do with this?</content></utterance>
+<utterance uid="4-8"><speaker>RICHMOND</speaker><content>Six months ago he tried to publish an article called “Inside Dreamworld”, but it was quashed over security concerns.</content></utterance>
+<utterance uid="4-9"><speaker>BECKETT</speaker><content>What does the article say?</content></utterance>
+<utterance uid="4-10"><speaker>RICHMOND</speaker><content>I don’t have the text. They’ve classified it. I have the title.</content></utterance>
+<utterance uid="4-11"><speaker>VILANTE</speaker><content>I’ll call my contact at the Pentagon, see what he can dig up. In the meanwhile, track down this reporter, find out what he knows.</content></utterance>
+<utterance uid="4-12"><speaker>CASTLE</speaker><content>You could also check Bronson’s phone records. He and this reporter might be connected.</content></utterance>
+<utterance uid="4-13"><speaker>BECKETT</speaker><content>Castle, you should be resting.</content></utterance>
+<utterance uid="4-14"><speaker>CASTLE</speaker><content>There’s plenty of time for that later, apparently.  Um, if it’s all the same I’d rather be helping.</content></utterance>
+<utterance uid="4-15"><speaker>VILANTE</speaker><content>Mr. Castle, I understand your desire to be involved, but –</content></utterance>
+<utterance uid="4-16"><speaker>CASTLE</speaker><content>No one is more motivated than me to solve this. And if it doesn’t work out, I’ll be out of your hair by the end of the day.</content></utterance>
+<utterance uid="4-17"><speaker>BECKETT</speaker><content>You know, sir, Castle’s the only one who has firsthand experience with Bronson. He might be an asset.</content></utterance>
+<utterance uid="4-18"><speaker>VILANTE</speaker><content>Okay. But Agent Beckett, he’s your responsibility.</content></utterance>
+<utterance uid="4-19"><speaker>BECKETT</speaker><content> I know.</content></utterance>
+<utterance uid="4-20"><speaker>RICHMOND</speaker><content>Sir? It looks like Bronson and the reporter are connected. His phone records show calls to and from the Washington Union around the time the article was written.</content></utterance>
+<utterance uid="4-21"><speaker>MCCORD</speaker><content>Bronson must have been a source for the article.</content></utterance>
+<utterance uid="4-22"><speaker>VILANTE</speaker><content> Go. Find out what he knows.</content></utterance>
+<utterance uid="4-23"><speaker>VILANTE</speaker><content>Ah, Mr. Castle. You can assist us, but only from inside this building.</content></utterance>
+<utterance uid="4-24"><speaker>CASTLE</speaker><content>Right.</content></utterance>
+</scene>
+
+<scene id="5"><utterance uid="5-1"><speaker>BECKETT</speaker><content>Look, uh … thanks for backing me up with Castle.</content></utterance>
+<utterance uid="5-2"><speaker>MCCORD</speaker><content>Is he always such a character?</content></utterance>
+<utterance uid="5-3"><speaker>BECKETT</speaker><content>Yeah. It’s one of the things that I love about him, too.</content></utterance>
+<utterance uid="5-4"><speaker>MCCORD</speaker><content>There.</content></utterance>
+<utterance uid="5-5"><speaker>BECKETT</speaker><content>Mr. Parker! Mr. Parker, excuse me. We’re from the Attorney General’s office. We need to ask you a few questions about an article you wrote, “Inside Dreamworld”.</content></utterance>
+<utterance uid="5-6"><speaker>BRAD PARKER</speaker><content>Really, we’re going to do this again? You people are unbelievable.</content></utterance>
+<utterance uid="5-7"><speaker>MCCORD</speaker><content>Excuse me?</content></utterance>
+<utterance uid="5-8"><speaker>PARKER</speaker><content>I wouldn’t give up my sources when you killed the article. So why would I give them up now?</content></utterance>
+<utterance uid="5-9"><speaker>BECKETT</speaker><content>Because it looks like one of your sources was murdered.</content></utterance>
+<utterance uid="5-10"><speaker>MCCORD</speaker><content>Do you recognize him, Mr. Parker?</content></utterance>
+<utterance uid="5-11"><speaker>PARKER</speaker><content>Bronson. Wait, he was murdered?</content></utterance>
+<utterance uid="5-12"><speaker>BECKETT</speaker><content>Yes. And now other people’s lives are at stake. Now tell us everything that you know about Dreamworld.</content></utterance>
+</scene>
+
+<scene id="6"><utterance uid="6-1"><speaker>PARKER</speaker><content>First time I heard about Dreamworld was in ’03. I was serving with the 173rd in Kandahar at the time. The story stuck with me so about a year ago I started poking around. Found out it was a forward operating base in northern Afghanistan launching covert special ops in the region.</content></utterance>
+<utterance uid="6-2"><speaker>BECKETT</speaker><content>Did Bronson work at that base?</content></utterance>
+<utterance uid="6-3"><speaker>PARKER</speaker><content>Yeah. Yeah, I’d heard his name a couple times so I approached him.</content></utterance>
+<utterance uid="6-4"><speaker>MCCORD</speaker><content>And what did he tell you?</content></utterance>
+<utterance uid="6-5"><speaker>PARKER</speaker><content>Nothing at all. In fact, he seemed pretty freaked out that I knew he was stationed there. He asked me how much I knew, about him, Dreamworld. About what he’d done.</content></utterance>
+<utterance uid="6-6"><speaker>BECKETT</speaker><content>Wait, wait. What did he mean by that?</content></utterance>
+<utterance uid="6-7"><speaker>PARKER</speaker><content>He never told me. Whatever it was he didn’t want it getting out. Next thing I know, my editor’s killing the story. At the personal request of Defense Secretary Reed.</content></utterance>
+<utterance uid="6-8"><speaker>BECKETT</speaker><content>These conversations that you had with Bronson, did he ever mention the word ‘Valkyrie’?</content></utterance>
+<utterance uid="6-9"><speaker>PARKER</speaker><content>No, why? What’s Valkyrie?</content></utterance>
+<utterance uid="6-10"><speaker>MCCORD</speaker><content>Wait … the Secretary of Defense himself called to kill the story? That’s unusual.</content></utterance>
+<utterance uid="6-11"><speaker>PARKER</speaker><content>Try unheard of. But I’m guessing that the subject matter struck a nerve. Look, prior to his appointment as the Secretary of Defense, General Reed was in charge of central command, which ran all missions out of Dreamworld.</content></utterance>
+<utterance uid="6-12"><speaker>BECKETT</speaker><content>Are you suggesting the Secretary of Defense is hiding something?</content></utterance>
+<utterance uid="6-13"><speaker>PARKER</speaker><content>You have another explanation?</content></utterance>
+</scene>
+<scene id="7"><utterance uid="7-1"><speaker>BECKETT</speaker><content>So a stolen military toxin and a secret government base. I mean, what do you think this is all about?</content></utterance>
+<utterance uid="7-2"><speaker>MCCORD</speaker><content>I don’t know, but I have a feeling Bronson did.</content></utterance>
+<utterance uid="7-3"><speaker>BECKETT</speaker><content>Where are we headed?</content></utterance>
+<utterance uid="7-4"><speaker>MCCORD</speaker><content>To talk to the one person that might actually know what’s going on. Former commander of Dreamworld, Defense Secretary Reed.</content></utterance>
+</scene>
+
+<scene id="8"><utterance uid="8-1"><speaker>MCCORD</speaker><content>Mr. Secretary.</content></utterance>
+<utterance uid="8-2"><speaker>DEFENSE SECRETARY REED</speaker><content>This must be damned important if the Attorney General’s personally asking me to take this meeting.</content></utterance>
+<utterance uid="8-3"><speaker>MCCORD</speaker><content>It is. Three days ago a lethal toxin was stolen from a government lab. Our investigations led us to the murder of an ex-Marine Jack Bronson. Do you know him?</content></utterance>
+<utterance uid="8-4"><speaker>REED</speaker><content>It’s possible. A lot of men served under my command. Why? You think he was involved in this theft.</content></utterance>
+<utterance uid="8-5"><speaker>BECKETT</speaker><content>No, but he may have known who was. We believe this is connected to a military base named Dreamworld.</content></utterance>
+<utterance uid="8-6"><speaker>REED</speaker><content>Well I hate to break it to you, but Dreamworld’s a myth. It’s a military legend. It doesn’t exist.</content></utterance>
+<utterance uid="8-7"><speaker>BECKETT</speaker><content>Are you kidding me? Are we actually going to play this game?</content></utterance>
+<utterance uid="8-8"><speaker>MCCORD</speaker><content>Sir –</content></utterance>
+<utterance uid="8-9"><speaker>REED</speaker><content>Agent Beckett, was it?</content></utterance>
+<utterance uid="8-10"><speaker>BECKETT</speaker><content>Whoever took that toxin, if they use it there will be mass casualties. So if you know something –</content></utterance>
+<utterance uid="8-11"><speaker>MCCORD</speaker><content>Sir.</content></utterance>
+<utterance uid="8-12"><speaker>MCCORD</speaker><content>Someone was writing an article about Dreamworld. You personally had that story killed. Why?</content></utterance>
+<utterance uid="8-13"><speaker>REED</speaker><content>Why? Because the enemy reads newspapers. And there’s no way in hell I’m gonna risk American lives by handing out operational details about a special ops base.  If such a base existed.</content></utterance>
+<utterance uid="8-14"><speaker>BECKETT</speaker><content>What about Bronson. What’s his connection to that base?</content></utterance>
+<utterance uid="8-15"><speaker>BECKETT</speaker><content>If it indeed does exist.</content></utterance>
+<utterance uid="8-16"><speaker>REED</speaker><content>Everything I’m about to say is off the books, are we clear.</content></utterance>
+<utterance uid="8-17"><speaker>MCCORD</speaker><content>Yes.</content></utterance>
+<utterance uid="8-18"><speaker>BECKETT</speaker><content>Yes.</content></utterance>
+<utterance uid="8-19"><speaker>REED</speaker><content>Bronson was an outstanding Marine. But he only worked one mission out of there. A high value airstrike in Jalalabad that took out Anwar Zawahiri, Al-Qaeda’s number two.</content></utterance>
+<utterance uid="8-20"><speaker>MCCORD</speaker><content>What was Bronson’s role?</content></utterance>
+<utterance uid="8-21"><speaker>REED</speaker><content>He was our man on the ground, set up in a nearby building. He reported when Zawahiri went in the house. Then when the airstrike was launched he painted the house with a laser to guide the missile.</content></utterance>
+<utterance uid="8-22"><speaker>BECKETT</speaker><content>Did the word ‘Valkyrie’ have anything to do with this strike? Was it the name of a mission, or a code name?</content></utterance>
+<utterance uid="8-23"><speaker>REED</speaker><content>No. It’s not familiar. Look, that operation was a big win for us. It crippled Al-Qaeda’s entire command structure.</content></utterance>
+<utterance uid="8-24"><speaker>MCCORD</speaker><content>Was there any talk of Al-Qaeda retaliating?</content></utterance>
+<utterance uid="8-25"><speaker>REED</speaker><content>There was chatter. Always is. But we took out Zawahiri a year ago and they never hit us back.</content></utterance>
+<utterance uid="8-26"><speaker>BECKETT</speaker><content>Unless they just did. And this is just the beginning.</content></utterance>
+</scene>
+<scene id="9"><utterance uid="9-1"><speaker>VILANTE</speaker><content>I have Homeland tightening security at every likely D.C target: government buildings, tourist attractions, transit hubs.</content></utterance>
+<utterance uid="9-2"><speaker>MCCORD</speaker><content>The bad news is the toxin’s versatile. It could be deployed through the ventilation system, it could contaminate a reservoir, it could be detonated with a bomb and release a toxic plume over the city. And if that happens we’d be dealing with a lot more than just a couple of deaths on our hands and -  I am so sorry.</content></utterance>
+<utterance uid="9-3"><speaker>CASTLE</speaker><content> No, it’s your job. And if we stop the next attack, it might mean saving me. But if this is Al Qaeda retaliation, how do they know about Bronson?</content></utterance>
+<utterance uid="9-4"><speaker>BECKETT</speaker><content>He was on the ground during the airstrike. He might have been seen by locals or Zawahiri family members.</content></utterance>
+<utterance uid="9-5"><speaker>VILANTE</speaker><content>Well let’s check for any Zawahiri family members, friends, or associates in the D.C area. If Al-Qaeda is about to strike, they must have people on the ground.</content></utterance>
+<utterance uid="9-6"><speaker>MCCORD</speaker><content>I’ll be in the tech room.</content></utterance>
+<utterance uid="9-7"><speaker>BECKETT</speaker><content>Look –</content></utterance>
+<utterance uid="9-8"><speaker>CASTLE</speaker><content>I’m okay. I –  – it’s my mother. She’s been calling all morning. Can’t avoid her forever.</content></utterance>
+<utterance uid="9-9"><speaker>CASTLE</speaker><content>Hello Mother. To what do I owe the pleasure?</content></utterance>
+<utterance uid="9-10"><speaker>MARTHA</speaker><content>Richard! You were ushered out of here last night like a common criminal, you don’t answer my calls, what the hell is going on?</content></utterance>
+<utterance uid="9-11"><speaker>CASTLE</speaker><content>No, Mother, I’m fine.</content></utterance>
+<utterance uid="9-12"><speaker>ALEXIS CASTLE</speaker><content>Dad, did they arrest you? Do you need us to bail you out?</content></utterance>
+<utterance uid="9-13"><speaker>PI</speaker><content>Ooh, what about a lawyer, Mr. C? I know a guy at the ACLU.</content></utterance>
+<utterance uid="9-14"><speaker>MARTHA</speaker><content> Oh, please.</content></utterance>
+<utterance uid="9-15"><speaker>CASTLE</speaker><content>No, I just has some … uh, special knowledge of a case that Beckett’s working on. She had them send down an escort, that’s all.</content></utterance>
+<utterance uid="9-16"><speaker>MARTHA</speaker><content>Oh. Well thank God. Um … oh, Gina called this morning. She has a bunch of books to sign for some company VIPs.</content></utterance>
+<utterance uid="9-17"><speaker>CASTLE</speaker><content>Right. Um … there’s in my office at the back bookcase. If I’m …  … if I’m not there tomorrow she can come pick them up. And Mother? Thank you.</content></utterance>
+<utterance uid="9-18"><speaker>ALEXIS</speaker><content>When’s he coming back?</content></utterance>
+<utterance uid="9-19"><speaker>CASTLE</speaker><content>Let me talk to Alexis.</content></utterance>
+<utterance uid="9-20"><speaker>MARTHA</speaker><content>He wants to talk to you, honey.</content></utterance>
+<utterance uid="9-21"><speaker>ALEXIS</speaker><content>Hey Dad.</content></utterance>
+<utterance uid="9-22"><speaker>CASTLE</speaker><content>Hopefully I’ll be back tomorrow morning. And um … you know I love you, right?</content></utterance>
+<utterance uid="9-23"><speaker>ALEXIS</speaker><content>Of course.</content></utterance>
+<utterance uid="9-24"><speaker>GOLDBERG</speaker><content> It’s time for your next shot.</content></utterance>
+<utterance uid="9-25"><speaker>CASTLE</speaker><content> Already?</content></utterance>
+<utterance uid="9-26"><speaker>ALEXIS</speaker><content>Dad? Everything okay?</content></utterance>
+<utterance uid="9-27"><speaker>CASTLE</speaker><content>Yeah. They’re calling me, so I have to go.</content></utterance>
+<utterance uid="9-28"><speaker>ALEXIS</speaker><content>Okay. See you tomorrow.</content></utterance>
+<utterance uid="9-29"><speaker>CASTLE</speaker><content>Yeah, I’ll see you tomorrow.</content></utterance>
+</scene>
+<scene id="10"><utterance uid="10-1"><speaker>ALEXIS</speaker><content>Did Dad sound weird to you?</content></utterance>
+</scene>
+
+<scene id="11"><utterance uid="11-1"><speaker>BECKETT</speaker><content>Sir, we’ve got something.</content></utterance>
+<utterance uid="11-2"><speaker>MCCORD</speaker><content>Turns out you were right about Zawahiri’s family. We identified six members of his extended family living in the US. Four in California and two cousins living right here in DC.</content></utterance>
+<utterance uid="11-3"><speaker>BECKETT</speaker><content>We were in the process of running them down when Hendricks found this.</content></utterance>
+<utterance uid="11-4"><speaker>HENDRICKS</speaker><content>In reconstructing Bronson’s movements prior to his death, we were able to track him to here, a coffee shop in DuPont Circle. A few seconds after he leaves … this man follows him out.</content></utterance>
+<utterance uid="11-5"><speaker>MCCORD</speaker><content>We’ve ID’d him as Waqas Rasheed, second cousin to Zawahiri.</content></utterance>
+<utterance uid="11-6"><speaker>HENDRICKS</speaker><content>And Agent Richmond is trying to track him down, but here’s what we know. He has duel American/Afghan citizenship, he’s a graduate engineering student at Georgetown.</content></utterance>
+<utterance uid="11-7"><speaker>BECKETT</speaker><content>And sir, he was in Jalalabad the night of the Zawahiri airstrike. Five of his other cousins were killed in the attack.</content></utterance>
+<utterance uid="11-8"><speaker>MCCORD</speaker><content>Burying that many family members, that could radicalize anyone.</content></utterance>
+<utterance uid="11-9"><speaker>RICHMOND</speaker><content>Got him. We got him. We have a live feed of Rasheed waling east on 14th Street between E and F.</content></utterance>
+<utterance uid="11-10"><speaker>VILANTE</speaker><content>Backpack.</content></utterance>
+<utterance uid="11-11"><speaker>MCCORD</speaker><content>Could be the toxin.</content></utterance>
+<utterance uid="11-12"><speaker>BECKETT</speaker><content>And the antidote.</content></utterance>
+<utterance uid="11-13"><speaker>VILANTE</speaker><content>Let’s move.</content></utterance>
+</scene>
+<scene id="12"><utterance uid="12-1"><speaker>BECKETT</speaker><content>Stop!</content></utterance>
+<utterance uid="12-2"><speaker>MCCORD</speaker><content>Stop!</content></utterance>
+<utterance uid="12-3"><speaker>BECKETT</speaker><content>Federal agent. Stop!</content></utterance>
+<utterance uid="12-4"><speaker>BECKETT</speaker><content>It’s not here.  Where’s the toxin?  Rasheed! Where’s the toxin?</content></utterance>
+</scene>
+<scene id="13"><utterance uid="13-1"><speaker>CASTLE</speaker><content>What if he doesn’t talk?</content></utterance>
+<utterance uid="13-2"><speaker>VILANTE</speaker><content>He’ll talk. They always do.</content></utterance>
+<utterance uid="13-3"><speaker>CASTLE</speaker><content>What if he doesn’t talk in time?</content></utterance>
+<utterance uid="13-4"><speaker>VILANTE</speaker><content>We have teams combing his apartment. If he has the toxin and the antidote, they’ll find them.</content></utterance>
+<utterance uid="13-5"><speaker>CASTLE</speaker><content>Thanks. For letting me be a part of this.</content></utterance>
+<utterance uid="13-6"><speaker>VILANTE</speaker><content> When you write your next novel, maybe you’ll find a place for a dashing Colombian American federal agent.</content></utterance>
+<utterance uid="13-7"><speaker>CASTLE</speaker><content>Consider it done.</content></utterance>
+<utterance uid="13-8"><speaker>VILANTE</speaker><content>Anything at Rasheed’s?</content></utterance>
+<utterance uid="13-9"><speaker>BECKETT</speaker><content>We went over every inch of his place and there is no sign of the antidote or the toxin. He may have hidden it somewhere …</content></utterance>
+<utterance uid="13-10"><speaker>MCCORD</speaker><content>Either that, or it’s already out there, ready to be deployed.</content></utterance>
+<utterance uid="13-11"><speaker>VILANTE</speaker><content>Break him.</content></utterance>
+</scene>
+<scene id="14"><utterance uid="14-1"><speaker>RASHEED</speaker><content>So why am I here? What’s this about, huh?</content></utterance>
+<utterance uid="14-2"><speaker>BECKETT</speaker><content>You’re related to Anwar Zawahiri, is that correct?</content></utterance>
+<utterance uid="14-3"><speaker>RASHEED</speaker><content>A man doesn’t choose his family, okay? I had nothing to do with Anwar or his beliefs.</content></utterance>
+<utterance uid="14-4"><speaker>BECKETT</speaker><content>Yet you were in Jalalabad the night that he died.</content></utterance>
+<utterance uid="14-5"><speaker>RASHEED</speaker><content>Yes, but not to see him. I have relatives there. I was spending time with them for Ramadan.</content></utterance>
+<utterance uid="14-6"><speaker>MCCORD</speaker><content>I understand that five of your relatives were killed in that US missile strike.</content></utterance>
+<utterance uid="14-7"><speaker>RASHEED</speaker><content>And for that I blame Anwar and them for being with him. Now why am I here?</content></utterance>
+<utterance uid="14-8"><speaker>MCCORD</speaker><content>You studied engineering. Specifically electrical system designs for commercial buildings.</content></utterance>
+<utterance uid="14-9"><speaker>RASHEED</speaker><content> You have a gift for making every fact sound sinister.</content></utterance>
+<utterance uid="14-10"><speaker>MCCORD</speaker><content>Well, you’d be able to break into a secure facility.</content></utterance>
+<utterance uid="14-11"><speaker>RASHEED</speaker><content>I didn’t break into anything. I want an attorney. I have a right to an attorney.</content></utterance>
+<utterance uid="14-12"><speaker>MCCORD</speaker><content>Enemy combatants don’t get attorneys. Or trials.</content></utterance>
+<utterance uid="14-13"><speaker>BECKETT</speaker><content>Where is the toxin, Rasheed?</content></utterance>
+<utterance uid="14-14"><speaker>RASHEED</speaker><content>I don’t know what you’re talking about!</content></utterance>
+<utterance uid="14-15"><speaker>BECKETT</speaker><content>I think you do. In fact, I know you do.  This is Jack Bronson, former US Marine. He was in Jalalabad the night of the strike. And this is you, following him outside of a coffee shop. Three hours later he was dead. You’re not going to tell me that’s a coincidence.</content></utterance>
+<utterance uid="14-16"><speaker>RASHEED</speaker><content>This is about him? Well you have it wrong.  I wasn’t following him. He was following me.</content></utterance>
+<utterance uid="14-17"><speaker>MCCORD</speaker><content>Why would he be following you?</content></utterance>
+<utterance uid="14-18"><speaker>RASHEED</speaker><content>He wanted to know if I had talked to anybody about our secret.</content></utterance>
+<utterance uid="14-19"><speaker>MCCORD</speaker><content>Your secret? What secret?</content></utterance>
+<utterance uid="14-20"><speaker>RASHEED</speaker><content>The night of the missile strike I was at my brother’s home, just a block away from Anwar’s. I heard the explosion. I ran out. The house was destroyed. I was the first one there, so I wanted to see if there were any survivors. And that’s … uh … that’s when I saw Bronson standing there in the rubble, holding a body.</content></utterance>
+<utterance uid="14-21"><speaker>BECKETT</speaker><content>Whose body?</content></utterance>
+<utterance uid="14-22"><speaker>RASHEED</speaker><content>A young woman. One of the servants in the house. And when he saw me, he drew his gun. And I thought for sure I was a dead man. But then he spoke. And he knew my name, and where I lived, and what I did, and he told me that if I told anyone about what I had seen he would kill me. And then he left. With the body.</content></utterance>
+<utterance uid="14-23"><speaker>MCCORD</speaker><content>He took away a dead servant’s body?</content></utterance>
+<utterance uid="14-24"><speaker>RASHEED</speaker><content>I’ve done my best to forget about it all. Until he found me in the coffee shop and he kept asking me, ‘who did you tell, why are they setting me up?’ and I swore to him I didn’t tell anybody. Okay, whatever is happening here, whatever is going on, I swear to you I have nothing to do with it.</content></utterance>
+</scene>
+<scene id="15"><utterance uid="15-1"><speaker>VILANTE</speaker><content>So none of the intelligence agencies can link Rasheed to known Al-Qaeda elements. And he’s got a solid alibi for the night of the break in.</content></utterance>
+<utterance uid="15-2"><speaker>MCCORD</speaker><content>He could still be involved. Is there any chatter about an imminent attack?</content></utterance>
+<utterance uid="15-3"><speaker>VILANTE</speaker><content>No more than usual. What’s your take on Rasheed?</content></utterance>
+<utterance uid="15-4"><speaker>BECKETT</speaker><content>I don’t think he’s our guy.</content></utterance>
+<utterance uid="15-5"><speaker>VILANE</speaker><content>Based on?</content></utterance>
+<utterance uid="15-6"><speaker>BECKETT</speaker><content>His story. I mean, he said that he saw Bronson carrying a servant girl’s body? I mean, the only way that he’d come up with a story like that was if it was true.</content></utterance>
+<utterance uid="15-7"><speaker>CASTLE</speaker><content>So aside from the name Valkyrie, which no one you’ve spoken to seems to know anything about, we pretty much have nothing. Which means I’m a dead man.</content></utterance>
+<utterance uid="15-8"><speaker>BECKETT</speaker><content>No, Castle. Not nothing. We have what Bronson told you, what Rasheed told us. We know that this revolves around something that happened the night Zawahiri was killed. Something more than just the airstrike. Now what we have to do is figure out what it was.</content></utterance>
+<utterance uid="15-9"><speaker>VILANTE</speaker><content>I’ll have DOD send over the mission documents. Maybe something in there will help shed some light.</content></utterance>
+</scene>
+<scene id="16"><utterance uid="16-1"><speaker>BECKETT</speaker><content>These are the mission documents?</content></utterance>
+<utterance uid="16-2"><speaker>MCCORD</speaker><content>Is there even a sentence that doesn’t have redactions?</content></utterance>
+<utterance uid="16-3"><speaker>RICHMOND</speaker><content>Not a complete one. Somebody is definitely trying to hide whatever went on here.</content></utterance>
+<utterance uid="16-4"><speaker>BECKETT</speaker><content> I’m sorry, Castle. This is … pointless.</content></utterance>
+<utterance uid="16-5"><speaker>CASTLE</speaker><content> Can you do a word search for Valkyrie?</content></utterance>
+<utterance uid="16-6"><speaker>RICHMOND</speaker><content>It doesn’t appear in the document. Probably because it’s redacted.</content></utterance>
+<utterance uid="16-7"><speaker>CASTLE</speaker><content>Right. But what about a search for blacked out eight letter words the same length as Valkyrie?</content></utterance>
+<utterance uid="16-8"><speaker>MCCORD</speaker><content>Aren’t all eight letter words the same length?</content></utterance>
+<utterance uid="16-9"><speaker>CASTLE</speaker><content>Well, not in a proportional font like Times Roman. Um …  … each character will vary in size from the narrowest, the lowercase i, to the widest, the uppercase W. So the combination of characters in the word Valkyrie will create a very specific length, not unlike a typographical fingerprint.</content></utterance>
+<utterance uid="16-10"><speaker>RICHMOND</speaker><content>I may be able to work with that.</content></utterance>
+<utterance uid="16-11"><speaker>BECKETT</speaker><content>If we can find the blacked out Valkyrie we might be able to figure out what it means from the words around it.</content></utterance>
+<utterance uid="16-12"><speaker>CASTLE</speaker><content>It’s a longshot, I know.</content></utterance>
+<utterance uid="16-13"><speaker>RICHMOND</speaker><content>Not that long. We’ve got some hits. These are thumbnails of the whole document. It’s everywhere, highlighted in red.</content></utterance>
+<utterance uid="16-14"><speaker>BECKETT</speaker><content>The last page seems to have the largest concentration. Can you enlarge it?</content></utterance>
+<utterance uid="16-15"><speaker>MCCORD</speaker><content>Target acquired. Missile engaged. Target destroyed.  This is the transcript to the missile strike.</content></utterance>
+<utterance uid="16-16"><speaker>CASTLE</speaker><content>Maybe Valkyrie is a code name for Zawahiri?</content></utterance>
+<utterance uid="16-17"><speaker>BECKETT</speaker><content>No, it’s gotta be more than that. But there’s not enough context to piece this thing together. What we need is an unredacted transcript.</content></utterance>
+<utterance uid="16-18"><speaker>RICHMOND</speaker><content>Or the original audio recording.</content></utterance>
+<utterance uid="16-19"><speaker>MCCORD</speaker><content>What are you thinking, Richmond?</content></utterance>
+<utterance uid="16-20"><speaker>RICHMOND</speaker><content>For a strike in Jalalabad, they’d probably use an F-16 out of Bagram Air Base. I did a year as Chief Technical Officer at Bagram. Part of my job was dumping the fighter jet’s flight data onto a central server. If I can access it, I might be able to get that audio.</content></utterance>
+<utterance uid="16-21"><speaker>BECKETT</speaker><content>What are we waiting for, McCord?  We played by the rules and that’s what they gave us.</content></utterance>
+<utterance uid="16-22"><speaker>MCCORD</speaker><content>Do it.</content></utterance>
+<utterance uid="16-23"><speaker>BECKETT</speaker><content>Castle? It’s your mom. What do you want me to tell her?</content></utterance>
+</scene>
+<scene id="17"><utterance uid="17-1"><speaker>BECKETT</speaker><content>You’ve reached the voicemail of Special Agent Kate Beckett in the Attorney General’s office. Please leave a message.</content></utterance>
+</scene>
+<scene id="18"><utterance uid="18-1"><speaker>KEVIN RYAN</speaker><content>I just always thought that you and I would have kids together.</content></utterance>
+<utterance uid="18-2"><speaker>JAVIER ESPOSITO</speaker><content>Really?  You talk to Jenny about this?</content></utterance>
+<utterance uid="18-3"><speaker>RYAN</speaker><content>No, you know what I mean. They’d be on the same T-ball and pop warner teams. We’d co-coach.</content></utterance>
+<utterance uid="18-4"><speaker>ESPOSITO</speaker><content>Co-coach?</content></utterance>
+<utterance uid="18-5"><speaker>RYAN</speaker><content>You want to be head coach?</content></utterance>
+<utterance uid="18-6"><speaker>ESPOSITO</speaker><content>Yeah.</content></utterance>
+<utterance uid="18-7"><speaker>RYAN</speaker><content>Try getting a date first.</content></utterance>
+<utterance uid="18-8"><speaker>ESPOSITO</speaker><content>Dude.</content></utterance>
+<utterance uid="18-9"><speaker>RYAN</speaker><content>Hey, Martha. What brings you here?</content></utterance>
+<utterance uid="18-10"><speaker>MARTHA</speaker><content>Look, I know you’re busy. But I’m – I’m worried about Richard?</content></utterance>
+<utterance uid="18-11"><speaker>ESPOSITO</speaker><content>Why?</content></utterance>
+<utterance uid="18-12"><speaker>MARTHA</speaker><content>Last night he was just whisked away by a couple of Federal Agent … thugs. Then when I talked to him today he was nice. Sincere. No smart ass quips. So something is definitely wrong. And Katherine isn’t answering my calls.</content></utterance>
+<utterance uid="18-13"><speaker>RYAN</speaker><content>Well … uh … I’m sure there’s an explanation.</content></utterance>
+<utterance uid="18-14"><speaker>MARTHA</speaker><content>And I need you to find out what it is.</content></utterance>
+</scene>
+<scene id="19"><utterance uid="19-1"><speaker>GOLDBERG</speaker><content>Any trouble breathing?</content></utterance>
+<utterance uid="19-2"><speaker>CASTLE</speaker><content>Yeah, but I – I think that’s just anxiety.</content></utterance>
+<utterance uid="19-3"><speaker>GOLDBERG</speaker><content>I can get you a sedative.</content></utterance>
+<utterance uid="19-4"><speaker>CASTLE</speaker><content>No, I – thank you. I think I’d rather stay sharp as long as possible.</content></utterance>
+<utterance uid="19-5"><speaker>MCCORD</speaker><content>Oh! Sorry.</content></utterance>
+<utterance uid="19-6"><speaker>CASTLE</speaker><content>No. No problem. We’re all done here.</content></utterance>
+<utterance uid="19-7"><speaker>MCCORD</speaker><content>You want a coffee?</content></utterance>
+<utterance uid="19-8"><speaker>CASTLE</speaker><content>Ah, no. I’d rather die than drink any more of that sludge.</content></utterance>
+<utterance uid="19-9"><speaker>CASTLE</speaker><content>Too soon?</content></utterance>
+<utterance uid="19-10"><speaker>CASTLE</speaker><content>Agent McCord, could I ask you a question?</content></utterance>
+<utterance uid="19-11"><speaker>MCCORD</speaker><content>Yeah.</content></utterance>
+<utterance uid="19-12"><speaker>CASTLE</speaker><content>How is she doing here?</content></utterance>
+<utterance uid="19-13"><speaker>MCCORD</speaker><content>Beckett? She’s good. She has a lot of potential.</content></utterance>
+<utterance uid="19-14"><speaker>CASTLE</speaker><content> So she’ll be okay.</content></utterance>
+<utterance uid="19-15"><speaker>MCCORD</speaker><content>Hey. She’s going to be great.</content></utterance>
+<utterance uid="19-16"><speaker>RICHMOND</speaker><content>Hey, McCord. I’m in.</content></utterance>
+</scene>
+<scene id="20"><utterance uid="20-1"><speaker>RICHMOND</speaker><content>I cross referenced the flight recording database at Bagram with parameters from the mission documents. If that information was accurate, this should be audio of the Zawahiri strike.</content></utterance>
+<utterance uid="20-2"><speaker>PILOT</speaker><content>Alpha 1, Eagle’s contacted target.</content></utterance>
+<utterance uid="20-3"><speaker>REED</speaker><content>Copy Eagle. Omaha, what’s your status? Over.</content></utterance>
+<utterance uid="20-4"><speaker>BECKETT</speaker><content>That’s Defense Secretary Reed.</content></utterance>
+<utterance uid="20-5"><speaker>MCCORD</speaker><content>As theater commander he’d be running the operation.</content></utterance>
+<utterance uid="20-6"><speaker>BRONSON</speaker><content>Alpha 1, Valkyrie’s still inside target.</content></utterance>
+<utterance uid="20-7"><speaker>CASTLE</speaker><content>That’s Bronson’s voice. So Valkyrie must be Zawahiri.</content></utterance>
+<utterance uid="20-8"><speaker>REED</speaker><content>Eagle, prepare to engage.</content></utterance>
+<utterance uid="20-9"><speaker>BRONSON</speaker><content>Alpha 1, Valkyrie’s still inside. Signaling to get her out.</content></utterance>
+<utterance uid="20-10"><speaker>BECKETT</speaker><content>“Get her out.” Valkyrie’s not Zawahiri. Maybe it’s the servant.</content></utterance>
+<utterance uid="20-11"><speaker>REED</speaker><content>Omaha, Valkyrie needs to get out now.</content></utterance>
+<utterance uid="20-12"><speaker>BRONSON</speaker><content>I’m signaling, Alpha 1. No response. Stand by.</content></utterance>
+<utterance uid="20-13"><speaker>REED</speaker><content>We’re not missing our window. Eagle, this is Alpha 1. Engage target.</content></utterance>
+<utterance uid="20-14"><speaker>BRONSON</speaker><content>Negative, Eagle. We have an American intelligence asset in there and we need to wait for her to get out.</content></utterance>
+<utterance uid="20-15"><speaker>CASTLE</speaker><content>Intelligence asset?</content></utterance>
+<utterance uid="20-16"><speaker>BRONSON</speaker><content>Just give me two minutes.</content></utterance>
+<utterance uid="20-17"><speaker>REED</speaker><content>Negative, Omaha. We can’t risk losing what we’re after. On my authority you are clear to engage target. Over.</content></utterance>
+<utterance uid="20-18"><speaker>PILOT</speaker><content>Missile engaged.</content></utterance>
+<utterance uid="20-19"><speaker>BRONSON</speaker><content>No, Valkyrie’s still in there!</content></utterance>
+<utterance uid="20-20"><speaker>PILOT</speaker><content>Target destroyed. Eagle heading home.</content></utterance>
+<utterance uid="20-21"><speaker>REED</speaker><content>Omaha, retrieve Valkyrie’s body and get her back to Dreamwold. Protocol boomerang. Over.</content></utterance>
+<utterance uid="20-22"><speaker>BRONSON</speaker><content>Roger.</content></utterance>
+<utterance uid="20-23"><speaker>CASTLE</speaker><content>Valkyrie was the servant. She was one of ours.</content></utterance>
+<utterance uid="20-24"><speaker>MCCORD</speaker><content>No wonder the transcript was so heavily redacted.</content></utterance>
+<utterance uid="20-25"><speaker>BECKETT</speaker><content>Secretary Reed killed an American operative.</content></utterance>
+<utterance uid="20-26"><speaker>CASTLE</speaker><content>And then ordered Bronson to cover it up.</content></utterance>
+</scene>
+<scene id="21"><utterance uid="21-1"><speaker>PILOT</speaker><content>Missile engaged.</content></utterance>
+<utterance uid="21-2"><speaker>BRONSON</speaker><content>No, Valkyrie’s still in there!</content></utterance>
+<utterance uid="21-3"><speaker>PILOT</speaker><content>Target destroyed. Eagle heading home.</content></utterance>
+<utterance uid="21-4"><speaker>REED</speaker><content>Omaha, retrieve Valkyrie’s body and get her back to Dreamwold. Protocol boomerang. Over.</content></utterance>
+<utterance uid="21-5"><speaker>BRONSON</speaker><content>Roger.</content></utterance>
+<utterance uid="21-6"><speaker>VILANTE</speaker><content>So, what are we saying here? That Bronson was murdered to cover up the death of an American operative? With the implication that General Reed is behind it? The sitting Secretary of Defense?</content></utterance>
+<utterance uid="21-7"><speaker>MCCORD</speaker><content>A position he got largely because of his success in taking out Zawahiri.</content></utterance>
+<utterance uid="21-8"><speaker>BECKETT</speaker><content>His political star was on the rise. Maybe he couldn’t afford to have damaging details out there.</content></utterance>
+<utterance uid="21-9"><speaker>VILANTE</speaker><content>But if he wanted to silence Bronson, why would he go to the trouble of setting him up first? And none of this explains the theft of the toxin.</content></utterance>
+<utterance uid="21-10"><speaker>BECKETT</speaker><content>Sir, he lied to us, about Valkyrie and about Bronson. Either he’s involved, or he knows a hell of a lot more than he’s telling us.</content></utterance>
+<utterance uid="21-11"><speaker>VILANTE</speaker><content>Only you have no proof.  Listen, Beckett, I know what’s at stake. For you and for Castle. But I can’t let you go at him without concrete evidence.</content></utterance>
+</scene>
+<scene id="22"><utterance uid="22-1"><speaker>CASTLE</speaker><content>Hey. So I’m guessing Vilante said no to the idea of waterboarding the truth out of Secretary Reed?</content></utterance>
+<utterance uid="22-2"><speaker>BECKETT</speaker><content>Yeah. Something like that.  How are you feeling?</content></utterance>
+<utterance uid="22-3"><speaker>CASTLE</speaker><content>Ah –  – good. I think I’m just due for another shot.</content></utterance>
+</scene>
+<scene id="23"><utterance uid="23-1"><speaker>BECKETT</speaker><content>I’m Agent Beckett from the Attorney General’s office. I need to speak with Secretary Reed.</content></utterance>
+<utterance uid="23-2"><speaker>BODYGUARD</speaker><content>Do you have an appointment?</content></utterance>
+<utterance uid="23-3"><speaker>BECKETT</speaker><content>No. This is a matter of national security.</content></utterance>
+<utterance uid="23-4"><speaker>BODYGUARD</speaker><content>I’m sorry, if you don’t have an appointment I have to ask you to –</content></utterance>
+<utterance uid="23-5"><speaker>BECKETT</speaker><content>I understand. Just please, get to the Secretary. I told you, this is a matter of national –</content></utterance>
+<utterance uid="23-6"><speaker>BODYGUARD</speaker><content>Ma’am, you need to stand down.</content></utterance>
+<utterance uid="23-7"><speaker>BECKETT</speaker><content>Secretary Reed! Secretary Reed, Agent Beckett from the Attorney General’s office. We met earlier today, sir.</content></utterance>
+<utterance uid="23-8"><speaker>MARY REED</speaker><content>Michael, who is that?</content></utterance>
+<utterance uid="23-9"><speaker>BODYGUARD</speaker><content>Ma’am, you seen to step back right now.</content></utterance>
+<utterance uid="23-10"><speaker>REED</speaker><content>I’ll take care of it.</content></utterance>
+<utterance uid="23-11"><speaker>BECKETT</speaker><content>Sir, we just need to speak. This is a matter of national security.</content></utterance>
+<utterance uid="23-12"><speaker>REED</speaker><content>Joseph.  You show up at my home? Who the hell do you think you are?</content></utterance>
+<utterance uid="23-13"><speaker>BECKETT</speaker><content>I should ask you the same thing. You lied about Valkyrie. You obstructed a federal investigation.</content></utterance>
+<utterance uid="23-14"><speaker>REED</speaker><content>I told you all you need to know.</content></utterance>
+<utterance uid="23-15"><speaker>BECKETT</speaker><content>I need to know everything. What is going on and what are you hiding?</content></utterance>
+<utterance uid="23-16"><speaker>REED</speaker><content>You are barking up the wrong tree, Agent. And it’s gonna cost you.</content></utterance>
+<utterance uid="23-17"><speaker>BECKETT</speaker><content>There’s a deadly toxin out there. If so much as one person dies because you won’t cooperate, then -</content></utterance>
+<utterance uid="23-18"><speaker>REED</speaker><content>You’ll what? Look, whatever this is, it has nothing to do with me. You might want to remember the first rule of combat: you don’t ever start a war you can win.</content></utterance>
+<utterance uid="23-19"><speaker>BECKETT</speaker><content>What?</content></utterance>
+<utterance uid="23-20"><speaker>ESPOSITO</speaker><content>Hey, Beckett. It’s uh – Esposito and Ryan. Is everything okay?</content></utterance>
+<utterance uid="23-21"><speaker>BECKETT</speaker><content>Fine. Why?</content></utterance>
+<utterance uid="23-22"><speaker>RYAN</speaker><content>Castle’s mom came by all worried about him.</content></utterance>
+<utterance uid="23-23"><speaker>ESPOSITO</speaker><content>C’mon, Beckett. What’s going on?</content></utterance>
+<utterance uid="23-24"><speaker>BECKETT</speaker><content>Everything’s fine.</content></utterance>
+</scene>
+<scene id="24"><utterance uid="24-1"><speaker>GOLDBERG</speaker><content>… in through the nose, out through the mouth.</content></utterance>
+<utterance uid="24-2"><speaker>CASTLE</speaker><content>Like yoga.</content></utterance>
+<utterance uid="24-3"><speaker>VILANTE</speaker><content>What the hell were you thinking?</content></utterance>
+<utterance uid="24-4"><speaker>BECKETT</speaker><content>Sir, I was just following a hunch.</content></utterance>
+<utterance uid="24-5"><speaker>VILANTE</speaker><content>Next time follow orders. I had to go to the mat with the Attorney General to keep your job.</content></utterance>
+<utterance uid="24-6"><speaker>BECKETT</speaker><content>Wait, Secretary Reed complained to the Attorney General?</content></utterance>
+<utterance uid="24-7"><speaker>VILANTE</speaker><content>If that’s surprises you then you’re not as smart as I thought.</content></utterance>
+<utterance uid="24-8"><speaker>BECKETT</speaker><content>No, sir, it’s just that if Reed was behind this he wouldn’t have made that call.</content></utterance>
+<utterance uid="24-9"><speaker>VILANTE</speaker><content>Right, because he wouldn’t have wanted to call attention to himself.  Is that why you went out there? To force him to show his hand?  I’m impressed.</content></utterance>
+<utterance uid="24-10"><speaker>BECKETT</speaker><content>Yeah, well, don’t be. Looks like I just ruled out our only lead.</content></utterance>
+<utterance uid="24-11"><speaker>MCCORD</speaker><content>Guys, I got something.</content></utterance>
+</scene>
+<scene id="25"><utterance uid="25-1"><speaker>MCCORD</speaker><content>I was following up on Valkyrie to see if there was anything more to the story. This is a family photo we got from Rasheed. He identified this woman as the servant whose body Bronson took after the airstrike.</content></utterance>
+<utterance uid="25-2"><speaker>MCCORD</speaker><content>And we’ve identified her as Farrah Usman.</content></utterance>
+<utterance uid="25-3"><speaker>HENDRICKS</speaker><content>She’s listed as a civilian contractor working out of the US consulate in Kabul.</content></utterance>
+<utterance uid="25-4"><speaker>MCCORD</speaker><content>It’s a typical cover for an intelligence operative.</content></utterance>
+<utterance uid="25-5"><speaker>HENDRICKS</speaker><content>She was supposedly killed by a roadside IED the same night as the Zawahiri attack.</content></utterance>
+<utterance uid="25-6"><speaker>VILANTE</speaker><content>Well, that makes sense. The injuries from an IED look a lot like those from an airstrike.</content></utterance>
+<utterance uid="25-7"><speaker>MCCORD</speaker><content>That’s not the story. Look at this. So Farrah Usman’s body was shipped back to Dover two days later and was claimed by this man.  Recognize that name?</content></utterance>
+<utterance uid="25-8"><speaker>BECKETT</speaker><content>Brad Parker, the reporter?</content></utterance>
+<utterance uid="25-9"><speaker>MCCORD</speaker><content>One and the same.</content></utterance>
+<utterance uid="25-10"><speaker>BECKETT</speaker><content>I don’t get it. How is he connected to Valkyrie?</content></utterance>
+<utterance uid="25-11"><speaker>MCCORD</speaker><content>According to the paperwork he was her fiancé. He’s involved in this whole thing.</content></utterance>
+</scene>
+<scene id="26"><utterance uid="26-1"><speaker>MCCORD</speaker><content>As a combat vet Brad Parker would have known his fiancée’s injuries weren’t from an IED.</content></utterance>
+<utterance uid="26-2"><speaker>BECKETT</speaker><content>That’s why he was doing the story on Dreamworld and why he tracked down Bronson. He was trying to figure out how she actually died.</content></utterance>
+<utterance uid="26-3"><speaker>MCCORD</speaker><content>And he’s ex-military. He would have had the skills to pull off that heist.</content></utterance>
+<utterance uid="26-4"><speaker>VILANTE</speaker><content>So what are we saying here? That Parker stole the toxin because of his fiancée? That this is about revenge?</content></utterance>
+<utterance uid="26-5"><speaker>CASTLE</speaker><content>Well, the toxin would be perfect for that. It’s deadly and undetectable by autopsy, unless you’re specifically looking for it.</content></utterance>
+<utterance uid="26-6"><speaker>MCCORD</speaker><content>Which is why he tried to hide the fact that it was stolen by staging the other theft in the building and framing Bronson.</content></utterance>
+<utterance uid="26-7"><speaker>VILANTE</speaker><content>Where are we on tracking Parker?</content></utterance>
+<utterance uid="26-8"><speaker>HENDRICKS</speaker><content>He’s not at work. No one’s seen him all day.</content></utterance>
+<utterance uid="26-9"><speaker>RICHMOND</speaker><content>I can’t get a trace on his cell signal. He must have turned it off.</content></utterance>
+<utterance uid="26-10"><speaker>BECKETT</speaker><content>Sir, if there’s the slightest chance –</content></utterance>
+<utterance uid="26-11"><speaker>VILANTE</speaker><content>Hit his apartment. Go.</content></utterance>
+<utterance uid="26-12"><speaker>VILLANTE</speaker><content>Castle.  You stay here.</content></utterance>
+<utterance uid="26-13"><speaker>CASTLE</speaker><content>I was given less than a day to live just a little less than a day ago. If Parker has that antidote, I need to go with them.</content></utterance>
+<utterance uid="26-14"><speaker>VILANTE</speaker><content>Okay.</content></utterance>
+</scene>
+<scene id="27"><utterance uid="27-1"><speaker>AGENT</speaker><content>Clear.</content></utterance>
+<utterance uid="27-2"><speaker>HENDRICKS</speaker><content>Bedroom’s clear.</content></utterance>
+<utterance uid="27-3"><speaker>MCCORD</speaker><content>Clear. Where the hell is this guy?</content></utterance>
+<utterance uid="27-4"><speaker>BECKETT</speaker><content>All right, guys, let’s get to work. If that toxin or antidote are in here I want them found.</content></utterance>
+<utterance uid="27-5"><speaker>CASTLE</speaker><content>These are blueprints from the research building the toxin was stolen from.</content></utterance>
+<utterance uid="27-6"><speaker>BECKETT</speaker><content>A confidential file on the toxin. Parker’s our guy.</content></utterance>
+<utterance uid="27-7"><speaker>CASTLE</speaker><content>He’s got background on Secretary Reed. Research materials.</content></utterance>
+<utterance uid="27-8"><speaker>BECKETT</speaker><content>Reed’s his next target.  He’s going after the man that gave the order that killed his fiancée.</content></utterance>
+<utterance uid="27-9"><speaker>MCCORD</speaker><content>And I think I know where. This is confirmation of Parker’s press credentials for Reed’s address at the Naval Academy. Reed’s talking to new cadets at 5PM today.</content></utterance>
+<utterance uid="27-10"><speaker>HENDRICKS</speaker><content>That’s in 20 minutes.</content></utterance>
+<utterance uid="27-11"><speaker>BECKETT</speaker><content>We gotta lock Reed down.  Secure Parker and get that antidote.</content></utterance>
+</scene>
+<scene id="28"><utterance uid="28-1"><speaker>ADMIRAL JOHNSON</speaker><content>Thanks for coming, Mr. Secretary.</content></utterance>
+<utterance uid="28-2"><speaker>REED</speaker><content>It’s my pleasure, Admiral Johnson. It’s nice to get out of the office.</content></utterance>
+<utterance uid="28-3"><speaker>JOHNSON</speaker><content>I hope you don’t mind that we do the press line first.</content></utterance>
+<utterance uid="28-4"><speaker>REED</speaker><content>Oh, that’s fine.</content></utterance>
+</scene>
+
+<scene id="29"><utterance uid="29-1"><speaker>BECKETT</speaker><content>Do you want me to get ahold of Dr. Goldberg and have him meet us there?</content></utterance>
+<utterance uid="29-2"><speaker>CASTLE</speaker><content>He already gave me my last shot. They only thing that can help me now is the antidote.</content></utterance>
+<utterance uid="29-3"><speaker>MCCORD</speaker><content>Naval Academy set. The horn says Parker hasn’t checked in yet.</content></utterance>
+<utterance uid="29-4"><speaker>HENDRICKS</speaker><content>Security teams are already on site looking for him.</content></utterance>
+<utterance uid="29-5"><speaker>BECKETT</speaker><content>Copy that.</content></utterance>
+<utterance uid="29-6"><speaker>CASTLE</speaker><content>It doesn’t make any sense. Why wouldn’t Parker be there yet?</content></utterance>
+<utterance uid="29-7"><speaker>BECKETT</speaker><content>There’s thousands of people there. Maybe they just haven’t spotted him yet.</content></utterance>
+<utterance uid="29-8"><speaker>CASTLE</speaker><content>Why go through the trouble of getting press credentials if you’re not going to use them?</content></utterance>
+<utterance uid="29-9"><speaker>BECKETT</speaker><content>Unless he’s pulling another headfake.  Like the encryption system was a cover for the toxin.</content></utterance>
+<utterance uid="29-10"><speaker>CASTLE</speaker><content>Military tactics. Always making sure we’re a step behind.</content></utterance>
+<utterance uid="29-11"><speaker>BECKETT</speaker><content>Except a step behind what? I mean, this has to be about revenge so this has to be about Reed.</content></utterance>
+<utterance uid="29-12"><speaker>CASTLE</speaker><content>And he wants to do to Reed what Reed did to him. Take away the person he loves most.</content></utterance>
+<utterance uid="29-13"><speaker>BECKETT</speaker><content>His wife.</content></utterance>
+<utterance uid="29-14"><speaker>MCCORD</speaker><content>Beckett, why did you turn around? Is it Castle?</content></utterance>
+<utterance uid="29-15"><speaker>BECKETT</speaker><content>No. We have a hunch.</content></utterance>
+<utterance uid="29-16"><speaker>MCCORD</speaker><content>What kind of hunch?</content></utterance>
+<utterance uid="29-17"><speaker>RECEPTIONIST</speaker><content>Defense Secretary Reed’s office.</content></utterance>
+<utterance uid="29-18"><speaker>BECKETT</speaker><content>This is Agent Beckett from the Attorney General’s investigative –</content></utterance>
+<utterance uid="29-19"><speaker>RECEPTIONIST</speaker><content>Hold, please.</content></utterance>
+<utterance uid="29-20"><speaker>BECKETT</speaker><content>No –  – wait. Hello?</content></utterance>
+<utterance uid="29-21"><speaker>CASTLE</speaker><content>Kate –</content></utterance>
+<utterance uid="29-22"><speaker>BECKETT</speaker><content>Castle, just stay with me. We’re almost there.</content></utterance>
+</scene>
+<scene id="30"><utterance uid="30-1"><speaker>PARKER</speaker><content>Hi. Brad Parker, here for the interview.</content></utterance>
+<utterance uid="30-2"><speaker>BODYGUARD</speaker><content>Mrs. Reed’s expecting you.</content></utterance>
+<utterance uid="30-3"><speaker>PARKER</speaker><content>Thank you.</content></utterance>
+</scene>
+<scene id="31"><utterance uid="31-1"><speaker>RECEPTIONIST</speaker><content>Defense Secretary Reed’s office, how can I help you?</content></utterance>
+</scene>
+<scene id="32"><utterance uid="32-1"><speaker>JULIE</speaker><content>Excuse me, Mrs. Reed? Mr. Parker.</content></utterance>
+<utterance uid="32-2"><speaker>MARY REED</speaker><content>Thanks, Julie.</content></utterance>
+<utterance uid="32-3"><speaker>MARY</speaker><content>Please, make yourself comfortable, Mr. Parker.</content></utterance>
+<utterance uid="32-4"><speaker>PARKER</speaker><content>Thank you, ma’am.</content></utterance>
+<utterance uid="32-5"><speaker>MARY</speaker><content>Can I pour you some tea?</content></utterance>
+<utterance uid="32-6"><speaker>PARKER</speaker><content>Well, only If you’re having some.</content></utterance>
+<utterance uid="32-7"><speaker>MARY</speaker><content>That’s a deal. Do you take sugar?</content></utterance>
+</scene>
+<scene id="33"><utterance uid="33-1"><speaker>BECKETT</speaker><content>C’mon. Damn it.</content></utterance>
+<utterance uid="33-2"><speaker>CASTLE</speaker><content>Kate –</content></utterance>
+<utterance uid="33-3"><speaker>BECKETT</speaker><content>No, Castle. Just look at me. Just hang on, okay? We’re almost there.</content></utterance>
+</scene>
+<scene id="34"><utterance uid="34-1"><speaker>BECKETT</speaker><content>Castle! No. No!</content></utterance>
+<utterance uid="34-2"><speaker>BECKETT</speaker><content>Rick, look at me. Are you –</content></utterance>
+</scene>
+<scene id="35"><utterance uid="35-1"><speaker>JULIE</speaker><content>Mrs. Reed.  She’s not responding.</content></utterance>
+<utterance uid="35-2"><speaker>PARKER</speaker><content> Send an ambulance. She’s not breathing.</content></utterance>
+<utterance uid="35-3"><speaker>BECKETT</speaker><content>Parker, drop the phone.</content></utterance>
+<utterance uid="35-4"><speaker>BODYGUARD</speaker><content>What are you doing?</content></utterance>
+<utterance uid="35-5"><speaker>BECKETT</speaker><content>Where’s the antidote, Parker?</content></utterance>
+<utterance uid="35-6"><speaker>BODYGUARD</speaker><content>Lower your weapon.</content></utterance>
+<utterance uid="35-7"><speaker>BECKETT</speaker><content>He poisoned Mrs. Reed!</content></utterance>
+<utterance uid="35-8"><speaker>BECKETT</speaker><content>Stay with her!</content></utterance>
+</scene>
+<scene id="36"><utterance uid="36-1"><speaker>BECKETT</speaker><content>It’s over, Parker! We know everything. Now give us the antidote before it’s too late!</content></utterance>
+<utterance uid="36-2"><speaker>BECKETT</speaker><content>No, wait.</content></utterance>
+<utterance uid="36-3"><speaker>PARKER</speaker><content>Did Reed wait when he ordered the strike? No. No, now it’s his turn to see how it feels. She’s going to die, just like Farrah.</content></utterance>
+<utterance uid="36-4"><speaker>BECKETT</speaker><content>Please, Parker, she’s not the only one that you’ve poisoned. My fiancé’s dying. He needs that antidote.</content></utterance>
+<utterance uid="36-5"><speaker>PARKER</speaker><content>No. You don’t understand. You’re too late. It’s too late.</content></utterance>
+<utterance uid="36-6"><speaker>MCCORD</speaker><content>You better hope you’re wrong.</content></utterance>
+</scene>
+<scene id="37"><utterance uid="37-1"><speaker>BECKETT</speaker><content>Castle.</content></utterance>
+<utterance uid="37-2"><speaker>BECKETT</speaker><content>Castle.</content></utterance>
+<utterance uid="37-3"><speaker>BECKETT</speaker><content>Hey.</content></utterance>
+<utterance uid="37-4"><speaker>CASTLE</speaker><content>Hi. I had the strangest dream and you were there.</content></utterance>
+<utterance uid="37-5"><speaker>MARTHA</speaker><content>Oh, thank God.</content></utterance>
+<utterance uid="37-6"><speaker>ALEXIS</speaker><content>Hey Dad.</content></utterance>
+<utterance uid="37-7"><speaker>CASTLE</speaker><content>And you were there and you were there.</content></utterance>
+<utterance uid="37-8"><speaker>PI</speaker><content>Hey Mr. C. I did some healing reiki on you. Looks like it worked.</content></utterance>
+<utterance uid="37-9"><speaker>CASTLE</speaker><content> And you were there.</content></utterance>
+<utterance uid="37-10"><speaker>MARTHA</speaker><content>I think he’s going to be alright.</content></utterance>
+<utterance uid="37-11"><speaker>CASTLE</speaker><content> Yeah, thanks to you.</content></utterance>
+<utterance uid="37-12"><speaker>MARTHA</speaker><content>Well, well, look. Why don’t we give you guys a moment. C’mon.</content></utterance>
+<utterance uid="37-13"><speaker>ALEXIS</speaker><content>We’ll be outside if you need us.</content></utterance>
+<utterance uid="37-14"><speaker>CASTLE</speaker><content>Okay.</content></utterance>
+<utterance uid="37-15"><speaker>CASTLE</speaker><content>I love you.</content></utterance>
+<utterance uid="37-16"><speaker>ALEXIS</speaker><content>I love you, too.</content></utterance>
+<utterance uid="37-17"><speaker>CASTLE</speaker><content>Mmm. Hey.</content></utterance>
+<utterance uid="37-18"><speaker>BECKETT</speaker><content>Hey.</content></utterance>
+<utterance uid="37-19"><speaker>CASTLE</speaker><content>How was your weekend?</content></utterance>
+<utterance uid="37-20"><speaker>BECKETT</speaker><content>You know. Uneventful. Yours?</content></utterance>
+<utterance uid="37-21"><speaker>CASTLE</speaker><content>Mmm… same.</content></utterance>
+<utterance uid="37-22"><speaker>BECKETT</speaker><content>Mmm.</content></utterance>
+<utterance uid="37-23"><speaker>CASTLE</speaker><content>But at least I got to see you.</content></utterance>
+<utterance uid="37-24"><speaker>BECKETT</speaker><content>I’m so sorry, Castle.  This wasn’t supposed to be this hard.</content></utterance>
+<utterance uid="37-25"><speaker>CASTLE</speaker><content>What, Washington? Or us?  Sometimes the hardest things in life are the things most worth doing. Just because we haven’t figured it out yet doesn’t mean we won’t. Tell you what, though. Next time I say I’m dying to see you let’s keep it metaphoric.</content></utterance>
+<utterance uid="37-26"><speaker>BECKETT</speaker><content> Deal.</content></utterance>
+</scene>
+<scene id="38"><utterance uid="38-1"><speaker>MCCORD</speaker><content>How’s he doing?</content></utterance>
+<utterance uid="38-2"><speaker>BECKETT</speaker><content>He’s okay, considering. What about Mrs. Reed?</content></utterance>
+<utterance uid="38-3"><speaker>MCCORD</speaker><content>Uh, she will pull through.</content></utterance>
+<utterance uid="38-4"><speaker>BECKETT</speaker><content>And what about Secretary Reed? What’s going to happen with him?</content></utterance>
+<utterance uid="38-5"><speaker>MCCORD</speaker><content>What do you mean?</content></utterance>
+<utterance uid="38-6"><speaker>BECKETT</speaker><content>He withheld information to save his own ass. People almost died because of it.</content></utterance>
+<utterance uid="38-7"><speaker>MCCORD</speaker><content>Well, we both know it’s not that simple.</content></utterance>
+<utterance uid="38-8"><speaker>BECKETT</speaker><content>Well … there’s going to be an investigation at least, right?</content></utterance>
+<utterance uid="38-9"><speaker>MCCORD</speaker><content>You want everything to be black or white, I get it. But in this town it rarely is. And to do this job you have to make peace with that.</content></utterance>
+<utterance uid="38-10"><speaker>MCCORD</speaker><content>But hey, that was a hell of a hunch about Mrs. Reed.</content></utterance>
+<utterance uid="38-11"><speaker>MCCORD</speaker><content>You should feel really good about this.</content></utterance>
+<utterance uid="38-12"><speaker>BECKETT</speaker><content>Yeah, well, that was Castle.</content></utterance>
+<utterance uid="38-13"><speaker>MCCORD</speaker><content>But you were smart enough to act on it. That was your call.</content></utterance>
+<utterance uid="38-14"><speaker>BECKETT</speaker><content>You backed me up without even knowing my play.</content></utterance>
+<utterance uid="38-15"><speaker>MCCORD</speaker><content> That’s what partners do.</content></utterance>
+<utterance uid="38-16"><speaker>BECKETT</speaker><content>Yeah. That’s what partners do.</content></utterance>
+<utterance uid="38-17"><speaker>THE END</speaker><content>CASTLE</content></utterance>
+</scene>
+</script>
