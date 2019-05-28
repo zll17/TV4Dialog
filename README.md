@@ -32,9 +32,9 @@ Using the methods proposed in our paper, we aligned the utterances in scripts to
 
 This corpus is composed of 26w utterances both in Chinese and English. It provides both the scripts (en) and the subtitle (en & zh),  basic statistics are list below:
 
-<div align=center><img width="490" height="200" src="./pics/stat_1.png"/></div>
+<div align=center><img width="50%" height="50%" src="./pics/stat_1.png"/></div>
 
-<div align=center><img width="490" height="200" src="./pics/stat_2.png"/></div>
+<div align=center><img width="50%" height="50%" src="./pics/stat_2.png"/></div>
 
 
 
