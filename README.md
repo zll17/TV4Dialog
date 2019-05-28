@@ -6,6 +6,8 @@ TV4Dialog is a multi-turn **Chinese** and **English** dialogue corpus, which is 
 
 ### License
 
+![](http://opentf.github.io/GuokrBadge/cc/gs/cc_by.flat.guokr.32.svg)
+
 TV4Dialog is a part of contribution of our paper *Automatically Annotate TV Series Subtitles for Dialogue Corpus Construction*. 
 
 The data in this repository is provided under the license [CC BY 2.0](<https://creativecommons.org/licenses/by/2.0/>). Please cite the following paper if you use the data: 
@@ -19,8 +21,6 @@ The data in this repository is provided under the license [CC BY 2.0](<https://c
 >   address={Lanzhou, Gansu, China}
 > }
 > ```
-
-![](http://opentf.github.io/GuokrBadge/cc/gs/cc_by.flat.guokr.32.svg)
 
 ### How TV4Dialog was made
 
