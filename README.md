@@ -30,9 +30,9 @@ Using the methods proposed in our paper, we aligned the utterances in scripts to
 
 This corpus is composed of 26w utterances both in Chinese and English. It provides both the scripts (en) and the subtitle (en & zh),  basic statistics are list below:
 
-![](./pics/stat_1.png)
+<img src="./pics/stat_1.png" style="zoom:50%" />
 
-![](./pics/stat_2.png)
+<img src="./pics/stat_2.png" style="zoom:50%" />
 
 Directory **xmlScript** stores the parsed scripts of the 4 TV series in XML format (in English). 
 
