@@ -20,6 +20,8 @@ The data in this repository is provided under the license [CC BY 2.0](<https://c
 > }
 > ```
 
+![](http://opentf.github.io/GuokrBadge/cc/gs/cc_by.flat.guokr.32.svg)
+
 ### How TV4Dialog was made
 
 We first collected the English scripts and Chinese-English subtitles of the 4 TV series from the Internet. The scripts were then parsed to XML format with extracted elements like scenes, speakers and utterances. 
