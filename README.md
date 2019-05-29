@@ -50,6 +50,8 @@ Directory **extracted** stores the merged utterances extracted from the annotate
 
 <div align=left><img width="80%" height="80%" src="./pics/ext.png"/></div>
 
+Directory **rawScript** stores the raw scripts of the TV series.
+
 ### Acknowledgments
 
 We would like to thank website [assrt.net](http://assrt.net) for the help of providing the raw subtitle files.
