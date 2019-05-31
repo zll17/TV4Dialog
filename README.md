@@ -55,3 +55,5 @@ Directory **rawScript** stores the raw scripts of the TV series.
 ### Acknowledgments
 
 We would like to thank website [assrt.net](http://assrt.net) for the help of providing the raw subtitle files.
+
+We also thank websites [*Castle*](http://dustjackets.wikifoundry.com/page/Transcripts), [*Friends*](https://fangj.github.io/friends), [*House*](https://clinic-duty.livejournal.com/) and [*TBBT*](https://bigbangtrans.wordpress.com/) for their work of collecting and sharing of the raw scripts.
